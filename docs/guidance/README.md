@@ -1,5 +1,10 @@
 # HMRC guidance
 
+Start with [how personal taxation works](SUMMARY.md) for tax mechanics, examples
+and nuances with references to the detailed rules. Use the
+[topic and page-title index](INDEX.md) for more detailed lookup. Rebuild indexes after downloads with
+`python3 scripts/build-source-indexes.py` (or use `--check` to check for drift).
+
 Download the seven selected personal-tax manuals with Python 3.10 or newer.
 No third-party packages are needed. Run from the project root:
 

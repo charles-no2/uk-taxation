@@ -30,6 +30,17 @@ The annual forms include additional information (SA101), employment (SA102), sho
 
 ## Supporting manuals and legislation
 
+The [saved public tax explainers](tax-explainers/README.md) supplement the technical
+sources with explanations of tax mechanics. Their dated snapshots preserve the
+source data and full multi-part guide text; they are mixed-year references, not
+annual calculation parameters.
+
+Start with the [guidance summary](guidance/SUMMARY.md) or
+[legislation summary](rules/SUMMARY.md) for topic-based explanations and references
+to the relevant source sections. For deeper lookup, search the
+[guidance page-title indexes](guidance/INDEX.md) or
+[legislation heading indexes](rules/INDEX.md), then open the relevant source text.
+
 Manuals explain HMRC's interpretation. Legislation provides the statutory wording. Both may include historical provisions, company material or matters outside an individual's return.
 
 Each manual folder contains an `index.txt`, individual section text files and a `manifest.json` describing completeness, missing pages and redirects. Body-text links to other manuals are not automatically downloaded.
