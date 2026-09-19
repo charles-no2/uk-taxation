@@ -1,0 +1,28 @@
+Employee shareholder shares: CG-exemption: only first £50,000 worth of shares are exempt
+Identifier: CG56720
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56720
+Published: 2016-03-12T11:41:03+00:00
+Updated: 2023-05-04T14:21:07+01:00
+Retrieved (UTC): 2026-09-18T14:33:40.875927+00:00
+
+TCGA92/S236C
+
+An employee shareholder share acquired in consideration of an employee shareholder agreement may be exempt only if immediately after its acquisition the total value of ‘qualifying shares’ (see CG57530) which have been acquired by the employee does not exceed £50,000.
+
+For the purpose of applying the £50,000 limit:
+
+- The value of a share (at any time) is fixed at its unrestricted market value at the time when it was acquired by the employee.
+
+- If a share is restricted (as defined by section 432(8) ITEPA03), its unrestricted market value is what the market value of the share would be immediately after the acquisition, but for any restriction
+
+- A share is acquired by an employee if the employee becomes beneficially entitled to it and it is acquired at the time when the employee becomes so entitled
+
+If shares acquired on a day take the total value of qualifying shares over £50,000 an appropriate proportion of the shares is, for the purposes of applying the exemption limit, treated as having been acquired separately and before the others. The appropriate proportion (rounded down, if necessary to the nearest share) is:
+
+50,000 - B
+
+T
+
+Where B is the value of qualifying shares before the day and
+
+T is the total value of qualifying shares acquired on the day.

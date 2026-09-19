@@ -1,0 +1,90 @@
+Land: compulsory purchase of land: general
+Identifier: CG72101
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg72101
+Published: 2016-03-12T12:19:02+00:00
+Updated: 2023-11-24T13:34:12+00:00
+Retrieved (UTC): 2026-09-18T14:35:30.540750+00:00
+
+Date of disposal
+
+TCGA92/S246
+
+Where land is acquired, otherwise than under a contract, by an authority possessing or exercising compulsory purchase powers, the date of disposal is the time at which the compensation for the acquisition is agreed or otherwise determined. Any variation on appeal is ignored for the purpose of determining the date of disposal. If the land is acquired under a contract then the date of disposal is determined by reference to s28 TCGA 1992, see CG14250P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14250p) for details.
+
+Capital and revenue elements
+
+TCGA92/S245 (1)
+
+But for the provisions of TCGA92/S245 (1), the amount of compensation received as the result of a compulsory purchase of land would, in law, be one indivisible sum. This is the case even though the compensation may have been calculated by reference to a number of factors, including, for example, temporary loss of profits. However, Section 245(1) allows the compensation to be split into ‘revenue’ and ‘capital’ elements for tax purposes. It also allows the ‘capital’ element for tax purposes. It also allows the ‘capital’ element to be apportioned under TCGA92/S52 (4), see CG14771 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14771).
+
+The ‘income’ elements of the compensation, see below, are taxable under Income Tax or Corporation Tax rules, see BIM40100 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40100) onwards. They are excluded from the capital gains computation by TCGA92/S37 (1).
+
+The ‘capital’ elements are to be treated in the same way as any other capital sums derived from chargeable assets.
+
+A Statement of Practice (SP8/79) was issued on 18 June 1979 setting out our views on the treatment of compulsory purchase compensation. This is reproduced below.
+
+Apportionment
+
+TCGA92/S245 (1)
+
+Compensation received as the result of a compulsory purchase can be apportioned under TCGA92/S52 (4) into three categories:
+
+- an amount for the land itself
+
+- an amount for disturbance
+
+- an amount for severance.
+
+Amount for the land
+
+The part of the compensation which relates to the land itself is used in computing the gain arising on the disposal or part-disposal of the land. The allowable expenditure to be deducted from this part of the compensation is determined in the usual way, see CG15150P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15150p), subject to ‘wasting’ if the interest disposed of was a lease, see CG71141 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71141).
+
+There are however special rules for small part-disposals, see CG72200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg72200).
+
+Amount for disturbance
+
+The part of the compensation which relates to ‘disturbance’ may include losses on stock, loss of profits, loss of goodwill and certain incidental expenses.
+
+Any amounts charged to Income Tax or Corporation Tax, either as income receipts or by reducing revenue expenses, see BIM40100 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40100) onwards, are excluded by TCGA92/S37 (1). The remaining amounts are chargeable to Capital Gains Tax, provided that they derive from chargeable assets.
+
+The most common elements found in a ‘disturbance’ payment and their treatments, are as follows:
+
+- Loss on stock. This is taxable as trading income.
+
+- Temporary loss of profits. This is also taxable as trading income.
+
+- Loss of goodwill. This is chargeable to Capital Gains Tax for individuals. For companies this is either chargeable under the corporate intangibles regime (assets created on or after 1 April 2002) or as chargeable gains subject to corporation tax (assets created prior to 1 April 2002), see CG68000P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg68000p).
+
+- Incidental expenses of a revenue nature. These are set against the relevant revenue expenditure, see BIM40130 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40130).
+
+- Incidental expenses of a capital nature. These are set against the relevant capital expenditure under TCGA92/S50, see CG15288 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15288).
+
+Amount for severance
+
+TCGA92/S245 (2)
+
+The part of the compensation which relates to ‘severance’ is paid for a fall in value of other land held by the person whose land is compulsorily acquired. ‘Severance’ is sometimes called ‘injurious affection’.
+
+If part of the compensation relates to ‘severance’, this gives rise to a part-disposal of the retained land under TCGA92/S245 (2). The gain arising on the part-disposal is calculated in the normal way, see CG12730P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12730p), but subject to the special rules for small part- disposals, see CG72200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg72200).
+
+SP8/79
+
+The Board of Inland Revenue issued the following Statement of Practice regarding compensation received as a result of a compulsory purchase. This Statement still reflects the views of The Commissioners for HMRC in this area.
+
+Please note that references to Inland Revenue should now be read as to HMRC, references to The Board of Inland Revenue should now be read as The Commissioners for HMRC and references to Schedule D Case I or II should be read as Profits from Trades (including Farming), Professions and Vocations.
+
+STATEMENT OF PRACTICE (SP8/79) OF 18 JUNE 1979
+
+COMPENSATION FOR ACQUISITION OF PROPERTY UNDER COMPULSORY POWERS
+
+Liability to tax of compensation for temporary loss of profits
+
+Treatment for tax of reimbursed removal expenses
+
+- The Inland Revenue practice - announced in a statement on 13 December 1972 - has been that any element of compensation for temporary loss of profits, which is present in the compensation or price payable by an authority possessing compulsory powers for the acquisition of property used for the purposes of a trade or profession, is included as part of the consideration for the resulting disposal for the purposes of capital gains.
+
+- The Board of Inland Revenue have reconsidered this practice in the light of the decision of the Court of Appeal in the recent case of the City of Stoke-on-Trent v Wood Mitchell & Co. Ltd. (a Lands Tribunal case). In accordance with this decision any element of compensation received for temporary loss of profits in the circumstances described above falls to be included as a receipt taxable under Case I or II of Schedule D. Compensation for losses on trading stock and to reimburse revenue expenditure, such as removal expenses and interest, will be treated in the same way for tax purposes.
+
+- The practice described in paragraph 2 will also apply in compensation cases where no interest is acquired (eg compensation due to damage, injury or exploitation of land, or to the exercise of planning control).
+
+- The new practice will apply to all cases in which the liability had not been finally determined at the date of the Court of Appeal's judgement (28 July 1978).

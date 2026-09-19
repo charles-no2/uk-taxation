@@ -1,0 +1,46 @@
+Step 4 - simple grossing calculations: calculation when there is a lifetime cumulative total which is below the threshold
+Identifier: IHTM26143
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26143
+Published: 2016-04-09T09:48:07+01:00
+Updated: 2022-02-07T11:29:38+00:00
+Retrieved (UTC): 2026-09-18T15:03:12.242526+00:00
+
+If there is a lifetime cumulative total (IHTM14501) which is lower than the threshold at the date of death and the conditions at IHTM26131 are satisfied, the cumulative total has to be deducted from the threshold. The calculation is then similar to the one used where there is no lifetime cumulative total (IHTM26142 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26142)) but with the unused balance of the nil rate band substituted for the threshold.
+
+Example
+
+The facts are as in Example 1 at IHTM26142 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26142) - Trevor died on 1 May 2000 - but with a lifetime cumulative total (including potentially exempt transfers (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057))) of £80,000.
+
+The grossing calculation is:
+
+Total value of chargeable specific gifts (IHTM26011) = £264,000
+
+Deduct unused balance of nil-rate band (£234,000 minus cumulation of £80,000) -£154,000
+
+Excess = £110,000
+
+Excess of £110,000 × (100 ÷ 60) = £183,333
+
+Add unused balance of nil rate band +£154,000
+
+Grossed up value of chargeable gifts = £337,333
+
+You can check the grossing calculation in the following way:
+
+To find the tax on the grossed-up value of £337,333 add the cumulation of £80,000 which equals £417,333. Deduct the nil-rate band of £234,000 and the result is £183,333
+
+Tax at 40% on £183,333 is £73,333
+
+Deduct that tax from the grossed-up value of the gifts (£337,333 - £73,333)
+
+The result is the starting value of the chargeable gift £264,000.
+
+The free estate assessment on Trevor’s death is based on the following figures:
+
+Capital value now liable (that is grossed up value of the chargeable specific gifts) = £337,333
+
+Lifetime cumulative total = £80,000
+
+Settled property (IHTM16000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16000)) = £250,000
+
+Aggregate chargeable transfer is £667,333.

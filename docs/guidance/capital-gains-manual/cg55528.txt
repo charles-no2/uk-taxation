@@ -1,0 +1,12 @@
+Traded options: LIFFE: writer of option: closing out
+Identifier: CG55528
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55528
+Published: 2016-03-12T11:37:41+00:00
+Updated: 2016-01-26T09:49:57+00:00
+Retrieved (UTC): 2026-09-18T14:33:27.811909+00:00
+
+The writer (grantor) of a traded option can avoid receiving an assignment notice, see CG55526, by `closing-out’ the option. This means buying an option identical to the one they have written. For example, if they have written a January 260p call option in XYZ PLC shares they will buy a January 260p call option in XYZ PLC shares.
+
+The rules of LIFFE mean that the option they wrote is no longer available to be assigned. In this way the taxpayer has eliminated their exposure to the risk of further changes in the value of the underlying shares. However, they may have incurred a substantial loss if the premium paid is significantly more than the premium they received. See CG55545 for details of the tax treatment of closing out a contract.
+
+Traded options will be closed out to fix profits as well as to prevent further losses. For example, a person may have written a put option and received a premium of 1Op per share. If the price of the underlying share rises, the premium will fall; there is little value in an option which allows the holder of the option to sell shares to the grantor at below the market price. If the writer of the option closes out the option by buying a put option for a premium of 1 p this fixes their profit at 9p per share and the investor is no longer exposed to the risk that the price of the underlying shares may fall before the expiry date.

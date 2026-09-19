@@ -1,0 +1,36 @@
+No gain/no loss transfers in groups: part disposals including leases
+Identifier: CG45325
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45325
+Published: 2016-03-12T11:06:36+00:00
+Updated: 2023-04-26T10:04:59+01:00
+Retrieved (UTC): 2026-09-18T14:40:53.206228+00:00
+
+Part disposals - TCGA92/S42(5)
+
+On a part-disposal of an asset by one group company to another, TCGA92/S42(5) provides that the A/A+B part-disposal formula has to be applied before, and without regard to, the no gain/no loss rule. Companies in the same group will generally be connected persons within TCGA92/S286. In that case TCGA92/S18(2) automatically applies the market value rule in TCGA92/S17(1) on the intra-group part-disposal. In the A/A+B part- disposal formula, A' is accordingly the market value of the part disposed of, and B’ is the market value of the part retained. Once the allowable expenditure on the part-disposal has been determined in this way the rule in TCGA92/S171(1) (if applicable) gives the company making the part- disposal a no gain/no loss result. The general effect is to apportion the capital gains cost of the entire asset according to the respective market values of the part retained by the transferor and the part acquired by the transferee. The proportion of total cost allocated to the part disposed of then flows through to the transferee in accordance with the no gain/no loss rule. This is subject to the practice in CG71850+ concerning disposals of land.
+
+Example
+
+In August 2007 company A acquires an asset for £10M. In December 2010 A makes a part-disposal to fellow group member B. The market value of the part disposed is £6M. The market value of the part retained by A is £14M. Since the part-disposal is not an arm’s length bargain, the first stage of the calculation is by reference to the market value rule.
+
+- |  - |  - |  - |  £ M |
+
+- |  market value proceeds |  - |  - |  6.0 |
+
+less |  cost £10M |  x |  £6M |  3.0 |
+
+- |  - |  - |  £6M + £14M |  - |
+
+- |  unindexed gain |  - |  - |  3.0 |
+
+less |  indexation on £3M from August 2007 |  - |  - |  - |
+
+- |  to December 2010 |  - |  - |  0.3 |
+
+- |  gain before no gain/no loss rule |  - |  - |  2.7 |
+
+TCGA92/S171(1) then comes into operation to deem A’s consideration to be £3.3M for capital gains purposes. A has neither gain nor loss. B effectively takes over the proportion of A’s indexed cost attributable to the part of the asset acquired by B.
+
+Part disposals - leases
+
+If company A makes a part-disposal of a freehold by granting a lease to company B in the same group, the asset disposed of by A is the freehold, whereas the asset acquired by B is the lease. HMRC considers that this transaction is within TCGA92/S171(1). The no gain/no loss rule can also apply where A owns the freehold, fellow group member B owns a lease, and B surrenders the lease to A, or where B acquires the freehold reversion from A.

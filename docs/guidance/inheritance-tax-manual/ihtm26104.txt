@@ -1,0 +1,48 @@
+Step 3 - interaction: outline of the interaction procedure
+Identifier: IHTM26104
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26104
+Published: 2016-04-09T09:47:26+01:00
+Updated: 2017-04-11T12:18:45+01:00
+Retrieved (UTC): 2026-09-18T15:03:04.015461+00:00
+
+In all cases where you have allowed business relief (IHTM25131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25131)) or agricultural relief (IHTM24001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24001)) in arriving at the value of the estate and you are applying the partly exempt transfer rules (IHTM26071 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26071)), you must consider interaction (IHTM26101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26101)). There are six stages to follow when applying the interaction provisions. These are:
+
+Stage 1
+
+Allow business and agricultural relief as appropriate in the normal way to establish the value transferred by the transfer of value. This is the value for Inheritance Tax purposes of the property devolving under the deceased’s Will (IHTM12041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12041)) or intestacy (IHTM12101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12101)). You should exclude any property devolving under any other title (IHTM26211 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26211)).
+
+The next two steps involve the application of IHTA84/S39A to establish the value of the specific gifts (IHTM26011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26011)) for the purpose of IHTA84/S38.
+
+Stage 2
+
+Identify any specific gift of relievable property. Its value for the purpose of IHTA84/S38 is its value after relief.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26104#Top)
+
+Stage 3
+
+If there is any other relievable property in the free estate, reduce all other specific gifts by the IHTA84/S39A (4) fraction (IHTM26103 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26103)). Their values for the purposes of IHTA84/S38 are their reduced values.
+
+If all the relievable property in the estate is specifically given (and so gets full relief at Step 2), there can be no reduction of other gifts under Step 3.
+
+But, if there is relievable property in the estate which has not been specifically given, all other specific gifts (as defined by IHTA84/S42) should be reduced by the IHTA84/S39A (4) fraction - whether the gifts are chargeable or exempt, pecuniary or of assets such as the residence or chattels. Benefits taken absolutely by the spouse or civil partner (IHTM11032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11032)) under the intestacy rules are specific gifts for this purpose.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26104#Top)
+
+Stage 4
+
+Where grossing up (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121)) is necessary (IHTM26123 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26123)), gross up the reduced value.
+
+Stage 5
+
+Calculate the residue using the reduced values.
+
+Stage 6
+
+You can now calculate the extent to which the free estate is chargeable. The calculation is the value transferred (as Stage 1), minus the total of the reduced values of the exempt specific and residuary gifts.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26104#Top)
+
+Following all stages
+
+Though it is not strictly necessary to follow all the stages in every case, experience shows that following them reduces the risk of error. For this reason all the examples of interaction in this section of guidance list all 6 stages, even if they are not all necessary or appropriate in a particular case. You should remember to reduce pecuniary legacies, whether chargeable or exempt.

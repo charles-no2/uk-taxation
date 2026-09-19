@@ -1,0 +1,30 @@
+Pre-owned assets: exemptions: relevant property remains part of the Inheritance Tax estate: excluded liabilities
+Identifier: IHTM44051
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44051
+Published: 2016-04-09T10:31:14+01:00
+Updated: 2016-02-11T17:26:34+00:00
+Retrieved (UTC): 2026-09-18T15:10:21.278790+00:00
+
+Where at any time the value of a person’s estate for the purposes of Inheritance Tax is reduced by an ‘excluded liability’ affecting any property, FA04/Sch15/Para11(6) states that only the excess of the value over the amount of the excluded liability can be treated as comprised in the person’s estate for the purposes of the exemption under FA04/Sch15/Para11(1), (IHTM44041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44041)).
+
+An excluded liability is defined in FA04/Sch15/Para11(7) as one where
+
+- the creation of the liability, and
+
+- any transaction by virtue of which the person’s estate came to include the relevant property, or property which derives its value from the relevant property, or by virtue of which the value of the property in their estate came to be derived from the relevant property
+
+were associated operations as defined by IHTA84/S268.
+
+This restriction is most likely to be in point with the home loan or double trust scheme (IHTM44103 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44103)) but only where the scheme is successful in circumventing the reservation of benefit provisions (IHTM14301 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14301)). Where the scheme does not succeed, the donor will be exempt from the POA charge under FA04/Sch15/Para11(5)(a) (IHTM44044 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44044)).
+
+Strictly, the wording of FA04/Sch15/Para11(6) - at any time - would suggest that the amount of the excluded liability should be recalculated whenever a POA charge arises. However, where the property remains unchanged, the POA charge will arise on the same value each year until the next valuation, irrespective of whether the amount of the excluded liability has altered in favour of HMRC or the taxpayer.
+
+Example
+
+Duncan sets up a home loan scheme in 2004 where the property is sold to the trust for £500,000. In April 2005, the property is worth £650,000 and the amount of the loan, together with interest accrued at the same date is £550,000. Exemption under FA04/Sch15/Para11(5)(a) applies to the excess of £100,000 and the proportion of the annual rental value that is referable to £550,000 is subject to the POA charge. If the annual rental value was £20,000, the POA charge is
+
+20,000 × (550,000 ÷ 650,000) = £16,923
+
+At the next revaluation date (IHTM44011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44011)), the loan should be quantified at that time, taking into account the interest/indexation that has accrued to that date and adding it to the amount of the loan. In the event that part of the loan has been repaid (this is unlikely with a home loan scheme), the reduced amount of the loan - plus accrued interest/indexation - may be taken into account when it occurs and the POA liability recalculated for the tax year in question and subsequently.
+
+It is possible that the property concerned may be sold, some of the proceeds reinvested in a smaller replacement property and the balance retained in the trust as intangibles. This then raises the question of how the loan, which is a general debt of the trust, should be treated. For the sake of simplicity, you should apportion the amount of the loan, at the date the trust assets change, between the two categories of asset and then work out the POA charges in the normal way - although it may now be the case, with a smaller property and smaller annual rental that the amount of the POA charge is below the de minimis limit (IHTM44056 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44056)).

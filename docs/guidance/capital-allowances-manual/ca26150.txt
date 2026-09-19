@@ -1,0 +1,42 @@
+PMA: Fixtures: Person with interest in relevant land
+Identifier: CA26150
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26150
+Published: 2016-04-16T08:51:33+01:00
+Updated: 2020-03-03T17:18:22+00:00
+Retrieved (UTC): 2026-09-18T16:20:57.883384+00:00
+
+CAA01/S176
+
+Where all the following conditions are satisfied:
+
+- a person incurs capital expenditure on the provision of plant or machinery for the purposes of a qualifying activity carried on by the person
+
+- the plant or machinery becomes a fixture
+
+- the person has an interest in the relevant land when the plant or machinery becomes a fixture
+
+that person is treated as owning the fixture as a result incurring the expenditure.
+
+This means that the person can potentially claim PMAs on the fixture.
+
+Example
+
+As in the example at CA26025 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26025) Xanadu Properties Plc owns the freehold of Kane House, an office block, which it leases to its tenant, Budokan Computers.
+
+Budokan Computers installs air conditioning, which becomes a fixture on installation, in Kane House for the purposes of its qualifying activity.
+
+Kane House is the relevant land CA26100 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26100) for the air conditioning. As Budokan Computers has a leasehold interest in the relevant land when the air conditioning becomes a fixture, Budokan Computers can claim PMAs on the expenditure it incurs on the provision of the air conditioning.
+
+Where two or more persons satisfy the above conditions in respect of the same fixture, the fixture is treated as belonging only to the person with the lowest interest.
+
+Example
+
+If in the example above Xanadu Properties Plc and Budokan Computers share the cost of the air conditioning, they both satisfy the conditions above. As Budokan Computers has the lower interest (leasehold as opposed to freehold), the air conditioning is treated as belonging only to Budokan Computers. Budokan Computers can claim PMAs on its share of the expenditure. Xanadu Properties Plc cannot claim PMAs on its share.
+
+However, if Budokan Computers incurs the whole of the expenditure and Xanadu Properties Plc contributes a capital sum towards Budokan Computers’ cost, Xanadu Properties Plc can claim PMAs on its contribution, subject to the conditions in CAA01/S537-538 CA14500 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca14500).
+
+You may have a case where two people with the same level of interest in the relevant land incur expenditure on the same fixture. Where that happens each of them can satisfy the ownership condition and claim PMAs on the part of the expenditure that they incur.
+
+Example
+
+Suppose that in the example above there are two tenants of Kane House, Budokan Computers and Welles Services. If they share the cost of the air conditioning, each of them can satisfy the ownership condition and claim PMAs on its share of the expenditure.

@@ -1,0 +1,68 @@
+Goodwill: disposals (including incorporations), part-disposals and deemed disposals
+Identifier: CG68050
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg68050
+Published: 2016-03-12T12:10:20+00:00
+Updated: 2017-01-27T18:29:07+00:00
+Retrieved (UTC): 2026-09-18T14:29:46.756954+00:00
+
+Goodwill is inseparable from the business in which it is generated and is transferred when a business is disposed of as a going concern, see CG68030.
+
+Similarly, there will be a part disposal of goodwill when part of a business changes hands as a going concern.
+
+There are also occasions when a disposal of goodwill is deemed to have taken place.
+
+This part of the guidance considers disposals, part disposals and deemed disposals of goodwill.
+
+Disposal of goodwill: Business disposed of as a going concern (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg68050#1)
+
+Disposals on incorporation (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg68050#2)
+
+Part disposal of goodwill: Part of a business transferred as a going concern (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg68050#3)
+
+Deemed disposals of goodwill (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg68050#4)
+
+Disposal of goodwill: Business disposed of as a going concern
+
+As goodwill is inseparable from the business in which it exists the presumption will always be that any goodwill attributable to the business has been disposed of to the new proprietor when a business is transferred as a going concern.
+
+The transfer of a business as a going concern is likely to involve the disposal of a number of separate assets one of which will be goodwill even though it may not feature in the balance sheet of the business. You will need to ensure that the assets comprised in the disposal have been identified correctly as there must be a separate CG computation for each of those assets.
+
+If the transfer of the business takes place between parties who are acting at arm's length and who are not connected persons within the meaning of TCGA92/S286 any apportionment of the consideration to the separate assets comprised in the disposal contained in the transfer agreement must be accepted provided that it is “just and reasonable”, TCGA92/S52 (4), see CG14771+.
+
+In some cases on the transfer of a business as a going concern the transfer agreement may provide for the payment of consideration in a single undivided sum in respect of all of the assets comprised in the disposal. In those circumstances you will need to identify the assets disposed of and agree an apportionment of the consideration to enable any gains or losses to be computed accurately, see CG14770+.
+
+If you need to seek advice from Shares and Assets Valuation (SAV) in order to arrive at a just and reasonable apportionment of consideration, see CG14783, you must first identify the assets comprised in the disposal before sending a request for advice. Guidance on requesting valuations is given at CG68300+.
+
+Disposals on incorporation
+
+The incorporation of a business of a sole trader or a partnership is a common occurrence.
+
+If on the incorporation of a business the transferor has control of the company, the disposal of goodwill will be a transfer between connected persons within TCGA92/S286(6).
+
+Where the transfer is between connected persons, any goodwill transferred to the company will be deemed to have been disposed of for a consideration equal to its market value in accordance with TCGA92/S17 and TCGA92/S18.
+
+If you are dealing with a transfer of goodwill between connected persons it is essential that you should establish by reference to the facts whether the transferee has, in fact, succeeded to the business as a going concern (as opposed to having acquired one or more of the business assets) before sending a request to SAV for a valuation of goodwill. You should not accept that there has been a disposal of goodwill unless there is factual evidence of a transfer of the business as a going concern. Guidance on what constitutes succession, that is, a change in the persons engaged in carrying on a trade, is given at BIM80620 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim80620).
+
+Part disposal of goodwill: Part of a business transferred as a going concern
+
+For CG purposes, we regard goodwill as a single asset, see CG68020. The sale of part of a business as a going concern will, therefore, involve a part-disposal of the global goodwill of the business and the computational rules in TCGA92/S42 will apply.
+
+Where part of a business is sold as a going concern the sums allowable as a deduction in the computation will normally be apportioned by reference to the A/A+B part-disposal formula in TCGA92/S42(2).
+
+“A” is the value or proceeds of the goodwill of the part of the business that has been sold as a going concern while “B” is the value of the goodwill in the remaining business. The formula should be applied to the allowable cost or, if appropriate, 31 March 1982 market value of the goodwill of the whole business.
+
+For the purposes of applying the formula “A” will normally be available from the transfer agreement, assuming neither TCGA92/S17 nor TCGA92/S18 apply. However, if you need to obtain a valuation of goodwill from SAV in order to determine the amount attributable to “B” you should refer to the guidance at CG68300+.
+
+TCGA92/S42(4) gives statutory authority to disapply the A/A+B formula in TCGA92/S42 (2) in certain circumstances. These are where the “expenditure” (which includes, if appropriate, a 31 March 1982 market value) can be identified wholly with that part of the asset which has been disposed of or wholly with that part of the asset which has been retained. However, as goodwill is a single asset the circumstances in which TCGA92/S42 (4) is capable of applying are considered to be extremely limited. Any case where it is claimed that TCGA92/S42 (4) should be applied on a part disposal of goodwill should be referred to the CG Technical Group.
+
+Deemed disposals of goodwill
+
+TCGA 1992 deems a disposal to occur in certain circumstances. For example, when a capital sum is derived from an asset within TCGA92/S22, when an asset ceases to exist within TCGA92/S24(1) and when an asset becomes of negligible value within TCGA92/S24(2).
+
+Guidance on the circumstances in which a charge may arise under TCGA92/S22 is given at CG12940+.
+
+An example of a situation in which TCGA92/S22 may apply is when a person receives a capital sum for entering into an agreement that restricts his ability to exploit the goodwill of his business whilst he continues to carry on the trade. Guidance on restrictive covenants and similar agreements is given at CG68060.
+
+Guidance on the circumstances in which goodwill ceases to exist within TCGA92/S24(1) is given at CG68070.
+
+Guidance on dealing with claims that the goodwill of a business has become of negligible value is given at CG68080.

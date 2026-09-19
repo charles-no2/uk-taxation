@@ -1,0 +1,44 @@
+Death and personal representatives: legatees and their treatment: who is a legatee
+Identifier: CG31100
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg31100
+Published: 2016-03-12T10:34:26+00:00
+Updated: 2026-09-17T14:32:16+01:00
+Retrieved (UTC): 2026-09-18T14:31:17.222561+00:00
+
+Legatee defined
+
+TCGA92/S64 (2)
+
+Legatee is defined in TCGA92/S64 (2) as including any person taking
+
+- under a testamentary disposition, that is, normally a will
+
+- on an intestacy
+
+or
+
+- on a partial intestacy.
+
+A partial intestacy arises when a person dies and leaves a will but the will does not fully dispose of the estate. This could happen if a deceased made only specific bequests, did not deal with residue and failed to give instructions concerning some of the assets he or she held at death. More commonly it arises because residue has been left to a person or persons who have already died and no provisions are included about what is to happen in those circumstances. Then the specific bequests take effect according to the will but residue has to be dealt with under the intestacy rules.
+
+Trustee as legatee
+
+If a trust is created by the will or intestacy and does actually come into existence then the trustees of that trust are legatees in precisely the same way as, for example, an individual taking an absolute interest in an asset. This is confirmed by TCGA92/S64 (2). As a result the personal representatives are not liable to Capital Gains Tax for disposals after assets have vested in the trustees, see CG30760 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg30760), and the trustees acquire the assets at market value, see CG31140 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg31140).
+
+When assets pass to the remainderman of the will trust when it comes to an end, the remainderman does not receive the assets from the trust as legatee of the will but as a beneficiary of the trust. The transfer is therefore not exempted by reason of TCGA92/S62 (4), see CG31140 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg31140). Unless any other exemption applies there will be a chargeable gain on the trustees at that time by reason of TCGA92/S71 (1), see CG37100 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37100)+.
+
+This is in contrast to the position when a will or intestacy sets out to create a life interest trust but the life tenant dies during the period of administration. In those circumstances no trust over specific assets ever comes into existence. The remainderman of the trust becomes the legatee under the will in place of the trustee. When the assets vest they vest directly in that remainderman. Accordingly the remainderman takes as legatee, there is no Capital Gains Tax charge at that time and the remainderman's acquisition cost is the market value at the date of death.
+
+Distinguishing personal representatives and trustees
+
+It is very common for wills to appoint the same persons as executors and trustees. In cases of intestacy a statutory trust may be created. Unless and until different persons are appointed as trustees, the administrators appointed to deal with the intestacy will also be the trustees of the statutory trust.
+
+Because the same persons act both as personal representatives and as trustees it is often not immediately apparent in what capacity those persons carried out certain acts. In order to decide such questions you should consider whether residue has been ascertained, see CG30780 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg30780)+, and whether, as a consequence, the beneficial interest in assets has vested in trustees rather than being retained by the personal representatives.
+
+For acts occurring before residue has been ascertained you should contend that the persons have acted as personal representatives unless there is specific evidence that they assented to the assets involved vesting in themselves as trustees before residue was ascertained.
+
+For acts occurring after residue has been ascertained, except in exceptional circumstances, see CG30710 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg30710), the beneficial ownership of the assets will have vested in the trustees as legatees on the ascertainment of residue. Any acts carried out after that time will therefore be carried out by those persons acting as trustees.
+
+Recipient under Donatio Mortis Causa is legatee
+
+A person who receives a gift by way of donatio mortis causa, see CG30500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg30500)+, is to be treated as a legatee for some limited purposes (TCGA92/S64 (2)). The person is not to be treated as a legatee for any of the purposes of TCGA92/S62 but is to be so treated for all other purposes of the Capital Gains Tax Acts. In particular this means that the provisions in TCGA92/S64 (1) allowing a deduction to a legatee for the cost of transferring an asset to that legatee, see CG31190 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg31190), are to apply to such a recipient.

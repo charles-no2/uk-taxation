@@ -1,0 +1,24 @@
+PMA: Fixtures: Restriction where previous PMA claim
+Identifier: CA26400
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26400
+Published: 2016-04-16T08:51:44+01:00
+Updated: 2020-01-27T18:00:19+00:00
+Retrieved (UTC): 2026-09-18T16:20:58.705347+00:00
+
+CAA01/S185
+
+Broadly this legislation limits the allowances given overall on a fixture to original cost. When a person (‘the current owner’) is treated as owning a fixture that another person (‘the past owner’) has previously been treated as owning the expenditure of the current owner that qualifies for PMA is restricted to the past owner’s disposal value. This does not apply where the past owner was treated as the owner by the contributions legislation in CAA01/S537 CA14500 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca14500).
+
+Note that the past owner is not necessarily the person from whom the current owner acquired the fixture. It is the last person that was treated as the owner of the fixture by the fixtures legislation. This means that if a person acquires a fixture from a person whose expenditure on the fixture was revenue expenditure, for example, that person cannot be the past owner.
+
+Example
+
+Cassandra Plc constructs an office block for its own use and claims PMA on the fixtures in the building. Three years later it sells the office block to Spencer Moore Ltd, a firm of property dealers. When Cassandra Plc sells the office block it has to bring a disposal value to account because it has treated its expenditure on the fixtures as qualifying expenditure. Spencer Moore Ltd’s expenditure on the office block is revenue expenditure and so it cannot claim PMA on the fixtures. Spencer Moore Ltd then sells the office block to Terence Ltd who intend to use it has their headquarters. If Terence Ltd claims PMA on the fixtures in the office block its qualifying expenditure is limited to Cassandra Plc’s disposal value.
+
+The fixture may have been a chattel or a fixture in a different property at the time of the disposal by the past owner and subsequently moved to the current property. Where it is installed in the current property by the current owner, the limit on the amount on which allowances may be claimed is the sum of the disposal value of the past owner and any installation costs of the current owner allowable under CAA01/S25 CA21190 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca21190).
+
+The current owner and the past owner may be the same person, for instance where a property that includes a fixture is sold and leased back and a CAA01/S183 election CA26350 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26350) is made in respect of the grant of the lease back.
+
+CAA01/S185 does not apply if when the asset was disposed of by the past owner or on a subsequent sale up to and including the acquisition by the current owner, the asset was sold as a chattel to a person not connected with the seller.
+
+It is the responsibility of the taxpayer to obtain and provide details of the past owner and the disposal value. Where it seems likely that Section 185 will apply but the taxpayer does not provide details of the previous disposal value, no allowances should be given as the previous disposal value may be nil or negligible.

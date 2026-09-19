@@ -1,0 +1,92 @@
+Employment income provided through third parties: amount of Part 7A income: overlap with certain earnings
+Identifier: EIM45735
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T13:19:14+01:00
+Retrieved (UTC): 2026-09-18T14:23:28.305838+00:00
+
+Section 554Z6 ITEPA 2003
+
+‘Relevant’ earnings (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735#IDA3ZNQB)
+‘Relevant’ earnings which trigger Section 554Z6 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735#IDAV1NQB)
+Adjustment (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735#IDAG4NQB)
+Example: earnings within section 62 ITEPA 2003 and Part 7A (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735#IDAS4NQB)
+Amounts counting as employment income (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735#IDAG5NQB)
+
+It may happen that the relevant step also gives rise to ‘relevant’ earnings of A from A’s employment with B which are taxable under other provisions of ITEPA 2003. If so, Section 554Z6 adjusts the Part 7A income to prevent double counting.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735#Top)
+
+‘Relevant’ earnings
+
+These are ‘relevant’ earnings:
+
+- General earnings within section 62 ITEPA 2003, see EIM00511 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim00511),
+
+- Amounts treated as earnings within Part 3 Chapter 12 ITEPA 2003 that is, Section 221 onwards (see Table 2 at EIM00513 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim00513)), and
+
+- A deemed employment payment under Section 50 ITEPA 2003 (IR35) or any part of such a payment, see ESM3000 onwards.
+
+Anything which is exempt income (see EIM45455 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45455)), or which falls within Part 4 Chapter 3 ITTOIA 2005, is not ‘relevant’ earnings.
+
+The most common example of a relevant step also giving rise to ‘relevant earnings’ is likely to be where a transaction gives rise to earnings as defined in section 62 ITEPA 2003. Where the transaction is also taxable as section 62 earnings from the employment, then in many cases, Section 554Z6 will reduce the Part 7A income from the transaction to nil.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735#Top)
+
+‘Relevant’ earnings which trigger Section 554Z6
+
+There are two cases in which ‘relevant’ earnings trigger Section 554Z6.
+
+A is UK resident
+
+Section 554Z6 applies if the relevant step gives rise to relevant earnings of A from A’s employment with B which are ‘for’ a tax year in which A is UK resident.
+
+However, if that tax year is a split year as respects A, Section 554Z6 only applies if the relevant earnings are:
+
+- attributable to the UK part of the tax year,
+
+- general earnings in respect of duties performed in the United Kingdom,
+
+- general earnings from overseas Crown employment subject to United Kingdom tax, or
+
+- any combination of the three.
+
+See EIM40008 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim40008).
+
+A is non-UK resident but performs duties in the United Kingdom
+
+Section 554Z6 applies if:
+
+- the relevant step gives rise to relevant earnings of from A’s employment with B,
+
+- the relevant earnings are ‘for’ a tax year in which A is non-UK resident, and
+
+- the relevant earnings are in respect of duties performed in the United Kingdom.
+
+See EIM40201 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim40201).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735#Top)
+
+Adjustment
+
+If Section 554Z6 applies, you reduce the value of the relevant step by the amount of the relevant earnings.
+
+You make this reduction after any reductions under Section 554Z4 or 554Z5. It cannot reduce the value of the relevant step below nil.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735#Top)
+
+Example: earnings within section 62 ITEPA 2003 and Part 7A
+
+Shares are transferred to an employee, giving rise to earnings within Section 62 ITEPA 2003 which are from the employee’s employment. The transfer is also a relevant step which gives rise to Part 7A income.
+
+The Section 62 earnings are relevant earnings for the purposes of Section 554Z6.
+
+Therefore, the value of the relevant step is reduced by the amount of the section 62 earnings (but not below nil).
+
+If the amount of the Section 62 earnings is less than the amount of the Part 7A income, the excess Part 7A income remains taxable. But in practice there will rarely be a difference.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735#Top)
+
+Amounts counting as employment income
+
+An amount which counts as employment income is neither ‘earnings’ nor ‘treated as earnings’. It is therefore not ‘relevant’ earnings within Section 554Z6.

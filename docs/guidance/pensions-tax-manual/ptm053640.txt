@@ -1,0 +1,106 @@
+Annual allowance: pension input amounts: valuation assumptions: worked examples
+Identifier: PTM053640
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053640
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-01T20:40:15+00:00
+Retrieved (UTC): 2026-09-18T14:50:45.544791+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Valuation assumptions for working out the opening and closing value: examples
+
+For the purposes of working out the pension input amount, members’ rights under defined benefits arrangements and cash balance arrangements are calculated using the valuation assumptions. This means that the member’s rights under the arrangement are valued on the basis of what would be available to the member if the member retired immediately before the start and at the end of the pension input period on the assumption that the member had already reached the age at which, under the scheme’s rules, no reduction applies because of age and with no addition for ill health. (This age will often be the same as the normal retirement date (NRD) under the scheme rules but not always. It is sometimes called the ‘normal pension age’ when discussing preservation requirements.)
+
+The following simplified examples illustrate how the pension input amount should be worked out in a number of different scenarios. All the examples assume:
+
+- CPI is 3%
+
+- the benefits are under a defined benefits arrangement
+
+- normal pension age under scheme rules is 65
+
+- the member joins the scheme at age 25 and is 40 at the start of the pension input period
+
+- their pensionable pay is £50,000 at the start of the pension input period and £52,000 at the end.
+
+In each example the precise nature of the scheme rules as a whole needs to be considered. For example, if elements of pre-6 April 2006 ‘Inland Revenue maximum limits’ have been maintained these also need to be considered if they would impact the benefit that would be drawn had the member reached the age at which no reduction for age is applied to the benefits - this could materially change the calculation.
+
+Standard accrual (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053640#IDATJOMB)
+Variable accrual - low start, high finish (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053640#IDAVNILD)
+Limited number of years (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053640#IDASKILD)
+Adjustment for early leaver (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053640#IDASPILD)
+N/NS adjustment for an active member (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053640#IDAUKILD)
+
+Standard accrual
+
+The rules of Andrew’s scheme, for defining his pension at the scheme’s normal pension age, give an accrual rate of 1/60th for every year of service.
+
+Andrew’s pension input amount is:
+
+(16/60 × £52,000 × 16) - (15/60 × £50,000 × 16 × 1.03) = £15,866.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053640#Top)
+
+Variable accrual - low start, high finish
+
+The rules of Brian’s scheme, for defining the pension at the scheme’s normal pension age, give 1/80th for the first 30 years of service and 1/40th for each year in excess of 30.
+
+Brian’s pension input amount is:
+
+(16/80 × £52,000 × 16) - (15/80 × £50,000 × 16 × 1.03) = £11,900.
+
+At age 58 when Brian has built up 33 years pensionable service, the calculation would reflect new accrual at a rate of 1/40th. Assuming his opening pensionable pay was £60,000 and closing pensionable pay was £61,000 the pension input amount is:
+
+[(30/80 + 3/40) × £61,000 × 16] - [(30/80 + 2/40) × £60,000 × 16 × 1.03] = £18,960.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053640#Top)
+
+Limited number of years
+
+The rules of Clive’s scheme, for defining the pension at the scheme normal pension age, give 1/45th for each year of service but subject to a maximum number of years’ service of 30.
+
+Clive’s pension input amount is:
+
+(16/45 × £52,000 × 16) - (15/45 × £50,000 × 16 × 1.03) = £21,155.
+
+At age 58 when Clive has built up 33 years pensionable service, he has exceeded the maximum number of years he can count toward his pension benefits and, apart from an adjustment for increases to his pensionable pay, is not accruing any further 1/45ths. Assuming his opening pensionable pay was £60,000 and closing pensionable pay was £61,000, the pension input amount is:
+
+(30/45 × £61,000 × 16) - (30/45 × £60,000 × 16 × 1.03) = 0.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053640#Top)
+
+Adjustment for early leaver
+
+The rules of a defined benefit scheme might define an active member’s rights as, for example, 1/45th for every year of service but then have different rules if the member leaves before retirement or takes their benefits before the scheme’s normal pension age.
+
+The accrual rate for Dorothy’s scheme is 1/45th for each year of service, subject to a maximum number of years’ service of 30.
+
+However, under the scheme rules, if Dorothy leaves her employment before reaching the scheme’s normal pension age an adjustment is made to her pension entitlement at the point she ceases to be an active member. On leaving before the normal pension age, her pension entitlement is adjusted so it becomes pensionable pay × actual service/potential service to normal pension age × (fraction of pensionable pay applicable on staying to normal pension age - in this case 2/3). The outcome for a pension input amount in which she was an active member at opening and closing dates would be identical in principle to the example immediately above - and Dorothy’s pension input amount is:
+
+(16/45 × £52,000 × 16) - (15/45 × £50,000 × 16 × 1.03) = £21,155.
+
+At age 53, after building up 28 years pensionable service, if she stayed an active member throughout the pension input period and assuming her opening pensionable pay was £60,000 and closing pensionable pay was £61,000, the pension input amount is:
+
+(28/45 × £61,000 × 16) - (27/45 × £60,000 × 16 × 1.03) = 14,008.
+
+In fact, Dorothy leaves her job and ceases to be an active member of the pension scheme at aged 53. The pension input amount becomes:
+
+(28/40 × 30/45 × £61,000 × 16) - (27/45 × £60,000 × 16 × 1.03) = 0.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053640#Top)
+
+N/NS adjustment for an active member
+
+The rules of Eric’s pension scheme for retirement at the scheme’s normal pension age provide that he is entitled to a pension of 2/3 salary subject to an adjustment of (N/NS × 2/3) each year, where N equals service to date and NS equals prospective service from joining the scheme to normal pension age. This adjustment is made each year even though Eric remains an active member because it is not contingent on some future event, such as Eric becoming a deferred member.
+
+His pension input amount is:
+
+(16/40 × 2/3 × £52,000 × 16) - (15/40 × 2/3 × £50,000 × 16 × 1.03) = £15,866.
+
+The exact conclusion from a particular case depends on the precise wording in the rules.
+
+Not all scheme rules are written in the way described above. For example, the rules of a scheme might be expressed as -
+
+“On retirement at Normal Retirement Date (NRD), F is entitled to a pension of pensionable salary x 2/3rds. However if the member leaves employment before reaching NRD, the member’s pension entitlement becomes pensionable salary x some formula (which might, for example, be N/NS x 2/3)”.
+
+Written this way, the scheme rules provide for a reduction in the pension entitlement contingent on the member leaving before NRD. Therefore, the member’s pension input amount in the first pension input period would reflect accrual of a full 2/3rd x current pensionable salary arising from the point the member joined. After the first pension input period the 2/3rd fraction would continue. That is, there would be no accrual as far as the 2/3rd fraction is concerned although there could still be accrual by reference to salary linkage. Such an immediate accrual of the full ‘2/3rd pension’ could mean a significant pension input amount in the first pension input period after joining.

@@ -1,0 +1,26 @@
+Remittance basis: mixed funds: ordering rules: details
+Identifier: CG25386
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25386
+Published: 2016-03-12T10:24:33+00:00
+Updated: 2016-01-25T12:19:05+00:00
+Retrieved (UTC): 2026-09-18T14:38:57.023862+00:00
+
+Changes from 6 April 2025
+
+The remittance basis has been abolished and new rules have been introduced from the 2025/26 tax year.
+
+The latest guidance can be found in RFIG (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual) for Residence and RDRM (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis) for Domicile manuals.
+
+Please note that cases which occur from 6 April 2025 onwards will be determined in accordance with the new rules.
+
+ITA07/S809Q contains mechanical rules for identifying the components of a mixed fund with which transfers out of the fund should be identified when deciding whether any income or gains have been remitted to the UK and the amount of such remittances. This identification proceeds in steps.
+
+Step 1 is to categorise the contents of the mixed fund into specified kinds of income or capital, taking into account only income or capital of the tax year in which the transfer occurs.
+
+Step 2 is to take the first category and compare its value with the amount transferred. If it does not exceed the transfer, treat the transfer as containing the income or capital within that category. If it does exceed the transfer, treat the transfer as containing each element of income or capital within that category adjusted by the ratio of the amount of the transfer to the total value of the category.
+
+Step 3 is to treat the transfer as reduced by the amount matched in step 2.
+
+Step 4 is (if the reduced amount of the transfer is not nil) to repeat step 2 using the next category of income or gains ie match the residual transfer with the next class of income or gains on the ordered list, and further reduce the amount of the transfer by a further application of step 3 accordingly.
+
+Step 5 is (if there remains an unmatched amount of the transfer after all the categories of income identified in step 1 have been exhausted) to return to step 1 and categorise the contents of the mixed fund which are income or capital of the immediately preceding tax year. Then continue with steps 2-4 to match the residue of the transfer with income or capital of successively earlier years.

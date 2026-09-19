@@ -1,0 +1,28 @@
+Step 3 - interaction: introduction
+Identifier: IHTM26101
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26101
+Published: 2016-04-09T09:47:20+01:00
+Updated: 2022-06-08T15:37:16+01:00
+Retrieved (UTC): 2026-09-18T15:03:02.889119+00:00
+
+When the value of an estate is reduced by business relief (IHTM25131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25131)) or agricultural relief (IHTM24001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24001)), its value for Inheritance Tax (IHT) purposes is less than its actual net assets value. In such cases, where the deceased bequeathed specific gifts (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003)), rules known as the interaction rules apply. The example below illustrates the situation.
+
+Example
+
+Barry’s estate consists of:
+
+A farming business +£800,000
+
+Other non-relievable property +£600,000
+
+Total value = £1,400,000
+
+Less relief at 100% on farming business -£800,000
+
+IHT value of estate = £600,000
+
+By his Will, Barry leaves a pecuniary legacy to his spouse of £550,000, with the residue to the children.
+
+How should the chargeable residue be calculated in this example? The actual benefit to the children is £850,000. But if the full amount of the widow’s legacy of £550,000 was deductible from £600,000, the value of the estate for IHT, the chargeable residue, would be only £50,000, which is well below the tax threshold.
+
+The rules (IHTM26103 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26103)) of interaction for dealing with this type of situation are contained in IHTA84/S39A.

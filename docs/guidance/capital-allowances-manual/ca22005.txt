@@ -1,0 +1,22 @@
+Plant and Machinery Allowances (PMA): buildings and structures: check legislation first
+Identifier: CA22005
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca22005
+Published: 2016-04-16T08:44:34+01:00
+Updated: 2019-10-04T14:44:19+01:00
+Retrieved (UTC): 2026-09-18T16:20:35.231025+00:00
+
+If you get a claim that expenditure on a building or structure qualifies for PMAs you should first check to see if it is eligible for allowances under CAA01/S28 (thermal insulation), S33 (personal security) or S33A (integral features) - see CA22220 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca22220) onwards. If any of those sections apply, you do not need to consider the buildings and structures exclusions in CAA01/S21 and S22. If the expenditure is not eligible for allowances under CAA01/S28 (thermal insulation), S33 (personal security) or S33A (integral features), then check to see whether CAA01/S21 or S22 excludes it from PMAs.
+
+The legislation in Sections 21 and 22 prevents most buildings CA22010 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca22010) and structures CA22020 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca22020) being plant. The legislation also lists, in CAA01/S22, List B, item 7(a)-(c) and S23, List C, certain assets that are saved from the statutory exclusions (List B is reproduced in CA22020 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca22020) and List C in CA22030 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca22030)). The legislation does not say that those assets are plant, it only says that they are not excluded by S21 or S22, therefore those assets have to satisfy the normal tests for being plant in common law before PMAs are due (see CA21000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca21000)).
+
+In litigation cases, judges have considered that the proper order of approach is to
+
+- determine the extent of the asset (in other words, consider whether to look at something as a whole - the "entity" approach, or to look at the individual parts separately - the "piecemeal" approach. See CA21160 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca21160)),
+
+- then consider whether the asset functions as "plant" in common law based on the judge made meaning of the term (see CA21000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca21000)),
+
+- then, if it is plant, consider whether it is excluded by CAA01/S21 or S22 or saved from the exclusions by CAA01/S23.
+
+We accept that this is the proper order of approach for litigation purposes given that it follows the order of CAA01, in which the general rule in S11 that expenditure must be on the provision of "plant" comes before the exclusions and exceptions in SS21-23.
+
+However, in practice, once you have determined whether the "entity" or "piecemeal" approach applies (see 1. above), it will usually be helpful to consider the legislation in SS21-23 as the next step, as a short cut to arriving at the correct answer. This should make no difference to the outcome.

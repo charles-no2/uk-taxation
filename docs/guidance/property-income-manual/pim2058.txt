@@ -1,0 +1,186 @@
+Deductions: interest: restriction for income tax purposes from 2017/18: calculation
+Identifier: PIM2058
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim2058
+Published: 2016-04-10T16:24:12+01:00
+Updated: 2025-12-04T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:28:28.804016+00:00
+
+Calculation of the restriction
+
+The restriction to the amounts of ‘dwelling-related loan” costs which may be deducted in arriving at taxable profit is being phased in over several years, beginning in 2017/18. The restriction applies as follows:
+
+-
+
+2017/18 75% of finance costs may be deducted from rental income
+
+-
+
+2018/19 50% of finance costs may be deducted from rental income
+
+-
+
+2019/20 25% of finance costs may be deducted from rental income
+
+-
+
+Thereafter 0% of finance costs may be deducted from rental income
+
+This is covered in sections 272A and 272B of the Income Tax (Trading and Other Income) Act 2005 (ITTOIA05).
+
+Calculation of the basic rate reducer
+
+For individuals (including partners in a property rental partnership) the balance of finance costs which would otherwise qualify for relief but which because of the restriction has not been deducted in arriving at taxable rental profits, may be relieved at the basic rate of tax and deducted from tax liability for the tax year in question. This is covered in sections 274A and 274AA of ITTOIA05.
+
+To arrive at the actual amount of relief to be deducted, the individual may need to carry out calculations in several stages. This is particularly the case if he or she is involved in more than one property business or receives income from property in more than one capacity. For this purpose, the individual will be involved in more than one property business if he or she lets property both in the UK and overseas. And any UK or overseas property business carried out by a partnership in which the individual is a partner, must be looked at separately from a property business which the individual carries on alone (see PIM1020 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1020)). Income received by an individual from a deceased estate in administration should be regarded as arising from a separate property business from any carried on by the individual either alone or in partnership.
+
+For accumulated and discretionary trusts, the actual amount of relief is calculated in the same way as for individuals, but without calcuating adjusted total income: follow steps 1-3 below, then multiply 'L' by the basic rate of income tax. This is covered in sections 274B and 274C of ITTOIA05.
+
+Step 1: calculate “relievable amount” for each property business
+
+For each relevant property business in which the individual is involved, do the following:
+
+-
+
+Identify the interest and finance costs which would be deductible in arriving at taxable profit for that property business, were it not for the restriction imposed by section 272A ITTOIA05.
+
+-
+
+If the property business in question is one operated by a partnership of which the individual is a member, the relevant amount is the amount which (without section 272A) would have been deductible by the partnership in arriving at its profits, multiplied by the individual partner’s percentage profit entitlement.
+
+-
+
+If the property business in question is one operated by the executors of a deceased person’s estate, the relevant amount is the beneficiary’s share of the amount which (without section 272A) would have been deductible by the executors in arriving at the profits.
+
+-
+
+Add any as yet unrelieved amount relating to that business (or the individual’s share of that business) brought forward from earlier years (see below).
+
+The total of these figures gives the individual’s “relievable amount” in respect of that property business.
+
+Step 2: calculate adjusted profits for the business
+
+For each relevant property business in which the individual is involved, do the following:
+
+- Calculate the profits for the property business in question and deduct any loss brought forward under section 118 of the Income Tax Act 2007 (ITA07). Where the property business in question is carried on in partnership, the figure needed is the individual’s share of the profits, less any loss brought forward under section 118. Where the property business in question is carried on by the executors of a deceased person’s estate, the figure needed is the amount paid to the individual by the estate to the extent that figure is attributable to the property business.
+
+Step 3: Find “L”
+
+For each relevant property business in which the individual is involved, do the following:
+
+-
+
+Compare the results of Steps 1 and 2 above
+
+-
+
+Take the lower figure - this is “L”.
+
+Step 4: Calculate Adjusted Total income
+
+-
+
+Identify the individual’s net income for the year from all sources (see Step 2 of the calculation in section 23 of ITA07)
+
+-
+
+Deduct savings income (section 18 (3) and (4) of ITA07)
+
+-
+
+Deduct dividend income
+
+-
+
+Deduct the allowances listed in Step 3 of section 23 of ITA07 (personal allowances, blind person’s allowance)
+
+The result is “adjusted total income” or “ATI”.
+
+Step 5: Calculate amount of relief at basic rate
+
+-
+
+Identify all the individual’s “L”s for the year (Step 3 above) and add these together – this gives you “S”.
+
+-
+
+Compare S with adjusted total income (Step 4 above)
+
+-
+
+If S is less than adjusted total income, apply the basic rate of tax for the tax year to the relievable amount (Step 1 above). The resulting total amount is deducted at Step 6 of the calculation in ITA07/S23.
+
+-
+
+If S is greater than adjusted total income, then apply the basic rate of tax to the number obtained by carrying out the calculation according to the formula below. The resulting amount is deducted at Step 6 of the calculation in ITA07/S23.
+
+ATI
+
+_____ X L
+
+S
+
+Any balance of the unrelieved amount which is still unrelieved may be carried forward to future years and taken into account in Step 1 above.
+
+Example
+
+Jonny has income from two property businesses. He’s a member of a property partnership with an entitlement to one third of the profits, and he has a separate property business which he runs alone. He also has other self-employed profits totalling £4,000.
+
+The example assumes that the tax year is 2020/21 or later, and Jonny has a personal allowance of £11,000 a year.
+
+Property business A: partnership
+
+Rental income £54,000
+
+Finance costs (£21,000) nil deduction
+
+Other allowable expenses £15,000
+
+Property business A profits £39,000
+
+Jonny’s 33.3% share of the profits £13,000
+
+“Relievable amount” = £7,000, being the £21,000 unrelieved finance costs x 33.3% (Jonny’s partnership share)
+
+“Adjusted profits” in this case are £13,000.
+
+“L” = £7,000, being the lower of the relievable amount and Jonny’s 33.3% share of the net profits
+
+Property business B: Jonny’s own business
+
+Rental income £5,000
+
+Finance costs (£1,500) nil deduction
+
+Other allowable expenses £7,000
+
+Property business C loss -£2,000
+
+“Relievable amount” = £1,500
+
+“Adjusted profits” = £0
+
+“L” is £0, being the lower of the relievable amount and the net profit
+
+The sum S of all Jonny’s "L" amounts is £7,000.
+
+“Adjusted total income” calculation
+
+Jonny’s total net income, consisting of his property profits of £13,000 and his other self-employed income of £4,000, is £17,000. He has no dividend or savings income, so his adjusted total income according to s274A(6) of ITTOIA05 is (£17,000 less personal allowances of £11,000) = £6,000.
+
+S (£7,000) is greater than ATI (£6,000) in this case, so the amount which will actually be relievable in respect of each relievable amount is determined by the formula at Step 5 above.
+
+Property business A: basic rate relief
+
+6,000
+
+_____ X 7,000 = 6,000 x Basic Rate
+
+7,000
+
+The unrelieved “relievable amount” of £1,000 (£7,000 - £6,000) may be carried forward to the next tax year.
+
+Property business B: basic rate relief
+
+£0
+
+Jonny’s unrelieved “relievable amount” of £1,500 from his own property business, may be carried forward to the next tax year.

@@ -1,0 +1,88 @@
+PMA: Long funding lease: transfers, assignments etc.
+Identifier: CA23840
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23840
+Published: 2016-04-16T08:50:10+01:00
+Updated: 2016-04-06T16:53:44+01:00
+Retrieved (UTC): 2026-09-18T16:20:52.541917+00:00
+
+CAA01/S70W, S70X, S70Y
+
+Transfers, assignments by lessor
+
+The lessor of assets may transfer them to another person who becomes the lessor of the assets. The lease may be transferred along with the assets or a new lease of the assets may be granted. When this happens there is continuity.
+
+Treat the old lessor as if the lease terminated immediately before the transfer.
+
+Treat the new lessor as if:
+
+- a new lease had been entered into immediately after the transfer,
+
+- the new lease started on the transfer date, and
+
+- the term of the new lease started on the transfer date.
+
+Where:
+
+- the term of the new lease is the unexpired portion of the term of the old lease and
+
+- the rents receivable under the new lease are the same as the rents that would have been receivable under the old lease,
+
+treat the new lease as a lease of the same type as the old lease.
+
+Type means long funding or not. So if the old lease was a long funding lease for the old lessor you should treat the new lease as a long funding lease for the new lessor even though it does not satisfy the conditions for being a long funding lease. If the old lease was not within the long funding lease legislation the new lease is not in it either.
+
+Example Jackson leases an asset to Warrender on a 20 year long funding lease. After 17 years when the lease still has three years to run he transfers the asset and the lease to Lowe so Lowe becomes the lessor. Since the lease was transferred to Lowe along with the asset, the term of Lowe’s lease to Warrender will be the unexpired portion of Jackson’s lease to Warrender and the rents will be the same. Treat Lowe as if he had entered into a new long funding lease immediately after the transfer even though Lowe’s lease is only three years long, as if that lease had started on the transfer date and as if the term of the new lease started on the transfer date.
+
+Treat the following as a transfer of an asset:
+
+- a disposal of the asset or of the lessor’s interest in the asset,
+
+- any arrangements under which the lessor’s interest in the asset is terminated and another person becomes the lessor,
+
+- where a person has been treated as the owner of a fixture by CAA01/S176 CA26150 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26150) a cessation of that deemed ownership because:
+
+- the person ceases to have the qualifying interest,
+
+- a lessee is treated as the owner of the fixture,
+
+- the fixture is permanently severed from the relevant land,
+
+- the person is an equipment lessor and assigns their rights under the equipment lease or the financial obligations of the lessee are discharged, or
+
+- the person is an energy services provider and assigns their rights under the energy services agreement or the financial obligations of the client are discharged.
+
+Transfers, assignments by lessee
+
+Where a lessee of an asset (the old lessee) transfers that asset to another person who becomes the lessee of the asset (the new lessee) treat the lease as terminating. If the lease has been treated as a long funding operating lease by the old lessee there will be a disposal event CA23825 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23825). The new lessee will be treated as incurring qualifying expenditure.
+
+Treat the old lessee as if the lease terminated immediately before the transfer.
+
+Treat the new lessee as if:
+
+- a new lease of the same type as the old lease had been entered into immediately after the transfer,
+
+- the new lease started at the transfer date, and
+
+- the term of the new lease started on the transfer date.
+
+Where:
+
+- the term of the new lease is the unexpired portion of the term of the old lease, and
+
+- the rents payable under the new lease are the same as the rents that would have been payable under the old lease,
+
+treat the new lease as a lease of the same type (long funding lease or lease that is not a long funding lease) as the old lease.
+
+If the old lease was not within the long funding lease legislation the new lease is not in it either.
+
+The same rules about the meaning of the transfer of an asset apply for the lessee as for the lessor.
+
+Sale and leaseback, lease and leaseback
+
+Where there is a sale and leaseback or a lease and leaseback and the lessee has leased the asset to another person under a long funding lease the leaseback is also a long funding lease for both parties.
+
+If the asset is leased back indirectly any of the leases involved in the leaseback are long funding leases.
+
+Example Rick owns an asset that he leases to Ken under a long funding lease. Rick then enters into a sale and leaseback of the asset with Charlie. The leaseback from Charlie is also a long funding lease.
+
+If Charlie leases the asset to Ron who then leases it back to Rick both Charlie’s lease to Ron and Ron’s lease to Rick are long funding leases. The rules about the transfer of an asset that apply for transfers and assignments apply to sale and leasebacks and lease and leasebacks with one addition. The transfer of an asset also includes the grant of a lease where there is a sale and leaseback or lease and leaseback.

@@ -1,0 +1,26 @@
+Restrictions on relief: loss on sale is greater than  the original date of death value
+Identifier: IHTM34230
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34230
+Published: 2016-04-09T10:12:19+01:00
+Updated: 2017-11-07T16:48:32+00:00
+Retrieved (UTC): 2026-09-18T15:07:22.502692+00:00
+
+It is possible for the loss on sale to exceed the original date of death value (valued on the normal open market basis). This can occur when there is a payment of call (IHTM34175 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34175)) by the appropriate person (IHTM34161 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34161)) or there is a rights issue (IHTM34187 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34187)), which is taken into account in calculating the value at death.
+
+Where this situation arises, IHTA84/S188 provides for the sale value to be adjusted to ensure that the loss on sale would be equal to the value before relief.
+
+Example
+
+The Clover trust fund includes 1,000 Green Ltd shares valued immediately before the death at £1,000.
+
+Two months after the death the trustees take up a 1 for 2 rights issue at £1 per share. The holding now comprises of 1,500 shares with a date of death value of £1,500.
+
+Six months later they sell the holding of 1,500 shares for £400.
+
+Apart from s.188 the loss on sale would be £1,500 - £400 = £1,100.
+
+Since this exceeds the unadjusted value (£1,000) IHTA84/S188 applies and the sale value is treated as
+
+£1,500 - 1,000 = £500.
+
+This makes the loss on sale £1,000, which is equal to the value before the adjustment.

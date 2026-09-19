@@ -1,0 +1,22 @@
+Calculating the transferable nil rate band: legitim
+Identifier: IHTM43041
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43041
+Published: 2016-04-09T10:28:58+01:00
+Updated: 2020-09-28T09:23:19+01:00
+Retrieved (UTC): 2026-09-18T15:09:59.776887+00:00
+
+Legitim (IHTM12221 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12221)) only applies in Scotland and affects the one third of movable estate to which the children are entitled upon the death of a parent, in preference to the terms of the Will. A claim for legitim does not have to be made until the child is eighteen.
+
+A new provision inserted at IHTA84/S147(10) provides that where an amount of unused nil rate band is transferred to the estate of the survivor if, following that death, a claim for legitim is made in respect of the earlier death, which uses up a portion of the nil rate band on that death, the amount of nil rate band transferred to the second estate may be amended to reflect the impact of the legitim claim.
+
+Example
+
+Morag and Douglas have one son, Hamish. Douglas dies when Hamish is 10 years old. He leaves his entire estate (£600,000) to Morag. An election is made for IHTA84/S147(4) to apply [IHTM35213 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35213)] so that spouse exemption applies in full. Morag dies when Hamish is 15 years old. Her estate, ignoring the potential legitim claim is £1.5m, and is left to Hamish absolutely.
+
+If the nil rate band on Morag’s death was £450,000, a claim for transferable nil rate band (TNRB) would increase this to £900,000 leaving £600,000 in charge. A subsequent claim for legitim by Hamish would allow him to inherit £200,000 from his father (which would reduce the value of the second estate to £1.3m), potentially allowing £1.1m to pass free of tax.
+
+The revision to IHTA84/S147(10) ensures we can reduce the amount of nil rate band that is transferred. If the nil rate band on Douglas’ death was £300,000, the amount available for transfer following the legitim claim would be 33.3333%, so the nil rate band on Morag’s death is revised to £600,000 (£450,000 plus TNRB of £150,000). This would bring £700,000 into charge (£1.3m - £600,000), making the legitim claim unattractive.
+
+As is clear from the example, it may be disadvantageous to claim legitim. The position may be different, however, where there are second marriages and split families.
+
+Note also that a child has up to 20 years from the death to claim legitim (where the child is under 16, that 20 year period runs from their 16th birthday). It is possible therefore that a claim for legitim on the first death may not be made until after the surviving spouse has died. Form IHT402 contains a question about whether there was anyone entitled to claim the legitim fund – where this is answered in the positive, you may need to investigate whether a claim will be made or the right to claim renounced. You will need to settle this position before the amount available for transfer can be agreed.

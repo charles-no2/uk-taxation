@@ -1,0 +1,16 @@
+Penalty request letter: general
+Identifier: IHTM36041
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36041
+Published: 2016-04-09T10:16:07+01:00
+Updated: 2016-02-11T17:23:13+00:00
+Retrieved (UTC): 2026-09-18T15:08:05.014966+00:00
+
+When it is clear that an account was delivered late you must issue the standard penalty letter (IHTM36042 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36042)) available through COMPASS. You should select the penalty from the penalty table in COMPASS and opt to issue the letter.
+
+COMPASS will complete the letter automatically, and include either the £100 (Lower) or £200 (Higher) amount - or limit the penalty to the amount of tax due at the relevant entry.
+
+If a penalty under IHTA84/S.245(4A) is due, COMPASS will prompt you for the amount of the penalty. (This content has been withheld because of exemptions in the Freedom of Information Act 2000)
+
+You should enclose a copy of leaflet IHT 13 with the letter. If you have other enquiries to raise at the same time, you can edit the letter in Word - or you can prepare a separate letter and send the standard penalty letter as an enclosure.
+
+You should set a general BU date (IHTM32032) for a reply.

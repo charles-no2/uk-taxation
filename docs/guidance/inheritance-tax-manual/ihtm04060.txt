@@ -1,0 +1,34 @@
+Lifetime transfers: when is the estate of another individual increased?
+Identifier: IHTM04060
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04060
+Published: 2016-03-20T09:15:55+00:00
+Updated: 2026-09-14T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:52:30.534744+00:00
+
+Under IHTA84/S3A (2)(b), where property (IHTM04030 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04030)) does not become comprised in the estate (IHTM04029 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04029)) of another person, (IHTM04052 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04052)) a transfer may still be treated as a gift to an individual (IHTM04053 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04053)) provided two conditions are satisfied. These are that
+
+- property does not become comprised in the estate of another person (not 'individual'), but
+
+- the estate of another individual is increased.
+
+Example 1
+
+Christina owes Penelope, a parent, £50,000. Penelope forgives the debt. This is a transfer of value since the value of Penelope’s estate is diminished by the disposition. However, Christina does not receive any property from Penelope so the gift is not within IHTA84/S3A (2)(a). But the estate of Christina is increased, so the gift is within IHTA84/S3A (2)(b). The transfer is a potentially exempt transfer (PET). (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057))
+
+The contrast between person and individual is important. It prevents a transfer that is not to an individual from being a PET even though the estate of an individual may be increased as a result of the gift.
+
+Example 2
+
+Alex gives Xander Ltd £200,000 in June 2012. The whole of the issued capital of Xander Ltd is owned by Alex’s child Lewis.
+
+Tested against the definition of a PET (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)), the gift is
+
+- a transfer of value (IHTM04024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04024))
+
+- by an individual
+
+- which is otherwise chargeable
+
+But it does not satisfy the condition as a gift to an individual. (IHTM04058 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04058))
+
+The first condition is not satisfied because the cash given does not become directly comprised in the estate of Lewis. The second condition is not satisfied either even though the value of Lewis’s estate is increased by the gift. This is because the value transferred is attributable to property that has become comprised in the estate of another person.

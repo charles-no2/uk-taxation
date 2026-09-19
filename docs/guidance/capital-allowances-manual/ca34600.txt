@@ -1,0 +1,122 @@
+IBA: writing down allowances: amount
+Identifier: CA34600
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca34600
+Published: 2016-04-16T08:58:11+01:00
+Updated: 2022-06-08T08:57:54+01:00
+Retrieved (UTC): 2026-09-18T16:21:19.675527+00:00
+
+Budget 2007 announced a business tax reform package including the gradual withdrawal of IBAs and ABAs over four years. Legislation was introduced in FA08 to give effect to those changes. The phased withdrawal of IBA writing down allowances had effect for chargeable periods ending on or after 1 April 2008 for businesses within the charge to CT and 6 April 2008 for businesses within the charge to IT. There are no IBA writing down allowances for the financial year beginning on 1 April 2011 and subsequent years.
+
+CAA01/S310 - S311, S313A & Sch3, para66; FA07/S36; FA08/S85
+
+For a person who constructed a qualifying building or bought it unused, the annual rate of WDA is 4%. If the construction expenditure was incurred before 6 November 1962 the annual rate is 2%.
+
+If the chargeable period is more or less than a year, the allowance is increased or reduced proportionately. For example, if the chargeable period is 15 months long the amount of WDA is increased by 15/12.
+
+Relevant event
+
+A relevant event is a transfer of the relevant interest that is a balancing event. When there is a relevant event the WDA is recalculated. This is how it is done. Work out the length of the period from the date of the relevant event to the end of the period of 25 years (50 years for qualifying expenditure incurred before 6 November 1962) beginning with the date on which the building was first used. The residue of qualifying expenditure after the event is multiplied by the length of the chargeable period divided by that length of time.
+
+Example Bob builds a building in 2000 at a cost of £2 million excluding the land and brings it into use on 1 January 2001. The use is qualifying use. The annual WDA is £80,000. Bob sells it to Nahid on 31 December 2005 for £1.5 million. The residue of qualifying expenditure after sale is £1.5 million. The period of 25 years beginning with the date on which the building was first used ends on 31 December 2025. There are 20 years of that period left when the building is sold. The WDA for a chargeable period of 12 months is therefore £1.5 million x 1 year / 20 years = £75,000.
+
+WDA is also calculated in this way where the used building has qualified for the special rate of WDA for buildings in enterprise zones (EZs) CA37000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca37000).
+
+Post commencement relevant event
+
+IBA is not recalculated that way after a post-commencement relevant event. A post- commencement relevant event is a relevant event that occurs on or after 21 March 2007 apart from an event that occurs before 1 April 2011 in pursuance of a relevant pre-commencement contract CA35050 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca35050).
+
+A relevant event is a balancing event within CAA01/s311 CA35050 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca35050).
+
+Where there is a post-commencement relevant event the residue of qualifying expenditure after that date is the same as the residue before that date.
+
+Example Dylan constructs an industrial building in his chargeable period ended 31 December 1990 and brings it into use immediately. The building cost £1 million to construct excluding the cost of the land. The annual rate of WDA is £40,000 and he claims IBA each year. On 24 May 2007 he sells it to Zimmerman Plc for £1.5 million.
+
+When Dylan sells the building the residue before sale is £320,000 (£1million less 17 x £40,000). No balancing charge is made on Dylan and the residue after sale is £320,000. Zimmerman Plc.’s WDAs are based on a residue of £320,000 spread over the rest of the writing down period. Assuming Zimmerman Plc’s accounts year is 31 December then Zimmerman’s Plc’s annual WDA is £40,000 for the next 8 years subject to the phasing our rules introduced by FA 2008.
+
+No relevant event
+
+If a used building is acquired and the acquisition is not a relevant event there is no recalculation of the WDA. For example, the transfer is not a relevant event if the building never was an industrial building before the acquisition. The person who acquires the building effectively stands in the previous owner’s shoes and gets the WDA which the previous owner would have had if they had continued to own the building. The price at which the building changes hands is irrelevant.
+
+Reduced claims
+
+A WDA does not need to be claimed in full. You should accept a reduced claim if one is made. Reduced claims were only possible for accounting periods covered by the rules in CAA 2001. Given the phasing out of the allowances it is highly unlikely that businesses will be making reduced claims in the chargeable periods up to 2011.
+
+FA2008 changes
+
+FA2008 phased out IBA WDAs by giving part only of a WDA each year. The WDA is calculated in the normal way but then only a percentage of it is allowed.
+
+These are the percentages.
+
+Financial year |  Tax year |  Percentage |
+
+Financial year beginning 1 April 2007 and earlier financial years |  Tax year 2007-08 and earlier tax years |  100% |
+
+Financial year beginning 1 April 2008 |  Tax year 2008-09 |  75% |
+
+Financial year beginning 1 April 2009 |  Tax year 2009-10 |  50% |
+
+Financial year beginning 1 April 2010 |  Tax year 2010-11 |  25% |
+
+Financial year beginning 1 April 2011 and later financial years |  Tax year 2011-12 and later tax years |  0% |
+
+From 1 April (CT) /6 April (IT) 2011 onwards there are no IBA WDAs.
+
+You may have a case where the chargeable period is not the financial year or tax year. If so you calculate an apportioned WDA for each financial year or tax year in which the chargeable period partly falls and then add the apportioned WDAs together to get the WDA for the chargeable period.
+
+This is how you calculate the apportioned WDA for part of a chargeable period.
+
+Work out the number of days in the chargeable period that fall within a financial year or tax year (DCPY) and the number of days in the chargeable period (DCP). P is the percentage in the table above for the financial year or tax year. WDA is the WDA that would have been made before the FA2008 amendments. The apportioned WDA for the part of the chargeable period is P x WDA x DCPY/DCP.
+
+You deduct the full amount of the WDA and not the restricted amount actually given when you calculate the residue of qualifying expenditure.
+
+Example Warren owns a factory making werewolf costumes and other fancy dress. He draws up accounts to 30 September each year. The annual IBA WDA on the factory is £4,000. These are the allowances made to Warren for his accounts years ended 30 September 2008, 30 September 2009, 30 September 2010 and 30 September 2011.
+
+- Year ended 30 September 2008 £3,500* (183/366 x £4,000 x100% plus 183/366 x £4,000 x 75%)
+
+- Year ended 30 September 2009 £2,500* (182/365 x £4,000 x 75% plus 183/365 x £4,000 x 50%)
+
+- Year ended 30 September 2010 £1,500* (182/365 x £4,000 x 50% plus183/365 x £4,000 x 25% )
+
+- Year ended 30 September 2011 £500* (182/365 x £4,000 x25%)
+
+* Figures have been rounded up in this example to ease the presentation and because such rounding seems reasonable in all the circumstances.
+
+There are no WDAs after that.
+
+This phasing out does not apply to WDAs on EZ qualifying expenditure. They stop in 2011 there is a transitional rule that applies for chargeable period that span the abolition date (see CA37350 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca37350)).
+
+If Warren’s factory had been in an EZ he would have got the full £25,000 WDA each year up to and including his accounts year ended 30 September 2010. He would have got a WDA of £12,500 for his accounts year ended 30 September 2011 because there are no WDAs after 1 /6 April 2011.
+
+Anti-avoidance - section 313A CAA 2001
+
+You may have a case where
+
+- 2 people have different chargeable periods,
+
+- the control test in s.567 CAA 2001 is met
+
+- one of them is entitled to IBAs on a building,
+
+- that person sells the relevant interest in the building to the other one and
+
+- the purpose, or one of the main purposes, of the sale is the obtaining of a tax advantage by the buyer.
+
+If you have a case like that you can restrict the buyer’s IBAs for the chargeable period in which the sale takes place. The buyer’s IBAs for the chargeable period in which the sale takes place are WDA x DI/CP where DI is the number of days in the chargeable period for which the buyer is entitled to the relevant interest and CP is the number of days in the chargeable period.
+
+This does not apply where the building is sold under a relevant pre-commencement contract. In that case the buyer’s WDAs are made in full.
+
+A relevant pre-commencement contract is a written contract
+
+- made before 12 March 2008
+
+- which is unconditional or whose conditions have been satisfied before 12 March 2008
+
+- where no terms remain to be agreed on or after that date and
+
+- which is not varied in a significant way on or after12 March 2008.
+
+Here is an example to show how the legislation works.
+
+Example Geb Plc controls Osiris Ltd. and Isis Ltd. Their accounting dates are 30 June. Osiris Ltd. owns a factory on which the annual IBAs are £40,000. In 2007 Isis Ltd. changes its accounting date to 31 July. On 4 July 2008 Osiris Ltd. transfers the relevant interest in the workshop to Isis Ltd. Isis Ltd. is entitled to IBAs for its chargeable period ended 31 July 2008 because it owns the relevant interest at the end of that chargeable period. Normally, it would get a full year’s IBA. If the main purpose, or one of the main purposes, of the sale of the building by Osiris Ltd, to Isis Ltd. was the obtaining of 12 months IBAs by Isis Ltd. then Isis Ltd. only gets the annual WDA x 31/366.
+
+If you have a case where you think section 313A may apply please refer the papers to CTIAA once the relevant facts have been established.

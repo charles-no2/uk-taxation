@@ -1,0 +1,18 @@
+Records: maintain taxpayer record: breaking the SA and PAYE link
+Identifier: SAM101060
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101060
+Published: 2016-04-08T17:07:57+01:00
+Updated: 2016-02-23T14:51:42+00:00
+Retrieved (UTC): 2026-09-18T16:19:40.644269+00:00
+
+Links between PAYE and SA will be updated automatically. The Citizen’s Identification (CID) framework will notify SA to delete the employer reference and break the link to PAYE when
+
+- PAYE notifies the CID framework of the cessation of a main source employment and the taxpayers PAYE record is linked to SA
+
+- SA notifies the CID framework that an SA record has been made dormant and it has a PAYE link
+
+When the link is broken
+
+- The SA signal is unset but the UTR remains protected on that PAYE system record. Note: The update will flow overnight
+
+- New index records are created by the controlling system, that is both SA (showing the Unique Taxpayer Reference (UTR) but not the responsible office) and PAYE (showing NINO and EMPREF)

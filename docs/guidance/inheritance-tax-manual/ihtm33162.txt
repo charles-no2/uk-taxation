@@ -1,0 +1,24 @@
+Loss on sale of land: purchases: formula used for adjusting the sale price
+Identifier: IHTM33162
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33162
+Published: 2016-04-09T10:09:20+01:00
+Updated: 2016-02-11T17:20:01+00:00
+Retrieved (UTC): 2026-09-18T15:07:00.837775+00:00
+
+The adjustment to the sale price (IHTM33072 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33072)) is calculated by using the formula:
+
+A × (D-S) ÷ B
+
+where
+
+- A is the aggregate purchase price of all interests purchased
+
+- B is the aggregate sale price (after any adjustments for changes in the interest or underlying land (IHTM33121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33121)), statutory compensation received (IHTM33130 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33130)), leases (IHTM33131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33131)) and valuations with reference to other interests in land (IHTM33132 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33132)) have been made, IHTA84/SS193 -195) of all of the interests sold.
+
+- D is the value on death (IHTM33100 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33100)) of the interest sold.
+
+- S is the sale price of the interest sold (after any of the adjustments referred to at B above have been made under IHTA84/Ss193 -196)..
+
+Where (D - S) is a positive figure (as in the case of Blackacre in the example at (IHTM33163 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33163)), the adjustment takes the form of an addition to the sale price.
+
+Where (D - S) is a negative figure (as in the case of Whiteacre in the example at (IHTM33163 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33163)), the adjustment takes the form of a deduction from the sale price.

@@ -1,0 +1,44 @@
+Shares and securities: employee share schemes: employment-related securities: securities options and employee and transferor 
+Identifier: CG56391
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56391
+Published: 2016-03-12T11:39:34+00:00
+Updated: 2026-02-23T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:43:28.242040+00:00
+
+The examples below demonstrate how the legislation works. They show the results where options are exercised on or after 10 April 2003 and the outcome where the options were exercised before that date.
+
+A share option is granted to an employee. The employee gives no consideration for the option. The option entitles the employee to acquire 1,000 shares at £2 per share from an Employee Benefit Trust. The employee exercises the option, pays £2,000 and acquires 1,000 shares which, at the time they are acquired, have a market value of £5,000 (£5 per share).
+
+The option could be either be granted under an unapproved share option scheme, be an Enterprise Management Incentives option see CG56440 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56440), or an option granted under an approved Company Share Option Plan on whose exercise Income Tax is payable (this may happen, for example, if an employee exercises an option early) see CG56425 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56425).
+
+-
+
+The employee will be chargeable to Income Tax on the difference between the market value of the shares when he acquires them (£5,000) and the amount he pays for the option (nil) and when he exercises the option (£2,000). He is therefore charged to Income Tax on £3,000. Section 38(1)(a) of the Taxation of Chargeable Gains Act (TCGA) 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/38) applies as if that £3,000 had formed part of the consideration given by the employer for his acquisition of the shares (see CG56321A (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56321a)). But the effect of the decision in Mansworth v Jelley [2002] EWCA Civ 1829 is that, where the option is exercised before 10 April 2003, the employee is deemed to acquire the shares at their market value at the date of exercise.
+
+-
+
+The grant of the option is by reason of the employment, but section 149A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/149A) prevents the substitution of the market value of the option for the amount actually given for the option where the grant was after 27 November 1995.
+
+-
+
+The acquisition of the shares when the option is exercised is by reason of the employment, and the market value rule is capable of applying. So where the option was exercised before 10 April 2003, the decision in Mansworth v Jelley [2002] EWCA Civ 1829 applies. The market value of the shares at the time they passed to the employee is substituted for the consideration actually given, and no account is taken of the amounts given or received for the option. That rule is changed by section 144ZA TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/144ZA), so that where the option is exercised after 9 April 2003 the actual consideration given (augmented by the amount counting as income) is used in the computations.
+
+Employee Benefit Trust's disposal proceeds
+
+If exercised after 9 April 2003
+
+The amount received for the option is £Nil, the amount received for the shares is £2,000. So the disposal proceeds are £2,000.
+
+If exercised before 10 April 2003
+
+The market value of the shares was £5,000. So the disposal proceeds are £5,000.
+
+Employee's acquisition costs
+
+If exercised after 9 April 2003
+
+£3,000 is charged to Income Tax, £Nil is paid for the option and £2,000 is paid for the shares. So the employee’s acquisition cost is £5,000.
+
+If exercised before 10 April 2003
+
+The market value of the shares was £5,000. So the employee’s acquisition cost is £5,000.

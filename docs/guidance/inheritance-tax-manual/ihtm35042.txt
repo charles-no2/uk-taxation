@@ -1,0 +1,22 @@
+Who should make the instrument?: dead beneficiaries
+Identifier: IHTM35042
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35042
+Published: 2016-04-09T10:13:07+01:00
+Updated: 2019-07-31T12:46:45+01:00
+Retrieved (UTC): 2026-09-18T15:07:31.213979+00:00
+
+The executor of a person who has died may make a variation redirecting that person’s entitlement on an earlier death. The variation must be within the two-year period following that earlier death. Where the variation reduces the entitlement of the beneficiaries of the second deceased then the beneficiaries should also agree to the variation. If the beneficiaries are not a party to the deed of variation then we should request other written evidence of their consent. HMRC’s guidance on this was published in Tax Bulletins 15 and 74.
+
+You should make sure the files are worked together and note the effect of the instrument of variation (IoV) on both deaths on form IOV1. It is not essential that a grant of representation has been obtained for either estate, but see IHTM35032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35032).
+
+Example
+
+Harriet dies leaving her estate to Walter absolutely. Walter dies 6 months later. The executor of Walter’s estate can make an IoV within two years of Harriet’s death, redirecting property away from Walter so that it is no longer part of his estate for Inheritance Tax purposes.
+
+In such cases, the redirection effected by the IoV made by Walter’s executor may be to the beneficiaries of his will or to others. So for example, if Anne and Harry are the residuary beneficiaries of Walter’s estate, Walter’s executor can vary Harriet’s estate so that it passes directly to Anne and Harry rather than to Walter. We do not regard a redirection to Walter’s beneficiaries as infringing the requirement to change the destination of the property (IHTM35025 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35025)). Though the final destination of the property before and after the variation may not in fact have changed, the variation is still regarded as effecting a change in the disposition of the property in Harriet’s estate.
+
+If, in the example above, Walter was left a life interest (IHTM35044 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35044)) the ‘property’ was the right arising under the trust - that is the right to income. On the death of Walter that right terminated. So if an IoV is executed after Walter’s death there is no property in existence that can be redirected. You should reject an IoV seeking to vary the interest of a deceased life tenant.
+
+However, you should let the parties to the IoV know that if it is possible for the life tenant’s personal representatives (IHTM05012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm05012)) to disclaim the life interest (IHTM35165 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35165)) as a matter of general law, then you may accept the IoV as a disclaimer of a life interest.
+
+You should refer any case where the taxpayers will not accept this view to Technical.

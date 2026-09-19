@@ -1,0 +1,28 @@
+Lifetime transfers: associated operations: transfer of value made by associated operations
+Identifier: IHTM14827
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14827
+Published: 2016-04-09T09:22:02+01:00
+Updated: 2016-02-11T17:03:40+00:00
+Retrieved (UTC): 2026-09-18T14:58:22.296858+00:00
+
+Where a transfer of value is made by associated operations that take place at different times, IHTA84/S268 (3) provides rules which set out how the date and the value of the transfer of value is determined.
+
+Date
+
+The transfer of value is treated as being made at the time of the last operation (IHTM14826 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14826)).
+
+Value
+
+The value transferred is usually the amount of the overall loss to the transferor’s estate measured at the time of the last operation.
+
+However if any earlier operation (IHTM14826 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14826)) also constitutes a transfer of value by the transferor, you have to deduct the value transferred by the earlier operation(s) (so far as that value is not entitled to spouse or civil partner exemption (IHTM11031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11031))) from the overall amount.
+
+Example
+
+Angus has a house with vacant possession worth £260,000.
+
+Angus grants a controlled tenancy of it to Brodie at full rent. At this point the value is reduced to £182,000 but no claim for IHT then arises because of IHTA84/S10. Angus has incurred a loss to his estate from £260,000 to £182,000, but he has not made a transfer of value because of IHTA84/S10 (IHTM04161 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04161)). It is nevertheless a relevant operation (IHTM14828 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14828)).
+
+Two years later, the house is worth £300,000 with vacant possession. Angus gives Brodie the freehold reversion so that Brodie now effectively owns the house with the right to vacant possession.
+
+The two operations, the granting of a tenancy and then the gift of the freehold reversion, affect the same property. Angus has transferred the house with vacant possession, but he has done it by splitting the transfer into two separate operations. Through the associated operations rule these two operations are combined together. Consequently, tax can be charged on the full vacant possession value of £300,000 at the time of the last operation, the gift of the freehold reversion.

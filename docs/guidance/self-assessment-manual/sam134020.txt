@@ -1,0 +1,14 @@
+Statements: interest calculation: interest on open item  statements
+Identifier: SAM134020
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam134020
+Published: 2016-04-08T17:30:59+01:00
+Updated: 2016-02-23T15:03:31+00:00
+Retrieved (UTC): 2026-09-18T16:21:19.831115+00:00
+
+An interest charge is raised when the parent liability has been cleared in full, for example by a late payment. A separate interest charge is raised in respect of each late paid charge. Each interest charge appears on the next taxpayer statement as a separate Open Item.
+
+Until that time, where payment is overdue, accruing interest will be shown on the statement as the last entry for every overdue interest bearing Open Item.
+
+When a statement is due to be issued the interest position on the taxpayer’s SA record is reviewed. The statement issue process identifies all the overdue interest bearing liabilities and calculates the accrued interest to the statement date for each liability identified.
+
+Any interest charged or accruing can be viewed using function VIEW STATEMENT. More information about interest is provided in section ‘Interest’ in business area ‘Int/Pen/Surcharge’ (SAM60000  (https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam60000)onwards).

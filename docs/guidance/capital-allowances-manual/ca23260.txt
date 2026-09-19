@@ -1,0 +1,18 @@
+PMA: WDA & balancing adjustments: When no disposal value is brought to account
+Identifier: CA23260
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23260
+Published: 2016-04-16T08:48:04+01:00
+Updated: 2019-10-16T16:47:34+01:00
+Retrieved (UTC): 2026-09-18T16:20:45.527631+00:00
+
+CAA01/S64
+
+A person does not need to bring a disposal value to account for an asset if no PMAs have been claimed on the qualifying expenditure on it.
+
+There is one exception to this:
+
+- If a person who incurred qualifying expenditure on an asset acquired it from a connected person or in a series of transactions between connected persons that person has to bring a disposal value to account if anyone in the chain has brought a disposal value to account. This is really an anti-avoidance provision. Without it a person could avoid a balancing charge by transferring an asset on which PMAs have been claimed to a connected person before it was sold. Here is an example.
+
+Example
+
+Sam and Dave are connected. They are both musicians. Sam buys an electric guitar for £15,000 and brings it into use for his business. He decides to get a better one and so he sells the electric guitar to Dave for £7,000. Dave can claim PMAs on the guitar and so Sam’s disposal value is £7,000. Dave then decides to change to an acoustic guitar and so he does not add the expenditure to his pool and sells the electric guitar for £12,000. Dave has to bring a disposal value of £12,000 to account and he can treat the £7,000 as qualifying expenditure. The guitar was bought by Sam for £15,000 and sold by Dave for £12,000 - a net loss of £3,000, which is the overall result. Sam has expenditure £15,000 and disposal proceeds £7,000 while Dave has expenditure of £7,000 and proceeds £12,000.

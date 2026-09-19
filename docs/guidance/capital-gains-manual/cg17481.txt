@@ -1,0 +1,60 @@
+Indexation: example: part-disposal
+Identifier: CG17481
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17481
+Published: 2016-03-12T10:17:36+00:00
+Updated: 2023-04-12T11:18:12+01:00
+Retrieved (UTC): 2026-09-18T14:38:32.147133+00:00
+
+1 June 1982 Y acquires office premises for £100,000.
+
+1 June 1985 premises improved by spending £25,000 on car parking and an entrance.
+
+1 June 1988 part of premises sold for £45,000, the part retained is worth £180,000.
+
+1 June 1990 rest of premises sold for £160,000.
+
+FIRST DISPOSAL
+
+The part-disposal formula, see CG12731, gives
+
+- 45,000 divided by (180,000 plus 45,000)
+
+This is 1/5
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  45,000 |
+
+Less |  Proportion of cost |  1/5 of 100,000 20,000 |  - |
+
+- |  - |  1/5 of 25,000 5,000 |  25,000 |
+
+- |  Unindexed gain |  - |  20,000 |
+
+Less |  Indexation |  20,000 at 0.302 6,040 |  - |
+
+- |  - |  5,000 at 0.117 585 |  - |
+
+- |  INDEXED GAIN |  - |  13,375 |
+
+The residual expenditure |  - |  80,000 on 1 June 1982 |  - |
+
+- |  - |  20,000 on 1 June 1985 |  - |
+
+SECOND DISPOSAL
+
+- |  - |    |  - |  £ |
+
+- |  Disposal proceeds |  - |  - |  160,000 |
+
+Less |  Cost (residual expenditure) |  - |  80,000 |  - |
+
+- |  - |  - |  20,000 |  100,000 |
+
+- |  Unindexed gain |  - |  - |  60,000 |
+
+Less |  Indexation |  80,000 at 0.548 |  43,840 |  - |
+
+- |  - |  20,000 at 0.328 |  6,560 |  50,400 |
+
+- |  INDEXED GAIN |  - |  - |  9,600 |

@@ -1,0 +1,64 @@
+Share identification rules for corporation tax: section 104 holding: creating the holding
+Identifier: CG51621
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51621
+Published: 2016-03-12T11:23:16+00:00
+Updated: 2023-05-04T12:01:41+01:00
+Retrieved (UTC): 2026-09-18T14:47:58.891315+00:00
+
+Creation
+
+A Section 104 holding will come into existence either on
+
+- 1 April 1985 if the company still held shares which they had acquired after 31 March 1982, or
+
+- on the first occasion after 1 April 1985 that the company acquired shares of the same class in the same company.
+
+Where the Section 104 holding was created on 1 April 1985 the pool of indexed expenditure was created by giving indexation allowance up to 6 April 1985.
+
+EXAMPLE
+
+- January 1984 a company bought 400 shares in A Ltd costing £4.50 per share, dealing costs £25
+
+- December 1986 the company bought a further 500 shares cost £6 per share, dealing costs £25.
+
+SECTION 104 HOLDING
+
+Description |  Calculation |  Total |  Number of shares |  Pool of qualifying expenditure |  Indexed pool of expenditure |
+
+Step 1 |  - |  - |  - |  - |  - |
+
+A section 104 holding is created in April 1985 |  - |  - |  400 |  £1825 |  £1992 |
+
+£1825 x |  373.9 - 342.6 |  = £167 |  - |  - |  - |
+
+- |  342.6 |  - |  - |  - |  - |
+
+Step 2 |  - |  - |  - |  - |  - |
+
+The purchase of 500 shares in December 1986 is the next operative event. Indexation is given up to December 1986 |  - |  - |  - |  - |  £102 |
+
+£1992 x |  393.0 - 373.9 |  = £102 |  - |  - |  - |
+
+- |  373.9 |  - |  400 |  £1825 |  £2094 |
+
+Step 3 |  - |  - |  - |  - |  - |
+
+The cost of the new shares in December 1986 is added to the two pools of expenditure |  - |  - |  500 |  £3025 |  £3025 |
+
+- |  - |  - |  900 |  £4850 |  £5119 |
+
+The RPI was rebased in January 1987. Companies could either use figures which take the 1987 base RPI back to 1982 or use the
+
+RPI for Jan 87 (old basis) x RE (new basis) - 100
+
+RL (old basis)
+
+100
+
+For example, if there was an operative event in April 1987 and the previous operative event was in December 1986 the indexation formula would be
+
+394.5 x 101.8 - 100 = 0.0219
+
+393.0
+
+100

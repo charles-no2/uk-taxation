@@ -1,0 +1,72 @@
+Calculating the chargeable estate: calculation where residue wholly chargeable
+Identifier: IHTM26030
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26030
+Published: 2016-04-09T09:46:58+01:00
+Updated: 2022-02-01T13:09:12+00:00
+Retrieved (UTC): 2026-09-18T15:02:58.425925+00:00
+
+If the residue is wholly chargeable, in practice you can normally calculate the chargeable part of the estate simply by deducting any specific gifts (IHTM26011) which are exempt. But, where there is (or may be) abatement (IHTM12086 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12086)) of the exempt gift under IHTA84/S37 (2), you will have to value the chargeable specific gifts, including grossing up (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121)) those free of tax (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003)).
+
+You must consider interaction (IHTM26101) if there is property reduced by business relief (IHTM25131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25131)) (BR) or agricultural relief (IHTM24001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24001)) (AR)
+
+Example 1
+
+Amanda dies in January 1998 leaving an estate of £500,000. There is no relievable property.
+
+By Will her estate passes:
+
+- £50,000 to a charity (IHTM11112 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11112)) absolutely
+
+- house valued at £150,000 to a daughter free of tax
+
+- residue equally to children
+
+There is no need to gross up the gift to the daughter.
+
+Your calculation is simply:
+
+Value of estate = £500,000
+
+Less exempt legacy -£50,000
+
+Chargeable estate = £450,000
+
+Example 2
+
+The facts are as in Example 1 except that the estate includes land used by a business valued at £400,000 and qualifying for BR at 50%.
+
+The calculation follows the six stages at (IHTM26104 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26104)) and becomes:
+
+Value of estate = £500,000
+
+Stage 1
+
+Less business relief = £200,000
+
+Value transferred = £300,000
+
+Stage 2
+
+There are no specific gifts of relievable property
+
+Stage 3
+
+Reduce the gift to the charity by the IHTA84/S39A fraction. Because the residue is wholly taxable there is no need to do this for the gift of the house.
+
+(£300,000 ÷ £500,000) x £50,000 = £30,000
+
+Stage 4
+
+There is no need to gross up the gift of the house
+
+Stage 5
+
+The final calculation is:
+
+Stage 6
+
+Value of the estate for Inheritance Tax = £300,000
+
+Less reduced value of exempt gift -£30,000
+
+Chargeable estate = £270,000

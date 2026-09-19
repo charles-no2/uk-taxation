@@ -1,0 +1,22 @@
+Restrictions on relief for purchases: the  restriction
+Identifier: IHTM34212
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34212
+Published: 2016-04-09T10:12:10+01:00
+Updated: 2017-11-07T16:35:06+00:00
+Retrieved (UTC): 2026-09-18T15:07:20.575686+00:00
+
+The restriction is based on the ratio of the cost of the purchases of qualifying investments (IHTM34131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34131)) to the aggregate sale value, IHTA84/S180 (1). The formula used to calculate the restriction is
+
+(Aggregate value of the relevant purchases ÷ Aggregate value of sales) × loss
+
+The restriction is deducted from the loss that would otherwise be due.
+
+Example
+
+Sam’s estate includes shares that have a date of death value of £12,000. The executor sells them within twelve months for £9,000. Under normal circumstances the loss would be £3,000. But within two months of the last sale the executor purchases other qualifying shares for £5,000. The loss relief is reduced by
+
+(£5,000 ÷ £9,000) × £3,000 = £1,667
+
+The net loss is now £3,000 - £1,667 = £1,333
+
+If the aggregate value of the purchases equals or exceeds the aggregate values of the sales, no relief will be available.

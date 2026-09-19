@@ -1,0 +1,56 @@
+Indexation: example: wasting assets/assets derived from other assets
+Identifier: CG17484
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17484
+Published: 2016-03-12T10:17:42+00:00
+Updated: 2023-04-12T11:59:00+01:00
+Retrieved (UTC): 2026-09-18T14:38:33.212131+00:00
+
+In his will Mr K, who died on 1 February 1983, left the film rights in a novel to his daughter Miss L, and the rest of the copyright to his son Mr M. the respective probate values were £50,000 and £35,000.
+
+1 January 1987 Miss L acquired the rest of the copyright from Mr M for £60,000. This was a transaction between connected persons, and Shares and Assets Valuation, see CG68300, advised that the value was £80,000.
+
+1 January 1992 Miss L sold the (entire) copyright for £200,000. The copyright is a wasting asset as it will cease to exist on 31 December 2033.
+
+Mr M’s computation is
+
+- |  - |  - |  - |  £ |
+
+- |  - |  Market value on sale |  - |  80,000 |
+
+Less |  - |  probate value |  35,000 |  - |
+
+- |  - |  wasted 3/50 |  2,100 |  - |
+
+- |  Wasted cost |  - |  - |  32,900 |
+
+- |  - |  Unindexed gain |  - |  47,100 |
+
+Less |  Indexation |  32,900 |  - |  6,744 |
+
+- |  - |  INDEXED GAIN |  - |  40,356 |
+
+For Miss L TCGA92/S43 applies because the value of the copyright in her hands is partly derived from the film rights which she had previously. Once she had the copyright as a whole, the film rights as a separate asset ceased to exist. Her computation is:-
+
+- |  - |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  - |  200,000 |
+
+Less |  Costs |  - |  - |  - |
+
+- |  Probate value |  50,000 |  - |  - |
+
+- |  less wasted 8/50 |  8,000 |  42,000 |  - |
+
+- |  Market value |  80,000 |  - |  - |
+
+- |  less wasted 5/47 |  8,510 |  71,490 |  113,490 |
+
+- |  - |  Unindexed gain |  - |  86,510 |
+
+Less |  Indexation |  113,490 x 0.356 |  - |  40,402 |
+
+- |  - |  INDEXED GAIN |  - |  46,402 |
+
+Indexation runs on BOTH items of allowable expenditure from 1 January 1987. (If on the other hand Mr M had paid his sister to surrender her film rights, indexation would have run on the copyright from the date of Mr K’s death as acquisition costs, and on the market value of the film rights from the date of surrender as enhancement expenditure.)
+
+There are examples demonstrating the case where a leaseholder buys the freehold at CG71420 - CG71423.

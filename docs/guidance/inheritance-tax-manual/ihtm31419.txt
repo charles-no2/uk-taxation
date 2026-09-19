@@ -1,0 +1,62 @@
+Assessing: calculations: death estate: tax previously paid
+Identifier: IHTM31419
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31419
+Published: 2016-04-09T10:04:39+01:00
+Updated: 2016-02-11T17:19:05+00:00
+Retrieved (UTC): 2026-09-18T15:06:08.152743+00:00
+
+Your calculation will now show the tax to pay on your assessment group (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)).
+
+Deduct any tax previously paid to arrive at the figure for tax now due.
+
+- Ensure that the tax previously paid relates to this assessment group only.
+
+- Do not include any outstanding deposits you wish to apply against the tax due - you will adjust for this later (IHTM31560 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31560)).
+
+- If no tax has previously been paid, show this amount as ‘nil’.
+
+COMPASS (IHTM31101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31101)) will insert the tax previously paid automatically, but you will have to include the appropriate figure in a manual template (IHTM31301) calculation yourself.
+
+If the tax now due is a negative figure, in that more tax has been paid than is now due, follow the repayment (IHTM31601 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31601)) procedures.
+
+If there is a net amount to pay, you should consider the interest charge (IHTM31511 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31511)).
+
+IOP - part sold, part unsold
+
+If you have registered part of the property as sold since the last calculation, apportion the tax previously paid between the property for which instalments still apply and for which instalments no longer apply on the basis of the values previously assessed.
+
+If COMPASS has apportioned the tax previously paid automatically, check that the figures are correct. COMPASS sometimes gets this calculation wrong, particularly if there are revisions to the value of the property involved.
+
+Example
+
+On 3 June 2012 you assessed £5,000 tax on the first instalment of IOP totalling £200,000. The calculation was paid.
+
+On 1 July 2012 you are told that one property originally included at £60,000 has been sold. The sale price of £80,000 is agreed. The overall IOP tax charge is increased from £50,000 to £56,000.
+
+The tax calculation will be:
+
+Instalments still apply
+
+Now chargeable £140,000
+
+Tax = £35,636
+
+Total now due = £3,564
+
+Tax prev paid = £3,500 (this is 140,000 ÷ 200,000 × £5,000)
+
+Tax payable = £64
+
+Instalments no longer apply
+
+Now chargeable = £80,000
+
+Tax = £20,364
+
+Total now due = £20,364
+
+Tax previously paid £1,500 (this is 60,000 ÷ 200,000 × £5,000)
+
+Tax payable = £20,364
+
+The total tax payable is £20,428.

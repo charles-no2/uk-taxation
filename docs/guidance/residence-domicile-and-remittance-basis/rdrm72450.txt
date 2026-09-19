@@ -1,0 +1,116 @@
+Temporary repatriation facility: Qualifying overseas capital: Supplementary charge on capital payments made by non-resident settlements
+Identifier: RDRM72450
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72450
+Published: 2025-07-31T22:09:27+01:00
+Updated: 2025-07-31T22:09:27+01:00
+Retrieved (UTC): 2026-09-18T16:19:12.738958+00:00
+
+Section 91 TCGA 1992 increases the rate of Capital Gains Tax (CGT) on section 87 and 89(2) gains if a capital payment is matched against a ‘section 1(3) amount’ of an earlier year and the payment is received more than one year after the year in which the section 1(3) amount accrued to the trustees. The amount of the tax payable is increased by 10% per annum up to a maximum of six years. The period is calculated as follows.
+
+The period ends on 30 November of the year following that in which the capital payment is made.
+
+The period starts with the later of:
+
+- 6 years before the end date
+
+- 1 December of the tax year immediately after the year in which the trustees realised the gain
+
+For further details on this ‘supplementary charge’ see CG38795 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38795) and CG38800 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38800).
+
+Where chargeable gains are treated as accruing to an individual in tax years 2025-26 to 2027-28 because of a capital payment, qualifying individuals may designate ‘qualifying overseas capital’ for the temporary repatriation facility (TRF).
+
+Where a capital payment has been designated under the TRF no further CGT is due and as such there is also no additional supplementary charge.
+
+However, a supplementary charge will continue to apply where a capital payment is made that cannot be matched to the TRF designation.
+
+Example
+
+Continuing the example of Alan, Bridie and Craig provided in RDRM72400 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72400).
+
+In the 2025-26 tax year none of the beneficiaries will have a supplementary charge to pay.
+
+In the case of Alan, this is because his £20,000 payment is entirely designated under the TRF so his chargeable gains are reduced by the £20,000 designation to nil.
+
+In the case of Craig, this is because his £20,000 gain is matched entirely to gains that arose in 2025-26, the same tax year in which the distribution is made.
+
+In the case of Bridie, like Craig, her gain after deducting her personal losses is also matched entirely to gains that arose in 2025-26.
+
+Assuming that payments are made after 1 December 2026, however, in the 2026-27 tax year all 3 beneficiaries have a supplementary charge to pay.
+
+In the case of Craig, all his £20,000 capital payment is matched to historic gains. £5,714 (29% of total) are matched to gains which arose in 2019-20, which is 6 years prior to 1 December 2026 and so would attract a 60% increase in the rate of CGT, and £14,286 (71% of total) to gains which arose in 2020-21, which is 5 years prior to 1 December 2026 and so would attract a 50% increase in the rate of CGT.
+
+Craig can make use of his CGT annual exempt amount (AEA) against his gain in the manner that is most optimal to him. As such his CGT and supplementary charge will be as follows:
+
+CGT:
+
+2020-21: £14,286
+
+2019-20: £5,714
+
+Less annual exempt amount (AEA): (£3,000)
+
+Net chargeable gains: £17,000
+
+Tax at 24%: £4,080
+
+The AEA is used in the most beneficial way.
+
+Given that a higher supplementary charge will apply to the earlier year gains, it would be more beneficial to Craig in this example to set his AEA against the 2019-20 gains in priority.
+
+Supplementary charge:
+
+2019-20: £4,080 x ((£5,714 – £3,000)/£17,000) x 60% = £390.81
+
+2020-21: £4,080 x (£14,286/£17,000) x 50% = £1,714.32
+
+Total = £2,105.13
+
+For Alan, although he received the same £20,000 distribution as Craig (£5,714 or 29% matched to gains that arose in 2019-20 and £14,286 or 71% to gains which arose in 2020-21) he has made a £16,000 designation under the TRF meaning that he is only taxable on £4,000.
+
+As there is no CGT due on the £16,000 that has been designated under the TRF, there can also be no supplementary charge on this amount.
+
+When calculating his supplementary charge, Alan is not required to take into consideration the method via which the virtual matching exercise has been completed and the £16,000 TRF deduction need not be reduced from any particular portion of the gain. Nor is Alan required to apportion the £4,000 gain in the same 29% to 71% apportionment as the original £20,000 distribution between gains which arose in 2019-20 and 2020-21. Alan is able to calculate the supplementary charge in the manner which is most favourable to him.
+
+In Alan's case, for supplementary charge purposes, it is most favourable for Alan to consider the £16,000 TRF designation to match first to the £5,714 gains which arose in 2019-20 with the balance of £10,286 to match to the gains from 2020-21. As such the remaining £4,000 capital distribution can be considered to match to 2020-21 gains.
+
+Since Alan can also offset his CGT AEA in the manner most favourable to him, his CGT and Supplementary Charge will be as follows:
+
+CGT:
+
+2020-21: £4,000
+
+Less annual exempt amount (AEA): (£3,000)
+
+Net chargeable gains: £1,000
+
+Tax at 24%: £240
+
+Supplementary charge:
+
+2020-21: £240 x 50% = £120
+
+Total = £120
+
+Bridie’s calculation is similar to Alan’s. Bridie received a capital payment of £30,000 which is matched to gains of £21,429 from 2020-21 and £8,751 from 2019-20.
+
+Bridie designated £24,000 under the TRF and she can opt to reduce her CGT Supplementary Charge in the manner that is most favourable to her.
+
+In Bridie’s case, the first £8,751 of her TRF designation can be used to reduce her 2019-20 matched gains and the remaining £15,429 can be used to reduce her 2020-21 gains. As such the remaining £6,000 are in respect of her 2020-21 gains.
+
+Like Alan and Craig, Bridie can also make use of her CGT AEA in the manner most favourable to her and so her CGT and Supplementary Charge will be as follows:
+
+CGT:
+
+2020-21: £6,000
+
+Less annual exempt amount (AEA): (£3,000)
+
+Net chargeable gains: £3,000
+
+Tax at 24%: £720
+
+Supplementary charge:
+
+2020-21: £720 x 50% = £360
+
+Total = £360

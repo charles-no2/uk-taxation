@@ -1,0 +1,236 @@
+Leases: grant of lease out of short lease: computation of gain
+Identifier: CG71004
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71004
+Published: 2016-03-12T12:15:00+00:00
+Updated: 2023-04-27T12:40:09+01:00
+Retrieved (UTC): 2026-09-18T14:48:11.352584+00:00
+
+TCGA92/Sch 8/Para 4
+
+Where a short lease is granted out of a short lease, a part of the premium received will be chargeable as property income, see CG70900P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70900p). This amount must be excluded when arriving at the gain accruing on the grant of the sub-lease.
+
+The way in which this is done is by initially using the full amount of the premium as the consideration for capital gains purposes. After calculating the gain, the amount chargeable as property income is deducted to arrive at the chargeable gain.
+
+In the case of companies, the deduction is made after indexation has been deducted.
+
+However, this deduction cannot transform an indexed gain into an allowable loss, nor can it increase the amount of an indexed loss - TCGA92/Sch 8/Para 5 (2).
+
+The method of computing the gain in these circumstances is illustrated by the following examples.
+
+Example 1
+
+Mr W paid a premium of £300,000 to acquire a 55 year lease on a property. Seven years later he granted a 30 year sub-lease over the whole property in return for a premium of £400,000. The rent payable under the sub-lease was the same as the rent payable under the original lease.
+
+Although the original lease was a long lease when it was acquired, it had become a short lease by the time that the sub-lease was granted as its remaining term was then 48 years.
+
+Step 1: Allowable expenditure
+
+As per CG71001 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71001):
+
+Expenditure x [ (C-D) / P(1) ]
+
+P (1) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the beginning of the period of ownership;
+
+C is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the remaining term of the lease when the sub-lease was granted;
+
+D is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the remaining term of the lease when the sub-lease expires.
+
+The percentages which are required from the table in TCGA92/Sch 8/Para 1, see CG71141 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71141), are:
+
+P (1) - Percentage for 55 years: 100
+
+C - Percentage for 48 years: 99.289
+
+D - Percentage for 18 years: 68.697
+
+Expenditure x [ (C-D) / P(1) ]
+
+= £300,000 x [ (99.289 - 68.697) / 100 ]
+
+= £91,776
+
+Step 2: Amount chargeable as property income
+
+As per CG70900P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70900p):
+
+P x [ (50 - Y) / 50 ]
+
+P is the amount of the premium;
+
+Y is the number of complete years (other than the first) in the term of the lease.
+
+= £400,000 - [ (50 x 29) / 50 ]
+
+= £400,000 x 0.42
+
+= £168,000
+
+Step 3: Chargeable gain
+
+Gain |  Amount |
+
+Premium received |  £400,000 |
+
+Less Allowable expenditure |  £91,776 |
+
+Less Amount chargeable as property income |  £168,000 |
+
+- |  £140,224 |
+
+Example 2
+
+Mrs S paid a premium of £200,000 to acquire a 30 year lease over a property. Five years later she granted a sub-lease for 10 years over the whole property in return for a premium of £150,000. The rent payable under the sub-lease was the same as the rent payable under the original lease.
+
+Step 1: Allowable expenditure
+
+As per CG71001 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71001):
+
+Expenditure x [ (C-D) / P(1) ]
+
+P (1) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the beginning of the period of ownership;
+
+C is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the remaining term of the lease when the sub-lease was granted;
+
+D is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the remaining term of the lease when the sub-lease expires.
+
+The percentages which are required from the table in TCGA92/Sch 8/Para 1, see CG71141 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71141), are:
+
+P (1) - Percentage for 30 years: 87.330
+
+C - Percentage for 25 years: 81.100
+
+D - Percentage for 15 years: 61.617
+
+Expenditure x [ (C-D) / P(1) ]
+
+= £200,000 x [ (81.100 - 61.617) / 87.330 ]
+
+= £44,620
+
+Step 2: Amount chargeable as property income
+
+As per CG70900P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70900p):
+
+P x [ (50 - Y) / 50 ]
+
+P is the amount of the premium;
+
+Y is the number of complete years (other than the first) in the term of the lease.
+
+= £150,000 - [ (50 - 9) / 50 ]
+
+= £150,000 x 0.82
+
+= £123,000
+
+Step 3: Chargeable gain
+
+Gain |  Amount |
+
+Premium received |  £150,000 |
+
+Less Allowable expenditure |  £44,620 |
+
+Less Amount chargeable as property income |  £123,000 |
+
+- |  £ NIL |
+
+Since the deduction of the amount chargeable as property income cannot transform a gain into an allowable loss, the result in this case is no gain/no loss.
+
+Example 3
+
+LN Ltd paid a premium of £300,000 to acquire a 55 year lease on a property on 6 February 2010. On 6 February 2017 the company granted a 30 year sub-lease over the whole property in return for a premium of £400,000. The rent payable under the sub-lease was the same as the rent payable under the original lease.
+
+Although the original lease was a long lease when it was acquired, it had become a short lease by the time that the sub-lease was granted as its remaining term was then 48 years.
+
+Step 1: Allowable expenditure
+
+As per CG71001 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71001):
+
+Expenditure x [ (C-D) / P(1) ]
+
+P (1) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the beginning of the period of ownership;
+
+C is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the remaining term of the lease when the sub-lease was granted;
+
+D is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the remaining term of the lease when the sub-lease expires.
+
+The percentages which are required from the table in TCGA92/Sch 8/Para 1, see CG71141 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71141), are:
+
+P (1) - Percentage for 55 years: 100
+
+C - Percentage for 48 years: 99.289
+
+D - Percentage for 18 years: 68.697
+
+Expenditure x [ (C-D) / P(1) ]
+
+= £300,000 x [ (99.289 - 68.697) / 100 ]
+
+= £91,776
+
+Step 2: Amount chargeable as property income
+
+As per CG70900P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70900p):
+
+P x [ (50 - Y) / 50 ]
+
+P is the amount of the premium;
+
+Y is the number of complete years (other than the first) in the term of the lease.
+
+= £400,000 - [ (50 - 29) / 50 ]
+
+= £400,000 x 0.42
+
+= £168,000
+
+iii) Compute the unindexed gain without reference to the amount chargeable as property income
+
+The gain accruing to LN Ltd is:
+
+Premium - Allowable Expenditure
+
+= £400,000 - £91,776
+
+= £308,224
+
+Step 3: Unindexed gain without reference to the amount chargeable as property income
+
+Gain |  Amount |
+
+Premium received |  £400,000 |
+
+Less Allowable expenditure |  £91,776 |
+
+- |  £308,224 |
+
+Step 4: Indexation allowance
+
+Allowable expenditure x indexation factor
+
+= £91,776 x 0.224
+
+= £20,558
+
+Step 5: Indexed gain
+
+Gain |  Amount |
+
+Unindexed gain |  £308,224 |
+
+Less Indexation allowance |  £20,558 |
+
+- |  £287,666 |
+
+Step 6: Chargeable gain
+
+Gain |  Amount |
+
+Indexed gain |  £287,666 |
+
+Less amount chargeable as property income |  £20,558 |
+
+- |  £267,108 |
+
+For companies, the indexed gain must be calculated before the amount chargeable as property income is deducted. Neither indexation, nor the amount chargeable as property income can create or increase a loss.

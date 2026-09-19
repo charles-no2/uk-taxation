@@ -1,0 +1,81 @@
+Share valuation: 1982 holding of unquoted shares: no gain/loss transfers
+Identifier: CG59584
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg59584
+Published: 2016-03-12T11:49:21+00:00
+Updated: 2021-06-07T10:03:34+01:00
+Retrieved (UTC): 2026-09-18T14:44:34.883650+00:00
+
+The standard method (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg59584#IDAER0IM)
+The alternative method (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg59584#IDAUS0IM)
+
+Rebasing is only given on the disposal of an asset which was held on 31 March 1982 by the person making the disposal. However, TCGA92/SCH3/PARA1 provides that rebasing is available on the disposal of an asset
+
+- by a person who did not own the asset on 31 March 1982 if
+
+- they acquired the asset on a no gain/no loss transfer or a series of no gain/no loss transfers from a person who did own the asset on 31 March 1982.
+
+The person who disposes of the asset is treated as though they held the asset on 31 March 1982. A list of no gain/no loss transfers is given at TCGA92/S288(3). The most common examples are transfers between spouses or between civil partners and between companies that are members of the same group under TCGA92/S171.
+
+However, the special rules dealing with nil gain/nil loss transfers do not apply for capital gains tax purposes for disposals on or after 6 April 2008. Where a disposal by an individual within the charge to capital gains tax takes place after that date and individual acquired the shares from a spouse or civil partner who held then at 31 March 1982 they are not treated as if they held the shares on that date. The shares will become part of the transferee’s section 104 holding at the appropriate no gain/no loss value at the date of transfer, which will take into account the value of the transferor’s holding at 31 march 1982.
+
+There are two ways of arriving at the size of the shareholding to be valued at 31 March 1982 in computing the gain or loss on the disposal by the transferee of shares which, as a result of TCGA92/SCH3/PARA1, are treated as having been held by the transferee at 31 March 1982.
+
+- The standard method. You value the shares a person actually held and is treated as holding.
+
+- The alternative method. A person may claim to base the valuation on the largest size shareholding from which any of the shares were transferred.
+
+Note that the alternative method was originally set out in a concession, ESC/D44, until made law by for disposals from 1 April 2010. See TCGA92/S55(6)(aa) and TGCA92/SCH3PARA1A which applies for corporation tax purposes.
+
+The standard method
+
+The valuation will include all the shares a company actually held on 31 March 1982 together with the shares they are treated as holding as a result of the no gain/no loss transfer. The shares that the person acquired as a result of the no gain/no loss transfer are not deducted from the transferor’s shareholding for valuation purposes. You still require a valuation of the shares they actually held. In some cases the combined total of the shares SAV are asked to value will be greater than the total number of shares in issue at 31 March 1982. This approach to identifying the size of shareholding to be valued was confirmed by SP5/89 issued on 25 May 1989.
+
+EXAMPLE
+
+- 1980 Mulligan Ltd bought the entire issued share capital of 1,000 shares in Big Night Ltd for £20,000 and immediately transferred 100 shares to Mr O’Hare Ltd, a member of the same group of companies as Mulligan Ltd.
+
+- In December 2006 Mulligan Ltd transferred a further 660 shares to O’Hare Ltd..In July 2012 Mulligan Ltd and O’Hare Ltdeach sold all of their shares in Big Night Ltd for £1.4M.
+
+- Neither company has made an election out of the kink test.
+
+The transfer between companies in the same group is at no gain/no loss, TCGA92/S171.
+
+The 2012 disposals are of 1982 holdings and the following valuations at 31 March 1982 are required -
+
+Mulligan Ltd - the 900 shares actually owned in 1982.
+
+O’Hare Ltd - the 100 shares actually owned in 1982 plus the 660 shares it is treated as holding at that time because they were acquired under a no gain/no loss provision.
+
+Therefore the valuation for each would reflect the degree of control of a company that comes from owning more than 75% of the shares.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg59584#Top)
+
+The alternative method
+
+The statutory method of valuation may not always work to a company’s advantage.
+
+Say that Mulligan Ltd had purchased only 800 of the 1000 issued shares in Big Night Ltd and transferred only a further 100 shares in 2006. Then O’Hare Ltd would be treated as having a holding of 200 shares on 31 March 1982. The value per share for this size of shareholding is significantly lower than a value per share based upon the 80 per cent holding from which the shares were acquired.
+
+TCGA92/SCH3PARA1A (and before that ESC/D44, which was not restricted to companies and so was available for capital gains tax for disposals before 6 April 2008) allows a company to elect to have the value per share of all the shares held and treated as held on 31 March 1982 computed by reference to the size of the largest shareholding actually held on 31 March 1982 out of which any of the shares sold were transferred. In this case, Mulligan’ Ltd’s 80% holding at that date.
+
+So if O’Hare Ltd makes a claim then the value per share will be based upon a holding of 80 shares. Therefore, if SAV agree a value per share of £2,000 based upon an 80 per cent shareholding, the 31 March 1982 value of O’Hare Ltd’s shareholding would be 20 x £2,000 = £40,000.
+
+The alternative method does not apply if the shareholding from which the shares are transferred is smaller than the shareholding actually held or treated as held by the taxpayer on 31 March 1982. In such cases the method would not offer any advantage.
+
+Note that there must be a transfer of shares that were actually held in a single shareholding on 31 March 1982. The size of the shareholding which will be used as a bench mark for valuations at 31 March 1982 is not affected by transfers after that date.
+
+The alternative method does not simply aggregate shareholdings held by different group companies in the same group. Say if on 31 March 1982 one group company owned 40 and another 30 out of 100 issued shares in an unquoted company, a claim would not mean that either would be treated as having a holding of 70 shares.
+
+The standard method of computation may give a more beneficial basis of valuation such as where
+
+- the company already had a substantial holding of shares. Say company X owned 40 out of 100 shares at 31 March 1982 and company Y 30. X then transferred 35 shares to Y which sells all 65. The standard method of computation will give a value per share based upon a 65 per cent shareholding. The alternative method would value all 65 shares be based on only a 40 per cent holding because that was the largest shareholding from which the shares treated as held on 31 March 1982 were transferred;
+
+or
+
+- the company received shares from a number of transferors. Say five group companies each owned 20 per cent of the shares in X Ltd at 31 March 1982 four of which subsequently transferred their shareholding to a sixth company which then sold its 80 per cent shareholding. The standard method of computation will give a value per share based upon an 80 per cent shareholding. In contrast the alternative method would base the value of the entire shareholding on a 20 per cent holding because this is the largest shareholding from which any of the shares treated as held on 31 March 1982 was been transferred.
+
+For disposals by companies on or after 1 April 2010 the time limit for a claim is the end of the second accounting period after that in which the disposal is made.
+
+To take advantage of the alternative method the claim must be made within two years of the end of the year of assessment or accounting period in which the disposal is made.
+
+SAV should be told when the alternative method applies with the size of the shareholding to be valued clearly identified.

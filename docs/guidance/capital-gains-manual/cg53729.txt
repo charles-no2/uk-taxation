@@ -1,0 +1,32 @@
+Compliance
+Identifier: CG53729
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53729
+Published: 2016-03-12T11:33:53+00:00
+Updated: 2016-01-26T09:14:03+00:00
+Retrieved (UTC): 2026-09-18T14:33:10.631499+00:00
+
+You may meet cases where a debt has been disposed of and it is suggested that a chargeable gain or capital gains tax charge on the disposal has been reduced or eliminated because of an earlier change in the tax status of the debt. This may involve a change from a debt which was not a qualifying corporate bond (non QCB) to a debt which was a qualifying corporate bond (QCB) or vice versa. Often the debt will have been issued in respect of shares on a reorganisation of share capital, or on a company takeover, reconstruction or amalgamation which was treated as a reorganisation for capital gains purposes. In these cases the gain on the disposal of the debt should reflect the gain on the earlier holding of shares.
+
+In recent years a number of cases involving such claims have come before the courts.
+
+The general background to each of the cases is that shares are exchanged for non QCBs. TCGA 1992 Section 135 applies, see CG52500+, and for TCGA purposes there is no disposal at the date of exchange but instead any chargeable gain or allowable loss will be reflected when there is a disposal of the non QCBs.
+
+However prior to the redemption date for the non QCBs an event takes place whereby the non QCBs become QCBs. The customer argues that that event is not a disposal for the purposes of the TCGA, so the deferred gain does not accrue. The intended result is that since any gain that accrues on the redemption of QCBs is not a chargeable gain then any latent gain to the date of the original exchange of the shares for non QCBs will fall out of charge.
+
+Two cases which came before the courts are now final, Harding v HMRC, 79TC885 and Klincke v HMRC, [2010] UKUT 230.
+
+In Harding the loan notes contained an option that permitted redemption in a currency other than sterling: consequently they were non QCBs. However that option had lapsed without being exercised and the taxpayer argued that at the point it lapsed the loan notes ceased to be non QCBs and became QCBs. The Court of Appeal focused on the word ‘provision’ within section 117(1)(b). In essence the court held that what was important was whether the agreement contained a provision for conversion even though the right to elect for conversion could not be exercised. At the date of the disposal the provision was still in place. The fact that it could not be exercised at that date was not material. Therefore the loan notes did not qualify as QCBs.
+
+In Klincke the original agreement for the loan notes contained a clause allowing for conversion into dollars. The taxpayer entered into a deed of variation deleting certain terms of the original agreement which, he claimed, meant that the loan notes now came within the definition of a QCB.
+
+The First Tier Tribunal held that the deed of variation constituted a conversion of securities within section 132, see CG55000+. The deed changed the original terms which as a result no longer existed (so the facts differed from those in Harding). However the conversion meant that the deed of variation constituted a disposal of the non QCBs. Therefore in accordance with section 116 a deferred gain would be calculated under subsection (10) and that gain would accrue on the redemption of the QCBs, see CG53709-11. The Upper Tier Tribunal upheld the decision of the FTT.
+
+New rules were introduced in Finance Act 1997, section 88, effective on or after 26 November 1996 to put it beyond doubt that in such cases any gains on the earlier shares, and where appropriate on the debt itself up to the time of the change in status, remain within the capital gains charge. However, the events in Klincke predated the change and the Tribunals’ findings were based on the earlier statute. See CG55018+ for a more detailed explanation of the impact of the changes made.
+
+Another type of case is where the value of non QCBs is artificially suppressed prior to any conversion to QCBs. This artificial suppression can take a variety of forms but the intention is to reduce the value of the loan notes to such a level that the value will be lower than the base cost. The effect is that when a deed of variation is executed whereby non QCBs are converted into QCBs section 116(10) will apply but there will be no deferred chargeable gain: instead there will be a deferred allowable loss. There are usually provisions in the security which purport to restore the value of the QCB after conversion, so on disposal the holder receives the full value of the original non QCBs but without incurring a chargeable gain.
+
+One such case, Blumenthal v HMRC [2012] SFTD 1264 has been heard by the First Tier Tribunal. The decision in that case was that the scheme did not succeed in its purpose. The court adopted a purposive approach to the use of the term ‘market value’ as included within sections 116(10) and section 272, see CG 14530 for more detail on section 272. The judgment in Blumenthal stated, ‘the references in those provisions to ‘market value’ and ‘the price those assets might reasonably be expected to fetch on the sale in the open market’ do not refer to a value or price which has been artificially manipulated, solely for tax purposes in a wholly un-commercial fashion to produce a temporarily depressed value.
+
+Any case which falls within any of the descriptions mentioned above or where you suspect that action has been taken to avoid a deferred gain under section 116(10) coming into charge should be submitted to Capital Gains Technical Group.
+
+Note: The schemes referred to above should not be confused with the effect of Schedule 11 paragraph 16, see CG53716. Schedule 11 has effect for legislative changes made to the definition of what is a qualifying corporate bond. The cases referred to above relate to the securities themselves.

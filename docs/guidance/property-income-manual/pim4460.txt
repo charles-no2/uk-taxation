@@ -1,0 +1,54 @@
+Property allowance: contents: exclusions from relief: residential property finance restriction
+Identifier: PIM4460
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4460
+Published: 2018-04-03T11:10:51+01:00
+Updated: 2018-12-14T02:00:25+00:00
+Retrieved (UTC): 2026-09-18T14:28:46.673711+00:00
+
+From April 2017 the cost of getting a loan or alternative finance to buy a property that is let, and any interest on those loans and alternative finance is restricted for residential let properties (ITTOIA05/S272A). For individuals, the balance of finance costs which would otherwise qualify for relief but which because of the restriction has not been deducted in arriving at taxable rental profits, may be relieved at the basic rate of tax and deducted from their tax liability for the tax year in question. Relief at the basic rate is given through a ‘reducer’ which is applied under ITTOIA05/S274A. See PIM2050 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim2050) onwards for further details.
+
+The property income allowance is not available in a tax year where this reducer is applied to reduce an individual’s liability to income tax in that tax year- see ITTOIA05/S783BL.
+
+Where a landlord has residential finance costs that would be restricted in that tax year because of ITTOIA05/S272A, they will have the choice to:
+
+- either claim their expenses (including any allowable finance costs) and the reducer
+
+- or use the property income allowance (whether Full or Partial Relief)
+
+Where the choice is made to use the property income allowance, a carried-forward amount, as defined by S274A(6) cannot be created for that year to be used against the individual’s future years’ income tax liability.
+
+Individuals have the choice of whether to use the allowance, and therefore, not claim the reducer, or to claim the reducer and calculate their tax in the normal way by making an election following the guidance included in the SA Notes (http://www.gov.uk/government/publications/self-assessment-uk-property-sa105), if Full Relief would otherwise apply.
+
+See example at PIM4487 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4487)
+
+2018-19 onwards (prior years brought-forward under S274A)
+
+From 2018-19, an individual may have a brought-forward amount, of residential finance costs that have been restricted in earlier tax years, as defined by ITTOIA05/S274A(6) . How these brought forward amounts interact with Full Relief and Partial Relief is illustrated below:
+
+Full Relief
+
+If an individual has brought-forward amounts from earlier years and has receipts from their UK and/or overseas property business totalling £1,000 or less, they can choose to use the property income allowance, or elect to calculate the profits of their property business in the normal way which may result in them utilising this brought-forward amount to reduce their income tax liability.
+
+They still have this choice because if they use Full Relief their profits for their property business for tax purposes will be NIL.
+
+Under S274AA(2), the reduction is the basic rate value (currently 20%) of the lower of:
+
+- finance costs - costs not deducted from rental income in the tax year (this will be a proportion of finance costs for the transitional years) plus any finance costs brought forward
+
+- property business profits - the profits of the property business in the tax year (after using any brought forward losses)
+
+- adjusted total income - the income (after losses and reliefs, and excluding savings and dividends income) that exceeds your personal allowance
+
+If property business profits are NIL, this will be the value used to calculate the reducer and will result in no reducer being available to reduce the individual’s liability to income tax in s23 Income Tax Act 2007.
+
+Partial Relief
+
+If an individual has brought-forward amounts from an earlier year and has receipts from their UK and/or overseas property business of more than a £1,000 they will need to consider if they are able to elect for the property income allowance or not.
+
+If their Adjusted Total Income (ATI), as defined by ITTOIA05/S274AA(6), would leave them well within their personal allowance (or other relevant allowances as outlined in Step 2 of ITTOIA05/S274AA(6), then the actual amount of their tax reducer will be NIL. They therefore still have the choice to elect to use the property income allowance Partial Relief or to use their actual expenses.
+
+If an individual’s ATI would mean that they will have taxable income, whether they were to deduct the £1,000 allowance or not, then the brought-forward amounts of the reducer will automatically be applied against this taxable income to reduce their final income tax amount. This means they will not be entitled to elect to use the property income allowance Partial Relief.
+
+If an individual’s ATI is near the limit of any allowances, they will need to consider their individual circumstance to determine whether using Partial Relief would mean they have no income tax liability on their income. In this case they still have the choice of whether to elect to use Partial Relief or to claim expenses and utilise the brought forward reducer in the normal way. If, even after deducting the property income relief from their property business income, they would still have an income tax liability then they will not be able to elect to use the property income Partial Relief.
+
+See PIM2050 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim2050) onwards for more details regarding the restriction and relief, including further details on how the S274A reducer is calculated.

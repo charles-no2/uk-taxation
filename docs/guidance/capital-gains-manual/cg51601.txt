@@ -1,0 +1,86 @@
+Share identification rules for corporation tax: historical survey
+Identifier: CG51601
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51601
+Published: 2016-03-12T11:23:01+00:00
+Updated: 2016-01-25T17:18:29+00:00
+Retrieved (UTC): 2026-09-18T14:42:12.997226+00:00
+
+The historic rules for share identification can still affect the calculation of gains for corporation tax purposes where a holding of shares has been held for many years. This is a brief overview of the way the rules have changed since the introduction of the tax on chargeable gains in 1965. A more detailed survey, which includes the rules for capital gains tax, can be found in the previous version of CG50520 onwards.
+
+Disposals from 7 April 1965 to 31 March1982 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51601#IDA4KAPE)
+Disposals from 1982 to 1985 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51601#IDASLAPE)
+Disposals from 1985 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51601#IDA4MAPE)
+
+Disposals from 7 April 1965 to 31 March1982
+
+All acquisitions of shares of the same class in the same company were pooled. This means the cost of the shares was added together. The purchase of individual blocks of shares lost their identity in the pool. Instead all the shares in the pool were treated as though they were acquired at the same average cost. The pool was regarded as a single asset. Any disposal of less than all the shares in the pool was treated as a part disposal of that single asset.
+
+If a company held shares on 6 April 1965, then the treatment depended upon whether the shares were quoted or unquoted.
+
+Gains on quoted shares held at 6 April 1965 were computed by reference to their market value on that date unless their actual cost was greater (the “kink test”) Such shares acquired at different times were identified on a first in first out basis. But from 1968 the company could elect to have these shares added to the pool of shares acquired after 6 April.
+
+Gains on unquoted shares were calculated by reference to their original cost and then time apportioned. Alternatively the company could elect to use the 6 April 1965 market value. Shares acquired at different times were identified on a first in first out basis.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51601#Top)
+
+Disposals from 1982 to 1985
+
+FA82 introduced relief from inflation in the form of indexation allowance on assets held for twelve months or longer. Therefore, it was necessary to identify the precise date on which any particular shares were purchased. This could not be done if shares lost their identity in a share pool. As a result share pooling arrangements stopped with effect from 31 March 1982.
+
+From 1982 to 1985 disposals were identified in the following order -
+
+- firstly against acquisitions on the same day
+
+- secondly against acquisitions in the previous twelve months on a first in first out basis
+
+- finally, against other acquisitions on a last in first out basis. The last in first out basis also applied to assets held on 6 April 1965.
+
+This order of identification meant that disposals were identified first against acquisitions which did not qualify for indexation allowance.
+
+From 1983 a company could elect for an alternative method of computing indexation allowance known as parallel pooling. An election for parallel pooling ceased to have effect from 1 April 1985.
+
+When pooling was reintroduced generally in 1985, companies which had elected for parallel pooling could revoke their election; otherwise regulations set out how to deal with the effects.
+
+This guidance was revised in 2014 and it is assumed that there is no longer any likelihood of the parallel pooling rules requiring consideration. If you need to consider the deleted guidance concerning the ending of parallel pooling then this is available from commercial tax information packages or directly from Capital Gains Technical Group.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51601#Top)
+
+Disposals from 1985
+
+The requirement for assets to be held for 12 months before attracting indexation allowance was removed in 1985 so it became possible to reintroduce share pooling for most shares acquired after March 1982. The 1985 rules continue to provide the fundamental basis for calculating gains on disposals of shares by companies.
+
+The requirement for assets to be held for 12 months before attracting indexation allowance was removed in 18=985 so it was possible to reintroduce share pooling for most shares acquired after March 1982. Pooling has continued to be the fundamental basis for calculating gains on disposals of shares by companies.
+
+Some securities do need to be identified on an individual basis, for example, securities within the accrued income scheme. These securities are called `relevant securities’ and their treatment is described at CG51650+.
+
+From 1985, a company could claim to have indexation allowance computed by reference to an asset’s value on 31 March 1982. Therefore, it is still necessary to distinguish between shares acquired before and after that date.
+
+Disposals of shares of the same class in the same company now fall into three broad categories for identification purposes -
+
+- the “Section 104 holding” (sometimes called the “new holding”) of shares acquired from 1982 which attract indexation allowance in the manner described below,
+
+- the “1982 holding” of shares acquired after 6 April 1965, and
+
+- any shares held at 6 April 1965.
+
+Indexation allowance is an integral part of the Section 104 holding for companies (indexation ceased to apply for capital gains tax purposes from 2008). The Section 104 holding therefore comprises
+
+- A pool of qualifying expenditure as regards the number of shares in the holding.
+
+- A pool of indexed expenditure (that is qualifying expenditure plus indexation).
+
+Whenever the qualifying expenditure is increased or decreased, an occasion called an “operative event”, an adjustment is made to the pool of indexed expenditure. Usually an operative event will be the sale or purchase of shares.
+
+Indexation allowance is due on from March 1982 on a disposal of shares identified with a 1982 holding or held at 6 April 1965.
+
+Rebasing
+
+The allowable cost of shares in the 1982 holding or held at 6 April 1965 may be affected by the rebasing rules introduced in 1988. Rebasing substitutes market value on 31 March 1982 for cost. If the shares are unquoted it will be necessary to agree a valuation. The valuation needed is of the entire holding of shares of the same class at 31 March 1982 not merely those shares that are sold if there is a part disposal. By virtue of ESC/D34 this includes the 1982 holding and any shares held at 6 April 1965. Shares acquired after 31 March 1982 on certain no gain/no loss transactions (say when the shares were acquired from a company in the same group) are treated as being held on 31 March 1982. See CG59580+ for detailed guidance on the valuation aspects.
+
+Indexation and losses
+
+From 1993 indexation allowance cannot create or increase a loss, see CG17700+.
+
+The Substantial Shareholding Exemption
+
+From 1 April 2002 gains made by companies on share disposals may, if the necessary conditions are satisfied, be exempt under TCGA92/SCH7AC (CG53000+). In such cases the shares disposed of are identified in the same way as for disposals giving rise to chargeable gains, so that for any future disposals which do may fall within the Schedule 7AC exemption the shares disposed of can be correctly calculated.

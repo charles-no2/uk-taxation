@@ -1,0 +1,104 @@
+Disposals by trustees: stock dividends
+Identifier: CG33800
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33800
+Published: 2016-03-12T10:41:40+00:00
+Updated: 2020-02-07T11:09:06+00:00
+Retrieved (UTC): 2026-09-18T14:31:35.321459+00:00
+
+Introduction (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33800#introduction)
+
+Income Tax (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33800#income-tax)
+
+Beneficiary entitled (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33800#beneficiary-entitled)
+
+Discretionary/accumulation (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33800#discretionary-accumulation)
+
+Other trusts (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33800#other-trusts)
+
+Trusts established under law of England & Wales or law of Northern Ireland (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33800#trusts-established-under-law-of-england)
+
+Scottish trust (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33800#scottish-trust)
+
+Introduction
+
+It is quite common for a company, particularly a quoted company, to offer its shareholders the option of receiving additional shares instead of a cash dividend. The expression `stock or scrip dividend’ is used to describe shares issued in such circumstances.
+
+The basic position under tax law is that when a company makes a bonus issue of shares no distribution arises, and the bonus issue of shares is not income for tax purposes in the hands of the recipient, see CIR v Blott, 8TC101 and CIR v Wright, 11TC181. This principle applies to all kinds of bonus issues, which include stock dividends, unless there is specific legislation dealing with the particular subject, see CTM17000 onwards.
+
+ITTOIA05/S410
+
+The use of stock dividends by quoted companies became increasingly common in the 1970’s, because a person paying high rates of tax could obtain a far greater net return by taking the stock dividend and selling it with a small Capital Gains Tax liability, than by taking the cash dividend and paying higher rate tax which could take most of the dividend. Therefore, legislation was enacted, which is now to be found at ITTOIA05/S410. The effect of this legislation is that in certain specified circumstances, for example where the shares are held by an individual, the recipient is charged to higher rate tax on the grossed-up value of the stock dividend. Detailed instructions are to be found at CTM17000 onwards.
+
+Income Tax
+
+Where the shares in respect of which the stock dividend is issued are held by trustees, ITTOIA05/S410 applies in some cases but not others. If Section 410 does not apply, then the stock dividend is not income for Income Tax purposes. For the Capital Gains Tax treatment of such cases see Other Trusts below.
+
+In considering whether and how ITTOIA05/S410 applies to trustees, it is first necessary to decide into which one of the five categories listed below the trust falls. The Income Tax treatment is covered in more detail in CTM17000 onwards.
+
+- Bare Trust. The meaning of the expression `bare trust’ is explained at CG34300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34300). In this situation the trust is ignored and the beneficiaries are treated for Capital Gains Tax purposes as the owners of the share capital. The normal rules for individuals apply, see CG58750 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58750).
+
+- Beneficiary entitled to the Stock Dividend. If a person who is an individual is beneficially entitled to the stock dividend, then he or she is assessable to higher rate tax under ITTOIA05/S410(2). The question whether a person is beneficially entitled to the stock dividend is discussed in the paragraphs below.
+
+- Discretionary or Accumulation Trust. If trustees receive a stock dividend, and would have been assessable under ITA07/S479, see TSEM 1112, on all or part of the dividend if it had been paid in cash, then ITTOIA05/S410(3) applies. The Capital Gains Tax treatment is explained in the paragraphs below.
+
+- Scottish liferenter (1993-94 onwards). The liferenter may be assessable under ITTOIA05/S410(2) even though he or she is not absolutely entitled to the stock dividend, as the result of ITA07/S464, see Scottish Trust below.
+
+- Other Trusts. ITTOIA05/S410 does not apply. The Capital Gains Tax treatment is explained below.
+
+Beneficiary entitled
+
+TCGA92/S142
+
+If one or more beneficiaries are entitled to the stock dividend, see the paragraphs below, and are therefore assessable under ITTOIA05/S410(2), then, under TCGA92/S142:
+
+- Notwithstanding TCGA92/S126 (2), see CG51700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51700)+, the case is not to constitute a reorganisation of the company’s share capital for the purposes of that paragraph, so that the trustees’ Capital Gains Tax `cost’ of the original shares is unaltered.
+
+- The person (or each of the persons) who is or would be entitled to the stock dividend is to be treated as having acquired that share capital for a consideration equal to `cash equivalent of the share capital’, see CTM17010.
+
+- There is no disposal, deemed or actual, by the trustees of the stock dividend.
+
+Although TCGA92/S142 was substantially amended by Finance Act 1998, this did not affect the treatment described above.
+
+Discretionary/Accumulation
+
+TCGA92/S141 and S142
+
+If the trustees are assessable under ITTOIA05/S410(3) (formerly ICTA88/S249(6)), because a cash dividend would be wholly or partly within ITA07/S479 (formerly ICTA88/S686), the Capital Gains Tax treatment depends upon when the shares constituting the stock dividend were issued.
+
+If the shares are issued before 6 April 1998, then, under TCGA92/S141 this is treated as a reorganisation within TCGA92/S126, see CG51700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51700)+, with the trustees having given `the appropriate amount in cash’ CTM17010) for the additional shares. If the trustees then chose to, or had to, distribute the stock dividend shares to one or more of the beneficiaries, that would be a disposal by them of the shares in question, at market value, with the appropriate pooling rules applying.
+
+If the shares are issued on or after 6 April 1998, then, under a revised TCGA92/S142 the stock dividend is not treated as a share reorganisation within TCGA92/S126. Instead it is treated as a new acquisition of shares by the trustees, with the cost of acquisition being the ‘cash equivalent of the share capital’ under ITTOIA05/S412. Any subsequent distribution of the stock dividend shares by the trustees to the beneficiaries would be a disposal at market value, with the shares being identified with acquisitions under the normal rules set out in CG51550 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51550)+.
+
+Other trusts {#}
+
+If a stock dividend is received by trustees and neither (2) nor (3) of ITTOIA05/S410 apply, then there is no liability to Income Tax in respect of the receipt. TCGA92/S142 does not apply, and this is a simple reorganization of shares falling within Section 126, see CG51700+, with no consideration given. The treatment for Capital Gains Tax purposes is therefore that of a conventional bonus issue, see CG51746 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51746). If the trustees then chose to or had to distribute the stock dividend shares to one or more of the beneficiaries, that would be a disposal by them at market value, with the appropriate identification rules in CG51550+ applying.
+
+Trusts established under law of England & Wales or law of Northern Ireland
+
+Except in the case of an enhanced stock dividend, which is considered in CG33800, where:
+
+- a trustee receives a stock dividend as defined in ITTOIA05/S414A (CTM17000 onwards)
+
+- the settlement is one to which the law of England & Wales or the law of Northern Ireland applies
+
+- there is a beneficiary with an interest in possession, generally a life interest, at the time of issue,
+
+then he or she is beneficially entitled to it, or to his or her share of it, immediately. This is because such a stock dividend is received as income, and the income belongs to the beneficiary. See Archer-Shee v Baker, 11TC749. Therefore ITTOIA05/S410(2) applies to the beneficiary.
+
+Enhanced stock dividends
+
+The paragraph above is concerned with conventional stock dividends, where the value of the share alternative is intended to be equal to that of the cash dividend. The position is however different in the case of an `enhanced stock dividend’, that is to say a stock dividend which is worth significantly more than the cash dividend which is offered. In such a case the stock dividend properly belongs to the trustees because it is capital. It is however up to the trustees to decide in the light of the terms of the trust deed whether the enhanced stock dividend should be regarded as capital or income in their hands. HMRC will accept the approach which the trustees decide to adopt, provided that the conclusion is supportable on the facts of the particular case. Where it is capital, ITTOIA05/S410(2) does not apply. On the other hand ITTOIA05/S410(3) does apply to enhanced stock dividends in the case of accumulation and discretionary settlements, and mixed trusts, in which case see the paragraph Discretionary/accumulation above.
+
+The trustees may be obliged to make a payment to the income beneficiary in the light of the decision in re Malam (not a tax case). HMRC issued a Statement of Practice in May 1994 concerning trustees and enhanced stock dividends, which explains the Income Tax treatment. There are no Capital Gains Tax consequences unless the trustees actually hand over part of the stock dividend, in which case see the paragraph on Other trusts.
+
+Scottish Trust
+
+The liferenter or other income beneficiary of a Scottish trust is not beneficially entitled to the stock dividend. He or she can only require the trustees to account for it. There is different treatment for each of three possible situations:
+
+- Enhanced Stock Dividend - The treatment is the same as for trusts established under the law of England & Wales or the law of Northern Ireland, see above, unless it is treated as income, in which case (b) or (c) below applies.
+
+- Conventional Stock Dividend 1993 onwards - The law was changed by Section 118 Finance Act 1993 now ITA07/S464. As a result of this ITTOIA05/S410(2) applies to the stock dividend even though, under Scottish trust law, as mentioned above, the beneficiary is not in fact absolutely entitled to the stock dividend.
+
+ITA07/S464 only applies for Income Tax purposes and therefore TCGA92/S142 before the amendment by FA 1998 did not apply.
+
+For years from 1998-99 onwards the amended TCGA92/S142 enables the trustees to treat the stock dividend shares as a fresh acquisition at a cost equal to the ` cash equivalent of the share capital’.

@@ -1,0 +1,20 @@
+Accrued Income Scheme: calculating accrued income profits  and losses: relief for losses
+Identifier: SAIM4120
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4120
+Published: 2016-03-19T16:25:58+00:00
+Updated: 2015-12-03T11:02:50+00:00
+Retrieved (UTC): 2026-09-18T14:26:23.397839+00:00
+
+Net losses are set against interest on the securities
+
+A person may make an accrued income loss under ITA07/S628. Accrued income losses are calculated as the excess of payments by a person over payments to a person (SAIM4110 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4110)).
+
+ITA07/S679 sets out the general rule on the relief for accrued income losses. Where a person who is liable for income tax on interest (under Chapter 2 of Part 4 of ITTOIA05 – SAIM2000 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2000)) on securities of any kind, makes accrued income losses on securities of the same kind, then an equivalent amount of that interest is exempt from income tax. Where the interest period spans the end of a tax year, the exemption only applies to the tax year in which the interest period ends.
+
+ITTOIA05/S369 (4) exempts interest taxable under Chapter 2 of Part 4 of ITTOIA05 where the exemption for AIS losses arises.
+
+In other words, the losses always reduce the interest subsequently received on those securities, and cannot be used to offset accrued income profits for earlier interest periods or arising on securities which have different interest periods. Where the interest period spans the tax year, losses are therefore not allowed until the interest on the securities is taxed in the following tax year.
+
+Losses treated as payments in the next interest period
+
+The general rule applies where the interest is due at the end of an interest period and the period ends with an interest payment day. ITA07/S637 applies in the exceptional situation where the interest period does not end with an interest payment day, that is, because it forms part of a long period. In such cases the accrued income losses are treated as payments on the transfer of the securities in the next interest period. Any net losses are therefore carried forward.

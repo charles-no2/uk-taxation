@@ -1,0 +1,42 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Individuals: Special rules, and computation: Computation: Default method
+Identifier: CG73779
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73779
+Published: 2018-10-18T08:25:47+01:00
+Updated: 2019-10-11T09:24:27+01:00
+Retrieved (UTC): 2026-09-18T14:46:31.308419+00:00
+
+Sch 4ZZB/Part 3 contains the main rules for computing non-resident CGT gains and losses, and the amount of a gain or loss that is not a non-resident CGT gain or loss.
+
+Sch 4ZZB/para 4 provides that Part 3 applies when a person makes a chargeable non-resident disposal of an interest in UK land (or part of an interest) where they held the interest on 5 April 2015, and have not made an election under Sch 4ZZB/para 2 for the amount of post 5 April 2015 gain or loss to be determined by the retrospective basis of computation.
+
+In cases where there is no election, the approach is to apply rebasing in relation to disposals of UK residential property interests held by non-residents on 6 April 2015, when the legislation took effect. The aim is effectively to split the gain on the basis of the market value of the asset at 5 April 2015. The gains (and losses) attributable to earlier periods remain subject to tax (or available for relief), but under other provisions of TCGA. Non-resident CGT therefore applies only to those gains (or losses) attributable to the later period after the new provisions came into force. Rebasing allows the correct charging provisions to apply to the two elements of the gain, in cases where pre-6 April 2015 gains are liable. Both gains accrue at the time of the actual disposal, in the normal way.
+
+Sch 4ZZB/Part 3 does not apply if the disposal is a relevant high value disposal, or if a relevant high value disposal is comprised in the disposal. Sch 4ZZB/Part 4 applies in such cases.
+
+Sch 4ZZB/para 6 gives the default computation that is to apply for assets held at 5 April 2015, where the person does not make an election for another treatment to apply. In effect the legislation prescribes a method of apportioning the post-April 2015 gain or loss on a disposal of a UK residential property interest, between periods for which the property was used for residential purposes, and periods when it was not.
+
+The non-resident CGT gain or loss accruing on the disposal is the relevant fraction of the notional post-April 2015 gain or loss. The “relevant fraction” is -
+
+RD
+
+TD
+
+where RD is the number of days in the post-commencement ownership period on which the subject matter of the disposed of interest consists wholly or partly of a dwelling; and TD is the total number of days in the post-commencement ownership period. The “post-commencement ownership period” is the period from 6 April 2015 to the day before the day on which the disposal occurs.
+
+The legislation anticipates the possibility that there may have been mixed use of the property, i.e. the land consists partly (but not exclusively) of a dwelling or dwellings. The building might, say, consist of flats above a shop. If there has been mixed use on one or more days in the post-commencement ownership period, the legislation allows the gain to be apportioned between the residential and non-residential parts, with non-resident CGT applying to the gain apportioned to the residential part only. The legislation does not lay down a prescriptive approach, but allows the non-resident CGT gain or loss attributable to the residential use to be arrived at on a just and reasonable apportionment.
+
+In effect therefore the non-resident CGT gain or loss is the proportion of the post 5 April 2015 gain or loss (as determined from the asset’s market value at 5 April 2015) that represents the number of days in the post 5 April 2015 period in which the asset is used as a dwelling; and any mixed use on the same day is similarly apportioned.
+
+Sch 4ZZB/para 7 determines the gain or loss that is not a non-resident CGT gain or loss on disposals where the default method of computation under Sch 4ZZB/para 6 applies.
+
+The procedure is -
+
+- Step 1, determine the amount of the notional pre-April 2015 gain or loss.
+
+- Step 2, where there is a notional post-April 2015 gain, determine the amount of the gain remaining after the deduction of the non-resident CGT gain determined under para 6.
+
+- Step 3, in a case where there is a notional post-April 2015 loss, determine the amount of the loss remaining after the deduction of the non-resident CGT loss determined under paragraph 6.
+
+- Step 4, add the amount of any gain or loss determined under Step 1, and the amount of any gain determined under Step 2 or any loss determined under Step 3 (treating any amount which is a loss as a negative amount).
+
+If the result is a positive amount, that is the gain on the disposal which is not a non-resident CGT gain. If the result is a negative amount, that is the loss on the disposal which is not a non-resident CGT loss.

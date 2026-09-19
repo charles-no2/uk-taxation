@@ -1,0 +1,407 @@
+Rebasing to 31/3/82: no gain/loss disposals: examples
+Identifier: CG16882
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16882
+Published: 2016-03-12T10:15:51+00:00
+Updated: 2023-04-11T11:23:52+01:00
+Retrieved (UTC): 2026-09-18T14:30:32.411104+00:00
+
+Example 1 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16882#IDAHQ0OB)
+Example 2 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16882#IDAXS0OB)
+
+Example 1
+
+A Ltd acquired an asset in 1979.
+
+In 1983 A Ltd transferred it to B Ltd, a subsidiary of A Ltd, under ICTA70/S273 (now TCGA92/S171).
+
+In 1985, B Ltd's business was transferred to C Ltd in the course of a scheme of reconstruction, and the asset passed to C Ltd under ICTA70/S267 (now TCGA92/S139).
+
+C Ltd sold the asset in July 2012.
+
+As both ICTA70/S267 and ICTA70/S273 are specified in TCGA92/SCH3/PARA1, and as there were no other disposals of the asset between 31 March 1982 and July 2012, C Ltd is treated as having held the asset on 31 March 1982 for the purposes of rebasing (and indexation if beneficial).
+
+Example 2
+
+Date
+
+|
+
+-
+
+|
+
+£
+
+|
+
+1 January 1980
+
+|
+
+acquisition by A Ltd
+
+|
+
+10,000
+
+|
+
+31 March 1982
+
+|
+
+market value
+
+|
+
+12,000
+
+|
+
+1 January 1985
+
+|
+
+enhancement expenditure
+
+|
+
+3,000
+
+|
+
+31 December 1985
+
+|
+
+no gain/no loss disposal from A Ltd to B Ltd
+
+|
+
+-
+
+|
+
+31 March 2013
+
+|
+
+third party disposal by B Ltd
+
+|
+
+50,000
+
+|
+
+REBASED GAIN
+
+The enhancement expenditure incurred by A as the actual owner of the asset is treated as incurred by B where, for indexation or rebasing purposes, B is deemed to have held the asset on 31 March 1982. The rebasing calculation by reference to 31 March 1982 market value is accordingly:
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£
+
+|
+
+-
+
+|
+
+Disposal proceeds
+
+|
+
+-
+
+|
+
+-
+
+|
+
+50,000
+
+|
+
+less
+
+|
+
+31 March 1982 market value
+
+|
+
+-
+
+|
+
+12,000
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Enhancement expenditure
+
+|
+
+-
+
+|
+
+3,000
+
+|
+
+15,000
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Unindexed gain
+
+|
+
+-
+
+|
+
+35,000
+
+|
+
+less
+
+|
+
+Indexation March 1982 to March 2013
+
+|
+
+12,000 x 2.131
+
+|
+
+25,572
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Indexation January 1985 to March 2013
+
+|
+
+3,000 x 1.727
+
+|
+
+5,181
+
+|
+
+30,753
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Gain
+
+|
+
+-
+
+|
+
+4,247
+
+|
+
+GAIN ON OLD RULES
+
+Where a ‘kink test’ is required in the case of a disposal by a company then, for the purposes of the comparison by reference to historic cost, B takes over A's actual cost (£10,000 plus enhancement expenditure £3,000). The indexation included in B's allowable cost on the no gain/no loss disposal by Section 56(2) TCGA 1992 is stripped out by Section 55(6)(b), and for indexation purposes B is treated as having held the asset on 31 March 1982. The calculation by reference to historic cost is accordingly:
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£
+
+|
+
+-
+
+|
+
+Disposal proceeds
+
+|
+
+-
+
+|
+
+-
+
+|
+
+50,000
+
+|
+
+less
+
+|
+
+Cost
+
+|
+
+10,000 + 3,000
+
+|
+
+-
+
+|
+
+13,000
+
+|
+
+-
+
+|
+
+Unindexed gain
+
+|
+
+-
+
+|
+
+-
+
+|
+
+37,000
+
+|
+
+less
+
+|
+
+Indexation March 1982 to March 2013
+
+|
+
+12,000 x 2.131
+
+|
+
+25,572
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Indexation January 1985 to March 2013
+
+|
+
+3,000 x 1.727
+
+|
+
+5,181
+
+|
+
+30,753
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Gain
+
+|
+
+-
+
+|
+
+6,247
+
+|
+
+Note: Indexation is based on the higher of relevant allowable expenditure before 31 March 1982 and the 31 March 1982 value, see CG16732.
+
+The chargeable gain is £4,247 (the smaller gain).

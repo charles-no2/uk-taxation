@@ -1,0 +1,70 @@
+The benefits code: beneficial loans: averaging method: calculation of the cash equivalent step-by-step
+Identifier: EIM26215
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26215
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T12:24:47+01:00
+Retrieved (UTC): 2026-09-18T14:12:16.294579+00:00
+
+Section 182 and Section 186 ITEPA 2003
+
+The step-by-step calculation of the cash equivalent of a beneficial loan using the averaging method (see EIM26210 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26210)) is as follows.
+
+Step 1
+
+- Find the maximum amount (see EIM26212 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26212)) of the loan outstanding on:
+
+- 5 April preceding the year of assessment, or
+
+- if the loan was made during the year, the date on which it was made.
+
+- Find the maximum amount of the loan outstanding on:
+
+- 5 April within the year of assessment, or
+
+- if the loan was repaid during the year, the date on which it was repaid.
+
+- Add together the maximum amounts found at 1 and 2, and divide the result by two. This is the average loan.
+
+Step 2
+
+Calculate the average official rate of interest for the period covered in step 1. If the rate changed during the period of the loan:
+
+- multiply each official rate by the number of days when it was in force
+
+- add these figures together and
+
+- divide the result by the number of days in the period.
+
+Step 3
+
+Multiply the average loan (step 1) by the average official rate of interest (step 2) and multiply by the number of whole months (see EIM26217 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26217)) for which the loan was outstanding in the year, then divide the result by twelve.
+
+Formula
+
+This calculation is expressed by the formula:
+
+A x I x M/12
+
+where:
+
+A is the result of step 1
+
+I is the result of step 2 and
+
+M is the number of whole months during which the loan was outstanding.
+
+Finally, deduct any interest that was paid by the employee in respect of the loan for that year.
+
+See EIM26300 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26300) for a list of examples showing the averaging method of working out the cash equivalent of a beneficial loan.
+
+A loan used directly or indirectly to replace another loan (Section 186 ITEPA 2003) is treated as the same loan for the purposes of step 1 above if the replacement loan was either:
+
+- a further employment related loan, or
+
+- in the same tax year or within 40 days of the end of it, was itself replaced directly or indirectly by a further employment related loan.
+
+A further employment related loan is a loan the benefit of which is obtained by reasonof employment (see EIM26113 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26113)) with either:
+
+- the person who is the employer in relation to the loan replaced, or
+
+- a person who is connected with that employer.

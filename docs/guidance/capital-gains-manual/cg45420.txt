@@ -1,0 +1,139 @@
+The degrouping charge: how and when a gain or loss accrues, company leaving a group on a disposal of shares on or after 19 July 2011
+Identifier: CG45420
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45420
+Published: 2016-03-12T11:06:52+00:00
+Updated: 2026-04-30T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:40:56.841775+00:00
+
+Overview (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45420#IDAHVUKF)
+When the alternative mechanism applies (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45420#IDATVUKF)
+How the alternative mechanism applies (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45420#IDA0WUKF)
+More than one disposal of shares by a group company (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45420#IDAHZUKF)
+Other consequences (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45420#IDATZUKF)
+Flowchart illustrating how the main computational provisions apply from 19 July 2011 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45420#IDAD0UKF)
+
+Overview
+
+Where a company leaves a group as a result of a disposal of shares by a member of that group on or after 19 July 2011 then the usual consequence of a deemed disposal of the transferred asset by company A does not apply. Instead of the deemed disposal giving rise to a chargeable gain (or allowable loss) in the company that acquired the asset, the amount of any gain (or loss) calculated by reference to the deemed disposal accrues to the group company making the disposal of shares, TCGA92/S179(3A) to (3E).
+
+Note that whether or not the alternative mechanism applies does not affect the capital gains base cost of the asset on a future disposal of A. That will be the market value figure on A’s deemed reacquisition of the asset; subject to any adjustment that may result from a claim under TCGA92/S179ZA, see CG45430 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45430).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45420#Top)
+
+When the alternative mechanism applies
+
+This alternative treatment applies even where the initial disposal of shares by the group company is disregarded for capital gains purposes because of the operation of TCGA92/S127. TCGA92/S179(3C).
+
+You should accept that the alternative mechanism will also apply where company A leaves a group as a consequence of a transaction that is treated as disposal or part disposal of shares for the purposes of TCGA as well as where there is an actual disposal. For example, company A may issue sufficient new shares to a person outside the group for it to cease to be a member of the group. Where the issue of shares results in a movement of value out of the group parent’s shareholding then that group company will be treated for capital gains purposes as having made a part disposal of its holding of shares in company A, TCGA92/S29. See CG13200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13200p)+.
+
+The disposal of shares may not be of those in company A; that company may leave a group as a subsidiary of the company being sold.
+
+This mechanism applies where the company making the disposal of the shares is within the charge to Corporation Tax on chargeable gains in respect of the disposal. That is: the company is either UK resident or it is a non-resident but chargeable in respect of the shares (ignoring the effect of the Substantial Shareholdings Exemption). The mechanism will also apply in the following special cases:
+
+- the group company making the disposal is not within the charge to Corporation Tax in respect of the disposal of shares but, were it to be so, then the disposal would be within the Substantial Shareholding Exemption. This ensures that the benefit of the alternative mechanism applies equally to groups with an overseas holding structure, TCGA92/S179(3A)(b)(ii).
+
+- the gain on the shares is treated as accruing to any person by virtue of TCGA92/S13(2). This ensures that the gains of certain non-UK resident companies that are charged to UK tax are calculated in the same way as for a UK company, TCGA92/S179(3B)(c). See CG13500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13500) and CG57200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57200)+. This will also apply to any charge that applies by virtue of TCGA92/S13(2), for example TCGA92/S79B.
+
+However, the mechanism does not apply where company A is a Real Estate Investment Trust (REIT) and the exemption from tax in CTA2010/S535 does not apply to a degrouping charge. Briefly, this is because within the particular context of REITs, it is preferable commercially to have the charge accrue to company A.
+
+Companies will often leave a group as a result of an issue of shares by a group company, rather than as the result of a sale of existing shares. Where there is no movement of value out of the existing shares then there will be no share disposal and any degrouping charges will result in gains or losses accruing to the companies that leave the group.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45420#Top)
+
+How the alternative mechanism applies
+
+The method depends on whether or not the disposal of shares is disregarded for capital gains purposes by TCGA92/S127. In very broad terms, that section can apply when the shares in a company are exchanged for other shares or securities. There is detailed guidance at CG51700P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51700p).
+
+Where TCGA92/S127 does not apply
+
+- Instead of the deemed disposal giving rise to a chargeable gain (or allowable loss) in the company that acquired the asset, the amount of any gain (or loss) calculated by reference to the deemed disposal is added to (or subtracted from) the capital gains consideration for the group company making the disposal of shares, TCGA92/S179(3A) & (3D).
+
+- In the case of a reorganisation involving an issue of Qualifying Corporate Bonds, then the adjustment will be made to the calculation required under TCGA92/S116(10)(a). There is further guidance on such reorganisations at CG53709 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53709)+.
+
+Where TCGA92/S127 does apply
+
+- Instead of the deemed disposal giving rise to a chargeable gain (or allowable loss) in the company that acquired the asset, the amount of any gain (or loss) calculated by reference to the deemed disposal is deducted from (or added to) the allowable cost of the new holding of shares or securities that the group company receives in exchange for shares, TCGA92/S179(3A) & (3E).
+
+- In the unusual situation where a degrouping gain exceeds the allowable cost of the new holding then the excess will instead accrue to the group company as a separate gain when it disposes of the new holding. A corresponding proportion of the amount will accrue in the case of a part disposal of the new holding. TCGA92/S179(3E)(a)(ii).
+
+Example
+
+- F has two subsidiaries, G and H, H also has subsidiary I. The cost of the shares in H is £500.
+
+- G transferred an asset to I in 2010.
+
+- In 2012 a third party, Q, acquired all the shares in H in exchange for an issue of new shares in itself to F. The usual conditions of TCGA92/S135 etc are met and the issue of shares by Q does not cause that company to join the F group.
+
+Therefore I also leaves the F group taking with it an asset and there is a degrouping charge of, say, £100 resulting from the calculation under TCGA92/S179(3).
+
+The disposal of shares in H by F is the disposal that led to I leaving the group irrespective of the fact that it may not be treated as a disposal for other capital gains purposes, TCGA92/S179(3C).
+
+The first consideration is whether the Substantial Shareholding Exemption would apply to the disposal of H by F. If it does, then the disposal is not within TCGAS92/S127 as a result of TCGA92/Sch7AC/Para 4(1). Therefore the degrouping charge results in an addition of £100 to the sale disposal consideration of the shares in H through the operation of TCGA92/S179(3D) and the overall gain (or loss) is exempt.
+
+If the Exemption does not apply then TCGA92/S127 means there is no disposal of the shares in H for capital gains purposes. However, the degrouping charge will result in a deduction of £100 to the allowable capital gains cost to F of its new holding of shares in Q, TCGA92/S179(3E).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45420#Top)
+
+More than one disposal of shares by a group company
+
+It is possible that a company A may leave a group as a result of more than one group company making a simultaneous disposal of company A shares. If so, those companies may jointly elect as to how the degrouping charge adjustment shall be divided and, in the absence of such an election, the amount is to be divided equally between the disposals. Any election is to be made within 2 years of the accounting period in which the share disposal arises. Where group companies have different accounting periods then the time limit runs from the first accounting period to end, TCGA92/S179(3F) & (3G).
+
+In a similar way, it is possible for company A to leave a group because a group company makes simultaneous disposals of holdings of different classes of shares in company A in which case the degrouping adjustment may be made as the company making those disposals wishes, TCGA92/S179(3H).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45420#Top)
+
+Other consequences
+
+Where the alternative mechanism applies, the effect of the deemed disposal and reacquisition by company A will still be that the company’s capital gains base cost will be re-set for the purposes of any future disposal of the asset by that company. That is the case even where the triggering of a degrouping charge has no immediate tax effect such as where it results in the adjustment to the consideration on a share disposal that falls within the Substantial Shareholding Exemption, TCGA92/Sch 7A.
+
+Where a company transfers the whole or part of a business to another company and TCGA92/S139 applies then assets included in the transfer are treated as having been transferred for consideration such that no gain and no loss accrues to the first company. TCGA92/S139 only applies where a person disposing of a company’s business receives no part of the consideration for the disposal. Any addition to consideration on a disposal of shares resulting from the degrouping charge is disregarded for this purpose so that TCGA92/S139 may apply, TCGA92/S139(1B). Where the share disposal that leads to company A leaving the group (the “group disposal”) is itself a disposal to which the no gain/no loss treatment in TCGA92/S139(1) applies then no gain or loss will arise on that disposal of shares. Detailed guidance on TCGA92/S139 can be found at CG52800 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52800) onwards.
+
+Note that it was possible for a group to elect to apply the changes to degrouping charge rules made in Finance Act 2011 from 1 April 2011. Whenever the above guidance refers to 19 July 2011 it should be taken as referring to 1 April 2011 for a company in a group that has made such an election.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45420#Top)
+
+How the main computational provisions apply from 19 July 2011
+
+The following process illustrates how the main computational provisions apply from 19 July 2011.
+
+Question 1: Has a company left a group with an asset transferred to it in the previous 6 years?
+
+- Yes: go to question 2
+
+- No: no degrouping charge
+
+Question 2: Did the company join a joint venture to which section 181 applies? CG45400P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45400p).
+
+- Yes: no degrouping charge
+
+- No: go to question 3
+
+Question 3: Did the transferor company also leave so that the associated companies exception applies?
+
+- Yes: no degrouping charge
+
+- No: go to question 4
+
+Question 4: Does any degrouping charge remain after considering a claim for reduction under Section 179ZA? CG45430 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45430).
+
+- Yes go to question 5
+
+- No: no degrouping charge
+
+Question 5: Did the company leave as the result of a disposal of shares by a group company (ignoring effect of Section 127 TCGA)?
+
+- Yes: go to question 6
+
+- No: degrouping charge accrues to company that leaves the group
+
+Question 6: Was the disposal a share exchange which is not treated as an immediate disposal for capital gains?
+
+- Yes: the Charge adjusts cost of new holding AND go to question 7
+
+- No: the charge adjusts gain or loss on shares sold (charge may be exempt, say if SSE applies)
+
+Question 7: Does the degrouping charge exceed cost of new holding?
+
+- Yes: then any excess will accrue as a separate gain when the new holding is sold (apportioned if a part disposal)
+
+- No: end of questions

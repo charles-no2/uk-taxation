@@ -1,0 +1,30 @@
+Lifetime transfers: gifts with reservation (GWRs): tracing settled property: the property comprised in the gift
+Identifier: IHTM14401
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14401
+Published: 2016-04-09T09:18:47+01:00
+Updated: 2016-02-11T17:03:19+00:00
+Retrieved (UTC): 2026-09-18T14:57:45.214954+00:00
+
+When property is settled by the gift, the normal rules about tracing do not apply. (IHTM14371 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14371))
+
+Instead, the general rule (FA86/Sch20/Para5) is that the property comprised in the gift is
+
+- all the property comprised in the settlement at the date of the donor’s death (or earlier ending of the reservation)
+
+- except so far as that property neither is, nor represents, nor is derived from, the property originally given.
+
+The following are included:
+
+- accumulation of income arising before the reservation ceased (but not accumulations of income arising subsequently)
+
+- property which is derived, directly or indirectly, from a loan made by the donor to the trustees of the settlement. All types of loan, not just those that are interest free, are within the scope of this provision. However, it does not apply to a loan by someone other than the donor (such as the donor’s spouse or civil partner (IHTM11032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11032))).
+
+Example
+
+In 2000 Vineet settles £1 on discretionary trusts of which he is, and remains until his death in 2005, an object. Shortly after the creation of the settlement he advances £50,000 to the trustees by way of loan, interest free and repayable on demand.
+
+At the time of Vineet’s death, the settled property comprises £1 cash (representing the original £1 gift into settlement) and the proceeds of an insurance policy (purchased with the borrowed monies) on Vineet’s life amounting to £250,000.
+
+The loan of £50,000 has been repaid at the rate of £2,500 per annum by the trustees and £25,000 is outstanding at the date of death.
+
+The proceeds of £250,000, less the loan of £25,000, are derived from the original loan, and you can treat them as part of the death estate. (The balance outstanding under the loan less £25,000 forms part of the free estate).

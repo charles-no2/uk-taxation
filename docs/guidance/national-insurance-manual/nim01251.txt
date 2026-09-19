@@ -1,0 +1,88 @@
+Class 1 structural overview - from April 2009: structural changes: the Class 1 and 2 annual maximum: the calculation method
+Identifier: NIM01251
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01251
+Published: 2016-04-11T17:00:08+01:00
+Updated: 2024-01-05T16:31:22+00:00
+Retrieved (UTC): 2026-09-18T15:18:07.869422+00:00
+
+Regulation 21(3) of the Social Security Contributions Regulations 2001 (SI 2001 No 1004)
+
+NIM01160 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01160) explains that from 6 April 2003 each contributor who, in the relevant tax year, was employed in more than one employment will have an individualised maximum liability for either Class 1 contributions or Class 1 and Class 2 contributions.
+
+NIM01162 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01162) explains the purpose of retaining a maximum. From 6 April 2011 although there are no structural changes to the annual maximum the rates of NICs for the main primary percentage, the additional primary percentage and the NIC rebate changed.
+
+The rules for calculating the annual maximum for the 2022 to 2023 tax year are modified because there was a temporary change in the rate of NICs and a change to the Primary Threshold (see NIM01600 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01600) for more information).
+
+Due to the temporary change in rates for the 2022 to 2023 tax year (see NIM01600 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01600) for more information) for the purposes of the annual maximum at regulation 21 there are blended rates. They are:
+
+- 12.73% as the main primary percentage blended rate, and
+
+- 2.73% as the additional primary percentage blended rate.
+
+The main rate of primary Class 1 NICs was reduced from 12% to 10% from 6 January 2024. See NIM01625 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01625) for more information.
+
+The rules for calculating the annual maximum at regulation 21 were amended for the 2023 to 2024 tax year. For that tax year, there is a blended rate for the main primary percentage rate at regulation 21(2) – this is 11.5%. There is no blended rate for the additional primary percentage.
+
+The rules for calculating the annual maximum at regulation 21 were also amended for later tax years.
+
+From 6 April 2024 the main rate of primary Class 1 NICs was reduced from 10% to 8%.
+
+To determine a person’s maximum contribution liability the following calculation is used:
+
+Step 1
+
+Deduct the relevant Primary Threshold from the relevant Upper Earnings Limit and multiply that figure by 53.
+
+(Here ‘relevant’ means the Primary Threshold and Upper Earnings Limit in force during the year for which the maximum is being calculated except if the calculation is being done for the 2022 to 2023 tax year. For the 2022 to 2023 tax year the figure to use for the Primary Threshold in this step is £229)
+
+Step 2
+
+For tax years up to and including the 2021 to 2022 tax year, multiply the result of step 1 by 12%.
+
+For the 2022 to 2023 tax year, multiply the result of step 1 by 12.73%.
+
+For the 2023 to 2024 tax year, multiply the result of step 1 by 11.5%.
+
+For tax year 2024 to 2025 onwards, multiply the result of step 1 by 8%.
+
+Step 3
+
+Add together so much of the person’s earnings from each employed earner’s employment as exceeded the Primary Threshold but did not exceed the Upper Earnings Limit.
+
+In the 2022 to 2023 tax year if more than one payment was made then identify the amount using the Primary Threshold that applies at the time each payment was made.
+
+Step 4
+
+Deduct from the total found at step 3 the amount found at step 1.
+
+Step 5
+
+If the figure produced at step 4 is a positive figure multiply that figure by 2% (2.73% for the 2022 to 2023 tax year).
+
+If the figure produced by step 4 is a negative figure, it is treated for the purposes of step 8 as nil
+
+Step 6
+
+Add together so much of the person’s earnings from each employed earner’s employment as exceeded the Upper Earnings Limit.
+
+Step 7
+
+Multiply the result of step 6 by 2% (2.73% for the 2022 to 2023 tax year).
+
+Step 8
+
+Add together the results of steps 2, 5 and 7.
+
+The result of step 8 is the maximum amount of Class 1 or Class 1 and 2 contributions that an earner can pay in respect of the tax year.
+
+The exception to this is where the earner is either:
+
+- in contracted-out employment (tax years before 6 April 2016), see NIM01252 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01252), or
+
+- a married woman/widow paying reduced rate NICs, see NIM01253 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01253)
+
+Examples of the maximum calculations can be found at NIM01271 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01271) onwards.
+
+Despite the retention of an annual maximum for earners with more than one employment in a tax year there is no prescribed annual maximum for contributors who have a single employment during the tax year.
+
+The maximum liability for earners who have a single employed earner’s employment will depend upon the level of their earnings and the number of earnings periods in which those earnings are paid.

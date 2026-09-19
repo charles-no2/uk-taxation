@@ -1,0 +1,30 @@
+# Editor and operating-system files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.kdb
+*.ovpn
+*.sqlite
+*.sqlite3
+*.db
+
+# Local tax and financial exports
+private/
+exports/
+*.csv
+*.tsv

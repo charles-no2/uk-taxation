@@ -1,0 +1,18 @@
+Assessing: COMPASS: chargeable lifetime transfers: failed PETs
+Identifier: IHTM31232
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31232
+Published: 2016-04-09T10:03:50+01:00
+Updated: 2016-02-11T17:18:52+00:00
+Retrieved (UTC): 2026-09-18T15:06:00.875746+00:00
+
+Where a PET (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)) becomes chargeable because of a death within seven years, and tax is payable on that transfer itself, the calculations are part of the death case on COMPASS. You should:
+
+- set-up each chargeable transfer as a separate Entry (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)), and
+
+- calculate the transfers separately to the death estate.
+
+Enter any fall in value relief (IHTM14621 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14621)) at the data entry stage under the ‘Revaluation on death’ relief type.
+
+Remember that COMPASS does not automatically include the PLCT, so you will have to include the correct figure yourself on the ‘Calculation of Inheritance Tax’ window (IHTM31182 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31182)) when you raise the calculation.
+
+COMPASS does, however, calculate any taper relief (IHTM14611 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14611)) automatically.

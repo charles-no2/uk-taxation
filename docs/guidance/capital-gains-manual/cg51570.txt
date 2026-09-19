@@ -1,0 +1,28 @@
+Share identification rules for capital gains tax from 6.4.2008: shares held before 6.4.2008 - converting to the new Section 104 holding
+Identifier: CG51570
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51570
+Published: 2016-03-12T11:22:48+00:00
+Updated: 2016-01-25T17:17:29+00:00
+Retrieved (UTC): 2026-09-18T14:42:10.781683+00:00
+
+Where shares that were acquired before 6 April 2008 are disposed of on or after that date it will usually be necessary to create a Section 104 pool to calculate the chargeable gain although this step will be academic where all of the shares held are disposed of in a single transaction or in the same tax year.
+
+A S104 pool is simply the amount of qualifying expenditure that relates to the number of shares in the holding.
+
+The number of shares held and the related cost will comprise -
+
+- shares still held that were acquired before 6 April 1965; their ‘cost’ (see note below) reflecting any previous disposals on a LIFO basis, see CG51640+ for background,
+
+- any remaining 1982 holding, the ‘cost’ (see note below) of the holding reflecting any previous part disposal out of the holding, see CG51630+ for background.
+
+Note that for any shares transferred into the Section 104 holding that were held at 5 April 1982, the sum that goes into the Section 104 holding will be their value at 31 March 1982 and not their original cost. Guidance on the valuation of a 1982 holding can be found at CG59580+.
+
+- Any previous Section 104 holding, the cost of the holding being the pool of qualifying expenditure and not the pool of indexed expenditure, see CG51620+ for background.
+
+- Shares held that were acquired from 6 April 1998 to 5 April 2008, to the extent that they have not been identified under the rules for disposals before 6 April 2008, see CG50572.
+
+- The shares acquired on or after 6 April 2008 at cost.
+
+Bear in mind that shares will not enter the pool if they are identified under the “same day” or “bed and breakfast” rules.
+
+On a disposal of shares from the pool the associated cost may be calculated by applying the part disposal formula of TCGA92/S42 or by making a simple apportionment by reference to the number of shares in the pool, see CG51575. A 1982 holding can still exist for companies which are charged corporation tax, rather than capital gains tax, on any gains. Further details on the rules about 1982 holdings can be found in the guidance about share identification for companies at CG51630+.

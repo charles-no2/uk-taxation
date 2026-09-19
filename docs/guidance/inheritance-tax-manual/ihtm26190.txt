@@ -1,0 +1,32 @@
+Other calculations: apportioning the grossed up estate between instalment and non-instalment option property
+Identifier: IHTM26190
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26190
+Published: 2016-04-09T09:48:30+01:00
+Updated: 2019-10-30T16:26:42+00:00
+Retrieved (UTC): 2026-09-18T15:03:17.051668+00:00
+
+Under IHTA84/S227 (1) instalments (IHTM30191 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30191)) are available where ‘ any of the tax payable on the value transferred by a chargeable transfer is attributable to the value of qualifying property. You should note that the legislation refers to the tax being attributable to the value of qualifying property. For instalments to apply the value of the qualifying property must bear tax as part of the chargeable transfer. If tax is attributable to the value of qualifying property, a change in the value of that property will lead to a change in the amount of Inheritance Tax payable.
+
+So, whether instalments are available on an estate where grossing up is involved depends on how the qualifying property devolves on the death and if that leads to a tax charge on it.
+
+This leads to a number of different scenarios involving partly exempt transfers which require different treatment of the qualifying property. These different situations are:
+
+- All the qualifying property in the estate is specifically bequeathed to an exempt beneficiary
+
+No instalments are available in this case as all the qualifying property is exempt. No tax is attributable to the value of the qualifying property.
+
+- All the qualifying property in the estate is specifically bequeathed to a chargeable beneficiary
+
+Instalments are available on the value of the qualifying property. Where the qualifying property has been grossed-up the amount on which instalments are available is the value of the qualifying property after grossing.
+
+- There are specific chargeable bequests which are not of qualifying property and the residue is exempt
+
+Instalments are not available as none of the tax payable is attributable to the value of the qualifying property. In this case the amount of tax payable is attributable solely to the value of the specific chargeable bequests of property other than qualifying property. So a change in the value of the qualifying property does not affect the amount of tax payable. If the taxpayer or agent maintains that instalments are due you should refer the case to Technical.
+
+- There are specific bequests which are not of qualifying property and the residue is partly chargeable and partly exempt
+
+Instalments are available on that part of the qualifying property which is attributable to the chargeable part of residue. To determine how much of the qualifying property falls within the chargeable part of the residue, apportion the value of the qualifying property between the exempt and chargeable parts of the residue.
+
+- Some of the qualifying property is specifically bequeathed whereas some falls into residue
+
+The specifically bequeathed qualifying property should be dealt with in line with the first two bullet points above, whilst the qualifying property falling into residue should be dealt with in line with the instructions for dealing with the residue at the third and fourth bullet points.

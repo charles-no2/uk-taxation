@@ -1,0 +1,40 @@
+Accrued Income Scheme: payments on transfers of variable rate securities
+Identifier: SAIM4180
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4180
+Published: 2016-03-19T16:26:08+00:00
+Updated: 2018-11-29T07:53:05+00:00
+Retrieved (UTC): 2026-09-18T14:26:25.543642+00:00
+
+Variable rate securities
+
+ITA07/S626 disapplies the normal rules in ITA07/S623 and S624 (on transfers with and without accrued interest) in relation to variable rate securities. The normal AIS rules may not adequately reflect the real value of the interest which is effectively capitalised in the sale price of variable rate securities, and thus allow the ‘bondwashing’ that the AIS was designed to prevent.
+
+Instead, anti-avoidance rules prevent such securities being used to circumvent the AIS. A report should be made to BAI (Financial Products and Services Team) in cases where such securities are transferred or redeemed.
+
+The definition of ‘variable rate securities’ is set out in ITA07/S627. It excludes the vast majority of securities within the scope of the AIS, that is
+
+- normal fixed rate securities, paying interest at the same rate throughout their life;
+
+- normal floating rate securities, paying an interest rate which bears the same fixed relationship to a standard published base rate throughout their life (for example, a floating rate note linked to LIBOR);
+
+- index-linked securities, defined as those paying interest at a rate which bears the same fixed relationship to a published index of prices throughout their life.
+
+Examples
+
+A variable rate bond might, for example, be issued with a very low interest rate-say 1 per cent - for the first two years and a very high interest rate (say 20%) for the next two years. If the bond were sold towards the end of the second year its value, and therefore its sale price, would be inflated by the high interest to be received in later years. Tax would have been chargeable only on the 1% interest accrued to the date of sale, and if the purchaser was an exempt taxpayer, for example, a pension fund, so that no tax would have been payable on the 20% interest coupons when paid. In an ex-dividend transfer the accrued income may be capitalised.
+
+Another variation might be to structure a variable rate bond so that the market price drops below par (for example, high interest in early years and low interest in later years), thus giving an opportunity to capitalise a return earned between a purchase, mid-way through the bond’s life, and redemption.
+
+This is not to suggest that variable rate securities will only be structured in such a way for tax reasons. For example, a company may issue bonds that are subordinated to more senior debt (such as bank borrowing) and it may specify that interest coupons will only be paid to the extent that cash is available after other interest costs have been met. Since the issue terms of such securities allow for an irregular interest payment profile, they will be variable rate securities.
+
+The transferor is taxable on transfers of ‘variable rate securities’
+
+Where variable rate securities are transferred within an interest period, ITA07/S635 treats the transferor as receiving a payment for the purposes of ITA07/S628. No one is treated as making the payment and so the transferee does not have accrued income profits or losses.
+
+Where the settlement day falls outside an interest period, the unrealised interest is treated as a payment under ITA07/S630. The transferor is therefore taxable for the tax year in which the settlement day falls. In such cases ITA07/S631 deems the amount of the accrued income profits to be such amount as is ‘just and reasonable’.
+
+ITA07/S635 applies whether securities are transferred with or without accrued interest. No transfer of a security within ITA07/S635 can give rise to an accrued income loss (either for the transferor or the transferee), and any redemption of such a security (except where the investor has held it throughout its life) will give rise to a charge. In effect this allows for the real value of the interest transferred to be taxed, as distinct from its artificially deflated value.
+
+Euroconversion
+
+Regulation 33 of SI1998/3177 provides that ITA07/S635 will not apply where an exchange or conversion of securities arises solely as a result of actions to effect a euroconversion (as defined in Regulation 3).

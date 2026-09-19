@@ -1,0 +1,22 @@
+Pre-owned assets: specific avoidance schemes: chattels - lease carve-out scheme
+Identifier: IHTM44108
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44108
+Published: 2016-04-09T10:32:10+01:00
+Updated: 2016-02-11T17:27:48+00:00
+Retrieved (UTC): 2026-09-18T15:10:32.620745+00:00
+
+Although the use of a lease to carve out an interest in property is more commonly used with land (IHTM44100 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44100)) it can also apply to chattels. In effect, the owner of the chattels carves out a lease for themselves and then makes a gift of the chattels. Although FA86/S102A is aimed at ensuring such a transaction with land is now subject to the reservation of benefit provisions, that section only applies to interests in land and so does not apply to similar transactions involving chattels.
+
+The transaction is a disposal by the chargeable person and they will be liable to the POA charge under FA04/Sch15/Para6(2). The value subject to the charge will be the value attributable to the property actually disposed of, calculated using the formula in FA04/Sch15/Para7(2). You will need to obtain three values to correctly assess the POA charge
+
+- the amount of interest that would be payable at the prescribed rate (N). The official rate (IHTM44016 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44016)) in 2005/06 was 5%
+
+- the value at the valuation date (IHTM44017 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44017)) of the interest that was disposed of (DV); in this case, the chattels subject to the lease, say, £400,000, and
+
+- the value of the chattels property at the valuation date (V), say, £600,000.
+
+Following the formula at IHTM44016, the amount subject to the POA charge is
+
+5% × 600,000 = £30,000
+
+30,000 × 400,000 ÷ 600,000 = £20,000.

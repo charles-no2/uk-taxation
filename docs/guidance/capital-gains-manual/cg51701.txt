@@ -1,0 +1,60 @@
+Reorganisations of share capital: introduction: later disposals of shares: pooling etc
+Identifier: CG51701
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51701
+Published: 2016-03-12T11:24:08+00:00
+Updated: 2016-01-26T08:52:39+00:00
+Retrieved (UTC): 2026-09-18T14:42:16.377728+00:00
+
+Disposals on or after 6 April 2008, CGT - (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51701#IDAEMSZC)
+Disposals before 6 April 2008, CGT - (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51701#IDAUMSZC)
+Corporation Tax (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51701#IDA3NSZC)
+
+The rules which apply to new shares issued in the course of a reorganisation of a company’s share capital (see CG51700) mean that where the shares in respect of which the new shares are issued (‘the original shares’) fall into different groups under share identification rules, new shares of the same class must be correctly identified with, and form part of, the same groups. This will be important when there is a later disposal of shares of that class, because it will be necessary to identify the group or groups from which the disposal is treated as being made, perhaps to apportion the total cost of shares in that group, and to compute any relief or allowance thereby due.
+
+The share identification rules have changed several times over the years, and differ according to whether the person making the disposal is chargeable to Capital Gains Tax (CGT; mainly individuals and trustees) or Corporation Tax (CT; mainly companies). The difference became very significant for disposals made on or after 6 April 2008 as a result of changes made as part of the CGT simplification package in the 2008 Finance Act. The relevant rules are those which apply at the time of the disposal.
+
+You will have to consider how the reorganisation rules interact with the share identification rules in order to calculate the amount of expenditure that can be deducted from the consideration received when shares are disposed of. The share identification rules are described in detail at CG50500+
+
+The following paragraphs describe the main considerations where there is a disposal following a reorganisation of share capital:
+
+Disposals on or after 6 April 2008, CGT -
+
+Finance Act 2008 reintroduced share pooling for the purposes of disposals on or after 6 April 2008. So new shares of the same class as the shares in respect of which they were issued will be pooled with those original shares, and any sums given for them will be added to the cost of the pool, in order to compute the allowable cost of shares disposed of from that pool (TCGA92/S104, see CG Appendix 10). Remember, though, that any new or original shares which were held at 31 March 1982 must be brought into the section 104 holding at their value as at 31 March 1982.
+
+Indexation allowance is not allowable in calculating gains or losses on disposals on or after 6 April 2008.
+
+See CG Appendix 10 for the CGT rules for disposals on or after 6 April 2008.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51701#Top)
+
+Disposals before 6 April 2008, CGT -
+
+Before the simplification effected by Finance Act 2008 the share identification rules meant that new shares received in a reorganisation (and any sums given for them) would have to be divided between one or more of the following categories of original shares of the same class, in order to be correctly identified with those shares:
+
+- Tranches of shares acquired after 5 April 1998 (when indexation was frozen) but before the reorganisation
+
+- The old section 104 holding (representing the pool of shares on 5 April 1998 when indexation was frozen)
+
+- The 1982 holding
+
+- Shares held at 6 April 1965 (There were special rules for dealing with reorganisations involving shares held at 6 April 1965 but these were only relevant if there had not been an election under TCGA92/S35 (5) out of the kink-test.)
+
+Anything the taxpayer pays for the shares is added to the cost of the original shares. However, indexation allowance is only given from the date the shares have to be paid for. (TCGA92/S128 and TCGA92/S131).
+
+Note: Indexation allowance for taxpayers within the charge to Capital Gains Tax was frozen at April 1998 and withdrawn altogether for disposals made on or after 6 April 2008, see CG17207. For disposals made between 6 April 1998 and 5 April 2008 taper relief was available: see CG17895+.
+
+See CG50520+ for the CGT rules for disposals before 6 April 2008.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51701#Top)
+
+Corporation Tax
+
+The rules relating to the computation of gains chargeable to Corporation Tax did not change significantly either in 1998 or 2008. Any new shares issued are treated as acquired at the same time as the existing shares, according to the rules in place at the time for identifying and distinguishing between those existing shares. There are special rules for dealing with reorganisations involving shares held at 6 April 1965 but these are only relevant if there has not been an election under TCGA92/S35 (5) out of the kink-test.
+
+Anything the taxpayer pays for the new shares is added to the cost of the original shares with which they are identified. However, indexation allowance is only given from the date the shares have to be paid for. (TCGA92/S128 and TCGA92/S131).
+
+Note: Indexation allowance remains available for taxpayers within the charge to Corporation Tax. Shares acquired after 31 March 1982 will form part of a TCGA1992/S104 holding along with other shares of the same class.
+
+See CG50520+ for the Corporation Tax rules.
+
+Gains on disposals of shares by companies on or after 1 April 2002 may be exempt under the provisions of TCGA92/SCH7AC (‘substantial shareholdings’) if certain conditions are satisfied. There are provisions in Schedule 7AC that over-ride the reorganisation provisions of TCGA92/S127 - TCGA92/S131 if, as a result of that over-ride, there is a gain or loss to which the exemption in Schedule 7AC would apply (see CG53000+).

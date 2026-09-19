@@ -1,0 +1,86 @@
+Living accommodation: lease premium cases: calculating the amount to be attributed in respect of a lease premium: lease does not contain a relevant break clause: example
+Identifier: EIM11447
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11447
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T11:31:27+01:00
+Retrieved (UTC): 2026-09-18T14:09:16.564778+00:00
+
+EIM11446 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11446) explains how to calculate the amount to be attributed in respect of a lease premium.
+
+The formula in Section 105A(2) ITEPA for finding the amount to be attributed to the relevant period in respect of a lease premium is:
+
+- A/B * C where
+
+- A is the relevant period (in days)
+
+- B is the term of the lease (in days)
+
+- C is the net amount payable by P in relation to the lease by way of lease premium
+
+Example
+
+On 1 October 2009, an employer enters into a lease of a residential property that it provides rent-free to an employee from that date. The lease is for a term of 5 years and contains no relevant break clauses. Under the lease, the employer is to pay rent of £120 per calendar year and a total premium of £150,000 in two instalments, £60,000 on 1 October 2009 and £90,000 on 1 October 2010.
+
+2009-10
+
+- A is 187 days (1 October 2009 to 5 April 2010)
+
+- B is 1,826 days
+
+- C is £150,000
+
+- A/B*C = £15,361
+
+The rental amount payable by P in respect of the relevant period will be £15,421, the sum of the rent for the period payable by P of £60 and the amount attributed to the period in respect of a lease premium of £15,361.
+
+2010-11
+
+- A is 365 days (6 April 2010 to 5 April 2011)
+
+- B is 1,826 days
+
+- C is £150,000
+
+- A/B*C = £29,983
+
+The rental amount payable by P in respect of the relevant period will be £30,103, the sum of the rent for the period payable by P of £120 and the amount attributed to the period in respect of a lease premium of £29,983.
+
+2011-12
+
+- A is 366 days (6 April 2011 to 5 April 2012)
+
+- B is 1,826 days
+
+- C is £150,000
+
+- A/B*C = £30,065
+
+The rental amount payable by P in respect of the relevant period will be £30,185, the sum of the rent for the period payable by P of £120 and the amount attributed to the period in respect of a lease premium of £30,065.
+
+2012-13
+
+The calculation will be the same as 2010-11 so for 2012-13 the rental amount payable by P in respect of the relevant period will be £30,103.
+
+2013-14
+
+The calculation will be the same as 2010-11 so for 2013-14 the rental amount payable by P in respect of the relevant period will be £30,103.
+
+2014-15
+
+- A is 178 days (6 April 2014 to 30 September 2014)
+
+- B is 1,826 days
+
+- C is £150,000
+
+- A/B*C = £14,622
+
+The rental amount payable by P in respect of the relevant period will be £14,682, the sum of the rent for the period payable by P of £60 and the amount attributed to the period in respect of a lease premium of £14,622.
+
+Calculating the cash equivalent
+
+As the cost of providing the accommodation exceeds £75,000, the cash equivalent will be calculated under Section 106 (see EIM11444 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11444)).
+
+Comment
+
+The effect of the rules is to treat the lease premium as if it were rent paid and spread over the duration of the lease regardless of the date or dates when the premium is actually paid.

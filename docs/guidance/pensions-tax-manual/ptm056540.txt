@@ -1,0 +1,78 @@
+Annual allowance: money purchase annual allowance: trigger event occurs during tax year 2016-17 or a later tax year
+Identifier: PTM056540
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm056540
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2023-09-05T11:05:20+01:00
+Retrieved (UTC): 2026-09-18T14:49:20.243517+00:00
+
+Sections 227B, 227C and 227F Finance Act 2004
+
+Note – the guidance on this page applies for tax year 2016-17 onwards. For tax year 2015-16 see PTM058090 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058090).
+
+Note - the references to money purchase annual allowance on this page mean different amounts depending on the tax year. For tax year 2016-17 only, they mean £10,000. For 2017-18 to 2022-23 they mean £4,000. For 2023-24 onwards, they mean £10,000.
+
+In the first tax year that the money purchase annual allowance applies, it is only pension input amounts for money purchase arrangements that occur following the date of the trigger event that are measured against the money purchase annual allowance test.
+
+For example, where a pension input period runs from 6 April 2016 to 5 April 2017 and a trigger event occurs on 1 December 2016, it is the pension input amount for the period 2 December 2016 to 5 April 2017 that is tested. (For subsequent tax years the pension input amount for the entire pension input period is tested).
+
+For a pension input period in which the application of the money purchase annual allowance is triggered, the pension input amount is apportioned into the amount that arose up to and including the date of the trigger event and the amount that arose after the trigger event. Only the latter is tested against the money purchase annual allowance. How the pension input amount is apportioned depends on the type of money purchase arrangement:
+
+- for an other money purchase arrangement (i.e. not a cash balance arrangement) the apportionment is based on the contributions paid during each period, and
+
+- for a cash balance arrangement, the pension input amount for the arrangement is split proportionally on a time apportionment basis - if the pension input period is 365 days and the trigger event occurred on day 265 of the pension input period, the proportion of the pension input amount that is tested against the money purchase annual allowance is 100/365 times the pension input amount.
+
+If a pension input period for a money purchase arrangement starts in the tax year but after a trigger event occurring in the same tax year, all of the pension input amount for that pension input period is tested against the money purchase annual allowance.
+
+When the money purchase annual allowance is exceeded in a case where the amount tested against that allowance included an apportioned pension input amount, the balance of the pension input amount not tested against the money purchase annual allowance is tested against the alternative annual allowance.
+
+Example 1
+
+Bruce designates funds into a member flexi-access drawdown fund on 1 October 2017.
+
+On 1 November 2017, the first payment of income withdrawal is made to Bruce from his flexi-access drawdown fund. This triggers the money purchase annual allowance test for tax year 2017-18 and later tax years in addition to the annual allowance test.
+
+Bruce has two other money purchase arrangements (i.e. neither are cash balance arrangements). The first has a pension input period of 6 April to 5 April and the second from 10 January 2018 to 5 April 2018. Bruce contributes £400 per month to the first arrangement and £600 per month to the second arrangement on the 10th of each month.
+
+Bruce has no other pension input amounts to take into account for tax year 2017-18 and the tapered annual allowance does not apply to him for this tax year.
+
+The pension input period for the first arrangement has pre and post trigger event contributions, which means the pension input amount for the first arrangement must be apportioned to establish how much of that input amount is tested against the £4,000 money purchase annual allowance that applies for tax year 2017-18. In this case the five contributions of £400 paid in November to March (£2,000 in total) are tested against the £4,000 allowance.
+
+The pension input period for the second arrangement started after the trigger event, which means the three contributions of £600 paid in January to March (£1,800 in total) are tested against the £4,000 money purchase annual allowance as well.
+
+The portion of Bruce’s pension input amounts for the tax year which is tested against the £4,000 money purchase annual allowance is £3,800 (£2,000 + £1,800). As this is less than £4,000 no further testing under the money purchase annual allowance is needed, leaving just the annual allowance test.
+
+Bruce’s total pension input amount is tested against the annual allowance for 2017-18 (£40,000). As the total pension input amount of £6,600 (£4,800 and £1,800 for the first and second arrangements respectively) is less than £40,000, Bruce does not have to pay any annual allowance charge for 2017-18.
+
+Example 2
+
+Dwayne has to apply the money purchase annual allowance test for tax year 2016-17 as a result of first flexibly accessing a money purchase arrangement, the trigger event being on 15 September 2016. The tapered annual allowance does not apply to Dwayne for the tax year.
+
+He has two arrangements, a cash balance arrangement and an other money purchase arrangement.
+
+The pension input periods for the arrangements are for twelve months; both ending on 5 April 2017.
+
+Dwayne’s pension input amount for his cash balance arrangement is £12,000. Dwayne also makes two payments to his other money purchase arrangement of £15,000 on 1 July 2016 and £8,000 on 1 February 2017, giving a pension input amount of £23,000 for that arrangement.
+
+For each arrangement, the pension input period includes the date of the trigger event. This means the pension input amount for each arrangement must be apportioned to establish how much of the respective input amounts is tested against the £10,000 money purchase annual allowance that applies for tax year 2016-17.
+
+The proportion of the pension input amount for the cash balance arrangement to be tested is £6,641, being £12,000 x 202 (the number of days from 16 September 2016 - the day after the trigger event - to the end of the pension input period on 5 April 2017) divided by 365 (days in the pension input period).
+
+The proportion of the pension input amount for the other money purchase arrangement to be tested is £8,000, being the amount of contributions paid on or after 16 September 2016 until the end of the pension input period.
+
+The overall amount which is tested against the £10,000 money purchase annual allowance for the tax year is £14,641 (£6,641 + £8,000). This exceeds £10,000, which means Dwayne now has to work out whether his alternative chargeable amount is more than his default chargeable amount.
+
+The alternative chargeable amount is made up of the excess over the £10,000 money purchase annual allowance for the tax year (£4,641) plus the excess of other pension input amounts (if any) over the alternative annual allowance.
+
+In Dwayne’s case, he has no pension input amounts for any defined benefits arrangements to test against the alternative annual allowance. However, the proportion of pension input amounts for his money purchase arrangements that was not tested against the £10,000 money purchase annual allowance is tested against the alternative annual allowance.
+
+The proportion of Dwayne’s pension input amount for his cash balance arrangement to be so tested is £5,359 (£12,000 less £6,641). The proportion of the other money purchase arrangement is £15,000 (the contributions paid during the pension input period up to and including the date of the trigger event).
+
+The amount tested against the alternative annual allowance is £20,359 (£5,359 + £15,000), which does not exceed the alternative annual allowance of £30,000 (the annual allowance for tax year 2016-17 of £40,000 less the money purchase annual allowance for the tax year of £10,000).
+
+Dwayne’s alternative chargeable amount for 2016-17 is £4,641.
+
+The default chargeable amount is the excess of Dwayne’s total pension input amount over £40,000 (the annual allowance for the tax year).
+
+The total pension input amount is £35,000 (£12,000 plus [£15,000 + £8,000]). This is within the annual allowance of £40,000, which means Dwayne’s default chargeable amount for 2016-17 is nil.
+
+In Dwayne’s case his alternative chargeable amount is greater than his default chargeable amount, which means the annual allowance charge is applied to his alternative chargeable amount of £4,641.

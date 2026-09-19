@@ -1,0 +1,44 @@
+PMA: Ships: Changes in persons carrying on qualifying activity, connected persons
+Identifier: CA25650
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25650
+Published: 2016-04-16T08:51:22+01:00
+Updated: 2019-12-31T13:42:05+00:00
+Retrieved (UTC): 2026-09-18T16:20:57.229353+00:00
+
+CAA01/S156 - S158
+
+Sometimes you should ignore changes in the persons carrying on the trade in deciding whether a person incurred expenditure. Treat expenditure as incurred by a person if:
+
+- it is incurred by the persons who are carrying on the trade at the time, and
+
+- any changes in the persons carrying on the trade between the time that it was carried on by that person and the time when the expenditure was incurred were treated as continuations under Chapter 1 Part 22 CTA10.
+
+Example
+
+David, Stephen and Graham are in partnership and run a shipping business. Neil joins the partnership. The trade is treated as continuing. David, Stephen and Graham owned a wooden ship that they sold and claimed deferment of the balancing charge that arose. For the purposes of the deferment rules you should treat expenditure incurred by David, Stephen, Graham and Neil as if David, Stephen and Graham incurred it. This means that David, Stephen and Graham can attribute their deferred balancing charge to expenditure on new shipping incurred by David, Stephen, Graham and Neil.
+
+The normal definition of connected persons in S575, CA11630 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11630) applies for the purposes of the deferment legislation.
+
+A person is also connected with another for the purposes of the deferment legislation if:
+
+- that person is carrying on the qualifying activity previously carried on by the other person, and
+
+- any changes in the persons carrying on the trade between the time that it was carried on by that person and the time when the expenditure was incurred were treated as continuations under Part 22 CTA10.
+
+There is a third way in which people can be connected for the purposes of the deferment legislation. A person is connected with another person if:
+
+- the person is connected with the person carrying on the qualifying activity previously carried on by the other person, and
+
+- any changes in the persons carrying on the trade between the time that it was carried on by that person and the time when the expenditure was incurred were treated as continuations under Part 22 CTA10.
+
+Example
+
+One of Oriental Ltd.’s activities is shipping. It sets up a subsidiary company Havana Ltd. It hives down its shipping business to Havana Ltd. and Part 22 CTA10 treats the shipping business as continuing. Oriental Ltd. then sells the shares in Havana Ltd. to Siamese Ltd. Havana Ltd., then becomes a subsidiary of Siamese Ltd. Burman Ltd. is also a subsidiary company of Siamese Ltd. and so Havana Ltd. and Burman Ltd. are connected. Burman Ltd. is connected with Oriental Ltd. for the purposes of the deferment legislation because it is connected with Havana Ltd. and Havana Ltd. is carrying on the qualifying activity previously carried on by Oriental Ltd. This means that if Burman Ltd. buys a ship that was owned by Oriental Ltd. two years ago the expenditure is not expenditure on new shipping. The ship has belonged to Oriental Ltd., a person connected Burman Ltd., in the six years ending with Burman Ltd.’s acquisition of the ship CA25600 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25600).
+
+CAA01/S157 lets you make any assessments or adjustments of assessments needed as a result of a claim for the deferment of a balancing charge.
+
+You should use the definitions in Part 5, CTA10 (Group relief) to decide whether two companies are members of the same group.
+
+Membership of a group is not fixed for all time. If a company stops being a member of the same group as the shipowner, it stops being a person against whose expenditure on new shipping a deferred balancing charge may be attributed. This means that if the ship owner has rolled over a balancing charge against that company’s expenditure on new shipping the balancing charge should be reinstated.
+
+For example, a company that goes into liquidation stops being a member of a group. If a balancing charge has been rolled over against expenditure on new shipping incurred by another member of the group and that company goes into liquidation the addition to the shipowner’s qualifying expenditure should be withdrawn.

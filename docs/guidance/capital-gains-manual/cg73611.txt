@@ -1,0 +1,34 @@
+Dwellings subject to ATED: persons chargeable under TCGA92/S2B
+Identifier: CG73611
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73611
+Published: 2016-03-12T12:24:22+00:00
+Updated: 2026-07-01T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:35:40.953723+00:00
+
+TCGA92/S2B imposes a charge to capital gains tax (CGT) on persons who realise gains that are ATED-related (see CG73625+) on ‘relevant high value disposals’ (see CG73616+) of residential property in the UK. The ATED related CGT charge applies to disposals in the period 6 April 2013 to 5 April 2019.
+
+The range of persons within the scope of the charge is different from the normal scope of CGT it includes:
+
+- Companies. The normal rule charging companies’ chargeable gains to corporation tax instead of CGT is disapplied -TCGA92/S1 (2A) and S8 (4A).
+
+- Persons who are not resident in the UK. The normal rule excluding non-residents from CGT is disapplied - TCGA92/S2 (7A).
+
+and it excludes:
+
+- Individuals, trustees of settled property and personal representatives of deceased persons, who are exempt—
+
+- Where they dispose of an interest in residential property that they hold directly, the gain or loss on the disposal will not be ATED-related because they are outside the scope of ATED in these circumstances (see CG73601).
+
+- Where a gain or loss accrues to them on disposal of an interest in residential property that they hold “indirectly”, via a partnership or a ‘relevant collective investment scheme’. The gain or loss could be ATED-related if certain conditions are met, because ATED has been payable in respect of the property, but individuals, trustees and personal representatives are specifically excluded from the CGT charge under section 2B in these circumstances, see CG73612. (If they are resident in the UK their gains and losses will be subject to CGT under the normal rules.)
+
+Reliefs that prevent gains on disposals by certain types of person from being chargeable gains also apply to exempt gains that are ATED-related from being chargeable gains. So persons entitled to any of these reliefs are effectively outside the scope of the CGT charge. The reliefs include the exemptions for:
+
+- gains accruing to AUTs, OEICs, investment trusts, and VCTs - TCGA92/S100 (1)
+
+- gains accruing to unauthorised unit trusts meeting the conditions in TCGA92/S100 (2) to (2B) - see CG41352 to CG41354
+
+- gains accruing to charities that meet the conditions for charitable exemption - TCGA92/S256 to S256D - see CG67500C
+
+- gains accruing on assets held for the purposes of a ‘registered pension scheme’ - TCGA92/S271 (1A). From 6 April 2013 this exemption is extended to gains on disposals of assets held for the purposes of ‘overseas pension schemes’.
+
+In addition, FA 2013 gives an additional exemption from CGT under section 2B for ATED-related gains accruing to an EEA UCITS which is neither an OEIC nor a unit trust scheme, TCGA92/S100A. For this purpose ‘EEA UCITS’ has the meaning given by Part 17 of the Financial Services and Markets Act 2000. See CTM48115 for general guidance on UCITS funds.

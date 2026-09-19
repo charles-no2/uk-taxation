@@ -1,0 +1,60 @@
+Interest in unadministered estates: Valuation aspects
+Identifier: IHTM22022
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22022
+Published: 2016-04-09T09:35:35+01:00
+Updated: 2022-01-25T16:36:57+00:00
+Retrieved (UTC): 2026-09-18T15:00:40.040371+00:00
+
+You must value the assets of the unadministered estate to which the deceased is entitled as though they owned the assets directly as provided for by IHTA/S91.
+
+The value of other assets already owned by the deceased may also be affected by the application of S91, for example where the deceased owns a half share of property and the other half is comprised in the unadministered estate to which they are entitled. Because of S91 you can treat them as directly owning the whole property and value it without any discount for joint ownership (IHTM15071 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm15071)).
+
+You will be valuing the assets of the unadministered estate at the date of the deceased’s death and where appropriate you must bear in mind the related property provisions (IHTM09731 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09731)) if the deceased has a surviving spouse or civil partner who has an interest in the unadministered estate.
+
+The information you need to calculate the value offered for the unadministered estate should be included in the form IHT415 of the IHT400.
+
+Example 1
+
+Akash dies on 24 December 2008. His gross estate consists of bank accounts of £100,000, Apple Cottage valued at £125,000, 12 acres of woodland valued at £40,000 and a one-half share of Whitehouse valued at £150,000. His estate totals £415,000.
+
+By his Will, Akash left a pecuniary legacy of £30,000 to Peter and the residue of his estate entirely to Rahul. Rahul dies in January 2011 and Akash’s estate remains unadministered.
+
+In order to calculate the value of Akash’s residuary estate, all of the unadministered assets not the subject of a specific bequest, will be valued at the date of Rahul’s death in January 2011. The bank accounts have accrued additional income and the properties and woodland have increased in value between 2008 and 2011.
+
+Rahul held the Whitehouse as tenants in common (IHTM15082 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm15082)) with Akash prior to Akash’s death. Half of the value of the Whitehouse is reflected in his estate assets already and now half is included in the assets of the unadministered estate. No joint property discount will be due (IHTM15071 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm15071)).
+
+On revaluation, the total value of Akash’s estate is now £475,000. There is a pecuniary legacy of £30,000, which is a general legacy and not a gift of a specific asset. So we deduct a sum of £30,000 from the calculated value of the residue. The value of Rahul’s interest in the residue is now £475,000 - £30,000 = £445,000.
+
+From this amount the funeral expenses, debts and Income Tax payable on Akash’s death, as well as any administration expenses, are deducted. These amount to £8,500. The value of Rahul’s interest in the unadministered estate of Akash is £445,000 - £8,500 = £436,500.
+
+You may need to ask the District Valuer (IHTM23002 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm23002)) to review the valuation returned for the property at the date of Rahul’s death.
+
+Appropriation
+
+The above example dealt with a situation where none of the assets had been appropriated (i.e. transferred) to the beneficiaries.
+
+The Administration of Estates Act 1925/S41 gives trustees a power to appropriate assets in or towards satisfaction of any legacy or interest in the deceased’s assets. It does not have to be done by formal deed, as long as other evidence is produced to demonstrate that an appropriation (and more importantly its timing from a valuation point of view) has been made.
+
+Contemporaneous records of oral statements, letters or the actions of all interested parties may all help to clarify the position. In practical terms, since many modern Wills authorise appropriation without the need for the legatees’ consent, an appropriation of an asset may well be in the form of documents evidencing an assent, conveyance, or transfer of legal title.
+
+Where an asset, or part of an asset, has been appropriated, you will need to decide what the correct valuation date is. For example, you may encounter this problem where you have to value the residuary interest in an estate, where under the earlier Will (or a variation of it) a legacy not exceeding the nil rate band passes to other beneficiaries.
+
+In a straightforward case the deceased dies and under his Will he leaves a legacy not exceeding the nil rate band to his children, with the residue passing to his spouse. If no assets have been appropriated to satisfy this legacy before the death of his spouse, the form IHT400 for his wife’s estate should include all the assets of his estate valued at her date of death, less a deduction for the unpaid nil rate legacy which may itself carry interest. (The personal representatives of an estate are not bound to distribute the estate of the deceased before the expiration of one year from the death (Administration of Estates Act 1925/S44). Unless otherwise provided for in the Will, interest will run on unpaid general legacies from one year after the death up until the earlier of the date of payment or the date of the second death.)
+
+If an asset or part of an asset had been appropriated in satisfaction of the nil rate legacy prior to the wife’s death, her interest in his estate would have to be calculated having regard to the value of the appropriated property at the date of appropriation.
+
+The importance of this can be seen in the following example where a share of a house has been appropriated in part satisfaction of a legacy.
+
+Example 2
+
+Wendy dies on 20 May 2010 leaving her whole estate to Harold, her husband. Her estate on death consists of £230,000 in a bank account and a house, Blackacre, valued at £300,000. There are liabilities, including funeral expenses, of £5,000. The whole of the estate qualifies for spouse exemption and no tax is payable.
+
+On 20 January 2011, Harold effects a deed varying Wendy’s Will. Under the deed a legacy not exceeding the nil rate band (£325,000 in this example) is given to the deceased’s children. The deed satisfied the requirements of IHTA/S142. The value of Blackacre at that time is £400,000.
+
+Harold dies on 20 January 2012. Blackacre has been included in his form IHT400 as joint property and his interest is shown as a two thirds share of Blackacre. The account includes a helpful note explaining that at the date of Wendy’s death Blackacre was worth £300,000 and £100,000 of this was used to make up the legacy of £325,000 to the children under the deed of variation dated 20 January 2011 giving the children a one third share of Blackacre.
+
+The share to give effect to the children’s legacy was appropriated on 21 January 2011. Since at that time the value of Blackacre was £400,000 and only £100,000 of this was needed to make up the legacy, the actual share appropriated to the children’s legacy in satisfaction of their entitlement was one quarter, and not one third. Therefore, Harold’s share in the property on his death should be three quarters and not two thirds.
+
+Information in an account (or an enquiry raised in response to such an account) may reveal that too many (or too few) assets had been put into the nil rate band legacy. The effect on a later death or transfer will depend on the facts.
+
+If too many assets were transferred into the nil rate band legacy, this may result in a lifetime transfer of value depending on the circumstances. Also, there may be an issue about whether there are additional assets due to the deceased or whether there is a valid claim against the estate as a consequence of the previous mistake.

@@ -1,0 +1,36 @@
+Qualifying corporate bonds: share reorganisations
+Identifier: CG53709
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53709
+Published: 2016-03-12T11:33:10+00:00
+Updated: 2016-01-26T09:09:40+00:00
+Retrieved (UTC): 2026-09-18T14:43:02.350479+00:00
+
+Where qualifying corporate bonds (QCBs) are issued or redeemed as part of a:
+
+- share reorganisation (TCGA 1992 section 126, see CG51700+),
+
+- company reconstruction (sections 135 & 136, see CG52500+), or
+
+- conversion of securities (section 132, see CG55000+)
+
+there are special provisions to ensure that gains in respect of the shares are taxed.
+
+Example
+
+Anna holds 100 shares in HCL that she acquired on 1/1/90 for £100. On 1/1/2011 another company, BCS, has offered to acquire her shares along with all the other shares in HCL in exchange for shares in BCS on a 2 for 1 basis. The offer is accepted and Anna will now hold 200 shares in BCS. The criteria within section 135 are met, see CG52521+.
+
+Section 135 invokes section 127 and the effect of section 127 is that for the purposes of the TCGA Anna is deemed not to have made a disposal of her shares in HCL but her BCS shares and her HCL shares are taken to be the same asset and the date that she acquired her shares in HCL and the cost of those shares are to be taken as the date of acquisition and cost of the shares in BCS. For the purposes of the TCGA Anna now holds 200 shares in BCS that are deemed to have been acquired on 1/1/90 for £100.
+
+The value of Anna’s shares in HCL at the date of exchange was £20,000. Without the application of section 127 Anna would have had a gain of £19,900. However, section 127 did apply and so when on 1/1/2013 Anna sells her shares in BCS for cash of £30,000 then ignoring all other factors such as losses Anna’s gain on 1/1/2013 is £29,900 (30,000 - 100).
+
+However what if instead of BCS offering shares it offered Anna loan stock? What if the loan stock met the criteria to be QCBs? Section 135 refers to debentures and the loan stock issued by BCS falls within that term. Therefore section 135 can still apply and this in turn means that the no disposal rule in section 127 would also still apply. Consider the effect.
+
+On 1/1/2011 Anna has exchanged an asset which without the effect of section 127 would mean that there would be a disposal that would give rise to a chargeable gain. However section 127 does apply and any latent gain as at the date of the exchange is not brought into charge at that date but instead inheres in the new debentures. The problem is that the debentures issued by BCS are QCBs and the exemption within section 115 means that when Anna disposes of the QCBs any gain will not be a chargeable gain. That will include the latent gain on the shares in HCL as at the date of the exchange.
+
+Assuming that on 1/1/2013 the debentures are sold for £30,000 the gain would be computed by deducting from the proceeds the cost of the shares in HCL, ie. £100 and so producing a gain of £29,900 as before. The latent gain on the HCL shares to the date of the exchange, £19,900, is effectively included in the gain of £29,900 that accrued on the disposal of the QCBs. Section 115 directs that a gain on the disposal of QCBs is not a chargeable gain. The result of all this is that the latent gain as at the date of the exchange, £19,900, would never be brought into the charge.
+
+The special provisions within section 116 ensure that whilst the gain of £19,900 will be not brought into charge at the date of the exchange it will be brought into charge at a later date. In order to achieve this you calculate the gain to the date of the exchange and accrual of that gain is deferred until there is a disposal of the debentures that were received in exchange for the shares. In the above example this means that when Anna disposes of the QCBs held in BCS the deferred gain that was calculated on the HCL shares to the date of exchange, £19,900, is brought into charge.
+
+CG 53710 explains those parts of section 116 which set out the criteria for the section to apply and CG53711 - 12 explains the effect of the section when it does apply.
+
+Note these paragraphs do not include explanations of the subsections in section 116 that interact with the Loan Relationship regime. These are covered at CG54000+.

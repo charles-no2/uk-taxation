@@ -1,0 +1,54 @@
+Ten year anniversary: Tax calculation: the rate of tax: step 1: the notional lifetime transfer
+Identifier: IHTM42085
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42085
+Published: 2016-04-09T10:23:47+01:00
+Updated: 2022-05-31T13:36:57+01:00
+Retrieved (UTC): 2026-09-18T15:09:26.069832+00:00
+
+Overview
+
+The underlying design of the charge is that Inheritance Tax (IHT) on relevant property trusts should be comparable to a charge of 40% once a generation. To achieve this there would normally be a 20% lifetime (‘entry’) charge on the settlor (IHTM04067 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04067)) and three TYA charges at 6% (3/10ths of 20%) on the trustees.
+
+The amount subject to the charge is the net value of the relevant property including any deemed relevant property (IHTM42166 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42166)) after reliefs and exemptions.
+
+The rate of IHT on the amount subject to charge is based on a notional lifetime transfer (as if the trust funds were hypothetically transferred at the date of the TYA). The components of that transfer have varied over time but the calculation method remains the same and is set out in IHTA84/S66. The rate cannot exceed 6% (IHTM42087 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42087)).
+
+The amount of IHT threshold, the nil rate band available against the hypothetical chargeable transfer is reduced to account for previous cumulative transfers (IHTM42086 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42086))
+
+A reduction is available for assets which have not been in the trust for the whole ten years (IHTM42088 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42088)).
+
+Anniversaries on or after 18 November 2015
+
+The table below sets out the notional lifetime transfer for anniversaries on or after 18 November 2015.
+
+The main component is the value of the relevant property at the date of the anniversary. The other values used are all historic.
+
+The other components are broadly anti avoidance provisions and depend on the value of property in other trusts set up by the same settlor. But if the settlor has never created more than one trust or has never added property or value to more than one trust on the same day (including trusts created on death) then none of B, C, and D will apply.
+
+If the trust started before 27 March 1974 then ignore B, C & D.
+
+Notional lifetime transfer on or after 18 November 2015 |  £ |  Notes |
+
+A: Relevant property |  Use current value of relevant property (Net assets after reliefs) |    |
+
+B: Related (relevant) property |  IHTM42230 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42230) (The historic value is used) |    |
+
+C: Same day additions (SDA) |  IHTM42233 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42233) (The historic value is used) |    |
+
+D: Initial value in SDA trust |  IHTM42233 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42233) (The historic value is used) |    |
+
+Total |    |    |
+
+The total above is the notional lifetime transfer and the process to calculate the (notional) IHT is like any other lifetime transfer. That is you deduct the nil rate band available (IHTM42086 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42086)) and multiply by 20%.
+
+Notional IHT = (notional lifetime transfer – available nil rate band) x 20%
+
+Anniversaries prior to 18 November 2015
+
+- add to A above an amount equal to the historic value of the non-relevant property in the trust (if any). Such property may be subject to qualifying interest in possession trusts or special trust or be excluded property
+
+- adjust B above (if applicable) to include non-relevant (related) property
+
+- ignore C & D above.
+
+The next step is to establish the amount of the nil rate band that is available (IHTM42086 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42086)).

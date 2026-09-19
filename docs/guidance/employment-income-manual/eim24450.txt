@@ -1,0 +1,50 @@
+Car benefit calculation: steps 1 to 4: examples: list price
+Identifier: EIM24450
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24450
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2020-07-31T09:03:46+01:00
+Retrieved (UTC): 2026-09-18T14:20:57.344852+00:00
+
+Sections 121(1) and 125 to 132 ITEPA 2002
+
+When working through this example you may find it useful to refer to:
+
+- the method statement in section 121(1) ITEPA 2003, see EIM24015 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24015) (this page illustrates steps 1 to 4)
+
+- the flowchart for steps 1 to 4 at EIM24055 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24055)
+
+Example
+
+In April 2002, an employee is supplied with a car with list price of £18,590. It’s supplied with metallic paint (£250) and a CD multichanger (£450, for which the employee pays) as factory-fitted options (i.e. priced by the car’s manufacturer). Before registering the car, the dealer puts on a paint-protecting finish (£95). On 6 April 2003, the car is converted to run on road fuel gas (£1,250). The employee contributes £250 to this. On 6 June 2003, roof rails costing £95 (including tax and fitting) are added.
+
+Calculation: steps 1 to 4 for the tax year 2003 to 2004
+
+Section 121
+
+|  Item |  Price of item (£) |  Running total (£) |
+
+Step 1 |  List price including standard accessories, VAT, number plates, delivery |  18,590 |  18,590 |
+
+Step 2 |  Initial extra accessory - metallic paint |  250 |    |
+
+|  Initial extra accessory - CD multichanger |  450 |    |
+
+|  Initial extra accessory - paint-protecting finish |  95 |  19,385 |
+
+|  Later accessory - conversion to run on road fuel gas (note 1) |  Nil |    |
+
+|  Later accessory - roof rails (note 2) |  Nil |  19,385 |
+
+Step 3 |  Capital contribution towards CD multichanger |  450 |    |
+
+|  Capital contribution towards road fuel gas conversion |  Nil |  18,935 |
+
+Step 4 |  Interim sum (price of the car) - step 4 is omitted from 2011 to 2012 onwards, so the interim sum is then the amount carried forward from step 3 |    |  18,935 |
+
+Notes
+
+- See EIM24280 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24280).
+
+- The price of the roof rails is not added because the price is below the £100 de minimis limit, so they never count as later accessories at all (see EIM24215 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24215)).
+
+- The capital contribution towards the road fuel gas conversion is not deducted because the cost of the conversion is not taken into account in calculating the cash equivalent of the benefit of the car (see EIM24350 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24350) onwards).

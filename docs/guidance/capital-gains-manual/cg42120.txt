@@ -1,0 +1,20 @@
+Non-resident company with a UK permanent establishment: computing gains
+Identifier: CG42120
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42120
+Published: 2016-03-12T11:04:16+00:00
+Updated: 2021-04-22T09:59:26+01:00
+Retrieved (UTC): 2026-09-18T14:40:38.584969+00:00
+
+If the disposal of an asset of a UK permanent establishment is a chargeable occasion (see CG42110 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42110)) then you can compute the gain using the normal rules for gains accruing to companies within the charge to Corporation Tax on chargeable gains. There are additional restrictions to roll-over relief to ensure that the replacement assets are within the UK charge, see CG61350 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg61350).
+
+In the computation you should use as acquisition cost the figure arrived at on the normal basis. You should not allow an acquisition cost based on the value of the asset at the date trading through the permanent establishment started.
+
+Example
+
+A non-resident company trades as a wholesaler of electrical goods. Initially it carried on this trade wholly outside the UK. On 1 March 2004 it purchased a property in the UK with a view to eventually expanding its activities into the UK. It let the property from then until it opened a permanent establishment of its trade in the property on 1 June 2005. The property cost £130,000 on 1 March 2004. It had a market value of £200,000 on 1 June 2005. On 30 April 2010 the company sold the property for £300,000.
+
+As the property has been used for the purposes of a trade carried on in the UK through a permanent establishment the company is chargeable to Corporation Tax on the chargeable gain realised on this disposal. The amount of the gain will be computed in the usual way:
+
+Disposal proceeds £300,000 less acquisition cost £130,000 equals £170,000. As this is a disposal by a company indexation allowance applies (CG17207). The indexation allowance is £26,910 (£130,000 x 0.207) and so the chargeable gain is £143,090.
+
+Had the property been sold for market value on 1 June 2005 instead of being taken into use for the purposes of the trade, the chargeable gain of £70,000 less indexation would have been exempt from UK Corporation Tax and Capital Gains Tax. Despite this, no part of the gain of £143,090 above is to be treated as exempt. It would be incorrect to compute the gain using a deemed acquisition cost of £200,000 on the date the property was taken into use for the purposes of the trade.

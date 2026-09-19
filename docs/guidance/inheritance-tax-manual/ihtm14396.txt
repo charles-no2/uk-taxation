@@ -1,0 +1,72 @@
+Lifetime transfers: gifts with reservation (GWRs): settled property: charge to inheritance tax on settled property 
+Identifier: IHTM14396
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14396
+Published: 2016-04-09T09:18:45+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:57:44.857615+00:00
+
+Where the settlor is not a long-term UK resident at the time of their death (or when the reservation of benefit ceases) foreign property in the settlement is excluded property and is not brought into charge for Inheritance Tax purposes (IHTM27220 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm27220)).
+
+If the settlor is long-term UK resident at the time of their death (or when the reservation of benefit ceases), foreign property in the settlement is not excluded property and is subject to charge.
+
+A transitional provision means that foreign property in a settlement is disregarded for the purpose of the gift with reservation (GWR) provisions only if:
+
+-
+
+it was settled prior to 30 October 2024, when the settlor was domiciled outside the UK
+
+-
+
+it was excluded property on 30 October 2024
+
+-
+
+it remained settled property throughout and
+
+-
+
+it was invested outside the UK or in Authorised Unit Trusts or Open-Ended Investment Companies at the date of death (or when the reservation of benefit ceases).
+
+(See IHTM47022 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47022).)
+
+Where the settlor dies before 6 April 2025, the test for excluded property is the settlor’s domicile at the time assets were added to the trust. Where the settlor was domiciled outside the UK at the time a settlement was made, any foreign property in the settlement is excluded property and is not brought into charge for Inheritance Tax (IHT) purposes (IHTM27220 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm27220)). This rule applies where property is subject to a reservation of benefit even though the settlor may have acquired a domicile of choice in the UK, or be deemed to be domiciled in the UK, at the time the gift with reservation (GWR) charge arises (IHTM04071 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04071)).
+
+Reservation ceasing on death
+
+At the material date FA86/S102(3) deems the donor to be beneficially entitled to property that is, at that time, settled property.
+
+Example 1
+
+In January 2015 Henry, who is domiciled in New Zealand, puts foreign property into a discretionary trust under which he is a potential beneficiary (IHTM14393 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14393)). He dies five years later having acquired a domicile of choice in the UK and without having released the reservation. The property is subject to a reservation on death under FA86/s102(3) but it remains excluded property and is outside the IHT charge.
+
+Example 2
+
+In October 2000 Sarah, who is not UK domiciled, puts foreign property into a discretionary trust under which she is a potential beneficiary. She dies on 8 April 2025 when she is a long-term UK resident and without having released the reservation. The property is subject to a reservation on death under FA86/s102 but it remains outside the GWR charge because of the transitional provision (IHTM47022 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47022)).
+
+Reservation ceasing during lifetime
+
+Where the reservation is released during the donor’s lifetime, FA86/S102(4) treats the donor as making a disposition of the property by a disposition which is a potentially exempt transfer (PET) (IHTM04072 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04072)). This is different to the basis of the charge arising on death.
+
+As FA86/S102(4) treats the donor as making a disposition, it is the treatment of excluded property when a disposition is made that is relevant. IHTA84/S3(2) states that no account shall be taken of the value of excluded property which ceases to form part of a person’s estate as a result of a disposition.
+
+So as the donor is treated as making a disposition, property is treated as ceasing to form part of their estate. Provided that property is excluded property, IHTA84/S3(2) applies to exclude the assets in which the reservation ceased from charge.
+
+Points to note
+
+-
+
+Where a settlor domiciled outside the UK settles foreign property in separate trusts and the transitional provision means that the foreign property settled is disregarded for the purpose of the GWR provisions, it will remain disregarded even where the foreign property is moved between those same settlements.
+
+-
+
+If the trustees had sold the foreign property so that at the date of death (or cessation of the reservation of benefit) the settled property was invested in UK assets, the exclusion would not apply as the property comprised in the settlement was not situated outside the UK at the date of the relevant charge.
+
+-
+
+If property is added to an existing settlement at a time when a donor is long-term UK resident (or, before 6 April 2025, at a time when they were domiciled or deemed domiciled in the UK) then irrespective of the situs (IHTM27071 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm27071)) of the property,  the added property will not be excluded property (IHTM04272 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04272)). However, the addition will not deny transitional relief on the existing property.
+
+Example 3
+
+In 2015 Kathy settled foreign property into trust whilst she was non-UK domiciled. She is a beneficiary under the terms of the trust but the transitional provisions apply, and the property settled in 2015 is disregarded for the purpose of the gift with reservation provisions. In 2026 Kathy settles additional foreign property into the trust at a time when she is long-term UK resident. The foreign property settled in 2015 continues to be disregarded for the purpose of the GWR provisions under the transitional provisions. The additional foreign property she settled in 2026 will be treated separately as property subject to a reservation.
+
+Refer any case where you consider that there is such a charge, or any enquiries about the possibilities of a charge, to Technical.

@@ -1,0 +1,60 @@
+Business Asset Disposal Relief - calculation - disposals by trustees: more than one beneficiary
+Identifier: CG64140
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64140
+Published: 2016-03-12T11:53:50+00:00
+Updated: 2025-10-28T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:34:28.216457+00:00
+
+Entrepreneurs’ Relief was renamed in Finance Act 2020 with effect from 6 April 2020. The new name is generally used in this guidance but should be read as applying to times before that date.
+
+TCGA92/S169O
+
+Where trustees make a disposal which meets the conditions for Business Asset Disposal Relief only part of the gain may actually be eligible for relief.
+
+If in respect of an amount of the gain accruing in relation to a disposal of trust business assets qualifying for Business Asset Disposal Relief, (see CG63985 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63985) for conditions) there is:
+
+- at least one beneficiary, besides the qualifying beneficiary, who
+
+- at the “material time”
+
+- has an interest in possession in the settled property of the settlement or in that part of the settled property that includes the settlement business assets that are the subject of the disposal of trust business assets,
+
+the amount of the gain (qualifying for Business Asset Disposal Relief) is determined by the reference to the qualifying beneficiary’s proportional entitlement to the income of the relevant settled property - TCGA92/S169O(1).
+
+In such a case only the “relevant proportion” of the amount arrived at under TCGA92/S169N (1) (see CG64125 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64125)) is to be taken into account in giving Business Asset Disposal Relief in respect of the disposal of those trust business assets. The remainder of the amount which does not qualify for Business Asset Disposal Relief is a chargeable gain and subject wholly to CGT at the rate applicable - TCGA92/S169O(2) & (3).
+
+“Relevant Proportion” (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64140#IDA1YJTC)
+
+Proportion of the income to which the qualifying beneficiary is entitled (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64140#IDAHZJTC)
+
+“Material time” (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64140#IDAPZJTC)
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64140#Top)
+
+“Relevant Proportion”
+
+The “relevant proportion” of the amount arrived at under TCGA92/S169N(1) - CG64125 - is determined by reference to the qualifying beneficiary’s proportional entitlement, at the “material time”, to the income of that part of the settled property that consists of or includes the settlement business assets disposed of.
+
+If, at the material time, the qualifying beneficiary is entitled to the whole of that income, no adjustment to the amount arrived at under TCGA92/S169N(1) is required. But if the qualifying beneficiary is entitled to, say, one-half of that income, the relevant proportion would be one-half of the amount arrived at under TCGA92/S169N(1).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64140#Top)
+
+Proportion of the income to which the qualifying beneficiary is entitled
+
+In determining the proportion of the income to which the qualifying beneficiary is entitled, no account is to be taken of any entitlement other than that arising from the interest that makes the beneficiary a qualifying beneficiary. Any other interest in the income that the qualifying beneficiary may have is ignored TCGA92/S1690(5).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64140#Top)
+
+“Material time”
+
+The “material time” is:
+
+- in a case where the settlement business assets disposed of are shares or securities (or interests in shares or securities) is the end of the latest period of 2 years, ending within the period of 3 years before the date of the disposal, throughout which the conditions in TCGA92/S169J(4) (see CG63985 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63985)) are met
+
+- in a case where the settlement business assets disposed of are assets (or interests in assets) used or previously used for the purposes of a business, it is the end of the latest period of 2 years ending within the period of 3 years before the date of the disposal, throughout which the business was carried on by the qualifying beneficiary.
+
+The relevant period was only one year where the disposal was before 6 April 2019.
+
+Example
+
+The trustees make a disposal of shares on 31st March 2020 upon which a gain arises against which a claim is made for relief. The period of three years up to the date of that disposal begins on 1st April 2017. The company in which the shares were sold ceased to carry on its trade and the qualifying beneficiary ceased to be an employee on the 31st December 2019. Therefore at that date it ceased to be the qualifying beneficiary’s ‘personal company’. The ‘material time’ would therefore be at the end of that two year period i.e. 31st December 2019. If however the company had ceased to trade and the qualifying beneficiary ceased to be an employee after 31st March 2020 the ‘material time’ would be 31st March 2020.

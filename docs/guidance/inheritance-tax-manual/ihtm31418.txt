@@ -1,0 +1,38 @@
+Assessing: calculations: death estate: IOP cases
+Identifier: IHTM31418
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31418
+Published: 2016-04-09T10:04:37+01:00
+Updated: 2016-02-11T17:19:05+00:00
+Retrieved (UTC): 2026-09-18T15:06:07.799580+00:00
+
+Where the taxpayer or agent claims the option to pay by 10 annual instalments (IHTM30191 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30191)), divide the total tax charge by 10 to arrive at the tax to pay at each instalment. Calculate only the number of instalments outstanding at the last due date.
+
+Example
+
+Total tax to pay on IOP £150,000 (10 instalments of £15,000)
+
+- Due date for first instalment 30 April 2011
+
+- Due date for second instalment 30 April 2012
+
+- Due date for third instalment 31 April 2013
+
+You raise a calculation on 15 September 2012.
+
+The current tax due includes the first and second instalments only
+
+2 × £15,000 = £30,000 tax currently due
+
+Sold property
+
+When the property is sold, the total amount of tax becomes due immediately (assuming it is after the first due date). You should calculate the full amount of tax due. You may also need to do this where the taxpayer or agent decides they no longer wish to pay by instalments.
+
+Part sold, part unsold
+
+When some of the property is subject to instalments and some is not, use both columns on the calculation. Apportion the tax charge between the different properties.
+
+- Show the tax attributable to property where instalments still apply on the left. Work out the tax on the number of instalments now due and show it here.
+
+- Show the tax attributable to property where instalments no longer apply on the right. Show the full tax charge as currently due.
+
+Although COMPASS (IHTM31101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31101)) will calculate this apportionment for you, always check the figures to make sure reliefs, exemptions, and liabilities are attributed to the correct property.

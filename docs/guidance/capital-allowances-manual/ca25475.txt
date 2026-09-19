@@ -1,0 +1,26 @@
+PMA: Ships: Amount taken into account in respect of old ship
+Identifier: CA25475
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25475
+Published: 2016-04-16T08:51:15+01:00
+Updated: 2019-12-31T11:55:36+00:00
+Retrieved (UTC): 2026-09-18T16:20:56.759065+00:00
+
+CAA01/S139
+
+This is the amount taken into account in respect of the old ship.
+
+If the old ship is in a single ship pool, the amount taken into account is the disposal brought to account less the balance in the single ship pool transferred to the general pool. Effectively this is the balancing charge that would have arisen in the single ship pool.
+
+If the ship owner has transferred all or part of the expenditure on the old ship out of the single ship pool CA25150 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25150) the expenditure on the old ship will have merged with the other expenditure in the pool to which the expenditure was transferred. Any balancing charge that arises cannot be precisely attributed to the ship. In that case this is how you calculate the amount taken into account in respect of the old ship.
+
+Assume that the old ship is the only asset in the main pool and has always been and that all the allowances available (both first year, if any, and writing-down) have been claimed. Effectively, you calculate the maximum allowances that would have been given if the ship had stayed in its single ship pool. This gives you a notional figure for the pool brought forward when the disposal event happens. You then calculate what the balancing charge would have been on the basis of those assumptions and that is the amount taken into account in respect of the old ship.
+
+After the amount taken into account in respect of the old ship has been calculated on the basis that it is having single ship treatment the ship owner may give notice that single ship qualifying activity treatment of the old ship is to end. In that case the amount taken into account to the old ship is recalculated on the basis that single ship qualifying activity treatment does not apply to it. The recalculated amount taken into account is not necessarily the same as the amount taken into account already calculated because the ship owner may not have claimed all the allowances available. The recalculated amount may be higher. The single ship pool calculation takes account of the allowances actually claimed. The recalculation takes account of the allowances that could have been claimed.
+
+Example
+
+Keiron buys a ship for £1,000,000 in his accounts year ended 24 May 2018. He does not claim any allowances on the ship in the year ended 24 May 2018. He claims a WDA of £180,000 in the year ended 24 May 2019. He sells the ship for £950,000 on 4 July 2019.
+
+The balance in the single ship pool on 25 May 2019 is £820,000 (cost £1,000,000 less WDA £180,000). The amount taken into account in respect of the ship is £130,000 (disposal value £950,000 less pool balance £820,000).
+
+On 1 December 2019 Keiron makes an election to keep the expenditure on the ship out of the single ship pool. The amount taken into account in respect of the ship is recalculated like this. Assume that the WDA of 18% available for the year ended 24 May 2018 (£180,000) was taken, leaving a pool balance of £820,000 carried forward to 25 May 2018. Assume that the WDA of 18% available for the year ended 24 May 2019 (£147,600) was also taken, leaving a pool balance of £672,400 at the end of that year. The amount taken into account in respect of the ship is £277,600 (disposal value £950,000 less pool balance £672,400).

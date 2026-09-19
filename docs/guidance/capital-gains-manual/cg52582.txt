@@ -1,0 +1,12 @@
+Share exchange: effect of TCGA92/S135: pooling
+Identifier: CG52582
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52582
+Published: 2016-03-12T11:26:50+00:00
+Updated: 2016-01-26T08:52:39+00:00
+Retrieved (UTC): 2026-09-18T14:42:41.499715+00:00
+
+TCGA92/S135 imposes, via TCGA92/S127, a `single asset’ fiction. This does not, however, mean that you treat the shares acquired in exchange as if they were the original shares. If for example a shareholder acquired shares in Company A in 1990, and these are acquired by Company B in 1994 in exchange for an issue of its own shares, the shareholder now has shares in Company B. For the purposes of the pooling rules, there has been an acquisition of shares in Company B by the shareholder. The reorganisation provisions treat that acquisition as having taken place when the Company A shares were acquired, and for the amount the Company A shares were acquired.
+
+It follows that the Company B shares held by the shareholder following the exchange can be pooled with any other Company B shares held by the shareholder. In the above example, the shares are treated as acquired in 1990, so they will be pooled with any other shares in Company B held by the shareholder in a Section 104 holding.
+
+If the shares in Company A had been acquired by the shareholder in 1980, the shares in Company B would also have been treated as acquired in 1980. They could not, therefore, be added to any Section 104 holding of Company B shares, but will form a 1982 holding, see CG50870+. If the shareholder already held Company B shares in a 1982 holding, the new shares would be added to the existing holding.

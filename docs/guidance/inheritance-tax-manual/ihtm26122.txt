@@ -1,0 +1,44 @@
+Step 4 - grossing up: how grossing up works
+Identifier: IHTM26122
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26122
+Published: 2016-04-09T09:47:41+01:00
+Updated: 2022-02-01T13:51:58+00:00
+Retrieved (UTC): 2026-09-18T15:03:06.962423+00:00
+
+The function and importance of grossing up (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121)) is illustrated by the following simple example.
+
+Tyrone died on 1 July 2001 with an estate valued at £600,000. By Will (IHTM12041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12041)) he left:
+
+- £367,000 to his daughter free of tax (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003))
+
+- residue (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003)) to his widow (IHTM11032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11032))
+
+There is no business relief or agricultural relief so interaction (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003)) is not involved. Tyrone has not made any lifetime transfers.
+
+The residue is exempt. The only taxable gift is that to the daughter. The problem is how to quantify it.
+
+If the legacy had not been free of tax, there would be no problem. Tax could have been charged on the nominal amount of the legacy - £367,000. The tax would have been £50,000 and the daughter would have received a net sum of £317,000. The spouse would have received a residue of £233,000.
+
+But as the daughter’s legacy is free of tax, she will receive the full £367,000 despite the tax payable on it. The tax comes out of the residue, reducing the net benefit to the spouse to well under £200,000. So it would be unsatisfactory to limit the tax liability to £50,000. Instead the rules require the daughter’s legacy to be grossed up to an amount that reflects the nominal value of the legacy plus the benefit she gets from not paying tax.
+
+Effectively you are working out how much the legacy would have to be so that, once you deduct the tax payable on that ‘gross’ amount, the net amount you are left with is the actual amount of the free of tax legacy. Ignoring any nil rate band, a ‘gross’ legacy of £100 subject to tax at a rate of 40% would leave a net sum of £60 (£100 less £40 tax). So to gross up a net sum of £60 you have to multiply this by 100 and divide by 60 to calculate the ‘gross’ legacy of £100. Multiplying by 100 and dividing by 60 is the same as multiplying by five-thirds, which is how this calculation is often expressed.
+
+The grossing up calculation is:
+
+Nominal amount of legacy = £367,000
+
+Less nil-rate band -£242,000
+
+Excess = £125,000
+
+Gross up at 40% (or multiply by 100 ÷ 60) = £208,333
+
+Add back the nil-rate band +£242,000
+
+Grossed up value of legacy = £450,333
+
+The exempt residue is £600,000 - £450,333 = £149,667
+
+You can check the result by calculating the tax on £450,333 and then deducting it. The difference should be the same as the nominal amount of the legacy. The figures are:
+
+£450,333 - £83,333 = £367,000

@@ -1,0 +1,168 @@
+Groups: indexation allowance restriction: just/reasonable: ordinary shares
+Identifier: CG46221
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46221
+Published: 2016-03-12T11:11:17+00:00
+Updated: 2023-04-27T08:20:38+01:00
+Retrieved (UTC): 2026-09-18T14:41:33.510823+00:00
+
+The following example illustrates an appropriate method for restricting indexation allowance on a disposal of shares other than redeemable preference shares under TCGA92/S183 (2). The starting point is a disposal on or after 15 March 1988.
+
+Step 1
+
+Apply the general identification rules. These include the bed and breakfasting rule in TCGA92/S106 and the ten day rule in TCGA92/S107 (3). If on applying these rules no indexation allowance is due on the disposal there is no need to proceed further. The following steps are only necessary in relation to pooled shares.
+
+Step 2
+
+Apply the tests in TCGA92/S183 (3) to every acquisition since linkage so that all the acquisitions are divided into caught' acquisitions and other’ acquisitions.
+
+Step 3
+
+Allocate any disposals before 15 March 1988 so far as possible to the various `caught’ acquisitions, and to each of those acquisitions on a proportionate basis.
+
+Step 4
+
+Apportion the shares disposed of to the caught' and other’ holdings on a pro rata basis.
+
+Step 5
+
+Compute what the indexation allowance would have been if each tranche of each `caught’ acquisition now deemed to be disposed of had been a separate acquisition which had never been included in a pool. The total of these notional indexation allowances gives the appropriate indexation restriction.
+
+Step 6
+
+Deduct the aggregate of the indexation allowances computed in Step 5 from the indexation allowance otherwise due on the disposal, but not so as to affect the calculation of the indexed pool of expenditure.
+
+Example
+
+Date |  - |  - |
+
+18 May 1982 |  acquisition |  15,000 shares at £2 each |
+
+6 Dec 1982 |  rights issue |  2 for 3 at £1 each |
+
+28 Aug 1985 |  disposal |  5,000 shares for £3 each |
+
+29 March 1986 |  acquisition |  4,000 shares at £3.50 each |
+
+2 April 1986 |  disposal |  2,000 shares for £4 each |
+
+12 Aug 1986 |  disposal |  1,000 shares for £4.50 each |
+
+1 Jan 1989 |  disposal |  500 shares for £5 each. |
+
+The companies became linked on 31 December 1985. The acquisition of shares on 29 March 1986 is caught by TCGA92/S183 (3).
+
+This example assumes an inflation rate of 5 per cent per annum for indexation purposes from August 1986.
+
+Computation of Indexation Allowance before Restriction
+
+- |  Shares held |  Relevant expenditure |  Indexed pool |
+
+event |  - |  £ |  £ |
+
+May 1982 acquired |  15,000 |  30,000 |  30,000 |
+
+6 Dec 1982 £30,000 x RE - RL |  - |  - |  327 |
+
+RL |  - |  - |  - |
+
+right issue |  10,000 |  10,000 |  10,000 |
+
+- |  25,000 |  40,000 |  40,327 |
+
+28 Aug 1985 indexation |  - |  - |  6,343 |
+
+- |  - |  - |  46,670 |
+
+disposal |  5,000 |  8,000 |  9,334 |
+
+- |  20,000 |  32,000 |  37,336 |
+
+29 March 1986 indexation |  - |  - |  486 |
+
+- |  - |  - |  37,822 |
+
+acquired |  2,000 |  7,000 |  7,000 |
+
+- |  22,000 |  39,000 |  40,822 |
+
+12 August 1986 indexation |  - |  - |  505 |
+
+- |  - |  - |  45,327 |
+
+disposal |  1,000 |  1,773 |  2,060 |
+
+- |  21,000 |  37,227 |  43,217 |
+
+1 Jan 1989 indexation |  - |  - |  5,047 |
+
+- |  - |  - |  48,314 |
+
+disposal |  500 |  886 |  1,150 |
+
+- |  20,500 |  36,341 |  47,164 |
+
+* 4,000 acquired but 2,000 sold within ten days. The ten day rule in TCGA92/S107(3) applies.
+
+Restriction of Indexation Allowance
+
+Step 1
+
+Apply ordinary identification rules.
+
+Steps 2 and 3
+
+Distinguish acquisitions between caught' and other’ shares. Assume any disposals before 15 March 1988 were of `caught’ shares.
+
+- |  ‘Caught’ |  ‘Other’ |
+
+May 1982 |  - |  15,000 |
+
+December 1982 |  - |  10,000 |
+
+August 1985 |  - |  (5,000 |
+
+- |  - |  sold) |
+
+March 1986 |  2,000 |  - |
+
+- |  (net) |  - |
+
+- |  2,000 |  20,000 |
+
+August 1986 |  1,000 |  - |
+
+- |  1,000 |  20,000 |
+
+Step 4
+
+‘caught’ shares |  500 |  x |  1,000 |  = |  24 |
+
+- |  - |  - |  21,000 |  - |  - |
+
+‘other’ shares |  500 |  X |  20,000 |  = |  476 |
+
+- |  - |  - |  21,000 |  - |  - |
+
+Step 5
+
+Compute indexation on 24 shares acquired in March 1986 for £3.50 each and disposed of in January 1989, say £12.
+
+Step 6
+
+Deduct £12 from indexation otherwise available.
+
+£1,150 - £886 = £264 - £12 = £252
+
+Chargeable Gain Summary
+
+- |  - |  - |  £ |
+
+- |  proceeds |  - |  2,500 |
+
+less |  cost |  - |  886 |
+
+- |  - |  unindexed gain |  1,614 |
+
+less |  indexation |  - |  252 |
+
+- |  - |  chargeable gain |  1,362 |

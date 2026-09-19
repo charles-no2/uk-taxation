@@ -1,0 +1,38 @@
+UK property rich collective investment vehicles: Corporate feeder vehicles wholly owned by institutional investors
+Identifier: CG73999M
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73999m
+Published: 2021-03-22T11:31:37+00:00
+Updated: 2021-08-25T10:46:18+01:00
+Retrieved (UTC): 2026-09-18T14:35:59.614275+00:00
+
+TCGA92/SCH5AAA/para33 provides that where a company is wholly, or almost wholly, owned (see TCGA92/SCH5AAA/para40, and CG73996V (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73996v)) by certain specified investors, any gain accruing on a disposal by that company will not be a chargeable gain. This rule allows entities with their own exemption, immunity, or similar non-taxable status to pass it down to wholly (or almost wholly) owned companies.
+
+Paragraph 33 of Schedule 5AAA was amended by the UK Property Rich Collective Investment Vehicles (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2020 (“2020 regulations”). Prior to the introduction of the 2020 regulations, paragraph 33 only applied to a qualifying fund or company in respect of which an election for exemption under paragraph 12 Sch.5AAA had been made. It has been amended to address further situations where a feeder vehicle may be used. The changes to paragraph 33 apply retrospectively from 6 April 2019.
+
+Paragraph 33 applies to companies which are wholly or almost wholly owned by specified investors, and are invested in specified CIVs or companies –
+
+- a CIV in respect of which an election under paragraph 8 has been made (a “transparent fund”),
+
+- a qualifying fund or qualifying company in respect of which an election under paragraph 12 has been made,
+
+- a company which is a company UK REIT or is the principal company of a group UK REIT, or,
+
+- an open-ended investment company to which Part 4A of the Authorised Investment Funds (Tax) Regulations 2006 applies and which is UK property rich (a “PAIF”)
+
+The specified investors remain unchanged. They are –
+
+- qualifying institutional investors, as listed in TCGA92/SCH7AC/para30A (the substantial shareholder exemption rules, see CG53012 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53012)),
+
+- a UK company carrying on life assurance business where, immediately before the disposal, its right or interest in the participant is an asset which, applying the rules in section 138 of the Finance Act 2012, is wholly matched to a liability of its life assurance business that is not BLAGAB,
+
+- a UK company carrying on long-term business none of which is BLAGAB where, immediately before the disposal, its right or interest in the participant is an asset held for the purposes of its long-term business and
+
+- another qualifying fund or qualifying company in respect of which an election under paragraph 12 has effect.
+
+Note that the reference to a unit in the fund in paragraph 33(2) and (2A) also covers disposals of interests in underlying companies owned by a transparent fund, as provided for by paragraph 1(6)(a).
+
+In addition, a deemed disposal under paragraph 21 Sch.5AAA will not result in a deemed disposal by any investor within paragraph 33, except for an investor who is an insurance company, or a company which is wholly (or almost wholly) owned by one or more investors each of whom is an insurance company.
+
+The 2020 regulations further amended paragraph 33 so that the company no longer needs to be wholly-owned by a specified investor, instead the company may be “almost wholly owned”. The regulations also added a new section at paragraph 33(2A) Sch.5AAA. That subparagraph provides for an additional corporate layer between the specified investors in paragraph 33(4) and the CIV. This deals with structures where, for example, a pension fund owns 99% or more of Company A, which in turn has an interest in Company B, and Company B’s assets consist wholly of units in the fund. If A disposes of a right or interest in B then any gain accruing on the disposal is not a chargeable gain.
+
+References to a company in subparagraphs 33(2)(b) and 33(2A) include entities that are deemed to be companies under subparagraph 4(2), except for those that are the subject of a transparency election under paragraph 8.

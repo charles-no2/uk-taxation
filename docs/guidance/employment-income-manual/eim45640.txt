@@ -1,0 +1,64 @@
+Employment income provided through third parties: exclusions: retirement benefits etc: example
+Identifier: EIM45640
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45640
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2017-12-08T12:19:02+00:00
+Retrieved (UTC): 2026-09-18T14:23:23.823190+00:00
+
+Section 554W ITEPA 2003
+
+This example illustrates the rules of Section 554W discussed in EIM45635 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45635).
+
+Assume the following facts.
+
+- A is a member of an EFRBS (not registered).
+
+- A has a lump sum entitlement of 50% of the fund.
+
+- A’s rights accrued, in part, before 6 April 2011.
+
+- A’s rights under the scheme are valued in total at £1 million.
+
+- On 1 March 2012, A receives a lump sum of £500,000 wholly out of these rights.
+
+The payment of this lump sum is a relevant step within Section 554C.
+
+The rights out of which the lump sum is paid accrued, in part, before 6 April 2011. So, an apportionment is needed.
+
+The lump sum needs to be apportioned between:
+
+- A’s pre-6 April 2011 lump sum rights, and
+
+- A’s other rights.
+
+A’s pre-6 April 2011 rights consist of:
+
+- contributions made before 6 April 2011, and
+
+- growth on those contributions up to the time when the lump sum is paid.
+
+Recall that A is not entitled to take 100% of the fund as a lump sum. Therefore, A’s ‘pre 6 April 2011 rights’ include but are wider than A’s ‘pre-6 April lump sum rights’.
+
+A’s post-5 April 2011 rights consist of:
+
+- contributions made after 5 April 2011, and
+
+- growth on those contributions up to the time when the lump sum is paid.
+
+Assume that, on a just and reasonable basis:
+
+- A’s pre-6 April 2011 rights are valued at £800,000, and
+
+- A’s post-5 April 2011 rights are valued at £200,000.
+
+A has a lump sum entitlement of 50% of the fund, therefore A’s pre-6 April 2011 lump sum rights are valued, on a just and reasonable basis, at 50% x £800,000 = £400,000.
+
+So, Section 554W treats the payment of the lump sum as two separate relevant steps:
+
+- one in relation to the lump sum so far as paid out of A’s pre-6 April 2011 lump sum rights, and
+
+- one in relation to the lump sum so far as paid out of A’s other rights.
+
+The former step is valued at £400,000. Section 554W stops it giving rise to Part 7A income. However, it is still potentially subject to charge under Section 394 ITEPA 2003 see EIM15010 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15010) onwards.
+
+The latter step is valued at £100,000. As far as Section 554W is concerned, there is nothing to stop it giving rise to Part 7A income.

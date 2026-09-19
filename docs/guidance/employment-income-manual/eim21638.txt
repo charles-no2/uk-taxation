@@ -1,0 +1,80 @@
+Particular benefits: assets placed at the disposal of a director or employee: assets placed at the disposal of an employee and used partly for private purposes and partly for work: example
+Identifier: EIM21638
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21638
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-01-13T17:10:25+00:00
+Retrieved (UTC): 2026-09-18T14:24:13.740028+00:00
+
+Note: This page explains HMRC’s approach to assets made available without transfer for tax years 2016 to 2017 and earlier. For tax years 2017 to 2018 onwards, see EIM21873 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21873).
+
+For some background information relevant to this example, see EIM21637 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21637).
+
+Facts
+
+- On 6 July a company purchases a 10-seater aircraft for £800,000.
+
+- The principal shareholder of the company and managing director (MD) holds a pilot’s licence.
+
+- The plane is kept at an airfield near to both the company premises and the MD’s home. It is available to the MD to use at all times - sometimes, at weekends, he decides on the spur of the moment to take a flight on the plane. The plane is not available to any other director or employee unless given specific permission.
+
+- The company incurs costs on the plane of £20,000 for the 9 months from 6 July to 5 April for landing fees, fuel, insurance, etc.,
+
+- When he uses the plane for private purposes, the MD reimburses the company £100 per day as a contribution towards the employer’s costs.
+
+- Inspection of the logbook for the period 6 July to 5 April (274 days) shows use as:
+
+- 10 days - by the MD for travel to business meetings
+
+- 20 days - by the company (using an outside pilot hired by the day) to deliver sensitive documents to customers in remote locations
+
+- 10 days - commercial hire to third parties at £2,000 per day
+
+- 10 days - another director of the company wishes to learn to fly and uses the plane for flying lessons with an instructor
+
+- 60 days - private use by the MD.
+
+Amount of the benefit chargeable on the MD
+
+Section 205(2)(a) ITEPA 2003 determines that when an asset is placed at the disposal of a director or employee (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21631), the amount of the cash equivalent of the benefit is the annual value (section 205(3)(b)) plus additional expenses.
+
+Item |  Amount |
+
+Annual value of plane (£800,000 × 9/12 × 20%) |  £120,000 |
+
+Additional expenses |  £20,000 |
+
+Total amount of the benefit |  £140,000 |
+
+As the plane is made available for several different purposes, if any of those purposes amounts to an “other matter” (section 204), an apportionment of the benefit may be due. Use by the MD, whether for business or private purposes, is not an “other matter”. But use by other employees, or use by the company, are “other matters” - items 2, 3 and 4 above which amount to 40 days in total.
+
+The amount of the benefit is based on the 274 days in the year when the plane was available for use. On 40 days it was used for “other matters” and the benefit must be apportioned accordingly. On the remaining 234 days it was entirely at the disposal of the director to use as and when he wished. If the plane was not available to the director, or not solely available to him, on all these days, the calculation of the benefit could be different (see EIM21639 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21639)). The calculation of the benefit must be:
+
+- apportioned to take account of these other matters
+
+- reduced by any amount made good by the MD to the employer.
+
+Step in Calculation |  Amount |
+
+Total amount of the benefit |  £140,000 |
+
+Less proportion for “other matters” (40/274) |  £20,438 |
+
+Benefit after apportionment |  £119,562 |
+
+Less made good by MD (£100 × 60) |  £6,000 |
+
+Cash equivalent of the benefit |  £113,562 |
+
+Finally, if the director’s use of the plane satisfies the terms of section 336 ITEPA 2003, he will be due a deduction under section 365(1) for the amount of expenses on business purposes that could have been deducted if incurred by him. This figure may be quantified based on the facts of the case. In this instance, the MD used the plane for a total of 70 days in the year, 10 days for business and 60 days for private purposes. A reasonable basis for calculating the deduction due under section 365(1) may be 10/70 of the chargeable benefit - 10/70 × 113,562 = 16,223.
+
+Step in Calculation |  Amount |
+
+Less deduction for business use (10/70 days) |  £16,223 |
+
+Amount of benefit taxable on MD |  £97,339 |
+
+Note it is necessary to use judgement and common sense when determining the amount that would have been deductible for expenses under section 365(1).
+
+In this case, a deduction of approximately £1,600 per day has been allowed for the MD’s travel to business meetings. This may seem a large amount but if the alternative is for the company to hire a similar plane for the day at the commercial rate of £2,000, for which the MD paid himself and was later reimbursed by the company, he would be entitled to a deduction for this amount. Apart from extreme cases, it is better not to become involved in a debate concerning what form of transport (and at what cost) is suitable for the director to use to attend meetings.
+
+The other director who uses the plane for flying lessons will also be chargeable on a benefit based on his 10 days private use of the plane.

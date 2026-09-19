@@ -1,0 +1,68 @@
+PMA: Partnerships and successions: Election where predecessor and successor are connected
+Identifier: CA29040
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca29040
+Published: 2016-04-16T08:53:25+01:00
+Updated: 2020-05-04T14:26:24+01:00
+Retrieved (UTC): 2026-09-18T16:21:06.390837+00:00
+
+CAA01/S266 - S267A
+
+Where there is a succession to a qualifying activity and:
+
+- the predecessor and successor are connected with each other,
+
+- both the predecessor and successor are within the charge to UK tax on the profits of the qualifying activity,
+
+- the successor is not a dual resident investing company as defined in CTA09 /109 (formerly ICTA88/S404) (see CTM34530 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm34530) and CTM34560 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm34560)),
+
+the predecessor and successor may make a joint election to treat any assets which:
+
+- belonged to, and were used by, the predecessor for the purposes of the qualifying activity immediately before the succession,
+
+- belonged to, and were used by, the successor for the purposes of the qualifying activity immediately after the succession,
+
+as sold by the predecessor to the successor at a price which does not give rise to a balancing allowance or charge.
+
+This means that where assets are in a pool they are transferred at the pool value.
+
+The definition of connected for these purposes says that the predecessor and successor are connected if:
+
+- they are connected within the meaning of s575 CA11630 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11630),
+
+- one is a partnership and the other has the right to a share in that partnership,
+
+- one is a body corporate and the other has control over it,
+
+- they are both partnerships and some other person has the right to share in them both,
+
+- both are bodies corporate, or one is a partnership and the other is a body corporate, and some other person has control over them.
+
+This means that an election may be made if:
+
+- the predecessor and successor are connected as defined in CTA10/Ss 34,1122,1123, and ITA07 / Ss993,994 (formerly ICTA88/S839),
+
+- there is common control of them,
+
+- in partnership cases, they have at least one person in common.
+
+The election must be made by notice to HMRC within two years of the succession.
+
+The taxpayers should make any assessments or adjustments of assessments needed as a result of the election.
+
+When an election is made any sale or transfer price is ignored. The successor’s allowances and charges are calculated as if the successor had acquired the assets at the same time and at the same price as the predecessor. This means that the successor’s disposal value is restricted to the predecessor’s qualifying expenditure rather than the notional transfer price.
+
+When an election is made the following legislation does not apply:
+
+- disposal of asset leased overseas to a connected person CA24200 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24200), and
+
+- general successions CA29030 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca29030).
+
+If the succession takes place on or after 1 April 2012 for corporation tax (6 April for income tax) and if any of the assets are fixtures the predecessor and the successor will also need to make a joint election under CAA01/S198 in order for the successor to be able to claim allowances CA26470 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26470).
+
+The section 266 election allows for the transfer of all plant or machinery at a value that does not give rise to a balancing allowance of a balancing charge. The section 198 election allows the successor to claim capital allowances on any fixtures that are transferred and, as such, the amount in the section 198 election cannot exceed that amount in the section 266 election.
+
+Cases where election may not be made or has no effect
+
+An election may not be made where the qualifying activity is special leasing.
+
+You may have a case where a business of leasing plant or machinery is transferred and an election is made. In a case like that the election has no effect for leased plant that is qualifying leased plant in determining whether the business is a business of leasing plant or machinery. That is because CAA01/S267, which sets out the effect of the election, does not apply to that plant and machinery. The legislation about disposal value of long life assets CA23770, disposal of asset leased overseas to a connected person CA24200 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24200), and general successions CA29030 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca29030) can apply.

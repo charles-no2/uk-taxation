@@ -1,0 +1,138 @@
+Substantial shareholdings exemption: anti-avoidance rule - further guidance 
+Identifier: CG53185
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53185
+Published: 2016-03-12T11:30:12+00:00
+Updated: 2022-05-09T11:49:43+01:00
+Retrieved (UTC): 2026-09-18T14:32:50.302119+00:00
+
+TCGA92/SCH7AC/PARA5
+
+The following guidance setting out how the anti-avoidance rule will be applied was originally published as Statement of Practice 5/02 (SP5/2002) . Examples (not originally part of SP5/2002) follow below.
+
+Introduction
+
+The regime in schedule 7AC TCGA 1992 (‘schedule 7AC’) for the exemption of gains on disposals of substantial shareholdings will apply to disposals of shares (or an interest in, or an asset related to shares) by companies which have held a substantial shareholding for at least 12 months where:
+
+- the company holding the shares (or an interest in, or an asset related to shares) is a trading company or a member of a trading group, and
+
+- the shares in question are shares in a trading company or the holding company of a trading group or subgroup
+
+The exemptions provided by the regime may create opportunities for manipulation. The provisions therefore contain an anti-avoidance rule at paragraph 5 of schedule 7AC. This is aimed at tax-driven arrangements which are intended to exploit any of the exemptions.
+
+We expect cases where the anti-avoidance rule is in point to be unusual and infrequent.
+
+In what follows, references to paragraphs are to paragraphs of schedule 7AC.
+
+Outline of the anti-avoidance rule
+
+Paragraph 5 is aimed at ‘arrangements’ from which the ‘sole or main benefit’ that can be expected to be derived is that a gain on a disposal will be exempt by virtue of an exemption in Part 1 of schedule 7AC. The remedy is to deny exemption on any gain arising on the relevant disposal. ‘Arrangements’ is defined widely and includes ‘any scheme, agreement or understanding, whether or not legally enforceable’.
+
+Paragraph 5(1) provides that certain events must occur in pursuance of the arrangements before the ‘sole or main benefit test’ in paragraph 5(2) can apply, an untaxed gain must accrue to a company (‘company A’) on a disposal of shares, or an interest in shares or an asset related to shares, in another company (‘company B’)
+
+and before the gain accrued either:
+
+- company A acquired control of company B, or the same person or persons acquired control of both companies, or
+
+- there was a significant change of trading activities affecting company B at a time when it was controlled by company A, or when both companies were controlled by the same person or persons
+
+Paragraph 5(5) provides that there is a ‘significant change of trading activities affecting company B’ if:
+
+- there is a major change in the nature or conduct of a trade carried on by company B or a 51% subsidiary of company B, or
+
+- there is a major change in the scale of the activities of a trade carried on by company B or a 51% subsidiary of company B, or
+
+- company B or a subsidiary of company B begins to carry on a trade
+
+A ‘major change in the nature or conduct of the trade’ in this legislation has the same meaning as in S768 ICTA 1988.
+
+For the purposes of paragraph 5(1) a gain is ‘untaxed’ if the gain, or all of it but a part that is not substantial, represents profits that have not been brought into account (in the UK or elsewhere) for the purposes of tax on profits for a period ending on or before the date of the disposal. ‘Profits’ for these purposes means income or gains, including unrealised income or gains. But profits are not ‘untaxed profits’ if an amount in respect of these profits is apportioned to and chargeable on a UK-resident company under the controlled foreign company rules for an accounting period of the company ending on or before the date of the disposal.
+
+Application of the rule
+
+It will be a question of fact in any particular case as to whether a gain wholly, or wholly except for a part which is not substantial, represents untaxed profits. Broadly, this will involve looking at how the consideration obtained for the shares is derived from assets held directly or indirectly by company B.
+
+It will usually be obvious when profits are ‘untaxed’ within the meaning of paragraph 5. For example, unrealised profits on capital assets will be untaxed profits. It is impossible to provide a comprehensive catalogue of all situations where the gain will represent untaxed profits but some examples of situations where the profits will not be untaxed profits for the purpose of paragraph 5 would be:
+
+- a dividend received by a holding company that is paid out of taxed profits of the subsidiary
+
+- where the profits in question themselves represent an exempt gain on disposal of a substantial shareholding
+
+- where no tax is payable on profits because they are covered by a specific relief (eg, loss relief)
+
+In many cases a gain will represent both taxed and untaxed profits. In these circumstances, the gain should be taken as first representing the taxed profits and only any balance which then remains as representing untaxed profits.
+
+In the context of this legislation we interpret ‘substantial’ as meaning more than 20%.
+
+Even if on this basis the gain wholly, or wholly except for a part which is not substantial, represents untaxed profits, the exemption would be denied only if:
+
+- each of the circumstances set out in paragraph 5(1) occurs in pursuance of arrangements, and
+
+- the sole or main benefit that could be expected to arise from the arrangements is that the gain accruing on the disposal would otherwise be exempt under schedule 7AC, and
+
+- from the outset the sole or main benefit expected to arise from the arrangements is the achievement of that outcome
+
+Examples
+
+TCGA92/SCH7AC/PARA5
+
+It is in the nature of a rule of the kind in paragraph 5 Schedule 7 TCGA 1992 that it is not possible to provide a comprehensive catalogue of situations where it may apply. The examples that follow illustrate the sort of manipulation at which the measure is aimed and identify a number of situations where the anti-avoidance provision will not apply. References to company A and company B are to the companies designated as such in paragraph 5(1).
+
+Cases where the anti avoidance rule may apply
+
+Example 1
+
+A package of derivatives designed to produce a guaranteed, or near guaranteed, return is acquired by previously dormant company B which is controlled by company A. This could comprise, for example, a set of options one of which is certain to be exercisable so as to produce an overall return equivalent to an investment return. The derivatives are assets of a financial trade being carried on by company B and may be the only important asset owned by company B. The trade may have commenced only with the arrival of the derivatives package, or company B may have had a small pre-existing and probably related trade.) The shares in company B are sold by company A before any return on the package of derivatives is taxed. This may be because any income is not taxed on an accruals basis or because the package produces a return only on exercise or sale of the options and there is nothing that could be taxed before that point. The sale may be back to the provider of the package, so that any profits and losses match. Without the anti-avoidance measure company A would have obtained what is in effect an investment return on its `deposit’ as an exempt capital gain.
+
+The transaction falls within the meaning of arrangements and the sole or main benefit of these arrangements is to obtain an exempt gain. An untaxed gain has accrued to company A on the disposal of its shares in company B as required by sub-paragraph 5(1)(a). There has been a significant change of trading activities of company B while under the control of company A. So the circumstances of paragraph 5(1)(b) are met and exemption is denied.
+
+Example 2
+
+An individual (“I”) owns a valuable asset and also controls a trading group of companies. “I” grants a valuable short-term option falling short of a right to acquire the asset to, say, his or her spouse that greatly reduces the value of the asset. “I” then transfers the asset, subject to the option, to a trading company within the group whose ordinary share capital meets the substantial shareholding requirement (see CG53070 onwards) and that meets the investee company requirements (see CG53104). As the transaction is between connected persons any chargeable gain accruing to “I” is based on the much reduced market value of the asset. The option holder allows the option to expire and the value of the asset, now owned by the trading company, reverts to its original amount. The trade of the company is transferred to another member of the group and the company, now holding only the target asset, is sold. The consideration received for the shares represents the sale proceeds of the asset. Without the anti-avoidance measure “I” could have realised the asset by way of an exempt gain accruing to a company he controls. Although the main exemption of paragraph 1 Schedule 7 TCGA 1992 would not be available, as the company would have presumably ceased to meet the investee company requirements when it acquired the asset, the second subsidiary exemption of paragraph 3 of that Schedule would be available.
+
+As in example 1, the conditions in paragraphs 5 (1)(a) and (b) are met here. There are clearly arrangements that from the outset are directed solely or mainly at obtaining an exempt gain, so exemption is denied.
+
+Cases where the anti avoidance rule will not apply
+
+Example 3
+
+Company B has a subsidiary, paying tax on its profits, which distributes those profits to company B. Company B will often pay no tax on the dividends it receives. Company B retains these dividends and when company A sells its shares in company B the gain arising is wholly (or wholly except for an amount which is not substantial) represented by the accumulated dividends. In these circumstances the conditions of sub-paragraph 5(1) are not met and the gain company A realises on the disposal of its shares in company B will be exempt (provided all the conditions for exemption are met).
+
+The accumulated dividends may not actually be taxed in the hands of company B, but they are paid out of the taxed profits of its subsidiary. In the context of this legislation the underlying profits have been brought into account for the purposes of tax. The gain is not `untaxed’ for the purposes of sub-paragraph 5(3) so the circumstances of paragraph 5(1)(a) are not met.
+
+Further, there has neither been acquisition of control of company B nor any significant change in company B’s trade in pursuance of any arrangements to which sub-paragraph 5(1) applies, so neither of the conditions of paragraph 5(1)(b) are met.
+
+Example 4
+
+Company A decides to embark upon a new trading activity. In order that it might take advantage of the substantial shareholdings regime on any eventual disposal, company A decides to set up a subsidiary, company B, rather than create a new division. Company B becomes successful very quickly. Company A decides to dispose of its shares in company B after a year and realises a gain. The gain represents the realised income of company B and the unrealised appreciation of the goodwill of its business. Neither underlying element of the gain has been taxed when the shares in company B are sold.
+
+The gain on the company B shares represents income and gains of company B that have not been taxed before the disposal, so the gain would be an `untaxed gain’ to which sub-paragraph 5(1)(a) might apply. The setting up and commencement of company B’s trade would be a significant change of trading activities affecting company B while it was controlled by company A, so sub-paragraph 5(1)(b) might also apply. However, neither the realisation of an untaxed gain nor the change to company B’s trading activities was in pursuance of arrangements the sole or main benefit of which was expected to be an exempt gain and paragraphs 5(1)(a) and (b) do not therefore apply. So the anti-avoidance measure does not operate and the gain is exempted (provided all the conditions for exemption are met).
+
+Example 5
+
+Company A has a subsidiary, company B, that has traded for many years from property which stands on land that it owns. Over the years, the land has increased significantly in value so that when the shares in company B are sold, the bulk of the gain is represented by the unrealised appreciation in the value of the land. As in example 4, the conditions of paragraph 5(1)(b) are not met. There is no acquisition of control of company B in pursuance of any arrangements to which paragraph 5(1) applies.
+
+Example 6
+
+Company B itself holds a substantial shareholding in a trading company that it sells, realising an exempt gain. Some time later, company A decides to sell its shares in company B. Any gain on that sale may be wholly (or wholly except for an amount which is not substantial) represented by the exempt gain realised by company B on the sale of its substantial shareholding.
+
+As in examples 4 and 5, the conditions of paragraph 5(1)(b) are not met. There is no acquisition of control of company B in pursuance of any arrangements meeting the conditions of paragraph 5(2). Also, the gain on sale reflects the earlier exempt gain on disposal of a substantial shareholding. This means that the earlier gain represented profits that were brought into account for the purposes of tax on profits for a period ending on or before the date of the disposal. In these circumstances the gain will not be an untaxed gain and the condition at paragraph 5(1) (a) will not be met.
+
+Example 7
+
+Company B is a long-standing trading company resident in a territory that exempts certain types of income or gains. Examples might be gains on disposals of shareholdings in Germany or certain types of banking or insurance profits in Bermuda. At the time company A sells its shares in company B, the gain arising on the sale could be wholly (or wholly except for an amount which is not substantial) represented by undistributed income or gains which are exempted from tax by the rules of the territory in question. Again, the condition at paragraph 5(1)(b) is not met as there has been no acquisition of control in pursuance of any arrangements to which paragraph 5 applies. Also, the condition in paragraph 5(1)(a) will not be met for similar reasons to those set out in Example 6.
+
+Example 8
+
+In the case of insurance companies, their existing business has a continuing value in terms of an expected stream of future business. This is often referred to as `embedded value’ and can be used as a tool in the valuation of insurance companies. Any value of this kind will not have accrued as income or been taxed. However, such value arguably consists of unrealised profits and it may be that on the sale of an insurance company the bulk of the gain will be represented by this embedded value. On that basis it will not be brought into account for the purposes of tax on profits for a period ending on or before the date of the disposal. However, once more the conditions at paragraph 5(1)(b) have not been met, as there has been no acquisition in pursuance of any relevant arrangements.
+
+Example 9
+
+In conjunction with other changes to corporate taxation in the United Kingdom, the substantial shareholdings exemption regime may encourage groups to bring mixer companies into the United Kingdom for tax purposes, or to hold companies previously held through mixer companies directly from the United Kingdom. These companies, or companies in which they hold a direct or indirect interest, may have untaxed profits as a result of having benefited from exemptions in overseas jurisdictions. Any companies migrating into the United Kingdom while controlling companies with untaxed profits would have acquired control of these companies before there could possibly have been any arrangements from which the sole or main benefit that could be expected to arise is that the gain on the disposal of these companies would, by virtue of Schedule 7AC, not be a chargeable gain. As in the earlier examples, in the absence of arrangements to which paragraph 5 applies, the conditions of paragraph 5(1)(a) and (b) would not be met.
+
+Example 10
+
+Company B owns two trades and company A receives an offer for company B less one of the trades. Company B transfers the trade that is not being sold to another member of the group. Company B is then sold at a gain that mainly reflects an increase in the value of the goodwill of the remaining trade. Arguably, there are arrangements here in the course of which an untaxed gain accrues (on the goodwill) and there is a significant change in the trading activities of company B. However, neither the untaxed gain nor the change in trading activities occurs in pursuance of arrangements from which the sole or main benefit that could be expected to arise is that the gain on the disposal of company B would not be a chargeable gain as required by paragraph 5(2). The main benefit expected from the arrangements here is the sale of company B containing the right collection of assets. The conditions at paragraphs 5(1)(a) and (b) cannot, therefore be met.
+
+Example 11
+
+Company A identifies a target company, company B, which is the holding company of a conglomerate. Company A buys company B, strips out part of its activities it wants to retain and sells its shares in company B. A gain is made that represents an increase in the value of the goodwill of the various businesses on the break up of the conglomerate. There are arrangements here in the course of which control of company B is acquired by company A. An untaxed gain would accrue on the disposal of the shares in company B if the requirements of the substantial shareholdings exemption regime were met. However, the main benefit of the arrangements is for company A to acquire the part of the conglomerate’s business it wants. The arrangements do not meet the sole or main benefit requirement of paragraph 5(2).

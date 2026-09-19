@@ -1,0 +1,22 @@
+Reduced rate for gifts to charity: calculating the baseline amount: introduction
+Identifier: IHTM45009
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45009
+Published: 2016-04-09T10:32:43+01:00
+Updated: 2017-09-28T13:41:29+01:00
+Retrieved (UTC): 2026-09-18T15:10:42.325403+00:00
+
+The legislation sets out three steps in arriving at the baseline amount. The baseline amount is determined for each component separately unless an election to merge components (IHTM45035 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45035)) has been made.
+
+Step 1
+
+Establish the value transferred by the chargeable transfer that is attributable to each component.
+
+Step 2
+
+Deduct from this, the appropriate proportion of the available nil-rate band. The available nil-rate band is the ‘nil-rate band maximum’ referred to in IHTA84/s8A(7) that applies at the death, increased as appropriate by any transferable nil-rate band (TNRB) (IHTM43001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43001)) and reduced by the amount used up by any previous lifetime chargeable transfers. The appropriate proportion is the amount of the nil-rate band apportioned to the component concerned in relation to the whole chargeable transfer on death. The nil-rate band maximum is not increased by any residential nil-rate band (RNRB) (IHTM46001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46001)) or transferable residential nil-rate band (TRNRB) (IHTM46042 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46042)) that might be available on the estate.
+
+Step 3
+
+Add the amount of the charitable legacy that was deducted at step 1 to the amount determined by Step 2, to arrive at the baseline amount.
+
+The impact of both grossing up and interaction could mean that in certain circumstances, the reduced rate would not be available. So the normal rules for grossing up (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121)) and interaction (IHTM26101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26101)) are varied (IHTM45030 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45030)) for the purpose of establishing whether or not the charitable giving condition is met; but only for that purpose.

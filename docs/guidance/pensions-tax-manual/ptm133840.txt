@@ -1,0 +1,61 @@
+Unauthorised payments: deemed or specific situations that are unauthorised payments: recycling of pension commencement lump sums: deemed unauthorised payment and taxation
+Identifier: PTM133840
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm133840
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-28T11:15:02+00:00
+Retrieved (UTC): 2026-09-18T14:51:22.024701+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Deemed unauthorised payment (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm133840#IDADDGMD)
+Taxation of deemed unauthorised payment (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm133840#IDAHHGMD)
+
+Deemed unauthorised payment
+
+Paragraph 3A schedule 29 Finance Act 2004
+
+When the recycling rule is triggered, the amount of the pension commencement lump sum is treated as an unauthorised member payment.
+
+If the lifetime allowance charge arose on any part of the pension commencement lump sum, that part is not treated as an unauthorised payment under the recycling rule. This is to prevent a double tax charge arising under both the lifetime allowance provisions and the recycling rule.
+
+Normally, of course, pension commencement lump sums will be tax-free. But if a pension commencement lump sum is paid when all or part of the individual’s lifetime allowance is available, and the amount crystallised by the pension commencement lump sum exceeds the individual’s available lifetime allowance, the excess is subject to a 55% tax charge under the lifetime allowance provisions. Any part of a pension commencement lump sum that exceeds the individual’s lifetime allowance is treated as a lifetime allowance excess lump sum rather than an unauthorised payment.
+
+The unauthorised payment is deemed to occur when all the conditions necessary for the recycling rule to apply are met. The date when that occurs determines the year of assessment in which the charge arises.
+
+Where the significantly increased contributions are paid on or after receipt of the pension commencement lump sum, then the date when all the conditions for the recycling rule to apply are met will be the date those significantly increased contributions are paid. Where the contributions are significantly increased before the receipt of the lump sum, the date when all of the conditions for the recycling rule to apply are met will be the date of the payment of the pension commencement lump sum.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm133840#Top)
+
+Taxation of deemed unauthorised payment
+
+The deemed unauthorised member payment will trigger an unauthorised payments charge and, possibly, the unauthorised payments surcharge - PTM134100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134100).
+
+The scheme administrator of the registered pension scheme that makes the deemed unauthorised member payment will be liable to a scheme sanction charge. See the further section below about the scheme sanction charge.
+
+The member should notify the scheme administrator
+
+Regulation 11A The Registered Pension Schemes (Provision of Information) Regulations 2006 - SI 2006/567
+
+A scheme member who intends to take a pension commencement lump sum as part of a recycling device is required to inform the scheme administrator of that fact within 30 days of the date of the deemed unauthorised payment. More information about the information that the member must give to the scheme administrator can be found at PTM160400 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm160400).
+
+Scheme sanction charge
+
+As the member must inform the scheme administrator of any recycling of a pension commencement lump sum the scheme administrator should not unwittingly be caught by the recycling rule, resulting in a scheme sanction charge. In addition the scheme administrator should be in a position to fulfil their responsibilities to report the unauthorised payment to HMRC in accordance with PTM161100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161100).
+
+Any notification made by the scheme member to the scheme administrator should be retained in accordance with the requirements of PTM160200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm160200) (retention of records).
+
+Scheme administrators can apply to HMRC to ask for their liability to the scheme sanction charge to be discharged. Such an application can be made on the grounds that the scheme administrator reasonably believed the payment was not a scheme chargeable payment and that such a discharge would be just and reasonable. The scheme administrator must set out the grounds as part of the application.
+
+For example, in the case of a member who is at arm’s length from the pension scheme and the scheme administrator, reasonable grounds would be where:
+
+- a scheme administrator asks the member, who is about to receive a pension commencement lump sum, to declare whether or not the lump sum is being taken with the intention of significantly increasing contributions to one or more registered pension schemes
+
+- the member declares to the scheme administrator that the pension commencement lump sum is not being used to increase contributions to one or more registered pension schemes
+
+- despite the declaration to the contrary to the scheme administrator, the member does use, and intended all along to use, the pension commencement lump sum to significantly increase contributions to one or more registered pension schemes.
+
+However, where a scheme sanction charge liability is discharged in respect of a particular pension commencement lump sum that is treated as an unauthorised payment under the recycling rule, that discharge does not stop the unauthorised payment from being a scheme chargeable payment. The scheme chargeable payments in such cases would still be included in any review to ascertain if one of the possible grounds for de-registration applies – the ground in question being that the amount of scheme chargeable payments in a 12-month period exceeds the de-registration threshold.
+
+Should the threshold be exceeded, HMRC officials would then consider whether the registration of the pension scheme concerned should be withdrawn. It is unlikely that HMRC would withdraw registration if the scheme chargeable payments that led to the de-registration threshold being exceeded were payments caught by the recycling rule and, because there were reasonable grounds, HMRC had agreed to discharge the scheme administrator’s scheme sanction charge liability in respect of those payments.
+
+More detailed guidance concerning the scheme sanction charge is at PTM135100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm135100).

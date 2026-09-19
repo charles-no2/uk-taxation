@@ -1,0 +1,64 @@
+Class 1 structural overview - from April 2009: structural changes: the Class 1 and 2 maximum: examples: two Class 1 employment and self-employment: no Class 2 due
+Identifier: NIM01275
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01275
+Published: 2016-04-11T17:00:34+01:00
+Updated: 2021-10-27T11:37:38+01:00
+Retrieved (UTC): 2026-09-18T15:18:10.539930+00:00
+
+Example 4
+
+A Stark is both employed and self-employed. Her total earnings for the 2021 to 2022 from her Class 1 employments are £72,000. She is paid £3000 per month in each employment. Her maximum Class 1 and 2 liability is calculated as follows:
+
+Step 1
+
+Deduct the relevant Primary threshold from the relevant UEL and multiply that figure by 53.
+
+967 - 184 = 783 x 53 = 41,499
+
+Step 2
+
+Multiply the result of step 1 by 12%
+
+41,499 x 12% = 4,979.88
+
+Step 3
+
+Add together so much of the person’s earnings from each employed earner’s employment as exceeded the Primary Threshold but did not exceed the Upper Earnings Limit.
+
+3000 (monthly earnings) - 797 (monthly PT) = 2,203 x 24 = 52,872
+
+Step 4
+
+Deduct from the total found at step 3 the amount produced by step 1
+
+52,872 - 41,499 = 11,373
+
+Step 5
+
+If the figure produced at step 4 is a positive figure multiply that figure by 2%
+
+If the figure produced at step 4 is a negative figure, it is treated for the purposes of step 8 as nil
+
+11,373 x 2% = 227.46
+
+Step 6
+
+Add together so much of the person’s earnings from each employment as exceeded the Upper Earnings Limit.
+
+There are no earnings above the Upper Earnings Limit
+
+Step 7
+
+Multiply the result of step 6 by 2%
+
+Nil
+
+Step 8
+
+Add together the results of steps 2, 5 and 7.
+
+4979.88 + 227.46 + Nil = 5207.34
+
+A Stark’s maximum for the 2021 to 2022 tax year is £5207.34
+
+Since Ms Stark will have met her maximum by payment of Class 1 NICs, no payment of Class 2 NICs is required. This is because her earnings between the PT and the UEL exceed £41,499 and she will have paid Class 1 NICs at the main primary percentage of 12% on earnings equivalent to 53 x the UEL less the PT, plus the required additional 2%.

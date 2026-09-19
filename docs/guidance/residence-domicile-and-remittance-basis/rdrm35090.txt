@@ -1,0 +1,60 @@
+Remittance Basis: Amounts remitted: Quantification: Relief for amounts remitted again on becoming UK resident
+Identifier: RDRM35090
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35090
+Published: 2025-04-07T08:37:38+01:00
+Updated: 2025-04-08T10:35:09+01:00
+Retrieved (UTC): 2026-09-18T16:19:44.611814+00:00
+
+Paragraph 6 Schedule 9 Finance Act 2025
+
+It is possible for the same foreign income and gains to be remitted more than once, but they will not be charged to tax more than once because of the operation of the double taxation provision at section 809P(12) ITA 2007 (see RDRM35020 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35020)). Generally, the first remittance will be chargeable to tax, so subsequent remittances of the same foreign income or gains will not be taxable.
+
+However, there may be occasions when the first remittance was not taxed. If the same foreign income and gains are subsequently remitted, the earlier untaxed remittance does not prevent the later remittance from being taxed.
+
+A relief has been introduced, referred to here as ‘re-remittance relief’, meaning that subsequent remittances of the same foreign income or gains will be relieved from taxation provided that all of the following criteria are met:
+
+- the initial remittance occurred during a continuous period of non-UK residence of more than 5 years that ended before 6 April 2024
+
+- a subsequent remittance of the same foreign income and gains occurred before 6 April 2025
+
+- a ‘relevant charge’ arose on that subsequent remittance
+
+- the individual was UK resident for both the 2024-25 and 2025-26 tax years and split year treatment did not apply to either year
+
+A ‘relevant charge’ is Income Tax becoming chargeable on that remittance, or a gain accruing under paragraph 1(2) Schedule 1 TCGA 1992 on that remittance. Because section 809P(12) only prevents a later remittance of the same foreign income or gains being taxable if the earlier remittance was taxed, a relevant charge will have arisen on any subsequent remittance of the same foreign income or gains occurring before 6 April 2025 where the individual was UK resident when that remittance occurred.
+
+To note, the wording of section 809P(12) was amended in FA 2025 to clarify how this subsection operates; it has not changed how section 809P(12) functions.
+
+If re-remittance relief applies, it will relieve the subsequent remittance (referred to above) from a charge to tax, along with all remittances of the same foreign income and gains that follow, whether these occurred or occur before or after 6 April 2025.
+
+Example 1
+
+Alexander is a former remittance basis user who left the UK in 2013-14. He was non-UK resident for 9 years between 6 April 2014 and 5 April 2023. On 1 May 2021 he purchased a house in Scotland using his relevant foreign income. He used the house when he came to visit the UK, and lived there when he resumed UK residence on 6 April 2023. As the house purchase was made with Alexander’s relevant foreign income this was remitted in 2021-22 when he first purchased the house, however Alexander was not chargeable to tax on this remittance in 2021-22 as he was not UK resident.
+
+When Alexander returned to the UK on 6 April 2023 and resumed UK residence he lived in the property, which is a use in the UK of property from which the relevant foreign income derives, so the same foreign income was again remitted. The remittance of the relevant foreign income used to purchase the Scottish property is chargeable to tax in 2023-24. This is because the 2021-22 remittance was not taxable, so section 809P(12) does not engage to reduce the taxable amount of the 2023-24 remittance, so the full amount remains taxable.
+
+However, as Alexander remains UK resident for both the 2024-25 and 2025-26 tax years, and split year treatment did not apply to either year, the foreign income and gains remitted on 1 May 2021 meet the conditions for re-remittance relief. This is because the initial remittance occurred during a continuous period of non-UK residence of more than 5 years that ended on 5 April 2023, so before 6 April 2024, and because a subsequent taxable remittance of the same income and gains occurred on 6 April 2023, so before 6 April 2025.
+
+This means that the relevant charge on the 2023-24 remittance is treated as never having arisen, and any subsequent and future remittances of the same foreign income and gains will also be relieved from tax.
+
+Example 2
+
+Eliza is Alexander’s wife, and also a former remittance basis user, and she has a painting in their Scottish home deriving from foreign income which met the criteria to qualify for re-remittance relief before 2023-24. The painting remained in their Scottish property, until 6 April 2024 when she had it shipped to her family home in New York, USA.
+
+On 6 April 2026 Eliza brings the painting back to the UK. Although Eliza took the painting offshore, and the foreign income from which the painting derives is remitted when she brings it back to the UK in 2026-27, it is not a taxable remittance. This is because re-remittance relief applied before Eliza took the painting offshore and so the relief continues to apply to the foreign income whenever it is remitted.
+
+Example 3
+
+Angelica is a former remittance basis user who was UK resident in 2016-17 but left the UK on 31 March 2017. She returned on 30 April 2022 and was UK resident for the 2022-23 tax year. Split year treatment did not apply to either of these years. This means that Angelica was non-UK resident for exactly 5 years, from 6 April 2017 to 5 April 2022.
+
+On 1 January 2022 she brought all of her foreign income and gains to the UK, using them to purchase a property, which she started to use as her home when she returned to the UK on 30 April 2022.
+
+Because the initial remittance of her foreign income and gains did not occur during a continuous period of more than 5 years, Angelica’s foreign income and gains remitted on 1 January 2022 are not eligible for re-remittance relief. This means that the subsequent remittance on 30 April 2022, when she used the UK property from which the income and gains derive, was chargeable to tax in the 2022-23 tax year.
+
+However, Angelica may also need to consider if the temporary non-residence rules apply in relation to the 1 January 2022 remittance (see RDRM32500 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32500)). If the 1 January 2022 remittance is taxable on Angelica’s return under the temporary non-residence rules, then section 809P(12) will prevent a second tax charge arising when the subsequent remittance occurs on 30 April 2022.
+
+Example 4
+
+Peggy is a former remittance basis user who left the UK in 2011-12. She remained non-UK resident for 7 years between 6 April 2011 and 5 April 2018. During this period of non-UK residence Peggy was looking to purchase a holiday home in Devon. In advance of the property purchase she transferred £480,000 of relevant foreign income to her UK bank account. Unfortunately for Peggy the purchase fell through last minute. Instead, she transferred the £480,000 offshore to purchase a villa in Italy. This took place before she resumed her residence in the UK.
+
+On 6 April 2026 Peggy sells the villa and brings the sale proceeds to the UK. Although the initial remittance of the relevant foreign income from which the proceeds derive occurred whilst Peggy was non-UK resident for a period of more than 5 years, she didn’t make a subsequent taxable remittance before 6 April 2025, so the £480,000 of relevant foreign income does not qualify for re-remittance relief. Therefore, a taxable remittance has occurred when Peggy brought the sale proceeds to the UK. However, Peggy may want to take advantage of the low tax rate under the temporary repatriation facility (TRF), which is available to her in 2026-27 – see RDRM71000 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm71000).

@@ -1,0 +1,68 @@
+Settled property: Calculating QSR
+Identifier: IHTM22093
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22093
+Published: 2016-04-09T09:36:24+01:00
+Updated: 2022-01-27T15:00:34+00:00
+Retrieved (UTC): 2026-09-18T15:00:49.314668+00:00
+
+Where conditions for quick succession relief (QSR) (IHTM22041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22041)) on a lifetime termination of a qualifying interest in possession (IHTM16061 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16061)) are satisfied, the manner and extent of the reduction are similar to those on death.
+
+However there is an important difference between the settled property QSR on the lifetime termination of a qualifying interest in possession in settled property and the QSR on death. On death, if the QSR calculation produces a figure greater than the tax due on your deceased’s estate, the excess is lost. With the settled property QSR there may be a further QSR on a later transfer.
+
+Example
+
+- A settled fund is held on trust for Mariam for life,
+
+- On Mariam’s death the fund is held on trust for Bereket (a disabled person) for life,
+
+- On Bereket’s death the fund goes to Yohannes absolutely.
+
+Mariam dies in May 2006.
+
+The settled fund is valued at £1,000,000 on Mariam’s death and her free estate is £250,000. The total Inheritance Tax (IHT) payable is £386,000, of which £77,200 is attributable to the free estate and £308,800 to the settlement.
+
+The increase to Bereket’s estate is £691,200 (£1,000,000 - £308,800), and the tax attributable to that increase is:
+
+(£691,200 ÷ £1,250,000) x £386,000 = £213,443
+
+Later transfers
+
+In January 2008 Bereket and the trustees advance £353,000 out of the capital to Yohannes absolutely.
+
+In February 2009 Bereket and the trustees advance a further £190,000 out of the capital to Yohannes. Both of these advances are treated as potentially exempt transfers (PETs) (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)) by Bereket.
+
+In February 2010 Bereket dies. IHT is payable on both the PETs and on the remainder of the settled fund which passes to Yohannes absolutely on Bereket’s death.
+
+There is a QSR by reference to the tax paid on Mariam’s death against the tax on both the PETs and the charge on Bereket’s death.
+
+The rules you must apply in this kind of situation are
+
+- Allow the relief first against the earliest of the later transfers.
+
+- If the QSR calculation results in a figure greater (before reduction by the appropriate percentage (IHTM22052 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22052))) than the tax on that transfer, allow the excess against the tax on any subsequent later transfers in the chronological order in which they are made.
+
+- Continue this process until the allowable tax is exhausted or the transferor dies.
+
+- For these purposes calculate the excess as if the relief allowed had been at 100%, not as reduced by the appropriate percentage.
+
+Applying these rules to the facts in the example (and assuming no other lifetime transfers and ignoring the annual exemption):
+
+Rule 1
+
+The relief is allowed firstly against the earliest transfer, the January 2008 PET. Tax on the PET is £11,200. QSR is available at 80% and completely covers that tax liability.
+
+Rules 2 and 4
+
+The excess is allowable against the tax on the later transfers. The excess is not the excess over £11,200. It is the excess over the amount of which £11,200 is 80% - i.e. £14,000. So the available excess is £199,443 (the tax on the increase in Bereket’s estate of £213,443 less the rule 4 amount, £14,000).
+
+Rule 2
+
+The next transfer is the PET in February 2009. Tax on the PET of £190,000 is £76,000. QSR is available at 60% and completely covers the tax liability.
+
+Rule 3
+
+The excess allowable against later transfers is the excess over the amount of which £76,000 is 60%.
+
+The available excess is now £72,776 (the amount available from the previous transfer of £199,443 less the rule 4 amount, £126,667).
+
+There is only one later transfer, on the death of Bereket in February 2010, so it must be the last on which the QSR is available. The available QSR is 40% of £72,776, which is £29,110.

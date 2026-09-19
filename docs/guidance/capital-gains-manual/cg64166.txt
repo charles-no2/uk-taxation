@@ -1,0 +1,160 @@
+Business Asset Disposal Relief: share exchanges etc involving QCBs before 6th April 2008 - deferred gains coming back into charge on or after 6th April 2008 - transitional rules - examples
+Identifier: CG64166
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64166
+Published: 2016-03-12T11:54:00+00:00
+Updated: 2020-09-28T10:33:39+01:00
+Retrieved (UTC): 2026-09-18T14:34:30.446663+00:00
+
+Entrepreneurs’ Relief was renamed in Finance Act 2020 with effect from 6 April 2020. The new name is generally used in this guidance but should be read as applying to times before that date.
+
+Example 1 - a “first relevant disposal” before 23 June 2010 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64166#IDAV3SMD)
+
+Example 2 - a “first relevant disposal” made on or after 23 June 2010 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64166#IDAM3TMD)
+
+Example 1 - a “first relevant disposal” before 23 June 2010
+
+In October 2006 W exchanged his shares in his “personal company” partly for cash and partly for QCBs. The original cost of the shares was £900,000 and he received total consideration of £4,000,000, consisting of £250,000 cash and £3,750,000 QCBs. W then disposes of his QCBs in three tranches:-
+
+- one third in January 2008,
+
+- one third in March 2009, and
+
+- one third in October 2010.
+
+The ‘same asset’ treatment of TCGA92/S127 is disapplied by TCGA92/S116(5). A capital gain is calculated upon a hypothetical disposal of the shares (the ‘old asset’), TCGA92/S116(10)(a).
+
+That gain latent in the ‘old asset’ is frozen (excluding any part apportioned to any cash consideration) and attached to the ‘new asset’ (the new holding of QCBs) but not immediately charged to tax. When the ‘new asset’ or any part of it is disposed of the ‘frozen’ gain, or a proportion of it, is deemed to accrue and hence become taxable - see CG53820+.
+
+The total gain will be £3,100,000 (£4m less £900,000). That gain should be calculated in relation to the market value of the shares at the time of the exchange. For the purpose of this example however it is accepted that the consideration of £4m is the market value of the old asset. Any indexation which may be due for assets owned pre March 1998 is calculated at this time - see CG17319 - but taper relief is not included within this calculation.
+
+- £193,750 will become chargeable straight away (2006-7) as this relates to the cash element (£3,100,000 x £250,000/£4m) and may be reduced by any taper relief due (see CG17895 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17895)+).
+
+The remaining £2,906,250 of the gain relates to the QCB’s and will not accrue until they are disposed of.
+
+- The first tranche of QCBs is then redeemed in January 2008 (2007-8) so the relevant proportion of the gain which comes back into charge at that time = £2,906,250 x 1/3 = £968,750 less any taper relief due (see CG17911).
+
+- The second tranche of QCBs is redeemed in March 2009 (2008-9) so a charge will arise for that year. The charge will be:
+
+Total gain £3,100,000
+
+Less amounts charged before 6/4/08
+
+Cash element – 2006-07 £193,750
+
+First tranche of QCBs for 2007-08 £968,750 (£1,162,500)
+
+Gain remaining £1,937,500
+
+Taper relief has now been withdrawn but Business Asset Disposal Relief may now be considered on the assumption that relief existed at the time of the shares for QCB exchange (October 2006) and if W makes a claim
+
+If W meets the conditions for Business Asset Disposal Relief Relief at October 2006 the £1,937,500 is then subject to the relief. Relief up to the full lifetime limit is available so £1,000,000 is reduced by 4/9 giving a gain chargeable after Business Asset Disposal Relief.
+
+Gain £1,937,500
+
+Business Asset Disposal Relief (£555,555)
+
+Chargeable gain £1,493,055
+
+The chargeable gain deemed to accrue on the “relevant disposal” for 2008-09 is the proportion that disposal represents of the amount of the ‘new asset’ left after 6 April 2008 i.e. in this case one half is disposed of (after 6th April 2008).
+
+The gain chargeable for 2008-09 is £1,493,055 x 1/2 £746,527
+
+Gain remaining £746,528
+
+- The third tranche of QCB-s is redeemed in October 2010 (20010/11). The same calculation would apply as for the second tranche so the same relevant proportion of the gain would come back into charge for 2010/11:-
+
+£1,000,000 reduced by 4/9th £555,555
+
+Note that although this third tranche was redeemed at a time when the lifetime limit was £5,000,000, that revised limit does not apply to this element of the gain.
+
+But because not all the gain is reduced by the application of Business Asset Disposal Relief
+
+then the balance is fully chargeable £937,500
+
+£1,493,055
+
+The third tranche of QCBs represents one half of the total holding of QCBs immediately before the first relevant disposal, so one half of this relieved gain is chargeable in 2010-11 on redemption of final tranche of QCBs.
+
+Gain chargeable in 2010-11 £746,527
+
+Less gain previously charged (in 2008-09 on redemption of second tranche) £746,528
+
+Gain remaining £0
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64166#Top)
+
+Example 2 - a “first relevant disposal” made on or after 23 June 2010
+
+This is similar to the example above. In October 2006 W exchanged his shares in his “personal company” partly for cash and partly for QCBs. The original cost of the shares was £900,000 and he received total consideration of £4,000,000, consisting of £250,000 cash and £3,750,000 QCBs. W then disposes of his QCBs in three tranches:-
+
+- One third in January 2008,
+
+- One third in July 2010, and
+
+- One third in May 2011.
+
+The ‘same asset’ treatment of TCGA92/S127 is disapplied by TCGA92/S116(5). A capital gain is calculated upon a hypothetical disposal of the shares (the ‘old asset’), TCGA92/S116(10)(a). That gain latent in the ‘old asset’ is frozen (excluding any the part apportioned to any cash consideration) and attached to the ‘new asset’ (the new holding of QCBs) but not immediately charged to tax. When the ‘new asset’ or any part of it is disposed of the ‘frozen’ gain, or a proportion of it, is deemed to accrue and hence become taxable - see CG53820+.
+
+The total gain will be £3,100,000 (£4m less £900,000). That gain should be calculated in relation to the market value of the shares at the time of the exchange. Again the consideration of £4m is accepted as the market value of the old asset. Any indexation which may be due for assets owned pre March 1998 is calculated at this time - see CG17319  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17319)- but taper relief is not included within this calculation.
+
+- £193,750 will become chargeable straight away (2006-7) as this relates to the cash element (£3,100,000 x £250,000/£4m) and may then be reduced by any taper relief due (see CG17895 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17895)+)
+
+The remaining £2,906,250 of the gain relates to the QCBs and will not accrue until they are disposed of.
+
+- The first tranche of QCB’s is then redeemed in January 2008 (2007-8) so the relevant proportion of the gain which comes back into charge at that time = £2,906,250 x 1/3 = £968,750 less any taper relief due (see CG17911).
+
+- The second tranche of QCBs is redeemed in July 2010 (2010-11) so a charge will arise for that year. The charge will be:
+
+Total gain £3,100,000
+
+Less amounts charged before 6/4/08
+
+Cash element – 2006-07 £193,750
+
+First tranche of QCBs for 2007-08 £968,750 (£1,162,500)
+
+Gain remaining £1,937,500
+
+Taper relief has now been withdrawn but Business Asset Disposal Relief may now be considered on the assumption that relief existed at the time of the shares for QCB exchange (October 2006) and if W makes a claim
+
+W has previously made claims for Business Asset Disposal Relief (unrelated to the QCBs) that have used £3,500,000 of his lifetime limit.
+
+The effect of now making an Business Asset Disposal Relief claim in respect of the gain attached to the QCBs is that if W meets the conditions it is only £1,500,000 (the balance of the lifetime limit at the time of the second tranche of QCB redemption £5,000,000 -£3,500,000) that is chargeable at the 10% rate.
+
+Gain £1,937,500
+
+Business Asset Disposal Relief (£1,500,000)
+
+Chargeable gain £437,500
+
+But because not all the gain is to be charged at the Business Asset Disposal Relief rate of 10% then the balance is fully chargeable at either 18% or 28% as may be applicable.
+
+The chargeable gain deemed to accrue on the “relevant disposal” for 2010-11 is the proportion that disposal represents of the amount of the ‘new asset’ left after 6 April 2008 i.e. in this case one half is disposed of (after 6th April 2008).
+
+Charged at 10% £1,500,000 x 1/2 £750,000
+
+Charged at (assume) 28% £437,500 x 1/2 £218,750
+
+- The third tranche of QCB-s is redeemed in May 2011 (20011-12). The same calculation would apply as for the second tranche so the same relevant proportion of the gain would come back into charge for 2010-11:-
+
+£1,500,000 is charged at the Business Asset Disposal Relief rate of 10% £1,500,000
+
+Note that even if the lifetime limit had changed at this time the £5,000,000 limit would still apply (as relevant to the time of the ‘first relevant disposal) to this element of the gain.
+
+But because not all the gain is reduced by the application of Business Asset Disposal Relief
+
+then the balance is fully chargeable £437,500
+
+£1,937,500
+
+Less amount charged for 2008-09 £968,750
+
+Chargeable 2010-11 on redemption of final tranche of QCBs (see below) £968,750
+
+Gain remaining £0
+
+The 2010-11 gain would be charged as follows:
+
+Charged at 10% £1,500,000 x 1/2 £750,000
+
+Charged at (assume) 28% £437,500 x 1/2 £218,750

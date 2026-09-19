@@ -1,0 +1,52 @@
+Shares acquired on same day: election for alternative treatment: example
+Identifier: CG56464
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56464
+Published: 2016-03-12T11:40:13+00:00
+Updated: 2023-05-04T14:10:36+01:00
+Retrieved (UTC): 2026-09-18T14:43:35.261595+00:00
+
+This example illustrates the difference an election can make.
+
+On 30.11.11 an employee acquires
+
+- 2400 shares under a CSOP and
+
+- 1000 shares under an unapproved share option scheme.
+
+The employee actually pays £6 for each share. The market value of the shares at 30.11.11 is £12 per share. For Capital Gains Tax purposes the cost of the unapproved shares is the price paid together with the amount which counts as income, which in this case is the difference between the price paid and the market value (£12 - £6 = £6). There is no Income Tax charge on the exercise of the CSOP option. The employee therefore acquires
+
+- 2400 ‘approved-scheme shares’ with an allowable CGT cost £14,400 (2400 x £6ps) and
+
+- 1000 other shares with an allowable CGT cost £12,000 (1000 x (£6 + £6)).
+
+To meet the Income Tax liability on the unapproved option shares the employee sells 200 shares at £12 per share, realising £2,400.
+
+If the employee does not make the election,
+
+the disposal of the 200 shares is matched with 200 of the total 3400 pooled shares and a chargeable gain arises calculated as follows:
+
+Description |  Action |  Number of Shares |  Cost |  Amount |  Total |
+
+Consideration received |  - |  - |  - |  - |  £2400 |
+
+Total Cost of all shares |  - |  2400 |  cost |  £14,400 |  - |
+
+- |  plus |  1000 |  cost |  £12,000 |  - |
+
+- |  Total |  3400 |  cost |  £26,400 |  - |
+
+Cost of shares sold ((200/3400) x £26,400) |  - |  - |  -- |  - |  £1553 |
+
+Chargeable gains (ignoring incidental costs) |  - |  - |  - |  - |  £847 |
+
+If the employee makes the election,
+
+the disposal of the 200 shares is matched with 200 of the 1000 other shares and no chargeable gain arises: calculated as follows:
+
+Description |  Amount |
+
+Consideration received |  £2400 |
+
+Cost of shares sold ((200/1000) x £26,400) |  £2400 |
+
+Chargeable gains (ignoring incidental costs) |  Nil |

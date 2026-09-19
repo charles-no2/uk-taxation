@@ -1,0 +1,56 @@
+Expenditure: enhancement expenditure
+Identifier: CG15180
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15180
+Published: 2016-03-12T10:09:30+00:00
+Updated: 2025-11-11T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:37:57.394094+00:00
+
+TCGA92/S38(1)(b)
+
+In order to qualify as enhancement expenditure, the expenditure that can be allowed is restricted to -
+
+- the amount of any expenditure wholly and exclusively incurred on the asset by him or her or on his or her behalf for the purpose of enhancing the value of the asset,
+
+- being expenditure reflected in the state or nature of the asset at the time of the disposal , and
+
+- expenditure wholly and exclusively incurred by him or her in establishing, preserving or defending his or her title to, or to a right over, the asset.
+
+It should be noted that the legislation mentioned in the last of these bullets is all about the title to the asset itself or the titleto a right over an asset. This part of the rule is not concerned with the cost of establishing a right in the first instance.
+
+On the asset
+
+`The asset' is the asset which is the subject of the disposal and on which the capital gain or loss is being computed.
+
+Payment may be made in connection with that asset, without being expenditure on the asset. For example, a parent company may be required by the purchaser to secure the resignation of certain officers of a subsidiary company before completion of the sale of shares in that subsidiary. In order to achieve this, the parent company makes compensation payments to those officers. The shares are `the asset' here. The compensation payments cannot be regarded as expenditure on the shares.
+
+For the purpose of enhancing the value of the asset
+
+This looks at the purpose for the expenditure, not whether there is actually an enhancement of value.
+
+Reflected in state or nature of asset at time of disposal
+
+Enhancement expenditure must be reflected ‘in the state or nature of the asset at the time of the disposal’ (s38(1)(b) (https://www.legislation.gov.uk/ukpga/1992/12/section/38)).
+
+If any expenditure has proved futile or has wasted away before the disposal then this does not qualify as enhancement expenditure because it is not reflected in the state or nature of the asset at the time of disposal.
+
+Lord Emslie commented on this test in Aberdeen Construction Group Ltd v CIR [1978] 52 TC 281 at page 290
+
+` ….. what [Section 38(1)(b)] is looking for is, as the result of relevant expenditure, an identifiable change for the better in the state or nature of the asset, and this must be a change distinct from the enhancement of value’
+
+Where the disposal is under contract, this poses a question as to the cut-off point for expenditure to qualify under s38(1)(b). For the purposes of finding the chargeable period, s28 (https://www.legislation.gov.uk/ukpga/1992/12/section/28) deems the date of a disposal under contract to be the date of unconditional contract (CG14250 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14250)). However, when looking at whether expenditure is reflected in the state or nature of the asset at the time of disposal, expenditure up to the point of actual change of ownership is allowable. There is authority for this in Chaney v Watkis [1986] 58 TC 707.
+
+Example
+
+In March 2011, Mr T buys a plot of land for £200,000 (including expenses). This does not form part of a garden within TCGA92/S222. He lays out on it a tennis court at a cost of £5,000. In April 2016, he does away with the tennis court and builds in its place a swimming pool at a cost of £15,000. In February 2018 he sells the land for £250,000 (after deduction of expenses).
+
+The £5,000 which he spent on the tennis court is not allowable because it is not reflected in the state of the land on its disposal. The computation is therefore as follows:
+
+Net sale proceeds £250,000
+
+Less Cost of land £200,000
+
+Cost of swimming pool £15,000 £215,000
+
+Capital Gain £35,000
+
+Note: The demolition of a tennis court is not the 'entire loss, destruction, dissipation or extinction of an asset' within TCGA92/S24(1), see CG13120 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13120)+, because it is not an 'asset'; it is only part of an asset, the land. And it is not within Section 24(3), see CG15773 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15773) because it is not a building or a structure in the nature of a building.

@@ -1,0 +1,56 @@
+Land: disposals: ESC D18
+Identifier: CG72830
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg72830
+Published: 2016-03-12T12:22:42+00:00
+Updated: 2020-10-22T12:08:36+01:00
+Retrieved (UTC): 2026-09-18T14:35:34.968162+00:00
+
+-
+
+Concession where ESC/D18 applies
+
+This concession applies where the vendor of an asset regains ownership of that asset following a default by the purchaser on repayment of a loan granted by the vendor. All the following conditions must be satisfied before the concession can apply:-
+
+- On the sale of the asset, the vendor grants to the purchaser a loan of the whole or part of the sale proceeds;
+
+- The purchaser subsequently defaults on repayment of the loan;
+
+- As a result of the default, the vendor regains ownership of the asset; and
+
+- The vendor and the purchaser are not connected persons, see CG14560 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14560) onwards.
+
+If all the conditions above are satisfied, and the vendor claims the benefit of the concession, the gain arising is to be treated as the amount of the net proceeds actually retained by the vendor. The loan is treated as never having come into existence.
+
+On any later sale of the asset the computation of the gain or loss will be made by reference to the original date and cost of acquisition.
+
+-
+
+Situations where ESC/D18 cannot apply
+
+ESC/D18 cannot apply unless the vendor regains ownership of the asset. In particular, it cannot apply in the following circumstances:-
+
+- where the vendor sells as mortgagee in possession, see CG12706 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12706); or
+
+- where the asset is sold by a third party, for example a receiver, and the vendor receives less than the outstanding amount of the loan.
+
+In any case in which one or more of the necessary conditions is not satisfied, you should explain to the vendor why relief under ESC/D18 cannot be given. If the vendor still contends that ESC/D18 applies, the case should be submitted to Capital Gains Technical Group.
+
+-
+
+Example
+
+A sells an asset to B for £500,000, realising a gain of £350,000 after paying legal fees of £10,000.
+
+B actually pays £100,000 initially to A, and A grants B a loan of £400,000. That loan is repayable in four equal annual instalments.
+
+B pays the first instalment of the loan of £100,000 but fails to pay the next instalment. As a result, A regains ownership of the asset.
+
+A and B are not connected.
+
+A claims the benefit of ESC/D18.
+
+All the necessary conditions for ESC/D18 are satisfied, and therefore the gain arising to A is to be treated as the net amount actually received, that is £200,000 less the legal fees of £10,000 = £190,000.
+
+The disposal to B is treated as never having occurred, and the loan is treated as never having come into existence.
+
+If A subsequently sells the asset, the gain or loss arising is calculated by reference to the original cost and date of acquisition.

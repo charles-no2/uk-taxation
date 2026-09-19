@@ -1,0 +1,22 @@
+Capital Gains Tax and Gifts: Exemptions and No Gain/No Loss: Charity Becoming Absolutely Entitled to Trust Assets
+Identifier: CG66623
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66623
+Published: 2016-03-12T12:05:31+00:00
+Updated: 2019-07-26T16:26:46+01:00
+Retrieved (UTC): 2026-09-18T14:46:04.144149+00:00
+
+When someone becomes absolutely entitled to trust assets TCGA92/S71(1) treats the trustees as having disposed of, and reacquired, the assets as bare trustees at their market value. See CG37000 (http://internal.active.hmrci/manual/capital-gains-manual/cg37000)+. If the person who becomes absolutely entitled is a charity TCGA92/S257(3) treats the trustees as having disposed of and reacquired the assets as bare trustees for an amount which gives them neither a gain nor a loss. If only some proportion of the assets is held for a charity you apply a no gain/no loss result to a corresponding proportion of each of the assets.
+
+There are two exceptions to this rule:
+
+- TCGA92/S71 applies because of the death of the life tenant (see CG36450 (http://internal.active.hmrci/manual/capital-gains-manual/cg36450)+). TCGA92/S257(3) preserves the operation of TCGA92/S73. This means the trustees are treated as disposing of the asset at market value but without accruing a chargeable gain. This will give the charity a market value acquisition cost if it is liable to Capital Gains Tax when it disposes of the asset.
+
+- Consideration has been given for the charity’s acquisition of the interest. This condition is aimed at various possible avoidance devices concealing what is really the sale of an interest under a settlement.
+
+Examples
+
+- Jack creates a discretionary settlement in favour of his grandchildren with a charity named as the residuary beneficiary. TCGA92/257(3) applies. When the last grandchild dies the trustees of Jack’s settlement are treated as having sold and reacquired the trust assets as bare trustees for the charity at no gain/no loss.
+
+- Jack creates a settlement giving his brother a life interest with a charity named as the residuary beneficiary. TCGA92/S71 applies on the brother’s death and the trustees are treated as having disposed of, and reacquired, the trust assets at their market value at the date of death. TCGA92/S73(1)(a) provides that the disposal does not give rise to a chargeable gain. TCGA92/S257(3) therefore does not apply.
+
+- Jack creates a settlement giving his brother a life interest with a charity named as the residuary beneficiary. The brother surrenders the life interest to the charity which then terminates the trust. The brother’s disposal of the life interest is relieved by TCGA92/S76 (see CG38002). TCGA92/S257(3) applies to the termination of the trust and the trustees are treated as if they sold and reacquired the trust assets as bare trustees for the charity at no gain/no loss.

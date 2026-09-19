@@ -1,0 +1,24 @@
+Removal or transfer costs: expenses and benefits to  which Section 271 ITEPA 2003 applies: bridging loans: loans  provided by the employer: example
+Identifier: EIM03125
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim03125
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-12-15T08:05:03+00:00
+Retrieved (UTC): 2026-09-18T14:18:58.569430+00:00
+
+Section 284 ITEPA 2003
+
+An employee starts a new job on 1 February 2004. TheIr employer makes them an interest-free bridging loan of £100,000 on 1 May 2004. The loan is repaid on 1 March 2005. TheIr other qualifying removal expenses and benefits are £7,500. The time limit (see EIM03104 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim03104)) expires on 5 April 2005. The official rate on 1 May 2004 is 5%.
+
+So in the formula in step 3 at EIM03124 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim03124):
+
+A = £500 (£8,000 - £7,500)
+
+B = £100,000
+
+C = 5%
+
+(£500 × 365) ÷ (£100,000 × 5%) = 36.5
+
+The result is rounded up to 37 and the loan is treated as having been made on 8 June 2004. The charge under Part 3 Chapter 7 ITEPA 2003 is then calculated taking into account all the normal rules (see EIM26101 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26101) onwards).
+
+If the loan is repaid before the end of the number of days calculated by using the formula there is no charge to tax under Part 3 Chapter 7.

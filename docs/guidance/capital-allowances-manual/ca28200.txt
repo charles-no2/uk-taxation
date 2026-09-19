@@ -1,0 +1,38 @@
+PMA: Anti-avoidance: Relevant transactions
+Identifier: CA28200
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28200
+Published: 2016-04-16T08:52:26+01:00
+Updated: 2019-12-23T15:24:29+00:00
+Retrieved (UTC): 2026-09-18T16:21:03.163704+00:00
+
+CAA01/S213
+
+The anti-avoidance legislation applies to relevant transactions. These are:
+
+- sale of an asset;
+
+- a hire purchase type contract, that is a contract that provides that the buyer shall or may become the owner of the asset on (but not before) performance of the contract;
+
+- assignment of the benefit of a hire purchase type contract.
+
+You may get suggestions that in the third category of transactions ‘assignment’ should be read as a legal term of art that does not include novation and other ways in which the contract is replaced by a new contract. That is not our view of the law. These anti-avoidance provisions should be read in the context of the mischief against which they are aimed. The purpose of the legislation is to prevent the acceleration or uplift in capital allowances on a sale between connected persons, a sale and leaseback or a transaction to obtain allowances. Any transfer of the benefit of a hire purchase type contract that could give rise to an acceleration or uplift in capital allowances may therefore be caught by the anti-avoidance legislation.
+
+If you need to know the buyer’s expenditure in a relevant transaction these are the rules.
+
+- In a sale, the buyer’s expenditure is the price paid for the asset.
+
+- In a hire purchase type transaction the buyer’s expenditure is the capital expenditure under the contract. This is not the same as the total expenditure under the contract. Hire purchase payments have two parts - the price of the asset and the hire charge. The hire charge is revenue rather than capital expenditure and so is not part of the buyer’s expenditure in a relevant transaction.
+
+- In the assignment of a hire purchase type contract, the buyer’s expenditure is the buyer’s capital expenditure under the contract plus the capital expenditure for the assignment. For example, suppose that George is buying a car under a 3-year hire purchase contract. The total price is £18,000 plus hire charges. After one year when he has made capital payments of £12,000 he assigns the contract to Andrew for £10,000. Andrew’s capital expenditure is £16,000 (£6,000 that he will pay under the contract plus £10,000 paid for the assignment).
+
+The anti-avoidance legislation applies to assets received as a gift. The recipient of the gift is treated as buying it from the giver and the giver is treated as selling it to the recipient at a price equal to market value when it is brought into use for a qualifying activity CA23040 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23040). This means that if the asset has appreciated since it was bought and the giver was connected with the recipient, the recipient’s qualifying expenditure is restricted to the giver’s cost CA28300 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28300).
+
+Accept that the anti-avoidance legislation does not apply in cases like this.
+
+A hire purchase type contract is novated or replaced with a new contract in some other way before the asset has been brought into use by the lessee or any person connected with the lessee and:
+
+- neither the lessee nor any person connected with the lessee has claimed or will claim capital allowances in respect of the asset;
+
+- the obtaining of acceleration in the allowances due to the lessee, or to any person connected with the lessee or the lessor, is not a main object of the leasing arrangements.
+
+Where the trader builds an asset for use in the trade and sells and leases it back before it is brought into use, the anti-avoidance legislation applies unless the trade includes the manufacture or supply of assets of that class and the asset was manufactured in the ordinary course of that trade. An item which is not part of the usual stock in trade of the manufacturer or which is purpose built for use as a fixed asset of the trade is unlikely to fall within this exclusion.

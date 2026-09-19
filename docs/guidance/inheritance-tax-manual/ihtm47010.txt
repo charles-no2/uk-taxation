@@ -1,0 +1,14 @@
+Long-term UK residence: Investigation of form IHT401a - General
+Identifier: IHTM47010
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47010
+Published: 2025-04-07T08:01:47+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:11:07.572487+00:00
+
+When a taxpayer or agent considers that a deceased person was not a long-term UK resident, they must submit a form IHT400 together with a form IHT401a. We will consider the question of long-term UK residence after the grant has been issued.
+
+Service will flag up the fact that it is claimed that the deceased was not a long-term UK resident before they issue form IHT421. The file will then be passed to Risk who will decide whether that can be accepted or should be referred to Compliance.
+
+If a Double Taxation Convention (IHTM27161 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm27161)) applies and foreign tax has not been paid the initial calculation should be made without taking the convention into account.
+
+If the exemptions and relief box on the IHT400 indicates that a double taxation convention applies, refer the case to Technical.

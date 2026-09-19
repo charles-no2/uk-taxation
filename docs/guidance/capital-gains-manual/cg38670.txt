@@ -1,0 +1,88 @@
+Trusts and Capital Gains Tax: non-resident trusts: charge on beneficiary of non-resident settlement – s87 TCGA 1992: capital payments: "received from the trustees" - case law
+Identifier: CG38670
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38670
+Published: 2016-03-12T10:57:18+00:00
+Updated: 2026-04-15T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:47:24.332292+00:00
+
+The meaning of received from the trustees has been considered in a number of avoidance cases. In these cases the trustees of a settlement made a transfer to another settlement with similar terms and beneficiaries. The practical effect of the transfer is that the beneficiaries continue to benefit from the trust property that was in the first settlement.
+
+The usual rule that applies to transfers between trusts is TCGA92/S90. Any unmatched section 2(2)* amounts in the first settlement move to the second settlement, see CG38910 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38910)+. In the avoidance cases the effect of the scheme was either that there were no unmatched trustee gains to transfer or they exploited a loop-hole in the law that meant that TCGA92/S90 did not apply.
+
+Both forms of avoidance are now blocked and it would be exceptional to argue that a transfer to another settlement could result in a beneficiary receiving a benefit from the first settlement. You should consult Capital Gains Tax Technical Group before running such an argument. But the cases are still useful because they illustrate the attitude of the courts to the tests in TCGA92/S97(5), in particular the references to “indirectly”.
+
+Herman v HMRC [2007] STC (SCD) 571 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38670#IDAXMM5G)
+Clive & Juliet Bowring v HMRC [2015] UKUT 0550 (TCC) (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38670#Clive)
+Burton v HMRC [2009] UK FTT 203 (TC) (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38670#IDAAKM5G)
+
+Herman v HMRC [2007] STC (SCD) 571
+
+In Herman TCGA92/S90 was disapplied so that when the trust property was transferred to the second settlement the unmatched trustees’ gains remained in the first settlement. Very soon after the transfer the trustees paid out all the trust property. It was agreed this was a capital payment but it was a capital payment from the second settlement which had no gains. The Special Commissioners held that TCGA92/S97(5)(a) applied and this was a capital payment received indirectly from the trustees of the first settlement.
+
+Sir Stephen Oliver QC said “unless there is anything in the statutory context that precludes this, it seems to me that the correct approach is to apply the statutory test contained in the words in section 97(5)(a) and work back to find the indirect source of the undisputed receipts”, paragraph 19.
+
+He considered there were three signposts to determine whether TCGA92/S97(5)(a) applies, paragraph 21.
+
+- the existence of a plan.
+
+- an analysis of the trust law to determine whether the new trust serves as a vehicle to continue the bounty effected by the original settlement.
+
+- is there sufficient linkage to make the payments indirect receipts from the trustees of the original settlement.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38670#Top)
+
+Clive & Juliet Bowring v HMRC [2015] UKUT 0550 (TCC)
+
+Bowring adopted the same avoidance scheme as Herman. The only significant difference was the time-scale for making payments out of the second settlement. In Herman the trust property was distributed very shortly after the transfer. In Bowring the trust property was paid out of the second settlement in stages and not all of it was paid out.
+
+At the First Tier (Bowring v HMRC [2013] UKFTT 366 (TC)) the tribunal judges considered the three tests in Herman and were satisfied that they were met in respect of the payments made out of the second settlement. In particular they were satisfied that in making these payments the second settlement effectively continued the bounty of the first, paragraph 120.
+
+Commenting on TCGA92/S97(5)(a) they said, paragraph 121
+
+"[received] from directly or indirectly was clearly intended to be wide in meaning; s97(5) is clearly intended as an anti-avoidance provision and intended to catch more than a transfer of funds direct from trustee to beneficiary."
+
+The taxpayers successfully appealed against the FTT decision..
+
+At the UT the Judge Barling held a different view and he commented at paragraph 56
+
+“For these reasons I consider that the FTT erred in holding that ss.97(5)(a) permits the same capital payment to be treated, for the purposes of the legislation, as having been “received from” the trustees of one settlement directly and also from the trustees of another settlement indirectly.
+
+Judge Barling was of the view that the trustees were able to act entirely in the exercise of their own discretion and had an independence of decision making.
+
+At paragraph 89 Judge Barling commented
+
+“…In my view the issue raised here requires all relevant factors to be considered, and each case will depend on its own facts. Relevant factors will no doubt include whether what is done is pursuant to a plan or understanding or agreement.”
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38670#Top)
+
+Burton v HMRC [2009] UK FTT 203 (TC)
+
+In Burton the effect of the scheme was to make the transfer before the trustees of the first settlement had any gains. The gains were made after the transfer and after the settlor had been excluded from any benefit under the first settlement. In Burton the transfer was made in March 1999. At the time of the hearing in 2009 no payments had been made out of the second settlement. This is a significant difference between Burton and the cases of Herman and Bowring.
+
+Much of the case centred on whether TCGA92/S86 applied because the settlor continued to enjoy an indirect benefit from property in the first settlement after he was excluded from benefitting from the settlement. The Tribunal held that he didn't.
+
+As a separate matter HMRC also argued for a charge under TCGA/S87 based on the receipt of a benefit to which TCGA92/S97(5)(b) applied. Our case was that the settlor received a benefit from the trustees of the first settlement when they transferred the trust property to the second settlement. The benefit was the avoidance of the charge under TCGA92/S86. We did not argue that the settlor received a benefit merely because he was a beneficiary of the second settlement.
+
+TCGA92/S97(5)(b) tests whether a capital payment is received from the trustees. It is also necessary to establish the amount of the capital payment. We argued that the transfer was an outright payment of money and that the amount of the payment was the amount of the property transferred, TCGA92/S97(4).
+
+The two FTT judges could not agree whether or not TCGA92/S97(5)(b) applied.
+
+At paragraph 42 Judge Wallace said:
+
+Section 97(5)(b) does not however require that the benefit be received by the beneficiary but rather extends the circumstances in which a capital payment is treated “as received” from the trustees. For section 87(4) [now section 87(2)] as extended by section 97(5)(b) to apply it is sufficient if a capital payment is applied for the benefit of the beneficiary.
+
+Judge Wallace held the appointment was clearly intended to benefit the settlor, paragraph 50.
+
+Judge Shipwright disagreed. At paragraph 62 he said:
+
+“Benefit” in section 97(5)(b) must be construed in the context of these taxing provisions rather than for the purpose of deciding the validity of an advancement or appointment under powers contained in a settlement. [Trust law requires that these are paid for the benefit of the beneficiary]…This requires the benefit received or treated as received to be identifiable and quantifiable if there is to be sufficient certainty to impose a tax charge for any particular year of assessment.
+
+And at paragraph 71
+
+There has to be an identifiable and quantifiable benefit which is received from the trustees directly or indirectly not just some inchoate possibility or potentiality that something advantageous might accrue in the future
+
+Neither judge accepted that the amount of the capital payment, if there was one, was the value of the trust property transferred. Judge Wallace considered "section 97(5) is clearly directed to what is received by the beneficiary", "section 97(4) applies when the beneficiary does not receive an outright payment of money" and that "the value under section 97(4) can only be the economic value", paragraphs 53 and 54.
+
+HMRC's case was that the benefit received was the avoidance of a charge under section 86. That is the benefit that has to be valued at the time it is received. But at the time of the transfer there was no section 86 liability and therefore the benefit had no measurable economic value.
+
+*This section was re-written for disposals from 6 April 2019 to section 1(3) see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

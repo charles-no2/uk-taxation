@@ -1,0 +1,28 @@
+Pre-owned assets: excluded transactions: the contribution condition - transfer to spouse or civil partner
+Identifier: IHTM44035
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44035
+Published: 2016-04-09T10:30:32+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:10:15.663914+00:00
+
+For the purposes of the contribution conditions relating to land and chattels, the contribution by a person to the acquisition of any property is an excluded transaction if the property was acquired for their spouse or civil partner, or former spouse or civil partner where the transfer has been ordered by a court, FA04/Sch15/Para10(2)(a). Unlike IHTA84/S18(2) which restricts IHT spouse and civil partner exemption where the donee is not a long-term UK resident (on or after 6 April 2025) or was domiciled abroad (IHTM11031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11031)) (before 6 April 2025), there is no restriction on this exclusion.
+
+Alternatively, the contribution to the acquisition of any property is also an excluded transaction provided
+
+-
+
+on its acquisition, the property became settled property (IHTM16000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16000)), and
+
+-
+
+the spouse or civil partner (or former spouse or civil partner) is beneficially entitled to an interest in possession (IHTM16060 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16060)), FA04/Sch15/Para 10(2)(b) in that property
+
+The spouse or civil partner must take an interest in possession from the outset, but note that this does not have to be a qualifying interest in possession under IHTA84/S49(1A). The transaction will remain an excluded transaction provided the interest in possession remains in place until the death of the spouse or civil partner. If the interest in possession ends during their lifetime, the transaction ceases to be an excluded transaction, FA04/Sch15/Para 10(3), so the POA charge will arise in the normal way from that point onwards. However, if the spouse or civil partner (or former spouse or civil partner) has become absolutely entitled to the property, you can accept that the benefit of the exclusion is not lost.
+
+Example
+
+Jane has an interest in possession in a trust with remainders to her children. In 2003 her husband Edward adds £300,000 to the trust. The transfer is exempt from IHT, although it will initially be subject to the POA intangibles charge if Edward is a beneficiary (IHTM44009 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44009)). The trustees purchase a house that Jane and Edward occupy. Since, on its acquisition, the property becomes settled property and would otherwise meet the conditions of FA04/Sch15/Para 3(3), the POA charge is excluded by FA04/Sch15/Para 10(2)(b).
+
+If Jane’s interest is terminated during her lifetime, then FA04/Sch15/Para 10(3) prevents the exclusion under FA04/Sch15/Para 10(2)(b) from applying, so the POA charge will arise in the normal way, unless Jane becomes absolutely entitled to the property, when you can accept that the benefit of the exclusion is not lost. In the event that Jane’s interest comes to an end with her death and Edward continues to occupy the property, the exclusion will continue to apply.
+
+The timing of such transactions can give rise to very complicated outcomes due to the interaction of FA86/S.102(5A)-(5C) (IHTM14318); FA86/S102ZA (IHTM14391 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14391)) and changes to the treatment of interest in possession trusts from 18 March 2006 (IHTM16061 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16061)). Any cases where this mix of circumstances arises should be referred to Technical for advice.

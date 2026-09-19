@@ -1,0 +1,26 @@
+Remittance Basis: Exemptions: Business investment relief: Amount of foreign income or gains remitted
+Identifier: RDRM34470
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34470
+Published: 2016-03-09T17:37:26+00:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:41.764556+00:00
+
+Where a potentially chargeable event occurs and the appropriate mitigation steps are not taken (see RDRM34440 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34440)), a taxable remittance of foreign income or gains occurs immediately after the end of the relevant grace period (see RDRM34480 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34480)). This is provided for at section 809VG ITA 2007.
+
+The amount of foreign income or gains remitted is the amount that relates to the part of the holding affected by the potentially chargeable event (section 809VG(5)).
+
+Where that potentially chargeable event is something other than a part disposal of the holding, for example if either the extraction of value (see RDRM34420 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34420)) or the 5-year start-up rule (see RDRM34430 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34430)) is breached, the affected amount is the whole of the investment (section 809VG(6)(b)).
+
+Where the potentially chargeable event is a part disposal of the holding, the investment affected is equal to the portion disposed of (section 809VG(6)(a)).
+
+From 6 April 2025 foreign income or gains that have been used to make qualifying investments are eligible to be designated under the temporary repatriation facility (TRF) (see RDRM71000 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm71000)). These amounts of TRF capital are not taxable on remittance following a potentially chargeable event. See RDRM74720 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74720) for guidance and an example where an amount of pre-6 April 2025 foreign income and gains that has been invested has subsequently been designated under the TRF and there is part disposal.
+
+Example
+
+On 31 May 2012, Yuvi acquires 1000 shares in an eligible trading company, using £250,000 of his foreign income and gains. His investment meets all the conditions for business investment relief (BIR).
+
+On 27 October 2013 Yuvi sells 500 shares and takes the appropriate mitigation steps. None of his foreign income and gains is treated as remitted.
+
+On 19 April 2014 Yuvi sells the remainder of his holding (the other 500 shares) and fails to take the appropriate mitigation steps.
+
+The underlying foreign income and gains are treated as remitted to the UK. The amount of foreign income or gains to be treated as a taxable remittance is half the amount originally invested, that is, £125,000.

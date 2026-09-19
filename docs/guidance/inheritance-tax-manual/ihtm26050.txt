@@ -1,0 +1,36 @@
+Calculating the chargeable estate: calculation where residue partly chargeable and no chargeable specific gifts
+Identifier: IHTM26050
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26050
+Published: 2016-04-09T09:47:01+01:00
+Updated: 2022-06-08T15:24:25+01:00
+Retrieved (UTC): 2026-09-18T15:02:59.165985+00:00
+
+If a share of the residue (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003)) is the only part of the deceased’s estate which is taxable, in practice you can calculate the chargeable part of the estate by:
+
+- firstly, deducting the value of any exempt specific gifts (IHTM26011), and
+
+- then apportioning the balance of the estate between the beneficiaries in the ratio to which they are entitled to share in the residue
+
+The amount apportioned to the chargeable beneficiaries is the chargeable estate.
+
+Example
+
+Baldev dies in July 1999 leaving an estate of £600,000. There is no relievable property.
+
+Under his Will he leaves:
+
+- £30,000 to a charity (IHTM11112 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11112))
+
+- Residue equally to Baldev’s wife (IHTM11032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11032)) and only child
+
+Your calculation to find the amount of the chargeable residue is:
+
+Value of estate = £600,000
+
+Less exempt legacy -£30,000
+
+Residue = £570,000
+
+The chargeable half-share is £285,000.
+
+Please note that, if the estate includes relievable property, interaction (IHTM26101) will apply.

@@ -1,0 +1,22 @@
+Domicile: election by non-UK domiciled spouse or civil partner: delivery of accounts and payment of tax after making an election 
+Identifier: IHTM13048
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13048
+Published: 2016-04-09T09:16:25+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:57:15.645512+00:00
+
+From 6 April 2025, for inheritance tax purposes, domicile is replaced by long-term UK residence and you can find details of these rules at IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000). Details of spousal elections under the new rules are at IHTM47031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47031). Transitional rules will apply to existing domicile elections and details are at IHTM47041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47041).
+
+If a person has elected to be domiciled in the UK and as a consequence of that election, an earlier disposition now gives rise to a transfer of value (IHTM13047 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13047)), it would be not be reasonable for the original due dates for delivery of an account and for the payment of tax and interest to apply. Where the circumstances set out in IHTA84/S267ZB(7) apply, these dates are altered.
+
+The circumstances are that:
+
+- a lifetime or death election is made, IHT84/S267ZB(7)(a),
+
+- the person making the election has made a disposition between the time of making the election and the date from which the election is to take effect, IHTA84/S267ZB(7)(b) and
+
+- as a result of making the election, that disposition gives rise to a transfer of value, IHTA84/S267ZB(7)(c).
+
+Where these circumstances are met, IHTA84/S267ZB(8) provides that the due date for the delivery of an account is 12 months from the end of the month in which the election is made. For the payment of the tax and the date from which interest is charged, the transfer is treated as if it was made at the date of the election.
+
+For COMPASS to calculate the tax and interest correctly, you should enter the date of the election as the date of transfer; but include the actual date of gift in the description of the entry.

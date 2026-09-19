@@ -1,0 +1,140 @@
+Annual allowance: pension input amounts: adjustments to closing values: block transfers
+Identifier: PTM053720
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053720
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2015-12-13T21:06:36+00:00
+Retrieved (UTC): 2026-09-18T14:50:46.324131+00:00
+
+| Glossary | PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001) | |———-|————————————————————————————-|
+
+Sections 232(6A)-(6D) and 236(5A)-(5D) Finance Act 2004
+
+The guidance in this page covers ‘block transfers’ only.
+
+General background
+
+PTM053710 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053710) has details about the usual way for calculating the adjustment to the pension input amount for a defined benefits arrangement or cash balance arrangement to take account of the transfer of sums or assets (‘transfer payment’) into, or out of, the arrangement during a pension input period.
+
+In particular PTM053710 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053710) explains that an increase in benefits under the arrangement in relation to a transfer payment in is not included as part of the pension input amount provided there is a direct link between that increase in benefits and the amount of the transfer payment (i.e. the amount of sums or assets transferred has funded that increase in benefits). Otherwise part of the increase in benefits relating to the transfer in that has not been funded by the transfer payment in would be included in the pension input amount.
+
+Transfers that take place within a block transfer
+
+The requirement in PTM053710 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053710) for the adjustment to the pension input amount relating to a transfer to be directly linked to the amount of the transfer payment does not apply in the following circumstances.
+
+The circumstances are where a:
+
+- transfer payment (a transfer of sums or assets) is made from an arrangement under one registered pension scheme (‘transferring arrangement’) to an arrangement under another registered pension scheme (‘receiving arrangement’)
+
+- the transfer payment is within a block transfer
+
+- the value of the benefits payable to, or in respect of, the individual under the transferring arrangement is reduced as a consequence of the transfer payment
+
+- the value of the benefits payable to, or in respect of, the individual under the receiving arrangement is increased as a consequence of the transfer payment
+
+- the reduction in the transferring arrangement is equal (or virtually equal) to the increase in the receiving arrangement, and
+
+- the transfer payment is not part of an arrangement the main purpose (or one of the main purposes) of which is the avoidance of tax.
+
+Where block transfers occur it is not always possible to readily attribute an amount of the transfer payment to each transferring member. The above approach means that, in practice, such an attribution is not essential.
+
+Where the conditions above are met, it will be sufficient to make the adjustment to the closing value for a defined benefits arrangement by reference to the reduction to the pension (and, if applicable, the amount of separate lump sum) under the transferring arrangement, and the increase to the pension (and, if applicable, separate lump sum) in the receiving arrangement, as a consequence of the block transfer.
+
+In the case of a cash balance arrangement the adjustment would be by reference to the reduction or increase to the rights available to provide benefits under the transferring and receiving arrangements respectively.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053720#Top)
+
+Meaning of block transfer
+
+A ‘block transfer’ means a transfer involving a group of members (i.e. at least two members) from one registered pension schemes to another, such as due to an employer rearranging its pension schemes or as part of a business transaction.
+
+The transfer must be in a single transaction and represent all of the sums and assets held for the purposes of (or representing accrued rights under) the arrangements under the pension scheme from which the transfer is made, which relate to the group of members in question of that pension scheme.
+
+To be a single transaction:
+
+- all of the sums and assets must be transferred from the transferring scheme to only one receiving scheme. Two or more partial transfers to two or more different schemes cannot be a transfer in a single transaction; and
+
+- the transaction must be made under a single agreement for a single transfer between the two schemes.
+
+It is not necessary that all of the sums and assets are all physically passed from the transferring scheme to the receiving scheme on the same day - there may be legal or administration reasons why this is not possible. However they should all be transferred in relation to the agreement to transfer and within a reasonable timescale.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053720#Top)
+
+Meaning of value of benefits being equal or virtually equal
+
+There must be a comparison between the value of the benefits (i.e. the ‘capital’ value) in the transferring arrangement and the value of the benefits in the receiving arrangement.
+
+The valuation is by reference to the bundle of rights relating to the member, being benefits to be paid to the member and any benefits to be paid on the member’s death, such as dependants’ pensions and lump sum death benefits.
+
+The valuation must be by reference to the bundle of rights as they stood at the time of transfer, by comparing the value of the bundle of rights in the transferring and receiving arrangements immediately before and immediately after the transfer.
+
+In effect the reduction in value in the transferring arrangement must be the same, or not materially different to, the increase in value in the receiving arrangement.
+
+Normal actuarial practice, allowing for the specific circumstances, must be used when establishing and comparing the value of benefits in relation to the transferring and receiving arrangements with consistent assumptions being used in respect of both arrangements.
+
+In practice this means actuaries using a set of appropriate assumptions (for example future longevity, future inflation, investment returns and discount rates) that are within a reasonable range to determine the value of the bundle of rights in both the transferring and receiving arrangement.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053720#Top)
+
+Examples of where the value of the benefits is equal or virtually equal
+
+An example of where a reduction in the value of the bundle of rights in the transferring arrangement would be equal to the increase in value in the receiving arrangement is where the benefits granted in the receiving arrangement are a ‘mirror image’ of the benefits given up in the transferring arrangement i.e. the scheme member has identical rights before and after the transfer.
+
+Another example is where the benefits granted in the receiving scheme are not a mirror image of the benefits given up but only because of a difference in accrual rate between the arrangements (such as the transferring arrangement having an accrual rate of ‘80ths’ and the receiving arrangement ‘60ths’ ) and/or a different normal pension age (such as age 60 in one and age 65 in the other).
+
+In such cases, the amount of a member’s pension granted in the receiving arrangement might be greater than the amount of pension given up in the transferring scheme but only because the normal pension age has changed from age 60 to age 65 and the increased amount of pension is merely a reflection of the later age from which it is due to be paid. So the ‘capital’ value of the benefits before and after the transfer may be the same even if the benefits to be paid under transferring and receiving arrangements may be different.
+
+An example of where a reduction in the value of the bundle of rights in the transferring arrangement would be virtually equal to the increase in value in the receiving arrangement is where the values of the bundle of rights immediately before and after the transfer are not materially different. Such cases may arise where there is a minimum amount of rounding up for reasons of simplicity or where the actuary must confirm, by reference to independently pre-determined parameters, that the benefits being granted under receiving arrangement are comparable with the benefit being given up under the transferring arrangement (i.e. the value of the benefits granted is not significantly less or more than the value of the benefits given up).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053720#Top)
+
+Reasons for the block transfer provision
+
+The block transfer provisions are aimed primarily at cases where:
+
+- an employer is restructuring its pension schemes
+
+- the restructuring involves accrued defined benefit rights being transferred from one pension scheme (the ‘transferring scheme’) to another (the ‘receiving scheme’),
+
+- there is a transfer of sums and assets from the transferring scheme to the receiving scheme in connection with the transfer of the accrued defined benefit rights (the ‘transfer payment’), but
+
+- the transferring scheme is underfunded at the time of restructuring of the pension schemes, which means
+
+- the amount of the transfer payment made in connection with the transfer of the accrued rights from the transferring scheme would not fully fund the grant of those accrued rights in the receiving scheme, and
+
+- the nature of the block transfer makes it difficult to readily attribute an amount of the transfer payment to each transferring member.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053720#Top)
+
+Adjustments to the closing value calculation
+
+For a defined benefits arrangement:
+
+- in the case of the transferring arrangement:
+
+- add back to the closing value the amount of pension (and separate lump sum if appropriate) in respect of the scheme member that was included in the decrease to the value of the bundle of rights. See PTM053730 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053730).
+
+- in case of the receiving arrangement:
+
+- deduct from the closing value the increase to the amount of pension (and separate lump sum if appropriate) in respect of the scheme member, that was included in the increase to the value of the bundle of rights. See PTM053730 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053730).
+
+For a cash balance arrangement:
+
+- in the case of the transferring arrangement:
+
+- add back to the closing value the amount of the decrease in rights available to provide benefits
+
+- in case of the receiving arrangement:
+
+- deduct from the closing value the amount of increase in rights available to provide benefits.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053720#Top)
+
+Application of the block transfer provisions
+
+The block transfer provisions described on this page were introduced on 28 January 2015 with retrospective effect so that they apply for pension input periods ending in the tax year 2011-12 and subsequent tax years.
+
+In some unusual cases, the net effect of the block transfer adjustments for transferring and receiving arrangements may increase a scheme members’ liability to tax compared to the calculation for transfers that are not block transfers (see PTM053710 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053710)).
+
+This may arise, for example, in some cases where an annual allowance charge arises for the year of transfer and the rate of pension payable under the receiving arrangement is lower than that in the transferring arrangement.
+
+In such cases, the block transfer adjustment for the transferring arrangement only has effect for transfers arising on or after 28 January 2015.

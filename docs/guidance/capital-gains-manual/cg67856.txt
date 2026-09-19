@@ -1,0 +1,50 @@
+Reliefs: employee-ownership trusts: conditions: the 'limited participation requirement': calculating the 'participator fraction'
+Identifier: CG67856
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67856
+Published: 2016-05-23T14:29:18+01:00
+Updated: 2021-04-01T16:36:00+01:00
+Retrieved (UTC): 2026-09-18T14:35:04.149129+00:00
+
+TCGA92/S236N(5)-(7)
+
+The ‘participator fraction’ at any time is
+
+NP
+
+NE
+
+NP is the sum of two numbers.
+
+The first is the number of persons who at the time in question are both participators in C and employees of, or office-holders in, C.
+
+The second is the number of other persons who at that time are both
+
+- employees of, or office-holders in, C, or if C is the principal company of a trading group any member of that group, and
+
+- connected with the persons who constitute the first number.
+
+NE is the number of persons who at that time are employees of C or, if C is the principal company of a trading group any member of that group.
+
+For these purposes participators do not include any participator who
+
+- is not beneficially entitled to, or to rights entitling the participator to acquire, 5% or more of the company’s share capital or of any class of the shares comprised in that share capital, and
+
+- on a winding-up of the company would not be entitled to 5% or more of its assets.
+
+Example 25
+
+Jake and his brother each owned one-third of the ordinary share capital of Yildun Widgets Limited. Jake transferred his shares to the trustees of the Yildun Widgets Limited EOT on 18 November 2014. The EOT already owned one-third of the ordinary shares at that time. On 19 November 2013 Yildun Widgets Limited had employed 21 people, including the brothers, their four children, their father and Jake’s wife. An employee unconnected with the brothers had retired on 22 August 2014 and another unconnected employee resigned unexpectedly with effect from 23 December 2014. The company recruited a new, unconnected employee who started work on 2 February 2015.
+
+The ‘participator fraction’ at 19 November 2013 was 8/21, see CG67856 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67856). Jake and his brother were participators in and employees of Yildun Widgets Limited. There were another six employees who were connected with at least one of the brothers. The number NP was eight and the total number of employees, NE, was twenty-one.
+
+The ‘participator fraction’ rose to 2/5 with the retirement of the employee unconnected with Jake and his brother. As the ‘participator fraction’ did not exceed 2/5 at any time during the 12 months ending immediately after the disposal by Jake, the first condition above was met.
+
+With the unexpected resignation of another unconnected employee the ‘participator fraction’ rose to 8/19 before the end of the tax year in which the disposal by Jake took place. The ‘participator fraction’ exceeded 2/5 during the period set out in the second condition but it did so for less than six months and by reason of events outside the control of the trustees. The failure to stay within the relevant limit could therefore be disregarded, with the result that the ‘limited participation requirement’ was met.
+
+Example 26
+
+William, a director of Zubenelgenubi Widgets Limited, owned 40 out of the 100 issued ordinary shares of the company before transferring them to the trustees of the Zubenelgenubi Widgets Limited EOT on 4 September 2014. He ceased to be a participator in the company upon making the transfer. At that time 30 of the other shares were held by individuals who were not employees or office-holders of the company and 30 were already held by the trustees of the Zubenelgenubi Widgets Limited EOT. Zubenelgenubi Widgets Limited had 22 employees other than William and Hubert during the period from 5 September 2013 to 5 April 2015 inclusive. William, his spouse and four children worked for Zubenelgenubi Widgets Limited during that period. On 12 September 2014 Hubert acquired 30 ordinary shares in Zubenelgenubi Widgets Limited and became a director of the company. Hubert’s sister and her two children already worked for Zubenelgenubi Widgets Limited. The trustees of the Zubenelgenubi Widgets Limited EOT sold 19 of the Zubenelgenubi Widgets Limited shares to William on 23 October 2014. William retired as a director and employee of the company on 31 December 2014.
+
+The ‘participator fraction’ did not exceed 2/5 during the 12 months ending immediately after the disposal by William, so the first condition was met. Following the transfer by the trustees to William, both he and Hubert were participators and office-holders in Zubenelgenubi Widgets Limited. Eight individuals connected with either William or Hubert were employed by the company between 23 October 2014 and 5 April 2015. The ‘participator fraction’ was 10/24 for part of that period, 23 October 2014 to 31 December 2014, which exceeds 2/5. The period was shorter than six months, but the fraction exceeded 2/5 by reason of events that were not outside the reasonable control of the trustees and so the situation cannot be disregarded; the trustees sold 19 shares to William, thus making him a participator again in Zubenelgenubi Widgets Limited from 23 October 2014. The ‘limited participation requirement’ was therefore not met.
+
+Subject to the 5% minimum-holding rule mentioned above, ‘participator’ for the purposes of the ‘participator fraction’ has the meaning given by CTA10/S454, but extended to include reference to persons who would be participators if the company were a close company.

@@ -1,0 +1,34 @@
+Trusts for particular purposes: discretionary payments taxed as employment income - 2010-2011 onwards - amount of relief
+Identifier: TSEM5660
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem5660
+Published: 2016-05-02T16:42:16+01:00
+Updated: 2018-12-14T01:42:54+00:00
+Retrieved (UTC): 2026-09-18T16:20:06.726499+00:00
+
+Where an employee benefit settlement makes a discretionary employment income payment (see TSEM5655 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem5655)), the trustees are entitled in respect of a tax year to claim repayment of an amount of income tax equal to the lesser of amount A and amount B.
+
+Amount A is
+
+TEI x TR
+
+where
+
+TEI is the total of the amounts that are employment income of beneficiaries of the settlement because of discretionary employment income payments made in the tax year by the trustees, and
+
+TR is the trust rate in force for the tax year.
+
+Amount B is
+
+the amount of the SITA/S497 tax pool (see TSEM3021 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3021) onwards) available for the tax year reduced (but not so that it goes below nil) by the total amount of income tax (if any) treated under sITA/S494 as having been paid as a result of payments made by the trustees in the tax year. In general, payments made by such trusts will be employment income and will not be within S494, but there may exceptionally be payments which are not - for example where the deed permits and the trustees make a discretionary payment to a charity.
+
+In computing ‘Amount B’, the statute provides for the tax pool to be reduced by the amounts of compensation paid under ESC A68. This gives legal backing to the terms of the ESC under which the trustees agreed to reduce the tax pool by any compensation paid see (TSEM5610 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem5610)).
+
+Claims
+
+A claim under this section may not be made before the end of the tax year to which it relates. The normal time limits for claims apply although the majority of claims are likely to be made in the SA Return for the year in which the discretionary payments were made.
+
+Where the claim is made in a return relief will be given automatically so there will be no need to compute the amount of a repayment.
+
+Where the claim is made outside a return the relief should be computed in line with the example at TSEM5665 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem5665). You will also need to consider whether repayment supplement is due (see TSEM5670 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem5670)).
+
+The requirement in TSEM5612 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem5612) to record payments in an establishment file does not apply to claims under ITA/S496B.

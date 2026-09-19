@@ -1,0 +1,38 @@
+Migration of companies before January 2020: recovery of charges postponed under TCGA92/S187
+Identifier: CG42400
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42400
+Published: 2016-03-12T11:04:55+00:00
+Updated: 2023-06-30T12:32:46+01:00
+Retrieved (UTC): 2026-09-18T14:40:46.062356+00:00
+
+TCGA92/S187 (3) and (4)
+
+CG42390 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42390) explains when the exit charge under TCGA92/S185 may be postponed where a company migrated before 1 January 2020. The whole or part of the postponed gain becomes a chargeable gain of the principal company
+
+- if a relevant asset is disposed of within six years of the relevant time and a gain would have accrued on the deemed disposal of the relevant asset at the relevant time, or
+
+- if at any time either
+
+- the principal company disposes of any of the ordinary shares in the subsidiary and after the disposal the subsidiary is not a 75 per cent subsidiary (whether or not it was before), or
+
+- the principal company ceases to be resident in the UK.
+
+The terms ‘principal company’, ‘relevant time’ and ‘relevant asset’ are defined in CG42390 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42390).
+
+The subsidiary could have ceased to be a 75 per cent subsidiary of the principal company by the issue of additional ordinary shares to a third party. The issue of new shares is not treated as a disposal which would bring the postponed gain into charge. However, any subsequent disposal of shares in the subsidiary by the principal company would result in a recovery of some or all of the postponed charge (TCGA92/S187 (4)(b).
+
+If the occasion of charge on the principal company is the sale of relevant assets by the subsidiary the amount of the chargeable gains assessed as a recovery is an appropriate proportion of the postponed gain. The amount of the gain released for recovery is
+
+Description |  Multiply |  Description |
+
+Postponed gain so far unrealised |  X |  gain postponed on asset disposed of |
+
+- |  - |  gains on all remaining relevant assets |
+
+For this purpose the `gains on all remaining relevant assets’ is the aggregate of the gains postponed (that is excluding losses) in respect of the assets held immediately before the disposal.
+
+See CG42420 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42420) for an example of a recovery charge on the disposal of relevant assets.
+
+If either of the other two events referred to above occurs the whole of the unrealised postponed gain becomes a chargeable gain of the principal company. This is so even if the event is the disposal of only part of the principal company’s holding of ordinary shares in the subsidiary.
+
+Chargeable gains accruing to the principal company under TCGA92/S187 may be reduced by allowable losses of the subsidiary company, see CG42430 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42430). With effect from 11 December 2012, the “exit charge payment plan” introduced by Sch3ZB TMA70 may enable the deferment of exit charges, including those previously postponed under the provisions of TCGA92/S187. Full details can be found in CTM34132 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm34132).

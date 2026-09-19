@@ -1,0 +1,42 @@
+Repayments: issue repayment: allocated payment or credit
+Identifier: SAM110005
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam110005
+Published: 2016-04-08T17:12:29+01:00
+Updated: 2022-08-03T09:56:40+01:00
+Retrieved (UTC): 2026-09-18T16:19:57.234268+00:00
+
+Allocated payment or credit to be repaid or reallocated via OAS.
+
+(Reallocation to be made to either a different UTR, different tax charge under the same UTR or different Head of Duty.)
+
+Effective date of payment (EDP)
+
+- The original effective date of payment
+
+Repayment supplement (RPS)
+
+From
+
+The original EDP
+
+To
+
+Where allocated payment to be repaid
+
+- The projected issue date of the repayment
+
+Where allocated payment to be reallocated to a different charge under the same UTR
+
+- The Relevant Due Date of the charge against which the payment or credit is being set
+
+Where allocated payment to be reallocated to a different UTR or Head of Duty
+
+- The date that the set off or reallocation is made
+
+Where the payment or credit is to go on record as ‘unallocated’
+
+- The date of reallocation
+
+RPS calculated automatically or manually?
+
+- RPS will need to be calculated manually

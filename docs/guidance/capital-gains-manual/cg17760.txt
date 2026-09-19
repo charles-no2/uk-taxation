@@ -1,0 +1,30 @@
+Indexation: disposals 30/11/93+: assets held by transferor at 31/3/82
+Identifier: CG17760
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17760
+Published: 2016-03-12T10:18:35+00:00
+Updated: 2016-01-25T12:19:05+00:00
+Retrieved (UTC): 2026-09-18T14:38:41.794184+00:00
+
+For assets which were held by the transferor at 31 March 1982, or which can be traced back through an unbroken sequence of no gain/no loss transfers to 31 March 1982, TCGA92/S55 (6) applies on the eventual disposal. The amounts of indexation allowance which were included in the transferee’s RAE on previous no gain/no loss transfers are taken back out of RAE, under TCGA92/S55 (6)(b). The indexation allowance due on the eventual disposal is computed afresh, under TCGA92/S55 (6)(a).
+
+Because in these cases the indexation is computed afresh at the date of disposal, it will all be subject to the general restriction described at CG17700+. Without special rules, this indexation could not create or increase a loss.
+
+The Finance Act 1994 introduced new subsections (7) to (11) to TCGA92/S55 to deal with these cases. They ensure that amounts of indexation which would have been included in the transferee’s RAE under TCGA92/S56 (2) (but which were taken out again by TCGA92/S55 (6)(b) on the eventual disposal) on no gain/no loss transfers prior to 30 November 1993 remain in the computation of gain or loss.
+
+These amounts are referred to as `rolled-up indexation’.
+
+To calculate the chargeable gain, or allowable loss, in these cases you need to
+
+- Compute any gain in the normal way, see CG17700+
+
+- Compute the amount of rolled-up indexation, see above.
+
+TCGA92/S55 (7), TCGA92/S55 (8) & TCGA92/S55 (9)
+
+If
+
+- the amount of indexation allowed in the computation exceeds the amount of rolled-up indexation, no further adjustment is required;
+
+- the amount of indexation allowed in the computation would be less than the amount of rolled-up indexation, you should allow the full amount of the rolled-up indexation in arriving at the chargeable gain or allowable loss.
+
+These points are illustrated in the following examples.

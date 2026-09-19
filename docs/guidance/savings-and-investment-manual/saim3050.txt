@@ -1,0 +1,30 @@
+Deeply discounted securities: excluded indexed securities
+Identifier: SAIM3050
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3050
+Published: 2016-03-19T16:25:14+00:00
+Updated: 2018-12-04T09:55:49+00:00
+Retrieved (UTC): 2026-09-18T14:26:14.814630+00:00
+
+‘Excluded indexed securities’ taxed as capital gains
+
+ITTOIA05/S433 explains the meaning of ‘excluded indexed securities’. These are outside the deeply discounted security rules, and are instead taxed under the capital gains rules (CG53446 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53446)).
+
+An excluded indexed security is one where the amount payable to discharge the debt on redemption is calculated by applying the percentage change over the redemption period in the value of ‘chargeable assets’, or an index of those assets, to the amount for which the original security was issued.
+
+The ‘excluded indexed security’ rules apply only to the holder of the instrument. See CFM82250 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm82250) onwards for the Loan Relationships rules applicable to companies that issue and hold such securities.
+
+The percentage change
+
+The percentage change is the full percentage change in the value of the chargeable assets, or of any index of the value of such assets, over the redemption period. The percentage change is to be applied to the full issue price - that is without issue costs having been deducted.
+
+Capital protection
+
+The terms of the security may provide for the investor to get back a percentage of his or her original stake money, even if the value of the relevant chargeable assets plummets. This will not prevent it being an excluded indexed security provided the specified percentage is not more than 10% of the issue price. It should be noted this does not mean investors can invest £100 and get a minimum of £110 back; it means they can invest £100 and get not more than £10 back, losing the other £90 of their original capital. Unless they can lose at least 90% of the amount invested it is not an excluded indexed security, and will be a deeply discounted security.
+
+Some products provide that the investor’s principal will be fully at risk if an index such as the FTSE 100 falls below a specified threshold. Provided that there is a realistic prospect of such an event occurring, such products will be regarded as having capital protection of 10% or less in determining whether or not they are excluded indexed securities.
+
+Some products are structured so that the security issued to the investor is linked to the value of shares in a special purpose vehicle, warrants or other instruments. HMRC’s view is that the effect of any instruments linked to the security must be taken into account in determining whether or not the terms under which that security is issued includes a provision that provides capital protection.
+
+The redemption period
+
+This is the period between the date of issue and the date of redemption. The rules allow slightly different dates to be used where there are difficulties in obtaining valuations on the issue or redemption dates, and for no other reason.

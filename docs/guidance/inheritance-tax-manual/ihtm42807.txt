@@ -1,0 +1,146 @@
+Special trusts: accumulation and maintenance trusts (A&M) prior to Finance Act 2006 
+Identifier: IHTM42807
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42807
+Published: 2016-04-09T10:25:35+01:00
+Updated: 2021-01-18T16:16:15+00:00
+Retrieved (UTC): 2026-09-18T15:09:45.738773+00:00
+
+Special trust treatment under IHTA84/S71 applies only to trusts created before 22 March 06. Under provisions introduced by FA06/SCH20, existing A&M trusts must then meet further conditions to qualify for the special trust treatment. See (IHTM42808 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42808))
+
+IHTA84/S71 Charging provisions: (IHTM04099 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04099))
+
+Transfers to minors are usually dealt with by a settlement. The terms of such trusts are normally non-interest in possession (discretionary).
+
+IHTA84/S71 gives relief from Inheritance Tax (IHT). It does not matter whether the settlement is, or is not, called an ‘Accumulation & Maintenance Settlement’ – the test is, does it satisfy the conditions of IHT84/S71?
+
+If the three conditions of IHTA84/S71 are satisfied, then
+
+-
+
+the settled property is not relevant property under IHTA84/S58 and therefore it does not bear ten yearly charges
+
+-
+
+no claim arises upon the property vesting in the beneficiaries when they become entitled on or before the specified age, IHTA84/S71(4)
+
+-
+
+no claim arises on the death of beneficiaries before the specified age, IHTA84/S71(4). Although the death of the last possible beneficiary would trigger a charge under IHTA84/S71(3)(a), that is not a claim ‘on the death’.
+
+This section applies to settled property if
+
+-
+
+one or more persons/beneficiaries will, on or before attaining a specified age not exceeding 25, become beneficially entitled to it, or to an interest in possession (IIP) in it, IHTA84/S71(1)(a). FA06/SCH20 amends the requirement so that from 6 April 2008, the beneficiaries of the existing trust must become beneficially entitled to the property at a specified age not exceeding 18. (For simplicity however, examples below relate to events prior to 6 April 2008.)
+
+-
+
+no IIP subsists in it and the income from it is to be accumulated so far as it is not applied for the maintenance, education or benefit of a beneficiary, IHTA84/S71(1)(b).
+
+Under IHTA84/S71(1)(a) ‘person’ includes unborn persons, but this provision is not satisfied unless there is or has been a living beneficiary. In such a case, the trust does not become an A & M trust within S71 until a beneficiary is born. When a beneficiary is born a claim will arise under
+
+-
+
+IHTA84/S65 (1)(a) if the fund has been discretionary until then, or
+
+-
+
+IHTA84/S52 (1) if it has been IIP.
+
+An age not exceeding 25 does not need to be specified. If the trusts declare that the beneficiaries shall take beneficial interests on a fixed and certain date, for example, the tenth anniversary of the millennium, the status of each share can be simply judged by referring to the dates of birth of the beneficiaries.
+
+Under the IHTA84/S71 conditions, the word ‘will’ is of paramount importance. It means that some beneficiary within the class must inevitably take an IIP if they satisfy any given contingency under the trusts. Mere hope is not enough, and the intentions of the settlor or trustees etc, if not expressed as terms of the settlement, are immaterial. See Re Inglewood (1983) STC 133.
+
+It is not essential to ‘maintain, educate and benefit’ the beneficiaries. A trust to accumulate income until the vesting date will qualify.
+
+Income
+
+General law created rules for dealing with settled property, its income, and minors. These rules existed long before IHT and its predecessor, Capital Transfer Tax, were introduced. Their aim is to ensure that a minor beneficiary can be supported and educated whilst waiting for the beneficial interest in capital to come to them. The relevant rule is Trustee Act 1925 S31 (i)(ii) applies in England and Wales but not Scotland.
+
+If the trusts carry the intermediate income and the trusts do not give the minor an interest in possession on attaining the age of majority (age 18 under Family Law Reform Act 1969) then the trustees shall pay the income to the beneficiary until they attain a vested interest, or the interest fails, or the beneficiary dies.
+
+This rule is subject to any contrary intention being expressed in the instrument creating the trust (Trustee Act 1925 S69).
+
+Thus, if the trusts of the deed or will do not say, ‘income to daughter at age 18 and capital to her absolutely at age 25’, and the trusts carry the intermediate income, with no contrary intention, then the Trustees Act 1925 S31 rule says, ‘regardless of whether the daughter will actually survive until age 25 to take the capital, the trustees must pay the income to her at age 18.’
+
+It follows that if the trustees are obliged to give her the income then she has an IIP at age 18, and that is an age not exceeding 25.
+
+As you can see, the application of Trustee Act 1925 S31 is a constant factor in dealing with A&M trusts. Accordingly, the question of whether the trusts carry the intermediate income is also ever-present.
+
+Modern trust deeds make matters simple by including a clause saying ‘these trusts carry the intermediate income and Trustee Act 1925 S31 applies’. These words are conclusive.
+
+Which trusts carry the intermediate income?
+
+-
+
+Those that say they do.
+
+-
+
+Where the settlor/testator is the parent or someone legally recognised as being in the position of a parent to that beneficiary.
+
+-
+
+Generally, where the property is residue under a will.
+
+Indicators
+
+Signposts indicating that IHTA84/S71 is not satisfied
+
+-
+
+An unrestricted power of revocation or re-appointment.
+
+-
+
+Any spouse as beneficiary and not limited to one under age 25.
+
+-
+
+Where no vesting takes place under age 25, or at all (such as a clause omitted).
+
+-
+
+Where there is no living beneficiary, and there has not been one.
+
+Powers that do not disqualify the trust
+
+-
+
+There is no objection to a power of revocation or appointment if it can only be exercised after the interest it relates to has vested. For example, after the beneficiary has attained an interest in possession (IIP) in income.
+
+-
+
+If the interest is appointed away from that beneficiary, a claim under IHTA84/S52 (1) will arise in the normal way. That claim might be a potentially exempt transfer (IHTM04057), depending upon the status of the recipient.
+
+-
+
+If the deed contains powers of revocation or appointment but has a proviso that the powers are void if they infringe IHTA84/S71, then they do not disqualify the trusts.
+
+Powers to insure in A & M trusts
+
+These will normally be administrative powers, for example maintaining trust property. The existence or exercise of such a power does not offend IHTA84/S71.
+
+If, exceptionally, there is a power to insure on trust for the benefit of any person, you must consider the scope of that power as it is subject to the same restrictions as the rest of the fund. But if it can only operate to produce benefit for beneficiaries at an age not exceeding 25 it cannot be said to infringe IHTA84/S71.
+
+Example 1
+
+£200,000 is put on trust for the settlor’s son (born 15 October 1992) on attaining age 28. Until he attains age 28 the trustees are to pay the income to his aunt (born 25 January 1961) and on her earlier death, to her children.
+
+This fails IHTA84/S71. The trust does not carry the intermediate income, it being expressly given elsewhere. The son gets nothing until he reaches age 28, which exceeds 25.
+
+The trust also fails the income test.
+
+Example 2
+
+£200,000 is put on trust for the settlor’s daughter to receive the capital at age 26. The trustees to accumulate all income until that date. The direction to accumulate is a contrary intention and these trusts do not carry the intermediate income. The daughter takes her interest at age 26. This fails IHTA84/S71.
+
+Example 3
+
+Property is settled on accumulation and maintenance trusts for five named children of the settlor. Interests in possession are to vest, equally and absolutely, when the youngest child attains age 22.
+
+There is no intention to cause a vesting in possession at any earlier date and Trustee Act 1925 S31 has been excluded.
+
+The youngest child is born on 15 August 1982. The vesting date is therefore 15 August 2004. Any of the beneficiaries who are under age 25 at 15 August 2004 qualify. A sister was born on 25 May 1981. She is therefore under age 25 at the vesting date. Three brothers were born in 1974, 1976 and 1978. These three will be over age 25 at 15 August 2004 and their shares do not qualify.
+
+Thus three-fifths of the settled property is taxable as non-interest in possession and charges arise under IHTA84/S64 and S65 on those three-fifths in the normal way. The fact that these shares do not qualify does not affect the two shares that do qualify under IHTA84/S71.

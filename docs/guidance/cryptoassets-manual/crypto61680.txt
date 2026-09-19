@@ -1,0 +1,114 @@
+Decentralised Finance: Lending and staking: Chargeable Gains: Examples: Example 10: exchange of liquidity provider tokens for tokens
+Identifier: CRYPTO61680
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61680
+Published: 2022-02-02T15:06:29+00:00
+Updated: 2022-02-02T15:41:07+00:00
+Retrieved (UTC): 2026-09-18T16:18:45.267262+00:00
+
+Georgia wishes to provide liquidity to a Decentralised Finance (DeFi) lending platform. She holds:
+
+- 1,000 token A. These are in a section 104 pool with a total acquisition cost of £1,000.
+
+- 1,000 token B. These are in a section 104 pool with a total acquisition cost of £500.
+
+For more information about section 104 pools see CRYPTO22200 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22200).
+
+On 11/11/20XX, Georgia transfers 50 token A and 100 token B to the DeFi lending platform. The DeFi lending platform transfers 10 liquidity tokens to Georgia. At the time of this exchange the token A are valued at £1.20 each, the token B are valued at £0.60 each. The liquidity pool token is valued at £12.00 each.
+
+Georgia decides that a just and reasonable basis for apportioning the value of the liquidity pool token is in proportion to the market value of the tokens she disposes of. The total market value of the tokens she disposes of is £60 (50 token A x £1.20 each) plus £60 (100 token B x £0.60 each) equals £120.
+
+Georgia’s Chargeable Gains (CG) computation of her disposal of her token A is as follows:
+
+. |  . |  £ |
+
+Consideration |  Liquidity pool token - £120 x 60 / 120 |  60 |
+
+Allowable costs |  Section 104 pool – £1,000 x 50 / 1,000 |  (50) |
+
+Gain |  . |  10 |
+
+Georgia’s section 104 pool for token A will be adjusted as follows:
+
+Date |  Quantity of tokens |  Allowable costs (£) |
+
+Opening balance |  1,000 |  1,000 |
+
+11/11/20XX |  (50) |  (50) |
+
+Closing balance |  950 |  950 |
+
+Georgia’s CG computation of his disposal of her token B is as follows:
+
+. |  . |  £ |
+
+Consideration |  Liquidity pool token - £120 x 60 / 120 |  60 |
+
+Allowable costs |  Section 104 pool – £500 x 100 / 1,000 |  (50) |
+
+Gain |  . |  10 |
+
+Georgia’s section 104 pool for token B will be adjusted as follows:
+
+Date |  Quantity of tokens |  Allowable costs (£) |
+
+Opening balance |  1,000 |  500 |
+
+11/11/20XX |  (100) |  (50) |
+
+Closing balance |  900 |  450 |
+
+Georgia will be treated as having acquired the liquidity token for the total market value of the token A and token B that Georgia transfers to the DeFi lending platform. This is £60 (50 token A x £1.20 each) plus £60 (50 token B x £0.60 each) equals £120. This will go into a new section 104 pool:
+
+Date |  Quantity of tokens |  Allowable costs (£) |
+
+Opening balance |  0 |  0 |
+
+11/11/20XX |  +10 |  +120 |
+
+Closing balance |  10 |  120 |
+
+On 24/05/20X1, Georgia decides to withdraw half of her stake in the liquidity pool. She transfers 5 liquidity pool tokens to the DeFi lending platform.
+
+At that time the balance of tokens in the liquidity pool has changed so that each liquidity pool token represents 5 token A and 20 token B. In return for the 5 liquidity pool tokens, the DeFi lending platform transfers 25 token A and 100 token B to Georgia. At the time of this exchange the token A are valued at £1.50 each, the token B are valued at £0.50 each. The liquidity tokens are valued at £17.50 each.
+
+Georgia decides that a just and reasonable basis for apportioning the value of the liquidity token is in proportion to the market value of the tokens she receives. The total market value of the tokens she receives is £37.50 (25 token A x £1.50 each) plus £50 (100 token B x £0.50 each) equals £87.50.
+
+Georgia’s CG computation of her disposal of her liquidity pool tokens is as follows:
+
+. |  . |  £ |
+
+Consideration |  Token A – 25 x £1.50; plus Token B – 100 x £0.50 |  87.50 |
+
+Allowable costs |  Section 104 pool – £120 x 5 / 10 |  (60) |
+
+Gain |  . |  27.50 |
+
+Georgia’s section 104 pool for her liquidity pool tokens will be adjusted as follows:
+
+Date |  Quantity of tokens |  Allowable costs (£) |
+
+Opening balance |  10 |  120 |
+
+24/05/20X1 |  (5) |  (60) |
+
+Closing balance |  5 |  60 |
+
+Georgia will be treated as having acquired the token A for an appropriate proportion of the market value of the liquidity pool tokens she transferred to the DeFi lending platform. This is £37.50 (£87.50 x 37.50 / 87.50). Georgia’s section 104 pool for token B will be adjusted as follows:
+
+Date |  Quantity of tokens |  Allowable costs (£) |
+
+Opening balance |  950 |  950 |
+
+24/05/20X1 |  +25 |  +37.50 |
+
+Closing balance |  975 |  987.50 |
+
+Georgia will be treated as having acquired the token B for an appropriate proportion of the market value of the liquidity pool tokens she transferred to the DeFi lending platform. This is £50.00 (£87.50 x 50.00 / 87.50). Georgia’s section 104 pool for token B will be adjusted as follows:
+
+Date |  Quantity of tokens |  Allowable costs (£) |
+
+Opening balance |  900 |  450 |
+
+24/05/20X1 |  +100 |  +50 |
+
+Closing balance |  1,000 |  500 |

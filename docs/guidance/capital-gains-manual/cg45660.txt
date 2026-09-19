@@ -1,0 +1,26 @@
+Outward domestication: deferral of capital gains charge
+Identifier: CG45660
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45660
+Published: 2016-03-12T11:07:57+00:00
+Updated: 2019-05-21T16:00:12+01:00
+Retrieved (UTC): 2026-09-18T14:41:03.821103+00:00
+
+TCGA92/S140 (1), (2) and (3)
+
+Capital gains charges are deferred by TCGA92/S140 if all the following conditions in Section 140(1)(a)-(d) and (2) are satisfied:
+
+- a UK resident company carrying on a trade outside the UK through a permanent establishment transfers the permanent establishment trade, or part of it, together with all the related assets (or all the assets other than cash), to a non-UK resident company
+
+- the consideration for the trade or part trade transferred consists wholly or partly of shares, or shares and loan stock, issued by the transferee company to the transferor company
+
+- the shares so issued, together with any other shares in the transferee company already held by the transferor company, are at least 25 per cent of the ordinary share capital (CTM00511 to CTM00516) of the transferee company
+
+- the aggregation of the gains and losses in respect of all the assets transferred results in a net gain
+
+- the transferor company makes a claim.
+
+But relief cannot be claimed both under the outward domestication provisions and under the provisions implementing the EU Mergers Directive which deal with the transfer of a non-UK trade. See CG45700 onwards.
+
+The effect of a claim under TCGA92/S140 (2) is set out in TCGA92/S140 (3). This works by deferring the charge on the transferor company in respect of `the deferred gain’ until the occurrence of certain events, see CG45670. In computing the deferred gain, any allowable losses accruing to the transferor company on the transfer are set off against the chargeable gains accruing, and the transfer is treated as giving rise to a single chargeable gain equal to the difference between the aggregate gains and the aggregate losses.
+
+The extent to which this net gain becomes the deferred gain' depends on the consideration received by the transferor company in respect of the transfer. Where the shares, or shares and loan stock, issued by the transferee company are the whole of the consideration, then the whole of the net gain on the transfer is the deferred gain’. Where the shares, or shares and loan stock, issued by the transferee company are only part of the consideration, then only a proportion of the net gain on the transfer is `the deferred gain’. The remainder is treated as accruing at the time of the transfer and is assessed accordingly on the transferor company. The proportion of the net gain treated as the deferred gain is the proportion which the market value, at the time of the transfer, of the shares and loan stock received by the transferor company bears to the market value of the whole of the consideration received by the transferor company. For this purpose the consideration does not include liabilities of the business which are taken over by the transferee company.

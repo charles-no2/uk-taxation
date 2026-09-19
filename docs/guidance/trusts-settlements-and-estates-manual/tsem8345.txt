@@ -1,0 +1,24 @@
+Trust management expenses: IIP trusts: IIP beneficiaries: measure of income: net and gross amounts
+Identifier: TSEM8345
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem8345
+Published: 2016-05-02T16:57:35+01:00
+Updated: 2016-04-29T15:35:03+01:00
+Retrieved (UTC): 2026-09-18T16:20:47.274344+00:00
+
+Tax is charged on the beneficiary’s entitlement. The beneficiary receives
+
+- income net of tax and income expenses including TMEs (that receipt referred to below as ‘the net amount’),
+
+but is actually entitled to
+
+- the untaxed amount of the income, net of income expenses including TMEs (that entitlement referred to below as ‘the gross amount’).
+
+So the net amount is grossed up at the appropriate tax rates to arrive at the amount included in the beneficiary’s income for income tax purposes.
+
+Example
+
+Trustees income is £1,000; allowable TMEs are £250, income tax due is £200 (£1,000 at 20%).
+
+The ‘net amount’ is £550
+
+The ‘gross amount’ is £687.50 (£550 grossed up x 100 ÷ 80).

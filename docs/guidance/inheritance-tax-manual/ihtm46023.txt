@@ -1,0 +1,28 @@
+Calculating the RNRB: terms used: the 'taper threshold'
+Identifier: IHTM46023
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46023
+Published: 2017-04-06T07:15:01+01:00
+Updated: 2018-09-28T07:58:17+01:00
+Retrieved (UTC): 2026-09-18T15:10:54.863109+00:00
+
+The maximum residence nil-rate band (RNRB) is only available to estates below a certain value. This value is referred to as the taper threshold (TT), which is initially £2 million. Where the value of the estate exceeds the taper threshold, the maximum available RNRB (the default allowance IHTM46024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46024)), is reduced. When this happens the ‘default allowance’ is referred to as the ‘adjusted allowance’ (IHTM46025 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46025)). It is possible for the effect of tapering to be to remove the RNRB altogether.
+
+The taper threshold is £2,000,000 for the tax years 2017-18 to 2027-28. After the tax year 2027/2028 the taper threshold will increase each year by reference to the Consumer Prices Index (CPI), unless the Treasury specifies an alternative value – IHTA84/S8D(6, 7 & 8)
+
+The taper threshold applies to the value of the estate after liabilities, but before taking into account any exemptions or reliefs. This is referred to as ‘E’ in the legislation - IHTA84/S8D(d) (IHTM46012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46012))
+
+For estates above the taper threshold the amount of available RNRB is reduced by £1 for every £2 of value by which it is exceeded. This is expressed in the legislation as (E - TT ÷ 2). So for example, a ‘qualifying’ estate in the tax-year 2020/21, valued at £2,350,000 would see the RNRB ‘tapered’ by £175,000 to nil where there was no brought forward allowance (IHTM46040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46040)).
+
+Example:
+
+Brian’s estate is valued at £2,150,000 (including a qualifying interest in possession in settled property valued at £50,000, and agricultural property valued at £1,000,000 which attracts 100% relief). He has made gifts totalling £200,000 in the 7 years before his death.
+
+He dies in May 2017, with no brought-forward allowance, therefore his default allowance is equal to the value of the residential enhancement (£100,000) (IHTM46022 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46022)).
+
+The value of his estate for taper purposes, ‘E’, includes the aggregate of all the property he is beneficially entitled to, but is not reduced by the reliefs, and does not include the value of the lifetime gifts.
+
+Brian’s estate exceeds the taper threshold by £150,000. His default allowance of £100,000 is reduced by £1 for every £2 by which his estate exceeds the taper threshold, so his default allowance is reduced by £75,000. Brian’s estate therefore has an adjusted allowance of £25,000.
+
+If Brian’s life interest in the settled property had been valued at £150,000 instead of £50,000, the amount given by (E-TT) ÷ 2 would be £125,000. This amount is greater than the default allowance (IHTM46024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46024)) and so the adjusted allowance (IHTM46025 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46025)) would be nil.
+
+The taper threshold can restrict not only the amount of RNRB due available on the death, but also the amount of unused RNRB that is available to transfer to a surviving spouse or civil partner. More detail and examples can be found at IHTM46044 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46044).

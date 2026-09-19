@@ -1,0 +1,64 @@
+Leases: Grant of long lease out of a freehold or long lease
+Identifier: CG70950
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70950
+Published: 2016-03-12T12:14:40+00:00
+Updated: 2026-05-06T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:48:09.866736+00:00
+
+The grant of a long lease, that is a lease with a term of over 50 years, out of a freehold or long lease is the simplest scenario involving the grant of a lease.
+
+The normal rules apply to the computation of the gain. The whole of any premium received is brought into account as consideration for the grant of the lease and the part disposal formula in TCGA92/S42, see CG12730P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12730p), applies.
+
+However, in these circumstances, when applying the part disposal formula A / (A+B):
+
+A is the premium received;
+
+B is the value of the remaining interest (that is the interest in the land retained by the landlord) which will include the value of the right to receive the rent due under the lease.
+
+Example
+
+On 30 June 2017, Mr J bought the freehold of a property for £1,500,000.
+
+On 30 June 2020, he granted a 75 year lease of the property to Mr L. A premium of £1,000,000 was paid by Mr L and rent of £50,000 per year was due under the lease. Mr J incurred legal fees of £3,000 on the grant of the lease.
+
+The Valuation Office reported that, at 30 June 2020, the value of the freehold reversion was £1,100,000.
+
+Allowable expenditure
+
+Acquisition Cost x [ A / (A + B) ]
+
+= £1,500,000 x [ £1,000,000 / (£1,000,000 + £1,100,000) ]
+
+= £714,286
+
+Chargeable gain
+
+Premium received
+
+|
+
+£1,000,000
+
+|
+
+Less Allowable expenditure
+
+|
+
+£714,286
+
+|
+
+Less Legal fees
+
+|
+
+£3,000
+
+|
+
+|
+
+£282,714
+
+|

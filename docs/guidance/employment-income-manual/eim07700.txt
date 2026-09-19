@@ -1,0 +1,30 @@
+Employment income: tax-free remuneration ("grossing up")
+Identifier: EIM07700
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim07700
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-05-23T15:15:39+01:00
+Retrieved (UTC): 2026-09-18T14:19:34.225338+00:00
+
+An employer cannot typically pay tax on an employee’s behalf without incurring a further tax liability (see EIM00580 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim00580)).
+
+If an employer wishes to make a “free of tax” payment to an employee, they can “gross up” the employee’s pay.
+
+This is a system by which the employer increases the gross amount of the remuneration, so that the net amount (after tax) equals the amount the employee was expecting to receive.
+
+The employer must deduct tax from the increased gross amount.
+
+HMRC officers are not primarily involved because the question is one of interpreting an agreement between employer and employee.
+
+Example
+
+An employer has agreed to reward an employee with a bonus worth £500 after deduction of income tax. The employee pays tax at the basic rate.
+
+If the bonus is £500, the employee will only receive £400 net after deduction of tax:
+
+£500 - £100 income tax (at 20%) = £400
+
+The employer must “gross up” the bonus by increasing the gross amount to £625 so that the employee receives £500 net:
+
+£625 - £125 income tax (at 20%) = £500
+
+Note that this is an illustrative example, and in practice the employer would also be required to deduct National Insurance Contributions from this payment.

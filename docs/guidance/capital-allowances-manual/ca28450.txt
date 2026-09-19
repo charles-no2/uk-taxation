@@ -1,0 +1,60 @@
+PMA: Anti-avoidance: Finance leases - restriction on qualifying expenditure
+Identifier: CA28450
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28450
+Published: 2016-04-16T08:52:32+01:00
+Updated: 2020-01-08T17:15:45+00:00
+Retrieved (UTC): 2026-09-18T16:21:03.646539+00:00
+
+CAA01/S220
+
+Where an asset is purchased during a chargeable period the full purchase price is normally treated as qualifying expenditure for that chargeable period even if the asset is bought just before the end of the chargeable period. For example, a person who spends £1milllion on an asset 3 days before the end of a chargeable period can normally treat the whole £1million as qualifying expenditure for that chargeable period. The rules are different for assets acquired for leasing under a finance lease.
+
+Circumstances in which restriction applies
+
+The rules apply to a company for a chargeable period if
+
+- The company has, at any time within that chargeable period, incurred capital expenditure on the provision of plant or machinery for leasing under a finance lease or qualifying operating lease*
+
+- The company is a member of a group at the end of the period of account (s1119/CTA10) which is the basis period for the chargeable period, and
+
+- The last day of that period of account is different to the last day of the principal company’s period of account.
+
+* A qualifying operating lease is a plant or machinery lease CA23830 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23830) that satisfies these three conditions:
+
+- It is not a finance lease.
+
+- It is a funding lease CA23830 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23830).
+
+- Its term is more than four years but not more than five years.
+
+Example
+
+Holdco is the principal company of a group. Subco is a member of the group. Subco has incurred capital expenditure on the provision of plant for leasing under a finance lease. Holdco’s accounting date is 30 June 2018. If Subco draws up accounts to 31 May 2018 the legislation restricting qualifying expenditure will apply because the last day of its period of account is not the same as the last day of the Holdco’s period of account.
+
+Restriction
+
+The amount that a finance lessor can treat as qualifying expenditure for the chargeable period in which an asset is bought for leasing under a finance lease is restricted on a time basis by reference to the time from the acquisition date to the end of that chargeable period. The balance of the expenditure can be added to the pool for the next chargeable period.
+
+Example
+
+San Fernando Plc draws up its accounts to 30 June each year. It is a member of a group and the principal company draws up its accounts to a different date. On 1 June 2018 San Fernando Plc buys a locomotive for £438,000 to lease to Georgian Rail Ltd. under a finance lease. The expenditure that it can treat as qualifying expenditure for the year ended 30 June 2018 is £36,000. The balance of £402,000 is qualifying expenditure for the year ended 30 June 2019.
+
+If the expenditure on the provision of an asset for finance leasing is incurred in instalments on different dates you should apply the rule to each instalment.
+
+Example
+
+San Fernando Plc pays for the locomotive in two equal instalments- £219,000 on 31 May 2018 and £219,000 on 1 January 2019. This is its qualifying expenditure:
+
+- For the accounting period ended 30 June 2018, £18,000 (= £219,000 x 30/365)
+
+- For the accounting period ended 30 June 2019, £310,500 (= £201,000 [= £219,000 - £18,000] + £109,500 [= £219,000 x 6/12])
+
+- For the accounting period ended 30 June 2020, £109,500 (= £219,000 - £109,500)
+
+Where exceptionally the asset is disposed of by the finance lessor in the same chargeable period as that in which the expenditure is incurred, all the expenditure, (i.e. without apportionment), and the disposal value are brought into the pool for that chargeable period. This means that the allowances given are based on the actual depreciation suffered by the finance lessor.
+
+Example
+
+San Fernando Plc pays the whole £438,000 for the locomotive for finance leasing on 1 June 2018. It then decides that it does not want to go in for finance leasing and so it sells the locomotive to Georgian Rail Ltd. for £430,000 on 18 June 2018. San Fernando Plc can treat the whole £438,000 as qualifying expenditure for the year ended 30 June 2018. It has to bring a disposal value of £430,000 to account.
+
+Expenditure on an asset is not qualifying expenditure until the chargeable period in which the asset first belongs to the taxpayer. If the asset does not belong to the lessor until after the chargeable period in which the expenditure is incurred, no apportionment is needed. The whole of the expenditure is qualifying expenditure for the chargeable period in which the asset first belongs to the lessor. This can happen where a fixture is let under an equipment lease because the asset is not treated as belonging to the lessor in the chargeable period in which the expenditure is incurred if the lessee does not start to trade until after the end of it. However, if the equipment lessee starts to trade either earlier or later in the chargeable period in which the expenditure is incurred, the expenditure is apportioned from the date it is incurred and not from the date that the lessee starts to trade.

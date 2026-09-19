@@ -1,0 +1,52 @@
+Employment income provided through third parties: exclusions: retirement benefits etc: purchases of annuities out of pension scheme rights: example
+Identifier: EIM45630
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45630
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-01-28T08:11:23+00:00
+Retrieved (UTC): 2026-09-18T14:23:23.086456+00:00
+
+Section 554V ITEPA 2003
+
+This example illustrates the rules of section 554V discussed in EIM45625 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45625).
+
+A is a member of an employer-financed retirement benefits scheme (EFRBS) which operates on a money purchase basis. The accruals in the fund consist of both contributions and income.
+
+On 1 February 2012, the EFRBS purchases for A an annuity contract in respect of A’s rights under the scheme for £1 million. Of the £1 million, £900,000 is attributed to rights accrued before 6 April 2011. The purchase of the annuity is a relevant step within section 554C.
+
+On entering into the annuity contract, the insurance company earmarks the consideration with a view to making the annuity payments to A. This is a relevant step within section 554B, and the arrangement outlined in this example is likely to come through the section 554A gateway (see EIM45025 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45025)). The annuity payments made under the contract will be further relevant steps within section 554C.
+
+The rights out of which the annuity contract was purchased accrued partly out of pre-6 April 2011 annuity rights. So, an apportionment is needed.
+
+The consideration needs to be apportioned between A’s ‘pre-6 April 2011 rights’ and A’s other rights.
+
+A’s pre-6 April 2011 rights consist of:
+
+- contributions made before 6 April 2011
+
+- growth on those contributions up to the time of the annuity purchase.
+
+A’s other rights consist of:
+
+- contributions made after 5 April 2011
+
+- growth on those contributions up to the time of the annuity purchase.
+
+On a just and reasonable basis, A’s pre-6 April 2011 rights (see above) are valued at £900,000 and A’s other rights are valued at £100,000.
+
+So, section 554V treats the EFRBS’s purchase of the annuity as two separate relevant steps:
+
+- one in relation to the annuity contract so far as it is purchased out of rights which are pre-6 April 2011 annuity rights
+
+- one in relation to the annuity contract so far as it is purchased out of other rights.
+
+As noted above, the former step is valued at £900,000. Section 554V stops it giving rise to Part 7A income.
+
+The latter step is valued at £100,000. As far as section 554V is concerned, there is nothing to stop it giving rise to Part 7A income.
+
+The same apportionment will apply to relevant steps arising upon the insurance company’s act of earmarking assets in readiness to pay pension and for the pension payments.
+
+Depending on the facts, however, other reliefs in Part 7A may reduce the value or impact of these steps:
+
+- section 554S is likely to exclude relevant steps that are also pension payments see EIM45610 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45610)
+
+- overlap relief under section 554Z5 may apply see EIM45725 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45725).

@@ -1,0 +1,44 @@
+Disposal of assets situated abroad: Example 2
+Identifier: CG25430
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25430
+Published: 2016-03-12T10:24:48+00:00
+Updated: 2023-04-17T13:57:00+01:00
+Retrieved (UTC): 2026-09-18T14:39:00.017685+00:00
+
+An individual resident but not domiciled in the UK has a foreign bank account in a foreign currency, F. The rate of exchange is 2F = £1 throughout this example. The account contains the following entries:
+
+Date |  - |  Amount |
+
+January 2009 |  Balance |  Nil |
+
+January 2009 |  Deposit: sale of foreign shares A |  90,000F |
+
+- |  (cost 48,000F in December 2005) |  - |
+
+February 2009 |  Withdrawal: purchase of foreign |  30,000F |
+
+- |  shares B |  - |
+
+March 2009 |  Withdrawal: brought to UK |  30,000F |
+
+The gain arising is first calculated in sterling, thus:
+
+- |  - |  £ |
+
+Proceeds |  90,000F |  45,000 |
+
+less Cost |  48,000F |  24,000 |
+
+- |  Foreign Chargeable Gain |  21,000 |
+
+Next, the account is analysed into capital and gains to give the composition of the balance of the account (90,000F - 30,000F = 60,000F) immediately before the March transfer, turning the gain back into foreign currency thus:
+
+- |  - |  Capital |  Capital Gain |  Total |
+
+January 2009 |  Deposit |  48,000F |  42,000F |  90,000F |
+
+February 2009 |  Withdrawal to buy foreign shares |  16,000F |  14,000F |  30,000F |
+
+- |  Balance |  32,000F |  28,000F |  60,000F |
+
+The transfer of 30,000F is then split between capital and foreign chargeable gains according to the mixed fund rules (see CG25380+), so it is treated as containing 28,000F (£14,000) of gains and 2000F (£1000) capital. There is therefore a remittance of £14,000 of the gain on foreign shares A.

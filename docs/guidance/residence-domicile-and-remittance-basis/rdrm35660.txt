@@ -1,0 +1,34 @@
+Remittance basis: Mixed funds: Cleansing of mixed funds: Over nomination
+Identifier: RDRM35660
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35660
+Published: 2022-03-17T07:44:30+00:00
+Updated: 2022-03-17T07:43:02+00:00
+Retrieved (UTC): 2026-09-18T16:19:08.897075+00:00
+
+The normal mixed fund rules still applied (Sections 809Q and 809R ITA 2007) to transfers in or transfers out of an uncleansed or partially cleansed mixed fund if these transfers were not nominated for the purposes of the cleansing provisions.
+
+If nominated transfers exceeded the amount of that kind of income held in the mixed fund account immediately before the transfer, then the normal mixed fund rules would also apply to these nominated transfers. Such a nomination would be invalid and would have the potential to affect all subsequent nominations potentially invalidating them, too.
+
+Example
+
+Flavia has a mixed fund account which contains the following funds immediately before she nominates a transfer under the cleansing provisions:
+
+2014-2015 overseas capital gain £200,000
+
+2014-15 clean capital £191,000
+
+2013-2014 foreign income £105,000
+
+2013-2014 overseas capital gain £564,000
+
+2010-2011 foreign income £850,000
+
+Flavia nominates £1million foreign income, transferring this to a new account (B) on 17 July 2018. Flavia then nominates £764,000 capital gains transferring it to a new account (C), on 1 September 2018, the balance remains in the original account.
+
+In reality the total amount of foreign income immediately before the transfer was £955,000. Flavia’s transfer exceeds the total amount of foreign income contained in the original account by £45,000.
+
+This error means that Flavia has breached one of the cleansing conditions – an amount of a kind of income or capital cannot exceed the amount of that kind which was in the mixed fund immediately before the transfer.
+
+Instead of successfully cleansing the original account Flavia has engaged the offshore transfer provisions (section 809R(4)), and has created 2 new mixed fund accounts, as well as the original account. She will need to apply the offshore transfer conditions to each account to work out the proportion of income, gains and clean capital each contains.
+
+Once she has done this, she can cleanse the accounts if she wishes to, so long as she is within the 2 year window

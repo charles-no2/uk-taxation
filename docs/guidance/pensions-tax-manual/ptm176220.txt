@@ -1,0 +1,240 @@
+Lump sum allowance and lump sum death benefit allowance: Primary protection: Lump sum protection in excess of £375,000
+Identifier: PTM176220
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176220
+Published: 2024-03-27T06:39:15+00:00
+Updated: 2026-06-24T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:51:30.031916+00:00
+
+If you are looking for information about protections, lifetime allowance and the lifetime allowance charge pre-April 2024 please see the National Archives. (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022829/https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm090000)
+
+Lump sum protection available for individuals with primary protection (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176220#lumpsumandPP)
+Protection of lump sums exceeding £375,000 with primary protection: pension commencement lump sums (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176220#PCLS)
+Protection of lump sums exceeding £375,000 with primary protection: stand-alone lump sums (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176220#SALS)
+Lump sum rights that exceed £375,000 and primary protection: notification and certificate (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176220#Notification)
+Scheme chargeable payments: unauthorised lump sum payments (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176220#unauthorised)
+
+Lump sum protection available for individuals with primary protection
+
+Individuals with primary protection and no separate lump sum protection have their lump sum allowance fixed at £375,000. However, the guidance on this page applies where the total value of an individual’s crystallised and uncrystallised lump sum rights on 5 April 2006 was more than £375,000.
+
+If, on 5 April 2006, an individual had total lump sum rights of £375,000 or less, and had (in any one pension scheme) uncrystallised lump sum rights exceeding more than 25% of their total uncrystallised rights in that seem then see PTM063130  (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063130)for more information around scheme-specific lump sum protection.
+
+In an exceptional case, if you should need to consult fuller guidance on valuing lump sum rights in this context, please see page RPSM03105000 in the Registered Pension Schemes Manual, on The National Archives (http://webarchive.nationalarchives.gov.uk/20140504142140/http:/www.hmrc.gov.uk/manuals/rpsmmanual/RPSM03105000.htm) website.
+
+Protection of lump sums exceeding £375,000 with primary protection: pension commencement lump sums
+
+Paragraph 28 Schedule 36 Finance Act 2004
+
+Individuals are able to take a pension commencement lump sum (see PTM063200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063200)) when they take some or all of their pension benefits.
+
+Pension commencement lump sums (PCLS) are not subject to income tax.
+
+Primary protection requires uncrystallised lump sum rights at 5 April 2006 to be valued, and uses that figure to modify the individual’s authorised pension commencement lump sum permitted maximum. Effectively this means that the starting point for an individual’s protection is the value of the rights on 5 April 2006 rather than the pension commencement lump sum normally permitted under paragraph 1 Schedule 29 Finance Act 2004.
+
+Where this form of lump sum protection applies it takes precedence over scheme-specific lump sum protection.
+
+Permitted maximum of the pension commencement lump sum
+
+The amount of the pension commencement lump sum is limited by the formula:
+
+A – B
+
+Where:
+
+- A is the value of the individual’s relevant uncrystallised lump sum rights on 5 April 2006 and multiplied by 1.2 (£1,800,000 divided by £1,500,000).
+
+- B is the adjusted aggregate of the amounts of each pension commencement lump sum which the individual had previously become entitled, or if not previously become entitled to a pension commencement lump sum it is nil.
+
+The adjusted aggregate is the aggregated amount multiplied by the following:
+
+£1,800,000 / C
+
+Where C is either:
+
+- If the individual became entitled to the PCLS before 6 April 2012, the standard lifetime allowance at that time, or
+
+- Otherwise, £1,800,000
+
+Example - no entitlement to a PCLS before 6 April 2012
+
+Poppy had lump sum rights on 5 April 2006 of £800,000. On 15 June 2018, Poppy received a PCLS of £40,000 from her pension scheme. On 30 September 2021, Poppy received a further PCLS of £50,000 from a different pension scheme.
+
+Poppy has available lump sum allowance.
+
+On 24 July 2024, Poppy received a PCLS of £100,000 from another pension scheme, this is a relevant benefit crystallisation event.
+
+The value of A must be determined.
+
+£800,000 x 1.2 = £960,000
+
+Poppy’s lump sum rights of 5 April 2006 had an adjusted value of £960,000.
+
+The value of B must be determined. Poppy was previously entitled to £40,000 and £50,000. She did not become entitled to a SALS or PCLS before 6 April 2012.
+
+£1,800,000 / £1,800,000 = 1
+
+(£40,000 + £50,000) x 1 = £90,000
+
+Poppy’s adjusted aggregate amount is £90,000.
+
+£960,000 - £90,000 = £870,000
+
+Poppy’s permitted PCLS maximum is £870,000.
+
+The relevant benefit crystallisation event then needs to be deducted from her permitted maximum.
+
+£870,000 - £100,000 = £770,000
+
+Poppy’s PCLS does not exceed her permitted maximum, therefore it is an authorised payment and she is not liable for an income tax charge.
+
+Example 2 - entitlement to a PCLS prior to 6 April 2012
+
+Derek made a notification of primary protection to HMRC.
+
+He had protected lump sum rights on 5 April 2006 of £500,000.
+
+On 12 July 2009, Derek received a PCLS of £25,000 from his pension scheme.
+
+Derek has available lump sum allowance.
+
+On 7 April 2024, Derek received a PCLS of £30,000 from another scheme, this is a relevant benefit crystallisation event.
+
+Derek’s PCLS permitted maximum needs to be calculated.
+
+The value of A must be determined. £500,000 x 1.2 = £600,000
+
+Derek’s lump sum rights of 5 April 2006 had an adjusted value of £600,000.
+
+The value of B must be determined.
+
+Derek was previously entitled to £25,000 before 6 April 2012.
+
+The standard lifetime allowance for the 2009-2010 tax year was £1,750,000.
+
+£1,800,000 / £1,750,000 = 1.02 £25,000 x 1.02 = £25,500
+
+Derek’s adjusted aggregate amount is £25,500.
+
+£600,000 - £25,500 = £575,000
+
+Derek’s permitted PCLS maximum is £575,000.
+
+The relevant benefit crystallisation event then needs to be deducted from his permitted maximum.
+
+£575,000 - £30,000 = £545,000
+
+Derek’s PCLS does not exceed the permitted maximum, therefore it is an authorised payment and he is not liable for an income tax charge.
+
+<from what?=""></from>
+
+<from what?=""></from>
+
+<from what?=""><from what?=""></from></from>
+
+Protection of lump sums exceeding £375,000 with primary protection: stand-alone lump sums
+
+Articles 25A to 25D The Taxation of Pensions Schemes (Transitional Provisions) Order 2006 – SI 2006/572
+
+Where certain conditions are met it is possible for all the member’s uncrystallised rights in a registered pension scheme to be paid as a lump sum. This is known as a stand-alone lump sum (SALS).
+
+The stand-alone lump sum must not exceed the stand-alone lump sum permitted maximum.
+
+Permitted maximum of the stand-alone lump sum
+
+The amount of the stand-alone lump sum is limited by the formula:
+
+A - B
+
+Where:
+
+- A is the value of the individual’s relevant uncrystallised lump sum rights on 5 April 2006, as multiplied by 1.2 (which is £1,800,000 divided by £1,500,000.)
+
+- B is the aggregate of the amounts of each pension commencement lump sum and each stand-alone lump sum to which the individual has previously become entitled. Or if the individual has not previously become entitled to either it is nil.
+
+Example - payment of a stand-alone lump sum to a member with primary protection and lump sum rights of more than £375,000
+
+Peter made a valid notification of primary protection to HMRC. His protected lump sum rights are £600,000, held across two pension schemes.
+
+On 11 June 2024 Peter takes a stand-alone lump sum (SALS) of £400,000, consisting of all his uncrystallised rights in the scheme. This is a relevant benefit crystallisation event.
+
+The maximum amount that can be paid as a SALS is calculated by ‘A – B’.
+
+The value of A must be determined.
+
+£600,000 x 1.2 = £720,000
+
+Peter’s protected lump sum rights on 5 April 2006 had a value of £720,000.
+
+The value of B must be determined. Peter had not previously been entitled to either a PCLS or SALS, therefore the aggregate of the amounts is nil and the value of B is nil.
+
+£720,000 - £0 = £720,000
+
+Peter’s SALS permitted maximum is £720,000.
+
+The relevant lump sum amount is then deducted from the permitted maximum.
+
+£720,000 - £400,000 = £320,000
+
+Peter’s SALS does not exceed the permitted maximum and he is not liable for an income tax charge.
+
+Example - Payment of a stand-alone lump sum and then a pension commencement lump sum
+
+Sally made a valid notification of primary protection to HMRC. Her protected lump sum rights are £700,000, held across two pension schemes.
+
+On 12 May 2024 Sally takes a SALS of £600,000 from one scheme consisting of all her uncrystallised rights in the scheme. This is a relevant benefit crystallisation event.
+
+SALS
+
+The maximum amount that can be paid as a SALS is calculated by ‘A – B’.
+
+The value of A must be determined.
+
+£700,000 x 1.2 = £840,000
+
+Sally’s protected lump sum rights on 5 April 2006 had an adjusted value of £840,000.
+
+The value of B must be determined. Sally had not previously been entitled to either a PCLS or SALS, therefore the aggregate of the amounts is nil and the value of B is nil.
+
+£840,000 - £0 = £840,000
+
+Sally’s SALS permitted maximum is £840,000
+
+The SALS relevant benefit crystallisation event amount is then deducted from the permitted maximum.
+
+£840,000 - £600,000 = £240,000
+
+Sally does not exceed the permitted maximum at the payment of her SALS and as such is not subject to income tax at the marginal rate.
+
+PCLS
+
+Sally is subsequently paid a PCLS of £30,000 on the 15 June 2024. This is a relevant benefit crystallisation event. Sally’s PCLS permitted maximum needs to be calculated.
+
+Sally has available lump sum allowance.
+
+The value of A must be determined.
+
+£700,000 x 1.2 = £840,000
+
+Sally’s protected lump sum rights on 5 April 2006 had a value of £840,000.
+
+The value of B must be determined. She has no previous entitlement to a PCLS. Therefore, the aggregate of the amounts is nil and the value of B is nil
+
+£840,000 - £0 = £840,000
+
+Sally’s permitted PCLS maximum is £840,000.
+
+The PCLS relevant benefit crystallisation event amount is then deducted from the permitted maximum.
+
+£840,000 - £30,000 = £810,000
+
+Sally’s PCLS does not exceed the permitted maximum, therefore it is an authorised payment and she is not liable for an income tax charge.
+
+Lump sum rights that exceed £375,000 and primary protection: notification and certificate
+
+Regulations 3 and 10 The Registered Pension Schemes (Enhanced Allowances) Regulations 2006 – SI 2006/131
+
+Individuals that notified HMRC of their intent to rely on primary protection for their pension rights can protect their lump sum rights valued at 5 April 2006 at more than £375,000 from the income tax charge.
+
+Those that notify HMRC and had a valid application for primary protection with protected lump sums in excess of £375,000, will have been issued a certificate to confirm the primary protection and the certificate will also show the amount of the protected lump sum expressed as a monetary amount.
+
+Where this form of lump sum protection applies it takes precedence over the scheme specific lump sum protection.

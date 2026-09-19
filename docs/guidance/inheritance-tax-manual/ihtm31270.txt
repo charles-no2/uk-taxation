@@ -1,0 +1,56 @@
+Assessing: COMPASS: other features: closing the record (case status)
+Identifier: IHTM31270
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31270
+Published: 2016-04-09T10:04:09+01:00
+Updated: 2017-01-18T15:58:20+00:00
+Retrieved (UTC): 2026-09-18T15:06:04.568576+00:00
+
+When you have completed your action on a case, all calculations are paid, and you have checked the SAGE (IHTM31895 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31895)) record, you can close your file.
+
+When you close the case, change the status on ALF to
+
+- O(Inst), where tax remains to be collected by instalments
+
+- Future case
+
+- Case closed
+
+the COMPASS status will automatically be amended within a few days. If there is unmatched money over de minimis limits on the accounting record, Nottingham Accounts Team will send you a transaction printout within 5 working days.
+
+Instalment cases
+
+The case status will remain open in O(S) cases, where there is money on deposit against future instalments. Service will change the status when the deposit is applied.
+
+Well known people
+
+If you decide, in consultation with the Secure Cases portfolio holder (IHTM03342 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm03342)), that the deceased was famous enough for the file to be of interest to The National Archive, set the case as ‘VIP’ on the Case Status window (accessed by clicking on File, Status).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31270#Top)
+
+Possible problems
+
+COMPASS will not change the status from Open if:
+
+- the ERS record is still open, or
+
+- there are Entries (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)) or assessment groups (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)) which have not been assessed.
+
+In each case, COMPASS will tell you that there are open events to be dealt with when you try to change the case status.
+
+If there are assessment groups that have not been assessed, for example because they are entirely exempt, you must raise nil calculations and then pay (IHTM31211 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31211)) them. You will then be able to amend the record status.
+
+Sometimes you may be asked if you want to continue to change the case status as there have been amendments since the last calculation was raised. In this case:
+
+- Indicate that you do not want to change the status.
+
+- Go back and check whether you need to raise further calculations.
+
+- If you are satisfied that you do not need further calculations, you can change the status, indicating that you want to carry on, despite the amendments.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31270#Top)
+
+Case closed
+
+Once the case is closed or set as a future case, you cannot input any amendments or raise any calculations. To do this you need to change the status back to Open. You can do this through the COMPASS windows, but the status will automatically return to the ALF position in a few days unless you change that too.
+
+Remember to return the case status to Closed or Future once the calculation is paid.

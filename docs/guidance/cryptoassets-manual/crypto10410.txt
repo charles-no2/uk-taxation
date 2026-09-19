@@ -1,0 +1,20 @@
+Introduction to cryptoassets: Cryptoasset Reporting Framework
+Identifier: CRYPTO10410
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto10410
+Published: 2025-11-10T08:12:45+00:00
+Updated: 2025-11-10T08:12:45+00:00
+Retrieved (UTC): 2026-09-18T16:18:27.197634+00:00
+
+From 01 January 2026, cryptoasset exchanges and other cryptoasset service providers are required to collect and record certain customer details. You can find detailed guidance on the CARF at IEIM800001 (https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/ieim800001). These details include the customer’s:
+
+- full name
+
+- address
+
+- country of tax residence (or countries if applicable)
+
+- tax identification number
+
+The required details vary based on whether the customer of the cryptoasset service provider is an individual or an entity. If a customer of a cryptoasset service provider is an entity (for example, a corporation), the cryptoasset service provider may also require details relating to the controlling persons of that entity.
+
+Detailed guidance on what information a customer of a cryptoasset service provider is required to provide can be found in the International Exchange of Information Manual from IEIM8000400 (https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/ieim8000400). A customer of a cryptoasset service provider is required to provide the relevant information when requested by a cryptoasset service provider. Failure to provide the required information to the cryptoasset service provider may result in a penalty.The cryptoasset service provider may also refuse to provide further services to the customer (IEIM8000600 (https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/ieim8000600)).

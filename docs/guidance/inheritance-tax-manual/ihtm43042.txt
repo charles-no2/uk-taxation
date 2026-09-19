@@ -1,0 +1,18 @@
+Domicile/long term residence: calculation where domicile/long term residence of first spouse or civil partner to die is outside the UK
+Identifier: IHTM43042
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43042
+Published: 2016-04-09T10:28:59+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:10:00.136633+00:00
+
+Every person, whether or not long-term UK resident (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)) or UK domiciled (IHTM13000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13000)), is entitled to the full nil rate band to be set against their estate that is subject to Inheritance Tax (IHT).
+
+The availability of transferable nil rate band (TNRB) (IHTM43000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43000)) from the estate of the first to die of a non long-term UK resident, or non-UK domiciled spouse or civil partner, is calculated only by reference to property that is potentially subject to an UK IHT charge. For a spouse or civil partner who was not a long-term UK resident on or after 6 April 2025, or non-domiciled before that date, VT (IHTM43020 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43020)) will be calculated only by reference to their estate in the UK. Assets held outside the UK, by a person not domiciled, or deemed domiciled in the UK (before  6 April 2025) or not a long-term UK resident (from 6 April 2025), regardless of the devolution of those assets, are not taken into account when calculating the available unused nil rate band.
+
+Thus, where the survivor dies in the UK and their spouse or civil partner, who held no UK assets, died domiciled abroad/not a long term UK resident leaving all their overseas assets to their children, none of the nil rate band was used on the first death. The personal representatives of the survivor may claim to transfer 100% of the nil rate band to the estate of the survivor.
+
+Example
+
+Abdul was domiciled abroad (before 6 April 2025). His only asset situated in the UK was a US dollar account containing US$250,000. He left this and the remainder of his estate to his son, Jamil who lives in the UK. After the death, his wife, Soroya, moved to the UK to live with Jamil and died as a long-term resident in the UK (on or after 6 April 2025).
+
+Abdul’s assets situated outside the UK are not liable to IHT. The US dollar account is left out of account (IHTM04380 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04380)) in determining Abdul’s estate at death. So, although the whole estate passed to Jamil, no property was chargeable to IHT, leaving the nil rate available for transfer in full on Soroya’s death.

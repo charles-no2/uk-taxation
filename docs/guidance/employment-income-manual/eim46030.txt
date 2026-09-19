@@ -1,0 +1,38 @@
+Section 554Z11B: earlier tax liability due but unpaid: identification of sums or assets P and Q
+Identifier: EIM46030
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim46030
+Published: 2017-10-02T16:00:59+01:00
+Updated: 2018-12-14T01:58:31+00:00
+Retrieved (UTC): 2026-09-18T14:23:38.746736+00:00
+
+ITEPA 2003 – sections 554Z11B
+
+As noted in EIM46025 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim46025), section 554Z11B details the circumstances which need to apply for relief to be given.
+
+Whereas section 554Z5 deals with paid liabilities or those which have not become due and payable, section 554Z11B requires that the earlier tax liability has become due and payable and is either wholly or partly unpaid at the time the relevant step is taken. Also the person liable for the tax will have not agreed terms with HMRC for the discharge of the liability.
+
+The charge to tax on the relevant step is again described as being on sum of money or asset “P”. The earlier tax liability is on sum or asset “Q”. It needs to be reasonable to conclude that P and Q are the same sum of money or asset or that P directly or indirectly represents Q. Both charges to tax are effectively on the same income.
+
+It may be that capital growth has been added to sum Q before the relevant step on sum P is taken. Due to section 554Z11B(4), the provisions detailed in section 554Z5 – other provisions (https://www.gov.uk/government/publications/tackling-disguised-remuneration-draft-guidance-for-changes-to-part-7a/tackling-disguised-remuneration-draft-guidance-for-changes-to-part-7a#Sec554Z5OP) in relation to the identification of the overlap between P and Q also apply where an amount of growth is included in a relevant step.
+
+Example 1
+
+Tax year |  Item |  Amount of item |  Sum |  Item charged under |  Tax charged |
+
+2008-2009 |  Contribution to EBT |  £100,000 |  Q |  Section 62 |  £40,000 |
+
+2014-2015 |  Loan made |  £50,000 |  P |  Part 7A |  £20,000 |
+
+The amount of the loan originates from the amount contributed to the EBT. It is therefore reasonable to conclude that the original contribution and the loan are the same sum of money.
+
+Example 2
+
+Tax year |  Item |  Amount of item |  Item charged under |  Tax charged |
+
+2011-2012 |  Loan made |  £100,000 |  Part 7A |  £50,000 |
+
+2012-2013 |  Loan made |  £100,000 |  Part 7A |  £50,000 |
+
+2018-2019 |  Loan charge |  £200,000 |  Loan charge provisions |  £90,000 |
+
+The 2011-2012 and 2012-2013 loans are still outstanding at 5 April 2019 so the FA 2017 loan charge provisions apply. It is reasonable to conclude that the 2018-2019 loan charge is on the same income as was charged under Part 7A in the earlier years.

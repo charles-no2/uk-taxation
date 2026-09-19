@@ -1,0 +1,50 @@
+Globally mobile employees: Overseas Workday Relief: pre-6 April 2025 tax years: How to determine the character of earnings
+Identifier: EIM43661
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim43661
+Published: 2026-01-12T14:28:15+00:00
+Updated: 2026-05-05T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:23:08.812951+00:00
+
+When an employee benefits from OWR for a pre-6 April 2025 tax year (see EIM43650 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim43650)), to determine when section 26 earnings are remitted to the UK, it is first necessary to determine the extent to which the employee’s earnings for that tax year relate to either UK or non-UK duties. This can normally only be done after the end of the tax year.
+
+Example (Part 1)
+
+Petra benefits from OWR for a tax year. Each month during this tax year she is paid salary of £10,000.
+
+70% of Petra’s total duties were performed in the UK and 30% were performed outside the UK. Therefore, it is likely to be just and reasonable to apportion her total general earnings of £120,000 on this basis. £84,000 of her general earnings for the year are section 15 earnings (£120,000 x 70%) and £36,000 of her general earnings for the year of are section 26 earnings (£120,000 x 30%).
+
+Once you have determined the character of the total earnings received in that tax year, it’s then necessary to determine the character of each individual payment of these earnings, to establish whether any payment of earnings into the UK by the employer resulted in a remittance of section 26 earnings. It’s also necessary to determine the character of any earnings paid into a mixed fund for the purposes of applying the mixed fund ordering rules (see EIM43655 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim43655)).
+
+Example (Part 2)
+
+Petra’s total general earnings were £120,000, made up of £84,000 section 15 earnings and £36,000 section 26 earnings.
+
+Apportioning her monthly salary proportionately on this basis, each £10,000 payment would be treated as made up of £7,000 section 15 earnings and £3,000 section 26 earnings.
+
+PAYE tax of £2,900 was deducted from the salary paid each month, together with Primary Class 1 NICs of £100. Petra’s net earnings of £7,000 were then paid into an overseas bank account, which she transferred £4,500 from each month immediately after her salary was paid.
+
+Treating the PAYE tax and Primary Class 1 NICs as made up of section 15 earnings and section 26 earnings in the same proportion as the total general earnings received in the tax year, this means that £900 of the PAYE and Primary Class 1 NICs would have been deducted from section 26 earnings (£3,000 x 30%) (see below for more details). The £7,000 payment into her offshore account would then be made up comprised of £4,900 section 15 earnings and £2,100 section 26 earnings.
+
+Petra would then need to apply the mixed fund rules to transfers out of her overseas account on this basis.
+
+Statute is silent on how the character of a particular payment of earnings is to be determined, so that it is necessary to consider relevant caselaw, in particular the decision in Sterling Trust v IRC (12 TC 868) (“Sterling Trust”). This decision underpinned HMRC’s approach set out in SP5/84 and SP1/09. These statements of practice were withdrawn following the introduction of the special mixed fund legislation at sections 809RA to 809RD of ITA 2007 in 2013/14, which broadly sought to put SP1/09 on a statutory footing.
+
+Sterling Trust confirmed that one is "entitled to assume and deem that [the payer] has paid the money that it ought to pay according to the most businesslike way of appropriating the revenue to the expenses". This allows a payer a broad of degree of discretion in terms of determining the source of any payment being made out of its accounts.
+
+Applying this to general earnings, Sterling Trust establishes that the employer, as the payer of the earnings, has a broad degree of discretion available as to how they can utilise the different elements in a fund as the source of a payment. The employer can therefore determine, with a degree of flexibility, what amounts make up the payment of earnings and what the PAYE withheld consists of.
+
+While it is of no direct benefit to an employer to utilise this discretion for the benefit of an employee, it is expected that there would generally be an indirect benefit in doing so, where there is no detriment to the employer. When calculating their income tax liability for a tax year, HMRC will accept the employee presuming that the employer has exercised this discretion in the manner which the employee consider provides them with the greatest benefit, so long as there is no detriment to the employer in doing so.
+
+There will generally be a broad degree of discretion available when determining the character of earnings paid by an employer, so long as this discretion is exercised reasonably. The approach taken, or deemed to have been taken by the employer would still have to take account of the legislation at section 41ZA ITEPA 2003 which provides that the extent to which general earnings are performed in respect of UK duties is to be determined on a just and reasonable basis.
+
+This means there may be a range of approaches which could be taken in a particular case which would be just and reasonable, each of which might result in a different amount of section 26 earnings being remitted to the UK.
+
+Example (Part 3)
+
+Instead of treating the amounts deducted and the payment into the overseas account as being made up of section 15 earnings and section 26 earnings in the same proportion as her total general earnings, Petra could instead treat both the PAYE tax and Primary Class 1 NICs as being deducted wholly from section 15 earnings.
+
+Of the £10,000 gross earnings received each month, which comprises £7,000 section 15 earnings and £3,000 section 26 earnings, £2,900 PAYE tax and £100 Primary Class 1 NICs would be deducted from section 15 earnings, this would mean the payment overseas would comprise of £4,000 section 15 earnings and £3,000 section 26 earnings.
+
+Petra would then need to apply the mixed fund rules to transfers out of her overseas account on this basis.
+
+Once the extent to which the character of general earnings received in a tax year has been determined, it is then necessary to determine whether there has been any remittance of the section 26 earnings.

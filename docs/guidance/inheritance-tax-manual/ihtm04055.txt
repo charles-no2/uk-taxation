@@ -1,0 +1,34 @@
+Lifetime transfers: loss to estate greater than the  value of property given
+Identifier: IHTM04055
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04055
+Published: 2016-03-20T09:15:46+00:00
+Updated: 2018-04-09T16:31:23+01:00
+Retrieved (UTC): 2026-09-18T14:52:28.731865+00:00
+
+The loss to the transferor’s estate (IHTM04054 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04054)) is more than the value of the property (IHTM04030 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04030)) given if
+
+- the transfer reduces the value of property retained by the transferor, or
+
+- the transferor pays the tax on the transfer and so what is known as grossing up (IHTM14593 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14593)) is necessary (this cannot apply to potentially exempt transfers (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)).
+
+Example 1
+
+Alice owns Blackacre, valued at £200,000, and gives a one half share to Jessica.
+
+The value of a one half share is usually less than an arithmetic half of the whole. If a one half share is valued at £90,000, the loss to Alice’s estate (the difference between the value of the whole and of the half retained) is £110,000 which is greater than the value of the one half share given.
+
+Example 2
+
+Bernard owns 60 shares in ABC Ltd. The issued capital of ABC Ltd is 100 shares so Bernard has control of the company. Bernard gives 20 shares to Frank.
+
+As the gift causes Bernard to lose control of the company, the loss to Bernard’s estate (the difference between the value of a controlling shareholding of 60 shares and a minority shareholding of 40 shares) is much greater than the value of 20 shares by themselves.
+
+Determining the loss to the estate is more complicated where
+
+- the loss does not depend only on property owned by the transferor, for example where there is other property, such as settled property, that forms part of the transferor’s estate, or there is related property, (IHTM09701 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09701)) or
+
+- where dividing the property into natural lots; or valuing two or more items of property as a single unit (see IHTM09701 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09701)), produces a higher value.
+
+Example 3
+
+Karen owns a one half share of Blackacre in her own name and is the life tenant of a qualifying interest in possession settlement which owns the other one half share. So the whole of Blackacre forms part of Karen’s estate. If Karen gives the one half share that she owns to Sally, the result is the same as example 1. The position is different if Karen had released her life interest (IHTM04093 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04093)) in favour of Sally.

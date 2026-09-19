@@ -1,0 +1,32 @@
+Other sums treated like premiums: payments to a person other than the landlord
+Identifier: PIM1218
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1218
+Published: 2016-04-10T16:23:34+01:00
+Updated: 2024-09-27T13:37:01+01:00
+Retrieved (UTC): 2026-09-18T14:27:55.331381+00:00
+
+Summary
+
+A landlord might arrange for a premium or similar payment to be made to someone other than themself. If this happens:
+
+-
+
+any person other than the landlord will be chargeable if they receive an actual premium, or a sum in commutation of rent or as consideration for the surrender of a lease, but
+
+-
+
+any person other than the landlord who receives a sum as consideration for the variation or waiver of any of the terms of a lease will be chargeable only if they are a person connected with the landlord. (So, for example, a payment by a tenant to a neighbour adversely affected by a change in the tenant's lease is not chargeable.)
+
+The receipt is charged as property income.
+
+Statute
+
+For IT cases the charges under ITTOIA05/S277, ITTOIA05/S279, ITTOIA05/S280 and ITTOIA05/S281 are on the person receiving the payment. The charge under ITTOIA05/S281 is restricted to the landlord or a person connected with the landlord by subsection (1) (b).
+
+For CT cases the charges under CTA09/S217, CTA09/S219, CTA09/S220 and CTA09/S221 are on the person receiving the payment. The charge under CTA09/S221 is restricted to the landlord or a company which is connected with the landlord by subsection (1) (b).
+
+The definition of “connected person” is the one in ITA07/S993 and CTA10/S1122.
+
+Chargeable amount
+
+The chargeable amount of the receipt is calculated in the same way as a premium etc. received by the landlord. It is then treated as if it were received in the course of a property business carried on by the recipient. If the recipient already has a property business, it is part of the same business, not a separate one, unless it is received in a different capacity such as trustee, personal representative, partner etc (see PIM1020 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1020)).

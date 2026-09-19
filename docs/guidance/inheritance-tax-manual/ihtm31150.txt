@@ -1,0 +1,30 @@
+Assessing: COMPASS: making amendments: dealing with deficits
+Identifier: IHTM31150
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31150
+Published: 2016-04-09T10:03:09+01:00
+Updated: 2022-01-31T09:47:25+00:00
+Retrieved (UTC): 2026-09-18T15:05:52.687985+00:00
+
+COMPASS will not automatically offset a deficit in one assessment group (IHTM31500 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31500)) to other assessment groups (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)). This is because there is no consistent way of dealing with them.
+
+When you amend the values in any assessment group that is in deficit, and it remains in deficit, COMPASS will set the net value of that assessment group to zero.
+
+COMPASS will not warn you that the group is in deficit until you try to raise a calculation. At that stage COMPASS will display the warning message ‘Warning: There is a negative assessment group: It will be set to zero’.
+
+NIOP only
+
+Where you have only NIOP and no other assessment groups in the entry (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)) against which to set the deficit, you do not need to do anything. The assessment group will aggregate with the other Entries correctly and, when a calculation is raised, will show no tax as due.
+
+NIOP and IOP
+
+Where there are two or more assessment groups at the entry that is in deficit, you must calculate the deficit manually and deduct it from the other assessment group(s) to ensure that it is correctly accounted for.
+
+COMPASS does not automatically offset the deficit against another assessment group. It is for you to make sure that the calculations reflect deficits at other assessment groups within that Entry.
+
+You should enter the deficit as a liability or creditor in the other assessment group - describe it as ‘deficit’.
+
+Finding the deficit
+
+You may be able to see the amount of the deficit calculated by COMPASS. Before you select ‘OK’ in the warning window (selecting OK changes the negative value to zero) move the window so that you can see the table of assessment groups in the ‘Calculation of Inheritance Tax’ window underneath.
+
+The deficit may be shown in this window. Unfortunately, if the assessment group you want is not shown, you cannot move around that table. In that case you will have to calculate the deficit yourself.

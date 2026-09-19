@@ -1,0 +1,72 @@
+Assessing: SAGE: the full transaction printout
+Identifier: IHTM31893
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31893
+Published: 2016-04-09T10:07:29+01:00
+Updated: 2022-01-31T11:41:06+00:00
+Retrieved (UTC): 2026-09-18T15:06:40.023663+00:00
+
+You can see the transaction report from SAGE with the COMPASS record.
+
+The transaction report lists all the information recorded on SAGE in chronological order. All transactions are shown together with details about how they have been matched. The following is a list of entries you are likely to see on the printout and a brief description of what they mean.
+
+- INV AN1/1ATX
+
+Calculation for tax (ANIOP-1/1)
+
+- INV AN1/1AIN
+
+Calculation for interest (ANIOP-1/1)
+
+- CSH 789235
+
+Receipt of money and reference number
+
+- CRN BN1/1ATX
+
+Withdrawn calculation for tax (BNIOP-1/1)
+
+- CRN BN1/1AIN
+
+Withdrawn calculation for interest (BNIOP-1/1)
+
+- CRN AN1/2RTX
+
+Repayment calculation for tax (ANIOP-1/2)
+
+- CRN AN1/2RIN
+
+Repayment calculation for interest (ANIOP-1/2)
+
+- CRN AN1/2RSP
+
+Repayment of interest supplement (ANIOP-1/1)
+
+- REF RPA123456
+
+Issue of payable order and warrant number
+
+- CRN AN1/2MT2
+
+Remission of tax
+
+- CRN AN1/2MI2
+
+Remission of interest
+
+- INV PENS
+
+Penalty
+
+- CRN DEPRSP
+
+Repayment of interest supplement from deposit
+
+- CSH RSO123456
+
+Repayment set-off
+
+- REF RSO123456
+
+Receipt of money set-off
+
+If any other type of transaction appears on the report and you need to know what it relates to then you should ask Accounts, Nottingham.

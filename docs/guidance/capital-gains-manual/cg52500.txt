@@ -1,0 +1,32 @@
+Company reconstructions: introduction
+Identifier: CG52500
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52500
+Published: 2016-03-12T11:26:23+00:00
+Updated: 2016-01-26T08:52:39+00:00
+Retrieved (UTC): 2026-09-18T14:42:37.073769+00:00
+
+This guidance deals with TCGA92/S135 to TCGA92/S139. These provisions are concerned primarily with share exchanges and company reconstructions. In general terms these are transactions in which one company takes over another company or the business of another company. However, because shares or debentures are issued to the original shareholders they retain an interest in the company or its business. From 1 December 2003 onwards, disposals of shares out of treasury are treated as issues of shares (see CG52521). From 17 April 2002, schemes of reconstruction include company partitions and certain other forms of corporate restructuring.
+
+The legislation is intended to ensure that there is no immediate charge to corporation tax on gains or Capital Gains Tax on either the Company or its shareholders on any disposal. TCGA92/S135 and TCGA92/S136 deal with the shareholders’ disposals of their shares. These are treated as though they were share reorganisations, see CG51700+. TCGA92/S139 deals with the company’s disposal of its assets and treats the disposal as giving rise to neither gain nor loss. All three sections are mandatory methods of computation. They are not reliefs which have to be claimed - they apply where the technical conditions are met but are subject to an anti-avoidance rule.
+
+These provisions apply to reconstructions involving membership interests in a company which has no share capital. Therefore the reliefs can apply where, for example, a members’ club (which is treated as a company for tax purposes) converts to a company limited by guarantee. Note that some national sports associations etc. provide guidance on tax and other matters to assist clubs considering becoming incorporated.
+
+In practice you are most likely to be concerned with the operation of TCGA92/S135. This normally involves share exchanges. Company B issues its own shares or debentures, or both, to the share or debenture holders (or to a class or classes of share or debenture holders) of another company, company A, in exchange for their shares or debentures. From 1 December 2003 onwards, disposals of shares out of treasury are treated as issues of shares (see CG52522).
+
+TCGA92/S136 and TCGA92/S139 deal with transactions in which the whole or part of the business of a company is transferred to another company as part of a scheme of reconstruction. Following the decision in R Fallon and CM Kersley (Executors of NC Morgan, deceased) v PJ Fellows (see TCR 16/01) new legislation was passed. TCGA92/Sch 5AA now defines a “scheme of reconstruction” for the purposes of S136 and S139. Sch 5AA applies to schemes where the shares or debentures or membership interests in question are issued on or after 17 April 2002 and is outlined at CG52700+. For schemes where the issue was made before 17 April 2002, the position is outlined at CG52730+.
+
+Where there is a scheme of reconstruction under Sch 5AA, the original company transfers the whole or part of its business to another company, the successor company, which issues shares to the shareholders in the original company. Section 136 will apply to the issue of shares to the shareholders in the original company. Section 139 will apply to the disposal of its business. These sections are also used to prevent capital gains charges arising on certain types of demerger.
+
+Example
+
+This example is based on a sports club but the same principles apply as with any other company.
+
+The Piltdown Cricket Club is an unincorporated association with playing and social members. It owns a ground with a clubhouse that has a bar which is let out for social events. It wishes to incorporate so a company limited by guarantee is created which issues membership rights to the Club members that correspond to their interests in the association. The property and the sporting and social activities are transferred to the company.
+
+- The members - TCGA92/S136 will apply so that they are treated as making no disposal. If a member disposes of his or her interest in the company then any capital gain will reflect the original base cost of membership of the unincorporated Club.
+
+- The Club - TCGA92/S139 will apply so no gain will arise on the disposal from the association to the company. When the company disposes of any of the assets the gain will be based on the original cost to the unincorporated Club.
+
+In practice, the rules of many such “clubs” will mean that gains will never arise because membership rights are not transferrable and the assets would pass to another body in the event of a winding up, but the conditions of TCGA92/S136 must be met in order for TCGA92/S139 to apply. That will usually be the more important relief in the case of such a club.
+
+Company reconstruction is a term of general usage. In law, a share exchange may be a scheme of reconstruction or amalgamation. However, a share exchange only has to satisfy the conditions in TCGA92/S135 (2) and does not necessarily have to be a scheme of reconstruction or reconstruction in general terms. By contrast, the basic condition for both TCGA92/S136 and TCGA92/S139 to apply is that there is a scheme of reconstruction as defined in Schedule 5AA TCGA 1992. In practice Capital Gains Technical Group will advise whether the arrangements form a scheme of reconstruction, if you are unsure.

@@ -1,0 +1,65 @@
+Reliefs: Incorporation relief: computation
+Identifier: CG65740
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65740
+Published: 2016-03-12T12:02:30+00:00
+Updated: 2026-08-25T14:14:31+01:00
+Retrieved (UTC): 2026-09-18T14:34:40.659300+00:00
+
+Computation (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65740#IDAFEKOC)
+Deduction from cost of shares (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65740#IDAAFKOC)
+Acquisition cost of the shares (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65740#IDA1FKOC)
+Examples (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65740#IDAPGKOC)
+
+Computation
+
+There are three stages in the computation of relief under section 162 (https://www.legislation.gov.uk/ukpga/1992/12/section/162).
+
+-
+
+The gains and losses arising on the transfer of chargeable assets to the company are computed in the normal way. Chargeable gains and allowable losses so computed are aggregated.
+
+-
+
+The proportion of aggregate net gains appropriate to the consideration in shares is established and is deducted from the cost to be allowed when the shares are disposed of. The amount deducted cannot exceed the cost of the shares, see below.
+
+-
+
+The balance of aggregate net gains, that is, the proportion of aggregate net gains attributable to consideration other than shares, is chargeable for the tax year in which the disposal of the assets took place.
+
+Where the transferor and transferee company are connected persons the market value rule will apply to the consideration to be taken into account for the disposal, see CG14560 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14560).
+
+If the value of shares or assets is in question, please refer the case to Shares and Assets Valuation (SAV).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65740#Top)
+
+Deduction from cost of shares
+
+The proportion of aggregate net gains attributable to the consideration received in the form of shares is deducted from the allowable acquisition costs of those shares. The charge on those gains is thus deferred until the shares are disposed of.
+
+section 162 (https://www.legislation.gov.uk/ukpga/1992/12/section/162) (4) instructs to multiply the aggregate net gains by the fraction, A divided by B, in computing the amount attributable to the consideration in shares where:
+
+-
+
+`A' is the cost of the shares and
+
+-
+
+`B' is the value of the whole consideration received by the transferor in exchange for the business.
+
+If more than one class of share is involved, the amount deductible is apportioned between the shares on the basis of the relative market values of the shares at the time of acquisition.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65740#Top)
+
+Acquisition cost of the shares
+
+The cost of the shares to the transferor is the value of what was initially given for them,that is, the net value of the business transferred. Broadly speaking, the net value of the business is the difference between the value of its assets and liabilities.
+
+Extra Statutory Concession D32 (ESCD32), see CG65745 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65745), does not apply to the computation of the net cost of the shares.
+
+The amount held over cannot exceed the cost of the shares, section 162 (https://www.legislation.gov.uk/ukpga/1992/12/section/162)(4). If assets do not (or only barely) exceed liabilities, the base cost of the shares will be nil or a negligible amount. The amount of relief under section 162 (https://www.legislation.gov.uk/ukpga/1992/12/section/162) will therefore be restricted, see CG65765 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65765).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65740#Top)
+
+Examples
+
+The examples at CG65750 to CG65765 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65700c) illustrate how relief under section 162 (https://www.legislation.gov.uk/ukpga/1992/12/section/162) should be computed. For convenience, they are all based on a transfer of a business to a company where the assets transferred were acquired after 31 March 1982.

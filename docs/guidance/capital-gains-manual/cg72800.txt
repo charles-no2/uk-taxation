@@ -1,0 +1,54 @@
+Land: disposals: consideration due after date of disposal
+Identifier: CG72800
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg72800
+Published: 2016-03-12T12:22:33+00:00
+Updated: 2020-10-22T12:05:39+01:00
+Retrieved (UTC): 2026-09-18T14:35:34.599288+00:00
+
+-
+
+Introduction
+
+This section covers disposals of land where some or all of the sale proceeds are not received immediately. It covers all cases in which further receipts in the future are a possibility. It is not limited to cases in which the future receipts are certain to be received.
+
+The tax treatment depends on the nature of the future receipts. In particular, it depends on whether the future receipts are ‘ascertainable’ or ‘unascertainable’ at the date of disposal. For an explanation of these terms, see CG14881 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14881).
+
+It will usually be necessary to read the contract for the sale of the land to establish the precise nature of the future receipts. The contract will often have a section titled ‘consideration’ which will set out the relevant details. However, many contracts will not be this straightforward, and details of the future receipts may be contained in a later section of the contract. It is necessary to carefully review the main sale and purchase clauses and the definitions section, and to review the whole contract to ensure that it has been correctly analysed.
+
+Valuable consideration can take many forms and may well include things which are not specifically expressed to be, or described as, consideration.
+
+In the case of a sale and leaseback (or lease and leaseback) the transaction should be considered as a single part disposal rather than two transactions, see CG70774, so you should review both contracts for details of any deferred consideration.
+
+-
+
+Ascertainable deferred consideration
+
+The amounts of the future receipts are ascertainable if they are:-
+
+- known; or
+
+- ascertainable by calculation; or
+
+- ascertainable by making up an account and all of the events which establish the amount of the future receipts have occurred by the date of the disposal.
+
+If the deferred consideration is ascertainable, the case should be dealt with in accordance with CG14881 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14881).
+
+If the deferred consideration is unascertainable, see CG72850 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg72850).
+
+-
+
+Proceeds lent back to purchaser
+
+If the whole or part of the proceeds of the sale are lent by the vendor to the purchaser there have been two separate transactions:-
+
+- a sale of the asset by the vendor to the purchaser with full consideration paid; and
+
+- a grant of a loan by the vendor to the purchaser.
+
+This applies even though the full amount of the purchase price and the amount of the loan have not physically changed hands. This was confirmed by the Courts in Coren v Keighley, 48TC370, where it was held that where two cross-demands for money immediately payable are honestly set off against each other, each set-off constitutes payment in cash.
+
+In the above circumstances, the vendor has received full consideration for the asset. It is not appropriate to allow payment of the tax by instalments.
+
+If it is contended that the full sale proceeds were not received, you will need to examine all of the relevant documents. These should include the conveyance and the mortgage deed or legal charge. These documents will confirm whether there were two separate transactions.
+
+The chargeable gain or allowable loss on the sale of the land will not be affected by any payment or default in payment on the loan, unless ESC/D18 applies, see CG72830 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg72830).

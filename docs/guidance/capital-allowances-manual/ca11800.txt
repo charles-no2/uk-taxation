@@ -1,0 +1,74 @@
+General: Definitions: When capital expenditure is incurred
+Identifier: CA11800
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11800
+Published: 2016-04-16T08:41:57+01:00
+Updated: 2019-07-17T17:51:54+01:00
+Retrieved (UTC): 2026-09-18T16:20:26.013375+00:00
+
+CAA01/S5
+
+The normal rule is that expenditure is incurred on the date on which the obligation to pay becomes unconditional.
+
+A person buying goods is legally required to pay for them on delivery unless there is a special agreement as to terms of payment. If the buyer is legally required to pay on delivery the obligation to pay becomes unconditional when the goods are delivered.
+
+If goods are sold subject to reservation of title (a Romalpa contract, see CA11700 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11700)) the obligation to pay becomes unconditional when the goods are delivered. The supplier has then fulfilled his or her part of the contract. This means that the buyer incurs capital expenditure as soon as the goods are delivered.
+
+The date on which the obligation to pay for an asset becomes unconditional and the date on which the purchaser is legally required to pay for that asset may not be the same. For example, the sales agreement may require payment to be made within four weeks of delivery. If so the obligation to pay becomes unconditional on delivery but the purchaser is not legally required to pay until four weeks after delivery.
+
+There is an exception to the general rule. If there is a gap of more than four months between the dates on which the obligation to pay becomes unconditional and the date on which payment is required to be made the expenditure is not incurred until the date on which payment is required to be made.
+
+Example 1
+
+Bob buys a car for £15,000. Under the contract he has to pay £12,000 when he takes delivery of the car and £3,000 one month later. Bob takes delivery of the car on 24 May. His obligation to pay for the car becomes unconditional on 24 May. He is legally required to pay for the car in two instalments - £12,000 on 24 May and £3,000 on 24 June. Both payments are required to be made four months or less after the date on which the obligation to pay becomes unconditional. Bob therefore incurs expenditure of £15,000 on 24 May when he takes delivery of the car and his obligation to pay becomes unconditional.
+
+Suppose that Bob buys the car for £15,000 from his brother. Under the contract he does not have to pay for the car until he has had it for six months. He takes delivery of the car on 24 May and his obligation to pay for the car becomes unconditional then. He is not legally required to pay for the car until 24 November, which is more than four months after the date on which his obligation to pay for the car becomes unconditional. He does not incur his expenditure of £15,000 on the car until 24 November, the date on which he is legally required to pay for it.
+
+If some of the expenditure is required to be paid more than four months after the date on which the obligation to pay becomes unconditional and some is not, split the expenditure. The part of the expenditure which is required to be paid four months or less after the date on which the obligation to pay becomes unconditional is incurred on the date on which the obligation to pay becomes unconditional. The rest is incurred on the date on which payment is required to be made.
+
+Example 2
+
+As in Example 1 above, Bob buys a car for £15,000. Under the terms of the contract he has to pay £12,000 one month after delivery of the car and the balance of £3,000 five months after that. He takes delivery of the car on 24 May and his obligation to pay becomes unconditional then. He is legally required to pay:
+
+- £12,000 on 24 June, and
+
+- £3,000 on 24 November.
+
+The first payment is due four months or less after his obligation to pay becomes unconditional but the second one is not. He incurs expenditure of £12,000 on 24 May and £3,000 on 24 November.
+
+A milestone contract is a contract that satisfies the following conditions:
+
+- The asset which is being constructed under the contract becomes the property of the purchaser as it is being constructed;
+
+- Payment becomes due as and when agreed stages of the work (”milestones”) are satisfactorily completed.
+
+Milestone contracts are often found where there is a large-scale construction project for buildings or for major items of machinery or plant such as oil pipelines. In a milestone contract the obligation to pay normally becomes unconditional when an architect or engineer who has inspected the work done issues a certificate.
+
+In a milestone contract, the asset becomes the property of the purchaser as it is being constructed. The obligation to pay for a part of the asset that has been completed becomes unconditional when the work is certified.
+
+If the part of the asset, which has been completed, becomes the property of the purchaser before the end of the chargeable period and the work is certified before that accounting date the normal rules about when expenditure is incurred apply. This means that the expenditure is incurred when the work is certified. If the part of the asset which has been completed becomes the property of the purchaser before his accounting date and the work is certified within one month of that accounting date the expenditure which is certified is treated as incurred on the accounting date. If the part of the asset, which has been completed, becomes the property of the purchaser before his accounting date but the work is not certified until more than one month after that accounting date this special rule does not apply. The expenditure is incurred when the work is certified.
+
+There are anti avoidance provisions. They apply where both the following conditions are satisfied:
+
+- The obligation to pay an amount of expenditure under an agreement becomes unconditional at an earlier date than would be the case in a normal commercial contract.
+
+- The sole or main benefit that might be expected to be obtained from A is that the expenditure would be treated as incurred in an earlier chargeable period or basis period.
+
+The legislation applies to both initial and supplementary agreements. In deciding whether a contract is a normal commercial contract you should find out what the normal practice is for making contracts for the type of asset concerned and compare it with that.
+
+Where the above conditions are satisfied the general rule does not apply. The expenditure is treated as incurred on the date when payment is required to be made.
+
+Example 3
+
+Brian draws up his accounts to 31 July. On 4 July 2018 he orders a sloop for delivery on 15 August. Normally payment would be due on delivery and so the expenditure would not be incurred until 15 August 2018. The expenditure would be incurred in Brian’s accounts year ended 31 July 2019. However, Brian makes an agreement with the supplier under which payment is due in full (and so the obligation to pay becomes unconditional) when the order is placed but the supplier allows a credit period of six weeks. This means that if the normal rules applied the expenditure would be incurred on 4 July 2018, which is in Brian’s accounts year ended 31 July 2018. If the anti-avoidance legislation is applied the expenditure is incurred on 15 August 2018, in the accounts year ended 31 July 2019.
+
+You should only consider applying the anti avoidance provisions if the amounts involved are substantial. You should consult BAI (Technical) before you attempt to apply them. In your submission you should state the reasons given by the taxpayer for entering into the contract within rather than a normal commercial contract.
+
+A contract may let the purchaser retain part of the purchase price (a retention) until certain conditions are satisfied. The obligation to pay the part of the purchase price that is retained does not become unconditional until the condition that gave rise to the retention is satisfied.
+
+The rules about when expenditure is incurred do not apply to the following:
+
+- expenditure incurred before a trade begins (know how, machinery and plant, MEA, patents). Expenditure incurred before a trade begins is treated as incurred on the first day of trading.
+
+- expenditure still to be incurred under a hire purchase etc contract at the time when the asset is brought into use. Expenditure still to be incurred under a hire purchase etc contract at the time when the asset is brought into use is treated as incurred on the date on which the asset is brought into use.
+
+- an additional VAT liability or rebate. An additional VAT liability is incurred and an additional VAT rebate arises on the last day of the relevant VAT interval.

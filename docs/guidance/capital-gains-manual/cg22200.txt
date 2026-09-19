@@ -1,0 +1,156 @@
+Transfer of assets: between spouses or between civil partners living together
+Identifier: CG22200
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg22200
+Published: 2016-03-12T10:22:58+00:00
+Updated: 2024-10-07T09:20:30+01:00
+Retrieved (UTC): 2026-09-18T14:30:45.959340+00:00
+
+With certain exceptions any transfer of an asset between spouses or between civil partners who are living together is treated by TCGA92/S58 as taking place for such consideration as will give neither a gain nor a loss to the transferor.
+
+These exceptions include where the transferred as was:
+
+· part of the trading stock of the spouse or civil partner making the transfer; or
+
+· acquired as trading stock for a trade carried on by the transferee spouse or transferee civil partner; or
+
+· disposed of by way of donation mortis causa (see CG30400 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg30400))
+
+· comprised of exempt employee shareholder shares (see CG56740 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56740) and CG56715 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56715))
+
+Part disposals
+
+TCGA92/S58 also applies to part disposals of assets between spouses or between civil partners in the same way as to any other transfer.
+
+You will usually need two valuations. A valuation of the
+
+· part disposed of at the date of transfer
+
+and of the
+
+· part retained at the same date.
+
+You may also need a valuation of the whole asset at 31 March 1982, see CG12735 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12735).
+
+In some cases the practice explained at CG12730 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12730) can be applied and the valuations will not be needed.
+
+Series of transactions
+
+TCGA92/S19 contains special rules to determine the consideration on the disposal of an asset between connected persons when
+
+· that disposal is part of a series of such transactions and
+
+· the assets together are worth more than they are separately.
+
+How to recognise and deal with such a series of transactions is explained at CG14650 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14650)+.
+
+TCGA92/S19(2) makes it clear that TCGA92/S58 takes priority over S19, so a transfer between spouses or between civil partners within S58 will give rise to neither a gain nor a loss even if it is part of a series of transactions between connected persons, see CG14710 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14710).
+
+But you should still take account of a disposal between spouses or between civil partners in deciding whether there has been a series of transactions and what the deemed consideration should be on the other transactions in the series
+
+More than one transfer
+
+TCGA92/S58 can apply through several transfers between spouses or between civil partners even if the asset is eventually transferred to a spouse or to a civil partner who was not one of the original married couple or not one of the civil partners within the original civil partnership, and has never been married to or a civil partner of either of them. This is because you only need to consider the circumstances at the date of each transfer.
+
+For example, B is married to and living with C. B transfers an asset to C and S58 applies. They divorce and C marries and lives with D. C transfers the same asset on to D and S58 again applies.
+
+C and D subsequently divorce, and D enters into a civil partnership with and lives with E. D transfers the same asset on to E and once again S58 applies. E sells it and his gain is computed on the basis that the cost of the asset is the deemed consideration paid to D on transfer.
+
+Example
+
+Mrs C bought an asset for £25,000 in June 2003. In May 2012 she disposed of part of that asset to her spouse Ms D.
+
+The following valuations have been agreed
+
+- value of part disposed of at May 2012 @60,000
+
+- value of part retained at May 2012 @40,000.
+
+The deemed consideration on the disposal, and so the cost to Ms D, is
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£
+
+|
+
+£25,000
+
+|
+
+x
+
+|
+
+£60,000
+
+|
+
+15,000
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£60,000 + £40,000
+
+|
+
+-
+
+|
+
+Deemed consideration
+
+|
+
+-
+
+|
+
+-
+
+|
+
+15,000
+
+|
+
+Year of separation
+
+Where the disposal occurs on or after 6 April 2023
+
+TCGA92/S58 applies to a disposal in any year of assessment if spouses or civil partners are living together in that year of assessment. There is no requirement that they should be living together throughout that year. If the couple are living together at some time in a year of assessment assets can be transferred between them at any time in that year of assessment at no gain or loss.
+
+An asset can be transferred between them at no gain or loss even when they have permanently separated provided that they have been living together at some time in that year of assessment.
+
+For disposals taking place on or after 6 April 2023 following separation of spouses or civil partners, transfers at no gain or loss can be made between them up to the earlier of the end of the third tax year after that in which those spouses or civil partners cease to live together, or the date on which a court grants a divorce, or a dissolution of the civil partnership.
+
+Transfers of assets between separated spouses or civil partners that are in accordance with a formal divorce or a separation agreement or a court order can be made at no gain or loss without being subject to [MJP(BA&I1] (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg22200#_msocom_1) the above three-year rule.
+
+For disposals taking place before 6 April 2023, where spouses or civil partners separate during a year of assessment, transfers at no gain/no loss can be made between them for the remainder of that year.
+
+Consideration and acquisition
+
+Where the no gain/no loss treatment applies the actual consideration given on a transfer is ignored, so it does not matter if the asset is gifted or sold by one spouse to the other or by one civil partner to the other.
+
+The date of acquisition of the transferee is the date of disposal of the transferor. Similarly, the cost of acquisition is the deemed consideration on the disposal by the transferor, see CG17400 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17400)+.
+
+But if the transferor held the asset at 31 March 1982 and the transferee disposes of that asset on or after 6 April 1988, the transferee is deemed, for rebasing purposes, to have held the asset at 31 March 1982. See CG16880 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16880)+.
+
+If an asset which has been transferred at no gain or  loss is subsequently disposed of, special rules apply to restrict the extent to which indexation allowance can create or increase a loss, see CG17730 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17730)+.

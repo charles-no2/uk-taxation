@@ -1,0 +1,58 @@
+Depreciatory transactions: material reduction in value
+Identifier: CG46550
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46550
+Published: 2019-06-19T12:41:56+01:00
+Updated: 2019-06-19T12:41:50+01:00
+Retrieved (UTC): 2026-09-18T14:41:44.302573+00:00
+
+HMRC do not consider that the word materially' implies a percentage de minimis threshold but that the term materially reduced’ simply means that the value of the shares or securities is reduced other than by a negligible amount.
+
+Looking at a disposal of shares in a wholly owned subsidiary, the value of the shares in the subsidiary reflects the net value of the assets held by the subsidiary. Any transaction which takes value out of the subsidiary without replacing it with equivalent or greater value is accordingly a transaction reducing the value of the shares in the subsidiary. Any dividend paid by a subsidiary to its immediate parent reduces the value of the parent’s shares in the subsidiary, since a dividend is a transaction which takes value out of the dividend paying company with no consideration passing to that company.
+
+Apart from dividends, the most common type of depreciatory transaction is the disposal of an asset by one group member to another at other than market value. Whether the intra-group disposal of an asset at undervalue reduces the value of shares or securities which are subsequently disposed of at a loss is a question of fact. You will need to establish the precise structure of the group concerned before you attempt to analyse the effect of the disposal at undervalue in relation to the ultimate disposal of shares or securities.
+
+EXAMPLE 1 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46550#IDAQC4PH)
+
+EXAMPLE 2 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46550#IDADD4PH)
+
+EXAMPLE 3 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46550#IDALD4PH)
+
+EXAMPLE 4 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46550#IDATD4PH)
+
+EXAMPLE 1
+
+Examples 1 - 4 are all in terms of the following group structure. Each company is a wholly owned subsidiary of its immediate parent.
+
+Use this link to view example 1 (http://www.hmrc.gov.uk/gds/cg/images/46550.gif)
+
+C disposes of an asset at less than market value to D. This does not reduce the value of C’s assets. The reason is that the value of C’s shares in D increases by the same amount as the reduction in value of C’s other assets. The disposal from C to D is not a depreciatory transaction in relation to a disposal of C by B, or of B by A.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46550#Top)
+
+EXAMPLE 2
+
+C disposes of an asset at less than market value to F. This reduces the value of B’s shares in C. The disposal does not reduce the value of A’s shares in B, because the reduction in value of B’s shares in C is matched by a corresponding increase in the value of B’s shares in F. The disposal from C to F is a depreciatory transaction in relation to a disposal of C by B, but not in relation to a disposal of B by A.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46550#Top)
+
+EXAMPLE 3
+
+D disposes of an asset to E at less than market value. This reduces the value of C’s shares in D, of B’s shares in C, and of A’s shares in B. The disposal by D to E is a depreciatory transaction in relation to a disposal of D by C, of C by B, or of B by A.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46550#Top)
+
+EXAMPLE 4
+
+In year 1, G disposes of an asset at less than market value to E. In year 2, A disposes of E to G at E’s current market value. In year 3, C disposes of G at a loss.
+
+The year 1 disposal from G to E reduces the value of C’s shares in G with a corresponding increase in the value of A’s shares in E. The year 2 disposal of E from A to G at market value does not reduce or increase the value of C’s shares in G. The year 1 disposal from G to E is accordingly a depreciatory transaction in relation to C’s year 3 disposal of G. This is the result even though C’s disposal of G is an indirect disposal of E, the shares in which increased in value at the time of the depreciatory transaction.
+
+Focus is on the time of the transaction
+
+Whether a transaction reduces the value of shares or securities depends solely on their value at the time the transaction takes place. The value of the shares or securities at the time of acquisition is not a relevant factor.
+
+EXAMPLE
+
+Parent company P subscribes £1M for shares in a newly incorporated subsidiary S which uses the funds to acquire an asset. Later on when the asset is worth £5M S disposes of the asset to another group company for £3M. Following the intra-group asset transfer P has an accrued commercial profit in respect of its shares in S £2M. P acquired the shares in S for £1M and they are now worth £3M, which is the amount of the sale proceeds to which S is entitled. If P subsequently disposes of S at a loss the Inspector should seek a loss restriction on the basis that the intra-group asset transfer was depreciatory to the extent of £2M For TCGA92/S176 to apply it is not necessary for the depreciatory transaction to reduce the net asset value of S below the level at the time P acquired the shares in S.
+
+Note that should S have chosen to distribute the £2m profit it made on the disposal to P then that would not lead to a further adjustment. In the example the profit is clearly post-acquisition.

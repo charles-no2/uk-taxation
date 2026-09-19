@@ -1,0 +1,70 @@
+The benefits code: whether or not an employment has earnings  of less than £8,500 a year: example
+Identifier: EIM20105
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim20105
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-01-11T17:28:07+00:00
+Retrieved (UTC): 2026-09-18T14:19:49.571946+00:00
+
+Section 218 ITEPA 2003
+
+This section only applies for 2015/16 and earlier.
+
+EIM20101 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim20101) explains how to calculate whether an employment is a lower-paid employment (EIM20007 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim20007)). The following example illustrates this calculation.
+
+Example
+
+In 2003/04 an employee was provided by his employer with:
+
+- a salary of £3,200 (net of superannuation contributions) and
+
+- a 1400 cc company car with CO2 emissions of 183g/km, which cost £15,000 and is available for private use, and
+
+- fuel for the car.
+
+The employer paid the Road Fund Licence and insurance totalling £500 and service bills amounting to £400 in the year.
+
+Following a minor accident, the car needed an exceptional repair whilst out on the road costing £450. The employee paid for this and was later reimbursed by his employer.
+
+The rate of remuneration is calculated as follows:
+
+Provision |  Amount |
+
+Net salary |  £3,200 |
+
+Car benefit |  £2,700 |
+
+Car fuel scale charge |  £2,240 |
+
+Exceptional repair expenditure |  £450 |
+
+Total remuneration |  £8,590 |
+
+The employment is not a lower-paid employment because remuneration is more than £8,500. Consequently the full benefits code (EIM20007 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim20007)) applies to the employment.
+
+Note that the amounts paid for the Road Fund Licence, insurance and servicing are not brought into the calculation because the employer pays for them direct.
+
+The calculation only shows whether this employment is excluded from the full benefits code. Having established that it is not excluded, the earnings chargeable to tax are:
+
+Provision |  Amount |
+
+Salary |  £3,200 |
+
+Car benefit |  £2,700 |
+
+Car fuel scale charge |  £2,240 |
+
+Total chargeable earnings |  £8,140 |
+
+Extra Statutory Concession A104 superseded by Section 62 FA2007
+
+In the calculation of an employee’s total earnings for the purposes of deciding whether the employment is a lower-paid employment, until 5 April 2007 Section 219(6) ITEPA 2003 determined that an amount treated as earnings for a payment by voucher or credit card, should be included in the calculation, even if this amount was exempt under Sections 239 or 269 ITEPA 2003 from a charge to tax.
+
+This could result in a payment by voucher or credit card, in relation to a taxable car or fuel, being included separately in the calculation, even though it was not taxed separately because of the car or car fuel benefit and the exemptions in Sections 239 or 269.
+
+Before 6 April 2007 ESC A104 ensured that the this “double counting” should not occur in respect of expenditure incurred by voucher or credit card, in the calculation of the employee’s earnings relative to the £8,500 threshold.
+
+The full text of the concession was as follows –
+
+“Where car or car fuel benefits are provided to employees via a credit card or a voucher chargeable under Chapter 4 of Part 3 of ITEPA 2003, then in computing the total amount of earnings from an employment for the purpose of deciding whether it is a “lower paid” employment under Chapter 11 of Part 3 ITEPA, no account shall be taken of an amount of earnings within Chapter 4 of Part 3 where they would be excluded from charge to tax by virtue of Section 239 or 269 ITEPA.”
+
+With effect for 2007/08 onwards, ESCA104 was superseded by Section 62 Finance Act 2007 which abolished the rules (s219(5) and (6)) which provided for this double counting in the specific circumstances outlined above.

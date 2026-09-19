@@ -1,0 +1,52 @@
+General: Avoidance: Balancing allowance creation
+Identifier: CA17000
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca17000
+Published: 2016-04-16T08:43:09+01:00
+Updated: 2019-08-19T18:16:45+01:00
+Retrieved (UTC): 2026-09-18T16:19:59.889688+00:00
+
+CAA01/S570A
+
+Background
+
+When the allowances on an asset are calculated separately there is a balancing adjustment whenever there is a balancing event. The allowances where this happens are MEA and BPRA.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca17000#Top)
+
+Anti-avoidance
+
+Before 27 November 2002, schemes were devised to create or increase a balancing allowance by artificially reducing the value of the relevant interest in a building or unrelieved qualifying expenditure on a MEA asset before it was sold etc. so that the balancing event would give rise to a balancing allowance. For example, a company that owned an industrial building would use the building as security for a loan by giving the lender a charge on the property. It would then sell the property to a connected company with the charge still there. The charge would reduce the value of the relevant interest to a nominal amount. The company could then claim a balancing allowance equal to the qualifying expenditure not yet written off.
+
+Legislation was introduced in FA03 to prevent this. The legislation is in CAA01/S570A. It applies to MEA and BPRA.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca17000#Top)
+
+Commencement
+
+The legislation applies to all balancing events occurring on or after 27 November 2002 apart from events that occur in pursuance of a contract entered into before 27 November 2002. This exception does not apply to events that occur in pursuance of the exercise on or after 27 November 2002 of an option, right of pre-emption or similar right. The legislation applies to them.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca17000#Top)
+
+Legislation
+
+The legislation applies where:
+
+- there is a balancing event that gives rise to a balancing allowance, and
+
+- the proceeds from the balancing event are less than they would otherwise have been as a result of a tax avoidance scheme.
+
+If so, you should not make the balancing allowance.
+
+A tax avoidance scheme is a scheme or arrangement the main purpose, or one of the main purposes, of which is the obtaining of a tax advantage by the taxpayer. A tax advantage is:
+
+- the obtaining of an allowance or a higher allowance, or
+
+- the avoidance of a charge or the securing of a reduction in a charge
+
+When you apply the legislation calculate the residue of expenditure immediately after the balancing event as if the balancing allowance had been made
+
+Example
+
+Cass and Jack are connected. Cass owns an industrial building. In January 2007 she agrees to sell it to Jack when the residue of expenditure is £1 million. Before she does so she takes out a loan of £1 million and uses the building as security. Jack buys the building in January 2007 for £1,000, its market value because the secured loan means that the building could be sold from under him without his say so, if Cass were to default on the loan to the third party. Cass claims a balancing allowance of £999,000. The legislation in CAA01/S570A stops Cass obtaining the balancing allowance but Jack’s residue of qualifying expenditure is calculated as if the balancing allowance had been made. This means that Jack’s residue of qualifying expenditure is £1,000.
+
+When you apply the legislation to MEA you should treat the disposal value as the proceeds from the balancing event and the unrelieved qualifying expenditure as the residue of qualifying expenditure.

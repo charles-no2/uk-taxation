@@ -1,0 +1,36 @@
+Plant and Machinery Allowance (PMA): First Year Allowance (FYA): Super-Deduction and Special Rate (SR) Allowance: Reduced super-deduction
+Identifier: CA23168
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23168
+Published: 2021-11-10T17:58:32+00:00
+Updated: 2021-11-10T17:58:31+00:00
+Retrieved (UTC): 2026-09-18T16:21:45.554891+00:00
+
+FA21/S11
+
+FA21/S11 provides for a reduced super-deduction of less than 130% to be available in certain circumstances.
+
+Reduced Super-Deduction for Chargeable Periods Ending on or after 1 April 2023
+
+Where super-deduction expenditure is incurred in a chargeable period ending on or after 1 April 2023, the 130% super-deduction is substituted by the ‘relevant percentage’.
+
+The Relevant Percentage
+
+To calculate the relevant percentage:
+
+- Divide the number of days in the relevant period before 1 April 2023 by the total number of days in that period.
+
+- Multiply the result by 30.
+
+- Add 100 to the result.
+
+Example
+
+Bravo Ltd has a calendar year accounting period ending 31 December 2023. On 1 February 2023, Bravo Ltd incurs super-deduction expenditure of £1,000. Because the chargeable period ends after 1 April 2023, Bravo Ltd is entitled to claim a super-deduction at the relevant percentage rather than 130%.
+
+The number of days in the relevant period before 1 April 2023 is 90. The total number of days in the period is 365. The calculation for the relevant percentage for Bravo Ltd is 30 × (90 days ÷ 365 days) + 100.
+
+Therefore, Bravo Ltd is entitled to a super-deduction of £1,074.
+
+Additional VAT Liabilities Regarded as Super-Deduction Expenditure in Chargeable Periods Ending on or After 1 April 2023
+
+There is existing guidance on additional VAT liabilities at CA29230 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca29230). Where an additional VAT liability arises under CAA01/S236(2) and that additional VAT liability is super-deduction expenditure FA21/S11(4) determines the rate of reduced super-deduction which applies for the additional VAT liability in a chargeable period that ends on or after 1 April 2023. Where the additional VAT liability is incurred before 1 April 2023, the reduced super-deduction is the relevant percentage as calculated above. Where the additional VAT liability arises on or after 1 April 2023, the reduced super-deduction is 100%.

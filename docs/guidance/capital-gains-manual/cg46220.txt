@@ -1,0 +1,142 @@
+Groups: indexation allowance restriction: just/reasonable: preference shares
+Identifier: CG46220
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46220
+Published: 2016-03-12T11:11:15+00:00
+Updated: 2023-04-26T11:53:53+01:00
+Retrieved (UTC): 2026-09-18T14:41:33.104437+00:00
+
+The following example illustrates an appropriate method for restricting indexation allowance on a disposal of redeemable preference shares under TCGA92/S183 (2). The starting point is a disposal on or after 15 March 1988.
+
+Step 1
+
+Apply the general identification rules. These include the bed and breakfasting rule in TCGA92/S106 and the ten day rule in TCGA92/S107 (3). The following steps are only necessary in relation to pooled shares.
+
+Step 2
+
+Divide the separate acquisitions into acquisitions before the companies became linked and acquisitions after they became linked.
+
+Step 3
+
+Allocate any disposals before 15 March 1988 as far as possible to the post- linkage acquisitions, and to each of those acquisitions on a proportionate basis.
+
+Step 4
+
+Apportion the shares disposed of to each of the pre- linkage and post-linkage acquisitions unmatched prior to this disposal on a pro rata basis.
+
+Step 5
+
+Compute what the indexation allowance would have been if each tranche of shares now deemed to be disposed of out of each acquisition had formed a separate holding and had never been included in a pool. Proceed on the basis that any shares acquired before the companies became linked were acquired when they became linked. The total of those notional indexation allowances gives the appropriate indexation restriction.
+
+Step 6
+
+Deduct the aggregate of the indexation allowances computed in Step 5 from the indexation allowance which would otherwise be due on the disposal, but not so as to affect the calculation of the indexed pool of expenditure.
+
+Example
+
+January 1986 4,000 shares acquired for £3 each
+
+January 1987 3,000 shares acquired for £4 each
+
+January 1988 5,000 shares acquired for £5 each
+
+January 1989 7,000 shares sold for £6 each
+
+The companies became linked on 1 May 1987 and were linked immediately before the disposal.
+
+This example assumes an inflation rate of 5 per cent per annum for indexation purposes.
+
+Computation of Indexation Allowance Before Restriction
+
+Event |  shares held |  relevant expenditure |  indexed pool |
+
+- |  - |  £ |  £ |
+
+January 1986 acquisition |  4,000 |  12,000 |  12,000 |
+
+January 1987 indexation |  - |  - |  600 |
+
+- |  - |  - |  12,600 |
+
+Acquisition |  3,000 |  12,000 |  12,000 |
+
+- |  7,000 |  24,000 |  24,600 |
+
+January 1988 indexation |  - |  - |  1,230 |
+
+- |  - |  - |  25,830 |
+
+Acquisition |  5,000 |  25,000 |  25,000 |
+
+- |  12,000 |  49,000 |  50,830 |
+
+January 1989 indexation |  - |  - |  2,542 |
+
+- |  - |  - |  53,372 |
+
+Disposal |  7,000 |  28,583 |  31,133 |
+
+- |  5,000 |  20,417 |  22,239 |
+
+Restriction of indexation allowance
+
+Steps 1 and 3 do not apply.
+
+Step 2
+
+Pre-linkage acquisitions |  - |  Post-linkage acquisitions |  - |
+
+January 1986 |  4,000 |  January 1988 |  5,000 |
+
+January 1987 |  3,000 |  - |  - |
+
+Total |  7,000 |  - |  5,000 |
+
+Step 4
+
+The 7,000 shares disposed of are allocated 4,083 (7/12) to the pre-linkage acquisitions and 2,917 (5/12) to the post-linkage acquisitions.
+
+Step 5
+
+The notional indexation allowances are computed in the following way
+
+- |  - |  - |  - |  - |  Amount |
+
+4,083 shares cost |  4,083 |  x |  £24,000 |  = |  £14,000 |
+
+- |  7,000 |  - |  - |  - |  - |
+
+indexation on £14,000 from May 1987 to January 1989 |  - |  - |  - |  = |  £1,166 |
+
+2,917 shares cost |  2,917 |  x |  £25,000 |  = |  £14,585 |
+
+- |  5,000 |  - |  - |  - |  - |
+
+indexation on £14,585 |  - |  - |  - |  - |  - |
+
+from January 1988 to January 1989 |  - |  - |  - |  = |  £729 |
+
+Step 6
+
+- |  - |  - |  - |  Amount |
+
+The indexation allowance before the restriction is |  £31,133 |  - |  £28,583 |  £ |
+
+- |  - |  - |  - |  2,550 |
+
+The notional indexation allowances at Step 5 are |  £1,166 |  + |  £729 |  1,895 |
+
+The restricted indexation allowance is |  - |  - |  - |  655 |
+
+Chargeable gain - summary |  - |  - |  - |  - |
+
+disposal proceeds |  - |  - |  - |  £ |
+
+less allowable cost |  - |  - |  - |  42,000 |
+
+- |  - |  - |  - |  28,583 |
+
+unindexed gain |  - |  - |  - |  13,417 |
+
+less indexation |  - |  - |  - |  655 |
+
+chargeable gain |  - |  - |  - |  12,762 |

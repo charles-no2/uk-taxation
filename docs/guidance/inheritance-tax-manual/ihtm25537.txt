@@ -1,0 +1,32 @@
+AR/BR 100% relief allowance: transfer of unused allowance - how the amount to be transferred is calculated
+Identifier: IHTM25537
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25537
+Published: 2026-04-07T07:44:19+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:50.753651+00:00
+
+The transferred allowance is expressed as a percentage of the deceased’s unused relief allowance.
+
+The first step is to calculate the unused 100% relief allowance on the death of the first spouse or civil partner. This is the difference between the total 100% relieved amount and the final allowance amount at the date of death.
+
+The total 100% relieved amount is the amount by which the chargeable transfers made by the deceased are reduced by 100% business property or agricultural property relief. This applies to all chargeable transfers made by the deceased in the seven-year period ending on the date of death.
+
+The final allowance amount is the amount of the 100% relief allowance in effect at the date of death.
+
+If the deceased used £800,000 of their 100% relief allowance and at the date of their death the final allowance amount was £2.5 million, the unused portion is:
+
+£2.5 million - £800,000 = £1.7 million
+
+This unused portion of the 100% relief allowance must then be converted to a percentage.
+
+Percentage = (unused portion ÷ maximum allowance) × 100
+
+£1.7 million ÷ £2,500,000) × 100 = 68%
+
+This percentage is then applied to the survivor’s 100% relief allowance as at the date of their death to calculate the survivor’s additional allowance.
+
+Survivor’s additional allowance = 68% × £2,500,000 = £1.7million
+
+Total allowance available
+
+Survivor’s own allowance (£2.5 million) + transferred allowance (£1.7 million) = £4,200,000 total 100% agricultural or business relief allowance

@@ -1,0 +1,61 @@
+Capital loss streaming from 19 July 2011: losses on assets appropriated as trading stock
+Identifier: CG47455
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47455
+Published: 2016-03-12T11:15:47+00:00
+Updated: 2017-11-21T13:53:08+00:00
+Retrieved (UTC): 2026-09-18T14:42:04.752742+00:00
+
+TCGA92/SCH7A/PARA10
+
+Example 1: Appropriation to trading stock - The single company case (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47455#IDALDG1H)
+Example 2: Appropriation to trading stock - The multiple company case (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47455#IDAXDG1H)
+
+There are special rules in TCGA92/S161, see CG67900P, for cases where an asset is appropriated as trading stock. A gain that results from the operation of that rule can be "rolled over" into the cost of stock for trading purposes if an election is made under TCGA92/S161(3).
+
+Where the appropriation took place before 8 March 2017 it was also possible to make an election where the deemed disposal resulted in a capital loss. Changes in Section 26 of Finance Act (No. 2) 2017 mean that from that date only a chargeable gain may be "rolled" into the calculation of trading income.
+
+TCGA92/SCH7A/PARA10 is the part of the loss streaming rules that takes account where an election was made in respect of a loss.
+
+For the purposes of the rules as they apply to a company that joins a group on or after 19th July 2011, TCGA92/SCH7A/PARA10 is only relevant where:
+
+- An appropriation to stock happened before a company joined a group,
+
+- The deemed disposal under TCGA92/S161 resulted in a loss,
+
+- An election was made under TCGA92/S161(3), and
+
+- The asset was still held as trading stock at the time the company became a member of the group.
+
+Background
+
+The appropriation gives rise to a deemed market value disposal for capital gains purposes under Section 161(1). But there is a right of election under Section 161(3) to roll over any gain or - up to 8 March 2017 - any loss into the computation of trading profits. If there would be a chargeable gain, the election reduces the value at which the asset is taken into account as trading profits, so increasing those profits. If there would be an allowable loss, the election increases the value at which the asset is taken into account as trading profits, so reducing those profits.
+
+An extension of these rules in TCGA92/S173, see CG45900, covers the case where one group company, which does not hold an asset as trading stock, transfers it to another group company, which does hold the asset as trading stock. The asset goes from the transferor to the transferee at no gain/no loss under TCGA92/S171, see CG45300+, and the transferee is treated as having appropriated the asset to trading stock. The effect of any election under Section 161(3) is to roll over the transferee's chargeable gain or allowable loss on the appropriation (attributable to the period of ownership by the transferor) into the computation of trading profits of the transferee.
+
+Effect of the rule
+
+TCGA92/SCH7A/PARA10 applies the pre-entry loss rules to elections under TCGA92/S161(3). If, in the absence of an election, there would be a pre-entry loss on an appropriation to trading stock, the loss which can be rolled over as a reduction in trading profits is itself restricted by the amount of the pre-entry loss. The pre-entry loss remains in the capital gains regime, as a pre-entry loss of the company which appropriates the asset to trading stock, or of the company which is treated by TCGA92/S173(1) as appropriating the asset to trading stock.
+
+TCGA92/SCH7A/PARA10 itself did not alter as a result of the 2011 changes but, for companies that join a group on or after 19th July 2011, it will only have effect where a company appropriates an asset to stock and makes a TCGA92/S161(3) election before joining a group of companies and still holds the asset as stock at that later time. The effect is simply to cancel the election and treat the allowable loss as being restricted.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47455#Top)
+
+Example 1: Appropriation to trading stock - The single company case
+
+A company appropriates an asset with an unrealised capital loss to trading stock. The rules in TCGA92/S161(1) produce an allowable loss £3M.
+
+If there is an election under TCGA92/S161(3), the loss of £3M may be rolled over to reduce the trading profit on the sale of the asset by the same amount. If the company subsequently joins a group while still holding the asset as trading stock the Schedule 7A loss set-off restrictions apply as if a pre-entry loss of £3M had accrued to the company at the time of the appropriation to trading stock and the effect of the TCGA92/S161(3) election is cancelled.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47455#Top)
+
+Example 2: Appropriation to trading stock - The multiple company case
+
+Company A transfers an asset to company B in the same group. The asset is trading stock in the hands of company B, but not company A. There is a no gain/no loss disposal from A to B and B is treated as having appropriated the asset to trading stock. The effect of TCGA92/S161 as modified by TCGA92/S173 is that B makes a deemed market value disposal of the asset.
+
+Assume that the deemed disposal would produce a loss £4M and that B makes an election under TCGA92/S161(3) that will reduce B's trading profit on the sale of the asset by that amount. If company B subsequently joins another group while still holding the asset as trading stock then the Schedule 7A loss set-off restrictions apply as if a pre-entry loss £4M had accrued to company B at the time of the appropriation to trading stock and the effect of the election is cancelled.
+
+Notes:
+
+1. Additional rules relating to loss buying were enacted in FA 2006. See CG47020+ for guidance on the rules which apply in priority to TCGA92/SCH7A for accounting periods ending on or after 5 December 2005.
+
+2. For appropriations on or after 8 March 2017 it is no longer possible to make a S161(3) election in the case of a loss.

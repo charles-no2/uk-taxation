@@ -1,0 +1,50 @@
+FA08/Sch7/para126 and section 13* gains - example
+Identifier: CG38880
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38880
+Published: 2016-03-12T10:58:46+00:00
+Updated: 2023-04-24T11:07:49+01:00
+Retrieved (UTC): 2026-09-18T14:47:42.515924+00:00
+
+X is a non-UK resident settlement. It has two UK resident beneficiaries, A and B. A is UK domiciled. B is non-UK domiciled. The trust fund includes assets held directly and as a loan creditor participator in a non-resident close company, Y Ltd. Section 13 TCGA applies to Y Ltd. Because Y Ltd has a number of loan creditors the proportion of X’s interest in Y Ltd fluctuates.
+
+In 2014-15 the trustees of X sell assets owned from before 6 April 2008 accruing a gain of £200,000. In the same year Y Ltd sells assets held from before 6 April 2008 accruing a gain of £800,000. X’s interest in Y Ltd at the date of disposal was 40%. 40% of Y Ltd’s gain is attributed to X, £320,000. The smallest proportionate interest the trustees held in Y Ltd from 6 April 2008 to the date of disposal was 30%.
+
+X’s section 2(2) amount for 2014-15 is £520,000 (£200,000 + £320,000).
+
+In 2014-15 the trustees make capital payments of £100,000 to each beneficiary. Section 87 gains of £100,000 accrue to each beneficiary. X’s section 2(2) amount for 2014-15 is reduced by £200,000 to £320,000. The capital payments of each beneficiary are reduced to nil.
+
+A is liable to Capital Gains Tax on the £100,000. The trustees make a valid election under paragraph 126(1) by 31 January 2016 and B’s liability is reduced by paragraph 126. It is necessary to calculate the relevant proportion of the £100,000 chargeable gain. This has two elements to it. The gain on the assets held directly by the trustees and the gain on the disposal by Y Ltd attributed to the trustees by section 13* TCGA. Assume that paragraph 126 reduces the gain on the disposal of the assets held directly by the trustees from £200,000 to £40,000. It is then necessary to calculate the effect of paragraph 126 on the section 13* gain, £320,000.
+
+First you calculate the appropriate proportion of the assets sold by Y Ltd, paragraph 126(18). This is the smallest proportionate interest the trustees had in Y Ltd, 30%, divided by their proportionate share at the date of disposal, 40% - that is 30/40 × 100 = 75%. So paragraph 126 applies to 75% of the assets Y Ltd sold.
+
+- |  - |  para 126(11) |  no para 126(11) |
+
+Disposal proceeds |  £1.2m |  £900,000 |  £300,000 |
+
+Acquisition cost |  £400,000 |  £300,000 |  £100,000 |
+
+Gain w/out para 126 |  £800,000 |  £600,000 |  £200,000 |
+
+Disposal proceeds |  £1.2m |  £900,000 |  not relevant |
+
+06/04/2008 value |  £1m |  £750,000 |  - |
+
+Gain with para 126 |  not relevant |  £150,000 |  - |
+
+The trustees rebased gain on the appropriate proportion of Y Ltd’s assets is 40% of £150,000 = £60,000. The remaining 25% of the £320,000 section 13* gain, £80,000, is not rebased. This amount has to be included in the numerator (A) in the paragraph 126(9) calculation of the relevant proportion of beneficiary B’s chargeable gains. That requires a calculation of the section 2(2)* amount as if every relevant asset had been sold immediately before 6 April 2008. The £80,000 does not come from the disposal of a relevant asset but is still part of the section 2(2)* amount.
+
+The relevant proportion of B’s chargeable gains is:
+
+- Reduced section 2(2) amount
+
+- Original section 2(2) amount
+
+So the computation would be:
+
+(£60,000 + £40,000 + £80,000) |  x |  £100,000 |  = |  £34,615 |
+
+£520,000 |  - |  - |  - |  - |
+
+B is liable to Capital Gains Tax on £34,615 of the £100,000 section 87 gain. If B is a remittance basis user the gains will not be chargeable until they are remitted to the UK.
+
+*These sections were re-written for disposals from 6 April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

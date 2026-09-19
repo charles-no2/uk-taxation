@@ -1,0 +1,44 @@
+Plant and Machinery Allowance (PMA): First Year Allowance (FYA): Super-Deduction and Special Rate (SR) Allowance: Disposal of assets on which super-deduction has been claimed – computing the balancing charge
+Identifier: CA23169
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23169
+Published: 2021-11-10T18:02:48+00:00
+Updated: 2021-11-10T18:02:45+00:00
+Retrieved (UTC): 2026-09-18T16:21:45.722761+00:00
+
+FA21/S12(1)-(5), (12)
+
+Where a disposal event occurs on or after 1 April 2021 in respect of expenditure on the provision of plant or machinery which is super-deduction expenditure and a super-deduction has been claimed in respect of all or part of the expenditure, a balancing charge arises for that disposal. The balancing charge arises in the chargeable period in which the disposal event occurs.
+
+The balancing charge is the ‘relevant proportion’ of the disposal value of the plant or machinery. See CA23171 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23171) for an additional computational step if the disposal takes place in a chargeable period commencing before 1 April 2023.
+
+There is guidance on disposal events at CA23240 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240).
+
+The disposal value is determined in the normal way. There is guidance on disposal values at CA23250 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23250).
+
+Calculating the ‘relevant proportion’
+
+The relevant proportion is determined by dividing the amount of ‘relevant super-deduction expenditure’ incurred in respect of the plant or machinery by the amount of ‘total relevant expenditure’ in relation to that plant or machinery.
+
+‘Relevant super-deduction expenditure’ is the amount of expenditure in respect of which a super-deduction has been claimed.
+
+‘Total relevant expenditure’ is the total amount of the following expenditure incurred on the provision of the plant or machinery:
+
+- relevant super-deduction expenditure
+
+- any expenditure in respect of which any other first-year allowance was made
+
+- any expenditure that was allocated to a pool for any chargeable period, including the period in which the disposal event occurs.
+
+Example 1 – disposal following super-deduction claimed in full
+
+Charlie Ltd has an accounting period ended 31 December. Charlie Ltd incurs £1,000 on a computer on 1 September 2022 and claims a super-deduction of £1,300 in respect of all of the expenditure in its chargeable period ended 31 December 2022.
+
+The computer is sold for £500 on 1 September 2025. This disposal event is liable to a balancing charge. The relevant super-deduction expenditure is £1,000. The total relevant expenditure is also £1,000. Therefore, the relevant proportion is 1,000 ÷ 1,000 = 1. The amount of the balancing charge to be brought into account in the chargeable period ended 31 December 2025 is the relevant proportion of the disposal value of the computer, given by the sum: 1 x £500 = £500.
+
+Example 2 – disposal following partial claim to super-deduction
+
+Charlie Ltd also incurs £1,000,000 on a new machine for its factory on 1 October 2022. Charlie Ltd claims a super-deduction on £750,000 of the expenditure which amounts to a super-deduction claim of £975,000 in its chargeable period ended 31 December 2022. Charlie Ltd adds the remaining balance of the expenditure of £250,000 to the main rate pool.
+
+The machine is sold for £700,000 on 1 October 2025. This disposal event is liable to a balancing charge. The relevant super-deduction expenditure is £750,000. The total relevant expenditure is £750,000 super-deduction expenditure + £250,000 pooled expenditure = £1,000,000. Therefore, the relevant proportion is 750,000 ÷ 1,000,000 = 0.75. The relevant proportion is then multiplied by the disposal value which results in a balancing charge of 0.75 x £700,000 = £525,000.
+
+The remaining £175,000 of the £700,000 disposal value is taken to the main pool in the normal way, which may give rise to a further balancing charge in that pool.

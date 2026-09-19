@@ -1,0 +1,22 @@
+Basic definitions: the value of the estate ‘E’ and the value transferred on death ‘VT’
+Identifier: IHTM46012
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46012
+Published: 2017-04-05T15:52:56+01:00
+Updated: 2020-01-20T09:50:23+00:00
+Retrieved (UTC): 2026-09-18T15:10:52.697848+00:00
+
+For residence nil-rate band (RNRB), the ‘qualifying residential interest’ (IHTM46011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46011)) must be part of the person’s estate immediately before the person’s death. The definition of ‘estate’ for RNRB is the normal inheritance tax definition contained in IHTA84/S5 (IHTM04029 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04029)). A person’s estate is the aggregate of all the property to which a person is beneficially entitled. A person’s estate on death includes settled property in which the person had a qualifying interest in possession (IHTM16060 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16060)) and any gift with reservation (GWR) (IHTM14301 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14301)) property, but does not include excluded property.
+
+The RNRB legislation refers to the value of a person’s estate on death as ‘E’. This value takes into account any debts and liabilities that are taken into account in accordance with IHTA84/S5 (IHTM28381 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28381)), but takes no account of any exemptions, or reliefs such as agricultural relief (IHTM24001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24001)) or business relief (IHTM25131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25131)).
+
+Reliefs for the loss on sale of shares (IHTM34010 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34010)) or land (IHTM33010 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33010)) however are taken into account in the value of ‘E’ as they substitute the sale price of the asset in question for its date of death value. It may therefore be particularly important to take this into account when re-calculating a RNRB claim following a loss on sale claim where the value of ‘E’ had previously exceeded the taper threshold (IHTM46023 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46023)).
+
+The RNRB legislation also refers to the value transferred by the chargeable transfer on death, which is referred to as ‘VT’ – IHTA84/S8D(5)(e). This is the value of the chargeable transfer on death. That is the value of the estate after taking into account any exemptions and reliefs. It does not include the value of any chargeable lifetime transfers or failed PETs which aggregate with the estate on death.
+
+Example
+
+The deceased’s estate includes assets worth £1,200,000 and liabilities of £20,000. There is a legacy to charity of £100,000 which is exempt.
+
+The value of the deceased’s estate is the value of the assets (£1,200,000) less the value of the liabilities (£20,000) = £1,180,000. This is ‘E’
+
+The value transferred by the chargeable transfer on death is the net value of the estate (£1,180,000) less the exemption for the legacy to charity (£100,000) = £1,080,000. This is ‘VT’.

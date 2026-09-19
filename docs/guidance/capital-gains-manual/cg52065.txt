@@ -1,0 +1,34 @@
+Rights to acquire shares in other companies are not ‘reorganisation of share capital’
+Identifier: CG52065
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52065
+Published: 2016-03-12T11:26:19+00:00
+Updated: 2025-11-12T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:32:28.753718+00:00
+
+The provisions of TCGA92/S126 - TCGA92/S128 do not apply if a company offers its shareholders, in proportion to their shareholdings, the right to buy shares and securities in another company. This should be treated as an ordinary purchase of shares by the subscriber.
+
+Such a scheme may take one of the following forms.
+
+- Company A controls company B. Company A arranges for company B to make an issue of shares or securities to the shareholders of company A in proportion to their existing shareholdings at a price below the market value of those shares or securities.
+
+- Company A has a holding of shares in company B. Company B declares a rights issue in respect of these shares at a price below their current market value. Company A offers to renounce its entitlement to shares in B in favour of its own shareholders in proportion to their shareholdings in company A.
+
+From the point of view of Company A, the tax analysis is that when company B issues its shares at undervalue the value of company A's holding of shares in company B is reduced by the difference between the issue price and their market value. This is treated as a part disposal by company A within the scope of TCGA92/S29 (value-shifting).
+
+From the point of view of company A’s shareholders, the tax analysis is that the acquisition of the shares is a transaction otherwise than by way of a bargain made at arm's length, see CG14540 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14540)+. The shareholder is deemed to have acquired the shares at market value. The excess of market value over the subscription price is a distribution by A. If it is not treated as income it will be charged as a capital distribution and will give rise to a chargeable gain or an allowable loss.
+
+But if company B issues new shares to company A before company A gives its shareholders the right to acquire these shares, the tax treatment is as follows:
+
+As regards the company, the disposal by company A of the new shares in company B to company A’s shareholders is not a bargain made at arm's length. Company A is treated as having sold the shares for a consideration equal to their market value.
+
+As regards the shareholders in company A who acquire shares in company B, the acquisition from company A is not a bargain made at arm's length. The shareholder will acquire the shares at market value. The shareholder will also have received a distribution equal to the excess of the market value over the subscription price paid by company A. If this is not treated as income it will be charged as a capital distribution and will give rise to a chargeable gain or loss, see CG57800P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57800p).
+
+In both forms of transaction the date of the capital distribution to a shareholder and the date of the part disposal of shares by company A is the date of the formal acceptance of the offer by the shareholder. In practice, however, the company's gain or loss in respect of the whole distribution may be computed by reference to the market value of the shares in company B on the day following the day on which the right to renounce the allotment expires.
+
+The shareholder in company A may not take up their right to acquire the shares of company B. Where
+
+- the shareholder sells his or her allotment or
+
+- the shareholder does not take up the rights and, under the terms of the offer, arrangements are made for the rights to be sold and the proceeds paid to the shareholder
+
+the shareholder should not be regarded as having acquired the new shares but as having received a capital sum in return for the surrender of the rights attaching to the shares, TCGA92/S22. Such a transaction is treated as a part disposal of the shares.

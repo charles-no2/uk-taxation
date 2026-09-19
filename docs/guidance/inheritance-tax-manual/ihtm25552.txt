@@ -1,0 +1,78 @@
+AR/BR 100% relief allowance: settlements - relevant property settlements
+Identifier: IHTM25552
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25552
+Published: 2026-04-07T07:44:28+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:53.433492+00:00
+
+For proportionate and anniversary charges or after 6 April 2026, and in relation to a settlement that is not a pre-commencement settlement (IHTM25551 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25551)), the trust maximum allowance is not a set amount but is instead equal to
+
+-
+
+the sum of “transferred allowance amounts” that the settlement, or other settlements made by the same settlor, has acquired (S124H(1)/IHTA84)
+
+-
+
+on or after 30 October 2024 (Sch 12/Para 17(5)/FA26).
+
+The total sum is then capped so that the trust maximum allowance across all settlements made by the same settlor cannot exceed £2.5m.
+
+The maximum allowance then feeds into the mechanism described at bullet 1. at IHTM25550 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25500) and is reduced by the amount of relief applied against any prior proportionate charges in the allowance period to arrive at the actual 100% Trust relief allowance for any particular charge.
+
+There is also a special rule if property becomes comprised in a settlement on or after 30 October 2024 and exits the settlement prior to 6 April 2026 (IHTM25553 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25553)).
+
+Transferred Allowance Amount
+
+An allowance amount is acquired by the trustees each time a transferor (the settlor) makes a chargeable transfer of qualifying relievable property on or after 30 October 2024 and
+
+-
+
+the property becomes comprised in the settlement or
+
+-
+
+the property becomes relevant property in the settlement because of (i) a charge on death under IHTA84/S4 or (ii) a charge on a lifetime termination of an interest in possession under IHTA84/S52.
+
+The allowance amount that is acquired is, initially, equal to the 100% agricultural or business relief that was applied to the settlor’s transfer.
+
+Example 1
+
+On 1 December 2025, David gifted 100 unquoted shares in a trading company to a discretionary trust A and on 13 January 2026 a further 100 shares to discretionary trust B.
+
+The value transferred by the first transfer was £1m and by the second, £800k. Both transfers qualified for 100% business property relief (under the pre-6 April 2026 rules) and no IHT was payable.
+
+These settlements were made after 30 October 2024 and cannot be pre-commencement settlements.  As they were made between 30 October 2024 and 5 April 2026, the transitional rule in paragraph 17(5) of Schedule 12 FA26 means that they count for the purposes of the trust maximum allowance as they get 100% relief.  After 6 April 2026, certain unquoted shares and securities which fall within s105(1)(aa)to(ad) can only qualify for relief at 50% and so transfers of them will not be relevant for the purposes of the trust maximum allowance (IHTA84/S124H(2)(b)).
+
+So, for the purposes of proportionate or anniversary charges on or after 6 April 2026
+
+-
+
+the trustees of settlement A currently have a maximum trust allowance of £1m acquired by the first gift and
+
+-
+
+the trustees of settlement B currently have a maximum trust allowance of £800k acquired by the second.
+
+It also means that David could transfer more agricultural or business property to these or other settlements and increase the maximum trust allowance so long as the total does not exceed £2.5m, i.e. up to £700k more.
+
+And if there is more than one chargeable transfer by David on the same day and the Cap would be exceeded then the balance is apportioned rateably and the relief on the excess (and for any future charges) will be at 50%. There is an apportionment example at IHTM25554 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25554)).
+
+Example 2
+
+David died on 1 January 2034, having made no further chargeable gifts of 100% relievable property. His will directed that his farmland, together with the farmhouse should be given the trustees of trust B.
+
+The agricultural value of that property together with business relief on the non-agricultural value was £3m. In relation to the charge on death, and assuming that there had been no indexation increase, agricultural relief at 100% is given to the first £2.5m and 50% relief applies to the balance of £500k.
+
+Although the trustees of settlement B have acquired a further allowance amount by way of the chargeable transfer on David’s death, the total settled by David after 30 October 2024 (with relief at 100%) is £4.3m, i.e. £1m + £800k + £2.5m.
+
+So, as noted above, the transferred allowance is capped and the trustees of settlement B can only acquire an additional allowance of £700k.
+
+So, for the purpose of, say, the anniversary charges in December 2035 and January 2036
+
+-
+
+the trustees of settlement A have a maximum trust allowance of £1m and
+
+-
+
+the trustees of settlement B have a maximum trust allowance of £1.5m (as well as rate relief for the property added on David’s death).

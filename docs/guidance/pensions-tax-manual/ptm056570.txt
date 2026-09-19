@@ -1,0 +1,46 @@
+Annual allowance: money purchase annual allowance: hybrid arrangements: relevant hybrid arrangements 
+Identifier: PTM056570
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm056570
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-08-02T14:23:03+01:00
+Retrieved (UTC): 2026-09-18T14:49:21.375542+00:00
+
+Section 227D Finance Act 2004
+
+If the money purchase annual allowance rules apply for a tax year and a pension input amount for a hybrid arrangement must be taken into account, there are special rules for the hybrid arrangement if it qualifies as a ‘relevant hybrid arrangement’.
+
+A relevant hybrid arrangement is a hybrid arrangement which:
+
+- was made on or after 14 October 2014, or
+
+- an arrangement which became a hybrid arrangement on or after that date (whether or not for the first time), and
+
+- the pension input amount that would ordinarily be taken into account for working out the total pension input amount for the tax year concerned is that for the possible defined benefits provision, as that amount is greater than the pension input amount for the possible other money purchase, collective money purchase or cash balance provision (or, where three or all four must be taken into account, the pension input amount for the defined benefits provision is greater than those for the two or all three of the other money purchase, collective money purchase and cash balance provisions), and
+
+- the pension input amount being considered is for a pension input period that ended on or after the date of the individual first flexibly accessing a money purchase arrangement.
+
+Where the arrangement is a relevant hybrid arrangement the pension input amount for the possible defined benefits provision is replaced with the pension input amounts for the possible other money purchase, collective money purchase or cash balance provision (or, where three or all four must be taken into account, the pension input amount for the defined benefits provision is replaced with the greater or greatest of the pension input amounts for the other money purchase, collective money purchase and cash balance provisions) in the money purchase annual allowance test to determine if that would result in an alternative chargeable amount, and if so, the greatest possible amount.
+
+All the relevant hybrid arrangements that an individual must take into account are arranged into as many different combinations of arrangements as possible, including a combination containing none of those arrangements (an empty combination). For example, if there are two relevant hybrid arrangements, there are four possible combinations.
+
+For each combination the money purchase input amount for testing against the money purchase annual allowance is worked out using the total of:
+
+- the greater or greatest of the other money purchase pension input amount, collective money purchase pension input amount or the cash balance pension input amount instead of the pension input amount for the defined benefits provision for each relevant hybrid arrangement within the combination (‘combination amount’), and
+
+- any money purchase pension input amounts from money purchase arrangements - that is, money purchase arrangements which are not hybrid arrangements (‘plain money purchase amount’), and
+
+- any money purchase pension input amounts from non-relevant hybrid arrangements - that is, hybrid arrangements where the other money purchase, collective money purchase or cash balance pension input amount is used because that amount is the greatest pension input amount for the arrangement or that amount is equal to the defined benefits pension input amount for the arrangement; see PTM056560 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm056560) (‘non-relevant hybrid amount’).
+
+The resulting figure is then tested against the money purchase annual allowance.
+
+If the result for any combination (that is, the combination amount together with any plain money purchase amount and non-relevant hybrid amount does not exceed the money purchase annual allowance, no further test is needed against the money purchase annual allowance. Instead, the individual’s total pension input amount is tested against the annual allowance for the tax year concerned.
+
+If one or more combinations (that is, the combination amount together with any plain money purchase amount and non-relevant hybrid amount) exceeds the money purchase annual allowance, a further calculation is performed in relation to the money purchase annual allowance test.
+
+Taking each combination in turn, the alternative chargeable amount is worked out based on that combination. In doing so:
+
+- the defined benefits pension input amounts for any of the relevant hybrid arrangements that have been left out of the combination are included in the pension input amounts that are tested against the alternative annual allowance, and
+
+- the other money purchase, collective money purchase or cash balance pension input amounts used in place of the defined benefits pension input amount for those relevant hybrid arrangements that have been included in the combination are included in the pension input amounts which are tested against the money purchase annual allowance.
+
+The results for each combination are then compared. The combination which applies is the one that produces the greatest alternative chargeable amount for that tax year. If this amount is more than the default chargeable amount, the annual allowance charge applies to the alternative chargeable amount. Otherwise the annual allowance charge will apply to the default chargeable amount.

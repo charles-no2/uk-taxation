@@ -1,0 +1,34 @@
+Capital loss streaming from 19 July 2011: pooled or merged assets
+Identifier: CG47440
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47440
+Published: 2016-03-12T11:15:42+00:00
+Updated: 2020-10-14T13:48:40+01:00
+Retrieved (UTC): 2026-09-18T14:42:03.619575+00:00
+
+TCGA92/SCH7A/PARA7 (5)
+
+The general rule is that a restricted loss can be set off against a gain on an asset held by a company with restricted losses at the time it joined the group. Where the capital gains rules treat a collection of assets as a single asset then a special rule is needed to deal with the situation of the asset being “added to” after the company joins the group. The following example illustrates why.
+
+In 2012, company L was acquired by the M group leading to its accrued loss of £12 million becoming restricted. At that time it held 1,000 shares in Y plc.
+
+M also owned one million shares in Y plc showing a substantial unrealised gain.
+
+In 2013, M transfers its shares in Y plc to L at no gain/no loss under TCGA92/S171. L then sells all its shares in Y plc and accrues a chargeable gain £20 million. Can L set the loss of £12 million against this?
+
+In the hands of L, the shares in Y plc held at the time it joined the M group are treated as a single asset, a holding of shares within TCGA92/S104. The one million shares acquired by L from M in 2013 represent an addition to that asset.
+
+Therefore L’s gain on disposal of all its shares in Y plc is a gain on the disposal of an asset (the pool of shares in Y plc) which was held at the time it joined the M group. In the absence of any special rule, L’s loss of £12 million could be set off against the whole £20 million gain even though the gain is mainly attributable to the increase in value of one million shares in Y plc held by the M group before L became a member.
+
+A similar issue arises if an asset which is acquired by a company after joining a group is treated as being the same as an asset it held when it joined the group. For example, where a freehold is merged with a leasehold interest or where certain share reorganisations have taken place and the new holding is treated as the same asset as the original shares, TCGA92/S127.
+
+The provisions dealing with these special cases are in TCGA92/SCH7A/PARA7(5). Where a gain accrues on the disposal of the whole or any part of:
+
+- an asset treated as a single asset (that is, a pooled asset) but comprising assets only some of which were held at the time the company joined the group, or
+
+- an asset treated as held at the relevant time by a provision which treats an asset not held at the time the company joined the group as the same as an asset which was held at that time
+
+there is a further restriction on the amount of the loss that can be used. A restricted loss can be deducted from the gain under TCGA92/SCH7APARA7(1)(b) or TCGA92/SCH7APARA7(2)(b) only to the extent of the proportion of the gain attributable to assets held at the time the company joined the group, or which represents the gain that would have accrued on the asset held at that time.
+
+The legislation does not prescribe any apportionment method. HMRC will accept any reasonable method of apportionment consistent with the result that restricted loss is only set off against gains attributable to the increase in value up to the time of the disposal of the part of the gain asset held at the time the company joined the group.
+
+Note: Additional rules relating to loss buying were enacted in FA 2006. See CG47020+ for guidance on the rules which apply in priority to TCGA92/SCH7A for accounting periods ending on or after 5 December 2005.

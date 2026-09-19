@@ -1,0 +1,42 @@
+Wasting assets: computation: example 1 using T(1)/L
+Identifier: CG76791
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg76791
+Published: 2021-04-26T14:35:26+01:00
+Updated: 2021-04-26T15:03:32+01:00
+Retrieved (UTC): 2026-09-18T14:36:12.002871+00:00
+
+TCGA92/S46
+
+Mr S purchases from a descendant the copyright over the memoirs of a writer 20 years after the end of the year in which the writer died. That copyright is, therefore, a wasting asset since it now has a predictable life of fifty years, see CG76723 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg76723). He pays the descendant £90,000 for it but does not expect it to have any residual value in fifty years time.
+
+He later sells after twenty years for £80,000.
+
+Subject to any incidental expenses, his Capital Gains computation will be:
+
+|   |   |   |   |   |   |   |   |   |
+
+£
+
+|
+
+| Disposal Proceeds |   |   |   |   |   |   |   |   | 80,000 |
+
+Less | Acquisition cost [E(1)] |   |   |   |   |   |   |   | 90,000 |   |
+
+| T(1) | = | 20 | = | 2 |   |   |   |   |   |
+
+| L |   | 50 |   | 5 |   |   |   |   |   |
+
+|   |   |   |   |   |   |   |   |   |   |
+
+| [E(1)-S] | = | [90,000-0] | = |   | 90,000 |   |   |   |   |
+
+|   |   |   |   |   |   |   |   |   |   |
+
+| T(1) | x | [E(1)-S] | = | 2 | x | 90,000 | = | 36,000 | 54,000 |
+
+| L |   |   |   | 5 |   |   |   |   |   |
+
+| Gain |   |   |   |   |   |   |   |   | 26,000 |
+
+NOTE. Companies and other concerns within the charge to Corporation Tax may be able to claim indexation allowance see CG17200+ (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17200p).

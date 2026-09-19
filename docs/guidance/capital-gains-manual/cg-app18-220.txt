@@ -1,0 +1,354 @@
+Part 2 - Submitting returns through the CGT on UK Property Account: The calculation
+Identifier: CG-APP18-220
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-220
+Published: 2022-05-23T11:20:02+01:00
+Updated: 2025-12-05T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:47:16.233618+00:00
+
+Top of page
+
+2.2 The calculation (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-220#Toc90369260)
+
+2.2.1 Initial gain or loss (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-220#Toc90369261)
+
+2.2.2 Gain or loss after reliefs (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-220#Toc90369262)
+
+2.2.3 Overall gain (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-220#Toc90369263)
+
+2.2.4 CGT due for this return (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-220#Toc90369264)
+
+2.2.5 Computation - Legislation (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-220#Toc90369265)
+
+2.2 The calculation
+
+This section of the guidance sets out how the CGT on UK Property Account in-built calculator computes the CGT notionally chargeable when the CGT on UK Property Account is used to file a return.
+
+The amount of CGT notionally chargeable on a person as at the filing date for a return is determined in accordance with para 7, Schedule 2 Finance Act 2019.
+
+The example in this section, demonstrates most of the figures the return can use as part of the in-built computation. The information provided into the return is used in a straightforward calculation.
+
+For scenarios where the details captured by the system are not sufficient to calculate the correct amount of CGT due, the user can enter the correct amount, along with their own supporting calculation. This is covered in the section .
+
+The calculation output within the system, is broken down into four subheadings each of which can be expanded within the account so the workings can be seen, the four headings are:
+
+- Initial gain or loss
+
+- Gain or loss after reliefs
+
+- Overall gain
+
+- CGT due for this return.
+
+The CGT rates and Annual Exempt Amount (AEA) for current and previous years are published on GOV.UK. (https://www.gov.uk/guidance/capital-gains-tax-rates-and-allowances)
+
+2.2.1 Initial gain or loss
+
+Example: A UK resident person is required to complete a return through the CGT on UK Property Account. The person has sold a residential property of which they had owned 100%. The property sold for £400,000, and the total solicitor and estate agent fees for the disposal were £5,800. The contract exchange occurred on 30 June 2024 and the completion date was 30 July 2024.
+
+Property disposal amount  | £400,000 |
+
+Disposal costs  | -£5,800 |
+
+Property disposal amount less costs  | £394,200 |
+
+The person had acquired the property for £210,000 and had incurred solicitor fees, surveyor fees and SDLT totalling £3,100. They spent £28,000 on an extension improving the property.
+
+Property acquisition amount  |  £210,000 |
+
+Improvement costs  | +£28,000 |
+
+Acquisition costs | +£3,100 |
+
+Property Acquisition amount plus costs | £241,100 |
+
+Disposal amount less costs (i) | £394,200 |
+
+Property acquisition amount plus costs (ii) | -£241,100 |
+
+Initial gain or loss | £153,100 |
+
+Back to top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-220#top-of-page)
+
+2.2.2 Gain or loss after reliefs
+
+Example continued: The person initially lived at the property but sometime later moved out and the property was occupied by a friend rent free until the property was sold with a completion date of 30 June 2021. The owner has worked out that they are entitled to Private Residence Relief on 50% of the gain.
+
+Guidance on Private Residence Relief is within the Capital Gains Manual see CG64200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64200) onwards.
+
+50% of Initial gain or loss of £153,100 is £76,550 The next stage of the calculation shown by the system will be:
+
+Private Residence Relief | £76,550 |
+
+Letting relief  | 0 |
+
+Other reliefs  | 0 |
+
+Total reliefs  | £76,550 |
+
+Initial gain or loss  | £153,100 |
+
+Total reliefs | - £76,550 |
+
+Gain or loss after reliefs  | £76,550 |
+
+The initial gain or loss and the gain or loss after reliefs is calculated using the information entered in the provide details section of the return, see 2.2.4.
+
+2.2.3 Overall gain
+
+Example continued: The person had also made a disposal of some shares they owned, earlier in the tax year on 14 May 2024. This disposal had resulted in a loss of £4,500. As the loss occurred prior to the completion date for the property disposal being reported, they can reduce the CGT that will be notionally chargeable by including it in the calculation. For more guidance on which in year losses can be used in the property disposal CGT calculation, see section 2.5 in the guidance. (If the share disposal had resulted in a gain it would not need to be included in the computation).
+
+For this example, it is assumed that the person wants to use all of their Annual Exempt Amount (AEA), for 2024-25 this is £3,000, against the residential property gain. The Annual Exempt Amount, an annual tax-free amount of capital gains, is not to be confused with an individual’s Personal Allowance, which is their tax free amount for income.
+
+Gain or loss after reliefs  | £76,550 |
+
+Losses from this tax year | - £4,500 |
+
+Gain after losses from this tax year | = £72,050 |
+
+Gain after in year losses  |  £72,050 |
+
+Amount of Annual Exempt Amount used | - £3000 |
+
+Year position  | £69,050 |
+
+Example continued: The person also made an allowable loss of £7,560 in the 2023-24 tax year which was available to carry forward to the 2024-25 tax year, as it was not used in 2023-24.
+
+Year position
+
+|
+
+£69,050
+
+|
+
+Losses from previous tax years
+
+|
+
+- £7,560
+
+|
+
+Overall gain
+
+|
+
+=£61,490
+
+|
+
+2.2.4 CGT due for this return
+
+A person’s level of income affects their Income Tax rate, which in turn affects their CGT rate. Further detail is provided on how the figures of expected annual income are required for the CGT calculation in section 2.5.2.
+
+Example continued: This person has an expected annual income of £36,600 and a Personal Allowance of £12,570 for 2024-25. From these figures, which are entered in the report and pay section of the return (see 2.5.1) the amount of the gain chargeable at the lower rate of 18% is calculated, and the remainder of the gain is chargeable at 24%
+
+Gross annual income
+
+|
+
+£36,600
+
+|
+
+Amount of Personal Allowance used
+
+|
+
+- £12,570
+
+|
+
+Taxable income
+
+|
+
+= £24,030
+
+|
+
+UK threshold for basic rate tax
+
+|
+
+£37,700
+
+|
+
+Taxable income
+
+|
+
+- £24,030
+
+|
+
+UK threshold for basic rate tax less taxable income
+
+|
+
+= £13,670
+
+|
+
+To work out the amount to be charged at the basic rate of CGT we took the lower of these amounts:
+
+UK threshold for basic rate tax less taxable income
+
+|
+
+£13,670
+
+|
+
+Overall gain OR
+
+|
+
+£61,490
+
+|
+
+Amount of the overall gain to be taxed at basic rate (18%)
+
+|
+
+= £13,670
+
+|
+
+Overall gain
+
+|
+
+£61,490
+
+|
+
+Amount of the overall gain to be taxed at basic rate
+
+|
+
+- £13,670
+
+|
+
+Amount of the overall gain to be taxed at higher rate (24%)
+
+|
+
+= £47,820
+
+|
+
+|
+
+|
+
+Amount of the overall gain to be charged at the basic rate
+
+|
+
+£13,670
+
+|
+
+basic rate
+
+|
+
+X 18%
+
+|
+
+Amount of tax due at the basic rate
+
+|
+
+= £2,460.60
+
+|
+
+Amount of the overall gain to be charged at the higher rate
+
+|
+
+£47,820
+
+|
+
+Higher rate
+
+|
+
+X 24%
+
+|
+
+Amount of tax due at the higher rate
+
+|
+
+= £11,476.80
+
+|
+
+|
+
+|
+
+Amount of tax due at the basic rate
+
+|
+
+£2,460.60
+
+|
+
+Amount of tax due at the higher rate
+
+|
+
++ £11,476.80
+
+|
+
+CGT due for this return.
+
+|
+
+= £13,937.40
+
+|
+
+This example is continued further to demonstrate the calculation where multiple returns are made in a year in section 2.5.9.
+
+2.2.5 Computation - Legislation
+
+The legislation in Schedule 2 Finance Act 2019 sets out the provisions for making returns in respect of disposals of UK land.
+
+The legislation sets out what CGT is notionally chargeable in year, the amount chargeable when filing a return through the CGT on UK Property Account as opposed to the full amount of CGT chargeable for the Tax Year or the full amount of Capital Gains on disposals up to that point in the year.
+
+For UK residents the amount of CGT notionally chargeable at the filing date is, the amount the person would be liable for the tax year concerned, ignoring disposals occurring after the completion date or which aren’t direct disposals of UK land on which a residential property gain accrues (see Para 1, Schedule 2 Finance Act 2019).
+
+Para 7 (see extract below) sets out that the amount notionally chargeable is the amount of CGT the person would be liable for the tax year, excluding disposals occurring after the completion date of the disposal being returned and excluding gains on disposals of things not covered by the Schedule.
+
+Calculation of an amount of CGT notionally chargeable
+
+7
+
+(1) This paragraph applies for determining the amount of CGT (if any) which is notionally chargeable on a person as at the filing date for a return.
+
+(2) The amount of CGT notionally chargeable on the person as at that date is the amount of that tax for which the person would be liable for the tax year concerned, ignoring, for this purpose, the following disposals—
+
+(a) disposals which have a completion date later than the completion date of the disposal in respect of which the return is made (but see sub-paragraph (3)), and
+
+(b) disposals on which gains accrue but which are not disposals to which this Schedule applies.
+
+(3) A disposal on which a loss accrues is not to be ignored under sub-paragraph (2)(a) if the time at which the disposal is made (as determined under section 28 (https://www.lexisnexis.com/tolley/library/search/runRemoteLink?linkInfo=F%23GB%23UK_ACTS%23sect%2528%25num%251992_12a%25section%2528%25&A=0.7219362255213642&service=citation&langcountry=GB) of TCGA 1992) falls on or before the completion date of the disposal in respect of which the return is made.
+
+(4) For provision relevant to the operation of this paragraph, see paragraphs 14 and 15 (making of assumptions, reasonable estimates etc).
+
+covered by Para 14 and 15 is at section 2.5.3 of this guidance.
+
+Back to top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-220#top-of-page)

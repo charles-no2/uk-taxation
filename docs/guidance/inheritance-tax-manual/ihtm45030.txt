@@ -1,0 +1,96 @@
+Reduced rate for gifts to charity: the charitable giving condition or 10% test: grossing up
+Identifier: IHTM45030
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45030
+Published: 2016-04-09T10:32:53+01:00
+Updated: 2022-02-14T13:51:39+00:00
+Retrieved (UTC): 2026-09-18T15:10:44.187383+00:00
+
+Where the residue of the estate is partially exempt, passing either to the surviving spouse or civil partner or to charity and the Will contains other legacies that are left free of tax, it is necessary to gross up such legacies (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121)). The grossed-up value of chargeable legacies will increase the baseline amount (IHTM45009 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45009)) and where the charitable legacy is of a fixed amount or is a share of residue, this may mean that the estate component fails the 10% test, solely by reason of the grossing up.
+
+To avoid this happening IHTA84/Sch1A/Para 6(1) provides that solely for the purposes of establishing whether or not the charitable giving condition (IHTM45002 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45002)) is met, the grossing up calculation should use the lower 36% rate. A grossing up calculator that uses a tax rate of 36% is here (https://www.gov.uk/government/publications/inheritance-tax-grossing-up-calculators).
+
+It is important to recognise that there are two distinct stages here
+
+- firstly, working out whether or not the 10% test is met, and
+
+- secondly, calculating the chargeable estate and applying the appropriate rate of tax.
+
+You may need to perform two separate calculations.
+
+Where the reduced rate may be in point, you should always use the 36% rate grossing calculator to see whether the charitable giving condition or 10% test is met - if it is, this one calculation will then provide the values you need for the chargeable estate. (The reason for doing this is that if you used the 40% rate calculator first and the estate met the 10% test; you would then need to perform the calculations again at 36% to arrive at the chargeable estate - so it is easier to use the 36% rate grossing calculator in the first place.)
+
+If the 10% test is not met using the 36% grossing calculator, the estate cannot qualify for the reduced rate and is liable to tax at the full rate, so you should perform the calculations again using the grossing calculator (https://www.gov.uk/government/publications/inheritance-tax-grossing-up-calculators) with the full rate in the normal way.
+
+This issue will not arise where the legacy is worded in such a way that the amount of the charitable legacy must meet the 10% test (IHTM45003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45003)). In these cases, you can use the 36% rate grossing calculator to arrive at the chargeable estate without first testing that the 10% test is met.
+
+Example
+
+Stephen died on 11 September 2012 leaving an estate valued at £1,000,000 after deduction of liabilities. The Will left pecuniary legacies of £245,000 free of tax to his children and 10% of the residue to the RSPCA. To qualify for the reduced rate of tax, the amount passing to charity must be at least £67,500 (£1,000,000 - £325,000 = £675,000 x 10%).
+
+Ignoring grossing up, the residue of the estate is £1,000,000 - £245,000 = £755,000. The donated amount would be £75,500 and so, initially, the estate appears to qualify for the reduced rate. But as there are legacies that are left free of tax, they must be grossed up to reflect the fact that, in reality, the residue and so the share passing to charity will be reduced by the tax paid.
+
+If the estate is grossed up at 40%, the calculations are as follows:
+
+Initial residue (£1,000,000 - £245,000) = £755,000
+
+Less initial exempt residue (£755,000 @ 10%) -£75,500
+
+Initial chargeable residue = £679,500
+
+The initial chargeable estate is £245,000 + £679,500 = £924,500
+
+Tax on initial estate (£924,500 - £325,000 x 40%) = £239,800
+
+Gross up gifts at estate rate (£245,000 x (£924,500 ÷ (£924,500 - £239,800)) = £330,805
+
+Final residue (£1,000,000 - £330,805) = £669,195
+
+The donated amount (£669,195 @ 10%) is £66,919.
+
+Grossing up the pecuniary legacies at full rate has increased their value for tax to £330,805. This must be fed into the calculation to determine the baseline amount as follows:
+
+Estate on death = £1,000,000
+
+Legacy to charity (donated amount) -£66,919
+
+Chargeable transfer = £933,081 (step 1)
+
+Less nil-rate band -£325,000
+
+Step 2 amount = £608,081
+
+Add back legacy to charity +£66,919
+
+Baseline amount = £675,000 (step 3)
+
+The donated amount (£66,919) is less than 10% of the baseline (£67,500) so the estate does not qualify for the reduced rate when the legacy is grossed up at the full rate.
+
+If the estate is grossed up at 36%, however, the calculations are as follows:
+
+Initial chargeable estate – as above (£245,000 + £679,500) = £924,500
+
+Tax on initial estate (£924,500 - £325,000 x 36%) = £215,820
+
+Gross up gifts at estate rate (£245,000 x (£924,500 ÷ (£924,500 - £215,820)) = £319,611
+
+Final residue (£1,000,000 - £319,611) = £680,389
+
+The donated amount (£680,389 @ 10%) is £68,039.
+
+Here, the value of the legacies is grossed up to £319,611. The value of the residue is not reduced by quite so much as when the legacies are grossed up at 40%, so the donated amount is slightly higher. The baseline calculation is as follows:
+
+Estate on death = £1,000,000
+
+Legacy to charity (donated amount) -£68,039
+
+Chargeable transfer = £931,961 (step 1)
+
+Less nil-rate band -£325,000
+
+Step 2 amount = £606,961
+
+Add back legacy to charity +£68,039
+
+Baseline amount = £675,000 (step 3)
+
+The donated amount (£68,039) is now greater than 10% of the baseline (£67,500) so the estate qualifies for the reduced rate. The grossed-up value of the legacies and the chargeable estate must be calculated using the 36% rate grossing calculator.

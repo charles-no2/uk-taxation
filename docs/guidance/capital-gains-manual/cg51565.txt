@@ -1,0 +1,28 @@
+Share identification rules for capital gains tax from 6.4.2008: treatment of relevant securities
+Identifier: CG51565
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51565
+Published: 2016-03-12T11:22:46+00:00
+Updated: 2023-02-03T12:09:31+00:00
+Retrieved (UTC): 2026-09-18T14:42:10.414947+00:00
+
+Certain “relevant securities” are not subject to the pooling arrangements. The reintroduction of pooling from 6 April 2008 meant that a separate rule was again needed for the purposes of Capital Gains Tax. The TCGA92/S106A(6) rule which identifies disposals against acquisitions on a last in first out (LIFO) basis now applies only to “relevant securities” and these are defined for Capital Gains Tax purposes at TCGA92/S106A(10). This rule is subject only to those set out in TCGA92/S106A(4) & (5), the “bed and breakfasting” rule described in CG51560.
+
+This means that disposals of relevant securities are identified with acquisitions in the following order –
+
+- With acquisitions within the 30 days following the disposal on a first-in, first-out basis (FIFO), then
+
+- With acquisitions made before the disposal on a last-in, first-out (LIFO) basis
+
+TCGA92/S106A(5) is modified by TCGA92/S106A(5A) which means that relevant securities acquired when the taxpayer is non-resident or treaty non-resident in the UK are ignored for the purposes of the 30 day matching rule.
+
+Relevant securities are –
+
+- securities within accrued income scheme,
+
+- qualifying corporate bonds, and
+
+- Certain interests in a non-reporting fund
+
+Relevant securities do not form part of a Section 104 holding; TCGA1992/S104(3). Note that this points to the similar definition of “relevant securities” for Corporation Tax purposes in TCGA92/S108 although the meanings of “qualifying corporate bond” for CGT and Corporation tax are slightly different, TCGA92/S117.
+
+Although gains on Qualifying Corporate Bonds are exempt from CGT an identification rule is needed because, for example, to determine when a gain calculated on a conversion of shares into such bonds accrues under TCGA92/S116(10).

@@ -1,0 +1,40 @@
+Cryptoassets for businesses: Value Added Tax (VAT)
+Identifier: CRYPTO45000
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto45000
+Published: 2021-03-30T09:03:46+01:00
+Updated: 2021-03-26T11:22:42+00:00
+Retrieved (UTC): 2026-09-18T16:18:30.328653+00:00
+
+VAT is due in the normal way on any goods or services sold in exchange for cryptoasset exchange tokens.
+
+The value of the supply of goods or services on which VAT is due will be the pound sterling value of the exchange tokens at the point the transaction takes place.
+
+Check VAT rates on different goods and services
+
+For VAT purposes, bitcoin and similar cryptoassets are to be treated as follows.
+
+Exchange tokens received by miners for their exchange token mining activities will generally be outside the scope of VAT on the basis that:
+
+- the activity does not constitute an economic activity for VAT purposes because there is an insufficient link between any services provided and any consideration; and
+
+- there is no customer for the mining service
+
+When exchange tokens are exchanged for goods and services, no VAT will be due on the supply of the token itself
+
+Charges (in whatever form) made over and above the value of the exchange tokens for arranging any transactions in exchange tokens that meet the conditions outlined in VATFIN7200 (https://www.gov.uk/hmrc-internal-manuals/vat-finance-manual/vatfin7200), will be exempt from VAT under Item 5, Schedule 9, Group 5 of the Value Added Tax Act 1994.
+
+The VAT treatments outlined above are provisional pending further developments, in particular, in respect of the regulatory and EU VAT positions.
+
+Bitcoin exchanges
+
+In 2014, HMRC decided that under Item 1, Group 5, Schedule 9 of the Value Added Tax Act 1994, the financial services supplied by bitcoin exchanges - exchanging bitcoin for legal tender and vice versa - are exempt from VAT.
+
+This was confirmed in the Court of Justice of the EU (CJEU) in the Swedish case, David Hedqvist (C-264/14). Mr Hedqvist planned to set up a business which would exchange traditional currency for bitcoin and vice versa. Mr Hedqvist did not intend to charge a fee for this service but rather to derive a profit from the ‘spread’ (the difference between his purchase and sell price).
+
+Questions were referred to the CJEU on whether such exchange transactions constitute a supply for VAT purposes and if so, would they be exempt.
+
+The CJEU referred to the judgment in First National Bank of Chicago (C-172/96) (https://www.gov.uk/hmrc-internal-manuals/vat-finance-manual/vatfin2740) and concluded that the exchange transactions would constitute a supply of services effected for consideration.
+
+The Court also ruled that the exchange of traditional currencies for non-legal tender such as Bitcoin (and vice versa) are financial transactions and fall within the exemption under Article 135(1)(e) of the VAT Directive.
+
+A supply of any services required to exchange the exchange tokens for legal tender (or other exchange tokens) and vice versa, will be exempt from VAT under Item 1, Group 5, Schedule. 9, of the Value Added Tax Act 1994.

@@ -1,0 +1,24 @@
+Non-Resident Capital Gains Tax (NRCGT)–Disposals on or after 6/4/2015 to 5/4/19:Interaction between Non-Resident CGT & ATED-related CGT:Disposal of asset acquired after 5 April 2015 or where election made under paragraph 2(1)(b) (but no rebasing in 2016)
+Identifier: CG73881
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73881
+Published: 2018-10-18T11:56:03+01:00
+Updated: 2025-10-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:46:44.371870+00:00
+
+Sch 4ZZB/para 14 applies where an asset is acquired after 5 April 2015 or the person in question makes an election under Sch 4ZZB/para 2 (or Sch 4ZZA/para 5, the equivalent ‘ATED-related CGT’ provision) to compute gains or losses on the basis of the position over the whole period of ownership; and no additional rebasing in 2016 is required (Sch 4ZZA/para 15 applies in cases where rebasing is required).
+
+The NRCGT gain or loss accruing on the relevant high value disposal is computed as follows -
+
+- Step 1, determine the amount of the gain or loss which accrues to the person (ignoring for the purpose of that calculation of TCGA92/S57B or Sch 4ZZB (apart from paragraph 23).
+
+- Step 2, the non-resident CGT gain or loss accruing on the relevant high value disposal is equal to the special fraction of that gain or loss.
+
+The “special fraction” is
+
+SD
+
+TD
+
+Where SD is the number of section 14D chargeable days (see Sch 4ZZB/para 12(5)) in the relevant ownership period; and TD is the total number of days in the relevant ownership period. The “relevant ownership period” is the period from the day on which the person acquired the interest disposed of (or if later, 31 March 1982), to the day before the day on which the relevant high value disposal occurs.
+
+The non-resident CGT gain or loss is therefore the proportion of the gain that represents the number of days during the period of ownership in which the asset was used as a dwelling and was not chargeable to ‘ATED-related’ CGT.

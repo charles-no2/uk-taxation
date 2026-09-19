@@ -1,0 +1,100 @@
+Remittance Basis: Introduction to the Remittance Basis: Foreign Income and Gains: Exchange Rates
+Identifier: RDRM31190
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31190
+Published: 2016-03-09T17:27:03+00:00
+Updated: 2022-01-04T08:19:39+00:00
+Retrieved (UTC): 2026-09-18T16:19:19.488782+00:00
+
+Foreign Income (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31190#IDA1P5NG)
+
+Foreign Chargeable Gains (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31190#IDAYQAOG)
+
+Remittance basis users below the ‘£2,000 threshold’ (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31190#IDAERAOG)
+
+Nominated Income and Gains (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31190#IDAKWAOG)
+
+Foreign income is converted into, and foreign gains are computed in, pounds sterling in all necessary calculations, for example in calculating whether or not un-remitted income or gains falls above or below the ’£2,000 threshold’ in a particular tax year.
+
+All entries on the SA Return should be in pounds sterling.
+
+Exchange rates for the end of the calendar year and the end of the tax year can be found at HMRC website (http://www.hmrc.gov.uk/index.htm) whilst daily rates can be found on a number of commercial websites.
+
+Foreign Income
+
+Foreign income taxed on the arising basis is converted to pounds sterling at the exchange rate applicable on the day that it arose overseas.
+
+Foreign income taxed on the remittance basis (including the remitted income of those individuals who are below the £2,000 threshold (s809D)) is subject to UK tax only when it is remitted to the UK. This remitted income should be translated into sterling at the exchange rate prevailing on the date of remittance.
+
+If foreign currency taxable on the remittance basis is credited to a UK bank account in pounds sterling the exchange rate applied by the bank should normally be accepted.
+
+Example (remittance)
+
+Christophe is a remittance basis user and has €8,000 income paid into his French bank account in June 2011 when the exchange rate is €0.705 to the pound, the equivalent of £5,642.
+
+He remits all €8,000 of this foreign income on 1 May 2013 when the exchange rate was €0.681. He uses this 1 May exchange rate to convert this amount, giving a remitted amount of foreign income of £5,453; this is the amount he is taxed on.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31190#Top)
+
+Foreign Chargeable Gains
+
+Foreign chargeable gains are calculated using sterling translations at the date of acquisition and the date of disposal. So the consideration received will be translated into sterling using the exchange rate at the time of disposal, and allowable deductions will be translated using the exchange rate(s) at the time the expenditure was incurred, (for example, when the asset was acquired). Thus the gain will be denoted in pounds sterling and will be the same whether taxed on the arising or the remittance basis.
+
+If the gain is held as foreign currency, the taxable sterling amount of the gain will not change, but separate gains or losses may accrue if the foreign currency gains or loses value with respect to sterling before the gain is remitted. For periods up to 5 April 2012 if the remittance of the gain takes the form of a transfer of funds from an overseas currency account, that withdrawal of funds from the overseas currency account may give rise to a separate gain or loss. (For further guidance on gains from foreign currency bank accounts see CG78321 onwards and gains on foreign currency CG78300 onwards).
+
+From 6 April 2012 the treatment of foreign currency bank accounts was significantly simplified. From that date the treatment of foreign currency bank accounts was aligned with the treatment of ‘simple debts’. ‘Simple debts’ will not give rise to chargeable gains (or allowable losses) in the hands of the original creditor. The changes from 6 April 2012 do not apply to foreign currency for which the existing rules continue to apply.
+
+For further guidance on gains from foreign currency bank accounts refer to RDRM33570 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33570) and CG78321.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31190#Top)
+
+Remittance basis users below the ‘£2,000 threshold’
+
+An individual with un-remitted foreign income or gains for a tax year of less than £2,000 can choose to use the remittance basis for that tax year without having to make a claim or pay the £30,000 remittance basis charge (ITA07/s809D). Refer to RDRM32110 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32110): Un-remitted income and gains below £2,000 threshold.
+
+For the purposes of determining whether the amount of an individual’s foreign income which is ‘not remitted’ in a tax year is below £2,000 they obviously cannot apply the usual principle for remittance basis users of using the exchange rate at the time of remittance. Instead the balance of the un-remitted foreign income is converted to pounds sterling at the rate of exchange prevailing on the last day of the tax year.
+
+ITA07/s809D(2) provides that the amount of an individual’s “un-remitted” foreign income and gains for a tax year is:
+
+- the total amount of what would (if this section applied) be the individual’s foreign income and gains for that year, minus
+
+- the total amount of those income and gains that are remitted to the United Kingdom in that year.”
+
+So the above formula may be carried out in the foreign currency, looking at total income received and total income remitted, per currency, during the tax year. The balance which is left is the “un-remitted foreign income”. This is translated into sterling using the exchange on the last day of the tax year (5 April) to ascertain whether the ‘un-remitted foreign income’ is below the £2,000 limit.
+
+This practice applies for the purposes of deciding whether ITA07/s809D applies ONLY. All of the individual’s foreign income amounts for a tax year must be taken into account.
+
+Example 1
+
+Michaela received foreign income on 10 April of $5,000 when the exchange rate was (£1=$2).
+
+She remitted $1,500 to the UK on 15 May when the exchange rate was £1=$1.50 She will pay tax on the sterling amount of £1,000.
+
+At the end of the tax year, Michaela’s ‘un-remitted foreign income’ will be calculated using the exchange rate at the end of the tax year, which is £1=$1.80.
+
+This is calculated as follows:
+
+- total foreign income and gains for that year - $5,000
+
+- less amount of that foreign income remitted during year - $1,500
+
+- unremitted foreign income - $3,500
+
+$3,500 is £1,944 using the exchange rate at the end of the tax year; she may use s809D if she wishes to use the remittance basis.
+
+If the exchange rate at the end of the year was £1=$1.50 then the $3,500 un-remitted foreign income would be £2,333, which is above the threshold.
+
+Note 1: If any of this foreign income is later remitted to the UK, it will be liable to UK tax at that point. The rate of exchange that should be used when declaring the remittance is the actual rate of exchange on the date of remittance into the UK. This will mean that the same foreign income may be converted at different exchange rates, depending on the reason for the conversion.
+
+Note 2: HMRC revised its practice regarding the calculation of ‘un-remitted foreign income’ in guidance August 2009. For tax year 2008-2009 this manual and other published guidance advised that for the purposes of ITA07/s809D only, foreign income should be converted to pounds sterling at the rate of exchange prevailing on the date that the un-remitted income arose. It also allowed that, where income credits were frequent throughout the year, the individual could convert their income using the average, or ’mean‘ rate of exchange for the tax year in question. This is no longer the practice, but individuals wishing to use the remittance basis under ITA07/s809D may continue to follow the previous guidance to determine whether they are ‘below the £2,000 threshold’ for tax year 2008-2009 only, if they so wish. Otherwise they should apply the formula detailed above.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31190#Top)
+
+Nominated Income and Gains
+
+Nominated income and gains are charged to UK tax on the arising basis (refer to RDRM32020 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32020) Making a Nomination). This means that any foreign income that is nominated for the purpose of the Remittance Basis Charge is converted to pounds sterling at the exchange rate that applied on the date the income arose.
+
+Foreign chargeable gains are always calculated in pounds sterling at the rate of exchange that applied on the date the gain is realised.
+
+Example 2
+
+Francoise is a non-domiciled individual who is subject to the Remittance Basis Charge. She decides to nominate €20,000 of foreign income. The exchange rate on the date the income arose was €0.744 to the pound. She uses this rate to calculate the equivalent nominated amount of foreign income in sterling, which is £14,880.

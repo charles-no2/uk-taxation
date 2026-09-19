@@ -1,0 +1,55 @@
+Share identification for corporation tax: shares held at 6 April 1965: the kink test
+Identifier: CG51641
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51641
+Published: 2016-03-12T11:23:44+00:00
+Updated: 2025-11-12T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:48:03.561102+00:00
+
+Where a company makes a disposal identified with share held at 6 April 1965 and has not made an election under TCGA92/S35(5) the “kink test” is applied to determine the allowable cost.
+
+How the kink test applies depends on whether the shares were quoted on a recognised stock exchange back in April 1965.
+
+Quoted shares (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51641#IDAWJ33F)
+Unquoted shares (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51641#IDAXI33F)
+
+Quoted shares
+
+Where the shares were quoted on a recognised stock exchange on 6 April 1965 or had been so quoted in any of the previous six years, TCGA92/SCH2/PARA1 provides that -
+
+- The company is treated as though it had sold and immediately reacquired the shares at their market value on 6 April 1965, TCGA92/SCH2/PARA1 (2).
+
+- There is a special rule for determining the market value at 6 April 1965, TCGA92/SCH11/PARA6, old CG3092.
+
+- The shares are not pooled with later acquisitions, paragraph 3 Schedule 5 CGTA 1979. This legislation was not consolidated into TCGA1992 because the pool was frozen in 1982.
+
+- Gains and losses based on the 6 April 1965 value are subject to a kink test comparison with original cost, TCGA92/SCH2/PARA2 (1).
+
+- Disposals after 31 March 1982 are identified on a last in/first out basis, TCGA92/SCH2/PARA2 (2).
+
+- Shares acquired as a result of a bonus or rights issue on or before 6 April 1965 are treated the same way as other quoted shares held on that date, TCGA92/SCH11/PARA26 (2)(b).
+
+- An adjustment to the market value of shares held on 6 April 1965 is required if there is a bonus or rights issue after 6 April 1965.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51641#Top)
+
+Unquoted shares
+
+Where the shares were not quoted on a recognised stock exchange on 6 April 1965 or in any of the six years before 6 April 1965 -
+
+- The shares are not pooled, paragraph 13(2) Schedule 5 CGTA 1979. This provision was not consolidated into TCGA1992 because the pool was frozen in 1982.
+
+- The gain is time-apportioned and only the amount representing the period from 6 April 1965 chargeable. The company can elect to have the gain computed by reference to a 6 April 1965 valuation of the shares sold. These general rules are described in CG15500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15500).
+
+- The time apportionment formula may have to be adjusted if the gain on the disposal of shares in a close company reflects the growth in value of an asset transferred to the company by a person who controls it, TCGA92/SCH2/PARA21.
+
+- If the company elects for a 6 April 1965 valuation the holding to be valued is the shares actually sold not necessarily the total number of shares held on 6 April 1965.
+
+- You can include the cumulative total of all the shares sold in the 6 April 1965 valuation if TCGA92/S19 applies.
+
+- Disposals are identified on a last in/first out basis, TCGA92/SCH2/PARA18 (2).
+
+- If there is a share reorganisation before 6 April 1965 all shares held on 6 April 1965 are treated as though they were reacquired at their market value at that date, TCGA92/SCH2/PARA19 (1). By concession any gain on the disposal of the earlier holding is restricted to the amount of the gain computed by reference to original cost but without time apportionment, ESC/D10.
+
+- If there is a share reorganisation after 6 April 1965 the shares are treated as though they were sold and reacquired at market value at the date of the reorganisation. The gain up to the date of the reorganisation is then time apportioned and released on a later disposal of the shares. The deemed disposal and reacquisition establishes the new value of the shares, (2).
+
+- Neither of the rules on share reorganisations before and after 6 April 1965 apply if the holding of shares after the reorganisation consists wholly of shares of the same class as the original holding, TCGA92/SCH2/PARA19(3) TCGA1992.

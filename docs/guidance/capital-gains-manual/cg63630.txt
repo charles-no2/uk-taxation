@@ -1,0 +1,44 @@
+Investors’ Relief: Exchange of shares for those in another company
+Identifier: CG63630
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63630
+Published: 2017-09-14T15:51:59+01:00
+Updated: 2017-09-14T15:53:34+01:00
+Retrieved (UTC): 2026-09-18T14:34:05.945307+00:00
+
+TCGA92/S169VQ
+
+TCGA92/S169VR
+
+TCGA92/S169VS
+
+TCGA92/S169VT
+
+Where shares are issued in return for others in a share exchange , or a company reconstruction, then (and subject to certain conditions), TCGA92/S127 (by virtue of TCGA92/S135 or S136) treats the transactions as involving neither disposal of the original shares nor acquisition of the new shares received.
+
+Where this happens then the new shares acquired in the exchange will be treated as being subscribed for at the time the original shares were for the purposes of Investors’ Relief. The new shares will still need to meet the other conditions for the relief provided -
+
+- the issuing company and the company involved in the reorganisation are both trading companies or holding companies of a trading group throughout the shareholding period (s169VB(f)) and
+
+- at no time in the shareholding period was the investor (or a person connected with the investor) a relevant employee in respect of those companies (s169VB(g)).
+
+Shares in the new holding will not be prevented from qualifying for Investors’ Relief just because the new shares are in a listed company.
+
+A Ltd is an unlisted trading company which issues 300 shares on 17 March 2016 to Mr Brown, who subscribed for them in cash.
+
+On 30 April 2018 A Ltd is taken over by B Inc., a trading company listed on the New York Stock Exchange. B Inc. issued 1,000 ordinary shares to Mr Brown in exchange for his 300 shares in Company A. This is a share exchange within s135 and so s127 treats Mr Brown as not having made a CGT disposal, rather his 1,000 new shares are treated as being the same as the 300 original shares and acquired for the same amount.
+
+B Plc has always been the holding company of a trading group.
+
+Mr Brown (and anyone connected with him) has not at any point been a relevant employee in respect of A Ltd or B Inc.
+
+On 30 April 2020 Mr Brown decides to sell his 1,000 shares in B Inc.
+
+Subject to the other conditions being satisfied, Mr Brown will be entitled to Investors’ Relief on this disposal. The shares do not lose their Investors’ Relief status because B Inc. is listed.
+
+An election may be made under s169VT to disapply s127. This may be advantageous where the original shares have been held for a sufficient period of time to qualify for Investors’ Relief and, for example, the company issuing the new shares is not a trading company or the shareholder is an employee of that company, or loan notes are issued in the exchange rather than ordinary shares. The effect of the election is that the disposal of the original shares will be recognised for capital gains purposes so that Investors’ Relief can be claimed if the original shares have been held for long enough. The election will only be effective if Investors’ Relief is actually claimed against a gain on the disposal of the original shares. Any election must be made on or before the first anniversary of the 31 January following the tax year in which the reorganisation or exchange of shares takes place. Where Investors’ Relief is being claimed on a disposal by trustees, (see CG63590), then the election must be made jointly by the trustees and the qualifying beneficiary.
+
+Returning to the earlier example, say that in April 2020, rather than Mr Brown selling his shares in B Inc., that company sells a large part of its business to C Plc, an unlisted private equity group. C Plc issues the B Inc. shareholders including Mr Brown with secured loan notes and his B Inc. shares are cancelled. This takes place as a scheme of reconstruction to which S136 applies so that the normal operation of s127 means that Mr Brown will not be treated as having disposed of his B Inc. shares, but rather the loan notes will be treated as being the same as the 300 shares in A Ltd and acquired for the same amount, as were the B Inc. shares. However Mr Brown will not be able to claim Investors’ Relief against the gain that will accrue when the loan notes are redeemed because they are not ordinary shares and also C Plc is not the holding company of a trading group. Mr Brown may make an election under s169VT which will trigger a gain on the B Inc. shares against which Investors’ Relief may be claimed because he is treated as having held them since he first subscribed for the original A Ltd shares.
+
+See CG63500 for a general description of the relief and the layout of the guidance.
+
+See CG63600 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63600) for further information on the interaction between elections under section 169VT (https://www.legislation.gov.uk/ukpga/1992/12/section/169VT) and the reduction to the lifetime cap taking effect from 30 October 2024.

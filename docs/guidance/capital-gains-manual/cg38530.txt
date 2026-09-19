@@ -1,0 +1,42 @@
+Trusts and Capital Gains Tax: Non-resident trusts: Charge on settlor of non-resident settlement - TCGA92/S86: Calculation of trustees’ gains - TCGA92/S86
+Identifier: CG38530
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38530
+Published: 2016-03-12T10:56:25+00:00
+Updated: 2026-04-09T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:40:02.925212+00:00
+
+TCGA92/Sch5/para1
+
+The gains chargeable under section 86 are the gains that would have accrued to the trustees’ if they had been resident in the UK, section 86(1)(e). There is no requirement that the assets are located outside the UK. Often they are not, for example, the trust property could be land in the UK or shares in a UK company.
+
+Annual exempt amount and losses
+
+The trustees are not entitled to any annual exempt amount. Losses can be set against gains and are carried forward to the extent that they are not used. The only restriction is that losses cannot be carried forward from a year in which the conditions for section 86 to apply are not met, TCGA92/Sch5/para1(6). Neither are losses that accrued before 19 March 1991 carried forward.
+
+Underlying section 13 company
+
+TCGA92/Sch5/para1(3)
+
+If the trustees are participators in a non-resident company that would be a close company if it were UK resident any gains made by that company may be caught by TCGA92/S13*, see CG57200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57200). Section 13 was subject to extensive amendment from 6 April 2012 and the number of cases within section 13 is likely to be much reduced. If there is a section 13 gain it is included in the trustees’ gains if it accrues “in respect of property which originates from the settlor”. Property will originate from the settlor if the settlor has settled shares in the company into the settlement or has settled funds that the trustees have used to acquire the shares.
+
+Treaty protected assets
+
+TCGA92/Sch5/para1(4)
+
+The trustees’ gains may be restricted if section 86 applies because UK resident trustees are also treaty non-resident, see CG38450 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38450). Only the gains on treaty protected assets are chargeable unless the total gains are lower. This will happen only if there is a loss on the non-treaty protected assets.
+
+Treaty protected assets are assets on which any gain is not chargeable to UK tax because of a double taxation agreement. If there is no gain on the treaty protected assets no amount is chargeable under section 86. If the gains on treaty protected assets are £25,000 and the total gains are £18,000, because there is a loss of £7,000 on the non-treaty protected assets, only £18,000 is chargeable under section 86.
+
+Section 87 rebasing elections applying in relation to section 86
+
+TCGA92/Sch5/para5C
+
+Paragraph 5C was inserted into Schedule 5 with effect from 6 April 2025 in consequence of the ending of domicile in the tax system and amendments to section 86. As a result of those changes gains accruing to non-resident settlements with a UK resident non-UK domicile settlor with an interest in the settlement became attributable to the settlor under section 86.
+
+Paragraph 5C transfers to section 86 the effect of transitional rules introduced in 2008 on amendment of the application of section 87. Under the rules in FA2008/Sch 7/para 126, trustees may elect to make a one-off rebasing of their assets to 5 April 2008 for the purposes of the application of section 87. Paragraph 5C transfers the effect of such an election through to the computation of gains that become attributable to UK resident settlors under section 86.
+
+Under FA2008/Sch 7/para 126(2) the election has to be made on or before the first 31 January to occur after the end of the first tax year (beginning with 2008-09) in which a relevant event mentioned in that part occurs (see CG38845 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38845)). Although it is still possible to make rebasing elections under para 126 Sch 7 FA 2008 which will then read across to s.86 TCGA, given the length of time since 2008, many settlements will have had the first relevant event a long time ago and consequently will be out of time to make an election if one has not already been made.
+
+See CG38845P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38845p) for guidance on the section 87 rebasing rules.
+
+*This section was re-written for disposals from 6 April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

@@ -1,0 +1,34 @@
+Qualifying corporate bonds: definition - securities that can qualify
+Identifier: CG53704
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53704
+Published: 2016-03-12T11:33:01+00:00
+Updated: 2021-08-27T16:30:14+01:00
+Retrieved (UTC): 2026-09-18T14:43:00.497591+00:00
+
+TCGA 1992 section 117 provides a statutory definition of what is a qualifying corporate bond (QCB). Securities which do not qualify as QCBs are generally referred to as non-qualifying corporate bonds, (non QCBs).
+
+Section 117(A1) directs that for the purposes of corporation tax any asset of a company that is within the loan relationship regime will be treated as a QCB so in such instances no other conditions need be met. Note that the subsection does not refer to “any security” or to “any corporate bond” but to “any asset”.
+
+If considering whether a security is a QCB for purposes other than corporation tax then the criteria in section 117 subsections (1) to (12) have to be met.
+
+Sections 117(7) & (8) provide some of the general rules for determining whether a security is a QCB.
+
+A security issued after 13 March 1984, and which meets the conditions in section 117 to be a corporate bond, will be a QCB. Before March 1996 the security also had to meet other conditions, not dealt with in this guidance, see the third paragraph in CG53700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53700).
+
+Securities issued on or before 13 March 1984 can still be QCBs provided that they were acquired by a person after that date and;
+
+- The disposal which led to the acquisition was not a disposal to which any of the no gain no loss provisions within the TCGA would apply. For example company A acquires securities on 1 March 1984 and on 19 March 1984 disposes of those securities to company B. Companies A and B are members of the same capital gains group, see CG45300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45300)+, therefore the disposal will be on a no gain no loss basis within section 171. The securities are therefore not QCBs in B’s hands.
+
+See CG53719 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53719) for details of no gain no loss transfers.
+
+- The consideration for the disposal which led to the acquisition was not treated for the purposes of the TCGA as reduced by an amount equal to the held over gain on that disposal. This applies to any transaction within section 165 (Gifts of business assets), see CG66450c (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66450c), and section 260 (Gifts on which inheritance tax is chargeable etc), see CG10280 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10280); but see CG53722 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53722) and 53724 for changes to sections 165 and 260 and their interaction with section 116.
+
+Section 117(1) sets out the first requirement that the security has to meet which is that the security has to come within the definition of that term as provided by section 132(3)(b), i.e.
+
+‘security includes any loan stock or similar security whether of the Government of the United Kingdom or of any other government, or of any public or local authority in the United Kingdom or elsewhere or of any company, and whether secured or unsecured.’
+
+This means that to be a security for the purposes of section 117, the security can only be issued by one of the concerns listed in section 132(3)(b).
+
+Note: There is no statutory definition on the meaning of “loan stock or security”.
+
+Paragraphs CG53705 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53705) -07 provide guidance on the other criteria within section 117(1). CG53708 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53708) provides details of specific types of securities that are automatically QCBs, or are not QCBs.

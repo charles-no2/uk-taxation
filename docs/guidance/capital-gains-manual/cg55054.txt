@@ -1,0 +1,48 @@
+Conversion of securities: compensation stock: rebasing
+Identifier: CG55054
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55054
+Published: 2016-03-12T11:36:57+00:00
+Updated: 2023-05-05T13:35:56+01:00
+Retrieved (UTC): 2026-09-18T14:33:19.179329+00:00
+
+If the nationalisation occurred before 31 March 1982 the taxpayer can claim relief under TCGA92/SCH4/PARA4 if the gain is released by a disposal of the gilts after 6 April 1988, see CG16980. The held over gain is reduced by one half.
+
+Example
+
+- 1970 Mr Mooney inherits 20,000 shares in Monarch Ships Ltd at an agreed value of £3 per share.
+
+- 1977 Monarch Ships Ltd is nationalised. Compensation is agreed at £4 per share. This is satisfied by an issue of gilts at below par. Mr Mooney received gilts with a nominal value of £84,000.
+
+- 1990 Mr Mooney transfers gilts with a nominal value£30,000 to his wife.
+
+- 1991 Mr Mooney and his wife both dispose of their entire holding of gilts.
+
+Capital Gains Tax Computation 1977
+
+Compute the held over gain, TCGA92/S134 (2)(a)
+
+- |  Amount |
+
+Disposal proceeds 20,000 x £4 = |  £80,000 |
+
+Acquisition cost 20,000 x £3 = |  £60,000 |
+
+Held over gain |  £20,000 |
+
+Capital Gains Tax Computation 1990
+
+The transfer to the wife does not trigger a release of the held over gain, TCGA92/S134 (4). The wife inherits the liability to the held over gain.
+
+Capital Gains Tax Computation 1991
+
+The disposal of the gilts is exempt, TCGA92/S115. Both disposals release the held over gain, TCGA92/S134 (2)(b). The gain is halved by the operation of TCGA92/SCH4/PARA4.
+
+- |  Amount |  - |
+
+Mr Mooney |  54,000 |  x £20,000 ¸ 2 = £6,428 |
+
+- |  84,000 |  - |
+
+Mrs Mooney |  30,000 |  x £20,000 ¸ 2 = £3,571 |
+
+- |  84,000 |  - |

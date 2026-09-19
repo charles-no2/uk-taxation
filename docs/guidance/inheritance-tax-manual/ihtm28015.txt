@@ -1,0 +1,54 @@
+Liabilities: restricted deductions: disposal of acquired assets where money has been borrowed to acquire excluded property
+Identifier: IHTM28015
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28015
+Published: 2016-04-09T09:52:10+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:03:54.380416+00:00
+
+IHTA84/S162A(2) provides that where a liability may not be allowed as a deduction because it was used to acquire excluded property (IHTM28014 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28014)), the debt may still be deducted where, broadly, the assets have been sold and the money received for them is now subject to Inheritance Tax. The liability may be allowed as a deduction:
+
+-
+
+to the extent that the excluded property has been disposed of,
+
+-
+
+for full consideration in money or money’s worth,
+
+-
+
+either in whole or in part, and
+
+-
+
+before the charge to tax arose.
+
+In this case, the liability may be allowed as a deduction up to the amount of the consideration, as long as the consideration:
+
+-
+
+is now represented by assets that are subject to tax, and
+
+-
+
+was not used to either finance the acquisition of other excluded property, or to discharge any other borrowing which itself would be disallowed under IHTA84/S162A.
+
+This might be the case where, for example, the taxpayer has invested in an excluded property trust and then dismantles the arrangements so that they get their money back and which is then subject to Inheritance Tax, but the liability remains outstanding at the date of death.
+
+Example 1
+
+The trustees of an excluded property trust borrow £1m which they charge on existing UK property worth £1.5m. They transfer the £1m to a sterling bank account offshore. If the charge to tax arose at this point the liability would be disallowed by IHTA84/S162A. But, if the trustees transfer the funds back to the UK, they have disposed of excluded property and replaced it with assets that are chargeable to Inheritance Tax. In these circumstances the liability can be taken into account to reduce the value of the UK property when the next charge, either an anniversary or exit charge, arises.
+
+The value of the chargeable UK assets would be £2.5m, reduced to £1.5m after the loan has been deducted.
+
+Example 2
+
+Axel, who is not domiciled in the UK (to 5 April 2025) (IHTM13000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13000)) or not a long-term UK resident (from 6 April 2025) (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)), owns shares in an overseas company, which owns a UK property. Axel acquired the company by borrowing £1m. The company is liquidated and the UK property is transferred to Axel.
+
+IHTA84/S162A(2) refers to the disposal of excluded property for consideration in money or money’s worth. You may accept that liquidating the company and transferring the property to Axel meets that requirement so the liability may be allowed as a deduction against the UK property, although the allowable liability cannot exceed the value of the UK property that was transferred to the Axel.
+
+Example 3
+
+Basha, who is not domiciled in the UK(to 5 April 2025) or not a long-term UK resident (from 6 April 2025), borrows £1m which she uses to invest in an overseas company (Company A). Company A in turn owns another overseas company (Company B) which owns a UK property. Company A is liquidated so Basha receives the shares in Company B. Company B is then liquidated and Basha becomes the owner of the UK property.
+
+Here the liability is attributable to indirectly financing the acquisition of the shares in Company B that owned the UK property. So excluded property was disposed of for full consideration in money’s worth and as the consideration (the UK property) is not excluded, the liability may be allowed as a deduction against it.

@@ -1,0 +1,74 @@
+Part 2 - Submitting returns through the CGT on UK Property Account: The “Before you start” section of the return submitted through the CGT on UK Property Account
+Identifier: CG-APP18-230
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-230
+Published: 2022-05-23T11:29:23+01:00
+Updated: 2023-03-10T14:15:51+00:00
+Retrieved (UTC): 2026-09-18T14:47:16.645705+00:00
+
+2.3 The “Before you start” section of the return submitted through the CGT on UK Property Account
+
+The first set of questions presented to the users submitting a return through the CGT on UK Property Account, are designed to check that the user should be using the account, as well as gathering some initial details of the disposal which is to be reported. There is further guidance in “Part 1 Accessing the CGT on UK Property Account” section of this guidance on the different customer groups that can use the account.
+
+Please note, the order and precise wording of the questions the user will see when completing a return using their CGT on UK Property Account will depend upon the information entered and selected by the user, and whether they are accessing the account as an agent.
+
+Who are you reporting the tax for?
+
+The user will be presented with the following options:
+
+- Yourself
+
+- Someone you’re helping (you’re a capacitor)
+
+- A person who made the disposal before they died (you’re a personal representative)
+
+- The estate of a person and the disposal was made after they died (you’re a personal representative)
+
+The response given to this question, determines what subsequent questions are asked. Refer to Part 1 of this guidance for specific details relating to the different user types and how the access the system, for example section 1.5 covers personal representatives and capacitors.
+
+How many properties do you want to include in this return?
+
+If a person has more than one property transaction to report in a single return due to more than one property transaction completing on the same day, the system will ask some additional questions to determine if they can be reported together in a single return. A UK resident person can only report multiple disposals in a single return if they all had:
+
+- the same completion date,
+
+- contract exchange dates on or after 6 April 2020
+
+- contract exchange dates that were in the same tax year
+
+The system will ask questions to check these conditions. The user must send separate returns if the contract exchange dates were in different tax years.
+
+The contract exchange dates can be in a different tax year to the completion date. There is an example of this at 2.6.1.
+
+How did you dispose of the property?
+
+The user is presented with the following options:
+
+- Sold
+
+- Given away
+
+- Other
+
+Their response to this question will determine what other questions will follow. Where they select other or given away, they will later be asked for the market value as opposed to how much they sold the property for.
+
+What date did you exchange contracts?
+
+This is the disposal date. The contract exchange date is usually when the buyer and seller exchange contracts and is usually when the new owner pays a deposit.
+
+The tax year of exchange is the tax year that the disposal is chargeable in, even if completion of the contract occurs in a later tax year.
+
+2.3.4 Have you sent a Self Assessment for the tax year in question?
+
+This question is asked because if the person has already filed a Self Assessment return for the tax year disposal occurs, then they cannot use the digital service to report the gain and must do so on a paper CGT on UK Property return - see 1.13
+
+2.3.5 Was the person a UK resident on the disposal date?
+
+The answer to this yes or no question determines which questions later get presented to the user. The remainder of this guidance focusses on how to complete the return via the CGT on UK Property Account for those who select yes to this question because they were UK resident on the date of disposal.
+
+If the user selects yes, they are then asked if they are reporting the disposal of a UK residential property. If the user selects no, they have indicated that they are UK resident, but the disposal was not of UK residential property then, they are unable to use this account. If they select yes, they are asked further questions about the disposal.
+
+2.3.5 When the property was disposed of what was the completion date?
+
+The completion date is usually when the money from the property sale was transferred and the new owner got the keys.
+
+This date is required as the timeframe for delivering a return to HMRC runs from the completion of the disposal.

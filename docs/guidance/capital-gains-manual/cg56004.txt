@@ -1,0 +1,30 @@
+Futures: income or CG: CG treatment
+Identifier: CG56004
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56004
+Published: 2016-03-12T11:38:05+00:00
+Updated: 2021-10-21T08:57:28+01:00
+Retrieved (UTC): 2026-09-18T14:33:32.268149+00:00
+
+Specific legislation provides that certain disposals which would have been dealt with under the capital gains rules are instead to give rise to income profits or losses. This applies:
+
+- for Corporation Tax purposes only, where the futures fall within the legislation in Part 7 CTA09 (Derivative Contracts). (Or previously, within the legislation in FA02 (Derivative Contracts), or FA94 (Financial Instruments)). See CFM50000 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm50000)+. or
+
+- in cases where schemes or arrangements involving the use of futures or/and options are designed to give a guaranteed return, see Chapter 12 Part 4 ITTOIA05 and CG56200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56200). (Or previously ICTA88/Sch5AA, which applied also for Corporation Tax until such options and futures were brought within the FA02 rules for derivative contracts.)
+
+TCGA92/S143
+
+The Capital Gains treatment of futures is dealt with in TCGA92/S143. The section has two functions.
+
+1. The legislation now at Section 143(1) and ITTOIA05/S779 (CTA09/S981 for Corporation Tax) was introduced to prevent any argument that, if transactions in options and futures did not amount to trading, liability might nonetheless arise under Chapter 8 of Part 5 ITTOIA05 (Chapter 8 of Part 10 CTA09) as miscellaneous income. It applies to
+
+- commodity and financial futures dealt in on a recognised futures exchange, Section 143(2), see CG56021 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56021). See CG56120 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56120) for a list of recognised futures exchanges,
+
+- over-the-counter futures as defined in Section 143(3), see CG56027 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56027).
+
+It is a question of fact whether transactions in futures themselves amount to a trade. Individuals in particular are unlikely to carry on a trade of dealing in futures. Transactions may however be entered into which are ancillary to trading transactions on revenue account. Cases of doubt or difficulty should be referred to CT&BIT (Financial Trading), see BIM56800 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56800) onwards.
+
+Profits from transactions in commodity and financial futures dealt in on a futures exchange which is not recognised will be liable to tax as income if the transactions do not amount to trading.
+
+2. Section 143(5)-(7) provide a computational regime for dealing with futures that are closed out or where obligations under the contract are fully or partially settled by the making of a payment.
+
+There are no special rules for futures which are settled by delivery of the underlying asset. The transaction is treated as an acquisition/disposal of the asset under a contract.

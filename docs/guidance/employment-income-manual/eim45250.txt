@@ -1,0 +1,146 @@
+Employment income provided through third parties: exclusions: acquisitions out of earmarked sums or assets
+Identifier: EIM45250
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45250
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T13:19:14+01:00
+Retrieved (UTC): 2026-09-18T14:23:15.201816+00:00
+
+Sections 554R and 554Z17(2) ITEPA 2003
+
+Scenario envisaged by Section 554R (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45250#IDAUMQSB)
+
+The arm’s length condition (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45250#IDAPOQSB)
+
+Section 554R(6): exclusion if T is within Section 554B (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45250#IDA1PQSB)
+
+Section 554R(6): earlier relevant step before 6 April 2011 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45250#IDARSQSB)
+
+Section 554R(8): exclusion if Section 554C step taken to acquire T (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45250#IDAUTQSB)
+
+Suppose that a sum of money or asset is held, and another sum of money or asset is acquired out of it.
+
+Then, if the specified conditions are met, the latter sum of money or asset will not itself give rise to Part 7A income upon its acquisition.
+
+Scenario envisaged by Section 554R
+
+There are four conditions for Section 554R to apply. They are bulleted below.
+
+- A sum of money or asset (‘sum or asset S’) is held by or on behalf of a person (‘P’).
+
+- A sum of money or asset (‘sum or asset T’) is acquired by or on behalf of P wholly out of sum or asset S. For example, sum or asset T represents the proceeds of disposing of sum or asset S.
+
+- Sum or asset T is not acquired (directly or indirectly) from A or any person linked with A (see EIM45860 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45860)).
+
+- The arm’s length condition is met.
+
+Section 554R can apply to steps within Section 554Z18 (undertakings given by employers etc in relation to retirement benefits etc: earmarking etc). See EIM45150 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45150).
+
+If the step is within Section 554Z18, the third and fourth conditions do not need to be met.
+
+But section 554R can not apply to steps within Section 554Z19 (undertakings given by employers etc in relation to retirement benefits etc: provision of security). See EIM45155 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45155).
+
+The arm’s length condition
+
+The arm’s length condition is an anti-avoidance condition.
+
+You take four steps to find out whether it is met.
+
+Step 1. Value sum or asset T at the time of its acquisition.
+
+Step 2. Value sum or asset S (to the extent that sum or asset T is acquired out of it) at that time.
+
+Step 3. Compare these two values. If they are the same, the arm’s length condition is met. If they are not, find out why not and go to Step 4.
+
+Step 4. If the difference between the two values (or any part of the difference) might not have been expected on the assumption that all ‘relevant connected persons’ are acting at arm’s length of each other, then the arm’s length condition is failed. Otherwise, it is met.
+
+A ‘relevant connected person’ is a person with a connection (direct or indirect) to the arrangement under which sum or asset T is acquired.
+
+‘Connection’ here has its normal English meaning.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45250#Top)
+
+Section 554R(6): exclusion if T is within Section 554B
+
+If:
+
+- when sum or asset T was acquired, P took a relevant step within Section 554B and sum or asset T was the subject of this step, and
+
+- three conditions are met,
+
+then Section 554R(6) will prevent that step from giving rise to Part 7A income.
+
+These are the three conditions.
+
+- Before sum or asset T was acquired, P took a relevant step within Section 554B and sum or asset S was the subject of this step.
+
+- This step either (a) gave rise to Part 7A income or (b) would have given rise to it but for one of the following exclusions:
+
+- Section 554R(6),
+
+- Section 554R(8),
+
+- Section 554Q (income arising from earmarked sum or asset) see EIM45245 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45245), or
+
+- Section 554T (employee pension contributions) see EIM45615 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45615).
+
+- Immediately before sum or asset T was acquired, sum or asset S was still held on a Section 554B basis (see EIM45095 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45095)).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45250#Top)
+
+Section 554R(6): earlier relevant step before 6 April 2011
+
+Suppose:
+
+- when sum or asset T was acquired, P took a relevant step within Section 554B and sum or asset T was the subject of this step, but
+
+- P took a relevant step, of which sum or asset S was the subject, before 6 April 2011.
+
+Then the later relevant step (of which sum or asset T was the subject) needs the shelter of Section 554R.
+
+But the second of the three conditions focusing on the earlier relevant step cannot be met, because the earlier relevant step could not possibly have given rise to Part 7A income.
+
+The transitional rule in Schedule 2 paragraph 57 FA 2011 solves this problem.
+
+It deems this condition to be met if - supposing the Part 7A rules had been in force when the earlier relevant step was taken - that step would have either (a) given rise to Part 7A income or (b) given rise to Part 7A income but for one of the exclusions listed above.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45250#Top)
+
+Section 554R(8): exclusion if Section 554C step taken to acquire T
+
+Section 554R(8) prevents Part 7A income arising if, broadly, a relevant step within Section554C is taken in order to acquire sum or asset T.
+
+Condition A must be met, and either condition B or condition C must be met.
+
+Condition A is that:
+
+- sum or asset S or sum or asset T is the subject of a relevant step within Section554C(1)(a) to (c) (payment of sum; transfer of asset; employment-related securities etc - see EIM45060 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45060)), and
+
+- this is for the sole purpose of acquiring sum or asset T.
+
+Condition B is that:
+
+- when sum or asset T was acquired, P took a relevant step within Section 554B (seeEIM45095 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45095)) and sum or asset T was the subject of this step, and
+
+- this step either (a) given rise to Part 7A income or (b) would have given rise to Part 7A income but for one of the following exclusions:
+
+- Section 554R(6),
+
+- Section 554H (earmarking of deferred remuneration) see EIM45255 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45255) onwards,
+
+- Section 554J (earmarking for employee share schemes: specified vesting date) see EIM45355 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45355) onwards,
+
+- Section 554K (earmarking for employee share schemes: specified exit events) see EIM45385 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45385) onwards,
+
+- Section 554L (earmarking for employee share option schemes: specified vesting date) see EIM45405 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45405) onwards,
+
+- Section 554M (earmarking for employee share option schemes: specified exit events) see EIM45435 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45435) onwards,
+
+- Section 554Q (income arising from earmarked sum or asset) see EIM45245 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45245), or
+
+- Section 554T (employee pension contributions) see EIM45615 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45615).
+
+Condition C is that:
+
+- when sum or asset T was acquired, sum or asset T was held by or on behalf of P on the same basis as that on which sum or asset S was held by or on behalf of P immediately before sum or asset T was acquired.
+
+If condition A is met and condition B or condition C is met, Section 554R(8) prevents the relevant step mentioned in condition A from giving rise to Part 7A income.

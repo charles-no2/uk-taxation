@@ -1,0 +1,34 @@
+Depreciatory transactions: types of depreciatory transaction
+Identifier: CG46530
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46530
+Published: 2016-03-12T11:12:19+00:00
+Updated: 2016-01-25T17:05:34+00:00
+Retrieved (UTC): 2026-09-18T14:41:43.529597+00:00
+
+The most common examples of depreciatory transactions are dividends, and asset transfers at less than market value. The provisions also apply to asset transfers at more than market value. An example would be where the ultimate disposal is of shares in company X which has paid £3M to another group company for an asset worth £2M. This transaction reduces the value of the shares in X by £1M. Other transactions within the definition include
+
+- the cancellation of loans or debts
+
+- the transfer of liabilities from one group company to another for inadequate or excessive consideration
+
+- payments made to other group members at above commercial rates for services or the use of assets
+
+- payments received from other group members for services or the use of assets which do not cover the related costs
+
+- excessive payments for tax relief, but see below.
+
+Within a group of companies amounts are often left outstanding on inter-company loan account, for example the purchase price where an asset is sold by one group member to another. Where such a loan is interest free and repayable on demand the making of the loan will not, in the absence of special features, constitute a depreciatory transaction as the loan will not have materially reduced the value of the company’s shares when it was made. In some circumstances it is possible that an intra-group loan may materially reduce the value of a company’s shares. This may happen where, for example, it is unlikely that the debt will be repaid in full and this is known when the loan is made, or where the loan is made for a specified term at less than a commercial rate. In these circumstances making the loan may amount to a depreciatory transaction which has materially reduced the value of the company’s shares. See CTM51220 for the treatment of inter-company loan accounts under the loan relationships regime.
+
+Payments for tax relief (also known as “subvention payments”)
+
+In relation to transfers of tax relief within groups, for example group relief surrenders of transfers of allowable losses under TCGA92/S171A, a loss restriction is appropriate where a company makes a payment for relief in excess of the tax benefit it obtains. No restriction should be made where a company transfers relief for no payment, or for a payment which is less than the tax benefit to the other group company.
+
+EXAMPLE 1
+
+Company A has directly held subsidiaries B and C. In 2012 B surrenders group relief £5M to C, and this reduces C’s tax liability by £1.5M. In 2014 A sells C at a loss.
+
+If C paid B more than £1.5M for the group relief surrender, a loss restriction should be made in respect of the excess.
+
+EXAMPLE 2
+
+Company A has directly held subsidiaries B and C. In 2010 B surrenders group relief £5M to C, and this reduces C’s tax liability by £1.5M. Company C pays £1M to B for the group relief surrendered. In 2013 A sells B at a loss. No loss restriction should be made in respect of the difference between the £1M received by B and the tax benefit to C £1.5M.

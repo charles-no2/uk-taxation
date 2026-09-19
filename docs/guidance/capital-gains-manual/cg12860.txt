@@ -1,0 +1,60 @@
+Introduction and computation: occasions of charge: hire purchase agreements 
+Identifier: CG12860
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12860
+Published: 2016-03-12T10:01:25+00:00
+Updated: 2025-10-02T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:30:22.469370+00:00
+
+Throughout this manual, all legislative references are to the Taxation of Chargeable Gains Act 1992 (https://www.legislation.gov.uk/ukpga/1992/12/contents) (“TCGA 1992”) unless otherwise stated.
+
+A hire purchase agreement, or series of hire purchase agreements, will normally include all the following:
+
+-
+
+an agreement which lets the eventual buyer of the asset use it for a specified period (called the hire period)
+
+-
+
+an agreement that the buyer pays an initial sum at the beginning of the hire period (called the deposit)
+
+-
+
+an agreement that the buyer pays regular sums during the hire period (called the hire charge)
+
+-
+
+an agreement that the buyer takes ownership of the asset at the end of the hire period
+
+See ‘Multiple agreements’ below for information when there is a series of agreements.
+
+It is the existence of the final agreement which distinguishes a hire purchase agreement from a sale agreement. It produces a different legal result since under a hire purchase agreement, legal ownership is kept by the seller until the end of the hire period. In the case of a sale agreement, legal ownership will pass when the contract becomes final.
+
+Section 27 (https://www.legislation.gov.uk/ukpga/1992/12/section/27) states that the seller is regarded as having disposed of the asset at the beginning of the hire period. This means that the normal rules involving deferred consideration apply. This approach was supported by the Courts in Lyon v Pettigrew [1985].
+
+There are special rules which apply in cases where the buyer does not complete the payments or the asset is repossessed, see below.
+
+Indexation allowance
+
+Any indexation allowance under sections 53 to 55 (https://www.legislation.gov.uk/ukpga/1992/12/part/II/chapter/IV/crossheading/general), see CG17200C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17200c), is calculated:
+
+-
+
+for the seller up to the date on which the hire period began
+
+-
+
+for the buyer from that date
+
+Seller position
+
+Generally, where the seller is a trader, the hire charges will be income receipts, see BIM40550 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim40550). If the hire charges are capital receipts, you apply the same rules as you use in any case involving deferred consideration, see section 48 (https://www.legislation.gov.uk/ukpga/1992/12/section/48) and CG14850P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14850p).
+
+Most hire purchase agreements let the seller repossess or recover the asset if the buyer does not pay the full amount of the hire charges. If an asset is repossessed and the sums received by the seller are treated as capital, the capital gains computation may need to be amended and should only include the amount which the seller received.
+
+Buyer position
+
+Hire charges are not treated as part of the acquisition cost of the asset for Capital Gains Tax purposes. Where the buyer is a trader, then these payments may be allowable deductions, see BIM45350 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim45350).
+
+Multiple agreements
+
+Sometimes, instead of what initially appears to be a series of separate transactions, a series of transactions may be so closely linked that, as a matter of legal construction, they should be regarded as constituting a single disposal, see CG12700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12700).

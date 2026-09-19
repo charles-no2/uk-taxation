@@ -1,0 +1,62 @@
+Interaction with conditional exemption and woodlands relief: recapture charge arising before the death of the survivor 
+Identifier: IHTM43045
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43045
+Published: 2016-04-09T10:29:05+01:00
+Updated: 2017-10-25T16:53:10+01:00
+Retrieved (UTC): 2026-09-18T15:10:01.227440+00:00
+
+If the property is disposed of before the death of the survivor, the original percentage of transferable nil rate band should be calculated. A further calculation is then made under IHTA84/S8C(2) to quantify amount of nil rate band that will be used by the charge on disposal. The original percentage is reduced to give the revised percentage of nil rate band available for transfer to the estate of the survivor.
+
+Remember, however, that if there was any Inheritance Tax (IHT) paid on the first estate, or if IHT becomes due on the first estate as a result of the recapture charge, there can be no nil rate band to transfer to the second death.
+
+Example
+
+Hermione survived her husband, Daniel who died on 1 January 2003 leaving an estate of £550,000 as follows
+
+£50,000 legacies to his children,
+
+£125,000 painting qualifying for conditional exemption
+
+The residue to Hermione
+
+Unused nil rate band calculation
+
+M = £250,000
+
+VT = £50,000
+
+M is greater than VT by £200,000
+
+Transferable nil rate band calculation
+
+E =£200,000
+
+NRBMD = £250,000 so
+
+(200,000 ÷ 250,000) × 100 = 80.0000%
+
+Before Hermione’s death, the conditionally exempt property was sold in 2005/06 for £175,000 when the nil rate band is £275,000. When the sale proceeds are added to husband’s chargeable estate, the total becomes £225,000. No tax is due, but the unused nil rate band is reduced. An adjustment is necessary to reflect this.
+
+The calculation at IHTA84/S8C(2) is expressed as
+
+(E ÷ NRBMD) – (TA ÷ NRBME) x 100
+
+where E & NRBMD have the same meaning as they do in IHTA84/S8A(4) (IHTM43020 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43020)) and
+
+TA is the amount on which tax is chargeable in relation to the disposal, and
+
+NRBME is the nil rate band maximum at the time of the event occasioning the charge.
+
+So in this example, TA is £175,000 and NRBME is £275,000.
+
+So, the S8C(2) calculation is
+
+(200,000 ÷ 250,000) – (175,000 ÷ 275,000) x 100 or
+
+(0.8) – (0.64) x 100 = 16%
+
+On the Hermione’s death on 1 December 2007, the nil rate band available for transfer is only 16%, so the nil rate band available to her estate is
+
+£300,000 + (300,000 x 16%) = £348,000
+
+Where there is more than one recapture charge before the survivor dies, the IHTA84/S8C(2) calculation should be performed for each charge and the nil rate band available for transfer to the survivor reduced by each successive amount, IHTA84/S8C(3). The calculation should be performed from scratch, so that if the TA ÷ NRBME calculation for the second recapture charge was 0.2, the calculation would become (0.8 - 0.64 – 0.2). This would result in the whole of unused nil rate band being used against the recapture charges leaving nothing left to transfer.

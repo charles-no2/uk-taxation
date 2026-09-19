@@ -1,0 +1,50 @@
+Compensation: assets damaged/destroyed: part of  compensation applied
+Identifier: CG15750
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15750
+Published: 2016-03-12T10:12:08+00:00
+Updated: 2023-04-11T10:24:50+01:00
+Retrieved (UTC): 2026-09-18T14:38:10.715423+00:00
+
+S23(4) TCGA92 does not apply where only part of the compensation for the original asset is used to acquire the replacement asset. However, provided that the amount which is not used is less than the gain on the disposal of the old asset, a claim can be made under s23(5) TCGA92.
+
+Under s23(5) TCGA92, the claimant is treated as if
+
+- the amount of the gain was reduced to the amount not used in acquiring the replacement asset (or, where the gain is not all chargeable, with a proportionate reduction in the chargeable gain), and
+
+- the cost of the replacement asset is reduced by that reduction (or proportionate reduction).
+
+Example
+
+On 6 April 2017 Mr S purchased a piece of jewellery for £20,000. In 2021 it was stolen and on 6 October 2021 he received £26,000 compensation from the insurance company.
+
+In February 2022 Mr S bought a replacement for £25,400 and made a claim under s23 TCGA92. Since he used only part of the £26,000 compensation to purchase the replacement asset, the claim has to be under s23(5) not (4) TCGA92.
+
+The gain on the original asset is:
+
+- |  £ |
+
+Compensation received |  26,000 |
+
+Less cost of asset |  20,000 |
+
+Equals original gain |  6,000 |
+
+The gain must be reduced to the amount of the compensation not used on the replacement:
+
+- |  £ |
+
+Compensation received |  26,000 |
+
+Less compensation used on replacement |  25,400 |
+
+Equals revised gain (compensation not used) |  600 |
+
+The acquisition cost of the replacement asset is reduced by the amount by which the chargeable gain is reduced:
+
+- |  £ |
+
+Acquisition cost of replacement |  25,400 |
+
+Less difference between original gain and revised gain (6,000 - 600) |  5,400 |
+
+Revised acquisition cost |  20,000 |

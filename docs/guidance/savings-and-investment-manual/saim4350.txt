@@ -1,0 +1,32 @@
+Accrued Income Scheme: exemptions for interest receivable on AIS securities
+Identifier: SAIM4350
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4350
+Published: 2016-03-19T16:26:36+00:00
+Updated: 2018-11-29T09:29:52+00:00
+Retrieved (UTC): 2026-09-18T14:26:31.318453+00:00
+
+Exemptions from income tax on interest on AIS securities
+
+There are three cases in which interest received on securities to which the AIS applies is exempt from income tax. These are set out in Chapter 3 of Part 12 of ITA07 (ITA07/S678 to S681). The most common is the exemption in ITA07/S679 where the transfer results in an accrued income loss.
+
+Accrued income losses
+
+Where, payments by a person exceed payments to that person, in respect of securities of the same kind and in the same interest period, that person makes an accrued income loss (SAIM4110 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4110)). Under ITA07/S679 an equal amount of interest from that security is exempt from income tax (the charge for which will be under Part 4 of ITTOIA05 - SAIM2000 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2000)). The accrued income loss is, in effect, set against the interest from that security when it is received.
+
+Where the interest period does not end with an interest payment day, the loss is carried forward to be treated as a payment in the next interest period (ITA07/S637 - SAIM4120 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4120)).
+
+For individuals, interest is taxable in the tax year in which it arises, and the AIS loss will arise in the same year. For partnerships, interest may be taxed in more than one tax year and thus in a different year to that in which it arises. ITA07/S679 (3) prevents any person being exempt from the interest in more than one tax year and restricts the exemption to the tax year in which the interest period ends.
+
+Accrued income losses of foreign trustees
+
+ITA07/S680 gives loss relief for non-resident or non-UK domiciled trustees if, under ITA07/S679, such relief would have been available to UK-resident trustees. It complements ITA07/S667 (trustee’s accrued income profits treated as settlement income).
+
+Unrealised interest received after transfer
+
+Where securities are transferred with unrealised interest (SAIM4170 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4170)), the transferor is deemed to receive a payment and is thus taxable on accrued income profits. No one is deemed to have made the payment, so the transferee does not have accrued income losses. Where the interest is subsequently received by the transferee, ITA07/S681 prevents double taxation by ensuring that in certain circumstances the transferee is exempt from interest received (except where they are an exempt transferee).
+
+Where the issuer has defaulted on the interest, the transferor is taxed under ITA07/S634 (SAIM4290 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4290)) on the right to receive interest rather than the interest itself. Under ITA07/S681(3) the amount of the interest which is exempt in the hands of the transferee is correspondingly restricted to the amount that exceeds the value of the right to receive the interest.
+
+Unrealised interest payable in a foreign currency
+
+ITA07/S665 contains the currency conversion provisions that apply where unrealised interest is payable in a foreign currency. As with other cases involving foreign securities (SAIM4310 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4310)), the value is the sterling equivalent calculated by reference to the London closing rate.

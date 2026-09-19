@@ -1,0 +1,12 @@
+Options: cash-settled options
+Identifier: CG12320
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12320
+Published: 2016-03-12T09:58:47+00:00
+Updated: 2021-03-29T12:40:47+01:00
+Retrieved (UTC): 2026-09-18T14:36:45.354060+00:00
+
+TCGA92/S144A
+
+The treatment of the parties on the exercise of an option is modified where, under the terms of the option, or its exercise, the grantor is required to make a payment to the person exercising it in full or partial settlement of his obligations under the option. In these circumstances TCGA92/S144A applies. See CG12321 and CG12322.
+
+Traded and financial options over the RPI or other financial index can only be cash-settled as there is no underlying asset which can be transferred when the option is exercised. Thus, if a taxpayer acquires a call option over the FTSE 100 index with a strike price of 5,500 and exercises it when the index stands at 5,600, he receives not shares in companies within the FTSE 100 but a payment based upon the difference between the strike price and the index. At £10 per point he would receive £1000.

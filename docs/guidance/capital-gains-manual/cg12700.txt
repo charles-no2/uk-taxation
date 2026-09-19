@@ -1,0 +1,76 @@
+Disposal of assets: introduction
+Identifier: CG12700
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12700
+Published: 2016-03-12T10:00:02+00:00
+Updated: 2025-10-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:36:51.244984+00:00
+
+S1(1) (https://www.legislation.gov.uk/ukpga/1992/12/section/1) states that chargeable gains (or allowable losses) accrue on the disposal of assets. The word ‘disposal’ is not expressly defined in the TCGA and therefore must be given its ordinary meaning.
+
+For capital gains purposes, someone will normally have made a disposal when they cease to be the beneficial owner of an asset, see CG10702 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10702).
+
+For capital gains purposes, the disposal of an asset includes:
+
+- Simple disposals: a natural disposal of the entirety of an asset, for example, the sale, exchange, see CG12701 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12701) or gift of an asset, see CG66450C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66450c).
+
+- Part disposals: a natural disposal of part of an asset, either by the disposal of part of an asset or an interest or right in or over an asset, see CG12730 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12730)+.
+
+- Deemed disposals (certain transactions treated as disposals for capital gains purposes): where statute says there will be a disposal when value is received from an asset, see CG12703 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12703).
+
+Some transactions which involve actual disposals are not treated as disposals for capital gains purposes. For example, in connection with:
+
+- death, when assets pass to the personal representatives, see CG30200C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg30200c) onwards.
+
+- the transfer of legal ownership between a nominee and the beneficial owner, see CG10720 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10720).
+
+- the theft of an asset, see CG13155 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13155).
+
+- the transfer of an asset as a security for a mortgage, see CG12706 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12706).
+
+- a reorganisation of share capital, see CG51700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51700)+.
+
+- company reconstructions and amalgamations, see CG52521 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52521)+.
+
+- a conversion of securities, see CG55000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55000)+.
+
+This list may not be exhaustive. If you encounter a scenario not covered in this list, it is important to consider whether the statute and guidance in this manual provides an answer.
+
+Composite transaction
+
+Sometimes, instead of what initially appears to be a series of separate transactions a series of transactions may be so closely linked that, as a matter of legal construction, they should be regarded as constituting a single disposal.
+
+- Example of multiple agreements which provide a tax advantage
+
+A sale and leaseback agreement is treated as a part disposal of an asset rather than two transactions, see s42(2) (https://www.legislation.gov.uk/ukpga/1992/12/section/42) and CG70774 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70774).
+
+An asset is not disposed of under an option agreement until the option is exercised, see s144 (https://www.legislation.gov.uk/ukpga/1992/12/section/144) and CG12300P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12300p).
+
+The example looks at what can happen when these two situations are combined to produce a tax advantage.
+
+- Facts
+
+X Ltd owns an asset and disposes of it to Z PLC under a sale and leaseback agreement. At the same time, Z and X enter into an option agreement which allows X to repurchase the asset at the end of the lease period.
+
+This type of agreement is commonly entered into as a form of financing arrangement. It provides the seller (X) with finance at the outset, allows X continued use of the asset and the opportunity to repurchase the asset at the end of the lease.
+
+So far as Z is concerned, it provides a guaranteed stream of income and an asset which can be sold either to X, if the option is exercised, or someone else, if it is not. However, it can also provide X with a tax advantage.
+
+In this type of case, there will normally be either two or three separate agreements. There will be:
+
+- a sale agreement*
+
+- a leaseback agreement*
+
+and
+
+- an option agreement.
+
+*These may well be in the same agreement.
+
+Under the rules for sale and leaseback, when the asset is sold, X is treated as making a part disposal. In arriving at X’s gain or loss, A in the A/A+B computation is the actual disposal consideration while B is the value of X’s retained interest. Z has acquired the asset subject to X’s retained interest.
+
+Under the rules for options, Z will not dispose of its interest in the asset until X exercises the option at the end of the lease period. If, as was the case in the examples we have seen, the original part disposal enabled X to claim a relief or exemption, X has gained a tax advantage.
+
+Treating the transactions as a composite means that the seller, X, retains beneficial ownership of the asset throughout the period between the original sale and the repurchase. As capital gains tax is based on beneficial ownership, see CG10720 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10720), this means that X never disposed of the asset for Capital Gains Tax purposes. The fact that legal ownership may have passed during this period does not mean that a disposal has taken place. X cannot, therefore, have the advantage of the claimed loss.
+
+In the example, it was assumed that X exercised its option and repurchased the asset. It has, therefore, gained a tax advantage at perhaps little or no cost since many of these arrangements deduct the leasing fees from the repurchase price. However, if X had not taken up the option to repurchase or if this had lapsed, it would still be treated as having made a part disposal of the asset at the date of the original agreement.

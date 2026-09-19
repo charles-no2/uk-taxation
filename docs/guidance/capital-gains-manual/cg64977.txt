@@ -1,0 +1,34 @@
+Private residence relief: computation of relief: general rule
+Identifier: CG64977
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64977
+Published: 2016-03-12T11:57:57+00:00
+Updated: 2023-05-19T14:05:04+01:00
+Retrieved (UTC): 2026-09-18T14:45:16.390197+00:00
+
+At its simplest, the amount of relief available is computed by dividing the period in which the property was used as its owner’s only or main residence, together with the final period of ownership, see CG64985+ (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64985), by the total period of ownership.
+
+Example
+
+An individual acquires a dwelling-house in January 2011 for £100,000. It is his only or main residence from January 2014 to January 2018. The dwelling house is sold in January 2021 for £250,000.
+
+The gain before relief is:
+
+Description |  Amount (£) |
+
+Disposal proceeds |  250,000 |
+
+Less Cost |  100,000 |
+
+Equals Gain |  150,000 |
+
+Private Residence Relief
+
+Period of ownership: January 2011 - January 2021 = 120 months
+
+Period of only or main residence: January 2014 - January 2018 = 48 months
+
+Final period allowed by s223(2) TCGA92 (see CG64985 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64985)) = 9 months
+
+The relief is (48+9) /120 x £150,000 = £71,250
+
+The chargeable gain will be £78,750 (£150,000 - £71,250) before the annual exempt amount.

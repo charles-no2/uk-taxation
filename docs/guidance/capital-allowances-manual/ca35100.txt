@@ -1,0 +1,44 @@
+IBA: balancing adjustments: how to calculate
+Identifier: CA35100
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca35100
+Published: 2016-04-16T08:58:29+01:00
+Updated: 2016-04-06T16:57:36+01:00
+Retrieved (UTC): 2026-09-18T16:21:20.492459+00:00
+
+Budget 2007 announced a business tax reform package including the gradual withdrawal of IBAs and ABAs over four years. Legislation was introduced in FA08 to give effect to those changes. The phased withdrawal of IBA writing down allowances had effect for chargeable periods ending on or after 1 April 2008 for businesses within the charge to CT and 6 April 2008 for businesses within the charge to IT. There are no IBA writing down allowances for the financial year beginning on 1 April 2011 and subsequent years. CAA01/S317 - S324
+
+This is how you calculate a balancing adjustment.
+
+If the building has always been an industrial building during the time when the person owned it, compare the proceeds from the balancing event with the residue of qualifying expenditure immediately before that event. If the proceeds are more than the residue of qualifying expenditure the difference is a balancing charge restricted, if necessary, to the allowances given. If the proceeds are less than the residue of qualifying expenditure the difference is a balancing allowance.
+
+If the building was not an industrial building throughout the time when the person owned it the balancing adjustment makes the allowances given match the depreciation of the building while it was an industrial building. This is how you calculate it. First of all, these are definitions of the terms used.
+
+The starting expenditure is the qualifying expenditure if the person constructed the building or bought it unused or the residue of qualifying expenditure in any other case.
+
+The adjusted net cost is the depreciation suffered while the building was an industrial building. It is calculated using the formula below.
+
+(S - P) x (I / R)
+
+where:
+
+S is the starting expenditure,
+
+P is the amount of any proceeds from the balancing event,
+
+I is the number of days in the relevant period of ownership on which the building was an industrial building or used for research and development, and
+
+R is the number of days in the whole of the relevant period of ownership.
+
+Example Bob builds a recording studio on land that he owns for £500,000 (S) in June 2000. He uses it as a recording studio until the end of June 2005 and then uses the building as a rehearsal room until he sells it in July 2009 to Keith for £450,000 of which £40,000 relates to the land. The proceeds in relation to the building are therefore £410,000 (P). Bob owned the building for 9 years (R) and it was an industrial building for 5 of them (I). The depreciation suffered while Bob owned the building is £90,000 = £500,000 - (£450,000 - £40,000) and the adjusted net cost of the building, or the depreciation while it was an industrial building, is £50,000 = £90,000 (S-P) x 5 years (I) / 9 years (R).
+
+The net allowances given are the sum of any initial allowance + WDA + RDA made to the person less any balancing charges made on that person. Any allowances made to a woman’s husband before the introduction of independent taxation on a building in which she held the relevant interest are treated as having been made to her.
+
+Compare the proceeds from the balancing event with the starting expenditure.
+
+If the proceeds are more than the starting expenditure there is a balancing charge equal to the net allowances given.
+
+If the proceeds are less than the starting expenditure compare the net allowances given with the adjusted net cost.
+
+There is a balancing charge equal to the difference if the net allowances given are more than the adjusted net cost.
+
+There is a balancing allowance equal to the difference if the net allowances given are less than the adjusted net cost.

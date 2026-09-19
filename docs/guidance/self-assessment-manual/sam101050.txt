@@ -1,0 +1,10 @@
+Records: maintain taxpayer record: automatic unsetting of ‘last SA return required’ signal
+Identifier: SAM101050
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101050
+Published: 2016-04-08T17:07:55+01:00
+Updated: 2016-02-23T14:51:42+00:00
+Retrieved (UTC): 2026-09-18T16:19:40.482059+00:00
+
+There are a number of dormant cases held on the ITSA computer system for which a subsequent year’s tax return has been received. This implies that the taxpayer should be within SA.
+
+Where the ‘Last SA Return Required’ signal is set and a return is received for a subsequent year, the taxpayers SA record will be reactivated automatically. A ‘Welcome’ letter SA250 is not issued to the taxpayer in these circumstances. However should the taxpayer be employed and subsequently meet the removal criteria an ‘Exit’ letter SA251 is issued.

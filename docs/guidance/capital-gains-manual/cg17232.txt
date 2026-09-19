@@ -1,0 +1,48 @@
+Indexation: from 6/4/88: how to compute unindexed gains
+Identifier: CG17232
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17232
+Published: 2016-03-12T10:16:36+00:00
+Updated: 2016-01-25T12:19:05+00:00
+Retrieved (UTC): 2026-09-18T14:38:21.677659+00:00
+
+TCGA92/S53 (2)(a)
+
+For disposals up to and including 29 November 1993, TCGA92/S53 (2)(a) defines the unindexed gain or loss as the amount of the gain or loss on the disposal, computed in accordance with `this part’ of the Act, in other words the provisions which deal with the basic computation. Therefore the first step is to compute the gain or loss on the disposal in accordance with the general principles explained in CG14200+.
+
+Amount of Consideration
+
+Any provision which affects the amount of the disposal consideration such as
+
+- TCGA92/S37, which excludes sums chargeable as income, see CG14300+;
+
+- TCGA92/S17, the market value rule, see CG14530.
+
+is applied at this stage.
+
+Amount of Expenditure
+
+The same is true of provisions which affect the amount of the expenditure such as
+
+- adjustments to the acquisition costs of a replacement asset because of the roll-over provisions
+
+- adjustments to the acquisition costs of an asset because of gifts hold-over relief (see example in CG17489),
+
+- a restriction of the cost of wasting assets or leases (TCGA92/S46 and TCGA92/SCH8; see CG76700+, CG71141+ and the example in CG17484).
+
+However provisions of this kind are not all dealt with in the same way in computing the RAE (Relevant allowance expenditure), see CG17360, small part-disposals, for example.
+
+Chargeable Gains
+
+The `unindexed gain’ is computed without taking into account any deduction for indexation allowance or for those matters which are taken into account in turning a gain into a chargeable gain. This is made clear at the end of Lord Templeman’s speech in Smith v Schofield (65TC669). Examples are:
+
+- time apportionment, see CG17350
+
+- private residence relief, see CG64200+.
+
+Assets not acquired or no allowable expenditure
+
+The annual exempt amount, see CG18000+, is applied to the amount remaining after each chargeable gain and allowable loss has been computed, and the allowable losses deducted from the chargeable gains.
+
+Taper Relief
+
+Taper relief, see CG17895+, may be available to individuals, trustees of settlements and personal representatives (but not companies) who make disposals between 6 April 1998 and 5 April 2008. Where the asset was acquired prior to April 1998 any indexation is allowed first, as a deduction, in arriving at the amount of the untapered chargeable gain.

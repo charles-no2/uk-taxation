@@ -1,0 +1,14 @@
+Assessing: COMPASS: calculations: amendments box
+Identifier: IHTM31186
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31186
+Published: 2016-04-09T10:03:22+01:00
+Updated: 2016-02-11T17:15:44+00:00
+Retrieved (UTC): 2026-09-18T15:05:55.206263+00:00
+
+A box at the left hand side of the window on NIOP calculations shows the amendments that are being assessed on this occasion. It will include all amendments to the NIOP since the last calculation was raised and paid, and amendments at the other assessment groups in the Entry. It will show whether the amendments are increases, decreases or new.
+
+Where more than one amendment has been made to the same asset type, the net adjustment for that type is shown. Where the net adjustment is nil (for example an increase of £1,000 and decrease of £1,000 have been entered for the same asset type) the adjustment is not shown and you may have to make a separate note of this in the notes box (IHTM31191 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31191)).
+
+The box is not wide enough to show all the text. To see the whole width of the box, double click one of the lines of text in the box. The box will widen and show all the text. To change the box back, double click again.
+
+Where the list is too long for the window, use the scroll bars at the right to move up and down the screen. Where there are too many amendments to fit on the printed calculation, COMPASS will generate a continuation sheet for the amendments.

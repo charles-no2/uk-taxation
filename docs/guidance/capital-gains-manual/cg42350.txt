@@ -1,0 +1,26 @@
+Migration of companies: arrivals in UK: becoming resident in UK
+Identifier: CG42350
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42350
+Published: 2016-03-12T11:04:47+00:00
+Updated: 2021-04-22T10:32:42+01:00
+Retrieved (UTC): 2026-09-18T14:40:44.219005+00:00
+
+When a company becomes resident in the UK part way through a year of assessment an accounting period ends and another one begins, CTA09/S9 and S10. For the accounting period when the company is resident it is within the charge to Corporation Tax. Any gains arising in that part of the year of assessment will be assessed to Corporation Tax on chargeable gains in accordance with CTA09/S2. For further guidance on accounting periods see CTM01410 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm01410).
+
+For the part of the year of assessment when the company is not resident in the UK
+
+- if the company is not carrying on a trade in the UK through a permanent establishment it is not within the charge to Corporation Tax, CTA09/S5 (2), see CTM34210 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm34210)
+
+- if the company is carrying on a trade in the UK through a permanent establishment it is only within the charge to Corporation Tax in respect of gains that are chargeable gains by reason of TCGA92/S2B (previously TCGA92/S10B), CTA09/S5 (3) and S19.
+
+Up to and including the tax year 2012-13, where there is some time in the year of assessment when the company is resident in the UK, any gains arising in the first part of the year of assessment and not within the charge to Corporation Tax are within the charge to Capital Gains Tax because the conditions of TCGA92/S2 are satisfied. However, for tax years 2013-14 et seq. the residence conditions in were amended so that the person to whom the chargeable gain accrues must be resident in the United Kingdom when the gain accrues for it to be a chargeable gain. Therefore gains accruing during the part of the year when the company is not UK resident are not chargeable gains.
+
+Note that from 6 April 2019 UK land and assets deriving more than 75% of their value from interests in UK land will be chargeable to corporation tax where the company making the disposal is not UK resident, see CG73920 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73920)+, in particular CG73970 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73970)+ deals with the corporation tax aspects of the charge on non-UK resident companies. [This guidance is currently in draft at Appendix 14 of this manual]
+
+Capital gains base cost of assets following migration to the UK
+
+There is no general rule that allows an uplift in the capital gains base cost of a company’s assets when it migrates to the UK so the usual rules in TCGA92/S38 will usually apply. However, where a company becomes chargeable to corporation tax on or after 1 January 2020 and an asset has been subject to an exit tax provision of a European Union member state then the company will be treated as acquiring the asset at its market value on the date that it became subject to the charge on corporation tax. This will also apply to an asset of a non-UK company that becomes chargeable because it begins to be used for the purposes of a UK permanent establishment of the company. This rule is to be found at TCGA92/S184J.
+
+An “EU exit tax charge” is a provision that meets a member state’s obligations under the exit tax provisions of the EU Anti Tax Avoidance Directive. It may be that the tax law of the member state of origin already contained such a provision, as is the case for the UK: TCGA92/S185.
+
+For the purpose of TCGA92/S184J, an asset should be regarded as having been subject to tax in the state of origin where no actual liability to tax results from an exit charge provision because of the availability of tax losses or the application of a relief or exemption. In particular, market value at the time of migration will be used as the base cost for UK corporation tax where the other state’s exit tax provision results in a tax loss.

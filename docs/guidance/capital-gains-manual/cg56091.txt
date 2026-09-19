@@ -1,0 +1,20 @@
+Futures: not wasting assets
+Identifier: CG56091
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56091
+Published: 2016-03-12T11:38:24+00:00
+Updated: 2021-03-31T15:00:45+01:00
+Retrieved (UTC): 2026-09-18T14:33:35.987095+00:00
+
+TCGA92/S143 (7), TCGA92/S143 (8)
+
+A commodity or financial futures contract is not subject to wasting asset treatment under TCGA92/S46 if
+
+- it is traded on a recognised futures exchange, see CG56120, or
+
+- the counter party is an authorised person, see CG56027.
+
+This means the acquisition cost of the future is not reduced when computing any gain or loss arising when the contract is closed out or if a cash payment is made in full or partial settlement.
+
+In fact this provision is of limited application as it is unusual to make an up front payment to acquire a futures contract. Most payments in respect of futures contracts are margin payments which are deposits, not consideration given for the acquisition of the contract, see CG56060+.
+
+TCGA92/S143 (7) is most likely to apply to hedging transactions such as interest rate caps, collars and floors. In return for making an up front payment the taxpayer acquires the right to receive automatic payments based upon the movement in interest rates. These transactions cannot be treated as options if the payments are made automatically under the terms of the contract and do not depend upon the exercise of a specific right. An interest rate cap, collar or floor is accepted as a financial future. So any payment made to acquire such an instrument will, where an authorised person is the counter party, be deducted in full and not wasted for capital gains purposes.

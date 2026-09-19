@@ -1,0 +1,81 @@
+Registration: de-registration: the circumstances where HMRC is able to de-register a scheme
+Identifier: PTM033200
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm033200
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2018-04-16T12:23:34+01:00
+Retrieved (UTC): 2026-09-18T14:49:06.806612+00:00
+
+| Glossary | PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001) | |———-|————————————————————————————-|
+
+The grounds for de-registering a pension scheme (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm033200#IDAOBJZB)
+The de-registration threshold (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm033200#IDAMAIZB)
+
+Section 158 Finance Act 2004
+
+HMRC can de-register a scheme if the scheme gives HMRC grounds to consider withdrawing the scheme’s registered status. De-registration is not automatic; HMRC will consider the facts and circumstances of each case and decide whether or not to de-register the scheme.
+
+The grounds for de-registering a pension scheme
+
+HMRC can de-register a scheme if it appears that any of the following apply:
+
+- the pension scheme hasn’t been set up or isn’t being maintained wholly or mainly for the purpose of providing authorised pension or lump sum benefits (as set out at section 164(1)(a) or (b) of Finance Act 2004).
+
+- on or after 6 April 2018, the scheme is an occupational pension scheme and one of the sponsoring employers is a dormant company. A company is dormant if, in the year before HMRC decides to de-register the scheme, it has been dormant for a continuous period of one month.
+
+- after the coming into force of section 3 of the Pension Schemes Act 2017 (PSA 17) a Master Trust scheme is not authorised under Part 1 PSA 17 (or corresponding Northern Ireland provision) such that its operation would be unlawful
+
+- there is no scheme administrator.
+
+- any one of the persons making up the scheme administrator is not a fit and proper person to be the scheme administrator. PTM153000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm153000) describes the factors that HMRC will consider in deciding if someone is a fit and proper person to be a scheme administrator.
+
+- the scheme has made scheme chargeable payments and the total of these in any 12 month period exceeds the “de-registration threshold” - see The de-registration threshold (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm033200#IDAMAIZB) below.
+
+- the scheme administrator has failed to pay a substantial amount of tax, or interest on tax, which they are liable for under Part 4 of Finance Act 2004.
+
+- the scheme administrator has failed to provide information that they are required to provide to HMRC under Part 4 of Finance Act 2004 or as a result of an information notice issued under Part 1 of Schedule 36 Finance Act 2008, and the failure is significant. (This means that either the scheme administrator has failed to provide a substantial amount of information, or the failure to provide the information is likely to result in serious prejudice to the assessment or collection of tax.)
+
+- the scheme administrator has failed to produce a document that HMRC has required them to produce under Part 4 of Finance Act 2004 or by an information notice issued under Part 1 of Schedule 36 to Finance Act 2008.
+
+- the scheme administrator has deliberately obstructed an HMRC officer carrying out an inspection under either section 159B of Finance Act 2004 or Part 2 of Schedule 36 of Finance Act 2008 that has been approved by a Tribunal.
+
+- any information contained in the application to register the scheme was materially inaccurate.
+
+- any other information provided to HMRC was materially inaccurate.
+
+- a declaration accompanying the application to register the pension scheme was materially false.
+
+- any other declaration to HMRC made in connection in with the pension scheme was materially false.
+
+- that any document produced by the scheme administrator to HMRC contains a material inaccuracy, and at least one of the following apply:
+
+- the inaccuracy is careless or deliberate. An inaccuracy is careless if the scheme administrator has failed to take reasonable care.
+
+- the scheme administrator knew of the inaccuracy when they produced the document to HMRC but, at that time, they didn’t tell HMRC about the inaccuracy.
+
+- the scheme administrator discovers the inaccuracy after it has produced the document to HMRC and has failed to take reasonable steps to tell HMRC about the inaccuracy.
+
+The de-registration threshold
+
+A scheme may be de-registered if the scheme chargeable payments made in any 12 month period are more than the de-registration threshold.
+
+The de-registration threshold is exceeded if the total of the percentages of the fund used up by each scheme chargeable payment in any 12-month period is 25% or more.
+
+Every time a scheme chargeable payment is made it is valued as a percentage of the pension fund using the following formula:
+
+(Scheme chargeable payment / Value of scheme funds) x (100/1)
+
+The value of the scheme funds is the market value of the assets held for the purposes of the scheme plus the amount of the sums held for the purposes of the scheme, both taken at the time of the payment.
+
+Example
+
+Two scheme chargeable payments have been made within a 12 month period. The payments were of £14,000 and £10,000. The fund value at the time of the first payment comprised assets with a market value of £80,000 and cash of £20,000 giving a total value of £100,000.
+
+The percentage of the scheme fund used up at the time of the first scheme chargeable payment is -
+
+(£14,000 / £100,000) x (100/1) = 14%
+
+The fund was valued at £88,000 at the time of the second payment, which was of £10,000 -
+
+(£10,000 / £88,000) x (100/1) = 11%
+
+Add together 14% and 11% and the aggregate is 25%. The de-registration threshold is exceeded. This means there are grounds for HMRC to de-register the scheme.

@@ -1,0 +1,80 @@
+Relevant termination awards: post-employment notice pay (PENP): interaction with section 27 ITEPA 2003
+Identifier: EIM13877
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13877
+Published: 2020-01-16T13:30:13+00:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:10:33.792122+00:00
+
+Rules from 6 April 2021 to 5 April 2026
+
+These changes were part of Finance Act 2021. They have effect from 6 April 2021 to 5 April 2026.
+
+These rules apply to individuals whose employment is terminated between 6 April 2021 and 5 April 2026, and who receive a termination payment between 6 April 2021 and 5 April 2026.
+
+Section 27 of ITEPA 2003 has been amended to clarify that amounts treated as earnings by section 402B ITEPA 2003 (‘post-employment notice pay’) constitute taxable UK earnings if, and to the extent that, the employee would have worked in the UK during their notice pay.
+
+This will ensure that non-residents’ PENP is charged to tax and National Insurance contributions on a similar basis to other UK employees. This change only affects individuals who physically perform the duties of their employment in the UK.
+
+The percentage of the general earnings arising from PENP that are an amount of “taxable earnings” from the employment in the tax year in which the employment is terminated is given by the formula 'A ÷ B × 100'.
+
+B is the total amount of general earnings from the employment that it is reasonable to assume the employee would have received in respect of the post-employment notice period (within the meaning given by section 402E(5)) if the employee’s employment had not been terminated until the end of that period.
+
+A is the amount of those earnings that it is reasonable to assume would have been taxable earnings by virtue of ITEPA s27 (1)(a) or (b). This will usually be the proportion of those earnings that would have been derived from work in the UK. If the employee would have worked solely in the UK during their notice period, the percentage is 100%.
+
+Example 1
+
+An employee is not UK resident but sometimes works in the UK, as well as working overseas for the same employer. The conditions for Foreign Service Relief are not met.
+
+The employee has a 3-month (91 days) notice period and receives £10,000 as a termination payment. They earned £3,100 in the last month before the trigger date, which was 1 to 31 March (31 days).
+
+The employer must first complete the PENP calculation:
+
+(£3,100 × 91) ÷ 31 = £9,100 PENP.
+
+The employee received a £10,000 termination payment so £9,100 will be treated as general earnings and the remaining £900 will constitute Specific Employment Income and will benefit from the £30,000 exemption at section 403 of ITEPA 2003.
+
+The employer must then work out what proportion of the PENP constitutes UK taxable earnings.
+
+The employer calculates that the employee would have earned £9,300 during the notice period and £1,860 of this would have related to duties performed in the UK.
+
+Applying the formula based on expected earnings during the notice period:
+
+£1,860 ÷ £9,300 × 100 = 20%.
+
+£9,100 × 20% = £1,820 UK taxable earnings under s27.
+
+The remaining £7,280 is not taxable as UK employment income but may be taxable overseas.
+
+Example 2
+
+An employee is not UK resident and works 2 days per week in the UK (40%) and 3 days per week overseas for the same employer. The conditions for Foreign Service Relief are not met.
+
+The employee has a 6-month (184 days) notice period and receives £40,000 as a termination payment. They earned £5,600 in the last month before the trigger date, which was 1 to 28 February (28 days).
+
+The employer must first complete the PENP calculation:
+
+(£5,600 × 184) ÷ 28 = £36,800 PENP.
+
+The employee received a £40,000 termination payment so £36,800 will be treated as general earnings and the remaining £3,200 will constitute Specific Employment Income and will benefit from the £30,000 exemption at section 403 of ITEPA 2003.
+
+The employer must then work out what proportion of the PENP constitutes UK taxable earnings.
+
+The employer identifies that the employee would have worked in the UK for 40% of the workdays during their notice period, so 40% of the earnings are attributable to duties performed in the UK.
+
+£36,800 × 40% = £14,720 UK taxable earnings under s27.
+
+The remaining £22,080 is not taxable as UK employment income but may be taxable overseas.
+
+Periods up to 5 April 2021
+
+HMRC’s view is that amounts treated as earnings by section 402B ITEPA 2003 (‘post-employment notice pay’) do not constitute “general earnings in respect of duties performed in the United Kingdom” for the purposes of section 27(1)(a) ITEPA 2003.
+
+This means that, for years in which the employee is not resident in the UK (up to the tax year 2020 to 2021), earnings in respect of PENP are not “taxable earnings”.
+
+This interaction was not an intended result of the changes introduced in Finance Act (no. 2) 2017 and the amendment to section 27 ITEPA 2003 from April 2021 will ensure that non-resident individuals are charged to UK tax and National Insurance contributions on PENP, to the extent that their period of notice would have been worked in the UK.
+
+Note that section 30 ITEPA 2003 (‘Treatment of earnings for year in which employment not held’) may apply, with the effect that post-employment notice pay may be treated as earnings “for” an earlier year in which the employee was UK resident. Section 15 ITEPA 2003 (‘Earnings for year when employee UK resident’) applies to PENP as normal, so any such earnings are “taxable earnings”.
+
+Periods from 6 April 2026
+
+From 6 April 2026, Post-Employment Notice Pay is subject to section 38A ITEPA 2003. Guidance can be found at EIM13879 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13879).

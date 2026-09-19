@@ -1,0 +1,242 @@
+Annual allowance: pension input amounts: adjustments to closing values: block transfer examples
+Identifier: PTM053730
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053730
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2015-11-12T17:03:10+00:00
+Retrieved (UTC): 2026-09-18T14:50:46.698057+00:00
+
+Defined benefits and cash balance arrangements: examples of adjustments to closing values - block transfers
+
+Sections 232(6A)-(6D) & 236(5A)-(5D) Finance Act 2004
+
+Example 1 - ‘mirror image’ benefits
+
+Alec is a member of a final salary pension scheme (‘scheme 1’).
+
+His pension benefit builds up at a rate of 1/60th of final pay for each year of scheme membership and he has an option to commute some of his pension for a lump sum.
+
+At the start of his pension input period, Alec has 15 years scheme membership and his ‘final pay’ is £65,000.
+
+The pension forms part of a bundle of benefit rights in scheme 1 which are payable to or in respect of Alec.
+
+The other benefit rights are that Alec’s pension will increase at a set rate when in payment, the amount of payable pension is enhanced if Alec retires early on ill-health grounds, a defined lump sum payable on Alec’s death in service and dependants’ pensions up to certain limits payable in the event of Alec’s death before or after drawing his benefits.
+
+During the pension input period in question Alec’s employer reorganises its pension schemes by transferring all of the sums and assets held by scheme 1 together with all the liabilities of scheme 1 to another final salary pension scheme (‘scheme 2’).
+
+This results in all of the bundle of rights relating to Alec in scheme 1 being transferred to scheme 2 as part of a block transfer (Alec’s accrued benefits are transferred along with all the accrued benefits of all of the other members of scheme 1).
+
+Alec’s pension benefit in scheme 2 also builds up at a rate of a pension of 1/60th of final pay for each year of scheme membership together with an option to commute some of his pension for a lump sum.
+
+The pension forms part of a bundle of benefit rights in scheme 2 which are payable to or in respect of Alec. The other benefit rights are the same as those for scheme 1.
+
+It is established by way of normal actuarial practice that the value of the bundle of rights relating to Alec in scheme 1 immediately before the block transfer is the same as the value of the bundle of rights which are granted in scheme 2 in relation to Alec immediately after the block transfer.
+
+For the purpose of this example, the annual increase in CPI to the September before the tax year is 3.2 per cent.
+
+Also the pension input periods for both scheme 1 and scheme 2 end in the same tax year.
+
+Calculating the pension input amounts
+
+Calculating the opening values
+
+Alec’s opening value for scheme 1 is calculated as:
+
+Find amount of annual pension
+
+15/60 x £65,000 = £16,250
+
+Multiply annual rate of pension by flat factor of 16
+
+£16,250 x 16 = £260,000
+
+Add amount of separate lump sum
+
+£260,000 + £0 (there is no separate lump sum) = £260,000
+
+Increase by CPI
+
+£260,000 x 1.032 = £268,320
+
+The opening value for scheme 1 is £268,320
+
+The opening value for scheme 2 is nil (Alec is a new member at the start of the pension input period for the arrangement under scheme 2).
+
+Calculating the closing values
+
+The closing values for both scheme 1 and scheme 2 need to be adjusted because of the block transfer. If this was not done the pension input amounts for both schemes would not be correct. This adjustment is only needed for the pension input period that the transfer takes place in.
+
+Without an adjustment the closing value for scheme 1 would be nil (as all the benefits rights relating to Alec have been transferred to scheme 2).
+
+The amount of Alec’s pension that formed part of the bundle of benefit rights immediately before the block transfer out is added back to the closing value for scheme 1. At the point the bundle of benefit rights relating to Alec were transferred he had built up a pension of £16,800 in scheme 1.
+
+This means that the closing value for scheme 1 is:
+
+Find amount of annual pension
+
+£16,800
+
+Multiply annual rate of pension by flat factor of 16
+
+£16,800 x 16 = £268,800
+
+Add amount of separate lump sum
+
+£268,800 + £0 (there is no separate lump sum) = £268,800
+
+The closing value for scheme 1 is £268,800.
+
+At the point of the block transfer into scheme 2 Alec is granted a pension of £16,800 as part of the bundle of rights that formed the block transfer-in.
+
+In the pension input period for scheme 2 Alec builds up a further amount of pension of £800. This makes his total annual pension under scheme 2 at the end of the pension input period £17,600.
+
+Without an adjustment to take account of the block transfer, the closing value for scheme 2 would be £281,600 (£17,600 x 16).
+
+To find the closing value for scheme 2 the effect of the block transfer is taken into account by deducting from the amount of pension built up at the end of the pension input period (£17,600) the amount of the pension that was granted in scheme 2 immediately after the block transfer-in of the bundle of rights (£16,800).
+
+The closing value for the pension input period is based only on the benefit rights built up under scheme 2 further to the pension granted in scheme 2 as part of the block transfer-in - that is a further amount of pension of £800.
+
+The closing value for scheme 2 is:
+
+Find amount of annual pension
+
+£800
+
+Multiply annual rate of pension by flat factor of 16
+
+£800 x 16 = £12,800
+
+Add amount of separate lump sum
+
+£12,800 + £0 (there is no separate lump sum) = £12,800
+
+The closing value for scheme 2 is £12,800.
+
+Finding the pension input amounts
+
+Alec’s pension input amounts are:
+
+For scheme 1: closing value (£268,800) - opening value (£268,320) = £480
+
+For scheme 2: closing value (£12,800) - opening value (nil) = £12,800
+
+As Alec is not a member of any other arrangement his total pension input amount for the tax year is £13,280 (£480 + £12,800).
+
+For future tax years, the pension input amount is calculated as normal, with no adjustment for the block transfer.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053730#Top)
+
+Example 2 - not ‘mirror image’ but benefits of equal value
+
+Alec is a member of a defined benefits pension scheme (‘scheme 1’).
+
+His pension benefit builds up at a set rate and he has an option to commute some of his pension for a lump sum.
+
+At the start of his pension input period, Alec has an accrued pension of £14,000pa.
+
+The pension forms part of a bundle of benefit rights in scheme 1 which are payable to or in respect of Alec.
+
+The other benefit rights are that Alec’s pension will increase at a set rate when in payment, the amount of payable pension is enhanced if Alec retires early on ill-health grounds, a defined lump sum payable on Alec’s death in service and dependants’ pensions up to certain limits payable in the event of Alec’s death before or after drawing his benefits.
+
+During the pension input period in question Alec’s employer reorganises its pension schemes by transferring all of the sums and assets held by scheme 1 for a category of members (which includes Alec) together with all the liabilities of scheme 1 relating to that category of membership to another defined benefits pension scheme (‘scheme 2’).
+
+This results in all of the bundle of rights relating to Alec in scheme 1 being transferred to scheme 2 as part of a block transfer (Alec’s accrued benefits are transferred along with all the accrued benefits of all of the other members of the membership category concerned).
+
+At the time of the block transfer Alec had an accrued pension of £15,000pa in scheme 1.
+
+Alec’s pension benefit in scheme 2 also builds up at a set rate with an option to commute some of his pension for a lump sum. However, the amount of pension that Alec is granted in scheme 2 as part of the block transfer is increased to £18,000pa. This is to reflect a later normal pension age in scheme 2 compared to scheme 1.
+
+The pension forms part of a bundle of benefit rights in scheme 2 which are payable to or in respect of Alec. The other benefit rights are the same as those for scheme 1.
+
+It is established by way of normal actuarial practice that the value of the bundle of rights relating to Alec in scheme 1 immediately before the block transfer is the same as the value of the bundle of rights which are granted in scheme 2 in relation to Alec immediately after the block transfer.
+
+By the end of the pension input period for scheme 2 Alec had an accrued pension of £19,000pa.
+
+The pension input period for scheme 1 ends in tax year 2012-13 and the annual increase in CPI to the September before the tax year is 5.2 per cent. The pension input period for scheme 2 also ends in tax year 2012-13
+
+Calculating the pension input amounts
+
+Calculating the opening values
+
+Alec’s opening value for scheme 1 is calculated as:
+
+Find amount of annual pension
+
+£14,000
+
+Multiply annual rate of pension by flat factor of 16
+
+£14,000 x 16 = £224,000
+
+Add amount of separate lump sum
+
+£224,000 + £0 (there is no separate lump sum) = £224,000
+
+Increase by CPI
+
+£224,000 x 1.052 = £235,648
+
+The opening value for scheme 1 is £235,648
+
+The opening value for scheme 2 is nil (Alec is a new member at the start of the pension input period for the arrangement under scheme 2).
+
+Calculating the closing values
+
+The closing values for both scheme 1 and scheme 2 need to be adjusted because of the block transfer. If this was not done the pension input amounts for both schemes would not be correct. This adjustment is only needed for the pension input period in which the transfer takes place.
+
+Without an adjustment the closing value for scheme 1 would be nil (as all the benefits rights relating to Alec have been transferred to scheme 2).
+
+The amount of Alec’s pension that formed part of the bundle of benefit rights immediately before the block transfer out is added back to the closing value for scheme 1. At the point the bundle of benefit rights relating to Alec were transferred he had built up a pension of £15,000 in scheme 1.
+
+This means that the closing value for scheme 1 is:
+
+Find amount of annual pension
+
+£15,000
+
+Multiply annual rate of pension by flat factor of 16
+
+£15,000 x 16 = £240,000
+
+Add amount of separate lump sum
+
+£240,000 + £0 (there is no separate lump sum) = £240,000
+
+The closing value for scheme 1 is £240,000.
+
+At the point of the block transfer into scheme 2 Alec is granted a pension of £18,000 as part of the bundle of rights that formed the block transfer-in.
+
+In the pension input period for scheme 2 Alec builds up a further amount of pension of £1,000. This makes his total annual pension under scheme 2 at the end of the pension input period £19,000pa.
+
+Without an adjustment to take account of the block transfer, the closing value for scheme 2 would be £304,000 (£19,000 x 16).
+
+To find the closing value for scheme 2 the effect of the block transfer is taken into account by deducting from the amount of pension built up at the end of the pension input period (£19,000) the amount of the pension that was granted in scheme 2 immediately after the block transfer-in of the bundle of rights (£18,000).
+
+The closing value for the pension input period is based only on the benefit rights built up under scheme 2 further to the pension granted in scheme 2 as part of the block transfer-in - that is a further amount of pension of £1,000.
+
+The closing value for scheme 2 is:
+
+Find amount of annual pension
+
+£1,000
+
+Multiply annual rate of pension by flat factor of 16
+
+£1,000 x 16 = £16,000
+
+Add amount of separate lump sum
+
+£16,000 + £0 (there is no separate lump sum) = £16,000
+
+The closing value for scheme 2 is £16,000.
+
+Calculating the total pension input amount
+
+Alec’s pension input amounts are:
+
+For scheme 1: closing value (£240,000) - opening value (£235,648) = £4,352
+
+For scheme 2: closing value (£16,000) - opening value (nil) = £16,000
+
+As Alec is not a member of any other arrangement his total pension input amount for the tax year is £20,352 (£4,352 + £16,000).
+
+For future tax years, the pension input amount is calculated as normal, with no adjustment for the block transfer.

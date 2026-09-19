@@ -1,0 +1,28 @@
+Investment businesses: Holding companies
+Identifier: IHTM25263
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25263
+Published: 2016-04-09T09:45:21+01:00
+Updated: 2016-12-20T09:38:47+00:00
+Retrieved (UTC): 2026-09-18T15:02:28.769183+00:00
+
+Holding companies are companies which hold shares in subsidiary companies. A holding company’s sole activity therefore is the holding of investments, but its shares may still qualify for relief by virtue of IHTA84/S105(4)(b) (IHTM25262 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25262)).
+
+Modern corporate business structures may consist of a much wider variety of structures than the traditional holding company with subsidiaries model. It is possible that a holding company will itself also have a qualifying activity and/or hold both qualifying and non-qualifying subsidiaries, and investments.
+
+For example, Holding Company A Ltd carries on a trade of manufacturing. It also holds the premises used by a subsidiary manufacturing company B Ltd in its business, the shares in a subsidiary property investment company C Ltd, and a 25% interest in trading company D Ltd.
+
+Relief will be available on the premises used by B Ltd by virtue of IHTA84/S112(2). It does not matter whether B Ltd pays rent or not.
+
+Relief will not be available in respect of the shares in C Ltd, but the adjustment to value will not be the value of those shares but will instead be based on the value of the shares in A Ltd excluding C Ltd, IHTA84/S111.
+
+The interest in D Ltd should not affect the availability of relief if it is used in A Ltd’s business, and does not dominate to the extent that A Ltd’s overall business is ‘wholly or mainly’ one of making or holding investments, IHTA84/S105(3). There are more examples at IHTM25264 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25264).
+
+For these purposes, interests in 50:50 joint ventures are treated as minority interests (like D Ltd above) rather than interests in a controlled subsidiary, irrespective of whether there is active management of the joint venture.
+
+Some groups use intermediate holding companies. It is our view that for business relief purposes, there is no limit to the number of intermediate holding companies, but they cannot be ignored or looked through. They may also have broader activities than simply holding shares in one or more subsidiaries. Each tier in the group structure has to be looked at separately.
+
+Our approach is to look at the group as a whole to determine whether it is mainly investment or non-investment in nature. If the conclusion is that the business of the group as a whole does not consist wholly or mainly of making or holding investments (or other activities within IHTA84/S105(3)), we then go on to consider individually all the subsidiaries within the group structure to determine whether any restriction of the relief is necessary in accordance with IHTA84/S111.
+
+Foreign companies within the group structure, with or without issued share capital, should not make any difference to the approach.
+
+There is more guidance on group situations in the Shares and Assets Valuation Manual at SVM111190 (https://www.gov.uk/hmrc-internal-manuals/shares-and-assets-valuation-manual/svm111190).

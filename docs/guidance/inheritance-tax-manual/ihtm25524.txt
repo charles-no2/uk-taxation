@@ -1,0 +1,36 @@
+AR/BR 100% relief allowance: individuals – apportionment – different titles of the estate on death
+Identifier: IHTM25524
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25524
+Published: 2026-04-07T07:44:06+01:00
+Updated: 2026-08-20T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:47.757338+00:00
+
+The estate on death for Inheritance Tax (IHT) purposes may contain more than one asset that qualifies for 100% Agricultural Relief (AR) or Business Relief (BR) and the assets may be held under more than one title as part of the death estate – for example, the free estate, a qualifying interest in possession trust or a gift with reservation (GWR) ceasing on the death of the deceased. In these circumstances, you will have to apportion any 100% AR/BR allowance between each qualifying asset.
+
+Where the potentially relievable values (defined as the value that would qualify for AR/BR if the relief was unlimited, IHTA84/S124D (10)(b)) of all the qualifying assets exceeds the amount of the 100% AR/BR allowance available on the death, IHTA84/S124D (6) states that you should use the method provided in IHTA84/S124D (7) to apportion the allowance. This states that the 100% AR/BR allowance is available against all qualifying assets in the estate on death in the same proportion as each asset represents as part of all the qualifying assts in the estate.
+
+Example 1
+
+Vivek dies on 1 February 2027. Under his Will he leaves all his estate to his children, and this includes a sole trader business valued at £2m and agricultural land valued at £5m. He also had a qualifying interest in possession in a trust including unquoted shares valued at £1m and continued to reserve a benefit until his death in agricultural land he had gifted in 2017, now valued at £2m. In total his estate on death for IHT purposes, comprising his free estate, the trust and the GWR, included property qualifying for 100% AR/BR totalling £10m.
+
+As Vivek’s spouse died before him on 1 October 2024, his personal representatives claimed her unused 100% allowance (IHTM25530 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25530)) in full, and as he had made no lifetime transfers (apart from the GWR) the total amount of 100% AR/BR allowance available on his death is £5m. The allowance is apportioned as follows:
+
+Sole trader business (free estate): (£2m ÷ £10m) x £5m = £1m 100% AR/BR. The balance of £1m qualifies for 50% relief, leaving £500,000 chargeable.
+
+Agricultural land (free estate): (£5m ÷ £10m) x £5m = £2.5m 100% AR/BR. The balance of £2.5m qualifies for 50% relief, leaving £1.25m chargeable.
+
+Unquoted shares (trust): (£1m ÷ £10m) x £5m = £500,000 100% AR/BR. The balance of £500,000 qualifies for 50% relief, leaving £250,000 chargeable.
+
+Agricultural land (GWR): (£2m ÷ £10m) x £5m = £1m 100% AR/BR. The balance of £1m qualifies for 50% relief, leaving £500,000 chargeable.
+
+When apportioning the 100% AR/BR allowance, remember that it only applies to chargeable transfers of relievable property. Transfers of relievable property to an exempt beneficiary will not use any part of the 100% allowance.
+
+Example 2
+
+Richard dies on 1 May 2026. By his Will he leaves his farming business, including agricultural land, valued at £4m to his son. He leaves the rest of his estate, including relievable property valued at £2m, to his surviving spouse. He also had a qualifying interest in possession in a trust including unquoted shares valued at £1m that passes to his son on his death. He had 100% AR/BR allowance of £2m available on his death (£500,000 had been used against a gift of relievable property made within 7 years of his death in 2026).
+
+His 100% AR/BR allowance must be apportioned between the property qualifying for 100% relief in his estate. But the relievable property passing to his surviving spouse will not qualify for 100% relief as it is an exempt transfer (50% relief applies if the value after relief needs to be included in any calculations). The 100% allowance is apportioned as follows:
+
+Farming business (free estate): (£4m ÷ £5m) x £2m = £1.6m 100% AR/BR. The balance of £2.4m qualifies for 50% relief, leaving £1.2m chargeable. If the legacy is free of tax, it must be grossed up (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121)).
+
+Unquoted shares (trust): (£1m ÷ £5m) x £2m = £400,000 100% AR/BR. The balance of £600,000 qualifies for 50% relief, leaving £300,000 chargeable.

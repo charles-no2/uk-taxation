@@ -1,0 +1,36 @@
+Employees using own vehicles for work: mileage allowance payments: monthly lump sum plus lower mileage rate
+Identifier: EIM31360
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31360
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2026-05-21T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:12:53.817721+00:00
+
+Section 230 ITEPA 2003
+
+This page illustrates the calculation of chargeable mileage allowance payments and mileage allowance relief (EIM31235 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31235)) where an employee receives a fixed monthly lump sum and a (normally) lower rate per mile for business travel (EIM31260 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31260)) in their own vehicle.
+
+All payments must be mileage allowance payments (MAPs, see EIM31210 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31210)), which means that the lump sum element must be calculated so as to cover only the business proportion of the standing costs of the car. It must not be a payment made merely because the employee no longer has a company car; that is not a mileage allowance payment.
+
+Example: For 2025 to 2026
+
+Employee G uses their own car for business travel. G covers 8,000 miles of business travel in it in the tax year 2025 to 2026. G’s employer pays employees who regularly use their own cars for business travel a monthly lump sum plus a lower mileage rate. G is paid £70 per month (based on the employer’s calculations of the typical business proportion of the standing costs of owning and using the car) plus 35 pence per mile of business travel.
+
+Step 1: find the amount of mileage allowance payments (MAPs) received
+
+- £70 × 12 months = £840
+
+- 8,000 miles × 35 pence per mile = £2,800
+
+- Total mileage allowance payments received = £3,640 (£840 + £2,800)
+
+Step 2: deduct the approved (exempt) amount (see EIM31230 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31230))
+
+8,000 miles × 45 pence = £3,600
+
+Step 3: is the answer positive or negative?
+
+The answer is positive:
+
+- excess over AMAPs is taxable and reported on P11D, in this example the amount in excess over AMAPs is £40
+
+- AMAPs exempt amount is £3,600

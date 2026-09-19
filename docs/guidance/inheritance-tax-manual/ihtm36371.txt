@@ -1,0 +1,30 @@
+Recording penalties: general
+Identifier: IHTM36371
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36371
+Published: 2016-04-09T10:20:55+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:08:58.054028+00:00
+
+Late account penalties, penalties for the delivery of incorrect accounts, documentation and information and for the late reporting of amendments are recorded in a separate penalty database on COMPASS.
+
+Late account penalties are generally set up as part of the data-capture process, although there is a separate facility to create a penalty record for a IHTA84/S245(2) & (3) manually.
+
+All penalties for the delivery of incorrect accounts, documentation and information under IHTA84/S247 must be set up on the COMPASS database. Any other penalties levied, principally those where
+
+-
+
+there is a failure to meet the requirements of IHTA84/S218A where an instrument of variation made on or after 1 August 2002 results in additional tax (IHTM36091 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36091)), IHTA84/S245A(1A)
+
+-
+
+there is a failure to comply with a IHTA84/S219A notice for information (IHTM32221), IHTA84/S245A(3)
+
+-
+
+to comply with a IHTA84/S219 information notice (IHTM32231), IHTA84/S245A(2)
+
+-
+
+to make a return under IHTA84/S218 of names and addresses of both the settlor and trustees where a settlor is a long-term UK resident (after 6 April 2025) (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000#)) or domiciled in the UK (before 6 April 2025) (IHTM13000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13000)) and the trustees are not resident in the UK, IHTA84/S245A(1)
+
+should be recorded on a separate Penalty database (IHTM36372 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36372)) on the Knowledge tree. This database should also be used to record any late account penalties where the calculation cannot be raised on COMPASS; for example Heritage and timber recapture charges.

@@ -1,0 +1,20 @@
+Repayments: issue repayment: permanent overpayments
+Identifier: SAM110180
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam110180
+Published: 2016-04-08T17:13:58+01:00
+Updated: 2016-02-23T14:52:30+00:00
+Retrieved (UTC): 2026-09-18T16:20:04.100783+00:00
+
+Where an overpayment has not been requested for repayment and there are no liabilities to which the overpayment can be allocated the taxpayer’s SA record will show a credit balance. The credit will remain on the taxpayer’s SA record until either
+
+- A repayment is claimed
+
+Or
+
+- A liability becomes due and the credit can be allocated
+
+Where repayment or allocation cannot be made, for example in a cessation case, the credit balance should be transferred to OAS using function TRANSFER FROM OVERPAID BALANCE. After using the function, a SA331 OAS Allocation Form (available for completion and printing from SEES) should be sent to the AO giving disposal instructions.
+
+More detailed advice about transferring an overpayment to OAS is provided in the Debt Management & Banking Manual (DMBM).
+
+Disposal of the OAS item will be made by the AO using current procedures as detailed in AO Manual L.

@@ -1,0 +1,188 @@
+Groups: rebasing: no gain/no loss disposals on or after 6/4/88
+Identifier: CG46320
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46320
+Published: 2016-03-12T11:11:27+00:00
+Updated: 2026-09-09T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:41:34.640932+00:00
+
+TCGA92/S35 (3) (d)
+
+If there is no election out of the kink test, the general rule rebasing gains and losses by reference to 31 March 1982 market value does not apply on a no gain/no loss disposal. This exclusion is in TCGA92/S35(3)(d). If a company acquires an asset before 31 March 1982, and disposes of the asset at no gain/no loss on or after 6 April 1988, the notional consideration which establishes the no gain/no loss result is determined by reference to the transferor's original cost and not the value of the asset on 31 March 1982. The effect of this rule is that, on a disposal on or after 6 April 1988 by the transferee, the kink test can operate to make a comparison between the original cost of the asset before 31 March 1982 and the market value of the asset on 31 March 1982.
+
+Example
+
+In 1980 company A acquires an asset for £1,000. In 1989 company A disposes of the asset to company B at no gain/no loss under TCGA92/S171 (1). In 1992 company B disposes of the asset to an unconnected third party for £7,000. The asset's market value on 31 March 1982 was £3,000.
+
+On the disposal by A to B, company B acquires the asset at a capital gains cost £1,000, plus accrued indexation. The general rebasing rule does not apply on this intra-group disposal because of TCGA92/S35 (3)(d).
+
+On the third party disposal in 1992, TCGA92/S55 (6)(b) strips out of B's acquisition cost the indexation accrued up to the time of the no gain/no loss disposal in 1989, see CG46110 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46110). The rebasing provisions apply to company B's disposal of the asset in 1992, since B is treated by TCGA92/SCH3/PARA1 as having held the asset on 31 March 1982.
+
+The kink test comparison proceeds as follows.
+
+Gain by reference to original cost
+
+-
+
+|
+
+-
+
+|
+
+£
+
+|
+
+-
+
+|
+
+disposal proceeds
+
+|
+
+7000
+
+|
+
+less
+
+|
+
+cost at no gain/no loss from A
+
+|
+
+1000
+
+|
+
+-
+
+|
+
+unindexed gain
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+6000
+
+|
+
+less
+
+|
+
+indexation 1982-1992 on
+
+|
+
+-
+
+|
+
+-
+
+|
+
+31 March 1982 market value say
+
+|
+
+2100
+
+|
+
+-
+
+|
+
+gain
+
+|
+
+3900
+
+|
+
+Gain by reference to 31 March 1982 market value
+
+|
+
+£
+
+|
+
+-
+
+|
+
+-
+
+|
+
+disposal proceeds
+
+|
+
+7000
+
+|
+
+less
+
+|
+
+31 March 1982 market value
+
+|
+
+3000
+
+|
+
+-
+
+|
+
+unindexed gain
+
+|
+
+4000
+
+|
+
+less
+
+|
+
+indexation 1982-1992 say
+
+|
+
+2100
+
+|
+
+-
+
+| gain |
+
+1900
+
+|
+
+The chargeable gain is the lower gain £1,900. In the computation by reference to original cost, indexation is calculated on 31 March 1982 market value because this is greater than indexation on historic cost. This is the effect of TCGA92/S55 (1), (2) and (6)(a).

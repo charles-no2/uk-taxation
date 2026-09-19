@@ -1,0 +1,42 @@
+Substantial shareholdings exemption: the substantial shareholding requirement - aggregation of periods when trade assets held
+Identifier: CG53080C
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53080c
+Published: 2016-03-12T11:29:06+00:00
+Updated: 2021-06-03T11:18:15+01:00
+Retrieved (UTC): 2026-09-18T14:32:37.737755+00:00
+
+TCGA92/SCH7AC/PARA15A
+
+FA2011/Sch10/Para6 inserts into Schedule 7AC a new paragraph 15A. It will apply to certain disposals of shares made on or after 19 July 2011 (the day the Act was passed). This will allow the substantial shareholding exemption to apply in certain situations involving the disposal of part of a group’s trading activity where the trading assets have been transferred into a new group company prior to that disposal.
+
+The application of TCGA1992/Sch7AC/Para15A will only be relevant if the normal 12 month holding period as applied by TCGA1992/Sch7AC/Para7 (see CG53070 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53070)) is failed, including aggregation in accordance TCGA1992/Sch7AC/Para10 and 14 (see CG53080A (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53080a) and CG53080B (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53080b)).
+
+It treats the minimum 12 month substantial shareholding requirement of TCGA1992/Sch7AC/Para7 as having been met for the period assets which were used for a trade conducted by another group company before being transferred to the investee company if the following conditions are met:
+
+- That, immediately before the disposal, the investing company holds a substantial shareholding in the investee company (see CG53072 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53072)), and
+
+- that at the time of the disposal an asset is being used for the purposes of a trade carried on by the investee company, and
+
+- at the time of the transfer of the asset to the investee company by the investing company (or any other company) they were all members of the same group, and
+
+- the asset was previously used by a member of the group, other than the investee company, for the purposes of a trade carried on by that member when it was a member of the group.
+
+If the conditions are met then the investing company is treated as having held the substantial shareholding at any time during the final 12 month period ending with the time of disposal as long as the asset was being used for the purposes of a trade carried on by the transferring group member. This may include a period before the company invested in existed.
+
+For example,
+
+- Company A has one wholly owned subsidiary, company B. Company B carries a large trade, consisting of various divisionalised activities, and has done so for a number of years.
+
+- Company A receives an offer from a third party, company X, to sell a particular part of its trading activities. Company X however would prefer to acquire this activity held under a separate company rather than as a bundle of assets.
+
+- In order to accommodate this requirement company A sets up a newly incorporated wholly owned subsidiary, company C.
+
+- Company B transfers to company C the assets used in the trade which are to be disposed of. Company C continues to use those assets for the purpose of a trade it now carries on.
+
+- 1 month later company A sells the shares in company C to company X.
+
+Company A will only have held the shares in company C for 1 month but will still meet the substantial shareholding requirement. TCGA1992/Sch7AC/Para15A provides that you look back to company B who previously used the assets for the purpose of its trade immediately prior to transferring them to company C.
+
+You treat company A as if it held the shares in company C throughout the 11 months immediately prior to the start of the 1 month period when company B transferred the assets to company C. Adding that 11 month period when company B used the assets for the purpose of its trade to the 1 month company A held the shares in company C allows company A to be treated as if it held at least 10% of company C's ordinary share capital throughout the 12 month period ending with the time of the disposal.
+
+Note that paragraph 15A extends the holding period by reference to the previous use of trading assets by a member of the group while it was a member of a group. Therefore, a capital gains group must have existed at the time, see CG53006 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53006) for the definition of a group for SSE purposes.The provision cannot apply where the transferee company is a newly acquired subsidiary of what was previously a single trading company.

@@ -1,0 +1,54 @@
+Losses: how relief is given against general income
+Identifier: PIM4222
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4222
+Published: 2018-01-03T14:46:54+00:00
+Updated: 2018-12-14T02:00:25+00:00
+Retrieved (UTC): 2026-09-18T14:28:11.810818+00:00
+
+ITA07/S121 - 123
+
+The amount of relief that can be claimed for a given year is the lesser of:
+
+- total general income for that year
+
+- the applicable amount of the loss available for relief in that year (see below)
+
+The applicable loss claimed against general income is deducted from the person’s general income for the year of the claim (s121(1) ITA07).
+
+If the total applicable loss arising in a year cannot be relieved in full for the years in which relief would be available, it may be carried forward as an ordinary property loss for use against future profits of the same property business, see PIM4205 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4205) and PIM4210 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4205).
+
+Where in the same tax year, there are claims for property loss relief against that year’s general income for both an applicable loss arising in the prior year and an applicable loss arising in that year, the claim for the loss arising from the prior year is to be relieved first and the claim for that year’s applicable loss is then set against any remaining general income (ITA07/S121(2)).
+
+Note that an ordinary property business loss brought forward from a previous year is deducted from the profits of that property business automatically. Therefore this set-off occurs before any claims to set applicable losses of another year against general income.
+
+The applicable amount of the loss
+
+The applicable amount of the loss is the amount that is available for relief against general income.
+
+Where the loss is made up of relevant capital allowances connection and/or the business has a relevant agricultural expenses, the applicable amount of the loss is the lower of:
+
+- the customer’s total general income for the year after deducting rental business losses brought forward (to the extent of the rental business income) and after deducting any sideways relief for the previous year’s loss (see above),
+
+- the amount of the rental business loss made in the year,
+
+or
+
+- the amount of net capital allowances where the loss has a capital allowances connection, or
+
+- the amount of allowable agricultural expenses where the business has a relevant agricultural connection, or
+
+- The total of the net capital allowances and allowable agricultural expenses where the loss has a capital allowances connection and the business has a relevant agricultural connection
+
+If the applicable loss amount is less than the total loss the remainder of the loss is treated as an ordinary property business loss that cannot be set against general income, see PIM4205 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4205) and PIM4210 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4205).
+
+Where part of the loss is claimed for relief against general income in one year, the applicable amount of the loss remaining which can be relieved in another year is the total applicable amount less the amount already relieved (s121(2) ITA07).
+
+Capital allowances
+
+The amount of net capital allowances is the amount of capital allowances that can be claimed less any charges due.
+
+If the amount of capital allowances treated as expenses of the business exceed the amount of charges treated as a receipt of the business under CAA01 then this portion of the loss can be set against general income as described above (s123(2) ITA07).
+
+Relevant agricultural expenses
+
+A business may have relevant agricultural expenses if the business is carried on in relation to land that consists of or includes an agricultural estate and allowable agricultural expenses deducted in calculating the loss are attributable to the estate (s123(3) ITA07). See PIM4224  (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4224)for more detail.

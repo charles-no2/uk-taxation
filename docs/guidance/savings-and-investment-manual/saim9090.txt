@@ -1,0 +1,42 @@
+Deduction of tax: yearly interest: UK source: the general rule
+Identifier: SAIM9090
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim9090
+Published: 2016-03-19T16:29:32+00:00
+Updated: 2019-06-12T15:13:22+01:00
+Retrieved (UTC): 2026-09-18T14:26:56.734116+00:00
+
+Duty to deduct tax from interest with a UK source
+
+The obligation to deduct tax from interest that has a UK source is imposed by Chapter 3 of Part 15 ITA07 (formerly ICTA88/S349 (2)). ITA07/S874 specifies that the interest must be ‘yearly interest arising in the United Kingdom’. ITA07/S884 makes it clear that this excludes ‘relevant foreign income’, that is, income arising outside the UK (see SAIM1130 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim1130)).
+
+So whether or not tax should be deducted from interest paid on an overseas loan depends on the source of the interest. If the interest has a UK source tax must be deducted, if it does not then tax should not be deducted.
+
+Whether or not interest has a UK source depends on all the facts and on exactly how the transactions are carried out. HMRC consider the most important of factors in deciding whether or not interest has a UK source to be
+
+- the residence of the debtor and the location of his/her assets. This will influence where the creditor will seek to enforce any judgement following default;
+
+- the place of performance of the contract and the method of payment. Here we are looking at the substantive (not immediate) origin of the funds out of which the interest was paid;
+
+- the competent jurisdiction for legal action and the proper law of contract;
+
+- the residence of the guarantor and the location of the security for the debt.
+
+This list of factors is derived from the leading case on the source of interest, Westminster Bank Executor and Trustee Company (Channel Islands) Ltd v National Bank of Greece SA (46 TC 472) and this approach was reinforced by the Court of Appeal in Ardmore Construction Ltd v Revenue and Customs Commissioners (2018) EWCA 1438. These cases have confirmed that in applying this multifactorial, fact-sensitive test where different factors give different answers, the question of source should be looked at from a practical, or realistic point of view.
+
+Additional factors need to be considered for companies. See SAIM9095 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim9095).
+
+EU rules
+
+If the debtor is resident within the EU, the Council Regulation (EC) 44/2001 on Jurisdiction and the Recognition and Enforcement of Judgments in Civil and Commercial matters, and the 1968 ‘Brussels Convention’, may have an impact on the general rule described above.
+
+The usual rule is that where an individual is domiciled in a contracting state, then they should be sued in the courts of that state (Article 2 of the Regulation/Convention). Domicile is defined according to the rules of that contracting state but for these purposes only, it is, in the UK, linked to the individual’s residence. Under these rules an individual is domiciled in England for example if he is resident there and the nature and circumstances of his residence indicate that he has a substantial connection with England. So an individual resident in England would in general terms only be sued in the courts in that country. However this is a complex area and there are exceptions. For example it may be argued that:
+
+- the case does not fall within the Regulation;
+
+- another convention or international agreement gives jurisdiction to another state’s courts
+
+- proceedings have already begun in another state’s courts; or
+
+- it has been agreed under Article 22 of the Brussels Convention that the courts of a particular state have exclusive jurisdiction.
+
+In any case in which it is argued that a UK resident debtor can be sued in a Member State in precedence to the UK courts please refer the case to BAI (Financial Products Team).

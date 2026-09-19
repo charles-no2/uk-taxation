@@ -1,0 +1,106 @@
+Employment income provided through third parties: exclusions: retirement benefits etc: pre-6 April 2006 contributions to EFRBS
+Identifier: EIM45620
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45620
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-10-17T13:49:08+01:00
+Retrieved (UTC): 2026-09-18T14:23:22.342343+00:00
+
+Section 554U ITEPA 2003
+
+Conditions (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45620#IDAWAEFB)
+The group extension (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45620#IDA0BEFB)
+A is ‘taxed’ (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45620#IDA1CEFB)
+Results (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45620#IDAYDEFB)
+Sourcing: direct or indirect (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45620#IDA1EEFB)
+Sourcing: part or whole (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45620#IDAHFEFB)
+How Sections 554T to 554X are related (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45620#IDAOGEFB)
+
+Section 554U will prevent Part 7A income arising to the extent that the relevant step is in respect of sums of money and assets derived from ‘taxed’ contributions to an EFRBS paid before 6 April 2006.
+
+Section 554X can apply to relevant steps in connection with transfers.
+
+Conditions
+
+The sum of money or asset which is the subject of the relevant step must meet three conditions.
+
+- It has arisen or derived from (for example, grown out of) a sum of money (‘the taxed sum’) paid in accordance with an EFRBS with a view to the provision of benefits under the EFRBS.
+
+- The taxed sum was paid by:
+
+- B, or
+
+- if the group extension applies, a company which was a member of the same group as B at the relevant time.
+
+- A is ‘taxed’ in respect of the taxed sum.
+
+The group extension
+
+The group extension applies if:
+
+- B is a company, and
+
+- B is a member of a group of companies at the time the taxed sum is paid.
+
+To decide whether B is a member of a group, you apply the rules for corporation tax on chargeable gains (see CG45100 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45100) onwards) with one modification.
+
+The chargeable gains test is a 75% test. For the purposes of the group extension, you change ‘75%’ to ‘51%’ throughout.
+
+A is ‘taxed’
+
+A is taxed in respect of the taxed sum if:
+
+- A was assessed to tax by virtue of Section 595(1) ICTA 1988 in respect of the sum, or
+
+- the sum counted as A’s employment income under Section 386(1) ITEPA 2003.
+
+Section 595(1) ICTA 1988 and Section 386(1) ITEPA 2003 were the provisions which imposed income tax on contributions before 6 April 2006. See EIM15412 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15412).
+
+Results
+
+If the conditions are met, the relevant step under review will not give rise to Part 7A income.
+
+If the relevant step does not give rise to Part 7A income, benefits provided under the scheme will remain subject to tax under:
+
+- Section 394 ITEPA 2003 (relevant benefits provided under EFRBS) as reduced in accordance with the provisions in Schedule 36 paragraphs 53 to 55 FA 2004 (transitional rules: contributions taxed before 6 April 2006) see EIM15015 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15015), or
+
+- under Part 9 ITEPA 2003 (pension income) see EIM75010 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75010) onwards.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45620#Top)
+
+Sourcing: direct or indirect
+
+It makes no difference whether the sum of money or asset arises or derives directly or indirectly from the taxed sum.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45620#Top)
+
+Sourcing: part or whole
+
+If the sum of money or asset arises or derives partly but not wholly from the taxed sum, you treat the relevant step as being two relevant steps:
+
+- one in relation to the sum of money or asset so far as it does arise or derive from the taxed sum, and
+
+- one in relation to the sum of money or asset so far as it does not.
+
+And you then apportion the sum of money or asset on a just and reasonable basis between those two relevant steps.
+
+Section 554U only shelters the former.
+
+What counts as a just and reasonable basis will depend on the facts of the case.
+
+In general, you can take investment returns arising after 5 April 2006 on the ‘taxed sum’ that was held on 5 April 2006 into account in determining how much of the relevant step can be said to ‘arise or derive’ from the ‘taxed sum’.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45620#Top)
+
+How Sections 554T to 554X are related
+
+Sections 554T, 554U, 554V, 554W and 554X are exclusions relating to retirement benefits etc.
+
+To the extent that they apply, you apply them in that order.
+
+On Section 554T (employee pension contributions), see EIM45615 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45615).
+
+On Section 554V (purchases of annuities out of pension scheme rights), see EIM45625 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45625) onwards.
+
+On Section 554W (certain retirement benefits etc), see EIM45635 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45635) onwards.
+
+On Section 554X (transfers between certain foreign pension schemes), see EIM45645 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45645) onwards.

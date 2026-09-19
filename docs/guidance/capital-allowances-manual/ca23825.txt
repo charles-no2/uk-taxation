@@ -1,0 +1,62 @@
+PMA: Long funding lease: disposal events and disposal values
+Identifier: CA23825
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23825
+Published: 2016-04-16T08:50:03+01:00
+Updated: 2016-04-06T16:53:43+01:00
+Retrieved (UTC): 2026-09-18T16:20:52.051613+00:00
+
+CAA01/S70E
+
+When a person (the lessee) leases an asset and the lease terminates the lessor may sell the asset and give some or all of the sale proceeds to the lessee. The long funding lease legislation covers this situation. It also deals with the situation where the lessee receives an amount calculated by reference to the termination value.
+
+There are different rules depending on whether the lessee has treated the lease as a long funding operating lease or a long funding finance lease.
+
+Long funding operating lease
+
+Where:
+
+- a lessee has treated a lease as a long funding operating lease,
+
+- the lessee has been treated as the owner of the leased asset, and
+
+- the lease terminates,
+
+the termination of the lease is a disposal event and the lessee has to bring a disposal value to account.
+
+The lessee’s allowable deductions will have been reduced by Ss1177, 1181, Sch1 para 70, Sch 3 Part 1 CTA 10 (formerly ICTA88/S502J) or ITTOIA/S828J. You find the disposal value by comparing the lower of:
+
+- the market value of the plant at the later of:
+
+- the commencement of the term of lease, and
+
+- the date on which the asset is first brought into use by the lessee for the purposes of the qualifying activity,
+
+with
+
+- the reductions that are made under Ss1177,1181, Sch1 para 70,Sch 3 Part 1 CTA 10 (formerly ICTA88/S502J) or ITTOIA/S828J for periods of account when the person was the lessee.
+
+If the market value is more than the total reductions the disposal value is the difference.
+
+This reduces the net expenditure on which capital allowances are given to the total reductions under Ss1177,1181, Sch1 para 70,Sch 3 Part 1 CTA 10 (formerly ICTA88/S502J) or ITTOIA/S828J.
+
+Normally a person only has to bring one disposal value to account in respect of an asset even if there is more than one disposal event CA23240 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240). This rule does not apply to a lessee under a long funding operating lease.
+
+There is also a disposal event if the lessor sells the asset when the lease ends and gives some or all of the proceeds to the lessee. As stated above the rule that if there is more than one disposal event for an item of plant or machinery, a disposal event is only brought to account on the first one does not apply where there is a long funding operating lease. A disposal value is also brought to account on this further disposal event. The disposal value that the lessee has to bring to account is the amount that the lessee receives.
+
+Example Morrison leases an asset to Dunsmore who treats the lease as a long funding operating lease. When the lease ends Dunsmore has to bring a disposal value to account. If Morrison then sells the asset and gives Dunsmore 60% of the proceeds, Dunsmore also has to bring his 60% share of the sale proceeds to account as a disposal value.
+
+Long funding finance lease
+
+There is a disposal event when the lessee receives a termination payment and so the lesse has to bring a disposal value into account. This is how you establish the disposal value. If the lease runs its full term the disposal value is the termination payment received.
+
+If the lease terminates early this is how you calculate the disposal value.
+
+- Start with the termination payment.
+
+- If the lease terminates early add the present value of the balance of the minimum lease payments immediately before the termination of the lease.
+
+- Then deduct the any amount payable to the lessor for or as a result of the termination.
+
+The balance of the minimum lease payments is the minimum lease payments less what would have been the minimum lease payments if the lease had expired on the termination date.
+
+When you do the calculations assume that accounts had been prepared in accordance with generally accepted accountancy practice immediately before the termination of the lease.

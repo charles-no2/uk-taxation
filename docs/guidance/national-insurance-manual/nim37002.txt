@@ -1,0 +1,30 @@
+Refunds: Class 1: Minimum refund level
+Identifier: NIM37002
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim37002
+Published: 2016-04-11T17:51:15+01:00
+Updated: 2023-03-10T15:44:52+00:00
+Retrieved (UTC): 2026-09-18T15:17:32.597773+00:00
+
+Regulation 52(1) of the Social Security (Contributions) Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+Class 1 NICs paid in error or in excess of the annual maximum will only be refunded if the amount involved is not less than one fifteenth of a Class 1 contribution at the main primary percentage payable on earnings at the weekly UEL for the last, or only, tax year for which the NICs were paid.
+
+It is calculated using the formula ((UEL–PT) x main primary %) ÷ 15
+
+For example, for the 2025 to 2026 tax year the following rates and thresholds apply
+
+Weekly UEL = £967
+
+Weekly PT = £242
+
+Main Primary percentage rate = 8%
+
+(967 - 242) x 8%) ÷ 15 = £3.86
+
+Below this amount HMRC is not required by law to make the refund (regulation 52(5) SSCR 2001).
+
+Small refund level
+
+There is a level below which an excess refund will not be automatically refunded but is available only if the contributor asks for it. HMRC sets this ‘small refund level’ at half the current year’s weekly LEL.
+
+For example, for the 2025 to 2026 tax year the small refund level is (£125 ÷ 2 = £62.50)

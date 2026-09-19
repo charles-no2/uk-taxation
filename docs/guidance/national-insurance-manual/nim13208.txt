@@ -1,0 +1,26 @@
+Class 1A NICs: liability for Class 1A NICs: Class 1A NICs on termination awards: example 5 – demonstrating the hierarchy of payments
+Identifier: NIM13208
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim13208
+Published: 2020-03-25T12:26:47+00:00
+Updated: 2023-07-14T14:53:07+01:00
+Retrieved (UTC): 2026-09-18T15:20:05.168703+00:00
+
+Mick has lost his employment. His severance package consists of:
+
+- £20,000 for redundancy
+
+- £10,000 post employment notice pay
+
+- being allowed to keep using the company car he has been using for another 2 years (after that he must give it back) - the taxable value of the car is calculated as £10,000 for year 1 and £8,500 for year 2
+
+The £10,000 post employment notice pay is subject to Class 1 NICs as earnings.
+
+Mick’s ex-employer will not need to add the value of this benefit to his P11D(b) for year 1 as explained later in this example with there being no NICs amount due, but for year 2, when Mick has use of the car, they will. Normally, his employer would pay Class 1A NICs on the value of the car each year as the secondary contributor for the period that Mick has the use of it. Mick will account for the tax on the benefit using his SA return.
+
+There is a hierarchy of payments so that if the employee is given a cash payment in their termination agreement and the provision of a taxable BIK, both giving rise to a class 1A liability, apply the £30,000 threshold to the cash element first.
+
+In this example, the £30,000 exemption is set against the cash element first, leaving £10,000 of the exemption left to set against the BIK.
+
+In year 1 the £10,000 remaining exemption can be set against can be set against the P11D(b) liability so no Class 1A NICs are due.
+
+In year 2 the £8,500 taxable value of the car is subject to Class 1A NICs as the £30,000 exemption has been fully used. This is reported using the P11D(b) process.

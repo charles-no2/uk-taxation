@@ -1,0 +1,100 @@
+Land: part-disposals: value shifting
+Identifier: CG72000
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg72000
+Published: 2016-03-12T12:18:38+00:00
+Updated: 2018-12-14T01:47:12+00:00
+Retrieved (UTC): 2026-09-18T14:35:29.797252+00:00
+
+Value shifting
+
+TCGA92/S29
+
+Without special rules, it would be possible to adjust interests in land, so that value passed from one interest to another, without there being any disposal for CGT purposes. The value shifting rules in TCGA92/S29 are intended to counter such avoidance.
+
+TCGA92/S29 can apply to transfers of value from assets other than land. Instructions on the general application of Section 29 are at CG13200P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13200p).
+
+The specific provisions which can apply to land are contained in Section 29(4) and (5).
+
+Application
+
+The value shifting rules in TCGA92/S29 are only to be applied if the transfer of value does not give rise to a disposal under any other part of the CGT legislation.
+
+Effect
+
+Where TCGA92/S29 applies, the transfer of value is treated as giving rise to a disposal or part disposal by the person transferring value. That disposal or part disposal is treated as taking place at market value.
+
+The person benefiting from the transfer of value is treated as having incurred allowable expenditure equal to the value transferred.
+
+Transfer of value from tenant to landlord
+
+TCGA92/S29 (4)
+
+TCGA92/S29 (4) applies where all the following conditions are satisfied:
+
+- the owner of a holding of land becomes the tenant of that land under a lease;
+
+- subsequently, there is a variation of the rights or liabilities under the lease (whether involving the grant of a new lease or not);
+
+- that variation is as a whole favourable to the landlord.
+
+Although TCGA92/S29 (4) will most often apply where the asset concerned is land, it can also apply to other assets which have previously been owned by a person who is now the lessee.
+
+Example
+
+TCGA92/S28 (4)
+
+On 30 June 1987, Mr R bought the freehold of a vacant property for £60,000.
+
+On 31 August 2015, he gave the freehold interest in the property to his son subject to a 99-year lease in favour of Mr R. The rent payable under that lease was £1 per year.
+
+The Valuation Office Agency advised that, as at 31 August 2015, the value of the son’s interest in the property should be regarded as nil.
+
+On 31 July 2017, Mr R agreed with his son that he would pay a rent of £10,000 a year from that time onwards. That action amounted to a transfer of value from Mr R to his son and TCGA92/S29 (4) applied.
+
+The Valuation Office Agency provided the following values:
+
+- Value of lease immediately prior to 31 July 2017: £100,000;
+
+- Value of lease immediately after transfer of value: £30,000;
+
+- Value transferred: £70,000.
+
+The gain arising to Mr R is calculated as follows:-
+
+i) Disposal proceeds
+
+Value transferred
+
+= £70,000
+
+ii) Allowable expenses
+
+= [ A / (A + B) ] x Original costs
+
+= [ £70,000 / (£70,000 + £30,000) ] x £60,000
+
+= £42,000
+
+iii) Chargeable gain
+
+= Value transferred - Allowable expenses
+
+= £70,000 - £42,000
+
+= £28,000
+
+Removal of right over asset
+
+TCGA92/S29 (5)
+
+TCGA92/S29 (5) applies where:
+
+- an asset is subject to a right or restriction; and
+
+- that right or restriction is surrendered or removed.
+
+In these circumstances, the person giving up the right or restriction is treated as having made a disposal or part disposal. The consideration for that disposal or part disposal is treated as being the market value of the right or restriction given up.
+
+Section 29(5) will not apply if the surrender or removal of the right or restriction is treated as a disposal by virtue of some other provision. For example, it will not apply to the surrender of a tenancy since such a surrender is treated as a disposal under other rules, see CG71230P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71230p).
+
+As with TCGA92/S29 (4), Section 29(5) can also apply to assets other than land.

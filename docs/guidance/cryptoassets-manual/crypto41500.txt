@@ -1,0 +1,10 @@
+Cryptoassets for businesses: Corporation Tax: Corporation Tax on chargeable gains - losing private keys
+Identifier: CRYPTO41500
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto41500
+Published: 2021-03-30T09:04:14+01:00
+Updated: 2021-03-26T11:38:42+00:00
+Retrieved (UTC): 2026-09-18T16:18:37.048769+00:00
+
+If a person misplaces their private key (for example throwing away the piece of paper it is printed on), they will not be able to access their tokens. The private key still exists as part of the cryptography, albeit it is not known to the owner any more. Similarly the tokens will still exist in the distributed ledger. This means that misplacing the key does not count as a disposal for Capital Gains Tax purposes. More information can be found in CG13155 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13155).
+
+If it can be shown there is no prospect of recovering the private key or accessing the tokens, a negligible value claim could be made. If HMRC accepts the negligible value claim, the person will be treated as having disposed of and re-acquiring the tokens they cannot access so that they can crystallise a loss.

@@ -1,0 +1,22 @@
+Groups:transfers by election, gains and losses accruing before 21 July 2009
+Identifier: CG45358
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45358
+Published: 2016-03-12T11:06:42+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:40:54.628933+00:00
+
+A procedure that made it possible for group members to bring gains and losses together in the same company without the need to actually transfer assets within the group before a sale to a third party was first introduced for disposals made on or after 1 April 2000. For gains or losses that accrue before 21 July 2009 there are two major distinctions from the current provision -
+
+Firstly, the provision was more limited in scope. An election under TCGA92/S171A(2) could only be made where an asset is disposed of to a third party who is not a group member, referred to as company C. It could not be made unless C acquired an asset. Examples of the types of chargeable gains and allowable losses that could not be moved are set out in CG45356 above.
+
+Secondly, the effect of an election. This was to treat the asset as being transferred from A to B immediately before the disposal to C and to treat company B as having made the disposal to C. The disposal from A to B is treated as being within TCGA1992/S171(1) and it is a condition for making an election that that provision would have applied no gain/no loss treatment to a real disposal from A to B.
+
+If an asset is deemed to have been transferred from company A to company B under a TCGA1992/S171A election, the consequences are identical to those that would follow if an actual transfer were made before the disposal outside the group to C. So B can set other reliefs, such as surplus management expenses brought forward, against the deemed gain exactly as it could if the transfer from A had actually taken place.
+
+An election could be made to deem to transfer part of an asset from A to B. Multiple elections were also possible, enabling fractions of an asset to be deemed to be transferred to several different group members, provided the conditions for an election were fulfilled for each election.
+
+Where an election has been made, the gain or loss on a disposal that is treated as accruing to Company B may be adjusted under TCGA1992/S49 (CG14816) as extended by ESC D13 (CG14826) to reflect payments to C by A under warranties or indemnities.
+
+If any payment passes between A and B in connection with an election under TCGA92/S171A(2), it is not taken into account in computing the profits or losses of either company for corporation tax purposes (TCGA92/S171A (5)).
+
+The election has effect for the purposes of corporation tax on chargeable gains only. For all other tax purposes, the disposal is made by A.

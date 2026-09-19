@@ -1,0 +1,32 @@
+Changes in shareholdings: renounced bonus issue
+Identifier: IHTM34186
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34186
+Published: 2016-04-09T10:11:53+01:00
+Updated: 2017-11-07T16:11:59+00:00
+Retrieved (UTC): 2026-09-18T15:07:17.179356+00:00
+
+The appropriate person (IHTM34161 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34161)) may choose to renounce (or give up) the bonus issue for either
+
+- consideration, or
+
+- gratuitously.
+
+Renounced for consideration
+
+You should refer any claim where the shares allotted under a bonus issue are renounced for consideration to Technical (IHTM01081 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm01081)).
+
+Renounced gratuitously
+
+Example
+
+At the date of death Graham owned 1,000 qualifying shares, valued at £3,000. Shortly after death there was a 1 for 2 bonus issue that was renounced gratuitously in favour of Amy. Subsequently half of the original holding, 500 shares was sold within 12 months for £800.
+
+In this case you should use the formula (IHTM34183 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34183)) in IHTA84/S183 (5) to calculate the date of death value of the shares sold. The loss is the difference between that value and the gross proceeds.
+
+The adjusted date of death value is:
+
+Vs(H – S) ÷ (Vs + Vr)
+
+800 (3,000 – Nil) ÷ (800 + 1,600) = £1,000)
+
+Deduct the sale proceeds of £800 from the adjusted date of death value of £1,000 to give a loss on sale of £200.

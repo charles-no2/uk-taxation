@@ -1,0 +1,168 @@
+Temporary repatriation facility: Mixed funds: Transfers to a TRF capital account: Breaches of the TRF deposit rule
+Identifier: RDRM75340
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75340
+Published: 2025-04-07T08:37:27+01:00
+Updated: 2025-04-07T08:37:27+01:00
+Retrieved (UTC): 2026-09-18T16:19:56.155556+00:00
+
+Breaches of the rule (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75340#Breaches of the rule)
+
+Remedy (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75340#Remedy)
+
+Breaches of the rule
+
+Sections 809RZC and 809RZD Income Tax Act 2007
+
+A breach of the TRF deposit rule occurs if a prohibited sum is paid into, or otherwise credited to, the TRF capital account on or after the qualifying date.
+
+A ‘prohibited sum’ is anything other than TRF capital and interest arising on the account.
+
+The ‘qualifying date’ is the date the account starts to be a TRF capital account – the first date on which more than £10 of TRF capital is paid in to the account.
+
+A breach of the TRF deposit rule can be remedied (see below) unless there are more than 2 days in a tax year on which one or more breaches of the rule occur. The breaches on the first 2 days can be remedied, but any breach occurring after the second day cannot be remedied.
+
+Where there is a breach of the TRF deposit rule that has not or cannot be remedied, the account ceases to be a TRF capital account from the start of the tax year, so it ceases for the entire year, not just the portion following the unremedied breach.
+
+Remedy
+
+A breach is remedied if, within 30 days beginning with the day on which the prohibited sum is paid into the TRF capital account, the required amount is transferred out of the account by way of a single one-off qualifying transfer. The required amount does not need to be returned to the account it was paid from.
+
+The ‘required amount’ is the total of the prohibited sums paid into the TRF account on the day of the breach.
+
+A transfer is ‘qualifying’ if it does not result in any amount being remitted to the UK.
+
+Where a prohibited sum was transferred into the TRF capital account from a mixed fund and the breach is remedied, in order to determine what remains in the mixed fund and to determine what the prohibited sum is comprised of, both the original payment or payments of prohibited sums and the single one-off qualifying transfer are deemed not to have taken place. Instead, the prohibited sum is treated as being transferred directly from the mixed fund to the account that receives the single one-off qualifying transfer.
+
+During the TRF period, an annualised basis applies to all mixed fund accounts which have held TRF capital at some point in the tax year – see RDRM75500 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75500). Where a prohibited sum is transferred back into a mixed fund to which the annualised basis applies, the prohibited sum is treated as though it never left the account.
+
+Example - 2025-26 tax year
+
+Patricia is UK resident and a former remittance basis user. She came to the UK for the first time on 6 April 2020.
+
+On 6 April 2025 she had a mixed fund (account A) containing £1m, made up of:
+
+- £400,000 foreign income from 2024-25
+
+- £300,000 foreign gains from 2022-23
+
+- £300,000 pre-arrival clean capital
+
+Patricia decides to designate all her foreign income. She sets up a TRF capital account (account B) and on 30 July 2025 (the qualifying date) makes a transfer of £400,000 to account B from account A leaving the following amounts in the mixed fund:
+
+- £300,000 foreign gains from 2022-23
+
+- £300,000 pre-arrival clean capital
+
+On 12 September 2025 Patricia pays £45,000 from account A to a German airline for first-class plane tickets for the family from Berlin to Cape Town, which is an offshore transfer.
+
+On 19 December 2025 she transfers £200,000 from account A into account B. A breach has occurred as prohibited sums have been paid into the TRF capital account.
+
+On 30 December 2025 Patricia remits £150,000 to the UK from account A. She doesn’t designate any of that amount.
+
+On 2 January 2026 Patricia discovers the 19 December breach. To remedy this, she must transfer the required amount, £200,000, out of account B in a single one-off transfer before 18 January 2026.
+
+On 3 January 2026 she transfers the £200,000 from account B back to account A. This successfully remedies the breach. As the annualised basis applies to account A for 2025-26 because it held TRF capital, the £200,000 is treated as having never left the account.
+
+The £150,000 remittance on 30 December is deemed to consist entirely of foreign gains, as this follows the ordinary mixed fund ordering rules and is considered to take place at the end of the tax year before any offshore transfers (other than those of TRF capital to the TRF capital account). This is due to the annualised basis applying to account A for 2025-26 because it held TRF capital. The amount spent offshore for the plane tickets is therefore deemed to consist of £15,000 foreign gains and £30,000 clean capital.
+
+At the end of the 2025-26 tax year account A contains:
+
+- £135,000 foreign gains from 2022-23
+
+- £270,000 pre-arrival clean capital
+
+Example continued - 2026-27 tax year
+
+Account B remains Patricia’s TRF capital account, containing £400,000 of TRF capital on 6 April 2026.
+
+On 10 April 2026 Patricia pays £81,000 out of account A to purchase a painting in France that she hangs in her apartment in Paris. Account A is no longer treated on the annualised basis as all TRF capital was transferred out of it in a previous tax year. The payment is deemed to comprise £27,000 foreign gains and £54,000 clean capital, leaving the following in account A:
+
+- £108,000 foreign gains from 2022-23
+
+- £216,000 pre-arrival clean capital
+
+On 3 June 2026 Patricia intends to make two payments of £60,000 each from account A into her offshore accounts C and D. Instead, both amounts are transferred to account B. A breach has occurred as prohibited sums have been paid into a TRF capital account.
+
+On 11 June 2026 Patricia remits £70,000 from account A to the UK.
+
+On 16 June 2026 Patricia discovers the 3 June errors. To remedy the breaches, she must transfer the required amount, which is the total of the prohibited sums paid into account B on 3 June, £120,000, out of account B in a single one-off transfer before 3 July.
+
+On 17 June 2026 Patricia transfers £120,000 in a single transaction from account B to account C. This successfully remedies the breaches. In order to identify what remains in account A and what has been transferred into account C, the £120,000 is treated as being transferred directly from account A to account C on 3 June 2026, the date of the original transfer. As this is an offshore transfer, account A now contains:
+
+- £68,000 foreign gains from 2022-23
+
+- £136,000 pre-arrival clean capital
+
+And the offshore transfer to account C comprises:
+
+- £40,000 foreign gains from 2022-23
+
+- £80,000 pre-arrival clean capital
+
+The remittance on 11 June from account A is therefore deemed to be comprised of the remaining £68,000 foreign gains and £2,000 clean capital as this follows the ordinary mixed fund ordering rules.
+
+On 5 August 2026 Patricia receives a dividend of £78,000, accidentally requesting it to be paid into account B. A breach has occurred as prohibited sums have been paid into the TRF capital account. She realises her error on 8 August and transfers the required amount, £78,000, to account D. This successfully remedies the breach, and the effect is that the £78,000 dividend is treated as having been paid directly into account D.
+
+On 4 October 2026 Patricia decides to designate £500,000 of foreign income that is within another of her mixed funds, account E, and transfers £500,000 from account E to account B. As this is a transfer to a TRF capital account of an amount not exceeding the TRF capital in account E, it is all TRF capital that is paid in and there is no breach. This is because account E contained £500,000 TRF capital and £500,000 foreign gains from 2023-24, so the £500,000 transfer from account E comprises only TRF capital.
+
+On 21 November 2026 Patricia sells her house in South Africa for £702,000 and deposits the sale proceeds into account B. Patricia bought the house with £450,000 clean capital and made a gain of £252,000 on the sale. A breach has occurred as prohibited sums have been paid into the TRF capital account. As there have already been 2 days in the 2026-27 tax year on which breaches have occurred: 3 June and 5 August, the breach occurring on the third day: 21 November is not able to be remedied.
+
+Therefore, account B ceases to be a TRF capital account from 6 April 2026, so all transfers into and out of the account in the 2026-27 tax year are treated as ordinary transfers within the mixed fund rules at sections 809Q and 809R ITA 2007. Because account B contains TRF capital during the 2026-27 tax year, the annualised basis applies to it. This means that the transfers in 2026-27 are now treated as follows.
+
+On 3 June 2026 the following was transferred from account A to account B:
+
+- £40,000 foreign gains from 2022-23
+
+- £80,000 pre-arrival clean capital
+
+After this transfer, and after the payment of the £78,000 dividend into the account on 5 August 2026, account B comprises:
+
+- £400,000 TRF capital
+
+- £78,000 dividend income from 2026-27 (taxed on the arising basis)
+
+- £40,000 foreign gains from 2022-23
+
+- £80,000 pre-arrival clean capital
+
+The £500,000 transfer on 4 October 2026 from account E to account B, instead of being treated as all TRF capital, is an ordinary offshore transfer and is regarded as consisting of the appropriate proportion of each kind of income and capital in account E when offshore transfers out of account E are considered under the annualised basis. Account E contained £500,000 TRF capital and £500,000 foreign gains from 2023-24 so account B comprises:
+
+- £650,000 TRF capital
+
+- £78,000 dividend income from 2026-27 (taxed on the arising basis)
+
+- £250,000 foreign gains from 2023-24
+
+- £40,000 foreign gains from 2022-23
+
+- £80,000 pre-arrival clean capital
+
+Because Patricia bought her house in South Africa with £450,000 clean capital and made a gain of £252,000 on the sale, the transfer into the account on 21 November 2026 means that account B contains:
+
+- £650,000 TRF capital
+
+- £78,000 dividend income from 2026-27 (taxed on the arising basis)
+
+- £252,000 foreign gain from 2026-27 (taxed on the arising basis)
+
+- £250,000 foreign gains from 2023-24
+
+- £40,000 foreign gains from 2022-23
+
+- £530,000 pre-arrival clean capital
+
+The annualised basis applies to account B for 2026-27 so the offshore transfers to account C on 17 June of £120,000 and to account D on 8 August of £78,000 are treated as a single offshore transfer having taken place at the end of the tax year, after transfers to TRF capital accounts and remittances to the UK. As there were none of these, the single offshore transfer of £198,000 comprises:
+
+- £71,500 TRF capital
+
+- £8,580 dividend income from 2026-27 (taxed on the arising basis)
+
+- £27,720 foreign gain from 2026-27 (taxed on the arising basis)
+
+- £27,500 foreign gains from 2023-24
+
+- £4,400 foreign gains from 2022-23
+
+- £58,300 pre-arrival clean capital
+
+This means that account B contains £1,602,000 comprising the remainder proportions of all the types of income, gains and capital above, instead of £900,000 of TRF capital plus the sale proceeds from the sale of the house.

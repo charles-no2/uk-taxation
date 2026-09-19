@@ -1,0 +1,94 @@
+Step 4 - simple grossing calculations: calculation when there is no lifetime cumulation
+Identifier: IHTM26142
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26142
+Published: 2016-04-09T09:48:05+01:00
+Updated: 2022-02-01T15:55:47+00:00
+Retrieved (UTC): 2026-09-18T15:03:11.873432+00:00
+
+If there is no lifetime cumulation (IHTM31413 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31413)) and the conditions at IHTM26131 are satisfied, the grossed-up value of the chargeable specific gifts (IHTM26011) is
+
+- the threshold at the date of death, plus
+
+- The amount by which the total value of the chargeable specific gifts exceed the threshold × (100 ÷ 60)
+
+Example 1 (includes settled property)
+
+Trevor died on 1 May 2000. The IHT400 (IHTM10021 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm10021)) shows a free estate of £600,000. There is no relievable property and no lifetime cumulation, but there is chargeable settled property valued at £250,000.
+
+By Will (IHTM12041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12041))
+
+- £88,000 free of tax to each of Trevor’s three children
+
+- £5,000 to a charity absolutely
+
+- residue (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003)) to Trevor’s spouse (IHTM11032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11032)) absolutely.
+
+The chargeable specific gifts which do not bear their own tax total £264,000. There are no other chargeable gifts in the free estate.
+
+The grossing calculation is:
+
+Total value of chargeable specific gifts = £264,000
+
+Less whole of nil-rate band -£234,000
+
+Excess = £30,000
+
+£30,000 × (100 ÷ 60) = £50,000
+
+Add the nil-rate band +£234,000
+
+Grossed-up value of the chargeable gifts = £284,000
+
+You can easily check the result:
+
+Tax at 40% on £284,000 - £234,000 = £20,000
+
+Add value of the specific gift +£264,000
+
+Chargeable gift = £284,000
+
+The total chargeable transfer on death is
+
+Grossed up value of the chargeable gift = £284,000
+
+Settled property = £250,000
+
+Total chargeable transfer = £534,000
+
+As Trevor died on 1 May 2000 a calculation would show tax on the death estate of £534,000 as £120,000 of which £63,820.22 is attributable to the free estate. Because of the settled property, the tax liability is greater than the grossing addition.
+
+As the estate as returned is clearly sufficient to pay the legacies (including that to the charity) and tax, there is no need to consider its value.
+
+Example 2 (includes relievable property)
+
+Tina died 1 October 2001. She left free estate of £1M, including unlisted shares valued at £500,000 which qualify for business relief at 100%. No lifetime cumulation. No other property chargeable on the death.
+
+By Will
+
+- £150,000 free of tax to each of Tina’s four children
+
+- residue to Tina’s spouse absolutely.
+
+Applying the 6 stages (IHTM26104 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26104))
+
+Stage 1
+
+The value transferred after BR is £500,000.
+
+Stage 2
+
+There are no specific gifts of relievable property.
+
+Stage 3
+
+The pecuniary legacies totalling £600,000 have to be reduced by £500,000 ÷ £1,000,000
+
+(the IHTA84/S39A(4) fraction) (IHTM26101) to £300,000.
+
+Stage 4
+
+The chargeable legacies as reduced to £300,000 have to be grossed up. They gross up to (100 ÷ 60) × (£300,000 - £242,000) + £242,000 = £338,667.
+
+Stages 5 & 6
+
+The chargeable transfer is £338,667 and the residue (£161,333) is exempt.

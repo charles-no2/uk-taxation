@@ -1,0 +1,937 @@
+{
+  "manual": "cryptoassets-manual",
+  "source": "https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual",
+  "pages": {
+    "/hmrc-internal-manuals/cryptoassets-manual": {
+      "file": "index.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto10000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto20000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto40000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto60000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto100000"
+      ],
+      "retrieved_at": "2026-09-18T16:18:24.948477+00:00",
+      "updated_at": "2025-11-28T09:39:09+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto10000": {
+      "file": "crypto10000.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto10100",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto10150",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto10200",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto10250",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto10300",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto10350",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto10375",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto10400",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto10410",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto10450"
+      ],
+      "retrieved_at": "2026-09-18T16:18:25.103777+00:00",
+      "updated_at": "2025-11-10T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto20000": {
+      "file": "crypto20000.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto20050",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto20250",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto21000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto23000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto24000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto25000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto26000"
+      ],
+      "retrieved_at": "2026-09-18T16:18:25.250660+00:00",
+      "updated_at": "2021-03-26T12:31:02+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto40000": {
+      "file": "crypto40000.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto40050",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto40100",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto40150",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto40200",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto40250",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto40350",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto42000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto43000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto44000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto45000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto46000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto47000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto48000",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto49000"
+      ],
+      "retrieved_at": "2026-09-18T16:18:25.431420+00:00",
+      "updated_at": "2025-11-10T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto60000": {
+      "file": "crypto60000.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61000"
+      ],
+      "retrieved_at": "2026-09-18T16:18:25.589857+00:00",
+      "updated_at": "2022-02-02T15:11:42+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto100000": {
+      "file": "crypto100000.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto100100",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto100150",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto100200",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto100250",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto100300",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto100350",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto100400",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto100500"
+      ],
+      "retrieved_at": "2026-09-18T16:18:25.762923+00:00",
+      "updated_at": "2021-03-26T12:20:41+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto10100": {
+      "file": "crypto10100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:25.920105+00:00",
+      "updated_at": "2025-11-10T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto10150": {
+      "file": "crypto10150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:26.088261+00:00",
+      "updated_at": "2021-03-26T09:55:45+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto10200": {
+      "file": "crypto10200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:26.252120+00:00",
+      "updated_at": "2021-03-26T09:57:26+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto10250": {
+      "file": "crypto10250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:26.406254+00:00",
+      "updated_at": "2021-03-26T09:58:43+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto10300": {
+      "file": "crypto10300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:26.560330+00:00",
+      "updated_at": "2023-08-21T08:37:11+01:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto10350": {
+      "file": "crypto10350.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:26.732168+00:00",
+      "updated_at": "2021-03-26T10:01:22+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto10375": {
+      "file": "crypto10375.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:26.901625+00:00",
+      "updated_at": "2021-03-26T10:03:09+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto10400": {
+      "file": "crypto10400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:27.041655+00:00",
+      "updated_at": "2021-03-26T10:04:46+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto10410": {
+      "file": "crypto10410.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:27.197634+00:00",
+      "updated_at": "2025-11-10T08:12:45+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto10450": {
+      "file": "crypto10450.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:27.341063+00:00",
+      "updated_at": "2021-03-26T10:06:15+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto20050": {
+      "file": "crypto20050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:27.498799+00:00",
+      "updated_at": "2021-03-26T10:08:29+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto20250": {
+      "file": "crypto20250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:27.648382+00:00",
+      "updated_at": "2021-03-26T10:09:55+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto21000": {
+      "file": "crypto21000.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto21100",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto21150",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto21200",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto21250",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto21300"
+      ],
+      "retrieved_at": "2026-09-18T16:18:27.805079+00:00",
+      "updated_at": "2021-11-22T13:08:00+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22000": {
+      "file": "crypto22000.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22050",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22100",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22110",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22150",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22200",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22250",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22280",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22300",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22350",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22400",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22450",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22500",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22550",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22600"
+      ],
+      "retrieved_at": "2026-09-18T16:18:27.953348+00:00",
+      "updated_at": "2021-11-22T13:11:31+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto23000": {
+      "file": "crypto23000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:28.113075+00:00",
+      "updated_at": "2021-08-02T12:01:29+01:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto24000": {
+      "file": "crypto24000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:28.257396+00:00",
+      "updated_at": "2021-03-26T10:13:32+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto25000": {
+      "file": "crypto25000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:28.427991+00:00",
+      "updated_at": "2026-08-13T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto26000": {
+      "file": "crypto26000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:28.597286+00:00",
+      "updated_at": "2021-03-26T10:16:07+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto40050": {
+      "file": "crypto40050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:28.743076+00:00",
+      "updated_at": "2021-03-26T11:14:07+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto40100": {
+      "file": "crypto40100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:28.902648+00:00",
+      "updated_at": "2021-03-26T11:15:21+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto40150": {
+      "file": "crypto40150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:29.057882+00:00",
+      "updated_at": "2021-03-26T11:16:31+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto40200": {
+      "file": "crypto40200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:29.224947+00:00",
+      "updated_at": "2021-03-26T11:17:41+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto40250": {
+      "file": "crypto40250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:29.385831+00:00",
+      "updated_at": "2021-03-26T11:18:48+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto40350": {
+      "file": "crypto40350.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:29.546290+00:00",
+      "updated_at": "2021-03-26T11:20:18+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41000": {
+      "file": "crypto41000.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41050",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41100",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41150",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41200",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41250",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41260",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41300",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41350",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41400",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41450",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41500",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41550",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41600",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto41650"
+      ],
+      "retrieved_at": "2026-09-18T16:18:29.709307+00:00",
+      "updated_at": "2021-11-22T13:14:06+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto42000": {
+      "file": "crypto42000.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto42050",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto42100",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto42200",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto42250",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto42300"
+      ],
+      "retrieved_at": "2026-09-18T16:18:29.869774+00:00",
+      "updated_at": "2021-03-26T12:23:15+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto43000": {
+      "file": "crypto43000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:30.021688+00:00",
+      "updated_at": "2021-03-26T11:21:31+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto44000": {
+      "file": "crypto44000.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto44050",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto44100",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto44150",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto44200",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto44250",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto44300"
+      ],
+      "retrieved_at": "2026-09-18T16:18:30.168511+00:00",
+      "updated_at": "2021-03-26T12:22:06+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto45000": {
+      "file": "crypto45000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:30.328653+00:00",
+      "updated_at": "2021-03-26T11:22:42+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto46000": {
+      "file": "crypto46000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:30.480276+00:00",
+      "updated_at": "2021-03-26T11:23:59+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto47000": {
+      "file": "crypto47000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:30.650752+00:00",
+      "updated_at": "2022-10-21T07:21:43+01:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto48000": {
+      "file": "crypto48000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:30.808764+00:00",
+      "updated_at": "2021-11-22T09:21:05+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto49000": {
+      "file": "crypto49000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:30.966786+00:00",
+      "updated_at": "2025-11-10T08:20:13+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61000": {
+      "file": "crypto61000.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61110",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61120",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61130",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61200",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61400",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61600"
+      ],
+      "retrieved_at": "2026-09-18T16:18:31.106652+00:00",
+      "updated_at": "2022-02-02T14:44:15+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto100100": {
+      "file": "crypto100100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:31.261208+00:00",
+      "updated_at": "2021-03-26T11:58:34+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto100150": {
+      "file": "crypto100150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:31.425062+00:00",
+      "updated_at": "2021-03-26T11:59:50+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto100200": {
+      "file": "crypto100200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:31.592461+00:00",
+      "updated_at": "2024-04-15T11:19:53+01:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto100250": {
+      "file": "crypto100250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:31.747536+00:00",
+      "updated_at": "2021-03-26T12:03:27+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto100300": {
+      "file": "crypto100300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:31.916393+00:00",
+      "updated_at": "2021-03-26T12:04:34+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto100350": {
+      "file": "crypto100350.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:32.064907+00:00",
+      "updated_at": "2021-03-26T12:05:46+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto100400": {
+      "file": "crypto100400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:32.214185+00:00",
+      "updated_at": "2021-03-26T12:06:51+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto100500": {
+      "file": "crypto100500.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:32.376615+00:00",
+      "updated_at": "2021-03-26T12:08:03+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto21100": {
+      "file": "crypto21100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:32.522721+00:00",
+      "updated_at": "2021-03-26T10:17:29+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto21150": {
+      "file": "crypto21150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:32.676157+00:00",
+      "updated_at": "2021-03-26T10:18:56+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto21200": {
+      "file": "crypto21200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:32.831612+00:00",
+      "updated_at": "2021-05-10T11:39:26+01:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto21250": {
+      "file": "crypto21250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:32.996125+00:00",
+      "updated_at": "2021-03-26T10:22:06+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto21300": {
+      "file": "crypto21300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:33.144748+00:00",
+      "updated_at": "2021-03-26T10:23:34+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22050": {
+      "file": "crypto22050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:33.298434+00:00",
+      "updated_at": "2026-03-19T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22100": {
+      "file": "crypto22100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:33.452627+00:00",
+      "updated_at": "2021-03-26T10:42:12+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22110": {
+      "file": "crypto22110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:33.608801+00:00",
+      "updated_at": "2021-11-22T13:18:05+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22150": {
+      "file": "crypto22150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:33.758798+00:00",
+      "updated_at": "2021-03-26T10:43:27+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22200": {
+      "file": "crypto22200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:33.926207+00:00",
+      "updated_at": "2025-11-17T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22250": {
+      "file": "crypto22250.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22251",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22252",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22253",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22254",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22255",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22256",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto22257"
+      ],
+      "retrieved_at": "2026-09-18T16:18:34.070857+00:00",
+      "updated_at": "2021-03-26T12:26:58+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22280": {
+      "file": "crypto22280.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:34.232811+00:00",
+      "updated_at": "2021-05-20T10:12:30+01:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22300": {
+      "file": "crypto22300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:34.390011+00:00",
+      "updated_at": "2021-03-26T10:46:39+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22350": {
+      "file": "crypto22350.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:34.552109+00:00",
+      "updated_at": "2021-03-26T10:48:44+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22400": {
+      "file": "crypto22400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:34.708574+00:00",
+      "updated_at": "2021-03-26T10:50:05+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22450": {
+      "file": "crypto22450.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:34.869243+00:00",
+      "updated_at": "2021-03-26T10:51:33+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22500": {
+      "file": "crypto22500.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:35.032029+00:00",
+      "updated_at": "2021-03-26T10:53:05+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22550": {
+      "file": "crypto22550.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:35.186108+00:00",
+      "updated_at": "2021-03-26T10:54:34+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22600": {
+      "file": "crypto22600.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:35.340398+00:00",
+      "updated_at": "2025-11-28T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41050": {
+      "file": "crypto41050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:35.495162+00:00",
+      "updated_at": "2021-03-26T11:27:04+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41100": {
+      "file": "crypto41100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:35.652971+00:00",
+      "updated_at": "2021-03-26T11:28:33+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41150": {
+      "file": "crypto41150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:35.803298+00:00",
+      "updated_at": "2021-03-26T11:29:39+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41200": {
+      "file": "crypto41200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:35.950504+00:00",
+      "updated_at": "2025-11-17T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41250": {
+      "file": "crypto41250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:36.102845+00:00",
+      "updated_at": "2021-11-22T13:15:43+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41260": {
+      "file": "crypto41260.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:36.253080+00:00",
+      "updated_at": "2021-11-22T09:11:24+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41300": {
+      "file": "crypto41300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:36.423185+00:00",
+      "updated_at": "2022-12-22T07:48:06+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41350": {
+      "file": "crypto41350.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:36.580974+00:00",
+      "updated_at": "2025-12-09T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41400": {
+      "file": "crypto41400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:36.738443+00:00",
+      "updated_at": "2021-03-26T11:35:27+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41450": {
+      "file": "crypto41450.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:36.894460+00:00",
+      "updated_at": "2021-03-26T11:36:41+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41500": {
+      "file": "crypto41500.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:37.048769+00:00",
+      "updated_at": "2021-03-26T11:38:42+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41550": {
+      "file": "crypto41550.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:37.216183+00:00",
+      "updated_at": "2021-03-26T11:40:18+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41600": {
+      "file": "crypto41600.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:37.375221+00:00",
+      "updated_at": "2021-03-26T11:41:36+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto41650": {
+      "file": "crypto41650.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:37.541125+00:00",
+      "updated_at": "2021-03-26T11:42:47+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto42050": {
+      "file": "crypto42050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:37.694435+00:00",
+      "updated_at": "2021-03-26T11:44:06+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto42100": {
+      "file": "crypto42100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:37.846594+00:00",
+      "updated_at": "2021-03-26T11:45:16+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto42200": {
+      "file": "crypto42200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:38.006072+00:00",
+      "updated_at": "2021-03-26T11:46:20+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto42250": {
+      "file": "crypto42250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:38.163058+00:00",
+      "updated_at": "2021-03-26T11:47:30+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto42300": {
+      "file": "crypto42300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:38.326705+00:00",
+      "updated_at": "2021-03-26T11:48:45+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto44050": {
+      "file": "crypto44050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:38.477542+00:00",
+      "updated_at": "2021-03-26T11:49:59+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto44100": {
+      "file": "crypto44100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:38.698926+00:00",
+      "updated_at": "2021-03-26T11:51:06+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto44150": {
+      "file": "crypto44150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:38.860198+00:00",
+      "updated_at": "2021-03-26T11:52:20+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto44200": {
+      "file": "crypto44200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:39.024299+00:00",
+      "updated_at": "2021-03-26T11:53:25+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto44250": {
+      "file": "crypto44250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:39.179968+00:00",
+      "updated_at": "2021-03-26T11:54:31+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto44300": {
+      "file": "crypto44300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:39.327146+00:00",
+      "updated_at": "2021-03-26T11:55:40+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61110": {
+      "file": "crypto61110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:39.484892+00:00",
+      "updated_at": "2022-02-02T14:45:12+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61120": {
+      "file": "crypto61120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:39.640649+00:00",
+      "updated_at": "2022-02-02T14:46:10+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61130": {
+      "file": "crypto61130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:39.792631+00:00",
+      "updated_at": "2022-02-02T14:47:16+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61200": {
+      "file": "crypto61200.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61210",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61211",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61212",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61213",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61214"
+      ],
+      "retrieved_at": "2026-09-18T16:18:39.951266+00:00",
+      "updated_at": "2022-02-02T14:48:32+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61400": {
+      "file": "crypto61400.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61411",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61412",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61413",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61414"
+      ],
+      "retrieved_at": "2026-09-18T16:18:40.114842+00:00",
+      "updated_at": "2022-02-02T14:54:57+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61600": {
+      "file": "crypto61600.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61610",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61620",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61630",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61640",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61650",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61670"
+      ],
+      "retrieved_at": "2026-09-18T16:18:40.281108+00:00",
+      "updated_at": "2022-02-02T15:00:49+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22251": {
+      "file": "crypto22251.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:40.440274+00:00",
+      "updated_at": "2021-03-26T11:05:24+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22252": {
+      "file": "crypto22252.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:40.586384+00:00",
+      "updated_at": "2021-03-26T11:06:30+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22253": {
+      "file": "crypto22253.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:40.746025+00:00",
+      "updated_at": "2021-04-27T13:08:57+01:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22254": {
+      "file": "crypto22254.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:40.900589+00:00",
+      "updated_at": "2021-09-28T09:42:11+01:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22255": {
+      "file": "crypto22255.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:41.052132+00:00",
+      "updated_at": "2021-04-06T12:14:50+01:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22256": {
+      "file": "crypto22256.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:41.210050+00:00",
+      "updated_at": "2021-03-26T11:11:18+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto22257": {
+      "file": "crypto22257.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:41.357438+00:00",
+      "updated_at": "2021-11-17T08:06:24+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61210": {
+      "file": "crypto61210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:41.528161+00:00",
+      "updated_at": "2022-11-03T07:56:48+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61211": {
+      "file": "crypto61211.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:41.686036+00:00",
+      "updated_at": "2022-02-02T14:50:51+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61212": {
+      "file": "crypto61212.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:41.834663+00:00",
+      "updated_at": "2022-02-02T14:51:47+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61213": {
+      "file": "crypto61213.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:41.999247+00:00",
+      "updated_at": "2022-02-02T14:52:47+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61214": {
+      "file": "crypto61214.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:42.165461+00:00",
+      "updated_at": "2022-02-02T15:30:29+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61411": {
+      "file": "crypto61411.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:42.314372+00:00",
+      "updated_at": "2022-02-02T15:38:57+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61412": {
+      "file": "crypto61412.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:42.477767+00:00",
+      "updated_at": "2022-02-02T15:36:17+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61413": {
+      "file": "crypto61413.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:42.632100+00:00",
+      "updated_at": "2022-02-02T14:58:21+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61414": {
+      "file": "crypto61414.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:42.797869+00:00",
+      "updated_at": "2022-02-02T15:42:23+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61610": {
+      "file": "crypto61610.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:42.955031+00:00",
+      "updated_at": "2022-02-02T15:05:50+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61620": {
+      "file": "crypto61620.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:43.100343+00:00",
+      "updated_at": "2022-02-02T15:06:52+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61630": {
+      "file": "crypto61630.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:43.262022+00:00",
+      "updated_at": "2022-02-02T15:08:17+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61640": {
+      "file": "crypto61640.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:43.416071+00:00",
+      "updated_at": "2022-02-02T15:09:15+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61650": {
+      "file": "crypto61650.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:43.572896+00:00",
+      "updated_at": "2022-02-02T15:09:40+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61670": {
+      "file": "crypto61670.txt",
+      "children": [
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61671",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61672",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61673",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61674",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61675",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61676",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61677",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61678",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61679",
+        "/hmrc-internal-manuals/cryptoassets-manual/crypto61680"
+      ],
+      "retrieved_at": "2026-09-18T16:18:43.720718+00:00",
+      "updated_at": "2022-02-02T15:10:33+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61671": {
+      "file": "crypto61671.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:43.861866+00:00",
+      "updated_at": "2022-02-02T15:26:26+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61672": {
+      "file": "crypto61672.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:44.031464+00:00",
+      "updated_at": "2022-02-02T15:27:54+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61673": {
+      "file": "crypto61673.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:44.189519+00:00",
+      "updated_at": "2022-02-02T15:24:57+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61674": {
+      "file": "crypto61674.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:44.350108+00:00",
+      "updated_at": "2022-02-02T15:30:17+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61675": {
+      "file": "crypto61675.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:44.490161+00:00",
+      "updated_at": "2022-02-02T15:31:19+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61676": {
+      "file": "crypto61676.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:44.653995+00:00",
+      "updated_at": "2022-02-02T15:32:16+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61677": {
+      "file": "crypto61677.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:44.805962+00:00",
+      "updated_at": "2022-02-02T15:34:07+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61678": {
+      "file": "crypto61678.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:44.953246+00:00",
+      "updated_at": "2022-02-22T10:55:27+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61679": {
+      "file": "crypto61679.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:45.106054+00:00",
+      "updated_at": "2022-02-02T15:37:52+00:00"
+    },
+    "/hmrc-internal-manuals/cryptoassets-manual/crypto61680": {
+      "file": "crypto61680.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:45.267262+00:00",
+      "updated_at": "2022-02-02T15:41:07+00:00"
+    }
+  },
+  "status": "complete",
+  "errors": {},
+  "gaps": {},
+  "checked_at": "2026-09-18T16:18:45.270766+00:00",
+  "pages_checked": 130
+}

@@ -1,0 +1,16 @@
+Recording penalties: closing a penalty record on COMPASS
+Identifier: IHTM36376
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36376
+Published: 2016-04-09T10:21:04+01:00
+Updated: 2016-02-11T17:23:53+00:00
+Retrieved (UTC): 2026-09-18T15:08:59.917697+00:00
+
+To close a penalty record, you should select the penalty from the penalty table on COMPASS and enter the details requested on the screen.
+
+Where a penalty enquiry was not required, (IHTM36375 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36375)) you only need to select the date the penalty was closed. Save the data then click on the Close Penalty button to close the record.
+
+Where a penalty has been paid, or was abated to £0, you should enter the date the penalty was paid, the reason, the culpable tax and amount of penalty paid. Click on Save to record the data.
+
+Before you close the penalty and if you have not already done so, record the abatement (IHTM36177 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36177)) that you allowed. Click on the “Calculator” button and enter the amounts allowed for the three named categories. (This content has been withheld because of exemptions in the Freedom of Information Act 2000) The result does not have to match exactly the penalty that was charged. Click on OK to save the data and then click on the Close Penalty button to close the record.
+
+If the culpable tax and penalty fields on ERS contain “0”, the corresponding values from the “Close Penalty Enquiry” screen will be copied across when the penalty record is closed. However, if more than one penalty has been taken, you will need to add together the relevant figures and enter them on ERS.

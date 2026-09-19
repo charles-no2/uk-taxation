@@ -1,0 +1,14 @@
+Assessing: COMPASS: calculations: the effective date
+Identifier: IHTM31187
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31187
+Published: 2016-04-09T10:03:24+01:00
+Updated: 2016-02-11T17:15:45+00:00
+Retrieved (UTC): 2026-09-18T15:05:55.622971+00:00
+
+The Effective Date is the date COMPASS uses to calculate interest (IHTM31511 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31511)). When you raise a calculation, this will be set to today’s date and you will not normally need to alter it. COMPASS will however automatically amend this date on IOP calculations where you choose ‘yes’ in answer to the question, ‘the next instalment is due within 31 days - do you want to include it here?’
+
+Where money on deposit is the same as or more than the amount of tax due on a calculation COMPASS will ensure that interest is not calculated beyond the date of the deposit so you need not alter this date.
+
+If you need to alter this date, delete it and enter the date you want in a date format that COMPASS will accept.
+
+You can set a future date here, which may be useful if the person receiving the calculation has asked for it to be calculated to a future date.

@@ -1,0 +1,42 @@
+Lump sum allowance and lump sum and death benefit allowance: Enhancement factors: Non-residence factor: Hybrid arrangements
+Identifier: PTM175350
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175350
+Published: 2024-03-27T00:10:14+00:00
+Updated: 2024-04-06T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:51:28.858448+00:00
+
+As of 6 April 2024 there is no longer lifetime allowance. If you are looking for information about protections, enhancement factors and the lifetime allowance charge please see these pages on The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022829/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm090000). If you are looking for information about the principles of lifetime allowance and benefit crystallisation events please see these pages of The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022836/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm080000).
+
+If you are looking for information about enhancement factors pre-April 2024 please see The National Archive (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305085920/https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm095000). The below guidance applies for individual’s seeking an enhancement factor from 6 April 2024 to 5 April 2025.
+
+How to calculate the non-residence factor for a hybrid arrangement
+
+Paragraph 20(D)(5) to (7) Schedule 36 and 222 Finance Act 2004
+
+A hybrid arrangement is an arrangement that may, at any one time, provide one of two or three types of benefits in the form of cash balance benefits, other money purchase benefits (including collective money purchase benefits), or defined benefits. There are effectively two or three potential outcomes, but they are mutually exclusive, so benefits are provided in only one of those ways. They should not be confused with schemes with multiple arrangements where benefits accrue separately under different types of arrangement within a single scheme.
+
+An example of a hybrid arrangement is one which, on the member’s retirement, will provide benefits calculated by reference to a pot of money available to that member, but subject to an underlying defined benefit promise calculated by reference to the member’s final salary and length of service. Should the pot of money available provide less than the underlying defined benefit promise the benefits provided will be augmented up to the level promised. Alternatively, if the pot of money provides a greater level of benefits than the underlying defined benefit promise, the individual would receive the money purchase benefits up to the level that the pot of money will provide. So, the benefits will be either money purchase benefits or defined benefits, but not both.
+
+For each part of an active membership period during which the individual is a relevant overseas individual, the hybrid arrangement non-residence factor is established as follows.
+
+- If the benefits that may ultimately be provided under the arrangement may be cash balance benefits, calculate what would be the cash balance arrangement non-residence factor if the registered pension scheme were a cash balance arrangement. (PTM175320 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175320))
+
+- If the benefits that may ultimately be provided under the arrangement may be other money purchase benefits, that are collective money purchase benefits, calculate what would be the other money purchase arrangement non-residence factor if the registered pension scheme were any other type of money purchase arrangement. (PTM175330 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175330))
+
+- If the benefits that may ultimately be provided under the arrangement may be money purchase benefits other than cash balance or collective money purchase benefits, calculate what would be the other money purchase arrangement non-residence factor. (PTM175330 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175330))
+
+- If the benefits that may ultimately be provided under the arrangement may be defined benefits, calculate what would be the defined benefits arrangement non-residence factor if the registered pension scheme were a defined benefits arrangement. (PTM175340 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175340))
+
+- ​​Select the greater or greatest non-residence factor from whichever of 1, 2, 3 or 4 above are relevant. The factor selected should go to 2 decimal places. This should be a rounded-up figure, so for example if the calculation produces a factor of 0.231 this becomes 0.24.
+
+This figure is then applied to the individual’s lump sum and death benefit allowance availability once a relevant benefit crystallisation event occurs.
+
+Example of how to calculate the non-residence factor for a hybrid arrangement
+
+Penelope’s hybrid arrangement can provide either cash balance benefits, other money purchase benefits, collective money purchase benefits or defined benefits.
+
+Penelope’s potential case balance arrangement non-residence factor is 0.10, her potential other money purchase non-residence factor is 0.05, her potential collective money purchase non-residence factor is 0.05 and her potential defined benefits arrangement non-residence factor is 0.06.
+
+Therefore, her hybrid arrangement non-residence factor is 0.10.
+
+The non-residence factor is then used when calculating the individual’s lump sum and death benefit allowance availability once a relevant benefit crystallisation event occurs.

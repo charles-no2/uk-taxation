@@ -1,0 +1,40 @@
+Substantial shareholdings exemption: the substantial shareholding requirement - aggregation of periods when shares held
+Identifier: CG53080B
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53080b
+Published: 2016-03-12T11:29:04+00:00
+Updated: 2022-05-25T10:20:10+01:00
+Retrieved (UTC): 2026-09-18T14:32:37.383392+00:00
+
+TCGA92/SCH7AC/PARA14, TCGA92/SCH7AC/PARA15
+
+TCGA1992/Sch7AC/Para14 may apply when there has been a share exchange or company reconstruction to which TCGA1992/S135 and 136 applies the TCGA1992/S127 no disposal or acquisition and same asset treatment, see CG52500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52500) onwards. In order to test whether the substantial shareholding requirement is met when an investing company holds shares issued in an exchange to which section 127 applies you may have to look at more than one holding of shares. If the exchange occurred during the 12 month period you are considering you take into account the shares held before the exchange as well as the shares held afterwards. If by combining
+
+- the period after the exchange when the new shares qualified as a substantial shareholding, with
+
+- a period before the exchange when the old shares qualified as such a holding
+
+there is a continuous 12 month period throughout which substantial shareholdings were held starting no more than 2 years before the disposal, then the substantial shareholding requirement is met. Note that this treatment is only possible where TCGA1992/S127 applies. If section 127 has been disapplied by TCGA1992/Sch7AC/Para4 (see CG53170 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53170)) periods before and after the exchange cannot be joined together in this way.
+
+For example,
+
+- Company A has two wholly owned subsidiaries, companies B and C.
+
+- Company A holds (say) 20% of the ordinary share capital of company X for 6 months - this is not long enough for the holding to meet the substantial shareholding requirement.
+
+- Company X is then taken over by company Y. Company A receives shares issued by company Y in exchange for its shares in company X, so that section 135 applies the no disposal/same asset treatment of TCGA1992/S127.
+
+- Company A is treated as if it had acquired its shares in company Y as it acquired its shares in company X some 6 months earlier. Thereafter company A holds (say) 12% of the ordinary share capital of company Y.
+
+- After a further 8 months company A sells the shares in company Y. It would calculate the gain or loss on this disposal by reference to the original cost of the shares in company X when company A acquired them.
+
+- Assume that the entitlement to distributable profits and assets attached to the shares in companies Y where the same as they were company X.
+
+Company A only held the shares in company Y for 8 months, but will nevertheless meet the substantial shareholding requirement.
+
+- TCGA1992/Sch7AC/Para14 allows company A to test whether its holding of shares in company Y met the substantial shareholding requirement by reference to its holding of shares in company X before the exchange as well as its shares in company Y after the exchange.
+
+- If the shares in company Y had been transferred by company A to company B, under TCGA1992/S171(1), for one month and then again to company C for 7 months, who disposes of them, TCGA1992/Sch7AC/Para10(6) carries the aggregation treatment through to companies B and C.
+
+- So the disposing company (A or C) adds the 6 months during which it held a substantial shareholding in company X to the 8 months company A (B & C) held a substantial shareholding in company Y. Company A (or C) is thus treated as having held a substantial shareholding for 14 months, and so meets the substantial shareholding requirement of TCGA1992/Sch7AC/Para7.
+
+TCGA1992/Sch7AC/Para 15 gives equivalent treatment to a demerger to which TCGA1992/S192 applies TCGA1992/S127 (see CG57800 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57800)) to that TCGA1992/Sch7AC/Para14 gives on a share exchange or company reconstruction.

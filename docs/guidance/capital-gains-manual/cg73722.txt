@@ -1,0 +1,42 @@
+Non-Resident Capital Gains Tax (NRCGT) - Disposals on or after 6 April 2015 to 5 April 2019: The Charge to Non-Resident CGT, and the exemptions: "Closely-held company" test
+Identifier: CG73722
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73722
+Published: 2018-10-16T10:48:05+01:00
+Updated: 2019-10-11T08:47:43+01:00
+Retrieved (UTC): 2026-09-18T14:46:24.345514+00:00
+
+- companies caught by the test
+
+TCGA92/Sch C1/Part 1 explains the term closely-held company.
+
+The main definition is set out in Sch C1/para 2. A company is closely held if it is under the control of five or fewer persons that have an interest in the company. This is based on the existing definition of a close company in CTA 2010/S439. A company is likewise closely held where those five or fewer persons possess, or are entitled to acquire, rights that would entitle them, in the event of the company being wound up, to receive the greater part of the assets of the company that would be available for distribution.
+
+Sch C1/para 3 ensures that regard is to be had to both direct and indirect interests, when assessing the interests a person has in the assets of a company being wound up. This specifically includes any interests held via companies that are participators in the first company and would be entitled to receive assets in the company if they were themselves wound up on the same basis as the first company and their assets available for distribution among the participators.
+
+The provisions of Sch C1/para 4 apply when determining whether five or fewer participators in a company possess the rights described in Sch C1/para 2. The person is to be treated as a participator in a company if they are a participator in any other company that would be entitled to receive assets in the event of the first company being wound up.
+
+The new legislation in effect allows us to look through the control of the company that makes the disposal of a UK residential property interest, to determine whether it is ultimately controlled by five or fewer people. It is possible to look through a chain of ownership from the tested entity to determine where control is ultimately exercised, and take account of control that is exercised other than through direct share ownership and voting rights. In effect, it is possible to bring a company within the scope of the charge, where five or fewer persons, acting together, have the power to ensure that the company acts in accordance with their wishes.
+
+The meaning of “control” is defined in Sch C1/para 7. These provisions are partly based on close company rules in CT legislation. A person is treated as having control of a company if they exercise, are able to exercise, or are entitled to acquire, direct or indirect control of its affairs. That is the case if the person has or is entitled to acquire the greater part of the company’s share capital or issued share capital or the greater part of its voting power. If two or more persons together satisfy the conditions in the legislation, they are treated as having control.
+
+This definition is supplemented by provisions in Sch C1/para 8 for attributing the rights of close associates when deciding whether two or more persons have control of a company. If a person holds rights or powers on behalf of a second person, or may be required to exercise any rights or powers at the direction or on behalf of the second person, the powers and rights are attributed to that second person. The rights and powers of any associate of a person are attributed to that person. There is a wide definition of “associate”, including relatives of the person (spouse / civil partner, parent or remoter forebear, children or remoter issue and siblings), and the trustees of any settlement for which either the person or any relative is a settlor. These rules reflect the fact that a person may choose to spread their shareholdings among members of their direct family, or place them in a family trust. In such cases, the person may still be able to direct how the powers conferred by those holdings are exercised.
+
+- companies exempted
+
+The control test for non-resident CGT purposes excludes various interests, so that the test does not apply in cases where control is exercised by persons that ought to be excluded if they made the disposal directly.
+
+Sch C1/para 5 provides that certain companies are not to be treated as closely-held companies, even if the tests in paragraph 2 are met. That is the case if Condition A or B applies -
+
+- Condition A is that a company can only be regarded as closely-held by including in the group of controlling participators a company which is itself a diversely-held company.
+
+- Condition B is that a company can only be regarded as a closely-held company by including a company as a participator which is a loan creditor of the company, and which is itself either a diversely-held company, or is a qualifying institutional investor as defined in Sch C1/para 5(4).
+
+This exclusion mirrors provisions in existing CT legislation. It is right to remove from the closely held company definition any company that is either controlled by a company that is not a close company (it is not itself controlled by five or fewer persons); or where control can only be established by the participators if a company that is not a close company is included among them, or if at least one of them is a “qualified institutional investor” and therefore outside the scope of the charge.
+
+Sch C1/para 9 provides definitions of the terms “diversely-held company”, “loan creditor” and “participator”. These are based on existing provisions in CT legislation.
+
+Sch C1/para 6 sets out further circumstances where a company will not be regarded as closely-held. These are where it is controlled by either a qualifying institutional investor (as defined in Sch C1/para 5); or by the general partner of a limited partnership constituted as a collective investment scheme (as defined in the Financial Services and Markets Act 2000). Any share or interest held by either entity is treated as a share or interest held by more than five participators.
+
+However, in the second of these cases, a company will not cease to be closely-held where it is controlled by the general partner of a limited partnership, if five or fewer participators in the company would be entitled to the majority of the company’s assets if it were to be wound up. The legislation provides definitions of “limited partnership” and “general partner”.
+
+See CG73736 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73736) below on “qualified institutional investor” and the types of entities this term might cover.

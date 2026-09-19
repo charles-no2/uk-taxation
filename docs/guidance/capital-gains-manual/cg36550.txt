@@ -1,0 +1,138 @@
+2006 IHT changes: IHT and CGT treatment from 22 March 2006:  settlements and death of person with actual or deemed interest in  possession
+Identifier: CG36550
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg36550
+Published: 2016-03-12T10:49:43+00:00
+Updated: 2023-04-20T08:50:29+01:00
+Retrieved (UTC): 2026-09-18T14:31:44.954791+00:00
+
+These are all cases where a person with an actual IIP, or a deemed IIP for IHT dies.
+
+Cases where property remains settled for IHT purposes within same settlement.
+
+Type of trust for IHT immediately before death |  Chargeable transfer for IHT? |  Disposal for CGT? |  Can Holdover Relief be claimed? |
+
+Pre 22/03/06 IIP Trust: with new IIP |  No |  TCGA92/72 applies |  S165 |
+
+for spouse or civil partner of the |  IHTA84/S18 |  death uplift; liability |  possible |
+
+previous income beneficiary which is |  exemption |  only if TCGA92/S74 |  - |
+
+a TSI. |  - |  Applies |  - |
+
+Pre-22/03/06 IIP Trust: other cases |  Yes |  TCGA92/72 applies |  S260(2)(a) |
+
+- |  - |  death uplift; liability |  - |
+
+- |  - |  only if TCGA92/S74 |  - |
+
+- |  - |  Applies |  - |
+
+TSI: with new interest in possession |  No |  TCGA92/72 applies |  S165 |
+
+for spouse or civil partner of the |  - |  death uplift; liability |  - |
+
+previous income beneficiary where |  - |  only if TCGA92/S74 |  - |
+
+property includes rights under life |  - |  Applies |  - |
+
+policy and s.49E IHTA (CG36542 |  - |  - |  - |
+
+applies) |  - |  - |  - |
+
+TSI: with new IIP for spouse or civil |  No |  TCGA92/72 applies |  S165) |
+
+partner of the previous income |  IHTA84/S18 |  death uplift; liability |  - |
+
+beneficiary which is a TSI |  exemption |  only if TCGA92/S74 |  - |
+
+- |  - |  Applies |  - |
+
+TSI: other cases |  Yes. |  TCGA92/72 applies; |  S260(2)(a) |
+
+- |  - |  death uplift liability only |  - |
+
+- |  - |  if TCGA92/S74 applies |  - |
+
+Disabled Actual or Deemed IIP Trust |  Yes unless |  TCGA92/72 applies |  S260(2)(a) |
+
+with new interest in possession for |  new IIP is |  death uplift; liability |  - |
+
+spouse or civil partner of the |  Disabled Trust |  only if TCGA92/S74 |  - |
+
+previous income beneficiary |  or TSI |  Applies |  - |
+
+Disabled Actual or Deemed IIP |  Yes. |  TCGA92/72 applies; |  S260(2)(a) |
+
+- |  - |  death uplift liability only |  - |
+
+- |  - |  if TCGA92/S74 applies |  - |
+
+Deemed IIP: not otherwise covered |  No if new |  No effect |  - |
+
+with new interest in possession for |  interest is TSI |  - |  - |
+
+spouse or civil partner of the |  otherwise yes. |  - |  - |
+
+previous income beneficiary |  - |  - |  - |
+
+Deemed IIP: other cases |  Yes. |  No effect |  - |
+
+Scottish proper liferent or N.Irish |  Treatment |  TCGA92/72 applies |  S165 |
+
+legal interest for life. |  depends on |  death uplift; liability |  possible |
+
+- |  status for IHT. |  only if TCGA92/S74 |  - |
+
+- |  - |  Applies |  - |
+
+Disabled Trust: with new interest in |  Yes unless |  No effect |  - |
+
+possession for spouse or civil partner |  new IIP is TSI |  - |  - |
+
+of the disabled beneficiary |  - |  - |  - |
+
+Disabled Trust any other situation |  Yes. Added to |  No effect |  - |
+
+- |  deceased’s |  - |  - |
+
+- |  estate |  - |  - |
+
+Bereaved Minor Trust: death of |  No |  TCGA92/72 applies |  S165 |
+
+relevant beneficiary |  - |  death uplift; liability |  possible |
+
+- |  - |  only if TCGA92/S74 |  - |
+
+- |  - |  Applies |  - |
+
+18-25 Trust death of relevant |  No |  TCGA92/72 applies |  S165 |
+
+beneficiary under 18 with IIP |  IHTA84/S71E |  death uplift; liability |  possible |
+
+- |  (2)(b) |  only if TCGA92/S74 |  - |
+
+- |  - |  Applies |  - |
+
+18-25: other cases |  Chargeable |  No effect |  - |
+
+- |  under S71E |  - |  - |
+
+Relevant Property Trust settlor etc |  Chargeable |  No effect |  - |
+
+interest settlor dies |  under gifts |  - |  - |
+
+- |  with |  - |  - |
+
+- |  reservation |  - |  - |
+
+- |  rules |  - |  - |
+
+Relevant Property Trust any other |  No |  No effect |  - |
+
+case with actual IIP |  - |  - |  - |
+
+*Note that TCGA92/S165 is only available for certain assets, see CG66884 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66884).
+
+For types of case see CG36541 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg36541).
+
+As a general proposition where the next interest treated as an IIP for IHT whether Actual or Deemed is held by the spouse or civil partner of the deceased, the spouse exemption only applies where the new IIP is a TSI.

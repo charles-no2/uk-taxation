@@ -1,0 +1,3220 @@
+{
+  "manual": "residence-domicile-and-remittance-basis",
+  "source": "https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis",
+  "pages": {
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis": {
+      "file": "index.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm10000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm30000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm40000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm70000"
+      ],
+      "retrieved_at": "2026-09-18T16:18:45.488557+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm10000": {
+      "file": "rdrm10000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:45.656203+00:00",
+      "updated_at": "2025-04-07T15:56:54+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20000": {
+      "file": "rdrm20000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20010",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25000"
+      ],
+      "retrieved_at": "2026-09-18T16:18:45.808731+00:00",
+      "updated_at": "2019-04-03T15:54:02+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm30000": {
+      "file": "rdrm30000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm30005",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32150",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32500",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35500",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35600",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35800",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm37000"
+      ],
+      "retrieved_at": "2026-09-18T16:18:45.956147+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm40000": {
+      "file": "rdrm40000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm40010"
+      ],
+      "retrieved_at": "2026-09-18T16:18:46.111823+00:00",
+      "updated_at": "2022-06-07T09:46:41+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm70000": {
+      "file": "rdrm70000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm71000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75000",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm76000"
+      ],
+      "retrieved_at": "2026-09-18T16:18:46.290684+00:00",
+      "updated_at": "2025-04-14T16:44:08+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20010": {
+      "file": "rdrm20010.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20020",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20030",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20040",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20050",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20060",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20070",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20080"
+      ],
+      "retrieved_at": "2026-09-18T16:18:46.454382+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22000": {
+      "file": "rdrm22000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22010",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22020",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22100",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22110",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22120",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22200",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22210",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22220",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22230",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22240",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22250",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22260",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22300",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22310",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22320"
+      ],
+      "retrieved_at": "2026-09-18T16:18:46.605429+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23000": {
+      "file": "rdrm23000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23010",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23020",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23030",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23040",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23050",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23060",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23070",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23080"
+      ],
+      "retrieved_at": "2026-09-18T16:18:46.767791+00:00",
+      "updated_at": "2025-04-16T15:04:03+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24000": {
+      "file": "rdrm24000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24005",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24010",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24020",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24030",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24040",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24050",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24060",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24070",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24080",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24090",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24100",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24110",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24120",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24130",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24140",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24150",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24160",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24170",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24180",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24190"
+      ],
+      "retrieved_at": "2026-09-18T16:18:46.931908+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25000": {
+      "file": "rdrm25000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25010",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25020",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25030",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25040",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25050",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25060",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25070",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25080"
+      ],
+      "retrieved_at": "2026-09-18T16:18:47.097203+00:00",
+      "updated_at": "2019-02-12T06:00:03+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm30005": {
+      "file": "rdrm30005.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:47.253131+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31000": {
+      "file": "rdrm31000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31005",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31100",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31200",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31400"
+      ],
+      "retrieved_at": "2026-09-18T16:18:47.403914+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32000": {
+      "file": "rdrm32000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32005",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32100",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32200",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32300"
+      ],
+      "retrieved_at": "2026-09-18T16:18:47.561160+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32150": {
+      "file": "rdrm32150.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32155",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32160"
+      ],
+      "retrieved_at": "2026-09-18T16:18:47.734038+00:00",
+      "updated_at": "2022-03-17T08:15:44+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32500": {
+      "file": "rdrm32500.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32510",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32520",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32530"
+      ],
+      "retrieved_at": "2026-09-18T16:18:47.878072+00:00",
+      "updated_at": "2022-03-17T11:56:02+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33000": {
+      "file": "rdrm33000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33010",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33100",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33200",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33400",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33500"
+      ],
+      "retrieved_at": "2026-09-18T16:18:48.024877+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34000": {
+      "file": "rdrm34000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34010",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34020",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34030",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34040",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34050",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34060",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34070",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34080",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34090",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34120",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34130",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34140",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34150",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34170",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34180",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34190",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34200",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34210",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34220",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34230",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34240",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34250",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34260",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34270",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34280",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34285",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34290",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34300"
+      ],
+      "retrieved_at": "2026-09-18T16:18:48.175489+00:00",
+      "updated_at": "2022-03-16T08:09:59+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35000": {
+      "file": "rdrm35000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35005",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35100",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35200",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35400"
+      ],
+      "retrieved_at": "2026-09-18T16:18:48.336064+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35500": {
+      "file": "rdrm35500.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35510",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35520"
+      ],
+      "retrieved_at": "2026-09-18T16:18:48.499066+00:00",
+      "updated_at": "2022-03-17T11:48:30+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35600": {
+      "file": "rdrm35600.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35610",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35620",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35630",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35640",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35650",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35660",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35670",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35680",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35690",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35700",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35710",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35720",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35730"
+      ],
+      "retrieved_at": "2026-09-18T16:18:48.659783+00:00",
+      "updated_at": "2022-03-17T07:32:09+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35800": {
+      "file": "rdrm35800.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35810",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35820",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35830",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35840",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35850"
+      ],
+      "retrieved_at": "2026-09-18T16:18:48.820442+00:00",
+      "updated_at": "2022-03-17T07:32:10+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36000": {
+      "file": "rdrm36000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36005",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36100",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36200",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36300",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36400"
+      ],
+      "retrieved_at": "2026-09-18T16:18:48.978439+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm37000": {
+      "file": "rdrm37000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm37020",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm37030"
+      ],
+      "retrieved_at": "2026-09-18T16:18:49.140013+00:00",
+      "updated_at": "2022-03-16T08:04:07+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm40010": {
+      "file": "rdrm40010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:49.291809+00:00",
+      "updated_at": "2022-07-25T14:54:22+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm71000": {
+      "file": "rdrm71000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:49.456566+00:00",
+      "updated_at": "2025-04-07T08:36:42+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72000": {
+      "file": "rdrm72000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72100",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72200",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72300",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72400",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72450",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72500",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72550",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72560",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72600"
+      ],
+      "retrieved_at": "2026-09-18T16:18:49.617342+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73000": {
+      "file": "rdrm73000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73100",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73200",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73300",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73400",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73500",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73600"
+      ],
+      "retrieved_at": "2026-09-18T16:18:49.788991+00:00",
+      "updated_at": "2025-04-07T08:38:45+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74000": {
+      "file": "rdrm74000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74100",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74200",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74300",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74400",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74500",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74600",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74700",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74800"
+      ],
+      "retrieved_at": "2026-09-18T16:18:49.953243+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75000": {
+      "file": "rdrm75000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75100",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75200",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75300",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75400",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75500"
+      ],
+      "retrieved_at": "2026-09-18T16:18:50.118233+00:00",
+      "updated_at": "2025-04-07T08:38:47+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm76000": {
+      "file": "rdrm76000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm76100",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm76200",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm76300",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm76400"
+      ],
+      "retrieved_at": "2026-09-18T16:18:50.272069+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20020": {
+      "file": "rdrm20020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:50.414255+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20030": {
+      "file": "rdrm20030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:50.576807+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20040": {
+      "file": "rdrm20040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:50.750145+00:00",
+      "updated_at": "2025-04-08T07:53:37+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20050": {
+      "file": "rdrm20050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:50.911503+00:00",
+      "updated_at": "2025-08-20T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20060": {
+      "file": "rdrm20060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:51.063320+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20070": {
+      "file": "rdrm20070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:51.238436+00:00",
+      "updated_at": "2019-02-12T11:30:04+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm20080": {
+      "file": "rdrm20080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:51.411309+00:00",
+      "updated_at": "2019-02-12T12:48:29+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22010": {
+      "file": "rdrm22010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:51.568141+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22020": {
+      "file": "rdrm22020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:51.720453+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22100": {
+      "file": "rdrm22100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:51.886276+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22110": {
+      "file": "rdrm22110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:52.058454+00:00",
+      "updated_at": "2019-02-12T12:50:26+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22120": {
+      "file": "rdrm22120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:52.210380+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22200": {
+      "file": "rdrm22200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:52.372931+00:00",
+      "updated_at": "2019-02-12T12:49:29+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22210": {
+      "file": "rdrm22210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:52.536296+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22220": {
+      "file": "rdrm22220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:52.692112+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22230": {
+      "file": "rdrm22230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:52.850499+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22240": {
+      "file": "rdrm22240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:53.020183+00:00",
+      "updated_at": "2020-05-04T11:18:31+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22250": {
+      "file": "rdrm22250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:53.179181+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22260": {
+      "file": "rdrm22260.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:53.334111+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22300": {
+      "file": "rdrm22300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:53.494541+00:00",
+      "updated_at": "2019-02-12T12:51:56+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22310": {
+      "file": "rdrm22310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:53.655778+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm22320": {
+      "file": "rdrm22320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:53.821195+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23010": {
+      "file": "rdrm23010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:53.981261+00:00",
+      "updated_at": "2019-02-12T12:54:43+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23020": {
+      "file": "rdrm23020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:54.151115+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23030": {
+      "file": "rdrm23030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:54.313369+00:00",
+      "updated_at": "2019-02-12T12:55:36+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23040": {
+      "file": "rdrm23040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:54.462307+00:00",
+      "updated_at": "2019-02-12T12:57:10+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23050": {
+      "file": "rdrm23050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:54.623007+00:00",
+      "updated_at": "2019-02-12T12:59:51+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23060": {
+      "file": "rdrm23060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:54.788752+00:00",
+      "updated_at": "2019-02-12T13:02:11+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23070": {
+      "file": "rdrm23070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:54.935631+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm23080": {
+      "file": "rdrm23080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:55.105702+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24005": {
+      "file": "rdrm24005.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:55.267824+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24010": {
+      "file": "rdrm24010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:55.432531+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24020": {
+      "file": "rdrm24020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:55.583797+00:00",
+      "updated_at": "2019-02-12T13:03:14+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24030": {
+      "file": "rdrm24030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:55.762348+00:00",
+      "updated_at": "2019-02-12T13:04:18+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24040": {
+      "file": "rdrm24040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:55.971869+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24050": {
+      "file": "rdrm24050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:56.147728+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24060": {
+      "file": "rdrm24060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:56.307850+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24070": {
+      "file": "rdrm24070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:56.465206+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24080": {
+      "file": "rdrm24080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:56.624835+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24090": {
+      "file": "rdrm24090.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:56.786320+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24100": {
+      "file": "rdrm24100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:56.951774+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24110": {
+      "file": "rdrm24110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:57.104000+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24120": {
+      "file": "rdrm24120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:57.242942+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24130": {
+      "file": "rdrm24130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:57.397665+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24140": {
+      "file": "rdrm24140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:57.551508+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24150": {
+      "file": "rdrm24150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:57.711985+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24160": {
+      "file": "rdrm24160.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:57.877021+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24170": {
+      "file": "rdrm24170.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:58.030905+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24180": {
+      "file": "rdrm24180.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:58.203886+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm24190": {
+      "file": "rdrm24190.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:58.356972+00:00",
+      "updated_at": "2019-02-12T13:06:10+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25010": {
+      "file": "rdrm25010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:58.515141+00:00",
+      "updated_at": "2019-02-12T06:00:04+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25020": {
+      "file": "rdrm25020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:58.669651+00:00",
+      "updated_at": "2019-04-08T12:17:35+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25030": {
+      "file": "rdrm25030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:58.820057+00:00",
+      "updated_at": "2019-02-12T06:00:05+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25040": {
+      "file": "rdrm25040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:58.973421+00:00",
+      "updated_at": "2025-04-17T09:39:09+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25050": {
+      "file": "rdrm25050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:59.134978+00:00",
+      "updated_at": "2019-02-12T06:00:05+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25060": {
+      "file": "rdrm25060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:59.286418+00:00",
+      "updated_at": "2019-02-12T06:00:04+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25070": {
+      "file": "rdrm25070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:59.438597+00:00",
+      "updated_at": "2019-02-12T06:00:06+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm25080": {
+      "file": "rdrm25080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:59.596006+00:00",
+      "updated_at": "2019-02-12T06:00:04+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31005": {
+      "file": "rdrm31005.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31010",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31020",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31030",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31040",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31050",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31060"
+      ],
+      "retrieved_at": "2026-09-18T16:18:59.757822+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31100": {
+      "file": "rdrm31100.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31110",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31120",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31125",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31130",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31140",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31150",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31160",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31170",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31180",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31190",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31195"
+      ],
+      "retrieved_at": "2026-09-18T16:18:59.926158+00:00",
+      "updated_at": "2022-03-17T10:56:36+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31200": {
+      "file": "rdrm31200.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31210",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31220",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31230",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31240",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31250",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31260",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31270",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31280",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31290",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31300",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31310",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31320",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31330",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31340"
+      ],
+      "retrieved_at": "2026-09-18T16:19:00.092716+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31400": {
+      "file": "rdrm31400.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31410",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31420",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31430",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31440",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31450",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31460",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31470",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31480",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31490",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31500",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31501",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31502",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31503",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31504",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31505",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31506",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31507",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31508",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31510",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31520",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31530",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31540"
+      ],
+      "retrieved_at": "2026-09-18T16:19:00.244375+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32005": {
+      "file": "rdrm32005.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32010",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32015",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32020",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32030",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32035",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32036",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32040",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32050",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32060",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32070",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32080"
+      ],
+      "retrieved_at": "2026-09-18T16:19:00.403936+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32100": {
+      "file": "rdrm32100.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32105",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32110",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32120",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32130",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32135",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32140",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32145"
+      ],
+      "retrieved_at": "2026-09-18T16:19:00.571104+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32200": {
+      "file": "rdrm32200.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32210",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32220",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32230",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32240",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32250",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32260"
+      ],
+      "retrieved_at": "2026-09-18T16:19:00.734456+00:00",
+      "updated_at": "2015-11-27T13:53:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32300": {
+      "file": "rdrm32300.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32310",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32320",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32330",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32340",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32350",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32360",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32370",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32380",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32390",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32400",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32410",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32420",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32430",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32435",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32440",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32450"
+      ],
+      "retrieved_at": "2026-09-18T16:19:00.887428+00:00",
+      "updated_at": "2022-08-08T13:33:03+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32155": {
+      "file": "rdrm32155.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:01.055493+00:00",
+      "updated_at": "2022-03-22T06:57:44+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32160": {
+      "file": "rdrm32160.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:01.206250+00:00",
+      "updated_at": "2022-03-22T06:57:43+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32510": {
+      "file": "rdrm32510.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:01.371259+00:00",
+      "updated_at": "2022-03-17T12:45:52+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32520": {
+      "file": "rdrm32520.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:01.532699+00:00",
+      "updated_at": "2022-03-17T12:45:51+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32530": {
+      "file": "rdrm32530.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:01.691612+00:00",
+      "updated_at": "2022-03-17T12:45:50+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33010": {
+      "file": "rdrm33010.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33020",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33030",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33040",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33050",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33060"
+      ],
+      "retrieved_at": "2026-09-18T16:19:01.835537+00:00",
+      "updated_at": "2022-03-22T06:57:41+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33100": {
+      "file": "rdrm33100.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33110",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33120",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33121",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33122",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33130",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33140",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33150",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33160",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33170",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33180",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33190"
+      ],
+      "retrieved_at": "2026-09-18T16:19:02.010827+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33200": {
+      "file": "rdrm33200.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33210",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33220",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33230",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33240",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33250",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33260",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33270",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33280",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33290",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33295"
+      ],
+      "retrieved_at": "2026-09-18T16:19:02.165165+00:00",
+      "updated_at": "2015-11-27T13:53:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33400": {
+      "file": "rdrm33400.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33410",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33420",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33430",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33440",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33450",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33460",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33470",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33480",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33490"
+      ],
+      "retrieved_at": "2026-09-18T16:19:02.321071+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33500": {
+      "file": "rdrm33500.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33510",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33515",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33520",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33530",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33540",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33550",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33560",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33570",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33580",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33590",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33595",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33596",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33600"
+      ],
+      "retrieved_at": "2026-09-18T16:19:02.484412+00:00",
+      "updated_at": "2022-08-08T09:51:41+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34010": {
+      "file": "rdrm34010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:02.628649+00:00",
+      "updated_at": "2022-03-17T12:25:43+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34020": {
+      "file": "rdrm34020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:02.773114+00:00",
+      "updated_at": "2022-03-17T12:25:43+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34030": {
+      "file": "rdrm34030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:02.931365+00:00",
+      "updated_at": "2022-03-17T12:25:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34040": {
+      "file": "rdrm34040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:03.086524+00:00",
+      "updated_at": "2022-03-17T12:25:41+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34050": {
+      "file": "rdrm34050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:03.240539+00:00",
+      "updated_at": "2023-01-12T07:42:08+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34060": {
+      "file": "rdrm34060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:03.395198+00:00",
+      "updated_at": "2015-11-27T13:53:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34070": {
+      "file": "rdrm34070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:03.551099+00:00",
+      "updated_at": "2015-11-27T13:53:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34080": {
+      "file": "rdrm34080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:03.704227+00:00",
+      "updated_at": "2022-03-17T12:25:39+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34090": {
+      "file": "rdrm34090.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:03.863818+00:00",
+      "updated_at": "2022-03-17T12:18:33+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34120": {
+      "file": "rdrm34120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:04.016147+00:00",
+      "updated_at": "2022-03-17T12:18:33+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34130": {
+      "file": "rdrm34130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:04.170770+00:00",
+      "updated_at": "2022-03-17T12:18:33+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34140": {
+      "file": "rdrm34140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:04.339035+00:00",
+      "updated_at": "2022-03-17T12:18:33+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34150": {
+      "file": "rdrm34150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:04.499471+00:00",
+      "updated_at": "2022-03-17T12:18:33+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34170": {
+      "file": "rdrm34170.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:04.644811+00:00",
+      "updated_at": "2022-03-17T12:18:32+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34180": {
+      "file": "rdrm34180.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:04.802805+00:00",
+      "updated_at": "2022-03-17T12:18:32+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34190": {
+      "file": "rdrm34190.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:04.958918+00:00",
+      "updated_at": "2015-11-27T13:53:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34200": {
+      "file": "rdrm34200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:05.112939+00:00",
+      "updated_at": "2022-03-17T12:18:32+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34210": {
+      "file": "rdrm34210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:05.270928+00:00",
+      "updated_at": "2015-11-27T13:53:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34220": {
+      "file": "rdrm34220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:05.437269+00:00",
+      "updated_at": "2022-03-17T11:48:29+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34230": {
+      "file": "rdrm34230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:05.599869+00:00",
+      "updated_at": "2022-03-17T12:18:32+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34240": {
+      "file": "rdrm34240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:05.759052+00:00",
+      "updated_at": "2022-03-17T12:18:31+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34250": {
+      "file": "rdrm34250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:05.910164+00:00",
+      "updated_at": "2015-11-27T13:53:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34260": {
+      "file": "rdrm34260.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:06.075221+00:00",
+      "updated_at": "2022-03-17T12:12:05+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34270": {
+      "file": "rdrm34270.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:06.239245+00:00",
+      "updated_at": "2022-03-17T12:12:05+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34280": {
+      "file": "rdrm34280.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:06.403350+00:00",
+      "updated_at": "2025-07-31T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34285": {
+      "file": "rdrm34285.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:06.572454+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34290": {
+      "file": "rdrm34290.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:06.738214+00:00",
+      "updated_at": "2022-03-17T12:12:05+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34300": {
+      "file": "rdrm34300.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34310",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34320",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34330",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34340",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34345",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34350",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34355",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34358",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34360",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34370",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34380",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34385",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34390",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34400",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34410",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34420",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34430",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34440",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34450",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34460",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34470",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34480",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34490",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34500",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34510",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34520",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34530",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34535",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34540",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34550"
+      ],
+      "retrieved_at": "2026-09-18T16:19:06.906510+00:00",
+      "updated_at": "2022-08-08T11:10:18+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35005": {
+      "file": "rdrm35005.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35010",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35020",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35030",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35040",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35050",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35060",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35070",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35080",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35090"
+      ],
+      "retrieved_at": "2026-09-18T16:19:07.076326+00:00",
+      "updated_at": "2025-04-14T16:28:47+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35100": {
+      "file": "rdrm35100.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35110",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35115",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35120",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35130",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35140",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35150",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35160"
+      ],
+      "retrieved_at": "2026-09-18T16:19:07.278568+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35200": {
+      "file": "rdrm35200.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35210",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35220",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35230",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35245",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35250",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35260",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35270",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35280",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35290",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35300",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35310",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35320",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35330",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35340"
+      ],
+      "retrieved_at": "2026-09-18T16:19:07.441365+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35400": {
+      "file": "rdrm35400.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35410",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35420",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35430",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35440",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35450",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35460",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35470",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35480"
+      ],
+      "retrieved_at": "2026-09-18T16:19:07.596313+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35510": {
+      "file": "rdrm35510.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:07.763395+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35520": {
+      "file": "rdrm35520.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:07.943908+00:00",
+      "updated_at": "2022-03-17T07:50:19+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35610": {
+      "file": "rdrm35610.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:08.120944+00:00",
+      "updated_at": "2022-03-17T07:43:05+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35620": {
+      "file": "rdrm35620.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:08.284919+00:00",
+      "updated_at": "2022-03-17T07:43:05+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35630": {
+      "file": "rdrm35630.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:08.447503+00:00",
+      "updated_at": "2022-03-17T07:43:04+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35640": {
+      "file": "rdrm35640.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:08.597162+00:00",
+      "updated_at": "2022-03-17T07:43:03+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35650": {
+      "file": "rdrm35650.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:08.749926+00:00",
+      "updated_at": "2022-03-17T07:43:03+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35660": {
+      "file": "rdrm35660.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:08.897075+00:00",
+      "updated_at": "2022-03-17T07:43:02+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35670": {
+      "file": "rdrm35670.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:09.055125+00:00",
+      "updated_at": "2022-03-17T07:43:01+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35680": {
+      "file": "rdrm35680.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:09.284164+00:00",
+      "updated_at": "2022-03-17T07:43:01+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35690": {
+      "file": "rdrm35690.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:09.430240+00:00",
+      "updated_at": "2022-03-17T07:43:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35700": {
+      "file": "rdrm35700.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:09.591593+00:00",
+      "updated_at": "2022-03-17T07:42:59+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35710": {
+      "file": "rdrm35710.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:09.747620+00:00",
+      "updated_at": "2022-03-17T07:32:13+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35720": {
+      "file": "rdrm35720.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:09.903999+00:00",
+      "updated_at": "2022-03-17T07:32:12+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35730": {
+      "file": "rdrm35730.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:10.074582+00:00",
+      "updated_at": "2022-03-17T07:32:09+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35810": {
+      "file": "rdrm35810.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:10.232646+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35820": {
+      "file": "rdrm35820.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:10.391626+00:00",
+      "updated_at": "2022-03-17T07:32:11+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35830": {
+      "file": "rdrm35830.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:10.555619+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35840": {
+      "file": "rdrm35840.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:10.706729+00:00",
+      "updated_at": "2022-03-17T07:32:10+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35850": {
+      "file": "rdrm35850.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:10.872879+00:00",
+      "updated_at": "2022-03-17T07:32:10+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36005": {
+      "file": "rdrm36005.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36010",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36020",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36030",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36040",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36050",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36060"
+      ],
+      "retrieved_at": "2026-09-18T16:19:11.037821+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36100": {
+      "file": "rdrm36100.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36110",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36120",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36130",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36140"
+      ],
+      "retrieved_at": "2026-09-18T16:19:11.181327+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36200": {
+      "file": "rdrm36200.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36210",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36220",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36230",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36240",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36250",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36260"
+      ],
+      "retrieved_at": "2026-09-18T16:19:11.331544+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36300": {
+      "file": "rdrm36300.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36310",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36320",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36330",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36340",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36350",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36360"
+      ],
+      "retrieved_at": "2026-09-18T16:19:11.488689+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36400": {
+      "file": "rdrm36400.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36410",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36420",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36430",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36440",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36450",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36460",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36470"
+      ],
+      "retrieved_at": "2026-09-18T16:19:11.636221+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm37020": {
+      "file": "rdrm37020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:11.796613+00:00",
+      "updated_at": "2022-03-17T11:56:04+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm37030": {
+      "file": "rdrm37030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:11.955050+00:00",
+      "updated_at": "2022-03-17T11:56:03+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72100": {
+      "file": "rdrm72100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:12.101872+00:00",
+      "updated_at": "2025-04-07T08:36:44+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72200": {
+      "file": "rdrm72200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:12.271359+00:00",
+      "updated_at": "2025-04-14T16:54:01+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72300": {
+      "file": "rdrm72300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:12.434630+00:00",
+      "updated_at": "2025-04-07T08:36:47+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72400": {
+      "file": "rdrm72400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:12.579302+00:00",
+      "updated_at": "2026-06-23T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72450": {
+      "file": "rdrm72450.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:12.738958+00:00",
+      "updated_at": "2025-07-31T22:09:27+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72500": {
+      "file": "rdrm72500.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:12.908905+00:00",
+      "updated_at": "2025-04-14T17:16:18+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72550": {
+      "file": "rdrm72550.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:13.085077+00:00",
+      "updated_at": "2025-04-07T08:36:51+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72560": {
+      "file": "rdrm72560.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:13.242826+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72600": {
+      "file": "rdrm72600.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:13.409241+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73100": {
+      "file": "rdrm73100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:13.568486+00:00",
+      "updated_at": "2025-04-07T08:36:54+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73200": {
+      "file": "rdrm73200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:13.716946+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73300": {
+      "file": "rdrm73300.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73310",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73320",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73330",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73340"
+      ],
+      "retrieved_at": "2026-09-18T16:19:13.877473+00:00",
+      "updated_at": "2025-04-07T08:38:40+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73400": {
+      "file": "rdrm73400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:14.044804+00:00",
+      "updated_at": "2025-04-07T08:37:01+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73500": {
+      "file": "rdrm73500.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:14.212057+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73600": {
+      "file": "rdrm73600.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:14.383021+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74100": {
+      "file": "rdrm74100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:14.549890+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74200": {
+      "file": "rdrm74200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:14.706814+00:00",
+      "updated_at": "2025-04-07T08:37:06+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74300": {
+      "file": "rdrm74300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:14.859345+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74400": {
+      "file": "rdrm74400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:15.018873+00:00",
+      "updated_at": "2025-07-31T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74500": {
+      "file": "rdrm74500.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:15.180556+00:00",
+      "updated_at": "2025-04-07T08:37:09+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74600": {
+      "file": "rdrm74600.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:15.344519+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74700": {
+      "file": "rdrm74700.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74710",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74720",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74730",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74740",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74750",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74760"
+      ],
+      "retrieved_at": "2026-09-18T16:19:15.504067+00:00",
+      "updated_at": "2025-04-14T16:54:27+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74800": {
+      "file": "rdrm74800.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:15.654577+00:00",
+      "updated_at": "2025-04-07T08:37:20+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75100": {
+      "file": "rdrm75100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:15.804924+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75200": {
+      "file": "rdrm75200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:15.961834+00:00",
+      "updated_at": "2025-04-07T08:37:22+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75300": {
+      "file": "rdrm75300.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75310",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75320",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75330",
+        "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75340"
+      ],
+      "retrieved_at": "2026-09-18T16:19:16.129079+00:00",
+      "updated_at": "2025-04-07T08:38:42+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75400": {
+      "file": "rdrm75400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:16.279932+00:00",
+      "updated_at": "2025-04-07T08:37:29+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75500": {
+      "file": "rdrm75500.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:16.437073+00:00",
+      "updated_at": "2025-04-07T08:37:30+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm76100": {
+      "file": "rdrm76100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:16.590847+00:00",
+      "updated_at": "2025-04-07T08:37:32+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm76200": {
+      "file": "rdrm76200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:16.735923+00:00",
+      "updated_at": "2025-04-07T08:37:33+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm76300": {
+      "file": "rdrm76300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:16.894003+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm76400": {
+      "file": "rdrm76400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:17.055836+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31010": {
+      "file": "rdrm31010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:17.217727+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31020": {
+      "file": "rdrm31020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:17.363033+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31030": {
+      "file": "rdrm31030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:17.509593+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31040": {
+      "file": "rdrm31040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:17.672133+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31050": {
+      "file": "rdrm31050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:17.815241+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31060": {
+      "file": "rdrm31060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:17.965227+00:00",
+      "updated_at": "2025-04-07T08:27:35+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31110": {
+      "file": "rdrm31110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:18.129285+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31120": {
+      "file": "rdrm31120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:18.268787+00:00",
+      "updated_at": "2022-03-17T11:00:58+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31125": {
+      "file": "rdrm31125.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:18.419353+00:00",
+      "updated_at": "2022-03-17T11:02:39+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31130": {
+      "file": "rdrm31130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:18.563721+00:00",
+      "updated_at": "2022-03-17T11:04:01+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31140": {
+      "file": "rdrm31140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:18.707539+00:00",
+      "updated_at": "2022-03-17T11:05:18+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31150": {
+      "file": "rdrm31150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:18.853194+00:00",
+      "updated_at": "2022-11-02T13:33:52+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31160": {
+      "file": "rdrm31160.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:19.054005+00:00",
+      "updated_at": "2025-09-22T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31170": {
+      "file": "rdrm31170.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:19.195947+00:00",
+      "updated_at": "2025-07-31T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31180": {
+      "file": "rdrm31180.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:19.347595+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31190": {
+      "file": "rdrm31190.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:19.488782+00:00",
+      "updated_at": "2022-01-04T08:19:39+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31195": {
+      "file": "rdrm31195.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:19.621443+00:00",
+      "updated_at": "2022-03-17T11:18:58+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31210": {
+      "file": "rdrm31210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:19.768852+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31220": {
+      "file": "rdrm31220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:19.914002+00:00",
+      "updated_at": "2022-03-17T11:23:21+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31230": {
+      "file": "rdrm31230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:20.054195+00:00",
+      "updated_at": "2022-03-17T11:24:32+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31240": {
+      "file": "rdrm31240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:20.199938+00:00",
+      "updated_at": "2022-03-17T11:25:17+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31250": {
+      "file": "rdrm31250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:20.343062+00:00",
+      "updated_at": "2022-03-17T11:26:07+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31260": {
+      "file": "rdrm31260.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:20.481968+00:00",
+      "updated_at": "2022-03-17T11:26:56+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31270": {
+      "file": "rdrm31270.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:20.650528+00:00",
+      "updated_at": "2022-03-17T11:27:43+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31280": {
+      "file": "rdrm31280.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:20.799762+00:00",
+      "updated_at": "2022-03-17T11:28:52+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31290": {
+      "file": "rdrm31290.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:20.952308+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31300": {
+      "file": "rdrm31300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:21.092840+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31310": {
+      "file": "rdrm31310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:21.243355+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31320": {
+      "file": "rdrm31320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:21.390565+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31330": {
+      "file": "rdrm31330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:21.552852+00:00",
+      "updated_at": "2022-03-17T11:30:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31340": {
+      "file": "rdrm31340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:21.696950+00:00",
+      "updated_at": "2022-03-17T11:31:29+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31410": {
+      "file": "rdrm31410.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:21.836202+00:00",
+      "updated_at": "2022-03-17T11:32:56+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31420": {
+      "file": "rdrm31420.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:21.985076+00:00",
+      "updated_at": "2022-03-17T11:33:49+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31430": {
+      "file": "rdrm31430.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:22.162594+00:00",
+      "updated_at": "2022-03-17T11:34:32+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31440": {
+      "file": "rdrm31440.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:22.301075+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31450": {
+      "file": "rdrm31450.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:22.449086+00:00",
+      "updated_at": "2022-03-17T11:35:59+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31460": {
+      "file": "rdrm31460.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:22.608112+00:00",
+      "updated_at": "2022-03-17T11:36:40+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31470": {
+      "file": "rdrm31470.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:22.750423+00:00",
+      "updated_at": "2022-03-17T11:37:21+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31480": {
+      "file": "rdrm31480.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:22.913819+00:00",
+      "updated_at": "2022-03-17T11:38:11+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31490": {
+      "file": "rdrm31490.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:23.056593+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31500": {
+      "file": "rdrm31500.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:23.204361+00:00",
+      "updated_at": "2022-03-17T11:39:31+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31501": {
+      "file": "rdrm31501.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:23.360016+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31502": {
+      "file": "rdrm31502.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:23.539616+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31503": {
+      "file": "rdrm31503.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:23.686748+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31504": {
+      "file": "rdrm31504.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:23.845561+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31505": {
+      "file": "rdrm31505.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:23.981765+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31506": {
+      "file": "rdrm31506.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:24.122596+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31507": {
+      "file": "rdrm31507.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:24.273377+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31508": {
+      "file": "rdrm31508.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:24.421773+00:00",
+      "updated_at": "2022-03-17T11:41:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31510": {
+      "file": "rdrm31510.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:24.588516+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31520": {
+      "file": "rdrm31520.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:24.733169+00:00",
+      "updated_at": "2022-03-17T11:41:58+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31530": {
+      "file": "rdrm31530.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:24.876699+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31540": {
+      "file": "rdrm31540.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:25.042016+00:00",
+      "updated_at": "2022-03-17T11:43:50+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32010": {
+      "file": "rdrm32010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:25.188753+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32015": {
+      "file": "rdrm32015.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:25.330518+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32020": {
+      "file": "rdrm32020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:25.473908+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32030": {
+      "file": "rdrm32030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:25.618818+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32035": {
+      "file": "rdrm32035.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:25.782407+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32036": {
+      "file": "rdrm32036.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:25.933798+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32040": {
+      "file": "rdrm32040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:26.084607+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32050": {
+      "file": "rdrm32050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:26.260385+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32060": {
+      "file": "rdrm32060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:26.445108+00:00",
+      "updated_at": "2025-07-31T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32070": {
+      "file": "rdrm32070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:26.590590+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32080": {
+      "file": "rdrm32080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:26.747097+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32105": {
+      "file": "rdrm32105.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:26.881386+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32110": {
+      "file": "rdrm32110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:27.046865+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32120": {
+      "file": "rdrm32120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:27.222167+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32130": {
+      "file": "rdrm32130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:27.365545+00:00",
+      "updated_at": "2025-12-19T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32135": {
+      "file": "rdrm32135.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:27.515576+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32140": {
+      "file": "rdrm32140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:27.670741+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32145": {
+      "file": "rdrm32145.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:27.826678+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32210": {
+      "file": "rdrm32210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:27.978228+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32220": {
+      "file": "rdrm32220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:28.168330+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32230": {
+      "file": "rdrm32230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:28.314199+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32240": {
+      "file": "rdrm32240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:28.450474+00:00",
+      "updated_at": "2025-04-07T08:30:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32250": {
+      "file": "rdrm32250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:28.609396+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32260": {
+      "file": "rdrm32260.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:28.763082+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32310": {
+      "file": "rdrm32310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:28.918872+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32320": {
+      "file": "rdrm32320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:29.056745+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32330": {
+      "file": "rdrm32330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:29.188379+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32340": {
+      "file": "rdrm32340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:29.331459+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32350": {
+      "file": "rdrm32350.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:29.483360+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32360": {
+      "file": "rdrm32360.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:29.625128+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32370": {
+      "file": "rdrm32370.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:29.799087+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32380": {
+      "file": "rdrm32380.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:29.952879+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32390": {
+      "file": "rdrm32390.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:30.117755+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32400": {
+      "file": "rdrm32400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:30.265825+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32410": {
+      "file": "rdrm32410.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:30.401745+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32420": {
+      "file": "rdrm32420.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:30.543091+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32430": {
+      "file": "rdrm32430.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:30.677075+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32435": {
+      "file": "rdrm32435.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:30.829947+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32440": {
+      "file": "rdrm32440.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:30.974576+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32450": {
+      "file": "rdrm32450.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:31.118562+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33020": {
+      "file": "rdrm33020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:31.262804+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33030": {
+      "file": "rdrm33030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:31.409630+00:00",
+      "updated_at": "2022-03-17T12:45:50+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33040": {
+      "file": "rdrm33040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:31.565524+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33050": {
+      "file": "rdrm33050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:31.715901+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33060": {
+      "file": "rdrm33060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:31.880835+00:00",
+      "updated_at": "2022-03-17T12:45:49+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33110": {
+      "file": "rdrm33110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:32.030788+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33120": {
+      "file": "rdrm33120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:32.167597+00:00",
+      "updated_at": "2025-07-31T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33121": {
+      "file": "rdrm33121.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:32.335007+00:00",
+      "updated_at": "2025-07-31T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33122": {
+      "file": "rdrm33122.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:32.472890+00:00",
+      "updated_at": "2025-07-31T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33130": {
+      "file": "rdrm33130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:32.614449+00:00",
+      "updated_at": "2022-03-17T12:39:15+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33140": {
+      "file": "rdrm33140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:32.778472+00:00",
+      "updated_at": "2022-03-17T12:39:15+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33150": {
+      "file": "rdrm33150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:32.943386+00:00",
+      "updated_at": "2022-03-17T12:39:14+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33160": {
+      "file": "rdrm33160.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:33.118549+00:00",
+      "updated_at": "2022-03-17T12:39:14+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33170": {
+      "file": "rdrm33170.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:33.271342+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33180": {
+      "file": "rdrm33180.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:33.426483+00:00",
+      "updated_at": "2022-03-17T12:39:12+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33190": {
+      "file": "rdrm33190.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:33.583453+00:00",
+      "updated_at": "2015-11-27T13:53:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33210": {
+      "file": "rdrm33210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:33.742552+00:00",
+      "updated_at": "2025-04-07T10:20:05+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33220": {
+      "file": "rdrm33220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:33.893777+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33230": {
+      "file": "rdrm33230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:34.061994+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33240": {
+      "file": "rdrm33240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:34.213792+00:00",
+      "updated_at": "2022-03-17T12:32:59+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33250": {
+      "file": "rdrm33250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:34.361973+00:00",
+      "updated_at": "2019-11-11T10:00:21+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33260": {
+      "file": "rdrm33260.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:34.507785+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33270": {
+      "file": "rdrm33270.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:34.650234+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33280": {
+      "file": "rdrm33280.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:34.815264+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33290": {
+      "file": "rdrm33290.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:34.958965+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33295": {
+      "file": "rdrm33295.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:35.102214+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33410": {
+      "file": "rdrm33410.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:35.239998+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33420": {
+      "file": "rdrm33420.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:35.397222+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33430": {
+      "file": "rdrm33430.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:35.547962+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33440": {
+      "file": "rdrm33440.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:35.692119+00:00",
+      "updated_at": "2015-11-27T13:53:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33450": {
+      "file": "rdrm33450.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:35.863307+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33460": {
+      "file": "rdrm33460.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:36.041972+00:00",
+      "updated_at": "2015-11-27T13:53:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33470": {
+      "file": "rdrm33470.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:36.190841+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33480": {
+      "file": "rdrm33480.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:36.342603+00:00",
+      "updated_at": "2015-11-27T13:53:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33490": {
+      "file": "rdrm33490.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:36.480760+00:00",
+      "updated_at": "2015-11-27T13:53:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33510": {
+      "file": "rdrm33510.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:36.630986+00:00",
+      "updated_at": "2022-01-04T09:36:52+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33515": {
+      "file": "rdrm33515.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:36.788406+00:00",
+      "updated_at": "2022-01-04T09:50:56+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33520": {
+      "file": "rdrm33520.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:36.937913+00:00",
+      "updated_at": "2022-03-17T12:32:53+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33530": {
+      "file": "rdrm33530.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:37.089388+00:00",
+      "updated_at": "2025-11-26T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33540": {
+      "file": "rdrm33540.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:37.246053+00:00",
+      "updated_at": "2022-03-17T12:25:46+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33550": {
+      "file": "rdrm33550.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:37.426701+00:00",
+      "updated_at": "2022-03-17T12:25:45+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33560": {
+      "file": "rdrm33560.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:37.575989+00:00",
+      "updated_at": "2022-03-17T12:25:44+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33570": {
+      "file": "rdrm33570.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:37.732276+00:00",
+      "updated_at": "2022-03-17T11:48:29+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33580": {
+      "file": "rdrm33580.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:37.905266+00:00",
+      "updated_at": "2022-01-04T10:00:12+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33590": {
+      "file": "rdrm33590.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:38.064231+00:00",
+      "updated_at": "2015-11-27T13:52:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33595": {
+      "file": "rdrm33595.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:38.225869+00:00",
+      "updated_at": "2015-11-27T13:53:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33596": {
+      "file": "rdrm33596.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:38.377571+00:00",
+      "updated_at": "2022-03-17T07:50:21+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33600": {
+      "file": "rdrm33600.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:38.517638+00:00",
+      "updated_at": "2015-11-27T13:53:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34310": {
+      "file": "rdrm34310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:38.678786+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34320": {
+      "file": "rdrm34320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:38.830264+00:00",
+      "updated_at": "2022-01-04T10:05:18+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34330": {
+      "file": "rdrm34330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:38.980971+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34340": {
+      "file": "rdrm34340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:39.158786+00:00",
+      "updated_at": "2022-03-17T12:12:05+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34345": {
+      "file": "rdrm34345.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:39.303405+00:00",
+      "updated_at": "2022-01-19T11:04:45+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34350": {
+      "file": "rdrm34350.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:39.457044+00:00",
+      "updated_at": "2022-03-17T12:12:04+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34355": {
+      "file": "rdrm34355.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:39.632344+00:00",
+      "updated_at": "2025-11-18T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34358": {
+      "file": "rdrm34358.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:39.783122+00:00",
+      "updated_at": "2022-03-17T07:50:20+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34360": {
+      "file": "rdrm34360.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:39.933377+00:00",
+      "updated_at": "2022-01-04T10:15:52+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34370": {
+      "file": "rdrm34370.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:40.078453+00:00",
+      "updated_at": "2021-12-21T12:06:10+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34380": {
+      "file": "rdrm34380.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:40.234577+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34385": {
+      "file": "rdrm34385.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:40.395269+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34390": {
+      "file": "rdrm34390.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:40.564878+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34400": {
+      "file": "rdrm34400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:40.720182+00:00",
+      "updated_at": "2022-01-04T10:18:52+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34410": {
+      "file": "rdrm34410.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:40.867190+00:00",
+      "updated_at": "2022-01-04T10:31:28+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34420": {
+      "file": "rdrm34420.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:41.012224+00:00",
+      "updated_at": "2022-01-19T11:37:33+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34430": {
+      "file": "rdrm34430.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:41.196153+00:00",
+      "updated_at": "2022-03-17T09:50:02+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34440": {
+      "file": "rdrm34440.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:41.352025+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34450": {
+      "file": "rdrm34450.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:41.495376+00:00",
+      "updated_at": "2022-01-04T10:33:43+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34460": {
+      "file": "rdrm34460.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:41.630097+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34470": {
+      "file": "rdrm34470.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:41.764556+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34480": {
+      "file": "rdrm34480.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:41.909246+00:00",
+      "updated_at": "2022-03-17T11:48:29+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34490": {
+      "file": "rdrm34490.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:42.082095+00:00",
+      "updated_at": "2021-12-21T12:13:44+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34500": {
+      "file": "rdrm34500.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:42.240352+00:00",
+      "updated_at": "2022-01-20T07:14:27+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34510": {
+      "file": "rdrm34510.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:42.387382+00:00",
+      "updated_at": "2022-01-20T07:28:53+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34520": {
+      "file": "rdrm34520.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:42.551651+00:00",
+      "updated_at": "2022-01-20T07:37:39+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34530": {
+      "file": "rdrm34530.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:42.710219+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34535": {
+      "file": "rdrm34535.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:42.855153+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34540": {
+      "file": "rdrm34540.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:43.033348+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34550": {
+      "file": "rdrm34550.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:43.174938+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35010": {
+      "file": "rdrm35010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:43.350155+00:00",
+      "updated_at": "2025-12-12T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35020": {
+      "file": "rdrm35020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:43.491133+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35030": {
+      "file": "rdrm35030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:43.648927+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35040": {
+      "file": "rdrm35040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:43.830488+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35050": {
+      "file": "rdrm35050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:43.982992+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35060": {
+      "file": "rdrm35060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:44.129290+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35070": {
+      "file": "rdrm35070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:44.302407+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35080": {
+      "file": "rdrm35080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:44.452694+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35090": {
+      "file": "rdrm35090.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:44.611814+00:00",
+      "updated_at": "2025-04-08T10:35:09+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35110": {
+      "file": "rdrm35110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:44.828109+00:00",
+      "updated_at": "2022-01-04T11:19:25+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35115": {
+      "file": "rdrm35115.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:44.997932+00:00",
+      "updated_at": "2022-03-17T12:05:33+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35120": {
+      "file": "rdrm35120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:45.175279+00:00",
+      "updated_at": "2021-12-21T12:25:07+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35130": {
+      "file": "rdrm35130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:45.337761+00:00",
+      "updated_at": "2022-03-17T12:05:32+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35140": {
+      "file": "rdrm35140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:45.507466+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35150": {
+      "file": "rdrm35150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:45.675032+00:00",
+      "updated_at": "2022-01-20T07:53:10+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35160": {
+      "file": "rdrm35160.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:45.825554+00:00",
+      "updated_at": "2022-01-20T08:03:29+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35210": {
+      "file": "rdrm35210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:45.975879+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35220": {
+      "file": "rdrm35220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:46.136672+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35230": {
+      "file": "rdrm35230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:46.282976+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240": {
+      "file": "rdrm35240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:46.438946+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35245": {
+      "file": "rdrm35245.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:46.598927+00:00",
+      "updated_at": "2022-03-17T07:50:19+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35250": {
+      "file": "rdrm35250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:46.755638+00:00",
+      "updated_at": "2022-01-04T11:23:13+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35260": {
+      "file": "rdrm35260.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:46.936650+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35270": {
+      "file": "rdrm35270.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:47.084899+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35280": {
+      "file": "rdrm35280.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:47.246118+00:00",
+      "updated_at": "2022-01-20T08:12:02+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35290": {
+      "file": "rdrm35290.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:47.429690+00:00",
+      "updated_at": "2022-03-17T12:05:30+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35300": {
+      "file": "rdrm35300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:47.567407+00:00",
+      "updated_at": "2022-01-20T09:20:29+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35310": {
+      "file": "rdrm35310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:47.783534+00:00",
+      "updated_at": "2022-01-20T09:46:30+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35320": {
+      "file": "rdrm35320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:47.931545+00:00",
+      "updated_at": "2022-01-20T10:06:30+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35330": {
+      "file": "rdrm35330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:48.074288+00:00",
+      "updated_at": "2022-01-20T10:32:32+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35340": {
+      "file": "rdrm35340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:48.256294+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35410": {
+      "file": "rdrm35410.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:48.412714+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35420": {
+      "file": "rdrm35420.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:48.552530+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35430": {
+      "file": "rdrm35430.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:48.691354+00:00",
+      "updated_at": "2022-01-04T11:33:47+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35440": {
+      "file": "rdrm35440.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:48.856823+00:00",
+      "updated_at": "2022-01-04T11:36:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35450": {
+      "file": "rdrm35450.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:49.047190+00:00",
+      "updated_at": "2022-01-04T11:39:52+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35460": {
+      "file": "rdrm35460.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:49.212337+00:00",
+      "updated_at": "2022-03-17T12:05:29+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35470": {
+      "file": "rdrm35470.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:49.348330+00:00",
+      "updated_at": "2022-01-04T11:43:05+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35480": {
+      "file": "rdrm35480.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:49.510795+00:00",
+      "updated_at": "2022-03-17T12:05:29+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36010": {
+      "file": "rdrm36010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:49.650344+00:00",
+      "updated_at": "2022-03-17T12:05:28+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36020": {
+      "file": "rdrm36020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:49.785972+00:00",
+      "updated_at": "2022-07-28T16:59:51+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36030": {
+      "file": "rdrm36030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:49.945781+00:00",
+      "updated_at": "2022-03-17T11:56:05+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36040": {
+      "file": "rdrm36040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:50.136440+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36050": {
+      "file": "rdrm36050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:50.309496+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36060": {
+      "file": "rdrm36060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:50.453599+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36110": {
+      "file": "rdrm36110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:50.626411+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36120": {
+      "file": "rdrm36120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:50.771470+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36130": {
+      "file": "rdrm36130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:50.931082+00:00",
+      "updated_at": "2022-03-17T11:56:05+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36140": {
+      "file": "rdrm36140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:51.090028+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36210": {
+      "file": "rdrm36210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:51.262864+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36220": {
+      "file": "rdrm36220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:51.410530+00:00",
+      "updated_at": "2022-03-17T11:56:05+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36230": {
+      "file": "rdrm36230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:51.564884+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36240": {
+      "file": "rdrm36240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:51.717264+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36250": {
+      "file": "rdrm36250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:51.887494+00:00",
+      "updated_at": "2022-03-17T11:56:04+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36260": {
+      "file": "rdrm36260.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:52.026953+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36310": {
+      "file": "rdrm36310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:52.163192+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36320": {
+      "file": "rdrm36320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:52.311109+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36330": {
+      "file": "rdrm36330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:52.449622+00:00",
+      "updated_at": "2022-01-04T11:45:42+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36340": {
+      "file": "rdrm36340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:52.596017+00:00",
+      "updated_at": "2022-01-04T11:47:49+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36350": {
+      "file": "rdrm36350.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:52.752054+00:00",
+      "updated_at": "2022-01-04T11:50:09+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36360": {
+      "file": "rdrm36360.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:52.890510+00:00",
+      "updated_at": "2022-01-20T10:57:18+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36410": {
+      "file": "rdrm36410.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:53.045778+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36420": {
+      "file": "rdrm36420.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:53.228976+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36430": {
+      "file": "rdrm36430.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:53.395718+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36440": {
+      "file": "rdrm36440.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:53.545553+00:00",
+      "updated_at": "2022-03-17T11:56:04+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36450": {
+      "file": "rdrm36450.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:53.689826+00:00",
+      "updated_at": "2022-03-17T11:56:04+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36460": {
+      "file": "rdrm36460.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:53.848438+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm36470": {
+      "file": "rdrm36470.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:53.981962+00:00",
+      "updated_at": "2015-11-27T14:33:34+00:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73310": {
+      "file": "rdrm73310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:54.128686+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73320": {
+      "file": "rdrm73320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:54.269276+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73330": {
+      "file": "rdrm73330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:54.434199+00:00",
+      "updated_at": "2025-04-07T08:36:59+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73340": {
+      "file": "rdrm73340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:54.583827+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74710": {
+      "file": "rdrm74710.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:54.739571+00:00",
+      "updated_at": "2025-04-14T16:54:28+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74720": {
+      "file": "rdrm74720.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:54.880604+00:00",
+      "updated_at": "2025-04-14T16:54:29+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74730": {
+      "file": "rdrm74730.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:55.048507+00:00",
+      "updated_at": "2025-04-14T16:54:30+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74740": {
+      "file": "rdrm74740.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:55.202326+00:00",
+      "updated_at": "2025-04-14T16:54:31+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74750": {
+      "file": "rdrm74750.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:55.357121+00:00",
+      "updated_at": "2025-04-14T16:54:32+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74760": {
+      "file": "rdrm74760.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:55.504534+00:00",
+      "updated_at": "2025-04-14T16:54:33+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75310": {
+      "file": "rdrm75310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:55.666789+00:00",
+      "updated_at": "2025-04-07T08:37:23+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75320": {
+      "file": "rdrm75320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:55.833709+00:00",
+      "updated_at": "2025-04-07T08:37:25+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75330": {
+      "file": "rdrm75330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:56.001660+00:00",
+      "updated_at": "2025-04-07T08:37:26+01:00"
+    },
+    "/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75340": {
+      "file": "rdrm75340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:56.155556+00:00",
+      "updated_at": "2025-04-07T08:37:27+01:00"
+    }
+  },
+  "status": "complete",
+  "errors": {},
+  "gaps": {},
+  "checked_at": "2026-09-18T16:19:56.160304+00:00",
+  "pages_checked": 451
+}

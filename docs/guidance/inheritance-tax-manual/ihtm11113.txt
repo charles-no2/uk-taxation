@@ -1,0 +1,26 @@
+General outline: ‘charitable status’ and date for determining status
+Identifier: IHTM11113
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11113
+Published: 2016-03-20T09:33:06+00:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:56:04.470469+00:00
+
+It is a function of the Courts, the Charity Commission and HMRC Charities to determine the charitable status of a body. If you need to determine the charitable status of a body which has not previously been considered by the Charity Commission or HMRC Charities, the case should be referred to Technical.
+
+As a general rule the beneficiary needs to have charitable status at the date of transfer for the exemption to apply. But, a beneficiary who appears to be given charitable status after the date of transfer may qualify for exemption, if:
+
+- the charity was not previously registered with the Charity Commission but applied to register as a result of the legacy, or
+
+- the deeming provisions of IHTA84/S142 or IHTA84/S144 apply because of a instrument of variation (IHTM35011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35011)) or a qualifying distribution (IHTM35181 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35181)) from a discretionary trust.
+
+Example
+
+Tanya dies in December 2010.
+
+A local sports club which has existed for several years applies in August 2011 under FA02/S.58 Sch 18 to become a Community Amateur Sports Club (which gives it charitable status for tax purposes).
+
+A legacy by Tanya to that club is not exempt in December 2010
+
+But if in, say, November 2011 the residuary beneficiary under Tanya’s Will makes an instrument of variation (to which IHTA84/S142 (1) applies) that benefits the club, the charity exemption will apply.
+
+Generally, you do not need to check that the beneficiary was a charity at the date of the transfer. You only need to check this if you have good reason to believe the beneficiary was not a charity at the relevant date. If this is the case you should refer the file with an explanatory note to Technical (IHTM11125 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11125)).

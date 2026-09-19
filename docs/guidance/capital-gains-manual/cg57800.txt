@@ -1,0 +1,90 @@
+Capital distributions: introduction
+Identifier: CG57800
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57800
+Published: 2016-03-12T11:44:59+00:00
+Updated: 2023-11-22T10:17:07+00:00
+Retrieved (UTC): 2026-09-18T14:44:07.308339+00:00
+
+S122 TCGA92
+
+A capital distribution is any distribution from a company, in money or money’s worth, which is not treated as income for income tax purposes. Therefore, a capital distribution can include a distribution of a company’s assets as well as a cash payment, see the example below. Most distributions, for example, dividend payments, will be income distributions. S385 ITTOIA05 (https://www.legislation.gov.uk/ukpga/2005/5/section/385) deals with the meaning of distribution for income tax purposes, see also CTM15120 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm15120)+. A distribution which is not an income distribution will be a capital distribution. The capital distributions you are most likely to see in practice are:
+
+- distributions made by a liquidator in the course of a winding-up. Separate instructions on liquidations are at CG40400 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg40400) onwards.
+
+- cash payments made when one company takes over another and issues its own shares or debentures as part of the consideration for the shares it is acquiring. Separate instructions on share exchanges are at CG52521 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52521) onwards.
+
+- distributions made on a repayment or reduction of a company’s share capital.
+
+The sale of provisional letters of allotment in a rights issue is also treated as a capital distribution.
+
+The receipt of a capital distribution is treated as a disposal of an interest in the underlying shares. When a person receives a capital distribution, the date of disposal is the date of the receipt or entitlement to the distribution. The normal computational rules apply unless the distribution is small compared with the value of the shareholding. For advice on small capital distributions see CG57835 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57835)+.
+
+Demergers
+
+A company can effect a demerger by distributing the shares in a 75 per cent subsidiary to its shareholders. If the conditions in s1076 CTA10 (https://www.legislation.gov.uk/ukpga/2010/4/section/1076) are satisfied this will not be treated as a distribution for income tax purposes. Under s192 TCGA92 (https://www.legislation.gov.uk/ukpga/1992/12/section/192) such a distribution is not treated as a capital distribution either. Instead, it is treated as a share reorganisation within ss126-130 TCGA92. For guidance on demergers see CTM17250 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm17250)+.
+
+Share reorganisation
+
+S122 TCGA92 (https://www.legislation.gov.uk/ukpga/1992/12/section/122) does not apply to the issue of any shares or debentures as part of a share reorganisation. Therefore, a bonus issue or a rights issue at a discount to the market value of the existing shares is not treated as a capital distribution. A share reorganisation may however involve the receipt of cash as well as the issue of new shares or debentures. The cash payment may be offered to all shareholders as part of the terms of the reorganisation, for example, as part of the consideration on a takeover. Or it may arise where, for example, the reorganisation provides for an issue of one new share for every 10 shares held, and any fractional entitlements to new shares are sold in the market on behalf of the shareholders entitled to them and the cash proceeds paid over. Such cash payments fall within s128(3) TCGA92 (https://www.legislation.gov.uk/ukpga/1992/12/section/128) see CG51875 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51875)+. But that does not prevent them from qualifying for the small part disposals treatment in s122(2) TCGA92 (https://www.legislation.gov.uk/ukpga/1992/12/section/122), see CG57835 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57835)+, provided that the cash amount is sufficiently small.
+
+For advice on share reorganisations generally, see CG51700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51700)+.
+
+Computations
+
+Under s122(1) TCGA92 (https://www.legislation.gov.uk/ukpga/1992/12/section/122), the receipt of a capital distribution is treated as a disposal of an interest in the underlying shares. The disposal proceeds are the amount or value of the capital distribution received. The normal computational rules for part-disposals apply. As no shares are actually sold, you cannot apportion the allowable cost by reference to the number of shares sold, see CG51575 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51575). You must use the usual part-disposal formula in s42 TCGA92 (https://www.legislation.gov.uk/ukpga/1992/12/section/42), A / ( A + B) where:
+
+A = the amount or value of the capital distribution.
+
+B = the market value of the shareholding.
+
+Example
+
+-  In March 2018 Mr Daley buys 10,000 £1 ordinary shares in Discount Motors Ltd for £18,000. Discount Motors Ltd has a small holding of shares in Ace Cars Ltd.
+
+- In September 2023 Discount Motors Ltd reduces its £1 ordinary shares to 5p shares. It distributes 75p in cash and one 50p share in Ace Cars Ltd for every £1 ordinary share held. Discount Motors Ltd then restores its 5p shares to £1 by capitalising 95p per share out of reserves.
+
+The market value of the Ace Cars Ltd shares at the time of the capital reduction is 20p.
+
+The market value of the Discount Motors Ltd £1 ordinary shares after the capital reorganisation is 110p.
+
+You compute the value of the capital distributions as follows:
+
+Cash 10,000 x 75p
+| £7,500
+|
+
+Plus Shares 10,000 x 20p | £2,000
+|
+
+Equals Total | £9,500
+|
+
+The value of the shareholding retained is 10,000 x 110p = £11,000.
+
+You compute the gain as follows:
+
+Disposal proceeds | £9,500 |
+
+Less Cost £18,000 x (£9,500/(£9,500 + £11,000)) | £8,342 |
+
+Equals Gain | £1,158 |
+
+Mr Daley is deemed to have acquired the Ace Cars Ltd shares at a cost of £2,000 (10,000 x 20p).
+
+The restoration of the Discount Motors Ltd 5p shares to £1 shares is treated as an income distribution, see CTM15420 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm15420). The net amount of the distribution is added to the allowable cost of the shareholding, see CG51825 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51825).
+
+The section 104 holding is as follows:
+
+- | Number of shares | Pool of qualifying expenditure |
+
+March 2018 acquisition | 10,000 | £18,000 |
+
+Less September 2023 capital distribution | - | £8,342 |
+
+- | 10,000 | £9,658 |
+
+Plus Income distribution 10,000 x 95p | - | £9,500 |
+
+- | 10,000 | £19,158 |
+
+If you have any queries about how the capital distribution was valued, please refer to Shares and Assets Valuation (SAV).

@@ -1,0 +1,28 @@
+Domicile: election by non-UK domiciled spouse or civil partner: the date the election takes effect 
+Identifier: IHTM13046
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13046
+Published: 2016-04-09T09:16:22+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:57:14.904440+00:00
+
+From 6 April 2025, for inheritance tax purposes, domicile is replaced by long-term UK residence and you can find details of these rules at IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000). Details of spousal elections under the new rules are at IHTM47031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47031). Transitional rules will apply to existing domicile elections and details are at IHTM47041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47041).
+
+Both a lifetime and a death election (IHTM13042 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13042)) must contain the date from which the election is to take effect, IHTA84/S267ZB(3).
+
+That date must be:
+
+- on or after 6 April 2013, IHTA84/S267ZB(4)(a), and
+
+- be within a period of
+
+- in the case of a lifetime election, seven years of the date of the election, IHTA84/S267ZB(4)(b)(i),
+
+- in the case of a death election, seven years of the deceased’s death, IHTA84/S267ZB(4)(b)(ii).
+
+In addition, IHTA84/S267ZB(5) says that at the date on which the election is to take effect, the person making the election must have been married to, or in a civil partnership, with a person who was domiciled in the UK, IHTA84/S267ZB(4)(c) at that time. Note that there is no requirement for that person to be domiciled in the UK throughout the period from the date of the election takes effect until the date the election is made. The person making the election does not need to be married or in a civil partnership when the election is made (IHTM13042 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13042)).
+
+A consequence of this is that if a person domiciled in the UK makes a gift to their non-UK domiciled spouse or civil partner before 6 April 2013 and dies within seven years, the £55,000 limit that applies before that date continues to apply (IHTM11033 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11033)).
+
+Example
+
+In May 2012, Jane, who was domiciled in the UK transferred £400,000 to her civil partner Kate, who was not domiciled in the UK. Of this transfer, £55,000 is exempt under IHTA1984/S18(2), and £345,000 is a PET and assumed to be exempt. Jane dies in 2017. The gift is now a failed PET and after deduction of the nil rate band, £20,000 will be subject to tax.

@@ -1,0 +1,42 @@
+Peer to peer lending: Peer to peer tax relief for irrecoverable loans - Example
+Identifier: SAIM12220
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim12220
+Published: 2016-12-06T14:56:35+00:00
+Updated: 2017-03-06T13:43:34+00:00
+Retrieved (UTC): 2026-09-18T14:27:23.489453+00:00
+
+Tony S makes 10 identical loans of £10 at 10% interest per year on 6 April 2013 through platform ‘Zapo’. Tony S also makes 2 loans of £30 at 10% interest per year on 6 April 2014 through platform ‘SateRetter’. All these loans are interest only loans repayable in 5 years.
+
+On 25th November 2015, Sateretter contact Tony S to inform him that one of the loans has gone bad and is now irrecoverable.
+
+On 31st July 2017 Sateretter informs Tony S that £25 of the loan has been recovered.
+
+What is the tax effect?
+
+2013/14 year: In this year Tony S receives £10 in interest from his Zapo loans, which he suffers income tax on.
+
+2014/15 year: in this year Tony S receives £10 in interest from his Zapo loans and £6 in interest from his Sateretter loans, both of which he suffers income tax on
+
+2015/16 year: In this year Tony S’s income is £10 in interest from Zapo loans, and £3 from the Sateretter loan which has not become irrecoverable. One loan of £30 has become irrecoverable as the creditor has entered into financial difficulties.
+
+He can set this £30 off first against the interest received from the other Sateretter loan (£30-£3 = £27).
+
+He can then set the remainder of it off against other P2P interest received in the same year from loans made through Zapo (£27-£10 = £17). The remaining £17 can be carried forward.
+
+Tony S has no taxable P2P income left and therefore does not suffer the related income tax charge.
+
+Tony S has used £13 of the available £30 relief.
+
+2016/17 year: In this year Tony S’s income is £10 in interest from Zapo loans, and £3 from the remaining Pacesetter loan.
+
+He can use his carried forward relief against this income, taking his taxable P2P income to £0.
+
+The remaining relief of £4 (£17-£13 = £4) can be carried forward. Tony S has used £26 of relief.
+
+2017/2018 year: In this year Tony S’s P2P income is again £13. He also makes a recovery of £25 as a result of the liquidation of the former creditor who was deemed to not be able to repay the loan in 15/16. The full amount of the recovery is treated as interest received in 17/18 (as Tony S has already been given £26 of relief on that loan). The £25 is treated as P2P interest received in the year 2017/18 taking Tony S’s P2P income to £13+£25 = £38.
+
+Tony S uses his carried forward relief of £4 against this income, reducing his taxable P2P income to £34.
+
+Tony S also receives his principal back on the 5 Zapo loans on 5 April 2018. None of these loans have been treated as irrecoverable at any point, so none of the repayment of principal is taxed as interest.
+
+2018/19 year: In this year Tony S’s P2P income is the interest from the remaining Sateretter loan of £3, which he suffers income tax on.

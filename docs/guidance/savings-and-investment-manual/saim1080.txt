@@ -1,0 +1,52 @@
+Savings and investment income: rates of tax on savings and investment income
+Identifier: SAIM1080
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim1080
+Published: 2016-03-19T16:22:52+00:00
+Updated: 2019-12-13T10:24:15+00:00
+Retrieved (UTC): 2026-09-18T14:25:52.205713+00:00
+
+Rates of tax
+
+Particular provisions apply to the rates at which income tax is charged on ‘savings income’ and ‘dividend income’.
+
+SAIM1090 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim1090) explains the rules for determining what part of a person’s income these tax rates apply to.
+
+Savings income
+
+For the purposes of the tax rates which apply to income, ‘savings income’ is defined in ITA07/S18 as:
+
+- interest chargeable under ITTOIA05 Chapter 2 Part 4 (SAIM2000 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2000))
+
+- profits from deeply discounted securities chargeable under ITTOIA05 Chapter 8 Part 4 (SAIM3000 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3000))
+
+- income taxed under the Accrued Income Scheme (SAIM4000 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4000)).
+
+‘Savings income’ excludes ‘relevant foreign income’ charged on the ‘remittance basis’ (SAIM1140 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim1140)).
+
+Savings income: the starting rate for savings
+
+Savings income is taxable at the basic rate, except where it falls within the ‘starting rate limit for savings’ (for 2019-20 this amount is £5,000 - ITA07/S12) or is covered by the personal savings allowance (see below). Where it does so, income tax is charged at the ‘starting rate for savings, which is 0% (ITA07/S7).
+
+Savings income: Personal savings allowance
+
+From 2016-17 savings income not within the starting rate for savings may be covered by the personal savings allowance and charged to tax at 0%. The allowance applies to the first £1000 of savings income for basic rate taxpayers. For higher rate taxpayers the amount is £500 and there is no allowance for those taxable at the additional rate.
+
+Savings income: basic rate tax is repayable
+
+Basic rate tax paid on income chargeable at the starting rate for savings or covered by the personal savings allowance is repayable. ITA07/S17 allows for claims to be made outside of self-assessment.
+
+Dividend income: the dividend rates
+
+‘Dividend income’ is defined in ITA07/S19. It means dividends from UK resident companies, dividends from non-UK resident companies, stock dividends, loans to close company participators that are released or written off, and relevant foreign distributions (SAIM5000 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5000)).
+
+FA16/S5 introduced, along with the abolition of dividend tax credits (see below), a new ‘dividend allowance’ for tax years 2016-17 onwards. For 2016-17 and 2017-18 it applied to the first £5000 of an individual’s income. From 2018-19 and 2019-20 it applies to the first £2000. In fact the ‘allowance’ is a 0% tax rate inserted into ITA07/S8, as S8 (A1), properly called the ‘dividend nil rate’
+
+Dividend income which would otherwise be chargeable at the basic rate is chargeable at the dividend ordinary rate - ITA07/S13 (1), which was amended by FA16/S5 to 7.5%, formerly 10%. Dividend income that would otherwise be chargeable at the higher rate is chargeable at the dividend upper rate - ITA07/S13 (2). This rate was not amended by FA16/S5 and remains 32.5%. However, as with the dividend ordinary rate, the practical effect with abolition of tax credits was to increase the tax charge but subject to the introduction of the ‘dividend allowance’. Dividend income which would otherwise be chargeable at the additional rate is chargeable at the dividend additional rate - ITA07/S13 (2A). FA16/S5 set the dividend additional rate for 2016-17 at 38.1%, up from 37.5%.
+
+The tax credit available for tax years up to 2015-16 equal to 1/9 of the dividend (and thus equal to 10% of the dividend plus credit) attached to UK dividend income and certain foreign dividends was a credit against the tax liability on the dividend and not repayable. SAIM5090 onwards give more detail about dividend tax credits and their abolition.
+
+The gov.uk website gives up to date dividend income tax rates and allowances under ‘Tax on Dividends’.
+
+Trusts
+
+Different rates apply to the savings and dividend income received by trustees. For tax years 2013-14 and subsequently the trust rate at ITA07/S9 is 45% set by FA12/S1 (3)(b). The dividend trust rate is increased by FA16/S5 to 38.1% for tax year 2016-17, up from 37.5%. See the Trust and Estates Manual (TSEM3000 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3000)).

@@ -1,0 +1,66 @@
+Downsizing Calculations: where there is a qualifying residential interest in the estate: conditions
+Identifier: IHTM46061
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46061
+Published: 2017-04-05T16:55:38+01:00
+Updated: 2018-09-28T12:10:49+01:00
+Retrieved (UTC): 2026-09-18T15:11:03.402464+00:00
+
+Where there is a QRI (IHTM46011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46011)) in the estate at death there are six conditions that all need to be met. These are set out in IHTA84/S8FA(2) to (7) as conditions A to F. If all these conditions are met a ‘downsizing’ addition may apply.
+
+Broadly the conditions are that the deceased must have disposed of a residential property interest and the QRI in the estate must have a lower value at the date of death than the interest which had been disposed of. The value of the QRI in the estate must be less than the deceased’s default (IHTM46024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46024)) or adjusted (IHTM46025 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46025)) allowance (if not there will be no downsizing addition). The QRI does not need to have been closely inherited on the death, but there must have been other assets that were closely inherited on the death.
+
+Specifically the conditions are:
+
+Condition A
+
+Is that one or other of the following circumstances applies. Either
+
+- The person’s estate includes a QRI and the value of the QRI which is closely inherited is less than the default or adjusted allowance, or
+
+- The person’s estate includes a QRI that is not closely inherited, but the value of that QRI is less than the default or adjusted allowance.
+
+Condition B
+
+Is that not all of the value transferred by the chargeable transfer on death is attributable to the person’s QRI.
+
+In other words there must be other chargeable property on the death apart from the QRI.
+
+Example 1
+
+John dies and in his will he leaves a half share in his house (a QRI) to his daughter and the rest of his estate to his wife. In this case the chargeable transfer on death is only attributable to the value of the QRI (everything else is exempt) and so condition B is not met.
+
+Condition C
+
+Is that there is a QFRI (IHTM46053 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46053)) in relation to the person.
+
+This means the deceased must have disposed of a residential property interest in their lifetime and on or after 8 July 2015.
+
+Condition D
+
+Is that the value of the QFRI must be greater than the value transferred by the chargeable transfer on death that is attributable to the person’s QRI.
+
+Essentially the interest disposed of in the lifetime must have been more valuable than the interest that is in the estate at the date of death.
+
+Example 2
+
+Janet sold her home for £200,000 in October 2016 and bought a flat for £90,000. She dies in January 2018, leaving an estate valued at £350,000. At the time of Janet’s death the flat is worth £110,000. Janet leaves legacies totalling £15,000 to charities and the residue of her estate to her son. The value of the chargeable transfer on death which is attributable to the QRI is £110,000. The value of the QFRI is £200,000. As a result, the value of the QRI exceeds the value of the chargeable transfer on death which is attributable to the QRI and condition D is met.
+
+Condition E
+
+Is that at least some of the remainder is closely inherited (IHTM46013 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46013)), where the remainder means everything included in the person’s estate immediately before the person’s death other than the person’s QRI.
+
+This means that property or assets other than the QRI must be closely inherited on the death.
+
+Example 3
+
+The facts are the same as the previous example, except that Janet leaves her flat valued at £110,000 and bank balances of £75,000 to her sister. She leaves £15,000 to charity and the residue to her son. Janet’s estate is valued at £350,000, of which £110,000 is the value of the QRI (her flat). The ‘remainder’ of her estate is therefore £240,000. Janet’s sister inherits £75,000 of the ‘remainder’ and a further £15,000 goes to charities. Janet’s son inherits £150,000 of the ‘remainder’, so condition E is met.
+
+Condition F
+
+Is that a claim is made for the addition in accordance with IHTA84/S8L(1) to (3)
+
+The personal representatives, or other persons liable to the tax chargeable, must make a claim for a downsizing addition to apply. They have to make this claim within 2 years from the end of the month in which the death occurs, or (if it ends later) 3 months beginning with the date on which the personal representatives first started to act. In some circumstances HMRC may allow a late claim.
+
+Where conditions A to F are met it is necessary to calculate the lost relievable amount (IHTM46059 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46059)). Essentially this is the amount of RNRB that has been lost by the disposal or downsizing. The rules for this calculation are set out in IHTA84/S8FE.
+
+The actual amount of the downsizing addition will be the lower of the lost relievable amount and the value of the ‘remainder’ that is closely inherited.

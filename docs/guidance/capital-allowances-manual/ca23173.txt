@@ -1,0 +1,48 @@
+Plant and Machinery Allowance (PMA): First Year Allowance (FYA): Super-Deduction and Special Rate (SR) Allowance: Disposal of assets on which SR allowance has been claimed
+Identifier: CA23173
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23173
+Published: 2021-11-10T18:15:53+00:00
+Updated: 2021-11-10T18:15:52+00:00
+Retrieved (UTC): 2026-09-18T16:21:46.192545+00:00
+
+FA21/S13
+
+Where a disposal event occurs on or after 1 April 2021 in respect of expenditure on the provision of plant or machinery which is SR allowance expenditure and an SR allowance has been claimed in respect of all or part of the expenditure (see CA23163 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23163)), a balancing charge arises for that disposal. The balancing charge arises in the chargeable period in which the disposal event occurs.
+
+The balancing charge is the ‘relevant proportion’ of the disposal value of the plant or machinery. The disposal value is calculated in the normal way. There is guidance on disposal events at CA23240 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240) and on disposal values at CA23250 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23250).
+
+Calculating the ‘relevant proportion’
+
+The relevant proportion is determined by dividing the amount of ‘relevant SR allowance expenditure’ incurred in respect of the plant or machinery by 2, and then dividing that amount by the amount of ‘total relevant expenditure’ in relation to that plant or machinery.
+
+‘Relevant SR allowance expenditure’ is the amount of expenditure in respect of which an SR allowance has been claimed.
+
+‘Total relevant expenditure’ is the total amount of the following expenditure incurred on the provision of the plant or machinery:
+
+- relevant SR allowance expenditure
+
+- any expenditure in respect of which any other first-year allowance was made
+
+- any expenditure that is not relevant SR allowance expenditure that was allocated to a pool for any chargeable period including the period in which the disposal event occurs.
+
+Example
+
+Echo Ltd has an accounting period ended 31 December. Echo Ltd incurs £1,000,000 on a long-life asset on 1 September 2022 and claims a SR allowance of £500,000 in respect of the SR allowance expenditure of £1,000,000 in its chargeable period ended 31 December 2022.
+
+The asset is sold for £500,000 on 1 September 2025. This disposal event is liable to a balancing charge. The relevant SR allowance expenditure is £1,000,000. The total relevant expenditure is also £1,000,000. Therefore, the relevant proportion is calculated as follows:
+
+- Divide the amount of relevant SR allowance expenditure by 2: £1,000,000 ÷ 2 = £500,000.
+
+- Divide the result at Step 1 by the amount of total relevant expenditure: £500,000 ÷ £1,000,000 = 0.5.
+
+A balancing charge of £500,000 x 0.5 = £250,000 arises on disposal. The residual disposal value of £250,000 not subject to a balancing charge is taken to the pool in the normal way.
+
+Miscellaneous Provisions Relating to Disposal
+
+Total Disposal Receipts
+
+CAA01/S55 determines entitlement to a capital allowance, or liability to a balancing charge, in respect of a pool. As explained at CA23200 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23200), when determining that entitlement or liability, the total disposal receipts (TDR) required to be brought into account are deducted from available qualifying expenditure (AQE). In order to ensure that disposal receipts which are subject to a balancing charge are not also deducted from AQE for the pool to which the SR allowance expenditure (see CA23163) was allocated, TDR for that pool is reduced by the amount of the balancing charge.
+
+Deferment of Balancing Charges: Ships
+
+A balancing charge in respect of a ship cannot be deferred under CAA01/S135(1) if the expenditure on the ship was SR allowance expenditure on which an SR allowance has been claimed. There is guidance on the deferment of balancing charges for ships available at CA25300 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25300).

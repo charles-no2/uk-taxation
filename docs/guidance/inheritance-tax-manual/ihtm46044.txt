@@ -1,0 +1,94 @@
+Transfer of unused RNRB: effect of tapering
+Identifier: IHTM46044
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46044
+Published: 2018-09-28T09:14:49+01:00
+Updated: 2018-10-18T14:46:54+01:00
+Retrieved (UTC): 2026-09-18T15:11:00.024949+00:00
+
+Where an estate exceeds the taper threshold (IHTM46023 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46023)), the default allowance (IHTM46024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46024)) is reduced and instead the estate has an adjusted allowance (IHTM46025 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46025)). Examples of how the default and adjusted allowance are calculated are set out at IHTM46026 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46026).
+
+Tapering of a person’s default allowance can reduce either, or both, of:
+
+- The amount of the unused residence nil rate band (RNRB) that is available to transfer to the estate of a surviving spouse or civil partner,
+
+- The total amount of RNRB that is available on the survivor’s death.
+
+Example 1 – partial tapering in the first estate
+
+Maria’s civil partner, Monique, died in March 2010 with an estate valued at £2,050,000. Half of Monique’s estate was left to Maria and half to Monique’s sister.
+
+In accordance with IHTA84/S8G(4)(a) Monique’s estate is treated as having unused RNRB (or carry-forward amount) of £100,000. However, because Monique’s estate was greater than the taper threshold, IHTA84/S8G(5) reduces this carry-forward amount.
+
+As Monique’s estate exceeds the taper threshold by £50,000, the carry-forward amount of £100,000 is reduced by £1 for every £2 that her estate exceeds the taper threshold. Monique’s carry-forward amount of £100,000 is therefore reduced by £25,000 to £75,000.
+
+Maria dies in September 2019 when the residential enhancement (IHTM46022 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46022)) is £150,000. Maria leaves an estate valued at £1,450,000 which includes her house worth £375,000. Maria leaves the whole of her estate to her son.
+
+Maria’s estate is entitled to a residential enhancement of £150,000. In addition Maria’s estate is entitled to claim a brought forward allowance from Monique’s estate.
+
+The brought-forward allowance from Monique’s estate is calculated, in accordance with IHTM46041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46041), as 75% (£75,000 ÷ £100,000) of the residential enhancement that is in force at Maria’s date of death (£150,000). The brought-forward amount is therefore £112,500 (75% × £150,000).
+
+Maria’s estate has a default allowance of £262,500 (£150,000 + £112,500).
+
+As Maria’s estate is below the taper threshold the default allowance is not reduced.
+
+Maria leaves her house worth £375,000 to her son. Maria’s estate is entitled to RNRB equal to the lower of £262,500 (her default allowance) or the value of the residence that is left to her son (£375,000). Maria’s estate therefore qualifies for RNRB of £262,500.
+
+Example 2 – complete tapering in the first estate
+
+John died in 2001 leaving an estate of £5.5 million, including £5m of shares in the family company which qualify for business relief at 100%. The shares were left to a discretionary trust and the remaining £500,000, including John’s half share in the family home, was left to his widow, Julia.
+
+Although John died in 2001, well before the RNRB was brought in, his estate is treated as having unused RNRB (or carry-forward amount) of £100,000 under IHTA84/S8G(4)(a).
+
+However, John’s estate was valued at £5.5 million before exemptions and reliefs. It therefore exceeded the taper threshold and IHTA84/S8G(5) reduces the carry-forward amount to nil.
+
+On Julia’s death, in June 2018, her estate was valued at £1.2 million, including her £650,000 home. She left her whole estate to her children.
+
+Julia’s estate is entitled to a residential enhancement of £125,000. Due to the effect of tapering, there is no brought forward allowance available from John’s estate.
+
+Julia’s estate therefore has a default allowance of £125,000.
+
+As Julia’s estate is below the taper threshold the default allowance is not reduced.
+
+Julia leaves her house worth £650,000 to her children. Julia’s estate is entitled to RNRB equal to the lower of £125,000 (her default allowance) or the value of the residence that is left to her children (£650,000). Julia’s estate therefore qualifies for RNRB of £125,000.
+
+Example 3 – tapering in the second estate
+
+Zac and Yasuo are civil partners. They jointly own a house worth £1.4 million.
+
+Zac dies in February 2019, when the residential enhancement is £125,000. His estate is valued at £1.2 million including his half share of the house worth £700,000. Zac’s estate all passes to Yasuo.
+
+Zac’s estate was entitled to a residential enhancement of £125,000 and didn’t use any of it, so there is £125,000 of unused RNRB (or carry-forward amount) available to transfer. Zac’s estate was below the taper threshold so this unused RNRB is not reduced or tapered away.
+
+Yasuo dies in March 2021, when the residential enhancement is £175,000. His estate is then worth £2.2 million, including the house which is now worth £1.6 million. Yasuo leaves the whole of his estate to his and Zac’s three children.
+
+Yasuo’s estate is entitled to a residential enhancement of £175,000. In addition Yasuo’s estate is entitled to claim a brought-forward allowance from Zac’s estate.
+
+The brought-forward allowance from Zac’s estate is calculated, as explained at IHTM46041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46041), as 100% of the residential enhancement that is in force at Yasuo’s date of death, or £175,000.
+
+Yasuo’s estate therefore has a default allowance of £350,000 (£175,000 + £175,000).
+
+However, Yasuo’s estate exceeds the £2 million taper threshold by £200,000. The default allowance of £350,000 is therefore reduced by £100,000, being a reduction of £1 for every £2 his estate exceeds the taper threshold. Instead of a default allowance of £350,000, Yasuo’s estate is instead entitled to an adjusted allowance of £250,000.
+
+Yasuo leaves his house worth £1.6 million to his children. Yasuo’s’s estate is entitled to RNRB equal to the lower of his adjusted allowance (£250,000) or the value of the residence that is left to his children (£1.6 million). Yasuo’s estate therefore qualifies for RNRB of £250,000.
+
+If the value Yasuo’s estate had exceed £2.7 million, his default allowance would have been tapered away completely and his adjusted allowance would have been nil. In that case Yasuo’s estate would not have qualified for any RNRB and Zac’s unused RNRB would effectively be lost.
+
+Example 4 – tapering in both estates
+
+Clyde’s wife Joelle died in November 2014, with an estate valued at £2,075,000. Joelle left one third of her estate to her niece, one third to her nephew and one-third to Clyde.
+
+In accordance with IHTA84/S8G(4)(a) Joelle’s estate is treated as having unused RNRB (or carry-forward amount) of £100,000. However, because Joelle’s estate was greater than the taper threshold, IHTA1984/S8G(5) reduces this carry-forward amount.
+
+As Joelle’s estate exceeds the taper threshold by £75,000, the carry-forward amount of £100,000 is reduced by £1 for every £2 that her estate exceeds the taper threshold. Joelle’s carry-forward amount of £100,000 is therefore reduced by £37,500 to £62,500.
+
+Clyde dies in July 2020 when the residential enhancement is £175,000. Clyde leaves an estate valued at £2,100,000 which includes his house worth £750,000. Clyde leaves the half of his estate to his son and a quarter each to Joelle’s nephew and niece.
+
+Clyde’s estate is entitled to a residential enhancement of £175,000. In addition Clyde’s estate is entitled to claim a brought-forward allowance from Joelle’s estate
+
+The brought-forward allowance from Joelle’s estate is calculated, as explained at IHTM46041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46041), as 62.5% (£62,500 ÷ £100,000) of the residential enhancement that is in force at Clyde’s date of death (£175,000). The brought-forward amount is therefore £109,375 (62.5% × £175,000).
+
+Clyde’s estate has a default allowance of £284,375 (£175,000 + £109,375).
+
+However, Clyde’s estate exceeds the £2 million taper threshold by £100,000. The default allowance of £284,375 is therefore reduced by £50,000, being a reduction of £1 for every £2 his estate exceeds the taper threshold. Instead of a default allowance of £284,375, Clyde’s estate is instead entitled to an adjusted allowance of £234,375.
+
+Clyde leaves his half of his estate to his son, so his son is treated as receiving half of Clyde’s £750,000 house. Clyde’s’s estate is entitled to RNRB equal to the lower of £234,375 (his adjusted allowance) or the value of the share of the residence that is left to his son (£375,000). Clyde’s estate therefore qualifies for RNRB of £234,375.

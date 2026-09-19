@@ -1,0 +1,40 @@
+Indexation: disposals 4/85 to 3/88: example: no gain/loss
+Identifier: CG17600
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17600
+Published: 2016-03-12T10:18:14+00:00
+Updated: 2023-04-13T11:22:37+01:00
+Retrieved (UTC): 2026-09-18T14:38:38.600636+00:00
+
+5 June 1970 A Ltd acquired a property for £100,000.
+
+5 September 1984 it transferred the property to B Ltd a fellow group member within the meaning of ICTA70/S272, now TCGA92/S170.
+
+5 November 1985 company B disposed of the property outside the group for £800,000.
+
+The market value of the property at 31 March 1982 was £680,000 and company B makes a claim for this to be substituted for the relevant allowable expenditure on the property up to 31 March 1982.
+
+Ignoring any cost of transfer etc, the gain is computed as follows:-
+
+- |  - |  - |  £ |
+
+Disposal by A |  - |  - |  - |
+
+- |  Cost |  - |  100,000 |
+
+Plus |  Indexation |  100,000 x 0.134 |  13,400 |
+
+- |  Deemed sale proceeds |  - |  113,400 |
+
+Disposal by B |  - |  - |  - |
+
+- |  Disposal proceeds |  - |  800,000 |
+
+- |  Deemed cost |  113,400 |  - |
+
+Less |  Indexation given to A Ltd |  13,400 |  100,000 |
+
+- |  Unindexed gain |  - |  700,000 |
+
+Less |  Indexation given to A Ltd |  680,000 x 0.207 |  140,760 |
+
+- |  INDEXED GAIN |  - |  559,240 |

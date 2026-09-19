@@ -1,0 +1,30 @@
+Repayments: issue repayment: method of repayment
+Identifier: SAM110115
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam110115
+Published: 2016-04-08T17:13:23+01:00
+Updated: 2016-04-14T10:34:10+01:00
+Retrieved (UTC): 2026-09-18T16:20:01.032939+00:00
+
+The method of repayment can be one of the following
+
+- Repayment to card. The limit for a repayment of this method is £98,600
+
+- Payable Order. The limit for a repayment by this method is £150,000
+
+- BACS. The limit for a repayment by this method is £90 million
+
+- CHAPS. The limit for a repayment by this method is £90,000 million
+
+- Local Office Payment. The limit for a repayment by this method is £90,000 million
+
+Note:
+
+If the repayment method is either CHAPS or Local Office Payment the repayment cannot be issued through the SA system.
+
+You will therefore need to use function CONFIRM MANUAL REPAYMENT following the issue of the repayment to record the following details
+
+- The actual issue date
+
+- The CHAPS reference or Payable Order serial number as appropriate
+
+- Whether notification of the repayment was sent to the agent

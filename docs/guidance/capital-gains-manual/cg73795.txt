@@ -1,0 +1,33 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Individuals: Special rules, and computation: Cases where asset acquired after 5 April 2015, or election made for retrospective basis of computation
+Identifier: CG73795
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73795
+Published: 2018-10-18T08:47:55+01:00
+Updated: 2019-10-11T09:31:22+01:00
+Retrieved (UTC): 2026-09-18T14:46:33.102791+00:00
+
+Sch 4ZZB/para 9 applies to cases where the asset was acquired after 5 April 2015; or was held on that date and the person made an election under Sch 4ZZB/para 2 to compute gains or losses on the basis of the retrospective basis of computation.
+
+In the case of assets acquired after 5 April 2015, it is only necessary to apportion the gain or loss on a disposal of a UK residential property interest, between periods for which the property was used for residential purposes, and periods when it was not. (The question of rebasing and apportioning into pre and post April 2015 elements does not of course arise.)
+
+But in some cases taxpayers may find it advantageous to use the same method of computation for computing the gain or loss where the asset disposed of was held at 5 April 2015, the simple calculation reflecting the position over the whole period of ownership. Sch 4ZZB/para 2(1)(b) allows them the option of electing for the “retrospective basis of computation”.
+
+The non-resident CGT gain or loss accruing on the disposal is computed as follows -
+
+- Step 1, determine the amount of the gain or loss which accrues to the person. (For this purpose no account is taken of Sch 4ZZB - or TCGA92/S57B, the provision which introduces Sch 4ZZB - apart from Sch 4ZZB/para 23, Indexation.)
+
+- Step 2, the NRCGT gain or loss is the relevant fraction of that gain or loss (but see Step 3).
+The “relevant fraction” is -
+
+RD
+
+TD
+
+where “RD” is the number of days in the relevant ownership period on which the land in question consists wholly or partly of a dwelling; and “TD” is the total number of days in the relevant ownership period. The “relevant ownership period” means the period from the day on which the person acquired the disposed of interest or, if later, 31 March 1982, to the day before the day on which the disposal occurs.
+
+- Step 3, if there has been mixed use of the land (it consists partly, but not exclusively, of one or more dwellings) on one or more days in the relevant ownership period, the NRCGT gain or loss accruing on the disposal is equal to the appropriate fraction of the amount given by Step 2. The “appropriate fraction” is the fraction, attributable to the dwellings on a just and reasonable apportionment.
+
+The gain or loss accruing on the disposal which is not an NRCGT gain or loss is computed as follows -
+
+- Step 1, where there is a gain under Step 1 above, find the amount of that gain remaining after the deduction of the NRCGT gain. That remaining gain is the gain accruing on the disposal which is not an NRCGT gain.
+
+- Step 2, where there is a loss under Step 1 above, find the amount of that loss remaining after deduction of the NRCGT loss. That remaining loss is the loss accruing on the disposal which is not an NRCGT loss.

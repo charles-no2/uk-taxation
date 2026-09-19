@@ -1,0 +1,32 @@
+Calculating the chargeable estate: quantifying the amount which is chargeable and the amount which is exempt
+Identifier: IHTM26002
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26002
+Published: 2016-04-09T09:46:46+01:00
+Updated: 2016-02-11T17:11:50+00:00
+Retrieved (UTC): 2026-09-18T15:02:56.149151+00:00
+
+The main purpose of the partly exempt transfer rules is to provide a method of calculating the part of the deceased’s estate which is exempt. The balance is then chargeable.
+
+The rules (IHTM26071 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26071)) operate by allocating the value of the estate between specific and residuary gifts. The rules apply separately at each title (IHTM26211 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26211)).
+
+It is normally not necessary to go through the full process in the following situations
+
+- There are no specific gifts (IHTM26040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26040))
+
+- The residue is wholly chargeable (IHTM26030 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26030))
+
+- The residue is partly chargeable but there are no chargeable specific gifts (IHTM26050 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26050))
+
+- There are chargeable specific gifts but the residue is wholly exempt (IHTM26060 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26060))
+
+The rules for quantifying the chargeable estate are mainly contained in IHTA84/S38 and IHTA84/S39. To apply the rules you will need to
+
+- calculate the value (IHTM26013 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26013)) of each specific gift (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003)) under the rules, and
+
+- then calculate the residue (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003)) by deducting the total value of the specific gifts from the value of the free estate (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003)) for Inheritance Tax (IHT) purposes. The difference is the value of the residue.
+
+To find the chargeable part of the estate
+
+- add together the value of the exempt specific gifts and exempt shares of the residue
+
+- then deduct this total from the value of the free estate for IHT purposes. The difference is the value on which tax is chargeable

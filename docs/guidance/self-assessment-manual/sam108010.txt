@@ -1,0 +1,62 @@
+Records: SA and permanent notes: maintain permanent notes
+Identifier: SAM108010
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam108010
+Published: 2016-04-08T17:11:58+01:00
+Updated: 2026-08-12T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:55.470200+00:00
+
+Notes with a long-term value and likely to be useful to any office who might work the case should be recorded using function MAINTAIN PERMANENT NOTES.
+
+Examples include
+
+- Agreed valuation
+
+- Bankruptcy
+
+- Bankruptcy voluntary agreement
+
+- Blindness
+
+- Capital gains acquisition
+
+- Capital gains disposal
+
+- Capital gains losses
+
+- Double taxation
+
+- Name change
+
+- New NINO
+
+- Overlap relief
+
+- Power of attorney
+
+- Probate
+
+- Residence ruling
+
+- S9A enquiry closed
+
+- Trading losses
+
+- Transitional relief
+
+All Permanent Notes should be obtained from the SEES Notes Paster. No other information must be recorded in function MAINTAIN PERMANENT NOTES.
+
+Any operator with the SA CLPO Clerical Processing Officer and CLCW Clerical Caseworker - Technical roles can view existing Permanent Notes and record a new Permanent Note by using function MAINTAIN PERMANENT NOTES.
+
+After adding a new Permanent Note the computer will automatically add the
+
+- Date the Permanent Note was recorded
+
+- Office Role (Processing Office or Technical Office)
+
+- Your Personal Identification Number (PID)
+
+And
+
+- Office Identifier
+
+Once recorded, Permanent Notes can be amended by an authorised operator.

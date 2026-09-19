@@ -1,0 +1,320 @@
+Lump sum allowance and lump sum and death benefit allowance: Enhancement factors: Applying enhancement factors at relevant benefit crystallisation events
+Identifier: PTM175500
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175500
+Published: 2024-03-27T00:15:08+00:00
+Updated: 2024-05-10T07:33:55+01:00
+Retrieved (UTC): 2026-09-18T14:50:34.388933+00:00
+
+As of 6 April 2024 there is no longer lifetime allowance. If you are looking for information about protections, enhancement factors and the lifetime allowance charge please see these pages on The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022829/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm090000). If you are looking for information about the principles of lifetime allowance and benefit crystallisation events please see these pages of The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022836/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm080000).
+
+Relevant benefit crystallisation event and enhancement factors (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175500#rBCEandEF)
+Applying enhancement factors without protections (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175500#noprotections)
+Applying enhancement factors with protections (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175500#withprotections)
+
+If you are looking for information about enhancement factors pre-April 2024 please see The National Archive (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305085920/https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm095000).
+
+The below guidance applies for individuals with an existing enhancement factor or notified of an entitlement to an enhancement factor between the 6 April 2024 to 5 April 2025.
+
+Relevant benefit crystallisation event and enhancement factors
+
+Section 637S ITEPA 2003
+Paragraph 20H Schedule 36 Finance Act 2004
+
+An enhancement factor can be applied when an individual has the first relevant benefit crystallisation event to determine an individual’s lump sum and death benefit allowance.
+
+For the purposes of enhancement factors a relevant benefit crystallisation event occurs when an individual becomes entitled to a relevant lump sum death benefit, which is any lump sum death benefit other than:
+
+- A charity lump sum death benefit (PTM073900 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073900))
+
+- A trivial commutation lump sum death benefit (PTM073700 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073700))
+
+This also includes the following relevant lump sums:
+
+- A serious-ill health lump sum (PTM063400 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063400))
+
+Applying enhancement factors without protections
+
+Paragraph 20H Schedule 36 Finance Act 2004
+
+The following applies to all lump sum and death benefit allowance enhancement factors when an individual does not have any additional protections.
+
+For all relevant benefit crystallisation events that occur the lump sum and death benefit allowance is calculated using this formula:
+
+£1,073,100 + (£1,073,100 x EF)
+
+EF is the lump sum and death benefit allowance enhancement factor, which is the aggregate of all enhancement factors in relation to the relevant benefit crystallisation even.
+
+Example
+
+Drew transferred £200,000 from his arrangement under a recognised overseas pension scheme to a registered pension scheme on 1 January 2022. He notified HMRC of his entitlement to an overseas transfer enhancement factor on 15 May 2024.
+
+Drew does not have a relevant relievable amount.
+
+The standard lifetime allowance in the 2021-22 tax year is £1,073,100.
+
+£200,000 / £1,073,100 = 0.19
+
+Drew’s enhancement factor is 0.19
+
+Drew dies on 23 May 2030, a relevant benefit crystallisation event occurs when a relevant lump sum death benefit of £200,000 is paid to his beneficiary on 7 July 2030.
+
+Drew’s enhanced lump sum and death benefit allowance is calculated. He has no protections.
+
+£1,073,100 + (£1,073,100 x 0.19) = £1,276,989
+
+The relevant lump sum death benefit is then deducted from this figure.
+
+£1,276,989 - £200,000 = £1,076,989
+
+The beneficiary is not liable for any income tax at their marginal rate as the death benefit has not exceeded the Drew’s enhanced lump sum and death benefit allowance. Drew’s available lump sum and death benefit allowance at 7 July 2030 is £1,076,989.
+
+A subsequent relevant benefit crystallisation event occurs on the 20 July 2030 when £1,000,000 from another pension scheme is paid to Drew's beneficiary.
+
+His enhanced lump sum and death benefit allowance is £1,276,989.
+
+The relevant lump sum death benefit is then deducted from this figure.
+
+£1,276,989 - £1,000,000 = £276,989
+
+The lump sum is paid and the previous relevant crystallisation event is then deducted to determine Drew's remaining available lump sum and death benefit allowance.
+
+£276,989 - £200,000 = £76,989
+
+The beneficiary is not liable for any income tax at their marginal rate as the death benefit has not exceeded the lump sum and death benefit allowance of Drew.
+
+Historic Enhancement Factors
+
+Individual’s that gave notification of their intent to rely on enhancement factors prior to 6 April 2024 and have received a certificate confirming their enhancement factor can utilise this for the above calculation.
+
+Example
+
+Shelly notified HMRC of her intention to rely on an enhancement factor and received a non-residence factor of 0.32 on 15 March 2015.
+
+On 25 April 2025, a relevant benefit crystallisation event occurs as a result of Shelly receiving a serious ill-health lump sum of £1,500,000.
+
+Shelly’s enhanced lump sum and death benefit allowance is calculated. She has no protections.
+
+£1,073,100 + (£1,073,100 x 0.32) = £1,627,020
+
+Her enhanced lump sum and death benefit allowance is £1,627,020.
+
+The enhanced lump sum is then deducted from this figure.
+
+£1,627,020 - £1,500,000 = £127,020
+
+Shelly is not liable for any income tax at their marginal rate as the relevant lump sum has not exceeded the lump sum and death benefit allowance.
+
+Applying enhancement factors with protections
+
+Primary Protection factor
+
+Paragraph 7(5)-(7) Schedule 36 Finance Act 2004
+
+Individual’s with primary protection are entitled to a primary protection factor. Individual’s who have valid primary protection prior to 6 April 2024 will already have their enhancement factor. For individuals who make a valid late application for primary protection on or after 6 April 2024, HMRC will calculate the enhancement factor in the following way:
+
+1. Aggregate the value of the individual’s relevant uncrystallised pension rights on 5 April 2006 and the value of the individual’s relevant crystallised pension rights on that date.
+
+2. Deduct £1,500,000 from the result of step 1.
+
+3. Divide the result of step 2 by £1,500,000.
+
+Example
+
+Myra makes a valid late application for primary protection on 5 July 2024. Myra’s primary protection factor needs to be calculated.
+
+On 5 April 2006 Myra had uncrystallised pension rights of £2,500,000 and £100,000 crystallised pension rights.
+
+£2,500,000 + £100,000 = £2,600,000
+
+£2,600,000 - £1,500,000 = £1,100,000
+
+£1,100,000 / £1,500,000 = 0.73
+
+Myra has a primary protection enhancement factor of 0.73
+
+Primary Protection
+
+Paragraphs 7 and 20H Schedule 26 Finance Act 2004
+
+For all relevant benefit crystallisation events that occur where the individual has valid primary protection, the individual’s enhanced lump sum and death benefit allowance is calculated using this formula:
+
+£1,800,000 + (£1,800,000 x EF)
+
+EF is the lump sum and death benefit allowance enhancement factor, which is the aggregate of all enhancement factors in relation to the relevant benefit crystallisation event.
+
+Example
+
+Using the example above, Myra has a primary protection enhancement factor of 0.73.
+
+Myra dies on 21 June 2025, a relevant benefit crystallisation event occurs when a relevant lump sum death benefit of £1,500,000 is paid to her beneficiary on 7 September 2025.
+
+Myra’s enhanced lump sum and death benefit allowance is calculated. She has primary protection.
+
+£1,800,000 + (£1,800,000 x 0.73) = £3,114,000
+
+Her enhanced lump sum and death benefit allowance is £3,114,000.
+
+The relevant lump sum death benefit is then deducted from this amount.
+
+£3,114,000 - £1,500,000 = £1,614,000
+
+The beneficiary is not liable for any income tax at their marginal rate as Myra’s enhanced lump sum and death benefit allowance has not been exceeded.
+
+Fixed protection 2012
+
+Paragraph 20H Schedule 36 Finance Act 2004
+Paragraph 14 Schedule 16 Finance Act 2011
+
+For all relevant benefit crystallisation events that occur where the individual has valid FP 2012, the individual’s lump sum and death benefit allowance is calculated using this formula:
+
+£1,800,000 + (£1,800,000 x EF)
+
+EF is the lump sum and death benefit allowance enhancement factor, which is the aggregate of all enhancement factors in relation to the relevant benefit crystallisation event.
+
+Example
+
+Oscar notified HMRC of his entitlement to an overseas scheme transfer enhancement factor on 17 June 2016, his overseas scheme transfer enhancement factor is 0.2. Oscar notified HMRC of his entitlement to a non-residence factor on 23 July 2024, his non-residence factor was 0.3.
+
+Oscar’s total lump sum and death benefit allowance enhancement factor is therefore 0.5 (0.3+0.2).
+
+On 25 September 2026 a relevant benefit crystallisation event occurs as a result of Oscar receiving a serious ill-health lump sum of £1,500,000.
+
+Oscar’s enhanced lump sum and death benefit allowance is calculated. He has valid fixed protection 2012.
+
+£1,800,000 + (£1,800,000 x 0.5) = £2,700,000
+
+His enhanced lump sum and death benefit allowance is £2,700,000.
+
+The relevant lump sum is then deducted from this amount.
+
+£2,700,000 - £1,500,000 = £1,200,000
+
+Oscar is not liable for any income tax at his marginal rate as he has not exceeded his enhanced lump sum and death benefit allowance.
+
+Fixed protection 2014
+
+Paragraph 20H Schedule 36 Finance Act 2004
+Paragraph 1 Schedule 22 Finance Act 2014
+
+For all relevant benefit crystallisation events that occur where the individual has valid FP 2014, the individual’s enhanced lump sum and death benefit allowance is calculated using this formula:
+
+£1,500,000 + (£1,500,000 x EF)
+
+EF is the lump sum and death benefit allowance enhancement factor, which is the aggregate of all enhancement factors in relation to the relevant benefit crystallisation event.
+
+Example
+
+Roger notified HMRC of his entitlement to a pension credit factor on 25 August 2024, his pension credit factor was 0.2.
+
+On 30 September 2029 a relevant benefit crystallisation event occurs as a result of Roger receiving a serious ill-health lump sum of £1,000,000.
+
+Rogers’s enhanced lump sum and death benefit allowance is calculated. He has valid fixed protection 2014.
+
+£1,500,000 + (£1,500,000 x 0.2) = £1,800,000
+
+His enhanced lump sum and death benefit allowance is £1,800,000
+
+The relevant lump sum death benefit is then deducted from this amount.
+
+£1,800,000 - £1,000,000 = £800,000
+
+Oscar is not liable for any income tax at his marginal rate as he has not exceeded his enhanced lump sum and death benefit allowance.
+
+Fixed protection 2016
+
+Paragraph 20H Schedule 36 Finance Act 2004
+Paragraph 1 Schedule 4 Finance Act 2014
+
+For all relevant benefit crystallisation events that occur where the individual has valid FP 2016, the individual’s lump sum and death benefit allowance is calculated using this formula:
+
+£1,250,000 + (£1,250,000 x EF)
+
+EF is the lump sum and death benefit allowance enhancement factor, which is the aggregate of all enhancement factors in relation to the relevant benefit crystallisation event.
+
+Example
+
+Debora notified HMRC of her entitlement to a pension credit factor on 30 August 2021, her pension credit factor was 0.25.
+
+Debora dies on 28 October 2030, a relevant benefit crystallisation event occurs when a relevant lump sum death benefit of £1,000,000 is paid to her beneficiary on 17 November 2030.
+
+Debora’s enhanced lump sum and death benefit allowance is calculated. She has fixed protection 2016.
+
+£1,250,000 + (£1,250,000 x 0.25) = £1,562,500
+
+Her enhanced lump sum and death benefit allowance is £1,562,500.
+
+The relevant lump sum death benefit is then deducted from this amount.
+
+£1,562,500 - £1,500,000 = £62,500
+
+The beneficiary is not liable for any income tax at their marginal rate as Debora's enhanced lump sum and death benefit allowance hasn’t been exceeded.
+
+Individual protection 2014
+
+Paragraph 20H Schedule 36 Finance Act 2004
+Paragraph 1 Schedule 6 Finance Act 2014
+
+For all relevant benefit crystallisation events that occur where the individual has valid IP 2014, the individual’s lump sum and death benefit allowance is calculated using this formula:
+
+IP 2014 amount + (IP 2014 amount x EF)
+
+Where the individual’s “IP 2014 amount” is the lower of their relevant amount or £1,500,000.
+
+Relevant amount is the total value on 5 April 2024 of the member’s pension rights in all their relevant arrangements. You can read more about the relevant amount for IP 2014 at PTM176520 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176520).
+
+EF is the lump sum and death benefit allowance enhancement factor, which is the aggregate of all enhancement factors in relation to the relevant benefit crystallisation event.
+
+Example
+
+Rose notified HMRC of her entitlement to a pension credit factor on 25 January 2023, her pension credit factor was 0.4.
+
+On 30 September 2029 a relevant benefit crystallisation event occurs as a result of Rose receiving a serious ill-health lump sum of £1,250,000.
+
+Rose’s enhanced lump sum and death benefit allowance is calculated. She has valid individual protection 2014.
+
+The relevant amount is the total value on 5 April 2014 of the member’s pension rights in all their relevant arrangements, Rose’s relevant amount is £1,600,000, therefore £1,500,000 is the lesser amount. £1,500,000 is therefore used to calculate Rose’s enhanced lump sum and death benefit allowance.
+
+£1,500,000 + (£1,500,000 x 0.4) = £2,100,000
+
+Her enhanced lump sum and death benefit allowance is £2,100,000
+
+The relevant lump sum is then deducted from this amount.
+
+£2,100,000 - £1,250,000 = £850,000
+
+Rose is not liable for any income tax at her marginal rate as she has not exceeded her enhanced lump sum and death benefit allowance.
+
+Individual Protection 2016
+
+Paragraph 20H Schedule 36 Finance Act 2004
+Paragraph 9 Schedule 4 Finance Act 2016
+
+For all relevant benefit crystallisation events that occur where the individual has valid IP 2016, the individual’s lump sum and death benefit allowance is calculated using this formula:
+
+IP 2016 amount + (IP 2016 amount x EF)
+
+Where the individual’s “IP 2016 amount” is the lower of their relevant amount or £1,250,000.
+
+Relevant amount is the total value on 5 April 2024 of the member’s pension rights in all their relevant arrangements. You can read more about the relevant amount for IP 2016 at PTM176530 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176530).
+
+EF is the lump sum and death benefit allowance enhancement factor, which is the aggregate of all enhancement factors in relation to the relevant benefit crystallisation event.
+
+Example
+
+Victor notified HMRC of his entitlement to a non-residence factor on 29 December 2024, his non-residence factor was 0.42.
+
+On 15 September 2028 a relevant benefit crystallisation event occurs as a result of Victor receiving a serious ill-health lump sum of £1,500,000.
+
+Victor’s enhanced lump sum and death benefit allowance is calculated. He has valid individual protection 2016.
+
+The relevant amount is the total value on 5 April 2014 of the member’s pension rights in all their relevant arrangements, Victor’s relevant amount is £1,200,000, therefore £1,200,000 is the lesser amount. £1,200,000 is therefore used to calculate Victor’s enhanced lump sum and death benefit allowance.
+
+£1,200,000 + (£1,200,000 x 0.42) = £1,704,000
+
+His enhanced lump sum and death benefit allowance is £1,704,000.
+
+The relevant lump sum is then deducted from this amount.
+
+£1,704,000 - £1,500,000 = £204,000
+
+Victor is not liable for any income tax at his marginal rate as he has not exceeded his enhanced lump sum and death benefit allowance.

@@ -1,0 +1,68 @@
+Non-resident companies: indirect interests: introduction
+Identifier: CG57290
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57290
+Published: 2016-03-12T11:42:48+00:00
+Updated: 2019-10-16T08:14:31+01:00
+Retrieved (UTC): 2026-09-18T14:43:48.730016+00:00
+
+Without special rules UK resident shareholders or participators could avoid the TCGA92/S13* charge by placing another non-resident company between themselves and the company making the gain. TCGA92/S13(9) prevents this by allowing us to look through a chain of non-resident companies. The gain is apportioned to the first tier of UK residents or non-resident trusts in the chain of interests. For TCGA92/S13(9) to apply each company in the chain must itself satisfy the basic conditions outlined in CG57220 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57220).
+
+Therefore each company must be
+
+- a company that is not resident in the UK
+
+and
+
+- a company that would be a close company if it was resident in the UK.
+
+Example 1
+
+Mr A UK resident shareholder owns 100% of
+
+B Ltd non-resident close company which owns 100% of
+
+C Ltd non-resident close company which owns 100% of
+
+D Ltd non-resident close company.
+
+Any gains of D Ltd can be apportioned to Mr A because TCGA92/S13(9) allows you to look through the chain of non-resident closely controlled companies.
+
+Example 2
+
+Mr A UK resident shareholder owns 100% of
+
+B Ltd UK resident company which owns 100% of
+
+C Ltd non-resident close company which owns 100% of
+
+D Ltd non-resident close company.
+
+Any gains of D Ltd can be apportioned to B Ltd but not Mr A. This is because B Ltd is the first UK resident shareholder in the chain.
+
+Example 3
+
+Mr A UK resident shareholder owns 100% of
+
+B Ltd closely controlled non-resident company which owns 100% of
+
+C Ltd UK resident close company which owns 100% of
+
+D Ltd non-resident close company.
+
+Any gains of D Ltd can be apportioned to C Ltd but not Mr A even though Mr A owns shares in B Ltd which is a closely controlled non-resident company. (Gains which accrue to B Ltd in its own right on disposal of its own assets can be apportioned to Mr A.)
+
+Example 4
+
+Mr and Mrs A are both UK resident. Mr A holds shares in B Limited, a UK resident close company. B Ltd holds shares in C, a non-UK resident close company, which holds shares in D, also a non-UK resident close company. Mrs A holds shares in E, a non-UK resident close company which also holds shares in D.
+
+The gains of D Ltd can be apportioned to Mrs A because she is the first UK resident shareholder in the chain of shareholdings which runs from E to her. The gains of D Ltd cannot be apportioned to Mr A because B Ltd is the first UK resident shareholder in his chain of shareholdings.
+
+You calculate the extent of a person’s indirect interest on a particular test of participation by multiplying the proportional interest in the assets of each company in the chain.
+
+Example 5
+
+Mr A is a UK resident. He is a 75% participator in B, which is a 75% participator in C, which is a 50% participator in D. B, C and D are non-UK resident close companies.
+
+If D Ltd makes gains of 100,000 the TCGA92/S13 the gain attributed to Mr A is £100,000 x 50% x 75% x 75% = £28,125.
+
+*TCGA92/S13 was re-written for disposals from 6 April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

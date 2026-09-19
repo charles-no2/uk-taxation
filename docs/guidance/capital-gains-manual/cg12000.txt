@@ -1,0 +1,58 @@
+Chargeable assets: intangible assets: rights
+Identifier: CG12000
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12000
+Published: 2016-03-12T09:58:05+00:00
+Updated: 2024-11-20T10:28:44+00:00
+Retrieved (UTC): 2026-09-18T14:30:20.346194+00:00
+
+Under s21(1) (https://www.legislation.gov.uk/ukpga/1992/12/section/21), all forms of property, whether situated in the UK or not, are assets for Capital Gains Tax purposes. We must identify two characteristics when deciding whether a right is a chargeable asset:
+
+· it must be something which is capable of being owned and
+
+· its value must be capable of being realised.
+
+These essential characteristics have been considered by the courts in deciding whether certain types of intangible “rights” are assets for capital gains purposes. Unless a right possess both characteristics it is not property, so it cannot be an asset for capital gains purposes.
+
+Capable of being owned
+
+We must distinguish ‘rights’ from “freedoms” when deciding whether something is capable of being owned. Unlike rights, freedoms are not capable of being owned, so are not assets.
+
+The difference between rights and freedoms was established in the tax case of Kirby v Thorn EMI plc 60TC519
+
+In this case, a subsidiary of Thorn EMI plc disposed of shares in some of its own subsidiary companies. As part of the sale agreement, Thorn EMI plc entered into a covenant with the purchaser in which it agreed that during the next five years, no member of the Thorn Group would compete with the purchasing company.
+
+Thorn EMI plc said that as the covenant related to its freedom to trade, the consideration received for entering into the covenant did not derive from any asset. The courts accepted that a person’s freedom to trade was not a form of property and therefore not an asset for capital gains purposes because the words “a form of property” in s21(1) (https://www.legislation.gov.uk/ukpga/1992/12/section/21) must take their normal legal meaning of something which is capable of being owned. The court held that the restrictive covenant was not the source of the capital sum because it was not owned by the company immediately prior to the disposal.
+
+But, although Thorn EMI plc had entered into a restrictive covenant which affected its freedom to trade, the Court did not consider that the whole of the consideration had derived from that. Entering into the covenant directly impinged on Thorn EMI plc’s goodwill. The consideration included a capital payment derived from this goodwill. The case was returned to the Special Commissioners to allow them to consider further arguments.
+
+In the absence of any binding decision on this point, HMRC’s view is that the existence of such a covenant and payment shows that the covenanter did own goodwill. The sum received would be chargeable to Capital Gains Tax unless the covenanter could show that such goodwill was absent.
+
+Value is capable of being realised
+
+The meaning of “realising value” from an asset was considered in O’Brien v Benson’s Hosiery (Holdings) Ltd 53TC241. In that case, a director paid a company £50,000 to be released from his contract of service. The company claimed that its rights under the contract of service could not be a chargeable asset because they could not be assigned or otherwise turned to account.
+
+This argument was rejected in the House of Lords. The Court held that the bundle of rights to which the company was entitled under the terms of the contract was a form of property and, therefore, an asset within s21(1) (https://www.legislation.gov.uk/ukpga/1992/12/section/21) because the company owned them, and they could be, and had been, turned to account.
+
+The House of Lords held that a capital sum was derived from a company’s rights under an employment contract even though its ability to turn those rights to account was limited by the nature of the asset. We take the phrase “realising value” to mean turning the ownership of the asset to account by obtaining consideration from it.
+
+This idea of an asset as something which can be turned to account has guided the courts in later decisions but must be applied with caution. If an asset is to be understood by analogy with property it follows that it must be capable of being owned. S22 (https://www.legislation.gov.uk/ukpga/1992/12/section/222) itself refers to “the owner” of an asset as the person deemed to make a disposal. In this respect a distinction can usefully be drawn between “rights”, which may be assets and “freedoms”, which are not.
+
+In certain circumstances it may be possible for a person to realise value from an asset which they no longer own, see CG12975 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12975).
+
+Different types of rights
+
+Where a person appears to have either disposed of a right or derived a capital sum from his ownership of a right it is essential that the precise type of “right” involved in the transaction is identified, as not all rights are capable of being assets for chargeable gains purposes.
+
+Some “rights” can be disposed of by transfer or assignment to another person but more commonly there will be an occasion of a disposal when a capital sum is derived from a right, see CG12990 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12990)+.
+
+When you consider rights as assets for capital gains purposes, you need to know the type of rights you are dealing with so that you can apply the correct tax treatment. The rights could be:
+
+· statutory rights, that is certain rights granted by an Act of Parliament, seeCG12995 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12995)
+
+· contractual rights, that is rights granted under the terms of a contract, seeCG13000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13000)
+
+· rights of action, that is rights to take action for compensation or damages, see CG13015 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13015)
+
+· rights to deferred consideration, see CG14850 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14850p)+
+
+Other examples of rights to payment that could not give rise to Capital Gains Tax liability would be a right to a tax repayment or a right to payment of costs after successful litigation.

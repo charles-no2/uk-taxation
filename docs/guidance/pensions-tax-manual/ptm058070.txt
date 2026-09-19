@@ -1,0 +1,147 @@
+Annual allowance: transitional rules for tax year 2015-16: pension input amounts: defined benefits and cash balance arrangements
+Identifier: PTM058070
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070
+Published: 2016-03-01T17:21:16+00:00
+Updated: 2022-02-28T22:20:42+00:00
+Retrieved (UTC): 2026-09-18T14:49:25.503363+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Combining pension input periods (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070#CombiningPIPs)
+Apportioning the combined period pension input amount (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070#ApportioningcombinedPIA)
+Last pension input period ends during the pre-alignment tax year (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070#LastPIPends)
+First pension input period starts during the post-alignment tax year (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070#FirstPIPstarts)
+Modification to the usual CPI applications (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070#ModificationtoCPI)
+Worked example (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070#Workedexample)
+
+Sections 230 to 232 and 234 to 237ZA Finance Act 2004
+
+Transitional annual allowance rules apply for tax year 2015-16.
+
+For annual allowance purposes only (which includes the money purchase annual allowance), the 2015-16 tax year is split into 2 ‘mini’ tax years - the ‘pre-alignment tax year’ and the ‘post-alignment tax year’ (see PTM058010 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058010) for more details).
+
+Any pension input amounts for the pre-alignment tax year are tested against the allowances (annual and, if applicable, money purchase annual allowances) for that ‘mini’ tax year. Similarly, any input amounts for the post-alignment tax year are tested against the allowances for that ‘mini’ tax year. See PTM058020 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058020) and PTM058030 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058030) for more details.
+
+For defined benefits and cash balance arrangements the core pension input amount calculation follows the general methods set out in PTM053300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053300) onwards – that is, in terms of opening and closing values by reference to rights based on the ‘valuation assumptions’, using factor 16 (defined benefits arrangements only) and adjustments to closing values when certain events occur during the pension input period.
+
+Combining pension input periods
+
+Tax year 2015-16 being split into 2 ‘mini’ tax years does not require separate pension input amount calculations based on the opening and closing values for each pension input period ending in the pre- and post-alignment tax years.
+
+Instead, the pension input amounts for the pre- and post-alignment tax years are calculated as if all the pension input periods that end in those 2 ‘mini’ tax years are merged into a single, or ‘combined’ period. The pension input amounts for the pre- and post-alignment tax years are percentage portions of the pension input amount for the combined period.
+
+The pension input amount for the combined period is therefore calculated by reference to the opening value of the rights immediately before the start of the combined period and the closing value of the rights at the end of the combined period.
+
+Example
+
+Pete has a defined benefits arrangement, with a pension input period of 1 June 2014 to 31 May 2015 for tax year 2015-16 had the transitional rules not applied.
+
+Without combining, Pete’s arrangement would require separate calculations for 3 pension input periods spread across the pre- and post-alignment tax years:
+
+1 June 2014 to 31 May 2015 (pre-alignment tax year)
+
+1 June 2015 to 8 July 2015 (pre-alignment tax year)
+
+9 July 2015 to 5 April 2016 (post-alignment tax year)
+
+Instead, Pete’s combined period for his defined benefits arrangement is from 1 June 2014 to 5 April 2016 and his pension input amount for the combined period is apportioned between the pre- and post-alignment tax years.
+
+Also, see PTM058090 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058090) for details about the application of the money purchase annual allowance.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070#Top)
+
+Apportioning the combined period pension input amount
+
+The pension input amount for the combined period is apportioned, to determine the percentage portion of the pension input amount relating to the pre-alignment tax year and the portion relating to the post-alignment tax year, by using the following:
+
+- for the post-alignment tax year portion
+
+- [272/D] x 100
+
+- for the pre-alignment tax year portion
+
+- [(D - 272)/D] x 100
+
+where D is the number of days in the combined period and 272 is the number of days from 9 July 2015 to 5 April 2016 (2016 is a leap year).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070#Top)
+
+Last pension input period ends during the pre-alignment tax year
+
+There is no apportioning of the pension input amount between the pre- and post-alignment tax years for a cash balance, or defined benefits, arrangement if the last pension input period for the arrangement ended during the pre-alignment tax year (that is, any time during 6 April 2015 to 8 July 2015).
+
+The arrangement still has a combined period (albeit covering just the period from the start of the combined period to its ends on 8 July 2015 or earlier during the pre-alignment tax year) but the whole of the pension input amount for the combined period applies for the pre-alignment tax year only.
+
+Example
+
+Ash has a cash balance arrangement, with a pension input period of 1 June 2014 to 31 May 2015 for tax year 2015-16 had the transitional rules not applied.
+
+On 31 January 2015 Ash became entitled to all benefits under the cash balance arrangement, meaning that the last pension input period for the arrangement was the one starting on 1 June 2014 and ending on 31 May 2015.
+
+The combined period for Ash’s cash balance arrangement is the same as for the last pension input period generally – that is, the combined period runs from 1 June 2014 to 31 May 2015.
+
+The whole of the pension input amount for the combined period applies for the pre-alignment tax year only.
+
+Had Ash become entitled to all benefits under the cash balance arrangement on 1 June 2015 (rather than on 31 January 2015) another pension input period would have started for the arrangement on the same 1 June and ended on 8 July 2015.
+
+Then Ash’s combined period for the cash balance arrangement would have run from 1 June 2014 to 8 July 2015 but the whole of the pension input amount for the combined period would have still applied for the pre-alignment tax year only.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070#Top)
+
+First pension input period starts during the post-alignment tax year
+
+There is no apportioning of the pension input amount between the pre- and post-alignment tax years for a cash balance, or defined benefits, arrangement if the first pension input period for the arrangement started during the post-alignment tax year (that is, any time during 9 July 2015 to 5 April 2016).
+
+The arrangement still has a combined period (albeit covering just the period from starting on or after 9 July 2015 to ending on 5 April 2016) but the whole of the pension input amount for the combined period applies for the post-alignment tax year only.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070#Top)
+
+Modification to the usual CPI applications
+
+A combined period could be longer than the typical 12 months that a pension input period would have lasted but for the transitional rules. To allow for the longer period, there are 2 CPI changes to the usual pension input amount calculation.
+
+For both cash balance and defined benefits arrangements the opening value of the individual’s rights immediately before the start of the combined period is uprated by 2.5%. This is instead of the usual uprating by reference to the 12-month CPI increase for the September before the start of the tax year.
+
+Similarly, for the purposes of calculating the relevant percentage which is used to work out whether one limb of the ‘deferred member carve-out’ applies, 2.5% is used instead of the CPI measure for a month falling within the pension input period. See PTM051200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm051200) for information about the usual deferred member carve-out rules that otherwise apply but for the modifications mentioned on this page.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070#Top)
+
+Worked example
+
+Rosie has a defined benefits arrangement and but for the transitional rules would have a pension input period from 1 January 2015 to 31 December 2015.
+
+It is a final salary arrangement with 1/60th accrual for the pension and no separate lump sum.
+
+Rosie has pensionable pay at the end of 31 December 2014 of £110,000 which has risen to £120,000 by 5 April 2016. Rosie had completed 20 years 100 days of pensionable service on 31 December 2014.
+
+This is Rosie’s only arrangement and she has no unused annual allowance to carry forward from any of 2012-13, 2013-14 or 2014-15.
+
+Rosie’s combined period for the arrangement runs from 1 January 2015 to 5 April 2016 ([365+96] = 461 days).
+
+The opening value of Rosie’s pension rights is:
+
+annual pension (20 + 100/365)/60 x £110,000 = £37,168
+
+multiply £37,168 by 16 = £594,688
+
+increase £594,688 by 2.5% = £609,555.
+
+The closing value of Rosie’s pension rights is:
+
+annual pension (21 + 196/366)/60 x £120,000 = £43,071
+
+multiply £43,071 by 16 = £689,136.
+
+Rosie’s pension input amounts are therefore:
+
+for the combined period, £689,136 – £609,555 = £79,581.
+
+for the pre-alignment tax year, £79,581 x [461 – 272/461] = £32,626.
+
+for the post-alignment tax year, £79,581 x [272/461] = £46,955.
+
+As the £32,626 pension input amount for the pre-alignment tax year is less than £80,000, Rosie has unused annual allowance from that tax year of £47,374. In this case Rosie can carry forward a maximum of £40,000 from the pre-alignment tax year to the post-alignment tax year.
+
+For the post alignment tax year Rosie has a pension input amount of £46,955. She therefore has excess pension savings of £6,955 in respect of the post-alignment tax year (£46,955 less £40,000).
+
+Rosie has an annual allowance charge on £6,955 for the 2015-16 tax year overall.

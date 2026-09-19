@@ -1,0 +1,68 @@
+Temporary repatriation facility: Mixed funds: Other offshore transfers
+Identifier: RDRM75400
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75400
+Published: 2025-04-07T08:37:28+01:00
+Updated: 2025-04-07T08:37:29+01:00
+Retrieved (UTC): 2026-09-18T16:19:16.279932+00:00
+
+Broadly, an ‘offshore transfer’ is a term used to describe any transfer from a mixed fund that does not require the ordering and identification rules in section 809Q ITA 2007 to be applied to it. This will often be because no money or other property is brought to the UK, for example when funds are moved from an account which is a mixed fund to another offshore account, or where money from a mixed fund is spent outside the UK without there being any benefit in the UK – see RDRM35420 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35420).
+
+From 6 April 2025, where foreign income and gains have been designated under the temporary repatriation facility (TRF), it is possible for a mixed fund, and therefore an offshore transfer from a mixed fund, to contain TRF capital – see RDRM75100 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75100) for a definition of TRF capital.
+
+For the purposes of the offshore transfer rules set out in section 809R ITA 2007, TRF capital is a kind of income and capital in the fund, which will need to be taken into account when apportioning the kinds of income and capital in the fund immediately before an offshore transfer, to find what the transfer comprises.
+
+There is an exception to the offshore transfer rules where an individual transfers an amount of TRF capital to a TRF capital account. Although this is an offshore transfer, there are special rules which apply to this type of transfer – see RDRM75310 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75310).
+
+For all other offshore transfers, the proportional rules at section 809R(4), along with new subsection (4A), continue to apply.
+
+During the TRF period an annualised basis applies to mixed funds that contain or contained TRF capital at any time during the tax year, which may impact the composition of an offshore transfer – see RDRM75500 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75500) for guidance on how the annualised basis operates.
+
+Example
+
+Borislava is UK resident and a former remittance basis user. She came to the UK for the first time on 6 April 2021. On 6 April 2025 she has an overseas bank account, which is a mixed fund, comprising:
+
+- £100,000 foreign dividend income from 2023-24
+
+- £200,000 foreign dividend income from 2022-23
+
+- £100,000 pre-arrival clean capital
+
+Borislava plans to make remittances from this account in future, so she designates the £200,000 of foreign dividend income from 2022-23 in her Self Assessment tax return for 2025-26, paying the TRF charge on the £200,000.
+
+The composition and priority ordering of the mixed fund has now changed to:
+
+- £200,000 TRF capital
+
+- £100,000 foreign dividend income from 2023-24
+
+- £100,000 pre-arrival clean capital
+
+On 1 July 2026 Borislava purchases a house in Slovenia and pays a £100,000 deposit from her overseas bank account. If she makes no remittances to the UK or any other transfers in 2026-27, although the annualised basis would apply to the account, it would not affect the composition of the offshore transfer of £100,000 as there are no other transactions.
+
+The offshore transfer of £100,000 is therefore treated as comprising a proportion of the kinds of income and capital in the fund, which includes TRF capital, so the transfer comprises:
+
+- £50,000 TRF capital
+
+- £25,000 foreign dividend income from 2023-24
+
+- £25,000 pre-arrival clean capital
+
+This means that £50,000 of Borislava’s TRF capital would not be available for remittance to the UK from her bank account (although Borislava may subsequently sell her Slovenian property and remit the proceeds to the UK, which would derive from the amounts used to acquire it, including her TRF capital).
+
+Borislava may therefore wish to open a TRF capital account and transfer her TRF capital to that account, so it is separated from the funds she uses to make offshore transfers. It would not matter that Borislava opened the account and transferred funds to it on a date after the offshore transfer, providing it was done in the same tax year, because the annualised basis would deem the transfer to the TRF capital account to have taken place first – see RDRM75500 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75500).
+
+The remaining balance of Borislava’s account is £300,000, consisting of:
+
+- £150,000 TRF capital
+
+- £75,000 foreign dividend income from 2023-24
+
+- £75,000 pre-arrival clean capital
+
+Borislava has sufficient funds to make a £200,000 transfer to a newly opened TRF capital account, which, when applying the annualised basis at the end of the tax year, will be treated in priority to her offshore transfer, and therefore would consist of £200,000 of TRF capital. So, Borislava’s payment of the £100,000 deposit would instead consist of:
+
+- £50,000 foreign dividend income from 2023-24
+
+- £50,000 pre-arrival clean capital
+
+Borislava could then make remittances to the UK from the £200,000 in her TRF capital account without any tax charges arising on those remittances, and use her existing overseas bank account for offshore transfers without using up TRF capital.

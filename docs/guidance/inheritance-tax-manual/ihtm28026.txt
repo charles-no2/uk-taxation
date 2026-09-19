@@ -1,0 +1,82 @@
+Liabilities: restricted deductions: partial repayment of loan before tax charge arises 
+Identifier: IHTM28026
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28026
+Published: 2016-04-09T09:52:29+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:03:58.427579+00:00
+
+Where borrowed money has been used to acquire:
+
+-
+
+excluded property (IHTM28014 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28014)), or
+
+-
+
+finance the balance of a qualifying foreign currency bank account (IHTM28033 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28033)), or
+
+-
+
+assets that have become excluded property (IHTM28018 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28018)), or
+
+-
+
+relievable assets (IHTM28019 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28019))
+
+and the loan has been partially repaid before a charge to tax arises only the balance of the loan will be affected by the provisions of IHTA84/S162A, S162AA or S162B, subject to the liability meeting the conditions of IHTA84/S175A (IHTM28027 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28027)).
+
+Where borrowed money has been used to acquire a mixture of:
+
+-
+
+excluded property (IHTM28014 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28014)), or
+
+-
+
+assets that have become excluded property (IHTM28018 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28018))
+
+-
+
+finance the balance of a qualifying foreign currency bank account (IHTM28033 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28033)),
+
+-
+
+relievable assets (IHTM28019 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28019))
+
+and the liability has been partially repaid before a charge to tax arises, IHTA84/S162C contains rules that set out the order in which the liability is treated as having been discharged. The provisions cover the situation where a single loan has been used to acquire other assets that would be subject to tax as well.
+
+IHTA84/S162C(1A) only applies when considering the estate on death and only applies where the death is on or after 17 July 2014.
+
+Any part of the liability that is attributable to assets that are neither excluded nor relievable, nor used to finance a foreign currency bank account is treated as having been repaid first, IHTA84/S162C(1A)(a). If the partial repayment was greater than that part of the liability, the part of the liability that is attributable to relievable assets is treated as having been repaid next, IHTA84/S162C(1A)(b).
+
+If the partial repayment was greater than the part of the liability attributable to both of those two categories of asset, the part of the liability that is attributable to financing the foreign currency account is treated as having been repaid next, IHTA84/S162C(1A)(c).
+
+And, if the partial repayment was greater than the part of the liability attributable to all of the above categories, the remainder of the liability must be attributable to excluded property, or assets that have become excluded property, and is treated as being repaid last, IHTA84/S162C(1A)(d). So if the balance of the liability outstanding on death can only be attributable to excluded property then, subject to the provisions of IHTA84/S162A (IHTM28014 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28014)), any deduction for the balance of the loan is disallowed.
+
+IHTA84/S162C(2) applies in all other cases (and for events on or after 17 July 2013) in the same order as above, but ignoring the references to foreign currency bank accounts.
+
+Example 1
+
+The trustees of an excluded property trust which contains a UK house worth £2m borrow £1.5m which is charged against the property. £800,000 is used to acquire AIM shares which qualify for 50% business relief and £700,000 is used to acquire excluded property. £300,000 of the liability is repaid before the ten year anniversary leaving a liability of £1.2m. At that time the AIM shares are valued at £900,000 and the excluded property is valued at £1m.
+
+Under IHTA84/S162C(2) the liability is treated as having been repaid first on the part of the liability incurred to acquire the AIM shares. As £800,000 of the loan was used for this purpose, the £300,000 that was repaid is treated as having partially discharged this part of the liability - leaving £500,000 as a loan used to acquire the AIM shares.
+
+Under IHTA84/S162B(2) the value of the AIM shares that can qualify for business relief is reduced by £500,000 from £900,000 to £400,000. The remaining £700,000 liability that was used to acquire excluded property is disallowed by IHTA84/S162A.
+
+So the value of the UK assets in the trust of £2.9m (the UK house and the AIM shares) is reduced by the part of the debt that was used to acquire the AIM shares, £500,000, and business relief of £200,000 to £2.2m. Business relief is allowed against the increase in the value of the AIM shares.
+
+Note that in this example, the AIM shares get business relief at 50% which is the rate on or after 6 April 2026. For transfers before 6 April 2026, other than some transfers made in the transitional period from 30 October 2024 (see IHTM25570 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25570)), AIM shares would have got business relief at 100%.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28026#Top)
+
+Example 2
+
+The trustees of an excluded property trust which contains a UK house worth £2m borrow £1.5m which is charged against the property. This time the trustees use the £1.5m to acquire £900,000 of excluded property, £350,000 of assets qualifying for agricultural relief and £250,000 of UK listed shares. £700,000 of the liability is repaid before the ten year anniversary leaving a liability of £800,000. At that time the excluded property is worth £1m, the agricultural assets are worth £400,000 and the UK shares, £300,000.
+
+Under IHTA84/S162C(2) the liability is treated as having been repaid first on the part used to acquire the UK shares. As £250,000 of the liability was used for this purpose, the first £250,000 of the amount discharged reduces the liability which can be deducted from the UK shares to nil.
+
+Of the remaining £450,000 that was repaid, £350,000 was used to acquire agricultural assets which are worth £400,000 at the date of the ten year anniversary. So, the next £350,000 of the amount repaid reduces the liability which can be taken against the agricultural assets under IHTA84/S162C(2)(b) to nil. As none of the remaining liability can be attributed to acquiring the agricultural assets, the full value of the agricultural assets may qualify for agricultural relief with no restriction under IHTA84/S162B.
+
+The last £100,000 of the liability which has been discharged (£700,000 - (£250,000 + £350,000) = £100,000) is treated as reducing the liability incurred to acquire the excluded property under IHTA84/S162C(2)(c). This reduces that part of liability from £900,000 to £800,000. So the balance of the liability that was not repaid, £800,000 is attributed to the acquisition of excluded property and is disallowed by virtue of IHTA84/S162A.
+
+The value of the UK assets in trust of £2.7m (the UK house, agricultural assets and quoted shares) is reduced by the agricultural relief to £2.3m (assuming 100% relief allowance is available to cover the £400,000, see IHTM25500 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25500)) and none of the liability is allowable. In effect, the original £2m in the trust, plus the UK shares are now liable to tax. Although this may seem a harsh result given that the shares were acquired through borrowing, without a priority rule, it would be possible to manipulate assets and values to obtain an advantage.

@@ -1,0 +1,65 @@
+Definitions: depositary receipts
+Identifier: CG50240
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg50240
+Published: 2016-03-12T11:21:59+00:00
+Updated: 2021-07-15T08:36:39+01:00
+Retrieved (UTC): 2026-09-18T14:32:21.231630+00:00
+
+You may come across assets referred to as Depositary Receipts (DRs). The commonest are American Depositary Receipts (ADRs).
+
+DRs are used as substitute instruments indicating ownership of securities such as shares. Although DRs may be owned by anyone, they are designed primarily to enable investors to hold and deal in shares of companies located in countries other than their own. Such activities might otherwise be inhibited by difficulties in transferring original share certificates from one country to another. The investors hold or trade the DRs rather than the share certificates themselves.
+
+A person holding shares for which DRs are available can convert them into DR form by depositing the share certificates with a local branch of a financial institution such as a bank which will act as a "depository". The depository issues a DR. This document certifies that the depository, or an appointed custodian in the country of the underlying shares, holds the share certificates and that the owner of the DR is entitled to the share certificates on surrender of the DR. The precise detail of the arrangements may vary, but the holder of a DR will generally have many of the benefits associated with share ownership. In particular:
+
+- the DR can be exchanged for the underlying shares on demand by the DR holder
+
+- any dividends, subject to a handling fee, flow through to the DR holder.
+
+- the holder of shares in DR form may at any time cancel the arrangement by asking for delivery of the share certificates in respect of their underlying shares, and surrendering the DRs at a local branch of the depository.
+
+This guidance applies to DRs that display such characteristics.
+
+We have been asked to clarify how holding shares via DRs will affect liability to Capital Gains Tax or Corporation Tax on chargeable gains following the decision of the First Tier Tribunal in the Stamp Duty Reserve Tax case of HSBC v Commissioners for HMRC, [2012] UKFTT 163 (TC).
+
+UK-issued DRs (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg50240#IDALPDCH)
+DRs issued outside UK (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg50240#IDALQDCH)
+
+UK-issued DRs
+
+Where a DR is issued in the UK the HMRC view is that the holder of a DR is the beneficial owner of the underlying shares. The practical implications include that:
+
+- a transfer of shares by a shareholder to a depository in exchange for an issue of DRs is not a disposal of the shares for capital gains purposes because the shareholder retains beneficial ownership of the shares
+
+- a disposal of the DRs is a disposal of both the DRs themselves and a disposal of the underlying shares. In practice the value of a DR will track the value of the underlying shares very closely and to that extent the consideration for the disposal of the DRs should be regarded as consideration for the disposal of the shares
+
+- in a share exchange or company reconstruction in which shareholders have an option to receive DRs instead of being issued with shares we accept that the shares are to be treated for the purposes of TCGA92/S135 as being issued to the shareholders, see CG52500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52500)+
+
+- if the holder of DRs converts them back into the underlying shares there is no change of ownership of those shares and so no disposal of the shares. There will have been a disposal of the DRs and the usual computational rules will apply. If no consideration is received for the disposal of the DRs there will be no chargeable gain.
+
+- where a person holds the same class of shares directly and through DRs then they may be regarded as constituting a single holding for share identification purposes, see CG51500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51500)+
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg50240#Top)
+
+DRs issued outside UK
+
+Where a DR is issued outside the UK the question of whether the holder of the DR is the beneficial owner of the underlying shares will be determined by reference to the law of the territory in which the DR is issued. Information on beneficial ownership may be provided to investors by the depository.
+
+Beneficial ownership not conclusively determined by overseas law
+
+Where beneficial ownership of the underlying shares cannot conclusively be determined by reference to the law governing the arrangements relating to the issue of the DRs, for tax purposes HMRC will continue to determine beneficial ownership according to its understanding of the principles of UK law. This means that HMRC will continue to apply its longstanding practice of regarding the holder of a DR as holding the beneficial interest in the underlying shares and the treatment will be the same as for UK issued DRs.
+
+The ADRs referred to in the HSBC decision fall into this category.
+
+Beneficial ownership determined by overseas law
+
+Where the relevant law means that the holder of a DR is the beneficial owner of the underlying shares then the treatment will be the same as for UK issued DRs.
+
+Where the relevant law means that the holder of a DR is not the beneficial owner of the underlying shares the practical implications include that:
+
+- a transfer of shares by a shareholder to a depository in exchange for an issue of DRs is a disposal of the shares for capital gains purposes because the shareholder loses beneficial ownership of the shares
+
+- a disposal of the DRs is not a disposal of the underlying shares
+
+- in a share exchange or company reconstruction in which shareholders have an option to receive DRs instead of being issued with shares the conditions of TCGA92/S135 will not be met by shareholders who take DRs as they have not been issued with shares
+
+- where a holder of DRs converts them into the underlying shares there will be a disposal of the DRs and an acquisition of shares. The usual computational rules will apply.

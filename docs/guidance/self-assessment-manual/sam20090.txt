@@ -1,0 +1,16 @@
+Assessments: stand-alone assessments: amending an assessment
+Identifier: SAM20090
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam20090
+Published: 2016-04-08T17:32:47+01:00
+Updated: 2021-11-01T07:47:24+00:00
+Retrieved (UTC): 2026-09-18T16:18:48.814190+00:00
+
+Once an assessment has been made, there are only three ways an assessment can be amended:
+
+- If HMRC and the taxpayer settle the appeal under s54 TMA 1970.
+
+- If the review officer amends the assessment as part of their decision under s49F(2) TMA 1970.
+
+- If the tribunal determines that the assessment should be varied under s50(7) TMA 1970.
+
+If the charge arising from the assessment is amended, then function MAINTAIN REVENUE ASSESSMENT should be used to enter the revised details onto the taxpayer’s SA record. This will remove any formal standovers recorded in respect of the specific charge. At the same time you should use function MAINTAIN SA NOTES to record the full amounts of Income Tax, Capital Gains Tax and Class 4 NIC included in the original and revised assessment, for example, '2012-13 Rev. Asst. - IT £xxx, CGT £xxx, NIC £xxx - replaces SA note dd/mm/yyyy'.

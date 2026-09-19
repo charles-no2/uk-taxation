@@ -1,0 +1,24 @@
+ETMD: consequential amendments within TCGA 1992: - section 154 and groups
+Identifier: CG45736
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45736
+Published: 2016-03-12T11:09:09+00:00
+Updated: 2016-01-25T16:58:17+00:00
+Retrieved (UTC): 2026-09-18T14:41:17.996455+00:00
+
+TCGA 1992 Section 154 can also apply to two companies within the same capital gains group. Provided all of the conditions are met under section 175(3) the charge on the disposal of a chargeable asset which arises on one company in the group can be deferred under section 154 on the acquisition of a depreciating asset by another company in the group. When the deferred charge comes back into charge it is the company who acquired the depreciating asset that is the chargeable company.
+
+For example company Z, the parent company of the Z group, disposes of an asset on which a gain of £100 accrues and one if its subsidiaries, company X, acquires a depreciating asset. Section 175 provides that both companies are the same person for the purposes of section 154 and are treated as carrying on the same trade. A claim is made under section 154 so Z’s gain is deferred until there is an event within section 154(2) on company X.
+
+If the Z group were involved in a merger to which section 140E applied and as part of that merger the assets in X were transferred to another company, company H, a French resident company, then without special provision section 154(2) would apply to bring the deferred charge back into charge.
+
+Section 154(2A) prevents this from happening in exactly the same way as explained at CG45735 above. However it could be that instead of the assets in X being transferred it is the shares in X which are transferred. Without special provision the deferred charge under section 154(2) would accrue because the provision within section 175(3) where members of the Z group were treated as the same person and conducting the same trade would no longer apply.
+
+Returning to the example it could be that Z holds all the shares in Y and Y in turn holds all the shares in X. Y could be merged with H within section 140E or the shares in X could be transferred to H as part of a transfer within section 140A.
+
+Section 154(2A) and 154(2B) prevent such an occasion.
+
+Under section 154(2A)(b) the group of which H is a member, and it will be a group as H will now hold the shares in X, is treated as the same group as the Z group. This prevents section 154(2) from applying at the time of transfer of the shares in either a merger or a transfer of assets. Section 154(2A)(b) cannot apply at any other time. If subsequent to that event there is another event to which section 154(2) will apply then it will apply to X.
+
+Under section 154(2B) the trade carried on by the H group is treated as the same trade as the Z group but again only for the purposes of ensuring that section 154(2) does not apply at the time of the merger or transfer of assets.
+
+Section 154(2D) applies the same treatment to that for section 140E to transfers of assets within section 140A and section 154(2C) ) provides that references to transferor and transferee within section 154(2A) & (2B) have the same meaning as those within section 140E(9).

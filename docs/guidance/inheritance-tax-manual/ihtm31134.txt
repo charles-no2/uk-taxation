@@ -1,0 +1,38 @@
+Assessing: COMPASS: making amendments: instalment option property (IOP) assets and liabilities
+Identifier: IHTM31134
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31134
+Published: 2016-04-09T10:03:01+01:00
+Updated: 2016-02-11T17:15:41+00:00
+Retrieved (UTC): 2026-09-18T15:05:51.225553+00:00
+
+Selecting (IHTM31131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31131)) the IOP (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)) records, will take you to the IOP asset window where you will find a list of six classes of property.
+
+- select the appropriate category button to access the individual asset records list.
+
+- You can amend, delete and add records as you would for NIOP assets (IHTM31132 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31132)).
+
+- But for IOP assets you will have to name new assets individually. You should name each property so it is easy for you to identify. For instance, a house could be included as ‘22 Petunia Crescent’, ‘Deceased’s residence’ or ‘IHT405 item 1’.
+
+Add a separate record for each asset as you may need to calculate outstanding instalments separately from the remaining IOP at a later stage.
+
+Shortcut
+
+From the case outline window (accessed by the branch-diagram icon), select the asset you want to change. This will bring you straight to the update screen for that asset. Make the changes and select ‘OK’ to take you back to the case outline screen.
+
+Instalments no longer available
+
+If the property is sold, or instalments no longer apply for any other reason, amend the type classification from IOP to NIOP by amending the check box at the individual case record.
+
+- COMPASS automatically shows the date of sale as the date you change the classification, but you can amend it if you need to.
+
+- You must include the correct date of sale in IOP(WIR) cases (because interest relief stops from the date of sale).
+
+- To re-set the asset as IOP, highlight and delete the date of sale.
+
+Liabilities
+
+All liabilities are set against individual assets rather than the IOP group.
+
+- After you have highlighted the appropriate asset, access the liabilities for the asset through the ‘Creditors’ button.
+
+- Amend, delete or add creditors as usual, and indicate whether the liability relates to a mortgage or other creditor.

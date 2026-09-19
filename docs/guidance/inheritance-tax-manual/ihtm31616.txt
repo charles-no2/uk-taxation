@@ -1,0 +1,36 @@
+Assessing: repayments: IOP (WIR)
+Identifier: IHTM31616
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31616
+Published: 2016-04-09T10:05:50+01:00
+Updated: 2022-01-31T10:47:26+00:00
+Retrieved (UTC): 2026-09-18T15:06:21.291225+00:00
+
+In an assessment for instalments with interest relief (IHTM30363 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30363)), if a repayment of interest is due in respect of interest charged on additional tax the same principles for IOP (IHTM31615 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31615)) apply for each previous interest charge on each previous assessment.
+
+Example
+
+The due date for tax is 30 June 2010
+
+- On 30 June 2010 we issue a calculation for the first instalment of tax on the IOP. Tax due on the whole of the IOP is £20,000, so tax of £2,000 is due on the first instalment. As the calculation is issued before the due date no interest is due.
+
+- On 30 June 2011 a calculation for the second instalment is issued. The total tax on the IOP has increased to £30,000, so the tax due is two tenths of £30,000 = £6,000, less tax already assessed (£2,000) = £4,000. No interest is due on this instalment or on the unpaid tax. But interest is due to adjust for the increase in tax. This is one tenth of (£30,000 - £20,000) = £1,000 which related to the first instalment from 1 July 2010 to 30 June 2011 = £29.92
+
+- On 30 June 2012 we prepare a calculation for the third instalment. The total tax on the IOP has now been reduced to £24,000. So the tax now due is three tenths of £24,000 = £7,200, less the tax already assessed (£6,000) = £1,200. No interest is payable on this instalment or on the unpaid tax. But interest is repayable on the part of the decrease in tax which relates to the previous instalments on one tenth (£30,000 - £24,000) = £600.
+
+First instalment:
+
+- Interest of £29.92 was charged on the additional tax of £1,000.
+
+- The decrease in tax is now £600 (see above) so the interest repayable is (£600 ÷ 1,000) × £29.92 = £17.95
+
+Second instalment
+
+- No interest has been charged on this instalment so no interest is repayable
+
+Interest supplement
+
+- In this situation the taxpayer does not automatically get a credit for supplementary interest on the interest repayable of £17.95 because there is no repayment warrant. To compensate for this you must make an adjustment to the interest charge. Treat the interest repaid as a deposit.
+
+- So, assuming that the effective date of payment was 15 August 2011 the adjustment would be (on £17.95 from 15 August 2011 to 30 June 2012) to the date of the last instalment (30 June 2012) at the lower repayment rate for interest = £0.08
+
+- The total amount of tax and interest due is £1,200 less interest to be repaid (-£17.95) less interest supplement (-£0.08) = £1,181.97 due.

@@ -1,0 +1,40 @@
+Savings and investment income: tax on savings and investment income: example for tax year 2019-20
+Identifier: SAIM1110
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim1110
+Published: 2016-03-19T16:23:05+00:00
+Updated: 2022-10-13T15:44:30+01:00
+Retrieved (UTC): 2026-09-18T14:25:53.344971+00:00
+
+Example
+
+In the tax year 2019-20 Jane’s total income is £52,500. She has income of £46,000 from employment, savings income in the form of building society interest of £1,500 and dividends of £5,000. The personal allowance for 2019-20 is £12,500 and the threshold after which higher rate tax applies is £50,000. The 0% starting rate for savings band is £5,000. The personal savings allowance applies to savings income, including interest, up to £1,000 for basic rate taxpayers and up to £500 for higher rate taxpayers. As Jane’s total income falls into the higher rate band, she is entitled to a £500 personal savings allowance.
+
+Employment income is taxed first followed by savings income and dividend income. The first £500 of her savings income is covered by the personal savings allowance. The starting rate for savings does not apply because non-savings income exceeds the personal allowance plus the starting rate for savings band of £5,000.
+
+The dividends are taxed as the highest part of income. The first £2,000 is covered by the ‘dividend allowance’, more accurately called the dividend nil rate, see SAIM1080 and ITA07/S13A. S13A applies the nil rate to a maximum £2000 instead of the dividend ordinary, upper or additional rates according to the circumstances of the case.
+
+Jane’s tax liability for 2019-20 is therefore as follows:
+
+Income |  £ |
+
+Employment |  46000 |
+
+Interest |  1500 |
+
+Dividends |  5000 |
+
+Less personal allowance |  (12500) |
+
+Taxable |  40000 |
+
+Tax |  £ |
+
+Employment income (46,000 - 8,500 PA* (personal allowance)) @ basic rate 20% |  7,500 |
+
+Interest (1,500 - 1,000 PA*) = 500. This is not taxed after the personal savings allowance of £500 is applied |  0.00 |
+
+Dividends (5000 - 3,000 PA*) = 2000. This is not taxed after the application of the of the £2,000 dividend allowance |  0.00 |
+
+Tax payable |  7,500 |
+
+*note that the personal allowance has been allocated to Jane’s different income streams in a way which obtains the most beneficial result for the taxpayer under the beneficial ordering rules at s25(2) ITA 2007.

@@ -1,0 +1,52 @@
+Relief for Gifts Subject to Inheritance Tax: Computation
+Identifier: CG67034
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67034
+Published: 2019-08-01T12:14:54+01:00
+Updated: 2019-08-01T12:14:46+01:00
+Retrieved (UTC): 2026-09-18T14:46:11.419165+00:00
+
+Basic Computation (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67034#_Basic_Computation)
+
+Excess Proceeds (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67034#_Excess_Proceeds_1)
+
+Credit for Inheritance Tax Paid (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67034#_Credit_for_Inheritance)
+
+Apportionment (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67034#_Apportionment)
+
+Basic Computation
+
+In the simple case of a gift from donor to donee involving no consideration and where none of the restrictions discussed below apply, hold-over relief is calculated as in the following example:
+
+- On 1 April 2020, Dan gifts quoted shares to the trustees of the Goodricke Discretionary Settlement, in exchange for no consideration. At the date of the gift, the shares were worth £500,000. Dan acquired the shares in 2011 for £300,000.
+
+- As the gift is to a discretionary settlement, it will be a chargeable transfer for Inheritance Tax purposes. Hold-over relief is available as a result
+
+- In the absence of any relief, Dan’s gain on the disposal (using its market value, see CG66450 (http://internal.active.hmrci/manual/capital-gains-manual/cg66450)) would be £200,000
+
+- Where Dan elects for hold-over relief to be applied, TCGA92/S260(3) reduces both Dan’s gain and the trustees’ acquisition cost by an amount equal to which would have accrued in the absence of any relief (being £200,000)
+
+- As a result, no gain arises in Dan’s hands at the time of the gift and the trustees’ acquisition cost is £300,000
+
+In essence, the relief has ‘held-over’ a gain that would otherwise have been chargeable on Dan against the trustees’ acquisition cost. As a result, when the trustees come to sell the asset, an additional gain of £200,000 will be brought into charge than would have been in the absence of relief.
+
+Where some consideration is paid by the donee but this does not exceed the donor’s allowable costs under TCGA92/S38 (see CG15150P (http://internal.active.hmrci/manual/capital-gains-manual/cg15150P)) then the relief works in the same way as above – so in our example, the trustees could have paid Dan £300,000 for the shares and the computation for the relief given would be exactly the same.
+
+Excess Proceeds
+
+Where the donee pays consideration in excess of the donor’s allowable costs under TCGA92/S38 (see CG15150P (http://internal.active.hmrci/manual/capital-gains-manual/cg15150P)), TCGA92/S260(5) reduces the gain that can be held-over by this excess. Using the example above, suppose that the trustees paid £400,000 for the shares:
+
+- In the absence of any relief, Dan’s gain on the disposal (using its market value, see CG66450 (http://internal.active.hmrci/manual/capital-gains-manual/cg66450)) would be £200,000
+
+- As Dan has actually received £400,000 from the trustees, his excess proceeds are £100,000 (being the amount received less allowable costs). Relief is therefore restricted to the amount that the gain in the absence of any relief (£200,000) exceeds £100,000, leaving £100,000 to be relieved
+
+- As a result, a gain of £100,000 is chargeable on Dan and the trustees’ acquisition cost is £400,000
+
+Under TCGA92/S260(9), this restriction in respect of excess proceeds does not apply where the disposal is one which is deemed to occur on a person becoming absolutely entitled to settled property (TCGA92/S71, see CG37000 (http://internal.active.hmrci/manual/capital-gains-manual/cg37000)) or the termination of a life interest on the death of the entitled person (TCGA92/S72, see CG36450P (http://internal.active.hmrci/manual/capital-gains-manual/cg36450P)).
+
+Credit for Inheritance Tax Paid
+
+Where the disposal in question is a chargeable transfer for Inheritance Tax purposes and Inheritance Tax is payable as a result, the gain accruing to the donee on a subsequent disposal of the asset is reduced by this amount, although this cannot create a loss. TCGA92/S260(8) provides that where the amount of Inheritance Tax payable is varied, any assessments or repayments needed to correct the position can be made.
+
+Apportionment
+
+If the gift is only partly within the qualifying disposals listed in CG67033 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67033), or an exemption operates to give only a reduced charge (rather than no charge at all), then TCGA92/S260(10) requires that hold-over relief is only available in respect of that qualifying part.

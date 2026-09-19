@@ -1,0 +1,62 @@
+Class 1 NICs: Expenses and Allowances: Motoring Expenses (including mileage allowances) paid on or after 6 April 2002: Calculating Class 1 NICs - example - monthly lump sum and a mileage allowance paid through the payroll
+Identifier: NIM05842
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim05842
+Published: 2016-04-11T17:14:05+01:00
+Updated: 2026-06-03T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:19:08.522072+00:00
+
+This example illustrates the rules for calculating the amount to be treated as earnings under regulation 22A of the Social Security (Contributions) Regulations 2001 where the employee receives a monthly lump sum and a mileage allowance is paid.
+
+Facts
+
+The employer pays his employee a fixed monthly lump sum to cover non-fuel costs for using his car for business travel.
+
+The monthly allowance is £200.
+
+The employee submits claims for a mileage allowance to cover the cost of fuel after the end of each calendar month.
+
+The mileage allowance is 28p per mile.
+
+The employee starts working for this employer in April.
+
+For the purposes of this example assume that HMRC accepts that the monthly lump sum is RME. See NIM05845 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim05845) to NIM05849  (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim05849)for guidance about determining whether lump sum payments are RME.
+
+At the beginning of May the employee submits a claim for 700 business miles undertaken in April.
+
+On 30th April and 31st May, the employer pays the employee the monthly car allowance of £200.
+
+On 17th May the employer pays the employee £196 as a mileage allowance (700 miles x£0.28).
+
+RME paid in April 2026
+
+On 30th April the employer does not know what business miles the employee undertook in April so cannot calculate the QA. Therefore, the employer must add the RME paid in April, £200, to any other earnings paid in the same earnings period and calculate Class 1NICs liability.
+
+RME paid in May
+
+Step 1
+
+Calculate the amount of RME paid in May
+
+The lump sum of £200 + (700 miles x £0.28)= £196 = £396
+
+Step 2
+
+Calculate the qualifying amount (including any non-reimbursed miles in the calculation)
+
+700 miles x £0.55 = £385
+
+Step 3
+
+Subtract the QA (Step 2) from the RME (Step 1)
+
+£396 – £385 = £11
+
+In this example the RME is more than the QA. The QA is disregarded from earnings. So, no Class 1 NICs are due on the QA.
+
+Step 4
+
+The employer must add the £11 to any other earnings paid in the same earnings period the RME was paid and report it on the RTI in the same period.
+
+Calculate Class 1 NICs on the total earnings for that earnings period in the normal way.
+
+The £11 is exempt from PAYE income tax and should not be included on RTI for tax purposes. However, it must be returned on form P11D as excess mileage allowance payments. See EIM31235 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31235).

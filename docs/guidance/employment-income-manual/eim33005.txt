@@ -1,0 +1,26 @@
+Seafarers’ Earnings Deduction: how to approach the calculation  of an eligible period
+Identifier: EIM33005
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim33005
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T13:19:14+01:00
+Retrieved (UTC): 2026-09-18T14:13:38.763268+00:00
+
+Section 378 ITEPA 2003
+
+The calculation of an eligible period is a cumulative process
+
+The guidance at EIM33004 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim33004) makes it clear that testing whether a period is an eligible period is a cumulative process. In the simplest case there may have been two periods of absence from the United Kingdom broken by days spent in the United Kingdom. The first period of absence (A) and the second period of absence (C) may be combined provided that the period between the two (B) is not more than 183 days. Periods A, B and C will together comprise a combined period provided that at least half of the days in that period are days of absence from the United Kingdom. An eligible period will be achieved once the total days in the combined period are 365 or more.
+
+Where there are less than 365 days in a combined period, that period may itself be combined with a further period of days of absence from the United Kingdom. The existing combined period (A) can be combined with a further period of absence (C) provided that the period between the two (B) is not more than 183 days. A new combined period will result if at least half of the days in the new period (total days in periods A, B and C) are days of absence from the United Kingdom. An eligible period will be achieved once the total days in the new combined period are 365 or more.### Starting the calculation again
+
+At any point in the cumulative calculation of a combined period, one of the following tests may be failed:
+
+- the period between two periods of absence from the United Kingdom or the period between a combined period and the latest period of absence (period B) exceeds 183 days. In short, the cumulative calculation is broken as soon as more than 183 consecutive days are spent in the United Kingdom.
+
+- more than half of the total number of days in the consecutive periods (A, B and C) are days spent in the United Kingdom.
+
+As soon as one of these tests is failed, then a new calculation is required starting from the last period of absence from the United Kingdom. The cumulative process will begin again in order to establish an eligible period consisting of either 365 consecutive days of absence or a combined period of 365 days. The process may continue beyond 365 days to establish an eligible period of much greater length. It is not necessary to begin a new calculation once an eligible period has been identified.
+
+The example in EIM33006 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim33006) shows how the process works in practice. It also shows how to record periods of absence in order to apply the tests. If a period of non-residence in the UK is claimed to be part or all of a qualifying period, see EIM33061 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim33061).### Ordinarily resident or not-resident?
+
+Seafarers who establish eligible periods significantly in excess of 365 days and who regularly spend 9 months or more out of the United Kingdom may be non-resident. Non-residents are not entitled to the deduction. Special rules apply, see EIM40201 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim40201).

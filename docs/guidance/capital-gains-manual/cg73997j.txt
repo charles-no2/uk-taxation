@@ -1,0 +1,66 @@
+UK property rich collective investment vehicles: Interaction with other TCGA92 provisions: Disposals by non-resident investors of interests in CIVs and assets with an ‘appropriate connection’ to CIVs (TCGA92/SCH5AAA/para 6)
+Identifier: CG73997J
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73997j
+Published: 2020-01-10T11:23:53+00:00
+Updated: 2021-03-25T11:40:28+00:00
+Retrieved (UTC): 2026-09-18T14:47:00.449825+00:00
+
+Non-resident investors will be chargeable on gains on disposal of an interest where that disposal has an ‘appropriate connection’ to a UK property rich CIV.
+
+In determining whether an ‘appropriate connection’ exists, no regard will be made to the level of investment in the CIV. This contrasts with the main rules in Part 3 of Schedule 1A, as a 25% ownership de minimis is applied to a disposal of an indirect interest in UK land. The reason for the different treatment is that where a CIV has a 75% interest in UK land it can reasonably be expected to have been marketed on the basis that it is a UK property fund and investors will accordingly be aware of that. This is the case for investment in both non-UK CIVs and UK resident CIVs such as UK real estate investment trusts (REITs) and property authorised investment funds (PAIFs).
+
+However, the general rule is subject to certain exceptions under para 7 of SCH5AAA/TCGA92 (see CG73997M (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73997m)). Consequently, the 25% ownership de minimis may still be available where certain non-UK funds, that do not predominantly invest in UK property, happen to be UK property rich in particular circumstances.
+
+Para 6(1) SCH5AAA/TCGA92 sets out a two part test to identify when a disposal by a non-UK resident will fall within para 6 i.e. where a disposal of an interest in a UK property rich entity is made by a person (legal or natural) with an appropriate connection to a CIV. Para 6(2) then deems that person to have a substantial indirect interest, thereby removing the de-minimis on indirect disposals for investors holding a less than 25% interest in a company.
+
+TCGA92/SCH5AAA/para 6(3) to (6) defines when a disposal has an appropriate connection, and this is explained using examples below. In each case the subparagraph needs to be read together with the first part of the test at para 6(1)(a), that is the requirement for the entity in question to be UK property rich.
+
+Disposal of a right or interest in a UK property rich CIV or company deriving at least 50% of its value from a UK property rich CIV (TCGA92/SCH5AAA/para 6(3))
+
+Para 6(3) applies where the disposal is of a right or interest in –
+
+- a UK property rich CIV as defined at para 1(1) (see CG73996R (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73996r) regarding the meaning of UK property rich and CG73996N  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73996n)for the meaning of CIV), wherever resident)
+
+- A company (wherever resident) that is not itself a CIV but that derives at least half of its market value from being a direct or indirect participant in one or more CIVs, meaning effectively that the company cannot be UK property rich without reference to those CIVs. A participant is, broadly, an investor – see TCGA92/SCH5AAA/para 1(5) for the definition of participant.
+
+Example
+
+A owns 10% of the shares in UK property rich Company B, which is not a CIV. B owns units worth £4.5m in a UK property rich CIV ‘C’, and bonds worth £500,000 unconnected to UK land. As at least half of B’s value (90%) derives from UK property rich CIVs, a disposal of an interest in B will have an appropriate connection to a CIV, and A will not benefit from the 25% ownership de-minimis.
+
+Disposal of an interest or right in a UK property rich company by a partnership which is a CIV (TCGA92/SCH5AAA/para 6(4))
+
+Para 6(4) applies where the disposal is of a right or interest in a UK property rich company (or deemed company) (whether or not it is a CIV) where the disposal is made in respect of a person’s investment in a partnership which is itself a CIV.
+
+For these purposes a disposal is made in respect of a person’s investment in a partnership where a person disposes of their partnership interest (and accordingly a fractional share of partnership property (TCGA92/S59)) and also where the partnership itself disposes of an interest in a partnership asset.
+
+Example
+
+X is a partner in a collective investment scheme limited partnership. The partnership is invested in UK property rich Company Y, which is not a CIV. The partnership disposes of its interests in Company Y. For capital gains purposes, X has made a disposal of their interest in Y; as this disposal was in X’s capacity as a partner in a CIS limited partnership, it will have an appropriate connection to a CIV. The same analysis would apply if it were X disposing of their partnership interests. If X held an interest in Company Y directly (i.e. not through the partnership), then a disposal of that interest would not have a connection to a CIV.
+
+Para 6(4) is not subject to paragraph 7, as explained below, so even if the CIV was marketed as something other than a UK property fund the partners would not benefit from the 25% de minimis if at the point they made a disposal the company was UK property rich.
+
+This means that non-resident partners in a CIV partnership that owns a UK property rich company will be subject to CGT on any gain on any indirect disposal of that company whatever their partnership interest.
+
+Disposal of an interest in a UK property rich company by a CIV which is a company, or deemed company (TCGA92/SCH5AAA/para 6(5))
+
+Para 6(5) applies where a non-UK resident CIV disposes of an interest in a UK property rich company. This sub-paragraph applies where the CIV is a company and also where it is deemed to be so by para 4 of Schedule 5AAA (for example, a Jersey property unit trust (JPUT)).
+
+Disposal of an interest in a UK property rich company by another company, where two or more UK property rich CIVs have a 50% or greater interest in that company (TCGA92/SCH5AAA/para 6(6))
+
+Para 6(6) applies where a company ‘A’ (which is not itself a collective investment vehicle) makes a disposal of an interest in a UK property rich company ‘B’, and two or more UK property rich CIVs have a combined 50% or more interest in company A. This rule is aimed at disposals by companies that are predominantly owned by one or more CIVs, including (but not limited to) CIVs that are partnerships. This would include, but is not limited to, joint ventures involving one or more CIVs.
+
+Example 1
+
+S is a collective investment vehicle and is UK property rich. S owns 10% of the shares in company T, a company which is not a CIV. The balance of the shares in company T are owned by R, which is another UK property rich collective investment vehicle. T owns 100% of the shares in Company U, which is not a CIV but is UK property rich.
+
+If Company T disposes of its interests in Company U, this is one body corporate disposing of another, and neither are CIVs. However, the disposal has an appropriate connection to a CIV because 50% or more of the investment in Company T (100%) is held by UK property rich CIVs, S and R.
+
+Example 2
+
+S owns all of the shares in Company T. CIV R is a UK property rich CIV. Company T and CIV R jointly and equally own Company U who wholly owns a UK property rich company V. In this case Company T and CIV R directly own Company U that is making the disposal of Company V. Under the investment measuring rules of paragraph 9 of Schedule 1A R has a 50% investment in Company U. As CIV R has a 50% investment in Company U this disposal has the appropriate connection to a CIV.
+
+Establishing the percentage of investment
+
+Para 6(7) SCH5AAA/TCGA92 explains how to determine the percentage of investment for paragraph 6. This relies on the tracing provisions in paragraph 9 of Schedule 1A (see CG73934 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73934)) where references to 25% are instead to 50%.
+
+Also, for the purpose of the tracing provisions para 6(8) SCH5AAA/TCGA92 explains that where two or more CIVs have an interest in a company they are treated as if they are a single person.

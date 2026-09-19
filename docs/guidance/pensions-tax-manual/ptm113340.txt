@@ -1,0 +1,28 @@
+International: UK tax charges on non UK schemes: the annual allowance charge and non-UK schemes: pension input amounts for hybrid arrangements
+Identifier: PTM113340
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113340
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2015-11-12T17:13:10+00:00
+Retrieved (UTC): 2026-09-18T14:51:20.107385+00:00
+
+| Glossary | PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001) | |———-|————————————————————————————-|
+
+Section 237 and paragraphs 10 to 11 Schedule 34 Finance Act 2004
+
+A hybrid arrangement is an arrangement where it is not certain in the pre-crystallisation phase which type of benefits will be provided at crystallisation. Only one type of benefit will ultimately be provided - cash balance benefits, defined benefits or other money purchase benefits - but the type of benefit will depend on the circumstances at the date of crystallisation. There are effectively two (or three) potential outcomes but they are mutually exclusive so benefits will be provided in only one of those ways. They should not be confused with schemes with multiple arrangements where benefits accrue separately under different types of arrangement within a single scheme.
+
+An example of a hybrid arrangement is one which, on the member’s retirement, will provide benefits calculated by reference to a pot of money available to that member, but subject to an underlying defined benefit promise calculated by reference to the member’s final salary and length of service. Should the pot of money available provide less than the underlying defined benefit promise the benefits provided will be augmented up to the level promised. Alternatively, if the pot of money provides a greater level of benefits than the underlying defined benefit promise, the individual would receive the money purchase benefits up to the level that the pot of money will provide. So the benefits will be either other money purchase benefits or defined benefits, but not both.
+
+Schedule 34 provides for section 237 to apply to determine the pension input amount for a currently-relieved member of a currently-relieved non-UK pension scheme that is a hybrid arrangement. This means that the individual’s pension input amount is the greater or greatest of their input amounts relating to the two or three different types of benefit that may ultimately be provided under the arrangement. Those input amounts are calculated on the basis that the hybrid arrangement is either a cash balance arrangement, a defined benefit arrangement or an other money purchase arrangement using the methods set out in PTM113320 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320) and PTM113330 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113330) respectively.
+
+Example
+
+Sue is a currently-relieved member of a currently-relieved non-UK pension scheme that is a hybrid arrangement which could provide cash balance benefits, other money purchase benefits or defined benefits.
+
+Her pension input amount calculated on a cash balance basis is £30,000.
+
+Her pension input amount calculated on an other money purchase is £25,000,
+
+and her pension input amount calculated on a defined benefits basis is £24,000.
+
+Sue’s hybrid arrangement pension input amount is therefore £30,000.

@@ -1,0 +1,163 @@
+Lump sum allowance and lump sum and death benefit allowance: Relevant benefit crystallisation events
+Identifier: PTM173000
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm173000
+Published: 2024-04-06T07:44:15+01:00
+Updated: 2024-04-06T07:44:15+01:00
+Retrieved (UTC): 2026-09-18T14:48:55.079197+00:00
+
+As of 6 April 2024 there is no longer lifetime allowance. If you are looking for information about protections, enhancement factors and the lifetime allowance charge please see these pages on The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022829/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm090000). If you are looking for information about the principles of lifetime allowance and benefit crystallisation events please see these pages of The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022836/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm080000).
+
+What is a relevant benefit crystallisation event (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm173000#whatisrBCE)
+Lump sum allowance and relevant benefit crystallisation events (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm173000#LSAandrBCE)
+Lump sum and death benefit allowance and relevant benefit crystallisation events (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm173000#LSDBAandrBCE)
+Order of the relevant benefit crystallisation event (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm173000#orderrBCE)
+Unauthorised member payments (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm173000#unauthorisedpayments)
+Reports to HMRC (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm173000#reportstoHMRC)
+
+What is a relevant benefit crystallisation event
+
+Chapter 15A Section 637R ITEPA 2003
+
+The legislation specifies the occasions when a scheme administrator must check whether a lump sum being paid to a member exceeds that member’s available lump sum allowance or lump sum and death benefit allowance.
+
+These occasions are known as relevant benefit crystallisation events.
+
+When a relevant benefit crystallisation event occurs, the scheme administrator compares the value of the relevant benefit crystallisation event against the member’s available allowances. Any relevant benefit crystallisation event that exceeds the individual’s available lump sum allowance or lump sum and death benefit allowance will be subject to income tax at the recipient’s marginal rate.
+
+Certain lump sums or lump sum death benefits paid to or in respect of members who become seriously ill or die under age 75, regardless of their available lump sum and death benefit allowance, will be subject to income tax at the recipient’s marginal rate. However, the payment of these benefits are still relevant benefit crystallisation events.
+
+Lump sum allowance and relevant benefit crystallisation events
+
+Chapter 15A Section 636Q ITEPA 2003
+
+As of 6 April 2024, individuals have a lump sum allowance of £268,275 (unless they have protections, see PTM176100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176100), or are required to utilise the transitional calculations, see PTM174100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm174100)).
+
+For the purposes of the lump sum allowance, a relevant benefit crystallisation event occurs when an individual becomes entitled to a relevant lump sum.
+
+A relevant lump sum for the purposes of the lump sum allowance is:
+
+- A pension commencement lump sum (PTM0632000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063200))
+
+- An uncrystallised funds pension lump sum (PTM063300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063300))
+
+- A stand-alone lump sum (PTM063130 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063130))
+
+Whenever a relevant benefit crystallisation event occurs this this must be tested against the individual’s lump sum allowance.
+
+Example
+
+Georgina has a relevant benefit crystallisation event on 17 June 2025. She receives a pension commencement lump sum (PCLS) of £40,000.
+
+She has had no other relevant benefit crystallisation events and has no protections. Therefore, her available lump sum allowance is £268,275.
+
+The amount of the relevant benefit crystallisation event occurring on 17 June 2025 needs to be deducted from this figure.
+
+£268,275 - £40,000 = £228,275
+
+Georgina’s remaining lump sum allowance at 17 June 2025 is £228,275.
+
+Lump sum and death benefit allowance and relevant benefit crystallisation events
+
+Chapter 15A Section 637S ITEPA 2003
+
+As of 6 April 2024, individuals have a lump sum and death benefit allowance of £1,073,100 (unless they have protections, see PTM176100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176100), or are required to utilise the transitional calculations, see PTM174200).
+
+For the purposes of the lump sum and death benefit allowance, a relevant benefit crystallisation event occurs when an individual becomes entitled to a relevant lump sum or a person is paid a relevant lump sum death benefit in respect of the individual.
+
+A relevant lump sum for the purposes of the individual lump sum and death benefit allowance is:
+
+- A pension commencement lump sum (PTM063200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063200))
+
+- A stand-alone lump sum (PTM063130 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063130))
+
+- A serious ill-heath lump sum (PTM063400 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063400))
+
+- An uncrystallised funds pension lump sum (PTM063300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063300))
+
+A relevant lump sum death benefit for the purposes of the lump sum and death benefit allowance means any lump sum death benefit other than:
+
+-  A charity lump sum death benefit (PTM073900 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073900))
+
+- A trivial commutation lump sum death benefit (PTM073700 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073700))
+
+A relevant lump sum death benefit does not include a lump sum death benefit if it is paid in respect of rights that were crystallised before 6 April 2024.
+
+Example
+
+Bret died on 15 August 2025, aged 72. An uncrystallised funds lump sum death benefit of £100,000 was paid to his beneficiary on 23 October 2025.This is a relevant benefit crystallisation event.
+
+He has had no other relevant benefit crystallisation events and has no protections. Therefore, his available lump sum and death benefit allowance is £1,073,100.
+
+The amount of the relevant benefit crystallisation event needs to be deducted from Bret’s lump sum and death benefit allowance.
+
+£1,073,100 - £100,000 = £973,100
+
+Bret’s remaining lump sum and death benefit allowance at 23 October 2025 is £973,100.
+
+Order of the relevant benefit crystallisation event
+
+Lump sum allowance
+
+Where an individual has more than one relevant benefit crystallisation event on the same day, the individual can decide the order in which they are considered to occur.
+
+Example
+
+John is paid a pension commencement lump sum (PCLS) of £30,000 and an uncrystallised funds pension lump sum (UFPLS) of £20,000 on 14 June 2024. These are both relevant benefit crystallisation events occurring on the same day.
+
+John’s available lump sum allowance is £268,275.
+
+John can decide which event should be considered to have occurred first.
+
+John decides that the uncrystallised funds lump sum payment of £20,000 occurs first. 75% of the UFPLS will be subject to income tax at his marginal rate, and 25% will be tax-free if he has sufficient lump sum allowance available.
+
+The tax-free element of the UFPLS needs to be deducted from his lump sum allowance.
+
+25% of £20,000 = £5,000
+
+£268,275 - £5,000 = £263,275
+
+John’s available lump sum allowance following the UFPLS deduction is £263,275.
+
+Then the PCLS of £30,000 needs to be deducted from John’s lump sum allowance.
+
+£263,275 - £30,000 = £233,275
+
+John’s lump sum allowance at 14 June 2024 is £233,275.
+
+Lump sum and death benefit allowance
+
+Where an individual has more than one relevant benefit crystallisation event on the same day, they are to be treated as occurring:
+
+- Immediately before the individual’s death, and
+
+- Immediately after any PCLS to which the individual become entitled immediately before death
+
+An individual's LSDBA availability on the occurrence of multiple relevant benefit crystallisation events occuring if they have previously had BCEs is the amount left after the previously-used amount is deducted and the relevant proportion is deducted.
+
+The relevant proprortion is:
+
+A/B
+
+Where:
+
+A - the amount of the lump sum death benefit which relates to the relevant benefit crystallisation event in question,
+
+B- the aggregate of the amounts of each lump sum death benefits being paid which constitutes relevant benefit crystallisation events on the same day
+
+Unauthorised member payments
+
+Where scheme funds are used to provide a benefit or make a payment that does not conform with the pension rules, lump sum rule or lump sum death benefit rule (and is not one of the other authorised member payments) that payment is an unauthorised member payment.
+
+An unauthorised member payment is not a relevant benefit crystallisation event.
+
+For example, if a lump sum is paid which does not satisfy the conditions to be any type of authorised lump sum payment, the lump sum would be taxable on the individual as an unauthorised member payment, and there may also be a scheme sanction charge for the administrator.
+
+Reports to HMRC
+
+Regulation 3 The Registered Pension Schemes (Provision of Information) Regulations 2006 - SI 2006/567
+
+The scheme administrator is required to report certain events to HMRC, using the Pension Schemes Online Service.
+
+For example, if the member is relying on an entitlement to an enhanced or protected lifetime allowance the scheme administrator must report this to HMRC.
+
+For details of the event report, see PTM161100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm160100).

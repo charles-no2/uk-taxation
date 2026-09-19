@@ -1,0 +1,28 @@
+Definition of relevant settlement
+Identifier: CG39295
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39295
+Published: 2016-03-12T11:00:47+00:00
+Updated: 2016-01-25T16:44:06+00:00
+Retrieved (UTC): 2026-09-18T14:47:57.379162+00:00
+
+TCGA92/Sch4C/para8A
+
+Chargeable gains accrue to beneficiaries who receive capital payments from a relevant settlement.
+
+A relevant settlement in relation to the original transfer of value is the transferor settlement and the transferee settlement, TCGA92/Sch4C/para8A(2).
+
+If a relevant settlement makes a transfer of value or TCGA92/S90 transfer, CG38910+, any transferee settlement in relation to that later transfer is also a relevant settlement in relation to the original Schedule 4C pool, TCGA92/Sch4C/para8A(3).
+
+If a relevant settlement makes a transfer of value any settlement that is a relevant settlement in relation to the original Schedule 4C pool is also a relevant settlement in relation to the later Schedule 4C pool, TCGA92/Sch4C/para8A(4).
+
+Wider definition of relevant settlement
+
+The rules in sub-paragraphs 8A(3) and (4) cast the net of TCGA92/Sch4C very wide. The reason for them is to prevent the effect of TCGA92/Sch4C being avoided by the following type of arrangement.
+
+The trustees of settlement 1 have a pool of stockpiled TCGA92/S87 gains. They make a trivial transfer of value to settlement 2. The transfer creates a Schedule 4C pool which includes the stockpiled TCGA92/S87 gains. A Schedule 4C pool is created even if there is no TCGA92/Sch4B gain, CG39260.
+
+The trustees of settlement 1 then make a further transfer of value to settlement 3. This gives the trustees of settlement 1 another Schedule 4C pool but the only gains in it are any TCGA92/Sch4B gains created by the transfer of value, which may be minimal. Without the wider definition of relevant settlement any capital payments by the trustees of settlement 3 would be matched only against the gains in the later Schedule 4C pool and not against the pool which includes the stockpiled section 87 gains.
+
+Residence of relevant settlements
+
+The trustees of a relevant settlement can be resident or non-resident, TCGA92/Sch4C/para10.

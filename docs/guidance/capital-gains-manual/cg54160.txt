@@ -1,0 +1,22 @@
+Qualifying corporate bonds: FA2002: derivatives
+Identifier: CG54160
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg54160
+Published: 2016-03-12T11:34:33+00:00
+Updated: 2016-01-26T09:29:36+00:00
+Retrieved (UTC): 2026-09-18T14:43:17.426726+00:00
+
+This guidance relates to the interaction of the CG code with the regime for derivative contracts of companies introduced by FA2002 for accounting periods beginning on or after 1 October 2002.
+
+Derivative contracts are contracts used to manage risk of exposure to fluctuations in, for example, interest rates or exchange rates.
+
+Interest rate instruments include swaps, caps, floors, forward rate agreements and options to enter into those agreements.
+
+Exchange rate instruments include forward currency contracts, including currency swaps, and options to enter into these contracts.
+
+For accounting periods beginning before 1 October 2002, derivative contracts used by companies to minimise exposure to interest rate or exchange rate fluctuations, were within the regime for Financial Instruments (CG44000).
+
+FA2002 replaced the Financial Instruments regime with the Derivative Contracts regime (in FA2002/SCH26) and extended it to cover all derivative contracts except those specifically excluded. Guidance to determine whether a derivative is excluded from the derivative contracts regime is at CFM13220+.
+
+Derivative contracts which are not specifically excluded are wholly within the income regime for derivative contract. If contracts are excluded from that regime, then, if they are financial futures or options, TCGA92/S143 will bring them within the CG regime. See CG55400+ if a contract is a quoted, traded or financial option, and CG56000+ if it is a financial future.
+
+A derivative contract may be brought within the derivative contracts regime, and hence leave the CG regime, as a result of the changes in FA2002. When that occurs, there is deemed to be a disposal of the contract at its carrying value in the accounts immediately before it enters the loan relationship regime. The gain or loss is held over until the company ceases to be a party to the contract, when the chargeable gain or allowable loss accrues to the company. If the deemed disposal results in a loss, the company may elect for the loss to be relieved as a non-trading loan relationship debit in that accounting period. For more detailed guidance, and an example, see CFM14220.

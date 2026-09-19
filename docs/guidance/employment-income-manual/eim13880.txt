@@ -1,0 +1,34 @@
+Post-employment notice pay (PENP) formula
+Identifier: EIM13880
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13880
+Published: 2018-04-05T14:59:49+01:00
+Updated: 2021-12-15T15:51:02+00:00
+Retrieved (UTC): 2026-09-18T14:10:34.927040+00:00
+
+Section 402D ITEPA 2003
+
+With effect from 6 April 2018, some termination payments and benefits are chargeable to income tax as general earnings and do not benefit from the £30,000 threshold available in section 403 ITEPA 2003.
+
+EIM13874 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13874) defines the term ‘relevant termination awards’ and explains that relevant termination awards are split into 2 elements:
+
+- post-employment notice pay (PENP) (see EIM13876 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13876))
+
+- relevant termination awards subject to section 403 ITEPA 2003 (see EIM13878 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13878))
+
+Post-employment notice pay is calculated using the PENP formula, set out in section 402D ITEPA 2003. The PENP formula is:
+
+((BP × D) ÷ P) − T
+
+‘BP’ is the employee’s basic pay in respect of the last pay period of the employment ending before the trigger date (see EIM13882 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13882)).
+
+‘D’ is the number of calendar days in the post-employment notice period (see EIM13890 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13890)).
+
+‘P’ is the number of calendar days in the employee’s last pay period (see EIM13886 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13886)).
+
+‘T’ is any payment, or benefit received in connection with the termination of a person’s employment, which is chargeable to income tax apart from in Chapter 3 Part 6 of ITEPA 2003. There are some important exceptions to what is included within the amount of ‘T’. (see EIM13896 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13896)).
+
+If the amount given by the formula is negative then take the amount of post-employment notice pay to be nil.
+
+If the amount given by the formula exceeds the total amount of the relevant termination awards then post-employment notice pay is capped at the total amount of the relevant termination awards.
+
+For a worked example of this formula, see EIM14000 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim14000).

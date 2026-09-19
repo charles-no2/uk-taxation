@@ -1,0 +1,32 @@
+Lifetime transfers: the charge to tax: additional charges: introduction
+Identifier: IHTM14571
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14571
+Published: 2016-04-09T09:19:58+01:00
+Updated: 2016-11-23T13:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:57:58.813484+00:00
+
+Additional charges arise where a transfer was:
+
+- immediately chargeable (IHTM04067 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04067)), and
+
+- the transferor dies within seven years.
+
+Initially you should recalculate the tax on the transfer as if it were a potentially exempt transfer (PET) (IHTM14513 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14513)), at the full death rate. You then compare the recalculated figure to the liability at the time of the transfer (lifetime rates are normally half the death rates).
+
+If the recalculated figure is higher than that at the time of the transfer, you charge the difference. This is the additional tax charge.
+
+If the recalculated figure is lower than that at the time of the transfer, do not repay the difference.
+
+You can follow the examples later in this section.
+
+The main factors affecting the recalculation are:
+
+- the value for tax, which is not always the same as previously (IHTM14572 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14572))
+
+- the cumulation, which may now include PETs (IHTM14573 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14573))
+
+- the rate of tax (IHTM14574 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14574)), and
+
+- taper relief (IHTM14575 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14575))
+
+If the chargeable transfer was made before 18 March 1986, you only calculate additional tax if the transferor died within three years of the transfer.

@@ -1,0 +1,92 @@
+Trusts: outline of CGT for trusts
+Identifier: CG33100
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33100
+Published: 2016-03-12T10:38:28+00:00
+Updated: 2025-11-12T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:31:30.936449+00:00
+
+Introduction (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33100#introduction)
+
+The settlement (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33100#the-settlement)
+
+Transfers in (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33100#transfers-in)
+
+Events during life of a settlement (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33100#events-during-the-life-of-settlement)
+
+Transfers out (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33100#transfers-out)
+
+Rates of tax (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33100#rate-of-tax)
+
+Annual exempt amount (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33100#annual-exempt-amount)
+
+Interests of beneficiaries (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33100#interests-of-beneficiaries)
+
+Introduction
+
+In December 2003 Ministers commissioned a project of 'trust modernisation' for CGT and IT, making use of a substantial consultation procedure. One of the principal objectives was to harmonize definitions between IT and CGT. The main changes for CGT were:
+
+- The Rate Applicable to Trusts (RAT) was increased to 40% from 6 April 2004
+
+- A new régime for trusts for vulnerable beneficiaries was introduced so that the overall liability is based on the position of the vulnerable beneficiary from 6 April 2004
+
+- A new stand-alone definition of settlor for CGT was introduced for most purposes, although the actual change was very small, from 6 April 2006
+
+- The residence test for trustees was harmonized with the existing one for IT and the special treatment of professional trustees was abolished, both from 6 April 2007
+
+- The option for a 'sub-fund' to be treated as a separate settlement, on the making of the appropriate election was introduced, from 6 April 2006.
+
+Other major changes to IT and IHT were introduced at the same time. Apart from the first bullet above, which was enacted in Finance Act 2004, and the special treatment for vulnerable beneficiaries which was enacted retrospectively in Finance Act 2005, the changes to CGT were enacted in Finance Act 2006.
+
+Finance Act 2006 also introduced a major reform of the way in which trusts are dealt with for IHT. This had implications for CGT which are discussed at appropriate places in this Manual. It was not part of the modernisation project.
+
+The settlement
+
+CGT is charged on the trustees of the settlement. The word 'settlement' has broadly the same meaning as 'trust' in CG33020 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33020), but one settlement may contain several trusts or funds dealing with different property or different individuals. The settlement is treated for CGT purposes as the taxable entity. It is therefore important to know whether there is one settlement or several, see CG33280 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33280). The word 'settlement' is not defined as such for the general purposes of CGT or IT.
+
+The trustees of the settlement are treated as a single and continuing body for CGT purposes. See CG33340 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33340). The trustees of the settlement’s return and the accompanying self-assessment are usually made by one or more of the trustees in office at the time the return is issued, but CGT is payable by any trustee in office in the year in which the chargeable gains accrued or any subsequent year. See CG35400 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg35400).
+
+In simple terms there is a disposal for CGT whenever property goes in or out of the settlement, whether by sale or by gift, or when a beneficiary becomes absolutely entitled to property as against the trustees. In many situations however hold-over relief may be available under TCGA92/S165 or TCGA92/S260.
+
+Transfers in
+
+If a person makes a settlement and transfers property to the settlement, in making the settlement or subsequently, that is a disposal by the settlor at market value of the whole of the property which becomes settled property even if the settlor retains an interest. See CG35700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg35700).
+
+Events during the life of settlement
+
+During the lifetime of the settlement the trustees may buy and sell property. Chargeable gains are computed on the disposals in the same way as for individuals.
+
+An interest in possession is a right to the income from particular property, or a share of the income, or the use of a particular asset. See CG36320 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg36320). Prior to 6 April 2006 on the death of a person with such an interest, if the property continued to be settled property, the trustees were treated as disposing of the property, or the part of the property corresponding to the share in the income, and reacquiring it at market value, but without any charge to tax unless there has been a previous held-over gain. The position is now more complicated. This provision only applies where the interest falls within particular designated IHT categories. See CG36450 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg36450).
+
+This corresponds to the exemption on the death of an individual except as regards previous held-over gains.
+
+Transfers out
+
+If a beneficiary becomes absolutely entitled to any of the settled property as against the trustee, there is at that moment a deemed disposal and reacquisition of the property concerned at market value by the trustees. See CG37000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37000). The trustees then hold the asset as bare trustees, see CG34300  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34300)onwards. If this is the result of the death of a person with an interest in possession, then some or all of that gain may be exempted. See CG36454 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg36454).
+
+Unused allowable losses may in certain circumstances pass to the beneficiaries. See CG37200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37200).
+
+Rates of tax
+
+For the years up to and including 2007-08 the trustees' gains were charged on the settlor if the settlor or the settlor's spouse or civil partner could or did benefit from the settlement. This special treatment does not apply for 2008-09 onwards.
+
+See CG33500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33500)+ for guidance on the treatment of settlements for vulnerable beneficiaries. For the years 2004-05 to 2007-08 the trustees' gains were charged on the beneficiary in the same way that TCGA92/S77 charged the settlor if he or she could benefit from the settlement. For 2008-09 onwards the charge is on the trustees at the rates given at CG10245 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10245) below but a credit is given if the beneficiary would be charged a lower amount of Capital Gains Tax.
+
+See CG38430P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38430p) for guidance on the taxation of non-resident settlements. Capital Gains Tax is not normally charged on the trustees but there can be a charge on either the settlor or beneficiaries of a non-resident settlement or the trustees if they are liable to NRCGT, see CG10700C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10700c).
+
+Annual exempt amount
+
+In general the trustees are entitled to half the annual exempt amount of an individual. However if the settlement came into existence after 6 June 1978, and other settlements have been made since then by the same settlor, the annual exempt amount is reduced. See CG18000C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg18000c).
+
+If the settlement is for the benefit of a disabled person the trustees are entitled to the same annual exempt amount as for individuals, subject to reductions if the settlor has made other settlements for the disabled since 11th March 1981. See CG18050 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg18050)+.
+
+Interests of beneficiaries
+
+The interest of a beneficiary in a settlement is a form of property. Therefore, without a specific provision, the disposal or realization of such an interest would be a disposal of an asset for the purposes of CGT. This however would mean that there would be two charges when a person became absolutely entitled to property, the commonest case of realizing an interest, since the trustees would be liable because the beneficiary had become absolutely entitled.
+
+Therefore in general a beneficiary is exempt when an interest in a settlement is disposed of. There are three exceptions (see CG38000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38000)+).
+
+- where the beneficiary acquired the interest for payment or derives his title to the interest from someone who acquired it for payment,
+
+- where the interest is in a non-resident settlement, and
+
+- where the interest is in a settlement that has been non-resident.

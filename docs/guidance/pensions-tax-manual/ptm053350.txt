@@ -1,0 +1,292 @@
+Annual allowance: pension input amounts: defined benefits arrangements: worked examples: late retirement actuarial uplifts
+Identifier: PTM053350
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-28T22:16:06+00:00
+Retrieved (UTC): 2026-09-18T14:50:42.467371+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Note – for tax year 2015-16 there are transitional rules for calculating pension input amounts. PTM058070 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070) has more details.
+
+Section 234(5B) Finance Act 2004
+
+The valuation assumptions require the pension entitlement to be considered as if the member had reached the age at which no early retirement reduction would apply.
+
+Commonly, members who continue in pensionable service after the normal pension age in a defined benefits arrangement are offered (a) continued accrual or (b) to have their benefits at normal pension age increased with late retirement factors or (c) the better of the 2 scales - and either could be better.
+
+Trustees of pension schemes typically review actuarial factors annually and update them for the latest financial and demographic information. The opening value for the pension input amount must be based on the member’s benefit rights immediately preceding the pension input period and the closing value must be based on the member’s benefit rights at the end of the pension input period. A change in the actuarial factor during the pension input period could, therefore, create an extra positive or negative element to the pension input amount because of the different factors applying for the purpose of the opening and closing values.
+
+Once a member in active service has reached such an age, the impact of late retirement increases might have to be included when calculating rights for assessing their pension input amounts.
+
+Member reaches the scheme’s normal pension age part way through the pension input period (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350#partway)
+Member has reached the scheme’s normal pension age throughout the pension input period (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350#throughout)
+
+Member reaches the scheme’s normal pension age part way through the pension input period
+
+Where part way through a pension input period for an arrangement the member reaches the scheme’s normal pension age and ceases to accrue any further benefit, with a late retirement actuarial uplift applying for the rest of that pension input period, the late retirement actuarial uplift factor would have to be taken into account for the period from reaching the scheme’s normal pension age to the end of the pension input period. This would be for calculating the member’s rights at the end of the pension input period for assessing the pension input amount.
+
+Example
+
+Andrew is an active member of a pension scheme that has a normal pension age of 60, at which point in time he remains in service but ceases any further accrual and does not draw his pension.
+
+The pension input period for Andrew’s arrangement under the pension is the same as the tax year.
+
+Members who cease accrual at the scheme’s normal pension age but who do not draw benefits are eligible for late retirement actuarial uplifts (in accordance with scheme rules as at 14 October 2010).
+
+The uplift is based on the factors in force from time to time, but these are always set in accordance with the rule provisions in place on 14 October 2010, and result in the same uplift as would have applied for an identical member ‘B’ who had instead been a deferred pensioner with similar delay in drawing pension.
+
+Andrew reaches normal pension age on 31 January 2012 and ceases any further accrual on that date.
+
+At the end of the 2011-12 pension input period on 5 April 2012, Andrew’s accrued pension has increased since the start of the pension input period by reference to salary and service accrual up to 31 January 2012 and an increase to the deferred pension in accordance with the scheme rules, being a late retirement actuarial uplift in respect of the period between 31 January and 5 April 2012.
+
+Andrew’s benefit rights at the end of the pension input period for the purpose of calculating the pension input amount include both the salary and service accrual up to 31 January 2012 and the late retirement actuarial uplift increase between that date and 5 April 2012.
+
+By the end of the 2012-13 pension input period Andrew is still not taken his benefits for the arrangement. The deferred benefits continue to increase in accordance with the same scheme rules as at 14 October 2010. There has been no accrual of further benefits to, or in respect of, Andrew under the arrangement over the pension input period.
+
+There is no pension input amount for the 2012-13 pension input period as the late retirement actuarial uplift are ignored in this case.
+
+Member has reached the scheme’s normal pension age throughout the pension input period
+
+Commonly, members who continue in pensionable service after the normal pension age in a defined benefits arrangement are offered:
+
+- continued accrual
+
+- to have their benefits at normal pension age increased with late retirement factors
+
+- the better of the 2 scales immediately above - and either could be better (PTM053910 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053910) has more details on how this interacts with the ‘deferred member carve-out’).
+
+The following shows how the pension input amount position might differ depending on whether the benefit that grows after normal pension age is salary-linked or is uplifted by age-related factors or is set as the better of the 2.
+
+Example
+
+Data used for the purpose of this example:
+
+- Emily has normal pension age of 60
+
+- the pension formula for her in the scheme on retiring at normal pension age is 1/60 x pensionable service x final pensionable salary
+
+- if the member retires from service at any time before age 60 the pension will be reduced by an age-related factor.
+
+In all the following:
+
+- Emily remains in pensionable service after age 60 and throughout the pension input period in question
+
+- all of Emily’s benefits in the pension scheme accrue in a single arrangement
+
+- no other benefits arise in the arrangement and the member does not draw benefit (that is, no BCEs arise) during the pension input periods in question.
+
+The pension input period is 6 April - 5 April, this example uses the pension input periods ending 5 April 2014 onward.
+
+The CPI figure is 3%. The CPI figure used in this example is for illustrative purposes only and is used for each of the pension input periods for 2013-14 to 2015-16.
+
+Pensionable service is:
+
+- at 5 April 2013 her age is 60, service 18 years and final pensionable salary is £80,000
+
+- at 5 April 2014 her pensionable salary is £83,000
+
+- at 5 April 2015 her pensionable salary is £90,000
+
+- at 5 April 2016 her pensionable salary is £92,000.
+
+Scenario 1 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350#IDAJL3LD)
+Scenario 2 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350#IDAVR3LD)
+Scenario 3 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350#IDABS3LD)
+Scenario 4 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350#IDAP53LD)
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350#Top)
+
+Scenario 1
+
+At retirement from service after age 60, the pension is calculated based on final pensionable salary at, and service to, actual date of retirement (a similar formula to the pension on retirement at age 60).
+
+This example would follow the same lines as the calculation if Emily had not yet reached age 60, starting off as follows:
+
+Pension input amount for the pension input period ending 5 April 2014 would be calculated as follows:
+
+- opening value = [18/60 x £80,000 = £24,000] x 16 x 1.03 = £395,520
+
+- closing value = [19/60 x £83,000 = £26,283] x 16 = £420,528
+
+- pension input amount for the pension input period = £25,008 (£420,528 - £395,520).
+
+And similarly for the next pension input periods when Emily is accruing benefits in this way.
+
+Summary table for Scenario 1
+
+Age |  Pension on accrual basis |  Pension input period |  Pension input amount for the pension input period |
+
+60 |  £24,000 |  - |  - |
+
+61 |  £26,283 |  1 |  £25,008 as above |
+
+62 |  £30,000 |  2 |  £30,000 x 16 - £26,283 x 16 x 1.03 = £46,856.16 |
+
+63 |  £32,200 |  3 |  £32,200 x 16 - £30,000 x 16 x 1.03 = £20,800 |
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350#Top)
+
+Scenario 2
+
+At retirement from service after age 60 the scheme provides the pension accrued at age 60, uplifted by a late retirement factor in circumstances in which the provisions explained above apply.
+
+The deferred member carve-out applies for all the pension input periods so Emily’s pension input amount from this scheme is nil during the pension input periods that the uplift applies.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350#Top)
+
+Scenario 3
+
+At retirement from service after age 60, the pension is calculated as the better of
+
+- the pension accrued at age 60, uplifted by a late retirement factor, in circumstances in which the provisions explained above apply
+
+- the pension calculated based on final pensionable salary at, and service to, actual date of retirement.
+
+The examples below show the calculation of the pension input amount for the three pension input periods from when Emily is age 60 to age 63.
+
+First pension input period
+
+Pension input amount:
+
+- at present, the scheme’s late retirement factor is 10% per annum simple, meaning that, for example, benefits delayed and taken at age 65 rather than age 60 receive a 50% uplift where the late retirement factor is the ‘better of’ scale
+
+- these uplift factors are set in accordance with the provisions in the scheme’s rules as at 14 October 2010 (which set out the manner of setting them, not a hardcoded table)
+
+- the uplift factors are used for a deferred pensioner delaying drawing pension past age 60.
+
+Calculation of the opening value:
+
+- at the start of the pension input period, the pension to which Emily would be entitled if she drew it
+
+- 18/60 x £80,000 = £24,000
+
+- the opening value is therefore
+
+- £24,000 x 16 x 1.03 = £395,520.
+
+Calculation of the closing value:
+
+- at the end of the pension input period, the pension Emily would be entitled to if she started to draw it, being the greater of
+
+- late retirement factor - £24,000 x 1.1 = £26,400
+
+- based on continuing service and salary - 19/60 x £83,000 = £26,283
+
+- meaning Emily’s pension entitlement would have been £26,400
+
+- the closing value at the end of the pension input period is
+
+- £26,400 x 16 = £422,400.
+
+Calculation of the pension input amount:
+
+- the pension input amount for the scheme is normally calculated by comparing the opening and closing values
+
+- however, a comparison test is not required in this case because Emily’s ‘better of’ pension at the end of this pension input period is the one calculated using the late retirement factor in respect of the delay since age 60
+
+- as her pension is based on applying the late retirement factor rather than continued accrual (that is, her pension is not based on continuing service and salary) Emily has not accrued additional benefits
+
+- this means the deferred member carve-out applies for this pension input period
+
+- therefore, Emily’s pension input amount from this scheme is nil.
+
+Second pension input period:
+
+Calculation of the opening value:
+
+- using the methodology set out above, at the start of the pension input period, Emily’s accrued benefit in the scheme, and the value of those benefits, are £26,400 per annum and £435,072 (£422,400 x 1.03) respectively.
+
+Calculation of the closing value:
+
+- at the end of the pension input period, Emily’s final pensionable salary has increased to £90,000, and she now has 20 years pensionable service
+
+- the benefit she has accrued at the end of the pension input period is calculated using the methodology set out above, and equals £30,000 per annum, this being the greater of:
+
+- £24,000 x 1.2 = £28,800
+
+- 20/60 x £90,000 = £30,000
+
+- the closing value of the benefits, at the end of the pension input period is therefore
+
+- £30,000 x 16 = £480,000.
+
+Calculation of the Pension Input Amount:
+
+- Emily’s ‘better of’ pension at the end of this pension input period is based on continued accrual (that is, on continuing service and salary) rather than applying the late retirement factor
+
+- Emily has therefore accrued additional benefits during this period, meaning the deferred member carve-out does not apply for this period (unlike the first pension input period)
+
+- the pension input amount for the scheme is therefore calculated as normal by comparing the opening and closing values
+
+- £480,000 - £435,072 (£26,400 x 16 x 1.03) = £44,928
+
+Third pension input period:
+
+Suppose during this pension input period the scheme’s late retirement factors are reviewed, and they are increased to 12% per annum simple. This is not a change from the methodology set out in the scheme’s rules as at 14 October 2010, but rather an updating of the factors based on a consistent methodology.
+
+Calculation of the opening value:
+
+- using the methodology set out above, at the start of the pension input period, Emily’s accrued benefit in the scheme, and the value of those benefits are £30,000 per annum and £494,400 (£480,000 x 1.03) respectively.
+
+Calculation of the closing value:
+
+- at the end of the pension input period, Emily’s final pensionable salary has increased to £92,000, and she now has 21 years pensionable service
+
+- the benefit she has accrued at the end of the pension input period is calculated using the methodology set out above, and equals £32,640 per annum, this being the greater of
+
+- £24,000 x 1.36 = £32,640
+
+- 21/60 x £92,000 = £32,200
+
+- the value of the accrued benefits at the end of the pension input period is therefore
+
+- £32,640 x 16 = £522,240.
+
+Calculation of the pension input amount:
+
+- at the end of this pension input period Emily’s ‘better of’ pension is based on applying the late retirement factor rather than continued accrual (continuing service and salary)
+
+- therefore, she has not accrued additional benefits during this period (like in the first pension input period)
+
+- as Emily has not accrued additional benefits and because the late retirement factor was still in accordance with the 14 October 2010 rules, the deferred member carve-out also applies for this pension input period
+
+- therefore, Emily’s scheme pension input amount for the third pension input period is nil.
+
+Emily’s ability to use the deferred member carve-out is not affected by the change to the late retirement factors during the pension input period, as this was merely a change to the value of the factors, and not to the underlying methodology, which remains as set out in the scheme’s rules as at 14 October 2010.
+
+Summary table for scenario 3
+
+Age |  Pension on uplift basis |  Pension on accrual basis |  Pension input period |  Pension input amount for the pension input period |
+
+60 |  £24,000 |  - |  - |  - |
+
+61 |  £26,400 |  £26,283 |  1 |  Nil as per guidance |
+
+62 |  £28,800 |  £30,000 |  2 |  £44,928 |
+
+63 |  £32,640 |  £32,200 |  3 |  Nil as per guidance |
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350#Top)
+
+Scenario 4
+
+The circumstances are the same as for Scenario 2 (that is, only late retirement factors are used and not salary linking) but the late retirement factors used are not ones to which the provisions explained above apply.
+
+The deferred member carve-out would not apply.
+
+The late retirement factors used feed into the calculation of the closing value for each pension input period.
+
+Suppose the data that applied were as for Scenario 3 (ignoring the calculations there relating to continued accrual based on final pensionable salary and continued service), this results in the following calculations (which are the same as for Scenario 3 but ignoring the items relating to calculating pension on accrual based on continuing service and salary basis).
+
+Summary table for Scenario 4
+
+Age |  Pension on uplift basis |  Pension input period |  Pension input amount for the pension input period |
+
+60 |  £24,000 |  - |  - |
+
+61 |  £26,400 |  1 |  £26,400 x 16 - £24,000 x 16 x 1.03 = £26,880 |
+
+62 |  £28,800 |  2 |  £28,800 x 16 - £26,400 x 16 x 1.03 = £25,728 |
+
+63 |  £32,640 |  3 |  £32,640 x 16 - £28,800 x 16 x 1.03 = £47,616 |

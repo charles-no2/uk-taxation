@@ -1,0 +1,26 @@
+Arrival in and departure from UK: temporary non-residence: held-over gains - year of departure 2012-13 or earlier
+Identifier: CG26250
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg26250
+Published: 2016-03-12T10:26:45+00:00
+Updated: 2026-06-09T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:39:20.989883+00:00
+
+TCGA92/S10A(4)
+
+Sometimes a gain on disposal of an asset (the first asset) is ‘held over’ and not charged until another asset is disposed of. Where this happens under one of the provisions listed below then the gains which eventually accrue when the other asset is disposed of are not excluded from the scope of TCGA92/S10A by subsection (3) of that section, where subsection (3) would otherwise apply because the other asset was within its scope (see CG26230  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg26230)and CG26240 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg26240)). Note that for subsection (3) to be disapplied in this way, the first asset must not be within its scope.
+
+Where TCGA92/S10A(4) applies, a held-over gain which accrues on a disposal in an intervening year when a taxpayer is not UK resident will be treated as accruing in the year of return to the UK, even if the asset which is disposed of was acquired after the taxpayer became non-resident, see CG26111 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg26111).
+
+The Capital Gains Tax ‘hold-over’ provisions to which this subsection refers are:
+
+- TCGA92/S116(10) or TCGA92/S116(11) (where the new asset is a qualifying corporate bond), see CG53709 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53709)+.
+
+- TCGA92/S134 (compensation stock), see CG55045 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55045)+.
+
+- TCGA92/S154(2) or (4) (depreciating assets), see CG60295 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg60295).
+
+Example
+
+Mr Priestley goes to live in France for political reasons. As a result, he is not resident in the UK for the next three full years of assessment. During the first of those years he sells his shares in Priestley Chemicals Ltd and receives qualifying corporate bonds issued by the purchaser, Davy Plc. In the following year he redeems the qualifying corporate bonds and receives cash.
+
+Although he has actually disposed of his shares, TCGA92/S116(10) applies and so he is treated for the purposes of TCGA 1992 as if he had not done so. Instead, a gain is computed as if he had disposed of the shares and that gain is ‘held over’ or ‘frozen’ until he disposes of the qualifying corporate bonds. Without the special provision at TCGA92/S10A(4) the gain which accrued when the qualifying corporate bonds were disposed of would not be within the scope of section 10A because they are assets both acquired and disposed of whilst Mr Priestley was not UK resident. Note that the first asset, the shares, is not within the scope of subsection (3) because it was acquired before Mr Priestley left the UK: it is appropriate to bring the gain latent in those shares within the potential scope of section 10A even though the gain did not arise until some other asset was disposed of.

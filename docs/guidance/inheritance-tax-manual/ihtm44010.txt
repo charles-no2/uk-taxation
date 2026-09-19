@@ -1,0 +1,48 @@
+Pre-owned assets: calculation of the charge: introduction
+Identifier: IHTM44010
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44010
+Published: 2016-04-09T10:29:58+01:00
+Updated: 2016-02-11T17:26:28+00:00
+Retrieved (UTC): 2026-09-18T15:10:08.650619+00:00
+
+For any taxable period, the chargeable amount in relation to the relevant land is the appropriate rental value, less the amount of any payments which the chargeable person makes in the period which they are legally obliged to make to the owner of the relevant land in respect of their occupation, FA04/Sch15/Para 4(1).
+
+The appropriate rental value is defined in FA04/Sch15/Para 4(2) as R × (DV ÷ V) where
+
+- R is the rental value of the relevant land for the taxable period, and
+
+-
+
+DV is
+
+- where the chargeable person owned an interest in the relevant land (IHTM44004 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44004)), the value as at the valuation date of the interest in the relevant land that was disposed of by the chargeable person (IHTM44012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44012)), or where the disposal was a non-exempt sale (IHTM44015 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44015)), the ‘appropriate portion’ of that value, FA04/Sch15/Para 4(2)(a),
+
+- where the chargeable person owned an interest in other property, the proceeds of which were used to acquire an interest in relevant land, (IHTM44004) such part of the value of the relevant land at the valuation date as can reasonably be attributed to the property originally disposed of by the chargeable person (IHTM44013 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44013)) or, where the original disposal was a non-exempt sale (IHTM44015 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44015)), to the appropriate portion of that property, FA04/Sch15/Para 4(2)(b), or
+
+- if the contribution condition applies, such part of the value of the relevant land at the valuation date as can reasonably be attributed to the consideration provided by the chargeable person (IHTM44014 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44014)), FA04/Sch15/Para 4(2)(c). Note that the rules about non-exempt sales do not apply where the contribution condition is met.
+
+- V is the value of the relevant land at the valuation date.
+
+These provisions contain a number of terms that are either defined in the legislation or require explanation
+
+- the ‘taxable period’ means the year of assessment, or part of a year of assessment, during which the POA charge on land applies to the chargeable person, FA04/Sch15/Para 4(6). If the land is only occupied for part of the year, say 6 months, and the chargeable person has no right to occupy the land for the remainder of the year, only one half of the rental value is subject to tax,
+
+- the ‘valuation date’ in relation to a taxable period is 6 April in the relevant year of assessment, or if later, the first day of the taxable period when the POA charge applies (IHTM44011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44011)),
+
+- the ‘rental value’ of the land for the taxable period is the rent which would have been payable for the period if the property had been let to the chargeable person at an annual rent equal to the annual value,
+
+-
+
+the ‘annual value’ is described in FA04/Sch15/Para 5 as the rent that might reasonably be expected to be obtained on a letting from year to year if
+
+- the tenant undertook to pay all taxes, rates and charges usually paid by a tenant,
+
+- FA04/Sch15/Para 5(1)(a), and
+
+- the landlord undertook to bear the costs of the repairs and insurance and the other expenses, if any, necessary for maintaining the property in a state to command that rent, FA04/Sch15/Para 5(1)(b).
+
+- ‘rent’ is further defined by FA04/Sch15/Para 5(2) as the rent that is calculated on the basis that the only amounts that may be deducted in respect of the services provided by the landlord are amounts in respect of the cost to the landlord of providing any relevant services. Relevant service, FA04/Sch15/Para 5(3), means a service other than the repair, insurance or maintenance of the premises. In other words, if the landlord provides other relevant services, for example the maintenance of the common parts in a block of flats and that is reflected in the rent then the cost of providing those services may be deducted from the rent.
+
+The legislation contains no direction about the how the required valuations should be obtained. However, we expect the chargeable person to take all reasonable steps to ascertain the valuations, as they would do if, for example, they were looking to let a property on the open market.
+
+Note that it is the amount before deducting contributions by the chargeable person by way of rent which is compared with the de minimis limit (IHTM44056 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44056)).

@@ -1,0 +1,26 @@
+Exceptions where no grant is needed: chain of representation (England, Wales and Northern Ireland)
+Identifier: IHTM05114
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm05114
+Published: 2016-03-20T09:21:36+00:00
+Updated: 2016-02-11T16:56:34+00:00
+Retrieved (UTC): 2026-09-18T14:53:44.742568+00:00
+
+A chain of representation arises where all the executors (IHTM05012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm05012)) die before completing the administration of the estate. Under s7(1) Administration of Estates Act 1925 (Article 32(1)) or the Administration of Estates (NI) Order, 1979 (in Northern Ireland) ‘an executor of a sole or last surviving executor of a testator is the executor of that testator’. The new executors are automatically appointed without the need for any further formalities. The example below shows how the chain works.
+
+Example
+
+Aled dies having appointed Brin and Cerys his executors. Brin and Cerys take out a grant of probate (IHTM05101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm05101)) of Aled’s Will (IHTM12000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12000)).
+
+Brin dies having appointed Daphne and Eric as his executors. Cerys will carry on as the sole or surviving executor of Aled’s Will.
+
+Cerys dies having appointed Petra and Quinn as her executors. So, Petra and Quinn become the executors by representation of Aled’s Will.
+
+The chain is broken if:
+
+- a testator (IHTM05012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm05012)) fails to appoint an executor, or
+
+- the sole or last surviving executor dies intestate (IHTM12101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12101)), or
+
+- probate of the Will is not obtained.
+
+If any of these things happens anyone who intends to complete administration of the estate will need to obtain a grant of administration de bonis non (IHTM05102 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm05102)).

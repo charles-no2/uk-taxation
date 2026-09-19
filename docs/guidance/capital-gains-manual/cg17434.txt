@@ -1,0 +1,54 @@
+Indexation: from 6/4/88: Machinery/Plant:
+Identifier: CG17434
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17434
+Published: 2016-03-12T10:17:26+00:00
+Updated: 2023-04-12T10:27:10+01:00
+Retrieved (UTC): 2026-09-18T14:38:30.679883+00:00
+
+Net loss equals capital allowances
+
+In the typical case involving plant and machinery the capital allowances, for the purposes of TCGA92/S41, are equal to the difference between the cost and the sale proceeds. If TCGA92/S41 did not apply the loss for CG purposes would be equal to this difference plus indexation on the original cost.
+
+The method of computation under TCGA92/S41 is quite simple.
+
+- Deduct from the allowable expenditure the net capital allowances. This will give you a loss of nil at this stage of the computation.
+
+- Calculate indexation on the net expenditure after the deduction.
+
+- You will end up with a loss which is equal in amount to indexation on the sale proceeds, although it is in fact indexation on the reduced cost.
+
+See example in CG17510.
+
+Capital allowances less than loss
+
+In some cases the capital allowances are LESS than the difference between the cost and the sale proceeds. The main reason for this is that particular expenditure does not qualify for capital allowances; for instance if a person buys land on which a factory is situated. It can also happen where there is incidental expenditure which does not so qualify. The computation is basically as described above, but deducting the capital allowances from the expenditure leaves an unindexed loss. See the second example in CG17510, headed ‘Capital allowances less than adjusted loss’.
+
+TCGA92/S41 (2)
+
+Restriction of losses for capital allowances
+
+As explained in CG15410, the effect of TCGA92/S41 (2) is to reduce the expenditure allowable as a deduction under TCGA92/S38, if you are computing a loss.
+
+TCGA92/S53 (3)
+
+TCGA92/S53 (3) provides that in determining the amount of RAE, where there is a provision which reduces or excludes the whole or any part of any item of expenditure falling within TCGA92/S38, then the RAE is the adjusted amount. So, because TCGA92/S41 reduces the amount of expenditure in the computation, it is taken into account for indexation purposes. Indexation is due on the amount as reduced by TCGA92/S41.
+
+Unindexed loss can become unindexed gain
+
+It may be suggested that you should only deduct sufficient capital allowances from the allowable expenditure to eliminate the unindexed loss. In the case where the difference between the cost and the sale proceeds is equal to or more than the capital allowances, as in the examples in CG17510, this does not matter. But it is important in the case where the capital allowances exceed the net loss, as in the third example in CG17510, headed ‘Capital allowances greater than adjusted loss’. A computation may be submitted on these lines, using the figures in that example:
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  180,000 |
+
+Less |  Cost |  200,000 |  - |
+
+- |  Deduct capital allowance (restricted) |  20,000 |  180,000 |
+
+- |  Unindexed gain |  - |  NIL |
+
+THIS COMPUTATION IS WRONG.
+
+The argument in support of HMRC’s view is that there is nothing in the wording of TCGA92/S41 (2) that requires you to deduct only sufficient of the capital allowances to eliminate the unindexed gain. The subsection states that if you are computing a loss you must deduct the capital allowances from the amounts allowable as deductions.
+
+You may meet attempts to argue for the contrary view from the wording of TCGA92/S41 (1), which refers to restricting losses by reference to capital allowances etc. But this argument has to be used in conjunction with the argument that `loss’ in TCGA92/S41 means unindexed loss. CG17450 explains why we think that this is not correct.

@@ -1,0 +1,30 @@
+Shares and securities: company reconstructions: non-UK law issues
+Identifier: CG52502
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52502
+Published: 2025-12-02T14:02:35+00:00
+Updated: 2026-04-02T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:42:37.430410+00:00
+
+The rules dealing with share exchanges and company reconstructions in sections 135 and 136 TCGA were drafted in the context of transactions that take place under UK company law. Sometimes it is not straightforward to see whether they can apply to transactions undertaken under non-UK company law. For example, some other states’ merger provisions can involve two companies literally merging into one with the surviving company retaining the legal personality of either one, or possibly both, of the original companies.
+
+The most common issue that arises is whether the condition in section 135 is met in terms of the shareholders in the original company (company A) exchanging their interests in that company for an issue of shares in another (company B) where the non-UK company law procedure involves another company (MergerCo) as an intermediate step.
+
+HMRC’s view is that section 135 is capable of applying in such a case where, on a realistic view, company B acquires the full benefit of the shares originally held in company A and the overall effect of the transaction is the same as had those shares been acquired directly, as would happen under UK company law. A similar approach is taken where section 136 is in point.
+
+One particularly common type of transaction is a ‘reverse triangular’ merger under the law of a US state, although variations are seen elsewhere.
+
+Example –
+
+A UK based multinational (B plc) intends to acquire a US corporation (A Inc) in return for an issue of shares. This will take place using a reverse triangular merger under Delaware law. Will section 135 apply to A Inc’s UK shareholders?
+
+The transaction involves the following elements –
+
+- B plc incorporates MergerCo for a nominal amount,
+
+- The A Inc shares are converted into a right to receive an issue of shares by B plc and are then cancelled.
+
+- The shares in MergerCo are converted into and become shares in A Inc.
+
+- The original shareholders of A Inc are issued directly with new shares in B plc in consideration.
+
+If the other conditions of section 135 are met, including the absence of a UK tax risk, HMRC would accept that B plc has issued shares in exchange for those in A Inc. The transaction will therefore be treated as a share reorganisation for the UK shareholders of A Inc. In addition, no gain would arise to B plc as a result of any disposal of its interest in MergerCo.

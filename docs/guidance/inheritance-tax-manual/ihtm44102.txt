@@ -1,0 +1,42 @@
+Pre-owned assets: specific avoidance schemes: land - reversionary leases
+Identifier: IHTM44102
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44102
+Published: 2016-04-09T10:31:59+01:00
+Updated: 2019-04-12T11:55:40+01:00
+Retrieved (UTC): 2026-09-18T15:10:30.440887+00:00
+
+This scheme is an arrangement where a donor grants a long lease of their property for say 999 years to the proposed donee, and the lease does not take effect until some future date.
+
+Example
+
+Victor, who has owned his house since 1990, grants a 999-year lease to his daughter Veronica in 1998 but it is not to take effect until 2018. Victor continues to occupy the property.
+
+The effect of this transaction is that
+
+- Victor has made a PET (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)) of the lease. The loss to his estate (IHTM04054 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04054)) will be the difference between the unencumbered freehold and the freehold subject to the lease,
+
+- Victor continues to occupy the property as the freeholder, and
+
+- the value of the freehold interest remaining in Victor’s estate will decline as the time for the lease to commence approaches.
+
+Where the scheme is subject to the POA charge, the value subject to the charge will be calculated in accordance with FA04/Sch15/Para4(2) (IHTM44010 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44010)). You will need to obtain three values to correctly assess the POA charge
+
+- the rental value (R), say, £25,000,
+
+- the value at the valuation date (IHTM44011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44011)) of the interest that was disposed of (DV); in this case, the value of the lease (that is to take effect in 20 years), say, £100,000, and
+
+- the value of the property at the valuation date (V), say, £800,000.
+
+Following the formula at IHTM44010, the amount subject to the POA charge is
+
+25,000 × 100,000 ÷ 800,000 = £3,125 - which would be covered by the de minimis rule (IHTM44056 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44056)).
+
+But note that as the date for the lease to start gets nearer, so the value of the interest that was disposed of (DV) will increase. The initial value will apply for the first five years of the POA charge, but on revaluation (IHTM44011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44011)) the portion of the rental value that is subject to the POA charge is likely to be higher.
+
+Reservation of Benefit Provisions
+
+The gift of the reversionary lease will be property subject to a reservation of benefit under FA86/S102 where there are covenants within the terms of the lease that are beneficial to the donor, such as covenants by the lessee to, say, maintain the property and keep it in repair. This was confirmed at the Court of Appeal in Viscount Hood (executor of Lady Hood v HMRC [2018] EWCA Civ 2405.
+
+If there are no covenants within the terms of the lease then the reservation of benefit provisions are still capable of applying where the scheme was established on or after 9 March 1999. FA86/S102A(5) is capable of applying where the freehold interest was acquired less than 7 years before the gift (this is the significance of the date Victor acquired his house in the example above). If the freehold was acquired within 7 years the continued occupation of the property by the donor would be a significant right in relation to the land in view of FA86/S102A(5) dependent upon how the remaining provisions of the section apply – for example, if the donor pays full consideration for the right to occupy or enjoy the land, that would not a significant right in view of FA86/S102(3).
+
+An exemption from the POA charge will be available under FA04/Sch15/Para 11 where the gifted lease is subject to a reservation of benefit. Where the gifted reversionary lease is not property subject to a reservation of benefit, the POA charge would then arise instead.

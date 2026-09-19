@@ -1,0 +1,34 @@
+Deeply discounted securities: taxation: ‘earn-out’ rights
+Identifier: SAIM3100
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3100
+Published: 2016-03-19T16:25:24+00:00
+Updated: 2015-12-03T11:02:50+00:00
+Retrieved (UTC): 2026-09-18T14:26:16.953382+00:00
+
+‘Earn-out’ rights
+
+ITTOIA05/S442 prevents a security being treated as a deeply discounted security merely because it was issued to satisfy a ‘qualifying earn-out right’. A qualifying earn-out right is where
+
+- a person transfers shares or debentures in a company, or the whole or part of, or an interest in a business, in return for unascertainable deferred consideration, and
+
+- the deferred consideration takes the form of a right to receive a security such as loan notes at a later date.
+
+Example
+
+George and his wife Tabitha each own 50% of the shares in a small trading company, X Ltd. Each subscribed £50,000 for their shares many years ago. An established group of companies, the C group, makes an offer for the company. It is agreed that the C group will pay an immediate cash sum of £1.2 million for the company, i.e. £600,000 to each of George and Tabitha.
+
+In addition, C plc will, in two years’ time, issue loan notes to George and Tabitha if, but only if, the pre-tax profits of X Ltd are at least £150,000 in each of the two years. Provided this condition is fulfilled, the nominal value of the loan notes to be issued will be £200,000 plus 10% of the profits of X Ltd in those two years. George and Tabitha’s right to be issued with these notes is a ‘qualifying earn-out right’.
+
+The loan notes represent deferred consideration that is not ascertainable when the shares are sold. CG58000 onwards gives guidance on the capital gains tax treatment of these arrangements. Under TCGA92/S138A (3), the earn-out right is treated as a notional security. Suppose that the market value of the earn-out right held by each spouse is agreed to be £60,000. The base cost of the notional security held by George is therefore
+
+£50,000 x 60,000/(600,000 + 60,000) = £4,545
+
+At the end of two years the qualifying conditions are met and C plc issues loan notes with a nominal value of £150,000 to George. The notes carry interest, and can be redeemed at par after 12 months. The issue of the notes is treated as a company reorganisation, by virtue of TCGA92/S138A (3)(c).
+
+However, without ITTOIA05/S442, the issue price of the loan notes would be the value of the earn-out right when it was granted, in other words £60,000. Since the notes will redeem for £150,000, they would clearly be deeply discounted securities and George would have an income tax charge on a profit of £90,000.
+
+But this would lead to double taxation. This is because if the loan notes are deeply discounted securities, they will automatically be qualifying corporate bonds (QCBs) - TCGA92/S117 (2AA). Thus when the “notional security” - the earn-out right - is extinguished and the loan notes are issued, TCGA92/S116 (10) will apply. So a chargeable gain of £150,000 - £4,545 = £145,455 (subject to taper relief) will be calculated at the time when the loan notes are issued, and brought into charge when George redeems or otherwise disposes of them.
+
+ITTOIA05/S442 removes this double charge. It does so by treating the issue price of the securities as the market value of the earn-out right immediately before their issue (plus any further cash consideration given for the securities).
+
+In this example, the value of the earn-out right immediately before the issue of the loan notes is £150,000. This means that the notes are not deeply discounted securities, and no income tax charge arises when they are redeemed. The vendor’s profit on the earn-out arrangements is wholly within the CGT rules.

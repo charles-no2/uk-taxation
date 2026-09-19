@@ -1,0 +1,64 @@
+The degrouping charge: mergers: examples
+Identifier: CG45463
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45463
+Published: 2016-10-17T15:05:14+01:00
+Updated: 2016-10-17T15:05:01+01:00
+Retrieved (UTC): 2026-09-18T14:41:01.270830+00:00
+
+The following simplified examples illustrate the main conditions for relief under the merger provisions.
+
+EXAMPLE 1 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45463#IDAZZONG)
+
+EXAMPLE 2 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45463#IDAQ1ONG)
+
+EXAMPLE 1
+
+STAGE 1
+
+Companies X and Y wish to merge the businesses carried on by their wholly-owned subsidiaries X-sub and Y-sub. . Each business is valued at £60 million.
+
+Use this link to view example 1 stage 1 diagram (http://www.hmrc.gov.uk/gds/cg/images/45463a.GIF)
+
+STAGE 2
+
+A new company, M, is formed. M issues its own shares to X and Y as consideration for M acquiring all the shares in X-sub and Y-sub.
+
+Use this link to view example 1 stage 2 diagram (http://www.hmrc.gov.uk/gds/cg/images/45463b.GIF)
+
+On the merger, X-sub leaves the group headed by X, and Y-sub leaves the group headed by Y. This could give rise to degrouping charges on X-sub and Y-sub. But there are no degrouping charges if the merger satisfies the conditions in Section 181. You have to apply Section 181 to each of X-sub and Y-sub in turn. Applying the terms of Section 181 to the degrouping of X-sub, X-sub is company A', the group headed by X is the A group’, and the acquiring company' is Y. In relation to the degrouping of Y-sub, Y-sub is company A’, the group headed by Y is the A group', and the acquiring company’ is X.
+
+The following analysis deals with the degrouping of X-sub. A reciprocal analysis (substituting Y' for X’ and X' for Y’) applies to the degrouping of Y-sub.
+
+Y acquires, through its shareholding in M, an interest in the business carried on by X-sub. This satisfies Section 181(2)(a). X acquires, through its shareholding in M, an interest in the business carried on by Y-sub. This satisfies Section 181(2)(b) , since Section 181(3) treats Y as carrying on the business of Y-sub.
+
+The whole of the interest acquired by Y in the business of X-sub, and the whole of the interest acquired by X in the business of Y-sub, consists of a holding of ordinary share capital (in M), so the 25 per cent requirement in Section 181(4)(a) is satisfied.
+
+The value of the interest acquired by Y in the business of X-sub is the same as the value of the interest acquired by X in the business of Y-sub (50 per cent of £60M in each case). This satisfies Section 181(4)(b).
+
+The consideration given by Y (a 50 per cent interest in Y-sub) for the acquisition of the interest in the business of X-sub consists of the interest acquired by X in the business of Y-sub. This satisfies Section 181(4)(c).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45463#Top)
+
+EXAMPLE 2
+
+STAGE 1
+
+Companies P and Q wish to merge the business carried on by P’s wholly-owned subsidiary P-sub with one of the businesses carried on by Q. Each business to be contributed to the joint venture is worth £40 million.
+
+Use this link to view example 2 stage 1 diagram (http://www.hmrc.gov.uk/gds/cg/images/45463c.GIF)
+
+STAGE 2
+
+Q transfers to a new subsidiary Q-sub the assets and liabilities of the business which is to be contributed to the merger. Q-sub issues its own shares to Q as consideration for the business transferred to it, valued at £40 million.
+
+Use this link to view example 2 stage 2 diagram (http://www.hmrc.gov.uk/gds/cg/images/45463d.GIF)
+
+STAGE 3
+
+P-sub acquires the entire issued share capital of Q-sub in exchange for the issue of its own shares to Q.
+
+Use this link to view example 2 stage 3 diagram (http://www.hmrc.gov.uk/gds/cg/images/45463e.GIF)
+
+On the merger, P-sub leaves the group headed by P, and Q-sub leaves the group headed by Q. In this example Section 181 prevents degrouping charges in relation to each of P-sub and Q-sub for the same reasons as in Example 1, except that Q holds a direct interest in P-sub and P holds through P-sub its interest in Q-sub.
+
+Both the examples above show situations where, following the merger, each group has a 50% interest in the merger vehicle. Section 181 can apply to prevent degrouping charges where the merger is other than 50:50. If, in example 1, the value of the assets put into the merger by X was £70M and the value of those total contributed by Y was £30M, shares in M would be issued at stage 2 so that X would hold 70% of M and Y 30%. Provided the interests of X and Y in the merged entity are proportionate to the value of their contributions to the merger, it is possible for the transactions to fall within Section 181, as long as the other conditions are satisfied.

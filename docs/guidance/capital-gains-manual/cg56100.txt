@@ -1,0 +1,38 @@
+Futures: financial futures: contracts for differences
+Identifier: CG56100
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56100
+Published: 2016-03-12T11:38:26+00:00
+Updated: 2021-03-31T15:03:27+01:00
+Retrieved (UTC): 2026-09-18T14:33:36.365598+00:00
+
+The term ‘contract for differences’ is not new. In its widest sense it refers to any derivative contract involving a cash payment, or series of cash payments, between the parties based on fluctuations in the value or price of property, or an index designated in the contract. It therefore encompasses many financial derivatives, including futures and options which can only be cash settled, as well as swaps.
+
+However the term has become associated with a particular type of contract (a “retail contract for differences”) marketed, particularly to individual investors, alongside futures and options. Such a contract enables an investor to take a view on whether a share price, an index, or the value of an asset will go up or down.
+
+Typically, an investor enters into a contract for differences with a counter-party authorised under the Financial Services and Markets Act 2000, a derivatives broker. The investor may “go long” on the underlying asset or index, anticipating that its value will increase. In that case, he will receive a payment based on the increase in the value of the asset or index between his entering into the contract and closing out the contract. Contracts are commonly closed out by entering into an equal and opposite contract.
+
+Alternatively, if he thinks the value of the underlying asset or index is going to go down, he will “go short” in the contract, receiving payment based on the fall in value during the life of the contract.
+
+The investor will have to put up a deposit, commonly 20% of the value of the underlying asset, although it may range from about 5% to 35%. As the value of the underlying asset moves, he or she may be entitled to a refund of part of that deposit, or may have to increase it.
+
+In the case of contracts where the underlying asset is shares or a share index, the investor who goes long may also be entitled to receive a sum equivalent to any dividend payable on the shares (if they are the underlying asset) or on the shares that make up the index. This “dividend” will be netted off against the deposit.
+
+The derivatives broker who is the other party to the contract may also debit the account with a sum equivalent to the interest the investor would have to pay had he or she borrowed commercially to buy the shares. Thus an investor taking a long position on shares worth £100,000, and putting down a deposit of £20,000, will have to pay “interest” calculated on either the gross value of the position (£100,000) or the net value (£80,000), depending on the precise details of the contract.
+
+Retail contracts for differences enable investors to have the returns that would arise from holding shares without having to pay the full price for the shares (and without paying the dealing costs such as stamp duty reserve tax). An investor who “goes long” on shares has returns equivalent to those he or she would receive on a holding of the shares in question.
+
+An investor who goes short is producing the same results as if they were to enter into a contract to sell, at a future date, shares that they did not own, in the hope that the price would fall before completion of the sale, so that they could buy the shares that they had to deliver at a price lower than the agreed sale price.
+
+This means that the investor who takes a short position will be:
+
+- credited with a payment equivalent to the “interest” they would receive had they sold shares and deposited the cash (the rate at which interest is credited on short positions is generally lower than that at which interest in charged on long positions), and
+
+- debited with an amount representing the dividends they would forego by parting with the shares.
+
+Payments equivalent to interest that the investor makes or receives are not true interest. Similarly, no true dividends change hands. The amounts are instead entered into the capital gains computation. The investor should not show amounts received as investment income (interest or company dividends) on his or her return. And “interest” or “dividends” paid cannot be netted off against income.
+
+The final element that enters the computation is commission, which most brokers charge on contracts for differences.
+
+Retail contracts for differences are financial futures, and, unless the profits are taxable as trading income, in almost every case TCGA92/S143 charges the outcomes under the capital gains regime (CG56000+). SP03/02 gives guidance on when profits or losses are to be regarded as trading income.
+
+All debits and credits to the account, including commission and sums equivalent to interest and dividends, are brought within the computation of the net chargeable gain or allowable loss when the contract is closed out.

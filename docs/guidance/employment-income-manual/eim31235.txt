@@ -1,0 +1,44 @@
+Employees using own vehicles for work: use of the approved  amount: chargeable amount and relief available
+Identifier: EIM31235
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31235
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-03-17T13:42:45+00:00
+Retrieved (UTC): 2026-09-18T14:12:49.543901+00:00
+
+Sections 230 and 231 ITEPA 2003
+
+Chargeable amounts and relief available
+
+The following 3 step calculation is carried out for each kind of vehicle (EIM31240 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31240)):
+
+Step 1: calculate the mileage allowance payments received
+
+Calculate the amount of mileage allowance payments (MAPs, EIM31210 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31210)) received for that kind of vehicle for that tax year.
+
+Step 2: deduct the approved (exempt) amount
+
+Deduct the approved amount for mileage allowance payments (the approved amount, EIM31230 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31230)) applicable to that kind of vehicle for that tax year.
+
+Step 3: is the answer positive or negative?
+
+If the answer is positive:
+
+- this is the chargeable amount to be reported on form P11D
+
+- the amount in Step 2 is exempt
+
+If the answer is negative:
+
+- this is the amount of mileage allowance relief (see EIM31330 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31330)) to which the employee is entitled
+
+- all MAPs are exempt
+
+The answer may be modified in the following circumstances:
+
+- if the employee uses more than one vehicle in the same employment, see EIM31275 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31275)
+
+- if the employee has more than one employment in the year, see EIM31280 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31280)
+
+Examples
+
+These start at EIM31350 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31350).

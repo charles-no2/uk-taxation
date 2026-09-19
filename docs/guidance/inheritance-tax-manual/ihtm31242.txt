@@ -1,0 +1,12 @@
+Assessing: COMPASS: settlement cases: case structure
+Identifier: IHTM31242
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31242
+Published: 2016-04-09T10:04:00+01:00
+Updated: 2016-02-11T17:18:54+00:00
+Retrieved (UTC): 2026-09-18T15:06:02.741474+00:00
+
+Settlement cases are organised into one or more accounts (IHTM10601), which are numbered chronologically. But, as the COMPASS record is primarily designed for death cases, the records are divided into entries (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)) rather than accounts.
+
+The first entry is always Entry B, normally the historic value of the settlement on the day it was created. Use Entries C to Z to enter each subsequent charge (one per Entry).
+
+At the start of a new file you will often need to put information into Entry B and then create one or more further Entries for the charges you now need to calculate.

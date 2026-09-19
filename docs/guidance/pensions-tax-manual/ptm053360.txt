@@ -1,0 +1,70 @@
+Annual allowance: pension input amounts: defined benefits arrangements: bridging pensions: prospective entitlement
+Identifier: PTM053360
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053360
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-01T20:28:24+00:00
+Retrieved (UTC): 2026-09-18T14:50:42.876957+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Note – for tax year 2015-16 there are transitional rules for calculating pension input amounts. PTM058070 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070) has more details.
+
+Many registered pension schemes operate a provision under which a higher temporary pension (so an additional ‘bridging’ pension) is paid for a few years after retirement (usually until the coming into payment of state pension). Typically, the temporary pension is payable to age 60 or 65.
+
+The annual rate of pension (‘PE’) to be used to value defined benefit rights is the higher starting amount that will come into payment at retirement. This means that the ’16 x’ value factor applies to the temporary bridging pension as it would to a ‘whole-life’ pension.
+
+A similar situation can occur in relation to the lifetime allowance calculations but for that there may be a mitigation action: scheme rules often allow an individual to opt at retirement to exchange the temporary pension for a lower ‘whole-life’ pension to which the ’20 x’ factor is then applied.
+
+In the context of the annual allowance, this mitigation is not usually available. In general scheme rules only allow members to opt to exchange a temporary pension when they reach retirement, not on a ‘prospective’ basis as would be needed for the annual allowance not to take it into account - so the ‘16 x’ factor would apply to the temporary pension through all accrual years.
+
+Example - regular accrual:
+
+- member has normal pension age of 60
+
+- part of the basic provision of the scheme at retirement is a bridging pension payable from normal pension age to age 65
+
+- the normal pension age rule specifies that the member’s benefit on retirement at normal pension age is a whole-life pension of service at normal pension age x 1/60ths of final pensionable salary at normal pension age and a bridging pension of service x 1/80ths x the Basic State Pension at normal pension age
+
+- at the close of the previous pension input period, the member had service of 30 years, final pensionable salary of £60,000 and the Basic State Pension is £5,000
+
+- the member stays in service and is a member throughout the pension input period and at the end of the pension input period final pensionable salary is £62,000 and Basic State Pension is £5,100
+
+- pension input amount
+
+- opening value:
+
+- step 1 - find annual rate of pension entitlement just before start of the pension input period for annual allowance purposes
+
+- ‘PB’ = [30/60 x £60,000] + [30/80 x £5,000] = £30,000 + £1,875 = £31,875
+
+- step 2 - multiply result by 16 (no special treatment arises from part of the pension being paid for a limited term
+
+- £31,875 x 16 = £510,000
+
+- step 3 - add on any separate lump sum entitlement
+
+- none so running total is £510,000
+
+- step 4 - increase amount for CPI (for the purpose of this example assume relevant CPI increase is 3%)
+
+- £510,000 x 1.03 = £525,300
+
+- closing value:
+
+- step 1 - find annual rate of pension entitlement at end of the pension input period for annual allowance purposes
+
+- ‘PE’ = [31/60 x £62,000] + [31/80 x £5,100] = 32,033.33 + 1,976.25 = £34,009.58
+
+- step 2 - multiply result by 16
+
+- £34,009.58 x 16 = £544,153.28
+
+- step 3 - add on any separate lump sum
+
+- none so running total is £544,153.28
+
+- if there are no other adjustments to the closing value, the pension input amount is £18,853.28 (£544,153.28 - £525,300)
+
+- the part of this arising from the increased entitlement to the temporary pension is £720 (that is, [31/80 x £5,100] - [(30/80 x £5,000) + CPI])
+
+- this calculation could apply both before the member retires and also in the year in which the member takes his benefits (at normal pension age).

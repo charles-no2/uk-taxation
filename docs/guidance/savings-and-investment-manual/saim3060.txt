@@ -1,0 +1,30 @@
+Deeply discounted securities: securities issued in separate tranches
+Identifier: SAIM3060
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3060
+Published: 2016-03-19T16:25:17+00:00
+Updated: 2019-04-10T15:14:21+01:00
+Retrieved (UTC): 2026-09-18T14:26:15.523567+00:00
+
+Further issues of securities
+
+ITTOIA05/S434 to 436 apply where there is a further issue (tranche) of securities under the same prospectus as a previous issue.
+
+The basic rule in ITTOIA05/S435 is that where the original issue was not a deeply discounted security, then the further tranche will not be treated as a deeply discounted security, unless the issue is to a connected person.
+
+ITTOIA05/S436 qualifies this so that if the later issue of the securities are deeply discounted and the ‘aggregate nominal value’ of the further tranche (that is, the par value) exceeds that of the original issue then all the securities (including the original issue) are treated as deeply discounted.
+
+Example
+
+In 2009 Company E issued £1,000,000 10-year bonds for £980,000. These are not deeply discounted securities as the difference between issue and redemption amount is less than £50,000 (£1,000,000 x 0.5% x 10 years).
+
+In 2013 the company issues a further tranche of the securities with a par value of £500,000. The issue price is £400,000. These are issued under the same prospectus, in other words they have the same terms and conditions as the 2009 issue, including the 2019 maturity date. This tranche has been issued at a deep discount - the difference between issue price and redemption amount is more than £15,000 (£500,000 x 0.5% x 6 years). However because the nominal value (£500,000) of the deeply discounted bonds does not exceed that of the non deeply discounted bonds, the further tranche securities are not treated as deeply discounted securities.
+
+In 2017 the company issues another £600,000 worth of the securities for £550,000. The profit on redemption of £50,000 is a deep discount as it exceeds £6,000 (£600,000 x 0.5% x 2 years). The total nominal value of securities issued at a deep discount (£1,100,000) now exceeds that of the original securities not issued at a deep discount. As a result the entire issue of £2,100,000 will be treated as if they were deeply discounted securities.
+
+‘EU prospectus directive’
+
+The aim of the ‘tranche rules’ is to preserve the ‘fungibility’ of securities for tax purposes where fungibility is commercially intended. ‘Fungibility’ here means that the issue of securities is intended to be consolidated with an earlier issue and form a single series, so that that the two issues are traded interchangeably in the securities markets. In order for a new issue to be fungible with an existing issue its terms and conditions must be identical to those of the existing issue.
+
+The EU Prospectus Directive 2003/71/EC set new and stringent disclosure requirements for prospectuses, and the disclosures relating to successive issues of a security may differ as a consequence.
+
+Where an issue of securities is intended to be fungible with an earlier issue, and the securities are - as a matter of fact - issued with the same terms and conditions, HMRC regard them as being ‘issued under the same prospectus’, even if the content of and disclosures in the base prospectus have been extended as a result of the Directive.

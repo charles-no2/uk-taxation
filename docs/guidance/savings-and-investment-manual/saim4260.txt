@@ -1,0 +1,38 @@
+Accrued Income Scheme: special types of transfer: new issues  of securities
+Identifier: SAIM4260
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4260
+Published: 2016-03-19T16:26:21+00:00
+Updated: 2015-12-03T11:02:50+00:00
+Retrieved (UTC): 2026-09-18T14:26:28.426227+00:00
+
+‘Tranches’ of securities
+
+ITA07/S649 specifies how the Accrued Income Scheme applies in cases where an issuer of securities makes more than one issue of a particular debt security.
+
+Debt issuers may make further issues of the same securities rather than issue fresh securities. The further securities issued in each new tranche are intended to be fungible with the very first securities of that kind issued, so they have identical terms. Where such securities are issued part way through an interest period, the interest payable on the next interest date would be less than the interest payable on that date for existing securities. To compensate for this and to ensure complete fungibility, the issuer will pay an extra amount of interest on these securities. The extra interest is treated in the same way as accruing interest.
+
+In such cases, as the securities will have a different interest rate to the original securities, they will often fall with the definition of variable rate securities (SAIM4180 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4180)), in which case ITA07/S649 will not apply.
+
+ITA07/S649 (1) details the criteria that further tranches have to meet for the legislation to apply. These are
+
+- ‘new’ securities are issued;
+
+- securities of the same kind have been previously issued;
+
+- a sum (the extra interest) is payable in respect of the new securities, by the person issuing them, to reflect the fact that interest is accruing on the old securities in the pre-issue period;
+
+- the extra interest is equal to the interest payable on the old securities for the pre-issue period;
+
+- the new securities’ issue price reflects the extra interest (whether or not it is separately identified).
+
+The new securities are treated as transferred with accrued interest to the person to whom they are issued on the new issue day – that is, the day on which the new securities are issued. This day is treated as the settlement day. No one is treated as a transferor.
+
+New securities issued with extra interest: special calculation for payments
+
+Where ITA07/S649 applies, ITA07/S662 gives special rules for calculating the amount of the payment on the transfer. The amount depends on whether or not the person to whom the new securities are issued accounts separately to the issuer for the extra interest and the rest of the issue price.
+
+If they do account for them separately, the amount of the payment under ITA07/S628 is the amount of the extra interest to be accounted for. If not, the amount of the payment is equal to I x A/B.
+
+I is the interest payable on the new securities on the first issue on the first interest payment day after the issue day, A is the number of days in the ‘pre-issue period’, and B is the number of days from the beginning of the pre-issue period to the payment day.
+
+The purchaser will be entitled to use the accrued income loss for the accrued interest purchased against a subsequent accrued income charge or if the securities are retained, against the receipt of interest at the payment date. The effect of this (assuming no other transfer of the same kind of security has taken place in the interest period) is that the recipient of the securities will only be taxed on the interest which accrued during the time he or she owned the securities.

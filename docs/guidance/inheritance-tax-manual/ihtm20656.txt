@@ -1,0 +1,36 @@
+Life Policies: Technical note on discounted gift schemes issued on 1May 2007: HMRC’s current basis of valuation
+Identifier: IHTM20656
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm20656
+Published: 2016-04-09T09:34:53+01:00
+Updated: 2016-02-11T17:08:27+00:00
+Retrieved (UTC): 2026-09-18T15:00:33.394719+00:00
+
+The retained rights should be valued on an open market basis in accordance with IHTA84/S160. In investing in the retained rights the open market purchaser (OMP) will need to take account of the rate of return they require and the cost of insuring the settlor(s) life.
+
+The annual amount to be paid under the retained rights, net of any income tax liability that the purchaser may suffer, is multiplied by a purchase factor generated from a suitable formula - for example, a Jellicoe formula (see for example ‘Actuarial Valuations of Interests in Settled Property’ - Beard FIA & Prevett FIA Institute of Actuaries 1973 page 15).
+
+(1 - p) ÷ (p + i) where
+
+- p is the annual premium expressed as a decimal and
+
+- i is the OMP’s rate of return also expressed as a decimal.
+
+The present value of the retained rights is arrived at from the product of the net annual amount of the retained rights and the purchase factor. The open market value (OMV) is 97% of that present value (rounded to the nearest £50) to reflect the OMP’s costs of say 3%.
+
+Alternative approaches may be used to arrive at broadly similar results and we are open to considering and agreeing alternative valuation bases that achieve that aim. Our current mortality and interest rate basis is
+
+- Mortality : 70% of AM / AF 80 Mortality (reflecting the improvement over the table for assured lives for males and females published by the Continuous Mortality Investigation Bureau in 1990 reference CMIR 10)
+
+-
+
+Interest rate :
+
+- 5.25% before 1 June 2007.
+
+- 6.00% from 1 June 2007 to 31 August 2007
+
+- 6.75% from 1 September 2007 to 31 January 2009
+
+- 5.25% from 1 February 2009 onwards
+
+- Open market purchaser’s costs: 3% (as a deduction from the present value of the retained rights).

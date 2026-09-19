@@ -1,0 +1,50 @@
+Accrued Income Scheme: what is a 'transfer'?
+Identifier: SAIM4050
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4050
+Published: 2016-03-19T16:25:46+00:00
+Updated: 2018-11-22T10:33:08+00:00
+Retrieved (UTC): 2026-09-18T14:26:20.907391+00:00
+
+Meaning of ‘transfer’
+
+An AIS charge is triggered by ‘transfers’ of securities. Most transfers result from sales or purchases.
+
+ITA07/S620 defines ‘transfer’ as
+
+- transfer by way of sale, exchange, gift or otherwise (but excluding the vesting of securities in personal representatives on death, or the transfer of deeply discounted securities), or
+
+- conversion, or
+
+- redemption of variable rate securities, in any case where there has been an earlier transfer of securities, or
+
+- one of the number of special types of transaction treated as a transfer.
+
+Securities are treated as transferred when the agreement to transfer is made, and not on a later actual transfer. The AIS is based on transfers of the legal ownership of securities, not the transfer of the underlying beneficial ownership. Thus, for example, there is no transfer for the purposes of the AIS if a beneficiary under a trust becomes absolutely entitled as against the trustees to securities forming part of the trust fund.
+
+There are different rules for calculating the accrued income tax charge on each of four different kinds of transfer – transfers with accrued interest, transfers without accrued interest, transfers with unrealised interest, and transfers of variable rate securities. See SAIM4060 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4060).
+
+Conversion
+
+Where there is a conversion of securities within the meaning of TCGA92/S132 (see CG55016 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55016) onwards), ITA07/S620 (4) deems the old securities to have been transferred by the holder on the day of the conversion, and ITA07/S621 (2) deems the transferor to be the person entitled to the securities immediately before conversion. The charge thus arising is taxable for the year in which the conversion occurs. There is no deemed relief if old securities are converted into new securities which remain within the scope of the AIS.
+
+The transfer will be treated as ‘with accrued interest’ unless, exceptionally, the securities were acquired without the accrued interest which, but for the conversion, would have become payable on the next interest payment date after the conversion.
+
+Redemption of variable rate securities
+
+In the case of redemption of variable rate securities, ITA07/S621 (3) deems the transfer to take place on the day of redemption, and the transferor is the person entitled to the securities immediately before the redemption is made.
+
+Other special rules on transfers
+
+See SAIM4240 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4240) onwards for special rules which affect who is treated as the transferor or transferee. These are rules on
+
+- transfers involving the stripping or reconstitution of gilts
+
+- securities issued in ‘tranches’
+
+- appropriations of trading stock
+
+- persons becoming trustees
+
+- securities ceasing to be held by a charitable trust
+
+- transfers by or to nominees.

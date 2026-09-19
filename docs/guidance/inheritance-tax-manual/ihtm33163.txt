@@ -1,0 +1,66 @@
+Loss on sale of land: purchases: example of how to adjust the sale price
+Identifier: IHTM33163
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33163
+Published: 2016-04-09T10:09:22+01:00
+Updated: 2022-01-31T13:59:37+00:00
+Retrieved (UTC): 2026-09-18T15:07:01.219647+00:00
+
+Julian is the life tenant of a settlement comprising Blackacre, Whiteacre and Greenacre plus various other investments.
+
+After Julian’s death the trustees carry out the following actions
+
+- They grant a depreciatory lease of Blackacre. Hhad this been in place at the death the value would have been reduced to £36,000.
+
+- They demolish the porch at Whiteacre. Without the porch the value at the death would have been reduced to £49,000.
+
+- They exchange Greenacre for listed securities at a time when its value is £22,000
+
+- They purchase Blueacre for £17,200.
+
+Blackacre was valued at death (IHTM33100 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33100)) at £40,000[D] and its sale price (IHTM33072 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33072)) is £30,000.
+
+Whiteacre was valued at death at £50,000[D] and its sale price is £51,000.
+
+The adjustments under IHTA84/S193 for changes in the interest or underlying land (IHTM33121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33121)) are +£4,000 for Blackacre and +£1,000 for Whiteacre.
+
+After this adjustment, the sale prices are £34,000 for Blackacre and £52,000 for Whiteacre, a total of £86,000[B].
+
+The IHTA84/S196 adjustments (Note 1) arising from the exchange (IHTM33150 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33150)) of Greenacre are +£1,500 for Blackacre and +£500 for Whiteacre.
+
+The adjusted sale prices are now £35,500[S] for Blackacre and £52,500[S] for Whiteacre.
+
+Finally, the IHTA84/S192 adjustment (Note 2) for the purchase (IHTM33161 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33161)) of Blueacre are +£900 for Blackacre and -£500 for Whiteacre.
+
+The fully adjusted ‘sale value’ (IHTM33073 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33073)) for the two properties are £36,400 for Blackacre and £52,000 for Whiteacre.
+
+Note 1
+
+Greenacre:
+
+- Value on death = £20,000
+
+- Value at exchange = £22,000
+
+- Excess = £2,000
+
+Adjustments
+
+The adjustments are:
+
+Blackacre
+
+(£2,000 ÷ £8,000) × (£40,000 - £34,000) = £1,500
+
+Whiteacre
+
+(£2,000 ÷ £8,000) × (£52,000 - £50,000) = £500
+
+Note 2
+
+Purchase of Blueacre £17,200 [A]
+
+Using the formula at IHTM33162 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33162) of (A ÷ B) × (D - S), the adjustments are
+
+- £17,200 ÷ £86,000 × (£40,000 - £35,500) = £900 (to be added to the sale price of Blackacre), and
+
+- £17,200 ÷ £86,000 × (£50,000 - £52,500) = £500 (to be deducted from the sale price of Whiteacre).

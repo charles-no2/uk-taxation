@@ -1,0 +1,16 @@
+IBA: additional VAT: rebates
+Identifier: CA39300
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca39300
+Published: 2016-04-16T09:00:15+01:00
+Updated: 2016-04-06T16:57:45+01:00
+Retrieved (UTC): 2026-09-18T16:21:25.670689+00:00
+
+Budget 2007 announced a business tax reform package including the gradual withdrawal of IBAs and ABAs over four years. Legislation was introduced in FA08 to give effect to those changes. The phased withdrawal of IBA writing down allowances had effect for chargeable periods ending on or after 1 April 2008 for businesses within the charge to CT and 6 April 2008 for businesses within the charge to IT. There are no IBA writing down allowances for the financial year beginning on 1 April 2011 and subsequent years.
+
+You may have a case where a person receives an additional VAT rebate in respect of qualifying expenditure.
+
+If the VAT rebate is less than the residue of qualifying expenditure immediately before the rebate deduct the rebate from the residue of qualifying expenditure and recalculate the WDA in the same way as you recalculate it when someone buys a used industrial building CA31200 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca31200). The WDA will be lower than before.
+
+Example If in the example in CA39200 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca39200) Terry does not pay additional VAT after 5 years when the residue of qualifying expenditure is £200,000 but receives an additional VAT rebate of £4,000; his annual WDA goes down from £10,000 to £9,800 (= [£200,000 - £4,000] / 20).
+
+If the VAT rebate is more than the residue of qualifying expenditure immediately before the rebate the difference is a balancing charge. The residue of qualifying expenditure becomes nil and no more WDA is made.

@@ -1,0 +1,38 @@
+Employment income provided through third parties: exclusions: retirement benefits etc: pension income chargeable under Part 9
+Identifier: EIM45610
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45610
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-10-17T13:46:47+01:00
+Retrieved (UTC): 2026-09-18T14:23:21.597990+00:00
+
+Sections 554S and 567A ITEPA 2003
+
+A relevant step within section 554C or 554D does not give rise to Part 7A income if the step is the provision of pension income which is chargeable to income tax under Part 9 ITEPA 2003 or is exempt income (within the meaning of that Part).
+
+On ‘pension income’ and ‘exempt income’, see EIM75010 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75010) onwards.
+
+Example: EFRBS
+
+Suppose:
+
+- an EFRBS comes through the Section 554A gateway, and
+
+- section 554E does not apply
+
+When the EFRBS makes a pension payment which is chargeable to Income Tax under Part 9 ITEPA 2003, section 554S will prevent that payment from giving rise to Part 7A income. Part 9 will apply to it instead.
+
+Credit will be given for the earlier amount of Part 7A income against the Part 9 income under section 567A ITEPA 2003.
+
+Section 567A ITEPA 2003 reduces the amount of taxable pension income when it accrues or arises out of rights which themselves arose or derived from sums and assets which were the subject of one or more relevant steps.
+
+The amount of taxable pension income will be reduced (over cumulative pension payments) by the amount that counted as employment income under Part 7A until the latter is exhausted. It makes no difference who receives or is entitled to the pension. In other words, the pension may not at first suffer tax at all, but later it probably will.
+
+Example: foreign pension scheme
+
+If a pension is chargeable under Part 9 ITEPA 2003, section 554S will prevent Part 7A income arising. And, as a result, the remittance basis or the 10% deduction for certain overseas government pensions will continue to apply where appropriate see RDRM31150 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31150) and EIM74006. Note that from 6 April 2017 a 10% deduction for other foreign pensions no longer applies.
+
+On section 554B, see EIM45095 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45095) onwards.
+
+On section 554C, see EIM45060 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45060) onwards.
+
+On section 554D, see EIM45080 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45080) onwards.

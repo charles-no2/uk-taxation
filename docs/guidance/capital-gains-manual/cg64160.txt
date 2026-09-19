@@ -1,0 +1,36 @@
+Business Asset Disposal Relief: share exchanges etc. involving QCBs: exchanges from 6 April 2008 to 22 June 2010
+Identifier: CG64160
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64160
+Published: 2016-03-12T11:53:55+00:00
+Updated: 2020-10-14T12:45:45+01:00
+Retrieved (UTC): 2026-09-18T14:34:29.342454+00:00
+
+Entrepreneurs’ Relief was renamed in Finance Act 2020 with effect from 6 April 2020. The new name is generally used in this guidance but should be read as applying to times before that date.
+
+TCGA92/S169R
+
+Applying in relation to relevant transactions occurring from 6 April 2008 to 22 June 2010. See CG64161 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64161) below for exchanges that took place on or after 23 June 2010.
+
+This section applies where there is an exchange of shares or securities for qualifying corporate bonds (QCBs). Gains on QCBs are not chargeable to CGT, and there are special rules (in section 116 of the TCGA) for exchanges of this type - see CG53820+. Under these rules TCGA92/S116 (5) disapplies the effect of TCGA92/S127 to TCGA92/S130 so no election under TCGA92/S169Q can be made in these circumstances because you cannot elect to disapply a section which would not have applied anyway.
+
+TCGA92/S116 (10) (a) requires a calculation to be made of the chargeable gain that would have arisen if the share or securities constituting the ‘old asset’ had been disposed of for their market value at the time of the ‘relevant transaction’, that is to say at the time of the exchange. That hypothetical gain is not charged at the time of the exchange, but is ‘frozen’ and charged when the QCBs (the new assets) are disposed of. When computing the frozen gain relief is deducted (if claimed and due). No further computation of the relief is necessary when the QCBs are redeemed or otherwise disposed of and the accrued, but deferred, gain is released. If only some of the QCBs are redeemed or disposed of, a proportionate part of the deferred gain comes into charge at that time.
+
+The time limit in TCGA92/S169M (3) for making a claim for relief in these circumstances will run from the date the exchange (the “relevant transaction”) is made.
+
+TCGA92/S169R provides rules so that in appropriate cases relief can be claimed in calculating the gain that would have arisen on a disposal of the “old asset” at the time of the exchange for QCBs.
+
+The rule provides for the relief to have effect as though the “relevant transaction” were a “disposal of business assets” consisting of the “old asset” - TCGA92/S169R (2). A claim for relief can be made in respect of the gain arising on that deemed “disposal of business assets” provided the conditions for that disposal to be a material disposal of business assets are met.
+
+The amount of relief is calculated by treating the amount calculated under TCGA92/S116 (10) (a) as the amount under TCGA92/S169N (1) in respect of which the 4/9ths deduction under is applied - see CG64125 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64125).
+
+Example
+
+A exchanges her shares in the trading company Y Ltd for qualifying corporate bonds (QCBs) in May 2008. For some years she has been an employee of Y Ltd, owning 10% of the ordinary shares, which entitle her to exercise 10% of the votes in the company.
+
+She therefore meets the conditions for claiming relief in respect of her shares in Y Ltd. The normal rules for share exchanges apply so there is no immediate charge to CGT in 2008-9 when she exchanges the shares, but the gain that would have arisen on a disposal of those shares for full market value at the date of the exchange is calculated. That calculation results in a gain of £63,000.
+
+A’s ‘frozen’ gain of £63,000 will become chargeable to CGT when the QCBs are redeemed or she disposes of them in any other way.
+
+If A disposes of her QCBs on or before 22 June 2010 then assuming she claims relief (by reference to the exchange in May 2008) on or before 31 January 2011 in respect of the £63,000 gain it will be reduced by 4/9ths to £35,000 and that will be the amount that becomes chargeable at the single rate of CGT of 18%.
+
+On the other hand if A disposes of her QCBs on or after 23 June 2010 and claims (on or before 31 January 2011) relief in respect of the £63,000 it will still be reduced by 4/9ths to £35,000. That amount however will now be charged at the “new” CGT rate of either 18% or 28% as is applicable to A. The result of this is that the ‘effective’ rate of charge on the ‘frozen’ gain attached to the QCB may be more than the 10% it would have been if the QCB disposal had been made before 23 June 2010.

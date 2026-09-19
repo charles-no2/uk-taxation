@@ -1,0 +1,138 @@
+Annual allowance: Pension input amounts: Benefit crystallisation events
+Identifier: PTM054500
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm054500
+Published: 2024-03-27T00:28:22+00:00
+Updated: 2025-11-11T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:48:31.531463+00:00
+
+If you are looking for information about benefit crystallisation events prior to 6 April 2024 please see the National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305095504/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm088000).
+
+Section 232 and Section 236 Finance Act 2004
+
+If an individual is a member of a cash balance arrangement (PTM053400 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400)) or a defined benefit arrangement (PTM053301 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053301)), and during the pension input period (PTM052000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm052000)) a benefit crystallisation event (BCE) occurs then the relevant amount of these events need to be considered to adjust the closing value.
+
+The benefit crystallisation events
+
+Paragraphs A1 – A2 Schedule 32 Finance Act 2004
+
+BCE1
+
+Where funds are designated to provide a member with a drawdown pension.
+
+A BCE 1 can only occur in a money purchase arrangement. Whenever a member designates that sums or assets held in a money purchase arrangement should be made available to provide a drawdown pension.
+
+BCE 2
+
+Paragraph 7 and 8, Schedule 32 Finance Act 2004
+
+Where a member becomes entitled to a scheme pension, whether from a defined benefits arrangement or a money purchase arrangement.
+
+Where a scheme pension entitlement arises before normal minimum pension age, and the member does not satisfy the ‘ill-health condition’ and does not have a protected pension age, then the individual is treated as becoming entitled to it on reaching normal minimum pension age.
+
+BCE 3
+
+Paragraph 9A – 12 Schedule 32 Finance Act 2004
+
+Where a scheme pension already in payment to a member is increased beyond a permitted margin.
+
+If the scheme pension in payment exceeds a certain level, this is considered a BCE 3. An amount is regarded as crystallising when it exceeds both of:
+
+- The threshold rate, and
+
+- The permitted margin.
+
+Threshold rate
+
+The threshold annual rate is exceeded where the difference between:
+
+- The rate of scheme pension in payment a year earierearlier
+
+- The new current rate of scheme pension
+
+Is more than the greatest of:
+
+- The Retail Prices Index (RPI),
+
+- 5% of the rate of the scheme pension in payment a year earlier, and
+
+- £250.
+
+In some instances the 5% figure may be set at a different level for a particular scheme.
+
+Permitted margin
+
+The permitted margin is in effect a notional ongoing cost-of-living increase since the scheme pension came into payment, and is measured as an annual rate of increase of the greater of 5% or the RPI.
+
+If an increase does not exceed the threshold annual rate then a BCE will not have occurred, it only occurs if both of these are exceeded.
+
+The effective date of this BCE is the date on which the member becomes sentitled to the payment of the increased pension.
+
+Abatement
+
+Where the rate of scheme pension paid under a public service pension scheme is initially reduced through abatement, the effects of that abatement are ignored.
+
+Excepted circumstances
+
+The BCE is not a BCE3 for the purposes of the annual allowance if Condition A or Condition B is met.
+
+Condition A
+
+Condition A applies to a scheme pension paid under an arrangement that is not a collective money purchase arrangement. A registered pension scheme that overall has 50 or more pensioner members (that is, persons who are in receipt of pensions directly under the scheme including a scheme pension or dependants’ scheme pension) may increase some or all of those scheme pensions being paid to members beyond the threshold annual rate and the permitted margin without triggering a BCE 3.
+
+This is provided:
+
+- the same rate of increase is applied at the same time to all the scheme pensions that are in payment in respect of a particular class of pensioner members under the scheme, and
+
+- there are at least 20 pensioner members in that particular class.
+
+This exception covers large schemes that might give across the board discretionary augmentation to all their members with pensions in payment, or give increases to different groups of pensioner members at different times. In effect this means that if particular pensioner members are awarded increases in circumstances that are outside of this exception, tests against the threshold annual rate and, if the threshold annual rate is exceeded, the permitted margin to determine if there is a BCE 3 are carried out only in respect of those particular members.
+
+This applies whether the increased rate is given as a fixed percentage or a fixed absolute increase, for example, everyone gets £500 extra a year. It can also apply to a fixed percentage or a fixed absolute increase on a part of the pension for which an increase is being given.
+
+Where a scheme provides for a pension commencement lump sum by way of commutation and a pension increase is a fixed percentage applied to the pre-commutation level of pension, the actual increase to the pension in payment will vary according to how much if any of the pension has been commuted. The increases will not be at the same rate so the increase will not occur in excepted circumstances. This is because BCE 3 occurs by reference to the scheme pension crystallised through BCE 2 and not the pre-commutation level of that pension. It would only be possible to fall within the excepted circumstances if all the pensioner members within a class of more than 20 pensioner members commuted the same percentage of their pension so that the same rate of increase in the pension applies to them all.
+
+Provided the percentage rate of increase is the same for all the pensioner members in a class, the increase may still be given in excepted circumstances even though the actual increases applied vary because of DWP rules, for example increases limited to rights in excess of guaranteed minimum pension (GMP). The same principle applies where it is the scheme rules that limit the increase to a proportion of the pension, say an increase limited to that part of the pension attributable to service before or after a particular cut-off date.
+
+For an increase to be given ‘at the same time’ for all of the members within a particular class of pensioner members means that all of the members in that class get entitlement to the scheme pension at the increased rate with effect from the same date even though the actual payment of the pensions at that increased rate might not start at the same time. For example, there are 20 pensioner members in a particular class and all of them are awarded the same rate of increase on 1 June 2008. Of that class, 15 receive their pensions at the increased rate on 1 June 2008 but the other 5 get their pensions at the increased rate on 1 July 2008 together with an arrears payment to reflect that, for those 5 members, their entitlement to pension at the increased rate actually ran from 1 June 2008.
+
+A ‘class of pensioner member’ can be determined at the time of each increase and can be interpreted flexibly but within its natural meaning. It can include some, or all, pensioner members of the scheme. It need not be confined to a particular category of membership under the scheme rules. It is possible for a member to be in a different class at the time different increases are applied, but this must be subject to the anti-avoidance rule described below.
+
+Where a one-off increase is offered to all of a scheme’s pensioners under a pension increase exchange exercise but the increase for each pensioner is calculated by reference to their age and gender, this is a personalised increase. This is so even if the increases are all calculated using the same formula.
+
+However, where an offer is accepted by at least 20 pensioner members who will receive the same rate of personalised increase, the ‘excepted circumstances’ may apply as the pensioners concerned may be ‘a class of pensioner member’. For example, the scheme rules may permit the scheme administrator and/or the trustees to define those pensioner members accepting the same percentage increase under a pension increase exchange offer as a separate class of pensioner member for this purpose. Provided there are at least 20 pensioner members in the class the excepted circumstances may apply.
+
+Condition B
+
+One distinctive characteristic of a collective money purchase arrangement is that once benefits are in payment they will still fluctuate, they can go up or down depending upon the performance of the overall scheme.
+
+Condition B applies to a scheme pension paid under a collective money purchase arrangement where, at the time of the annual increase, all scheme pensions being paid under the arrangement are increased at the same rate. As with Condition A, this applies whether the increased rate is given as a fixed percentage or a fixed absolute increase, for example, everyone gets £500 extra a year.
+
+For more information about BCE 3 see The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305095112/https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm088630).
+
+BCE 4
+
+Paragraph 7 Schedule 32 Finance Act 2004
+
+Where a member becomes entitled to a lifetime annuity under a money purchase arrangement.
+
+The purchase of a short-term annuity from a drawdown pension fund is not a BCE 4 or any other BCE. This is because the initial designation of funds for drawdown pension is a BCE 1, and the short-term annuity is simply a means of securing the resulting drawdown pension.
+
+If a lifetime annuity contract is purchased before the member reaches their normal minimum pension age, does not have a protected pension age and the ill-health condition is not met, this is not a BCE 4 because this would represent an unauthorised member payment.
+
+BCE 6
+
+Paragraph 15 Schedule 32 Finance Act 2004
+
+Where a member becomes entitled to a relevant lump sum.
+
+A relevant lump sum is:
+
+- A pension commencement lump sum,
+
+- A serious ill-health lump sum
+
+- An uncrystallised funds pension lump sum
+
+- A stand-alone lump sum, or
+
+- A pension commencement excess lump sum.

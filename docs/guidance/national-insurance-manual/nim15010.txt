@@ -1,0 +1,22 @@
+Class 1A National Insurance contributions: Calculating Class  1A NICs: Calculating the total Class 1A NICs due in a tax year
+Identifier: NIM15010
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim15010
+Published: 2016-04-11T17:30:17+01:00
+Updated: 2022-05-11T11:27:53+01:00
+Retrieved (UTC): 2026-09-18T15:15:34.669996+00:00
+
+Section 10(4) of the Social Security Contributions and Benefits Act 1992 (SSCBA 1992)
+
+The total Class 1A NICs due in a tax year is calculated as a set percentage of the total cash equivalents of benefits calculated for tax purposes. The cash equivalent figures are those reported by employers on forms P11D. See NIM15003  (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim15003)and NIM15004  (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim15004)where an employer does not use forms P11D.
+
+Each cash equivalent figure reported on individual P11Ds is added together to obtain a global cash equivalent figure. This global figure is then multiplied by the relevant Class 1A NICs percentage rate to arrive at the total amount of Class 1A NICs due. An example of a Class 1A NICs calculation is provided at NIM15030. (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim15030)
+
+In the majority of cases this figure will represent the employer’s total Class 1A NICs liability. However, see NIM15300  (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim15300)where the cash equivalent figures reported on form P11D need to be adjusted prior to the Class 1A NICs calculation.
+
+The relevant percentage rate at which Class 1A NICs are paid is shown at NIM15021 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim15021).
+
+Before 6 April 2000, Class 1A NICs were calculated on each car and car fuel benefit separately and each calculation was then added together to establish the total amount of Class 1A NICs due. From 6 April 2000, these separate calculations are no longer necessary.
+
+If, exceptionally, an employer wishes to calculate the amount of Class 1A NICs due on each benefit they provide separately, they are entitled to do so. When compared to the global assessment method, slight variations may occur. No attempt should be made to collect the difference where the global calculation produces a greater figure. The variations will be small.
+
+Where separate calculations are made the rules for rounding down fractions of a penny are the same as for Class 1 NICs, see NIM11002 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11002).

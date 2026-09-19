@@ -1,0 +1,32 @@
+Dividends and other company distributions: tax credits on qualifying distributions: tax years up to 2015-16
+Identifier: SAIM5100
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5100
+Published: 2016-03-19T16:27:05+00:00
+Updated: 2020-02-05T10:13:16+00:00
+Retrieved (UTC): 2026-09-18T14:26:36.713393+00:00
+
+Tax credits: qualifying distributions: tax years up to 2015-16
+
+For distributions received before 6 April 2016, tax credits were attached to ‘qualifying distributions’ from companies resident in the United Kingdom which were made either to residents of the United Kingdom or to certain non-UK resident persons. The ITTOIA05 legislation applied to both UK resident and non-UK resident recipients.
+
+Most distributions of companies resident in the United Kingdom were ‘qualifying distributions’. Only bonus issues of redeemable share capital (unless that share capital fell within the stock dividends legislation) or bonus securities were non-qualifying distributions, now called ‘CD distributions’ - see SAIM5050 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5050).
+
+Under ITTOIA05/S397, UK residents and eligible non-UK residents were entitled to a tax credit equal to one ninth of the amount or value of the distribution. Eligible non-UK residents were defined by virtue of ITTOIA05/S397 (4) by reference to ICTA88/S287 (2) (until its repeal by FA09) and ITA2007/S56 (3) (EEA nationals, Crown servants and some other categories).
+
+The person could claim to deduct the tax credit from the income tax charged on the person’s total income for the tax year in which the distribution was made. The non-UK resident had only to fall into the relevant category ‘at any time’ in the tax year, not necessarily throughout it.
+
+ITTOIA05/S397 (3) treated the tax credits attaching to qualifying distributions as reduced if those distributions were not brought into charge to tax. So, for example, if an individual’s total income was reduced by deductions (for example, personal allowances) such that the qualifying distributions were not, or not wholly, brought into charge to tax, the value of the tax credits attaching to those distributions was correspondingly reduced. So a person might have been entitled to a tax credit whose value was nil.
+
+ITTOIA05/S397 (5) made it clear that if a person other than the recipient of the distribution was treated as receiving the distribution, that person was entitled to the tax credit.
+
+The rules in ITTOIA05/S397 were subject to a number of rules which denied tax credits in certain cases. These were
+
+- ITA07/S504(4) (certain types of unit trust - CTM48000 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm48000))
+
+- ITA07/S614ZD(6) (manufactured payments - CFM74440 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm74440))
+
+- FA93/S171 (2B) (Lloyd’s premium trust fund assets - LLM1190 (https://www.gov.uk/hmrc-internal-manuals/lloyds-manual/llm1190)).
+
+Increase in amount or value of dividends where tax credit available
+
+ITTOIA05/S398 treated the amount of the dividend or distribution as increased by the amount of the tax credit. It applied for all income tax purposes including the case where the recipient of the distribution was a member of Lloyd’s. But the section did not apply if the recipient of the distribution was charged under ITTOIA05/PART2/CHAPTER2 (trade profits), and in this case only the distribution itself was taken into account in calculating the profits).

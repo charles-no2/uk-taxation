@@ -1,0 +1,24 @@
+Assessing: SAGE: closing cases
+Identifier: IHTM31894
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31894
+Published: 2016-04-09T10:07:31+01:00
+Updated: 2020-04-09T09:09:56+01:00
+Retrieved (UTC): 2026-09-18T15:06:40.397674+00:00
+
+Closing your records
+
+When any case where money has been paid, or a calculation issued, is ready to be marked closed or open (future) you must check that the balance on SAGE is nil.
+
+Accounts, Nottingham are automatically notified when a case is closed on COMPASS. If the balance is nil, or within de minimus limits, Accounts will automatically close the case on SAGE. You will receive a printout if the SAGE transactions do not balance to within de minimus limits.
+
+If the record does not balance, you must find out why before you close your file.
+
+Changing the file status to O(Inst)’ or ‘O(S)’
+
+When a case is ready to have its status changed to O(Inst) or O(S) you should check the SAGE balance is in line with the file before you change the file status.
+
+- O(S) files should balance to the outstanding deposit kept for future instalments.
+
+- O(inst) files should not have amounts due above deminimus limits.
+
+When changing cases marked O(inst) or O(S) to closed you should follow the procedure for closing files.

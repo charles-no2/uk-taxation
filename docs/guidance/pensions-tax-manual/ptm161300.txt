@@ -1,0 +1,148 @@
+Information and administration: reportable events 1 to 5
+Identifier: PTM161300
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161300
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2025-12-10T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:50:16.590627+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Reportable event 1: Unauthorised payments (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161300#IDAOFNSB)
+Reportable event 2: Lump sum death benefit payments more than 50% of the standard lifetime allowance (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161300#IDASHNSB)
+Reportable event 3: Benefits provided before normal minimum pension age (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161300#IDAJKNSB)
+Reportable event 4: Payment of serious ill-health lump sum (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161300#IDA0NNSB)
+Reportable event 5: Cessation of ill-health pension (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161300#IDAMQNSB)
+
+Regulation 3 The Registered Pension Schemes (Provision of Information) Regulations 2006 - SI 2006/567
+
+Reportable event 1: Unauthorised payments
+
+This event needs to be reported when a registered pension scheme makes:
+
+- an unauthorised member payment (including anything treated as an unauthorised member payment), or
+
+- an unauthorised employer payment (including anything treated as an unauthorised employer payment).
+
+The information that must be provided for this event is:
+
+- the name of the person to whom the payment was made,
+
+- if an individual, their National Insurance number (see PTM161200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161200) if the scheme administrator doesn’t have this)
+
+- if a company, their Company Registration Number
+
+- the nature of the payment
+
+- the amount of the payment, and
+
+- the date of the payment.
+
+Where the payment is to a third person in respect of a member or employer, the recipient’s details should be entered on the Event Report in place of either the member or the employer’s details. This will include situations where payment is made to another person after the member’s death.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161300#Top)
+
+Reportable event 2: Lump sum death benefit payments more than 50% of the standard lifetime allowance
+
+As of the 6 April 2024 Event 2 is no longer reportable. For any report occurring before the 6 April 2024 this event must be reported, and the below information considered.
+
+This event occurs when:
+
+- a registered pension scheme makes a lump sum death benefit payment to a person in respect of the death of a member, and
+
+- that payment, either alone or with other such payments from that scheme, amounts to more than 50% of the standard lifetime allowance applicable at the date of the member’s death.
+
+Any lump sum payable because of the death of a member is reportable, not just those lump sums that are a BCE 7 (see PTM088680 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm088680)). Note that one off payments from a dependant’s drawdown pension fund or dependant’s, nominee’s or successor’s flexi-access drawdown fund are pension payments not lump sum death benefits.
+
+The information that must be provided for this event is:
+
+- the name of the deceased member,
+
+- their National Insurance number (see PTM161200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161200) if the scheme administrator doesn’t have this)
+
+- the name of the person to whom the payment was made
+
+- that person's National Insurance number
+
+- the amount of the payment (that’s the amount before deduction of any tax), and
+
+- the date of payment.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161300#Top)
+
+Reportable event 3: Benefits provided before normal minimum pension age
+
+This event occurs if benefits are provided to a member before they are 55 (age 57 from 6 April 2028), and in the year the benefits were provided, or in any of the previous six years, they were:
+
+- a director of the sponsoring employer, or an associated company of that employer, or a person connected with a director,
+
+- either alone or with others, the sponsoring employer, or
+
+- a person connected with the sponsoring employer.
+
+For guidance on the meaning of 'connected with' see PTM027000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm027000). However, no report should be made under reportable event 3 where the benefits provided are:
+
+- an unauthorised payment (this is a reportable event 1)
+
+- a serious ill-health lump sum (this is a reportable event 4) or
+
+- a winding-up lump sum.
+
+Only make a report at the point benefits are first provided. For a pension there is no need to report the continuing payment of that pension. Each benefit provision must be reported as a separate event, so if both a pension and lump sum are provided at the same time to a member this would be 2 reports for that member.
+
+The information that must be provided on the Event Report for reportable event 3 is:
+
+- the name of the member,
+
+- their National Insurance number (see PTM161200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161200) if the scheme administrator doesn’t have this)
+
+- the date of payment
+
+- the amount of benefits provided
+
+- the nature of the benefits, and
+
+- the reasons for early payment.
+
+For a pension the amount of benefit provided is the annual rate of the pension at the date of first payment for a scheme pension or lifetime annuity. Where the pension is a drawdown pension the annual rate is the maximum amount that can be taken from the designated fund. For capped drawdown pension this will be the maximum annual amount (see PTM062530 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062530)) for flexi-access drawdown this will be the amount designated into drawdown.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161300#Top)
+
+Reportable event 4: Payment of serious ill-health lump sum
+
+This event occurs when a serious ill-health lump sum is paid to a member (see PTM063400 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063400)) who in the year the lump sum is paid, or any of the previous six years was:
+
+- a director of the sponsoring employer, or an associated company of that employer, or a person connected with a director
+
+- either alone or with others, the sponsoring employer, or
+
+- a person connected with the sponsoring employer.
+
+For guidance on the meaning of 'connected with' see PTM027000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm027000).
+
+The information that must be provided on the Event Report for reportable event 4 is:
+
+- the name of the member
+
+- their National Insurance number (see PTM161200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161200) if the scheme administrator doesn’t have this)
+
+- the date of payment, and
+
+- the amount of payment.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161300#Top)
+
+Reportable event 5: Cessation of ill-health pension
+
+Reportable event 5 occurs when an ill-health pension which has been paid is no longer paid, regardless of the reason. The cessation of the pension due to the death of the member is not reportable under event 5.
+
+The information that must be provided on the Event Report for reportable event 5 is:
+
+- the name of the member whose pension is no longer paid
+
+- their National Insurance number (see PTM161200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161200) if the scheme administrator doesn’t have this)
+
+- the date on which the period of non-payment began, and
+
+- the annual rate of pension to which the member was entitled immediately before the period of non-payment began. If the pension was a drawdown pension the annual rate is the maximum amount that can be taken from the designated fund. For capped drawdown pension this will be the maximum annual amount (see PTM062530 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062530)) for flexi-access drawdown this will be the amount designated into drawdown.
+
+Guidance on what the requirements for event 5 were before 6 April 2008 can be found in the archived version of the Registered Pension Schemes Manual held on the National Archives (http://webarchive.nationalarchives.gov.uk/*/http://hmrc.gov.uk/manuals/rpsmmanual/RPSM12301010.htm) website.

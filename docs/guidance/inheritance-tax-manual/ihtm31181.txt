@@ -1,0 +1,38 @@
+Assessing: COMPASS: calculations: initiation
+Identifier: IHTM31181
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31181
+Published: 2016-04-09T10:03:13+01:00
+Updated: 2016-02-11T17:15:46+00:00
+Retrieved (UTC): 2026-09-18T15:05:53.405942+00:00
+
+To raise a calculation you must first select the appropriate case record from the COMPASS Case Index, then select ‘Amend’ from the main menu and choose ‘estate’ from the drop down list to open the ‘Estate Details’ window.
+
+From the Assessment menu you can now select ‘Raise’. This will open the ‘Calculation of Inheritance Tax’ window (IHTM31182 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31182)) for the death estate. From here, COMPASS will generate calculations for all the assessment groups at the death estate Entries.
+
+Example
+
+If you have
+
+- Entry A: Free Estate NIOP (IHTM31012), IOP and IOP (WIP)
+
+- Entry B: Will Trust NIOP and IOP
+
+- Entry C: GWR at death NIOP
+
+COMPASS will raise six calculations in that order.
+
+Lifetime Entries
+
+If you have lifetime transfers which are chargeable in their own right, COMPASS will not include them after the death estate. So you must
+
+- go back to the Case Details window and select the appropriate Entry for each lifetime transfer,
+
+- then raise the calculations by selecting ‘Raise’ from the ‘Assessment menu.
+
+You must raise the calculations for each lifetime entry separately, unless the transfers were made on the same day, in which case
+
+- COMPASS will aggregate them,
+
+- apportion the tax between them, and
+
+- raise a calculation for each assessment group

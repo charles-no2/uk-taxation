@@ -1,0 +1,56 @@
+Share identification rules for corporation tax: section 104 holding: options
+Identifier: CG51626
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51626
+Published: 2016-03-12T11:23:27+00:00
+Updated: 2023-05-04T09:01:15+01:00
+Retrieved (UTC): 2026-09-18T14:48:00.824904+00:00
+
+A call option allows the holder of the option to call upon the grantor of the option to sell shares to the holder at a set price. If the holder exercises a call option TCGA92/S144(3) treats the acquisition of the shares and the acquisition of the option as a single transaction. Therefore, any cost of acquiring the option will become part of the cost of the shares . For further details on the treatment of options see CG55400+ and CG12300+.
+
+TCGA92/S114
+
+The company may have paid for the option a long time before it acquired the shares and there may have been “operative events” in the intervening period. Therefore the acquisition of the option cannot simply be treated as an operative event at the earlier date. Instead, there is a special rule in TCGA92/S114 to ensure indexation relief is allowed on the cost of the option from the date it was acquired. The cost of the shares and the cost of the option are merged by the operation of TCGA92/S144(3) and are included in the pool of qualifying expenditure and the pool of indexed expenditure and a further amount which represents indexation on the option is also added to the pool of indexed expenditure.
+
+The amount of indexation to be added to the pool of indexed expenditure is calculated using the formula
+
+- RO minus RA divided by RA
+
+RO is the RPI for the month in which the option is exercised.
+
+RA is the RPI for the month in which the option is acquired, or for March 1982, whichever is later.
+
+The effect is the same as the standard indexation calculation and the monthly indexation factors published by HMRC may be used to simplify the calculation, as in the following example.
+
+Example
+
+Assume that a company has a Section 104 holding in January 2011 of 5,400 shares. The pool of qualifying expenditure is £26,100 and the pool of indexed expenditure is £30,790. The taxpayer then carries out the following transactions.
+
+- In March 2013 the company buys a call option in respect of 1,000 B Ltd shares for £100. This allows the taxpayer to buy the shares at £5.90 each.
+
+- In September 2013 the company exercises the option and buys 1,000 shares at a cost of £5,900.
+
+Section 104 Holding
+
+- |  Number of shares |  Pool of qualifying expenditure |  Indexed pool of expenditure |
+
+Step 1 |  - |  - |  - |
+
+The purchase in September is an operative event |  5,400 |  £26,100 |  £30,790 |
+
+£30,790 x 0.100 |  - |  - |  £840 |
+
+- |  5,400 |  £26,100 |  £33,869 |
+
+Step 2 |  - |  - |  - |
+
+Add cost of shares and option to the two pools £5,900 + £100 |  1,000 |  £6,000 |  £6,000 |
+
+- |  6,400 |  £32,100 |  £39,869 |
+
+Step 3 |  - |  - |  - |
+
+Add indexation on option to indexed pool of expenditure |  - |  - |  - |
+
+£100 x 0.013 |  - |  - |  £2 |
+
+- |  6,400 |  £32,100 |  £39,871 |

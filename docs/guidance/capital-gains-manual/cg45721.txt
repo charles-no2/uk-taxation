@@ -1,0 +1,26 @@
+ETMD: disapplication of sections 24 and 122 where a subsidiary merges with its parent
+Identifier: CG45721
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45721
+Published: 2016-03-12T11:08:41+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:41:12.527495+00:00
+
+CG45704 explains how a charge could arise to a parent company under TCGA 1992 section 24 or section 122 where there has been a partial division or a merger to which sections 140A(1A), or section 140C(1A), or section 140E or section 140F can apply and the transferee parent company cannot issue its own shares to itself.
+
+That particular problem could also arise where a parent company, which is to be the transferee in a merger, holds 100% of the shares in a non UK resident transferor company.
+
+As the transferor is not UK resident no charge to UK will arise on the disposal/ transfer of the assets by it to the UK transferee parent company consequently there is no need for the UK to provide legislation covering the tax position of the transferor. Note that if the assets transferred by the transferor were used in a permanent establishment within the UK and section 10B applied, see CG42100+, then any transfer between the transferor subsidiary company and the parent transferee company would be within section 171.
+
+However, absent any possibility of section 171 applying if the parent company is within the charge to UK tax it would still be in the position of having made a disposal of its shares in the transferor either under section 24 or section 122 thus the parent company would suffer a chargeable gain or enjoy a loss and that would be contrary to the general principle of the ETMD, see CG45701.
+
+Section 140GA specifically covers this by providing that neither section 24 nor section 122 will apply where the following conditions are met;
+
+- A merger is effected where the transferor transfers all of its assets and liabilities to a single company and the transferee holds all of the ordinary share capital in the transferor; section 140GA(a).
+
+- Each of the merging companies is resident within a member state but not all are resident in the same member state; section 140GA(b).
+
+- Section 139 does not apply and in the course of the merger the transferor company ceases to exist without being in liquidation within the meaning given by section 247 of the Insolvency Act 1986; sections 140GA(d) & (e).
+
+An example of where section 140GA would apply is where company A, a UK resident company, is the parent company of company X, a company resident in France. Company X does not have a PE in the UK and is to merge with company A. This has the potential to be a merger within section 140E. Section 140E(1)(c) is met, see CG45709 first bullet. It could be that not all of the conditions in section 140E(2) are met, see CG45710, for example there may not be any intention to issue shares. In such instances section 140E could not apply and on the expiry of company X company A would have made a disposal of its shares in company X under section 24. Alternatively it could be that section 122 would apply whereby the transfer of the assets would be treated as a capital distribution. Provided the conditions of section 140GA are met then neither section 24 nor section 122 will have any effect.
+
+Note: Section 140GA applies to mergers to form a SE or SCE which take place on or after 18 August 2006. It applies to all other mergers that take place on or after 1 January 2007.

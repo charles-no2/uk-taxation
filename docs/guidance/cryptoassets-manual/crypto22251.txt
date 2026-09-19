@@ -1,0 +1,38 @@
+Cryptoassets for individuals: Capital Gains Tax: pooling examples: example 1 - basic section 104 pool disposal
+Identifier: CRYPTO22251
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22251
+Published: 2021-03-30T09:03:23+01:00
+Updated: 2021-03-26T11:05:24+00:00
+Retrieved (UTC): 2026-09-18T16:18:40.440274+00:00
+
+This example provides a basic insight into how a section 104 pool operates.
+
+Victoria bought 100 token A for £1,000. On 18 September 20XX Victoria bought a further 50 token A for £125,000. Victoria is treated as having a single section 104 pool of 150 of token A and total allowable costs of £126,000:
+
+Date |  Quantity of token A |  Pooled allowable costs |
+
+Opening balance |  100 |  £1,000 |
+
+18/09/20XX |  +50 |  +£125,000 |
+
+Closing balance |  150 |  £126,000 |
+
+On 1 December 20XX Victoria sells 50 of her token A for £300,000. Victoria will be allowed to deduct a proportion of the pooled allowable costs when working out her gain:
+
+Consideration |  £300,000 |    |
+
+Less allowable costs |  £126,000 x (50 / 150) |  (£42,000) |
+
+Gain |  £258,000 |    |
+
+Victoria will have a gain of £258,000 and she will need to pay Capital Gains Tax on this. After the sale, Victoria will be treated as having a single section 104 pool of 100 token A and total allowable costs of £84,000:
+
+Date |  Quantity of token A |  Pooled allowable costs |
+
+Opening balance |  150 |  £126,000 |
+
+01/12/20XX |  (50) |  (£42,000) |
+
+Closing balance |  100 |  £84,000 |
+
+If Victoria then sold all 100 of her remaining token A then she can deduct all £84,000 of the allowable costs when working out her gain/loss.

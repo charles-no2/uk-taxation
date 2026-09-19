@@ -1,0 +1,84 @@
+Cryptoassets for individuals: Capital Gains Tax: pooling examples: example 6 - interaction of same day rule, 30 day rule and section 104 pool
+Identifier: CRYPTO22256
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22256
+Published: 2021-03-30T09:03:33+01:00
+Updated: 2021-03-26T11:11:18+00:00
+Retrieved (UTC): 2026-09-18T16:18:41.210050+00:00
+
+This example shows how to the same day rule, 30 day rule and a part disposal of the section 104 pool interact.
+
+Gulferaz holds 100,000 token F in a section 104 pool. He spent a total of £300,000 acquiring them, which is his pooled allowable cost.
+
+Gulferaz enters into the following transactions:
+
+- 31 July 20XX – acquisition of 10,000 token F for £45,000.
+
+- 31 July 20XX – disposal of 30,000 token F for £150,000
+
+- 5 August 20XX – disposal of 20,000 token F for £100,000
+
+- 6 August 20XX – acquisition of 50,000 token F for £225,000
+
+- 7 August 20XX – disposal of 100,000 token F for £150,000
+
+Gulferaz’s acquisition on 31 July 20XX takes place on the same day as a disposal so those transactions are matched as far as possible (that is 10,000 token F).
+
+Gulferaz’s acquisition on 6 August 20XX takes place within 30 days of the disposal on 31 July 20XX so that acquisition is matched with the disposal on 31 July 20XX as far as possible (that is 20,000 token F).
+
+Gulferaz’s acquisition on 6 August 20XX also takes place within 30 days of the disposal on 5 August 20XX so that acquisition is matched with the disposal on 5 August 20XX as far as possible (that is 20,000 token F).
+
+The remaining 10,000 token F acquired on 6 August 20XX go into the section 104 pool as normal.
+
+Gulferaz will need to work out his gains/losses on the three disposals as follows:
+
+31 July 20XX
+
+Consideration |  £150,000 |    |
+
+Less allowable costs – same day (10,000 token F) |  £45,000 |  (£45,000) |
+
+Less allowable costs – 30 day (06/08 - 20,000 token F) |  £225,000 x (20,000 / 50,000) |  (£90,000) |
+
+Gain |  £15,000 |    |
+
+No token F go into or come out of the section 104 pool at this date.
+
+5 August 20XX
+
+Consideration |  £100,000 |    |
+
+Less allowable costs – 30 day (06/08 - 20,000 token F) |  £225,000 x (20,000 / 50,000) |  (£90,000) |
+
+Gain |  £10,000 |    |
+
+No token F go into or come out of the section 104 pool at this date.
+
+6 August 20XX
+
+The section 104 pool is changed as follows:
+
+Date |  Quantity of token F |  Pooled allowable costs |
+
+Opening balance |  100,000 |  £300,000 |
+
+06/08/20XX |  +10,000 |  +£45,000 |
+
+Closing balance |  110,000 |  £345,000 |
+
+7 August 20XX
+
+Consideration |  £150,000 |    |
+
+Less allowable costs – S104 |  £345,000 x (100,000 / 110,000) |  (£313,637) |
+
+Loss |  (£163,637) |    |
+
+The section 104 pool is changed as follows:
+
+Date |  Quantity of token F |  Pooled allowable costs |
+
+Opening balance |  110,000 |  £345,000 |
+
+07/08/20XX |  (100,000) |  (£313,637) |
+
+Closing balance |  10,000 |  £31,363 |

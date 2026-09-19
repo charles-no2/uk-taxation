@@ -1,0 +1,70 @@
+Partnerships: Changes in fractional interests in partnership assets: SP D12: Sections 4, 6 and 7
+Identifier: CG27500
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27500
+Published: 2016-03-12T10:28:29+00:00
+Updated: 2023-04-18T09:23:25+01:00
+Retrieved (UTC): 2026-09-18T14:29:12.476597+00:00
+
+Section 4 of SP D12 explains that a change in partnership sharing ratios is an occasion of a disposal for CG purposes in respect of any partners whose fractional interests in partnerships assets are reduced. The partners in question will be treated as having disposed of an interest in the assets equivalent to the amount of the reduction. Partners whose interests correspondingly increased will be treated as having made acquisitions.
+
+CG27220 explains how a partner's fractional interest in a partnership asset is to be calculated.
+
+Changes in partners’ interests in partnership assets may occur, for example, when:
+
+- a partnership agreement has been revised or
+
+- partners have agreed to change their fractional interests or
+
+- a new partner has joined the partnership or
+
+- an existing partner has left the partnership.
+
+Further information on the consequences of a partner joining or leaving a partnership is given at CG27600.
+
+Disposal consideration and acquisition cost
+
+Except in cases where the market value rule applies, see CG27800, the disposal consideration is the proportion of the current balance sheet value (BSV) of the asset that is equal to the fractional interest changing hands. Any actual consideration that passes between the partners should be added to this figure (section 7 of SP D12). Actual consideration may take the form of money or money's worth and can be paid directly by one partner to another or indirectly by means of a transfer between their capital accounts.
+
+The amount taken into account as the disposal consideration for the partner whose fractional interest has reduced should be treated as the acquisition cost for the partner whose fractional interest has correspondingly increased.
+
+Example
+
+The sharing ratios for a partnership between A and B were:
+
+- Partner A = 60%
+
+- Partner B = 40%
+
+On the admission of Partner C the partnership sharing ratios were changed to:
+
+- Partner A = 50%
+
+- Partner B = 30%
+
+- Partner C = 20%
+
+The current balance sheet value of the partnership’s only chargeable asset was £200,000.
+
+Partner C made direct payments of £10,000 to each of Partners A and B for his acquisition of a 20% interest in the asset.
+
+Partners A and B have each disposed of a 10% interest in the asset. Provided that the market value rule does not apply the disposal consideration to be taken into account in their CG computations should be calculated as follows:
+
+- Partner A - BSV £200,000 x 10% = £20,000 + actual consideration £10,000 = £30,000
+
+- Partner B - BSV £200,000 x 10% = £20,000 + actual consideration £10,000 = £30,000
+
+Partner C’s acquisition cost is equal to the disposal consideration taken into account for Partners A and B, ie £30,000 + £30,000 = £60,000.
+
+Revaluation of an asset in the partnership accounts
+
+Section 6 of SP D12 explains that when an asset is revalued in the partnership accounts corresponding adjustments will normally be made in the partners’ capital accounts in proportion to their fractional interests. A revaluation of an asset is not in itself an occasion on which the partners will be treated as having made a disposal for CG purposes provided that their fractional interests in the asset remain unchanged. However, a revaluation of an asset, whether or not corresponding adjustments are made in the partners’ capital accounts, will create potential gains or losses that will become chargeable on a subsequent reduction in the partners’ fractional interests in the asset or on a disposal of the asset by the partnership.
+
+Where, on a change in sharing ratios an asset has not been revalued and no consideration passes between the partners, the calculation of the disposal consideration by reference to the current balance sheet value of the asset may produce an amount that is equal to the partner’s allowable costs so that neither a gain nor a loss arises on the disposal. However, a no gain/no loss position is unlikely to occur where, for example, the partner’s allowable costs are not based on the cost of the asset to the partnership. Examples of situations where gains or losses are likely to arise on a change in fractional sharing ratios even though assets have not been revalued in the partnership accounts and no consideration has passed between the partners are at CG27940.
+
+Apportionment of allowable costs
+
+A reduction in a fractional interest in a partnership asset will be an occasion of a part-disposal unless the partner whose share has reduced gives up his entire interest in the asset, for example, on leaving the partnership. Section 4 of SP D12 provides that on a part-disposal of a partner's fractional interest in an asset any acquisition costs will be apportioned on a fractional basis rather than by reference to the part-disposal formula in TCGA92/S42. This avoids the need to obtain valuations of the asset every time there is a change in fractional sharing ratios.
+
+Examples
+
+CG27540 contains examples of gains or losses arising on changes in partners' fractional interests. The possible application of the market value rule in TCGA92/S17 and TCGA92/S18, see CG27800, has been ignored for these purposes.

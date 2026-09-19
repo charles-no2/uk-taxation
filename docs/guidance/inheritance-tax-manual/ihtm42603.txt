@@ -1,0 +1,148 @@
+Foreign element: additional test of long-term UK residence or domicile 
+Identifier: IHTM42603
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42603
+Published: 2016-04-09T10:25:10+01:00
+Updated: 2025-12-15T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T15:09:41.362722+00:00
+
+If property in a settlement would otherwise be excluded property under s48 or s48ZA and the conditions of IHTA84/S80 or S81 are satisfied, then in order for the property to be excluded it may be necessary to also test the long-term UK residence or domicile status of more than one person or the same person on different dates.
+
+Consult with Technical at an early stage if the facts are not clearly covered by the guidance below, particularly if
+
+-
+
+the various conditions were not satisfied immediately prior to 6 April 2025 but could be on or after that date (there is a risk of an exit charge)
+
+-
+
+the conditions were satisfied immediately prior to 6 April 2025 but are no longer satisfied on or after that date (in which case, there may now be relevant property subject to future charges, but with rate relief).
+
+A: When IHTA84/S80 applies
+
+When IHTA/s80 applies then the Act provides for a new, separate, deemed trust, together with a deemed commencement date and a deemed settlor (IHTM42231 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42231))
+
+If the settlor of the deemed trust is a long-term UK resident (on or after 6 April 2025) or was domiciled in the UK (or deemed to be domiciled in the UK) (for times before 6 April 2025) at the deemed commencement date, then the foreign assets in the trust cannot be excluded property in the first place.
+
+However, if that settlor is not a long-term UK resident (on or after 6 April 2025) or not domiciled in the UK (before 6 April 2025) at the deemed commencement date then the foreign assets in the deemed trust can only be excluded property if an additional test is met.
+
+The additional test which is set out at IHTA/S81B is that the settlor of the original trust must not be a long-term UK resident (on or after 6 April 2025) or not domiciled in the UK (before 6 April 2025) when the assets became comprised in the original trust.
+
+In summary, excluded property can only be available if both the original settlor and the deemed settlor were not connected to the UK by way of long-term UK residence or domicile.
+
+Example 1
+
+Mr A died in 2019 and left his estate in trust for Mrs A for life and thereafter on trust for the wider family on discretionary trusts. Because the initial trust is an immediate post-death interest for her, IHTA/s80 is engaged.
+
+Neither were domiciled in the UK at that time.
+
+There is no liability on Mr A’s death because his foreign assets were excluded property and his UK assets obtained exemption under IHTA/S18.
+
+Scenario 1
+
+Mrs A died in 2024: this triggers s80 and she is treated as making a separate settlement on her death (the deemed settlement).
+
+If she was still non-domiciled at the time of her death then the foreign assets in that deemed settlement would be excluded property under the rule in S48(3).
+
+Because s80 applies, and the property would otherwise be excluded property under S48(3) it would also be necessary to consider the additional test in s81B. However, because Mr A – the actual settlor – was not UK domiciled on his death, the additional test is also satisfied so that for the purposes of charges within Ch III of the Act the foreign assets are still excluded property.
+
+If Mrs A dies in 2029 and is not a long- term UK resident at her death, any foreign assets would, ignoring s81B, be excluded property in relation to the deemed settlement under S48ZA(3). Again, because Mr A as actual settlor was not UK domiciled on his death under S48ZA(4) the additional test in s81B would also be met so that any foreign assets are excluded property.
+
+Scenario 2
+
+Mrs A surrendered her interest to the trustees in 2024, when she had become UK deemed domiciled. Again, this triggers s80 and she is treated as making a settlement on surrender (the deemed settlement) but the foreign assets will not be excluded anyway and S81B is not engaged. An anniversary charge will arise in 2029 but with rate relief for the period between 2019-2024.
+
+Similarly, if Mrs A becomes a long- term UK resident in 2029 and releases her interest in 2030, she will be treated as making a settlement and any foreign assets will not be excluded property because she is a long-term UK resident at that time (S48ZA(2)). S81B will not be engaged.
+
+If Mrs A instead releases her interest in 2027 before becoming long- term UK resident, although under s80 she would be treated as making a settlement, any foreign assets would initially be excluded property applying the tests in S48ZA(2) to the deemed settlement, and because the additional test in s81B was satisfied in relation to Mr A. However on Mrs A becoming long- term UK resident in 2029 any foreign property would become relevant property under S48ZA(2).
+
+Scenario 3
+
+Mrs A dies in 2027 while she is a long-term UK resident: this triggers s80 and she is treated as making a separate settlement on her death. In relation to this deemed settlement foreign assets would not be excluded property because she was a long term UK resident immediately before her death (S48ZA(3)). S81B would not be engaged because the property would not, apart from that section, be excluded property.
+
+Note that in all scenarios above, any foreign property in the trust will not be charged to IHT as part of Mrs A’s estate or on her death or under S52 because Mr A died before 6 April 2025 and it is therefore excluded property under S48(ZA)(4).
+
+Example 2
+
+Chris died in December 2028. She was not LTR in the UK. Her will provided for her estate to be held on interest in possession trusts for the life of her partner Tina, followed by discretionary trusts for others.
+
+There was no IHT charge on Chris’ death because her foreign assets were excluded property (IHTA/S6(1)) and her UK assets obtained full exemption under IHTA/S18 because Tina was also not LTR.
+
+Tina became a long-term UK resident ("LTR") on 6 April 2030 and that continued until her death in August 2035.
+
+That means that the foreign trust assets are not excluded property
+
+-
+
+on her death (IHTA/S48ZA(3) and (5)- although Chris died after 6 April 2025 and was not a LTR, Tina who was beneficially entitled to the interest possession was.
+
+-
+
+in relation to the deemed settlement made on Tina’s death (IHTA/S80) for all of the future charges under Part III Chapter III (IHTA/S81B is not triggered).
+
+But, if Tina were not LTR on her death then the foreign trust assets would be excluded property
+
+-
+
+on her death (IHTA/S48ZA(3)) and
+
+-
+
+in relation to the deemed settlement made on Tina’s death (IHTA/S80) for all of the future charges under Part III Chapter III (IHTA/S81B is satisfied).
+
+B: When IHTA84/S81 applies
+
+If an event occurs such that property in a trust (“T1”) becomes comprised in another trust (“T2”) then, for the purposes of the charging provisions within Chapter III part III of the IHTA84 only, IHTA/S81 provides that the property is deemed to remain in T1. (IHTM42229 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42229)) But if that event happens the availability of existing excluded property status for foreign property may need to be reviewed for the purposes of the IHT trust charges.
+
+Inter-trust transfers; times on or after 6 April 2025
+
+The deeming under IHTA/S81 no longer requires excluded property to be retested. It only depends on the status of the settlor of T1.
+
+In particular
+
+-
+
+If the settlor of T1 (“S1”) is living at the time of the event then the status of the transferred property, before and after the transfer, depends solely on whether S1 is, or is not, a long-term UK resident. In other words, the transferred property (which is deemed to remain in T1) can only be excluded property if and for so long as S1 is not a long-term UK resident.
+
+-
+
+If S1 died before on or after 6 April 2025 the transferred property is excluded only if S1 was not a long-term resident immediately before the death.
+
+-
+
+If S1 had died before 6 April 2025 then the transferred property is excluded only if S1 was not domiciled in the UK when the property became comprised in T1.
+
+Inter-trust transfers; times prior to 6 April 2025
+
+If the settlor of T1 was domiciled in the UK (or deemed to be domiciled in the UK) when the assets became comprised in T1 then the foreign assets in the trust could not have been excluded property in the first place.
+
+However, if the settlor of T1 was not domiciled in the UK when the assets originally became comprised in T1 then the transferred assets (which are deemed to remain in T1) could only have continued to have excluded property status if an additional domicile test was met.
+
+The additional domicile test depended upon the time when IHTA/s81 applies, i.e. the assets in T1 become comprised in T2.
+
+IHTA/S81transfers prior to 22 July 2020
+
+The additional test was that the settlor of T2 must also have been non-domiciled when the assets in T2 originally became comprised in T2 (IHTA/S82).
+
+Put simply, excluded property status would only be available for the transferred assets if the settlors of both T1 and T2 were historically non-domiciled. Section 82 is now repealed for times on or after 6 April 2025.
+
+IHTA/S81 transfers on or after 22 July 2020 (Finance Act 2020)
+
+The additional domicile test was different and was set out in IHTA/S82A, which has also been repealed.
+
+The additional domicile test focused on the domicile of the settlor of T1 or the domicile of the person that caused the assets to become comprised in T2.
+
+The trustees use their trust powers to transfer assets from T1 to T2.
+
+In this case the transferred assets can only have continued to have excluded property status if the settlor of T1 was not domiciled in the UK at the time the assets are transferred to T2.
+
+And if further transfers were made from T2 to T3, say or from T2 back to T1 then these were known as ‘qualifying transfers’ and the settlor of T1 must have remained non-domiciled on each of these occasions. But if at the time of a qualifying transfer the settlor of T1 was UK domiciled then the transferred assets no longer had excluded property status.
+
+And if the settlor of T1 is no longer living at the time of a qualifying transfer (and the death is not a qualifying transfer) then the additional domicile test was treated as satisfied.
+
+The assets were transferred to T2 because of an assignment or the exercise of a general power of appointment
+
+In this case the transferred assets remained excluded property status if at the time of an assignment or the exercise of the power (which must have occurred on or after 22 July 2020) the assignor or the power holder was neither domiciled nor deemed domiciled in the UK.
+
+Note that the assets may not have become comprised in T2 immediately when the assignment was made or the power exercised. If the qualifying transfer occurs at a later time but before 6 April 2025, then the assignor or power holder must not have been a formerly domiciled resident at the time the assets moved to T2 (as well as being non-domiciled at the time of the assignment or exercise).
+
+Consult with Technical at an early stage if the facts are not clearly covered by the guidance above including situations where there are transfers after 22 July 2020 that may be affected by earlier trust-to-trust transfers or where the analysis may depend on the effect of the judgment in Barclays Wealth v HMRC (2017) EWCA Civ 1512.

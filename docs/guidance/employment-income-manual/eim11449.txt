@@ -1,0 +1,98 @@
+Living accommodation: lease premium cases: calculating the amount to be attributed in respect of a lease premium: lease containing one or more relevant break clauses: example
+Identifier: EIM11449
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11449
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T11:31:27+01:00
+Retrieved (UTC): 2026-09-18T14:09:17.296431+00:00
+
+On 6 April 2010 an employer provides living accommodation to an employee. The property is subject to a lease the original term of which is 12 years from 6 April 2010. There is a relevant break clause which would allow a person to terminate the lease after 5 years. The total amount payable by P in relation to the lease by way of lease premium is £300,000 but £175,000 of this will become repayable if the break clause is exercised. The formula in Section 105A(2) which attributes an amount in respect of a lease premium will apply as below:
+
+2010-11
+
+- A is 365 days (relevant period in days)
+
+- B is 1,826 days (term of lease in days on the assumption that the break clause is exercised in such a way that the term of the lease is as short as possible)
+
+- C is £125,000 (net amount payable by P on the assumption that the break clause is exercised in such a way that the term of the lease is as short as possible)
+
+- A/B*C = £24,986
+
+2011-12
+
+- A is 366 days
+
+- B is 1,826 days
+
+- C is £125,000
+
+- A/B*C = £25,054
+
+2012-13, 2013-14 and 2014-15
+
+The amount attributed to each year in respect of the lease premium will be the same as in 2010-11 - £24,986
+
+Break clause exercised on 6 April 2015
+
+If the relevant break clause is exercised on 6 April 2015, the net amount payable by P in relation to the lease by way of lease premium will be £125,000 (£300,000 paid less £175,000 repayable). The effect of the legislation will have been to treat the amount of £125,000 as if it were rent paid and spread over the duration of the lease. In the example, the effect of rounding means that the amount attributed is slightly less (£124,998) than £125,000.
+
+Break clause not exercised
+
+If the relevant break clause is not exercised on 6 April 2015, the parties to the lease are treated as parties to a notional lease which begins immediately. In this example, as there is only one relevant break clause, the notional lease will end on the tenth anniversary of the beginning of the term of the original lease i.e. 6 April 2020.
+
+Section 105B(7) applies where the notional lease ends on the tenth anniversary. It provides that the net amount payable by P in relation to the notional lease by way of lease premium is the relevant proportion of:
+
+- the net amount that would be payable by P in relation to the original lease by way of lease premium on the assumption that the break clause is not exercised less
+
+- any part of that amount that has already been attributed to a period in respect of a lease premium
+
+As the break clause has not been exercised, no part of the total amount of lease premium is repayable so the net amount payable will be £300,000 of which the amount of £124,998 has already been attributed and taxed in the years 2010-11 to 2014-15. Therefore, it will be necessary in this case to find the relevant proportion of £175,002.
+
+The relevant proportion is set out in Section 105B(8) as the fraction D/E where:
+
+- D is the term of the notional lease in days and
+
+- E is the sum of D and the number of days by which the term of the original lease would exceed 10 years on the assumption that no break clause is exercised.
+
+In this case, the tenth anniversary of the beginning of the term of the original lease is 6 April 2020 and the original lease is for a term of 12 years ending in 2022 so:
+
+- D will be 1,827 days (6 April 2015 - 5 April 2020)
+
+- E will be 2,547 days (D plus number of days from 6 April 2020 to 5 April 2022)
+
+- D/E gives a relevant proportion of 0.71 (rounded down)
+
+2015-16 to 2019-20 (term of notional lease)
+
+Applying the relevant proportion to £175,002 gives £124,251 which is the net amount payable by P in relation to the notional lease by way of lease premium. The amount of lease premium to be attributed to each of the above five years will be:
+
+- A is 365 or 366 days (relevant period in days)
+
+- B is 1,827 days (term of notional lease in days)
+
+- C is £124,251 (net amount payable by P in relation to the notional lease by way of lease premium)
+
+- A/B*C
+
+2015-16 and 2019-20
+
+366/1827*£124,251 = £24,981
+
+2016-17, 2017-18 and 2018-19
+
+365/1827*£124,251 = £24,822
+
+Comment
+
+The effect of the rules is to treat the lease premium as if it were rent paid and spread over the duration of the lease without attributing any amount to any part of the term of the lease that in fact exceeds ten years. In this example of a lease with an original term of 12 years, broadly 10/12 of the total lease premium has been attributed over the first ten years of the term of the lease.
+
+More than one relevant break clause
+
+Where there is more than one notional lease, the last notional lease will end on the tenth anniversary of the beginning of the term of the original lease. The above example shows how to apply the formula in Section 105A(2) for a notional lease ending on the tenth anniversary.
+
+For other notional leases, the value of C in the formula in Section 105A(2) is determined under Section 105B(6). This provides that for the purposes of Section 105A the net amount payable by P in relation to a notional lease by way of lease premium is the net amount that would be payable by P on the assumption that any relevant break clause that is exercisable only after the beginning of the term of the notional lease is exercised in such a way that the term of the original lease is as short as possible. This amount is then reduced for any part that has already been attributed to a period in respect of a lease premium.
+
+Calculating the cash equivalent
+
+As the cost of providing the accommodation exceeds £75,000, the cash equivalent will be calculated under Section 106 (see EIM11444 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11444)).
+
+In this example, the cash equivalent for each year will be the sum of any rent for the period payable by P and the amount attributed to the period in respect of a lease premium plus the additional yearly rent calculated in accordance with Step 2 of Section 106, subject to any further adjustments required by Steps 3 and 4 (see EIM11480 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11480)).

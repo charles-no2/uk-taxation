@@ -1,0 +1,387 @@
+Relief for Foreign Tax Paid 2026 (HS263)
+Source: https://www.gov.uk/government/publications/calculating-foreign-tax-credit-relief-on-income-hs263-self-assessment-helpsheet/relief-for-foreign-tax-paid-2026-hs263
+Retrieved (UTC): 2026-09-18T16:21:47.275460+00:00
+Updated: 2026-04-06T00:15:07+01:00
+
+If you need to use Making Tax Digital for Income Tax, you should read this helpsheet together with the guidance on how to use Making Tax Digital for Income Tax (https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax).
+
+You will use compatible software to create digital records and send quarterly updates for your self-employment and property income sources. After this, you will make claims and adjustments through the software, instead of the Self Assessment boxes referenced below.
+
+The following guidance includes calculations.
+
+If you’ve paid foreign tax on income received or capital gains made that are also taxable in the UK, you may be able to claim relief for the foreign tax paid.
+
+This helpsheet will allow you to work out the relief you can claim. You may also need to fill in the foreign supplementary pages (SA106) (https://www.gov.uk/government/publications/self-assessment-foreign-sa106), to record the amount of income and gains on which foreign tax was paid and claim relief.
+
+If you’re not a resident of the UK, the Isle of Man or the Channel Islands, you will not be entitled to relief against UK tax and should not be completing the foreign pages.
+
+Relief from double taxation comes in three forms, depending on the circumstances.
+
+1. Under the terms of a Double Taxation Agreement (DTA)
+
+The notes to the foreign pages (SA106) (https://www.gov.uk/government/publications/self-assessment-foreign-sa106) explains DTAs. Essentially, if a DTA gives exclusive taxing rights to the UK, no foreign tax is payable and so there is no question of relief.
+
+Likewise, if the DTA gives exclusive taxing rights to another country, no UK tax is payable and so no relief will be available. If a DTA applies to your circumstances in this way, you are encouraged to provide further details in the ‘any other information’ section of form SA100 (https://www.gov.uk/government/publications/self-assessment-tax-return-sa100) (page TR7). Beyond this, you do not need to consider the guidance below.
+
+Alternatively, a DTA may restrict the amount of foreign tax payable, which will affect the amount of relief you can claim. A summary of the DTAs the UK holds with other countries in relation to income can be found in the Digest of Double Taxation Treaties (https://www.gov.uk/government/publications/double-taxation-treaties-territory-residents-with-uk-income).
+
+More guidance by country is available in the Double Taxation Relief (DTR) Manual (https://www.gov.uk/hmrc-internal-manuals/double-taxation-relief/dt2140pp).
+
+1.1 Example 1
+
+Chris receives £100 Spanish property income dividends with £20 foreign tax paid. The allowable rate for Spanish property income dividends is 15% (see page 32 of the Digest of Double Taxation Treaties (https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/710099/DT_Digest_April_2018.pdf)), so the amount of foreign tax Chris can claim for is £15. The excess of £5 paid in Spain is not available for credit against the UK tax liability. Chris may be able to recover this amount from the Spanish Tax authorities.
+
+If a DTA restricts the relief available (as in example 1 above) then the restricted amount should be included on the foreign supplementary pages (SA106 (https://www.gov.uk/government/publications/self-assessment-foreign-sa106)).
+
+Where the DTA does not prevent a source of income or capital gain being taxed in both countries or there is no DTA, then relief may be available using either of the two methods outlined below.
+
+2. Relief by way of credit for foreign tax paid (FTCR)
+
+For both income and capital gains, the same principles apply when claiming FTCR. The tax credit in the UK is the lower of the:
+
+- foreign tax paid (or allowed by the DTA as in example 1) on the income or capital gain
+
+- UK tax liability on the income or capital gain
+
+That credit then reduces the UK tax liability to provide relief.
+
+The UK tax liability on a specific amount of income or a capital gain is the difference between the UK tax due on your income or capital gains
+
+- plus the item on which foreign tax was incurred
+
+- without the item on which foreign tax was incurred
+
+The basic mechanics of calculating FTCR are shown in example 2:
+
+2.1 Example 2 — Foreign Income
+
+Zoë’s total income is £52,000, comprising self-employment income of £48,000 and £4,000 of foreign interest. The total UK tax due for 2025 to 2026 is £8,032.
+She wishes to claim FTCR on the foreign interest, as tax of £300 was paid on this item overseas. Zoë will need to record this income and the tax paid on page F2 of SA106 (https://www.gov.uk/government/publications/self-assessment-foreign-sa106).
+
+Zoë’s income without the foreign interest is £48,000. The tax due on this amount would be £7,086. The UK tax due on the foreign interest is therefore £946 (£8,032 - £7,086). As this is greater than the foreign tax paid on the interest, the FTCR is £300, which Zoë needs to include in box 2 of form SA106 (https://www.gov.uk/government/publications/self-assessment-foreign-sa106). This is deducted from Zoë’s total UK liability for 2025 to 2026, leaving £7,732 due.
+
+If you have more than one source of income or capital gains eligible for relief, a separate calculation needs to be performed for each item, rather than combining them all together.
+
+2.2 Example 3 — Multiple Sources
+
+Katy received two dividends: £1,000 from a company in country X (£200 foreign tax paid) and £5,000 from a company in country Y (£500 foreign tax paid).
+
+When calculating FTCR, Katy needs to perform a separate calculation for each item, using the same method as in example 2. She should not perform one calculation using a dividend of £6,000, with £700 foreign tax paid. Likewise, if there were two capital gains, the same principles would apply.
+
+When calculating FTCR, available reliefs or allowances can be allocated in the most favourable way, so as to maximise the relief.
+
+With capital gains, the Annual Exempt Amount (AEA) and any capital losses should generally be set against UK gains in priority to maximise FTCR.
+
+2.3 Example 4 — Foreign Capital Gain
+
+Harry, a higher-rate taxpayer, sold two buy-to-let properties in 2025 to 2026: one in the UK for a gain of £26,000 and one overseas for a gain of £7,000. Foreign tax of £2,100 was paid on the latter disposal. He should record details of this foreign gain on page F6 of SA106.
+
+His Annual Exempt Amount (£3,000) should be set against the UK gain, to maximise the FTCR claimed. This gives:
+£23,000 (£26,000 - £3,000) at 24% (as the asset is residential property) = £5,520
+
+£7,000 at 24% = £1,680 is the UK CGT due on the overseas property
+
+As this is less than the foreign tax paid, Harry’s FTCR claim is £1,680, giving a final UK CGT liability of £5,520. This FTCR claim is recorded in boxes 38 and 39 on page F6 of SA106 (https://www.gov.uk/government/publications/self-assessment-foreign-sa106).
+
+3. Deduction relief
+
+This is an alternative to FTCR. Again, the same general principle applies for both income and gains. Instead of using a credit to reduce the tax liability, the foreign tax incurred can be used to reduce the foreign income or capital gains that are chargeable in the UK.
+
+You can choose between FTCR or deduction relief, depending on which is most beneficial. Generally, deduction relief will only be preferable where there is no UK tax liability in the year, for example due to losses or the deferral of a capital gain.
+
+3.1 Example 5 — Foreign Income
+
+Gemma makes a trading loss of £19,000 in 2025 to 2026. Her other income is UK rental income of £8,000 and foreign interest of £9,000, on which tax of £900 was paid overseas.
+
+Gemma has no UK tax liability as her trading losses cover the other sources of income. This means that no FTCR is available.
+
+Claiming deduction relief reduces the foreign interest of £9,000 to £8,100, acknowledging the foreign tax paid. This reduces the amount of the loss that Gemma needs to set against her total income in 2025 to 2026, allowing her to use more of the loss to reduce her tax liability in another year.
+
+Where relief by deduction is being claimed, this can be shown in the relevant computation provided with your tax return, or you can give details in the ‘any other information’ section of form SA100 (https://www.gov.uk/government/publications/self-assessment-tax-return-sa100) (page TR7). You do not need to complete the sections of the SA106 (https://www.gov.uk/government/publications/self-assessment-foreign-sa106) that relate to FTCR if only deduction relief is being claimed.
+
+4. Complex Cases — Practical Considerations
+
+As above, you can choose the most beneficial method between FTCR and deduction relief, to maximise the relief given. FTCR will generally produce the best result, unless there is no UK tax liability due to losses or deferrals. Subject to any specific ordering rules, you can choose the order in which the sources are included in your income tax computation. For example, if you receive two separate dividends, the total of which straddles different rates, you can choose the one which uses up the lower rate band first.
+
+4.1 Example 6 — Foreign Income more than one source
+
+Neetu receives £55,000 taxable earnings. The higher rate limit for this taxpayer is (for example) £50,000,
+
+£50,000 x 20% = £10,000
+
+£5,000 x 40% = £2,000
+
+Total tax liability £12,000
+
+Included in this are two items of foreign income (1) £10,000, foreign tax £3,000 (DTR 30%),
+
+(2) £5,000, foreign tax £1,750 (DTR 35%).
+
+There are two orders to consider:
+
+- Removing item (1) £10,000 first – income that straddles the basic and higher rates of tax:
+
+The revised UK liability is:
+
+45,000 x 20% = 9,000
+
+The FTCR on item 1 is £3,000, the lower of the UK liability on item 2 £3,000 (£12,000 - £9,000) and the foreign tax paid £3,000.
+
+When item (2) £5,000 is calculated the revised UK liability is:
+
+40,000 x 20% = 8,000
+
+The FTCR on item 2 is £1,000, the lower of the UK liability on item 1 £1,000 (£9,000 - £8,000) and the foreign tax paid £1,750.
+
+Total FTCR is (£3,000 + £1,000) £4,000.
+
+- Removing item (2) £5,000 first – income that is all in the higher rate of tax:
+
+The revised UK liability is:
+
+50,000 x 20% = 10,000
+
+The FTCR on item 2 is £1,750, the lower of the UK liability on item 2 £2,000 (£12,000 -
+
+£10,000) and the foreign tax paid £1,750.
+
+When item (1) £10,000 is calculated the revised UK liability is:
+
+40,000 x 20% = 8,000
+
+The FTCR on item 1 is £2,000, the lower of the UK liability on item 1 £2,000 (£10,000 -
+
+£8,000) and the foreign tax paid £3,000.
+
+Total FTCR is (£1,750 + £2,000) £3,750.
+
+The most beneficial order in this example is to take item 1 first for FTC £4,000.
+
+When considering the order of your sources you may find the following useful. Using this example:
+
+The maximum Foreign Tax Credit (FTC) is the lower of:
+
+a) lower of foreign tax deducted £4,750 and permitted under DTR (30% and 35%) £4,750 and
+
+b) UK tax liability on the income £4,000, calculated as follows:
+
+UK liability on all income £12,000
+
+UK liability on all income, excluding income subject to FTCR claim is £8,000:
+
+£40,000 x 20% = £8,000
+
+Total tax liability £8,000
+
+The maximum UK tax liability arising on that income (£12,000 minus £8,000) £4,000.
+
+This is the maximum amount of the FTC and the actual amount may be less. However, when you have more than one source and the amount of FTC you calculate is less than the maximum, you may want to change the ordering to see if there is a more beneficial order.
+
+To maximise FTCR, it will likely be beneficial to include the item which incurred the highest rate of foreign tax as also attracting the highest UK rates.
+
+Likewise, where multiple assets incurring foreign tax are sold, the amount of credit must be calculated separately for each capital gain. An excess of foreign tax over the UK tax on a particular gain cannot be credited against UK tax on any other capital gain.
+
+As above, to maximise FTCR, any available allowances and losses should be set against UK amounts on which no foreign tax was payable first, prioritising those taxable at the higher rates (residential property and carried interest). After this, it should be set against amounts where the foreign tax paid is less than that in the UK. Finally, any remaining allowances or losses should be set against items where foreign tax exceeds the UK tax payable, although this ultimately makes no difference to the liability as it is already covered by the foreign tax.
+
+If some capital gains will fall within the basic rate band and others in the higher rate band, the foreign gains should be taxed at the higher rate in order to maximise FTCR. Within these, capital gains where the foreign tax exceeds the UK liability should be allocated to the higher rate first.
+
+This ordering for income tax and capital gains will typically produce the best results but there are exceptions. If you have more than one source of foreign income or capital gains eligible for relief, then maximising the relief available can require an involved and complex calculation. If you are in any doubt about your circumstances you should ask your tax adviser.
+
+If you are preparing your own calculation, then for income you can use the Foreign Tax Credit Relief working sheet (FTCRWS) to assist with this. Guidance on completing this is included in appendix 1 below.
+
+Likewise, the Foreign Tax Credit Relief working sheet for gains can be used to help calculate the relief allowable against your CGT liability. Guidance on completing this is included in appendix 2 below.
+
+You can use the ‘any other information’ white space on your return (form SA100 (https://www.gov.uk/government/publications/self-assessment-tax-return-sa100)) page TR7 to give supporting details of the ordering and calculations underlying your FTCR claim.
+
+5. Relief for Trusts and Estates
+
+Trustees may be liable to tax on income or gains from an overseas source. See manual TSEM3000 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3000) and manual CG33500C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33500c) for further information
+
+The personal representative of an estate is responsible for settling any Income Tax arising or Capital Gains Tax due on assets sold during the administration period. Further details can be found in manual CG30200C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg30200c).
+
+Where foreign tax is also paid on such income or gains, relief is available under the same general principles as discussed at the start of this helpsheet. DTAs must first be considered and if double taxation does occur then a choice can be made between FTCR and deduction relief. This will be subject to the different rates and allowances that are available to trusts, compared with individuals. See trusts and taxes (https://www.gov.uk/trusts-taxes) for further information.
+
+6. Appendix 1: Completing the FTCRWS
+
+FTCR can only ever reduce the liability to UK tax on overseas income, it can never be more than the UK tax liability.
+
+The UK tax liability arising on that income is defined as the difference between:
+
+a) the calculation of liability on all income, excluding the item for which is subject to the FTCR claim.
+
+b) the calculation of liability on all income, including the item for which is subject to the FTCR claim, and
+
+To calculate the UK tax liability arising on that income you must fill in the working sheet for one item or the separate working sheet for more than one item.
+
+Where you have more than one item, to start you may find it beneficial to work out the FTCR for the item of income taxable at the highest foreign tax rate.
+
+6.1 One Item
+
+Box FTC1
+
+Manual calculation using the Tax calculation summary notes
+
+Boxes A1 to M13
+
+Complete all the calculation that applies from box A1 to A294 and the appropriate subsidiary calculations in:
+
+- Section 13 Personal Allowance (TCSN 30) copy to box A125
+
+- Section 14 Age-related Married Couple’s Allowance (TCSN 31-33) copy to box A256
+
+- Section 16 Top Slicing Relief (TCSN 37-41) copy to box A243
+
+- Section 17 Deficiency Relief (TCSN 42) copy to box A242
+
+- Section 19 State Pension Lump Sum (TCSN46) copy to box A276
+
+- Section 20 Child Benefit payments (TCSN 47) copy to box A277
+
+- Section 22 Relief for finance costs (TCSN 52) copy to box A260a
+
+and use the figure in box A294 (TCSN 20) to fill in box FTC1.
+
+6.2 Digital calculation
+
+If you are using your online return to calculate FTCR complete all the return pages and do not put an amount in the box where it asks you to enter the total Foreign Tax Credit Relief on your income (box 2 on the Foreign (SA106) page). Enter the amount displayed for ‘income tax liability’ into box FTC1.
+
+Box FTC2
+
+Manual calculation using the Tax calculation summary notes
+
+Boxes A1 to M14
+
+Complete the calculation again for boxes to A294 and the sections listed above, but do not include the item subject to the FTCR claim so it is omitted from
+
+Section 1 (TCSN 4-5), Section 2 (TCSN 6) or Section 3 (TCSN 7-8).
+
+The total at boxes A43, A64, A77 or A80 and from A81 onwards will not include this income.
+
+Box A1 Employment income and benefits and expenses
+
+If your second calculation has removed employment income that would otherwise be in box A1 from TCSN4 you need also take out any benefits and expenses that apply to that income in boxes A5 and A6.
+
+Box A34 Residential property finance relief
+
+If your second calculation has removed income from residential property from box A34 (TCSN 5) remember to remove the appropriate amount from box M4 (TCSN 50).
+
+Box A125 Personal Allowance
+
+If your income is greater than £100,000 your personal allowance is restricted. If your personal allowance has been restricted in the first calculation you need to work out the allowance that would be due now an item of income has been removed. Page TCSN 30 of the Tax calculation summary notes explains how to calculate your personal allowance.
+
+Box A243 Top slicing relief
+
+If you qualify for Top Slicing Relief, this is a relief which can reduce higher rate on a Chargeable event gain, you need to enter the total income amount without the item of income in box E1 on page TCSN 37 of your Tax calculation summary notes amount from A81 (TCSN 8).
+
+Enter the new amount in box A243 (TCSN 17).
+
+Without including the foreign income for which you are claiming FTCR use the Tax calculation summary notes to recalculate up to box A164 for box A275, A276 and A277, and then:
+
+Box A275 Pension savings charge
+
+use HS345 to calculate the figure for box A275 (TCSN 19).
+
+Box A276 State pension lump sum
+
+use Section 19 on page TCSN 46 to calculate the figure for A276 (TCSN 19).
+
+Box A277 Child benefit charge
+
+use Section 20 on page TCSN 47 to calculate the figure for A277 (TCSN 19).
+
+6.3 Digital calculation
+
+Remove the item subject to the FTCR claim so it is omitted from your Employment or Foreign page.
+
+If your second calculation has removed employment income from the boxes for pay and tips and other payments you need to also take out any expenses that apply to that income.
+
+If your second calculation has removed income from residential property from the Foreign page remember to remove the appropriate amount residential property income or restricted finance costs and Unused residential property finance costs brought forward.
+
+Box FTC3
+
+Manual calculation using the Tax calculation summary notes and Digital calculation.
+
+Take away box FTC2 from box FTC1 and put the amount left over in box FTC3.
+
+Box FTC4
+
+Manual calculation using the Tax calculation summary notes and Digital calculation.
+
+Use the amount of foreign tax paid from column C on your ‘Foreign’ pages to fill in box FTC4.
+
+Box FTC5
+
+Manual calculation using the Tax calculation summary notes and Digital calculation.
+
+If a double taxation treaty restricts the amount, multiply the foreign income you have removed from the calculation by the allowable percentage rate in the digest of Double Taxation Treaties and put this amount in FTC5.
+
+Box FTC6
+
+Manual calculation using the Tax calculation summary notes and Digital calculation.
+
+FTC6 is the smaller of FTC3, FTC4 and FTC5.
+
+If you’ve made Gift Aid payments you will need to consider if the FTC6 amount is capped.
+
+Restrict the total credit in Appendix 1 and 2 so it is not more than the total income tax plus the total capital gains tax paid, less tax treated as deducted from gifts.
+
+If you are using the Tax calculation summary notes box use box A270 for tax deducted from gifts.
+
+From the online calculation under your total income will be a line telling you your basic rate limit has been increased. Multiply the amount the limit has increased by for Gift Aid payment by 0.2 (20%) e.g. £100 would be £20.00.
+
+6.4 More than One Item
+
+Box FTC1 to FTC6
+
+The starting calculation with all income for FTC1 to FTC6 is the same as it is for one item.
+
+Follow the one item instructions above.
+
+Box FTC1 i1 to FTC6 i1
+
+An FTCR claim is applied to one item of foreign income at a time. When more than one item is subject to an FTCR claim they must be processed serially.
+
+For the second, and any subsequent claims, the calculation of liability on all income excludes all income previously considered for FTCR.
+
+If you’ve made Gift Aid payments you will need to consider if the total FTCR amount is capped further. Follow the one item instructions above.
+
+Contact
+
+Online forms, phone numbers and addresses for advice on Self Assessment
+
+7. Appendix 2: Completing the Gains working sheet
+
+7.1 Column A (rows 1 to 12)
+
+You should enter in column A details of your chargeable gains.
+Your gains are those before allowable losses have been set off. You can find details of all of the gains to enter on your completed computation working sheets from page CGN 6 of the Capital Gains Tax summary notes (https://www.gov.uk/government/publications/self-assessment-capital-gains-summary-sa108).
+
+7.2 Columns B and C (rows 1 to 12)
+
+Use these columns to allocate out the overall figures shown in column A.
+Enter in column B the amounts corresponding to gains chargeable to UK Capital Gains Tax for which you’re not claiming Foreign Tax Credit Relief. That is, any UK gains and any foreign gains that have either not been subject to any foreign tax or where the foreign tax paid has been deducted in computing the amount of the gain that is chargeable to UK tax.
+
+Any amount remaining after losses and the AEA have been taken into account will need to be allocated to the 10%, 18%, 20% and 28% rates in rows 7, 8, 9 and 10 as appropriate.
+Enter in Columns C(i) to C(x) individual gains that have been subject to foreign tax for which you’re claiming FTCR. If you have more gains than will fit in the Foreign Tax Credit Relief working sheet (https://www.gov.uk/government/publications/foreign-tax-credit-relief-capital-gains-hs261-self-assessment-helpsheet), photocopy it before making any entries.
+
+As discussed earlier in this helpsheet, you can allocate losses (row 2) and the AEA (row 3) in the way that is most beneficial to you. See ‘complex cases — practical considerations’ above for further discussion.
+
+You must where possible, and if you’ve sufficient losses, deduct all your losses of the year from gains until all gains have been extinguished. Any unused losses can then be carried forward and set off against gains accruing in a following year. If you’ve enough gains left, any losses brought forward from a previous year must then be used to reduce your total gains but only down to an amount equal to the AEA (even if this means that the tax payable in row 11 is reduced to an amount less than the foreign tax paid on the gain in row 12). Any unused losses brought forward can then be carried forward.
+
+7.3 Column C (row 12)
+
+Enter the respective amounts of foreign tax eligible for FTCR.
+
+7.4 Column C (row 13)
+
+For each separate column, enter the lower of the figures at rows 11 and 12.
+
+7.5 Column A (row 13)
+
+Add up all the figures in column C, row 13, and enter the total in column A row 13. This is the total FTCR allowable for the year. Copy this figure to box 39 in your Foreign SA106 (https://www.gov.uk/government/publications/self-assessment-foreign-sa106) pages.
+
+If you’ve made Gift Aid payments you will need to consider if this amount is capped. See end of Appendix 1.
+
+8. Contact HMRC
+
+Contact HMRC for advice on Self Assessment and to change your personal details (https://www.gov.uk/find-hmrc-contacts/self-assessment-general-enquiries).

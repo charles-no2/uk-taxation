@@ -1,0 +1,22 @@
+Assessing: COMPASS: settlement cases: entering values
+Identifier: IHTM31243
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31243
+Published: 2016-04-09T10:04:02+01:00
+Updated: 2016-02-11T17:18:55+00:00
+Retrieved (UTC): 2026-09-18T15:06:03.101919+00:00
+
+Historic value
+
+If the charge you are assessing is a proportionate charge occurring before the first Ten Year Anniversary (TYA), you must put a value into Entry B to establish the rate at which to tax the proportionate charge.
+
+If the first charge you are assessing is the first TYA, you do not need to put a value into Entry B.
+
+Enter and amend the values as you would in death cases (IHTM31131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31131)). Use the ‘Other personal property’ asset type.
+
+Details of the charges
+
+For each charge that you want to assess,
+
+- create an Entry (IHTM31242 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31242)) and any extra assessment groups
+
+- enter and amend the details of assets, liabilities and reliefs, as you would for a death estate.

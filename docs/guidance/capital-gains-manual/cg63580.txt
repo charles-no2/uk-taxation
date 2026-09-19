@@ -1,0 +1,106 @@
+Investors’ Relief: calculating relief: part disposals and previous part disposals 
+Identifier: CG63580
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63580
+Published: 2017-09-07T13:14:40+01:00
+Updated: 2017-09-07T13:14:18+01:00
+Retrieved (UTC): 2026-09-18T14:34:03.766516+00:00
+
+TCGA92/S169VE
+
+TCGA92/S169VF
+
+TCGA92/S169VG
+
+There are no special rules for calculating the gain on a disposal of shares that may qualify for Investors’ Relief. However, where not all of the shares in a holding are qualifying shares at the time of disposal, then only part of the gain may be eligible for Investors’ Relief. CG63570 explains how to calculate the appropriate part of the gain which is subject to relief.
+
+This guidance explains the rules that identify which shares in a holding are qualifying shares immediately before the disposal. They are of particular relevance where a number of part disposals are made out of a holding of shares that do not all qualify.
+
+The rules apply where part of a holding has previously been disposed of after 17 March 2016 regardless of whether a claim for Investors’ Relief was made in respect of that earlier part-disposal (or part-disposals). The rules for identifying shares previously disposed of are designed to ensure maximum relief is available by prioritising excluded shares and then those potentially qualifying shares which have been held for the shortest amount of time over those that are qualifying shares or are closer to becoming qualifying shares.
+
+Investors’ Relief claim made on previous disposal
+
+Order in which shares are identified in the previous disposals–
+
+1.Identify all the qualifying shares in the holding immediately before the previous disposal, and treat them as being disposed of in the previous disposal first, limited to the number of shares previously disposed of.
+
+2. If the number of shares disposed of exceeds the number of qualifying shares, use any excluded shares in the identification process up to the balance of shares disposed of previously.
+
+3. If the number of shares disposed of exceeds the number of qualifying and excluded shares, use any potentially qualifying shares prioritising those most recently acquired in preference to those held for longer.
+
+See example 1
+
+No Investors’ Relief claim made on previous disposals
+
+Order in which shares are identified in the previous disposals –
+
+1. Treat any excluded shares as being disposed of in the previous disposal first, limiting these to the number of shares disposed of.
+
+2. If the number of shares disposed of exceeds the number of excluded shares immediately before the disposal, any potentially qualifying shares are to be treated as having been disposed of. The potentially qualifying shares will be identified first as those most recently subscribed for.
+
+3. If the number of shares disposed of exceeds the number of excluded and potentially qualifying shares, the balance is treated as being the disposal of qualifying shares.
+
+See example 2
+
+Example 1 – IR claim previously made
+
+Holding immediately before previous disposal:
+
+Qualifying shares: 100
+
+Excluded shares: 50
+
+Potentially qualifying
+
+Acquired 1 year before disposal (Y1): 80
+
+Acquired 2 years before disposal (Y2): 200
+
+Total shares in holding: 430
+
+Shares previously disposed: 300
+
+Order of shares identified in previous disposal:
+
+1 Qualifying: 100
+
+2 Excluded: 50
+
+3 potentially qualifying (Y1): 80
+
+Potentially qualifying (Y2): 70
+
+Total shares identified in previous disposal: 300
+
+This leaves a balance of 130 potentially qualifying shares available for future disposals.
+
+Example 2 – No previous IR claim
+
+Holding immediately before previous disposal:
+
+Qualifying: 100
+
+Excluded: 50
+
+Potentially qualifying
+
+Acquired 1 year before disposal (Y1): 80
+
+Acquired 2 years before disposal (Y2): 200
+
+Total shares in holding: 430
+
+Shares previously disposed: 300
+
+Order of shares identified in previous disposal:
+
+1 Excluded: 50
+
+2 Potentially qualifying (Y1): 80
+
+Potentially qualifying (Y2): 170
+
+Total shares identified in previous disposal: 300
+
+This leaves a balance of 30 potentially qualifying and 100 qualifying shares available for future disposals.
+
+See CG63500 for a general description of the relief and the layout of the guidance.

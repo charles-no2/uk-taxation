@@ -1,0 +1,46 @@
+Capital allowances: assets disposed of at a loss
+Identifier: CG15410
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15410
+Published: 2016-03-12T10:10:11+00:00
+Updated: 2016-07-11T15:42:08+01:00
+Retrieved (UTC): 2026-09-18T14:38:03.460079+00:00
+
+TCGA92/S41(2) – Assets disposed of at a loss
+
+If an asset is disposed of at a loss, TCGA92/S41(2) tells you that in the computation of the loss, expenditure is to be excluded to the extent to which any capital allowance or renewals allowance has been or may be made in respect of it. The effect of this computational adjustment is:
+
+- to reduce the amount of the loss, or
+
+- to restrict the loss to nil.
+
+Section 41 cannot convert a loss into a gain. The purpose of this restriction is to prevent relief being given twice for the same expenditure, once under the capital allowances code and once under the capital gains code.
+
+Meaning of “has been or may be made”
+
+Section 41(2) tells you that the capital gains allowable expenditure is to be restricted to the extent that any capital allowance or renewals allowance:
+
+- has been made in respect of the allowable expenditure on the asset, or
+
+- MAY be made in respect of the allowable expenditure on the asset.
+
+What this means in practice is that:
+
+- where the capital allowances code provides for a balancing charge, and
+
+- the capital gains allowable expenditure is the same as the expenditure qualifying for capital allowances,
+
+the capital gains allowable expenditure is restricted by the net allowances that have been given in respect of the allowable expenditure on the asset.
+
+In all other cases, you must take account of any allowances which have been or may be given in respect of the allowable expenditure on the asset to the extent that those allowances have not already been used to restrict a loss.
+
+Indexation
+
+For computations involving indexation see CG17430 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17430) onwards and CG16900 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16900)+.
+
+TCGA92/S41(6) - Capital allowances relating to the disposal
+
+When an asset is disposed of, there may be a balancing allowance or balancing charge for capital allowance purposes. Section 41(6) ensures that any allowances or charges made as a result of the disposal are taken into account in section 41. The amount of capital allowances to be taken into account under section 41 in relation to a disposal is:
+
+- increased by any further capital allowances falling to be made as a result of the disposal, but
+
+- decreased by any balancing charge falling to be made as a result of the disposal.

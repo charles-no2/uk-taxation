@@ -1,0 +1,42 @@
+Assessing: COMPASS: making amendments: selecting the material to amend
+Identifier: IHTM31131
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31131
+Published: 2016-04-09T10:02:55+01:00
+Updated: 2016-02-11T17:15:41+00:00
+Retrieved (UTC): 2026-09-18T15:05:50.140477+00:00
+
+As a case progresses you will need to make amendments to the COMPASS record from time to time. To amend the case record you should begin by selecting the case from the index (IHTM31112 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31112)). From the Amend menu on the main toolbar, select ‘Estate’. This opens the Estate Details window.
+
+From the Estate Details window, select the appropriate:
+
+- Entry (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011))
+
+- Assessment group (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)) (NIOP/IOP/IOP(W))
+
+- Property type (standard, joint, nominated, foreign)
+
+The default is set at Entry A, NIOP, Standard.
+
+You can use the buttons on the right to access the appropriate records for
+
+The Entry
+
+To change the name of any Entries apart from the free estate Entry A
+
+The agent
+
+To amend or delete (and re-enter a new agent if necessary) the agent’s details
+
+Any liable people
+
+You do not have to include details of a liable person, unless there is no agent or that person requests to receive copies of calculations. In this case, you must indicate them as ‘nominated’ (to receive calculations).
+
+If there is both an agent and a nominated liable person, COMPASS will print two sets of calculations, one for each address.
+
+Assets
+
+To amend the details of, or add or delete assets and liabilities (IHTM31132 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31132)).
+
+Reliefs
+
+To amend the details of, or add or delete reliefs and exemptions (IHTM31135 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31135)).

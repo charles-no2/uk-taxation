@@ -1,0 +1,94 @@
+Employee benefit trusts: dispositions by close companies: restriction of exemption
+Identifier: IHTM42962
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42962
+Published: 2016-04-09T10:27:08+01:00
+Updated: 2016-07-14T14:30:35+01:00
+Retrieved (UTC): 2026-09-18T15:11:34.354976+00:00
+
+IHTA84/S13(1) is restricted by IHTA84/S13(2) which confines it to employee benefit trusts (EBT) which exclude participators or their relatives. No relief is given if the trusts permit any of the property to be applied at any time, whether during any period referred to in IHTA84/S86 or later, for the benefit of:
+
+- a person who is at the time of the disposition a participator in the close company,
+
+- any person who is at the time of the disposition a participator in any close company that has made a disposition, which but for IHTA84/S13 would have been a transfer of value, where property became comprised in the same settlement,
+
+- any other person who is a participator in any company as mentioned in the two bullets above at any time after, or during the 10 years before, the disposition made by that company,
+
+- any person who is at the time of the disposition or any later time connected with any person covered by the three bullet points above unless IHTA84/S13(3) or S13(4) applies; see below.
+
+Connected person
+
+- Under IHTA84/S270 whether a person is connected with another is determined as it is for the purposes of TCGA92/S286 but as if:
+
+- ‘relative’ includes uncle, aunt, nephew and niece, and
+
+- ‘settlement’, ‘settlor’ and ‘trustee’ have the same meanings as in the IHTA84.
+
+‘At any time’
+
+As the words ‘at any time’ include any dates in the future, it is usual to insert a restriction to the class of beneficiaries which follows the precise terms of IHTA84/S13(2) to make sure that the conditions can be met. ‘At any time’ covers the whole trust period and beyond and if at the date the funds are first settled, the participator is not excluded from benefit, then IHTA84/S13(2) disapplies IHTA84/S13(1) and any transfers to the EBT could be chargeable to Inheritance Tax.
+
+For example, if the restriction on payments to participators applies only whilst the company is a close company, IHTA84/S13(2) will disapply IHTA84/S13(1) because at any time, the company could cease to be a close company because
+
+- the IHTA84/S86 period is defined in the legislation as ‘indefinitely or until the end of a period’,
+
+- S13(2) disapplies S13(1) if the trusts permit any of the property to be applied for the benefit of persons in S13(2)(a) to (d) ‘at any time’ during the S86 period or later,
+
+- the S86 period is from the time the trusts first satisfy the S86 conditions to the time when they cease to do so.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42962#Top)
+
+Restrictions relaxed
+
+These tight restrictions are relaxed in certain respects by IHTA84/S13(3) and IHTA84/S13(4).
+
+These are exclusions for:
+
+- small participators IHTA84/S13(3)
+
+- payments liable to Income Tax, IHTA84/S13 (4)(a). There is a restriction for transfers on or after 30 October 2024 (see below)
+
+- profit sharing schemes approved under TA88/Sch9, IHTA84/S13(4)(b)
+
+- share incentive plans IHTA84/S13(4)(c).
+
+Small participators
+
+The participators referred to in IHTA84/S13(2) exclude any participator who
+
+- is entitled to, or to rights entitling them to acquire, less than five per cent of any class of the shares comprised in the company's issued share capital, and
+
+- on a winding up would not be entitled to five per cent or more of its assets.
+
+Payments which are income
+
+The word ‘payment’ used in IHTA84/S13(4)(a) is restricted to its normal meaning of a transfer of money (IHTA84/S63 applies only when dealing with relevant property charges). So when determining whether the trusts permit the property to be applied as mentioned in IHTA84/S13(2), you must not take account of any power to make a payment which is income for Income Tax purposes for any person, or would be their income if they were resident in the UK.
+
+For transfers on or after 30 October 2024, IHTA84/S13 (4)(a) does not apply if, immediately after the disposition of property mentioned in IHTA84/S13(1), more than 25% of relevant beneficiaries are (disregarding subsection IHTA84/S13(4)(a)) persons falling within IHTA84/S13(2)(a) to (d).
+
+In IHTA84/S13(4)(a) “relevant beneficiary” means a person who—
+
+(a) is a person for whose benefit the trusts permit the property to be applied, and
+
+(b) is a person employed by or holding office with the company mentioned in IHTA84/S13(1).
+
+Approved profit sharing schemes IHTA84/S13(4)(b)
+
+No account is to be taken of any power to appropriate shares that are held under an approved profit sharing scheme under TA88/Sch9 (IHTM42940 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42940)).
+
+Share incentive plans IHTA84/S13(4)(c)
+
+No account is to be taken of any power to appropriate shares to, or acquire shares on behalf of individuals as part of a share incentive plan (IHTM42941 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42941)).
+
+Share Options
+
+For the purposes of IHTA84/S13 ‘payment’ is restricted to cash payments. So if the deed contains a power to grant share options the restrictions at IHTA84/S13(2) stop the relief at S13(1) from applying.
+
+- Where the grant of an option is to an employee, a charge may arise under IHTA84/S72 (2)(c) but see IHTM42982 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42982).
+
+- If the option is exercised there is no charge because this is a part sale or part payment out.
+
+- If the grant is to a participator the charge arises under IHTA84/S72(2)(c)). It is not a payment out.
+
+- If the option is exercised a claim arises under IHTA84/S72(2)(b).
+
+But this will not be the case in respect of payment which is the income of any person for the purposes of Income Tax by virtue of IHTA84/S72(5) and IHTA84/S70(3)(b). Payment here has the extended meaning in IHTA84/S63 (IHTM42982 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42982)).

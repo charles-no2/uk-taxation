@@ -1,0 +1,36 @@
+PENP formula: how to calculate ‘P’: examples
+Identifier: EIM13888
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13888
+Published: 2018-04-05T15:16:19+01:00
+Updated: 2021-04-13T09:17:17+01:00
+Retrieved (UTC): 2026-09-18T14:10:36.370245+00:00
+
+This page provides examples to support the explanations of how ‘P’ (see EIM13886 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13886)) is calculated for the purpose of the PENP formula (see EIM13880 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13880)).
+
+Example 1
+
+An employee’s monthly pay period begins on the first day of each month and ends on the last day of that month. The employer gives notice to the employee on 10 September 2019 that their employment will be terminated following a statutory notice period. The employee’s last full pay period ending prior to 10 September 2019 would be 1 August 2019 to 31 August 2019. ‘P’ would therefore be the number of calendar days between 1 August 2019 and 31 August 2019 (31 days).
+
+Example 2
+
+An employee’s first day of employment is 3 November 2019. The employee’s first pay period would end on 30 November 2019. However, the employment is terminated on 25 November 2019. No notice is given by either the employer, or the employee. ‘P’ would be the number of calendar days in the period from 3 November 2019 to 25 November 2019 (23 days).
+
+Example 3
+
+An employee is paid by equal monthly instalments. The employee’s monthly pay period begins on the first day of each month and ends on the last day of that month. The employment contract provides a minimum notice period of 2 months. The employer terminates the employee’s employment on 4 August 2019 without providing notice.
+
+In this case, the simplified calculation by months at s402D(6) ITEPA 2003 applies because the employee is paid in equal monthly instalments, the contractual notice period is expressed in whole months and ‘D’ is also a whole number of months. So, for the purpose of the PENP formula, ‘P’ would be 1 and ‘D’ would be 2.
+
+Example 4
+
+An employee is paid her salary of £36,000 by equal monthly instalments of £3,000 on the first day of each month. Her employment is terminated on the 1st of March and she is entitled to 2 weeks’ (14 days’) notice, which she does not receive. The last pay period is 1 February to 28 February. She receives a termination payment of £10,000, part of which will be PENP.
+
+The conditions for the simplified calculation by months at s402D(6) are not met because the post-employment notice period is not a whole number of months.
+
+However, the conditions for the alternative calculation at s402D(6A) are met, so the employer must substitute 30.42 as the value of P.
+
+The PENP calculation is:
+
+((BP × D) ÷ P) − T
+
+((£3,000 × 14) ÷ 30.42) – 0 = £1,380

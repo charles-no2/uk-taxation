@@ -1,0 +1,32 @@
+Downsizing Calculations: where there is a qualifying residential interest in the estate: how to calculate the lost relievable amount
+Identifier: IHTM46062
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46062
+Published: 2017-04-05T16:57:00+01:00
+Updated: 2018-09-28T13:07:40+01:00
+Retrieved (UTC): 2026-09-18T15:11:03.773702+00:00
+
+Where the person has ‘downsized’ to a lower value property the calculation of the downsizing addition (IHTM46050 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46050)) is provided by IHTA84/S8FE(9). The lost relievable amount is calculated using the following steps:
+
+Step 1 Work out the person’s ‘former allowance’. This is broadly the RNRB that would have been available when the disposal took place, but with some adjustments.
+
+This figure is made up of:
+
+the residential enhancement (IHTM46022 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46022)) that applied at the date of disposal, plus
+
+any brought-forward allowance (IHTM46040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46040)) that would have been available at the date of disposal, plus
+
+if the brought-forward allowance available at the date of death is greater than the brought-forward allowance that would have been due at the date of disposal, the difference between these two values.
+
+The total of these three values is the person’s ‘former allowance’.
+
+If the disposal occurred between 8 July 2015 and 5 April 2017 the figure for the residential enhancement is treated as being £100,000 in accordance with IHTA84/S8FE(6)(a). There would not have been any brought-forward allowance at that time, so this will be nil in accordance with IHTA84/S8FE(6)(b). But any brought-forward allowance available at the date of death is nevertheless added to the residential enhancement (this is illustrated at example 5 at IHTM46063 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46063)).
+
+Step 2 Express the value of the person’s QFRI (IHTM46053 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46053)) as a percentage of the person’s ‘former allowance’ (the answer from step 1 above), but this is limited to a maximum of 100%.
+
+Step 3 Express the value of the QRI as a percentage of the person’s allowance on death (this will be the default or adjusted allowance (IHTM46026 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46026)). Here the value of the QRI is so much of VT (IHTM46012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46012)) as is attributable to the QRI. This percentage is capped at 100%.
+
+Step 4 Subtract the percentage given by step 3 from the percentage given by step 2. If the result is a negative value it should be taken as 0%. The result is P%.
+
+Step 5 Multiply the person’s allowance on death (their default or adjusted allowance) by the percentage at step 4. This value is the person’s ‘lost relievable amount’.
+
+Having calculated the lost relievable amount, the next step is to calculate the downsizing addition that is due.

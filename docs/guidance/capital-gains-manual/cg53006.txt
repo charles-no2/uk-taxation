@@ -1,0 +1,24 @@
+Substantial shareholdings exemption: interpretation - company, group, subgroup, holding company and 51% subsidiary
+Identifier: CG53006
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53006
+Published: 2017-03-17T13:46:53+00:00
+Updated: 2021-06-03T09:47:19+01:00
+Retrieved (UTC): 2026-09-18T14:32:32.007980+00:00
+
+TCGA92/SCH7AC/PARA26
+
+TCGA1992/Sch7AC/Para 26 explains what is meant for the purposes of the substantial shareholdings exemption legislation by ‘company’, ‘group’ and related expressions.
+
+A company has the same meaning as in TCGA1992/S170(9), see CG45105 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45105). A group comprises the companies that would form a group if in the definition of a group of companies in TCGA1992/S170 references to ‘75% subsidiaries’ were replaced by references to ‘51% subsidiaries’. See CG45120 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45120) onwards for guidance on section 170. Note that a group of companies can include companies that are not resident in the United Kingdom. The holding company of a group is the company that TCGA1992/S170 describes as the ‘principal company’ of a group.
+
+A 51% subsidiary has the meaning given to that phrase by ICTA1988/S838. Broadly speaking, a company is a 51% subsidiary of another company if the other company beneficially owns, directly or indirectly, more than 50% of the first company’s ordinary share capital.
+
+Detailed guidance on the meaning of “shares” and “ordinary share capital” can be found in the Company Taxation Manual at CTM00511 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm00511) to 00516. For the purposes of Schedule 7AC share capital of a registered industrial and provident society is treated as ordinary share capital. Not all corporate bodies will have the equivalent of ordinary share capital. Such companies cannot therefore be 51% subsidiaries of other companies.
+
+The concept of a subgroup is relevant when considering whether the company whose shares have been disposed of qualifies for exemption. Suppose that a group’s structure is as follows, with all companies being wholly owned by the company above them:
+
+Link to subgroup diagram (http://www.hmrc.gov.uk/gds/CG/images/cg53006_diagram.gif)
+
+A company that owned shares in company X could sell those shares - that would be a disposal of shares in the holding company of a group. Company X could sell its shares in company B - that would be a simple disposal of shares in a company with no question of whether it was any sort of holding company. Or company X could sell its shares in company C. Company C has subsidiaries but is not the holding company of a group, as it is itself a 51% subsidiary of another company. The set of companies C, D and E is identified as a subgroup for the purposes of the substantial shareholdings exemption legislation. And company C is the holding company of that subgroup.
+
+For companies incorporated outside the United Kingdom ‘group’ and ‘subsidiary’ are construed with any necessary modifications.

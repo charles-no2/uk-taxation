@@ -1,0 +1,22 @@
+Liabilities: restricted deductions: borrowed money used to fund a foreign currency bank account
+Identifier: IHTM28033
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28033
+Published: 2016-04-09T09:52:42+01:00
+Updated: 2016-02-11T17:12:45+00:00
+Retrieved (UTC): 2026-09-18T15:04:01.019936+00:00
+
+Where a person’s estate includes a qualifying foreign currency bank account (IHTM04380 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04380)) which meets the conditions of IHTA84/S157 and estate also includes a liability where the borrowed money was used either directly or indirectly to finance the balance in the account, IHTA84/S162AA provides that the liability may only be allowed as a deduction against the estate to the extent that it exceeds the balance on the account, IHTA84/S162AA(3).
+
+However, that excess may only be deducted if it has not been brought about by one or more of the reasons listed in IHTA84/S162AA(4), which are that:
+
+- the excess arises from arrangements, the main purpose, or one of the main purposes of which was to bring about a tax advantage, or
+
+- the amount of the liability has been increased because interest has been added to the amount due or the amount to be repaid has increased in some other way.
+
+The meaning of ‘arrangements’ is defined in IHTA84/S162AA(5) and includes any scheme, transaction, or series of transactions, agreement or understanding whether or not legally enforceable, and any associated operations (IHTM14822 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14822)).
+
+In view of the definition of ‘tax’ in IHTA84/S272, a tax advantage here means an Inheritance Tax advantage. This is defined in IHTA84/S162AA(5) as meaning the avoidance or reduction of a charge to tax or the avoidance of a determination of tax.
+
+Example
+
+Roberto borrows £1m which he charges on his UK property worth £1.5m. He puts the borrowed money into a US dollar account with a UK bank. On his death, the balance in the account has grown to £1.2m. The US dollar account is left out of account on Roberto’s death, but the liability of £1m is disallowed by IHTA84/S162AA because it was used directly to fund the balance on the account. If the balance on the account was less than £1m on Roberto’s death, the excess of the liability over the balance could be allowed as a deduction, provided the excess does not result from arrangements designed to secure a tax advantage.

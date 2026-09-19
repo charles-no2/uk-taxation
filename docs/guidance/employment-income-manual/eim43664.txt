@@ -1,0 +1,242 @@
+Globally mobile employees: Overseas Workday Relief: pre-6 April 2025 tax years: Benefits in kind
+Identifier: EIM43664
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim43664
+Published: 2026-01-12T14:35:54+00:00
+Updated: 2026-05-05T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:23:09.940216+00:00
+
+Benefits in kind (BiKs) can be either earnings within section 62 ITEPA 2003 or fall within the benefits code so that they are amounts treated as earnings (see EIM43664 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim43664)).
+
+Where a benefit is provided for a tax year for which an employee is benefitting from OWR (see EIM43650 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim43650)), it’s necessary to determine to what extent the benefit relates to duties performed in or outside the UK. Where the benefit relates to duties performed outside the UK, that element of the earnings, or the amount treated as earnings, will only be taxable when it is remitted to the UK.
+
+As set out in EIM43666 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim43666), certain benefits wholly relate to duties performed either in or outside the UK. For example, where a benefit is provided to allow an employee to undertake duties in a particular location, the benefit is likely to relate to the place where these duties were performed. If an employee is attending a meeting outside the UK, any costs incurred by the employee in travelling to that meeting which are reimbursed by the employer would be a benefit which wholly relates to duties performed outside the UK.
+
+Other benefits may relate to both UK and non-UK duties, particularly where the provision of the benefit does not directly relate to the performance of specific duties. For example, where an employee is provided with a company car in the UK, if the employee undertakes duties both in and outside the UK while the car is available to them, then this benefit relates to both the UK and non-UK duties performed during the period the car is available.
+
+The extent to which a benefit relates to either UK and/or overseas duties should be determined having regard to the specific employee’s relevant facts and circumstances.
+
+When determining whether the payment or provision of a benefit which relates, wholly or partly, to overseas duties, results in a remittance, it’s necessary to differentiate between cash benefits (such as a cash allowance or the reimbursement of personal expenses) and non-cash benefits (such as the provision of accommodation or a car).
+
+As set out in EIM43660 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim43660), when an employer makes a payment of earnings, they will generally have a broad degree of discretion available when determining the character of those earnings, depending on the funds available at the time the payment is made. On a broad reading of Sterling Trust, this decision is also capable of applying to payments of cash benefits by an employer, in the same manner as to payments of other money earnings.
+
+This means that even if a cash benefit relates to overseas duties, if there are sufficient section 15 earnings available to treat the cash benefit as being paid out of section 15 earnings, then there will be no remittance when the benefit is provided in the UK. However, this will reduce the amount of section 15 earnings available to treat as the source of other payments of earnings which the employer makes.
+
+However, Sterling Trust cannot apply to the provision of non-cash benefits, as there is no payment. So when dealing with non-cash benefits, it is only necessary to determine the extent to which the amount treated as earnings relates to employment duties performed in the UK, and whether the benefit is provided in the UK. Any part of the benefit which does not relate to duties performed in the UK will be section 26 earnings and where the benefit is provided in the UK, then this will result in a remittance of those section 26 earnings at the time the benefit is provided.
+
+Example (Part 1)
+
+Ahrun benefitted from OWR in a tax year in which his total general earnings for that year were £198,000, made up of £180,000 salary and a cash benefit of £18,000. This cash benefit was provided by Ahrun’s employer reimbursing his accommodation costs. On the last day of each month his employer paid his salary of £15,000 and reimbursed his accommodation costs of £1,500. Ahrun had £158,400 section 15 earnings and £39,600 section 26 earnings
+
+PAYE tax of £5,350 was deducted from his monthly salary, together with Primary Class 1 NICs of £150. Ahrun’s net earnings of £9,500 were then paid into an overseas bank account, which he transferred £6,500 from each month into the UK immediately after his salary was paid.
+
+Monthly pay
+| Benefits
+| Section 15
+| Section 26
+| PAYE
+| Class 1 NIC
+| Net transfers pay
+| Net transfers to UK
+|
+
+£15,000
+| £1,500
+| £13,200
+| £3,300
+| £5,350
+| £150
+| £9,500
+| £6,500
+|
+
+Ahrun treats his employer as paying each element from section 15 earnings and section 26 earnings in the same proportion as his total general earnings received in the tax year,
+
+- £1,100 of the PAYE and Primary Class 1 NICs would have been deducted from section 26 earnings,
+
+- £300 of the £1,500 benefit provided in the UK would have been paid from section 26 earnings, and
+
+- the £9,500 payment into the offshore account would be made up of £7,600 section 15 earnings and £1,900 section 26 earnings.
+
+S.15 Net pay transfers
+| S.26 Net pay transfers
+| S15 benefits
+| S26 benefits
+| S15 PAYE
+| S26 PAYE
+| S15 NIC
+| S26 NIC
+|
+
+£7,600
+| £1,900
+| £1,200
+| £300
+| £4,280
+| £1,070
+| £120
+| £30
+|
+
+Under the mixed fund rules, transfers out of the overseas account into the UK are treated as being made from section 15 earnings first, so that the £6,500 transfer does not result in a remittance of any section 26 earnings.
+
+If any of the PAYE tax deducted from section 26 earnings is not repayable, there will have been a remittance to the UK when this PAYE tax was paid to HMRC.
+
+Any of the Primary Class 1 NICs deducted from section 26 earnings will result in a remittance when it is paid to HMRC. Of the £1,800 total Primary Class 1 NICs deducted in the year, £360 was deducted from section 26 earnings.
+
+This means there was a remittance of £3,600 in the tax year in relation to the benefits, and £360 as a result of the payment of Primary Class 1 NICs.
+
+To determine whether any of the section 26 PAYE tax paid is not repayable, it may be necessary to undertake a preliminary income tax liability calculation, not including the PAYE tax paid.
+
+Ahrun’s preliminary taxable earnings are made up of £144,000 salary taxable on receipt under section 15, £14,400 BiKs taxable on receipt under section 15, £3,600 BiKs taxable on remittance under section 26 and £360 Primary Class 1 NICs taxable on remittance under section 26. Ahrun’s total preliminary taxable earnings are £162,360.
+
+The tax payable on these earnings was £59,265. As total PAYE tax of £64,200 was deducted, a repayment is due of £4,935. £12,840 total PAYE tax was deducted from section 26 earnings, so that £7,904 is not repayable and was remitted at the time the PAYE tax was paid to HMRC.
+
+| Amounts
+|
+
+Preliminary Taxable Earnings (s15 salary and BiKs + S.26 BIKs and class 1 NIC)
+| £162,360
+|
+
+Tax payable
+| (£59,265)
+|
+
+Total PAYE deducted
+| £64,200
+|
+
+Repayment due (Tax payable less PAYE deducted)
+| £4,935
+|
+
+Total PAYE deducted from s.26
+| (£12,840)
+|
+
+Balance of s.26
+| (£7,904)
+|
+
+The total amount remitted as a result of the section 26 PAYE tax paid, would be the lower of the grossed up £7,904 or the £12,840 PAYE tax deducted from section 26 earnings. £7,904 grossed up is £14,370.91, so that the remittance was £12,840.
+
+Ahrun’s total taxable earnings are £175,200 and the tax payable on these earnings is £65,043.
+
+No PAYE tax is repayable and £843 is payable once Ahrun has filed his return for the tax year.
+
+As noted above, Sterling Trust can apply to cash benefits so that there may be a degree of flexibility available when determining the character of the earnings from which a cash benefit is paid.
+
+Example (Part 2)
+
+Instead of treating the amounts deducted, the benefit paid and the payment into the overseas account as being made up of section 15 earnings and section 26 earnings in the same proportion as his total general earnings for that year, Ahrun could instead treat his employer as deducting the PAYE tax and Primary Class 1 NICs wholly from section 15 earnings. He could also treat the cash benefit as being wholly paid from section 15 earnings, as it was paid at the same time as his salary was paid, if there were sufficient section 15 earnings available to permit this treatment.
+
+The £5,350 PAYE tax and £150 Primary Class 1 NICs deducted each month would be treated as deducted from section 15 earnings, and the benefit of £1,500 would be treated as paid wholly from section 15 earnings.
+
+The £9,500 paid overseas would be made up of £6,200 section 15 earnings and £3,300 section 26 earnings.
+
+S.15 Net pay transfers
+| S.26 Net pay transfers
+| S15 benefits
+| S26 benefits
+| S15 PAYE
+| S26 PAYE
+| S15 NIC
+| S26 NIC
+|
+
+£6,200
+| £3,300
+| £1,500
+| £0
+| £5,350
+| £0
+| £150
+| £0
+|
+
+This would result in a remittance of £300 being made each month as a result of the £6,500 transferred into Ahrun’s UK bank account, so that there would now be in year remittances of £3,600, together with the £158,400 section 15 earnings. Ahrun’s total taxable earnings are £162,000 on which the tax payable is £59,103.
+
+Ahrun is now entitled to a repayment of £5,097, which he could receive into a UK bank account without resulting in any further remittance, as none of it was deducted from section 26 earnings.
+
+| Amounts
+|
+
+Taxable Earnings (s15 salary, BiKs, PAYE + S.26 in year remittance)
+| £162,000
+|
+
+Tax payable
+| (£59,103)
+|
+
+Total PAYE deducted
+| £64,200
+|
+
+Repayment due (Tax payable less PAYE deducted – all S.15)
+| £5,097
+|
+
+Alternatively, rather than treat all of the £5,350 PAYE tax as having been deducted from section 15 earnings, he could treat part of is as being deducted from section 26 earnings. He could choose to treat £300 of the PAYE tax as having been deducted from section 26 earnings. It may therefore be necessary to undertake a preliminary income tax liability calculation not including the PAYE tax paid.
+
+S.15 Net pay transfers
+| S.26 Net pay transfers
+| S15 benefits
+| S26 benefits
+| S15 PAYE
+| S26 PAYE
+| S15 NIC
+| S26 NIC
+|
+
+£6,200
+| £3,300
+| £1,500
+| £0
+| £5,050
+| £300
+| £150
+| £0
+|
+
+Ahrun’s total taxable earnings would then be £158,400 on which there would be £57,483 tax payable. The PAYE tax repayable would be £6,717, and the PAYE tax deducted from section 26 earnings would have been £3,600. All the tax deducted from section 26 earnings is repayable, so it is unnecessary to undertake a further income tax liability calculation.
+
+| Amounts
+|
+
+Preliminary Taxable Earnings (s15 salary, BiKs, PAYE + S.26 in year remittance)
+| £158,400
+|
+
+Tax payable
+| (£57,483)
+|
+
+Total PAYE deducted
+| £64,200
+|
+
+Repayment due (Tax payable less PAYE deducted)
+| £6,717
+|
+
+Total PAYE deducted from s.26
+| £3,600
+|
+
+| Repayment contains both s.26 and s.15 amounts
+|
+
+If the £3,600 section 26 earnings is repaid into an overseas account there is no remittance either in the year the earnings were received, or in the subsequent tax year, until it is subsequently transferred to the UK. Any amount of section 15 earnings can be repaid into a UK or overseas account.
+
+However, as Sterling Trust is only concerned with payments, it cannot extend to the provision of non-cash benefits. Where a benefit is provided but not paid into a qualifying account, the special mixed fund rules cannot apply to the benefit. Following Sterling Trust, it may be possible to treat cash benefits in kind as paid wholly from section 15 earnings where they could have been paid from either section 15 or section 26 earnings.
+
+Neither Sterling Trust nor the special mixed fund rules can apply to non-cash benefits such as accommodation or company cars. There is no payment to which the principles in Sterling Trust can apply, and nothing is paid into the nominated account for the purposes of applying the special mixed fund rules.
+
+Where an employer provides a benefit by paying or reimbursing an expense incurred by the employee, this could fall within the scope of Sterling Trust.
+
+Where non-cash benefits, such as a company car, were provided by an employer and only enjoyed in the UK, any element of the benefit which relates to non-UK duties will be taxable on remittance and, since the benefit was provided in the UK, will have been remitted at the time it was provided.
+
+In some circumstances, an employee may wish to treat their employer as deducting a proportion of the PAYE tax deducted from section 26 earnings, rather than a specific amount. This approach would be accepted so long as there was no detriment to the employer in doing so.
+
+For further examples see EIM43675 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim43675).

@@ -1,0 +1,36 @@
+Dividends and other company distributions: loans and advances by close companies to participators: amounts written off
+Identifier: SAIM5200
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5200
+Published: 2016-03-19T16:27:25+00:00
+Updated: 2020-02-05T10:22:51+00:00
+Retrieved (UTC): 2026-09-18T14:26:41.325044+00:00
+
+Loans by close company are taxed as distributions when released
+
+Section 455 CTA 2010
+
+CTM61500 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm61500) onwards explains the treatment of a loan or advance by a close company to a participator (or an associate of a participator) in the company - broadly this means a shareholder or a relative or a partner of a shareholder.
+
+A loan or advance is assessable on the company under CTA10/S455 (CTM61505 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm61505)). Where this is wholly or partly released or written off, the company will get relief under CTA10/S458. A charge to tax under ITTOIA05/PART4/CHAPTER6 then applies to the participator.
+
+The legislation in CTA10/S455 also applies where a loan is made and written off by a company which is controlled by a close company, CTA10/S460 (1) & (2). ‘Loan’ in CTA10/S460 (7) has an extended meaning. So if a person incurs a debt to a close company or a debt due from a person to a third party is assigned to a close company the close company is treated as having made a loan.
+
+Sections 415 to 421 ITTOIA 2005
+
+Income tax is chargeable on the loan or advance released or written off, ITTOIA05/S415, on the person to whom the loan was made, ITTOIA05/S417.
+
+Where the loan or advance released or written off was originally made to an individual who was also a director or higher paid employee, any charge under ITTOIA05 takes precedence over the charge under ITEPA03/S188 - see EIM21746 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21746).
+
+The legislation bites where the debt is passed to a third party. This is because it is not possible in law for a debtor to assign a debt, since the creditor needs to know the standing of the debtor. Any transfer of debt takes place by way of ‘novation’, with the existing debtor being released from the debt and the new debtor taking on a new debt. It follows that a charge to tax under ITTOIA05/S417 arises on the release of the existing debtor - Collins v Addies; Greenfield v Bains (1992) 65TC190.
+
+Tax is not charged under ITTOIA05/PART4/CHAPTER6 where the person to whom the loan is made is a settlor of a trust who is taxable under the settlements legislation in ITTOIA05/PART5/CHAPTER5 - ITTOIA05/S418. Nor is tax charged where the borrower dies and the debt is due his or her personal representatives - ITTOIA05/S419, but subject to certain rules on the taxation of beneficiaries.
+
+Loans written off are treated as dividend income - ITA07/S19 (2)(d) and the amount that would otherwise be chargeable at higher rate is therefore the dividend upper rate (SAIM1070 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim1070)).
+
+Tax years up to 2015-16: ‘grossing-up’ and tax treated as paid
+
+For amounts released or written off in tax years up to 2015-16 the income charged was the ‘gross amount’, ITTOIA05/S416, an amount grossed up by reference to the dividend ordinary rate (see SAIM1070 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim1070)) for the relevant tax year. FA16/S5 and SCH1 removed the grossing up along with the repeal of dividend tax credits for tax years 2016-17 onwards.
+
+The tax treated as paid was not repayable - ITTOIA05/S421 (1), but was allowable as a credit against any liability to higher rate tax. If, exceptionally, personal reliefs were available against the income, the credit was restricted to the amount relating to the income actually charged to higher rate tax.
+
+Nor was the tax treated as paid available to cover liability for tax deductible at source under ITA07/PART15 from interest and annual payments made (see SAIM9040 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim9040)).

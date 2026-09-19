@@ -1,0 +1,20 @@
+Step 4 - simple grossing calculations: calculation when there is a lifetime cumulative total in excess of the threshold
+Identifier: IHTM26144
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26144
+Published: 2016-04-09T09:48:08+01:00
+Updated: 2016-02-11T17:12:09+00:00
+Retrieved (UTC): 2026-09-18T15:03:12.606706+00:00
+
+Where the lifetime cumulative total (IHTM31413 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31413)) exceeds the threshold at the date of death and the conditions at IHTM26131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26131) are satisfied, the grossing calculation is
+
+Chargeable specific gifts free of tax × (100 ÷ 60).
+
+Example
+
+Facts again as in Example 1 at IHTM26142 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26142), except that there is a lifetime cumulative total of £240,000. The date of death is 1 May 2000. The chargeable specific gifts (IHTM26011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26011)) all free of tax (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003)), total £264,000. There is also chargeable settled property (IHTM16000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16000)) valued at £250,000.
+
+In practice, because the lifetime cumulative total exceeds the threshold of £234,000, tax at 40% is payable on the whole of the chargeable death estate. Consequently, the full amount of the chargeable specific gifts totalling £264,000 has to be grossed up at 40%. The calculation is
+
+£264,000 (100 ÷ 60) = £440,000
+
+The calculation can easily be checked by deducting tax at 40% from the £440,000. Tax at 40% is £176,000. The difference is £264,000 which is the ungrossed value of the chargeable specific gifts.

@@ -1,0 +1,20 @@
+Capital loss anti-avoidance rule: Example 3
+Identifier: CG40254
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg40254
+Published: 2016-03-12T11:01:58+00:00
+Updated: 2020-11-13T09:11:07+00:00
+Retrieved (UTC): 2026-09-18T14:40:25.508231+00:00
+
+Y plc is the principal company of a property group that includes a subsidiary company X Ltd.
+
+X Ltd owns a property in the centre of London with a base cost of £1bn. The propertywas previously acquired from a fellow group company at no gain/no loss (TCGA92/S171) when the market value of the property stood at £900m.
+
+X Ltd issues shares to an unconnected party, B Ltd, to the extent that B Ltd holds 30% of the issued share capital of X Ltd and so X Ltd is no longer a member of the Y plc group. These new shares have very restricted rights compared to those already in issue.
+
+In the absence of TCGA02/S16A (originally introduced by FA 2006 amendments to TCGA92/S8, see CG40241) the fact that X Ltd is no longer part of the groupheaded by Y plc triggers the degrouping provisions, and a capital loss is realised, reflecting the previous fall in property value of £100m.
+
+This is an example of artificial degrouping by issuing shares in a subsidiary company to a third party. In this example, although Y plc has suffered from a real fall in the value of its subsidiary, X Ltd, as a result of changes in the property value, it has not made a real commercial disposal of the subsidiary to realise that loss. The presence of only very restricted rights attached to the new shares indicates that Y plc has no intention of making any material disposal of its economic interest in the property. Following the enactment of what is now TCGA92/S16A, any loss accruing to Y plc in pursuance of arrangements will notbe an allowable loss.
+
+The issue of shares with very restricted rights to a third party is an arrangement that the new legislation would affect because this transaction was undertaken primarily to secure a tax advantage, being the recognition of a capital loss through the operation of the ‘ degrouping provisions. TCGA92/S16A provides that this loss arises in disqualifying circumstances and is not therefore an allowable capital loss.
+
+If, however, in the above example B Ltd genuinely wished to enter into a joint venture involving the property, then a different outcome can be expected. It would have subscribed for shares that had rights comparable to those in issue, so that it acquired a corresponding share of the economic value of X Ltd. In those circumstances, securing a tax advantage is unlikely to have been a main purpose of the transaction.

@@ -1,0 +1,111 @@
+Class 1: Calculating Class 1 NICs for Directors: Annual earnings periods: Examples: Regular monthly salary – 2025 to 2026 
+Identifier: NIM12028
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim12028
+Published: 2016-04-11T17:26:53+01:00
+Updated: 2025-04-05T12:01:38+01:00
+Retrieved (UTC): 2026-09-18T15:15:16.933678+00:00
+
+Regulation 8 Social Security (Contributions) Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+Director paid £3,000 on 28th of each month starting April 2025 and pays NICs using the directors Standard Method of calculation. Cumulative NICs are shown but amount actually payable each month is difference between amount due and amount previously paid.
+
+Date | Cumulative | Primary | Secondary | Notes |
+
+28 April | £3000 | Nil | Nil | Below Secondary Threshold  |
+
+28 May | £6000 | Nil | £150.00 ((£6,000 - £5,000) x 15%)
+| Employer's NICs calculated from earnings year to date
+
+Below LEL  |
+
+28 June | £9000 | Nil | £450.00 ((£9,000 - £5,000) x 15% = £600.00 - £150.00)
+|
+
+Employer's NICs calculated from earnings year to date and subtract previous months NICs
+
+No Primary as still below PT
+
+|
+
+28 July
+
+|
+
+£12,000
+
+|
+
+Nil
+
+|
+
+£450.00 ((£12,000 - £5,000) x15% = £1050.00 - £600.00)
+
+|
+
+No Primary as still below PT
+
+|
+
+28 August
+
+|
+
+£15,000
+
+|
+
+£194.40
+
+((£15,000 - £12,570) x 8% = £194.40)
+
+|
+
+£450.00 ((£15,000 - £5,000) x15% = £1,500 - £1050)
+
+| Director's NICs calculated from earnings year to date  |
+
+28 September
+
+|
+
+£18,000
+
+|
+
+£240.00
+
+((£18,000 - £12,570) x 8% = £434.40 - £194.40)
+
+| £450.00 ((£18,000 - £5,000) x15% = £1,9500 - £1,500)  | Director's NICs calculated from earnings year to date and subtract previous months NICs
+|
+
+October to February | Repeat as for September |
+|  |
+|
+
+28 March
+
+|
+
+£36,000
+
+|
+
+£240.00
+
+((£36,000 - £12,570) x 8% = £1,874.40 - £1,634.40)
+
+|
+
+£450.00
+
+((£36,000 - £5,000) x 15% = £4,650 - £4,200)
+
+|
+
+Earnings for year do not reach the UEL
+
+|
+
+If the employer decides to ‘pay on account’ (NIM12026 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim12026)) Class 1 NICs are due from the first month and the employer adjusts the final payment at the end of the year to ensure the same amount of NICs is paid as in the example.

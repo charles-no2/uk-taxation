@@ -1,0 +1,46 @@
+Settlements Legislation: Rules affecting non-domiciled and deemed domiciled settlors of non-resident trusts from 6 April 2025 : Example – PFSI, the benefits charge and the 4-year FIG regime 
+Identifier: TSEM4740
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4740
+Published: 2025-04-07T07:49:35+01:00
+Updated: 2025-09-03T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:59.097280+00:00
+
+Miss E has been resident in the UK since July 2022 but has never been classed as UK domiciled or deemed domiciled in the UK under condition A. She was taxed on the remittance basis each year up to and including 2024/25. In 2023/2024, she settled foreign investments into a Jersey resident trust of which she was a beneficiary. From 6 April 2024 to 5 April 2025 the trustees received income on its investments of £250,000.No distributions were made during this period. This income would have been treated as Protected Foreign-Source Income (PFSI) under the old section 628A ITTOIA 2005 because:
+
+-
+
+the income would have been relevant foreign income if it were income of a UK resident individual,
+
+-
+
+the income was from property that originated from the settlor,
+
+-
+
+when the settlement was created Miss E was not UK domiciled or, because the settlement was created after 6 April 2017, deemed domiciled in the UK
+
+-
+
+there was no time in the relevant tax years that Miss E was UK domiciled, or deemed domiciled in the UK under Condition A,
+
+-
+
+the trustees were not UK resident for the relevant tax years,
+
+-
+
+Because Mrs E was not domiciled or deemed domiciled in the UK no further property or income could have been provided by her for the purpose of the settlement, either directly or indirectly at a time when she was domiciled or deemed domiciled in the UK.
+
+Miss E was not taxable on the £250,000 of income in the year 2024/25 because it was PFSI and it was not matched with a benefit provided to her. From the tax year 2025/26 Miss E will be taxable on the income of the trust as it arises per tax year, because from 6 April 2025 the remittance basis of taxation and the concept of PFSI no longer applies. From this date all UK residents are taxed on the arising basis on all foreign income and gains.
+
+However, Miss E only moved to the UK in July 2022, so she is a qualifying new resident, eligible to claim relief under the 4-year FIG regime for 2025/26 as she is within her first 4 tax years of residence in the UK. This means that she will be able to claim relief from tax chargeable under section 624 ITTOIA 2005 on the £250,000 of income arising in 2025/26. For the tax year 2026/27 onwards, Miss E will no longer be a qualifying new resident and will not be eligible to claim relief under the 4-year FIG regime. She will pay tax on the income arising under the settlement on the arising basis.
+
+In 2025/26 Miss E receives a benefit from the Jersey Trust of £200,000, to renovate a property.
+
+The full £200,000 forms Miss E’s ‘untaxed benefits total’ calculated by the steps in section 643B ITTOIA 2005 because the amount was provided to Miss E when she was UK resident, and no deductions are required to be made under step 3.
+
+The settlement has £250,000 in ‘Available Protected Income’ as determined by section 643C ITTOIA 2005 because PFSI of that amount arose under the settlement in the year 2024-25 and no deductions are required in relation to steps 2 through to 4, nor added due to step 5. This means that the £200,000 paid to Miss E can be matched against the API and she would be subject to income tax on that amount had she not been eligible for and claimed relief under the 4-year FIG regime.
+
+Miss E does not receive any benefits in 2026/27. In 2026/27 her untaxed benefits total will be nil. When calculating her untaxed benefits total, Step 1 and Step 2 of S643B ITTOIA 2005 will  include the £200,000 benefit provided in tax year 2025/26, because Step 1 asks you to identify a benefit provided in the current or a previous tax year. However, Step 3(b) provides a deduction from the untaxed benefits total of any income treated as arising to a person in a previous year under S643A, S643J or S643L. Because this income arose to Miss E in a previous year it is deducted under Step 3(b), leaving her untaxed benefits total being nil. The fact that she was eligible for and claimed relief under the 4-year FIG regime in 2026/26 does not affect this.
+
+Miss E remains resident in the UK and in 2029/30 receives a further benefit of £50,000. When calculating the API of the settlement the value of the benefit paid to Miss E of £200,000 in 2025/26 is added back to the PFSI at step 5 of S643C ITTOIA 2005, meaning that there is still £250,000 of API available for matching. Miss E will be taxable on £50,000 of this benefit under section 643A ITTOIA 2005 as this is her ‘untaxed benefits total’, per section 643B ITTOIA 2005 and there is £250,000 of API in the trust to be matched against. This will leave £200,000 of API in the trust to be matched against future benefits.

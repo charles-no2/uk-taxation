@@ -1,0 +1,12 @@
+Assessing: SAGE: recording calculation details
+Identifier: IHTM31861
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31861
+Published: 2016-04-09T10:07:05+01:00
+Updated: 2016-02-11T17:19:39+00:00
+Retrieved (UTC): 2026-09-18T15:06:35.149527+00:00
+
+When you issue a calculation for tax and/or interest, information about the calculation needs to be input to SAGE. This is either done automatically (IHTM31862 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31862)) for COMPASS calculations, or manually for Template calculations when you send copies to Accounts Section.
+
+SAGE records the tax and interest due separately against each file reference. This means that for a single calculation SAGE records two transactions, one for the tax and another for the interest.
+
+When a calculation is withdrawn, a credit note is entered on the system. Again, tax and interest are recorded as two separate transactions.

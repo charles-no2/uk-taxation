@@ -1,0 +1,90 @@
+Business Asset Disposal Relief: shares or securities: personal company definition: the economic interest requirement
+Identifier: CG64051
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64051
+Published: 2019-04-03T12:30:33+01:00
+Updated: 2020-09-28T09:59:18+01:00
+Retrieved (UTC): 2026-09-18T14:34:18.542457+00:00
+
+Entrepreneurs’ Relief was renamed in Finance Act 2020 with effect from 6 April 2020. The new name is generally used in this guidance but should be read as applying to times before that date.
+
+As explained in CG64050 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64050), an additional requirement that the individual has a sufficient economic interest in the company applies to disposals on or after 29 October 2018. The requirement will be met at a time when either of the following conditions is met. However, the second condition will not be met where the anti-avoidance rule described at the bottom of this page applies.
+
+Condition (i): entitlement to profits and to assets in a winding up
+
+This condition is met at any time when the individual would be entitled to 5% of the company’s distributable profits and to 5% of the assets that would be available to distribute on a winding up by virtue of their holding of ordinary share capital in the company.
+
+The condition does not consider actual distributions but rather looks at what the individual would be entitled to if a distribution of profits or assets was made. This means that the 5% requirement may not be met where, for example, an entitlement relies on the discretion of directors or financial hurdles being met.
+
+To test whether the 5% requirement is met, the profits and assets to be measured are the amounts available to “equity holders”. “Equity” has a wider meaning than “shares”. The amounts are calculated in accordance with Chapter 6 of Part 5 of CTA 2010 and general guidance can be found at CTM81000+. The rules deal with group relief for companies but are modified to apply to the relationship between the individual and the company for Business Asset Disposal relief.
+
+The individual replaces “Company A”, and a person carrying on a banking business is not treated as an “equity holder” in respect of a normal commercial loan. Other parts of the group relief rules that do not apply for this purpose are:
+
+-
+
+CTA10/S171(1)(b) and CTA10/S171(3) dealing with arrangements that would affect entitlement after the accounting period being considered
+
+-
+
+CTA10/S173 and CTA10/S174 dealing with certain option arrangements
+
+-
+
+CTA10/S176 to CTA10/S179 which are only relevant to situations involving CTA10/S174
+
+-
+
+CTA10/S180 and CTA10/S181 dealing with certain situations involving non-UK companies
+
+Calculating the amounts for condition (i)
+
+The results from the company accounting period are used to test whether the individual had beneficial entitlement to at least 5% of the profits or assets.
+
+Where a period throughout which the company must be the individual’s personal company crosses different company accounting periods, the results of each period are used to check whether the condition is met at any given time. This may mean that eligibility for relief cannot be ascertained until such time as the relevant accounting period ends and the results are obtained, which may be after the shares are disposed of.
+
+Eligibility to relief may also vary depending on the financial results in situations where, for example, certain shares have preferential rights. If the results mean that only certain shareholders would have entitlement to a dividend, the test would be failed for other shareholders. If the company returns a loss, a figure of £100 is used.
+
+The assets available on a winding up do not include assets such as goodwill if they are not recognised on the balance sheet.
+
+If the shares are of a sort which mean that the shareholder does not have such entitlement until a given event takes place, such as in the case of some types of “growth shares”, then the entitlement must be ignored unless that event has taken place.
+
+Where a company has a single class of shares in issue and there are no other arrangements that affect any shareholder’s rights then this condition is likely to be met without the need to refer to the actual accounts. In other situations condition (ii) may be more straightforward to consider.
+
+Note that this condition looks at entitlement which must be met by virtue of the shareholding, being the “ordinary share capital” that is taken into account to meet the 5% ordinary share capital condition. It will not be met if there is reliance on a side agreement or further contract. The individual’s entitlement on that basis is to be compared with the overall entitlement to holders of “ordinary shares” as defined in the group relief rules, to include rights of all equity holders.
+
+Condition (ii): proceeds in a sale of the whole of the ordinary share capital of the company
+
+This condition does not refer to the definitions used in CTA 10. It will be met at a time when the individual would be entitled to 5% of the proceeds if the whole of the ordinary share capital of the company was sold at its market value. Ordinary share capital is defined in ITA07/S989, see TCGA92/S169S(5). The market value to be used is that at the time when the individual makes the disposal for which Business Asset Disposal Relief is claimed, or if relevant, the date when the company ceased to be a trading company. That is the amount by reference to which the individual’s percentage entitlement is measured for any earlier time.
+
+The proceeds are not the amount the individual actually received on disposal but the amount which they would have been entitled to if the whole of the ordinary share capital had been sold by all the shareholders. A minority share may be worth more in such a situation as there would be no minority discount to apply to the value. Also, the condition does not take into account holdings which do not meet the definition of ordinary share capital.
+
+Where an individual would receive at least 5% of the proceeds on a disposal of the whole of the ordinary share capital of the company it is necessary to consider whether that would have happened had there been a disposal of the shares for the same amount of total proceeds at all times during the period for which the personal company requirement must be met. Condition (ii) will not be met where an individual receives less than 5% of the relevant proceeds on an actual whole company takeover.
+
+Relief may not be available where someone’s shareholding is diluted below the required level before disposal. In such cases, the individual may be able to make an election to secure relief – see CG64053 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64053).
+
+Example 1
+
+In August 2020 Julie sells all of her 6% holding of shares in ABC Ltd for £170,000. At that date the market value of the company was £5 million so Julie will meet the condition if she would have been entitled to £250,000 of the proceeds had the whole of the ordinary share capital of the company been sold for £5 million at any time throughout the two year period leading up to the disposal.
+
+However, some of the shareholders have preferential rights which means that Julie would only be entitled to £200,000 on a sale for £5 million. As this is only 4% of the total, she will not meet this condition.
+
+Example 2
+
+In October 2020 the whole of XYZ Ltd is acquired by M plc for £10 million cash. Tony held 6% of the ordinary share capital and received £600,000.
+
+Some of the other shareholders held preferential rights and would have received a higher proportion of the proceeds if the company was sold for less than £8 million. If the company had been sold earlier in the two year period when it was worth less than £8 million then Tony would have received a far lower share of the proceeds.
+
+However, the condition applies the company’s market value at the time of disposal when looking at Tony’s share of the proceeds during the earlier period in testing his entitlement. Tony meets the condition because he would have received 6% of the proceeds had the company been sold for £10 million at any time in the period.
+
+This condition takes into account all the circumstances in determining how much of the proceeds it is reasonable to assume the individual would receive. It can therefore take account of any shareholder agreement in addition to the rights inherent in the shares.
+
+Example 3
+
+Anil disposed of her shareholding in her family’s company MNO Ltd in January 2021. She held approximately 10% of the company in the form of B shares with full voting rights but these ranked behind the A shares in terms of rights to dividends and because only their nominal value would be returned in a winding up. However, she also held a single non-voting share that ensured she would get 10% of the proceeds if the whole company was taken over and 10% of the company’s assets if it was wound up. This means she did not meet condition (i), because she would not have sufficient entitlement to dividends as a result of holding these shares, TCGA92/S169S(3A)(c)(i).
+
+In September 2020 she inherited a further 20% of the company in the form of A shares. She therefore agreed to her non-voting special share being cancelled in December 2020.
+
+Anil would meet the requirements of condition (ii) both before and after September 2020 because she would be entitled to more than 5% of the proceeds from a sale of the whole company during the two years ending with the disposal, although not for the same reasons throughout the period. She would also meet condition (i) from September 2020.
+
+Avoidance arrangements
+
+A new anti-avoidance clause is included at TCGA92/S169S(3A)(c) which means that condition (ii) cannot be relied upon if any arrangements are put in place which aim to secure relief. If this condition is being relied on in a claim for relief where the individual does not appear to have a genuine 5% economic stake in the company then this should be discussed with the relevant G7 technician in the line of business and referred to CG Technical.

@@ -1,0 +1,156 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Interaction between Non-Resident CGT and ATED-related CGT: Pre-April 2015 assets computations, examples
+Identifier: CG73877
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73877
+Published: 2018-10-18T11:52:16+01:00
+Updated: 2019-10-11T10:21:40+01:00
+Retrieved (UTC): 2026-09-18T14:46:43.988778+00:00
+
+Asset held on 5 April 2013 and April 2015, and always within the scope of ATED
+
+Asset held on 5 April 2013 and 5 April 2015, and only within the scope of ATED from 1 April 2015
+
+Asset held on 5 April 2015, and always within the scope of ATED
+
+These examples follow on from examples in the ATED-related CGT guidance. They show how to calculate the NRCGT gain or loss on those disposals after calculating the ATED-related gain or loss.
+
+1. Asset held on 5 April 2013 and April 2015, and always within the scope of ATED
+
+Shows how to calculate the NRCGT gain on example 1 at CG73643
+
+Basic information:
+
+Interest acquired April 2006 for £3,000,000 and disposed of 5 April 2016 for £6,000,000.
+
+The property had a value of £5,600,000 at 5 April 2015.
+
+Total number of days chargeable to ATED (say) 700
+
+Pre April 2015 ATED chargeable days 365
+
+Post April 2015 ATED chargeable days 335
+
+Total days 6 April 2015 to disposal 365
+
+Estimated Indexation factor April 2015 to April 2016 0.035
+
+Step 1
+
+Determine the amount of the post-April 2015 gain or loss
+
+Disposal proceeds £6,000,000
+
+Market value at 5 April 2015 £5,600,000
+
+Indexation allowance £196,000
+
+Notional post April 2015 gain £204,000
+
+Step 2
+
+Determine the “special fraction” of the notional post-April 2015 gain or loss
+
+SD = 30
+
+TD = 365
+
+SD/TD x Notional post April 2015 gain = £16,767
+
+NRCGT gain £16,767
+
+2. Asset held on 5 April 2013 and 5 April 2015, and only within the scope of ATED from 1 April 2015
+
+Shows how to calculate the NRCGT gain on example 2 at CG73628
+
+Basic information:
+
+Residential property acquired April 2010 for £800,000 and disposed of on 7 April 2016 for £1,400,000.
+
+The property had a value of £1,200,000 at 5 April 2015.
+
+Estimated Indexation factor April 2010 to April 2016 0.11
+
+Total number of days chargeable to ATED (assumed) 200
+
+Total days 6 April 2015 to disposal 365
+
+Step 1
+
+Determine the amount of the post-April 2015 gain or loss
+
+Disposal proceeds £1,400,000
+
+Market value at 5 April 2015 £1,200,000
+
+Indexation allowance £132,000
+
+Notional post-April 2015 gain £68,000
+
+Step 2
+
+Determine the “special fraction” of the notional post-April 2015 gain or loss
+
+SD = 165
+
+TD = 365
+
+SD/TD x Notional post April 2015 gain = £30,740
+
+NRCGT gain £30,740
+
+3. Asset held on 5 April 2015, and always within the scope of ATED
+
+Shows how to calculate the NRCGT gain on example 2 at CG73643
+
+Basic information:
+
+Residential property acquired April 2014 for £4,000,000 and disposed of April 2018 for £6,000,000.
+
+Estimated Indexation factor April 2015 to April 2018 say 0.2
+
+Total number of days chargeable to ATED 730
+
+Total days April 2015 to April 2018 1,095
+
+Market value at 5 April 2015 is £4,250,000
+
+Step 1
+
+Determine the amount of the post-April 2015 gain or loss
+
+Disposal proceeds £6,000,000
+
+Market value at 5 April 2015 £4,250,000
+
+Indexation allowance £850,000
+
+Notional post-April 2015 gain £900,000
+
+If all ATED days fall after April 2015
+
+Step 2
+
+Determine the “special fraction” of the notional post-April 2015 gain or loss
+
+SD = 365
+
+TD = 1,095
+
+SD/TD x Notional post April 2015 gain = £300,000
+
+NRCGT gain £300,000
+
+If all ATED days fall at the beginning of the period
+
+Step 2
+
+Determine the “special fraction” of the notional post-April 2015 gain or loss
+
+SD = 730
+
+TD = 1,095
+
+SD/TD x Notional post April 2015 gain = £600,000
+
+NRCGT gain £600,000
+
+See CG73894 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73894) for how to calculate the gain or loss that is neither ATED-related nor an NRCGT gain or loss.

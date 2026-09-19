@@ -1,0 +1,64 @@
+Calculating the RNRB: calculating the value of the QRI that is closely inherited
+Identifier: IHTM46027
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46027
+Published: 2017-04-05T16:17:51+01:00
+Updated: 2019-06-10T13:56:33+01:00
+Retrieved (UTC): 2026-09-18T15:10:56.337896+00:00
+
+Having calculated the default allowance or the adjusted allowance (IHTM46026 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46026)), the next step is to work out the value of any qualifying residential interest (QRI) (IHTM46011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46011)) which is closely inherited (IHTM46013 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46013)).
+
+A person’s QRI is the interest they owned at the date of death in a property that was at some time their residence while they owned it. Only the part of that interest that is closely inherited will qualify for the RNRB.
+
+The legislation refers to the value of the part that is closely inherited as NV/100. This is the percentage (N%) of the value of the deceased’s QRI that is closely inherited after reliefs, but before taking any exemptions into account.
+
+Example 1
+
+On his death in September 2018, John had an estate valued at £1,800,000, including a QRI valued at £70,000. The residential enhancement in 2018/19 is £125,000 and this is his default allowance (IHTM46024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46024)). On his death John has bequeathed 50% of his interest to his children.
+
+NV/100 in this case is 50% of John’s QRI (£70,000), so equals £35,000
+
+Because John’s estate is below the taper threshold (IHTM46023 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46023)), and his closely inherited QRI is less than his default allowance, the RNRB available to John’s estate will be the value provided by NV/100 (£35,000). The difference between NV/100 (£35,000) and his default allowance of £125,000, that is £90,000, is unused RNRB which will be available to be carried forward.
+
+Example 2
+
+Judith’s estate is valued at £670,000 when she dies in May 2019, and includes her home (the QRI) valued at £300,000. She leaves her home to her children. The residential enhancement at this time is £150,000. There is no tapering as the estate is below the taper threshold.
+
+The RNRB available to the estate will be the lower of the value of her QRI which is being closely inherited (£300,000) and the default allowance (which in this case is £150,000).
+
+In this case the whole default allowance is used and there is no unused RNRB to be carried forward.
+
+Example 3
+
+Simon’s estate is valued at £2,200,000 when he dies in July 2020. His estate includes his home (the QRI), valued at £500,000. He leaves half of his estate to his grandson. The residential enhancement in 2020/21 is £175,000, which is his default allowance.
+
+Simon’s estate exceeds the taper threshold by £200,000 and so the default allowance will be reduced by the taper amount (£100,000). This results in an adjusted allowance of £75,000.
+
+The value of the QRI that is closely inherited (NV/100) is 50% of £500,000, which is £250,000.
+
+The RNRB will be the lower of the £250,000 value of his closely inherited QRI and the adjusted allowance, which has become £75,000 after tapering. The RNRB is therefore £75,000.
+
+The whole of the adjusted allowance has been used so there is no unused RNRB to be carried forward.
+
+Example 4
+
+Manjit’s estate is valued at £1,800,000 when he dies in November 2017. His estate includes a quarter share of an apartment where he had lived (the QRI), which he leaves to his daughter. The quarter share in the apartment is valued at £80,000. The residential enhancement for 2017/18 is £100,000.
+
+The default allowance is £100,000 and as the estate is below the taper threshold there is no reduction in this value.
+
+The value of the QRI that is closely inherited (NV/100) is 100% of £80,000.
+
+The RNRB available to Manjit’s estate will be the lower of the value of his QRI (£80,000) and the default allowance (£100,000). The difference of £20,000 is unused RNRB which is available to be carried forward.
+
+Example 5
+
+When Arthur dies in May 2019, he has an estate valued at £1,500,000. This includes a farm valued at £1,200,000 of which £600,000 relates to the farmhouse. The agricultural value of the farmhouse is £420,000. The agricultural value of the farm qualifies for agricultural property relief at 100%, leaving the non-agricultural value of the farmhouse, £180,000, chargeable.
+
+Under his will, Arthur leaves half the farmhouse to his wife, a quarter to his nephew, and the rest of his estate to his children.
+
+The residential enhancement in 2019/20 is £150,000.
+
+The farmhouse in this estate is the QRI, but only that part that is closely inherited will qualify for the RNRB. The value of the QRI is its value after reliefs, but before any exemptions. In this case that is £180,000.
+
+25% of the farmhouse passes to Arthur’s children and is closely inherited. NV/100 in this case is 25% of Arthur’s QRI (£180,000), so equals £45,000.
+
+The RNRB available to the estate will be the lower of the value of his QRI which is being closely inherited (£45,000) and the default allowance (which in this case is £150,000). The difference between the two values is unused RNRB available to be carried forward.

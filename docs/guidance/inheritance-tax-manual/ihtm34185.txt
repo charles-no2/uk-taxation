@@ -1,0 +1,64 @@
+Changes in shareholdings: bonus issues
+Identifier: IHTM34185
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34185
+Published: 2016-04-09T10:11:51+01:00
+Updated: 2017-11-08T09:37:34+00:00
+Retrieved (UTC): 2026-09-18T15:07:16.794229+00:00
+
+Bonus issues are normally straightforward as you simply compare the holding at the date of death with the holding at the date of sale. This page includes examples of a straightforward bonus issue (Examples 1 and 2) and one where the bonus issue is of a different class of shares (Example 3).
+
+There are separate rules that apply if a bonus issue was renounced (IHTM34186 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34186)).
+
+Example 1
+
+Where all of the shares are sold within 12 months of death.
+
+At the date of death Joan owned 1,000 qualifying shares in Gold group, valued at £3,000. Shortly after her death there was a 1 for 2 bonus issue, bringing the revised holding to 1,500 shares. The date of death value is still £3,000.
+
+Joan’s executors sell all of the Gold group shares 10 months after her death. The value at the date of sale was £1.50 per share, so the gross sale proceeds of sale of 1,500 shares was £2,250. To calculate the loss you compare the death value of £3,000 with the gross proceeds from the sale of £2,250 giving a loss on sale of £750.
+
+Example 2
+
+Where only part of the holding is sold within the 12 months.
+
+At the date of death Betty owned 1000 qualifying shares in Silver group valued at £3,000. Shortly after her death there was a 1 for 2 bonus issue, bringing the revised holding to 1,500 shares, The date of death value is still £3,000.
+
+Betty’s executors sell half the holding, 750 shares, within 10 months of her death. The value at the date of sale is £1.50 per share so the gross proceeds of sale of the 750 shares is £1,125. In strictness the formula (IHTM34183 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34183)) should be used to calculate the date of death value, but in straightforward cases where a bonus issue is the only event between the date of death and the date of sale for a particular holding it is enough to simply compare the gross sale proceeds with the corresponding part of the value at death. To calculate the loss on sale in this example you simply compare the gross sale proceeds for the 750 shares, £1,125, with the date of death value of half the original holding, £1,500. The loss on sale is therefore £375.
+
+Using the formula in IHTA84/S183 (5) the date of death value is;
+
+Vs(H –S) ÷ (Vs + Vr)
+
+£1,125 (£3,000- nil) ÷ (£1,125 + £1,125) = £1,500
+
+The loss on sale would then be;
+
+£1,500 – £1,125 = £375
+
+Example 3
+
+If the bonus issue is of a different class of shares to those originally held the date of death value has to be apportioned between the two new holdings.
+
+Susan died on 23 December 2012. At the date of death she had a holding of 1,500 deferred ordinary shares in Suter plc, valued at 198p each. The total value of the holding was £2,970.
+
+The shares went “Ex-Cap” on 1 June 2013: 1 ordinary share for every 5 deferred ordinary shares.
+
+Step 1 – Apportion the date of death value of £2,970 between deferred ordinary share and ordinary shares.
+
+Using Extel, the adjustment factors in Extel for Suter plc are;
+
+deferred ordinary shares - 0.83333
+
+ordinary shares - 0.16667
+
+The date of death values are apportioned as follows;
+
+Deferred ordinary shares - £2,970 x 0.83333 = £2,475
+
+Ordinary shares - £2,970 x 0.16667 = £495
+
+Step 2 – You need to compare the adjusted date of death value for that type of share with the gross sale proceeds for those shares. For example,
+
+(a) if all the ordinary shares are sold within 12 months – simply compare the death value of £495 with the gross sale proceeds of the ordinary shares
+
+(b) if a part sale occurs, you will need to further apportion the date of death value using the formula (IHTM34183 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34183)) in IHTA84/S183 (5) before you compare the value with the gross sale proceeds.

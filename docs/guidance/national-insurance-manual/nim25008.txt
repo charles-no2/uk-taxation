@@ -1,0 +1,44 @@
+Class 3 NICs: Restrictions on the right to pay: precluded Class 3  NICs: earnings factor is less than 52 times the lower earnings limit
+Identifier: NIM25008
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim25008
+Published: 2016-04-11T17:42:36+01:00
+Updated: 2021-09-16T10:41:08+01:00
+Retrieved (UTC): 2026-09-18T15:16:27.113788+00:00
+
+Regulation 49(1)(b) and (c) Social Security (Contributions) Regulations 2001
+
+Regulation 4 Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations 2001
+
+As explained in NIM25001 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim25001), a person is not entitled to pay (i.e. is precluded from paying) Class 3 NICs where they have a qualifying earnings factor which is 52 x the lower earnings limit (LEL). Up until 6 April 2017 this regulation was subject to the qualification in NIM25011 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim25011). From 6 April 2017 the payment of Class 3 NICs now only provides for entitlement to new State Pension and the qualifications in NIM25011 no longer apply.
+
+They cannot pay Class 3 NICs for any tax year for which the aggregate of their earnings factors (EFs) derived from:
+
+- earnings on which primary Class 1 NICs have been paid at the main primary percentage rate (see NIM01110 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01110))); or
+
+- credited earnings; or
+
+- Class 2 NICs paid; or
+
+- Class 3 NICs paid or credited
+
+is less than 25 times the LEL for the tax year in question (regulation 49(1)(b))
+
+or
+
+is more than 25 times the LEL but less than the qualifying earnings factor for the tax year in question (regulation 49(1)(c))
+
+And either:
+
+- The period within which any Class 3 NICs may be treated as paid for the tax year under regulation 4 has passed; or
+
+- before that date has been reached, the person has applied, under regulation 56 (NIM38501 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim38501)), for a refund of any precluded Class 3 NICs paid for that year.
+
+For the purposes of the above, “credited” means credited for the purposes of new State Pension, widowed mother’s allowance, widowed parent’s allowance and widow’s pension.
+
+Example
+
+Mrs Napier pays ten Class 3 NICs for the 2015-16 tax year. The EF derived from those is £1,120. But having paid the ten NICs she decides in June 2015 that she doesn’t want to pay the other 42 weeks of NICs which would make the year a qualifying one. Instead she asks for a refund of the ten weeks of NICs paid.
+
+The EF of £1,120 is less than 25 times the LEL for the 2015-16 year. The time by which Class 3 NICs are, for that year, treated as paid for benefit purposes under regulation 4 is 5 April 2023 (see NIM25044 for information on extended time limits under regulation 50C of SSCR 2001). As Mrs Napier has applied for a refund of the ten NICs before that date those NICs are precluded.
+
+The fact that she was not precluded from paying the NICs in the first place by any of the circumstances in NIM25005  (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim25005)is immaterial. The NICs have, in essence, become precluded.

@@ -1,0 +1,42 @@
+Class 1 NICs: reporting NICs in RTI: correction of errors under RTI: closed tax years
+Identifier: NIM11533
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11533
+Published: 2016-04-11T17:25:47+01:00
+Updated: 2023-05-09T10:25:33+01:00
+Retrieved (UTC): 2026-09-18T15:15:04.665815+00:00
+
+Paragraphs 21E (6) and 11ZA of Schedule 4 to the Social Security (Contributions) Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+If there’s an inaccuracy in the calculation and, or reporting of NICs for a closed year (after 20 April) the employer is required to correct the error.
+
+Prior to 6 April 2021 the employer was required to:
+
+- correct the mistake as soon as possible and
+
+- complete an Earlier Year Update (EYU) for the relevant tax year
+
+The process changed from 6 April 2021 and the employer must now:
+
+- correct the mistake as soon as possible and
+
+- complete a further Full Payment Submission (FPS) for the relevant tax year
+
+Overpayment of NICs
+
+If, as a result of the adjustment, the employer has made an overpayment of NICs (primary and, or secondary) to HMRC and a repayment is due the employer can either:
+
+- set off the overpayment against earnings related contributions he is due to pay to HMRC in the tax period when he amends the return, or
+
+- claim the amount of overpaid contributions back from HMRC
+
+In the case of a refund of primary Class 1 NICs due to the employee for a closed tax year, before applying one of the 2 options above, the employer must firstly refund the employee those overpaid contributions and then notify HMRC he has done this by indicating “Yes” on the relevant data item on the FPS.
+
+If the employer is unable to repay the employee their overpaid primary Class 1 NICs, the 2 options contained above do not apply. Instead, the employer must notify HMRC they have not repaid the employee, by reporting “No” in the relevant data item on the FPS. HMRC will then arrange to refund the employee their overpaid contributions.
+
+Any overpaid amount of NICs reported on a FPS is considered to have been paid to HMRC 17 days after the end of the final tax period in the year to which the FPS applies, where payment is made using an approved method of electronic communications and 14 days after the end of the final tax period in the year covered by the FPS in any other case.
+
+Where NICs are overpaid, repayment interest may be due.
+
+Underpayment of NICs
+
+If, as a result of the adjustment, there’s an underpayment of NICs, then the employer should make payment to HMRC as soon as possible. Where possible, the employer may recover any underpayment in primary NICs due from their employee but there are rules about this (see NIM11534 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11534)).

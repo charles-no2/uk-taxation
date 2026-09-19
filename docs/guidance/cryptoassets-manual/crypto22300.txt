@@ -1,0 +1,22 @@
+Cryptoassets for individuals: Capital Gains Tax: blockchain forks
+Identifier: CRYPTO22300
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22300
+Published: 2021-03-30T09:01:50+01:00
+Updated: 2021-03-26T10:46:39+00:00
+Retrieved (UTC): 2026-09-18T16:18:34.390011+00:00
+
+Some cryptoassets are not controlled by a central body or person but operate by consensus amongst that cryptoasset’s community. When a significant minority of the community want to do something different, they may create a ‘fork’ in the distributed ledger.
+
+There are two types of forks, a soft fork and a hard fork. A soft fork updates the protocol and is intended to be adopted by all. No new tokens, or distributed ledger, are expected to be created. A hard fork is different and can result in new tokens coming into existence. Before the fork occurs there is a single distributed ledger. Usually, at the point of the hard fork a second branch (and therefore a new cryptoasset) is created.
+
+The distributed ledger for the original and the new cryptoassets have a shared history up to the fork. If an individual held tokens of the cryptoasset on the original distributed ledger they will, usually, hold an equal numbers of tokens on both distributed ledgers after the fork.
+
+The value of the new tokens is derived from the original tokens already held by the individual. This means that section 43 Taxation of Capital Gains Act (TCGA) 1992 will apply.
+
+After the fork the new tokens need to go into their own section 104 pool. Any allowable costs in the section 104 pool of the original cryptoassets are split between the two section 104 pools for the original tokens and the new tokens.
+
+If an individual holds their tokens through an exchange, the exchange will make a choice whether to recognise the new tokens created by the fork.
+
+Costs must be split on a just and reasonable basis under section 52(4) TCGA 1992. HMRC does not prescribe any particular apportionment method. HMRC has the power to enquire into an apportionment method that it believes is not just and reasonable.
+
+The new tokens can only be disposed of if the exchange recognises the new tokens. If the exchange chooses not to recognise the new tokens then the individual may seek to apportion all of the allowable costs to the original tokens. You will need to decide whether this is just and reasonable in the circumstances. The individual may instead apportion the costs but seek to make a negligible value claim in respect of the new tokens. You will need to consider whether the conditions for making a negligible value claim have all been satisfied. In cases of difficulty you should seek technical advice using the process for your business area.

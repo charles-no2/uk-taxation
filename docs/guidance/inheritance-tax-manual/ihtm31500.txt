@@ -1,0 +1,26 @@
+Assessing: calculations: deficits: deficit of an assessment group
+Identifier: IHTM31500
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31500
+Published: 2016-04-09T10:04:57+01:00
+Updated: 2016-02-11T17:19:10+00:00
+Retrieved (UTC): 2026-09-18T15:06:11.437758+00:00
+
+When the liabilities in an assessment group (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)) are more than the value of the assets, there will be a deficit.
+
+You can spot a deficit by looking at the relevant section of the HMRC Account (IHTM10011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm10011)), or when you review the figures to raise a calculation. If you are raising a calculation on COMPASS, it will recognise the deficit and warn you with a message.
+
+There are further instructions at IHTM31150 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31150) for entering a deficit on COMPASS.
+
+You must calculate the deficit manually and deduct it against the appropriate assessment group(s) to ensure that it is correctly accounted for.
+
+You can only offset a deficit against another assessment group within the same Entry (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)). You cannot offset it against another Entry. For example, you cannot offset a free estate deficit against a Will trust or a lifetime transfer.
+
+In the case of free estate, check whether the Will (if there is one) gives any directions on how liabilities are to be met. If they are to be set against personal property, bear in mind that some IOP assets, such as businesses, partnerships and shares, are personal property (in Scotland, moveable estate) and will bear the deficit before any land.
+
+If you need to take the deficit against all or some of the Instalment Option Property (IOP) assets, you will need to calculate (and apportion if necessary) the figure manually and record it as a liability/creditor against the IOP assets.
+
+When offsetting deficits against IOP assessment groups, where tax on some of the assets are paid by instalments and some are not, you should apportion the deficit against each asset.
+
+Amendments
+
+Remember that if the amount of the deficit changes, you need to change the amount of the liability or creditor set against the other assessment group.

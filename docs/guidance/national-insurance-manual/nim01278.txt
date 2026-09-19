@@ -1,0 +1,60 @@
+Class 1 structural overview - from April 2009: structural changes: the Class 1 and 2 maximum: examples: director with three directorships
+Identifier: NIM01278
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01278
+Published: 2016-04-11T17:00:41+01:00
+Updated: 2022-08-24T10:31:32+01:00
+Retrieved (UTC): 2026-09-18T15:18:11.707051+00:00
+
+Example 7
+
+C Kent is a director of three companies. He receives no regular earnings from any of his companies but receives an annual bonus of £200,000 in each. His maximum Class 1 liability for the 2021 to 2022 tax year is calculated as follows:
+
+Step 1
+
+Deduct the relevant Primary threshold from the relevant UEL and multiply that figure by 53.
+
+967 - 184 = 783 x 53 = 41,499
+
+Step 2
+
+Multiply the result of step 1 by 12%
+
+41,499 x 12% = 4,979.88
+
+Step 3
+
+Add together so much of the person’s earnings from each employed earner’s employment as exceeded the Primary Threshold but did not exceed the Upper Earnings Limit.
+
+50,270 (annual UEL) - 9,568 (annual PT) = 40,702 x 3 = 122,106
+
+Step 4
+
+Deduct from the total found at step 3 the amount produced by step 1
+
+122,106 - 41,499 = 80,607
+
+Step 5
+
+If the figure produced at step 4 is a positive figure multiply that figure by 2%. If the figure produced at step 4 is a negative figure, it is treated for the purposes of step 8 as nil
+
+80,607 x 2% = 1,612.14
+
+Step 6
+
+Add together so much of the person’s earnings from each employment as exceeded the Upper Earnings Limit.
+
+200,000 - 50,270 = 149,730 x 3 = 449,190
+
+Step 7
+
+Multiply the result of step 6 by 2%
+
+449,190 x 2% = 8,983.80
+
+Step 8
+
+Add together the results of steps 2, 5 and 7.
+
+4,979.88 + 1,612.14 + 8,983.80 = 15,575.82
+
+C Kent maximum for the 2021 to 2022 tax year is £15,575.82.

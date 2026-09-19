@@ -1,0 +1,32 @@
+Non-resident companies: tax adjustment and reliefs: disposal of interest by UK resident participator
+Identifier: CG57370
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57370
+Published: 2016-03-12T11:43:26+00:00
+Updated: 2023-08-21T10:17:39+01:00
+Retrieved (UTC): 2026-09-18T14:43:52.803878+00:00
+
+A UK resident who has incurred a charge under TCGA92/S13* may later dispose of their shares or other interest in the non-resident company. Any tax paid by the UK resident in pursuance of subsection (2) should be allowed as a deduction in computing the gain on the disposal of the shares or other interest. No deduction is due if the tax was paid by the non-resident company, see CG57390 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57390).
+
+Example
+
+Facts
+
+- June 2016 a taxpayer buys 500 out of the 750 issued shares in X Ltd, a non- resident close company, at a cost of £100,000.
+
+- March 2017 X Ltd realises a gain of £6,000. 500/750 x £6,000 = £4,000 is apportioned to the taxpayer. The amount is included in the 2016-17 Self Assessment return. The taxpayer was liable at 20 per cent and tax of £800 was due.
+
+- August 2017 the taxpayer sells the shares for £130,000.
+
+Chargeable Gain
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  130,000 |
+
+Less |  Cost |  100,000 |  - |
+
+Less |  Section 13(7) deduction |  800 |  100,800 |
+
+- |  Chargeable gain |  - |  29,200 |
+
+* TCGA92/S13 was re-written for disposals from 6th of April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

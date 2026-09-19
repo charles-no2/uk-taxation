@@ -1,0 +1,36 @@
+Class 1A National Insurance contributions: Calculating Class 1A NICs: Partial tax deductions - Examples
+Identifier: NIM15560
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim15560
+Published: 2016-04-11T17:30:59+01:00
+Updated: 2025-12-12T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T15:20:15.611914+00:00
+
+Partial Tax Deductions - Examples
+
+The following examples illustrate how the fully matching deduction rule explained at NIM15500 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim15500) operates. The principles explained extend to any taxable general earnings that attract Class 1A NICs liability and for which a tax deduction may be available.
+
+Example 1
+
+An employer arranges and pays for hotel accommodation for an employee who is required to attend a business meeting away from their normal place of work that requires an overnight stay. The cost of the hotel accommodation is £170. The employee is taxable on the amount of the hotel cost but a section 337 ITEPA 2003 deduction is available for the full cost of the accommodation, see EIM31615 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31615). As a fully matching deduction is available, Class 1A NICs are not due on the cost of the provided hotel accommodation.
+
+Example 2
+
+An employer arranges and pays for hotel accommodation for an employee who is required to attend a series of business meetings away from their normal place of work from Monday to Thursday. The employer also arranges for the employee to remain at the hotel on holiday for the weekend. The total cost to the employer is £1,000.
+
+As the benefit provided is used for both business and private purposes, a fully matching deduction is not available and Class 1A NICs are due on the full amount, that is, £1,000.
+
+Example 3
+
+A director has use of their employer’s helicopter for both private and business journeys. The helicopter is available for the whole of the 2020 to 2021 tax year. The director is allowed unlimited private use of the helicopter, which is estimated at 30% of its entire use. When provided the helicopter had a market value of £100,000.
+
+The cash equivalent of the benefit is calculated as follows:
+
+£20,000 - (£100,000 x 20%) Annual value calculated under section 205 of ITEPA 2003 (see EIM21645 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21645))
+
++
+
+£25,000 - (for services, fuel, repairs, etc.)
+
+= £45,000
+
+The cash equivalent of £45,000, reported on the P11D, is the amount on which Class 1A NICs are due. The employee is entitled to a deduction of £31,500 (£45,000 x 70%) from the cash equivalent to reflect the use in carrying out the duties of the employment. The reduction in the tax charge on the employee to £13,500 (£45,000 x 30%) does not affect the amount of Class 1A NICs due.

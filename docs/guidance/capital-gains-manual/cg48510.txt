@@ -1,0 +1,26 @@
+Value shifting: Corporation Tax anti-avoidance rule for disposals of shares or securities from 19 July 2011: background
+Identifier: CG48510
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48510
+Published: 2018-05-30T15:09:39+01:00
+Updated: 2018-05-30T15:08:50+01:00
+Retrieved (UTC): 2026-09-18T14:42:06.255221+00:00
+
+1977 saw the introduction of the general value shifting rule in TCGA92/S30. This does not feature a tax avoidance motive test and, in order to prevent double taxation within a group context, the rule did not apply to the disposal by one company of shares in another company where the reduction in value resulted from the payment of a dividend or from certain asset transfers within a group.
+
+Exploitation of the exclusion, principally in the form of the “drain out dividend scheme” (described below) led to the value shifting rule in TCGA92/S30 being extended to group transactions in 1989 but subject to detailed conditions set out in TCGA92/S31 - TCGA92/S34. Further exploitation led to the introduction of TCGA92/31A in 1999.
+
+A simplification review of the capital gains rules for groups of companies was announced in the 2007 pre-budget report and the subsequent consultation process identified the value shifting rule as it applies in the group context as an area of legislation that was seen as excessively complex.
+
+The new rule is based on a simple tax advantage motive test that addresses tax driven transactions, and shares many features with the targeted anti-avoidance rules for corporate capital losses introduced in FA05.
+
+Example of the drain out dividend scheme
+
+The target company Q has a capital gains base cost of £20m and owns a single asset now worth £70m. Vendor company P wishes to sell Q and the following initial steps are undertaken:
+
+Q acquires a newly incorporated 100 per cent subsidiary R. R borrows £70M from P and uses the funds to buy the asset from Q at its market value of £70M. This sale is at no gain/no loss for capital gains purposes but Q has made an accounting profit of £50M which is available for distribution. Q pays the £50M as a dividend to P. The dividend is said to be tax free in the hands of P (for the purposes of the revised TCGA92/S31, that would depend on the provisions of Part 9A Corporation Tax Act 2009).
+
+Following the payment of the dividend Q is worth £20M. Q’s assets are cash £20M and its shares in R, but the value of Q’s shares in R is negligible. This is because the value of the asset acquired by R from Q is matched by an equivalent borrowing. P can now sell the shares in Q to the third party purchaser at market value £20M. No degrouping charge arises as a result of the asset transfer because the “associated companies” exception in TCGA92/S179(2)-(2ZB) applies. See CG45435.
+
+P will receive the full value of the asset of £70M from the sale: £20M as direct consideration on the share disposal and a further £50M in the form of a dividend. It will also receive £70m when R repays the loan. If the purchaser provides the funds to repay the loan by way of additional equity then it may obtain a capital gains deduction for the full value of on any subsequent sale.
+
+Use this link to view example (http://www.hmrc.gov.uk/gds/cg/images/cg48510.gif)

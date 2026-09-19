@@ -1,0 +1,206 @@
+Contributions: tax relief for employers: asset backed contributions: overview
+Identifier: PTM043310
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043310
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2025-11-28T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:50:37.439324+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+What is an asset-backed contribution arrangement? (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043310#IDANQLGG)
+Relief for contributions made under an asset-backed arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043310#IDA5ULGG)
+Interpretation points (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043310#IDAUUKGG)
+
+What is an asset-backed contribution arrangement?
+
+Schedule 13 Finance Act 2012
+
+Employers are generally able to claim relief for contributions paid to a registered pension scheme subject to general taxation rules. Relief is available for monetary contributions that are paid to a scheme as opposed to a contribution made in asset form.
+
+Asset-backed contribution arrangements (ABCs) are arrangements that allow an employer to use non-cash assets to underpin and/or act as a guarantee for regular income stream payments to the pension scheme. These arrangements do not usually result in the outright disposal of an asset to the scheme however, if the employer defaults on payment, the scheme is usually able to take full ownership of the asset.
+
+The ABC arrangement may be in a “simple” form or a “complex” form.
+
+Simple asset-backed contribution arrangement
+
+In a simple ABC arrangement, an employer makes a contribution to a pension scheme and the pension scheme immediately uses the contribution to acquire an asset from the employer which will produce a predicted income stream. A common example is a property with a predicted income from receipts of rent. The terms of the asset disposal to the pension scheme may contain an option by which the asset reverts to the employer after, say, 15 years.
+
+The amount of the pension contribution is equal to the value of the interest in the asset disposed of. This will be equal to the net present value of the income stream the pension scheme expects to receive over the term in which it holds the asset. In effect, the pension scheme has immediately lent back to the employer the value of the pension contribution it received and this ‘loan’ will be repaid by the income stream payments over the term of the arrangement.
+
+Complex asset-backed contribution arrangement
+
+In a more complex arrangement, the asset is transferred into a partnership. The employer or connected persons will be members of the partnership. The employer makes a contribution to the pension scheme which the pension scheme then invests in the partnership. The amount of the employer contribution and the capital invested will be determined by the net present value of the anticipated income stream attached to the partnership interest the pension scheme acquires. Typically, the majority of the income stream will flow through to the pension scheme’s interest.
+
+This type of arrangement can also include two tier partnership structures where the income-producing asset is held in the lower tier whilst the pension scheme acquires an interest in the higher tier. View the flowchart showing an example of a two-tier partnership structure. (http://www.hmrc.gov.uk/gds/ptm/images/ptm043310.jpg)
+
+Description of the flowchart
+
+The flowchart showing a two-tier partnership structure. The Pension Scheme, Company A, and Company B are partners in a Scottish Limited Partnership (SLP). The SLP and Company C are partners in another partnership, which owns the income-producing asset. Companies A, B, and C are within the employer group. The top-tier partnership is usually an SLP.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043310#Top)
+
+Relief for contributions made under an asset-backed arrangement
+
+The legislation dealing with asset-backed contributions was introduced in a number of tranches, so the date the contribution was paid must be determined before considering how it should be treated.
+
+A key factor in determining whether an employer can claim upfront relief for an asset-backed contribution is whether the arrangement is an acceptable structured finance arrangement. A structured finance arrangement is defined as being a type 1, type 2 or type 3 finance arrangement for the purposes of Chapter 5B Part 13 Income Taxes Act 2007 or Chapter 2 Part 16 Corporation Tax Act 2010. Guidance on what is a structured finance arrangement is available in the Corporate Finance Manual at CFM73000 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm73000).
+
+Example
+
+The table below shows an extract from a payment profile that might be seen in an asset-backed contribution arrangement that qualifies for upfront relief under the legislation introduced by Finance Act 2012.
+
+This example reflects a pension contribution of £150m made upfront via an asset-backed structure. Whilst payments into the structure total £13.35m per annum, the tax effective part of each instalment is reflected by the interest element shown in the table.
+
+|
+
+Year 1 £’000
+
+|
+
+Year 2 £’000
+
+|
+
+Year 11 £’000
+
+|
+
+Year 12 £’000
+
+|
+
+Year 19 £’000
+
+|
+
+Year 20 £’000
+
+|
+
+Opening balance
+
+|
+
+150,000
+
+|
+
+145,950
+
+|
+
+96,887
+
+|
+
+89,544
+
+|
+
+24,271
+
+|
+
+12,478
+
+|
+
+Interest
+
+|
+
+9,300
+
+|
+
+9,049
+
+|
+
+6,007
+
+|
+
+5,552
+
+|
+
+1,557
+
+|
+
+872
+
+|
+
+Less cash paid
+
+|
+
+13,350
+
+|
+
+13,350
+
+|
+
+13,350
+
+|
+
+13,350
+
+|
+
+13,350
+
+|
+
+13,350
+
+|
+
+Closing balance
+
+|
+
+145,950
+
+|
+
+141,649
+
+|
+
+89,544
+
+|
+
+81,746
+
+|
+
+12,478
+
+|
+
+0
+
+|
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043310#Top)
+
+Interpretation points
+
+Disposal of an asset
+
+In the sections that follow, reference to a ‘disposal of an asset’ includes anything constituting a disposal for the purposes of the Taxation of Chargeable Gains Act 1992.
+
+With effect from 22 February 2012, this definition was extended for the purposes of the asset-backed contributions legislation to include the taking of any step by virtue of which a person receives an asset. This extension was included to ensure that steps such as the issue of shares or bonds on a market were within the scope of the legislation.
+
+A person receiving an asset includes:
+
+- the person obtaining directly or indirectly the value of an asset, or deriving a benefit from it, and
+
+- a reference to the discharge (in whole or in part) of a liability of the person.

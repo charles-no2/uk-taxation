@@ -1,0 +1,34 @@
+Van fuel benefit from 2005 to 2006: van unavailable for part of the year
+Identifier: EIM22925
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22925
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-02-24T09:38:23+00:00
+Retrieved (UTC): 2026-09-18T14:11:54.797287+00:00
+
+Section 163(1) ITEPA 2003
+
+The van fuel benefit charge is incurred as detailed at EIM22900 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22900); there is an example at EIM22980 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22980).
+
+The cash equivalent of the van fuel benefit charge is reduced in proportion to the number of days in the tax year for which the van is unavailable, thus exactly matching the reduction in van benefit for periods for which the van is unavailable, see EIM22820 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22820). The same definition of unavailable applies to both, see EIM22825 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22825).
+
+The reduced benefit is calculated from the formula:
+
+(CE × (Y - D)) ÷ Y
+
+where:
+
+- CE is the amount of the cash equivalent before any reduction (for a full year)
+
+- Y is the number of days in the tax year in question
+
+- D is the total number of days on which either the van is unavailable (this page) or after fuel is finally withdrawn (EIM22930 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22930))
+
+Other possible adjustments to the charge
+
+The van benefit charge is also subject to adjustment as follows:
+
+- see EIM22930 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22930): if free fuel is withdrawn during the year and not reinstated
+
+- see EIM22935 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22935): if the van is shared
+
+- see EIM22940 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22940): or the effect of replacement vans

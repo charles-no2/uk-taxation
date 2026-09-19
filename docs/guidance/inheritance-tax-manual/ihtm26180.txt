@@ -1,0 +1,52 @@
+Other calculations: Step 5 - abatement caused by grossing up
+Identifier: IHTM26180
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26180
+Published: 2016-04-09T09:48:29+01:00
+Updated: 2022-08-11T12:12:11+01:00
+Retrieved (UTC): 2026-09-18T15:03:16.659495+00:00
+
+This type of abatement (IHTM12086 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12086)) can only arise after you have finished calculating the values of specific gifts (IHTM26011) under all the other rules (IHTM26071 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26071)), including grossing up (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121)). It applies under IHTA84/S37 (2) where the total value of all the specific gifts calculated in accordance with IHTA84/S38 (including grossing up), exceeds the value transferred (IHTM04028 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04028)) at that title (IHTM26211 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26211)). For gifts by Will, this will be the value of the free estate for Inheritance Tax (IHT) purposes
+
+When this occurs, you must reduce the value of the specific gifts so that the total value accords with the value transferred (at that title) for IHT purposes.
+
+Example
+
+Joe died in February 1999
+
+Estate of £480,000 (no relievable property).
+
+By Will:
+
+Chargeable legacy (free of tax) = £290,000
+
+Legacy to NSPCC = £180,000
+
+Residue to Oxfam.
+
+The gifts to NSPCC and Oxfam are exempt. The chargeable legacy has to be grossed up, so the total value of the specific gifts is:
+
+Chargeable legacy grosses to £334,667
+
+Legacy to NSPCC = £180,000
+
+Total = £514,667
+
+As the total value of the specific gifts (£514,667) exceeds the value transferred (£480,000) there is no residue, and the value of the specific gifts have to be reduced to the value transferred in accordance with S37(2).
+
+The value of the legacy to the charity is:
+
+£180,000 × (£480,000 ÷ £514,667) = £167,876
+
+The chargeable transfer is
+
+£312,124 (or £480,000 - £167,876)
+
+Scaling down the chargeable legacy in accordance with S37(2) produces the same figure:
+
+£334,667 × (480,000 ÷ 514,667) = £312,124
+
+When making your grossing calculation you should be aware that
+
+- If the residue is partly exempt, your full grossing calculation will show whether there is any residue. If there is, there can be no abatement.
+
+- If the residue is wholly exempt, the position will be less clear but refer to the Technical Team in Nottingham if the value of the grossed up chargeable specific gifts and any exempt specific gifts comes to more than the net value of the free estate as shown by the taxpayer or agent.

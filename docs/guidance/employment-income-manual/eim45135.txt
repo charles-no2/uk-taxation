@@ -1,0 +1,58 @@
+Employment income provided through third parties: the Section 554A gateway: examples: dividends
+Identifier: EIM45135
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45135
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2017-12-04T04:00:49+00:00
+Retrieved (UTC): 2026-09-18T14:15:24.517383+00:00
+
+Sections 554A to 554D ITEPA 2003
+
+Here are some examples involving dividends.
+
+Example: dividend
+
+IJK plc makes an offer of shares to the public, some of its employees subscribe for shares in their employer, and these employees receive dividends on their shares.
+
+The payment of a cash dividend is potentially a relevant step within Section 554C(1)(a). See EIM45060 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45060).
+
+But it does not follow that paying a dividend to an employee will automatically give rise to Part7A income.
+
+IJK plc, the employer, is not a relevant third person. See EIM45035 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45035). So condition 4 in EIM45025 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45025) (Section 554A(1)(d)) is not met.
+
+Also, a normal dividend payment that simply happens to follow a shares transaction will not meet conditions 2, 3 or 5 in EIM45025 (Section 554A(1)(c) and (e)).
+
+Therefore, the scenario under review will not come through the Section 554A gateway.
+
+Example: dividend paid on shares awarded by EBT
+
+LMN plc makes an offer of shares to the public. It has set up an EBT to benefit its employees, and the trustees subscribe for LMN shares.
+
+The trustees award LMN shares to an employee under an incentive scheme.
+
+LMN plc pays a dividend to all its shareholders, including this employee.
+
+The payment of a cash dividend is potentially a relevant step within Section 554C(1)(a). See EIM45060 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45060).
+
+But it does not follow that paying a dividend to an employee will automatically give rise to Part 7A income, even where the shares have been awarded by the trustees of the EBT.
+
+LMN plc, the employer, is not a relevant third person. See EIM45035 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45035). So condition4 in EIM45025 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45025) (Section 554A(1)(d)) is not met.
+
+Therefore, the scenario under review will not come through the Section 554A gateway.
+
+Example: dividend paid on shares awarded by EBT: group holding company
+
+OPQ plc makes an offer of shares to the public. It has set up an EBT to benefit employees of the OPQ group, and the trustees subscribe for OPQ shares.
+
+R Ltd is a wholly-owned subsidiary of OPQ plc. Under an incentive scheme, the trustees award OPQ shares to S, an employee of R Ltd.
+
+OPQ plc pays a dividend to all its shareholders, including S.
+
+The payment of a cash dividend is potentially a relevant step within Section 554C(1)(a). See EIM45060 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45060).
+
+But it does not follow that paying a dividend to an employee will automatically give rise to Part7A income, even where the shares have been awarded by the trustees of the EBT.
+
+OPQ plc is not S’s employer. But R Ltd is a wholly-owned subsidiary of OPQ plc. And, since the dividend is a normal dividend paid following an offer of shares to the public, there is no connection with a tax avoidance arrangement. So the group exception applies. See EIM45035 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45035).
+
+So the dividend is treated as paid by S’s employer, and condition 4 in EIM45025 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45025) (Section 554A(1)(d)) is not met.
+
+Therefore, the scenario under review will not come through the Section 554A gateway.

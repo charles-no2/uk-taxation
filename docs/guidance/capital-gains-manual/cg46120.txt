@@ -1,0 +1,26 @@
+Groups: restriction of indexation allowance: outline
+Identifier: CG46120
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46120
+Published: 2016-03-12T11:10:20+00:00
+Updated: 2026-05-19T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:41:29.473432+00:00
+
+Sections 182, 183 and 184 of the Taxation of Chargeable Gains Act (TCGA) 1992
+
+The provisions in sections 182 to 184 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/part/VI/chapter/I/crossheading/restriction-on-indexation-allowance-for-groups-and-associated-companies) were introduced to counter arrangements whereby group or associated companies used the indexation provisions to create capital losses on what were essentially intra-group financing arrangements. These rules apply to disposals on or after 15 March 1988 and before 30 November 1993. For disposals on or after 30 November 1993, the provisions of Finance Act 1994 (https://www.legislation.gov.uk/ukpga/1994/9/contents) introduce general restrictions on the extent to which indexation allowance can create or increase a loss, see CG17700P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17700p).
+
+A debt is an asset for capital gains purposes. The creditor may dispose of it by receiving repayment, or by assigning the debt to another person, or by a deemed disposal if the debt becomes valueless. However unless the debt is a debt on a security, see CG53420 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53420)+, no chargeable gain or allowable loss arises to the original creditor because of section 251(1) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/251).
+
+This means that if company A lends money to company B, and the debt is not a debt on a security, there are no capital gains consequences when B repays the debt to A, or A otherwise disposes of it. If however, before Finance Act (FA) 1988 (https://www.legislation.gov.uk/ukpga/1988/39/contents), A lent money to B by way of a debt on a security, and B subsequently repaid the loan, A would obtain an indexation allowance on the disposal represented by the repayment. Even if B repaid the loan in full so that there was no gain or loss before indexation, the indexation allowance could create an allowable loss. The same applied if A provided finance to B by way of subscription for shares. The indexation allowance on the repayment or redemption of the shares could, before FA 1988 (https://www.legislation.gov.uk/ukpga/1988/39/contents), create an allowable loss. Some groups exploited these provisions to generate indexation allowances on group financing arrangements. And within a group the same finance could be provided many times over from company to company, so that it was possible to multiply indexation allowances virtually at will.
+
+In relation to disposals before 30 November 1993, the purpose of sections 182 to 184 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/part/VI/chapter/I/crossheading/restriction-on-indexation-allowance-for-groups-and-associated-companies) is to prevent companies generating indexation allowances through the use of assets for what is essentially short-term financing. The provisions apply to disposals on or after 15 March 1988, regardless of when the assets were acquired.
+
+The provisions work by withdrawing or restricting the indexation allowance due on the disposal of
+
+- debts on a security
+
+- redeemable preference shares
+
+- other shares.
+
+The provisions apply only where the companies involved are either members of the same group or are associated with each other. Such companies are referred to as `linked companies'. For this purpose a group comprises a company and its 51 per cent subsidiaries (not its 75 per cent subsidiaries or effective 51 per cent subsidiaries as in the general capital gains group definition). Companies are associated with each other if one controls the other or they are under common control.

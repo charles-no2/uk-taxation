@@ -1,0 +1,20 @@
+PMA: Fixtures: Purchaser of land giving  consideration for fixture
+Identifier: CA26250
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26250
+Published: 2016-04-16T08:51:38+01:00
+Updated: 2020-03-06T15:03:40+00:00
+Retrieved (UTC): 2026-09-18T16:20:58.214602+00:00
+
+CAA01/S181
+
+Where a person acquires for a capital sum an existing interest in land (for example, freehold or leasehold), which includes a fixture, the person is treated as owning the fixture as a result of incurring the part of the sum that relates to the fixture.
+
+This does not apply if, when the interest is acquired, the same or some other person is entitled to and claims or has claimed capital allowances on the fixture by virtue of some other interest in land (for instance a superior or inferior interest). This is called having a ‘prior right’ in relation to the fixture.
+
+Example
+
+As in the example at CA26025 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26025) Xanadu Properties Plc owns the freehold of Kane House, an office block, which it leases to its tenant, Budokan Computers. Xanadu Properties Plc installs central heating before it leases Kane House to Budokan computers and claims PMAs on the central heating. Budokan Computers installs air conditioning on which it claims PMAs. After the air conditioning has been installed in Kane House, Budokan assigns its lease to Shangri-la Software for a capital sum.
+
+After the assignment of the lease Shangri-la Software can potentially claim PMAs on the air conditioning but not on the central heating. Xanadu Properties Plc has the freehold interest in the relevant land (Kane House) and a prior right in relation to the central heating. The air conditioning is different. Budokan computers had a leasehold interest inthe relevant land for the air conditioning when they installed it and they no longer have it after the assignment of the lease. Shangri-la Software has acquired that interest.
+
+Under CAA01/S187A-S187B, introduced by Finance Bill 2012, Shangri-la Software will not be entitled to PMAs in relation to the air conditioning unless the value of the air conditioning has been fixed for capital allowances purposes. The normal means of fixing the value would be by a joint election made between Budokan Computers and Shangri-la Software under CAA01/S198. The agreed value cannot exceed Budokan Computers’ original cost or the actual sales price.

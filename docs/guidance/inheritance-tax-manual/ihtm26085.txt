@@ -1,0 +1,36 @@
+Step 1 - the starting value of specific gifts: circular situation
+Identifier: IHTM26085
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26085
+Published: 2016-04-09T09:47:15+01:00
+Updated: 2016-02-11T17:11:56+00:00
+Retrieved (UTC): 2026-09-18T15:03:01.788858+00:00
+
+Occasionally you may have a gift of a sum equal to the beneficiary’s Inheritance Tax liability at another title. Where the value of that gift is dependent upon the amount of an exemption this is known as a circular situation.
+
+If you have such a case you should
+
+- refer to the Actuarial Team via your manager
+
+- set out the facts and values of the various ‘gifts’ ., and
+
+- have agreed the values of all the other gifts before making the reference (exceptionally you may make it earlier if your manager considers it essential for the purposes of a provisional assessment)
+
+The example below illustrates how a circular situation can arise.
+
+Example
+
+Andrew dies leaving an estate of £2m.
+
+By Will he gives a pecuniary legacy of £300,000 (free of tax) to his son and the residuary estate to his widow.
+
+Andrew also has an interest in possession in settled property worth £500,000 which passes to his daughter. In his Will Andrew directs his executors to pay the daughter an amount (free of tax) equal to the tax on the settled property.
+
+The payment to the daughter is a pecuniary legacy. But the amount of it cannot be calculated directly because
+
+- it is equal to the tax on the settled property
+
+- the tax on the settled property is dependent upon the total value of the chargeable estate
+
+- the total value of the chargeable estate is dependent upon the chargeable value of the free estate
+
+- the chargeable value of the free estate is dependent upon the amount of the payment to the daughter

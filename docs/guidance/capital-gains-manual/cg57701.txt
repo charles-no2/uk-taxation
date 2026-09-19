@@ -1,0 +1,10 @@
+Unit trusts: umbrella schemes
+Identifier: CG57701
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57701
+Published: 2016-03-12T11:44:24+00:00
+Updated: 2025-11-03T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:44:00.603776+00:00
+
+An authorised umbrella scheme is a unit trust scheme authorised by the Financial Services Authority which pools its assets into separate parts - commonly known as sub-funds. The rules of such a scheme permit its unit holders to ex-change their rights in one sub-fund for rights in another. For Capital Gains Tax purposes, each sub-fund is treated as an authorised unit trust in its own right and the umbrella scheme itself is treated as not being an authorised unit trust. TCGA 1992 applies (by virtue of TCGA92/S99(1)) in relation to an authorised unit trust as if the scheme were a company resident and ordinarily resident in the UK, and its unit holders were shareholders in that company. As far as an authorised umbrella scheme is concerned, the scheme itself is, in effect, ignored for the purposes of TCGA 1992: its unit holders are deemed to hold shares in the company corresponding to the sub-fund in which they hold rights for the time being, and not in a company corresponding to the whole of the umbrella scheme.
+
+If a unit holder switches out of one continuing sub-fund into another, there is a disposal for CGT purposes. This is on the basis that the unit holder disposes of an interest in one company and replaces it with an interest in another. But if one sub-fund disappears on being merged with another, rollover treatment under TCGA92/S136 (company reconstruction or amalgamation involving the issue of securities) may be available. See CG52700+ for instructions on section 136. An article in Tax Bulletin 28 (https://webarchive.nationalarchives.gov.uk/ukgwa/20101006154802mp_/http://www.hmrc.gov.uk/bulletins/tb28.htm) published in April 1997 sets out the general background and legislative history to this area.

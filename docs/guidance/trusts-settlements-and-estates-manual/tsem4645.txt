@@ -1,0 +1,88 @@
+Settlements legislation Rules affecting non-domiciled and deemed domiciled settlors of non-resident trusts from 6 April 2017 – 5 April 2025: Meaning of “available protected income” in S643A 
+Identifier: TSEM4645
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4645
+Published: 2025-04-07T08:03:21+01:00
+Updated: 2025-04-07T08:53:03+01:00
+Retrieved (UTC): 2026-09-18T16:19:56.858974+00:00
+
+The guidance on this page relates to the period 6 April 2017 - 5 April 2025. From 6 April 2025 the rules around the taxation of non-UK domiciled individuals ended and individuals are taxable based on their residence position only. Detailed guidance on the changes from 6 April 2025 can be found at TSEM4700  (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4700)onwards.
+
+Benefits paid to the settlor or close family member can only be taxed when there is ‘available protected income’ to match it with.
+
+A settlement has available protected income where PFSI – TOAA > TI and the available protected income will be equal to PFSI – TOAA – TI.
+
+PFSI is the total of:
+
+-
+
+Any protected foreign-source income arising under the settlement in the current year, or any previous year, ignoring ITTOIA 05 / S648 (3) – (5).
+
+-
+
+That would be treated under S624 as the settlor’s income, had it not been for S628A (exceptions for foreign source income). S648 (3) – (5) do not apply for this purpose.
+
+-
+
+That can be used directly or indirectly to provide benefits for the individual, on which the individual is not liable to income tax (ignoring any liability under S643A)
+
+-
+
+PFSI has the meaning given by S648A (2) – (13) and S628B, so the conditions A through to F are met and tainting has not occurred.
+
+Or
+
+-
+
+Any protected foreign-source income arising under the settlement in the current year, or any previous year
+
+-
+
+That would be treated under S629 as the settlor’s income, had it not been for S630A (exceptions for foreign source income)
+
+-
+
+Where the relevant child is not liable to income tax
+
+TOAA is as much of the PFSI where tax has been charged under the TOAA (Transfer of Assets Abroad) legislation in respect of benefits provided by the trustees in the year, or an earlier year.
+
+TI is the total of:
+
+-
+
+As much of the PFSI that has been treated as income in respect of benefits provided to the individual, or other individuals, under S643A, S643J or S643L in an earlier tax year
+
+The definition of PFSI for the purpose of calculating the API
+
+Example 1
+
+Gary has been resident in the UK for 18 years, but he is not domiciled in the UK. In 2011 Gary settled £5 million into a non-resident trust from which he is able to benefit. The trustees invest £4 million in overseas investments and purchase a holiday home in Spain for £1 million which is made available to Gary all year round. Each year the trustee’s income is £80,000.
+
+In 2017/18 Gary will be treated as deemed domiciled in the UK because he is a long-term resident. The income arising in the trust is protected foreign source income (PFSI) so will not be assessable on Gary under ITTOIA 05/S624. However, Gary will be assessable under ITTOIA 05/S643A on any benefit that he receives from 2018/19 onward.
+
+Gary has the use of the holiday home in Spain and the value of the benefit is £50,000 per year. Gary’s assessable income for the year 2018/19 will be calculated, using the steps referred to above, as follows:
+
+Total benefits = £50,000
+
+Total untaxed benefits = £50,000
+
+(It should be noted that the benefits arising before 6 April 2018 are not included in the calculation as before this date there was no benefit charge under ITTOIA 05/S643A- however he may be assessable under the Transfer of Assets Abroad legislation.
+
+Available protected income of the year = £80,000
+
+Total available protected income (£80,000 x 2 years (2017/18 - 2018/19) = £160,000
+
+The income treated as arising to Gary in 2018/19 will be £50,000.
+
+Assuming that the accommodation benefit is also provided in 2019/20, and Gary also receives a capital distribution from the trust of £100,000 the assessable income will be calculated as follows:
+
+Total benefits (£150,000 (2019/20) + £50,000 (from 2018/19) = £200,000
+
+Total untaxed benefits (£200,000 - £50,000) = £150,000
+
+Available protected income of the year = £80,000
+
+Total Available protected income accrued (£80,000 x 3) = £240,000
+
+Available protected income (£240,000 - £50,000) = £190,000
+
+The income treated as arising in 2018/19 will be £150,000. The unmatched available protected income still available is reduced to £40,000.

@@ -1,0 +1,30 @@
+Value shifting/depreciatory transactions: general
+Identifier: CG13200
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13200
+Published: 2016-03-12T10:03:39+00:00
+Updated: 2016-01-25T11:48:35+00:00
+Retrieved (UTC): 2026-09-18T14:37:13.297619+00:00
+
+There are various ways in which value can be taken out of assets. The value can be extracted as money, or money’s worth; or it may be passed into other assets. Without special rules, transactions of this kind could be manipulated so that the passing of value is not subject to tax, yet allowable losses could arise on a subsequent disposal of the asset from which value has been stripped.
+
+Where you think that value has been extracted from assets you should consider whether the provisions of
+
+- TCGA92/S29
+
+- TCGA92/S30
+
+- TCGA92/S31 (as introduced by Finance Act 2011)
+
+- TCGA92/S176 and TCGA92/S177
+
+may apply.
+
+Introductions to TCGA92/S29 and TCGA92/S30 are at CG13220+ and CG13260+ respectively. You may find it helpful to bear in mind that
+
+- TCGA92/S29 can apply when value is shifted out of one asset into another asset or assets. There does not need to have been any actual disposal of the original asset. Where the Section applies, there is a deemed disposal of the asset when the value is extracted
+
+- TCGA92/S30 can apply when value is extracted from an asset in the form of a `tax-free benefit’. But there must have been a subsequent disposal of the asset for the Section to apply.
+
+- TCGA92/S31 (as amended) Finance Act 2011 introduced a new Targeted Anti-Avoidance Rule for disposals of shares and securities by companies on or after 19 July 2011. TCGA92/S30 no longer applies to such disposals. See CG48500+.
+
+TCGA92/S176 applies to depreciatory transactions within groups of companies. You may need to consider this Section whenever a group company disposes of shares or securities in a subsidiary, and claims a loss on the disposal. TCGA92/S177 extends the application of Section 176 to depreciatory distributions to a company which holds 10 per cent or more of the shares or securities on which the distribution arises. Instructions on depreciatory transactions are at CG46500+.

@@ -1,0 +1,42 @@
+Liabilities: investigating liabilities: future payments incurred under S262
+Identifier: IHTM28120
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28120
+Published: 2016-04-09T09:53:25+01:00
+Updated: 2022-01-24T16:53:29+00:00
+Retrieved (UTC): 2026-09-18T15:04:09.553657+00:00
+
+IHTA84/S262 provides that special rules apply for charging tax where:
+
+- there is a disposition which results in a transfer of value,
+
+- the disposition is made for partial consideration in money or money’s worth, and
+
+- the transferor makes a payment more than one year after the disposition was made.
+
+The application of these rules is explained in detail in the chapter that deals with lifetime transfers (IHTM14000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14000)).
+
+Where IHTA84/S262 applies, and the transferor dies while there are still outstanding liabilities, the personal representatives have to complete the remaining payments. But under IHTA84/S175 the whole of the outstanding sum may not be deducted. An allowance may only be given for the non-gratuitous part of the remaining payments. In other words, the liability still outstanding is reduced by its chargeable portion as defined in IHTA84/S262 (2) so that the chargeable portion is effectively taxed by not being deducted from the estate as a valid liability.
+
+Example
+
+In 2003 Abdul buys a property from Brian for £200,000.
+
+The property is worth £100,000.
+
+Abdul pays £40,000 immediately, with the balance to be paid in five annual instalments of £32,000.
+
+The discounted value in 2003 of the instalments is (say) £110,000 and the property is conveyed to Abdul immediately.
+
+Abdul dies in 2007 with one instalment of £32,000 outstanding.
+
+Non-gratuitous part of the instalment unpaid at the date of Abdul’s death
+
+Abdul has received a property worth £100,000 for total consideration of £150,000 (£40,000 + £110,000), leaving him with a loss of £50,000.
+
+So the non-gratuitous portion of each payment made by Abdul is:
+
+100,000 ÷ 150,000 = two thirds
+
+The liability for the outstanding instalment of £32,000 should be reduced to two thirds. (Because the outstanding instalment was not due at the date of death, we may need to begin with a discounted value under IHTA84/S162(2) (IHTM28110 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28110)) rather than the full amount of £32,000.)
+
+If you get a case where a deduction is claimed for IHTA84/S262 liabilities, you should refer the claim to Technical for advice.

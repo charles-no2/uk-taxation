@@ -1,0 +1,30 @@
+non-approved schemes: overseas schemes: anti-avoidance provisions
+Identifier: EIM15416
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15416
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T11:31:27+01:00
+Retrieved (UTC): 2026-09-18T14:11:12.806715+00:00
+
+Section 397 ITEPA 2003
+
+For this purpose, an overseas scheme is one where any of the income and gains of the scheme’s investments are or have been outside the charge to UK tax (see Note 1 below).
+
+The treatment of a lump sum from such a scheme depends on whether the scheme was entered into or varied (see below) on or after 1 December 1993.
+
+Treat a scheme as varied if any of its terms change. For example, if a scheme rule that provides for annual contributions of £1,000 to be made is changed to increase the annual contributions to £2,000, then that is a variation. By contrast, if contributions are increased automatically by reference to a formula in the scheme that is related to a variable such as earnings, profits or turnover then that is not a variation: the same rule is being applied.
+
+If the scheme was entered into before 1 December 1993, follow item 3 of EIM15420 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15420).
+
+Otherwise, the charge under Section 394 ITEPA 2003 is calculated by deducting only the following from the lump sum:
+
+- any sum contributed by the employer on which the employee was chargeable and has been taxed under Section 595(1) ICTA 1988 (see SE15040) or Section 386 ITEPA 2003 (see EIM15412 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15412)) and
+
+- any sum paid by the employee.
+
+There are further rules where the lump sum comes from either the disposal of a part of an asset or the surrender of any part of or share in any rights in any asset and further lump sums may arise from further such disposals or surrenders (see EIM15417 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15417)).
+
+Note 1: this provision is an anti-avoidance measure. The calculation applies if any of the scheme’s income or gains are not brought into charge to UK tax. So it applies even if some of its income or gains have been charged to UK tax.
+
+Note 2: in all the above cases, the charge may be eliminated by Extra-Statutory Concession A10 (see EIM15418 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15418)).
+
+Note 3: Section 397 has no application for receipts after 5 April 2006. After that date, receipts from employer-financed retirement benefits schemes are charged in full (see EIM15010 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15010)) subject to transitional provisions (see EIM15125 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15125) and subsequent guidance).

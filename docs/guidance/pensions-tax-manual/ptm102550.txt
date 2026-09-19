@@ -1,0 +1,132 @@
+Transfers: transfers to a QROPS: examples of calculating the amount of the overseas transfer charge on transfer from a QROPS or former QROPS
+Identifier: PTM102550
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102550
+Published: 2017-12-01T12:31:53+00:00
+Updated: 2020-02-03T07:55:16+00:00
+Retrieved (UTC): 2026-09-18T14:49:44.230546+00:00
+
+Glossary
+
+|
+
+PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+|
+
+Example 1: tax on transfer, scheme manager deducts tax (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102550#Example 1: tax on transfer, scheme manager deducts tax)
+
+Example 2: tax on transfer, scheme manager doesn’t deduct tax (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102550#Example 2: tax on transfer, scheme manager doesn’t deduct tax)
+
+Example 3: tax on change of circumstances (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102550#Example 3: tax on change of circumstances)
+
+Example 4: tax on onward transfer of funds originating in a block transfer from a relieved relevant non-UK scheme (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102550#Example 4: tax on onward transfer of funds originating in a block transfer from a relieved relevant non-UK scheme)
+
+Example 1: tax on transfer, scheme manager deducts tax
+
+Hugh is a member of the Fiery QROPS. Under this scheme Hugh has £390,000 held under ring-fenced transfer funds as follows:
+
+- £200,000 ring-fenced transfer fund with a key date of 30 June 2019
+
+- £110,000 ring-fenced transfer fund with a key date of 13 July 2020, this was subject to an overseas transfer charge when it was transferred to the Fiery QROPS
+
+- £80,000 ring-fenced transfer fund with a key date of 14 September 2020
+
+In October 2025 Hugh transfers all his funds from the Fiery QROPS to the Smokeless QROPS. This transfer is subject to an overseas transfer charge.
+
+At this point, Hugh’s pension funds under Fiery QROPS are valued at £570,000.
+
+An overseas transfer charge does not apply to an onward transfer of funds out of a QROPS or former QROPS that are not held under a ring-fenced transfer fund. Hugh’s ring-fenced transfer funds have a total value of £390,000.
+
+An overseas transfer charge does not apply to an onward transfer made after the end of the relevant period for the ring-fenced transfer fund.
+
+The relevant period for the £200,000 ring-fenced fund with a key date of 30 June 2019 ended on 5 April 2025. So the onward transfer of this ring-fenced transfer fund is out of scope of the tax charge.
+
+The relevant period for the other two ring-fenced transfer funds ends on 5 April 2026. This is after the date of the transfer to the Smokeless QROPS and so there are two ring-fenced transfer funds with a total value of £190,000 still within scope of an overseas transfer charge.
+
+However an overseas transfer charge was paid previously in respect of the £110,000 ring-fenced transfer fund. The tax charge has not become repayable. This means that the onward transfer of this ring-fenced transfer fund is excluded from an overseas transfer charge.
+
+This leaves the onward transfer of the £80,000 ring-fenced transfer fund being subject to an overseas transfer charge under section 244AC.
+
+The scheme manager of Fiery QROPS decides to deduct the tax due before paying the balance to the scheme manager of Smokeless QROPS.
+
+The amount of the onward transfer subject to the charge = £80,000.
+
+As the overseas transfer charge is to be paid by reducing Hugh’s transfer:
+
+- the ‘transferred value’ = £80,000
+
+- the overseas transfer charge = (£80,000 @25%) = £20,000
+
+Amount received by the QROPS = £570,000 – £20,000 = £550,000
+
+Example 2: tax on transfer, scheme manager doesn’t deduct tax
+
+Pugh is a member of the Trump QROPS. Pugh has pension savings worth £620,000 under the Trump QROPS which includes the following UK funds:
+
+- £250,000 relevant transfer fund
+
+- £330,000 ring-fenced transfer fund with a key date of 27 November 2023.
+
+In September 2024, Pugh transfers all his benefits under the Trump QROPS (£620,000) to the Top QROPS. This transfer does not meet any of the five general exclusion tests, so is subject to an overseas transfer charge under section 244AC.
+
+As an overseas transfer charge on an onward transfer from a QROPS (or former QROPS) is limited to the transfer of a ring-fenced transfer fund, only £330,000 is within scope of the charge.
+
+Pugh’s onward transfer takes place within the relevant period for the ring-fenced transfer fund, so the onward transfer is within scope of the charge.
+
+The transfer into the Trump QROPS was excluded from the overseas transfer charge, so the tax charge hasn’t been paid previously.
+
+In short there are no grounds for excluding the onward transfer of the ring-fenced transfer fund (£330,000) from an overseas transfer charge under section 244AC.
+
+The amount of the requested onward transfer within scope of the charge = £330,000.
+
+The Trump QROPS scheme manager does not deduct the tax due from the funds to be transferred so the ‘transferred value’ of the onward transfer is grossed up.
+
+The transferred value is the aggregate of the ‘chargeable portion’, the ‘gross-up amount’ and the ‘non-chargeable portion’ (if any) :
+
+- Chargeable portion = £330,000
+
+- Gross-up amount = £330,000/3 = £110,000
+
+- Non-chargeable portion = nil
+
+Therefore, the transferred value = £440,000
+
+The overseas transfer charge under section 244AC = (£440,000 @25%) = £110,000
+
+Amount received by the QROPS = £620,000
+
+Example 3: tax on change of circumstances
+
+In December 2022 Barney transferred £400,000 from the Candle Pension Scheme to the Wicks QROPS. The Wicks QROPS is established in Malta. The QROPS is not employment-related. When Barney transferred he was resident in the UK and so the transfer was excluded from an overseas transfer charge on the basis that the QROPS was established in an EEA country and Barney was also resident in the EEA.
+
+In October 2024 Barney moves to Australia to take up a new job. He ceases being UK resident from this point.
+
+The relevant period for the transfer from the Candle QROPS runs up to 5 April 2028. As Barney ceased being resident in October 2024, before the end of the relevant period, an overseas transfer charge under section 244AC is now due.
+
+The only funds Barney has under the Wicks QROPS derive from the transfer from his registered pension scheme. When Barney leaves the UK his QROPS funds have risen in value to £480,000.
+
+As the overseas transfer charge has arisen due to a change of circumstances the ‘transferred value’ is limited to the amount of the ring-fenced transfer fund created by the transfer from the Candle Pension Scheme. That is £400,000.
+
+The ‘transferred value’ = £400,000
+
+The overseas transfer charge under section 244AC = (£400,000 @25%) = £100,000
+
+The scheme manager of Wicks QROPS and Barney are jointly liable to the £100,000 overseas transfer charge.
+
+Example 4: tax on onward transfer of funds originating in a block transfer from a relieved relevant non-UK scheme
+
+In August 2024 Daphne’s UK tax-relieved fund of £650,000 was transferred from a relieved relevant non-UK scheme (RNUKS) to the Laurel QROPS as part of a block transfer. The Laurel QROPS is established in Germany and Daphne is resident in France. As a block transfer from a relieved RNUKS, this would be an ‘original transfer’, and it would form a ring-fenced transfer fund under the Laurel QROPS, but it would not itself be within scope of an overseas transfer charge.
+
+In May 2025 Daphne decides to transfer £500,000 of her funds under the Laurel QROPS to the Kalmia QROPS, which is established in France. The only funds Daphne has under the Laurel QROPS derive from the transfer from the relieved RNUKS. Daphne’s available overseas transfer allowance at the time of making this onward transfer is £320,000.
+
+The onward transfer is excluded from an overseas transfer charge under section 244AC on the basis that the member is resident in the same country as that in which the QROPS is established. However, as the transferred value is more than Daphne’s available overseas transfer allowance, an overseas transfer charge under section 244IA will apply. The scheme manager of Laurel QROPS decides to deduct the tax due before paying the balance to the scheme manager of Kalmia QROPS.
+
+The ‘transferred value’ = £500,000
+
+Available overseas transfer allowance = £320,000
+
+Overseas transfer charge under section 244IA = (£500,000 - £320,000) @25% = £45,000
+
+Amount received by QROPS = £500,000 - £45,000 = £455,000
+
+Daphne’s available overseas transfer allowance following this transfer will be nil.

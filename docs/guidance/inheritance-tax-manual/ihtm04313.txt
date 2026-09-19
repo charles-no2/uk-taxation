@@ -1,0 +1,60 @@
+Para 3 & 4/Schedule A1/IHTA84 relevant loan examples
+Identifier: IHTM04313
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04313
+Published: 2018-02-05T14:59:12+00:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:53:26.447404+00:00
+
+Loans made to individuals, trustees or partnerships to finance the acquisition, maintenance or enhancement of UK residential property interest (UKRPI) or agricultural property are known as relevant loans and these loans cannot be excluded property (IHTM04251 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04251)) in the hands of the creditor.
+
+Loans to companies are not relevant loans but they will still be within the scope of Sch A1 because the creditor will be a participator (and therefore the holder of an interest) in the company.
+
+Example 1
+
+Carlos lends £1m to his student daughter Isabella and she uses the money to purchase a £1.1m house in Oxford. So, if Carlos dies then the value of the loan will form part of his estate even if the loan is structured as a foreign asset and even if Carlos is not a long-term UK resident. The daughter has no other assets in the UK or elsewhere and her net estate is initially £100,000 (£1.1m less the £1m loan).
+
+A relevant loan extends to money or money’s worth held or otherwise made available as security, collateral or guarantee for a loan that is a relevant loan. The value used is the lower of the value of the loan or the security, collateral or guarantee.
+
+Example 2
+
+If in example 1 the loan is made by a bank having received a right over £2m of Carlos’ assets then such collateral cannot be excluded property but, initially, the value of the collateral is capped at the value of the loan, £1m. The position at the point of any Inheritance Tax (IHT) charge will depend upon the value of the loan and the collateral.
+
+If the value of the loan is £750,000 at that time but the collateral is, say, £700,000 then the lower value is used. However, if the collateral was provided equally by Carlos and Isabella’s brother, Ferdinand, then both Carlos and Ferdinand would have £350,000 worth of non-excluded property.
+
+Example 3
+
+Apple is not long-term UK resident (on or after 6 April 2025) or domiciled (before 6 April 2025) in the UK. A bank manages her portfolio of non-UK investments, valued at £10m. She borrows £3m from the bank and the portfolio is offered as security. Together with her other assets she purchases a farmhouse in the UK for £5m.
+
+The collateral of £10m is capped to the value of the relevant loan at £3m, she has the farmhouse worth £5m and she owes the bank £3m. If she dies then her taxable estate is £5m, being the £3m collateral plus the net value of the residence (£5m less £3m).
+
+A loan ceases to be a relevant loan if the UK relevant property is disposed of.
+
+Example 4
+
+If – see example 1 - Isabella sells the house in the open market then Carlos’ loan (or collateral) will no longer be a relevant loan and no IHT charge arises as a result.
+
+Examples 1 to 4 apply equally to loans to trustees and to partnerships and to loans made indirectly, e.g. loans made from loans and to situations where the loan is used to maintain or enhance the value of the UK relevant property.
+
+Relevant loans include loans made to finance the acquisition of property already within the new measure (close companies and partnerships).
+
+Example 5
+
+David lends £1m to the trustees of his grandfather’s will trust in 2018. His grandfather was never long-term UK resident (on or after 6 April 2025) or domiciled (before 6 April 2025) in the UK. The trustees use the money to acquire the share capital of a company that had acquired agricultural land in Kent in 2012. David’s loan is a relevant loan for times on or after 6 April 2026.
+
+Likewise, if the trustees used the money to subscribe for shares in a new Jersey company and the company used the subscription proceeds to acquirethe land then David’s loan is a relevant loan.
+
+Even though a loan to a close company is not a relevant loan, the lender will have an interest in the company for the purposes of the new rules because for the purposes of Sch A1 there is no exclusion for loan creditors.
+
+Example 6
+
+If, in example 5, the trustees already owned the shares in the company and David makes a loan to the company, which invests the money in foreign assets then David will not have made a relevant loan. Instead, he now has participation rights in the company, and those rights will be denied excluded property status to the extent that the value of the company relates to any UK relevant property.
+
+Example 7
+
+John is not long-term UK resident (on or after 6 April 2025) or domiciled (before 6 April 2025) in the UK. He owns all of the shares in a Jersey Company (J Co) that owns foreign assets worth £10m. John’s brother Seamus, who is also not long-term UK resident or domiciled in the UK, lends John £2m in order to fund J Co (by way of loan) and then J Co purchases UK residential properties worth £12m.
+
+John’s interest in J Co is no longer excluded property because the value of John’s stake in that company is now attributable to UKRPI.
+
+Seamus has made a relevant loan, which is not excluded property. While his loan did not fund the acquisition of a UKRPI by an individual, partnership or trustee it was used by John to acquire an interest (as a loan creditor) in J Co and J Co as an intermediary has acquired a UKRPI.
+
+Note that if the loan to J Co was made by another close company K Co, then that loan would not be a relevant loan. Instead, the participators in K Co would have an interest in J Co. and therefore an indirect interest in the UKRPI, subject to the de minimis rule (IHTM04312 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04312)).

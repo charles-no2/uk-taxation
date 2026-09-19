@@ -1,0 +1,74 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Interaction between Non-Resident CGT and ATED-related CGT: Post April 2016 disposals computations, example
+Identifier: CG73891
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73891
+Published: 2018-10-18T12:06:02+01:00
+Updated: 2019-10-11T10:32:21+01:00
+Retrieved (UTC): 2026-09-18T14:46:45.489260+00:00
+
+This example follows on from example 3 at CG73628 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73628) in the ATED-related CGT guidance. It shows how to calculate the NRCGT gain or loss on that disposal after calculating the ATED-related gain or loss.
+
+Basic information:
+
+Residential property acquired April 2010 for £300,000 and disposed of 7 April 2018 for £700,000.
+
+The property had a value of £500,000 at 5 April 2015 and £550,000 at 5 April 2016.
+
+Estimated Indexation factors are:
+
+April 2015 to April 2016 0.013
+
+April 2016 to April 2018 0.019
+
+Total number of days chargeable to ATED (assumed) 200
+
+Total days 6 April 2016 to day preceding disposal 730
+
+Step 1
+
+Determine the amount equal to the special fraction of the notional post-April 2016 gain or loss
+
+Disposal proceeds £700,000
+
+Market value at 5 April 2016 £550,000
+
+Indexation allowance £10,450
+
+Post-April 2016 gain £139,550
+
+SD = 530
+
+TD = 730
+
+SD/TD x Post-April 2016 gain = £101,317
+
+Step 2
+
+Determine the amount equal to the special fraction of the notional pre-April 2016 gain or loss
+
+Asset was held at 5 April 2015 so the pre-April 2016 gain or loss is the gain or loss which accrued between 5 April 2015 and 5 April 2016.
+
+Market value at 5 April 2016 £550,000
+
+Market value at 5 April 2015 £500,000
+
+Indexation allowance £6,500
+
+Pre-April 2016 gain £43,500
+
+SD = 365
+
+TD = 365
+
+SD/TD x gain = £43,500
+
+Step 3
+
+Add Step 1 to Step 2
+
+Step 1 £101,317
+
+Step 2 £43,500
+
+NRCGT gain £144,817
+
+See CG73894 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73894) for how to calculate the gain or loss that is neither ATED-related nor an NRCGT gain or loss.

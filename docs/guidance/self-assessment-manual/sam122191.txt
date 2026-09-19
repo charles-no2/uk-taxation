@@ -1,0 +1,16 @@
+Returns: partnership returns: multiple SAI for one basis period: partnerships (Action Guide)
+Identifier: SAM122191
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam122191
+Published: 2016-04-08T17:23:08+01:00
+Updated: 2016-02-23T14:56:35+00:00
+Retrieved (UTC): 2026-09-18T16:20:44.518689+00:00
+
+For details of how to access the SA function, select ‘Index Of Functions’ on the left of the screen.
+
+1. |  Check through the sets of SAI received and determine which is for the business with the largest turnover |
+
+|    |
+
+2. |  Check to see whether, for this business, there is SAI for more than one period of account. Determine which set covers the latest period |
+
+3. |  Capture the SAI for the latest period of account only, using function CAPTURE RETURN |

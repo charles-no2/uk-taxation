@@ -1,0 +1,16 @@
+Foreign property: specific British Government Securities: exempt securities as partnership assets
+Identifier: IHTM27264
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm27264
+Published: 2016-04-09T09:51:40+01:00
+Updated: 2022-12-20T14:27:24+00:00
+Retrieved (UTC): 2026-09-18T15:03:49.499051+00:00
+
+Very occasionally the assets of a partnership may include exempt securities which will normally constitute “excepted assets” (see IHTA84/S112) so they will not qualify for Business Relief. In this situation a partner’s transfer of their interest in the partnership will be excluded property:
+
+- to the extent that it is attributable to the exempt securities (IHTM27241 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm27241))
+
+- and only if it satisfies the conditions specified for the security
+
+You should calculate the amount to be excluded as follows:
+
+(Value of exempt securities ÷ Total value of partnership) × Value of transferor’s partnership interest

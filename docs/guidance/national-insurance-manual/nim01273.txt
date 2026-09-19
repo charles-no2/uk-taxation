@@ -1,0 +1,62 @@
+Class 1 structural overview - From April 2009: structural changes: the Class 1 and 2 maximum: examples: three Class 1 employments: static earnings
+Identifier: NIM01273
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01273
+Published: 2016-04-11T17:00:30+01:00
+Updated: 2021-10-27T10:36:00+01:00
+Retrieved (UTC): 2026-09-18T15:18:09.768868+00:00
+
+Example 2
+
+J Howlett has three separate employments. Her total earnings for the 2021 to 2022 tax year are £103,212. She is paid the same monthly earnings in each job. Her maximum Class 1 liability is calculated as follows:
+
+Step 1
+
+Deduct the relevant Primary threshold from the relevant UEL and multiply that figure by 53.
+
+967 - 184 = 783 x 53 = 41,499
+
+Step 2
+
+Multiply the result of step 1 by 12%
+
+41,499 x 12% = 4,979.88
+
+Step 3
+
+Add together so much of the person’s earnings from each employed earner’s employment as exceeded the Primary Threshold but did not exceed the Upper Earnings Limit.
+
+2,867 (monthly earnings) - 797 (monthly PT) = 2,070 x 12 x 3 = 74,520
+
+Step 4
+
+Deduct from the total found at step 3 step the amount produced by step 1
+
+74,520 - 41,499 = 33,021
+
+Step 5
+
+If the figure produced at step 4 is a positive figure multiply that figure by 2%
+
+If the figure produced at step 4 is a negative figure, it is treated for the purposes of step 8 as nil
+
+33,021 x 2% = 660.42
+
+Step 6
+
+Add together so much of the person’s earnings from each employment as exceeded the Upper Earnings Limit.
+
+There are no earnings over the UEL
+
+Step 7
+
+Multiply the result of step 6 by 2%
+
+Not applicable
+
+Step 8
+
+Add together the results of steps 2, 5 and 7.
+
+4,979.88 + 660.42 + nil = 5,640.30
+
+J Howlett’s maximum for the 2021 to 2022 tax year is £5,640.30

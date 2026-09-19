@@ -1,0 +1,38 @@
+Liabilities: restricted deductions: borrowed money used to acquire assets that qualify for business relief 
+Identifier: IHTM28020
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28020
+Published: 2016-04-09T09:52:18+01:00
+Updated: 2020-02-19T16:54:17+00:00
+Retrieved (UTC): 2026-09-18T15:03:56.235096+00:00
+
+IHTA84/S162B(1) applies where money was borrowed to acquire assets that qualify for business relief or to enhance or maintain the value of these assets. Where this is the case, the liability firstly reduces the value of the assets that qualify for relief, IHTA84/S162B(2). This is the case even if the liability is actually secured against other assets in view of the amendments to IHTA84/S162(4) (IHTM28392 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28392)). Business relief (IHTM25001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25001)) is then given against the net value of the asset after deduction of the liability.
+
+Where a liability has already been taken into account in arriving at the net value of the business under IHTA84/S110(b), this provision has no effect.
+
+Any remaining value of the liability may then be set against any other assets that are chargeable to tax, as long as the deduction is allowed under IHTA84/S175A (IHTM28027 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28027)).
+
+See (IHTM28022 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28022)) where the assets concerned qualify for both agricultural relief and business relief.
+
+Example 1
+
+Gareth, who runs his own sole trader business, borrows £250,000 to buy property that is to be used in his business. The loan is unsecured and is shown in the accounts as a liability of the business. IHTA84/S162B(1)(b) applies as the liability has been incurred to acquire relevant business assets. Under IHTA84/S162B(2) the liability should be taken to reduce the value of the relevant business assets before that value is reduced by business relief. However in this case the liability has already been reflected in the net value of the business under IHTA84/S110(b), so IHTA84/S162B(2)(b) prevents the liability being deducted twice.
+
+Example 2
+
+Habibah borrows £450,000, which is charged on her house, and uses the funds to acquire AIM shares. At the date of Habibah’s death the AIM shares are worth £575,000 and qualify for business relief. The rest of her estate is worth £1.5m. At the date of death the liability is taken to reduce the value of the AIM shares that can qualify for business relief under IHTA84/S162B(2) from £575,000 to £125,000. Business relief applies to that value.
+
+The total estate, including the AIM shares is £2,075,000 (£1.5m plus £575,000).
+
+This is reduced by business relief of £125,000 and, subject to it meeting the provisions of IHTA84/S175A, the liability of £450,000.
+
+The value of the chargeable estate is £1.5m.
+
+As the liability has been taken into account to reduce the value of the AIM shares under IHTA84/S162B, the liability cannot be deducted against the value of the house under IHTA84/S162(4).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28020#Top)
+
+Example 3
+
+Ian borrows £600,000, which is charged on his house and uses the money to buy shares in his son’s company. At Ian’s date of death, the shares are worth £800,000, the house £1m and his personal estate is worth £500,000. Under his Will, Ian leaves his house to his spouse with the residue to his son.
+
+Assuming the liability meets the conditions of IHTA84/S175A, it is taken to reduce the value of the company shares before business relief is applied. As the liability has been taken into account under IHTA84/S162B, it cannot be taken against the value of the house under IHTA84/S162(4). The value of shares is reduced to nil through a combination of deducting the liability (£600,000) and business relief (£200,000). The liability has been taken into account against the shares, so the house passes to the spouse, free of the liability and qualifies for spouse or civil partner exemption. This leaves a chargeable estate of £500,000 that passes to the son.

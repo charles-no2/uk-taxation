@@ -1,0 +1,683 @@
+Investments: taxable property: indirect holdings
+Identifier: PTM125400
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-02T16:56:08+00:00
+Retrieved (UTC): 2026-09-18T14:49:58.924177+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Indirect holding of taxable property (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#IDAVQZMD)
+Indirect holdings not subject to tax charges (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#IDA40ZMD)
+Indirect holdings not subject to tax charges: UK REITs (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#IDA01ZMD)
+Indirect holdings not subject to tax charges: other kinds of vehicle (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#IDANC0MD)
+Indirect holdings not subject to tax charges: trading concerns (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#IDAEJ0MD)
+Indirect holdings of tangible moveable property that is not taxable property (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#IDARK0MD)
+What are the occasions of charge? (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#IDA1L0MD)
+Tax charges that apply (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#IDATP0MD)
+Amount and timing of charges on acquisition/improvement/conversion (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#IDAMR0MD)
+Additional acquisition of interest in vehicle (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#IDALM1MD)
+Additional property and any improvement/conversion/adaptation (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#IDA2N1MD)
+Amounts chargeable on income/deemed income (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#IDACQ1MD)
+Amounts chargeable on gains (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#IDA0T1MD)
+Amounts chargeable on gains: how gains are calculated (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#IDACV1MD)
+
+Indirect holding of taxable property
+
+Section 174A and paragraphs 16 to 19 schedule 29A Finance Act 2004
+
+The taxable property provisions apply where an investment-regulated pension scheme holds either a direct or indirect interest in taxable property. PTM121000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm121000) explains the position for direct interests and the following paragraphs explain the position for indirect interests.
+
+An indirect interest in taxable property will be held through a ‘vehicle’, that is, a person or entity through whom the pension scheme holds the property. So, if a pension scheme holds 100% of the share capital of a company which itself owns residential property then the company through which the pension scheme owns the property is the vehicle.
+
+Indirect investment in taxable property via genuinely diverse commercial vehicles will not be subject to the tax charges on taxable property.
+
+A person indirectly holds an interest in a vehicle if the person:
+
+- holds an interest in a person who holds an interest in the vehicle, or
+
+- holds an interest in a person who holds the interest in another person who holds the interest in the vehicle and so on down through any length of chain of interests held.
+
+Examples
+
+A pension scheme holds 100% of the shares in company A and company A holds 50% of the shares in company B. The pension scheme indirectly holds an interest in company B of 50% (that is, 100% x 50%).
+
+A pension scheme holds 20% of the shares in an open ended investment company (OEIC) and the OEIC holds 50% of the shares in company A that holds 40% of the shares in company B. The pension scheme holds an indirect interest in both company A, of 10% (that is, 20% x 50%), and company B, of 4% (that is, 20% x 50% x 40%).
+
+An indirect interest in taxable property can be held via a wide variety of types and sizes of vehicles or structures including collective investment schemes, unit trust schemes, unauthorised unit trusts, exempt unauthorised unit trusts, open-ended investment companies, closed ended companies, investment trust companies, insurance policies and contracts, trusts, depository interests, or exchange traded funds.
+
+An investment-regulated pension scheme holds an interest in taxable property if the scheme holds the interest indirectly. In both of the examples that follow the pension scheme holds an interest in property indirectly.
+
+To determine who holds any asset, an investment-regulated pension scheme holds an asset if that asset is held for the purposes of the pension scheme.
+
+An arrangement under a pension scheme holds an asset if that asset is held for the purposes of an arrangement under the pension scheme
+
+A trust which is not a pension scheme holds an asset if that asset is held for the purposes of the trust.
+
+These rules apply to the person/vehicle at each ‘level’ whether that person holds the relevant interest or property jointly, in common or alone.
+
+Property is held indirectly if the scheme does not hold the interest in the taxable property directly but:
+
+- holds an interest in a vehicle that holds the property directly, or
+
+- holds an interest in a vehicle that has an interest in another vehicle that holds the property directly.
+
+Examples
+
+A pension scheme holds 100% of the shares in company A and the company owns a residential property. This demonstrates an indirect holding by the pension scheme of 100%. The pension scheme indirectly holds an interest in the residential property owned by company A.
+
+A pension scheme holds 20% of the shares in an open ended investment company (OEIC) and the OEIC holds 50% of the shares in company A that owns residential property. This demonstrates an indirect holding by the pension scheme, of 10% (that is, 20% x 50%). The pension scheme therefore is treated as owning a 10% interest in the residential property owned by company A.
+
+An interest in a person is held by another person where they,
+
+- hold an interest, right or power in or over that other person, or
+
+- lend that other person money to fund the acquisition by that other person of taxable property. But certain authorised employer loans are excluded from this provision.
+
+An authorised employer loan (see PTM123200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200)) made to or in respect of a sponsoring employer is excluded from this provision if:
+
+- the property is acquired for either of the following purposes:
+
+- a trade, profession or vocation carried on by the sponsoring employer
+
+- the sponsoring employer’s administration or management
+
+- ​the property is not occupied or used by a member of the pension scheme or a connected person of such a member.
+
+A person holds an interest in a company if:
+
+- the person has, or is entitled to acquire, share capital or voting rights in the company
+
+- the person has, or is entitled to acquire, a right to receive or participate in distributions of the company
+
+- the person is entitled to secure that income or assets (whether present or future) of the company will be applied directly or indirectly for the person’s benefit, or
+
+- the person, either alone or together with other persons, has control of the company.
+
+In the above paragraph references to a person being entitled to do anything apply where a person:
+
+- is currently entitled to do it at a future date, or
+
+- will at a future date be entitled to do it.
+
+For the purposes of the above control has the meaning given by section 450 Corporation Tax Act 2010. For further detailed guidance refer to the Company Taxation Manual starting at CTM60200 (http://www.hmrc.gov.uk/manuals/ctmanual/CTM60200.htm).
+
+A person holds an interest in a collective investment scheme if the person is a participant in the scheme. Collective investment scheme has the meaning given by section 235 Financial Services and Markets Act (FISMA) 2000.
+
+Participant in relation to a scheme has the meaning given in section 235(2) FISMA 2000.
+
+A pension scheme holds an interest in a trust, which is not a unit trust scheme within section 237(1) FISMA 2000, if the following conditions are met. These are:
+
+- that the pension scheme, a member of the pension scheme or a person connected with such a member has a relevant interest in the trust
+
+- that, since the interest was acquired,
+
+- the pension scheme, or
+
+- if the pension scheme has a relevant interest in the trust, a member of the pension scheme or a person connected with such a member,
+
+- has made a payment to the trust other than a payment made for purely commercial reasons.
+
+A person other than a pension scheme holds an interest in a trust if:
+
+- the person has the relevant interest in the trust, and
+
+- since the interest was acquired, the person has made a payment to the trust, other than a payment made for purely commercial reasons.
+
+A person has a relevant interest in a trust if:
+
+- any property which may at any time be comprised in the trust or any derived property is, or will or may become, payable to or applicable for the benefit of the person in any circumstances, or
+
+- the person enjoys a benefit deriving directly or indirectly from any property which is comprised in the trust or any derived property.
+
+A payment will be treated as made on purely commercial grounds where:
+
+- payment is made as part of an arm’s length transaction by which property or a benefit is to be provided in return for a payment
+
+- and the purpose of the payment is not to provide taxable property for personal use of a pension scheme member or a connected person.
+
+Derived property, in relation to any property, means income from that property or any other property directly or indirectly representing proceeds of, or income from, that property. Connected person means as defined in section 1122 Corporation Tax Act 2010.
+
+If a pension scheme has a direct or indirect interest in a trust and that trust owns taxable property, the pension scheme will have an interest in that taxable property. The amount of that interest will depend upon the terms of the trust.
+
+The pension scheme (or the person through whom the pension scheme has an indirect interest) may have a set interest in property held by the trust and in those circumstances the pension scheme will be deemed to hold property by virtue of that interest.
+
+In other circumstances the holding will be determined by a just and reasonable apportionment depending upon the facts of the case.
+
+Examples
+
+If a pension scheme holds an interest in a trust and that trust will pay out 40% of its income and capital to that pension scheme the pension scheme will be deemed to own 40% of any taxable asset held by the trust.
+
+If a pension scheme holds 40% of the share capital of a company which in turn holds an interest in a trust and that trust will pay out 50% of its income and capital to the company the pension scheme is deemed to hold 20% of any taxable property held by the trust (that is, 40% x 50%).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#Top)
+
+Indirect holdings not subject to tax charges
+
+Only limited indirect investment in taxable property will not be subject to the tax charges on unauthorised payments. This is through genuinely diverse commercial vehicles.
+
+Indirect investments held through genuinely diverse commercial vehicles will not be subject to tax charges when held as a scheme investment by an investment-regulated pension scheme. There are three categories of genuinely diverse commercial vehicle:
+
+- UK REITs
+
+- other kinds of vehicle
+
+- trading concerns.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#Top)
+
+Indirect holdings not subject to tax charges: UK REITs
+
+A UK REIT is a company to which Part 12 Corporation Tax Act 2010 (Real Estate Investment Trusts) applies or a member of a group to which that part applies.
+
+The pension scheme’s interest in the UK REIT must meet the following conditions.
+
+The pension scheme:
+
+- must not directly or indirectly hold an interest in the UK REIT for the purposes of enabling a member of the pension scheme or a connected person of a member to occupy or use the property, and
+
+- must meet either the condition a. or b. below,
+
+a. where the pension scheme is an occupational pension scheme the pension scheme together with any associated persons, must not hold directly or indirectly an interest in the UK REIT that exceeds any one of the limits (see below), or
+
+b. where the pension scheme is not an occupational pension scheme no arrangement under the pension scheme, together with any associated persons, may hold directly or indirectly an interest in the UK REIT that exceeds any one of the limits (see below).
+
+The limits referred to in conditions a. and b. above are:
+
+- 10% or more of the share capital or issued share capital of the UK REIT,
+
+- 10% or more of the voting rights in the UK REIT,
+
+- a right to receive 10% or more of the income of the UK REIT,
+
+- such an interest in the UK REIT as gives an entitlement to 10% or more of the amounts distributed on a distribution in relation to the UK REIT,
+
+- such an interest in the UK REIT as gives an entitlement to 10% or more of the assets of the UK REIT on a winding up or in any other circumstances
+
+- such an interest in the UK REIT as gives rise to income and gains derived from a specific property.
+
+These limits apply to indirect holdings of a UK REIT as well. So, if a pension scheme holds 50% of company A which in turn owns 15% of a UK REIT then the pension schemes interest in the UK REIT will be 7.5%. The indirect holding in the UK REIT will therefore be less than 10%.
+
+Pension Schemes which are not occupational schemes
+
+A pension scheme which is not an occupational pension scheme may have holdings in a UK REIT through one or more arrangements for members that are not associated persons. In these circumstances the tests of whether 10% or more of the UK REIT is owned will apply separately for each arrangement. For the avoidance of doubt, where the same member has more than one arrangement, they must be considered jointly.
+
+Example
+
+A non-occupational pension scheme arrangement A owns 50% of a UK REIT and arrangement B owns 5% of the same UK REIT and the UK REIT owns a residential property. Arrangement A and arrangement B relate to members who are not the same person and are not connected with each other. Arrangement A will be treated as having an indirect holding in the residential property and as the limit is exceeded the appropriate tax charges will apply - see ‘Tax charges that apply’ below. Arrangement B will not be treated as having an indirect holding in the property.
+
+Increases in holding by a pension scheme
+
+If the holding of a pension scheme increases without the pension scheme acquiring a further holding in the UK REIT this is not taken into account for the purposes of the 10% test unless it is part of a scheme or arrangement to enable a lower unauthorised payment to be charged. Therefore, if a scheme owns 8% of a UK REIT and this is increased to 15% because others decrease their holdings this increase will not be taken into account unless it is done as a deliberate device to avoid the unauthorised payments charge.
+
+Apportioning value to a member
+
+The percentage by value represented by a member of a pension scheme is AM/AA x 100.
+
+AM is an amount equal to the aggregate of the amount of the sums and the market value of the assets held for the purposes of an arrangement under the pension scheme relating to the member.
+
+AA is an amount equal to the aggregate of the amount of the sums and the market value of the assets held for the purposes of the scheme.
+
+Meaning of ‘associated person’
+
+The term ‘associated person’ in relation to a pension scheme means:
+
+- any member of the pension scheme
+
+- any person connected with such a member
+
+- any arrangement (under that or another pension scheme) relating to a member of the pension scheme
+
+- any arrangement (under that or another pension scheme) relating to a person connected to such a member
+
+- any associated pension scheme.
+
+A pension scheme is associated with another pension scheme if members representing at least 10% by value (see ‘Apportioning value to a member’ above) of one pension scheme are members of the other pension scheme or connected with such members.
+
+‘Associated person’ in relation to an arrangement means:
+
+- the member of the pension scheme to which that arrangement relates
+
+- any person connected with such a member
+
+- any arrangement (under that or another pension scheme) relating to a member of the pension scheme to which that arrangement relates
+
+- any arrangement (under that or another pension scheme) relating to a person connected to such a member.
+
+Connected person means as defined in section 993 and 994 of Income Tax Act 2007 or section 1122 Corporation Tax Act 2010. See PTM027000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm027000).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#Top)
+
+Indirect holdings not subject to tax charges: other kinds of vehicle
+
+These are vehicles that meet certain conditions and the pension scheme’s interest in the vehicle is such the pension scheme and associates directly or indirectly hold less than 10% in the vehicle and there is no potential for use or occupancy of any taxable property by scheme members or connected persons.
+
+The vehicle must meet three conditions.
+
+Condition 1
+
+- the total value of the assets held directly by the vehicle is at least £1 million, or
+
+- the vehicle holds at least three assets directly which are residential property,
+
+and in either of these cases no asset held directly by the vehicle which is taxable property has a value which exceeds 40% of the total value of the assets held directly.
+
+In applying a and b:
+
+- assets must be valued in accordance with generally accepted accounting practice,
+
+- no account is to be taken of liabilities secured against or otherwise relating to assets (whether generally or specifically), and,
+
+- where generally accepted accounting practice offers a choice of valuation between cost basis and fair value, fair value must be used.
+
+Condition 2
+
+if the vehicle is a company,
+
+- it is resident in the United Kingdom and is not a close company, or
+
+- it is not resident in the United Kingdom and would not be a close company if it were resident in the United Kingdom
+
+Condition 3
+
+The vehicle does not have as its main purpose, or one of its main purposes, the direct or indirect holding of an animal or animals used for sporting purposes. This is to recognise that many racehorse syndicates have many members and provide them with certain benefits related to the horse ownership such as attendance at race meetings as an owner with access to the owner’s enclosure.
+
+The pension scheme’s interest in the vehicle must meet the following conditions.
+
+The pension scheme:
+
+- must not directly or indirectly hold an interest in the vehicle for the purposes of enabling a member of the pension scheme or a connected person of a member to occupy or use the property, and
+
+- must meet either condition A or B below:
+
+Condition A
+
+Where the pension scheme is an occupational pension scheme the pension scheme, together with any associated persons, must not hold directly or indirectly an interest in the vehicle that exceeds any one of the limits in the paragraph below.
+
+Condition B
+
+Where the pension scheme is not an occupational pension scheme no arrangement under the pension scheme together with any associated persons, may hold directly or indirectly an interest in the vehicle that exceeds any one of the limits in the paragraph below.
+
+​The limits referred to in conditions A and B above are:
+
+- 10% or more of the share capital or issued share capital of the vehicle
+
+- 10% or more of the voting rights in the vehicle
+
+- a right to receive 10% or more of the income of the vehicle
+
+- such an interest in the vehicle as gives an entitlement to 10% or more of the amounts distributed on a distribution in relation to the vehicle
+
+- such an interest in the vehicle as gives an entitlement to 10% or more of the assets of the vehicle on a winding up or in any other circumstances
+
+- such an interest in the vehicle as gives rise to income and gains derived from a specific property.
+
+These limits apply to indirect holdings of a vehicle as well. So, if a pension scheme holds 50% of company A which in turn owns 15% of company B then the pension schemes interest in company B will be 7.5%. The indirect holding in company B will therefore be less than 10%.
+
+Pension Schemes which are not occupational schemes
+
+A pension scheme which is not an occupational pension scheme may have holdings in a vehicle through one or more arrangements for members that are not associated persons. In these circumstances the tests of whether 10% or more of the vehicle is owned will apply separately for each arrangement. For the avoidance of doubt, where the same member has more than one arrangement they must be considered jointly.
+
+Example
+
+A non-occupational pension scheme arrangement A owns 50% of a company and arrangement B owns 5% of the same company and the company owns a residential property. Arrangement A and arrangement B relate to members who are not the same person and are not connected with each other. Arrangement A will be treated as having an indirect holding in the residential property and as the limit is exceeded the appropriate tax charges will apply, see ‘Tax charges that apply’ below. Arrangement B will not be treated as having an indirect holding in the property.
+
+Increases in holding by a pension scheme
+
+If the holding of a pension scheme increases without the pension scheme acquiring a further holding in the vehicle this is not taken into account for the purposes of the 10% test unless it is part of a scheme or arrangement to enable a lower unauthorised payment to be charged. Therefore, if a scheme owns 8% of an open ended vehicle and this is increased to 15% because others decrease their holdings this increase will not be taken into account unless it is done as a deliberate device to avoid the unauthorised payments charge.
+
+Apportioning value to a member
+
+The percentage by value represented by a member of a pension scheme is AM/AA x 100.
+
+AM is an amount equal to the aggregate of the amount of the sums and the market value of the assets held for the purposes of an arrangement under the pension scheme relating to the member.
+
+AA is an amount equal to the aggregate of the amount of the sums and the market value of the assets held for the purposes of the scheme.
+
+Meaning of ‘associated person’
+
+See above for UK REITs.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#Top)
+
+Indirect holdings not subject to tax charges: trading concerns
+
+These are vehicles that are arm’s length trading vehicles. There are four conditions to be met:
+
+- the vehicles main activity is the carrying on of a trade, profession or vocation
+
+- the pension scheme either alone or together with associated persons does not have control of the vehicle
+
+- neither a pension scheme member nor a person connected to such a member is a controlling director of the vehicle or any other vehicle which holds an interest in the vehicle directly or indirectly
+
+- the pension scheme does not directly or indirectly hold an interest in the vehicle for the purposes of enabling a pension scheme member or a connected person of such a member to occupy or use the property.
+
+‘Control’ has the meaning given by section 450 Corporation Tax Act 2010. Read references in that section to a company as references to the vehicle and associates as including associated persons. ‘Controlling director’ means a director to whom sections 452(1) and (2) Corporation Tax Act 2010 apply broadly to 20% controlling directors. In that section read the reference to associates as including associated persons.
+
+This enables pension schemes to invest commercially in trading concerns without worrying about tangible moveable property that is being used by the company for its trade.
+
+Meaning of ‘associated person’
+
+See above for UK REITs.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#Top)
+
+Indirect holdings of tangible moveable property that is not taxable property
+
+Certain tangible moveable property (see PTM125100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125100)) that is specified in regulations will not be taxable property so will not be subject to tax charges when held as a scheme investment by an investment-regulated pension scheme. Indirect holding of tangible moveable property that meets the following conditions will not be taxable property.
+
+The market value of the asset must not be greater than £6,000.
+
+The interest in the asset is held indirectly by the investment-regulated pension scheme.
+
+The asset is held solely for the purposes of the administration or management of the vehicle that holds it directly.
+
+Neither a scheme member, nor anyone connected to a scheme member occupies or has use of, or has any right to occupy or use, the asset.
+
+This provision prevents any taxable property tax charges arising in respect of low value assets that are used in the normal operation of the vehicle’s business. Examples of assets included are small items of plant and machinery and office equipment.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#Top)
+
+What are the occasions of charge?
+
+Unauthorised payment charge
+
+There are various times when an unauthorised payment will be treated as made. These are:
+
+- acquiring taxable property indirectly
+
+- increasing interest in indirect holding
+
+- improvement etc of taxable property held indirectly
+
+- vehicle increases holding of taxable property.
+
+See PTM134000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134000) for further details of all these charges.
+
+An unauthorised payment will arise:
+
+- when an investment-regulated pension scheme first acquires an interest in a vehicle that holds taxable property either directly or indirectly. This is designed to remove the tax relief granted on those funds when they are invested indirectly in taxable property
+
+- when an investment-regulated pension scheme acquires an additional interest in a vehicle that holds taxable property either directly or indirectly
+
+- when an investment-regulated pension scheme holds an interest in a vehicle that holds taxable property either directly or indirectly and that property is improved, converted or adapted, or
+
+- when an investment-regulated pension scheme holds an interest in a vehicle that holds taxable property either directly or indirectly and that vehicle acquires further interests in taxable property either directly or indirectly - for example, the vehicle acquires another taxable property itself.
+
+If an investment-regulated pension scheme holds an interest in a vehicle that holds an interest in property either directly or indirectly which is not taxable property, and this then becomes taxable property without any conversion or adaptation works it is treated as the acquisition of an indirect interest in taxable property by the investment-regulated pension scheme. This may happen, for example, if the pension scheme holds shares in a company that owns residential property that is let out to a person who is required to occupy it as a condition of his employment. If the property is subsequently let out to a person who is not in that position it will be deemed to have been acquired at that point and an unauthorised payments charge will arise.
+
+Scheme Sanction Charge
+
+A scheme sanction charge (see PTM121000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm121000)) will arise when:
+
+- an investment-regulated pension scheme receives income or is deemed to receive income from an indirect investment in taxable property
+
+- an investment-regulated pension scheme disposes of one or more assets consisting of interests in vehicles that hold taxable property that give rise to chargeable gains, or
+
+- an investment-regulated pension scheme holds an indirect interest in taxable property via a vehicle and that vehicle disposes of one or more assets consisting of interests in taxable property that give rise to chargeable gains
+
+- for more information on the scheme sanction charge see PTM135000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm135000).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#Top)
+
+Tax charges that apply
+
+If a pension scheme acquires an indirect holding in taxable property this creates an unauthorised payment charge on the member for whose arrangement the property relates. So, the member is subject to the unauthorised member payments charge at 40% on the relevant unauthorised payment value. The scheme administrator is liable to the scheme sanction charge, generally an amount of 15% of the value. If certain limits are exceeded the member may also be subject to the unauthorised payments surcharge at 15%. See PTM130000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm130000) for further details of all these charges.
+
+Income or deemed income received in relation to the asset is charged to the scheme sanction charge so the scheme administrator is liable to the scheme sanction charge at 40%.
+
+Capital gains on the disposal of assets are charged to the scheme sanction charge so the scheme administrator is liable to the scheme sanction charge at 40%.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#Top)
+
+Amount and timing of charges on acquisition/improvement/conversion
+
+An unauthorised payment charge arises when an investment-regulated pension scheme uses tax relieved funds to acquire, improve, convert or adapt taxable property and creates one or more unauthorised payments to a member. The amount and timing of the unauthorised payment is set out in the following paragraphs.
+
+First acquisition of interest in vehicle
+
+The basic principles for direct holdings (see PTM125300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125300)) apply but modified where necessary to take into account that on an indirect interest only a part of the taxable property is held by the investment-regulated pension scheme.
+
+Where an investment-regulated pension scheme acquires an indirect interest in taxable property the unauthorised payment is treated as made when the indirect interest in the taxable property is acquired by the scheme.
+
+Unless the interest in the property is by way of a lease, the unauthorised payment is the market value of the interest in the property held by the person who holds it directly, as at the date the pension scheme directly or indirectly acquires an interest in that person.
+
+Where the interest in the property is by way of a lease, the unauthorised payment is the relevant rental value of the property, on the assumption that the lease was assigned to the person who holds it directly on the date the pension scheme directly or indirectly acquires an interest in that person.
+
+Example
+
+Present value of a 20-year lease at £5,000 rent increasing to £7,500 in year 6, £9,000 in year 11 and £12,500 in year 16. So, the lease has upwards-only increases to market rent at the end of every fifth year.
+
+NPV means - Net Present Value
+
+Year |  Annual rent |  Annual NPV |  Total NPV |
+
+1 |  £5,000 |  £4,831 |  - |
+
+2 |  £5,000 |  £4,668 |  £9,498 |
+
+3 |  £5,000 |  £4,510 |  £14,008 |
+
+4 |  £5,000 |  £4,357 |  £18,365 |
+
+5 |  £5,000 |  £4,210 |  £22,575 |
+
+6 |  £7,500 |  £6,101 |  £28,677 |
+
+7 |  £7,500 |  £5,895 |  £34,571 |
+
+8 |  £7,500 |  £5,696 |  £40,267 |
+
+9 |  £7,500 |  £5,503 |  £45,770 |
+
+10 |  £7,500 |  £5,317 |  £51,087 |
+
+11 |  £9,000 |  £6,165 |  £57,251 |
+
+12 |  £9,000 |  £5,956 |  £63,207 |
+
+13 |  £9,000 |  £5,755 |  £68,962 |
+
+14 |  £9,000 |  £5,560 |  £74,522 |
+
+15 |  £9,000 |  £5,372 |  £79,894 |
+
+16 |  £12,500 |  £7,209 |  £87,103 |
+
+17 |  £12,500 |  £6,965 |  £94,068 |
+
+18 |  £12,500 |  £6,730 |  £100,798 |
+
+19 |  £12,500 |  £6,502 |  £107,299 |
+
+20 |  £12,500 |  £6,282 |  £113,582 |
+
+Total rent: |  £170,000 |  NPV: |  £113,582 |
+
+The unauthorised payment is £113,582.
+
+If the pension scheme holds the interest in the taxable property through one vehicle and this vehicle is wholly owned by the pension scheme the unauthorised payment will be equal to the whole of the total taxable amount. Therefore, if the pension scheme acquires 100% of a company that holds a residential property worth £100,000 the unauthorised payment will be £100,000.
+
+If the pension scheme holds the taxable property indirectly through:
+
+- a chain of vehicles, comprising more than one vehicle, and each vehicle is wholly owned by another vehicle in the chain or by the pension scheme the unauthorised payment will be equal to the whole of the total taxable amount. Therefore, if the pension scheme acquires 100% of a company, which also owns 100% of another company that holds a residential property worth £100,000, the unauthorised payment will be £100,000
+
+- one vehicle, which it does not wholly own, the amount of the unauthorised payment will be less than the total taxable amount. The extent of the pension scheme’s interest in the vehicle determines the proportion of the total taxable amount that will comprise the amount of the unauthorised payment. Therefore, if the pension scheme acquires 50% of a company that holds a residential property worth £100,000 the amount of the unauthorised payment will be £50,000
+
+- a chain of vehicles, which are not wholly owned by either the pension scheme or other vehicles in the chain, the amount of the unauthorised payment will be less than the total taxable amount in relation to that payment. The unauthorised payment is a proportion of the total taxable amount in relation to that payment. The proportion is determined by reference to the extent of the interest held directly in each vehicle in the chain starting with the vehicle that holds the property directly and ending with the vehicle in which the pension scheme holds a direct interest. Therefore if the pension scheme acquires 50% of a company that holds 50% of another company that holds a residential property worth £100,000 the unauthorised payment is £25,000 (that is, £100,000 x 50% x 50%).
+
+A vehicle is wholly owned by a person if no other person directly owns an interest in it.
+
+The extent of a person’s interest held directly in a vehicle is worked out by reference to a just and reasonable apportionment of the interests of every person who has a direct interest. This is subject to the following paragraph where the vehicle is a company.
+
+The extent of a person’s interest in a company is determined by whichever of the following gives the person the greatest interest in the company:
+
+- the percentage of the share capital or issued share capital of the company owned by the person,
+
+- the percentage of the voting rights in the company owned by the person,
+
+- the percentage of all the income of the company to which the person has a right,
+
+- the percentage of the amounts distributed on a distribution in relation to the company to which the person has a right,
+
+- the percentage of the assets of the company to which the person has a right on a winding up or in any other circumstances,
+
+- where a person has a right to a percentage of a particular asset or description of assets of the company, or of the income or gains derived from such an asset or description (either generally or in particular circumstances), that percentage or the highest of all the percentages found under this paragraph.
+
+In the above paragraph a person is treated as owning or having a right to anything which the person will only acquire:
+
+- at some future date,
+
+- if the person exercises the right to acquire it, or
+
+- if some other uncertain future event occurs or does not occur.
+
+The extent of a person’s interest in a company as a result of lending money to it to fund the acquisition of taxable property is determined by the proportion that the value of the loan bears to the value of the whole company.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#Top)
+
+Additional acquisition of interest in vehicle
+
+The basic principles for direct holdings (see PTM125300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125300)) apply but modified where necessary to take into account that on an indirect interest only a part of the taxable property is held by the investment-regulated pension scheme.
+
+Where an investment-regulated pension scheme holds an interest in taxable property indirectly and there is an increase in the extent of the interest held directly in the vehicle by the pension scheme or another vehicle the pension scheme is treated as acquiring a further interest in the property. Therefore, if a pension scheme holds 50% of a company that owns a residential property worth £100,000 and acquires an additional shareholding of 30% so that it holds 80% of the company there will be a further unauthorised payment. This amount will be 30% of the holding in the property therefore an unauthorised payment of £30,000 will arise.
+
+But where there is an increase in the extent of the interest held directly in the vehicle without acquisition of a further interest the deemed acquisition in the previous paragraph does not apply unless the original acquisition of an interest in the property and the event giving rise to the increase in the interest held directly in the vehicle are part of a scheme or arrangement whose sole or main purpose is to reduce the unauthorised payment treated as arising on the original acquisition.
+
+Example
+
+A person has an interest in an open-ended investment company of 8% and, because other investors reduce their holdings in the company the interest rises to 40%. Unless this is part of a scheme to avoid an unauthorised payments charge this increase will not create an unauthorised payment.
+
+The rules on first acquisition above apply to determine the total amount of the payment.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#Top)
+
+Additional property and any improvement/conversion/adaptation
+
+The basic principles for direct holdings (see PTM125300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125300)) apply but modified where necessary to take into account that on an indirect interest only a part of the taxable property is held by the investment-regulated pension scheme.
+
+The rules on first acquisition apply to determine the total amount of the payment.
+
+The following examples demonstrate how this will apply. Examples 1 to 4 cover acquisition of additional property. Example 5 covers improvement to existing property.
+
+Example 1
+
+The pension scheme owns 100% of a company and that company acquires a residential property for £100,000. The unauthorised payment will be £100,000.
+
+Example 2
+
+The pension scheme owns 50% of a company and that company acquires a residential property for £100,000. The unauthorised payment will be £50,000.
+
+Example 3
+
+The pension scheme holds 100% of company A which in turn holds 50% of company B. Company B acquires a residential property for £100,000. The unauthorised payment will be £50,000.
+
+Example 4
+
+The pension scheme holds 50% of company A which in turn holds 50% of company B. Company B acquires a residential property for £100,000. The unauthorised payment will be £25,000.
+
+Example 5
+
+The pension scheme holds 50% of a company and that company incurs improvement expenditure on a residential property of £100,000. The unauthorised payment will be £50,000.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#Top)
+
+Amounts chargeable on income/deemed income
+
+The basic principles for direct holdings (see PTM125300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125300)) apply but modified where necessary to take into account that where there is an indirect interest only a part of the taxable property is held by the investment-regulated pension scheme.
+
+The amount of the scheme chargeable payment differs depending on whether the person who holds the interest in the property directly receives profits from the property during the tax year. If they do, the scheme chargeable payment is the greater of the annual profit from the property and the deemed income.
+
+Where the person who holds the property directly does not receive profits from the property, the scheme chargeable payment is the deemed income.
+
+When the pension scheme holds the interest in the taxable property indirectly for the whole of the period in the tax year for which the property is scheme-held taxable property the amount of the scheme chargeable payment may be reduced.
+
+If the holding of interests in vehicles in the tax year differs the average holding over the year is taken.
+
+Scheme-held taxable property is property that is taxable property an interest in which is held by an investment-regulated pension scheme.
+
+‘Annual profit’ and ‘deemed income’ are explained on the page for direct holdings, see PTM125300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125300).
+
+Where the vehicle that directly holds the property pays tax (whether in the UK or abroad) on the income, that tax will be allowed as a credit against the scheme sanction charge in proportion to the income that is charged.
+
+Example 1
+
+A pension scheme holds 100% of a company which holds a residential property for the entire tax year. The profits from the property are £10,000 and the deemed income is £8,000. The pension scheme is chargeable to a scheme sanction charge on £10,000.
+
+Example 2
+
+A pension scheme holds 100% of a company which holds a residential property for half of the tax year. The profits from the property are £5,000 and the deemed income is £4,000. The pension scheme is chargeable to a scheme sanction charge on £5,000.
+
+Example 3
+
+A pension scheme holds 50% of company A which holds 50% of company B. Company B holds a residential property for the entire tax year. The profits from the property are £10,000 and the deemed income is £8,000. The pension scheme is chargeable to a scheme sanction charge on £2,500 (that is, £10,000 x 50% x 50%).
+
+Example 4
+
+A pension scheme holds 100% of a company for the first 6 months of the tax year and then sells 50% of the company. The company holds a residential property for the entire tax year. The profits from the property are £10,000 and the deemed income is £8,000. The pension scheme is chargeable to a scheme sanction charge on £7,500 (that is, £10,000 x 6/12 x 100% plus £10,000 x 6/12 x 50%).
+
+Example 5
+
+A pension scheme holds 50% of company A which holds 50% of company B. Company B holds a residential property for the entire tax year. The profits from the property are £10,000 and the deemed income is £8,000. The pension scheme is chargeable to a scheme sanction charge on £2,500 (that is, £10,000 x 50% x 50%).
+
+Company B pays tax of £2,000 on the income. A credit for tax paid of £500 is allowed to be set against the tax due on the scheme sanction charge (that is, £2,000 x 50% x 50%).
+
+Example 6
+
+A pension scheme holds 100% of a company for the first 6 months in the tax year and then sells 50% of the company. The company holds a residential property for the entire tax year. The profits from the property are £10,000 and the deemed income is £8,000. The pension scheme is chargeable to a scheme sanction charge on £7,500 (that is, £10,000 x 6/12 x 100% plus £10,000 x 6/12 x 50%).
+
+The company pays tax of £2,000 on the income received. A credit for tax paid of £1,500 is allowed to be set against the tax due on the scheme sanction charge (that is, £2,000 x 6/12 x 100% plus £2,000 x 6/12 x 50%).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#Top)
+
+Amounts chargeable on gains
+
+The basic principles as for direct holdings (see PTM125300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125300)) apply but modified where necessary to take into account that on an indirect interest only a part of the taxable property is held by the investment-regulated pension scheme.
+
+If the property is held indirectly by the pension scheme a capital gain will arise if the vehicle that owns the property sells the asset or, alternatively, if the pension scheme reduces it’s holding in that vehicle.
+
+Example 1
+
+A pension scheme holds 100% of a company which holds a residential property. That company sells the residential property and therefore the pension scheme is deemed to have made a capital gain.
+
+Example 2
+
+A pension scheme holds 100% of a company which holds a residential property. The pension scheme sells 50% of its holding in the company. The pension scheme will be deemed to have made a capital gain.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125400#Top)
+
+Amounts chargeable on gains: How gains are calculated
+
+If an asset is held indirectly by a pension scheme and a capital gain arises the cost of the asset for the purpose of calculating the capital gain is taken to be the total amount of unauthorised payments that have been charged on that scheme in relation to the asset. There is subtracted from this amount any part of the amount of unauthorised payments that were previously used in a part disposal of the asset.
+
+The amount of the consideration for the chargeable gain differs depending on whether the asset is sold by the vehicle or whether the pension scheme’s interest in the vehicle is reduced.
+
+If the vehicle disposes of the asset the consideration for that disposal is the amount the vehicle received for the asset. However, if the asset was disposed of to a connected person or in a transaction that is not at arm’s length the consideration is the market value of the taxable asset.
+
+If the pension scheme reduces its holding in the vehicle the amount of the consideration is taken to be the market value of the taxable asset.
+
+In both circumstances the amount of the gain is determined by the holding the pension scheme has in the vehicle at that time.
+
+If any tax is paid on the disposal by the vehicle that disposes of the asset this is allowed to be set off against any tax charged on the capital gain as a scheme sanction charge. The amount allowed to be set off is the proportion of the tax paid that relates to the pension schemes holding in the vehicle. Therefore, if the pension scheme holds 50% of the vehicle 50% of the tax is allowed as a deduction.
+
+The following examples demonstrate how this will work.
+
+Example 1
+
+The pension scheme holds 100% of a company which in turn holds a residential property. The unauthorised payments related to that taxable property were £100,000. The vehicle disposes of the residential property to an unconnected person for £200,000. For the purposes of the capital gain the cost of the asset is taken to be £100,000 and the sale proceeds are taken to be £200,000.
+
+In this example if the company makes a part disposal of 50% of the asset then only 50% of the total unauthorised payments are allowed as the cost of the asset for calculating the capital gain.
+
+Example 2
+
+The pension scheme holds 100% of a company and the company owns a residential property. The unauthorised payments charged on the pension scheme in relation to the asset were £100,000. The pension scheme disposes of 50% of its shares in the company when the market value of the asset is £200,000.
+
+The cost of the asset for the purposes of the capital gains computation is taken to be 50% of the unauthorised payments charged, that is, £50,000. The sale proceeds are deemed to be 50% of the market value of the property, that is, £100,000.
+
+Example 3
+
+The company in example 2 subsequently disposes of its holding in the property for £250,000. The amount of unauthorised payments charged in relation to the asset was £100,000. However, £50,000 was used in the previous capital gain and therefore only £50,000 is available to set against this gain.
+
+When the company disposed of the property the pension scheme held 50% of that company. Therefore, the consideration for the disposal is deemed to be 50% of the actual sale proceeds.
+
+The capital gain is therefore based on a deemed sale proceeds of £125,000 and costs of £50,000.

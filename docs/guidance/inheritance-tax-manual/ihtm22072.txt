@@ -1,0 +1,36 @@
+Tax burden on death: gifts free of tax
+Identifier: IHTM22072
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22072
+Published: 2016-04-09T09:36:06+01:00
+Updated: 2022-01-27T12:32:00+00:00
+Retrieved (UTC): 2026-09-18T15:00:45.967587+00:00
+
+Where on the earlier death your deceased took specific gifts, such as a pecuniary legacy (IHTM12082 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12082)) or a specific asset, free of tax, you can ignore the tax on it in calculating the increase to your deceased’s estate. Assuming the earlier estate was big enough to pay the specific gifts in full and the tax on them out of residue, the increase in your deceased’s estate is
+
+- the nominal amount of the legacy, or
+
+- the value of the specific asset as included in the earlier deceased’s estate.
+
+If the value of the benefit received from the earlier estate was reduced directly or indirectly by business relief (IHTM25131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25131)) or agricultural relief (IHTM24001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24001)) the increase is based on the value after the reduction by the relief.
+
+Example
+
+Teresa died in January 2009. By Will she left
+
+- various legacies and gifts of specific assets to chargeable beneficiaries, all free of tax, and
+
+- the residue to her spouse.
+
+There was no business or agricultural relief. The grossed-up value (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121)) of all the chargeable specific gifts was £450,000. The tax is £55,200, all paid.
+
+One of the tax-free legacies was £4,000 to Bethany.
+
+Bethany dies in July 2010. The quick succession relief calculation is:
+
+(£4,000 ÷ £450,000) x £55,200 x 80% = £393
+
+For this calculation you do not need to know either
+
+- the grossed up value of the £4,000 legacy, or
+
+- the amount of the exempt transfer on Teresa’s death.

@@ -1,0 +1,140 @@
+Car benefit: special cases: employees with frequent changes of car (from 2009 to 2010): benefit charge of notional car: example
+Identifier: EIM23870
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23870
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-02-24T10:55:29+00:00
+Retrieved (UTC): 2026-09-18T14:20:40.545039+00:00
+
+This page gives an example of Steps 1 to 5 of the process described at EIM23825 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23825). Daily rental businesses should adapt it to the slightly different rules which apply to them.
+
+Example
+
+Tax year 2009 to 2010
+
+Steps 1 and 2
+
+A non-rental business has 8 cars to be averaged for 2009 to 2010, spread between 5 models.
+
+Model and car number |  List price of particular variant (£) |  Accessories (£) |  Averaging price (£) |  CO2 emissions |  Fuel |  HMRC group |
+
+A1 |  9,995 |  755 |  10,750 |  109 |  diesel |  2 |
+
+A2 |  10,995 |  905 |  11,900 |  145 |  petrol |  2 |
+
+A3 |  11,995 |  1,105 |  13,100 |  124 |  diesel |  3 |
+
+B4 |  11,495 |  955 |  12,450 |  159 |  petrol |  3 |
+
+B5 |  13,995 |  1,255 |  15,250 |  124 |  diesel |  3 |
+
+C6 |  18,995 |  2,005 |  21,000 |  187 |  petrol |  4 |
+
+D7 |  19,995 |  2,505 |  22,500 |  164 |  hybrid |  4 |
+
+E8 |  21,995 |  2,005 |  24,000 |  223 |  petrol |  5 |
+
+Step 3: average price calculation
+
+The average price calculation is ‘total of list price of cars in the group ÷ number of cars in group’.
+
+HMRC group |  Total list price (£) |  Number of cars in group |  Average price (£) |
+
+2 |  22,650 |  2 |  11,325 |
+
+3 |  40,800 |  3 |  13,600 |
+
+4 |  43,500 |  2 |  21,750 |
+
+5 |  24,000 |  1 |  24,000 |
+
+Step 4: average CO2 emissions and appropriate percentage calculation
+
+This is calculated as follows.
+
+HMRC group 2
+
+Item |  Amount |
+
+Car A1 CO2 emissions |  109 |
+
+Car A2 CO2 emissions |  145 |
+
+Diesel adjustment |  15 |
+
+Total emissions |  269 |
+
+Divided by number of cars in group |  2 |
+
+Average CO2 emissions |  134 |
+
+Appropriate percentage |  15% |
+
+HMRC group 3
+
+Item |  Amount |
+
+Car A3 CO2 emissions |  124 |
+
+Car B4 CO2 emissions |  159 |
+
+Car B5 CO2 emissions |  124 |
+
+Diesel adjustment |  30 |
+
+Total emissions |  437 |
+
+Divided by number of cars in group |  3 |
+
+Average CO2 emissions |  145 |
+
+Appropriate percentage |  17% |
+
+HMRC group 4
+
+Item |  Amount |
+
+Car C6 CO2 emissions |  187 |
+
+Car D7 CO2 emissions |  164 |
+
+Hybrid adjustment |  - 15 |
+
+Total emissions |  336 |
+
+Divided by number of cars in group |  2 |
+
+Average CO2 emissions |  168 |
+
+Appropriate percentage |  21% |
+
+HMRC group 5
+
+Item |  Amount |
+
+Car E8 CO2 emissions |  223 |
+
+Total emissions |  223 |
+
+Divided by number of cars in group |  1 |
+
+Average CO2 emissions |  223 |
+
+Appropriate percentage |  32% |
+
+Step 5: car benefit charge
+
+The calculation for each group is ‘average price × appropriate percentage = car benefit charge’.
+
+HMRC group |  2 |  3 |  4 |  5 |
+
+Average price (£) |  11,325 |  13,600 |  21,780 |  24,000 |
+
+Appropriate percentage |  15% |  17% |  21% |  32% |
+
+Car benefit charge (£) |  1,698 |  2,312 |  4,567 |  7,680 |
+
+Tax years 2008 to 2009 and earlier
+
+This guidance applies only for 2009 to 2010 and later years.
+
+Local arrangements applied for years to 2008 to 2009 as described at EIM23750 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23750) onwards.

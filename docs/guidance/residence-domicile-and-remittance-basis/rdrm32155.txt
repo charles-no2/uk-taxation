@@ -1,0 +1,28 @@
+Remittance bais: Accessing the remittance basis: Effect of Double Taxation Agreements on amounts charged: Treaty exempt income
+Identifier: RDRM32155
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32155
+Published: 2022-03-22T07:01:36+00:00
+Updated: 2022-03-22T06:57:44+00:00
+Retrieved (UTC): 2026-09-18T16:19:01.055493+00:00
+
+It is possible for a UK resident individual to have income from abroad that is, under the terms of a double taxation agreement (DTA), taxable only in the country in which the income arose and so is ‘exempt’ form UK tax. Where this applies, under the treaty ‘exempt’ income is excluded from all UK tax calculations.
+
+Where an individual has income from another country that is ‘treaty exempt’ and elects to pay tax on the remittance basis, amounts may be remitted to the UK up to the value of the treaty exempt amount without liability to UK tax.
+
+Note 1: Each case must be considered on its merits and the treatment of particular amounts will depend on the precise terms of the relevant DTA.
+
+Note 2: ‘Treaty exempt’ income of an individual does not count towards the ‘less than £2,000 unremitted income and gains’ calculation - see RDRM32100 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32100) onwards.
+
+Mixed funds
+
+It is important to note that where a taxpayer makes remittances from an uncleansed ‘mixed fund’, the statutory ordering rules apply (see RDRM35200 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35200)). It is possible under these rules, the taxpayer may be deemed to have remitted other amounts of foreign income and gains in prioity to the treaty exempt amount, (see RDRM35200 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35200) onwards for information about identifying amounts remitted from a mixed fund).
+
+Example
+
+Christoph is a Swiss national who is resident in the UK, but non-domiciled here. He chooses to pay tax on the remittance basis. For most of each year Christoph works in London for a UK company, but for two months of the year he works in the Middle East, for which he has a separate contract of employment. Cristoph also has a pension paid to him by the government of Switzerland that is, under the terms of the UK/Switzerland DTA taxable only in Switzerland.
+
+Christoph has a bank account in the Isle of Man into which all his income is paid; it is a mixed fund. Remittances are identified as having been made by Christoph,
+
+After applying the rules at s809Q(3) and (4) his UK salary is identifed first (s809Q(4)(a)). Christoph has paid tax on that salary under PAYE, and so he has no further liability to UK tax on money remitted to the UK from that mixed fund that is identified with his UK salary.
+
+However, if Christoph remits amounts greater than his UK salary then the ordering rules identify the next amounts as remitted from his salary from the Middle East, on which he has not paid any tax, and which is ‘relevant foreign earnings’ (s809Q(4)(b)). His pension paid by the Swiss government is ‘relevant foreign income’ (s809Q(4)(d) or (g)), and is treated by the mixed fund rules as having been remitted (and is then not chargeable to UK tax), only after his UK earnings and relevant foreign earnings have been remitted.

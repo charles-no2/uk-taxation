@@ -1,0 +1,50 @@
+Cryptoassets for individuals: Capital Gains Tax: pooling
+Identifier: CRYPTO22200
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22200
+Published: 2021-03-30T09:03:13+01:00
+Updated: 2025-11-17T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T16:18:33.926207+00:00
+
+Pooling under TCGA92/S104 allows for simpler Capital Gains Tax calculations. Pooling applies to shares and securities of companies and also ‘any other assets where they are of a nature to be dealt in without identifying the particular assets disposed of or acquired’.
+
+Where the nature of the tokens means they are dealt in without identifying the particular tokens being disposed of or acquired then the tokens should be pooled as per TCGA92/S104(3)(ii) (CG51550P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51550p)). This is commonly referred to as a ‘section 104 pool’. If TCGA92/S104(3)(ii) applies then the beneficial owner of the tokens will have a single pooled asset for Capital Gains Tax purposes that will increase or decrease with each acquisition, part disposal or disposal.
+
+Non-Fungible Tokens (NFTs) are separately identifiable and so are not pooled and no matching rules are applied.
+
+Each type of token will need its own pool. For example, if a person owns bitcoin, ether and litecoin they would have three pools and each one would have its own ‘pooled allowable cost’ associated with it. This pooled allowable cost changes as more tokens of that particular type are acquired and disposed of.
+
+Individuals must still keep a record of the amount spent on each type of token, as well as the pooled allowable cost of each pool.
+
+Same day rule
+
+TCGA1992/S105
+
+Where an individual makes acquisitions and disposals of a particular type of tokens on the same day then the same day rules ensure that the maximum number of CGT computations the individual will need to produce for that token type is one per calendar day.
+
+When tokens of the same type are acquired and disposed of by the same individual on the same day and in the same capacity then:
+
+- all the tokens acquired shall be treated as acquired in a single transaction
+
+- all the tokens disposed of shall be treated as disposed of in a single transaction
+
+The tokens acquired will, as far as possible, be matched with the tokens disposed of so that those tokens don’t go into the section 104 pool:
+
+- if the quantity of tokens acquired exceeds the number disposed of then the excess tokens will then be considered for the 30 day rule (covered below) and if that doesn’t apply then they will go into the section 104 pool
+
+- if the quantity of tokens disposed of exceeds the number acquired then the excess tokens will then be considered for the 30 day rule (covered below) and if that doesn’t apply then they will be treated as a disposal from the section 104 pool.
+
+Acquiring tokens within 30 days of selling
+
+TCGA1992/S106A
+
+If an individual disposes of tokens and then acquires, in the same capacity, tokens of the same type within the next 30 days then:
+
+- the same day rule (covered above) is applied first if applicable
+
+- the tokens acquired to which the 30 day rule applies don’t go into the section 104 pool but instead are matched to the earlier disposal (or disposals) of tokens
+
+- the tokens acquired to which the 30 day rule applies are matched to disposals on the basis of earliest disposal first
+
+- if the quantity of tokens so acquired exceeds the number of tokens disposed of in the preceding 30 days then the excess tokens will go into the section 104 pool.
+
+Further guidance on these rules is at CG51560 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51560).

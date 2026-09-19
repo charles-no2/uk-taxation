@@ -1,0 +1,24 @@
+Class 1A National Insurance contributions: Calculating Class  1A NICs: Importance of the P11D to the calculation of Class 1A NICs
+Identifier: NIM15002
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim15002
+Published: 2016-04-11T17:30:07+01:00
+Updated: 2022-05-11T10:54:29+01:00
+Retrieved (UTC): 2026-09-18T15:15:32.798813+00:00
+
+Section 10 of the Social Security Contributions and Benefits Act 1992 (SSCBA 1992)
+
+Class 1A NICs are calculated as a percentage of the cash equivalent of a benefit calculated for tax purposes, see NIM15001 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim15001). The cash equivalent figure used is the same figure which employers are required to report on forms P11D - Return of Expenses and Benefits.
+
+The P11D is therefore an integral part of the method used to calculate the amount of an employer’s Class 1A NICs liability. As a result, the P11D is designed to assist employers to
+
+- identify benefits that attract Class 1A NICs liability; and
+
+- calculate the amount of that liability.
+
+This has been achieved by inserting a Class 1A NICs brown indicator box on the P11D next to each benefit on which Class 1A NICs is due. Only those benefits which have a Class 1A NICs indicator should be included in any Class 1A NICs calculation, but see NIM15005 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim15005) where benefits may not be reported in the correct P11D box.
+
+As the amount of Class 1A NICs due is calculated using information recorded on form P11D, it is important that employers complete these forms correctly. Entering a benefit in the wrong P11D box or calculating the cash equivalent figure incorrectly, can adversely affect the Class 1A NICs calculation, resulting in the employer over or underpaying Class 1A NICs liability.
+
+If, for any reason, an employer is unable to report a specific benefit in the appropriate P11D box, or he reports the benefit in a box which has no corresponding Class 1A NICs indicator, he can use the adjustment facility on the reverse of form P11D(b), ‘Return of Class 1A NICs’, to ensure that his Class 1A NICs calculation is correct.
+
+NIM15300 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim15300) provides further information on using the P11D(b) adjustment facility.

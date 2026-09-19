@@ -1,0 +1,30 @@
+Exceptions where the exemption does not apply: acquisition of a reversion
+Identifier: IHTM11095
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11095
+Published: 2016-03-20T09:32:59+00:00
+Updated: 2016-02-11T16:59:58+00:00
+Retrieved (UTC): 2026-09-18T14:56:02.993756+00:00
+
+There are two special rules when a person
+
+- with an interest, whether in possession (IHTM16062 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16062)) or not (IHTM42222 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42222)), in any settled property (IHTM16000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16000))
+
+- acquires a reversionary interest (IHTM16231 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16231)), whether immediately or not, expectant on that prior interest
+
+The rules are
+
+- the reversion is not part of the acquirer’s estate (IHTM04029 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04029)) for IHT purposes (so that any consideration given for the acquisition of the reversion reduces the acquirer’s estate) (IHTA84/S55 (1)), and
+
+- spouse or civil partner (IHTM11032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11032)) exemption does not apply to any property given by the acquirer in consideration for the reversion (IHTA84/S56 (1)).
+
+IHTA84/S56 (1) is designed to prevent misuse of spouse or civil partner exemption to avoid a charge under IHTA84/S55 (1).
+
+Example
+
+Andy wishes to make a gift of £100,000 to Ben. The first step is for Andy to settle £100,000 on himself for a short time with remainder to Ben.
+
+Andy cannot make a tax-free gift to Ben by simply buying Ben’s reversion even for its full value. Under IHTA84/S55 (1) and IHTA84/S55 (2), IHTA84/S10 (1) is prevented from applying and the sum Andy pays Ben for the reversion is treated as a gift from Andy to Ben.
+
+Without any provision to the contrary it would be possible to bypass IHTA84/S55 by exploiting spouse or civil partner exemption. Ben would sell the reversion to Andy’s wife, Cathy, who in turn would sell it to Andy. The payment by Andy to Cathy would be an exempt transfer (the reversion he purchased would not be part of his IHT estate but the payment would be an exempt transfer under IHTA84/S18). So the combined estates of husband and wife would have been diminished, and Ben would have received the benefit, without any IHT charge. IHTA84/S56 (1) prevents a scheme of this nature by denying IHTA84/S18 exemption for the payment by Andy to Cathy. That payment is a Potentially Exempt Transfer (PET) (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)).
+
+IHTA84/S56 (1) does not apply to a transfer so far as it is a loan (IHTM11042 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11042)) or a disposition allowing another person the use of property.

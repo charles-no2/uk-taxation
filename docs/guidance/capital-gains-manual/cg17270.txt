@@ -1,0 +1,28 @@
+Indexation: from 6/4/88 indexation formula
+Identifier: CG17270
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17270
+Published: 2016-03-12T10:16:44+00:00
+Updated: 2023-04-11T12:28:54+01:00
+Retrieved (UTC): 2026-09-18T14:38:23.080757+00:00
+
+TCGA92/S54 (1), TCGA92/S54 (1A)
+
+The indexation allowance is defined in TCGA92/S54 (1) as the aggregate of the indexed rise in each item of allowable expenditure. This is expressed by this formula:
+
+- (RD minus RI) divided by RI
+
+The figure resulting from this formula is know as the indexation factor.
+
+TCGA92/S54(1A)
+
+For disposals made by companies within the charge to Corporation Tax before 1 January 2018 and for disposals made before 6 April 1998 by other persons, RD is the Retail Prices Index [`RPI’] for the month in which the disposal occurs. For disposals of assets (held prior to 1 January 2018) made by companies within the charge to Corporation Tax on or after 1 January 2018 it is the RPI for December 2017. For disposals made by other persons on or after 6 April 1998 it is the RPI for April 1998.
+
+TCGA92/S54(1A) was repealed with effect to the computation of gains chargeable to CGT on disposals made on or after 6 April 2008.
+
+RI is the Retail Prices Index [`RPI’] for March 1982 or the month in which the expenditure was incurred, see CG17251, whichever is the later.
+
+The date on which expenditure was incurred determines the month from which indexation commences. Thus, for expenditure incurred on 17 June 1994, RI will be the RPI for June 1994. Similarly, if the expenditure was incurred on 17 June 1981, RI will be the RPI for March 1982.
+
+For assets other than shares and securities, it is permissible to group items of RAE incurred within the same month on the same asset for the purpose of computing an indexation allowance.
+
+Where items of RAE are incurred before 1 April 1982, these may be aggregated in calculating the indexation allowance and RI will be the index for March 1982, in all cases. Such aggregated amounts may be regarded as a single item of RAE for the purpose of these instructions.

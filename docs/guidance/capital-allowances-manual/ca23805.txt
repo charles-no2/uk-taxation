@@ -1,0 +1,74 @@
+PMA: Long funding leases: background, outline, commencement and electing in
+Identifier: CA23805
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23805
+Published: 2016-04-16T08:49:53+01:00
+Updated: 2016-04-06T16:53:43+01:00
+Retrieved (UTC): 2026-09-18T16:20:51.401424+00:00
+
+Background
+
+Legislation in FA06 corrects a long-standing distortion in the tax system which meant that those who acquired assets under certain kinds of leases were treated differently from those who financed their acquisitions with debt.
+
+A person who leases an asset (a lessee) has the use of it and may be responsible for its repair and maintenance. Its legal owner, however, is the person that leases the asset to the lessee (the lessor). Before FA06, this meant that it was the lessor and not the lessee that could satisfy the ownership condition and claim PMA. This contrasted with the tax treatment where a person borrows money and uses it to buy an asset rather than leasing it; in those circumstances, that person is the owner of the asset and can claim PMA. The two transactions are commercially very similar and yet the tax treatments are very different.
+
+Two types of leases are recognised for accounting purposes: finance leases and operating leases. Finance leases are typically leases for most or all of an asset’s useful life and in commercial terms are equivalent to a loan. Operating leases are usually the simple hire of an asset for a short part of its useful life. The FA06 legislation applies to finance leases and some operating leases.
+
+The long funding lease legislation is in CAA01/S70A to 70YJ. The legislation allows the lessee under a long funding lease, rather than the lessor, to claim PMA. It does not let all lessees claim PMA - only lessees under a long funding lease where the lessor is not claiming capital allowances.
+
+Outline
+
+This is a broad outline of the long funding lease legislation.
+
+The long funding lease legislation allows the lessee under a long funding lease to claim capital allowances on a leased asset rather than the lessor provided that certain conditions are satisfied.
+
+The legislation defines a long funding lease CA23830 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23830). A funding lease is a lease which is essentially a financing transaction. A long funding lease is a funding lease that is not a short lease.
+
+When a lessor leases out an asset under a lease that they treat as a long funding lease in their accounts they have to bring a disposal value to account if they have previously treated the expenditure on the provision of the asset as qualifying expenditure CA23220 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23220). Where this happens and the lessee treats the lease as a long funding lease in their accounts the lessee is treated as the owner of the asset and as incurring capital expenditure on its provision. This lets the lessee satisfy the conditions for claiming PMA.
+
+If the lessor is entitled to claim capital allowances when the lease begins the lessee may not claim capital allowances. This may happen, for example, if the lessor does not treat the lease as a long funding lease even though the lessee does.
+
+If there is a chain of funding leases the only person that can claim PMA is the long funding lessee lowest in the chain CA23820 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23820). If the lessor treats the lease as a long funding lease but the lessee does not neither of them will be entitled to capital allowances because the lessor will have to bring a disposal value to account but the lessee will not have any qualifying expenditure.
+
+Where a lessee has been treated as the owner of an asset leased under a long funding lease there is a disposal event when the lease comes to an end CA23825 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23825). The disposal value depends upon whether the lessee has treated the lease as an operating lease or a finance lease.
+
+The PMA legislation applies to a lessee under a long funding lease in the normal way with one exception. Normally a person only has to bring one disposal value to account in respect of an asset even if there is more than one disposal event CA23240 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240). This rule does not apply to a lessee under a long funding operating lease.
+
+Commencement
+
+The long funding lease legislation applies if:
+
+- a lease is finalised on or after 1 April 2006, or
+
+- the commencement of the term of a lease is on or after 1 April 2006.
+
+- and the lease is not an excepted lease CA23855 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23855).
+
+It also applies in these two situations:
+
+- Where the commencement of the term of a lease was before 1 April 2006 but the asset is brought into use by the lessee after that date.
+
+- For a lessor where the lessor has elected into the new regime.
+
+There is one exception to the commencement rules. The long funding lease legislation does not apply where a lease was finalised before 21 July 2005 and the lessor was within the charge to tax on 17 May 2006. This means that for a lease finalised before 21 July 2005 at a time when the lessor was outside the charge to tax the long funding lease legislation will apply if the lessor comes within the charge to tax after 16 May 2006.
+
+For times before 16 May 2006 there is no requirement that the lessor is within the charge to tax. This means that if a lease was finalised before 21 July 2005 and the lessor comes within the charge to tax before 16 May 2006 the long funding lease legislation does not apply whether or not the lessor was outside the charge to tax on 21 July 2005.
+
+Electing into new regime
+
+A lessor outside the long funding lease legislation may want to get into it. The Treasury will make regulations to let lessors outside the funding lease provisions opt into it.
+
+A lessor may elect for a lease finalised after 1 April 2006 that is outside the long funding lease legislation to be treated as a long funding lease.
+
+If a lessor makes an election leases of plant and machinery that are not long funding leases will be taxed as though they are long funding leases. The lessee’s tax position is not affected.
+
+Some leases are excluded. A lessor may not elect into the long funding lease regime in respect of:
+
+- leases of cars,
+
+- leases where the value of the lease exceeds £10m,
+
+- assets that are not new unless they were previously leased under a long funding lease.
+
+The election must cover all of a lessor’s leases that are not excluded. An election must be made by notice given to an officer of HMRC no later than the normal time limit for amending the tax return for the tax year (for income tax) or chargeable period (for corporation tax) in which the first qualifying lease was finalised. The election must cover all of a lessor’s leases that are not excluded.
+
+The election is irrevocable.

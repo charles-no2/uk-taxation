@@ -1,0 +1,38 @@
+Assessing: COMPASS: making amendments: Non Instalment Option (NIOP) assets and liabilities
+Identifier: IHTM31132
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31132
+Published: 2016-04-09T10:02:57+01:00
+Updated: 2016-02-11T17:15:40+00:00
+Retrieved (UTC): 2026-09-18T15:05:50.492167+00:00
+
+Assets
+
+Once you have selected the property category (IHTM31131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31131)), you will arrive at the assets screen. This shows a list of the assets (and their values) recorded under that Entry and the type of property, such as Free Estate, Standard.
+
+You can also access the assets and liabilities entered for an estate from the case outline window (by selecting the branch-diagram icon). To change an asset, select it from the list and select the appropriate option to update, delete, or add an asset. This will bring you to the update screen for that asset. Make the changes and select ‘OK’ to take you back to the case outline screen.
+
+Amend
+
+To amend an existing asset, highlight the record on the list and select the Update’ button.
+
+If you want to increase or decrease the value of the existing asset, enter the difference in the left-hand box and select the + or - button.
+
+If you want to replace the original figure, enter the new figure in the left-hand box and select the = button.
+
+If you have an open ERS enquiry (IHTM29012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm29012)), you must select whether you want the adjustment to be recorded on ERS (IHTM29107) before you can save and exit the record by selecting the ‘OK’ button.
+
+Delete
+
+If you want to delete a record, highlight it in the list and select the Delete button.
+
+New asset
+
+Select the ‘Add’ button and select the asset type from the list. You do not have the option of naming the asset individually and it must fit into one of the standard asset groups, as shown on the IHT400.
+
+Liabilities
+
+Select the ‘liabilities’ button to go to the liabilities screen.
+
+From this screen you can amend, delete and add new records as for assets using the drop down menu from the description box.
+
+There is a separate record for funeral and associated expenses below the list of other liabilities.

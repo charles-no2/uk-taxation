@@ -1,0 +1,84 @@
+PMA: Long funding lease: definitions of derived lease and excluded lease
+Identifier: CA23835
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23835
+Published: 2016-04-16T08:50:08+01:00
+Updated: 2016-04-06T16:53:44+01:00
+Retrieved (UTC): 2026-09-18T16:20:52.372376+00:00
+
+CAA01/S70L, S70M, S70R - S70X
+
+Derived lease of plant and machinery
+
+Plant may be leased along with other assets. For example, an office block will be leased along with its lighting and wiring, its air conditioning and its lift.
+
+A mixed lease is a lease that relates to plant and machinery and other assets. The plant or machinery is called the relevant plant or machinery. A lease that relates to particular items of plant and machinery along with other plant or machinery is also a mixed lease. Again, the particular items of plant and machinery are called the relevant plant or machinery.
+
+A mixed lease is an eligible mixed lease if:
+
+- it would be treated as a lease under generally accepted accounting practice, or
+
+- the relevant plant and machinery is the subject of a sale and finance leaseback CA28500 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28500) and the mixed lease is, or includes, the finance lease in the sale and finance leaseback.
+
+Treat an agreement or arrangement that would be treated as a lease under generally accepted accounting practice immediately after the commencement of the term of the lease as a lease during the pre-commencement period. The pre-commencement period is the period from the inception of the lease to the commencement of the term of the lease.
+
+Where you have an eligible mixed lease, treat it as 2 separate leases, one of the relevant plant or machinery and one of the other assets. These notional separate leases are called derived leases.
+
+You apply the normal tests CA23830 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23830) to decide if a derived lease is a plant or machinery lease or a long funding lease.
+
+When you have a derived lease the normal rules apply to determine its term CA23850 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23850) but its term is limited to the remaining useful economic life of the relevant plant or machinery at the beginning of the term of the derived lease. So, for example, if the remaining useful economic life of the relevant plant or machinery at the beginning of the term of the derived lease is 20 years but the normal rules would make its term 35 years, its term is 20 years.
+
+Make a just apportionment to decide what part of the rentals payable under the mixed lease you should treat as payable under the derived lease (the deemed rentals). Normally you should treat the rentals under the derived lease as payable in equal instalments unless it would be reasonable to use a different treatment having regard to all the circumstances of the case.
+
+The circumstances you should take into accounts include:
+
+- the provisions of the eligible mixed lease,
+
+- the nature of the relevant plant or machinery, the value of the relevant plant or machinery at the beginning of the term of the derived lease,
+
+- the expected market value of the relevant plant or machinery at the end of the term of the derived lease,
+
+- the remaining useful economic life of the plant or machinery when the term of the derived lease begins, and
+
+- the term of the derived lease.
+
+Excluded leases of plant and machinery
+
+The lighting, wiring, central heating etc. in a building is usually leased along with the building. Where this happens the part of the lease that relates to such assets (the derived lease) is an excluded lease. This means that the long funding lease legislation does not apply. The legislation calls the assets background plant or machinery.
+
+When plant or machinery is:
+
+- affixed to or otherwise installed in land which includes a building,
+
+- background plant or machinery, and
+
+- leased with the land under a mixed lease,
+
+the derived lease of the plant or machinery is an excluded lease of background plant or machinery for a building.
+
+The background plant or machinery for a building is plant or machinery:
+
+- of a type that might reasonably be expected to be installed in various types of building, and
+
+- whose sole or main purpose is to make the building usable.
+
+For example, a 20 story office block would not be usable without a lift. So the lift in it is background plant or machinery.
+
+There are some exceptions to this. The legislation calls them disqualifications. The legislation excluding background plant or machinery does not apply in the two cases below:
+
+- The amounts payable under the mixed lease (that is, the lease of the building and the plant or machinery) or any other arrangements vary or may be varied by reference to the value to the lessor of the PMAs on the background plant or machinery.
+
+- The main purpose, or one of the main purposes, of the mixed lease is to stop the long funding lease legislation applying to the background plant or machinery so that the lessor gets PMA on it.
+
+The Treasury may make an Order describing the types of plant deemed to be background plant or machinery and the types of plant deemed not to be background plant or machinery.
+
+Plant or machinery leased with land: low percentage value
+
+This applies where plant and machinery which is not background plant and machinery is affixed to land and is leased with the land under a mixed lease.
+
+The derived lease of the plant and machinery is an excluded lease if the of aggregate market value of that plant or machinery and the market value of any other plant or machinery leased along with the land that is not background plant or machinery is less than:
+
+- 10% of the aggregate market value of all the background plant of machinery leased with the land, and
+
+- 5% of the market value of the land including buildings and fixtures.
+
+Ignore things like mortgages and leases when you determine the market value of the land.

@@ -1,0 +1,66 @@
+Separate settlements: variations: identity of settlor
+Identifier: CG37900
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37900
+Published: 2016-03-12T10:54:51+00:00
+Updated: 2020-02-21T15:17:26+00:00
+Retrieved (UTC): 2026-09-18T14:39:52.768730+00:00
+
+Where there is a variation of a trust of the kind described in CG37880 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37880)+ it is necessary to identify the settlor. If the conclusion taken is that there are no new settlements then for CGT purposes the identity of the settlor is unaffected. However if in effect interests in income have passed from one person to another, the former may well be the settlor of an arrangement for Income Tax purposes.
+
+If however one or more new settlements have come into existence, then the settlors of those settlements are one or more of the parties to the variation. The question should be tackled on a practical basis by determining where each beneficiary's share has gone. See CG37886 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37886) for cases involving a TCGA92/S62 (7) TCGA election.
+
+If there is a notice under S62(7) and the variation was effected after 5 April 2006 then S68C applies, see CG37886.
+
+Minor as settlor
+
+It is considered that where a court has given consent on behalf of a minor, that minor can be a settlor. The authority lies in Yates v Starkey, 32TC38, where it was held that a person could be a settlor under compulsion, and Mills v CIR, 49TC367, where it was held that a minor with very little involvement in the transactions could be the settlor because she provided the property.
+
+Example
+
+Under a settlement made by X, A and B are each entitled to half the income. On A's death his son P will get half absolutely. On B's death her daughter Q will get half absolutely. The values of their respective interests are, say:
+
+A's life interest
+
+|
+
+£60,000
+
+|
+
+P's remainder
+
+|
+
+£40,000
+
+|
+
+B's life interest
+
+|
+
+£75,000
+
+|
+
+Q's remainder
+
+|
+
+£25,000
+
+|
+
+Under the variation, executed when all the beneficiaries are adults, which is considered to terminate the old settlement:
+
+A takes 30 per cent of the property,
+
+20 per cent goes to a new accumulation and maintenance settlement for P's children,
+
+B takes 25 per cent of the property,
+
+the rest is held for Q for life with a remainder to Q's son R.
+
+P should be regarded as the settlor, for the purpose of the annual exempt amount, of the accumulation and maintenance settlement, because this is how his share has been dealt with.
+
+B and Q should be regarded as the settlors of the other settlement.

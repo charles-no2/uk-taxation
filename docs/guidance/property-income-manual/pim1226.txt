@@ -1,0 +1,118 @@
+Other sums treated like premiums: sale of property with right to lease back
+Identifier: PIM1226
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1226
+Published: 2016-04-10T16:23:41+01:00
+Updated: 2021-12-20T13:49:49+00:00
+Retrieved (UTC): 2026-09-18T14:27:56.832529+00:00
+
+A charge to tax may arise when a property is sold subject to terms that the purchaser is to grant a lease to the vendor, or to a person “connected” with the vendor. The sale of property with the right of reconveyance to the original vendor is dealt with at PIM1224 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1224).
+
+The legislation is in CTA09/S225 and ITTOIA05/S285. It is designed to counter attempts to avoid the charge on sale with a right to reconveyance by means of a sale with a right to lease back.
+
+The provisions apply when the terms of sale of a property provide for the grant of a lease, directly or indirectly out of the estate or interest sold, to the vendor or to a person connected with him. The meaning of “connected person” in CTA10/S1122 and ITA07/S993 apply.
+
+The Act is worded so as to treat the transaction like a sale with a right to reconveyance, as described in PIM1224 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1224).
+
+-
+
+The amount used instead of the reconveyance price is the sum of the premium for the grant of the lease, if any, and the value at the date of sale of the right to receive a conveyance of the reversion immediately after the lease begins to run.
+
+-
+
+The period used in the calculation is the period from the sale until the grant of the lease.
+
+You will need advice from the Valuation Office Agency should it become necessary to value the right to reconveyance. Please observe the guidance in PIM1232 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1232) about seeking Valuation Office Agency advice.
+
+There is no charge under CTA09/S225 or ITTOIA05/S285 if the lease is granted and begins to run within one month of the sale.
+
+Remember that the charge only applies if the terms of the sale include a right to a lease back. Such terms would have to be in writing. Paragraph 2 (1) of the Law of Property (Miscellaneous Provisions) Act 1989 states that A contract for the sale or other disposition of an interest in land can only be made in writing and only by incorporating the terms which the parties had expressly agreed in one document, or where contracts are exchanged, in each.
+
+There would be no charge if the purchaser of a property happened later to grant a lease to the original vendor. If you meet such a case, inspect the original sale agreement. The legislation in CTA09/S225 or ITTOIA05/S285 is aimed at preventing avoidance, and bona fide commercial transactions will not normally be caught.
+
+Amount Chargeable
+
+The amount chargeable is calculated using the formula in CTA09/S225 and ITTOIA05/S285:
+
+E x (50-Y)/50
+
+Where,
+
+E is the amount by which the price at which the estate or interest is sold exceeds the total of:
+
+-
+
+amount of any premium for the lease, and
+
+-
+
+the value on the date of the sale of the right to receive a conveyance of the reversion immediately after the lease begins to run,
+
+Y is the number of complete periods of 12 months (other than the first) comprised in the period beginning with the sale and ending with the earliest date on which under the terms of the sale the the lease would fall to be granted
+
+Example
+
+On 6 April 2013 Roberto completes the sale of a property to Mehrab for £500,000. The sale agreement provides that Roberto may exercise an option to lease the property anytime after 30 June 2018. On 31 July 2018, Mehrab grants Roberto a 10 year lease in return for a premium of £100,000 plus rent of £20,000/year. The VOA has valued the right to receive a conveyance of the reversion immediately after the lease begins to run at £200,000
+
+This meets the conditions for a charge under ITTOIA05/S285 (if Roberto were a company, it would meet the conditions of CTA09/S225). The amount chargeable on Roberto is calculated as follows:
+
+Step
+
+|
+
+Amount
+
+|
+
+Sale price of factory
+
+|
+
+£500,000
+
+|
+
+Less total of:
+
+Premium on lease, and
+
+Value on date of sale on right of reconveyance
+
+|
+
+(£100,000) + (£200,000) =
+
+(£300,000)
+
+|
+
+Excess
+
+|
+
+£200,000
+
+|
+
+Chargeable amount formula: E x (50-Y)/50
+
+|
+
+E = £200,000
+
+Y = 5 - 1 = 4
+
+£200,000 x (50-4)/50
+
+|
+
+Chargeable amount
+
+|
+
+= £184,000
+
+|
+
+Period between sale and leaseback is more than 50 years
+
+CTA09/S225 and ITTOIA05/S285 provides that the chargeable amount of the deemed premium is to be computed in the same way as the chargeable amount of a normal premium. That means that there is no charge if the period between sale and re-purchase is more than 50 years.

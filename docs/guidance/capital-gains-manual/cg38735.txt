@@ -1,0 +1,16 @@
+Years before 2008-09 - unmatched trustees’ gains
+Identifier: CG38735
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38735
+Published: 2016-03-12T10:57:46+00:00
+Updated: 2016-01-25T16:40:59+00:00
+Retrieved (UTC): 2026-09-18T14:47:33.254183+00:00
+
+FA08/Sch07/para120
+
+If a pool of trustees’ gains was carried forward into 2008-09 paragraph 120 Schedule 7 FA 08 explains how to reconstruct the section 2(2) amounts for the individual years. It does this in a series of steps.
+
+First calculate what the section 2(2) amount would be for the earlier year using the Capital Gains Tax rules for the earlier year, for example giving indexation allowance and taper relief. In practice if there are any gains for a year this calculation will already have been done.
+
+Second identify the total chargeable gains that have accrued to beneficiaries under section 87 in the years up to and including 2007-08. This includes gains that have not been charged to tax because of the non-UK residence or domicile status of the beneficiary. This figure is called the “total deemed capital gains”. Again in practice any section 87 gains that have already accrued will have been calculated because it will be necessary to keep a running total of the gains.
+
+Third allocate the total deemed capital gains to years in which there is a section 2(2) amount taking the earliest year first. You reduce the section 2(2) amount by the amount of the total deemed gains. If the total deemed gains are greater than the section 2(2) amount for the year the section 2(2) amount is reduced to nil. When all the total deemed gains have been allocated you are left with the unmatched section 2(2) amounts for 2007-08 and earlier years.

@@ -1,0 +1,34 @@
+Structures and buildings allowance (SBA): outline: parts of a building
+Identifier: CA90350
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca90350
+Published: 2019-10-30T11:08:17+00:00
+Updated: 2019-10-31T08:03:30+00:00
+Retrieved (UTC): 2026-09-18T16:21:35.205851+00:00
+
+The SBA legislation treats part of a building as a building unless the context otherwise requires in line with general Capital Allowances Rules CA11600 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11600).
+
+Separate treatment of each part of expenditure
+
+Expenditure on constructing a building may be incurred at different times or by different people. For example, the lessee of a factory may build an extension to it. The lessor may hold the relevant interest in the original factory building CA90600 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca90600) and the lessee will hold the relevant interest in the extension CA90700 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca90700).
+
+You should apply the SBA legislation to each part of expenditure separately. In the example in the paragraph above, the SBA for the factory owner and the lessee are calculated separately.
+
+Once a building comes into use, any later expenditure incurred must be claimed separately. If the factory owner had incurred the expenditure on the construction of the factory, brought it into use and subsequently built an extension, SBA on the original factory and the extension must be calculated separately. However, where later expenditure is incurred on different days, it may be added together into a single claim CA93450 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca93450).
+
+Example
+
+MD Pet Supplies Ltd (‘MD’) owns a large site on which it operates its pet food factory and distribution business. MD’s chargeable periods end on 31 December. It decides to build a new factory on its site to produce dog food at a cost of £10 million and brings it into use on 1 January 2021. MD can claim SBA on the £10 million construction costs at 3% per year = £300,000 a year until 30 April 2054.
+
+MD sees an opportunity to expand into the cat food business and builds an extension to the new factory for this purpose at a cost of £3 million. It brings the extension into use on 1 July 2022. MD can claim SBA on the £3 million conversion costs at 3% per year = £90,000 per year until 31 October 2055. However, the part of the building, which forms the extension, was brought into use part way through the chargeable period so the SBA is apportioned on a time basis giving £90,000 × (6÷12) = £45,000.
+
+MD’s SBA claims will be as follows, providing MD continues to hold the relevant interest:
+
+- YE 31 December 2021: £300,000 (£10 million × 3%), claimable until YE 31 December 2053
+
+- YE 31 December 2022: £300,000 + £45,000 (£3 million x 3% x (6÷12))
+
+- YE 31 December 2023: £300,000 + £90,000 (£3 million x 3%), claimable until YE 31 December 2053
+
+- YE 31 December 2054: £100,000 (£10 million x 3% x (4÷12)) + £90,000
+
+- YE 31 December 2055: £75,000 (£3 million x 3% x (10÷12))

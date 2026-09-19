@@ -1,0 +1,34 @@
+Liabilities: restricted deductions: borrowed money used to acquire assets that qualify for agricultural relief 
+Identifier: IHTM28021
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28021
+Published: 2016-04-09T09:52:20+01:00
+Updated: 2016-02-11T17:12:41+00:00
+Retrieved (UTC): 2026-09-18T15:03:56.604755+00:00
+
+IHTA84/S162B(3) applies where money was borrowed to acquire assets that qualify for agricultural relief or to enhance or maintain the value of these assets. Where this is the case, the liability firstly reduces the value of the assets that qualifies for relief, IHTA84/S162B(4). This is the case even if the liability is actually secured against other assets in view of the amendments to IHTA84/S162(4) (IHTM28392 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28392)). Agricultural relief (IHTM24000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24000)) is then given against the agricultural value after deduction of the liability.
+
+Any remaining liability may then be set against the assets that are chargeable to tax.
+
+See (IHTM28022 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28022)) where the assets concerned qualify for both agricultural relief and business relief.
+
+Example 1
+
+Ken borrows £200,000 which he uses to repair buildings on his farm which qualify for agricultural relief. The value of Ken’s estate on death is £2m, of which £1,200,000 is agricultural property qualifying for relief at the date of death.
+
+The £200,000 liability reduces the agricultural value of the agricultural property to £1,000,000 under IHTA84/S162B(4).
+
+This £1,000,000 of agricultural value qualifies for agricultural relief.
+
+The value of the estate is reduced by agricultural relief of £1,000,000 and, subject to it meeting the provisions of IHTA84/S175A, the liability of £200,000, leaving a chargeable estate on death of £800,000.
+
+Example 2
+
+Jan borrows £1m and invests it in a house and some adjoining farmland. The house is worth £700,000 and the land £300,000. The farmland is let out to a neighbouring farmer. At Jan’s date of death, the value of the combined property has increased in value to £2m of which £1.2m is attributable to the house and £800,000 to the land.
+
+The liability is to be taken against the agricultural property to the extent to which it can be attributed to paying for that property, IHTA84/S162B(4). When Jan acquired the property, £300,000 was attributable to the farmland and this is the amount of the liability to be taken against the agricultural value on death. So, subject to the liability meeting the provisions of IHTA84/S175A, the chargeable value of the house will be £500,000 (£1.2m less the £700,000 portion of the liability used to buy the house). The value of the land (£800,000) will be reduced to nil by a combination of the liability (£300,000) and agricultural relief (£500,000).
+
+An alternative approach would be to apportion the liability by reference to the values at the date of death. The effect, in this example, would be that only £600,000 of the liability would have been attributable to the house (£1,200,000 ÷ £2,000,000 × £1,000,000) giving a chargeable value for the house of £600,000 and increasing the liability to tax.
+
+If the combined value had been split differently between the house and the farmland, or if their values had increased in different proportions, apportioning the liability by reference to, say, date of death values may give a different result. But a consistent approach is necessary, and the liability should be apportioned using the values at the date of acquisition, even if an alternative approach would give rise to more tax.
+
+As well as being consistent, using the values at the date of acquisition avoids difficulties that might arise if either part of the property is sold but the liability retained (how should the remaining liability then be apportioned?), or if there were a sale and part of the liability was repaid, which would trigger the provisions of IHTA84/S162C, (IHTM28026 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28026)). Fixing the liability attributable to the different parts of the assets at the time they were acquired provides a certain basis going forward.

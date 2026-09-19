@@ -1,0 +1,58 @@
+Decentralised Finance: Lending and staking: Chargeable Gains: Satisfaction of a DeFi loan and withdrawal of a stake
+Identifier: CRYPTO61650
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61650
+Published: 2022-02-02T15:09:53+00:00
+Updated: 2022-02-02T15:09:40+00:00
+Retrieved (UTC): 2026-09-18T16:18:43.572896+00:00
+
+When a loan/stake is satisfied there will be tax consequences for both the borrower and the lender/liquidity provider. ‘Satisfaction’ in this context means either:
+
+-
+
+the borrower transfers tokens to the lender to meet the borrower’s obligations under the terms of the loan agreement, or
+
+-
+
+the liquidity provider withdraws their staked tokens from the liquidity pool of a Decentralised Finance (DeFi) lending platform
+
+Position for the borrower
+
+When the borrower satisfies the loan, the borrower transfers the beneficial ownership of tokens to the lender. This is a disposal of those tokens by the borrower.
+
+To compute the gain or loss arising from this disposal, the Chargeable Gains (CG) computation needs to use the market value in sterling of the tokens given as their consideration. This includes any tokens given to the lender as a return on the loan.
+
+The borrower will be able to deduct allowable costs when computing any gain or loss arising on their disposal to the lender. For further guidance about allowable costs see CRYPTO22150 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22150).
+
+For an example of a CG computation where the borrower satisfies the loan, see CRYPTO61676 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61676).
+
+Position for the lender/liquidity provider
+
+The position for the lender at the satisfaction of the loan depends on how the making of the loan was treated for CG purposes (see CRYPTO61620 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61620)).
+
+Lender originally transferred the control of tokens to the borrower
+
+There are different treatments of the lender depending on how the original disposal was treated.
+
+Where the lender treated the future quantity of tokens to be received as ascertainable (see CG14881 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14881)) then the lender should have applied section 48(1) Taxation of Chargeable Gains Act (TCGA) 1992. The sterling value of the tokens at the time the loan was made should have been included in the CG computation of the disposal by way of the loan being made.
+
+When the lender enters into the loan agreement, they received a right to receive a future quantity of tokens. When the borrower satisfies the loan then the tokens received by the lender are a capital sum derived from that right. This results in a disposal by the lender under section 22(1) TCGA 1992. This approach was confirmed by the Court of Appeal in Goodbrand v Loffland Bros North Sea Inc (71 TC 57). Millett L.J. said:
+
+“But the example demonstrates that, in any case where an asset is sold for a deferred consideration in money’s worth, there are at least two, and maybe three, separate disposals each of which has its own tax consequence. There is first the disposal of the original asset. The chargeable gain or allowable loss is computed in accordance with [section 48(1) TCGA 1992], which produces a sterling value for the disposal consideration and therefore the acquisition cost of the right to receive it. The second disposal occurs when the deferred consideration is received and a new asset, in the form of the actual consideration, is received in satisfaction of the right to receive it (see [section 22(1) TCGA 1992]).”
+
+The acquisition price of the right to receive a future quantity of tokens will be the sterling value that the lender included in the CG computation of the disposal by way of the loan being made. The disposal by the lender on the receipt of the tokens from the borrower will effectively reflect any change in value of the tokens during the term of the loan. If the tokens increased in value during the term of the loan, then the lender will realise a further gain. If the tokens decreased in value during the term of the loan, then the lender will realise a loss.
+
+If section 37(1) TCGA 1992 applied to that first CG computation, then the sterling value of those tokens will also be excluded in this second CG computation.
+
+For examples of CG computations where the loan of an ascertainable quantity of tokens is satisfied, see CRYPTO61677 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61677) and CRYPTO61678 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61678).
+
+Where the lender treated the future quantity of tokens to be received as unascertainable then the lender will have acquired a ‘Marren v Ingles right’ (see CG14990 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14990)). The lender should have included the value of the ‘Marren v Ingles right’ in the CG computation of the disposal by way of the loan being made.
+
+When the borrower satisfies the loan then the tokens received by the lender are a capital sum derived from the ‘Marren v Ingles right’. This results in a disposal by the lender under section 22(1) TCGA 1992. The acquisition price of the ‘Marren v Ingles right’ will be the value of the right that the lender included in the CG computation of the disposal by way of the loan being made.
+
+Where the disposal of the ‘Marren v Ingles right’ gives rise to a loss, it may be possible to elect to set that loss against any gain that arose on the making of the loan. For more information about this election see CG15080 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15080) onwards.
+
+For an example of a CG computation where the loan of an unascertainable quantity of tokens is satisfied, see CRYPTO61679 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61679).
+
+Liquidity provider originally transferred the control of tokens to a DeFi lending platform in return for the DeFi lending platform transferring the control of one or more tokens
+
+When the liquidity provider wishes to withdraw their staked tokens from the DeFi lending platform, the liquidity provider will dispose of the tokens originally received from the DeFi lending platform. In return they will receive tokens from the DeFi lending platform. This is an exchange of one token for another token and so is a disposal by the liquidity provider. The liquidity provider’s consideration for the disposal will be the market value in sterling of the tokens received from the DeFi lending platform.

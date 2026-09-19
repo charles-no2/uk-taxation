@@ -1,0 +1,32 @@
+Assessing: COMPASS: datacapture of lifetime gifts
+Identifier: IHTM31103
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31103
+Published: 2016-04-09T10:02:38+01:00
+Updated: 2016-02-11T17:15:38+00:00
+Retrieved (UTC): 2026-09-18T15:05:46.866179+00:00
+
+Datacapture of lifetime gifts
+
+On cases that are marked ‘sampled’ you will need to datacapture the lifetime gifts made in every tax year within the seven years before the deceased’s death. You do not need to datacapture gifts in any one tax year if they are fully covered by annual or small gifts exemptions.
+
+Cases where there is no liability to tax on the gifts
+
+- You will need to create a separate entry for each tax year, in which gifts not wholly covered by annual exemptions were made.
+
+- The title you should use for each entry will always be the 3rd category from the bottom in the stats drop down box (gift without reservation - non-trust PET (post Mar 1991)).
+
+- The date of transfer will be the date of the largest transfer in the tax year. If the amounts transferred are all the same use the earliest date. If only the month of the gift is given, you may enter the first of the month as the date of gift. If the month in question is April, you may need to make further enquiries to identify the tax year in which the gifts were made. All the assets gifted should be datacaptured in the correct asset categories. Any exemptions or reliefs should be datacaptured against the appropriate assets.
+
+Gifts which are fully covered by reliefs or exemptions (other than annual or small gifts exemptions) still need to be datacaptured along with the reliefs or exemptions claimed. If it is not clear where a particular exemption or relief should be datacaptured you should put it against the first gift made in that tax year.
+
+Cases where there is a liability to tax on the gifts
+
+Where there is a liability to tax on the gifts you should data capture by tax year as above. But you will need to create separate entries for each tax year for each donee so that each person’s liability is clear.
+
+Taper relief
+
+Where taper relief applies and there is a change in the rate of relief available during the tax year you may need to create more than one entry for a particular year in order to calculate the tax correctly.
+
+Cases with more than 78 COMPASS entries
+
+COMPASS is capable of handling cases with up to 78 separate entries. Starting with the letter A, for the Free Estate, COMPASS picks the next available letter of the alphabet as the name for each entry until it reaches the letter Z. Following this, COMPASS creates entries named AA to ZZ, and then AAA through to ZZZ. You should not attempt to create any further entries once you have reached entry ZZZ. Any file where you believe it may be necessary to create more than 78 individual entries on COMPASS should be referred to the Product and Process Team for advice before it is data captured.

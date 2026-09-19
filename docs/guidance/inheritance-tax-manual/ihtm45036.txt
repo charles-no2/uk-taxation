@@ -1,0 +1,50 @@
+Reduced rate for gifts to charity: merger of components: aggregate estate contains three components
+Identifier: IHTM45036
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45036
+Published: 2016-04-09T10:33:04+01:00
+Updated: 2022-02-22T14:31:18+00:00
+Retrieved (UTC): 2026-09-18T15:10:46.455665+00:00
+
+Where an estate contains three components, the taxpayers may elect (IHTM45039 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45039)) to merge any combination of the components to make the best use of the reduced rate that is available. The principles remain the same as those given in IHTM45012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45012) and IHTM45035 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45035) and you will need to combine those principles when looking to see if the 10% test is met.
+
+Example
+
+Following the example in IHTM45012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45012), in addition to her estate of £750,000 and the joint bank account of £30,000, Elizabeth was also the life tenant under her husband’s Will Trust. The trust fund was valued at £300,000 and on Elizabeth’s death the trust funds were to be paid as to £20,000 to the RSPCA and the balance to her daughter Jane. Without an election, the Inheritance Tax position is as follows:
+
+Component |  General |  Survivorship |  Settled |
+
+Value of component |  £750,000 |  £30,000 |  £300,000 |
+
+Legacy to charity (donated amount) |  -£75,000 |  £0 |  -£20,000 |
+
+Chargeable transfer (step 1) |  £675,000 |  £30,000 |  £280,000 |
+
+Less proportion of nil-rate band |  -£222,716 |  -£9,898 |  -£92,386 |
+
+Step 2 amount |  £452,284 |  £20,102 |  £187,614 |
+
+Add back legacy to charity |  £75,000 |  £0 |  £20,000 |
+
+Baseline amount (step 3) |  £527,284 |  £20,102 |  £207,614 |
+
+To qualify for the reduced rate, the donated amount must be equal to or exceed £52,728 for the general component - which it does - and £20,761 for the settled component, which it does not.
+
+As not all of the donated amount has been ‘used’ by the general component, the taxpayers have the option of merging one or both of the non-qualifying components with the general component. They will need to test the consequences of the election and be confident that the value of the assets comprising each component are unlikely to alter significantly before deciding which components to merge - although it possible to withdraw an election (IHTM45041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45041)) or use an Instrument of variation to make a additional charitable bequest should the asset values alter unexpectedly.
+
+The personal representatives agree with the trustees and Andrew to merge all three components, in which case the baseline calculation for the 10% test will be:
+
+Merged estate = £1,080,000
+
+Legacy to charity (donated amount) -£95,000
+
+Chargeable transfer = £985,000 (step 1)
+
+Less nil-rate band -£325,000
+
+Step 2 amount = £660,000
+
+Add back legacy to charity +£95,000
+
+Baseline amount £755,000 (step 3)
+
+The baseline amount for the merged component is £75,500 and the donated amount for the merged component is £95,000. The 10% test is met, and all three components qualify for the reduced rate.

@@ -1,0 +1,26 @@
+Pre-owned assets: excluded transactions: the disposal condition - sale of entire interest
+Identifier: IHTM44031
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44031
+Published: 2016-04-09T10:30:25+01:00
+Updated: 2016-02-11T17:26:31+00:00
+Retrieved (UTC): 2026-09-18T15:10:14.173755+00:00
+
+For the purposes of the disposal conditions relating to land and chattels, the disposal of any property is an excluded transaction in relation to the chargeable person if it was a disposal of their whole interest in the property, except for any right expressly reserved by them over the property, either
+
+- by a transaction made at arm’s length with a person not connected with them, FA04/Sch15/Para 10(1)(a)(i), or
+
+- by a transaction such as might be expected to be made at arm’s length between persons not connected with each other, FA04/Sch15/Para 10(1)(a)(ii).
+
+Note that the meaning of connected persons is the normal meaning contained in ITA07/S993 & 994; but it is extended to the wider Inheritance Tax meaning for the purposes of the POA charge and includes uncle, aunt, nephew and niece, FA04/Sch15/Para 2.
+
+The exclusion only applies to sales of the entire interest in the property at full market value, although the words ‘except for any right expressly reserved’ would suggest the sale of a freehold reversion subject to a lease but only if it was on arms length terms.
+
+The implications of a sale of a part share of an interest in property are considered at IHTM44059 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44059).
+
+Example
+
+George sells his house to his son Robert for full consideration, but continues to live in the property. As he has not made a gift, there is no reservation of benefit (IHTM14301 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14301)) and provided the sale falls within FA04/Sch15/Para 10(1)(a)(ii), there will be no POA charge either. The position would be different if George had given Robert money in the past (IHTM44005 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44005)).
+
+Example
+
+Robert executes an ‘Ingram’ (IHTM44100 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44100)) scheme and sells the freehold reversion to James. This would be an excluded transaction, provided that the sale was at arm’s length or such as might be expected to be made at arm’s length between persons not connected with each other. The reversion is a distinct item of property and Robert has sold his entire interest in it; he continues to occupy the property by virtue of his leasehold interest which is a separate item of property. There will be a ‘marriage’ value for the two interests and a truly arm’s length transaction must reflect this. In practice, this is likely to be difficult for the taxpayer to show since an independent purchaser would not normally want to pay for marriage value unless he was certain of getting the leasehold interest.

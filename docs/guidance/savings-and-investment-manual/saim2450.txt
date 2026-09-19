@@ -1,0 +1,30 @@
+Interest: taxation of interest: accrued interest
+Identifier: SAIM2450
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2450
+Published: 2016-03-19T16:24:33+00:00
+Updated: 2020-02-05T09:48:19+00:00
+Retrieved (UTC): 2026-09-18T14:26:11.197470+00:00
+
+Interest: sale of interest rights: introduction
+
+Introduction
+
+If someone receives a capital sum in return for disposing of a right to receive interest, the sum cannot be taxed as interest. Special tax rules are needed to cover such situations.
+
+Accrued income scheme
+
+Suppose that someone holding a gilt, corporate bond or similar security has received an interest coupon of £100 on 31 January, and is due to receive another interest payment of £100 on 31 July. He or she sells the security on 30 April. £50 of the sale price will relate to the interest that has accrued on the security since 31 January. But in the case of Wigmore v Thomas Summerson and Sons Ltd (9TC577), the courts decided that such accrued income is not interest - it is the price of the expectation of interest - and it cannot be taxed as such. Similarly, without special rules, the purchaser of the security would be taxed on the full £100 of interest received on 31 July, even though they have already paid an ‘extra’ £50 for the security because of the interest that has accrued.
+
+Legislation in Part 12 ITA07 referred to as the Accrued Income Scheme (AIS), allows that part of the sale of price of a security which represents accrued interest to be charged to income tax, and in certain cases, also allows relief to be given to the person buying the security. Companies that buy or sell securities are taxed under the loan relationships legislation. Full guidance on the AIS is at SAIM4000 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4000) onwards.
+
+Profits from disposal of deposit rights
+
+Chapter 11 Part 4 ITTOIA05 (ITTOIA05/S551 to S554) charges income tax on the profits from disposal of deposit rights. This applies mainly to transactions in certificates of deposit, which are short-term money market instruments. SAIM2510 (http://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2510) and SAIM2520 (http://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2520) explain the legislation.
+
+Sale of interest rights without the right to the principal
+
+Selling the right to receive one or more interest payments on a security, separately from the right to receive the principal, is known as stripping the security. ICTA88/S730 previously dealt with the sale or transfer of any right to receive interest on a security, without the sale or transfer of the security itself. For this purpose, ‘interest’ was defined to include dividends, and ‘securities’ to include shares.
+
+However, strips of government securities (‘gilt strips’) are treated as deeply discounted securities under ITTOIA05/S443 to S452 (or, for years before 2005-06, by FA96/SCH13). A similar treatment was extended to strips of all other interest-bearing securities by F(No 2)A 2005. The legislation is now at ITTOIA05/S452A onwards. Guidance can be found at SAIM3130 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3130).
+
+This meant that ICTA88/S730, as it applied to debt securities, became redundant. It was therefore amended by F(No 2)A 2005 so that, for sales or transfers on or after 2 December 2004, it applies only to the transfer of rights to receive distributions in respect of shares. Guidance on the amended version of ICTA88/S730 - which, while it applies for both income tax and corporation tax, is likely to be of greater relevance to companies - is in the Corporate Finance Manual (CFM (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual)).

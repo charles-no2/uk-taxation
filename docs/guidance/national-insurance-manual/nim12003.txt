@@ -1,0 +1,46 @@
+Class 1: Calculating Class 1 NICs for Directors: Definition of Director: Annual earnings period
+Identifier: NIM12003
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim12003
+Published: 2016-04-11T17:26:06+01:00
+Updated: 2022-10-27T15:01:38+01:00
+Retrieved (UTC): 2026-09-18T15:15:07.923968+00:00
+
+Regulation 8 Social Security (Contributions) Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+‘Director’ is defined when deciding what earnings period should be used for a payment of earnings. The regulations refer to “director of a company”.
+
+“Company” is defined in Regulation 1(2) and includes:
+
+- a registered company within Section 1 Companies Act 2006, or
+
+- an unregistered company within Section 1043(1) Companies Act 2006
+
+A company within Section 1 is one formed and registered under one of the 1929, 1948 to 1983, 1985 or 2006 Companies Acts. If a company has a company registered number, it will be within Section 1.
+
+A company within Section 1043(1) is not registered under Section 1 but is any body corporate incorporated in, and having a place of business in the United Kingdom, but does not include:
+
+- bodies incorporated by, or registered under, a public general Act of Parliament;
+
+- bodies not formed for the purpose of carrying on a business that has for its object the acquisition of gain by the body or its individual members;
+
+- bodies for the time being exempted from this section by direction of the Secretary of State;
+
+- open-ended investment companies.
+
+- protected cell companies registered under Part 4 of the Risk Transformation Regulations 2017.
+
+What this means is that a director of a company, not within Sections 1 and 1043 Companies Act 2006, does not have an annual earnings period. Any remuneration is still liable to Class 1 NICs because a director is an office holder and earnings periods for such directors will be within the normal rules for employed earners (see NIM08000 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim08000)).
+
+Examples of directors of companies or bodies corporate that are not within regulation 8 are:
+
+- Building Societies, which have not de-mutualised.
+
+- Charities, but not a trading company set up by the charity
+
+- Non-British based foreign companies
+
+- Building Societies are excluded from the Companies Act because of the provisions of the Building Society Acts.
+
+It should be noted that the definition of a company for regulation 27 SSCR 2001 (certain payments to members of professional partnerships and nominee directors) is wider than that used for regulation 8 (see NIM12010 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim12010)).
+
+Any case should be submitted to IPD NICs Technical Team where there appears to have been a deliberate attempt to circumvent the directors’ annual earnings period legislation.

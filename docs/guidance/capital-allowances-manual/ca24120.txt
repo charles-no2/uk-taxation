@@ -1,0 +1,98 @@
+Overseas leasing: Qualifying purpose - ships and aircraft
+Identifier: CA24120
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24120
+Published: 2016-04-16T08:50:32+01:00
+Updated: 2026-03-30T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:20:53.990981+00:00
+
+Section 123 CAA01
+
+A ship is used for a qualifying purpose if it is used in such a way that the basic rule (CA24110 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24110)) is satisfied.
+
+There is a further rule about the use of a ship for a qualifying purpose. It stops the overseas leasing legislation applying if a UK resident whose trade includes operating ships lets a ship on voyage or time charter to a person resident overseas.
+
+This is the further rule. A ship is also used for a qualifying purpose if it is let on charter in the course of a trade which consists of or includes operating ships, and
+
+- the person carrying on the trade is resident in the UK, or carries on the trade there, and
+
+- the person carrying on the trade is responsible as principal (or appoints another person to be responsible in his stead) for:
+
+- navigating and managing the ship throughout the period of charter, and
+
+- defraying all expenses in connection with the ship throughout that period or substantially all such expenses other than those directly incidental to a particular voyage or to the employment of the ship during that period
+
+A voyage or time charter is like an operating lease. Under a voyage or time charter the owner controls the ship through the master and crew but carries cargo for the person to whom the ship is chartered (the charterer) to destinations chosen by the charterer. If a ship is let under a voyage or time charter, then it is likely to be let in such a way that the above conditions are satisfied.
+
+The charterer may find that they do not have cargo for the ship to carry throughout the time for which the ship has been chartered. If so, the charterer may find somebody else with cargo to be transported and sub-charter the ship to that person. The ship will still be let on voyage or time charter during the sub-charter because the owner will still be responsible for managing and operating the ship and so the above conditions will still be satisfied.
+
+A bareboat charter is like a finance lease. If a ship is let on bareboat charter, then the above conditions will not be satisfied. It will only be used for a qualifying purpose if the basic rule (CA24110 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24110)) is satisfied.
+
+A UK resident ship owner may let a ship on voyage or time charter to a person resident outside the UK. The lessee is an overseas lessee, but the overseas leasing legislation does not apply because the owner is using the ship for a qualifying purpose. This means that the leasing is protected leasing (CA24100 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24100)).
+
+Example
+
+The Pilgrim Fathers are a UK resident shipping company. They buy the Mayflower and let it on voyage charter to Columbus Shipping Inc., a company resident in the USA. This means that the Mayflower is being used for a qualifying purpose and so the leasing is protected leasing and the overseas leasing legislation does not apply. Columbus Shipping does not have cargo for the Mayflower to carry throughout the charter and so it sub-charters the Mayflower to Guevara, a trader resident in Argentina. The Mayflower is used for a qualifying purpose during the sub-charter to Guevara because the Pilgrim Fathers are still responsible for managing and operating it. This means that the Pilgrim Fathers’ capital allowances are not restricted by the overseas leasing legislation.
+
+An aircraft is used for a qualifying purpose if it is used in such a way that the basic rule (CA24110 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24110)) is satisfied. An aircraft is also used for a qualifying purpose if it is let in circumstances similar to the above conditions for ships. The leasing of an aircraft in this way is normally called wet leasing. If an aircraft is wet leased, it is leased complete with crew and the provision of maintenance.
+
+There is a main object test for ships and aircraft. The additional qualifying purpose rules above do not apply if the main object, or one of the main objects, of:
+
+- letting the ship or aircraft on charter, or
+
+- a series of transactions that included the letting of the ship or aircraft on charter, or
+
+- any of the transactions in such a series
+
+was to avoid the 10% overseas leasing rate.
+
+Here is an example of the sort of situation the main object legislation is intended to catch.
+
+Example
+
+Barset Bank buys a ship and leases that ship under a finance lease to Trollope & Co, a company that operates ships. Trollope & Co. let the ship on a voyage charter to Acropolis Shipping which is not resident in the UK. The overseas leasing legislation would normally apply because Acropolis Shipping is an overseas lessee. However, the letting of the ship on voyage charter by Trollope & Co. seems to be use for a qualifying purpose under Section 123 CAA01 and if it is the overseas legislation does not apply.
+
+Barset Bank claims writing down allowances on the ship at the main rate on the grounds that the ship is used for a qualifying purpose.
+
+If Barset Bank had leased the ship directly to Acropolis Shipping, it would have been caught by the overseas leasing legislation and it would only have been entitled to writing down allowances at the 10% rate.
+
+However, Barset Bank has let the ship to Trollope & Co, who are leasing the ship to Acropolis Shipping in such a way that the ship appears to be used for a qualifying purpose. This means that Barset Bank is entitled to WDAs at the main rate unless the arrangements are caught by the main object test. If the arrangements are caught Barset Bank will only be entitled to WDAs at the 10% rate. In order to get WDA at the rate for the main pool Barset Bank has to show that the obtaining of a WDA at that rate was not one of the main objects of:
+
+- the letting of the ship on voyage charter by Trollope & Co. to Acropolis Shipping, or
+
+- the leasing of the ship by Barset Bank to Trollope & Co. followed by the charter of the ship by Trollope & Co. to Acropolis Shipping.
+
+Effectively, in order to obtain writing down allowances at the main rate, Barset Bank has to show that its main object in leasing the ship to Acropolis Shipping via Trollope & Co, rather than leasing it directly to Acropolis Shipping, was something other than the avoidance of being caught by the overseas leasing legislation.
+
+The main object test can apply even if the person claiming capital allowances is not the person letting the ship or aircraft on charter. If you think that the main object test applies when a ship or aircraft is leased to a non-resident, you should obtain as many facts and as much relevant documentation as possible and submit the case to Business, Assets & International before the capital allowance claim is refused. A company or its advisers may ask for confirmation that a transaction will not be caught by the main object legislation. There is no clearance procedure and so you should not give any formal assurances. You should make it clear that the question of whether the main object test catches a transaction can only be determined after the transaction has taken place and the accounts, including the capital allowance claim, have been sent in. Exceptionally you may have a case where you believe that it is in HMRC's interest to give a considered response to a request for confirmation that the legislation will not apply in order to keep abreast of current developments. In such a case, Business, Assets & International should be consulted on how to deal with the enquiry.
+
+If the company letting the ship on charter is a genuine UK ship or aircraft operating company, it is unlikely to be caught by the main object test.
+
+The fact that a UK ship or aircraft operating company is controlled from overseas does not of itself prevent it from being treated as a genuine UK ship or aircraft operator. If it in fact carries on a qualifying activity of operating ships or aircraft and performs an active role in managing and navigating those assets (perhaps by using managing agents), it is likely to be a genuine UK ship or aircraft operator.
+
+These are some of the factors that may indicate that leasing will fail the main object test:
+
+- The legislation would have restricted the capital allowances if the person claiming capital allowances had leased the asset directly to the non-resident.
+
+- The UK resident ship or aircraft operator is little more than a 'brass plate' concern. It has little or none of the organisation normally found in a genuine ship or aircraft operator.
+
+- The person claiming capital allowances has no normal connection with ship or aircraft operations but either it or the group of which it is a member has profits to shelter.
+
+- The company claiming capital allowances is a member of the same group as the overseas company to which the ship or aircraft is chartered.
+
+- The lessor's rents are guaranteed in some way.
+
+- Responsibility for the management and navigation of the ship or aircraft is subcontracted to managers or agents.
+
+- There are no formal arrangements for the management and navigation of the ship or aircraft.
+
+- The charter is a long term one, for example, ten years or more.
+
+- The overseas charterer will obtain the value of the ship or aircraft at the end of the charter period. For example, if the ship is sold at the end of the charter period it may receive most of the sale proceeds as a rebate of rentals. In such a case, the right to receive the benefit of the sale proceeds is likely to be linked with the overseas charterer having an option to break the charter and to require the ship or aircraft to be sold when he, she or it has no further use for it.
+
+- The amount that the overseas charterer pays for the management and navigation of the ship or aircraft is calculated separately from the amount that it pays for the hire of the ship or aircraft.
+
+- A company, unconnected with either the overseas charterer or the UK resident claiming capital allowances, is set up specifically to act as a go-between to enable the UK resident to obtain a writing down allowance at the main rate. The benefit of that allowance is then passed on to the overseas charterer by way of reduced rents. In such a case, the lessor's rents are likely to be guaranteed in some way.
+
+The main object legislation does not necessarily apply if some of the above factors are present in a case, but they give some indication of the type of thing you should look out for. It will only apply if the charter, or the series of transactions including the charter, fails the main object test.
+
+The rates of WDA can be found at CA23220 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23220).

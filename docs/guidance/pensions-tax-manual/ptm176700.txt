@@ -1,0 +1,162 @@
+Lump sum allowance and lump sum and death benefit allowance: Protections: Individuals with enhancement factors and when a lump sum cannot be paid as an uncrystallised funds lump sum
+Identifier: PTM176700
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176700
+Published: 2024-03-27T00:14:30+00:00
+Updated: 2024-03-27T00:14:30+00:00
+Retrieved (UTC): 2026-09-18T14:50:37.072904+00:00
+
+Primary protection enhancement factor (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176700#PPenhancementfactor)
+Pre-commencement pension credit enhancement factor (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176700#pre-commencement)
+Pension credit enhancement factor (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176700#pensioncredit)
+Non-residence factor  (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176700#nonresidence)
+Overseas transfer factor (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176700#overseas)
+
+Overview
+
+Paragraph 4A(1) and (8) Schedule 29 Finance Act 2004
+
+A lump sum is an uncrystallised funds pension lump sum (UFPLS) if:
+
+- It is paid on or after 6 April 2015 in respect of a money purchase arrangement that is not a collective money purchase arrangement,
+
+- It is paid when the member has reached the normal minimum pension age, or the ill-health condition is met,
+
+- It is not a pension commencement lump sum,
+
+- It is not a trivial commutation lump sum,
+
+- Immediately before the member becomes entitled to it the sums or assets that are to be used to provide it:
+
+- Represent the rights of the member under the scheme that are the uncrystallised rights but,
+
+- Do not represent rights attributable to a disqualifying pension credit.
+
+You can read more about UFPLS at PTM063300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063300).
+
+The guidance below goes into detail about when an individual with enhancement factors cannot have a lump sum paid as an UFPLS.
+
+Primary protection enhancement factor
+
+Paragraph 7(8) and (8) Schedule 26 Finance Act 2004
+
+Where an individual has a primary protection enhancement factor the lump sum payment is not an UFPLS if immediately before the lump sum is paid the amount given by the formula:
+
+(£1,800,000 – A) / 4
+
+Is less than 25% of the lump sum being paid.
+
+Where:
+
+A – Is the previously used-amount of the individual’s lump sum and death benefit allowance if a relevant benefit crystallisation event had occurred immediately before the lump sum is paid.
+
+The previously-used amount is the aggregate of the non-taxable amounts at each relevant benefit crystallisation event (see PTM173000).
+
+Example
+
+On 5 June 2030, Gerard is paid a lump sum of £50,000. Gerard has primary protection and has a previously-used amount of £30,000 prior to the payment of the lump sum.
+
+A is therefore £30,000.
+
+(£1,800,000 - £30,000) / 4 = £442,500
+
+As the resulting figure isn’t below 25% of the lump sum being paid, Gerard can have this lump sum paid as an UFPLS.
+
+Pre-commencement pension credit enhancement factor
+
+Paragraph 18(7) and (8) Schedule 36 Finance Act 2004
+
+Where an individual has a pre-commencement enhancement factor the lump sum payment is not an UFPLS if immediately before the lump sum is paid the amount given by the formula:
+
+(A – B) / 4
+
+Is less than 25% of the lump sum being paid.
+
+Where:
+
+A is:
+
+- In the case where another protection applies, the individual’s protected lump sum and death benefit allowance, or
+
+- £1,073,100 in any other case
+
+B is the previously used-amount of the individual’s lump sum and death benefit allowance if a relevant benefit crystallisation event had occurred immediately before the lump sum is paid.
+
+Example
+
+On 10 July 2028, Suella receives a lump sum payment of £80,000. Prior to this payment, Suella has a previously-used amount of £50,000. She has a pre-commencement credit factor and no other protections.
+
+A is £1,073,100 and B is £50,000.
+
+(£1,073,100 - £50,000) / 4 = £255,775
+
+As the resulting figure isn’t below 25% of the lump sum being paid, Suella can have this lump sum paid as an UFPLS.
+
+Pension credit enhancement factor
+
+Paragraph 20A(8) Schedule 36 Finance Act 2004
+
+Where an individual has a pension credit enhancement factor the lump sum payment is not an UFPLS if immediately before the lump sum is paid the amount given by the formula:
+
+(A – B) / 4
+
+Is less than 25% of the lump sum being paid.
+
+Where:
+
+A is:
+
+- In the case where another protection applies, the individual’s protected lump sum and death benefit allowance, or
+
+- £1,073,100 in any other case
+
+B is the previously used-amount of the individual’s lump sum and death benefit allowance if a relevant benefit crystallisation event had occurred immediately before the lump sum is paid.
+
+Example
+
+On 18 September 2029, Jeremy receives a lump sum payment of £100,000. Prior to this payment, he has a previously-used amount of £200,000. He has a pension credit factor and fixed protection 2014.
+
+A is £1,500,000 and B is £200,000.
+
+(£1,500,000 - £200,000) / 4 = £325,000
+
+As the resulting figure isn’t below 25% of the lump sum being paid, Jeremy can have this lump sum paid as an UFPLS.
+
+Non-residence factor
+
+Paragraph 20B(8) Schedule 36 Finance Act 2004
+
+Where an individual has a non-residence enhancement factor the lump sum payment is not an UFPLS if immediately before the lump sum is paid the amount given by the formula:
+
+(A – B) / 4
+
+Is less than 25% of the lump sum being paid.
+
+Where:
+
+A is:
+
+- In the case where another protection applies, the individual’s protected lump sum and death benefit allowance, or
+
+- £1,073,100 in any other case
+
+B is the previously used-amount of the individual’s lump sum and death benefit allowance if a relevant benefit crystallisation event had occurred immediately before the lump sum is paid.
+
+Overseas transfer factor
+
+Paragraph 20E(9) Schedule 36 Finance Act 2004
+
+Where an individual has a overseas transfer enhancement factor the lump sum payment is not an UFPLS if immediately before the lump sum is paid the amount given by the formula:
+
+(A – B) / 4
+
+Is less than 25% of the lump sum being paid.
+
+Where:
+
+A is:
+
+- In the case where another protection applies, the individual’s protected lump sum and death benefit allowance, or
+
+- £1,073,100 in any other case
+
+B is the previously used-amount of the individual’s lump sum and death benefit allowance if a relevant benefit crystallisation event had occurred immediately before the lump sum is paid.

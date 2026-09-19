@@ -1,0 +1,12 @@
+Co.purchases own shares: UK resident company shareholder
+Identifier: CG58615
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58615
+Published: 2018-07-18T08:41:43+01:00
+Updated: 2021-03-31T15:15:31+01:00
+Retrieved (UTC): 2026-09-18T14:44:22.083033+00:00
+
+Where the shareholder is a UK resident company, the tax consequences depend on whether the company purchasing its shares is also UK resident or not.
+
+If a company shareholder is UK resident, a distribution to it from a UK resident company would not be subject to Corporation Tax on the basis that the payments are exempted by Part 9A of CTA09. As such, TCGA92/S37 does not apply and the disposal proceeds are not reduced by the amount of the distribution. Instead, TCGA92/S122 treats the distribution as a disposal of an interest in the shares giving rise to a chargeable gain. This treatment is explained by Statement of Practice 4/89 which, although written in terms of ICTA88/S208 which has been repealed, is still relevant.
+
+If the company shareholder is non-UK resident, the exemptions in part 9A CTA09 do not apply and so the payment would be taxed as a distribution.

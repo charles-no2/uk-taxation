@@ -1,0 +1,22 @@
+PAYE: special type of income: gains from share options: options cancelled in return for payment: example
+Identifier: EIM11879
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11879
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-03-29T08:45:59+01:00
+Retrieved (UTC): 2026-09-18T14:09:36.082550+00:00
+
+On 25 November 2001 an employer granted an employee an option for £1 per share over 1,000 shares in the company unapproved share scheme. The employer is a private company not listed on any exchange. The option may be exercised between 26 November 2003 and 31 December 2006.
+
+On 30 June 2003 the employer company is taken over and the new owner cancels the employee’s existing option in return for a cash payment of £5,000.
+
+Is the employer required to operate PAYE?
+
+Under Section 477 ITEPA 2003 when an employee assigns or releases an option the amount representing the difference between the amount paid to the employee and the amount (if any) paid for the grant of the option counts as employment income chargeable to tax. In this case, the amount paid for the grant of the option was nil and the release payment was £5,000, so there is a charge on £5,000.
+
+Under Section 700(3)(a) ITEPA 2003 the person making the cash payment is obliged to operate PAYE in respect of the PAYE income of £5,000. Note that if the option had been cancelled in return for a readily convertible asset (for example, shares in the new parent company) the employer when the option was originally granted would have to operate PAYE under Section 700(3)(b).
+
+It is important to remember that whilst PAYE generally applies under the readily convertible asset rules only to unapproved share schemes and to share related events since 27 November 1996 (see EIM11931 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11931)), PAYE applies to cancellation or release payments even if:
+
+- the cancelled option was granted before 27 November 1996
+
+- the option relates to shares in an Inland Revenue approved scheme.

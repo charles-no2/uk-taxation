@@ -1,0 +1,48 @@
+Class 1 NICs: Payments made under employment legislation: Re-allocating primary NICs paid on a payment made under a reinstatement order, a re-engagement order, an order for the continuation of a contract of employment or a protective award:
+Identifier: NIM07071
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim07071
+Published: 2016-04-11T17:19:08+01:00
+Updated: 2026-02-10T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T15:14:20.514631+00:00
+
+How to apportion the amount of NICs paid between tax years: Example
+
+Employer Z makes a payment under a re-engagement order – see NIM07030  (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim07030)– NIM07031  (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim07031)– to an employee on 31 July 2025. The gross amount of the payment is £4,000 and is in respect of the period 7 March 2025 to 31 May 2025, which is 86 days.
+
+The employee’s earnings in the 2024 to 25 tax year were slightly insufficient to make the year qualifying for benefit/pension purposes. They have worked out that they can make the 2024 to 2025 tax year a qualifying one if the NICs they paid in the 2025 to 26 tax year on the re-engagement order payment are re-allocated to the 2024 to 2025 tax year. So they write to HMRC and ask for this to be done.
+
+Employer’s calculation of earnings limits and amount of primary NICs due
+
+Employer Z has calculated:
+
+- the lower earnings limit (LEL); and
+
+- the Primary Threshold (PT); and
+
+- the amount of primary NICs due on the payment
+
+as follows:
+
+Item | Calculation | Result |
+
+LEL | £125 (normal weekly LEL) ( 7 x 86) | £1535.71 |
+
+PT | £12,570 (normal PT) (365 x 86) | £2962.00 (rounded up to nearest pound) |
+
+Primary NICs due | £4,000 - £2,962 = £1038 x 8% (main primary NIC rate) | £83.04 |
+
+Calculation of the amount of primary NICs to be re-allocated
+
+Item | Calculation | Result |
+
+The number of days in the earnings period that falls in the 2025/26 tax year | 6 April 2025 to 31 May 2025 | 56 days |
+
+The amount of the gross payment that falls in the 2025/26 tax year | £4,000 x 56 ( 86) | £2604.56 |
+
+The amount of primary NICs payable on £2,604.65 | £83.04 x 56 ( 86) | £54.07 |
+
+The number of days in the earnings period that falls in the 2024/25 tax year | 7 March 2025 to 5 April 2025 | 30 days |
+
+The amount of the gross payment that falls to be re-allocated to 2024/25 tax year | £4,000-£2604.56 | £1395 this the amount to be reallocated to the tax year 2024/25 |
+
+The amount of primary NICS payable on £1395.35 | £83.04-£54.07 | £28.97 this is the amount to be reallocated to the tax year 2024/25 |

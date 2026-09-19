@@ -1,0 +1,32 @@
+Accrued Income Scheme: 'small holdings' exclusion
+Identifier: SAIM4210
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4210
+Published: 2016-03-19T16:26:13+00:00
+Updated: 2018-11-29T08:06:33+00:00
+Retrieved (UTC): 2026-09-18T14:26:26.609887+00:00
+
+£5000 small holdings threshold
+
+ITA07/S639 excludes individuals whose total holdings do not exceed £5,000. This exception applies to all transfers made by or to an individual in a year of assessment provided that the total nominal value of securities held by him at any time in that year of assessment or the previous year of assessment was no more than £5,000. In counting an individual’s securities, any held through a nominee or discretionary management services are also included.
+
+The meaning of ‘held’, for this purpose, is extended beyond the normal meaning given in SAIM4090 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4090) (ITA07/S639 (5)), so that an individual’s holding includes securities held by another person, where the interest is included in the individual’s income for income tax purposes. This prevents exploitation of the small holdings limit by, for example, parents settling securities on their minor children.
+
+Example 1
+
+Bryony subscribes for corporate bonds with a face value of £5,500. They carry an interest coupon, calculated with respect to £5,500. The bonds are issued at a 10% discount, so that she pays £4,950 for them. The nominal value, however, is £5,500 (SAIM4100 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4100)). If Bryony later transfers the bonds, she is not within the small holdings exemption.
+
+Example 2
+
+In 2015-16, Phoebe (who has substantial holdings of securities) makes a gift of securities with a nominal value of £4,000 to her son Brian, and a similar gift to Brian’s 11-year-old son Ben. Because the securities come from his grandmother rather than from a parent, interest arising on the securities owned by Ben is treated as his own income. The provision in ITA07/S639 (5) does not apply. So if Ben were to sell the securities, the small holdings exemption would apply – his holding is not aggregated with that of Phoebe.
+
+On 25 December 2016, however, Brian gifts half of his holding of securities to Ben, so that Ben now holds securities with a nominal value of £6,000. Interest on the £2,000 worth of securities gifted by Brian is treated for tax purposes as Brian’s income (assuming that Ben already has income of more than £100 on investments made for him by his parents). The relevant interest period ends on 31 December 2016.
+
+The AIS provisions will apply to the transfer of securities from Brian to Ben, and to any subsequent sale by either Brian or Ben. This is because, since interest on the £2,000 worth of securities transferred will be treated as the income of someone other than Ben, the holdings of both parties are aggregated under ITA07/S639 (5). So, for part of 2016-17 (the tax year in which the interest period ends), both Brian and Ben are treated as owning securities with a nominal value of £8,000. Neither gets the benefit of the small holdings exemption.
+
+Personal representatives
+
+Except where ITA07/S636 applies (SAIM4190 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4190)), the transfer of securities by an individual’s personal representatives is a transfer for the purposes of the accrued income scheme. ITA07/S640 extends the small holdings threshold to personal representatives. The rules match those for individuals’ small holdings, except that there is no equivalent of ITA07/S639 (5), so the personal representative’s holdings are not aggregated with those of other persons.
+
+Disabled persons’ trusts
+
+ITA07/S641 extends the small holdings threshold to trustees of a disabled person’s trust, which means a trust of the kind described in TCGA92/SCH1/PARA1 (1) and CG18050 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg18050). Where a person is a beneficiary under more than one such trust, the AIS small holdings limit is not reduced, in contrast to the position for capital gains tax.

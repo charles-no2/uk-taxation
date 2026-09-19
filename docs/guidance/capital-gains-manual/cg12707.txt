@@ -1,0 +1,88 @@
+Disposal of assets: Dormant Assets Scheme
+Identifier: CG12707
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12707
+Published: 2022-05-20T14:55:58+01:00
+Updated: 2025-10-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:36:53.074713+00:00
+
+Top of page
+
+General position (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12707#general-position)
+
+Previous owner of the dormant asset is deceased (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12707#previous-owner-of-the-dormant-asset-is-deceased)
+
+Position for specific types of asset (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12707#position-for-specific-types-of-asset)
+
+Bank or building society account (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12707#bank-or-building-society-account)
+
+Insurance (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12707#insurance)
+
+Pensions (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12707#pensions)
+
+Client money (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12707#client-money)
+
+Shares (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12707#shares)
+
+ISA (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12707#isa)
+
+The Dormant Assets Scheme ("the Scheme") was established by the Dormant Bank and Building Society Accounts Act 2008. The Scheme commenced in 2011 and it allows financial institutions that voluntarily participate in the Scheme to transfer the value of dormant assets to Reclaim Fund Ltd (RFL), a company specifically set up for the Scheme. RFL releases a proportion of the funds to social and environmental initiatives. A proportion of the funds are retained by RFL to meet any claims against it.
+
+The Dormant Bank and Building Society Accounts Act 2008 allows the participating banks and building societies to transfer the balance of dormant accounts to RFL. The legislation extinguishes the rights that the account holder might have against the bank or building society to claim the balance of the account. The legislation creates an equivalent right for the account holder to make a claim against RFL for the balance of the account that was transferred to it.
+
+In 2022 the Scheme was extended to include new types of financial assets. These were life insurance policies, pensions, shares or units in collective investments, client money and listed shares. The Scheme requires an asset in a non-monetary form to be monetised first. Once that step is taken, the money is transferred to RFL and the legislation extinguishes the rights that the previous owner of the dormant asset might have against the financial institution to claim the dormant asset and associated proceeds. The legislation creates an equivalent right for the previous owner of the dormant asset to make a claim against RFL for the money that was transferred by the financial institution to it.
+
+General position
+
+CG13155 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13155) explains that an involuntary transfer is a disposal for chargeable gains (CG) purposes if the original owner’s title comes to an end under a particular law or statute. The monetisation of a dormant asset and/or involuntary transfer of a dormant asset to RFL is a disposal by the beneficial owner of that dormant asset. The consideration for that involuntary transfer is the acquisition of the right against RFL. This right is a statutory right and therefore an asset for CG purposes (see CG12295 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12995)). Where the previous owner of the dormant asset makes a successful claim to RFL, the receipt of this sum would give rise to a deemed disposal of the statutory right under section 22(1)(a) TCGA 1992 (see CG12940P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12940p)).
+
+These results would give rise to various unintended tax consequences for the previous owner of the dormant asset. To address this, section 26A TCGA 1992 was introduced for dormant accounts and then amended in 2022 for the broader range of dormant assets in the Scheme. This provision ensures that:
+
+- The monetisation of a dormant asset and/or involuntary transfer of a dormant asset doesn't give rise to a disposal for CG purposes;
+
+- The acquisition of the statutory right isn't treated as an acquisition for CG purposes;
+
+- The statutory right is treated as being the same as the rights that the previous owner of the dormant asset had against the financial institution.
+
+What this means in practice is that the previous owner of the dormant asset has no obligation to declare the monetisation of a dormant asset and/or involuntary transfer of a dormant asset as a disposal for CG purposes. In the event that the previous owner of the dormant asset makes a successful claim to RFL, the receipt of the sum is treated for CG purposes as if it were derived from the dormant asset (even though the dormant asset may no longer exist). This means that there is still a deemed disposal on the receipt of the sum under section 22(1)(a) TCGA 1992. But the disposal is treated as being a disposal of the dormant asset, so any exemption or relief that would have applied to the dormant asset if it was still held will apply to the deemed disposal. In addition, the allowable costs in respect of the dormant asset can be deducted in computing the gain or loss arising from the deemed disposal on the receipt of the sum from RFL.
+
+The previous owner of the dormant asset may incur costs in making the claim to RFL. Section 38(1)(b) TCGA 1992 allows a deduction for expenditure incurred by the person in establishing, preserving or defending their title to the asset, or to a right over the asset. The costs of making the claim to RFL will be to establish the title of the previous owner of the dormant asset to that dormant asset. The costs of making the claim will be allowable as a deduction in the deemed disposal that occurs on the receipt of the sum from RFL.
+
+Previous owner of the dormant asset is deceased
+
+It is possible for the previous owner of a dormant asset to die before a claim to RFL is made/settled. When an individual dies, their assets pass to their personal representatives. Section 62 TCGA 1992 treats this as not being a disposal by the deceased (CG30320 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg30320)), but that the acquisition occurs at the market value of those assets at the date of death (CG30730 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg30730)). As explained above, when a dormant asset is monetised then the previous owner of the dormant asset acquires a statutory right. The effect of section 26A TCGA 1992 is that the statutory right against RFL is treated as if it were the right of the previous owner of the dormant asset against the financial institution.
+
+When the previous owner of the dormant asset dies, the personal representatives acquire the statutory right. Section 26A TCGA 1992 will continue to apply to deem the statutory right to be the right of the previous owner of the dormant asset against the financial institution. This statutory fiction applies both for the purposes of establishing the market value of the right being acquired by the personal representatives and for the purpose of computing the gain on a deemed disposal of right when a sum is received from RFL. Should the personal representatives receive a sum from RFL, the same capital gains analysis will apply as for the receipt of a sum by the previous owner.
+
+back to top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12707#top-of-page)
+
+Position for specific types of asset
+
+Bank or building society account
+
+The account balance represents a debt owed by the bank or building society to the account holder. A debt is an asset for CG purposes, but any disposal of the debt would be expected to be exempted by section 251 Taxation of Chargeable Gains Act (TCGA) 1992 (see CG53400P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53400p)).
+
+Insurance
+
+Where the sum received from RFL is chargeable to tax as income or taken into as income, section 37 TCGA 1992 will exclude from the consideration that much of the sum. If any of the sum is capital, there is a disposal of the life insurance policy, but the disposal would be expected to be exempted by section 210 TCGA 1992 (see CG11700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg11700)).
+
+Pensions
+
+Where the sum received from RFL is chargeable to tax as income or taken into as income, section 37 TCGA 1992 will exclude from the consideration that much of the sum. If any of the sum is capital, there is a disposal of the previous owner's membership of the pension scheme.
+
+Shares and units in collective investment schemes
+
+This covers a number of assets in UK based collective investment schemes. The CG treatment on the disposal of shares in Open Ended Investment Companies (OEIC) and units in Authorised Unit Trust (AUT) is broadly the same as for shares – see CG57682 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57682). The treatments for the disposal of interest in a Co-Ownership Authorised Contractual Scheme (CoCAS) is similar and discussed at IFM08000 (https://www.gov.uk/hmrc-internal-manuals/investment-funds/ifm08000).
+
+Where the sum received from RFL is chargeable to tax as income or taken into as income, section 37 TCGA 1992 will exclude from the consideration that much of the sum. If any of the sum is capital, there is a disposal of the shares or units which is treated as a normal disposal for that class of asset.
+
+Client money
+
+Client money must be held in a bank account. This means that the firm holds a debt on behalf of the client. A debt is an asset for CG purposes, but any disposal of the debt would be expected to be exempted by section 251 Taxation of Chargeable Gains Act (TCGA) 1992 (see CG53400P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53400p)).
+
+Shares
+
+Where the sum received from RFL is chargeable to tax as income or taken into as income, section 37 TCGA 1992 will exclude from the consideration that much of the sum. If any of the sum is capital, there is a disposal of the shares.
+
+ISA
+
+There is an exemption to the above treatment where those assets were held within an Individuals Investment plan such as an ISA. Where the asset(s) in question is held within an ISA, the disposal of these assets should be exempt for CG purposes as per schedule 6, paragraph 4 of the Finance Act 2022.

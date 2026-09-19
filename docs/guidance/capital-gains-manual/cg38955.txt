@@ -1,0 +1,48 @@
+TCGA92/S90 - increase in unmatched section 2(2) amounts does not affect matching in earlier years in transferee settlement - example
+Identifier: CG38955
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38955
+Published: 2016-03-12T10:59:17+00:00
+Updated: 2023-04-25T09:28:55+01:00
+Retrieved (UTC): 2026-09-18T14:40:17.035571+00:00
+
+This example illustrates the principle that you do not adjust the matching of capital payments and section 2(2) amounts in the transferee settlement if the section 2(2) amounts are increased on a transfer.
+
+All the settled property of the transferor settlement is transferred to the transferee settlement for nil consideration in 2012-13. No capital payments have been made out of the transferor settlement. The transferor settlement has the following gains made by the trustees:
+
+Year |  - |  Amount |
+
+2005-06 |  Trustees’ gains (section 2(2) amount) |  £20,000 |
+
+2012-13 |  Section 2(2) amount on transfer of all settled property |  £75,000 |
+
+The transferee settlement acquires these unmatched section 2(2) amounts. They are added to any unmatched section 2(2) amounts it already has. This applies whatever the residence status of the transferee settlement.
+
+The unmatched section 2(2) amounts in the transferor settlement are now reduced to Nil.
+
+In its own right the transferee settlement had:
+
+Year |  - |  Amount |
+
+2001-02 |  Trustees’ gains (section 2(2) amount) |  £10,000 |
+
+2004-05 |  Capital payments |  £30,000 |
+
+2006-07 |  Trustees’ gains (section 2(2) amount) |  £50,000 |
+
+This has resulted in chargeable gains treated as accruing to the beneficiary of:
+
+Year |  Amount |  - |
+
+2004-05 |  £10,000 |  (Also possible increase in tax charged under TCGA92/S91) |
+
+2006-07 |  £20,000 |  - |
+
+There is no reworking of this matching when section 2(2) amounts are transferred from the transferor settlement. So the 2005-06 section 2(2) amount transferred in is not matched with any of the 2004-05 capital payments. The transferee settlement has unmatched section 2(2) amounts to carry forward of:
+
+Year |  Amount |  - |
+
+2005-06 |  £20,000 |  From transferor settlement |
+
+2006-07 |  £30,000 |  In its own right |
+
+2012-13 |  £75,000 |  From transferor settlement |

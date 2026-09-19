@@ -1,0 +1,83 @@
+Transfers: transfers to a QROPS: transfers from non-registered pension schemes to a QROPS
+Identifier: PTM102100
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102100
+Published: 2017-12-01T12:48:12+00:00
+Updated: 2024-03-27T12:12:09+00:00
+Retrieved (UTC): 2026-09-18T14:49:41.524559+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+The tax treatment of a transfer from a non-registered pension scheme to a qualifying recognised overseas pension scheme (QROPS) depends on the source of the transfer and when the transfer was made.
+
+Transfer from a QROPS or former QROPS (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102100#qrops)
+Transfer from a relevant non-UK scheme (RNUKS) that has never been a QROPS (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102100#rnuks)
+Transfers from a scheme that is not a relevant non-UK scheme (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102100#efrbs)
+The overseas transfer charge on an onward transfer (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102100#otc)
+
+Transfer from a QROPS or former QROPS
+
+A transfer out from a QROPS (or former QROPS) to another QROPS that includes a ring-fenced transfer fund (see PTM113230 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113230)) may be subject to the overseas transfer charge – see below. Whether or not the transfer is subject to the tax charge and to what extent depends on the type of funds being transferred.
+
+The scheme manager of the QROPS (or former QROPS) should give the receiving QROPS scheme manager a transfer statement in accordance with PTM103150 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm103150). This statement should include details of the type of the member’s UK funds that are included in the transfer.
+
+If the transfer includes a member’s ring-fenced transfer fund, relevant transfer fund or UK tax-relieved fund, the transfer is a payment that needs to be considered under the member payment provisions (PTM113230 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113230) provides a definition for each type of UK fund). If the transferring member is within scope of the member payment charges and provisions (see PTM113210 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113210)) the transfer will be subject to the unauthorised payments charge (and surcharge) unless the transfer is a recognised transfer. There are extra conditions to be met if the sums and assets being transferred represent a pension in payment – see PTM104000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm104000) and PTM107000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm107000).
+
+A transfer from another QROPS or former QROPS received before 9 March 2017 will form part of the member’s relevant transfer fund – to the extent of any UK tax-relieved fund or relevant transfer fund transferred. An onward transfer of these funds cannot be subject to the overseas transfer charge.
+
+To the extent that the funds being transferred on or after 9 March 2017 represent a relevant transfer fund under the transferring scheme, this is a relevant transfer fund under the receiving QROPS. An onward transfer of these funds cannot be subject to the overseas transfer charge.
+
+To the extent that the funds being transferred on or after 9 March 2017 represent a ring-fenced transfer fund, this creates a ring-fenced transfer fund under the receiving QROPS. An onward transfer of these funds may be subject to the overseas transfer charge.
+
+How the transfer of a member’s UK tax-relieved fund made on or after 9 March 2017 is treated depends on whether the transferring scheme is a QROPS or former QROPS when the transfer is made.
+
+A transfer of a member’s UK tax-relieved fund made from a QROPS on or after 9 March 2017 creates a ring-fenced transfer fund under the receiving QROPS. An onward transfer of these funds may be subject to the overseas transfer charge.
+
+A transfer of a member’s UK tax-relieved fund made from a former QROPS:
+
+- went into a relevant transfer fund if the transfer was made before 6 April 2017; an onward transfer of these funds cannot be subject to the overseas transfer charge
+
+- creates a ring-fenced transfer fund under the receiving QROPS if the transfer is made on or after 6 April 2017; an onward transfer of these funds may be subject to the overseas transfer charge.
+
+To the extent that the transferred funds are out of scope of the member payment provisions (see PTM113210 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113210)) the transfer may be a relevant step for the purposes of Part 7A Income Tax (Earnings and Pensions) Act 2003 (ITEPA). As a result the transfer may generate a charge to earnings on the transferring member. Guidance on the operation of Part 7A ITEPA and when a tax charge arises, or does not arise, can be found in the Employment Income Manual starting at EIM45000 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45000).
+
+Transfer from a relevant non-UK scheme (RNUKS) that has never been a QROPS
+
+A transfer from a relieved RNUKS to a QROPS which took place before 6 April 2024 could not be subject to the overseas transfer charge, however where such a transfer takes place on or after that date it may be subject to the overseas transfer charge unless it is a block transfer (see PTM102200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102200)).
+
+A transfer from such a scheme to a QROPS cannot be subject to the overseas transfer charge.
+
+If the transfer includes a member’s UK tax-relieved fund (see PTM113230 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113230)) the transfer is a payment that needs to be considered under the member payment provisions. If the transferring member is within scope of the member payment charges and provisions (see PTM113210 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113210)) the transfer will be subject to the unauthorised payments charge (and surcharge) unless the transfer is a recognised transfer. There are extra conditions to be met if the sums and assets being transferred represent a pension in payment – see PTM104000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm104000) and PTM107000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm107000).
+
+The transfer of a member’s UK tax-relieved fund made before 6 April 2017 went into a relevant transfer fund (see PTM113230 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113230)) for the member under the QROPS. An onward transfer of this fund cannot be subject to an overseas transfer charge.
+
+The transfer of a member’s UK tax-relieved fund made to a QROPS on or after 6 April 2017 creates a ring-fenced transfer fund (see PTM113230 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113230)) under the QROPS. An onward transfer of this ring-fenced transfer fund to another QROPS may be subject to an overseas transfer charge (see below).
+
+To the extent that the transferred funds are out of scope of the member payment provisions (see PTM113210 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113210)) the transfer may be a relevant step for the purposes of Part 7A Income Tax (Earnings and Pensions) Act 2003 (ITEPA). As a result, the transfer may generate a charge to earnings on the transferring member. Guidance on the operation of Part 7A ITEPA and when a tax charge arises, or does not arise, can be found in the Employment Income Manual starting at EIM45000 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45000).
+
+Transfers from a scheme that is not a relevant non-UK scheme
+
+A transfer from such a scheme to a QROPS cannot be subject to an overseas transfer charge. As the transfer into the QROPS does not create a ring-fenced transfer fund, any onward transfer from the QROPS also cannot be subject to an overseas transfer charge.
+
+If the transferring scheme was related to the member’s employment it is possible that the transfer creates an employment income charge under Part 7A ITEPA. Guidance on the operation of Part 7A ITEPA and when a tax charge arises, or does not arise, can be found in the Employment Income Manual starting at EIM45000 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45000).
+
+The overseas transfer charge on an onward transfer
+
+Unless a specific exclusion applies (see below), an overseas transfer charge applies to the transferred value of the onward transfer of a ring-fenced transfer fund made within the ‘relevant period’ for the original transfer that created the ring-fenced transfer fund under the QROPS. The key date of a ring-fenced transfer fund (see PTM113230 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113230)) is the date of the ‘original transfer’.
+
+The relevant period starts from the date of the original transfer (the key date for the ring-fenced transfer fund) and ends on:
+
+- where the transfer is made on 6 April, 5 years from that date
+
+- where the transfer is made on any other date, the period from that date until the next 5 April plus a further 5 years from 6 April.
+
+Where one or more of the exclusion conditions is met, but:
+
+- the original transfer was a block transfer from a relieved RNUKS, and
+
+- the transferred value exceeds the member’s available overseas transfer allowance
+
+the excess will be subject to an overseas transfer charge
+
+The essential principles of the overseas transfer charge are explained at PTM102200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102200). This page also sets out when the exclusions mentioned above apply.
+
+Where the transfer is subject to an overseas transfer charge, both the transferring scheme manager and the member will be liable to the tax charge.

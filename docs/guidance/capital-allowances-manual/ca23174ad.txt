@@ -1,0 +1,36 @@
+Plant and Machinery Allowance (PMA): First Year Allowance (FYA): Full expensing and 50% allowance for special rate expenditure: Disposal of assets on which full expensing has been claimed – computing the balancing charge
+Identifier: CA23174AD
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23174ad
+Published: 2023-10-09T16:31:08+01:00
+Updated: 2023-10-09T16:31:01+01:00
+Retrieved (UTC): 2026-09-18T16:21:46.835215+00:00
+
+CAA01/S59A
+
+Where a disposal event occurs in respect of plant or machinery on which full expensing has been claimed, a balancing charge arises for that disposal.
+
+The balancing charge arises in the accounting period in which the disposal event occurs. There is guidance on disposal events at CA23240 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240).
+
+The balancing charge is the ‘relevant proportion’ of the disposal value of the plant or machinery. The disposal value is determined in the normal way. There is guidance on disposal values at CA23250 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23250).
+
+Calculating the ‘relevant proportion’
+
+The relevant proportion is calculated by dividing:
+
+- the amount of expenditure on the plant or machinery in respect of which full expensing has been claimed, by
+
+- the total amount of expenditure on the plant or machinery in respect of which full expensing or any other first-year allowance has been claimed or has been pooled for that or any other accounting period.
+
+Where full expensing has been claimed for the full cost of the asset, the relevant proportion will be 1. Therefore, the balancing charge will be the whole of the disposal value.
+
+Total disposal receipts
+
+CAA01/S55 determines entitlement to a capital allowance, or liability to a balancing charge, in respect of a pool. As explained at CA23200 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23200), when determining that entitlement or liability the total disposal receipts (TDR) required to be brought into account are deducted from available qualifying expenditure (AQE). In order to ensure that disposal receipts which are subject to a balancing charge are not also deducted from AQE for the relevant pool to which the expenditure on which full expensing has been claimed was allocated, TDR is reduced by the amount of the balancing charge.
+
+Example 1 – disposal where full expensing claimed in full
+
+On 15 March 2024, Hunter and Ball Ltd incurs £10m on a machine and claims full expensing in respect of the full amount in its accounting period ending 31 December 2024. On 30 September 2028, Hunter and Ball Ltd sells the machine for £4m. As full expensing was claimed in respect of all of the expenditure, the relevant proportion is 10m ÷ 10m = 1. Therefore, the amount of the balancing charge is 1 x £4m = £4m. The balancing charge is brought into account in the accounting period ending 31 December 2028. None of the disposal receipts are taken to the main pool because they have been brought into account through the balancing charge.
+
+Example 2 – disposal where full expensing claimed in part
+
+On 20 July 2025, Hunter and Ball Ltd incurs £10m on manufacturing plant. The company claims £6m of full expensing and adds the remaining balance of expenditure of £4m to the main rate pool. On 12 November 2030, Hunter and Ball Ltd sells the plant for £4m. The relevant proportion is 6m ÷ 10m = 0.6. Therefore, the amount of the balancing charge is 0.6 x £4m = £2.4m. The balancing charge is brought into account in the accounting period ending 31 December 2030. The remaining £1.6m of the £4m disposal value is taken to the main pool in the normal way, which may give rise to a further balancing charge in that pool.

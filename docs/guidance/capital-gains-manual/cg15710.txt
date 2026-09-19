@@ -1,0 +1,68 @@
+Compensation: part of capital sum not applied not `small'
+Identifier: CG15710
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15710
+Published: 2016-03-12T10:11:55+00:00
+Updated: 2023-04-11T10:10:33+01:00
+Retrieved (UTC): 2026-09-18T14:38:09.239002+00:00
+
+If condition 2 in CG15700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15700) is not satisfied because the part of the capital sum (see CG12940 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12940)) which is not used to restore the asset, is not ‘small’ (see CG15703 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15703)) then the owner cannot claim for the receipt of the capital sum not to be treated as a disposal of the asset. Instead the whole of the capital sum is treated as a disposal.
+
+However, the recipient can claim under s23(3) TCGA92 to have the part of the capital sum which was applied in restoring the asset deducted from the acquisition cost of the asset.
+
+The part of the capital sum which was not applied in restoring the asset is treated as a part-disposal under s22(1) TCGA92 (see CG12948 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12948)). The part disposal formula of A/A+B where
+
+A = the amount not applied in restoration
+
+and
+
+B= the value of the restored asset
+
+is applied to the original acquisition cost to determine the allowable costs.
+
+The part of the capital sum used in restoration is deducted from allowable expenditure on any later disposal of the asset.
+
+Example
+
+Mr C buys an asset for £50,000 and insures it. In 2017 it is damaged by fire. Mr C receives compensation of £20,000 in November 2017 and in the same month spends £15,000 on restoring the asset. The value of the asset after restoration is £75,000. Mr C makes a claim under s23(3) TCGA92. In June 2018 he sells the asset for £80,000.
+
+The amount which was not spent on restoration is £5,000. This is more than 5% of the compensation (£20,000 x 5% = £1,000).
+
+The amount not used in restoration is not ‘small’. Mr C cannot claim for the receipt of the capital sum not to be treated as a disposal of the asset under s23(1) TCGA92, but he can make a claim under s23(3) TCGA92.
+
+The £5,000 not spent on restoration is therefore treated as the consideration for a part-disposal of the asset.
+
+Step 1 - the part disposal computation
+
+- |  - |  £ |
+
+Consideration (amount not used) |  - |  5,000 |
+
+Less acquisition cost |  50,000 x [5,000 / (5,000 + 75,000)] |  3,125 |
+
+Less restoration cost |  15,000 x [5,000 / (5,000 + 75,000)] |  938 |
+
+Equals chargeable gain |  - |  937 |
+
+The £15,000 spent on restoring the asset is then deducted from the net cost in computing the expenditure on the subsequent disposal of the asset.
+
+Step 2 - the remaining cost
+
+- |  £ |
+
+Acquisition cost (50,000 - 3,125) |  46,875 |
+
+Plus restoration cost (15,000 - 938) |  14,062 |
+
+Less compensation used to restore asset |  15,000 |
+
+Equals Remaining Cost |  45,937 |
+
+Step 3 - subsequent disposal computation
+
+- |  £ |
+
+Disposal proceeds |  80,000 |
+
+Less remaining cost |  45,937 |
+
+Equals chargeable gain |  34,063 |

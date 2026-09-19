@@ -1,0 +1,30 @@
+Pre-owned assets: specific avoidance schemes: land - lease carve-out scheme
+Identifier: IHTM44100
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44100
+Published: 2016-04-09T10:31:55+01:00
+Updated: 2016-02-11T17:26:40+00:00
+Retrieved (UTC): 2026-09-18T15:10:29.709311+00:00
+
+This scheme, known as an ‘Ingram’ scheme, involved a nominee structure where an individual gives their home to nominees who then grant the individual a lease to occupy the house. The lease is usually for 21 years or less at a peppercorn rent. The nominee then gives the property, subject to the lease, away to (usually) the individual’s children. The individual continues to occupy the property under the lease.
+
+There is no loss to the transferor’s estate (IHTM04054) when the property is given to the nominees and the individual does not reserve a benefit in the property that was given away - the freehold reversion - although they continue to occupy the property.
+
+HMRC challenged the scheme and lost in the case of Ingram v IRC [1999] STC 37, HL. Consequently, legislation was introduced with effect from 8 March 1999 to reverse the decision (IHTM14360 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14360)). The impact of this legislation on the POA charge is as follows
+
+- where the scheme was effected on or after 9 March 1999, the property will be subject to a reservation of benefit for Inheritance Tax purposes by reason of FA86/S102A. As a result the exemption under FA04/Sch15/Para11(3) will apply (IHTM44044 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44044)),
+
+- where the scheme was effected before 9 March 1999, the arrangement succeeds in avoiding the reservation of benefit provisions and will be subject to the POA charge under FA04/Sch15/Para3(2) (IHTM44004 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44004)).
+
+Where the scheme is subject to the POA charge, the value subject to the charge will be calculated in accordance with FA04/Sch15/Para4(2) (IHTM44010 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44010)). You will need to obtain three values to correctly assess the POA charge
+
+- the rental value (R), say, £25,000,
+
+- the value at the valuation date (IHTM44011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44011)) of the interest that was disposed of (DV); in this case, that will be value of the freehold subject to the lease, say, £500,000, and
+
+- the value of the property at the valuation date (V), say, £800,000.
+
+Following the formula at IHTM44010 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44010), the amount subject to the POA charge is
+
+25,000 × 500,000 ÷ 800,000 = £15,625.
+
+Note that as the term of the retained lease gets shorter, so the value of the interest that was disposed of (DV) will increase. The initial value will apply for the first five years of the POA charge, but on revaluation (IHTM44011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44011)) the portion of the rental value that is subject to the POA charge is likely to be higher.

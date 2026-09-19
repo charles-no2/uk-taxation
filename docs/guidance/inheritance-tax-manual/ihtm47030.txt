@@ -1,0 +1,58 @@
+Long-term UK residence: Spouse or civil partner exemption: Not a long-term UK resident
+Identifier: IHTM47030
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47030
+Published: 2025-04-07T08:02:02+01:00
+Updated: 2025-04-07T08:45:14+01:00
+Retrieved (UTC): 2026-09-18T15:11:11.362922+00:00
+
+Where, immediately before the transfer;
+
+-
+
+the transferor is long-term UK resident (IHTM47020 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47020)) but
+
+-
+
+the transferor’s spouse or civil partner (IHTM11032) (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11032) is not a long-term UK resident
+
+the exemption for transfers between spouses and civil partners is restricted. The exemption is limited to the nil-rate band that applies at the date of transfer.
+
+This restriction to the amount of the exemption does not apply if;
+
+-
+
+both the transferor and their spouse or civil partner are long-term UK residents, or
+
+-
+
+the transferor is not a long-term UK resident but the spouse or civil partner is a long-term UK resident
+
+The restriction applies to;
+
+-
+
+the value before grossing (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121))
+
+-
+
+the cumulative total of all transfers to a spouse or civil partner. So, when considering whether the restriction is exceeded, you must take into account the amounts allowed under earlier transfers to a spouse or civil partner, whether or not they were a long-term UK resident at the time, and
+
+-
+
+since the exemption applies to transfers made by an individual, if that person has been married or in civil partnership with more than person, the restriction applies to the cumulative total of all transfers to all spouses or civil partners.
+
+Where the appropriate limit is exceeded, you should allocate the exemption in the way which is most favourable to the spouse or civil partner. Factors you should bear in mind include which assets bear the tax and whether business relief (IHTM25131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25131)), agricultural relief (IHTM24001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24001)) or any other reliefs are available.
+
+Example 1
+
+In August 2026, Pippa, who was a long-term UK resident, transferred £300,000 to Jonathan, who was not a long-term UK resident. Of this transfer, £300,000 is exempt under IHTA1984/S18(2).
+
+Pippa dies in 2030 and leaves all her property to Jonathan, who is still not a long-term UK resident. On Pippa’s death, the remaining exemption of £25,000 (Nil rate band = £325,000 – £300,000 (previous gift to Jonathan)) is now available on her death.
+
+Example 2
+
+In June 2025, David, who has only been resident in the UK for 8 years, transfers a UK property worth £200,000 to his civil partner Phillip. Both are not long-term UK residents. Exemption under IHTA1984/S18 (1) is available in full.
+
+In June 2030, David is now a long-term UK resident and gives another UK property worth £600,000 to Phillip, who is still not a long-term UK resident. The restriction on the exemption under IHTA1984/S18 (2) applies at this point.
+
+At the time of the second transfer, the spouse or civil partner exemption available to Phillip was £325,000. David has already made a gift to Phillip that qualified for exemption under IHTA84/S18 of £200,000, so the exemption available against this transfer is £125,000. This is because IHTA84/S18(2) reduces the amount of the limited exemption available by ‘any amount previously taken into account for the purposes of the exemption conferred by this section’. This means that £475,000 of the transfer will be a potentially exempt transfer (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)) to Phillip and chargeable to tax if David dies before June 2037.

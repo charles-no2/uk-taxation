@@ -1,0 +1,46 @@
+Dwellings subject to ATED: computation of gains and losses: Rule for certain disposals to which both ATED-related CGT and Non-Resident CGT relate
+Identifier: CG73642
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73642
+Published: 2018-05-04T11:21:28+01:00
+Updated: 2018-05-22T13:58:11+01:00
+Retrieved (UTC): 2026-09-18T14:35:46.245629+00:00
+
+TCGA92/Sch 4ZZA/6A is concerned with cases where the gain on a disposal is potentially liable both to CGT as an ATED-related disposal and to non-resident CGT under TCGA92/S14B.
+
+This provision applies where -
+
+- the relevant high value disposal is a non-resident CGT disposal under TCGA/S14B (or is one of several disposals which are treated as comprised in a non-resident CGT disposal); and
+
+- the interest disposed of in the relevant high value disposal was held by the person on 5 April 2015, neither Case 2 nor Case 3 in Sch 4ZZA/para 2 applies, and no election under Sch 4ZZA/para 5 (or Sch 4ZZB/para 2(1)(b)) is made in relation to the chargeable interest which (or a part of which) is the subject of the relevant high value disposal.
+
+Case 2 in paragraph 2 of Sch 4ZZA is broadly that the interest disposed of was held on 5 April 2015 and there no was no charge to ATED in the period ending 31 March 2015 during which the person held the interest disposed of. Case 3 is that interest disposed of was held by the person on 5 April 2016, and there no was no charge to ATED in the period ending 31 March 2016 during which the person held the interest disposed of. The elections mentioned are for the retrospective basis of computation to apply in relation to that interest; the person has the option of so electing where they not want rebasing to apply as it otherwise would.
+
+The ATED-related gain or loss on the relevant high value disposal is computed as follows -
+
+- Step 1, determine the amount of the post-April 2015 ATED-related gain or loss.
+
+- Step 2, determine the amount of the pre-April 2015 ATED-related gain or loss.
+
+- Step 3, add these amounts together (treating any amount which is a loss as a negative amount).
+
+If the result is positive, that is the ATED-related gain on the relevant high value disposal. If it is negative, that is the ATED-related loss on the relevant high value disposal.
+
+The post-April 2015 ATED-related gain or loss is the amount that would be given by Sch 4ZZA/para 3(1) as the amount of the ATED-related gain or loss, if 2015 was the relevant year for the purposes of that paragraph. The “pre-April 2015 ATED-related gain or loss” is the relevant fraction of the notional pre-April 2015 gain or loss.
+
+“The relevant fraction” is -
+
+CD
+
+TD
+
+where “CD” is the number of days in the relevant ownership period which are ATED chargeable days; and “TD” is the total number of days in the relevant ownership period.
+
+If the interest disposed of was not held by the person on 5 April 2013, the “notional pre-April 2015 gain or loss” is the gain or loss that would have accrued on 5 April 2015 if the interest had been disposed of on that date for market value on that date.
+
+If the interest disposed of was held by the person on 5 April 2013, the “notional pre-April 2015 gain or loss” is the gain or loss that would have accrued on 5 April 2015 if the person had -
+
+- acquired the interest on 5 April 2013 for its market value on that date, and
+
+- disposed of it on 5 April 2015 for its market value on that date.
+
+“Relevant ownership period” means the period beginning with the day on which the person acquired the chargeable interest (or, if later, 6 April 2013), and ending with 5 April 2015. For how to compute the amount of the gain or loss on the relevant high value disposal that is neither ATED-related nor an NRCGT gain or loss, see Sch 4ZZB/paras 16 to 19.

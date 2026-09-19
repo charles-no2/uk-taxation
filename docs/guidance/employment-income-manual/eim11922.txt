@@ -1,0 +1,20 @@
+PAYE: meaning of readily convertible assets: examples: asset listed on the New York Stock Exchange
+Identifier: EIM11922
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11922
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2026-04-22T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:09:42.959202+00:00
+
+Section 702(1)(a)(iii) ITEPA 2003
+
+The employer is the UK subsidiary of a multinational company based in the USA, whose shares are listed on the New York Stock Exchange (NYSE).
+
+On 30 June 2002 an employee of the UK subsidiary is awarded 1,000 shares in the US parent company under a share incentive plan, conditional on the employee still being in employment with a group company on 30 June 2003.
+
+The employee is still employed by the UK company on 30 June 2003 and accordingly full beneficial interest in the shares vests in the employee. The quoted value of those shares on 30 June 2003 is £10 per share. There are no restrictions on sale of the shares.
+
+Is the employer required to operate PAYE on the shares?
+
+The employee only receives the shares on 30 June 2003. The shares are worth £10,000 (1,000 x £10) and the employee was not required to make any contribution to the cost of the shares. The money's worth of the shares (see Share Schemes Manual, SSM4.5) of £10,000 is chargeable to tax as employment income under Part 2 ITEPA 2003 and is therefore PAYE income for Part 11 ITEPA 2003.
+
+The US company shares are listed on the NYSE, which is not a recognised investment exchange and so the shares are not readily convertible assets by reason of Section 702(1)(a)(i) ITEPA 2003. But the shares are readily convertible assets by reason of Section 702(1)(a)(iii). Therefore the employer must operate PAYE on £10,000 at the date of award (see EIM11903 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11903)).

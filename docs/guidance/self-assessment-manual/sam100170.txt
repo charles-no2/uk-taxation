@@ -1,0 +1,12 @@
+Records: set up taxpayer record: postcodes
+Identifier: SAM100170
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam100170
+Published: 2016-04-08T17:06:14+01:00
+Updated: 2016-02-23T14:51:26+00:00
+Retrieved (UTC): 2026-09-18T16:19:35.797364+00:00
+
+For tracing purposes using the Taxpayer Business Service (TBS), postcodes are crucial in SA. The correct postcode is vital to ensure the links between the different frameworks are correct. New SA cases must be set up using a postcode plus a validated national insurance number (NINO) from form CWF1 or SA401 or SA402 or SA1. Form SA400 which is used to register partnerships will not contain a NINO.
+
+Postcodes and the Abroad signal
+
+A postcode cannot be entered where an Abroad signal is set.

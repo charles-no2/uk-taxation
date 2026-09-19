@@ -1,0 +1,12 @@
+Records: maintain taxpayer record: inhibition of statements
+Identifier: SAM101150
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101150
+Published: 2016-04-08T17:08:44+01:00
+Updated: 2016-02-23T14:51:49+00:00
+Retrieved (UTC): 2026-09-18T16:19:43.921463+00:00
+
+Exceptionally, you may want to stop the issue of the taxpayer statement for a limited period, for example, where the taxpayer has died.
+
+Each office has a nominated Statement Control Officer (SCO), who will consider requests for statement inhibition. Separate instructions are held by that officer. Subject to approval to inhibit statement issue, function MAINTAIN STATEMENT INHIBITION is available to the Clerical Processing Officer and Clerical Caseworker for this purpose. The SCO will then monitor progress towards lifting the inhibition.
+
+For more information see section ‘Statement Issue’ (SAM131000 (https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam131000) onwards).

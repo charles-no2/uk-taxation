@@ -1,0 +1,42 @@
+Class 1 NICs: Earnings of employees and office holders: retirement benefits schemes from 6th April 2006: employer-financed retirement benefits schemes: payments from such schemes: authorised member payments:
+Identifier: NIM02770
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim02770
+Published: 2016-04-11T17:08:36+01:00
+Updated: 2021-12-30T13:42:46+00:00
+Retrieved (UTC): 2026-09-18T15:22:29.985531+00:00
+
+Pension commencement lump sums: amount that can be disregarded
+
+Paragraph 10(4)(b), (5)(b) and (6)(a)(ii) and (b) of Part 6 of Schedule 3 to the Social Security (Contributions) Regulations 2001 (as inserted by regulation 8(6) of the Social Security (Contributions) (Amendment No. 2) Regulations 2006)
+
+Paragraphs 1(2) and 2 of Schedule 29 to Finance Act 2004, as modified by paragraph10(6)(a)(ii) and (b) above
+
+As mentioned in the final bullet in NIM02769 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim02769), there is a limit on the amount of a pension commencement lump sum (“PCLS”) that can be disregarded in the calculation of earnings. That limit is referred to in paragraph 10(6) as “the permitted lump sum” (“PLS”).
+
+The calculation of the PLS is based broadly on that used for calculating the maximum amount of a PCLS that may be paid tax-free - in broad terms, roughly 25% of the value of an individual’s pension rights (paragraph 2 of Schedule 29; RPSM09104220).
+
+Where the amount of the PCLS exceeds the amount of the PLS, no amount of it can be disregarded in the calculation of earnings.
+
+The PLS is the higher of:
+
+MVF=4 and LS + (MAP x 20) = 4
+
+where:
+
+MVF is the market value of the employee’s employer-financed retirement benefits scheme (“EFRBS”) fund at the time the benefit is paid to the employee
+
+LS is the amount of the lump sum
+
+MAP is the maximum annual pension which could be paid to the employee under the arrangement.
+
+Example
+
+The MVF of employee A’s EFRBS fund is £100,000. The amount of the PCLS is £25,000. The MAP is £10,000 a year.
+
+The PLS (ie, the amount that can be disregarded in the calculation of earnings) is the higher of:
+
+£100,000 ÷ 4 = £25,000 and
+
+£25,000 + (£10,000 x 20) = £225,000 ÷ 4 = £56,250
+
+As the amount of PCLS - £25,000 – is less than the PLS - £56,250 – the whole amount of the PCLS can be disregarded in the calculation of earnings.

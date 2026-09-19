@@ -1,0 +1,18 @@
+Traded options: LIFFE: purchaser of option: closing sales
+Identifier: CG55525
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55525
+Published: 2016-03-12T11:37:37+00:00
+Updated: 2016-01-26T09:49:57+00:00
+Retrieved (UTC): 2026-09-18T14:33:27.074101+00:00
+
+It is not necessary for the purchaser of an equity option to realise profit through exercising the option. It is also possible to take profit by making a closing sale. This involves selling an option identical to the one they hold and has the effect of extinguishing their rights as option holder. An option holder may also make a closing sale to stop further losses.
+
+The purchaser of an option can never make a loss greater than the premium they have paid. By making a closing sale they will limit the loss (or crystallise the profit) to the difference between the amount paid for the option and the premium received on making the closing sale.
+
+Example
+
+Continuing the example in CG55520, Mr Smith has 10 January 260p call contracts over XYZ PLC shares which cost £2,400. The market price of XYZ PLC shares rises to 300p and the premium on a January 260p call option rises to 50p per share. Mr Smith sells 10 contracts receiving proceeds of 10 x 1,000 x 50p = £5,000 (less dealing costs). He makes a profit of £2,600.
+
+If the price of the shares had fallen the premium may have fallen to 1Op a share. If Mr Smith makes a closing sale he would receive proceeds of 10 x 1,000 x 1Op = £1,000. He makes a loss of £1,400.
+
+For the tax treatment of transactions in traded options see CG55536.

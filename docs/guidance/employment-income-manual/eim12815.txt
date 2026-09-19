@@ -1,0 +1,16 @@
+Termination payments and benefits: interaction with benefits received during employment
+Identifier: EIM12815
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim12815
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2021-11-26T12:18:00+00:00
+Retrieved (UTC): 2026-09-18T14:09:59.820727+00:00
+
+Sections 401 and 63 ITEPA 2003
+
+It’s common for benefits provided to employees during employment to continue beyond the date of termination, usually by a specific agreement made at the time. For example, an employee provided with private use of a car may, as part of the termination package, continue to use it for a specified period following the termination.
+
+The resulting interactions between the benefits code (see EIM21001 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21001)) and section 401 ITEPA 2003 can be complex, but as a matter of practice benefits that straddle the termination should be apportioned on a time basis, those falling after termination being taxed under section 401 ITEPA 2003 and calculated following EIM13270 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13270). There are examples of this at EIM13905  (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13905)and EIM13906 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13906).
+
+For living accommodation, calculate the charge following EIM13330  (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13330)and then apportion on a time basis. For example, if in the year of termination the property is provided for 3 months in the tax year following termination, 3/12 of the charge calculated under EIM13330 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13330) onwards should be included in section 401 ITEPA 2003.
+
+Note that section 401 ITEPA 2003 applies to all employees. An employee may have not been charged on a particular benefit during employment under the benefits code if the employment was an excluded employment (see EIM20007 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim20007)). The excluded employment concept has no relevance for section 401 ITEPA 2003 and so a charge on that benefit may arise for the first time after termination of employment.

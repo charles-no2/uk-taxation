@@ -1,0 +1,52 @@
+Investors’ Relief: Calculating relief: Disposal where not all shares are qualifying shares
+Identifier: CG63570
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63570
+Published: 2017-09-07T13:14:06+01:00
+Updated: 2017-09-07T13:15:39+01:00
+Retrieved (UTC): 2026-09-18T14:34:03.379838+00:00
+
+TCGA92/S169VD
+
+There are no special rules for calculating the gain on a disposal of shares that may qualify for Investors’ Relief. However, where the disposal involves a holding of shares and only some are qualifying shares, then only part of the gain will be subject to Investors’ Relief. To calculate the appropriate part of the gain which is subject to relief the following fraction must be applied–
+
+Gain x Q/T
+
+Q = number of qualifying shares in the holding
+
+T = total number of shares disposed of
+
+Where the holding has more qualifying shares than shares disposed of Q is restricted to the number of shares disposed of (see example 2).
+
+CG63580 explains how to identify the number of qualifying shares where there have been previous part disposals out of the holding.
+
+See CG63500 for a general description of the relief and the layout of the guidance.
+
+Example 1
+
+Total shares in holding 1000
+
+Qualifying 200
+
+Potentially qualifying 700
+
+Excluded 100
+
+£200 gain on disposal of 300 shares
+
+£200 x 200/300 = £133 of gain available for IR
+
+Example 2
+
+Total shares in holding 1000
+
+Qualifying 200
+
+Potentially qualifying 700
+
+Excluded 100
+
+£50 gain on disposal of 100 shares
+
+In this example there are more qualifying shares in the holding (200) than shares disposed of (100) so Q is restricted to the number of shares disposed of (100).
+
+£50 x 100/100 = £50 of gain available for Investors’ Relief

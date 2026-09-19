@@ -1,0 +1,20 @@
+General: claims: how capital allowances are made
+Identifier: CA11110
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11110
+Published: 2016-04-16T08:41:08+01:00
+Updated: 2026-03-30T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:20:22.068485+00:00
+
+Section 2 CAA01
+
+Capital allowances are made for a chargeable period (CA11510 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11510)). The amount of WDA for a chargeable period depends upon the length of that period (see ‘Capital allowances: accounting periods which are more or less than a year’ (https://www.gov.uk/guidance/capital-allowances-accounting-periods-which-are-more-or-less-than-a-year) for an example).
+
+Similarly, Annual Investment Allowance must be proportionately increased or reduced when a chargeable period is more or less than a year. For example, if a chargeable period is 6 months long, in a year in which the AIA is set at £1 million, the maximum AIA for that 6 month period is 6/12 x £1 million = £500,000.
+
+The length of a chargeable period does not affect the amount of a first-year allowance, initial allowance, balancing allowance or balancing charge. For example, where the rate of FYA is 100%, 100% is the rate of FYA for a chargeable period of 1 month and it is also the rate for a chargeable period of 12 months.
+
+In Income Tax cases, capital allowances for a chargeable period are made in calculating income for that chargeable period. In Corporation Tax cases capital allowances are made in calculating profits for a chargeable period. When you adjust the profits shown by the accounts to get to the taxable profits deduct capital allowances as if they were an expense of the business and add balancing charges in the same way as you add back depreciation.
+
+Example
+
+Jim runs the Morristown hotel. He draws up his accounts to 31 December every year. His accounts for the year ended 31 December 2018 show profits of £48,000. The depreciation charged in the accounts is £2,000. The capital allowances due are £5,000 and there is a balancing charge of £10,000. His taxable profits for his period of account 1/1/2018 to 31/12/2018 are £55,000 = £48,000 (profits per accounts) + £2,000 (depreciation) + £10,000 (balancing charge) - £5,000 (capital allowances).

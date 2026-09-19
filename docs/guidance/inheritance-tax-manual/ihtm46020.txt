@@ -1,0 +1,16 @@
+Calculating the RNRB: introduction
+Identifier: IHTM46020
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46020
+Published: 2017-04-05T15:59:50+01:00
+Updated: 2018-09-27T16:04:59+01:00
+Retrieved (UTC): 2026-09-18T15:10:53.775181+00:00
+
+To calculate the RNRB that is due on a particular estate the first step is to establish the maximum RNRB that could possibly apply to that particular estate, including any transferred RNRB (TRNRB) (IHTM46040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46040)) from the estate of a pre-deceased spouse or civil partner. If the value of the estate is below the taper threshold (IHTM46023 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46023)) this value is referred to as the ‘default allowance’ (IHTM46024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46024)). If the estate is above the taper threshold, then this value is referred to as the ‘adjusted allowance’ (IHTM46025 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46025)).
+
+The second step is to establish the value of the qualifying residential interest (QRI) (IHTM46011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46011)) that is closely inherited (IHTM46013 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46013)). This is its value as part of the chargeable transfer on death (IHTM46012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46012)), so is the value of the QRI after any reliefs. Grossing up (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121)) or interaction (IHTM26101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26101)) are taken into account in establishing this value.
+
+The amount of RNRB available to the estate is the lower of these two values.
+
+If the value of the QRI that is closely inherited is higher than the default allowance or the adjusted allowance , all of the available RNRB has been used up and you stop there.
+
+But if the value of the QRI that is closely inherited is less that the default allowance or the adjusted allowance, it is possible for some extra RNRB to be available in the form of a downsizing addition (IHTM46050 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46050)) or for there to be unused RNRB that could be transferred to the estate of a surviving spouse or civil partner (IHTM46040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46040)).

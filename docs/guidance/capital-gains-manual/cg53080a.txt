@@ -1,0 +1,40 @@
+Substantial shareholdings exemption: the substantial shareholding requirement - aggregation of periods when shares held
+Identifier: CG53080A
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53080a
+Published: 2016-03-12T11:29:02+00:00
+Updated: 2026-08-19T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:32:37.013476+00:00
+
+TCGA92/SCH7AC/PARA10, TCGA92/SCH7AC/PARA11
+
+TCGA1992/Sch7AC/Para 10 contains the rules for no gain/no loss transactions. Where the company making the disposal of the shares acquired them by way of a no gain/no loss transfer, the period over which it is treated as if it held the shares is extended back through any series of such transfers. Also, the company making the disposal is treated as having been entitled to the rights enjoyed by the holders of the shares over this period.
+
+In certain circumstances the normal no gain/no loss rule in TCGA1992/S171(1) is disapplied by TCGA1992/S171(3), see CG45550 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45550) onwards. However, for the purposes of joining together periods of ownership to decide whether the substantial shareholding requirement is met this disapplication is over-ridden - see TCGA1992/Sch7AC/Para 10(2). So periods of ownership before and after a transfer to which TCGA1992/S171(3) applies can be aggregated in determining whether the substantial shareholding requirement is satisfied.
+
+For example,
+
+- Company A has two wholly owned subsidiaries, companies B and C.
+
+- Company A holds (say) 20% of the ordinary share capital of company X for 6 months - this is not long enough for the holding to meet the substantial shareholding requirement.
+
+- At the end of that 6 months company A transfers its company X shares to company B - TCGA1992/S171(1) applies so this is a no gain/no loss transfer.
+
+- After a further month company B transfers the shares in company X to company C - again, at no gain/no loss under TCGA1992/S171(1).
+
+- After a further 6 months company C sells the shares in company X to a third party. It would calculate the gain or loss on this disposal by reference to the original cost of the shares in company X when company A acquired them.
+
+- Assume that the entitlement to distributable profits and assets attached to the shares in companies X is the same as the percentage of the ordinary share capital held at all times.
+
+Company C has only held the shares in company X for 6 months, but meets the substantial shareholding requirement.
+
+- TCGA1992/Sch7AC/Para10 provides that you look back through the no gain/no loss transfers. You treat company C as if it held the shares in company X throughout the 7 months when companies A and B held them. Adding that 7 month period to the 6 months that company C held the X shares brings the period during which company C is treated as if it held at least 10% of company X's ordinary share capital up to 13 months.
+
+In contrast to the way periods are extended when there is no gain/no loss or no disposal treatment, TCGA1992/Sch7AC/Para11 provides that the holding period of a substantial shareholding ends when a company is deemed to have sold and reacquired shares. Unlike the no gain/no loss or the no disposal situation, when there is a deemed disposal and reacquisition
+
+- the gain or loss on the deemed disposal may be within the substantial shareholdings legislation and exempt if the necessary conditions are satisfied, and
+
+- the gain or loss on the ultimate real disposal of the shares will be based on the market value at which the shares are deemed to be reacquired.
+
+So the holding period for the purpose of deciding whether the substantial shareholding requirement is met runs from the time of the reacquisition, not the time the shares where first acquired.
+
+However, the holding period is not affected where a company migrates to the UK and has been subject to an "EU exit charge" and is treated as acquiring its assets at market value for corporation tax purposes under section 184J TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184J). That rule does not provide for the deemed disposal and reacquisition as required by TCGA1992/Sch7AC/Para11.

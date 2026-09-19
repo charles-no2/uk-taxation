@@ -1,0 +1,38 @@
+Matching: non-UK domiciled beneficiary - unmatched section 2(2) amount for year before 2008 - 09 - example
+Identifier: CG38770
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38770
+Published: 2016-03-12T10:58:00+00:00
+Updated: 2023-04-24T10:11:46+01:00
+Retrieved (UTC): 2026-09-18T14:47:35.897733+00:00
+
+FA08/Sch07/para124
+
+Year |  - |  Amount |
+
+2005-06 |  Capital payments received |  Nil |
+
+- |  Section 2(2) amount |  £7,000 |
+
+2006-07 |  Capital payments received |  Nil |
+
+- |  Section 2(2) amount |  £5,000 |
+
+2008-09 |  Capital payment received |  £30,000 |
+
+- |  Section 2(2) amount |  £16,000 |
+
+Section 87 gains
+
+The ordinary LIFO rules apply to match the £30,000 capital payment received in 2008-09 against the section 2(2) amounts as follows.
+
+Year |  Amount |
+
+2008-09 |  £16,000 |
+
+2006-07 |  £5,000 |
+
+2005-06 |  £7,000 |
+
+2008-09 section 87 gain |  £28,000 |
+
+If the beneficiary was non-domiciled in 2008-09 they are charged to Capital Gains Tax only on the £16,000 2008-09 section 2(2) amount. The fact that no tax is charged does not stop the 2008-09 capital payment being matched against the section 2(2) amounts for the earlier years and those amounts being reduced to nil. The section 2(2) amount for 2008-09 is reduced to £2,000.

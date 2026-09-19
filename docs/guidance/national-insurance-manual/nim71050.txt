@@ -1,0 +1,60 @@
+Class 2 National Insurance contributions: international: self-employed earners
+Identifier: NIM71050
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim71050
+Published: 2017-06-15T12:14:17+01:00
+Updated: 2024-04-06T07:39:55+01:00
+Retrieved (UTC): 2026-09-18T15:12:34.479097+00:00
+
+This group incorporates self-employed earners who either go to, or come from, abroad to work and remain subject to UK NICs legislation by virtue of the special rules contained in:
+
+- EC Regulations 883/2004 and 987/2009 (and its predecessor Regulations 1408/1971 and 574/1972); or
+
+- an international social security agreement (a Reciprocal Agreement or Double Contribution Convention) that the UK has entered into with another country (for example, the USA)
+
+Such individuals may be:
+
+- resident abroad but wholly self-employed in the UK and subject to UK social security legislation; or
+
+- normally self-employed in the UK but carrying out work abroad temporarily but still subject to UK social security legislation in respect of that self-employment
+
+Where an international worker who is normally self-employed in the UK carries out activities abroad and remains subject to UK legislation under the EC Regulations or an international social security agreement then they may not have a liability for Class 4 NICs. This could either be because:
+
+- their profits are from a trade, profession or vocation carried out wholly outside the UK and therefore no Class 4 NIC liability exists under section 15(1) of the Social Security Contributions and Benefits Act 1992 (SSCBA); and/or
+
+- they are excepted from Class 4 NICs liability on the basis that they are over State Pension age at the beginning of the year of assessment, or are not resident in the UK for income tax purposes during the year of assessment (regulation 91 of the Social Security (Contributions) Regulations 2001 (SSCR)).
+
+The EC Regulations allow a person who is normally self-employed in the UK to perform their work in another member state for up to 24 months whilst still remaining subject to UK social security legislation.
+
+The position is similar for self-employed earners who go to work in a country with which the UK has an international social security agreement (although the periods of continuing UK liability can vary depending on the terms of the respective agreements).
+
+Regulations 148B and 148C of the Social Security (Contributions) Regulations 2001
+
+From 6 April 2015 to 5 April 2022 individuals subject to UK NICs legislation by virtue of the special rules above and who are self-employed earners with relevant profits at or in excess of the small profits threshold (SPT) were required to pay Class 2 NICs on a compulsory basis for each week of self-employment.
+
+From 6 April 2022 rather than the SPT an individual subject to UK NICs legislation has to have relevant profits exceeding the Lower Profits Threshold (LPT) to be liable to pay Class 2 NICs for each week of self-employment. See NIM70001 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim70001).
+
+Such self-employed earners will be required to pay Class 2 NICs through the Self Assessment system if they are otherwise required to file a Self Assessment tax return in the UK in order to pay Class 4 NICs.
+
+If there is no requirement to file a Self Assessment tax return in the UK, such self-employed earners will be required to pay their Class 2 NICs liability by an annual lump sum payment.
+
+Some self-employed earners who remain subject to UK NICs legislation by virtue of the special rules above do not have profits from the UK because their profits have been made in relation to a trade carried out wholly outside the UK but within the EEA or a country covered by an international social security agreement. In such circumstances, their profits would not count for the purposes of Class 4 NICs, nor is there a requirement to file a Self Assessment tax return.
+
+However, their relevant foreign profits should be calculated as if they had derived from an activity in the UK and had been taxed under Chapter 2 of Part 2 of the Income Tax (Trading and Other Income) Act 2005 (ITTOIA) as profits from a trade in the UK. These profits should then be assessed against the SPT, and if the profits are at or above the SPT then the self-employed earner is compulsorily required to pay Class 2 NICs.
+
+Example
+
+Before 6 April 2022 Bob was a self-employed earner in the UK in Year 1 and had profits from his trade in the UK. At the end of Year 1 he was posted to Germany for up to 24 months. In Year 1 Bob did not have profits from a trade carried out wholly outside the UK. He filed a Self Assessment tax return and paid his UK income tax and Class 2 and 4 NICs.
+
+In Year 2 Bob was in Germany. He was covered by Article 12 EC Regulation 883/2004. In accordance with EC regulations and HMRC guidance, HMRC issued an A1 Portable Document (see NIM33000 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim33000)) certifying that Bob was exempt from German social security contributions. Bob lived outside the UK for the whole of this year and was not resident for UK tax purposes. Bob had no profits in the UK, or other UK income and did not file a Self Assessment tax return. He had no liability for Class 4 NICs (regulation 91(b) SSCR 2001 provides exemption from Class 4 NICs where the self-employed earner is not resident in the UK for the purposes of income tax in the year of assessment). Bob worked out his liability for Class 2 NICs by treating his relevant profits for this purpose as if these profits were earned in the UK. Bob made German profits over the SPT and was liable to pay Class 2 NICs. Bob will have been issued with a Class 2 NICs bill by HMRC no later than 31 October following the end of the tax year. Bob had until 31 January following the end of the tax year to submit his lump sum annual payment to HMRC.
+
+In Year 3, Bob returned to the UK and is again in the Self Assessment system. Bob pays his income tax and Class 2 and 4 NICs via his Self Assessment tax return.
+
+¹Note: ‘Relevant profits’ is the figure in respect of which Class 4 NICs would be payable prior to any claim for double taxation relief under a Double Taxation Agreement. Regulation 148B(3) of the SSCR 2001 refers.
+
+If relevant profits are below the SPT then there is no Class 2 NICs liability, and the self-employed earner abroad can opt whether or not to pay voluntary Class 2 NICs under section 11(6) SSCBA 1992. In such circumstances the self-employed earner should inform HMRC that their payment is in respect of voluntary Class 2 NICs. However, if the self-employed earner does not wish to pay voluntary Class 2 NICs, then the payment request issued by HMRC should be noted accordingly (completion of the relevant box) and returned.
+
+See NIM33000 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim33000) for more guidance about periods overseas.
+
+Autumn Statement 2024
+
+From 6 April 2024 the Class 2 Lower Profits Threshold was removed which means that liability to pay Class 2 NICs no longer exists from tax year 2024 to 2025 onwards. A self-employed earner with profits equal to or above the SPT is treated as having actually paid Class 2 NICs. A self-employed earner with profits below the SPT can still choose to pay Class 2 voluntarily.

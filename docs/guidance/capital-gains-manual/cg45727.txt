@@ -1,0 +1,30 @@
+ETMD: transparent entities: mergers
+Identifier: CG45727
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45727
+Published: 2016-03-12T11:08:53+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:41:14.722428+00:00
+
+TCGA 1992 section 140J follows the familiar route of switching off in certain circumstances the no gain/ no loss treatment at the asset tier and the ‘no disposal’ fiction at the shareholder tier which would normally be applied by sections 140E and 140G respectively. Having done this it achieves compliance with the ETMD by allowing double taxation relief for notional foreign tax on the gain which therefore accrues.
+
+Section 140J applies to mergers where one of the merging companies is a
+
+- transparent entity (section 140J(1)(c), see CG45722
+
+- the merger is of a kind mentioned in section 140E(1) (section 140J(1)(a) see CG45706 - CG45709 and,
+
+- the conditions in section 140E(2) are satisfied in relation to the merger (section 140J(1)(b) see CG45710.
+
+If the transferor is a transparent entity then sections 140E and 140G will not apply; section 140J(2)(a).
+
+If the transferee is a transparent entity then section 140G only will not apply; section 140J(2)(b).
+
+It follows that if both the transferor and the transferee are transparent then sections 140E and 140G will not apply.
+
+Persons who incur a liability to tax as result of the application of section 140J may be able to set notional double taxation relief against tax due on the gain that arose from the merger, the ‘merger gain’. The amount of relief is equal to the notional tax that would have been charged under the law of a member state other than the UK if the ETMD had not been implemented in that other member state; section 140J(3).
+
+Section 140J(4) defines what is meant by ‘merger gain’ within section 140I(3) as a gain accruing to a transparent entity (or which would be treated as accruing if it were not transparent) on the transfer of assets by the transparent entity to another company.
+
+In calculating any gain, including the merger gain, then so far as permitted under the law of the relevant state losses arising on the merger are set against gains arising on the merger and any relief available to company A under that law is assumed to have been claimed; section 140J(5).
+
+CG45724 provides an example on notional tax for share exchanges and similar principles will apply for mergers.

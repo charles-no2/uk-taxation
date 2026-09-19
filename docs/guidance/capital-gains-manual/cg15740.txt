@@ -1,0 +1,148 @@
+Compensation: asset lost/ destroyed
+Identifier: CG15740
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15740
+Published: 2016-03-12T10:12:01+00:00
+Updated: 2023-04-11T10:18:00+01:00
+Retrieved (UTC): 2026-09-18T14:38:09.962903+00:00
+
+s23(4) TCGA92
+
+Where an asset has been entirely lost or destroyed, and the owner receives a sum for any damage or injury to an asset, then that is treated as a capital sum derived from the asset under s22(1) TCGA92 (see CG12948 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12948)).
+
+However, if an asset is lost or destroyed and a capital sum received by way of compensation, or under a policy of insurance, then there may be a claim under s23(4) TCGA92.
+
+To come within s23(4) TCGA92, the following conditions must be met:
+
+- the original asset must have been lost or destroyed, and
+
+- the receipt must fall within s22(1)(a) or (b) TCGA92, and
+
+- the full sum received must be used to acquire a replacement asset within one year of the receipt.
+
+Where the delay in acquiring the replacement asset can reasonably be regarded as unavoidable, HMRC may extend the replacement period to two years. Cases involving a longer extension should not be allowed without first making a referral to the Capital Gains Technical Group.
+
+The treatment provided by s23(4) TCGA92 is something that needs to be claimed. As such an extension to the replacement period can only be considered once the replacement asset has been acquired. If a customer requests an extension before the replacement asset has been acquired then you should decline the request, explaining that an extension will only be considered once the replacement asset has been acquired and a claim is made to HMRC.
+
+The word 'replacement' can be interpreted reasonably.
+
+If all these conditions are satisfied, then the claimant is treated as if no gain or loss arose on the disposal (loss/destruction) of the original asset.
+
+The computation, for the disposal of the original asset, uses the capital sum plus any scrap value of the original asset as the figure for the disposal consideration. This allows the gain to be calculated in the normal way. The acquisition cost of the replacement asset is reduced by the amount of the chargeable gain which would have arisen on the original asset.
+
+Where the asset is a building, see CG15742 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15742).
+
+Example
+
+Mrs P acquired an asset in July 2019 for £20,000 and insured it for 'replacement value'. The asset was destroyed in 2021. In September 2021, she received £25,000 under the insurance policy. The salvaged material had a residual scrap value of £500. The scrap was not taken by the insurance company. The costs incurred in settling the claim were £400. Mrs P immediately acquired a replacement asset for £27,500 and made a claim under s23(4) TCGA92.
+
+The gain on the destroyed asset is as follows:
+
+-
+
+|
+
+£
+
+|
+
+Compensation received
+
+|
+
+25,000
+
+|
+
+Plus scrap value
+
+|
+
+500
+
+|
+
+Equals total consideration
+
+|
+
+25,500
+
+|
+
+Less cost of original asset
+
+|
+
+20,000
+
+|
+
+Less disposal expenses
+
+|
+
+400
+
+|
+
+Gain (to be rolled over)
+
+|
+
+5100
+
+|
+
+Gain rolled over
+
+|
+
+5100
+
+|
+
+Chargeable gain
+
+|
+
+Nil
+
+|
+
+The cost of the replacement asset is:
+
+-
+
+|
+
+£
+
+|
+
+Cost of replacement
+
+|
+
+27,500
+
+|
+
+Less gain rolled over
+
+|
+
+5,100
+
+|
+
+Equals deemed cost of replacement asset
+
+|
+
+22,400
+
+|
+
+Asset not lost or destroyed
+
+Where the asset been lost or destroyed, and the sum is used to acquire a replacement asset, the recipient may claim under s23(1) TCGA92. CG15700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15700) introduces this.

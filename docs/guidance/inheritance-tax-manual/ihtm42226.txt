@@ -1,0 +1,30 @@
+The settlement: class of beneficiary
+Identifier: IHTM42226
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42226
+Published: 2016-04-09T10:24:42+01:00
+Updated: 2020-10-26T11:08:00+00:00
+Retrieved (UTC): 2026-09-18T15:09:34.761612+00:00
+
+Normally the settlement deed specifies a broad class of beneficiaries and the trustees have a choice of where they can exercise their powers of appointment.
+
+Occasionally however, the class is reduced to such an extent (often by deaths of the others) that there is only one object/beneficiary. Does that single object/beneficiary have an interest in possession (IIP)?
+
+Re Trafford [1984] 1 AER 1108 is considered to have provided an answer of general application
+
+-
+
+if there is only one object/beneficiary and the class is open, the trust remains discretionary (there is no IIP).
+
+-
+
+if the class is closed the sole object does have an IIP. A closed class means that all potential beneficiaries have been identified and no future beneficiaries can turn up/be added.
+
+Inheritance Tax (IHT) implications
+
+It follows that if the class is closed, as above, then
+
+- the removal of the second-last object (by death or any other event) and the trustees can no longer accumulate, means that the fund goes from discretionary to IIP.
+
+Prior to 22 March 2006 this will have given rise to an exit charge under IHTA/S65 but if the settlement continues any IIP arising will almost certainly be a non-qualifying interest. A claim to IHT must arise under IHTA84/S65 (1)(a) when the IIP vests in the last one standing.
+
+If the class is open, the removal of the second-last object makes no difference. It was ‘discretionary’ before and remains so.

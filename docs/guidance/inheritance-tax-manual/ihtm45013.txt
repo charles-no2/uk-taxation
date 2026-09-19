@@ -1,0 +1,44 @@
+Reduced rate for gifts to charity: calculating the baseline amount: where the charitable legacy is worded to meet the 10% test
+Identifier: IHTM45013
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45013
+Published: 2016-04-09T10:32:50+01:00
+Updated: 2022-02-09T16:58:52+00:00
+Retrieved (UTC): 2026-09-18T15:10:43.820480+00:00
+
+Where a charitable legacy is worded to ensure the 10% test is met (IHTM45008 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45008)), the calculation of the amount of the legacy will be straightforward where there is only one component in the estate. Following the example at IHTM45010 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45010), the charitable legacy will be £42,500. If the value of the estate changes, you will need to recalculate the charitable legacy with each change.
+
+But, where there is more than one component to the estate, you should use the charitable legacy calculator (https://www.gov.uk/inheritance-tax-reduced-rate-calculator) to establish the extent of the charitable legacy. The calculator reflects the fact the baseline amount (IHTM45009 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45009)) - of which 10% will be left to charity - will vary depending on the allocation of the nil-rate band between the components of the estate. And that in turn depends on the proportion that each component bears to the aggregate estate.
+
+Example
+
+Thomas died on 17 August 2012 leaving an estate valued at £800,000 after deduction of liabilities. His Will contained a clause which left a legacy to the National Trust equal to the amount that is necessary to qualify for the reduced rate. He was left a life interest in £250,000 under the Will of his wife.
+
+The estate contains two components, a settled component, and a general component. The donated amount in the general component ensures that this component will qualify for the reduced rate. The settled component passes to Thomas’ children under his wife’s Will Trust so it does not qualify.
+
+The charitable legacy calculator generates a value for the donated amount at £55,671. The calculations for each component are as follows:
+
+Estate on death = £800,000
+
+Legacy to charity (donated amount) -£55,671
+
+Chargeable transfer = £744,329 (step 1)
+
+Less proportion of nil-rate band -£243,287 (744,329 ÷ (744,329 + 250,000) × 325,000 = £243,287)
+
+Step 2 amount = £501,042
+
+Add back legacy to charity +£55,671
+
+Baseline amount = £556,713 (step 3) (£556,713 x 10% = £55,671)
+
+Tax at 36% = £180,375.12
+
+The tax on the settled component will be:
+
+Chargeable transfer = £250,000
+
+Less proportion of nil-rate band -£81,713 (250,000 ÷ (744,329 + 250,000) ×325,000 = £81,713)
+
+Excess = £168,287
+
+Tax at 40% = £67,314.80

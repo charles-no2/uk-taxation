@@ -1,0 +1,50 @@
+Lifetime transfers: specific lifetime reliefs: gifts with reservation (GWRs): example of calculations 2
+Identifier: IHTM14714
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14714
+Published: 2016-04-09T09:21:35+01:00
+Updated: 2016-02-11T17:03:38+00:00
+Retrieved (UTC): 2026-09-18T14:58:17.132116+00:00
+
+Example 2
+
+January 2009 - Alissa makes an immediately chargeable transfer of £400,000 into a discretionary trust, under which she is a potential beneficiary, so the transfer is a GWR. The tax on £400,000 at half-death rates is £17,600.
+
+July 2011 - Alissa dies without having ceased to be a beneficiary under the trust. Her death estate, including the GWR property still valued at £400,000, is £600,000 and is wholly chargeable.
+
+First calculation
+
+Ignore the lifetime charge and charge the gift of £400,000 as part of Alissa’s death estate
+
+Jan 2009 - £400,000 gift ignored, so tax is nil
+
+July 2011 - £600,000 death estate, total tax is £110,000 (payable as a result of Alissa’s death)
+
+Second calculation
+
+a) Charge the lifetime gift and ignore the GWR property of £400,000 as part of Alissa’s death estate
+
+Jan 2009 - £400,000 lifetime gift. Tax at 40% = £30,000
+
+Less lifetime tax paid £17,600
+
+Additional tax due on death = £12,400
+
+b) July 2011 - £400,000 gift in Jan 09 + £200,000 death estate (excluding the GWR property) = £600,000
+
+Total tax £110,000
+
+Less tax on £400,000 = £30,000
+
+= £80,000
+
+So total tax payable as a result of Alissa’s death = £12,400 + £80,000 = £92,400
+
+Conclusion
+
+The first calculation is preferred, so the value transferred by the lifetime transfer is treated as reduced to Nil. However, as lifetime tax had already been paid on the gift the credit provisions in Para 4 of Reg. 5 Inheritance Tax (Double Charges Relief) Regulations 1987 (SI1987/1130) come into play. (IHTM14712 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14712))
+
+The lifetime tax previously paid is allowed as a credit against the tax of £110,000 payable on death, so that tax is reduced by £17,600 to £92,400.
+
+You should note that the credit is limited to the amount of tax payable on the death in respect of the GWR property. In the above example that tax was (£400,000 ÷ £600,000) × £110,000 = £73,333, so the full amount of the lifetime tax paid was allowable.
+
+The credit provisions do not affect the choice of calculation, even if they operate to turn what was the higher amount of tax into the lower amount.

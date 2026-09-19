@@ -1,0 +1,84 @@
+Temporary repatriation facility: Qualifying overseas capital: Unattributed transfer of assets abroad income treated as qualifying overseas capital – offshore income gains
+Identifier: RDRM72560
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72560
+Published: 2026-04-07T07:53:57+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:13.242826+00:00
+
+For temporary repatriation facility (TRF) purposes, unmatched offshore income gains (OIGs) that arose prior to 2025-26 fall within the rule in paragraph 6(1)(c) Schedule 10 FA 2025 when matched with a benefit received by an individual wanting to use the TRF in the 2025-26 to 2027-28 tax years – see RDRM72550 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72550). It will not matter whether there are any OIGs or other relevant income that arises in the 2025-26 or a later tax year for these purposes, because the OIGs arising in earlier years will be matched first under the ‘first in, first out’ matching rules in section 735A ITA 2007 (see INTM602180 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm602180)).
+
+Prior to the Finance Act 2026, these rules operated differently as OIGs were previously matched with capital payments using a modified application of the capital gain attribution provisions in section 87 TCGA 1992 as a result of Regulation 20(2) to (5) Offshore Funds (Tax) Regulations 2009. Although those rules have been repealed with effect from 6 April 2025 as set out in more detail below, the tax outcome in respect of any benefits or capital payments received in the 2025-26 tax year for individuals using the TRF in respect of OIGs matched with benefits should be the same as under the (now repealed) paragraph 4 Schedule 10.
+
+This is because paragraph 4 allowed individuals to assume that OIGs arising in 2025-26 or a later tax year were nil for the purpose of designating capital payments that would otherwise be matched with OIGs that arose in 2024-25 or an earlier tax year if that assumption was true. The OIG matching process resulted in an amount being designated under the TRF and there was a corresponding deduction in the amount of OIGs available for matching with capital payments in future years and charged to Income Tax, whereas under the new rule the OIGs will be matched with benefits under the ToAA provisions and be capable of designation under paragraph 6 of Schedule 10 with a corresponding reduction in the amount of income available for matching with other benefits in future years and charged to Income Tax.
+
+However, the changes to these provisions do now enable taxpayers to make designations under paragraph 7 of Schedule 10 in circumstances that were not previously provided for where they receive a benefit that could otherwise have been matched with capital gains of a non-resident trust that arose prior to 2025-26, but where they instead must be matched with OIGs have arisen in the tax years 2025-26, 2026-27 or 2027-28.
+
+The position for individuals who receive benefits in the 2025-26 to 2027-28 tax years that will be matched with OIGs arising to the non-resident trust in the 2025-26 to 2027-28 tax years, but where they wish to designate unmatched capital gains that arose to the non-resident trust in the 2024-25 tax year or earlier is explained at RDRM72600 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72600). Where OIGs have been matched in this fashion, the deemed income arising to the individual under ToAA will be exempted from a charge to Income Tax, but the OIGs will remain available for matching with benefits received by that individual and other individuals in future tax years, and the OIGs can no longer be matched under the capital payment and trust gain attribution provisions.
+
+Transitional rules introduced from 6 April 2026 preserve the position for individuals who received capital payments that were matched with OIGs in the tax year 2024-25 or an earlier tax year, which maintain the effect of the matching under the old rules. If any OIG was deemed to arise to an individual in an earlier tax year and they have not been charged to tax in respect of that OIG because it was relevant foreign income, this is qualifying overseas capital under paragraph 2 Schedule 10 - see RDRM72200 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72200).
+
+Furthermore, transitional reliefs relating to changes to the remittance basis rules in 2008 were preserved in relation to any matching of OIGs and capital payments where the individual receiving the capital payment remains non-domiciled and would otherwise have had their charge to tax eliminated or restricted in circumstances where either the receipt of the capital payment, or the realisation of the OIG occurred prior to 6 April 2008, or in relation to the portion of OIG that arose in respect of appreciation in the value of an interest in a non-reporting fund prior to 6 April 2008 where the realisation of the OIG occurred after this date – see IFM13410 (https://www.gov.uk/hmrc-internal-manuals/investment-funds/ifm13410) onwards and CG manual for further details.
+
+Example
+
+Graham is UK resident and a former remittance basis user. He is the beneficiary of a non-resident trust that was established for his benefit by a non-UK resident relative. The trust has invested some of its assets in non-reporting funds, and some in other investments that have generated income and some of which have been disposed, such that the total amount of income, OIGs and capital gains of the trust for the periods up to 5 April 2025 is as follows.
+
+2022-23 – OIGs (£500,000) and capital gains (£1,000,000)
+
+2023-24 – income (£100,000) and OIGs (£200,000)
+
+2024-25 – income (£100,000) and OIGs (£300,000)
+
+The trust subsequently generates further income, OIGs and capital gains as follows in 2025-26 and 2026-27.
+
+2025-26 – income (£150,000), OIGs (£100,000) and capital gains (£800,000)
+
+2026-27 – income (£150,000), OIGs (£100,000) and capital gains (£900,000)
+
+In 2022-23, Graham requested a capital distribution of £600,000 from the trustees which they agreed. As there was no other income of the trust at this point, the capital distribution was matched in priority with the OIGs under Regulation 20 by applying the section 87A TCGA 1992 matching rules to OIGs, such that Graham is first treated as having an OIG of £500,000. The other £100,000 of the capital distribution is matched with the capital gain that arose in 2022-23, such that Graham is treated as having a capital gain of £100,000 accruing to him, and the other £900,000 of unmatched trust gain is carried forward to be available for matching in later years.
+
+There are no further distributions to Graham in 2023-24 or 2024-25, and although the rules relating to taxation of OIGs arising to non-resident trusts change with effect from 6 April 2025, the treatment of the OIGs matched under the rules in effect in 2022-23 is preserved.
+
+In 2025-26 Graham wants the trustees to make a distribution to him so that he can utilise the TRF and use some of the accumulated assets within the trust to purchase certain assets in the UK. The trustees of the trust agree to make two capital distributions to Graham as follows:
+
+2025-26 - £800,000
+
+2026-27 - £800,000
+
+Following the repeal of Regulation 20 (2) to (5) and Regulation 21 (4) to (6), the unmatched OIGs that arose to the trust prior to 2025-26, and any OIGs that arise from that date onwards, will  constitute relevant income of the trust for matching purposes under the ToAA provisions and will be unable to be matched with capital payments under the section 87A matching provisions.
+
+This means that for TRF purposes, there is an aggregate pre-2025-26 income pool of £700,000 (£200,000 OIGplus £300,000 OIG plus £100,000 income plus £100,000 income) which can be matched with £700,000 of the £800,000 capital distribution to Graham in 2025-26 under paragraph 6(1)(c) and taxed at 12%. The income and OIGs are then considered to have been charged to Income Tax so that they cannot be matched with benefits received by that individual or other individuals in future tax years.
+
+Graham also wants to designate the remaining £100,000 of capital distribution under the TRF in respect of some of the £900,000 unmatched capital gain from 2022-23. However, while the entirety of the trust’s income and OIGs that arose before 2025-26 has been matched to the distributions to Graham in this or an earlier year, there is also £250,000 of income that has arisen to the trust in 2025-26 (£150,000 income and £100,000 OIG).
+
+This means that the remainder of the capital distribution cannot be matched with the capital gain under paragraph 6 as a result of the ordinary matching rules which would give priority to the distribution being matched with £100,000 of the income arising to the trust in 2025-26 and which would be taxed at marginal rates.
+
+However, under paragraph 7, Graham can designate the £100,000 on the basis that even though income has been treated as arising to him under the ToAA provisions through the matching of £100,000 capital distribution with £100,000 of income of the non-resident trust, paragraph 3 of Schedule 10 would have otherwise applied to allow designation under the provisions that enabled designation of unmatched capital gains of non-resident trusts that arose prior to the 2025-26 tax year.
+
+Graham pays tax on £100,000 at 12%, and the effect on the capital gain pool for future matching purposes is that it is reduced for £100,000, while the amount of pre-2025-26 capital gains available for designation under the TRF is also reduced by £100,000. Graham is exempted from liability to Income Tax at the usual tax rates on the £100,000 of deemed income treated as arising to him through the matching of £100,000 of income with the £100,000 of capital distribution, and this income remains available for matching with other benefits received by Graham or other individuals in later years, on the basis that it has effectively suffered no tax charge either at usual tax rates or the TRF charge rate which was effectively suffered in respect of the pre-2025 capital gain.
+
+The second of these capital distributions of £800,000 in 2026-27 would again be matched with the OIGs and other income of the trust that arose from 2025-26 onwards, which now totals £500,000 (£100,000 OIG plus £100,000 OIG plus £150,000 income plus £150,000 income) because the income of 2025-26 remains available for matching. However, similarly to the matching exercise from 2025-26, Graham can also designate £500,000 under paragraph 7 in respect of £500,000 of the £800,000 of pre-2025-26 capital gain which remains available for designation. Graham will again be exempted from an Income Tax liability on the deemed income arising from the matching of the capital distribution with the income (now including OIGs) under the ToAA rules, and again this £500,000 of income will remain available for matching with other benefits received in future tax years.
+
+Graham wants to designate the remaining £300,000 of the capital distribution in respect of the remaining £300,000 of pre-2025 capital gains that have not yet been matched or designated, and there is no further amount of unmatched income at this point to enable further designation under paragraph 7. Although this portion of the capital distribution would ordinarily be matched under the capital gain ‘last-in, first-out’ matching rules with some of the £900,000 capital gain of that arose in the most recent year in 2026-27, Graham can designate the remaining £300,000 of pre-2025 capital gain under paragraph 3.
+
+As such, Graham has paid tax on the following amounts of tax in each tax year:
+
+2022-23 – Income Tax at usual tax rates on £500,000 of OIG, and Capital Gains Tax at usual tax rates on £100,000 of capital gain.
+
+2025-26 – TRF charge on £700,000 of pre-2025 income and OIGs, and £100,000 of pre-2025 capital gains.
+
+2026-27 – TRF charge on £800,000 of pre-2025 capital gains.
+
+In future tax years, the £500,000 of post-2025 income and OIGs will remain available for matching with benefits received by Graham or other UK resident individuals, and the unmatched gain pool carried forward for other beneficiaries will be £1,700,000. This treatment relies on Graham having made designations in each tax year because an amount can only be designated in a year in which the income or gain was treated as arising or accruing to him.
+
+Amendment to the Offshore Funds (Tax) Regulations 2009 (SI 2009/3001)(OFTR 2009)
+
+Offshore income gains (OIGs) that arose to non-resident trusts could previously result in tax charges on UK resident beneficiaries or settlors as a result of two different sets of legislative provisions through either:
+
+- the adoption of the capital payment and trust gain attribution provisions in section 87 and section 87A TCGA 1992 (as applied to OIGs by virtue of Regulation 20 OF TR2009)
+
+- the application of Transfer of Assets Abroad provisions (by virtue of Regulation 21 OFTR 2009 which deemed OIGs to be income of a person abroad for the purposes of deeming income to arise to a transferor by reference to the amount of income arising to the person abroad, or to a non-transferor by reference to the value of benefits received by them that could be matched with the OIG)
+
+The provisions in Regulation 20 and 21 OFTR 2009 interacted to avoid duplication of taxation such that priority was given to taxation of beneficiaries receiving capital payments under the gain attribution provisions in any year unless there had been a prior year in which no capital payments had been received and there was a transferor to whom income had been treated as arising by reference to OIGs that arose in an earlier year.
+
+In order to address some of the complexity in the operation of the taxation of OIGs arising in offshore trusts, their underlying companies and the application of the TRF to unattributed income, amendments were made to Regulation 20 and 21 OFTR 2009. These amendments repealed Regulation 20(2) to (5) and Regulation 21(4) to (6) OFTR 2009 with effect from the start of the 2025-26 tax year with the effect that unmatched OIGs of trusts will only be taxed under the Transfer of Assets Abroad provisions, either as they arise for transferors, or as they can be matched with benefits received by non-transferors – see INTM600000 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm600000) onwards for more detailed guidance on the application of the ToAA provisions.

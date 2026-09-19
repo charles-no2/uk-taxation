@@ -1,0 +1,36 @@
+Calculating and recording NICs in mixed contracted-out, not contracted-out and Appropriate Personal Pension (APP) cases: general
+Identifier: NIM10018
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim10018
+Published: 2016-04-11T17:22:31+01:00
+Updated: 2022-01-19T11:20:33+00:00
+Retrieved (UTC): 2026-09-18T15:14:59.239677+00:00
+
+Paragraph 1(2) of Schedule 1 to the Social Security Contributions and Benefits Act 1992 (SSCBA 1992)
+
+Before 6 April 2016
+
+Paragraph 1(2) of schedule 1 to the SSCBA 1992 provided for the priority to be given to NICs in the event that a person has a mixture of contracted-out and not contracted-out employments in which the earnings fall to be aggregated. When a mixture of contracted-out and not contracted-out employments are involved, NICs must be calculated using the exact percentage method. This is because earnings below the Lower Earning Limit can only be disregarded once.
+
+The general principles for calculating and recording NICs where a mixture of contracted-out and not contracted-out employments are involved has remained unchanged since the introduction of earnings-related contributions in 1975.
+
+To simplify matters, the subsequent NIM pages (NIM10060 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim10060) onwards) set out how NICs in such circumstances are calculated and recorded on Real Time Information (RTI) for tax years:
+
+- 2015 to 2016 and earlier
+
+- 2016 to 2017 onwards.
+
+The order in which to calculate NICs is:
+
+- first on earnings on which NICs are payable under Table letter A if, before 6 April 2012, the employee has an Appropriate Personal Pension (APP) or an APP Stakeholder Pension (APPSHP)
+
+- then on earnings on which NICs are payable under the letter D (or E) if the employee belongs to the company’s Contracted-out Salary Related (COSR) scheme
+
+- finally on earnings on which NICs are payable under Table letter A if the employee does not have an APP or an APPSHP or B if the employee is a married woman with a reduced rate election in a not contracted-out employment (a married woman with a reduced rate election cannot join an APP or APPSHP)
+
+From 6 April 2016
+
+Paragraph 1(2) of schedule 1 to the SSCBA 1992 was repealed by Pensions Act 2014 from 6 April 2016 to remove reference to contracted-out employments.
+
+As only not contracted-out employments can now be held, the rules for determining the correct earnings period where the earner has a mixture of employments has been simplified.
+
+There is no order in which to calculate NICs.

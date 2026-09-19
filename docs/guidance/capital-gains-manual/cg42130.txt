@@ -1,0 +1,32 @@
+Non-resident company with a UK permanent establishment: deemed gains
+Identifier: CG42130
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42130
+Published: 2016-03-12T11:04:18+00:00
+Updated: 2021-04-22T10:01:24+01:00
+Retrieved (UTC): 2026-09-18T14:40:38.969256+00:00
+
+TCGA92/S25
+
+Without additional legislation a company could avoid the charge under what is now TCGA92/S10B in certain cases by either
+
+- transferring assets abroad before disposing of them
+
+or
+
+- delaying disposal until after the end of the year of assessment in which the branch or agency activities ceased.
+
+To prevent this avoidance TCGA92/S25 applies to deem a disposal to take place on the happening of certain events.
+
+For this purpose only, TCGA92/S25 (7) defines an asset as being a chargeable asset in relation to a company at any point in time if, on a disposal at that time, a gain would be chargeable on that company only by reason of TCGA92/S10B. In other words to be such an asset in relation to a company, that company must be not resident in the UK and the conditions set out in CG42110 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42110) must be satisfied as regards the asset. The deemed charges apply only in respect of assets that are within this definition.
+
+There is a deemed disposal if an asset that is a chargeable asset in relation to a company
+
+- becomes situated outside the UK (except in the case of exploration or exploitation assets as defined in TCGA92/S25 (6)), or
+
+- ceases to be such an asset because the company has ceased to carry on the trade in the UK through a permanent establishment.
+
+But in the latter case there is no occasion of charge if, before the end of the accounting period in which the cessation occurs, the asset is used in another trade carried on by that company in the UK through a permanent establishment, or the cessation takes place because the trade and assets have been transferred to another company at no gain/no loss, under either TCGA92/S170 or TCGA92/S139 (TCGA92/S25 (3A)).
+
+In both cases the asset is deemed to have been disposed of at its market value immediately before the chargeable occasion and then immediately reacquired at that value. For further details on computing such gains see CG42140 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42140).
+
+If the non-resident company ceased the permanent establishment and at the same time transferred an asset abroad, without further provision there could possibly be two occasions of charge. This is prevented by TCGA92/S25 (2)(a). In such a case there is no occasion of charge relating to the transfer abroad. Thus there is only a charge in respect of the cessation of the permanent establishment.

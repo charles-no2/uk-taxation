@@ -1,0 +1,20 @@
+Class 1: calculating & recording earnings, NICs & NIC rebates: national insurance tables method
+Identifier: NIM11003
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11003
+Published: 2016-04-11T17:23:55+01:00
+Updated: 2022-12-07T11:01:45+00:00
+Retrieved (UTC): 2026-09-18T15:15:00.692883+00:00
+
+How the NI tables work
+
+The weekly tables are in earnings bands of £1 and the monthly tables in bands of £4. Therefore, the tables only show earnings figures in whole pounds. NICs are worked out on the mid-point of each band, except for those earnings at each legislative threshold when the NICs are worked out on the exact amounts.
+
+The NI Tables have column headings which correspond with the column headings on the P11 Deductions Working Sheet. The NI Tables also include, for information only, a column showing the employer’s NICs. The employer calculates NICs by reading off the NICs due against the employee’s gross pay figure in the weekly or monthly table as appropriate. If the table does not show the exact gross pay figure, the employer uses the next smaller figure in the table. Because NICs are calculated on the mid-point in the Tables, there is often a slight difference between NICs calculated from the NI Tables and those calculated by the exact percentage method.
+
+For example, in the weekly table, NICs for earnings of between £290 and £290.99, the employer should use £290 in the tables but NICs are worked out on £290.50.
+
+Earnings above the UEL
+
+The NI Tables contain a calculator for working out employer’s and employees NICs where the employee’s earnings exceed the UEL. Employers can use the calculator for both weekly and monthly paid employees. Details of how to use the calculator are provided in the NI Tables.
+
+All NI Tables booklets can be found on GOV.UK.

@@ -1,0 +1,28 @@
+Restrictions on the freedom to dispose of assets:  contracts made before 27 March 1974
+Identifier: IHTM09776
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09776
+Published: 2016-03-20T09:26:13+00:00
+Updated: 2022-01-24T16:04:15+00:00
+Retrieved (UTC): 2026-09-18T14:54:46.622667+00:00
+
+If the contract was entered into before 27 March 1974 the property (IHTM04030 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04030)) is valued with the restriction in place unless the first ‘relevant event’ (IHTM09773 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09773)) is a transfer on death, IHTA84/S163 (2).
+
+Example 1
+
+On 20 March 1974, A grants B an option to purchase Blackacre in 15 years time for £20,000.
+
+The 1974 value of Blackacre was £13,000, so the option clearly had a value.
+
+A retains Blackacre until B exercises the option. At that time Blackacre was worth £150,000.
+
+In view of IHTA84/S163 (2) the restriction is not ignored, despite the absence of consideration. The sale is not a transfer of value because
+
+- the property is treated as being worth £20,000, and
+
+- the purchase price paid was £20,000.
+
+Example 2
+
+The facts are as in example 1, but in 1985 A gives the property, subject to the option to his daughter C. For the purposes of that transfer the property is valued subject to the option, IHTA84/S163 (2).
+
+C dies in 1988. Again the property is valued subject to the option as the death of C is not the first relevant event.

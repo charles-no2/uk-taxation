@@ -1,0 +1,32 @@
+PMA: WDA & balancing adjustments: Disposal events
+Identifier: CA23240
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240
+Published: 2016-04-16T08:47:59+01:00
+Updated: 2020-11-25T12:32:04+00:00
+Retrieved (UTC): 2026-09-18T16:20:45.204811+00:00
+
+CAA01/S60 (3) & CAA01/S61 (2)
+
+When there is a disposal event a person has to bring a disposal value to account.
+
+These are the events that are disposal events:
+
+- Cessation of ownership of the asset.
+
+- Permanent loss of possession of the asset.
+
+- Abandonment of an asset used for mineral exploration and access at the site where it was used for that purpose.
+
+- Cessation of existence of the asset.
+
+- Commencement of use of the asset for purposes other than those of the qualifying activity.
+
+- Permanent discontinuance of the qualifying activity.
+
+- The asset begins to be leased under a long funding lease CA23850 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23850).
+
+If there is more than one disposal event for an item of plant or machinery, a disposal event is only brought to account on the first one. For example, an asset may begin to be used wholly for purposes other than those of the qualifying activity before the qualifying activity is permanently discontinued. A disposal value is brought to account when the asset begins to be used wholly for purposes other than those of the qualifying activity. A further disposal value is not brought to account when the qualifying activity is permanently discontinued.
+
+Example
+
+Infidels Ltd. buys a yacht. It uses the yacht in its business and claims PMA. Two years later it decides to start leasing the yacht and leases the yacht to Casanova under a lease that is a long funding lease. When Infidels Ltd. leases the yacht to Casanova it has to bring a disposal value to account because leasing the yacht under a long funding lease is a disposal event. After three years Casanova terminates the lease. Infidels Ltd. decides that it cannot be bothered finding another lessee so it sells the yacht. The sale of the yacht is a disposal event but Infidels Ltd. does not need to bring a disposal value to account because it brought a disposal value to account when it granted the long funding lease.

@@ -1,0 +1,60 @@
+Settlements legislation: Rules affecting non-domiciled and deemed domiciled settlors of non-resident trusts from 6 April 2018 – 5 April 2025: Cases where deemed income attributed to recipient of onward gift 
+Identifier: TSEM4665
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4665
+Published: 2025-04-07T08:06:25+01:00
+Updated: 2025-04-07T08:06:25+01:00
+Retrieved (UTC): 2026-09-18T16:19:57.578945+00:00
+
+The guidance on this page relates to the period 6 April 2017 - 5 April 2025. From 6 April 2025 the rules around the taxation of non-UK domiciled individuals ended and individuals are taxable based on their residence position only. Detailed guidance on the changes from 6 April 2025 can be found at TSEM4700 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4700) onwards.
+
+This paragraph looks at ITTOIA 05/S643K which applies to situations where the settlement income is passed from the original beneficiary to the subsequent recipient and there is no tax charge that arises in relation to this onward gift, for example because the subsequent recipient is not UK resident or is a remittance basis user and has not remitted the gift. The income is attributed to the subsequent recipient so that if they pass the gift on to a further subsequent recipient it can be taxed under the onward gift rules on any further recipient within the chain if they are UK resident and if they are a remittance basis user where the gift (or part) is remitted to the UK. It applies in situations where:
+
+-
+
+S643I (1) applies and, either
+
+-
+
+the subsequent recipient is non-UK resident for the gift year, or the matching year if later, or
+
+-
+
+the subsequent recipient is UK resident in the gift year, and the matching year if later, and
+
+-
+
+the remittance basis applies to the subsequent recipient for the charging year and none or only part of the onward payment is remitted to the UK in the charging year.
+
+In these situations, ITTOIA 05/S643I(1)(a) has effect as if the subsequent recipient were an individual to whom the income is treated as arising under ITTOIA 05/S643A(1)(a) for the charging year. The amount of income is equal to the amount of so much of the onward payment as is within:
+
+-
+
+the whole or part of the benefit received by the original beneficiary,
+
+-
+
+anything that derives in whole or in part either directly or indirectly, or represents the whole or part of that benefit, or
+
+-
+
+any other property, but only if the benefit is provided with a view to enabling or facilitating the making of the gift to the subsequent recipient,
+
+and that is not treated as arising to the settlor under ITTOIA S643L, or where the subsequent recipient is a remittance basis then only the part not remitted to the UK is included.
+
+The effect of the above is that the onward payment is treated as if it were notional income arising to the subsequent recipient. If that subsequent recipient makes a further onward gift, then the onward gift rules can apply again to this gift. It should be noted that the matching and arrangements conditions do not need to be satisfied again.
+
+Example 1
+
+Johan is a beneficiary of a Guernsey discretionary trust. Johan is not resident in the UK. In the tax year 2019/20 Johan receives a capital distribution of £100,000 from the Guernsey discretionary trust. For the purpose of the example, it is assumed that there is sufficient protected foreign source income (PFSI) in the trust to match against the distribution in 2019/20.
+
+In 2019/20 Johan makes a gift of the £100,000 that he received to Marcus. It is assumed that the conditions in ITTOIA 05/S643I are met. During the year 2019/20 Marcus is not resident in the UK and as a result ITTOIA 05/S643K will apply. Marcus is not chargeable to tax under ITTOIA 05/S643J as he is not resident in the UK, the income is attributed under ITTOIA 05/S643A as arising to Marcus. This means that should Marcus decide to gift the £100,000 or a part of it to another person ITTOIA 05/S643I will apply, and that other individual will potentially be assessable under the onward gift rules depending on their particular circumstances. As the matching of the benefit has occurred in 2019/20 there will be no requirement for any further matching in a later year.
+
+Example 2
+
+Catherine is the beneficiary of a Jersey discretionary trust. She is not resident in the UK. Catherine receives a capital distribution of £25,000 from the Jersey trust in the tax year 2019/20. For the purpose of this example we are assuming that the conditions for ITTOIA 05/S643I applies. There is no PFSI in the Jersey trust to match against the benefit in 2019/20. Catherine makes a gift of the £25,000 she received to Phillip in 2019/20. Phillip is not resident in the UK in the year 2019/20, however, he is UK resident in the year 2020/21 but is also a remittance basis user during this year.
+
+During the year 2020/21 the Jersey trust receives PFSI in excess of the £25,000 so the benefit received by Catherine is matched in 2020/21.
+
+Phillip does not remit any of the £25,000 gift that he received from Catherine in the year 2020/21 so ITTOIA 05/S643K applies. The ITTOIA 05/S643A benefit arising to Catherine is therefore attributed to Phillip. By treating Phillip as having deemed ITTOIA 05/S643A income means that ITTOIA 05/S643I will apply should Phillip make a gift of any part of the £25,000 to another person.
+
+It should be noted that this sequence of ITTOIA 05/S643I and ITTOIA 05/S643K can apply to any number of subsequent recipients of onward gifts of the benefit that continue to be made during the three calendar years from when the original beneficiary received the benefit. This prevents an individual from avoiding a tax charge by routing the benefit through a number of different recipients before the UK resident individual finally receives it.

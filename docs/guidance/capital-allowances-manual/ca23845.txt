@@ -1,0 +1,96 @@
+PMA: Long funding lease: miscellaneous
+Identifier: CA23845
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23845
+Published: 2016-04-16T08:50:12+01:00
+Updated: 2022-05-09T20:09:08+01:00
+Retrieved (UTC): 2026-09-18T16:20:52.703181+00:00
+
+CAA01/S70V, S70YA, S70YB, S70 YCA, S70YCB, S70YC, S70YD
+
+Avoidance involving international leasing
+
+A non-resident is a person not resident in the UK who leases an asset that it does not use exclusively for earning profits chargeable to tax to another person. A resident is a person resident in the UK who leases an asset that it uses exclusively for earning profits chargeable to tax.
+
+A non-resident may lease an asset directly or indirectly to a resident who treats the lease as a long funding lease or a lease purchase contract within CAA01/S67 CA23300 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23300). The lessee may then lease the asset to a non-resident under a lease that it does not treat as a long funding lease. This means that the lessee keeps the capital allowances because there is no disposal event. The overall effect is that a non-resident has leased an asset to another non-resident but by passing the asset through a person that is a UK resident somebody has obtained UK capital allowances.
+
+If the sole or main purpose of arranging things that way is to let the lessee get capital allowances, then treat the lease from the resident to the non-resident as a long funding lease. That means that if the resident has treated its expenditure under the lease from the non-resident as qualifying expenditure it has to bring a disposal value to account.
+
+If you have a case where an overseas lessor leases to an overseas lessee via a UK resident and the UK resident claims capital allowances you should assume that the main purpose, or one of the main purposes, of the arrangements is to let the UK resident claim capital allowances. That is one of the results of the arrangements. If the taxpayer does not want the legislation to apply it is up to them to explain why the UK resident was inserted into the chain. For example, they should explain why the non-resident lessor could not lease the asset directly to the non-resident lessee.
+
+Change in accountancy classification
+
+Where a person is the lessor or lessee under a long funding lease the accountancy classification of the lease may change from finance lease (or loan) to lease that is not a finance lease or vice versa. If this happens treat the lease as terminating when the accountancy classification changes. You then treat a new lease that is a long funding lease for the lessor as beginning on the date of the change. You treat the term of the new lease as beginning on the date of change.
+
+The accountancy classification of the lease is the way it would be treated in accordance with generally accepted accountancy practice.
+
+Example George leases an asset to Andrew under a long funding lease that is treated as a finance lease in his accounts. After two years the accountancy classification of the lease changes to operating lease. The long funding finance lease is treated as terminating and a long funding operating lease is treated as beginning then.
+
+Extension of term of long funding operating lease
+
+The term CA23850 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23850) of a long funding operating lease may be extended without its accountancy classification changing.
+
+These are the ways in which the term of the lease may be extended.
+
+- A further period becomes a non-cancellable period.
+
+- The lessee is granted an option to continue to lease the asset for a further period and it is reasonably certain when the option is granted that the lessee will exercise it.
+
+- The lessee exercises an option to continue to lease the asset for a further period.
+
+- None of the above apply but the lessee will lease, or is reasonable certain to lease, the asset for a further period.
+
+If the term of a lease is extended the lessee and lessor are treated as if the lease had terminated on the day before the date on which the term of the extended lease begins. They are also treated as if a new long funding operating lease had been entered into on the day after the date on which the existing lease is treated as ending and the term of the new lease were the unexpired portion of the original lease as extended.
+
+If the terms of the lease are varied in connection with the extension treat the old lease as terminating and the new lease as beginning on the date on which the variation takes effect.
+
+Example Dylan leases an asset to Pretty under a 15 year long funding operating lease. After 10 years they agree to extend the term of the lease by a further 3 years so that it becomes an 18 year long funding lease. The original lease is treated as terminating on the day before the extended lease begins. Dylan and Pretty are treated as if they had entered into an 8 year long funding operating lease when the extended lease begins.
+
+The terms of Dylan’s lease to Pretty are varied from the date when the old lease would have terminated so that the three year extension is on different terms. Treat the old lease as terminating and the new lease as beginning at the end of the 15 year term of the original lease because that is the date on which the variation takes effect.
+
+Extension of term of lease that is not a long funding lease
+
+You may have a case that involves a lease that is not a long funding lease. If you do and the term of the lease is extended make the same assumptions as you would make where the term of a long funding operating lease is extended. If on those assumptions the new lease would be a long funding lease treat the lessor as if it is one. If not, treat the term of the existing lease as the extended term.
+
+Extension of term of lease due to COVID-19
+
+Additional legislation introduced in 2021 turns off the legislation described above, applying to the extension of long funding operating leases and leases that are not long funding leases. Those rules do not apply where the following conditions apply:
+
+- on or after 1 January there is (or was) a change in the payments due under the lease that would have been payable on or before 30 June 2021.
+
+- the effect of the change was to extend the term of the lease.
+
+- the change would not have been made if it were not for coronavirus.
+
+- the amounts due under the lease following the change must be substantially the same or less than those due before the change.
+
+- there can be no other substantive change to the terms of the lease.
+
+- there can be no arrangement between the lessor and lessee, in which there are changes to capital allowances relating to the lease, as a consequence of the change in payments referred to above.
+
+Either party to the lease can elect for this easement not to apply.
+
+The election must be made to an officer of Revenue and Customs within 21 months of the change in payments and notified to the other party within the same time limit. A copy of the notification to the other party must be also provided with the election.
+
+A copy of the election must accompany any subsequent return or amended return to which the election has effect.
+
+The election must include the following information:
+
+- full name, postal address and unique tax reference of the party making the election.
+
+- full name and postal address of the other party to the election.
+
+- detail of the lease to which the election applies.
+
+Increase in proportion of residual amount guaranteed
+
+A lessor under a lease that is not a long funding lease may enter into arrangements that increase the residual amount CA23850 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23850) guaranteed by the lessee. If the lease would have been a long funding lease if those arrangements had been entered into before the lease began, treat the lessor as if:
+
+- the existing lease had terminated when the arrangements were entered into,
+
+- a new lease had been entered into immediately after the arrangements were entered into,
+
+- the term of the new lease were the portion of the term of the original lease, and
+
+- the new lease and its term began when the arrangements were made.
+
+Example Garcia Plc leases an asset to Hunter Ltd. under a lease that is not a long funding lease. After 2 years they come to an agreement that increases the residual value guaranteed by Hunter Ltd. Garcia Plc.’s lease to Hunter Ltd. is treated as ending when the agreement was made. Garcia Plc. is treated as if it had entered into a new lease with Hunter Ltd. immediately after the agreement was made with a term equal to the unexpired portion of the original lease.

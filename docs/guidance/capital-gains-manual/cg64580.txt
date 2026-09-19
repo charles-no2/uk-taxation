@@ -1,0 +1,56 @@
+Private residence relief: deemed not a residence: residences in another territory: tax years
+Identifier: CG64580
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64580
+Published: 2016-08-26T10:38:06+01:00
+Updated: 2021-05-19T14:40:01+01:00
+Retrieved (UTC): 2026-09-18T14:44:54.277181+00:00
+
+S222B TCGA92
+
+Where an individual holds an interest in a residence for only part of a tax year, any nomination applies to that residence for only that part of the tax year.
+
+So if the interest was acquired on 6 October, the day count test, see CG64582 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64582), would be applied to that property from 6 October onwards.
+
+It is possible that an individual may retain an interest in a property that ceases to qualify as a residence. In such a case the nomination can only apply for the period that the property qualifies as a residence.
+
+So, if an individual ceases to use a property as a residence from 6 October, any nomination can only apply up to 6 October.
+
+How to determine if an individual is treated as resident in another territory for the purposes of nomination
+
+The rules of the Statutory Residence Test (SRT) determine if an individual is resident in the UK for a tax year (see HMRC Guidance RDR1 (https://www.gov.uk/government/publications/residence-domicile-and-remittance-basis-rules-uk-tax-liability)).
+
+In many other territories an individual’s tax residency status will be determined by reference to a different period e.g. a calendar year.
+
+When an individual is resident in another territory for part of a UK tax year then they are only regarded as being resident in the other territory for the UK tax year if they are tax resident in that other territory for more than half of the UK tax year.
+
+Example 1
+
+Mr C is a UK resident for all years up to and including 2018/19.
+
+On 1 January 2019 he moves to Spain where he stays for two years. The tax residency rules of Spain are based on a calendar year and he is tax resident in Spain for both the year ended 31 December 2019 and 31 December 2020.
+
+He returns to the UK on 1 January 2021 and is regarded as resident in the UK for the tax year 2021/21.
+
+For the purposes of the nomination rules Mr C would be regarded as resident as follows:
+
+2018/19 resident in the UK only
+
+2019/20 resident in Spain only
+
+2020/21 resident in UK and Spain
+
+Where, for a UK tax year, an individual is regarded as resident in both territories then for the purposes of nomination they may not need to satisfy the day count for the property they wish to nominate.
+
+Example 2
+
+After returning to the UK from Spain, Mr C acquires a residence in the UK on 1 February 2021. He also acquires a holiday home in Spain on 1 March 2021.
+
+As a UK resident the normal time-limits for nomination apply (see CG64495 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64495)) but the day count would not need to be met for 2020/21 for the residence in Spain for it to be eligible for nomination. This is because he is also regarded as resident in Spain for these purposes. For later years the day count (see CG64582 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64582)) would need to be met for the nomination to continue to endure.
+
+If Mr C had acquired a residence in France he would not be resident in that territory for 2020/21 so the day count (see CG64582 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64582)) would need to be considered.
+
+If there are no rules for determining residence in a territory for tax purposes, then the rules of the SRT are applied as if the other territory was the UK.
+
+Example 3
+
+If the individual was resident in that territory for 183 or more days in the UK tax year they would be regarded as resident in that territory for the year.

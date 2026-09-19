@@ -1,0 +1,228 @@
+Temporary repatriation facility: Mixed funds: Annualised basis
+Identifier: RDRM75500
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75500
+Published: 2025-04-07T08:37:30+01:00
+Updated: 2025-04-07T08:37:30+01:00
+Retrieved (UTC): 2026-09-18T16:19:16.437073+00:00
+
+Overview (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75500#Overview)
+
+Ceasing to apply (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75500#Ceasing to apply)
+
+Operating the annualised basis (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75500#Operating the annualised basis)
+
+Overview
+
+Paragraph 18 Schedule 10 Finance Act 2025
+
+Under the temporary repatriation facility (TRF) an annualised basis will apply to any mixed funds which contain TRF capital during a tax year – see RDRM75100 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75100) for a definition of TRF capital. The application of the annualised basis is limited to the 3 years within the TRF period.
+
+The statutory order of remittances of types of income and capital will be the same as under section 809Q ITA 2007 (see RDRM35220 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35220)) but instead of identifying the composition of transfers out of the mixed fund on a transaction-by-transaction basis, individuals will be able to total up all their remittances to the UK for a tax year and treat that as a single remittance made at the end of the year in priority to any offshore transfers. This does not apply to offshore transfers to a TRF capital account, which will be treated as having taken place before the deemed single remittance.
+
+The purpose of the annualised basis is to provide for a simplified version of the mixed fund rules during the TRF period, to allow for TRF capital to be transferred to a TRF capital account or remitted to the UK in priority to other funds. The effect is that the composition of a remittance or other transfer may be calculated differently, but the deeming of single transfers at the end of the tax year does not change the date on which the remittance or transfer took place. This is relevant where amounts are transferred between an account using the annualised basis and an account using the transaction-by-transaction basis. The receiving account receives the funds on the date transferred, not at the end of the tax year.
+
+Also, as a designation is treated as having taken place at the start of the tax year for which the designation election has been made, this means that it will be possible for individuals to review any remittances made within a tax year and designate these under the TRF when completing their Self Assessment tax return after the end of that tax year.
+
+Where a bank account which is a mixed fund containing TRF capital closes before the end of a tax year, the remittances and transfers are considered to take place at the end of the tax year for the purpose of ordering the transfers in the account and determining what funds are contained within the transfer. This deemed date does not impact the date on which the amounts are transferred out of the account on or before closure.
+
+Ceasing to apply
+
+The annualised basis will cease to apply during the TRF period if there is no TRF capital in the mixed fund at any time during a tax year. For example, if an amount had been designated in the 2025-26 tax year and then either fully remitted to the UK or transferred to a TRF capital account (see RDRM75310 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75310) onwards) in that same tax year so that it is no longer in the fund on 6 April 2026, the annualised basis will not apply to that account in 2026-27 or 2027-28 if no further designations are made. The annualised basis will not cease partway through a tax year if TRF capital is transferred out or start partway through if it was transferred in; it will apply for the entire tax year.
+
+The annualised basis will cease to apply on 6 April 2028 whether or not there is TRF capital in the mixed fund, because it is a temporary basis only applying during the TRF period. The mixed fund ordering rules which provide for TRF capital to take priority where it is remitted to the UK (see RDRM75200 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75200)) or transferred to a TRF capital account will continue, but they will continue on a transaction-by-transaction basis.
+
+Operating the annualised basis
+
+The legislation provides for a temporary section 809RZZA after the existing mixed fund rules at sections 809Q and 809R ITA 2007. Former remittance basis users who qualified for Overseas Workday Relief prior to 6 April 2025 may note some similarity to how the special mixed fund rules operated.
+
+Section 809RZZA provides a set of steps to be followed where the annualised basis apples to a mixed fund.
+
+At Step 1, suppose that all transfers made from the mixed fund to a TRF capital account, whether this is to the same or different TRF capital accounts, had been a single transfer made from the fund at the end of the tax year.
+
+At Step 2, suppose that all remittances to the UK from the mixed fund had been a single remittance made at the end of the tax year immediately after the single transfer at Step 1.
+
+At Step 3, suppose that all other transfers from the mixed fund had been a single offshore transfer (within the meaning of section 809R) made at the end of the tax year immediately after the single remittance at Step 2.
+
+At Step 4, find the content of the deemed single remittance using the priority ordering rules at section 809Q(3) – see RDRM35240 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240), and find the content of the deemed single offshore transfer using the proportional rules at section 809R(4) – see RDRM35420 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35420).
+
+At Step 5, find the content of individual remittances and other transfers by dividing the amount of the transfer by the amount of the single deemed transfer. Any TRF capital that has not been transferred to a TRF capital account is considered to be a kind of income or capital for the purposes of ascertaining what a remittance or transfer comprises.
+
+Step 6 provides that the ‘supposed’ transfers that form the deemed single transfer at Step 1 are treated as transfers to TRF capital accounts for the purposes of applying the rules at section 809RZA – see RDRM75310 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75310).
+
+Where there are multiple transfers between different accounts, individuals will need to take care to ensure which accounts qualify for the annualised approach and which do not, and that transfers into a TRF capital account, remittances and other transfers are treated in the correct order.
+
+Example 1
+
+Francois is UK resident and a former remittance basis user. On 6 April 2025 he has an overseas bank account, which is a mixed fund, comprising:
+
+- £10,000 foreign income from 2023-24
+
+- £25,000 foreign gains from 2023-24
+
+- £20,000 foreign gains from 2020-21
+
+- £20,000 which Francois is not certain of the source
+
+- £60,000 clean capital from an inheritance in 2018-19
+
+On 1 May 2025 Francois gifts £10,000 to his friend Marco, transferring it to Marco’s bank account in France.
+
+On 1 June 2025 Francois remits £10,000 to the UK.
+
+On 1 February 2026 Francois spends £30,000 on a car, purchased from a French car dealer, which he keeps at his house in Paris.
+
+On 31 March 2026 Francois remits a further £45,000 to the UK.
+
+Francois decides to take advantage of the TRF to ensure all of his remittances to the UK are taxed at the most efficient rate.
+
+Francois designates all of his foreign income, his entire uncertain amount and his foreign gains from 2023-24 in his 2025-26 tax return, paying the TRF charge on the £55,000. Therefore, the £55,000 is treated as TRF capital from 6 April 2025.
+
+The composition and priority ordering of the mixed fund has now changed to:
+
+- £55,000 TRF capital
+
+- £20,000 foreign gains from 2020-21
+
+- £60,000 clean capital from an inheritance in 2018-19
+
+Because Francois’s mixed fund contains TRF capital, the annualised basis will apply to all transfers out of the account from 6 April 2025.
+
+As Francois has not made any transfers to a TRF capital account in 2025-26, to identify the composition of his transfers he will start by deeming that all his remittances comprise a single remittance (Step 2) totalling £55,000, made from the fund at the end of the tax year. Francois will then deem all his other transfers, the gift to Marco and the car purchase, to be a single offshore transfer taking place immediately after the deemed single remittance (Step 3) totalling £40,000.
+
+He will then find the content of the deemed single remittance and single offshore transfer (Step 5). Using the priority ordering rules at s809Q(3), Francois’s deemed single remittance of £55,000 will comprise the £55,000 of TRF capital. Using the proportional ordering rules at section 809R(4), his deemed single offshore transfer of £40,000 will comprise £10,000 foreign gains and £30,000 clean capital.
+
+Francois will then find the content of individual remittances and other transfers by dividing the amount of the transfer by the amount of the single deemed transfer. As only TRF capital was remitted, both remittances will comprise TRF capital, but Francois will need to calculate the composition of his other transfers, meaning that:
+
+- the 1 May 2025 gift to Marco of £10,000 will comprise £2,500 foreign gains and £7,500 clean capital
+
+- the 1 February 2026 car purchase of £30,000 will comprise £7,500 foreign gains and £22,500 clean capital
+
+Francois will need to keep records of the composition of the transfers in case he has a future remittance in relation to the gift or the car. His mixed fund on 6 April 2026 comprises:
+
+- £10,000 foreign gains from 2020-21
+
+- £20,000 clean capital from an inheritance in 2018-19
+
+If Francois does not designate any further amounts in the mixed fund, the annualised basis will not apply to any remittances or other transfers from the account in 2026-27 or 2027-28, because there will be no TRF capital in the mixed fund at any time during either tax year.
+
+Example 2
+
+Xavier is UK resident and a former remittance basis user. He became UK resident for the first time on 6 April 2022. On 6 April 2025 he has an overseas bank account A, which is a mixed fund, comprising:
+
+- £600,000 foreign income from 2023-24
+
+- £100,000 foreign gains from 2023-24
+
+- £30,000 foreign gains from 2022-23
+
+- £50,000 pre-arrival clean capital
+
+On 1 August 2025 Xavier pays £10,000 from account A to his Canadian travel agent to book an Alaskan cruise from Vancouver.
+
+On 1 October 2025 Xavier remits £100,000 to the UK. Xavier decides to take advantage of the low TRF rate for this remittance and also anticipates future remittances that he may want to make after the TRF period ends. Because Xavier makes offshore transfers from account A, he wants to ensure his TRF capital doesn’t form part of any of these transfers, so he opens a TRF capital account B to keep his unremitted TRF capital in.
+
+On 2 October 2025 Xavier transfers £500,000 to his TRF capital account B.
+
+On 30 October 2025 Xavier transfers a further £30,000 to account B.
+
+On 1 March 2026 Xavier pays £50,000 of his foreign dividend income from 2025-26 into account A.
+
+Xavier designates all of his foreign income and his foreign gains from 2022-23 in his 2025-26 tax return, paying the TRF charge on the £630,000. Therefore, the £630,000 is treated as TRF capital from 6 April 2025. Xavier is also taxable on his foreign dividend income for 2025-26 on the arising basis.
+
+The composition and priority ordering of the mixed fund has now changed to:
+
+- £630,000 TRF capital
+
+- £50,000 taxed foreign dividend income from 2025-26
+
+- £100,000 foreign gains from 2023-24
+
+- £50,000 pre-arrival clean capital
+
+Because Xavier’s mixed fund contains TRF capital, the annualised basis will apply to all transfers out of account A from 6 April 2025.
+
+To identify the composition of his transfers, Xavier will start by deeming that all transfers made from the mixed fund to one or more TRF capital accounts had been a single transfer made from the fund at the end of the tax year.
+
+Xavier would then deem all his remittances to comprise a single deemed remittance and all his other transfers to be a single offshore transfer, in that order. Although he only has one remittance and one other transfer in the 2025-26 tax year, the effect of the annualised basis is that the remittance is deemed to have taken place immediately before the other transfer. This is only for identifying the composition of the transfer and does not change the dates the remittance and the other transfer took place.
+
+Therefore, the deemed single transfer of £530,000 to account B comprises £530,000 of TRF capital, the remittance comprises £100,000 of TRF capital, and the other transfer comprises a proportion of what remains in the mixed fund. The payment of £10,000 on 1 August 2025 therefore comprises:
+
+- £2,500 taxed foreign dividend income from 2025-26
+
+- £5,000 foreign gains from 2023-24
+
+- £2,500 pre-arrival clean capital
+
+Example 3
+
+Teuila is UK resident and a former remittance basis user. On 6 April 2025 she has two overseas bank accounts which are both mixed funds. Account A comprises:
+
+- £100,000 foreign income from 2023-24
+
+- £200,000 foreign gains from 2022-23
+
+- £100,000 foreign income from 2021-22
+
+- £80,000 which Teulia is not certain of the source
+
+Account B comprises:
+
+- £20,000 foreign income from 2024-25
+
+- £60,000 clean capital from an inheritance in 2020-21
+
+On 1 June 2025 Teuila transfers £100,000 from account A to account B.
+
+On 1 September 2025 Teuila remits £50,000 from account A to the UK. Teuila decides to take advantage of the low TRF rate for this remittance and also anticipates future remittances that she may want to make after the TRF period ends, so she opens a TRF capital account C to keep her unremitted TRF capital in.
+
+On 15 September 2025 Teuila transfers £230,000 from account A to account C.
+
+On 1 December 2025 Teuila spends £45,000 on a statue from account B, purchased from an Australian art dealer, which she keeps at her house in Hawaii.
+
+Teuila designates her foreign income from 2023-24, her entire uncertain amount and half of her foreign gains from 2022-23 in account A in her 2025-26 tax return, paying the TRF charge on the £280,000. Therefore, the £280,000 is treated as TRF capital from 6 April 2025. She makes no designations on any amount in account B.
+
+The composition and priority ordering of account A has now changed to:
+
+- £280,000 TRF capital
+
+- £100,000 foreign gains from 2022-23
+
+- £100,000 foreign income from 2021-22
+
+Because account A contains TRF capital, the annualised basis will apply to all transfers out of account A from 6 April 2025.
+
+Therefore, the deemed single transfer of £230,000 to account C comprises £230,000 of TRF capital, the remittance comprises £50,000 of TRF capital, and the other transfer to account B comprises a proportion of what remains in the mixed fund. Therefore the £100,000 transfer comprises:
+
+- £50,000 foreign gains from 2022-23
+
+- £50,000 foreign income from 2021-22
+
+Although the remittances and transfers were deemed to have taken place at the end of the tax year for the purposes of identifying their composition, they actually took place on 1 June 2025 and 1 September 2025. This means that from 1 June 2025, Teuila’s account B comprised:
+
+- £20,000 foreign income from 2024-25
+
+- £50,000 foreign gains from 2022-23
+
+- £50,000 foreign income from 2021-22
+
+- £60,000 clean capital from an inheritance in 2020-21
+
+Therefore, when Teuila purchased the statue on 1 December 2025, which was an offshore transfer from account B, the £45,000 transfer comprised a proportion of all the kinds of income and capital in the fund immediately before the transfer, because account B is operating on a transaction-by-transaction basis:
+
+- £5,000 foreign income from 2024-25
+
+- £12,500 foreign gains from 2022-23
+
+- £12,500 foreign income from 2021-22
+
+- £15,000 clean capital from an inheritance in 2020-21
+
+The balance of £135,000 remaining in account B therefore comprises:
+
+- £15,000 foreign income from 2024-25
+
+- £37,500 foreign gains from 2022-23
+
+- £37,500 foreign income from 2021-22
+
+- £45,000 clean capital from an inheritance in 2020-21

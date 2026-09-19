@@ -1,0 +1,60 @@
+Indexation: disposals 30/11/93+: rolled-up indexation to create loss
+Identifier: CG17766
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17766
+Published: 2016-03-12T10:18:39+00:00
+Updated: 2023-04-14T12:20:16+01:00
+Retrieved (UTC): 2026-09-18T14:38:42.510271+00:00
+
+- January 1981 A buys land for £80,000 (31 March 1982 market value = £90,000)
+
+- January 1992 A transfers the land at no gain/no loss to spouse
+
+- January 1994 spouse sells the land for £120,000 Allowable costs of disposal were £4,000
+
+COMPUTATION ON A
+
+|  £ |    |
+
+|  Disposal proceeds (see note 1) |  153,630 |
+
+Less |  Value at 31 March 1982 |  90,000 |
+
+|  Unindexed loss |  63,630 |
+
+Less |  Indexation 90,000 x 0.707 |  63,630 |
+
+|  ALLOWABLE LOSS |  NIL |
+
+COMPUTATION ON SPOUSE
+
+WITHOUT THE AMENDMENTS TO TCGA92/S55, the computation on the spouse would have proceeded as follows:-
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  120,000 |
+
+Less |  Cost (see note 2) |  90,000 |  - |
+
+- |  Costs of disposal |  4,000 |  94,000 |
+
+- |  Unindexed gain |  - |  26,000 |
+
+Less |  Indexation (see note 3) |  - |  26,000 |
+
+- |  CHARGEABLE GAIN/ALLOWABLE LOSS |  - |  NIL |
+
+Note 1: On the no gain/no loss transfer, the asset is disposed of and acquired for such an amount as gives the transferor no gain/no loss, TCGA92/S56 (2).
+
+Note 2: TCGA92/S55 (6)(b) removes indexation added to the transferee’s RAE on the no gain/no loss transfer.
+
+Note 3: TCGA92/S55 (6)(a) requires indexation to be recomputed on the basis that the asset was held on 31 March 1982. This would be 90,000 x 0.779 = £70,110 but is subject to the general rule that for disposals on or after 30 November 1993 indexation does not create or increase a loss.
+
+However, in these circumstances THE AMENDMENTS TO TCGA92/S55 WILL APPLY. These require you to identify the amount of rolled-up indexation which would have been included in the transferee’s RAE under TCGA92/S56 (2) as a result of the no gain/no loss transfer in January 1992, were it not for the operation of TCGA92/S55 (6)(b). This amount would be 90,000 x 0.707 = £63,630. To arrive at the chargeable gain or allowable loss on the disposal in January 1994, this amount is deducted from the unindexed gain of £26,000, computed earlier, as follows:-
+
+- |  - |  £ |
+
+- |  Unindexed gain |  26,000 |
+
+Less |  Rolled-up indexation |  63,630 |
+
+- |  ALLOWABLE LOSS |  (37,630) |

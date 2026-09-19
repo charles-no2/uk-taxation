@@ -1,0 +1,46 @@
+Dwellings subject to ATED: computation of gains and losses: chargeable interests held on 5 April 2013
+Identifier: CG73626
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73626
+Published: 2016-03-12T12:24:36+00:00
+Updated: 2017-07-27T12:41:52+01:00
+Retrieved (UTC): 2026-09-18T14:35:43.991984+00:00
+
+For assets held on 5 April 2013 the gains or losses on disposal are computed as below, unless the taxpayer makes, or has made, an election under TCGA92/Sch4ZZA, paragraph 5.
+
+In most cases it will not benefit the taxpayer to make an election under paragraph 5. See CG73638.
+
+Computation where no paragraph 5 election is made
+
+If there is no election under paragraph 5 in respect of the chargeable interest disposed of, the computations provide for a form of ‘rebasing’ to 5 April 2013. A gain or loss up to that date is calculated based on the market value of the asset at that date and is outside the scope of the capital gains tax charge on ATED-related gains. The gain or loss accruing from 6 April 2013 onwards is split between the ATED-related part and the remainder (if any) which is not ATED-related.
+
+The computational stages are as follows:
+
+- Compute the ‘notional post-April 2013 gain or loss’ on the disposal.
+
+The gain/loss is computed on the assumption that the chargeable interest was acquired at its market value on 5 April 2013. The capital gains tax rules apply (so indexation is not available). Where a company makes the disposal to another company in the same group TCGA1992/S171(2)(ba) prevents the disposal being treated as made at no gain/no loss value and the market value rule applies instead.
+
+- Split the gain/loss under (1) above into the part that is ATED-related and the part that is not.
+
+The ATED-related part is the fraction of gain/loss given by the formula CD/TD. CD = the days in the period from 6 April 2013 to the date of disposal that are chargeable to ATED. TD = the total number of days in that period.
+
+Where CD subsequently changes because a claim to relief from ATED has been made or altered, TCGA92/Sch4ZZA, para 7 permits all necessary adjustments to the capital gains computations.
+
+The remainder (if any) of the gain/loss is not ATED-related and is reduced by notional indexation allowance under (4) below.
+
+- Compute the ‘notional pre-April 2013 gain or loss’.
+
+This gain/loss is computed on the assumption that the chargeable interest was disposed of at its market value on 5 April 2013. The rules for CT on chargeable gains apply, with the result that indexation is available to reduce or eliminate a gain.
+
+- If there is a non ATED-related gain under (2), reduce it by an amount of notional indexation allowance (IA). The notional IA due is—
+
+a. the total amount of IA that would have been due on the disposal disregarding Schedule 4ZZA, less
+
+b. the amount of IA deducted under (3) in arriving at the notional pre-April 2013 gain, multiplied by
+
+c. the fraction (TD - CD)/TD. CD and TD have the meanings at (2) above.
+
+- To arrive at the non ATED-related gain or loss on the disposal—
+
+a. Where there is a non ATED-related gain under (2) above, aggregate the gain/loss under (3) and the gain under (4) above
+
+b. Where there is a non ATED-related loss under (2) above, aggregate the gain/loss under (3) and the non ATED-related loss under (2).

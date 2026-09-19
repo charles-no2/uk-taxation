@@ -1,0 +1,42 @@
+Reliefs: employee-ownership trusts: 'disqualifying events': following the initial clawback from vendor period 
+Identifier: CG67861
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67861
+Published: 2016-05-23T14:51:05+01:00
+Updated: 2025-08-15T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:35:04.881448+00:00
+
+Throughout this manual, all legislative references are toTaxation of Chargeable Gains Act 1992 (https://www.legislation.gov.uk/ukpga/1992/12/contents)(“TCGA92”) unless otherwise stated.
+
+S236P TCGA92 and Sch 37, Para 3(d) Finanace Act 2014
+
+CG67860  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67860)explains the special provisions which apply when a disqualifying event occurs before the end of the fourth tax year following the year of disposal, or for disposals before 30 October 2024, the tax year following the disposal. Different consequences ensue when there is a ‘disqualifying event’ after the end of that year. The trustees of a settlement are treated as making a disposal and immediate reacquisition of the ordinary share capital of C, which they acquired in circumstances where relief was given to the transferor under section 236H, at its market value at that time.
+
+The rules apply where
+
+- a ‘disqualifying event’ occurs in relation to an acquisition to which S236H applies and
+
+- that event happens after the end of the fourth tax year following the tax year in which the acquisition took place, or for disposals before 30 October 2024, after the end of the tax year following the disposal.
+
+The rules apply on the occasion of the first such ‘disqualifying event’.
+
+The disposal and reacquisition
+
+- is in relation only to shares of C to which this treatment has not applied before, and
+
+- is treated as taking place immediately before the ‘disqualifying event’.
+
+So gains and losses latent in any shares held by the trustees immediately before the ‘disqualifying event’, on which relief has been claimed and to which this rule has not previously applied, will be treated as accruing to the trustees.
+
+A ‘disqualifying event’ is defined in the same way as in CG67860 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67860), other than for ceasing to meet the ‘trustee residence requirement’. Strictly, ceasing to meet the ‘trustee residence requirement’ is not a disqualifying event for s236P. However, s80 TCGA 1992 provides for similar consequences in circumstances where the trustees of the settlement cease to be resident in the United Kingdom.
+
+Example 28
+
+Bunda Widgets Limited EOT was established on 25 August 2014. Brian transferred 75% of the ordinary share capital of Bunda Widgets Limited to the trustees on 1 September 2014. The relief requirements were met and Brian made a claim to relief in his self-assessment tax return for the year ended 5 April 2015. On 17 February 2017 the trustees of the Bunda Widgets Limited EOT sold one-third of their shares in Bunda Widgets Limited, at which point the EOT ceased to meet the ‘controlling interest requirement’. The trustees are treated as having disposed of and immediately reacquired at market value their 75% shareholding in Bunda Widgets Limited immediately before the sale of one-third of those shares.
+
+Where the transitional rules apply, see CG67862 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67862) the legislation is slightly modified.
+
+For the purposes of identifying a ‘disqualifying event’ there are limits on the situations in which the ‘all-employee benefit requirement’ may be treated as met.
+
+- Unless the settlement was treated as meeting the requirement at the time of the acquisition, the legislation relating to situations in which the settlement is treated as meeting the requirement, see CG67844 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67844) does not apply for the purposes of determining whether the settlement meets the requirement thereafter.
+
+- If the settlement was treated as meeting the requirement at the time of the acquisition, and later actually meets it, the settlement may not thereafter be treated as meeting the requirement.

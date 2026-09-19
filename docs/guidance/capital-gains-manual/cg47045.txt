@@ -1,0 +1,26 @@
+Targeted anti-loss buying rule - special rules for pooled securities
+Identifier: CG47045
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47045
+Published: 2016-03-12T11:14:44+00:00
+Updated: 2026-05-20T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:41:53.917969+00:00
+
+Section 184F of the Taxation of Chargeable Gains Act 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184F) contains a special rule applying to
+
+- relevant companies with a pre-change asset and
+
+- other companies that have acquired a pre-change asset following a disposal to which section 171(1) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/171) applied.
+
+It applies to such companies where the pre-change asset consists of a holding of securities to which the share identification rules in sections 104 to 111 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/part/IV/chapter/I/crossheading/share-pooling-identification-of-securities-and-indexation) apply (CG50500+).
+
+Any new securities acquired after the qualifying change in ownership do not form part of the pre-change asset. Where securities are acquired after the qualifying change of ownership they form a single, pooled asset, separate from those forming the pre-change pool.
+
+Disposals of securities from both a pre-change pool and another pool are identified firstly with the asset that is not the pre-change asset. Where the number of securities disposed of exceeds the number comprised in the other pool, the excess is identified with securities from the pre-change pool. Subject to this general order of priority, all other rules regarding the identification of shares disposed of will continue to apply (CG50500+).
+
+The order of priority explained above cannot be overridden, for example where a sale agreement relates to specifically identified share or bond certificates, provided the relevant securities are all held by the company in the same capacity. This final proviso ensures that a disposal of shares held in a nominee capacity, for example, will only be identified with the total holding as nominee where other shares of the same class are held beneficially.
+
+Section 184F TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184F) takes priority over other identification rules in Chapter 1, Part 4 in cases where sections 184A or B TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/chapter/I/crossheading/restrictions-on-buying-losses-or-gains-etc) are capable of taking effect. If section 184A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184A) is not in point (say because there were no arrangements for the purpose of securing a tax advantage) then the ordinary share identification rules apply (see CG50500+).
+
+Section 184F(7) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184F) defines ‘pre-change asset’ and ‘securities’ for the purposes of new section 184F TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184F). ‘Pre-change asset’ has the same meaning as for new sections 184A and 184B TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/chapter/I/crossheading/restrictions-on-buying-losses-or-gains-etc) (see CG47032 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47032)). ‘Securities’ broadly means any shares or securities of a company, but not relevant securities for the purpose of section 108 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/108) (qualifying corporate bonds and certain interests in non-qualifying offshore funds).
+
+In common with the ordinary share identification rules in CG50500+, section 184F(8) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184F) explains that shares or securities of a company are treated as being of the same class where they are, or would be, so treated by the practice of a recognised Stock Exchange.

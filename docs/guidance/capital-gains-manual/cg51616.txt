@@ -1,0 +1,137 @@
+Share identification rules: the 10 day rule: examples
+Identifier: CG51616
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51616
+Published: 2016-03-12T11:23:11+00:00
+Updated: 2023-04-27T14:21:11+01:00
+Retrieved (UTC): 2026-09-18T14:47:58.149915+00:00
+
+EXAMPLE 1 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51616#IDAFJKZE)
+EXAMPLE 2 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51616#IDAG143F)
+
+The following examples illustrate the operation of the ten day rule. In Example 1 all the shares sold are identified against an acquisition in the ten day period. In Example 2 only some of the shares sold are identified against acquisitions in the ten day period.
+
+EXAMPLE 1
+
+- March 2010 a company buys 1,600 shares in C Ltd at a cost of £2.00 per share.
+
+- 26 September 2013 the company buys a further 1,000 shares at a cost of £10.00 per share.
+
+- 2 October 2013 the company sells 500 shares at a price of £10.50 per share.
+
+SECTION 104 HOLDING
+
+Step number/Description |  Number of shares |  Pool of qualifying expenditure |  Indexed pool of expenditure |
+
+STEP 1 |  1,600 |  £3.200 |  £3,200 |
+
+The acquisition on 26 September is an operative event |  - |  - |  - |
+
+£3,200 x 0.083 - |  - |  - |  £266 |
+
+- |  1,600 |  £3,200 |  £3,466 |
+
+STEP 2 |  - |  - |  - |
+
+Compute the capital gain on the disposal on 2 October. Add the balance of the cost of the new shares to both pools |  500 |  £5,000 |  £5,000 |
+
+- |  2,100 |  £8,200 |  £8,466 |
+
+CAPITAL GAIN
+
+The disposal on 2 October is identified solely against the acquisition on 26 September. No indexation allowance is due.
+
+Description |  Calculation |  Amount |  Total £ |
+
+Disposal proceeds |  - |  - |  5,250 |
+
+less Cost £10,000 x |  500 |  5,000 |  - |
+
+- |  1,000 |  - |  - |
+
+Cost of disposal |  - |  50 |  5,050 |
+
+CHARGEABLE GAIN |  - |  - |  200 |
+
+This example illustrates how the ten day rule works to the company’s advantage. If the acquisition in September was included in the Section 104 holding the gain would be £3,553 (not illustrated) because the lower cost of the shares in 1987 would reduce the average cost of the shares in the pool.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51616#Top)
+
+EXAMPLE 2
+
+- March 2010 a company buys 1,600 shares in D Ltd at a cost of £3.00 per share.
+
+- 29 August 2013 the company buys a further 400 shares at a cost of £10.00 per share.
+
+- 3 September 2013 the company sells 600 shares for £10.50 per share.
+
+CAPITAL GAIN
+
+The capital gain is made up of two elements.
+
+- The disposal of 400 shares is identified against the acquisition on 29 August. No indexation is due on this disposal.
+
+Description |  Amount |  Total £ |
+
+Disposal proceeds |  - |  4,200 |
+
+less Cost |  4,000 |  - |
+
+Cost of disposal |  50 |  4,050 |
+
+CHARGEABLE GAIN |  - |  150 |
+
+- The disposal of 200 shares is identified against the new holding
+
+Description |  Calculation Amount 1 |  multiply |  Calculation Amount 2 |  Total |
+
+Pool of indexed expenditure |  £5,198 |  x |  200 |  £650 |
+
+- |  - |  - |  1,600 |  - |
+
+Pool of qualifying expenditure |  £4,800 |  x |  200 |  £600 |
+
+- |  - |  - |  1,600 |  - |
+
+Indexation |  - |  - |  - |  £50 |
+
+Description |  Amount £ |
+
+Disposal proceeds |  2,100 |
+
+less Cost |  600 |
+
+Unindexed gain |  1,500 |
+
+less Indexation |  50 |
+
+CHARGEABLE GAIN |  1,450 |
+
+TOTAL GAIN £150 + £1,450 = £1,600
+
+SECTION 104 HOLDING
+
+All shares acquired in August are identified against the disposal. Therefore, there is no operative event in that month.
+
+200 of the shares disposed of in September are identified against the Section 104 holding holding. This is an operative event.
+
+SECTION 104 HOLDING
+
+Description |  Number of shares |  Pool of qualifying expenditure |  Indexed pool of expenditure |
+
+STEP 1 |  - |  - |  - |
+
+Acquisition March 2010 |  1,600 |  £4,800 |  £4,800 |
+
+STEP 2 |  - |  - |  - |
+
+The disposal in September 2013 is an operative event |  - |  - |  - |
+
+£4,800 x 0.083 |  - |  - |  £398 |
+
+- |  1,600 |  £4,800 |  £5,198 |
+
+STEP 3 |  - |  - |  - |
+
+Reduce both pools by the apportioned amounts of cost and indexation |  (200) |  (£600) |  (£217) |
+
+- |  1,400 |  £4,200 |  £4,981 |

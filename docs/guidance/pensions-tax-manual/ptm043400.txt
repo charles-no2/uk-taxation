@@ -1,0 +1,442 @@
+Contributions: tax relief for employers: spreading
+Identifier: PTM043400
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-28T12:02:03+00:00
+Retrieved (UTC): 2026-09-18T14:49:09.404822+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Spreading of relief on indirect contributions (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#IDANDMGG)
+Spreading and tax relief (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#IDAZGMGG)
+When tax relief on employer contributions needs to be spread (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#IDANHMGG)
+Steps in establishing if tax relief needs to be spread (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#IDA5JMGG)
+Example to show if tax relief needs to be spread (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#IDAANMGG)
+Period that tax relief will be spread (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#IDAXRMGG)
+Example showing how tax relief is spread (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#IDA1UMGG)
+Spreading of tax relief when an employer ceases business (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#IDAV2MGG)
+Examples of spreading of tax relief on cessation of business (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#IDAC5MGG)
+
+Spreading of relief on indirect contributions
+
+Section 199A Finance Act 2004
+
+In order to prevent avoidance of the spreading rules certain payments by an employer are treated for spreading purposes as if they are contributions to a registered pension scheme. Affected payments are those made on or after 10 October 2007 except any made under a contract entered into before 9 October 2007. The amount of relief in respect of an affected payment comes within the normal spreading provisions as if it were an employer’s pension contribution of that amount - see Spreading and tax relief (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#IDAZGMGG) below.
+
+Affected payments
+
+The affected payments are those where the following conditions apply:
+
+- without this rule the employer would be entitled to relief in a chargeable period (2nd CP) in respect of a payment intended to facilitate payment of pension contributions by a third party whether under the original scheme or a substitute scheme
+
+- the employer made a contribution under the original scheme in the preceding chargeable period (1st CP)
+
+- if the payment under 1 had been made instead as a pension contribution by the employer to the original scheme relief would have been spread under section 197 Finance Act 2004 and the purpose or one of the purposes of arranging the payment via the third party was to avoid section 197 applying ('the avoidance condition').
+
+A payment under 1 includes not only direct payments by the employer but also where relief is ultimately given to the employer, for example via an intra-group recharge.
+
+Where only part of a payment is intended to facilitate the payment of pension contributions by a third party, only the amount of relief in respect of that part is treated as a contribution of that amount when applying the normal spreading provisions.
+
+Original and substitute scheme
+
+The original scheme is the one to which the employer made pension contributions in the 1st CP at 2 above.
+
+The substitute scheme is:
+
+- any registered pension scheme, to which there is a relevant transfer in the 2 years before the 2nd CP payment at 1 is made or,
+
+- any registered pension scheme to which it is envisaged that such a transfer will be made after that day, or
+
+- any registered pension scheme to which a transfer is made from a substitute scheme, which if it had instead been a transfer made at that time from the original scheme would have been a relevant transfer.
+
+Relevant transfer
+
+A relevant transfer is a recognised transfer from the original scheme of more than 30% of the aggregate of:
+
+- for transfers within a. above the amount of the sums and market value of the assets held for the purposes of, or representing accrued rights under the original scheme immediately before the transfer, and,
+
+- for transfers within b. above the amount of those sums and the market value of those assets on the day on which the 2nd CP payment at 1 is made.
+
+For guidance on recognised transfers see PTM100000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm100000).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#Top)
+
+Spreading and tax relief
+
+Spreading is where the relief due to an employer on the making of a contribution to a registered pension scheme is not given entirely in the chargeable period in which the payment is made. Instead, part of the relief due is spread forward into future periods.
+
+Chargeable period means a period of account where a contribution relates to a trade or profession, and accounting period where it relates to an investment business or to the basic life assurance and general annuity business of a life insurance company.
+
+In order to prevent avoidance of the spreading rules certain payments by an employer are treated for spreading purposes as if they are contributions to a registered pension scheme.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#Top)
+
+When tax relief on employer contributions needs to be spread
+
+Sections 197(1) to (3) and 197(6) to (10) Finance Act 2004
+
+Where an employer contributes to more than one registered pension scheme in the same chargeable period the spreading provisions apply separately to the respective contributions made to each registered pension scheme and not to the combined total of employer contributions made to all registered pension schemes in that chargeable period.
+
+If there is a large increase in the level of employer contributions from one chargeable period to the next tax relief may be spread. Establishing if tax relief on an employer contribution to a registered pension scheme needs to be spread is a 4 stage process.
+
+- Establish what contributions have been paid in the current and previous chargeable period.
+
+- If there has been a change in the length of chargeable periods adjust the periods to the same length.
+
+- Compare the relevant contributions in the current and previous chargeable periods to work out if there has been an excess and if so, how much.
+
+- Is the excess more than £500,000?
+
+When carrying out these calculations it is the contributions actually paid in each chargeable period that should be used in the calculations. For instance, where relief has been spread forward into a chargeable period in respect of a contribution made in a previous chargeable period it is the amount of contribution paid in each period, rather than the relief given in each period, that is used when determining whether contributions in the current chargeable period need to be spread. Similarly, any provisions made under general accounting principles are ignored because they are not contributions paid.
+
+Certain classes of contributions paid in the current chargeable period can be ignored in the calculation - this is explained in more detail in Steps in establishing if tax relief needs to be spread (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#IDA5JMGG) below where the 4-stage process is outlined.
+
+The legislation is written so that where no contribution was paid in the previous chargeable period, for example if an employer has only just set up a pension scheme, tax relief on contributions in the current chargeable period will not be spread.
+
+Chargeable period means a period of account where a contribution relates to a trade or profession, and accounting period where it relates to an investment business or to the basic life assurance and general annuity business of a life insurance company.
+
+Only tax relief on an ‘excess’ contribution of £500,000 or more will be spread. The length of time the tax relief will be spread over depends on the size of the excess - see Period that tax relief will be spread (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#IDAXRMGG) below.
+
+There are also provisions for when an employer ceases business and how this affects spreading of tax relief - see Spreading of tax relief when an employer ceases business (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#IDAV2MGG) below.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#Top)
+
+Steps in establishing if tax relief needs to be spread
+
+Step 1 - what contributions have been paid in the current and previous chargeable period?
+
+Section 197(1), (6) and (7) Finance Act 2004
+
+It is the contributions actually paid by the employer to a registered pension scheme in the current chargeable period that must be determined here. Any relief in respect of contributions made in a previous chargeable period that has been spread into the current chargeable period does not count as a contribution paid in the current chargeable period as the contribution was actually paid in a previous chargeable period. Similarly, any provisions made in accordance with general accounting conventions are not relevant as they are not contributions paid.
+
+Certain contributions do not need to be spread. These are contributions to pay for:
+
+- cost of living increases to pensions in payment to pensioner members
+
+- benefits for future service for members joining the scheme in the current chargeable period.
+
+These contributions can be excluded when working out how much has been paid in the current chargeable period for spreading purposes.
+
+The contributions paid in the previous chargeable period are calculated on the same basis as the contributions paid in the current chargeable period except that any contributions within the classes of ‘certain contributions’ mentioned in the two bullet points above that were paid in the previous chargeable period are included in the contributions paid in the previous chargeable period.
+
+Step 2 - adjust chargeable periods
+
+Section 197(8) and (9) Finance Act 2004
+
+This step only needs to be carried out if the length of the current and previous chargeable periods are not the same, i.e. there has been a change of accounting date. We do not expect this step to be carried out just because chargeable periods are different due to a leap year.
+
+Where the lengths of the chargeable periods are different a factor is calculated for the previous chargeable period using the formula
+
+DCCP/DPCP
+
+Where DCCP = number of days in the current chargeable period, andDPCP = number of days in the previous chargeable period.
+
+This factor is then applied to the amount of contributions paid in the previous chargeable period.
+
+Step 3 - is there an excess and how much?
+
+Section 197(1) and (2) Finance Act 2004
+
+Compare the amount of contributions paid in the current chargeable period as found from step 1 with the contributions paid in the previous chargeable period after making any adjustment under step 2.
+
+If the amount in the current period is more than 210% of (or 2.1 times) the amount in the previous period, there is an excess that may need to be spread.
+
+The amount of the excess is the amount of the contribution in the current chargeable period that is more than 110% of (or 1.1 times) the contributions paid in the previous period.
+
+Step 4 - is the excess more than £500,000?
+
+Section 197(3)(a) Finance Act 2004
+
+If the amount of the excess is £500,000 or more tax relief on the contribution will be spread.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#Top)
+
+Example to show if tax relief needs to be spread
+
+F Bloggs Ltd pays pension contributions of £3.75 million in the chargeable period ending 31 March 2013 (the previous chargeable period), and £9 million in the chargeable period ending 31 March 2014 (the current chargeable period).
+
+The company changed its accounting year in 2013 so that the previous chargeable period runs from 1 January 2012 to 31 March 2013.
+
+Relief has been spread forward from a contribution made in the period ended 31 December 2011. The amount of spread forward relief allowable in the period ended 31 March 2013 is £450,000 and the amount of spread forward relief allowable in the chargeable period ended 31 March 2014 is £360,000.
+
+In the current chargeable period year F Bloggs Ltd took over another business so has 150 new employees who became pension scheme members. The cost of providing these new members with benefits was £600,000. Another £500,000 was used to pay for cost of living increases to pensions.
+
+Step 1 Contributions to be included in the current chargeable period are
+
+£9 million - (£600,000 + £500,000) = £7.9 million.
+
+The £360,000 of relief spread forward from 2011 does not count towards the contributions in the current chargeable period because it is not a contribution paid in the current period.
+
+Step 2 The factor for the previous chargeable period is
+
+(No days from 1 April 2013 to 31 March 2014 / No days from 1 January 2012 to 31 March 2013) = (366 / 455) = 0.8
+
+So the contribution paid in the previous chargeable period is
+
+0.8 x £3.75 million = £3 million
+
+The £450,000 of relief spread forward from 2011 does not count towards the contributions in the previous chargeable period because it was not a contribution paid in that period.
+
+Step 3 Contributions in the current chargeable period are £7.9 million. Contributions in the previous chargeable period were £3 million.
+
+So, contributions in the current period are 263% of (or 2.63 times) the contributions paid in the previous period with the excess being
+
+£7.9 million - (£3 million x 110%) = £4.6 million
+
+Step 4 the excess contributions of £4.6 million are more than £500,000 so the tax relief on the contribution will be spread.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#Top)
+
+Period that tax relief will be spread
+
+Section 197(4) to (5) Finance Act 2004
+
+The period over which tax relief will be spread depends on the size of the relevant excess contribution. Tax relief on the excess contribution will be spread as follows
+
+Amount of relevant excess contributions
+
+|
+
+Period of spreading of tax relief
+
+|
+
+£500,000 or more but less than £1,000,000.
+
+|
+
+2 years
+
+The relevant excess contribution is to be treated as being split equally (1/2) over the current chargeable period and the next chargeable period.
+
+|
+
+£1,000,000 or more but less than £2,000,000
+
+|
+
+3 years
+
+The relevant excess contribution is to be treated as being split equally (1/3) over the current chargeable period and the next two chargeable periods
+
+|
+
+£2,000,000 or more
+
+|
+
+4 years
+
+The relevant excess contribution is to be treated as being split equally (1/4) over the current chargeable period and the next three chargeable periods.
+
+|
+
+Once a spread of tax relief has been determined it will not be changed unless the employer ceases to carry on business - see Spreading of tax relief when an employer ceases business (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#IDAV2MGG) below.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#Top)
+
+Example showing how tax relief is spread
+
+J Soap Ltd has paid contributions of
+
+Period | Amount of contributions paid |
+
+Period ending 31 March 2011
+
+|
+
+£1.5 million
+
+|
+
+Period ending 31 March 2012
+
+|
+
+£3.6 million
+
+|
+
+Period ending 31 March 2013
+
+|
+
+£2 million
+
+|
+
+Period ending 31 March 2014
+
+|
+
+£2.2 million
+
+|
+
+All the chargeable periods are of the same length.
+
+Tax relief on the contributions paid in the chargeable period ending 31 March 2012 is potentially spreadable.
+
+In the period ending 31 March 2012 £150,000 was used to pay for cost of living increases to pensions in payment. This gives a contribution portion of £1.8 million on which tax relief has to be spread over a 3-year period, split as follows
+
+Period | Contribution tax relief spread amounts |
+
+Period ending 31 March 2012
+
+|
+
+£600,000
+
+|
+
+Period ending 31 March 2013
+
+|
+
+£600,000
+
+|
+
+Period ending 31 March 2014
+
+|
+
+£600,000
+
+|
+
+The remaining £1.8 million of the contribution paid in the period ending 31 March 2012 (the un-spread-portion) will be able to receive tax relief in that year along with the £600,000 portion of the spreadable part.
+
+The HMRC officer dealing with the tax affairs of J Soap Ltd accepts that the pension contributions were wholly and exclusively for the purposes of the company’s soap making business and so may get tax relief. The amount of contributions that may receive tax relief is therefore
+
+Period | Contribution amount eligible for relief |
+
+Period ending 31 March 2011
+
+|
+
+£1.5 million
+
+|
+
+Period ending 31 March 2012
+
+|
+
+£2.4 million (£3.6 million - £1.8 million + £600,000)
+
+|
+
+Period ending 31 March 2013
+
+|
+
+£2.6 million (£2 million + £600,000)
+
+|
+
+Period ending 31 March 2014
+
+|
+
+£2.8 million (£2.2 million + £600,000)
+
+|
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#Top)
+
+Spreading of tax relief when an employer ceases business
+
+Section 197(3)(b) and 198 Finance Act 2004
+
+Once a spread has been determined in accordance with the legislation it will not be varied. However an exception is made if an employer ceases to carry on business in:
+
+- the chargeable period in which the contribution that triggers spreading of tax relief was paid
+
+- a later chargeable period into which relief on relevant excess contributions have been spread
+
+and the spreading of tax relief would mean that the employer does not get full tax relief on the contribution before it ceased business.
+
+To allow the employer to receive full tax relief on the contribution the employer can choose for the contribution to be treated in one of two ways. These are:
+
+- allow the unrelieved balance of any relevant excess contributions against their profits in the chargeable period when the employer ceases business
+
+- treat the unrelieved balance as if it had been actually paid in equal daily instalments over a period starting on the first day of the chargeable period in which the contribution was paid and ending on the day of cessation of business.
+
+Where the second option is chosen the daily amount is calculated using the formula
+
+UP / DRP
+
+Where
+
+UP = the amount of the unrelieved portion of the pension contribution and
+
+DRP = the number of days between the start of the chargeable period in which the contribution that was spread was actually paid and the day the company ceased business.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043400#Top)
+
+Examples of spreading of tax relief on cessation of business
+
+Example 1
+
+CS Ltd ceased business on 27 Sept 2014. In the chargeable period ending 30 June 2014 the company paid a large contribution to the company pension scheme which was spread
+
+Contribution tax relief spread amounts | Period |
+
+£300,000
+
+|
+
+Period ending 30 June 2014
+
+|
+
+£300,000
+
+|
+
+Period ending 30 June 2015
+
+|
+
+As CS Ltd ceased business in the period ending 30 June 2015 the company will receive full tax relief on the contribution. CS Ltd cannot use the cessation of business spreading rules.
+
+Example 2
+
+JMG Ltd ceased business on 15 November 2014. In the period ending 30 September 2014 JMG Ltd paid pension contributions result in the tax relief being spread as follows
+
+Contribution tax relief spread amounts | Period |
+
+£493,200
+
+|
+
+Period ending 30 September 2014
+
+|
+
+£493,200
+
+|
+
+Period ending 30 September 2015
+
+|
+
+£493,200
+
+|
+
+Period ending 30 September 2016
+
+|
+
+As the company ceased business in the period ending 30 September 2015 it will not get full tax relief on the pension contribution unless it uses the cessation of business spreading rules. JMG Ltd can choose to:
+
+- have the last £493,200 put into what would have been the period ending 30 September 2015, i.e. the company’s last chargeable period, or
+
+- have the last £493,200 treated as paid daily from 1 October 2013 to15 November 2014. The daily amount will be £1200 (£493,200/411 days). This gives £55,200 in the final chargeable period and £438,000 in the period ending 30 September 2014.
+
+Example 3
+
+KB Ltd ceased business on 28 February 2013. In the company chargeable period ending 31 March 2013 KB Ltd paid a contribution that would have been spread over 3 years. So that the company can get full tax relief the whole contribution is treated as paid in the final chargeable period which is also the period in which the contribution was actually paid.

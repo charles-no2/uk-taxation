@@ -1,0 +1,52 @@
+Reliefs: employee-ownership trusts: conditions- the 'all-employee benefit requirement' and the 'equality requirement'- 'excluded participator'
+Identifier: CG67839
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67839
+Published: 2016-05-20T18:04:01+01:00
+Updated: 2026-09-14T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:35:00.058681+00:00
+
+TCGA92/S236J(5)-(7)
+
+‘Excluded participator’ means
+
+- a person who is a participator in C, or
+
+- where C is the principal company of a trading group, a person who is a participator in any relevant group company, or
+
+- any person who is a participator in any close company that has made a disposition whereby property became comprised in the same settlement, being a disposition which, but for IHTA84/S13 and S13A would have been a transfer of value for the purposes of inheritance tax, or
+
+- any other person who, at any time on or after the ‘look-back date’, has been a participator in a company falling within any of the three points above, or
+
+- any person who is connected with any person falling within one or more of the four points above.
+
+For these purposes ‘same settlement’ means the settlement to which shares in the company have been transferred.
+
+‘Close company’ and ‘participator’ have the same meaning as in IHTA84/Part 4, see IHTM14851 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14851). Where a company is not a close company, references to participator are to be taken as references to a person who would be a participator if the company were a close company.
+
+The ‘look-back date’ means the first day of the period of 10 years ending with the later of
+
+- 10 December 2013, and
+
+- the day on which any property first became comprised in the settlement to which shares in the company have been transferred.
+
+Example 10
+
+Peter and Jane have been married for many years. Peter has held almost 98% of the ordinary shares in Jabbah Widgets Limited since the company was founded in 1998. On 14 November 2006 Jabbah Widgets Limited transferred a property to the Jabbah Widgets Limited Employee Trust at substantially below its then open market value. The disposal took place before the EOT legislation was effective, but if the Jabbah Widgets Limited Employee Trust later satisfies the conditions to be an EOT then Jane would be an ‘excluded participator’ in relation to the Jabbah Widgets Limited Employee Trust. This is because she is connected with a person, Peter, who is a participator in a close company that settled property on the trust.
+
+The participators mentioned in the first to fourth bullet points above do not include any participator who
+
+- is not beneficially entitled to, or to rights entitling the participator to acquire, 5% or more of the company’s share capital or of any class of the shares comprised in that share capital, and
+
+- on a winding-up of the company would not be entitled to 5% or more of its assets.
+
+Example 11
+
+Vincent and Daniel are a father and son. Daniel works for Jabbah Widgets Limited but has no interest in the company’s shares. Vincent owns the only issued ‘B’ ordinary share in the company. This share has no voting rights, but its rights to dividends are not in any way restricted or limited. The ‘B’ share carries a right to 10% of the company’s assets in a winding up. Daniel would be an ‘excluded participator’, as Vincent owns the whole of the class of ‘B’ shares in Jabbah Widgets Limited, which gives him a right to 5% of the company’s assets in a winding up.
+
+Example 12
+
+Alison and Victoria are civil partners. Alison is the minority shareholder in Jabbah Widgets Limited, having held 2% of the company’s ordinary shares since 2002. Victoria would not be an ‘excluded participator’ in relation to the Jabbah Widgets Limited Employee Trust through being a connected person of Alison, because Alison’s small shareholding means she is not treated as a participator in Jabbah Widgets Limited for these purposes. However, Victoria holds 51% of the shares of Kochab Limited, which are transferred to the Jabbah Widgets Limited Employee Trust on 7 January 2015. This makes Victoria an ‘excluded participator’ in relation to the settlement.
+
+Example 13
+
+The facts are the same as those in Example 11, except that Vincent ceased to be a shareholder in Jabbah Widgets Limited on 26 September 2005. Daniel would still be an ‘excluded participator’, as Vincent held the relevant shareholding on or after the ‘look-back date’. As 10 December 2013 is later than the day on which property first became comprised in the Jabbah Widgets Limited Employee Trust, 14 November 2006, the ‘look-back date’ is the earliest possible one, 11 December 2003.

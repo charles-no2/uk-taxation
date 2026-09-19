@@ -1,0 +1,44 @@
+Accrued Income Scheme: different kinds of transfer
+Identifier: SAIM4060
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4060
+Published: 2016-03-19T16:25:47+00:00
+Updated: 2015-12-03T11:02:50+00:00
+Retrieved (UTC): 2026-09-18T14:26:21.263063+00:00
+
+Four kinds of transfer
+
+There are different rules for calculating the tax charge for each of four different kinds of transfer. These are transfers
+
+- with accrued interest (ITA07/S623)
+
+- without accrued interest (ITA07/S624)
+
+- with unrealised interest (ITA07/S625)
+
+- of variable rate securities (ITA07/S626).
+
+It is possible for a security to be transferred with/without accrued interest, and with unrealised interest (for an earlier interest period), in which case the separate rules will apply to each aspect of the transfer.
+
+Transfers with accrued interest
+
+Transfers with accrued interest (‘cum div’) are the most common type of transfer. The general rule is that such transfers are where the securities are transferred with the right to receive interest on the settlement day, where this is an interest payment day, or on the first interest payment day after the settlement day.
+
+In the cases of conversions, appropriations of trading stock, a person becoming a trustee, or securities ceasing to be held by a charitable trust, the transfer is treated as with accrued interest provided the transferor had the right to the accrued interest.
+
+ITA07/S628 applies to the calculation of accrued income profits or losses payments treated as transfers and ITA07/S632 sets out how the payments are calculated. SAIM4140 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4140) has more details.
+
+Transfers without accrued interest
+
+Transfers without accrued interest (‘ex div’) are transfers without the right to receive interest on the settlement day, or on the first interest payment day after the settlement day.
+
+Similarly, in the cases of conversions, appropriations of trading stock, a person becoming a trustee, or securities ceasing to be held by a charitable trust, the transfer is treated as without accrued interest provided the transferor had the right to the accrued interest.
+
+ITA07/S628 applies to the calculation of accrued income profits and losses on payments treated as transfers and ITA07/S633 sets out how the payments are calculated. SAIM4150 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4150) has more details.
+
+Transfers with unrealised interest
+
+Where the transfer takes place with the right to receive interest payable on an interest day falling before the settlement day, they are said to be transferred with ‘unrealised interest’. This will occur where securities are transferred with interest which is ripe for payment because the due and payable date has passed. ITA07/S628 applies to the calculation of accrued income profits and losses on payments treated as transfers in such cases, or where the settlement day is after the interest day, ITA07/S630. ITA07/S634 sets out how the payments are calculated. SAIM4170 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4170) has more details.
+
+Transfers of variable rate securities
+
+Variable rate securities are those which do not carry a fixed rate of interest, or a rate which bears a fixed relationship to standard base rate or a published index. ITA07/S628, or where the settlement day is after the interest day, ITA07/S630 applies to the calculation of accrued income profits and losses on payments treated as transfers in such cases. ITA07/S635 sets out how the payments are calculated. SAIM4180 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4180) has more details.

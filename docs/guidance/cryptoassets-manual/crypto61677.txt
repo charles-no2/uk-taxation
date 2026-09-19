@@ -1,0 +1,66 @@
+Decentralised Finance: Lending and staking: Chargeable Gains: Examples: Example 7: lender’s loan of an ascertainable quantity of tokens is satisfied, the value of the tokens increased
+Identifier: CRYPTO61677
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61677
+Published: 2022-02-02T15:01:21+00:00
+Updated: 2022-02-02T15:34:07+00:00
+Retrieved (UTC): 2026-09-18T16:18:44.805962+00:00
+
+Lorraine holds 1,000 tokens with a total acquisition cost of £1,500. On 30/09/20XX, Lorraine enters into an agreement with Martin to loan Martin 100 tokens for 12 months. The loan agreement includes that Martin will pay a return of 5% at the end of the loan. At the time the loan is made, the tokens have a sterling value of £1.50 each.
+
+When the loan is satisfied by Martin, Lorraine will treat the tokens received as the 5% rate of return on the loan as miscellaneous income that will be subject to tax on income.
+
+Lorraine’s disposal is for a right to receive a future quantity of tokens. The future quantity of tokens is 105 so the future quantity of tokens is known. This means that section 48(1) Taxation of Chargeable Gains Act (TCGA) 1992 will apply. Section 48(1) TCGA 1992 brings the full quantity of tokens into the Chargeable Gains (CG) computation straight away.
+
+The tokens will need to be brought into the CG computation at their sterling value at the time of the disposal. The consideration in the computation will therefore be 105 tokens multiplied by £1.50 to give total consideration of £150.
+
+Section 37(1) TCGA 1992 excludes from the computation an amount which is chargeable to tax on income. The sterling value of the 5 tokens representing the 5% rate of return on the loan is therefore excluded from the CG computation.
+
+Lorraine’s CG computation of the initial disposal will be as follows:
+
+. |  . |  £ |
+
+Consideration |  S48 TCGA 1992 – 105 x £1.50; less S37 TCGA 1992 – 5 x £1.50 |  150 |
+
+Allowable costs |  S104 - £1,500 x 100 / 1,000 |  (150) |
+
+Gain |  . |  0 |
+
+Lorraine’s section 104 pool will be adjusted as follows:
+
+Date |  Quantity of tokens |  Allowable costs (£) |
+
+Opening balance |  1,000 |  1,500 |
+
+30/09/20XX |  (100) |  (150) |
+
+Closing balance |  900 |  1,350 |
+
+On 29/09/20XX, Martin satisfies the loan with a transfer of 105 tokens to Lorraine. At the time the loan is satisfied, each token is worth £1.60.
+
+Lorraine treats the receipt of 5 of the tokens as miscellaneous income for tax purposes. This means that 5 tokens x £1.60 = £8.00 is subject to tax on income.
+
+The sterling value of the remaining 100 tokens will be a capital sum that is derived from Lorraine’s right to receive a future quantity of tokens. Lorraine’s CG computation of the disposal of her right is as follows:
+
+. |  . |  £ |
+
+Consideration |  105 x £1.60; less S37 TCGA 1992 – 5 x £1.60 |  160 |
+
+Allowable costs |  Value of right to receive a future quantity of tokens |  (150) |
+
+Gain |  . |  10 |
+
+Lorraine receives 5 tokens which are treated as miscellaneous income, so they are acquired at £1.60 each. Lorraine also receives 100 tokens derived from her right to receive a future quantity of tokens, which are also acquired at £1.60 each. Lorraine’s section 104 pool will be adjusted as follows:
+
+Date |  Quantity of tokens |  Allowable costs (£) |
+
+Opening balance |  900 |  1,350 |
+
+29/09/20XX |  +5 |  +8 |
+
+. |  +100 |  +160 |
+
+Closing balance |  1,005 |  1,518 |
+
+Overall Lorraine pays tax on her income of 5 tokens at £1.60 each, and tax on her chargeable gain of £10, which is the value by which her 100 tokens had increased by the time the loan was satisfied by Martin.
+
+Lorraine’s section 104 pool also reflects the increased token value of £18 (5 tokens x £1.60 = £8, 100 tokens x £0.10 = £10) for any future disposals that she may make.

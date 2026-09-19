@@ -1,0 +1,220 @@
+Deferred consideration: shares and securities: example
+Identifier: CG58070
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58070
+Published: 2016-03-12T11:47:13+00:00
+Updated: 2023-05-11T14:24:41+01:00
+Retrieved (UTC): 2026-09-18T14:44:19.015718+00:00
+
+TCGA92/S138A
+
+This example illustrates the computation where only part of the deferred consideration has to be satisfied by an issue of shares.
+
+NOTE From 6 April 2008 only companies and other concerns within the charge to Corporation Tax may be able to claim indexation allowance, see CG17207 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17207).
+
+FACTS
+
+In year 0 V Ltd acquires all the shares in T Ltd for £100,000.
+
+In year 10 V Ltd sells all the shares in T Ltd at arm’s length to P Ltd.
+
+The consideration is the right to two payments of deferred consideration, the amount depending on the future profits of T Ltd. Fifty per cent of the amount will be satisfied in shares of P Ltd, with the remaining fifty per cent to be satisfied in any combination of shares or cash at V Ltd’s request.
+
+The market value of the right to receive deferred consideration at the time of disposal is agreed by Shares and Assets Valuation at £800,000.
+
+In year 11 V Ltd receives shares in P Ltd to the value £680,000 (200,000 shares at £3.40 each) in part satisfaction of the right to deferred consideration. The market value of the remainder of the right is agreed by Shares and Assets Valuation to be £300,000.
+
+In year 12 shares in P Ltd to the value £350,000 (100,000 shares at £3.50 each) are issued in full satisfaction of the remainder of the right to deferred consideration.
+
+TCGA92/S138A applies to the fifty per cent of the consideration which could be received only in the form of shares. It cannot apply to the fifty per cent of the consideration that may be received in cash even if the cash alternative is not taken up. Section 138A(1)(d) requires that the right may only be satisfied by the issue of new debentures if it is to be an earn-out right to which section 138A can apply.
+
+COMPUTATIONS
+
+A) IMMEDIATE CHARGEABLE GAIN
+
+Description |  Amount |
+
+50 per cent of the value of the right to |  £400,000 |
+
+receive deferred consideration |  - |
+
+Less apportioned cost |    |
+
+Cost x ‘right’ S138A does not apply |  - |
+
+-———————————————————— |  - |
+
+‘right’ S138A does not apply + ‘right’ S138A does apply |  - |
+
+£100,000 (Cost) £400,000 |  - |
+
+-————————— |  £50,000 |
+
+£400,000 + £400,000 |  - |
+
+- |  £350,00 |
+
+Less indexation £50,000 x 0.250 |  £12,500 |
+
+Chargeable gain |  £337,500 |
+
+B) COST OF NOTIONAL SECURITY UNDER SECTION 138A
+
+Description |  Amount |
+
+cost £100,000 - £50,000 |  £50,000 |
+
+indexed rise to year 10 |  12,500 |
+
+- |  -———- |
+
+Indexed pool of expenditure at year 10 |  £62,500 |
+
+- |  -———- |
+
+C) COMPUTATIONS WHEN DEFERRED CONSIDERATION RECEIVED
+
+i) 50 per cent not covered by Section 138A
+
+Description |  Multiply |  Calculation |  Amount |
+
+Year 11 consideration received |  - |  - |  - |
+
+(50 per cent of £680,000) |  - |  - |  £340,000 |
+
+Less apportioned cost |  - |  - |  - |
+
+£400,000 |  x |  £340,00 |  - |
+
+- |  - |  ———————— |  £277,551 |
+
+- |  - |  £340,000+(50% of £300,00) |  - |
+
+Unindexed gain |  - |  - |  £62,449 |
+
+Less indextion £277, 551 x 0.025 |  - |  - |  £6,939 |
+
+Chargeable gain Year 11 |  - |  - |  £55,510 |
+
+Year 12 consideration received |  - |  - |  - |
+
+(50 per cent of £350,000) |  - |  - |  £175,000 |
+
+Less cost £400,000-£277,551 |  - |  - |  £122,449 |
+
+Unindexed gain |  - |  - |  £52,551 |
+
+Less indexation £122,449 x 0.051 |  - |  - |  - |
+
+(increase year 10 to year 12) |  - |  - |  £6,245 |
+
+Chargeable gain year 12 |  - |  - |  £46,306 |
+
+ii) 50 per cent covered by Section 138A
+
+NOTIONAL SECURITY
+
+Notional security |  Calculation |  Cost of |  Indexed |
+
+- |  - |  right |  pool of |
+
+- |  - |  - |  expenditure |
+
+As at year 10 |  - |  £50,000 |  £62,500 |
+
+Indexed rise to year 11 |  - |  - |  - |
+
+£62,000 x 0.025 |  - |  - |  £1,563 |
+
+- |  - |  - |  -———- |
+
+- |  - |  - |  £64,063 |
+
+Attributable to 50 per cent |  - |  - |  - |
+
+of shares in P Ltd issued |  - |  - |  - |
+
+in year 11 (100,000 shares) |  - |  - |  - |
+
+- |  £340.000 |  - |  - |
+
+- |  -——— |  £34,694 |  £44,452 |
+
+- |  £340,000 + £150,000 |  - |  - |
+
+- |  - |  -———- |  -———- |
+
+Remainder at year 11 |  - |  £15,306 |  £19,611 |
+
+Indexed rise to year 12 |  - |  - |  - |
+
+£19,611 x 0.025 |  - |  - |  £491 |
+
+- |  - |  - |  -———– |
+
+- |  - |  - |  £20,102 |
+
+- |  - |  - |  -———– |
+
+Attributable to 50 per cent |  - |  - |  - |
+
+of shares issued in |  - |  - |  - |
+
+year 12, 50,000 shares |  - |  £15,306 |  £20,102 |
+
+D) SHARES IN P LTD
+
+P Ltd Shareholding |  No of |  Qualifying |  Indexed pool of |
+
+- |  Shares |  Expenditure |  Expenditure |
+
+Year 11 acquired on part disposal. |  - |  - |  - |
+
+Section 138A did not apply. (See C(i)) |  100,000 |  £340,000 |  £340,000 |
+
+Year 11 acquired on part disposal |  - |  - |  - |
+
+with Section 138A applying. (See C(ii)) |  100,000 |  £34,694 |  £44,452 |
+
+- |  -———– |  -———– |  -———– |
+
+Pool at year 11 |  200,000 |  £374,694 |  £384,452 |
+
+Indexed rise to year 12 |  - |  - |  - |
+
+£384,452 x 0.025 |  - |  - |  £9,612 |
+
+- |  - |  - |  -———– |
+
+- |  - |  - |  £394,064 |
+
+Year 12 acquired on disposal of |  - |  - |  - |
+
+remainder of right. |  - |  - |  - |
+
+Section 138A does not apply. (See C(i)) |  50,000 |  £175,000 |  £175,000 |
+
+Year 12 acquired on disposal of |  - |  - |  - |
+
+remainder of right. |  - |  - |  - |
+
+Section 138A applies. (See C(ii)) |  50,000 |  £15,306 |  £20,102 |
+
+- |  -———– |  -———— |  -———— |
+
+Pool at year 12 |  300,000 |  £565,000 |  £589,166 |
+
+- |  -———- |  -———— |  -———— |
+
+EXPLANATION
+
+A) IMMEDIATE CHARGEABLE GAIN
+
+There is an immediate chargeable gain on the proportion of the right to receive unascertainable deferred consideration which does not fall within section 138A. The disposal consideration is the value of that part of the right (supplied by Shares and Assets Valuation).
+
+C)i) CHARGEABLE GAINS ON RECEIPT OF DEFERRED CONSIDERATION
+
+There is a disposal or part disposal of the right' when the deferred consideration is received in satisfaction or part satisfaction of the right’. The cost of the right to receive unascertainable deferred consideration is the value which has been brought into the computation of the immediate chargeable gain. CG14970 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14970) explains this in more detail.
+
+D) SHARES IN P LTD
+
+All of the shares in P Ltd which are acquired go into the same pool. The shares to which section 138A did not apply go into the pool at market value at the date of acquisition. The shares to which section 138A did apply go into the pool with the base cost (and indexation) which has been calculated as if there was no disposal of the original shares.

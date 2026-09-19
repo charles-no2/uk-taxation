@@ -1,0 +1,157 @@
+Member benefits: lump sums: protection of pre-6 April 2006 lump sum rights: scheme-specific lump sum protection - transfers and winding-up
+Identifier: PTM063150
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063150
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2025-08-12T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:51:05.949178+00:00
+
+As of 6 April 2024 there is no longer lifetime allowance. If you are looking for information about protections, enhancement factors and the lifetime allowance charge please see these pages on The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022829/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm090000). If you are looking for information about the principles of lifetime allowance and benefit crystallisation events please see these pages of The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022836/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm080000).
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Scheme-specific lump sum protection (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063150#IDA3DSUC)
+Transfers (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063150#IDALESUC)
+Partial transfers (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063150#PT)
+Block transfer issues (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063150#IDAGGSUC)
+Transfers - when the member keeps and when they lose their right to payment of a stand-alone lump sum (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063150#IDALHSUC)
+Winding up protected pension schemes (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063150#IDAZLSUC)
+
+Scheme-specific lump sum protection
+
+See PTM063130 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063130) for a full overview of scheme-specific lump sum protection.
+
+Transfers
+
+Paragraphs 31(7) to (9) schedule 36 Finance Act 2004
+The Pension Schemes (Block Transfers)(Permitted Membership Period) Regulations 2006 - SI 2006/498
+
+When benefits are transferred from one scheme to another, scheme-specific lump sum protection is lost unless the transfer is a block transfer.
+
+Where there is a block transfer the legislation treats the pension scheme receiving the block transfer as if it were the original protected pension scheme. Successive block transfers can be made without affecting the member's protection.
+
+A transfer is a block transfer if it involves the transfer in a single transaction of all the sums and assets representing accrued rights under the scheme from which the transfer is made which relate to the member and at least one other member of that pension scheme. To be a single transaction:
+
+- all of the sums and assets must be transferred from the transferring scheme to a sole receiving scheme; and
+
+- the transaction must be made under a single agreement for a single transfer between the two schemes.
+
+It is not necessary that all of the sums and assets are physically passed from the transferring scheme to the receiving scheme on the same day - there may be legal or administration reasons why this is not possible. However they should all be transferred in relation to the single agreement to transfer and within a reasonable timescale.
+
+There is no restriction on the type of registered pension scheme receiving the transfer. So a personal pension scheme can receive a block transfer as long as the other block transfer conditions are met.
+
+Because of the nature of the scheme a retirement annuity contract and a deferred annuity contract (section 32 policy) cannot normally make a block transfer as there is only one member in the scheme. Similarly, an occupational pension scheme that only has one member, for example, an individual arrangement, cannot normally make a block transfer as there are not enough members for a block transfer to take place. The only time a single member scheme can make a block transfer is when the conditions set out under the heading below are met.
+
+Before the transfer, the member must not have already been a member of the registered pension scheme to which the transfer was made for longer than 12 months before the date of the transfer. If the receiving scheme was approved as a personal pension scheme and the individual was a member on 5 April 2006, any period of membership is ignored where the member’s rights before the transfer consist of only contracted-out rights.
+
+In this context, being ‘a member’ of the receiving scheme means not only being an active member, but also a deferred member, a pensioner member and a pension credit member and includes the provision of either pension or death benefits under the receiving scheme. For example if an individual is not an active member of the receiving scheme but is a deferred member (having deferred benefits held under the scheme) and has been a member (deferred or active) for more than 12 months before the transfer is made, the transfer cannot be a block transfer. The prior membership period includes all previous periods of membership of the scheme, including where benefits have been transferred out previously.
+
+Partial Transfers
+
+Paragraph 34 Schedule 36 Finance Act 2004
+Articles 21 and 23 The Taxation of Pension Schemes (Transitional Provisions) Order 2006 – SI 2006/572
+
+Transferring rights for a member from one arrangement whilst retaining benefit rights in another arrangement in the scheme is a partial transfer and so cannot be block transfer. Those rights that have been transferred to the new scheme no longer have protection. The remaining rights under the transferring scheme retain protection, but the partial transfer will reduce the amount of the protected lump sum in the transferring scheme. This is done using the formula:
+
+(A x 1.2) + B – TV/4
+
+A = the value of the member’s uncrystallised rights under the pension scheme on 5 April 2006, calculated in accordance with paragraph 32 of Schedule 36
+
+B = is the additional lump sum amount in respect of the increase in the value of benefits after 5 April 2006
+
+TV = the value of the sums and assets transferred out of the scheme after 5 April 2006
+
+Applying this formula results in the amount of the protected lump sum in the transferring scheme being lower than might have been the case had the transfer not taken place. This is because one quarter of the transfer value is deducted as part of the calculation, and also because the figure taken into account for ALSA reflects the fact that the value of the member’s rights or benefits in the transferring scheme is lower than would have been the case had there been no transfer
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063150#Top)
+
+Block transfer issues
+
+Paragraph 31(9) Schedule 36 Finance Act 2004
+
+Scheme-specific lump sum protection is not fully effective where a transfer results in a scheme containing two or more separate lump sum elements totalling more than 25% for an individual.
+
+Where there is a block transfer, continuing protection is given by treating the scheme receiving the block transfer as if it were the scheme making the transfer for the purposes of establishing the maximum pension commencement lump sum the individual can receive. So, this maximum will be the scheme-specific lump sum that could have been taken from the transferring scheme. This protection clearly works where the receiving scheme has only received one block transfer for the individual and it was not previously a protected pension scheme for that individual.
+
+A block transfer can be made where an individual has been a member of the receiving scheme for no more than 12 months before the date of the transfer. This means that either:
+
+- a scheme can receive more than one block transfer in respect of an individual
+
+- a block transfer can be made to a scheme under which an individual already has protection for lump sums exceeding 25%.
+
+As protection on block transfers works by treating the receiving scheme as if it were the transferring scheme, protection can only be given to one (not all) of the separate elements of protected lump sums for an individual. The legislation is drafted to give protection both to an ‘original’ protected pension scheme and a scheme receiving a block transfer. The interaction of the legislation is such that it is the value of the lump sum held on 5 April 2006 (the ‘condition A’ lump sum’) that is protected. Protection for the lump sum rights being transferred is lost even though the transfer is a block transfer.
+
+The difficulties of this situation can be avoided by not making block transfers to schemes that either are already protected or have already received a block transfer of lump sum rights exceeding 25% for the individual.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063150#Top)
+
+Transfers - when the member keeps and when they lose their right to payment of a stand-alone lump sum
+
+Article 25D(4) to (9) The Taxation of Pension Schemes (Transitional Provisions) Order 2006 - SI 2006/572
+
+For the stand-alone lump sum conditions under scheme specific protection, see PTM063130 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063130).
+
+Transfers-out
+
+If a transfer is made out of a scheme that has the right to pay a stand-alone lump sum the right to a stand-alone lump sum will continue in the scheme receiving the transfer where the transfer is a block transfer (see above) to a registered pension scheme and the member had no rights under the receiving scheme before the block transfer. This is subject to the other payment conditions for such a lump sum being met (see PTM063130 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063130)).
+
+Any other transfer-out (including a block transfer) will result in the loss of the right to a stand-alone lump sum unless (as described below) the transfer is to another scheme under which the individual already has the right to a stand-alone lump sum and the conditions set out below are met.
+
+Article 17 The Pension Schemes (Transfers, Reorganisations and Winding-up)(Transitional Provisions) Order - SI 2006/573
+
+Article 17 treats a deferred annuity contract purchased or assigned on the winding up of a registered pension scheme as if that deferred annuity contract was the same scheme as the winding up scheme. This means that, subject to all the other conditions being satisfied, the right to payment of a stand-alone lump sum can continue. The annuity condition (see The annuity condition (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063150#tanncon)) has to be met as do the winding-up conditions (but for right to a lump sum of more than 25% read right to a stand-alone lump sum).
+
+Transfers-in
+
+Where a scheme under which a member has the right to a stand-alone lump sum receives a transfer from a registered pension scheme, the member will lose the right to payment of a stand-alone lump sum unless all of the following apply:
+
+- the transfer comes from a scheme where immediately before the transfer the member had the right to the payment of a stand-alone lump sum
+
+- all of the member’s uncrystallised rights are transferred from the transferring scheme to the receiving scheme
+
+- the receiving scheme has not paid out a stand-alone lump sum or a pension commencement lump sum to the individual before the transfer was made.
+
+A transfer-in from a non-registered pension scheme will trigger the loss of the right to a stand-alone lump sum.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063150#Top)
+
+Winding up protected pension schemes
+
+Articles 13 to 16 The Pension Schemes (Transfers, Reorganisations and Winding Up)(Transitional Provisions) Order 2006 - SI 2006/573
+
+The transfer of all the benefit rights in respect of a member after 5 April 2006 to a deferred annuity contract is treated as if it were a block transfer where two conditions are met:
+
+- the winding-up scheme condition
+
+- the annuity condition.
+
+Where the deferred annuity contract is a purchased annuity policy, it is treated as having become a registered pension scheme on the date the contract was made.
+
+Where the deferred annuity contract is an assigned policy, it is treated as having become a registered pension scheme on the date the policy was assigned.
+
+Where the conditions below are met, the transfer is treated as if it were a block transfer and so, subject to the payment conditions being met, the member will continue to be able to take a tax-free lump sum of more than 25%.
+
+Transfers to a registered pension scheme that is not a deferred annuity contract made on the winding up of a pension scheme may be a block transfer under the normal block transfer provisions - see Block transfer issues (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063150#IDAGGSUC).
+
+If the transfer on winding up the scheme is not a block transfer because neither the conditions under this heading or ‘block transfer issues’ have been met, protection is lost following the transfer.
+
+The winding-up scheme condition
+
+The transfer must be made from a registered pension scheme that is winding up
+
+Before the start of the scheme wind-up, the member must have had the right to a lump sum of more than 25% (see PTM063130 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063130) for conditions).
+
+Where the scheme started to wind up before 6 April 2006 and the scheme was either a retirement benefits scheme or an annuity contract which is used to secure benefits provided by a retirement benefits scheme but which does not provide for the immediate payment of benefits (for example, a section 32 policy), this condition will be met if the member would have had a right to a lump sum of more than 25% if the scheme had started to wind up on or after 6 April 2006.
+
+A deferred annuity contract (for example, a section 32 policy) set up before 6 April 2006 is covered by these provisions because it automatically became a registered pension scheme on 6 April 2006. For the avoidance of doubt any retirement benefits scheme or deferred annuity contract that has only one member is covered by these provisions. How and when a scheme (including single member schemes) winds up is a question of fact. Scheme rules normally contain provisions stating what can trigger a scheme wind-up.
+
+Where there are several employers participating in a scheme, then subject to certain requirements being met, a partial winding-up of the scheme constitutes a scheme winding-up for the purposes of these provisions. The requirements are set out above.
+
+The annuity condition
+
+This condition is met where the member’s rights under the scheme have been extinguished by either:
+
+- the purchase of one annuity policy that does not provide for the immediate payment of benefits and does not authorise the making of any payment that would be an unauthorised payment (see PTM062400 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062400))
+
+- the assignment to the member of one annuity policy.
+
+The annuity policy must satisfy the conditions that are specified in section 74(3)(c) Pensions Act 1995. This simply means the requirements prescribed by that section, so the purchase or assignment of an annuity from any type of pension scheme should be capable of meeting these conditions.

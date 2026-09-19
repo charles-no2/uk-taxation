@@ -1,0 +1,28 @@
+Procedures for taking penalties on late accounts:  identifying late accounts
+Identifier: IHTM36033
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36033
+Published: 2016-04-09T10:16:04+01:00
+Updated: 2016-02-11T17:23:13+00:00
+Retrieved (UTC): 2026-09-18T15:08:04.160060+00:00
+
+Death cases (new files)
+
+Any death account received more than 12 months but less than 24 months after the end of the month in which the death occurred will be identified by COMPASS during data-capture. At primary risk assessment, before data-capture an AO will ascertain if an account is late. If the account has been received more than 24 months after the end of the month in which the death occurred, COMPASS will not offer the option to print the standard penalty letter. Instead, it will create a referral for the issue to be considered by the caseworker to whom the case is allocated.
+
+Death cases (file already open), Lifetime or Settlement cases
+
+The penalty for late delivery applies to all death and lifetime taxpaying accounts. This includes accounts required from donees of failed PETS (IHTM14001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14001)) or from trustees of settlements, in addition to accounts provided by the personal representatives (IHTM05012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm05012)) of the deceased.
+
+If a file has already been opened and an account relating to the death, or other event, comes in outside the time limits (IHTM10803 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm10803)) for delivering the account, the caseworker will be responsible for dealing with the late account penalty, if trained, or ensuring that it is dealt with by a trained colleague.
+
+When the account is datacaptured and the first calculation raised, COMPASS will check to see whether the entry is being created more than 12 months after the end of the month in which the event occurred. As the first calculation may be raised a little while after the account was received, COMPASS will prompt you to confirm that
+
+- a penalty is due, and
+
+- whether you wish to print and issue the standard penalty letter
+
+if the account was more than 1 year late, COMPASS will prompt you for the amount of the penalty. (This content has been withheld because of exemptions in the Freedom of Information Act 2000)
+
+If a penalty is due, but you decide not to issue a penalty letter whilst raising the first calculation, COMPASS will create a referral. You can issue the letter at a later stage by either actioning the referral or selecting the penalty from the penalty table.
+
+If a penalty is due, but is not to be pursued for whatever reason, you must still confirm that a penalty was due and go through the process to “issue” the standard penalty letter. However, do not print the letter; simply close the penalty record (IHTM36053 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36053)).

@@ -1,0 +1,26 @@
+Termination payments and benefits: example: interaction with benefits received during employment
+Identifier: EIM13905
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13905
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-03-04T12:17:53+00:00
+Retrieved (UTC): 2026-09-18T14:10:39.346040+00:00
+
+Section 401 ITEPA 2003 and the benefits code
+
+Benefits given during employment can continue after it. This example shows how to calculate the taxable amounts for the year of assessment in which the termination occurs where the benefits code (see EIM21006 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21006)) is involved. There is another example at EIM13906 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13906) where car benefits) are involved.
+
+An employer pays £500 per month into a scheme to provide medical insurance cover for an employee. The arrangement is such that Section 62 ITEPA 2003 (see EIM00515 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim00515)) does not apply but the benefits code (see EIM21006 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21006)) does. The cost is taxable under the benefits code following EIM21761 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21761).
+
+An agreement to terminate employment on 5 January 2023 provides for:
+
+- a lump sum of £35,000 and
+
+- continuation of the medical insurance cover for 6 months following termination.
+
+Following EIM12815 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim12815):
+
+- the payments in 2022 to 2023 before termination are charged under the benefits code following Part 3 Chapter 10 ITEPA 2003 (see EIM21761 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21761)) in the sum of £500 x 9 = £4,500
+
+- the payments in 2022 to 2023 after termination are charged under Section 401 ITEPA 2003 at £1,500 (£500 x 3). This is wholly chargeable as the £30,000 threshold (see EIM13505 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13505)) is used against the cash payment of £35,000 (see EIM13520 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13520)).
+
+For the period following the date of termination of the employment, the benefit should be reported by the employer in accordance with the guidance at PAYE74015 (https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fhmrc-internal-manuals%2Fpaye-manual%2Fpaye74015&data=05%7C01%7Cmohammed.uddin1%40hmrc.gov.uk%7C515d5110c6a74ebe0d4c08dbd6e31334%7Cac52f73cfd1a4a9a8e7a4a248f3139e1%7C0%7C0%7C638340042986143563%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=8PvkHXWpiIXtpuRJ1QVN%2FrEUiAJzjhtOlTs2Sz28Qx0%3D&reserved=0). The former employee should report the taxable value on their self-assessment tax return.

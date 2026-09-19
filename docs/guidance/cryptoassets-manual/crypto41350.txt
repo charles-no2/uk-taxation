@@ -1,0 +1,164 @@
+Cryptoassets for businesses: Corporation Tax: Corporation Tax on Chargeable Gains - pooling
+Identifier: CRYPTO41350
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto41350
+Published: 2021-03-30T09:04:08+01:00
+Updated: 2025-12-09T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T16:18:36.580974+00:00
+
+Pooling under TCGA92/S104 allows for simpler Capital Gains Tax calculations. Pooling applies to shares and securities of companies and also ‘any other assets where they are of a nature to be dealt in without identifying the particular assets disposed of or acquired’.
+
+Where the nature of the tokens means they are dealt in without identifying the particular tokens being disposed of or acquired then the tokens should be pooled as per TCGA92/S104(3)(ii) (CG51550P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51550p)). This is commonly referred to as a ‘section 104 pool’. If TCGA92/S104(3)(ii) applies then the beneficial owner of the tokens will have a single pooled asset for Capital Gains Tax purposes that will increase or decrease with each acquisition, part disposal or disposal.
+
+Each type of token will need its own pool. For example, if a person owns bitcoin, ether and litecoin they would have three pools and each one would have its own ‘pooled allowable cost’ associated with it. This pooled allowable cost changes as more tokens of that particular type are acquired and disposed of.
+
+Businesses must still keep a record of the amount spent on each type of exchange token, as well as the pooled allowable cost of each pool.
+
+There are slight differences between the pooling rules as they apply for Capital Gains Tax and Corporation Tax purposes. The examples in this section relate to Corporation Tax. Guidance and examples for Capital Gains Tax begin at CRYPTO22200 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22200).
+
+Example
+
+V Ltd bought 100 token A for £1,000. A year later V Ltd bought a further 50 token A for £125,000. V Ltd is treated as having a single pool of 150 of token A and total allowable costs of £126,000.
+
+A few years later V Ltd sells 50 of its token A for £300,000. V Ltd will be allowed to deduct a proportion of the pooled allowable costs when working out its gain:
+
+|  |
+
+Amount
+
+|
+
+Consideration
+
+|  |
+
+£300,000
+
+|
+
+Less allowable costs
+
+|
+
+£126,000 x (50 / 150)
+
+|
+
+£42,000
+
+|
+
+Gain
+
+|  |
+
+£258,000
+
+|
+
+V Ltd will have a gain of £258,000 and will need to pay CTCG on this. After the sale, V Ltd will be treated as having a single pool of 100 token A and total allowable costs of £84,000.
+
+If V Ltd then sold all 100 of its remaining token A then it can deduct all £84,000 of allowable costs when working out the gain.
+
+Pooling rules: exceptions for companies
+
+There are two exceptions to the pooling rules, which mean that the new exchange tokens and the costs of acquiring them stay separate from the main pool.
+
+Firstly, if a company acquires tokens on the same day that they dispose of tokens of the same type (even if the disposal took place first), the disposal is matched with the same-day acquisition in priority to any tokens held in an existing pool.
+
+Secondly, if a company acquires tokens that would otherwise create or be added to a pool but within ten days makes a disposal of tokens of the same type, then that disposal is matched with the acquisition within the previous nine days in priority to any tokens held in an existing pool. If there has been more than one acquisition within that period, then this rule applies on a ‘first in, first out’ basis.
+
+The gain or loss should be calculated using the costs of the new tokens of the cryptoasset that are kept separate.
+
+If the number of tokens disposed of exceeds the number of new tokens acquired, the calculation of any gain or loss may also include an appropriate proportion of the pooled allowable cost.
+
+Example
+
+M Ltd holds 14,000 token B in a pool. It spent a total of £200,000 acquiring them, which is the pooled allowable cost.
+
+On 30 August 2018 M Ltd buys 500 token B for £17,500.
+
+Then on 4 September 2018 M Ltd sells 4,000 tokens B for £160,000.
+
+As a disposal took place within the next 10 days, the 500 new tokens bought on 30 August 2018 do not go into the pool. Instead, M Ltd is treated as having sold:
+
+- the 500 tokens it recently bought
+
+- 3,500 of the tokens already in the pool
+
+M Ltd will need to work out its gain on the 500 token B as follows:
+
+|  |
+
+Amount
+
+|
+
+Consideration
+
+|
+
+£160,000 x (500 / 4,000)
+
+|
+
+£20,000
+
+|
+
+Less allowable costs
+
+|  |
+
+£17,500
+
+|
+
+Gain
+
+|  |
+
+£2,500
+
+|
+
+M Ltd will also need to work out its gain on the 3,500 token B sold from the pool as follows:
+
+|  |
+
+Amount
+
+|
+
+Consideration
+
+|
+
+£160,000 x (3,500 / 4,000)
+
+|
+
+£140,000
+
+|
+
+Less allowable costs
+
+|
+
+£200,000 x (3,500 / 14,000)
+
+|
+
+£50,000
+
+|
+
+Gain
+
+|  |
+
+£90,000
+
+|
+
+M Ltd still holds a pool of 10,500 token B. The pool has allowable costs of £150,000 remaining.

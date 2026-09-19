@@ -1,0 +1,12 @@
+Targeted anti-loss buying rule - example 1
+Identifier: CG47037
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47037
+Published: 2016-03-12T11:14:37+00:00
+Updated: 2016-01-25T17:05:34+00:00
+Retrieved (UTC): 2026-09-18T14:41:52.420627+00:00
+
+Singleton company, B Ltd, has substantial capital losses. B Ltd also owns a property that it is in negotiations to sell. B Ltd issues ordinary shares to third party X with a nominal value that amounts to more than 25% of the total nominal value of the ordinary share capital of B Ltd. Typically these shares will have no rights other than to a very small dividend. The original shareholders then sell the original shares in B Ltd to C group. In economic terms B Ltd has joined the C group but it has not joined the C chargeable gains group because the C group owns less than 75% of the issued share capital of B Ltd (TCGA92/S170(3)). The C group would then intend to transfer all of its assets that have not yet risen in value, but that it expects to rise in value to B Ltd in the expectation that any resulting chargeable gains could be covered by purchased losses.
+
+The issue of shares in B Ltd to a third party is clearly intended to prevent B Ltd joining the C group when the original shareholders sell their shares. This prevents the rules in TCGA92/Sch 7A applying.
+
+In this example, the loss has accrued in a different economic entity to the one which seeks to use it. The second principle in the HMRC statement of 5 December 2005 has been breached. B Ltd has neither left nor joined a chargeable gains group but it has become subject to different control. There has therefore been a qualifying change of ownership (see CG47023). B Ltd has accrued losses on pre-change assets. The change of ownership has occurred in connection with arrangements, the main purpose of which is to secure a tax advantage for the C group. TCGA92/S184A(2) therefore applies and the losses of B Ltd are qualifying losses and are not to be deducted from any gains arising to the company, except those accruing to B Ltd on a disposal of pre-change assets. If the property owned by B Ltd at the time of the change of ownership is then sold giving rise to a chargeable gain, this gain can be covered by the losses.

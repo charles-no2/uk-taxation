@@ -1,0 +1,54 @@
+General: connected person and control sales: sales treated as being at market value
+Identifier: CA13100
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca13100
+Published: 2016-04-16T08:42:20+01:00
+Updated: 2019-08-19T14:51:00+01:00
+Retrieved (UTC): 2026-09-18T16:20:27.325805+00:00
+
+CAA01/S567 & S568
+
+Where allowances on an asset are calculated individually, that is where there is no pooling; the owner of an asset could create a balancing allowance by selling an asset to a connected person for a nominal amount. There is legislation that prevents this. It treats a sale of property not at market value as being at market value where:
+
+- the control test is met, or
+
+- the tax advantage test is met.
+
+The legislation applies to BPRAs, MEA and RDAs. It is sometimes subject to an election by the parties to the transaction for a lower amount CA13200 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca13200).
+
+The control test is met where
+
+- the buyer is a body of persons that the seller controls CA11650 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11650),
+
+- the seller is a body of persons that the buyer controls,
+
+- both the buyer and seller are bodies of persons and some other person controls both of them, or
+
+- the seller and buyer are connected persons. Connected persons were formerly defined in ICTA88/S839, the definition is now at:
+
+- ITA 07/S993 and S994
+
+- ITA 07/Sch 1 para 411
+
+- CTA 2010 S34, S1122 and S1123
+
+(see CG14580 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14580) onwards).
+
+A partnership is a body of persons for these purposes.
+
+In deciding whether the control test is met what matters is control at the time of sale.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca13100#Top)
+
+Example
+
+Dylan transfers his business to a company he controls and immediately after the transfer he sells the shares in the company. The transfer is a control sale because Dylan controlled the company when the transfer took place.
+
+The tax advantage test is met if it appears that the sole or main benefit that any of the parties to the sale might be expected to gain from the sale, or from transactions of which the sale is one is a tax advantage CA11850 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11850). This test applies to all capital allowances other than PMAs.
+
+If you think that the sole or main benefit test may apply in a particular case you should ask the taxpayer why the transaction was entered into. In general it is difficult to use the main benefit provisions if the taxpayer can come up with good commercial reasons for the transaction. If once you have established the taxpayer’s reasons for entering into the transaction you think that the transaction may be caught by the sole or main benefit test, you should consult BAI (Technical) before you try to use it. When you do you should state the reasons given by the taxpayer for entering into the transaction.
+
+Where the legislation applies both the seller’s and buyer’s capital allowances are calculated as if the sale had taken place at market value.
+
+The legislation applies even if one of the parties to the sale is non-resident.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca13100#Top)

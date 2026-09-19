@@ -1,0 +1,40 @@
+Structures and buildings allowance (SBA): allowances: apportionment of expenditure partly referable to non-qualifying assets
+Identifier: CA91800
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca91800
+Published: 2019-10-30T11:08:52+00:00
+Updated: 2021-11-22T18:22:52+00:00
+Retrieved (UTC): 2026-09-18T16:21:37.863248+00:00
+
+CAA01/S270BL
+
+The SBA rules only apply to qualifying expenditure CA90100 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca90100) so, whether capital expenditure has been incurred on construction of a building CA93410 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca93410) or a capital sum paid to acquire the relevant interest in it CA93500 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca93500), if the capital expenditure or capital sum includes the creation or acquisition of assets other than the building itself, it will be necessary to exclude from that amount any expenditure which cannot qualify for the SBA.
+
+Expenditure on which the SBA cannot be given includes expenditure on parts of buildings CA90350 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca90350) that are first brought into residential use CA92500 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca92500), as might be the case in a mixed-use development.
+
+Expenditure on which the SBA cannot be given also includes expenditure that is specifically excluded, such as expenditure:
+
+- on assets that will qualify for plant or machinery allowances CA94300 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca94300)
+
+- on acquiring or altering land CA94010 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca94010)
+
+- on obtaining planning permission CA94100 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca94100)
+
+- in excess of the market value amount for the interest, services or works CA94200 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca94200).
+
+Where one part qualifies and the other does not, make a just and reasonable apportionment of expenditure incurred on construction or purchase, based on actual invoiced amounts, to arrive at qualifying expenditure for the SBA.
+
+See also CA12100 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca12100) where a capital sum has been paid to acquire the relevant interest in a building and an apportionment is required.
+
+What is just and reasonable will need to be determined by reference to the facts of each case.
+
+Example 1
+
+Easybuilding Limited incurs £1.8 million capital expenditure constructing a mixed-use development, comprising retail outlets on the ground floor with student accommodation above, for use in its property business. For the purposes of SBA, the retail space qualifies, but the student accommodation does not CA92700 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca92700).
+
+One-sixth of the development cost relates to the retail space and so, assuming in this instance that it is just and reasonable to apportion the overall expenditure in this way, the qualifying expenditure is £300,000 (one-sixth of £1.8 million). Therefore, the annual SBA is 3% × £300,000 = £9,000.
+
+Example 2
+
+Fastbuild Limited incurs £2 million capital expenditure constructing a mixed-use development, comprising offices and residential accommodation, for its property business. For the purposes of SBA, the office space qualifies, but the residential accommodation does not CA92700 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca92700).
+
+The development’s total Gross Internal Area is 10,000 square metres, of which 6,000 relates to offices and, in this case, the facts indicate a reasonable apportionment should be made on an area basis. Therefore, on a just and reasonable basis, the qualifying expenditure is £1.2 million ((6,000 ÷ 10,000) × £2 million). The annual SBA is 3% × £1.2 million = £36,000.

@@ -1,0 +1,98 @@
+Foreign property: property excluded from Inheritance Tax: foreign settled property
+Identifier: IHTM27220
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm27220
+Published: 2016-04-09T09:51:14+01:00
+Updated: 2025-06-11T15:06:12+01:00
+Retrieved (UTC): 2026-09-18T15:03:44.623060+00:00
+
+Where the chargeable event occurs before 6 April 2025, foreign settled property is excluded property where the settlor was domiciled (IHTM13000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13000)) outside the UK at the time when the property (IHTM04030 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04030)) became comprised in the settlement.
+
+Where the chargeable event occurs on or after 6 April 2025, whether foreign settled property is excluded property depends on whether the settlor is alive at the date of the chargeable event.
+
+For chargeable events on or after 6 April 2025, if the settlor was alive at the date of the chargeable event, foreign settled property will be excluded property if the settlor was not a long-term UK resident (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)) at that date.
+
+For chargeable events on or after 6 April 2025, if the settlor had died before the date of the chargeable event, then:
+
+-
+
+If the settlor died on or after 6 April 2025, foreign settled property will be excluded property if the settlor was not a long-term UK resident immediately before their death.
+
+-
+
+If the settlor died before 6 April 2025, foreign settled property is excluded property where the settlor was domiciled outside the UK at the time when the property became comprised in the settlement.
+
+For qualifying interest in possession settlements (IHTM16061) foreign settled property is only excluded property at times on or after 6 April 2025 if the life tenant is also not a long-term UK resident.
+
+The position may be different where the gift with reservation rules (IHTM14396 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14396)) apply.
+
+In the case of property settled by Will, or under the rules of intestacy (IHTM12000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12000)), the date of settlement will be the date of the testator’s or intestate’s death. This does not apply to a reversionary interest in that settled property (IHTM27230 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm27230)).
+
+There are additional requirements for settlements without interests in possession or discretionary trusts that fall within certain anti-avoidance provisions (IHTM27247 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm27247)). So, you will need to determine:
+
+-
+
+whether a settlement is a non-interest in possession or discretionary trust for IHT purposes and,
+
+-
+
+if so, whether the additional requirements are relevant and (where appropriate) satisfied.
+
+Once you have determined that any property held in a settlement is excluded property:
+
+-
+
+IHTA84/S53 (1), - you must not tax that property on the termination or coming to an end of an interest in possession in the property
+
+-
+
+IHTA84/S58 (1)(f) and 70(7), - if the trusts applying to the property are discretionary you must disregard that property for the period(s) when it was excluded property when determining the rate of any discretionary trust charge.
+
+-
+
+IHTA84/S48 (3) and S48ZA(4), - for events prior to 6 April 2025 or where a settlor has died before 6 April 2025, the legislation refers to the settlor's domicile 'at the time the property became comprised in the settlement'. You must proceed on the basis that, for any item of property held in a settlement, the settlement was made when that property was put in the settlement.
+
+Example 1
+
+Simon settled foreign property to the value of £2,000,000 into a trust back in 2009. At the time the assets became comprised in the trust, Simon was domiciled outside of the UK and assets in the trust were considered to be excluded property.
+
+Simon has been living in the UK since 2018.
+
+At the time of the first ten-year anniversary in 2019 (before 6 April 2025), Simon was not domiciled in the UK and the assets comprised in the trust continued to be excluded property and no charge arose.
+
+Under the new long-term UK residence rules (after 6 April 2025), at the time of the second ten-year anniversary in 2029, Simon is a long-term UK resident, and a ten-year anniversary inheritance tax charge will be due on the value of the assets comprised in the trust immediately before the second ten-year anniversary (TYA). This will continue to be the case until Simon is no longer considered to be a long-term UK resident (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)) at which point there will be a proportionate charge (IHTM04096 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04096)).
+
+Simon didn’t become a long-term UK resident until 2028 when he satisfied the 10 out of 20-year UK tax resident rule (IHTM47020 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47020)) immediately preceding the TYA in 2029. The trust property therefore continued to be excluded property until 2028 when the ‘excluded’ status ended and it became relevant property. The TYA charge in 2029 will reflect the relief due for the time the property was not relevant property (IHTM42088 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42088)).
+
+The trust property will remain in scope for IHT until Simon is no longer considered to be a long-term UK resident (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)) at which point there will be a proportionate charge (IHTM04096 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04096)).
+
+Example 2 – before 6 April 2025
+
+Sean, when domiciled abroad, creates a settlement of a house in Spain. Later he acquires a UK domicile and then adds some Australian property to the settlement.
+
+The Spanish property is excluded property because of Sean’s overseas domicile when he settled that property. But, the Australian property is not excluded property as Sean had a UK domicile when he added that property to the settlement.
+
+Example 3– before 6 April 2025
+
+Stella, when domiciled in Germany, puts a house in Germany and some securities that are situated in the UK at that time into a settlement for Xavier for life with remainder to Yolanda. On Xaviers’s death - the potentially chargeable event - the settled fund consists of:
+
+-
+
+Option 1, a villa in Spain, or
+
+-
+
+Option 2, land in the UK, or
+
+-
+
+Option 3, a house in Spain and some English securities.
+
+In Option 1, the villa is excluded property even though it partly represents the proceeds of what was previously UK property (the securities). The land in Option 2 is not excluded property although it is partly derived from the German realty. In Option 3 the house is excluded property but the securities are not.
+
+General rule - property settled by UK domicilliary - times before 6 April 2025
+
+As a general rule property settled by a UK domiciliary was not excluded property at times before 6 April 2025 - so it is within the scope of IHT - regardless of the locality of the property. This was the case even if any person entitled to an interest in possession in the property (who is treated under IHTA84/S49 (1) as being beneficially entitled to the property) was domiciled abroad. The only possible exception is that a double taxation convention overrides this rule.
+
+For times on or after 6 April 2025, the long-term residence rules will determine the excluded property status of foreign property (see above andIHTM47050 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47050)).
+
+See IHTM04273 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04273) for more information on foreign settled property.

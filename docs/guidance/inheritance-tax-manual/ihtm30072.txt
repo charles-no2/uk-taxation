@@ -1,0 +1,36 @@
+Definition and extent of liability (lifetime transfers  chargeable when made): extent of liability of persons secondarily liable
+Identifier: IHTM30072
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30072
+Published: 2016-04-09T09:56:57+01:00
+Updated: 2022-08-11T13:53:50+01:00
+Retrieved (UTC): 2026-09-18T15:04:49.046918+00:00
+
+IHTA84/S204 (6) states that a person liable for tax under IHTA84/S199 otherwise than as transferor (IHTM30071 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30071)) is liable
+
+- only if the tax remains unpaid after the due date for payment (IHTM30153)
+
+- to no greater extent than they would have been had the value transferred been reduced by the unpaid tax (even though the transferor may have been liable for the grossed up (IHTM14540) amount of the transfer).
+
+Example 1
+
+Ashok makes a cash gift of £334,000 to the trustees of a discretionary (IHTM16042 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16042)) settlement in January 2010. He has made no earlier gifts.
+
+The settlement is not within IHTA84/S3A (1)(c). The tax is to be paid by Ashok, so the gift is grossed up to £336,250 and the tax liability is £2,250. Ashok fails to pay the tax. The liability of the trustees under IHTA84/S199 (1)(c) is for tax on £334,000, i.e. £1,800.
+
+Example 2
+
+The facts are as in Example 1 but Ashok pays £1,000 towards the tax. The liability of the trustees is then calculated as if the value transferred were reduced by the tax unpaid.
+
+Gross value of gift (as before) = £336,250
+
+Less unpaid tax -£1,250
+
+Reduced value of gift = £335,000
+
+Tax on £335,000 = £2,000
+
+Less tax paid -£1,000
+
+Liability of the trustees = £1,000
+
+Where the liable persons are transferees, beneficiaries and/or vestees the same conditions apply as for potentially exempt transfers (IHTM30051 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30051)).

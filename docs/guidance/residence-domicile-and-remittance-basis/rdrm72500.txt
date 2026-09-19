@@ -1,0 +1,50 @@
+Temporary repatriation facility: Qualifying overseas capital: Settlement income treated as qualifying overseas capital
+Identifier: RDRM72500
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72500
+Published: 2025-04-07T08:36:49+01:00
+Updated: 2025-04-14T17:16:18+01:00
+Retrieved (UTC): 2026-09-18T16:19:12.908905+00:00
+
+The settlements legislation
+
+The settlements legislation is a wide-ranging anti-avoidance provision aimed at preventing an individual obtaining a tax advantage by making arrangements to divert their income to another person whilst retaining an interest in the property or income. The legislation works to deem the income to belong to the settlor, and they will be liable for the income tax as it arises in the same way that they would be had they actually received the income.
+
+From 2018-19 benefits and onward gift charges were introduced into the settlements legislation. If the settlor or a close member of their family receives a benefit, either directly or routed through another individual, that can be matched with ‘Available Protected Income’ (API) then an income tax charge will arise on the settlor or the close family member, depending on the circumstances.
+
+Detailed guidance can be found in the Trust, Settlements and Estates Manual at TSEM4000 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4000) onwards.
+
+Qualifying overseas capital
+
+Paragraph 6(1)(a) and (b) Schedule 10 Finance Act 2025
+
+In relation to the settlements legislation, income can be treated as qualifying overseas capital for the purposes of the temporary repatriation facility (TRF) in two circumstances.
+
+Firstly, where an individual is treated as having an amount of income under section 643A ITTOIA 2005 (benefits paid out of protected foreign-source income or transitional trust income). Section 643A applies a tax charge on individuals in relation to benefits paid to the settlor or a close member of the settlor’s family and onward gifts. Any amount treated as qualifying overseas capital can only be designated for the year in which it is treated as arising to the individual.
+
+Secondly, where an individual would have been treated as having an amount of income under any of the other provision of Chapter 5 part 5 of ITTOIA 2005 in the tax year 2024-25 or earlier (amounts treated as income of settlor or family), but was not charged to tax on that income because of section 648(3) ITTOIA 2005 (relevant foreign income treated as arising under settlement only if and when remitted).
+
+Example 1
+
+Mark is a former remittance basis user and created the MR Family Trust whilst he was resident and domiciled in France in 2001 for the benefit of himself and his family. He moved to the UK in 2002 and became deemed domiciled under condition B from 2017-18. The trust generates income of £150,000 per year outside of the UK. From 2008-09 to 2016-17 the income is Transitional Trust Income (TTI) and from 2017-18 to 2024-25 the income is Protected Foreign Source Income (PFSI) and forms a pool of ‘Available Protected Income’ within the settlement.
+
+2008-09 to 2016-17 (TTI total): £1,350,000
+
+2017-18 to 2024-25 (PFSI total): £1,200,000
+
+Total API: £2,550,000
+
+In tax year 2025-26 the trustees purchase an £800,000 property for Mark and transfer ownership to him. This is treated as an amount of income chargeable on him under section 643A because it forms his ‘untaxed benefits total’ and there is sufficient API to match it against.
+
+Mark is able to designate the £800,000 benefit that he received in his 2025-26 tax return and benefit from the low TRF rate. He must designate it in his 2025-26 tax return; he cannot designate it in a later year of the TRF period, because it is treated as arising to Mark in 2025-26. In 2027-28 Mark asks for £600,000 to undertake some renovations of the property. The trustees agree to pay this benefit to him. It is treated as an amount of income chargeable on him under section 643A, because it forms his ‘untaxed benefits total’ and there is sufficient API to match it against.
+
+Mark is able to designate the £600,000 benefit that he received in his 2027-28 tax return and benefit from the low TRF rate. He must designate it in his 2027-28 tax return; he cannot designate it in an earlier year in anticipation of receiving the benefit, because it is treated as arising to Mark in 2027-28.A further distribution is made to Mark in 2030-31 of £500,000. This is treated as an amount of income chargeable on him under section 643A because it forms his ‘untaxed benefits total’ and there is sufficient API to match it against. The TRF period has ended by this date and Mark is therefore unable to designate any amount to qualify for the reduced TRF rates. Mark will pay tax on this amount at the usual rates.
+
+Example 2
+
+Pamela created a Jersey trust known as the PD Family Trust in 1999 whilst resident and domiciled in Austria for the benefit of her, her family and a number of charities that she wanted to support. The trust held investments in Austrian companies which generated income of £50,000 per year from 2000. Pamela moved to the UK in 2000 and was subject to the remittance basis for all tax years she was UK resident.
+
+Pamela would have paid tax on the income arising to the trustees under section 624 ITTOIA 2005 because she was the settlor of the ‘settlement’ and retained an interest because she was able to benefit from the trust. However, because she was a remittance basis user any relevant foreign income arising under the settlement is not deemed to arise until the year it is remitted to the UK by virtue of section 648(3).
+
+In 2007 the trust re-organised and moved all investments to UK companies. Pamela pays UK income tax on all of the income arising to the trustees under section 624 on the arising basis on that now UK source income.
+
+In 2025-26 the trustees make a distribution of £200,000 to Pamela from the relevant foreign income that arose prior to the re-organisation of assets in 2007. Pamela is able to designate this amount and pay tax at the low TRF rate because she would have been taxable on this amount in the years that it was paid to the trustees, had it not been for section 648(3).

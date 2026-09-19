@@ -1,0 +1,44 @@
+Indexation: from 6/4/88 example: indexation factors
+Identifier: CG17313
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17313
+Published: 2016-03-12T10:16:58+00:00
+Updated: 2023-04-12T10:07:35+01:00
+Retrieved (UTC): 2026-09-18T14:38:25.610008+00:00
+
+Various assets are sold on 15 January 1992 and the RPI for January 1992 was 135.6.
+
+One asset was purchased on 15 January 1990 and the RPI for January 1990 was 119.5
+
+The formula gives
+
+- (135.6 minus 119.5) divided by 119.5
+
+This comes to 0.134728, which is rounded to 0.135.
+
+Another asset was purchased on 8 December 1991.and the RPI for December 1991 was 135.7.
+
+The RPI for the RI month is greater than that for the RD month. Therefore there is no indexation.
+
+Another asset was purchased on 16 January 1984.and the RPI for Janaury 1984 was 342.6.
+
+The January 1984 figure can be rebased by dividing by 3.945 to become 86.84.
+
+The formula gives
+
+- (135.6 minus 86.84) divided by 86.84
+
+This comes to 0.56149 which is rounded to the nearest three decimal places which is 0.561.
+
+Another asset was purchased on 16 January 1974.
+
+If indexation is based on original cost rather than the 31 March 1982 value, the RPI for January 1974 is irrelevant. The RI month cannot be earlier than March 1982.
+
+The RPI for March 1982 was 313.4, which can be rebased as 79.44.
+
+The formula gives
+
+- (135.6 minus 79.44) divided by 79.44
+
+This comes to 0.706949 which is rounded to 0.707.
+
+It is possible that dividing the old RPI may give different results, because of rounding, from multiplying the new RPI. You should accept whichever method the taxpayer prefers.

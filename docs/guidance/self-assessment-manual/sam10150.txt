@@ -1,0 +1,18 @@
+Appeals, postponements and reviews: appeals: amending appeal details
+Identifier: SAM10150
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam10150
+Published: 2016-04-08T17:09:32+01:00
+Updated: 2016-02-23T14:51:57+00:00
+Retrieved (UTC): 2026-09-18T16:18:42.115598+00:00
+
+The only update that can be made to appeal details held on SA is closure using function MAINTAIN APPEAL. You can, however, amend standover details using function MAINTAIN STANDOVERS.
+
+If you find that you have incorrectly entered details of an appeal you must
+
+- Close the appeal
+
+And
+
+- Enter the correct details as a new appeal
+
+When you close an appeal the appropriate entry on the ‘Open Appeals’ Work List will be deleted, providing that any associated formal standover has also been reduced to nil.

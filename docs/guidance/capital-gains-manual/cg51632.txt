@@ -1,0 +1,26 @@
+Share identification rules for corporation tax: 1982 holding: expenditure after March 1982
+Identifier: CG51632
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51632
+Published: 2016-03-12T11:23:36+00:00
+Updated: 2016-01-25T17:18:29+00:00
+Retrieved (UTC): 2026-09-18T14:48:02.427634+00:00
+
+Share reorganisations
+
+Shares acquired on or after 1 April 1982 would normally create or enhance a Section 104 holding. However, where the share reorganisation rules of TCGA92/S127 apply such shares will be are treated as being acquired at the same time as the original shares in respect of which the new shares are issued. So they will either
+
+- form part of the same 1982 holding, if the new shares are of the same class as the original shares
+
+or
+
+- form a separate 1982 holding, if they are of a different class, in which case the base cost of the original shares will need to be apportioned. See the example at CG51940.
+
+If the taxpayer has a 1982 holding and a Section 104 holding of shares of the same class in the same company then the newly issued shares are apportioned between the two holdings.
+
+For guidance on share reorganisations generally, see CG51700+.
+
+The issue with share reorganisations and 1982 holdings is that TCGA92/S54 (4) provides that for indexation purposes relevant allowable expenditure under TCGA92/S38 (1)(a) is assumed to have been incurred when the asset was acquired, that is March 1982. This would give an unfair result. TCGA92/S131 (2) ensures that indexation allowance is allowed on expenditure incurred on a reorganisation only from the date the company pays or becomes liable to pay the allowable costs.
+
+Calls on shares
+
+A company can issue its shares partly paid and then call upon the shareholder to pay up the balance at a later date see CG50207+. TCGA92/S113 ensures that indexation allowance on the payment of any balance is allowed from the date of payment rather than from March 1982. The rule does not apply if the payment is made within 12 months of the shares being issued.

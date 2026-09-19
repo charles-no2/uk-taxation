@@ -1,0 +1,78 @@
+Liabilities: restricted deductions: Examples where money has been borrowed to 'indirectly' acquire excluded or relievable property 
+Identifier: IHTM28025
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28025
+Published: 2016-04-09T09:52:27+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:03:58.063056+00:00
+
+As explained at IHTM28013 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28013), the word ‘indirectly’ at IHTA84/S162A(1) and IHTA84/S162B(1)(b), (3)(b) & (5)(c) significantly broadens the scope of the provisions. It reduces the possibility of avoiding the restrictions by inserting a step or steps in the process of acquiring excluded or relievable property with the borrowed funds.
+
+Example 1
+
+Marianne, who is not a long-term UK resident (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)), owns a property in the UK. She borrows some money which she charges against her property and puts the money in her UK bank account. Some time later, she uses some of the money in the account to buy some UK listed shares and some foreign shares. On her death, the liability is still charged against her property. The extent to which the liability may be disallowed will depend on the facts.
+
+If Marianne had borrowed £100,000 and added that to her UK account which already contained £50,000 (that had not been borrowed) and had then used that money to buy £75,000 worth of UK shares and £75,000 worth of foreign shares, it might be reasonable to say that one half of the liability was attributable to acquiring excluded property and disallow £50,000.
+
+Had the account contained very little other money and £100,000 of foreign shares had been acquired, the whole liability should be disallowed.
+
+On the other hand, had the account contained, say, £400,000 and £100,000 of foreign shares had been acquired the position will depend on circumstances. You should obtain details of the amount in the account before the borrowed funds were added and details of how the funds in the account were used afterwards.
+
+Where the funds were borrowed specifically to acquire the excluded property, then they should be treated as being used wholly for that purpose and the liability disallowed. But, if the facts indicate that the funds in the account were mixed, it might be more appropriate to apportion the amounts used to purchase the excluded property. If the position is unclear, or if the taxpayer or agent disagrees with your apportionment of the liability, refer the case to Technical.
+
+Example 2
+
+Florence, who is not a long-term UK resident, agrees to buy a property overseas. The vendor agrees that the purchase price does not need to be paid immediately and can be treated as loan from the vendor to the purchaser. Florence secures the loan against a property she owns in the UK. The consideration for the liability owed to the vendor is the foreign property, so the liability has directly financed the acquisition of excluded property and cannot be deducted against the UK property.
+
+Example 3
+
+The trustees of an excluded property trust borrow £1m which is charged against existing UK property worth £1.5m (property 1). They use the borrowed funds to purchase a second UK property for £1m (property 2). At this point, if the liability were to be taken into account in arriving at the value subject to tax, the £1m liability would be allowed as a deduction because the money has been used to acquire UK property. IHTA84/S162A does not apply, so the chargeable value would be £1.5m (£2.5m chargeable UK assets less £1m allowable liability).
+
+Property 2 is later sold for £1m and all the proceeds are transferred offshore to become excluded property. The liability would now be disallowed by IHTA84/S162A. This is because the liability has been incurred to indirectly acquire excluded property - the funds now held offshore. The chargeable value is still £1.5m (£1.5m of UK assets and no deduction for the liability).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28025#top)
+
+Example 4
+
+The trustees of an excluded property trust borrow £1m which is charged against existing UK property worth £1.5m (property 1). They use the borrowed funds to purchase a second UK property for £1m (property 2).
+
+Property 2 is later sold for £1m, £400,000 of which is used to acquire UK listed shares and the £600,000 to acquire foreign shares. £600,000 of the liability is disallowed by IHTA84/S162A(1) having been used to acquire indirectly the foreign shares which are excluded property, with the result that only £400,000 of the liability is allowed as a deduction. The value of the UK assets is £1.9m (£1.5m, plus the additional £400,000 in shares) from which can be deducted the allowable part of the liability of £400,000, leaving £1.5m chargeable.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28025#top)
+
+Example 5
+
+The trustees of an excluded property trust own £1.5m of UK listed shares. They borrow £1m and use a further £600,000 from sale of some of the shares to purchase a UK property for £1.6m. The property is subsequently sold for £2.5m and all the sale proceeds are invested in foreign shares. The whole of the £1m liability has been used indirectly to acquire excluded property, so it is disallowed by IHTA84/S162A(1). The chargeable value is £900,000 (the original £1.5m less the £600,000 worth of the shares used to purchase the property).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28025#top)
+
+Example 6
+
+The trustees of an excluded property trust own £1.5m of UK quoted shares. They borrow £1m and use a further £600,000 from sale of some of the shares to purchase a UK property for £1.6m. The property is subsequently sold for £2.5m. This time £750,000 of the sale proceeds are used to reinvest in UK quoted shares and £1.75m is used to acquire foreign shares. IHTA84/S162A(1) disallows the liability to the extent that it has been used indirectly to acquire excluded property. Part of the £1.75m of excluded property has been acquired indirectly from the £1m borrowed at the outset; this part is established as follows.
+
+The £1m borrowed made up 62.5% of the purchase price of the £1.6m UK property purchased by the trustees. When this property was sold, 70% of the sale proceeds (£1.75m out of £2.5m) were used to acquire the foreign shares. Of the original £1m borrowed therefore, £437,500 (£1m x 70% x 62.5%) is attributable indirectly to financing the acquisition of excluded property. Only the remaining £562,500 of the liability can be taken into account.
+
+The value of the UK assets is £1.65m (the original £1.5m less £600,000 used to buy the property plus the additional £750,000 reinvested in UK shares) from which can be deducted the allowable part of the liability of £562,500, leaving £1,087,500 chargeable.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28025#top)
+
+Example 7
+
+Patricia has a house worth £3m plus cash and savings of £1.2m. She uses £1m of her cash and savings to buy AIM shares which, after being owned for 2 years, will qualify for business property relief. Patricia then takes out a mortgage of £1.4m on her house. She uses £1,000,000 to make gifts to her 4 children of £250,000 each, and keeps the remaining £400,000 to support the mortgage.
+
+Although Patricia has used £1m of her own assets to acquire relievable property, she has used £400,000 of the money borrowed under the mortgage to replace part of the funds she used to acquire the AIM shares. So, she has effectively used:
+
+-
+
+£600,000 of her own assets directly, and
+
+-
+
+£400,000 of the borrowed funds indirectly
+
+-
+
+to acquire the £1m of relievable property.
+
+£400,000 of the money borrowed should be treated as having been used to acquire relievable property indirectly. This £400,000 would be deductible from the value of the AIM shares before business relief is taken into account, with only the remaining £1m of the mortgage deductible from the value of Patricia's house.
+
+The end result is that Patricia has made gifts of £1m to her children by borrowing money secured on her house and kept £600,000 of her savings to support the mortgage. To achieve this she only needed to borrow £1m and invest £600,000 in AIM shares. This is the same position that is produced by deducting £400,000 of the mortgage against the AIM shares as explained above.

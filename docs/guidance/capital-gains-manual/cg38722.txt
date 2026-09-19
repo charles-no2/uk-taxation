@@ -1,0 +1,30 @@
+Charge on beneficiary of non-resident settlement – TCGA92/S87: Matching in the same year - example - the rules for 2008-09 to 2017-18
+Identifier: CG38722
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38722
+Published: 2018-11-01T11:26:59+00:00
+Updated: 2023-04-20T12:23:09+01:00
+Retrieved (UTC): 2026-09-18T14:47:31.366439+00:00
+
+2013-14
+
+- |  - |  Amount |  Amount |
+
+Trustees section 2(2) amount |  - |  - |  £50,000 |
+
+Capital payments |  beneficiary A |  £30,000 |  - |
+
+- |  beneficiary B |  £30,000 |  £60,000 |
+
+A is UK resident. B is non-resident.
+
+Each beneficiary is treated as receiving a relevant proportion of the 2013-14 section 2(2) amount.
+
+£50,000 multiplied by £30,000 divided by £60,000 = £25,000
+
+Section 87 gains
+
+A and B are both treated as accruing chargeable gains of £25,000 in 2013-14. Only A is chargeable to Capital Gains Tax on those gains. If A is non-domiciled they can claim the remittance basis on the gain, CG38805.
+
+Each beneficiary has an unmatched capital payment of £5,000, £30,000 - £25,000. Assuming there are no unmatched section 2(2) amounts for earlier years these capital payments will be matched against section 2(2) amounts of a later year.
+
+The trustees section 2(2) amount for 2013-14 is reduced to nil.

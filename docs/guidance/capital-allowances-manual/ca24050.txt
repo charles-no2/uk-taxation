@@ -1,0 +1,22 @@
+PMA: Overseas leasing: Designated period
+Identifier: CA24050
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24050
+Published: 2016-04-16T08:50:26+01:00
+Updated: 2016-04-06T16:53:44+01:00
+Retrieved (UTC): 2026-09-18T16:20:53.522113+00:00
+
+CAA01/S106
+
+The designated period matters because you look at the use of leased plant or machinery during the designated period to decide whether the overseas leasing legislation applies.
+
+Once the designated period is over it does not matter how the plant or machinery is used or to whom it is leased because the overseas leasing legislation does not apply once the designated period is over.
+
+You also look at the leasing of plant or machinery during the designated period when you apply one of the tests to decide if the leasing of the plant or machinery is short-term leasing CA24100 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24100).
+
+The designated period for plant or machinery is the period of 10 years that begins when the plant or machinery is first brought into use. If the person who incurred the expenditure on the plant or machinery ceases to own it before the end of the 10-year period, the designated period ends on the day when ownership ends. If the plant or machinery is disposed of to a connected person, or as a result of a partnership change where the qualifying activity is treated as continuing, the designated period is not brought to an end by the disposal.
+
+Example Bob owns plant or machinery that he leases out. He first uses the plant or machinery on 1 July 2002. The designated period ends on 30 June 2012, the end of the 10 years that begins on 1 July 2002. He leases the plant or machinery to Robbie, who is resident in Canada, on 4 July 2008 and the leasing is not protected leasing. The overseas leasing legislation applies because 4 July 2008 is in the designated period.
+
+Bob decides to sell the plant or machinery to Rick on 5 November 2006 and it is Rick who leases the plant or machinery to Robbie on 4 July 2008. Bob’s designated period ends on 5 November 2006 and so the overseas leasing legislation does not apply to Bob.
+
+If Bob and Rick are connected the overseas leasing legislation applies to Bob because his designated period ends on 30 June 2012 and there is overseas leasing in that period. There is a recovery of the combined excess allowances of Bob and Rick CA24210 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24210) when Rick leases the plant or machinery to Robbie.

@@ -1,0 +1,38 @@
+Securities: Accrued Income Scheme: transfer with  accrued interest
+Identifier: CG54504
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg54504
+Published: 2016-03-12T11:35:28+00:00
+Updated: 2019-12-10T13:37:25+00:00
+Retrieved (UTC): 2026-09-18T14:33:12.134172+00:00
+
+If the securities are transferred with accrued interest or `cum div’ the transferee will receive the next interest payment. ITA07/S632 treats the transferor as having received a sum equal to the accrued interest. The transferee will have paid the transferor for the accrued interest either in the price of the security or as a separately characterised amount. ITA07/S632 gives the transferee relief for this sum. See SAIM4140+ for guidance on how the Accrued Income Scheme treats these deemed sums and reliefs.
+
+For Capital Gains Tax purposes the following adjustments are required.
+
+- Transferor - the disposal proceeds are reduced by the deemed sum
+
+- Transferee - the acquisition cost is reduced by the amount of the relief.
+
+Example
+
+- 1 January 2017 Mr Allen buys £100,000 UK Computer PLC 10 per cent convertible loan stock for £108,000. Interest payments are made on 1 January and 1 July.
+
+- 13 March 2018 Mr Allen sells the loan stock at a `clean price’, see IM4235, of £106,000. He also receives a payment of £1,972 representing 72 days accrued interest. Total proceeds £107,972.
+
+- The Accrued Income Scheme treats Mr Allen as having received a sum of £1,972.
+
+Capital Gains Tax computation
+
+|  £ |
+
+Disposal proceeds |  107,972 |
+
+less Accrued Income |  1,972 |
+
+|  106,000 |
+
+less Cost |  108,000 |
+
+Loss |  (2,000) |
+
+The purchaser will have paid a total of £107,972 for the loan stock. They will have received £1,972 Accrued Income Scheme relief. Therefore, their acquisition cost for Capital Gains Tax purposes is reduced to £106,000.

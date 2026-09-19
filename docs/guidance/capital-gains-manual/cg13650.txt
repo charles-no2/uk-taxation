@@ -1,0 +1,24 @@
+Repudiation of concessions which defer capital gains charges: Background
+Identifier: CG13650
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13650
+Published: 2016-03-12T10:04:20+00:00
+Updated: 2026-08-13T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:37:16.192964+00:00
+
+TCGA92/S284A & TCGA92/S284B
+
+Various capital gains concessions have the effect of deferring a tax charge. For example, a taxpayer may take advantage of ESC/D22 to claim roll-over relief when it is not strictly due, see CG60271. Or the taxpayer may use paragraph 10 of ESC/D33 to defer a gain under TCGA92/S23, see CG12985, CG13020 and CG15700+.
+
+Concessions like these have a knock-on effect. In the examples above
+
+- the relief reduces the allowable base cost of the relevant asset
+
+- the gain on a later disposal of that asset is greater than it would otherwise have been because of the previous concessional relief.
+
+A taxpayer might seek to exploit a concession which defers a tax charge by taking the benefit of the concessional relief, but then computing a gain on a later disposal on a strict statutory basis, ignoring the effect of the previous concession. In some circumstances it might not be possible to counter such exploitation without specific legislation. For instance, the year of concessional relief might be closed and making a discovery assessment to recover the relief might not be possible.
+
+A measure to counter such potential exploitation was introduced in FA99, as new TCGA92/S284A and TCGA92/S284B. It works as a back-stop, by creating a chargeable gain which arises only if the taxpayer fails to accept the consequences of the previous concessionary relief. Any such failure gives rise to a chargeable gain equal to the amount of that relief.
+
+This statutory charge is intended to be a deterrent. In practice the vast majority of taxpayers can be expected to continue with normal practice and carry through the effect of a concession to any later disposal, accepting the increased gain (or reduced loss) which arises as a consequence. So any actual charge under the FA99 provisions should be extremely rare.
+
+For details of the provisions, see CG13655 - CG13662.

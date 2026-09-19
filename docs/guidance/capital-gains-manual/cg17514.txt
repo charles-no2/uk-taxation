@@ -1,0 +1,52 @@
+Introduction and computation: indexation: examples for CG17350-17462: meaning of allowances that may be given
+Identifier: CG17514
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17514
+Published: 2016-03-12T10:17:51+00:00
+Updated: 2023-04-13T09:54:17+01:00
+Retrieved (UTC): 2026-09-18T14:38:35.029962+00:00
+
+TCGA92/S41
+
+D Ltd acquires land in March 1983 for £100,000.
+
+In October 1984 it incurred expenditure of £400,000 which qualified for 50% initial allowances.
+
+In March 1993 it granted a 99 year lease for a premium of £480,000. The residual value was £120,000.
+
+It is clear that after deducting 4/5 of the allowable expenditure and giving indexation allowance thereon there is a substantial loss.
+
+Total capital allowances up to then were
+
+- |  £ |
+
+initial |  200,000 |
+
+writing-down (say) |  128,000 |
+
+- |  328,000 |
+
+The capital allowances to be taken into account are however not merely those that have been given, but those that may be given in the future, see CG15410 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15410). Therefore one must also take into account the balance of £72,000, which will be written down over the next few years. However this cannot reduce the expenditure below nil. The capital allowances cannot be deducted from the cost of the land because that was not expenditure which qualified for capital allowances.
+
+- |  - |  - |  £ |
+
+Disposal proceeds |  - |  - |  480,000 |
+
+Total cost |  500,000 |  - |  - |
+
+Allow |  480,000 x 100,000 |  80,000 |  - |
+
+- |  (480,000 + 120,000) |  - |  - |
+
+Less Capital allowances |  480,000 x 400,000 |  320,000 |  - |
+
+- |  (480,000 + 120,000) |  - |  - |
+
+(RESTRICTED) |  - |  NIL |  80,000 |
+
+- |  Unindexed Gain |  - |  400,000 |
+
+Less Indexation |  80,000 x 0.676 |  - |  54,080 |
+
+- |  INDEXED GAIN AFTER TCGA92/S41 |  - |  345,920 |
+
+TCGA92/S41 cannot create an indexed gain, therefore the loss is nil and there is no gain.

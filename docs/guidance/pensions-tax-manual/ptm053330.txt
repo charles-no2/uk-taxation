@@ -1,0 +1,279 @@
+Annual allowance: pension input amounts: defined benefits arrangements: worked examples: ‘split normal pension ages’
+Identifier: PTM053330
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053330
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-28T12:13:27+00:00
+Retrieved (UTC): 2026-09-18T14:50:41.683681+00:00
+
+Glossary PTM000001  (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Before reaching first split normal pension age (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053330#before)
+Reaching first split normal pension age (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053330#Reachingfirstsplit)
+
+Note – for tax year 2015-16 there are transitional rules for calculating pension input amounts. PTM058070 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070) has more details.
+
+Before reaching first split normal pension age
+
+The following example is based on a ‘Barber’ case, but the same principles would apply in relation to other cases where some of a member’s benefits under a registered pension scheme have one ‘normal pension age’ and some have another.
+
+The following data is used for the purpose of this example.
+
+The pension formula for the pension scheme on retiring at ‘normal pension age’ is 1/60 x pensionable service x final pensionable salary.
+
+‘Normal pension age’ under the scheme is effectively ‘split’ according to service as follows:
+
+- 6 April 1987 - 5 April 1991 (normal pension age 60)
+
+- 6 April 1991 onwards (normal pension age 65).
+
+This means that if the member retires from service at any time before age 65, the 6 April 1991 onward part will be reduced by an age-related factor; and if the member retires from service before age 60 the 1987-1991 part will be reduced by an age-related factor (that is, below these respective ages the member does not have right to an unreduced pension, and these are respectively the earliest age for which this is true). So, these are the relevant assumed ages for the purposes of the valuation assumptions used for pension input amount calculations. This is the meaning of normal pension age throughout this example.
+
+On retiring from active service between age 60 and 65, the 1987-1991 part may be salary-linked, or it may be uplifted by late retirement factors past age 60, or it might be set by whichever of these 2 would give the better higher pension. As shown in the example below, these differing approaches do not affect the pension input amount prior to the member reaching age 60.
+
+Pension input period is 6 April to 5 April.
+
+CPI is: 3.1% (the particular pension input period being considered in this example is that ending 5 April 2012 so the CPI figure for September 2010 is used).
+
+Member’s pensionable service:
+
+- joined on 6 April 1987 and has 4 years of service at ‘normal pension age 60’
+
+- at 5 April 2011, the end of the previous pension input period, age = 54 (so below age 60) and the member had 20 years’ service with ‘normal pension age 65’
+
+- at end of current pension input period, age = 55 (so also below age 60).
+
+Final pensionable salary:
+
+- 5 April 2011 = £160,000
+
+- 5 April 2012 = £168,000.
+
+Firstly, suppose all benefits for the member are held under a single arrangement.
+
+No BCEs occurred under the arrangement in the pension input period.
+
+Pension input period - 6 April 2011 to 5 April 2012
+
+Opening value (age 54)
+
+[(4/60 x £160,000) + (20/60 x £160,000) = £64,000] x 16 x 1.031 = £1,055,744
+
+Closing value (age 55)
+
+[(4/60 x £168,000) + (21/60 x £168,000) = £70,000] x 16 = £1,120,000
+
+Pension input amount is £1,120,000 - £1,055,744 = £64,256.
+
+Conclusion
+
+Each part of the benefit with a different ‘normal pension age’ should be calculated by reference to that normal pension age for annual allowance purposes (so, just because this is all in one arrangement, this does not mean one must determine a single normal pension age to be applied for the whole arrangement for the purpose of the pension input amount calculation.)
+
+The calculations are done for each part of the benefit and then aggregated to find the pension input amount for the arrangement as a whole. (Note that negative values at intermediate stages are not set to zero. It is only if the aggregate value for the whole arrangement is negative that the overall pension input amount is then set to zero.)
+
+The outcome is the same as if no ‘split’ normal pension age were in play.
+
+Also, the outcome in many cases, including this particular case, would be the same if the ‘normal pension age 60’ part and the ‘normal pension age 65’ part of the benefit were in separate arrangements. (However, note that this will not always be true. For example, negative pension input amount values may arise where there are separate arrangements (and each have to be set to zero), that would be treated differently (see above) if the arrangement were a single one. This is not a special feature of split normal pension age cases but is here for completeness.)
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053330#Top)
+
+Reaching first split normal pension age
+
+The following example is based on a ‘Barber’ case, but the same principles would apply in relation to other cases where some of a member’s benefits under a registered pension scheme have one ‘normal pension age’ and some have another.
+
+Scenarios 1, 2 and 3 show different ways in which each part of the benefit might be required to be treated under a scheme’s rules, and how this, in turn, has a bearing on the calculation of the pension input amount; and how the outcome could depend on whether benefits are all within one arrangement or not. In particular this latter point reflects the fact that the ‘deferred member carve out’ is applied on an arrangement by arrangement basis (that is, looks at each arrangement as though other arrangements do not exist for the member in the scheme).
+
+The following data is used for the purpose of this example.
+
+The pension formula for the pension scheme on retiring at ‘normal pension age’ is 1/60 x pensionable service x final pensionable salary.
+
+This formula for all service to age 60 (and ongoing if relevant).
+
+‘Normal pension age’ for benefits under the scheme is effectively ‘split’ according to service as follows:
+
+- for 6 April 1988 - 5 April 1990 - ‘normal pension age 65’
+
+- for 6 April 1990 - 5 April 1995 - ‘normal pension age 60’
+
+- for 6 April 1995 onwards - ‘normal pension age 65’.
+
+This means that if the member retires from service at any time before age 65 the 1988-1990 and 6 April 1995 onward parts will be reduced by an age-related factor; and if the member retires from service before age 60 the 1990-1995 part will be reduced by an age-related factor.
+
+The following shows how the pension input amount might differ depending on whether, by continuing in active service between age 60 and 65, the 1990-1995 part is salary-linked, or is uplifted by a late retirement factor or is set by whichever of these 2 would give the better higher pension.
+
+Pension input period is 6 April - 5 April.
+
+CPI is 3.1% (the particular pension input period being considered in this example is that ending 5 April 2012 so the CPI figure for September 2010 is used).
+
+Age at the end of the previous pension input period (5 April 2011) = 60.
+
+Final pensionable salary (where relevant):
+
+- 5 April 2011 = £60,000
+
+- 5 April 2012 = £70,000.
+
+No partial retirement happens (so no BCEs occur) during the period.
+
+Scenario 1 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053330#IDAWWILD)
+Scenario 2 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053330#IDAGCWKD)
+Scenario 3 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053330#IDALYOMB)
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053330#Top)
+
+Scenario 1
+
+Benefit under the scheme rules as follows:
+
+- the pension for ‘normal pension age 65’ part is calculated as continued accrual in line with salary and service and no other adjustment
+
+- the pension for ‘normal pension age 60’ part is a continued link with salary.
+
+(A) Position if all benefits held under a single arrangement
+
+Opening value (age 60):
+
+[(2/60 x £60,000) + (5/60 x £60,000) + (16/60 x £60,000) = £23,000] x 16 x 1.031 = £379,408.
+
+Closing value (age 61):
+
+[(2/60 x £70,000) + (5/60 x £70,000) + (17/60 x £70,000) = £28,000] x 16 = £448,000.
+
+Pension input amount is £448,000 - £379,408 = £68,592.
+
+(B) Position if the ‘normal pension age 60’ part of the benefit held in a separate arrangement from the part with ‘normal pension age 65’
+
+For the arrangement with ‘normal pension age 60’:
+
+- opening value (age 60)
+
+- [(5/60 x £60,000) = 5,000] x 16 x 1.031 = £82,480
+
+- closing value (age 61)
+
+- [(5/60 x £70,000) = £5,833] x 16 = £93,328
+
+- pension input amount is £93,328 - £82,480 = £10,848.
+
+For the arrangement with ‘normal pension age 65’:
+
+- opening value (age 60)
+
+- [(2/60 x £60,000) + (16/60 x £60,000) = £18,000] x 16 x 1.031 = £296,928
+
+- closing value (age 61)
+
+- [(2/60 x £70,000) + (17/60 x £70,000) = £22,167] x 16 = £354,672
+
+- pension input amount is £354,672 - £296,928 = £57,744.
+
+Total pension input amount is £10,848 + £57,744 = £68,592.
+
+The outcome in this particular case is the same as if all the benefit had been in one arrangement. However, the calculation does have to be stepped through. This is because, in some cases like this, the result could be different. For example, negative pension input amount values may arise where there are separate arrangements (and have to be set to zero), that would not arise if the arrangement were a single one, and in such cases (A) and (B) above would give different results - for example, if the closing pensionable salary had been £61,200 (or vice versa). (This is not a special feature of split normal pension age cases but is here for completeness.)
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053330#Top)
+
+Scenario 2
+
+Benefit under the scheme rules as follows:
+
+- the pension for ‘normal pension age 65’ part is calculated as continued accrual in line with salary and service and no other adjustment
+
+- the pension for ‘normal pension age 60’ part: apply a late retirement factor of 10% to the pension that would have been payable if drawn at age 60.
+
+(A) Position if all the benefits held under a single arrangement
+
+Opening value (age 60):
+
+[(2/60 x £60,000) + (5/60 x £60,000) + (16/60 x £60,000) = £23,000] x 16 x 1.031 = £379,408.
+
+Closing value (age 61):
+
+[(2/60 x £70,000) + (5/60 x £60,000 x 1.10) + (17/60 x £70,000) = £27,667] x 16 = £442,672.
+
+Pension input amount is £442,672 - £379,408 = £63,264.
+
+The above applies without regards to the background of the late retirement factors (for example, in particular whether or not they are in accordance with a provision in the scheme rules on 14 October 2010).
+
+(B) Position if the ‘normal pension age 60’ part of the benefit held in a separate arrangement from the part with ‘normal pension age 65’, and:
+
+- if the late retirement factor were such that the provisions of PTM053350 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350) apply to the ‘normal pension age 60’ arrangement, then the deferred member carve-out would apply to the ‘normal pension age 60’ arrangement. (PTM053930 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053930) has more details about how the deferred member carve-out applies in relation to late retirement factors and PTM053350 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350) for active members.)
+
+The calculation in scenario 2 (A) above would change to the following.
+
+For the arrangement with ‘normal pension age 60’
+
+- the pension input amount is nil - because the deferred member carve-out applies.
+
+For the arrangement with ‘normal pension age 65’
+
+- opening value (age 60)
+
+- [(2/60 x £60,000) + (16/60 x £60,000) = £18,000] x 16 x 1.031 = £296,928
+
+- closing value (age 61)
+
+- [(2/60 x £70,000) + (17/60 x £70,000) = £22,167] x 16 = £354,672
+
+- pension input amount is £354,672 - £296,928 = £57,744.
+
+Total pension input amount is £57,744
+
+(C) - Position if the ‘normal pension age 60’ part of the benefit were held in a separate arrangement from the part with ‘normal pension age 65’ and
+
+- if the late retirement factor were such that the provisions of PTM053350 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350) do not apply to the ‘normal pension age 60’ arrangement, so that the deferred member carve-out would not apply to the ‘normal pension age 60’ arrangement.
+
+For the arrangement with ‘normal pension age 60’:
+
+- opening value (age 60)
+
+- [(5/60 x £60,000) = £5,000] x 16 x 1.031 = £82,480
+
+- closing value (age 61)
+
+- [5/60 x £60,000 x 1.10 = £5,500] x 16 = £88,000
+
+- pension input amount is £88,000 - £82,480 = £5,520.
+
+For the arrangement with ‘normal pension age 65’:
+
+- opening value (age 60)
+
+- [(2/60 x £60,000) + (16/60 x £60,000) = £18,000] x 16 x 1.031 = £296,928
+
+- closing value (age 61)
+
+- [(2/60 x £70,000) + (17/60 x £70,000) = £22,167] x 16 = £354,672
+
+- pension input amount is £354,672 - £296,928 = £57,744.
+
+Total pension input amount is £5,520 + £57,744 = £63,264.
+
+The outcome in this particular case is the same as for (A) in Scenario 2. However, the calculation does have to be stepped through. This is because, in some cases like this, the result could be different. For example, negative pension input amount values may arise where there are separate arrangements (and have to be set to zero), that would not arise if the arrangement were a single one and in such cases (A) and (C) would give different results. (This is not a special feature of split normal pension age cases but is here for completeness.)
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053330#Top)
+
+Scenario 3
+
+Benefit under the scheme rules as follows:
+
+- the pension for ‘normal pension age 65’ part is calculated as continued accrual in line with salary and service and no other adjustment
+
+- the pension for ‘normal pension age 60’ part: apply greater of continued link with salary or late retirement factor.
+
+For the ‘normal pension age 60’ pension part of the benefit:
+
+If the amount of pension that would have been payable if drawn from age 61 would have reflected continued link with salary (because that resulted in the greater figure), then the outcome would be in line with Scenario 1 (one arrangement or separated arrangement as appropriate).
+
+If the amount of pension that would have been payable if drawn at age 61 would have reflected the late retirement factor (because that resulted in the greater figure), then the outcome would be:
+
+- in line with (A) in Scenario 2 if all the benefits were under one arrangement
+
+- in line with (B) in Scenario 2 if the part of the pension with ‘normal pension age 60’ were in a separate arrangement from the part with ‘normal pension age 65’ and if the late retirement factors were such that the provisions of PTM053350 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350) apply to the ‘normal pension age 60’ arrangement
+
+- in line with (C) in Scenario 2 if the late retirement factors were such that the provisions of PTM053350 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053350) do not apply to the ‘normal pension age 60’ arrangement.
+
+Conclusion
+
+For pension input periods before reaching age 60, the pension input amount is calculated on the basis that each part of the benefit with a different normal pension age is calculated by reference to that normal pension age (as explained in Before reaching first split normal pension age (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053330#before) section above). It does not matter whether each part of the benefits relating to the ‘normal pension age 60’ and ‘normal pension age 65’ are all in the same arrangements or different ones (unless there are differences arising from negative values, as explained in Before reaching first split normal pension age (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053330#before) section above). This means that the fact of ‘split normal pension age’ does not impact on the calculations.
+
+Once the member exceeds age 60, then how the pension input amount is calculated depends on the way the benefits are set to grow under the scheme rules, and sometimes also the underlying nature of the benefits that would actually have emerged given the facts at the relevant opening and closing dates of the pension input period. But it also depends on whether the benefit is in one arrangement or split between arrangements.

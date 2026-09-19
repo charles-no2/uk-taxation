@@ -1,0 +1,108 @@
+Reliefs: replacement of business assets (roll-over relief): computation of relief - partial trade use
+Identifier: CG60292
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg60292
+Published: 2020-01-09T12:53:37+00:00
+Updated: 2026-06-11T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:33:53.934060+00:00
+
+Full roll-over relief is not available if:
+
+-
+
+the old or new asset is a building or structure and only part of it has been used, or will be used, for the purposes of the trade
+
+-
+
+the old assets have only been used for the purposes of the trade for part of the period of ownership
+
+In these cases, the relief must be apportioned.
+
+Partial use in terms of space
+
+If a specific part of a building or structure is used solely for the purposes of the trade- such as an office annex- that part and the non-business part are treated as separate assets (see section 152(6) of the Taxation of Chargeable Gains Act (TCGA) 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/152)).
+
+Section 152(6) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/152) applies to both old and new assets. The relevant consideration must be apportioned on a just and reasonable basis (see section 152(11) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/152)). This will usually involve:
+
+-
+
+calculating the percentage of the building or structure that is used only for the purposes of the trade
+
+-
+
+multiplying the disposal or acquisition consideration by the above percentage
+
+Business Asset Roll-over Relief (Self Assessment helpsheet HS290) (GOV.UK) (https://www.gov.uk/government/publications/business-asset-roll-over-relief-hs290-self-assessment-helpsheet) provides an example.
+
+There is no equivalent apportionment provision for the other classes of assets in section 155 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/155). This includes land as a single asset. Those assets must be used, and used only, for the purposes of the trade for relief to be due.
+
+Partial use in terms of time
+
+Section 152(7) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/152) allow relief where an old asset has not been used for trade purposes throughout the entire period of ownership. In such cases, the consideration for the disposal of the asset must be apportioned on a just and reasonable basis in accordance with section 152(11) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/152).
+
+Example: applying section 152(6) and section 152(7) TCGA 1992
+
+On 6 April 2016, Charlie buys a building for £150,000.
+
+They use the ground floor for the purposes of their trade. The first floor is occupied by a sitting tenant under a lease.
+
+On a just and reasonable apportionment, the part used for the purposes of the trade is valued at four-fifths of the whole.
+
+On 5 April 2018, the lease expires. From 6 April 2018, Charlie occupies the whole building for the purposes of their trade.
+
+On 5 April 2024, Charlie ceases to use the building for the purposes of the trade (which continues elsewhere). From 6 April 2024, they let the whole building.
+
+On 5 April 2026, Charlie obtains vacant possession and sells the building on the same day for £300,000.
+
+They also buy a new building for the purposes of the trade for £500,000.
+
+The chargeable gain arising on disposal of the old asset is:
+
+-
+
+£300,000 – £150,000 = £150,000
+
+Charlie must apportion the consideration to reflect the extent and duration of trade use across the period of ownership.
+
+The total period of ownership is 10 years.
+
+-
+
+6 April 2016 to 5 April 2018 (2 years): four-fifths of the building was occupied and used for the purposes of the trade
+
+-
+
+6 April 2018 to 5 April 2024 (6 years): the entire building was used for the purposes of the trade
+
+-
+
+6 April 2024 to 5 April 2026 (2 years): none of the building was used for the purposes of the trade
+
+The trade use fraction is:
+
+-
+
+((4 ÷ 5) × (2 ÷ 10)) + (1 × (6 ÷ 10)) = 0.76
+
+The relief due is:
+
+-
+
+0.76 × £150,000 = £114,000.
+
+The chargeable gain is:
+
+-
+
+£150,000 – £114,000 = £36,000
+
+This gain should be self-assessed for the 2025 to 2026 tax year.
+
+The revised cost of the new asset is:
+
+-
+
+£500,000 – £114,000 = £386,000
+
+Mixed use
+
+If there is mixed use of the whole, or part, of a building and it is not possible to identify a separate part used exclusively for business, the building will not qualify for relief.

@@ -1,0 +1,42 @@
+TCGA92/S90 - part of settled property transferred for consideration less than market value - example
+Identifier: CG38950
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38950
+Published: 2016-03-12T10:59:15+00:00
+Updated: 2023-04-25T09:22:53+01:00
+Retrieved (UTC): 2026-09-18T14:40:16.663752+00:00
+
+The transferor settlement’s assets consist of shares with a market value of £400,000 and cash of £100,000. The shares are transferred to the transferee settlement in 2012-13. The cash remains in the transferor settlement. The transferee settlement pays £300,000 to the transferor settlement for the shares. No capital payments have been made out of the transferor settlement. The transferor settlement has the following gains made by the trustees:
+
+Year |  - |  Amount |
+
+2005-06 |  Trustees’ gains (section 2(2) amount) |  £20,000 |
+
+2012-13 |  Section 2(2) amount on transfer of shares |  £75,000 |
+
+This transfer of part of the settled property brings in the ‘relevant proportion’ rules in TCGA92/S90(3) and (4) in deciding how much of the unmatched section 2(2) amounts are transferred to the transferee settlement. In calculating the ‘relevant proportion’ you deduct the amount paid by the transferee settlement from the ‘market value of the property transferred’. The relevant proportion is 1/5 ([£400,000 - £300,000] / [£400,000 + £100,000]).
+
+Transferee settlement
+
+The transferee settlement acquires the following unmatched section 2(2) amounts:
+
+Year |  Amount |  - |
+
+2005-06 |  £4,000 |  (£20,000 x 1/5) |
+
+2012-13 |  £15,000 |  (£75,000 x 1/5) |
+
+They are added to any unmatched section 2(2) amounts it already has and can be matched with capital payments made from the transferee settlement in 2012-13 or a later year.
+
+This applies whatever the residence status of the transferee settlement.
+
+Transferor settlement
+
+The unmatched section 2(2) amounts of the transferor settlement are reduced by the section 2(2) amounts that have been treated as transferred to the transferee settlement. The unmatched section 2(2) amounts become:
+
+Year |  Amount |  - |
+
+2005-06 |  £16,000 |  (£20,000 - £4,000) |
+
+2012-13 |  £60,000 |  (£75,000 - £15,000) |
+
+This reduction has effect for matching in the year after the year of transfer (2013-14) and subsequent years.

@@ -1,0 +1,24 @@
+Other calculations: order in which to apply the partly exempt transfer rules
+Identifier: IHTM26071
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26071
+Published: 2016-04-09T09:47:05+01:00
+Updated: 2016-02-11T17:11:54+00:00
+Retrieved (UTC): 2026-09-18T15:02:59.909095+00:00
+
+To minimise the risk of making an error in a case involving more than one of the partly exempt transfer rules you need to apply them in the correct order. This order is as follows
+
+- Step 1 (IHTM26081 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26081)) - Set out the starting values of the specific gifts (IHTM26011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26011))
+
+- Step 2 (IHTM26090 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26090)) - If the total value of the specific gifts exceeds the value of the free estate , consider abatement (IHTM12086 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12086)) under IHTA84/S37 (1)
+
+- Step 3 (IHTM26101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26101)) - If any business relief (IHTM25131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25131)) or agricultural relief (IHTM24001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24001)) has been allowed, apply the interaction (IHTM26103 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26103)) rules in IHTA84/S39A to reduce the value of the specific gifts
+
+- Step 4 (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121)) - Gross up the value of any chargeable specific gifts which do not bear their own tax. The value to gross up is the value after any reduction under Step 3
+
+-
+
+Step 5 (IHTM26180) - Compare the total value of the specific gifts (exempt and chargeable), with the value of the free estate after business relief and agricultural relief
+
+- if the total is less than the value of the estate, the difference is the value of the residue (IHTM12082 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12082)), but
+
+- if the total exceeds the value of the estate after relief, there is no residue and you need to consider abatement under IHTA84/S37 (2).

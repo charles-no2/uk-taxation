@@ -1,0 +1,141 @@
+PAYE: employment income provided through third parties 
+Identifier: EIM11813
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11813
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2021-01-19T14:12:11+00:00
+Retrieved (UTC): 2026-09-18T14:09:27.984501+00:00
+
+Sections 687A and 695A ITEPA 2003
+
+Amount on which PAYE must be operated (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11813#IDACZXQB)
+Example 1: remittance basis applies to full amount of relevant step (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11813#IDAP0XQB)
+Example 2: remittance basis applies to part of relevant step (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11813#IDA41XQB)
+Example 3: best estimate (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11813#IDA03XQB)
+Date of the deemed payment of PAYE income (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11813#IDANIEQC)
+Employee failing to make good the PAYE (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11813#IDAJJEQC)
+
+Under Part 7A ITEPA 2003 (employment income provided through third parties), an amount counting as employment income arises in respect of A’s employment with B if the statutory conditions are met and, in particular, a ‘relevant third person’ takes a ‘relevant step’. The value of this step is the amount counting as employment income. See EIM45705 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45705) onwards.
+
+The employer is required to operate PAYE unless the person which has taken the relevant step does so.
+
+The person which has taken the relevant step may only be treated as having operated PAYE if that person correctly calculates and declares to HMRC the amount of income tax due and makes payment of that tax to HMRC.
+
+On Part 7A ITEPA 2003 generally, see EIM45000 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45000) onwards.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11813#Top)
+
+Amount on which PAYE must be operated
+
+If the relevant step is the payment of a sum of money, the employer must operate PAYE on the amount of the employment income. Payment here includes payment by way of loan.
+
+If the relevant step is not the payment of a sum of money, the employer must operate PAYE on:
+
+- the amount of the employment income, less
+
+- any of that amount to which Section 554Z9 or 554Z10 (remittance basis) applies - see EIM45805 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45805) onwards.
+
+So, the employer does not need to operate PAYE on any part of the employment income which is taxable on the remittance basis.
+
+In either case, the amount of PAYE income must be calculated on the basis of the best estimate which can reasonably be made.
+
+Here are three detailed examples.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11813#Top)
+
+Example 1: remittance basis applies to full amount of relevant step
+
+Assume the following facts.
+
+- In 2012-13, an employee benefit trust advances a loan of £1 million to an employee (A), thus taking a ‘relevant step’ which brings the arrangement through the Section 554A gateway.
+
+- The whole of the relevant step is ‘for’ 2011-12.
+
+- The conditions in Section 554Z9(1) ITEPA 2003 are fully satisfied for 2011-12.
+
+- A was UK resident in 2011-12.
+
+Because A was UK resident in 2011-12, there is no reduction under Section 554Z4 ITEPA 2003 and the full amount of the relevant step, £1 million, counts as A’s employment income within Section 554Z2 ITEPA 2003.
+
+Because the conditions in Section 554Z9(1) ITEPA 2003 are met, the special rule in Section 554Z9(2) applies to the whole of the £1 million. That is, it ranks as ‘taxable specific income’ and is only taxable in the United Kingdom to the extent that it is remitted to the United Kingdom. See EIM45800 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45800) onwards for more information about the remittance basis.
+
+Because Section 554Z9(2) ITEPA 2003 applies to the whole of the £1 million, there is no requirement to apply PAYE to any part of it.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11813#Top)
+
+Example 2: remittance basis applies to part of relevant step
+
+Assume the following facts.
+
+- In 2012-13, an employee benefit trust advances a loan of £1 million to an employee (A), thus taking a ‘relevant step’ which brings the arrangement through the Section 554A gateway.
+
+- £0.4 million of the relevant step is ‘for’ 2011-12 and £0.6 million is ‘for’ 2012-13.
+
+- The conditions in Section 554Z9(1) ITEPA 2003 are fully satisfied for 2011-12.
+
+- But these conditions are not satisfied for 2012-13.
+
+- A was UK resident in both 2011-12 and 2012-13.
+
+Because A was UK resident in both 2011-12 and 2012-13, there is no reduction under Section 554Z4 ITEPA 2003 and the full amount of the relevant step, £1 million, counts as A’s employment income within Section 554Z2 ITEPA 2003.
+
+Because the conditions in Section 554Z9(1) are met for 2011-12, the special rule in Section 554Z9(2) applies to the part of the relevant step that is ‘for’ 2011-12, namely £0.4 million. That is, this amount ranks as ‘taxable specific income’ and is only taxable in the United Kingdom to the extent that it is remitted to the United Kingdom. See EIM45800 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45800) for more information about the remittance basis.
+
+The remaining part of the relevant step - namely, the £0.6 million that is ‘for’ 2012-13 - is not affected by Section 554Z9 or 554Z10 ITEPA 2003.
+
+You exclude from the PAYE income the amount to which Section 554Z9(2) applies. So, PAYE applies to the remainder, £0.6 million.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11813#Top)
+
+Example 3: best estimate
+
+Assume the following facts.
+
+- B Ltd (a personal service company) contracts to supply the services of its director, A, to P Ltd (the end client).
+
+- The terms of the engagement are such that the contract is within Part 2 Chapter 8 ITEPA 2003 (the intermediaries legislation, commonly known as ‘IR35’).
+
+- During the tax year, P Ltd pays B Ltd consideration under the contract.
+
+- The arrangement comes through the Section 554A gateway. In particular, when P Ltd pays B Ltd consideration under the contract it takes a relevant step within Section 554C ITEPA 2003.
+
+There are two PAYE consequences in particular for B Ltd.
+
+- After the end of the tax year, B Ltd will have to calculate its deemed employment payment under IR35 and operate PAYE accordingly.
+
+- During the tax year, B Ltd will have to operate PAYE on the amount counting as employment income under Part 7A.
+
+So, there is an overlap here between IR35 and Part 7A. Section 554Z6 ITEPA 2003 deals with this overlap - briefly, it gives IR35 priority over Part 7A.
+
+The relevant step within Section 554C gives rise to a deemed employment payment under IR35 (or to part of such a payment). To that extent, Section 554Z6 reduces the Part 7A income (though not beyond nil).
+
+When B Ltd operates PAYE on the Part 7A income, it will not know how much this reduction will be, because it will not calculate the IR35 deemed payment until after the end of the tax year.
+
+For PAYE purposes, therefore, B Ltd will have to make the best estimate which can reasonably be made of the Part 7A income as reduced on account of IR35. If this estimate turns out to be inaccurate, A’s income tax position will be sorted out when A’s personal tax return is filed.
+
+On IR35, see ESM3000 onwards.
+
+On Section 554Z6, see EIM45735 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11813#Top)
+
+Date of the deemed payment of PAYE income
+
+The employer is deemed to make a payment of PAYE income on the latest of the following days:
+
+- the day on which the relevant step is taken,
+
+- the day on which A’s employment with B starts, and
+
+- 18 August 2011.
+
+In 2012-13 and later tax years, you only need consider the first two of those bulleted days.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11813#Top)
+
+Employee failing to make good the PAYE
+
+If the employer is deemed to make a payment of PAYE income, in either of the ways described above then this deemed payment is a notional payment within Section 710(2)(a) ITEPA 2003.
+
+This means that the rules discussed in EIM11950 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11950) onwards apply.
+
+In particular, if the employee fails to make good the PAYE within the 90-day grace period, Section 222 of ITEPA treats the shortfall as earnings in the employee’s hands - even if the employee makes good the PAYE after the 90-day time limit. See EIM11951.

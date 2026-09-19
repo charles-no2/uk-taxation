@@ -1,0 +1,72 @@
+Particular benefits: heating, lighting, cleaning etc. expenses of job-related living accommodation: 10% limit: example of calculating the net amount of the earnings: employee makes good part of the expense of providing the benefits: 
+Identifier: EIM21728
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21728
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-05-16T13:14:17+01:00
+Retrieved (UTC): 2026-09-18T14:24:36.413593+00:00
+
+This page is only relevant for the tax year 2015 to 2016 and earlier.
+
+This example shows the interaction between:
+
+- the 10% restriction and
+
+- the calculation to determine whether an employee is in lower-paid employment (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim20101).
+
+The employee’s salary is £7,500 a year.
+
+The employer paid a medical insurance premium of £450 in respect of the employee during the year.
+
+The employee is entitled to a deduction of £200 for expenses within section 336 ITEPA 2003 (see EIM31620 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31620) onwards).
+
+The employer paid £1,250 during the year for heating and lighting of the job-related living accommodation, but the employee reimbursed the employer £325 of this expense. So, the net cost to the employer was £925 (£1,250 − £325).
+
+The calculation to see whether the employee is in lower-paid employment (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim20101) is:
+
+- Salary plus medical benefit = £7,950 (£7,500 + £450)
+
+Heating and lighting:
+
+- Salary plus medical benefit = £7,950
+
+- Minus deduction due under section 336 = £200
+
+- Total = £7,750
+
+- £7,750 × 10% = £775
+
+- Minus amounts made good = £325
+
+- Total = £450
+
+£450 is less than the net cost of £925, therefore:
+
+- Total = £8,400 (£7,950 + £450)
+
+The total earnings before deducting the expenses of £200 are less than £8,500 so the employee is in lower-paid employment. So the medical premium and the heating and lighting are not chargeable as benefits. The amount of employment income is:
+
+- Salary = £7,500
+
+- Allowable expense = £200
+
+- Employment income = £7,300
+
+Note that when working out whether an employee is in lower-paid employment, the 10% restriction of net earnings can limit the amount to be included as a benefit.
+
+If the employee had not made good the £325 of the employer’s expenditure on heating and lighting, he would not have been in lower-paid employment because the total emoluments would have been £8,725 (£8,400 + £325).
+
+The amount of his employment income would have been:
+
+- Salary plus medical benefit = £7,950 (£7,500 + £450)
+
+- Minus deduction due under section 336 = £200
+
+- Total = £7,750
+
+Heating and lighting:
+
+- £7,750 × 10% = £775
+
+£775 is less than the net cost of £1250, therefore:
+
+- Total = £8,525 (£7,750 + £775)

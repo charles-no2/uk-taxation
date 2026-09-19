@@ -1,0 +1,56 @@
+Lump sum allowance and lump sum and death benefit allowance: Enhancement factors: Non-residence factor: Other money purchase arrangements 
+Identifier: PTM175330
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175330
+Published: 2024-03-27T00:11:09+00:00
+Updated: 2024-04-06T07:44:00+01:00
+Retrieved (UTC): 2026-09-18T14:51:28.116430+00:00
+
+As of 6 April 2024 there is no longer lifetime allowance. If you are looking for information about protections, enhancement factors and the lifetime allowance charge please see these pages on The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022829/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm090000). If you are looking for information about the principles of lifetime allowance and benefit crystallisation events please see these pages of The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022836/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm080000).
+
+If you are looking for information about enhancement factors pre-April 2024 please see The National Archive (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305085920/https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm095000). The below guidance applies for individual’s seeking an enhancement factor from 6 April 2024 to 5 April 2025.
+
+How to calculate the non-residence factor for an other money purchase arrangement
+
+Paragraph 20C(6) and (7) Schedule 36 Finance Act 2004
+
+For each part of an active membership period during which the individual is a relevant overseas individual, the other money purchase arrangement non-residence factor is calculated the following way.
+
+Establish the total amount of contributions made by or in respect of the individual to the other money purchase arrangement between the dates determined as follows:
+
+- The latest of the following dates:
+
+- The date when the individual became a relevant overseas individual,
+
+- The date when benefits first began to accrue in respect of the individual under the money purchase arrangement, and
+
+- 6 April 2006
+
+- The earliest of the following dates:
+
+- Immediately before the benefit payment,
+
+- The date when the individual ceased to be a relevant overseas individual,
+
+- The date when benefits ceased to accrue to in respect of the individual under the money purchase arrangement, and
+
+- The 5 April 2024
+
+The resulting figure is then divided by the standard lifetime allowance at the date under the second set of bullet points above. This is the non-residence factor. The factor should go to two decimal places. This should be a rounded-up figure, so for example if the calculation produces a factor of 0.231 this becomes 0.24.
+
+If there was an earlier part of the active membership period relating to the arrangement during which the individual was a relevant overseas individual the two factors for the two part-periods should be aggregated.
+
+This figure is then applied to the individual’s lump sum and death benefit allowance availability once a relevant benefit crystallisation event occurs.
+
+Example of calculating the non-residence factor for an other money purchase arrangement
+
+Moira began to accrue benefits under her other money purchase arrangement on 6 January 2016. She was seconded to work overseas on 6 November 2017 and so became a relevant overseas individual on 6 April 2018.
+
+Moira returned to work in the UK on 6 May 2020 and so ceased to be a relevant overseas individual on 5 April 2020. That was before a benefit payment and before she ceased to accrue benefits under the money purchase arrangement.
+
+The total contributions made by and in respect of Moira between 6 April 2018 and 5 April 2020 amounted to £145,000.
+
+The standard lifetime allowance in the 2019-20 tax year was £1,055,000.
+
+£175,000 / £1,055,000 = 0.17
+
+Moira’s non-residence factor is therefore 0.17.

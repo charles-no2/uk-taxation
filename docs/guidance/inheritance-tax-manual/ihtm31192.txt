@@ -1,0 +1,12 @@
+Assessing: COMPASS: calculations: adjustments to interest
+Identifier: IHTM31192
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31192
+Published: 2016-04-09T10:03:33+01:00
+Updated: 2023-09-07T11:54:10+01:00
+Retrieved (UTC): 2026-09-18T15:05:57.557729+00:00
+
+You should use the ‘Adjustment’ box to make adjustments to interest (IHTM31511 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31511)) only.
+
+You must never amend the tax charge by this method as it will result in unmatched money on the SAGE (IHTM31851 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31851)) record.
+
+There is a cash limit on the adjustment box; any case where that limit is exceeded will need to be referred to your manager to be authorised before the calculation can be issued.

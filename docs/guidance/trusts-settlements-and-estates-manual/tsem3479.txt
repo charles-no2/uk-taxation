@@ -1,0 +1,414 @@
+Trust income and gains: vulnerable beneficiaries: claims to special tax treatment: computing the amount of relief: income tax - part years example
+Identifier: TSEM3479
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3479
+Published: 2016-05-02T16:35:40+01:00
+Updated: 2025-11-19T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T16:19:47.530165+00:00
+
+The details are the same as in the example in TSEM3477 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3477) but the beneficiary reaches the age of 18 on 5 January 2025 and so no longer qualifies as a vulnerable beneficiary.
+
+The election is therefore only in force for nine months of the tax year.
+
+All the income arises evenly throughout the year but the trustees pay allowable management expenses of £2,700 in the period to 5 January and the remaining £1,800 in the last three months of the tax year.
+
+- | Income | Amount |
+
+A.
+
+|
+
+Qualifying trusts income (£15,000 + £20,000 x 9/12).
+
+|
+
+£26,250
+
+|
+
+B.
+
+|
+
+Non-qualifying income arising in that part of the year to which the election applies (£20,000 x 9/12).
+
+|
+
+£15,000
+
+|
+
+C.
+
+|
+
+Total income arising in that part of the year to which the election applies (A + B).
+
+|
+
+£41,250
+
+|
+
+D.
+
+|
+
+Proportion of management expenses attributable to non-qualifying income in that part of the year to which the election applies (£2,700 x B/C).
+
+|
+
+£982
+
+|
+
+E.
+
+|
+
+Allowable management expenses attributable to qualifying trusts income (£2,700 - D).
+
+|
+
+£1,718
+
+|
+
+F.
+
+|
+
+Management expenses arising in that part of the year to which the election applies are set against dividend income and grossed up (E x 100/91.25).
+
+|
+
+£1,883
+
+|
+
+For the purposes of calculating TQTI, it is only necessary to work out the trustees’ liability in respect of the qualifying trusts income (before making the claim for special tax treatment). In this case it is:
+
+Income | Savings | Dividend | Total |
+
+Income x 9/12
+
+|
+
+£11,250
+
+|
+
+£15,000
+
+|
+
+-
+
+|
+
+Income used to pay management expenses
+
+|
+
+-
+
+|
+
+£1,883
+
+|
+
+-
+
+|
+
+Tax rate
+
+|
+
+-
+
+|
+
+8.75%
+
+|
+
+-
+
+|
+
+Tax chargeable
+
+|
+
+-
+
+|
+
+£164.76
+
+|
+
+£164.76
+
+|
+
+Remaining income
+
+|
+
+£11,250
+
+|
+
+£13,117
+
+|
+
+-
+
+|
+
+Tax rate
+
+|
+
+45%
+
+|
+
+39.35%
+
+|
+
+-
+
+|
+
+Tax chargeable
+
+|
+
+£5,062.50
+
+|
+
+£5,161.53
+
+|
+
+£10,224.03
+
+|
+
+TQTI
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£10,388.79
+
+|
+
+The vulnerable person has no personal income or gains in the year and so the amount of TLV2 is nil.
+
+TLV1 (the amount of additional tax that the vulnerable person would pay if the qualifying trusts income arose directly to them) is:
+
+Income | Savings | Dividend | Total |
+
+Income - actual
+
+|
+
+£0
+
+|
+
+£0
+
+|
+
+-
+
+|
+
+Income treated as arising to the vulnerable person
+
+|
+
+£11,250
+
+|
+
+£15,000
+
+|
+
+-
+
+|
+
+Less personal allowance (£12,570)
+
+|
+
+£5,250
+
+|
+
+£7,320
+
+|
+
+-
+
+|
+
+Savings starting rate £5,000 @0% and Basic rate £1,000 @0%
+
+|
+
+£0
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Tax chargeable
+
+|
+
+£0.00
+
+|
+
+£0.00
+
+|
+
+£0.00
+
+|
+
+Chargeable at dividend rate at nil rate on £500 and dividend rate (8.75%)
+
+|
+
+-
+
+|
+
+£7,180
+
+|
+
+-
+
+|
+
+Tax chargeable
+
+|
+
+-
+
+|
+
+£628.25
+
+|
+
+£628.25
+
+|
+
+TLV1
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£628.25
+
+|
+
+Less TLV2
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£0.00
+
+|
+
+VQTI
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£628.25
+
+|
+
+The reduction that the trustees can claim is TQTI - VQTI (£10,388.79 - £628.25) = £9,760.54.
+
+Their actual liability is the same as in the example in TSEM3477 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3477) and the liability after claiming the reduction is:
+
+Tax due | Amount |
+
+Tax due
+
+|
+
+£22,659.76
+
+|
+
+Less reduction for special tax treatment
+
+|
+
+£9,760.54
+
+|
+
+-
+
+|
+
+£12,899.22
+
+|

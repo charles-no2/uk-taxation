@@ -1,0 +1,70 @@
+PENP formula: defined terms
+Identifier: EIM13898
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13898
+Published: 2018-04-05T15:32:55+01:00
+Updated: 2018-12-14T02:00:25+00:00
+Retrieved (UTC): 2026-09-18T14:10:38.243218+00:00
+
+Section 402E ITEPA 2003
+
+EIM13874 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13874) explains that, with effect from 6 April 2018, the post-employment notice pay element of all ‘relevant termination awards’ is chargeable to income tax as general earnings. Post-employment notice pay is calculated using the PENP formula (see EIM13880 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13880)).
+
+There are various terms which require defining to calculate ‘BP’, ‘P’ and ‘D’ for the purposes of the PENP formula. These terms are defined below.
+
+‘Trigger date’
+
+If the termination is a ‘notice case’ then the trigger date is the day notice is given.
+
+If the termination is not a ‘notice case’ then the trigger date is the last day of the employment.
+
+The term ‘trigger date’ is required for calculating ‘BP’ (see EIM13882 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13882)), ‘P’ (see EIM13886 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13886)) and ‘D’ (see EIM13890 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13890)).
+
+‘Notice case’
+
+If the either the employer, or employee gives notice to the other to terminate the employment then the termination is a ‘notice case’. In a notice case it does not matter whether the notice given by either party is more, or less than, or the same as the ‘minimum notice’ period. It also does not matter if the employment ends before the notice expires.
+
+The term ‘notice case’ is required for calculating ‘BP’ (see EIM13882 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13882)), ‘P’ (see EIM13886 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13886)) and ‘D’ (see EIM13890 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13890)).
+
+‘Minimum notice’
+
+The ‘minimum notice’ is the notice required to be given by the employer to terminate the employee’s employment, by giving notice, in accordance with the law and contractual terms.
+
+If the termination is a ‘notice case’, the ‘minimum notice’ is the minimum notice required to be given by the employer to terminate the employee’s employment by notice in accordance with the law and contractual terms that were effective immediately before notice is given.
+
+If the termination is not a ‘notice case’, the ‘minimum notice’ is the minimum notice required to be given by the employer to terminate the employee’s employment by notice in accordance with the law and contractual terms that were effective immediately before the employment ends, or where the employment ends by agreement entered into after the start of the employment, immediately before the agreement is entered into.
+
+The term ‘minimum notice’ is required for calculating ‘BP’ (see EIM13882 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13882)), ‘P’ (see EIM13886 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13886)) and ‘D’ (see EIM13890 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13890)).
+
+‘Post-employment notice period’
+
+The ‘post-employment notice period’ is the period beginning at the end of the last day of employment and ending with the ‘earliest lawful termination date’.
+
+The term ‘post-employment notice period’ is required for calculating ‘D’ (see EIM13890 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13890)).
+
+‘The earliest lawful termination date’
+
+The earliest lawful termination date is the last day of the period which is equal in length to the ‘minimum notice’ and begins at the end of the ‘trigger date’.
+
+The term ‘earliest lawful termination date’ is required for calculating ‘D’ (see EIM13890 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13890)).
+
+‘Limited-term contract’ and ‘limiting event’
+
+The terms ‘limited-term contract’ and ‘limiting event’ are defined in sections 235(2A) and (2B) of the Employment Rights Act 1996. These sections are reproduced below:
+
+“Section 235(2A) For the purposes of this Act a contract of employment is a “limited-term contract” if—
+
+(a) the employment under the contract is not intended to be permanent, and
+
+(b) provision is accordingly made in the contract for it to terminate by virtue of a limiting event.
+
+(2B) In this Act, “limiting event”, in relation to a contract of employment means—
+
+(a) in the case of a contract for a fixed-term, the expiry of the term,
+
+(b) in the case of a contract made in contemplation of the performance of a specific task, the performance of the task, and
+
+(c) in the case of a contract which provides for its termination on the occurrence of an event (or the failure of an event to occur), the occurrence of the event (or the failure of the event to occur).”
+
+There may be circumstances where it is not possible to ascertain the date of the ‘limiting event’ because for example the ‘limiting event’ is the completion of the performance of a specific task, which is not ascertainable before the termination payment is received. In those circumstances, take the date of the ‘limiting event’ to be what would be the last day of employment had the employee been given the minimum statutory notice they would have been entitled to under section 86 of the Employment Rights Act 1996.
+
+The terms ‘limited-term contract’ and ‘limiting event’ are required for calculating ‘D’ (see EIM13890 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13890)).

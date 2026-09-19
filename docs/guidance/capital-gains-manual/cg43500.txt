@@ -1,0 +1,42 @@
+Companies and groups of companies: capital contributions to companies
+Identifier: CG43500
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg43500
+Published: 2016-03-12T11:05:02+00:00
+Updated: 2026-08-13T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:29:29.798643+00:00
+
+General
+
+The company law provisions of some foreign jurisdictions, notably the USA, provide for the making of capital contributions to companies. A capital contribution is a contribution to the equity capital of a company, but is not made in exchange for shares issued to the contributor and it does not constitute a separate asset in its own right. See INTM503050 where any equity function arguments are raised.
+
+An overseas company receiving a capital contribution may treat it in a number of ways, depending on the law of the foreign jurisdiction concerned and the conditions attaching to the payment. These may give the company a choice whether to designate the contribution as `surplus' or as `capital'. Amounts designated as ‘surplus’ may be available for distribution to shareholders, subject to solvency requirements. Amounts designated as ‘capital’ may only be repayable by way of a capital reduction. A company's balance sheet will generally show capital contributions made to it as an item of shareholders' funds separate from paid up share capital. Capital contributions may be described, for example, as `additional paid in capital'.
+
+Capital contributions are not recognised under UK company law and if a payment is not made as part of the terms of issue of shares, it is possible it is either a loan or a gift. If a UK taxpayer contends that a sum paid to an overseas company is a capital contribution rather than a loan or gift, evidence to support that contention should be sought.
+
+For example if a UK company suggests a payment to an overseas affiliate is a capital contribution rather than a loan or gift there should be evidence of the appropriate treatment in the company accounts. If however there is a possibility that the money can be repaid, it is likely to be a debt within the loan relationships regime, see CFM30000 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm30000). It is therefore necessary to examine all the circumstances surrounding the money transfer before coming to any conclusion as to what the nature of the payment is. If however agreement cannot be reached as to the nature of the payment and therefore the tax consequences (see below), the decision lies with the Tribunals and the Courts.
+
+Occasionally a capital contribution may be made to a UK company. As capital contributions are not a concept formally recognised within UK company law, a contribution received by a UK company should be reported within distributable reserves either as a gift or possibly a donation. If however it can be repaid in any circumstances it should be considered as a loan falling within the loan relationships regime.
+
+Made under terms of share issue
+
+A shareholder may make a capital contribution to a company at the same time as the shareholder acquires shares in the company. If the capital contribution is made as part of the terms of issue of the shares, then the capital contribution should be accepted as consideration given wholly and exclusively for the acquisition of the shares within TCGA92/S38 (1)(a). If a capital contribution is made as part of the terms of a share issue which is treated as a reorganisation for capital gains purposes, then the capital contribution should be accepted as consideration given for the new holding for the purposes of TCGA92/S128 (1). The amount of the capital gains deduction will remain subject to the other general rules, such as TCGA92/S17 and TCGA92/S128 (2), see CG14530 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14530)+ and CG51840 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51840)+-
+
+Other contributions not allowable
+
+Where shares are disposed of in a company to which a capital contribution has been paid a claim may be made for a deduction in respect of that contribution in the capital gain computation. The claim will normally be for the contribution to be allowable as enhancement expenditure under TCGA92/S38 (1) (b).
+
+Although a capital contribution will typically affect the value of the shares in the company to which the contribution is made, it does not represent either expenditure on the shares, or expenditure reflected in the state or nature of the shares at the time of their disposal.
+
+The Special Commissioners decision in the case of The Trustees of the F. D. Fenston Will Trusts v HMRC (SpC589/07) confirmed that a capital contribution which is not made as part of the terms for the issue of shares is not, in the absence of anything to indicate that the rights and privileges attaching to the shares have been enhanced, an allowable deduction within TCGA92/S38 when shares in the company are disposed of. In particular, the capital contribution does not represent enhancement expenditure within TCGA92/S38 (1) (b).
+
+In applying this decision it may be argued there are circumstances were the tax result will be distorted if the amount of tax payable takes account of value realised, directly or indirectly, by a shareholder from a capital contribution, but the capital contribution itself is not reflected in allowable expenditure for capital gains purposes. Below are some examples where such distortion may be alleged.
+
+- A capital contribution is returned by a company to its shareholders as a dividend or distribution and they are taxed on the distribution but the shareholder will have had no deduction for the contribution. Our view is that a dividend or distribution is paid out of the surplus of the company so therefore is not a direct return of the capital contribution paid by the shareholder (in which case it is probably a loan). The nature of the receipt is changed when a dividend or distribution is made in comparison with the time when the capital contribution was paid.
+
+- A capital contribution is retained by the company at a time when there is a sale of shares in the company. The contribution may be reflected in an increased consideration for the disposal of the shares but a capital gains deduction will not be given.
+
+- There is similar scope for distortions where a capital contribution is followed by a share exchange, reconstruction or amalgamation treated as a share reorganisation for capital gains purposes, see CG52500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52500)+. This is then followed by a disposal of the new holding for an amount which reflects the capital contribution made to the company in which the original shares were held, and the capital contribution is not allowable expenditure on the original shares.
+
+In these last two cases, unless the capital contribution resulted in a change in therights and privileges attaching to the shares, and that change is reflected in the nature of the shares at the time of their disposal, it is not an allowable deduction within TCGA92/S38 (1) (b) when those shares in the company, or replacement shares in that or a different company acquired by virtue of a share reorganisation are disposed of.
+
+There may also be cases where companies call on their shareholders to provide further capital to meet a specified purpose, in circumstances where a shareholder who fails to provide the additional funds may lose the entitlement to the shares held. In this situation, depending on the particular facts, the shareholder may be able to establish that the additional payment represents expenditure on preserving or defending the title to the shares within the terms of TCGA92/S38 (1) (b).

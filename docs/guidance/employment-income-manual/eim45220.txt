@@ -1,0 +1,106 @@
+Employment income provided through third parties: exclusions: employee benefit packages: transaction is loan
+Identifier: EIM45220
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45220
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2021-01-20T11:12:00+00:00
+Retrieved (UTC): 2026-09-18T14:23:12.960834+00:00
+
+Section 554G ITEPA 2003
+
+Conditions if the transaction is a loan (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45220#IDA3IMYF)
+
+‘In practice restricted to senior staff’ (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45220#IDAKKMYF)
+
+Example: arrangement with credit union (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45220#IDAEMMYF)
+
+Relocation loans (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45220#IDAMOMYF)
+
+Section 554G (exclusions: employee benefit packages) lays down specific conditions to be met if the transaction is a loan.
+
+On Section 554G generally, see EIM45215 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45215).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45220#Top)
+
+Conditions if the transaction is a loan
+
+Four conditions must be met if the relevant step is the payment of a sum of money by way of loan to A. These conditions are bulleted below.
+
+- A substantial proportion of the business of the person taking the step (P) involves making similar loans to members of the public at large with whom P deals at arm’s length. A loan is ‘similar’ if it is made for the same or similar purposes as the loan to A.
+
+- The transaction with A is part of a package of benefits which is available to a substantial proportion of B’s employees. In practice, ‘a substantial proportion’ will normally mean at least 50%. See EIM26160 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26160) on ‘a substantial proportion’ in Section176 ITEPA 2003.
+
+- Under the package of benefits, P offers similar transactions on sufficiently generous terms to other employees besides A that is, substantially all of the employees of B to whom the package is available can take advantage of what is offered (if they want to). A transaction is ‘similar’ if it is of the same type as, or a similar type to, P’s transaction with A.
+
+- The package of benefits is not ‘in practice restricted to senior staff’.
+
+For the purposes of these four conditions, ‘A’ includes persons linked with A. See EIM45860 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45860).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45220#Top)
+
+‘In practice restricted to senior staff’
+
+For these purposes, a package of benefits is ‘in practice restricted to senior staff’ if any feature of the package of benefits has (or is likely to have) the effect that benefits under the package will be wholly or mainly conferred on senior staff.
+
+‘Senior staff’ are:
+
+- directors,
+
+- senior employees,
+
+- employees who receive (or as a result of the package of benefits are likely to receive) the higher or highest levels of remuneration, and
+
+- if B is a company which is a member of a group of companies, any other employees who:
+
+- are senior employees in the group, or
+
+- receive (or as a result of the package of benefits are likely to receive) the higher or highest levels of remuneration in the group.
+
+To decide whether B is a member of a group, you apply the rules for corporation tax on chargeable gains (see CG45100 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45100) onwards) with one modification.
+
+The chargeable gains test is a 75% test. For the purposes of the group exception, you change ‘75%’ to ‘51%’ throughout.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45220#Top)
+
+Example: arrangement with credit union
+
+Employer B is a manufacturing company that experiences a temporary drop in orders. Rather than make members of its skilled workforce redundant, it puts 60% of its employees onto short-time working arrangements.
+
+There are 120 employees on short-time working. Most of them are machine operators who have no material interest in the company. But two senior managers and one director are also on short hours.
+
+In order to assist employees during the period of reduced pay, the employer agrees with a local credit union that employees on reduced hours will be entitled to receive loans of up to £4,000 without going through the normal credit checks and at a reduced rate of interest.
+
+The scale of the loans, the purposes for which the loans are advanced, the type of security given by the borrower and the lengths of the loan periods are very similar to the terms applicable to members of the public.
+
+There are no indicators that the loan arrangements are connected with any tax avoidance arrangements.
+
+On these facts:
+
+- the three conditions about the relevant step (see EIM45215 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45215)),
+
+- the two conditions about the package of benefits (see EIM45215 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45215)), and
+
+- the four conditions if the transaction is a loan (see above)
+
+are all met.
+
+So the loans are covered by Section 554G.
+
+But if, in contrast to this example, the loans were not available to a substantial proportion of B’s workforce, the terms of the exclusion would not be satisfied and the loans would potentially be within Part 7A.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45220#Top)
+
+Relocation loans
+
+There are no special rules for relocation loans in Section 554G.
+
+If a relocation loan is advanced by a relevant third person, it will need to meet:
+
+- the three conditions about the relevant step (see EIM45215 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45215)),
+
+- the two conditions about the package of benefits (see EIM45215 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45215)), and
+
+- the four conditions if the transaction is a loan (see above).
+
+Note that these conditions are stringent. If they are not all met, the relocation loan will fall outside Section 554G.
+
+On ‘relevant third person’, see EIM45035 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45035).

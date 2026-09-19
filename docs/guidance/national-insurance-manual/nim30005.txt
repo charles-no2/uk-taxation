@@ -1,0 +1,16 @@
+Special Cases: Married Women: Automatic cancelling of election following failure of "2 Year Test"
+Identifier: NIM30005
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim30005
+Published: 2016-04-11T17:45:33+01:00
+Updated: 2022-12-09T13:02:28+00:00
+Retrieved (UTC): 2026-09-18T15:16:57.051816+00:00
+
+National Insurance Recording System 2 (NIRS2) cancels a reduced rate election for the following reasons:
+
+- LAPSED BY POSTING is where contributions are received two complete tax years or more after the last reduced rate NICs were recorded
+
+- LAPSED BY LO 1717 where the cancellation of the election has been manually input
+
+- LAPSED FOR RP is where a Retirement Pension calculation is requested and the woman has failed the two year test (see NIM30004)
+
+- LAPSED BY CREDITS if credits are posted at least two complete tax years after the last reduced rate contributions

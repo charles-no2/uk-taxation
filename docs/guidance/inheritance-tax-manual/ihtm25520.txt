@@ -1,0 +1,36 @@
+AR/BR 100% relief allowance: individuals
+Identifier: IHTM25520
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25520
+Published: 2026-04-07T07:43:59+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:46.264958+00:00
+
+The provisions for the Inheritance Tax (IHT) agricultural relief/business relief (AR/BR) 100% relief allowance for individuals are in IHTA84/S124D, introduced by schedule 12 of the Finance (No.2) Act 2025-26.
+
+For any individual who dies on or after 6 April 2026 the amount of 100% agricultural or business relief is limited to £2.5m, IHTA84/S124D(2), although this can be increased by up to 100%, i.e., up to £5m, if a pre-deceased spouse or civil partner did not use all their 100% relief allowance, IHTA84/S124E (IHTM25530 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25530)). The value of any relievable property above this amount will qualify for 50% relief.
+
+It is important to note that the 100% allowance only applies to chargeable transfers of relievable property. Transfers of relievable property to an exempt person or object, such as a spouse or civil partner, will only qualify for 50% AR or BR from 6 April 2026. This will be relevant if for example, you are applying the interaction provisions in IHTA84/S39A (IHTM26103 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26103)) when calculating the taxable value of an estate.
+
+The allowance not only applies on the death but also to lifetime transfers from 6 April 2026, whether they are immediately chargeable transfers when made, such as a transfer to a trust, or a failed potentially exempt transfer (PET) made within 7 years of the death of the transferor. Where a transfer was made within 7 years of a death on or after 6 April 2026, the 100% allowance will also apply to any PETs or immediately chargeable transfers made on or after 30 October 2024 and before 6 April 2026. There is more information on how the 100% allowance applies to transfers made during this ‘transitional period’ at IHTM25522 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25522).
+
+To calculate how much of the allowance is available on a specific transfer, or death, you need to know whether any other transfers of agricultural or business property qualifying for 100% relief were made in the previous 7 years, IHTA84/S124D(3). This can be illustrated as follows.
+
+Example 1
+
+On 1 April 2027 Robert makes a gift to his son of unquoted shares, qualifying for 100% BR valued at £1m.
+
+On 1 April 2028 Robert makes a gift to his daughter of land qualifying for 100% AR valued at £1.5m.
+
+On 1 June 2034, Robert dies, unmarried. His estate, divided between his son and daughter, includes agricultural and business property qualifying for 100% AR/BR valued at £2m.
+
+The gift made on 1 April 2027 was more than 7 years before his death and is a successful PET which does not use any part of the 100% allowance at Robert’s death.
+
+But the transfer made on 1 April 2028 does use £1.5m of his £2.5m allowance at this date, leaving a balance of £1m to set against his estate on death. The remaining £1m of relievable property in his estate above the allowance qualifies for relief at 50%, leaving £500,000 chargeable to IHT.
+
+Example 2
+
+On 1 November 2026 Derek transfers unquoted shares qualifying for 100% BR valued at £2m into a discretionary trust. As this was the first gift of 100% relievable property he had made, it qualifies for 100% BR in full, and because it is an immediately chargeable transfer it uses £2m of his £2.5m allowance. No IHT is payable on the transfer and £500,000 of his allowance remains unused.
+
+On 1 February 2028 Derek transfers another £2m of unquoted shares qualifying for 100% BR into the trust. As this transfer is less than 7 years after the previous transfer, only £500,000 of his 100% allowance is available for this transfer. The balance of £1.5m qualifies for 50% BR, leaving a chargeable value of £750,000 subject to lifetime rates of IHT.
+
+There are rules on how the 100% allowance should be allocated if there is more than one transfer of relievable property made on the same day and the total value is in excess of the allowance available (IHTM25523 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25523)) or if the estate on death includes property held under more than one title, for example, the free estate, a qualifying interest in possession trust or a gift with reservation ceasing on death (IHTM25524) (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25524)

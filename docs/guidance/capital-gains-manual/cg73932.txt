@@ -1,0 +1,70 @@
+NRCG and the exemptions: Disposals from 6 April 2019: Indirect disposals: The basics 
+Identifier: CG73932
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73932
+Published: 2020-02-05T14:22:44+00:00
+Updated: 2020-02-10T14:55:03+00:00
+Retrieved (UTC): 2026-09-18T14:46:49.089040+00:00
+
+tcag92/sCH1a pARA 3 and 4
+
+These rules will apply, in general, where:
+
+- A non-UK resident person disposes of an interest in a company (including entities deemed to be companies for capital gains)
+
+- That disposal is of an asset that derives at least 75% of its gross asset value from UK land (the UK property richness test see CG73934 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73934)), and
+
+- That person holds at least 25% investment in that company (the substantial indirect interest test CG73938 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73938))
+
+This page presents an example of how these core principles apply.
+
+The facts
+
+In the diagram below, A, B, and C are all unconnected shareholders in a non-resident company, D.
+
+- A (in grey) owns 30% and is a pension fund meeting the conditions to be exempt from UK tax on capital gains.
+
+- B owns 10% and C the remaining 60%.
+
+- All of D’s shareholders are non-UK resident and have been the only persons with any interest in D for ten years.
+
+- The shares are all of one class and carry equal rights to votes, profits, and assets.
+
+- There have been no changes in shareholdings for ten years.
+
+A, B, and C all dispose of their interests in D by selling the shares to a third party.
+
+D’s assets and liabilities at the last balance sheet date, which was three months ago, were:
+
+- An office in the UK worth £80,000, which D rents out to a third party
+
+- Some stocks and bonds (unrelated to real estate) worth £20,000
+
+- A loan from the bank for £10,000
+
+See Diagram (http://www.hmrc.gov.uk/gds/cg/attachments/CG73932.pdf)
+
+UK property richness test (see CG73934 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73934))
+
+In considering whether an interest in D is an asset that derives 75% or more of its gross asset value from UK land for the shareholders, they must calculate the proportion of D’s assets that are UK land in relation to D’s overall assets. Hence the shareholders will consider the office (80,000) as a proportion of the total assets (80,000 + 20,000). No account is taken of the liabilities. See also CG73944  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73944)in relation to assets and liabilities of related parties.
+
+On the basis of this calculation D is a UK property rich asset, as 80% of its gross assets are UK land as defined (see CG73932 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73932)).
+
+Substantial indirect interest (see CG73936 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73936))
+
+A, B, and C will then need to consider whether they hold a substantial indirect interest in the land that makes D UK property rich. Broadly, a person holds a substantial indirect interest in land if they have, at some point in the two years prior to the disposal, held at least a 25% investment in the company or companies owning the interest in the land.
+
+In the example, A, B, and C have been (the only) shareholders in D for the two years prior to disposal. As the shares are all of one class and carry equal rights to votes, profits, and assets, the level of investment in this case is based on the rights of the shareholders in D (see CG73938 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73938)).
+
+On the basis of their shares, B holds less than 25% investment in D, and so does not have a substantial indirect interest. B, as a non-UK resident and not meeting this condition, is not chargeable to UK tax on their gain on disposals of their interest in D.
+
+Both A and C hold 25% or more investment in D, and so both hold a substantial indirect interest in D. Hence the two tests in section 1A(3)(c) or 2B(4)(b) TCGA 1992 (for CGT and CT respectively) are met. A is exempt from capital gains. C will be chargeable to tax on the disposal.
+
+Calculating the gain (CG73950 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73950))
+
+C will calculate the gain on the land using the normal rules for share disposals, and the full value of the shares (as a UK resident person would). There is no adjustment to the value for the proportion of assets that are not UK land.
+
+If C held an interest in the shares at 5 April 2019 and was a non-UK resident at that time, then the rebasing rules in Schedule 4AA to TCGA 1992 will apply. See CG73960  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73960)for CGT and CG73970 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73970) for CT for more details.
+
+A disposal by D
+
+The non-UK resident company, D, is taxable on any gain arising from its disposal of the UK land in question. This is a direct disposal, and it does not matter what other assets D holds (see CG73970P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73970p)). The gain will be calculated on the basis of a normal disposal of UK land by a company (subject to any rebasing, if appropriate, under Schedule 4AA to TCGA 1992). (See CG73960 for CGT and CG73970 for CT).

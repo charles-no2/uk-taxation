@@ -1,0 +1,26 @@
+Calculating the transferable nil rate band: survivor was married to or in a civil partnership with someone who was entitled to TNRB from an earlier death; limitation at 100%
+Identifier: IHTM43033
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43033
+Published: 2016-04-09T10:28:50+01:00
+Updated: 2017-10-25T12:50:38+01:00
+Retrieved (UTC): 2026-09-18T15:09:58.317645+00:00
+
+Following the example from (IHTM43032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43032)), if on Lucy’s death there had been no chargeable legacies the calculations would be as follows
+
+Unused nil rate band calculation
+
+M = £375,000
+
+VT = £Nil
+
+M is greater than VT by £375,000
+
+Transferable nil rate band calculation
+
+E =£375,000
+
+NRBMD = £300,000 so
+
+(375,000 ÷ 300,000) × 100 = 125.0000%
+
+On David’s death the nil rate band available on his death would be limited to 100% by IHTA84/S8A(5).

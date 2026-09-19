@@ -1,0 +1,27 @@
+Indexation allowance
+Identifier: CG28300
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg28300
+Published: 2016-03-12T10:29:35+00:00
+Updated: 2018-12-14T01:47:12+00:00
+Retrieved (UTC): 2026-09-18T14:29:17.252570+00:00
+
+Indexation allowance enables a deduction to be made in the CG computation to account for the effects of inflation. Guidance on the calculation of indexation allowance is given at CG17200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17200).
+
+For Capital Gains Tax purposes indexation allowance was frozen at 5 April 1998 in respect of disposals on or after 6 April 1998 and ceased to be available altogether for disposals on or after 6 April 2008.
+
+Indexation allowance for corporate partners, who are chargeable to Corporation Tax on chargeable gains, was frozen at 31 December 2017 in respect of disposals on or after 1 January 2018.
+
+SP1/89 explains HMRC’s practice in relation to the calculation of indexation allowance where neither a gain nor a loss arises to a partner whose interest in partnership assets is reduced on a change in fractional sharing ratios, see CG27500. It applies to disposals of interests in partnership assets on or after 6 April 1988.
+
+Indexation allowance is not available to non-corporate partners, see CG27100, who are chargeable to Capital Gains Tax in respect of disposals of interests in partnership assets on or after 6 April 2008.
+
+The text of SP1/89 in relation to indexation allowance is reproduced below:
+
+When, on or after 6 April 1988, a partner disposes of all or part of his share of partnership assets in circumstances to which paragraph 4 of the Statement of Practice of D12 applies so that neither a chargeable gain nor an allowable loss accrues, the amount of the consideration will be calculated on the assumption that an unindexed gain will accrue to the transferor equal to the indexation allowance, so that after taking account of the indexation allowance, neither a gain nor a loss accrues.
+Where a partner disposes on or after 6 April 1988 of all or part of his share of partnership assets, and he is treated by virtue of this Statement as having owned the share on 31 March 1982, the indexation allowance on the disposal may be computed as if he had acquired the share on 31 March 1982. A disposal of a share in a partnership asset on or after 31 March 1982 to which paragraph 4 of the Statement of Practice D12 applies so that neither a chargeable gain nor an allowable loss accrues may be treated for the purposes of Section 55(5) TCGA 1992 (Section 68(7) FA 1985) as if it were a no gain/no loss disposal within subsection 5 of that Section. A special rule will however apply where the share changed hands on or after 6 April 1985 (1 April in the case of an acquisition from a company) and before 6 April 1988: in these circumstances the indexation allowance will be computed by reference to the 31 March 1982 value but from the date of the last disposal of the share before 6 April 1988.
+
+The effect of SP1/89 is that a change in fractional sharing ratios that results in neither a gain nor a loss is treated as a statutory no gain/no loss transfer, see CG17400 so that:
+
+- the disposal consideration for the partner whose fractional interest is reduced may be calculated on the assumption that an unindexed gain will accrue to the transferor equal to the indexation allowance so that, after accounting for indexation allowance, neither a gain nor a loss accrues.
+
+- TCGA92/S55(5) and (6) will apply on a subsequent disposal of the interest in the partnership asset by the partner whose fractional interest was increased as a result of a transfer that resulted in neither a gain nor a loss.

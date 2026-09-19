@@ -1,0 +1,124 @@
+Share exchange: effect of TCGA92/S135: other consideration received
+Identifier: CG52587
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52587
+Published: 2016-03-12T11:26:56+00:00
+Updated: 2023-05-05T09:52:16+01:00
+Retrieved (UTC): 2026-09-18T14:42:42.584057+00:00
+
+The acquiring company may pay cash or give some other consideration as well as issuing shares and debentures. This should be treated as a capital distribution in respect of the original shares, see CG57800 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57800)+, to which the provisions of s128(3) TCGA92 (https://www.legislation.gov.uk/ukpga/1992/12/section/128) apply, see CG51875 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51875). If the amount of cash is small compared with the value of the original shares the taxpayer may elect to have it treated as a small capital distribution, see CG57835 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57835).
+
+Example
+
+- In January 2016 an individual buys 20,000 £1 ordinary shares in Dirty Denims Ltd for £60,000 (£3 per share).
+
+- In February 2023 Elegant Evening Wear PLC makes a general offer to acquire all the shares in Dirty Denims Ltd in consideration for the payment of £4 cash per share and the issue of two Elegant Evening Wear PLC shares for each Dirty Denims Ltd share held. The individual accepts the offer on 1 March 2023 and so they receive £80,000 cash and 40,000 Elegant Evening Wear PLC shares.
+
+The receipt of the cash on the takeover is treated as a capital distribution.
+
+The market value of the Elegant Evening Wear PLC shares on 1 March 2023 was £6 per share.
+
+Since the Elegant Evening Wear PLC shares are worth £6 per share it means the total value of what was acquired was £80,000 cash and £240,000 of shares (£320,000 in total).
+
+If the individual had just received shares, the share reorganisation rules would apply and the new shareholding would be treated as having the old shareholding acquisition price. However, the individual received a mixture of cash and shares, so we need to split the £60,000 acquisition costs of the Dirty Denims Ltd shares between both elements..
+
+The part disposal formula (A / ( A + B)) is:
+
+A = the amount or value of the capital distribution, so 20,000 x £4 = £80,000
+
+B = the market value of the shareholding, so £80,000 + £240,000 = £320,000
+
+£80,000/ (£80,000 + £240,000) = 0.25 or 25%
+
+So 25% of the acquisition cost is allocated against the £80,000 cash.
+
+75% of the acquisition cost is used as the base cost of the new shareholding.
+
+The original shares cost £60,000.
+
+So 25% of £60,000 is £15,000 and this value is used for calculating the acquisition cost allocated against the cash element.
+
+The Dirty Denims Ltd s104 holding is now:
+
+-
+
+|
+
+Number of shares
+
+|
+
+Pool of qualifying expenditure
+
+|
+
+January 2016 Acquisition
+
+|
+
+20,000
+
+|
+
+£60,000
+
+|
+
+Less apportioned acquisition cost
+
+|
+
+-
+
+|
+
+£15,000
+
+|
+
+-
+
+|
+
+20,000
+
+|
+
+£45,000
+
+|
+
+You compute the chargeable gain as follows:
+
+-
+
+|
+
+£
+
+|
+
+Disposal proceeds (cash received)
+
+|
+
+80,000
+
+|
+
+Less apportioned cost
+
+|
+
+15,000
+
+|
+
+Equals chargeable gain
+
+|
+
+65,000
+
+|
+
+75% of the £60,000 is £45,000 and this value is used as the acquisition cost of the 40,000 Elegant Evening Wear PLC shares

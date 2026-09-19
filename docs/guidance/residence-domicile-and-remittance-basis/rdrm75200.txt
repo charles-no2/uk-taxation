@@ -1,0 +1,84 @@
+Temporary repatriation facility: Mixed funds: Remittances to the UK
+Identifier: RDRM75200
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75200
+Published: 2025-04-07T08:37:22+01:00
+Updated: 2025-04-07T08:37:22+01:00
+Retrieved (UTC): 2026-09-18T16:19:15.961834+00:00
+
+The mixed fund provisions at sections 809Q and 809R ITA 2007 work together to determine whether, in what amounts (and how) transfers from mixed funds are chargeable to UK tax as remittances.
+
+The legislation provides a series of steps to identify the order of priority in which income, gains and amounts of capital are deemed to have been remitted to the UK.
+
+From 6 April 2025, where foreign income and gains have been designated under the temporary repatriation facility (TRF), it is possible for a mixed fund to contain TRF capital – see RDRM75100 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75100) for a definition of TRF capital.
+
+During the TRF period an annualised basis applies to mixed funds that contain or contained TRF capital at any time during the tax year, which may impact the composition of a remittance – see RDRM75500 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75500) for guidance on how the annualised basis operates.
+
+From 6 April 2025, a new Step A1 has been introduced before Steps 1 to 5 which provides that TRF capital will be remitted in priority to any of the other types of income and capital in an individual’s mixed fund that are listed at section 809Q(4) - see RDRM35240 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240) for details on how the steps operate.
+
+The mixed fund ordering rules are applied to the types of income and capital listed in section 809Q(4) of a later tax year before being applied to those of an earlier tax year. This is known as the ‘Last In First Out’ LIFO principle. However, this will not apply to TRF capital, which will always take priority regardless of the year in which the foreign income and gains to which it relates arose. TRF capital will also take priority regardless of when it was designated, so will be treated as remitted before any income or gains that arise in later years.
+
+After all the TRF capital in the mixed fund has been remitted under Step A1, the remainder of the income and capital in the fund will be remitted in accordance with Steps 1 to 5.
+
+Example 1
+
+Marwa is UK resident and a former remittance basis user. On 6 April 2025 she has an overseas bank account, which is a mixed fund, comprising:
+
+- £50,000 foreign dividend income from 2023-24
+
+- £100,000 foreign dividend income from 2022-23
+
+- £30,000 foreign gain from the disposal of a property in 2022-23
+
+The order above follows the mixed fund ordering rules, which would provide that any remittances to the UK out of the account would first be matched to the foreign dividend income from 2023-24.
+
+However, in 2025-26 Marwa designates the £100,000 of foreign dividend income from 2022-23 and makes a partial designation of £20,000 of the foreign gain from 2022-23 in her Self Assessment tax return, paying the TRF charge on the £120,000.
+
+The composition and priority ordering of the mixed fund has now changed to:
+
+- £120,000 TRF capital
+
+- £50,000 foreign dividend income from 2023-24
+
+- £10,000 foreign gain from the disposal of a property in 2022-23
+
+Therefore, when Marwa remits an amount to the UK from this account it will be treated as comprising TRF capital in priority to any other income or capital.
+
+On 30 May 2026, Marwa remits £100,000 to the UK from her overseas account. She makes no other remittances or other transfers in 2026-27. The £100,000 remittance is all treated as TRF capital so there is no further tax charge on this remittance. On 6 April 2027 Marwa’s mixed fund is now treated as comprising:
+
+- £20,000 TRF capital
+
+- £50,000 foreign dividend income from 2023-24
+
+- £10,000 foreign gain from the disposal of a property in 2022-23
+
+On 1 August 2027, Marwa remits £60,000 to the UK from her mixed fund account. This is treated as comprising £20,000 TRF capital and £40,000 foreign dividend income from 2023-24. The remittance of the TRF capital portion will not attract a further tax charge, however there will be an ordinary remittance of the £40,000 foreign dividend income, taxable at the usual tax rate. As this remittance takes place during the 2027-28 tax year, which is the last year of the TRF period, Marwa could designate the £40,000 in 2027-28 and pay the TRF charge on this amount instead.
+
+The annualised basis would apply to Marwa’s account in all 3 years of the TRF period, because there was TRF capital in the account at some time in all 3 years. However, as Marwa only made one remittance per year and no other transfers, the annualised basis does not affect the composition of the remittances in this example.
+
+Example 2
+
+Johannes is UK resident and a former remittance basis user. He has an overseas bank account, which is a mixed fund, and in 2025-26 he made partial designations of some of his foreign income and gains in the account, totalling £100,000. On 6 April 2026 it comprises:
+
+- £100,000 TRF capital
+
+- £50,000 foreign employment income from 2013-14
+
+On 24 April 2026 Johannes receives a foreign dividend of £95,000 which is paid into his overseas bank account. As the remittance basis of taxation is no longer available, he is taxed on this dividend income as it arises in the 2026-27 tax year.
+
+On 18 September 2026 Johannes sells a property in Sydney for £400,000 which he purchased with £300,000 foreign dividend income from 2015-16. He hadn’t made a designation on this amount. Johannes deposits the sale proceeds into his overseas bank account.
+
+Johannes decides to designate £200,000 of the foreign dividend income from 2015-16 now he can remit it to the UK, which he does in his 2026-27 tax return, paying the TRF charge on the £200,000. He is also taxed on his £100,000 gain arising on the Sydney property in the 2026-27 tax year.
+
+On 6 April 2027 his mixed fund comprises, in the priority order of remittances:
+
+- £300,000 TRF capital
+
+- £95,000 taxed foreign dividend from 2026-27
+
+- £100,000 taxed foreign gain from 2026-27
+
+- £100,000 foreign dividend income from 2015-16 (deriving from the Sydney property)
+
+- £50,000 foreign employment income from 2013-14
+
+When Johannes remits any amounts to the UK from his overseas account they will be treated as comprising TRF capital in priority to any other income or capital.

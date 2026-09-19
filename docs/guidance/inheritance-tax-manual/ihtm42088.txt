@@ -1,0 +1,124 @@
+Ten year anniversary: Tax calculation: the rate of tax: Step 4: relief for assets that have been relevant property for less than the full 10 years
+Identifier: IHTM42088
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42088
+Published: 2016-04-09T10:23:53+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:09:27.144760+00:00
+
+Relief against the rate of Inheritance Tax (IHT) calculated at step 3 is available in cases where some of the relevant property subject to the charge to IHT on the anniversary has not been relevant property for the full ten years.
+
+This situation arises if in the ten-year period
+
+-
+
+new property has been added to the trust by the settlor
+
+-
+
+income of the trust has been accumulated by the trustees
+
+-
+
+some of the property in the trust that was non-relevant property has become relevant property because the trusts have changed or because the settlor has become long-term UK resident. (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000#))
+
+The initial rate of IHT will be reduced to reflect the time that property in question was not relevant property. For this purpose, the ten year period is divided into 40 quarter years. So, if some of the property at the anniversary has only been in the settlement for 5 years (20 quarter years) then the rate on that property will be half (20/40ths) of the initial rate.
+
+This can be straightforward to apply if the added property is clearly identifiable.
+
+Example 1
+
+-
+
+Jane gifted £500,000 to trustees on 2 January 2010 having made no previous gifts or trusts.
+
+-
+
+On the 1 June 2018 she added a painting worth £100,000.
+
+-
+
+At the ten-year anniversary the total fund was valued at £750,000; the initial rate of IHT is 3.4% and the IHT before any rate relief is £25,500.
+
+-
+
+The value of the painting at that time was still £100,000.
+
+We know that the painting was not in the trust for 8 years and 1 (complete) quarter year, a total of 33 quarter years out of 40. So, we only charge 7/40ths of the initial rate.
+
+So, the final IHT after rate relief is £22,695:
+
+Painting £100,000 x 3.4% x 7/40 = £595
+
+Other £650,000 x 3.4%= £22,100
+
+But the relief can be tricky to apply in practice when the trust fund is merged or re-invested.
+
+Example 2
+
+-
+
+Jane gifted £500,000 to trustees on 2 January 2010 having made no previous gifts or trusts.
+
+-
+
+On the 1 June 2018 she added £100,000.
+
+-
+
+The trustees invested the contributions in quoted shares and the portfolio changed over time.
+
+-
+
+At the ten-year anniversary the total fund was valued at £750,000; the initial rate of IHT is 3.4% and the IHT is £25,500.
+
+In this case you do not necessarily know how much of the second transfer of £100,000 is reflected in the value of £750,000.
+
+A simple and acceptable solution is to establish the value of the fund prior to the addition and assume that the fund has grown evenly subsequently.
+
+If the value of the fund on 31 May 2018 was £600,000 then the total fund became £700,000 and that combined fund has grown by approximately 7% to £750,000 by the time of the anniversary.
+
+On that basis the final IHT after rate relief is £22,499:
+
+Added fund £107,000 x 3.4% x 7/40= £637
+
+Original fund £643,000 x 3.4%= £21,862
+
+There may be other ways to address the issue (which also arises when there are exit charges out of a merged fund). You should bear in mind the tax at risk and adopt a common-sense approach.
+
+IHTA84/S66(2) relief can arise in relation to a number of additions made during each ten-year period, and as inflation is bound to change the value of the capitalised sums it is necessary for trustees to keep good records, so that the ten-year anniversary value of each addition can be identified.
+
+Accumulations
+
+-
+
+Accumulations of income convert the income into capital at the date the accumulation is made (IHTM42162 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42162)). This is why they feature so often in claims for S66(2) relief.
+
+-
+
+It is the responsibility of the taxpayer to claim any uplift between the addition and the ten-year anniversary value.
+
+-
+
+If there is no power of accumulation, either because the power has expired or never existed, then subsequent income does not convert to capital and the income is not within the TYA charge. In these circumstances the relief is not required.
+
+Example
+
+Assume that £100,000 of the £1,000,000 relevant property in example 2 of IHTM42087 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42087) was an accumulation of income which became capital on 20 December 2001. That part of the trust had not been relevant property for 23 complete successive quarters out of the 40 since the trust commenced.
+
+The relief against the full chargeable value of £56,620 is
+
+£100,000 x settlement rate of 5.662% | x 23/40 (quarters not relevant property) | = £56,620 - £3,255.65 | = £53.364.35 Tax to pay |
+
+Example
+
+-
+
+Donna settled foreign property in a settlement in the first quarter of Year One when she was not long-term UK resident. The property in the settlement is excluded property (IHTM04251 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04251)) and therefore is not relevant property.
+
+-
+
+In the third quarter of Year Six, Donna becomes long-term UK resident. At this point the property in the settlement ceases to be excluded property and therefore becomes relevant property.
+
+-
+
+At the ten-year anniversary the property in the settlement has been relevant property for 17 complete quarters. The rate at which tax will be charged is 17/40 of the original rate.

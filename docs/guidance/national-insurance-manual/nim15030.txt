@@ -1,0 +1,36 @@
+Class 1A National Insurance contributions: Calculating Class 1A NICs: Calculating the total amount of Class 1A NICs due in a tax year: Example
+Identifier: NIM15030
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim15030
+Published: 2016-04-11T17:30:28+01:00
+Updated: 2022-02-03T10:52:14+00:00
+Retrieved (UTC): 2026-09-18T15:15:35.765166+00:00
+
+NIM15010  (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim15010)explains how to calculate the amount of Class 1A NICs due. The example below illustrates how employers can calculate the liability.
+
+In the 2025 to 2026 tax year, an employer provides
+
+- 10 employees with cars available for private use, the cash equivalent of each is £6,000
+
+- 250 employees with private medical care, the cash equivalent of each is £300
+
+- 25 employees with vans available for private use, the cash equivalent of each is £500
+
+- 3 employees with interest free loans, the cash equivalent of each is £3,000.
+
+The employer reports each benefit on the individual employees’ P11Ds. The Class 1A NICs percentage rate for the 2025 to 2026 tax year is 15%.
+
+The Class 1A NICs payable by the employer are calculated as follows
+
+Number of employees | Cash equivalent of each benefit (£) | Total cash equivalent for all employees (£) |
+
+10 | 6000 | 60000 |
+
+250 | 300 | 75000 |
+
+25 | 500 | 12500 |
+
+3 | 3000 | 9000 |
+
+- | Total | 156,500 |
+
+Class 1A NICs due  | 15% of £156,500 | £23,475 |

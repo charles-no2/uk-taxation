@@ -1,0 +1,50 @@
+Artificial transactions in futures and options: example (this guidance applies to disposals of futures and options before 6 April 2013)
+Identifier: SAIM7030
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim7030
+Published: 2016-03-19T16:28:37+00:00
+Updated: 2022-05-05T12:44:38+01:00
+Retrieved (UTC): 2026-09-18T14:26:44.934620+00:00
+
+Example of an artificial transaction in futures and options
+
+Lisa is a wealthy individual who wants to invest a substantial sum of money, but wants the ‘interest’ on her investment to appear in capital form. She enters into the following four option contracts with a bank or other counterparty. This is known as ‘box spread device’. (See CFM13190 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm13190) for an explanation of options).
+
+Option 1
+
+She buys a call option over the FTSE100 index, with a strike of 2844.47. It can be exercised only on a specified day, in 12 months’ time. For each point that the FTSE100 is above 2844.47 at the exercise date, she will receive £7,500 - in other words, she buys 7,500 units of the option. She pays a premium of £1,687,500 for this option.
+
+If the FTSE100 is below 2844.47, she will of course not exercise the option.
+
+Option 2
+
+She sells to the counterparty 7,500 units of a put option over the FTSE100 index, with a strike of 2844.47, exercisable in 12 months’ time. She receives a premium of £1,125,000.
+
+If the FTSE100 falls below 2844.47, the counterparty will exercise its option and Lisa will pay £7,500 for every point by which the index is below 2844.47. If the index is above 2844.47, the option will lapse.
+
+Option 3
+
+She buys 7,500 units of a put option over the FTSE100, with a strike at 2950, exercisable in 12 months’ time. She pays £375,000 for this option.
+
+If the index falls below 2950, she will exercise the option and receive £7,500 for each point the index is below the strike. If the FTSE is above 2950 the option will lapse.
+
+Option 4
+
+She sells 7,500 units of a FTSE100 call option, with a strike at 2950, exercisable in 12 months’ time. She receives a premium of £187,500 for this option.
+
+If the FTSE100 falls below 2950, this option will lapse. Otherwise she must pay the counterparty £7,500 for each index point above 2950.
+
+If on the exercise date the FTSE100 index stands at 2750, say, option 1 and 4 will not be exercised. Under option 2, Lisa must pay the counterparty (2844.47 - 2750) x £7,500 = £708,525. But Lisa will exercise option 3, and receive (2950 - 2750) x £7,500 = £1,500,000.
+
+The same analysis can be performed for other values of the FTSE100 and some are shown in the table below (payments and receipts are shown in thousands of pounds, with payments in brackets). Lisa has paid out £750,000 at the start of the arrangement (the premiums she pays less those she receives) and always get back £791,475 - her original ‘principal’ plus a profit representing ‘interest’.
+
+FTSE100 |  Option 1 |  Option 2 |  Option 3 |  Option 4 |  Overall |
+
+2750 |  Lapses |  -708,525 |  1,500,000 |  Lapses |  791,475 |
+
+2900 |  416,475 |  Lapses |  375,000 |  Lapses |  791,475 |
+
+2950 |  791,475 |  Lapses |  Lapses |  Lapses |  791,475 |
+
+3000 |  1,166,475 |  Lapses |  Lapses |  -375,000 |  791,475 |
+
+The return on the investment will always be £41,475, which in this example is 5.53%. In practice, when schemes of this type were seen, the actual return to the avoider was slightly lower than the rate for a conventional term deposit, reflecting the product designer’s fee.

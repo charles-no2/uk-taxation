@@ -1,0 +1,162 @@
+Shares and securities: employee share schemes: employment-related securities: clogging example
+Identifier: CG56348
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56348
+Published: 2016-03-12T11:39:21+00:00
+Updated: 2026-02-23T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:43:26.358158+00:00
+
+If the employee holds both restricted shares (see CG56342 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56342)), and other shares of the same kind, when the restrictions are removed the two holdings form a single pool for the purposes of calculating any gain or loss on any subsequent disposal or part-disposal. If restrictions are lifted from some but not all of the shares these shares generally leave the restricted pool to join the unrestricted pool at the average cost of the shares in the restricted pool (see CG56750 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56750)).
+
+Example: clogging – restricted shares joining the unrestricted pool
+
+An employee of Company B holds the following £1 ordinary shares in Company B
+
+-
+
+shares acquired under an unapproved employee share scheme that cannot be sold for 2 years from the date of acquisition
+
+-
+
+400 acquired on 1 June 2010 paying the market value of the restricted shares, £4 each giving a pool of actual qualifying expenditure of £1,600
+
+-
+
+500 acquired on 1 July 2011 paying the market value of the restricted shares, £5 each increasing the pool actual qualifying expenditure by £2,500 to £4,100
+
+-
+
+other unrestricted shares of the same kind
+
+-
+
+600 acquired on 1 October 2011 in the open market for £6 each giving a pool of actual qualifying expenditure of £3,600.
+
+The shares acquired under the unapproved employee share scheme are subject to restrictions for 2 years and are treated separately for that period.
+
+On 1 June 2012 the restriction on the 400 shares acquired on 1 June 2010 expires. The 400 shares are transferred to the unrestricted pool at the average cost of the shares in the restricted pool. 400 divided by the total number of shares in the pool, 900, multiplied by the expenditure £4,100, gives £1,823 to be transferred to the unrestricted pool.
+
+The following table shows the restricted pool calculation.
+
+Description
+
+|
+
+Number of Shares
+
+|
+
+Pool of actual qualifying expenditure
+
+|
+
+Restricted pool 1 June 2010
+
+|
+
+400
+
+|
+
+£1,600
+
+|
+
+Plus 1 July 2011 further acquisition
+
+|
+
+500
+
+|
+
+£2,500
+
+|
+
+Equals
+
+|
+
+900
+
+|
+
+£4,100
+
+|
+
+Less transfer to unrestricted pool 1 June 2012
+
+|
+
+400
+
+|
+
+£1,823
+
+|
+
+Equals restricted pool
+
+|
+
+500
+
+|
+
+£2,277
+
+|
+
+The following table show the unrestricted pool calculation.
+
+Description
+
+|
+
+Number of Shares
+
+|
+
+Pool of actual qualifying expenditure
+
+|
+
+Unrestricted pool 1 October 2011 Purchase
+
+|
+
+600
+
+|
+
+£3,600
+
+|
+
+Plus transfer from restricted pool 1 June 2012
+
+|
+
+400
+
+|
+
+£1,823
+
+|
+
+Equals unrestricted pool
+
+|
+
+1,000
+
+|
+
+£5,423
+
+|
+
+After the transfer A still holds two separate pools. The restricted pool consists of 500 shares and the unrestricted pool consists of 1,000 shares.

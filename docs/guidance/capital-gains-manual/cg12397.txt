@@ -1,0 +1,26 @@
+Options: market value rule: effect of TCGA92/144ZA: options exercised on or after 10 April 2003
+Identifier: CG12397
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12397
+Published: 2016-03-12T09:59:11+00:00
+Updated: 2021-03-31T08:20:22+01:00
+Retrieved (UTC): 2026-09-18T14:36:50.148409+00:00
+
+TCGA92/S144ZA
+
+TCGA92/S144ZA prescribes how the market value rule is to apply when an option is exercised on or after 10 April 2003. The date the option was granted or acquired is irrelevant.
+
+The disposal proceeds of the asset transferred on exercise of the option, and its acquisition cost to the other party, take into account both the amount received or given for grant or acquisition of the option, and the amount payable under the option on its exercise. The market value rule applies, if appropriate, to the amount for the grant or acquisition of the option (unless TCGA92/S149A provides otherwise, see CG56373 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56373)). But the second element, the amount payable when the option is exercised, is the actual amount paid or received under terms of the option.
+
+The person who exercises the option may have acquired it from the person granting it, or from a previous holder. In either case, the market value rule may apply to the grant or transfer (disposal and acquisition) of the option (see the examples at CG12398 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12398) and CG12399 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399) below).
+
+An employer may grant an employment-related securities option and enter into arrangements with an employee benefit trust such that, on exercising the option, the option holder acquires the securities from the trustees or possibly the majority shareholders. TCGA92/S144ZA provides that TCGA92/S17 (1) does not apply to either the disposal of the securities by the trustees or their acquisition by the person exercising the option. See also CG56321 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56321).
+
+For options exercised before 10 April 2003 see CG12396 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12396).
+
+TCGA92/S144ZB to 144ZD
+
+Following the introduction of section 144ZA tax avoidance schemes were devised using options exercised at uncommercial prices. Legislation countering such schemes is at S144ZB, S144ZC, and S144ZD and it is unlikely that you will in practice need to consider the detail of these anti-avoidance provisions. The following is brief overview.
+
+If a put option (see CG12301 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12301)) is exercised and the consideration received on exercising the option is less than the open market value of the asset disposed of, or if a call option is exercised and the consideration given on exercising the option is more than the open market value of the asset acquired, the exercise of the option is non-commercial. (See TCGA92/S144ZC.)
+
+If an option is exercised on or after 2 December 2004 and its exercise is non commercial within the terms of S144ZC, S144ZB provides an exception to the rule in S144ZA and the asset transferred on exercise of the option is deemed to be disposed of and acquired for its then market value. S144ZB does not apply if the option is a securities option, see S420(8) ITEPA03, or if S144ZD (alteration of value to obtain tax advantage) applies.

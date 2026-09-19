@@ -1,0 +1,38 @@
+Plant and Machinery Allowance (PMA): First Year Allowance (FYA): Full expensing and 50% allowance for special rate expenditure: Disposal of assets on which 50% FYA has been claimed – computing the balancing charge
+Identifier: CA23174AE
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23174ae
+Published: 2023-10-09T16:32:41+01:00
+Updated: 2023-10-09T16:32:34+01:00
+Retrieved (UTC): 2026-09-18T16:21:46.980992+00:00
+
+CAA01/S59B
+
+Where a disposal event occurs in respect of plant or machinery on which the 50% FYA has been claimed, a balancing charge arises for that disposal.
+
+The balancing charge arises in the accounting period in which the disposal event occurs. There is guidance on disposal events at CA23240 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240).
+
+The balancing charge is the ‘relevant proportion’ of the disposal value of the plant or machinery. The disposal value is determined in the normal way. There is guidance on disposal values at CA23250 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23250).
+
+Calculating the ‘relevant proportion’
+
+The relevant proportion is calculated by:
+
+- dividing the amount of expenditure on the plant or machinery in respect of which the 50% FYA has been claimed by two, and
+
+- dividing the result of that division by the total amount of expenditure on the plant or machinery in respect of which the 50% FYA or any other first-year allowance has been claimed or has been pooled for that or any other accounting period.
+
+Where the 50% FYA has been claimed for the full cost of the asset, the relevant proportion will be a half. Therefore, the balancing charge will be half of the disposal value.
+
+Total disposal receipts
+
+CAA01/S55 determines entitlement to a capital allowance, or liability to a balancing charge, in respect of a pool. As explained at CA23200 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23200), when determining that entitlement or liability the total disposal receipts (TDR) required to be brought into account are deducted from available qualifying expenditure (AQE). In order to ensure that disposal receipts which are subject to a balancing charge are not also deducted from AQE for the relevant pool to which the expenditure on which the 50% FYA has been claimed was allocated, TDR is reduced by the amount of the balancing charge.
+
+Example 1 – disposal where the 50% FYA is claimed in full
+
+On 12 November 2023, Buoyant Boats Ltd incurs £20m on a new ship with an expected useful economic life of 25 years (long-life expenditure). It claims the 50% FYA in respect of the full amount. In a subsequent accounting period, the company sells the asset for £16m. The relevant proportion is (20m ÷ 2) ÷ 20m = 0.5. Therefore, the amount of the balancing charge is 0.5 x £16m = £8m. The balancing charge is brought into account in the accounting period ending 31 December 2025. The residual disposal value of £8m not subject to a balancing charge is taken to the pool in the normal way.
+
+Example 2 – disposal where the 50% FYA is claimed in part
+
+On 1 September 2025, Buoyant Boats Ltd buys a larger ship with an expected useful economic life of 30 years for £40m (long-life expenditure). It claims the 50% FYA on £24m of the expenditure, which gives rise to a 50% FYA claim of £12m. It adds the balance of expenditure on which the 50% FYA has not been claimed of £16m to the special rate pool in the same accounting period (the accounting period ending 31 December 2025). It adds the balance of expenditure on which the 50% FYA has been claimed of £12m to the special rate pool in a subsequent accounting period (in this example, the accounting period ending 31 December 2026).
+
+On 28 January 2031, the company sells the ship for £10m to replace it with a new zero-CO2 emissions ship. The relevant proportion is (24m ÷ 2) ÷ 40m = 0.3. Therefore, the amount of the balancing charge is 0.3 x £10m = £3m. The remaining £7m of the £10m disposal value is taken to the special rate pool in the normal way, which may give rise to a further balancing charge in that pool.

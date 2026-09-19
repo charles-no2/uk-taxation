@@ -1,0 +1,170 @@
+Lifetime transfers: the charge to tax: the charge on lifetime transfers: late reported transfers
+Identifier: IHTM14595
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14595
+Published: 2016-04-09T09:20:25+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:58:03.885181+00:00
+
+Where tax is accepted as having been paid in full on a transfer, and an earlier transfer is discovered late, IHTA84/S264 modifies the way you apply the cumulation principle.
+
+It would obviously be unfair in such cases to revise calculations where the donees believe that the tax has been paid in full satisfaction. Instead, the additional tax payable on the later transfer is charged to the earlier (late declared) transfer, in addition to any tax directly due on that transfer.
+
+The later transfer can include a transfer on death.
+
+Tax paid in full
+
+The date at which tax is accepted in full satisfaction (within IHTA84/S240 (2)) is the later of
+
+-
+
+the date of the last payment, or
+
+-
+
+the date on which the tax or the last instalment became due.
+
+or, if no tax was chargeable because the later transfer was treated as made within the IHT nil rate band,
+
+-
+
+the date when the account of that transfer is delivered.
+
+Issue of a clearance certificate (IHTM40010 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm40010)) is not required.
+
+Discovery
+
+Discovery or reporting of the transfer takes place by
+
+-
+
+delivery of an account
+
+-
+
+compliance with an information notice (IHTM32191 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm32191)) or
+
+-
+
+the Board’s issue of a Notice of Determination (NOD) (IHTM37001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm37001)).
+
+Time limit
+
+The earlier transfer must not be more than ten years before the later transfer.
+
+No account for later transfer
+
+Where no account of the later transfer was required the account is treated as having been delivered. The date of satisfaction will be twelve months after the end of the month in which the transfer was made. The tax paid on the transfer is deemed to be nil.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14595#top)
+
+Exemptions
+
+Any allocation of a limited exemption (such as annual exemption (IHTM14141 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14141)) made in charging tax on a later transfer is not to be disturbed when the earlier transfer is discovered. The effect is that none of the annual exemption may be diverted from the later to the earlier transfer.
+
+This does not apply where:
+
+Before 6 April 2025
+
+-
+
+no tax was chargeable on the later gift, or
+
+-
+
+the exemption is unlimited, such as transfers to the domiciledspouse or civil partner (IHTM11032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11032)).
+
+After 6 April 2025
+
+-
+
+no tax was chargeable on the later gift, or
+
+-
+
+the exemption is unlimited, such as transfers to the long-term UK resident spouse or civil partner (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)).
+
+Interest on tax
+
+The special rule in these cases is that you charge interest
+
+-
+
+by reference only to the tax which would have been payable if the transfer had been reported at the proper time, up to a date six months after discovery of the transfer
+
+-
+
+and then by reference to the enhanced amount of tax for any later period.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14595#top)
+
+Two or more earlier transfers
+
+If the transfers are both discovered late,
+
+-
+
+the surcharge of underpaid tax on the later transfer is apportioned between the earlier transfers.
+
+If one transfer (the settled transfer) is discovered, tax and a surcharge levied on it which is accepted in full satisfaction, before discovery of the second earlier transfer
+
+-
+
+no further tax is to be charged on the settled transfer as a result of the later discovery, but
+
+-
+
+the tax then shown to be underpaid, less the amount already surcharged on the settled transfer, is to be charged on the later discovered transfer.
+
+Example
+
+Adam dies on 1 January 2010
+
+Adam’s death estate is £444,000. The account is delivered on time.
+
+Payment for tax of £47,600 is accepted in full satisfaction.
+
+An account for a lifetime transfer of £150,000 (after deduction of £6,000 annual exemptions) in Feb 2009 is delivered late.
+
+Tax directly on the Feb 2009 transfer = Nil
+
+Surcharge of additional tax due on the later transfer (death) is (£444,000 + £150,000 - £325,000 x 40% =) £107,600 - £47,600 tax paid = £60,000
+
+Total tax to pay on Feb 2009 transfer = £60,000
+
+Payment is accepted in full satisfaction.
+
+Two accounts are then received late for further lifetime transfers of
+
+-
+
+£200,000 in Dec 2008, and
+
+-
+
+£215,000 in Jan 2009
+
+The charge on the Feb 2009 transfer and death estate are undisturbed. The annual exemption remains allocated solely to the February 2009 transfer.
+
+-
+
+Tax directly on the Dec 2008 transfer is nil
+
+-
+
+Tax directly on the Jan 2009 transfer is £36,000
+
+You calculate the surcharge of additional tax on the later transfers as:
+
+Total tax due on Feb 2009 transfer and death estate = £237,600
+
+Less tax paid -£47,600
+
+Less previous surcharge -£60,000
+
+Tax due = £130,000
+
+This is apportioned:
+
+(£200,000 ÷£415,000) x £130,000 = £62,650 to the Dec 2008 transfer
+
+(£215,000 ÷ £415,000) x £130,000 = £67,350 to the Jan 2009 transfer, in addition to the £36,000 tax.

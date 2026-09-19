@@ -1,0 +1,20 @@
+Step 4 - four stage grossing calculations: stage 3
+Identifier: IHTM26155
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26155
+Published: 2016-04-09T09:48:17+01:00
+Updated: 2022-02-07T12:50:11+00:00
+Retrieved (UTC): 2026-09-18T15:03:14.453876+00:00
+
+Continuing using the lettering of paragraphs started at IHTM26154 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26154), the procedure for the third stage (IHTM26152 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26152)) (re-grossing the tax-free specific gifts) is as follows:
+
+G: Calculate the tax on the chargeable estate arrived at in paragraph F of IHTM26154 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26154)
+
+- taking account of the nil-rate band and any lifetime cumulative total (IHTM14501), but
+
+- ignoring any property chargeable at a separate title (IHTM26211 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26211))
+
+H: Find the value of the chargeable estate net of tax by deducting the tax at G from the value at F.
+
+I: Re-gross the specific gifts not bearing their own tax using the formula
+
+Value of specific gift not bearing their own tax (at their original value as reduced by interaction (IHTM26101)) × (Gross value of chargeable estate (from F at IHTM26154 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26154)) ÷ Value of chargeable estate net of tax (from H))

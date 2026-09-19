@@ -1,0 +1,72 @@
+Annual allowance: pension input amounts: defined benefits arrangements: worked examples: actuarial reduction for early payment and adjustment for BCE
+Identifier: PTM053340
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053340
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-01T19:36:23+00:00
+Retrieved (UTC): 2026-09-18T14:50:42.079295+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Note – for tax year 2015-16 there are transitional rules for calculating pension input amounts. PTM058070 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070) has more details.
+
+Sarah has an arrangement in a defined benefit scheme where she accrues a 60th benefit for each year of service and has a normal pension age of 65.
+
+At the start of the pension input period Sarah has 19 years’ service and her final pensionable salary is £80,000.
+
+Sarah’s opening value is calculated as:
+
+find amount of annual pension
+
+19/60 x £80,000 = £25,333
+
+multiply annual rate of pension by flat factor of 16
+
+£25,333 x 16 = £405,333
+
+add amount of separate lump sum
+
+there is no separate lump sum = £405,333
+
+increase by CPI (for the purpose of this example, 3%)
+
+£405,333 x 1.03 = £417,492.99.
+
+Sarah’s opening value is £417,492.99.
+
+Before the end of the pension input period Sarah is due to leave service and would have an automatic right to a deferred pension. Instead, she asks to take immediate early retirement at age 64, with 20 years of service. The employer consents and the scheme applies its current reduction factor for early retirement of 0.96 to Sarah’s pension (that is, a 4% reduction for each year she has taken benefits prior to age 65).
+
+Sarah’s final pensionable salary at retirement is £90,000 and so her pension entitlement before considering any options is actually 20/60 x £90,000 x 0.96 = £28,800.
+
+The scheme allows members to opt at retirement to give up some pension entitlement instead for a lump sum (a pension commencement lump sum). Sarah elects to commute £4,000pa of her pension and, using the scheme’s commutation factor of 17:1, the scheme grants her a lump sum of £68,000 and a residual pension of £24,800.
+
+Without the closing value adjustment, Sarah’s closing value for the pension input period would be nil because Sarah has become entitled to all of her benefits under her arrangement (that is, she has no uncrystallised benefits under her arrangement).
+
+However, there is an adjustment to the closing value because there has been a BCE 2.
+
+The adjustment is based on the actual rate of annual pension that was crystallised (that is, recognised in the BCE 2) but the pension reduction arising from the commutation for lump sum is added back as well.
+
+The lump sum arising from the commutation of pension is a BCE 6 but this BCE does not trigger any adjustment to the closing value because it has arisen from commutation of pension.
+
+(If a lump sum had been paid that did not arise from commutation of pension entitlement but, instead, was a pre-existing right, the amount of the lump sum would also have to be added to the closing value.)
+
+Sarah’s closing value is calculated using the actual pension but unwinding any commutation.
+
+Sarah’s closing value is calculated as:
+
+find amount of annual pension (that is, actual pension plus commuted pension)
+
+20/60 x £90,000 x 0.96 = £28,800
+
+multiply annual rate of pension by flat factor of 16
+
+£28,800 x 16 = £460,800
+
+add amount of separate lump sum
+
+there is no separate lump sum = £460,800.
+
+Sarah’s closing value is £460,800.
+
+So, Sarah’s pension input amount for the pension input period for this arrangement is:
+
+£460,800 - £417,492.99 = £43,307.01.

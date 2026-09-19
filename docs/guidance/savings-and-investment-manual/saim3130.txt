@@ -1,0 +1,40 @@
+Deeply discounted securities: strips of government securities
+Identifier: SAIM3130
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3130
+Published: 2016-03-19T16:25:29+00:00
+Updated: 2020-02-05T09:56:37+00:00
+Retrieved (UTC): 2026-09-18T14:26:18.074543+00:00
+
+‘Gilt strips’: introduction
+
+‘Strips’ are instruments created by the separation or ‘stripping’ of a standard interest-bearing bond into its constituent interest and principal payments, so that they can be separately held or traded. The right to each payment of interest (the interest ‘coupons’) at separate future dates during the life of the bond, and right to payment of the underlying principal at maturity of the bond can be bought and sold as separate financial instruments. Each such ‘strip’ is equivalent to a zero coupon (that is, a non interest-bearing) bond. The cash flows on the bundle of zero coupon strips are identical to the cash flows on the original unstripped bond.
+
+Such strips may be of UK government securities (known as ‘gilt strips’), and of non-UK government securities. A gilt can be reconstituted from its component strips.
+
+CFM37150 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm37150) onwards has more on gilt strips.
+
+Example
+
+A 10-year bond paying interest every 6 months could be stripped into 21 ‘stripped’ bonds - one for each interest period plus the principal. Because interest is not payable on the stripped bonds they are all issued at a discount. The discount increases the longer the time until the redemption amount is receivable. Thus the discount on the first interest strip is less than that on the second and so on.
+
+Strips are deeply discounted securities
+
+Bond stripping could result in tax deferral. The discount in the early years is small. Instead of taxing the interest payable twice yearly, tax would only be charged on the profits made on the two stripped bonds which are redeemed each year. For the avoidance of any doubt, ITTOIA05/S443 provides that all strips are deeply discounted securities.
+
+ITTOIA05/S444 defines strips to include gilt strips, and strips of non-UK government securities acquired on or after 27 March 2003, which meet three conditions. These conditions essentially define the key components of strips, that they consist of the right to the payment of interest or principal, and that these are consolidated into a single security, which is not itself the underlying security.
+
+Taxation of government strips
+
+ITTOIA05/S445 treats a non-corporate holder of a strip as having paid an issue price that is in direct proportion to the market value of the gilt from which the strips were created. When strips are consolidated into a single security, the holder of the strip is treated as receiving its market value at the time of the consolidation.
+
+The holder is then deemed to dispose of all unredeemed strips at each 5 April at market value, and immediately reacquire them at the same value. They are then taxed on the excess over the previous 5 April value, or more recent acquisition cost. This profit is calculated with no deduction for incidental expenses. The normal rules that determine the time at which transfers take place in ITTOIA05/S438 (see SAIM3070 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3070)) do not apply.
+
+Thus for each tax year the holder is charged to tax on
+
+- the profit on deemed 5 April disposals, as above, plus
+
+- the profit on actual disposals and redemptions of the year.
+
+See SAIM3140 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3140) for the treatment of losses on strips.
+
+The Gilt Edged Market Makers Association daily reference prices for gilts, including gilt strips, from 12 July 1996 onwards are available on the United Kingdom Debt Management Office web-site ().

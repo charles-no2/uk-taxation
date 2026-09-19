@@ -1,0 +1,64 @@
+Deductions: premiums paid: payer sublets without receiving a premium
+Identifier: PIM2240
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim2240
+Published: 2016-04-10T16:24:56+01:00
+Updated: 2020-06-26T10:06:48+01:00
+Retrieved (UTC): 2026-09-18T14:28:37.651434+00:00
+
+ITTOIA05/S292 and CTA09/S232
+
+Calculating the relief due
+
+There are two steps to working out how much relief is due.
+
+1) Work out the chargeable amount of the premium
+
+The chargeable amount of the premium must be calculated - that is the amount of the premium on which the superior landlord is taxed (or would be if he were chargeable). You need to know the amount of the premium and the length of the lease. The calculation is described in PIM1205 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1205).
+
+2) Spread the chargeable amount over the period of the sublease
+
+The chargeable amount is treated as if it were rent for the property (in addition to any actual rent) which becomes due from day to day throughout the period of the head lease. This will be a deduction in computing the property business profit if the property is let or otherwise used for the purposes of the property business.
+
+For example, the taxpayer gets a deduction of £1,000 a year for notional rent if the premium chargeable on their landlord as rental income is £10,000 and their lease lasts ten years in all.
+
+A notional rental deduction for a premium paid to the landlord is due to the current tenant under the head lease even if a different tenant under the head lease paid the premium to the landlord (or even to a previous landlord who granted the head lease). The notional rental deduction is set against the rent that the current tenant is due to receive under the sublease he or she granted (or took over). A landlord can’t claim relief for a lump sum (even if called a ‘premium’) they paid to a previous tenant to take over his or her lease (an assignment).
+
+Relief is based on the premium that was paid (if any) to the landlord for the grant of the lease in the first place (this is referred to in the legislation as the ‘taxed receipt’.
+
+The notional rental payment allowed as a deduction is split on a reasonable basis where the tenant only sublets part of the property for which the premium was paid. Professional valuation advice on the split may be needed in sizeable or difficult cases.
+
+Example: relief for premium paid where no premium received
+
+On 25 April 2010 Theophilus, the owner of Tower Farm, grants Richard a lease of the whole property for 21 years. Richard has to pay Theophilus, his landlord, a premium of £20,000 and a rent of £4,000 a year.
+
+Theophilus is chargeable up front on premium income of £12,000. This is calculated using the formula in PIM1205 Theophilus is also chargeable on the rent of £4,000 a year.
+
+Richard sublets Tower Farm to Bhaskar for a rent of £7,000 a year. So we have:
+
+-
+
+Theophilus, the owner of the freehold of Tower Farm; he lets to
+
+-
+
+Richard, the lessee; he sublets to
+
+-
+
+Bhaskar, the sub-lessee who actually occupies and farms Tower Farm.
+
+Richard is taxable on the rent of £7,000 a year he gets from Bhaskar. He can deduct each year both the annual rent of £4,000 he pays to Theophilus, his landlord, and an extra amount of notional rent of £571 each year. This extra deduction is found by dividing the amount of £12,000 chargeable on Theophilus by 21 years, which is the length of Richard’s lease of Tower Farm.
+
+Richard and his successors in the tenancy under the head lease of Tower Farm can, therefore, deduct £4,571 each year in computing their profits or losses arising in their property businesses.
+
+A reasonable restriction in the premium relief deduction due must be made where the property is only partly used for business purposes - just as it must be made for any other expense. For example, suppose Richard (or his successor in title) occupies half of Tower Farm for private use and half is sublet. Here the amount deductible from the profits from the part sublet is half the total where the value of each half is the same. Professional valuation advice may be needed to determine what part, if any, of a premium relates to the let property.
+
+Part only of premises sublet
+
+It is possible that the intermediate landlord pays a premium for premises and only sublets part of the premises. For example he may pay a premium for a house, live in one part of it himself and let out another part.
+
+This is covered in ITTOIA05/S294 and CTA09/S234. In this case the amount relieved under ITTOIA05/S292 or CTA09/S232 is an appropriate fraction only of the 'taxed receipt'. The fraction is that attributable to the part of the premises concerned, on a 'just apportionment' (ITTOIA05/289 and CTA09/S229).
+
+Successors in title
+
+The relief is available to the intermediate landlord/tenant for the time being. If part way through the term of a lease, a taxpayer assigned his or her interest in the property, the new lessee would then get the relief under ITTOIA05/S292 or CTA09/S232.

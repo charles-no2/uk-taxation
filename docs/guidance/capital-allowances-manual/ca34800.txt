@@ -1,0 +1,18 @@
+IBA: writing down allowances: residue of qualifying expenditure
+Identifier: CA34800
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca34800
+Published: 2016-04-16T08:58:20+01:00
+Updated: 2016-04-06T16:57:35+01:00
+Retrieved (UTC): 2026-09-18T16:21:20.164234+00:00
+
+Budget 2007 announced a business tax reform package including the gradual withdrawal of IBAs and ABAs over four years. Legislation was introduced in FA08 to give effect to those changes. The phased withdrawal of IBA writing down allowances had effect for chargeable periods ending on or after 1 April 2008 for businesses within the charge to CT and 6 April 2008 for businesses within the charge to IT. There are no IBA writing down allowances for the financial year beginning on 1 April 2011 and subsequent years.
+
+CAA01/S313
+
+Sometimes you need to know whether expenditure has been written off. For example, the WDA for a chargeable period cannot exceed the residue of qualifying expenditure of expenditure at the beginning of that chargeable period. The residue of qualifying expenditure at any time is the qualifying expenditure that has not yet been written off at that time. You calculate it like this.
+
+Start with the person’s qualifying expenditure. Deduct all the allowances (both initial and writing down) made to the person. If there has been a time after the building was brought into use when the building was not an industrial building deduct an amount called a notional allowance equal to the WDA which could have been made if the building had been an industrial building. For example, if the building had been used as something other than an industrial building for 18 months, deduct an amount equal to 18/12 of the annual WDA. Where there is a transfer of the relevant interest, work out the residue of qualifying expenditure before the transfer. You calculate the residue of qualifying expenditure after the transfer by deducting any balancing allowance or adding any balancing charge to the residue of qualifying expenditure before transfer. This gives you the buyer’s expenditure on which allowances are given.
+
+Example Bob builds a warehouse for £1 million and brings it into use as an industrial building. The annual writing down allowance is £40,000 (= 4% x £1 million). He claims writing down allowances for 3 years but then decides to use it as a nightclub so IBA stops. A year later he gets bored with the nightclub business and sells the building to Bruce for £1.1 million. This is how you calculate the residue of qualifying expenditure after the sale.
+
+Deduct the writing down allowances that Bob has claimed, £120,000 (= 3 x £40,000), and a notional writing down allowance for the year when the building was used as a nightclub, £40,000, from the qualifying expenditure of £1,000,000. This gives a residue of qualifying expenditure before sale of £840,000 (= £1,000,000 - £120,000, allowances claimed, - £40,000, notional allowance). There is a balancing charge restricted to the allowances made, £120,000. This means that the residue of qualifying expenditure after sale is £960,000 (= residue before sale £840,000 + £120,000, balancing charge) and this is the expenditure on which Bruce can claim IBA.

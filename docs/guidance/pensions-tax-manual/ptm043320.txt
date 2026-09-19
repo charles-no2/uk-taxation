@@ -1,0 +1,380 @@
+Contributions: tax relief for employers: asset backed contributions: asset-backed contributions paid on or after 22 February 2012
+Identifier: PTM043320
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2015-12-13T14:03:32+00:00
+Retrieved (UTC): 2026-09-18T14:50:37.802722+00:00
+
+| Glossary | PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001) | |———-|————————————————————————————-|
+
+Asset-backed contributions paid on or after 22 February 2012 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#IDAGUKGG)
+Simple asset-backed contribution arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#IDAMPVFG)
+Complex asset-backed contribution arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#IDADIVFG)
+Complex asset-backed contribution arrangement involving a new partnership (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#IDA3IVFG)
+Complex asset-backed contribution arrangement using an existing partnership (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#IDASIVFG)
+Complex asset-backed contribution arrangements: meaning of “relevant change” in relation to a partnership (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#IDA5RUFG)
+Meaning of acceptable structured finance arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#IDARTUFG)
+Consequence of the arrangement being an acceptable structured finance arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#IDAVGUFG)
+Consequence of the arrangement not being an acceptable structured finance arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#IDA1GUFG)
+Acceptable structured finance arrangements: changes from the lender’s original position (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#IDAMHUFG)
+Acceptable structured finance arrangements: changes from the employer’s original position (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#IDAWAUFG)
+Excluded changes (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#IDA1AUFG)
+Impact of a change or event (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#IDAHIUFG)
+
+Asset-backed contributions paid on or after 22 February 2012
+
+Part 3 Schedule 13 Finance Act 2012
+
+The legislation identifies three forms of asset-backed contribution arrangements that mirror the three types of finance arrangement referred to in the structured finance arrangement legislation. The three types of asset-backed contribution identified are:
+
+- simple asset-backed contribution arrangement (Section 196B)
+
+- complex asset-backed contribution arrangement involving a new partnership (Section 196D)
+
+- complex asset-backed contribution arrangement using an existing partnership (Section 196F).
+
+Simple asset-backed contribution arrangement
+
+Section 196B Part 3 Schedule 13 Finance Act 2012
+
+Section 196B states that an employer will not be given relief for a contribution where Conditions A, B and C are met.
+
+Condition A is that under the asset-backed arrangement:
+
+- a person (“the borrower”) receives in any period money (or some other asset, called the “advance”) from another person (“the lender”);
+
+- the borrower, or a person connected with the borrower, disposes of an asset (referred to in the legislation as “the security”) to or for the benefit of the lender, or to a person connected with the lender;
+
+- as a result of that transfer the lender is entitled to receive payments in respect of the security;
+
+- the borrower is the employer or a person connected with the employer, and
+
+- the advance is (wholly or partly) paid or provided by the lender out of the employer’s contribution (directly or indirectly).
+
+Condition B is that the asset-backed arrangement is not an acceptable structured finance arrangement. Note that this condition is written in the negative. If an arrangement is an acceptable structured finance arrangement then Condition B will not be met. This means that the legislation will not operate to deny relief to the employer for the contribution paid to the registered pension scheme.
+
+Condition C is that it is reasonable to suppose that one or more of the payments referred to in Condition A is calculated on the basis that all or some of the advance represents a loan that is to be repaid by these payments. For the purposes of this test, it does not matter whether the accounts of any person have recorded a financial liability.
+
+Example
+
+An employer agrees to contribute £18m to a pension scheme and negotiates with the pension scheme trustees to achieve this via an asset-backed arrangement. The following steps occur:
+
+- The employer enters into a legally binding debt obligation to make a contribution of £18m to the pension scheme
+
+- The pension scheme agrees to acquire a property interest from the employer. The property has a predicted income stream of £1.5m per year and the terms of the agreement will see the property interest revert to the employer after 15 years. The pension scheme values this interest at £18m
+
+- An agreement is entered into to offset the sum due for the acquisition of the property interest against the sum due as a pension contribution from the employer. The effective date of this agreement reflects the date the contribution is paid.
+
+In this scenario, it can be seen that the employer receives £18m from the pension scheme for the disposal of the property and that this £18m was financed by the employer’s contribution to the pension scheme. As a result of the transaction, the pension scheme will now receive payments in respect of the security (i.e. the property). The pension scheme is only entitled to these payments for the 15 year term - at which point the property will revert to the employer. It is reasonable to assume that the rental payments on the property are intended to pay back the £18m. So the availability of upfront relief for the £18m contribution paid depends on whether or not Condition B is met (i.e. whether the arrangement is an acceptable structured finance arrangement).
+
+It is not intended that outright disposals of property should generally be caught by these rules. For example, in the scenario above, if the pension scheme has acquired the freehold of the property and happens to lease it back to the employer this might not fall within Condition A. However, if the terms of the lease were pre-agreed such that the value of the interest did seem to rely on a time-limited income stream then Conditions A and C could apply.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#Top)
+
+Complex asset-backed contribution arrangement
+
+Sections 196D and 196F Part 3 Schedule 13 Finance Act 2012
+
+In a complex asset-backed arrangement, instead of disposing of the asset directly to the pension scheme, the employer transfers it to a partnership of which it is a member. The pension scheme will then join the partnership by making a capital contribution in return for the right to receive profits from the partnership over an agreed period. At the end of that period, all of the rights to receive partnership profits will revert to the employer, who may at that stage be able to buy out the pension scheme’s interest.
+
+In these types of arrangements, the lender’s ‘loan’ is made in the form of a contribution to the partnership and its profit share is designed to repay that contribution together with interest. Once the repayment with interest has been made the lender will cease to be a member of the partnership or to share in the profits of it.
+
+The pension contribution itself could be structured in a number of ways:
+
+- A straightforward cash contribution could be paid to the pension scheme on the understanding that it be used to buy the partnership interest.
+
+- The employer could be one of two or more partners in the original partnership. The employer could then dispose of its partnership interest to the scheme as part of an offset transaction.
+
+- An offset transaction involving the pension scheme, employer and partnership could be used to achieve the monetary pension contribution.
+
+There are two variants of this complex model. The first variant sees a new partnership being created specifically to enable the asset-backed contribution to be effected. The second variant utilises a pre-existing partnership and income stream where the existing members of the partnership are already sharing the profits attributable to that asset. Then either:
+
+- a new member (the pension scheme) joins the partnership and takes a share in those profits in return for a capital contribution that is in substance a loan, or
+
+- an existing partner takes an increased share in the profits in return for a capital contribution that is in substance a loan.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#Top)
+
+Complex asset-backed contribution arrangement involving a new partnership
+
+Section 196D Part 3 Schedule 13 Finance Act 2012
+
+Section 196D states that an employer will not be given relief for a contribution where Conditions A and B are met.
+
+Condition A is that under the asset-backed arrangement:
+
+- a person (“the transferor”) makes a disposal of an asset to a partnership,
+
+- the transferor is the employer, or a person connected with the employer,
+
+- the transferor, or a person connected with the transferor, is a member of the partnership immediately after the disposal. It does not matter whether or not the transferor (or connected person) was a member of the partnership before the disposal,
+
+- the partnership receives money or another asset (“the advance”) from a person (“the lender”) other than the transferor,
+
+- the advance is (wholly or partly) paid or provided by the lender out of the employer’s contribution (whether directly or indirectly),
+
+- there is a “relevant change” in relation to the partnership, and
+
+- the share in the partnership’s profits of the person involved in the relevant change is determined by reference (wholly or partly) to payments in respect of the security.
+
+Condition B is that the asset-backed arrangement is not an acceptable structured finance arrangement. Note that this condition is written in the negative. If an arrangement is an acceptable structured finance arrangement then Condition B will not be met. This means that the legislation will not operate to deny relief to the employer for the contribution paid to the registered pension scheme.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#Top)
+
+Complex asset-backed contribution arrangement using an existing partnership
+
+Section 196F Part 3 Schedule 13 Finance Act 2012
+
+Section 196F states that an employer will not be given relief for a contribution where Conditions A and B are met.
+
+Condition A is that:
+
+- a partnership holds an asset (“the security”) at any time before the asset-backed arrangement is made,
+
+- under the asset-backed arrangement, the partnership receives money or another asset (“the advance”) from another person (“the lender”),
+
+- the advance is (wholly or partly) paid by the lender out of the employer’s contribution (whether directly or indirectly),
+
+- there is a “relevant change” in relation to the partnership, and
+
+- under the asset-backed arrangement, the share in the partnership’s profits of the person involved in the relevant change is determined by reference (wholly or partly) to payments in respect of the security.
+
+Condition B is that the asset-backed arrangement is not an acceptable structured finance arrangement. Note that this condition is written in the negative. If an arrangement is an acceptable structured finance arrangement then Condition B will not be met. This means that the legislation will not operate to deny relief to the employer for the contribution paid to the registered pension scheme.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#Top)
+
+Complex asset-backed contribution arrangements: meaning of “relevant change” in relation to a partnership
+
+Section 196H Part 3 Schedule 13 Finance Act 2012
+
+There is a relevant change in relation to a partnership if either Condition X or Condition Y is met.
+
+Condition X is that the lender (i.e. the pension scheme) or a person connected with the lender becomes a member of the partnership in connection with the asset-backed arrangement.
+
+Condition Y is that there is a change in a member’s share in the partnership’s profits and the member is the lender (i.e. the pension scheme) or a person connected with the lender.
+
+The timing of this change in relation to the contribution being paid is not relevant. The key aspect is that the change occurs as a consequence of, or in connection with, the asset-backed arrangement.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#Top)
+
+Meaning of acceptable structured finance arrangement
+
+Sections 196C, 196E and 196G Part 3 Schedule 13 Finance Act 2012
+
+In order to be considered “acceptable”, an arrangement must meet Conditions M to Q.
+
+Condition M
+
+Condition M is that:
+
+- in accordance with generally accepted accounting practice, the borrower’s accounts record a financial liability in respect of the advance. This liability should be recorded in the accounts in the period in which the advance is received.
+
+- the asset-backed arrangement should be a structured finance arrangement for the purposes of Chapter 5B of Part 13 Income Tax Act 2007, or Chapter 2 of Part 16 Corporation Tax Act 2010. Specifically:
+
+- a simple asset-backed contribution arrangement should be a type 1 finance arrangement
+
+- a complex asset-backed contribution arrangement involving a new partnership should be a type 2 finance arrangement, and
+
+- a complex asset-backed contribution arrangement using an existing partnership should be a type 3 finance arrangement.
+
+Guidance on the three types of finance arrangement can be found in the Corporate Finance Manual at CFM73000 (External user please use http://www.hmrc.gov.uk/manuals/cfmmanual/CFM73000.htm (http://www.hmrc.gov.uk/manuals/cfmmanual/CFM73000.htm).)
+
+Condition N
+
+Condition N is that:
+
+- the lender is a responsible authority,
+
+- the advance should be paid by the lender directly to the borrower (which will be the partnership in complex arrangements) entirely out of the employer’s contributions,
+
+- both the advance and the recorded financial liability at the outset should be of an amount equal to the employer’s contribution.
+
+This condition aims to identify arrangements where the pension scheme is lending the money. Often in these arrangements, the pension scheme‘s interest is held by a person in their capacity of acting for the pension scheme (e.g. Company X Pension Trustees Ltd might be the named member of the partnership).
+
+The term ‘responsible authority’ is defined as being the trustees of the pension scheme or the person managing the pension scheme. This is to recognise that they are representing the pension scheme’s interest in the arrangement.
+
+When these types of pension funding arrangements are put in place, they usually form part of a larger pension funding strategy. So there may be other payments being made by the employer to the pension scheme in any period that do not form part of the asset-backed arrangement (e.g. a one-off lump sum payment). The second and third points of Condition N refer only to sums that relate to the asset-backed arrangement. The condition is not failed simply because the employer has made other pension contributions in the period that are not reflected in the recorded financial liability.
+
+Condition O
+
+Condition O depends on whether the arrangement is simple or complex.
+
+In a simple arrangement, Condition O is that at the time the advance is paid:
+
+- it is the lender who is entitled to any payments referred to in Condition A
+
+- the payments should arise at times which have been fixed and fall at intervals of no more than one year. The first payment should arise no later than one year after the advance is paid
+
+- the payments should be received within 3 months of the date they arise
+
+- each payment should, on receipt by the lender, become part of the sums held for the purposes of the registered pension scheme
+
+- the payments are all to be of the same amount
+
+- the total amount of the payments is not to be less that the amount of the employer’s contribution to the pension scheme, and
+
+- the payments should all be expected to be received by the lender within 25 years of the date on which the employer’s contribution is paid.
+
+In a complex arrangement, Condition O is that at the time the advance is paid:
+
+- it is the lender who is, or is to be, the person involved in the relevant change in relation to the partnership
+
+- the lender’s share in the partnership profits is determined wholly by reference to the payments mentioned in Condition A
+
+- determinations of the lender’s share in the partnership’s profits are to be made at times which have been fixed and fall at intervals of no more than one year. The first determination should be made no later than one year after the day the advance is paid
+
+- the lender should make a drawing from the partnership on account of its determined share within 3 months of the date on which the determination is made
+
+- each drawing should, on its being made, become part of the sums held for the purposes of the registered pension scheme
+
+- the drawings are all to be of the same amount
+
+- the total amount of the drawings is not to be less than the amount of the employer’s contribution, and
+
+- all of the lender’s share in the partnership’s profits should be expected to be drawn within 25 years of the date on which the employer’s contribution is paid.
+
+Condition O is prescriptive about the terms of the arrangement as viewed at the outset. If upfront relief for the contribution is to be available to the employer, then the arrangement needs to be clear as to what the pension scheme will derive from the arrangement. Condition O looks for evidence that there will be a steady flow of income to the pension scheme over the term of the arrangement. It is not considered acceptable to allow the employer to claim upfront relief if the flow of money to the pension scheme is loaded towards the end of the term of the arrangement, or is contingent on other factors. As Condition O stipulates, to be an acceptable structured finance arrangement, it is not sufficient for the pension scheme to have an entitlement to receive payments (the share in partnership profits) from the arrangement; the pension scheme actually needs to take the payments as drawings out of the structure used in the arrangement.
+
+There is a small amount of flexibility built in to Condition O:
+
+- where a payment date meets the requirements of the condition, but is adjusted to recognise a non-working day, this is acceptable
+
+- it is acceptable for there to be negligible differences in the amounts of payments (drawings) that are made. ‘Negligible’ is not defined in the legislation, but is intended to allow for rounding differences or, say, a difference that arises because one quarterly payment is based on a period of 90 days whereas another is based on a period of 92 days. There should not be any underlying differences in the payments (drawings) to be made, except as set out in the paragraph below.
+
+The legislation specifically allows for the payments (drawings) not to be of the same amount where the terms of the arrangement require the amounts to be increased periodically. This recognises the commercial basis of longer term arrangements allowing for terms to be reviewed, for example rent reviews. This relaxation only applies to increases in the payments (drawings) in line with the overall aim that the pension scheme should have a clear view of what can be expected from the arrangement. The percentage increase cannot exceed the highest of the following:
+
+- the percentage increase in the consumer prices index for the reference period,
+
+- the percentage increase in the retail prices index for the reference period,
+
+- the percentage for the reference period which corresponds to 5% per annum.
+
+The legislation defines the reference period as ‘the period determined, in relation to each periodic increase, under the term of the asset-backed arrangement in question’.
+
+The terms of the arrangement may allow for it to be brought to an end earlier in certain circumstances, for example should the pension scheme become fully funded at some point. On its own, the existence of such as clause does not prevent Condition O from being met. Legislation at Section 196I of Part 3 Schedule 13 Finance Act 2012 (covered later in this guidance) deals with changes to the pension scheme’s position during the course of the arrangement. In considering the impact of any such clause, for the purposes of Condition O, the question to ask is whether - at the outset of the arrangement - the expectation of the parties is that the arrangement will continue for its full term, and that the timing and amount of the payments reflect this expectation.
+
+Condition P
+
+Condition P is that, at the time the advance is paid, in accordance with generally accepted accounting practice, the recorded financial liability is to be reduced to nil by the end of the drawing period by the payments to the lender in respect of the security.
+
+Condition Q
+
+Condition Q is that, at the time the advance is paid, no commitment has been given in respect of the payments (drawings) to be made under the arrangement. For these purposes, a ‘commitment’ is one that:
+
+- is given (directly or indirectly) to a relevant person,
+
+- is a commitment to secure that a person receives money or another asset, and
+
+- is linked (directly or indirectly) to the receipt by the lender of any of the payments (drawings) referred to in Condition A.
+
+The term ‘relevant person’ is defined widely by the legislation to include:
+
+- the employer and persons connected with the employer
+
+- a person acting (directly or indirectly) at the direction or request, or with the agreement, of the employer or a person connected with the employer
+
+- a person chosen (directly or indirectly) by the employer or a person connected with the employer, or
+
+- a partnership.
+
+However, a relevant person does not include the ‘responsible authority’, i.e. the person representing the pension scheme in the arrangements.
+
+Condition Q is drawn widely to capture any understandings between the parties as to how the asset-backed arrangement is to operate in practical terms. The purpose of Condition O would be undermined if the parties had an understanding that upon receipt of the payments, the pension scheme would (or could be asked to) utilise the monies in a certain way. Condition Q is designed, therefore, to ensure that no such commitments should exist if the parties want the arrangement to be an acceptable structured finance arrangement.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#Top)
+
+Consequence of the arrangement being an acceptable structured finance arrangement
+
+Condition A in each of the three types of arrangement is drawn widely to ensure that pension contributions that are structured through these arrangements fall to be considered under the asset-backed contributions rules. Whether or not the employer is able to claim relief for the contribution paid will usually be determined by whether the arrangement is considered to be an acceptable structured finance arrangement.
+
+Condition B for each type of arrangement is written in the negative, i.e. the arrangement is not an acceptable structured finance arrangement. If an arrangement is an acceptable structured finance arrangement then Condition B will not be met, in which case Condition B will not operate to deny relief to the employer for the contribution paid to the registered pension scheme.
+
+The arrangement will need to be kept under review over the course of its term to confirm that it continues to be an acceptable arrangement. In particular, certain events may arise which will require re-examination of the tax relief given in respect of arrangement. This is covered later in this guidance.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#Top)
+
+Consequence of the arrangement not being an acceptable structured finance arrangement
+
+If the arrangement is not an acceptable structured finance arrangement, then Condition B will be met. If Condition A is also met (and Condition C also met in the case of a simple arrangement), then the legislation operates to deny relief to the employer in respect of the contribution paid to the pension scheme.
+
+In these cases, relief will generally be available to the employer (or other members of the group) in relation to the ongoing income stream payments into the asset-backed arrangement. For example, if the group occupies a property that has been transferred, they will be paying rent. Alternatively, if the assets transferred relate to intellectual property, the group may be paying licence fees in respect of the assets.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#Top)
+
+Acceptable structured finance arrangements: changes from the lender’s original position
+
+Section 196I Part 3 Schedule 13 Finance Act 2012
+
+Where a pension contribution is paid using an asset-backed structure and relief is given to the employer at the outset of that arrangement, the relief is given on the basis that the arrangement will operate over its term in the way described at the outset. If there is a subsequent deviation from those terms then an amount is brought into charge on the employer. The legislation is drawn widely to capture changes to the terms of the arrangement (a change in the lender’s position) or events that occur (or do not occur) as the case might be. Examples include:
+
+- payments not being made, or drawings not being taken from the arrangement
+
+- a change made to the amounts of the payments
+
+- the recorded financial liability in respect of the arrangement being reduced wholly or in part by reason other than the making of a payment under Condition A
+
+- a commitment being given in relation to any payments under the arrangement.
+
+Changes include those that arise from the terms of the arrangement itself. It was explained earlier that Condition O was not necessarily failed if the arrangement at the outset recognised some circumstances under which the arrangement could be brought to an end earlier than the expected end date. The example given was the early termination of the arrangement if the pension scheme became fully funded. Such an occurrence would be a change in the lender’s position.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#Top)
+
+Acceptable structured finance arrangements: changes from the employer’s original position
+
+Section 196J Part 3 Schedule 13 Finance Act 2012
+
+With effect from 21 March 2012 there is also a specific category of event that relates to a change in the status of the employer from its position at the date the contribution was paid. These events include:
+
+- if the employer was within the charge to corporation tax at the time the contribution was paid, the employer ceasing to be within that charge
+
+- if the employer is a company, the employer entering administration or the winding up of the employer commencing
+
+- if the employer is a limited liability partnership to which Section 863(1) Income Tax (Trading and Other Income) Act 2005 or Section 1273(1) Corporation Tax Act 2009 applies when the contribution is paid, that provision ceases to apply in relation to the employer
+
+- if the employer is a partnership (other than a limited liability partnership) when the contribution is paid, the partnership ceasing to carry on the trade, profession or business in question, or the partnership being dissolved
+
+- if the employer is an individual, the individual dying.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#Top)
+
+Excluded changes
+
+Section 196I(7) Part 3 Schedule 13 Finance Act 2012
+
+Two categories of change are excluded. These are:
+
+- where the change is a direct result of an administrative error, provided the consequences of this error are remedied promptly
+
+- mere changes in the persons who are the trustees of the pension scheme or the persons who control the management of the scheme (as opposed to a fundamental change to the parties involved in the asset-backed arrangement).
+
+Example of an administrative error
+
+A payment is due to the pension scheme on 31 March. As a result of a change of bank, the payment is not made until 10 April. This would not be treated as a change in the lender’s position under Section 196I.
+
+Example of what is not an administrative error
+
+The employer and the pension scheme agree that the payment dates should be changed to an annual basis as opposed to quarterly, but with no changes to the underlying amounts of payments. This type of change is covered by the legislation as it is a change from the basis of the original arrangement, rather than the result of an administrative error.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043320#Top)
+
+Impact of a change or event
+
+Section 196I Part 3 Schedule 13 Finance Act 2012
+
+Where a change or event occurs, a sum (the relevant amount) is brought into charge to tax.
+
+For corporation tax purposes, the relevant amount is treated as if it were a profit arising from the employer’s loan relationships and is chargeable to corporation tax under Section 299 Corporation Tax Act 2009 in the accounting period in which the change or event occurs.
+
+For income tax purposes, the relevant amount is treated as an amount of income chargeable to income tax under Chapter 8 of Part 5 Income Tax (Trading and Other Income) Act 2005 in the tax year in which the change or event occurs.
+
+The relevant amount is the amount of the outstanding recorded financial liability (as determined in accordance with generally accepted accounting practice) immediately before the change or event occurs. In the situation where the financial liability is reduced in part, as opposed to completely, the relevant amount is the amount of the reduction in the financial liability.
+
+The amount of any sums treated as income or profit as a result of such a change or event must not exceed (when added to the relevant amount arising from any previous change or event) the total amount of relief given in respect of the employer’s contribution.
+
+Where a change or event occurs that is covered by Section 196I, the structured finance arrangement legislation should not be applied to that transaction from the date of the change or event onwards. The exception to this is where the event was a partial reduction in the recorded financial liability. In this circumstance, it might be possible for a person to end up in a better overall position as a result of the structured finance arrangement legislation no longer being applicable. The legislation therefore provides for ‘just and reasonable’ assessments to tax to be made to ensure that there is no such advantage is to be gained.
+
+Example
+
+To return to the example given in the overview at PTM043310 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm043310), suppose that the payments ceased at the beginning of Year 12. The relevant amount in that case would be the outstanding recorded liability at the end of Year 11 (i.e. £89,544,000). This is the sum that would be brought into charge to tax.
+
+The relief that was given upfront to the employer is effectively revisited because the arrangement has not played out in the manner originally described. The intention is to ensure that the employer does not receive relief in excess of the income flows to the pension scheme over the life of the arrangement. In this example, the employer will have received upfront relief for the contribution of £150m, plus the finance charges over years 1 to 11, but has also been charged to tax on the amount of £89,544,000. The net relief should equate to the 11 payments of £13,350,000 that the pension scheme has received in this period.

@@ -1,0 +1,34 @@
+Deductions from general earnings: the benefits code: example  of deduction from benefits charge
+Identifier: EIM31617
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31617
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-08-23T13:32:53+01:00
+Retrieved (UTC): 2026-09-18T14:13:02.987173+00:00
+
+Section 365 ITEPA 2003
+
+An employer provides an employee with a laptop computer to be used for carrying out the duties of their employment. The employee is also allowed to use the laptop for their own purposes. The employee estimates that 40% of its use is for their own purposes. The laptop is never used concurrently for work and private purposes. When it was provided the laptop had a market value of £4,000.
+
+The earnings charge, computed in accordance with section 205(3)(b) ITEPA 2003, is 20% of the market value of the computer when it was first provided to the employee, see EIM21617 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21617). Section 365 ITEPA 2003 permits a deduction from earnings to the extent that a deduction would have been permitted if the employee had incurred the cost of the benefit out of his own emoluments, see EIM31615 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31615).
+
+The calculation of earnings for the tax year 2006 to 2007 onwards is as follows:
+
+- annual value of computer: 20% × £4,000 = £800
+
+- less business use: 60% × £800 = £480
+
+- net taxable earnings = £320
+
+Note that this example relates to the tax year 2006 to 2007. Until the tax year 2005 to 2006, section 320 ITEPA 2003 exempted the first £500 of the cash equivalent of the benefit of a computer provided by an employer to an employee. See EIM21699 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21699). The calculation for the tax year 2005 to 2006 and earlier would have been as follows:
+
+- annual value of the computer: 20% × £4,000 = £800
+
+- less exemption: £500
+
+- cash equivalent of benefit: £800 - £500 = £300
+
+- less business use: 60% × £300 = £180
+
+- net taxable earnings = £120
+
+Note also that there is no need to calculate the benefit of the computer at all if private use of it by the employee, and members of their family or household, is not significant. See EIM21611 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21611). The figure of 40% private use in the above example is “significant”.

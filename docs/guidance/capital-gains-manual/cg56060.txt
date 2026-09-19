@@ -1,0 +1,24 @@
+Futures: market practices: margin payments
+Identifier: CG56060
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56060
+Published: 2016-03-12T11:38:10+00:00
+Updated: 2021-03-31T14:33:59+01:00
+Retrieved (UTC): 2026-09-18T14:33:33.363629+00:00
+
+When a taxpayer enters into a futures contract on a futures exchange they will be required to pay a deposit called `a margin’ to their broker. The size of the margin depends upon the rules of the market and the relationship between client and broker. Major consumers of a product, for example chocolate manufacturers buying cocoa, may be allowed to trade on margins as low as two per cent of the value of the contract. A one-off speculator might be required to deposit 10 per cent of the value of the contract.
+
+A broker may require his or her client to make further margin payments if the market moves against them. Similarly the margin payments may be returned if the market moves in their favour.
+
+Margin payments are merely deposits made to the broker to meet any loss which might arise on the contract. They are not consideration given for the acquisition of an asset.
+
+No premium is payable or receivable on entering into an over-the-counter commodity future. By convention the ‘buyer’ of a contract is contracting to buy the commodity at the price specified and is thus hoping that the market price of the commodity will have risen by the time delivery is required. The ‘seller’ of a contract is contracting to sell the commodity at the price specified and is thus hoping that the market price will have fallen before delivery.
+
+EXAMPLE
+
+In November an investor sells 2 contracts in March cocoa and a speculator buys 2 contracts in March cocoa each at a price of £1,900 a tonne. Each contract is an agreement to deliver 10 tonnes of cocoa in March at a price of £1,900 a tonne.
+
+The investor and the speculator each lodge a deposit of £3,800 with their brokers.
+
+In December the price of March cocoa falls to £1,840 a tonne. The speculator has to make a further margin payment of (£1,900 - £1,840 = £60 )x 20 = £1200 which at 10 per cent = £120.
+
+The investor’s market position has improved. The investor may be entitled to a repayment of £120 of his margin payment.

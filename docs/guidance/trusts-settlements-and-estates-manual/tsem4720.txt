@@ -1,0 +1,60 @@
+Settlements Legislation: Rules affecting non-domiciled and deemed domiciled settlors of non-resident trusts from 6 April 2025: Benefits   
+Identifier: TSEM4720
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4720
+Published: 2025-04-07T07:45:49+01:00
+Updated: 2025-12-02T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T16:19:58.530674+00:00
+
+For details of the rules introduced from 6 April 2018 on the benefit charge see TSEM 4635 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4635).
+
+Under the trust protections measures in place up to and including the 5 April 2025, a settlor of a protected settlement was not taxed on the Protected Foreign-Source Income (PFSI) of the structure as it arose, provided it remained offshore, but they were taxed under section 643A ITTOIA 2005 on any benefits that they received, or under section 643J or section 643L ITTOIA 2005 in relation to onwards gifts, to the extent that the benefit or onward gift was matched with the PFSI of the trust.
+
+From 6 April 2025 a charge applies to a settlor or close family member (CFM) under section 643A ITTOIA 2005 to the extent that they: receive a benefit from the settlement, are UK resident, have an untaxed benefits total and there is available protected income (PFSI or TTI). If there is a choice about individuals as to whom the income is treated as arising, then HMRC can apportion the tax charge on a just and reasonable basis to prevent any potential double taxation.
+
+From 6 April 2025 if a beneficiary receives a benefit from a previously protected settlement which would ordinarily be taxed on that individual under section 643A ITTOIA 2005, but the recipient of the benefit is eligible for and makes a claim to the 4-year FIG regime for the relevant tax year, no tax will be paid by the individual in relation to the benefit. However, that benefit will not be treated as reducing the pool of available relevant income for matching to future benefits paid out of PFSI/TTI, under section 643C ITTOIA 2005.
+
+What is an untaxed benefit?
+
+For each individual you must determine what their untaxed benefits total is. There are 4 steps set out in the legislation at section 643B ITTOIA 2005 to tell you how to do this.
+
+Step 1
+
+Identify each benefit provided by the trustees to that individual at any time when they were UK resident in the current or an earlier tax year. If the individual is a close family member (CFM) then only include the benefits provided to them at a time when they were a CFM. If a benefit is provided to a CFM at a time when they are not UK resident, but the settlor is UK resident, then the benefit will be included in the settlor’s untaxed benefits total for the year.
+
+Step 2
+
+Next identify the amount or value of each benefit for that individual at Step 1 and calculate the total.
+
+Step 3
+
+Then, deduct from the total at Step 2:
+
+- Any part of it where the individual has already been subject to income tax by a means other than section 643A ITTOIA 2005,
+
+- Any part that has been subject to income tax by virtue of section 643A, or previously under old section 643J or section 643L ITTOIA 2005 (onward gifts rules from 6 April 2018 – 5 April 2025),
+
+- Any whole or part benefit that has been taken into account when charging income tax under the Transfer of Assets Abroad (ToAA) legislation (see INTM600000 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm600000))
+
+- Any amount required to be deducted by section 643D(2) ITTOIA 2005 (reduction due to previous capital gains tax charge).
+
+Step 4
+
+If the amount at Step 3 of the calculation is greater than nil, then that is the individual’s untaxed benefits total for the current tax year. If an individual’s untaxed benefits total in relation to a settlement for the tax year 2024-25 exceeded the available protected income up to the end of that tax year then their untaxed benefits total for tax year 2025-26 or a later tax year will not include any benefit provided to the individual in the tax year 2024-25 or earlier. This is to ensure that a charge under section 643A ITTIOA 2005 only arises on benefits received in the tax year 2025-26 or later when being matched to TTI. This is because TTI only forms part of the pool of available protected income from the tax year 2025-26.
+
+Meaning of available protected income
+
+To determine the amount of available protected income, there are 5 steps that you need to follow. These are set out at section 643C ITTOIA 2005:
+
+- Identity any PFSI and TTI that arose at any time under the settlement. This is the total protected income*.
+
+- Deduct from the total protected income any amount that has been matched and charged under the To AA legislation in the current or an earlier tax year. You do not deduct an amount that has been matched and then exempted under the motive defence.
+
+- Deduct any amount of the total protected income on which the individual or another individual has been subject to income tax in the current or an earlier tax year.
+
+- Deduct any amount that is treated as income under section 643A ITTOIA 2005 in an earlier tax year.
+
+- Add back any amount of income that falls within step 2 or step 4 at a time that the individual or another individual has claimed relief under the 4-year FIG regime for any tax year.
+
+The amount calculated is the total amount of available protected income (API).
+
+*New section 643ZA ITTOIA 2005 defines what is PFSI and confirms that it is only income which arose to the settlement during tax years 2017/18 to 2024/25. New section 643ZA also defines what is TTI and confirms that it is only income which arose to the settlement between tax years 2008/09 to 2016/17. For details of the rules introduced from 6 April 2018 on the benefit charge see TSEM 4635 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4635).

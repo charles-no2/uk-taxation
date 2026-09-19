@@ -1,0 +1,24 @@
+Traded options: LIFFE: standard form
+Identifier: CG55514
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55514
+Published: 2016-03-12T11:37:30+00:00
+Updated: 2016-01-26T09:49:57+00:00
+Retrieved (UTC): 2026-09-18T14:33:25.552726+00:00
+
+Exchange-traded option contracts are in a standard form. Two key features are the exercise price (sometimes referred to as the strike price) and the expiry date.
+
+Exercise price
+
+For equity options the exercise price is the price at which the shares may be bought or sold. The purchaser of a call option has the right, but not the obligation, to buy shares at a fixed price. The purchaser of a put option has the right, but not the obligation, to sell shares at a fixed price.
+
+LIFFE allows options to be created at a number of fixed exercise prices. These exercise prices are related to the price of the underlying shares at the time the option is created. Therefore, if the price of XYZ PLC shares was 304p on 1 February 2011 options might be created with an exercise price of 280p, 300p and 320p.
+
+For index options the exercise price is the base value from which movements in the index are calculated with each index point priced at £10. For example, if the holder of a March 5200 FTSE100 call option exercised the option when the index stood at 5220 they would receive a payment of 20 x £10 = £200.
+
+Expiry date
+
+LIFFE options have but a limited lifespan which is determined by their expiry date.
+
+Equity options are normally listed according to pre-defined cycles of expiry dates with expiry dates fixed at three month intervals starting from either January, February or March. An option is allocated by LIFFE to one of the cycles.
+
+Index options also have a finite life but operate on different expiry cycles.

@@ -1,0 +1,38 @@
+Reduced rate for gifts to charity: merger of components: aggregate estate contains two components
+Identifier: IHTM45035
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45035
+Published: 2016-04-09T10:33:02+01:00
+Updated: 2022-02-14T16:00:05+00:00
+Retrieved (UTC): 2026-09-18T15:10:46.075472+00:00
+
+Where an estate contains more than one component and the donated amount at one of the components is at least 10% of its baseline, IHTA84/Sch1A/Para 7 provides an option for taxpayers to elect to merge two or more components and apply the 10% test as if there was a single component.
+
+For the purposes of merger only, property in which a reservation of benefit subsists may be merged with another component and qualify for the reduced where the 10% test is met.
+
+If the donated amount for the merged components is at least 10% of the baseline amount for that single/merged component, each of the individual components will qualify for the reduced rate. This option is most likely to be relevant where the beneficiaries of the different components of an estate are the same, or largely the same. Note that the merger is only for the purposes of the 10% test and does not otherwise alter the value of the components concerned. In other words, the share of the residue passing to charity remains at the figure calculated by reference to the bequests in the Will, you do not revise the share of residue passing to charity by reference to the merged estate - because that does not reflect what the charity will receive.
+
+The process for making an election is explained at IHTM45041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45041).
+
+Example
+
+Following the example at IHTM45012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45012), Andrew agrees with the deceased’s personal representatives that they will make an election to merge the survivorship component with the general component:
+
+Merged estate = £780,000
+
+Legacy to charity (donated amount) -£75,000
+
+Chargeable transfer = £705,000 (step 1)
+
+Less nil-rate band -£325,000
+
+Step 2 amount = £380,000
+
+Add back legacy to charity +£75,000
+
+Baseline amount = £455,000 (step 3)
+
+The baseline amount for the merged component is £45,500 and the legacy of £75,000 clearly exceeds this amount; both components will therefore qualify for the reduced rate. As mentioned above, the share of the reside remains at £75,000 and is not increased to £78,000 (being 10% of the merged estate).
+
+The liability attributable to the survivorship component will be reduced from £6,468 to £5,821.20.
+
+IHTM45036 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45036) gives an example where the estate contains three components.

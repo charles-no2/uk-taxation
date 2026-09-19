@@ -1,0 +1,30 @@
+Non-resident companies: attribution of gains to participants
+Identifier: CG57200
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57200
+Published: 2016-03-12T11:42:19+00:00
+Updated: 2019-10-16T07:04:13+01:00
+Retrieved (UTC): 2026-09-18T14:43:46.889710+00:00
+
+A company not resident in the UK is not normally liable to tax on chargeable gains even if the assets disposed of by the company are situated in the UK. The main exceptions up to 6 April 2013 was:
+
+- if the assets are used for the purposes of a trade carried on in the UK through a permanent establishment, see CG42100 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42100)+.
+
+UK residents could take advantage of the tax position of an overseas company to avoid UK tax. Instead of owning assets directly they could set up artificial arrangements so that the assets are held by non-resident companies that they control or have an interest in. On the disposal of the assets by the company any gains would not be within the charge to UK tax.
+
+TCGA92/S13* aims to counter such artificial arrangements. Where section 13 applies you look through non-resident closely controlled companies to UK residents who are participators in the company. Where analysis reveals that there are wholly artificial arrangements then further investigation should be made into whether the wholly artificial arrangements were put in place as part of a tax avoidance scheme or arrangements with the purpose or one of the main purposes of avoiding UK Capital Gains Tax or Corporation Tax (the test under TCGA92/S13(5)(cb)). If this is the case then these UK residents can be assessed to Capital Gains Tax or Corporation Tax on chargeable gains on a proportionate share of the company’s capital gains. In addition, liability can arise under the provisions relating to non-resident trusts which are participators in such companies. Wholly artificial arrangements in broad terms mean those whose form does not reflect economic reality (see CG57314 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57314) for further guidance).
+
+If the participator is a company then a gain attributed to it under TCGA92/S13 is within the scope of TCGA92/S171A . This means that the company may be party to an election for the attributed gain to be treated as accruing to another member of the same group of companies. See CG45355 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45355)+ for guidance on TCGA92/S171A.
+
+If an individual who is a participator has a company’s chargeable gain attributed to them in a tax year, and he or she is not domiciled in the UK in that year then, if the asset on which the gain arose is situated outside the UK, the individual’s gain is a foreign chargeable gain. It follows from this that the remittance basis may apply to the attributed gain, in which case Capital Gains Tax will be charged on the individual when any of the foreign chargeable gain is remitted to the UK. For guidance on the remittance basis and the meaning of remitted to the United Kingdom, see CG25313 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25313)+ and the Residence, Domicile & Remittances Manual.
+
+Various changes were made to TCGA92/S13 in the Finance Act 2013. These were to:
+
+- accommodate changes required because of the Statutory Residence Test for individuals that applies from 6 April 2013
+
+- ensure ATED-related gains are excluded from the scope of TCGA92/S13, see CG57301 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57301)
+
+- modernise the rules and ensure that they were compliant with EU law.
+
+TCGA92/S13 is designed to counter artificial arrangements and the changes made in Finance Act 2013 will reduce the number of cases that will be within the scope of the section. Additionally the changes made will make it easier for participants to identify if they are not within the scope of TCGA92/S13.
+
+*TCGA92/S13 was re-written for disposals from 6 April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

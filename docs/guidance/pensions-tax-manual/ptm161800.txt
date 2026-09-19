@@ -1,0 +1,36 @@
+Information and administration: Reportable event 24 
+Identifier: PTM161800
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161800
+Published: 2024-03-27T00:25:36+00:00
+Updated: 2025-02-11T10:11:42+00:00
+Retrieved (UTC): 2026-09-18T14:50:18.456478+00:00
+
+Regulation 3 The Registered Pension Schemes (Provision of Information) Regulation 2006 - SI 2006/567
+
+Reportable Event 24
+
+This event occurs where:
+
+- A lump sum in excess of the individual's available lump sum allowance (see PTM174100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm174100)) is paid to a member of the scheme, following a relevant benefit crystallisation event (see PTM173000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm173000)) in relation to the member.
+
+- A lump sum that would have been in excess of the lump sum and death benefit allowance (see PTM174200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm174200)) (irrespective of any protection or enhancement factor), is paid to a member of the scheme or their beneficiary, following a relevant benefit crystallisation event in relation to the member.
+
+- A lump sum that would have been in excess of the lump sum allowance (irrespective of any protection or enhancement factor), is paid to a member of the scheme, following a relevant benefit crystallisation event in relation to the member.
+
+- The aggregate lump sum death benefits paid by a scheme in respect of a deceased member of that scheme, following a relevant benefit crystallisation event in relation to the member, exceeds the lump sum and death benefit allowance (see PTM172000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm174200))
+
+When this event occurs, the following information must be provided:
+
+- The member's name,
+
+- The member's national insurance number,
+
+- The date of the relevant benefit crystallisation event,
+
+- The relevant benefit crystallisation event (the nature and amount of the lump sum or lump sum death benefit),
+
+- Each protection or enhancement type and the reference number (if applicable),
+
+- The amount of income tax already paid on any excess (if applicable)
+
+HMRC will calculate the income tax due when lump sum and death benefit allowance is exceeded.

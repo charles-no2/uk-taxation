@@ -1,0 +1,50 @@
+NRCG and the exemptions: Disposals from 6 April 2019: Interactions with exit charges: Deemed disposals on exiting the UK
+Identifier: CG73988
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73988
+Published: 2020-02-05T16:30:11+00:00
+Updated: 2022-10-07T16:08:39+01:00
+Retrieved (UTC): 2026-09-18T14:35:56.976905+00:00
+
+Deemed disposal under section 25(3)
+
+Where a person has ceased to trade through a UK branch or agency, they are deemed (under TCGA92/S25) to have made a disposal of an asset (see CG25530 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25530)). TCGA92/S25ZA applies in this case. Where the asset in question is an interest in UK land and a non-resident CG charge or loss would accrue to the person on the deemed disposal, the gain or loss will not accrue at the time of the deemed disposal, but when all or part of the interest in question is subsequently disposed of - at which point it will be treated as a non-resident CG chargeable gain or allowable loss.
+
+The person may elect for TCGA92/S25(3) not to have effect if that is advantageous to them.
+
+Deemed disposal under section 80
+
+Where the trustees of a settlement have ceased to be UK resident, they may be deemed (under TCGA92/S80) to have made a disposal of an interest in UK land. CG73982 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73982) explains that where the interest in UK land was held at 5 April 2019 the exit charge doesn’t apply because the full amount of any gain would be charged on a subsequent disposal.
+
+If the interest in UK land was acquired on or after 6 April 2019 then an exit charge would arise on the deemed disposal of that asset on exit, but an election can be made under TCGA92/S80A so that the gain can be deferred. If the election is made the gain under TCGA92/S80 is treated as accruing at the same time as the gain on a subsequent disposal.
+
+The exit charge continues to apply in relation to other assets.
+
+Example
+
+UK resident trustees acquire a painting 5/2015 for £200,000 and an interest in UK land 5/2019 for £500,000.
+
+In 5/2023 they exit the UK and the painting is valued at £300,000 and interest in UK land £550,000. An election under S80A/TCGA92 is made.
+
+In 5/2024 the interest in UK land is sold for £625,000.
+
+On exit 5/2023 gains of £100,000 in respect of the painting and £50,000 is respect of the land accrue. If an election is made under S80A/TCGA92 only the £100,000 gain on the painting is chargeable for the 2023/2024 year.
+
+On the disposal 5/24 the gain on the land of £75,000 together with the earlier £50,000 which now accrues are chargeable for the 2024/25 year i.e. a total of £125,000.
+
+Emigration of donee, deemed disposal under S168
+
+TCGA92/S168 provides that where an individual emigrates from the UK, with a gain on an asset they had acquired held over under TCGA92/S165 or 260, the gain accrues when they cease to be UK resident (see CG25780 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25780)).
+
+TCGA92/S168A, which modifies the effect of TCGA92/S168 in cases where the asset in question is a direct or indirect disposal of UK land which meets the non-residence condition and a non-resident CGT gain would be deemed to accrue under TCGA92/S168 at the time the individual ceases to be UK resident.
+
+The individual may elect that the held over non-resident CGT gain or loss on the deemed disposal should not accrue at the time they cease to be UK resident. Where they prefer this course, the non-resident CGT gain (or loss) on the deemed disposal would accrue when the interest in question is subsequently disposed of.
+
+Companies migrating from the UK - deemed disposal of UK property interest
+
+TCGA92/S185 deems a company which ceases to be resident in the UK to dispose of its assets at the time of migration, and immediately reacquire them at market value (see CG42370 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42370)).
+
+CG73982 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73982) explains that when the asset is an interest in UK land that was held on 5 April 2019 para 18 Sch 4AA prevents S185 applying in respect of that interest in UK land.
+
+Where the interest in UK land was acquired on or after 6 April 2019 then a gain would ordinarily arise on the deemed disposal of that asset on exit, but the provisions at TCGA92/S187B (1) to (4) apply so that the gain is deferred until a subsequent disposal is made of the whole or part of the interest in UK land.
+
+An election can be made for this treatment not to apply, and for the gain to be treated as accruing to the company at the time of the deemed disposal. This election must be made within 2 years after the day on which the deemed disposal occurs, being the day on which the company ceases to be UK resident.

@@ -1,0 +1,78 @@
+Step 3 - interaction: anti-avoidance provisions
+Identifier: IHTM26107
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26107
+Published: 2016-04-09T09:47:32+01:00
+Updated: 2022-06-08T16:16:33+01:00
+Retrieved (UTC): 2026-09-18T15:03:05.119575+00:00
+
+To restrict the benefit of IHTA84/S39A (2) to straightforward gifts (IHTM26106 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26106)) under which the beneficiary receives the relievable property, IHTA84/S39A (6) provides that
+
+- the value of a specific gift (IHTM26011) of relievable property does not include the value of any other gift payable out of that property, and
+
+- that other gift is not to be treated as a specific gift of relievable property
+
+You should refer any case involving a gift of relievable property where it is unclear whether IHTA84/S39A (6) may apply to Technical. Some examples might be
+
+- a gift of an option to purchase relievable property
+
+- a gift of a share of the relievable property by reference to cash value (such as ‘a share of my business to the value of £50,000 to Laura’)
+
+- any case where it is not clear whether the other gift is payable out of the relievable property, or
+
+- any case where from the terms of the gift it seems that the beneficiary is likely to receive cash rather than the relievable property itself
+
+Where a gift that appears doubtful is made by an instrument of variation (IOV) (IHTM35011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35011)), the IOV should not be accepted as being within IHTA84/S142 without the approval of Technical.
+
+An example of how the restriction under IHTA84/S39A (6) operates is shown below
+
+Example
+
+Anne died in October 2000
+
+Her estate of £1.5m comprises
+
+- a farm valued at £1m
+
+- non-relievable assets valued at £500,000
+
+Her estate passes by Will:
+
+- The farming business to her son subject to payment out of it of £300,000 to her husband.
+
+- The residue to her daughter.
+
+Stage 1
+
+Value transferred after business relief (BR) and agricultural relief(AR) at 100% is £500,000.
+
+Stage 2
+
+The specific gift of the farm to the son is reduced by the amount payable out of it (£300,000). So it becomes a specific gift of relievable property to the extent of £700,000 only and is reduced by BR and AR to nil
+
+Stage 3
+
+The £300,000 which the son has to pay to the widow is not treated as a specific gift of relievable property. So it needs to be reduced by the appropriate fraction (IHTM26108 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26108))
+
+£500,000 (A) ÷ £800,000 (B) × £300,000 = £187,000
+
+A = the reduced value of the estate (£500,000) less the reduced value of the specific gift to the son (nil)
+
+B = the unreduced value of the estate (£1.5M) less the unreduced value of the specific gift (£700,000))
+
+Stage 4
+
+There is no value to gross up.
+
+Stage 5
+
+Calculate the residue using the reduced values:
+
+Value transferred = £500,000
+
+Less total of specific gifts -£187,500
+
+Residue = £312,500
+
+Stage 6
+
+The total chargeable is £312,500 - value transferred of £500,000 less the reduced value of the exempt legacy (£187,500).

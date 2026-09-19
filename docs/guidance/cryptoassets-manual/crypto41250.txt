@@ -1,0 +1,28 @@
+Cryptoassets for businesses: Corporation Tax: Corporation Tax on chargeable gains - what constitutes a disposal
+Identifier: CRYPTO41250
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto41250
+Published: 2021-03-30T09:04:02+01:00
+Updated: 2021-11-22T13:15:43+00:00
+Retrieved (UTC): 2026-09-18T16:18:36.102845+00:00
+
+Companies need to calculate their gain or loss when they dispose of their tokens to find out whether they need to pay Corporation Tax. A ‘disposal’ is a broad concept and includes:
+
+- selling tokens for money
+
+- exchanging tokens for a different type of token
+
+- using tokens to pay for goods or services
+
+- giving away tokens to another person
+
+If a company gives away exchange tokens to another company which is not a member of the same group (see CG45000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45000) et seq), or to an individual or other entity, the company making the disposal must work out the market value of what it gave away. It must then use this to calculate any chargeable gain. Similarly, the recipient is treated as having acquired the cryptoassets at their market value at the time of the gift.
+
+There is no disposal if the company retains beneficial ownership of the tokens throughout the transaction, for example moving tokens between public addresses that the company beneficially controls (commonly described as moving tokens between wallets).
+
+Using a mixer, tumbler or similar service so that the company receives the same type of tokens that they put into the transaction also is not a disposal. However, it will constitute a disposal if the company puts token A into the transaction and receives token B in return.
+
+If a chargeable person disposes of exchange tokens to charity, they will not have to pay Corporation Tax on any gain that has accrued (see CG66620P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66620p)). This does not apply if either:
+
+- they make a ‘tainted donation (https://www.gov.uk/government/publications/charities-detailed-guidance-notes/annex-viii-tainted-charity-donations)’
+
+- the company disposes of the tokens to the charity for more than the acquisition cost (so that they realise a gain).

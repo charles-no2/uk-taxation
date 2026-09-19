@@ -1,0 +1,30 @@
+Indexation: from 6/4/88: no gain/loss cases: treatment of transferee
+Identifier: CG17402
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17402
+Published: 2016-03-12T10:17:19+00:00
+Updated: 2025-11-11T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:38:29.215138+00:00
+
+Disposals between 6 April 1988 and 29 November 1993
+
+In these circumstances the acquisition cost for the transferee is the allowable expenditure of the transferor plus the indexation allowance. The HMRC office dealing with the transferee should be advised of this amount if the information is provided. In this situation for the purposes of calculating INDEXATION on any subsequent disposal by the transferee, you ignore any provision which treats the transferor's acquisition of the asset as the transferee's, such as TCGA92/S257 (2)(b). These provisions were broadly intended to give time-apportionment CG15500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15500).
+
+If however the transferor held the asset at 31 March 1982 different provisions apply, see CG16880+, and the transferee is treated as if having held the asset on 31 March 1982 for the purposes of rebasing and indexation.
+
+Capital Gains Tax Disposals on or after 6 April 2008 (TCGA92/S35A)
+
+In Capital Gains Tax cases where the transferee (i.e. the person who earlier received the asset) disposes of that asset on or after 6 April 2008 and:
+
+- that person acquired that asset between 31 March 1982 and 6 April 2008,
+
+- by way of a no gain / no loss transaction, and
+
+- all earlier disposals (if any) of the asset between 31 March 1982 and that person’s acquisition of the asset were no gain/no loss disposals, and
+
+- a rebasing election under TCGA92/S35(2) for 31 March 1982 value to apply was NOT made
+
+then it is assumed that an election under TCGA92/S35(2) for 31 March 1982 value to apply was made
+
+The effect is that the transferee’s acquisition cost for the purpose of computing the gain arising on the disposal made on or after 6 April 2008, is the value of the asset at 31 March 1982 plus any indexation which would have been due up to the time of the last no gain/no loss transaction by which the transferee acquired the asset.
+
+For companies within the charge to Corporation Tax there was originally no change to the treatment for disposals made on or after 6 April 2008. However for such companies indexation has been frozen from 1 January 2018 and, for assets held before 1 January 2018 but disposed of on or after that date, the indexation is calculated to December 2017. For disposals between 6 April 2008 and 31 December 2017 calculate any indexation as normal.

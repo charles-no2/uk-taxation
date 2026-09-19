@@ -1,0 +1,32 @@
+Assessing: calculations: calculation layout
+Identifier: IHTM31402
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31402
+Published: 2016-04-09T10:04:28+01:00
+Updated: 2017-01-18T16:02:13+00:00
+Retrieved (UTC): 2026-09-18T15:06:06.014854+00:00
+
+Whether you raise a calculation on COMPASS (IHTM31101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31101)) or a manual template, the layout of your calculations are basically the same.
+
+NIOP
+
+- details of the estate and Entry (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)) at the top,
+
+- amendments to the left, and
+
+- the calculation and apportionment of tax and interest figures to the right.
+
+IOP
+
+- details of the estate and Entry at the top
+
+- on the left, a statement of how to calculate the tax to pay on the IOP only and how many instalment are due
+
+There are two separate columns on the right showing different calculations for tax and interest on assets for which
+
+- instalments still apply, and
+
+- instalments no longer apply (or never applied), then
+
+- the overall tax and interest to pay at the bottom of the columns.
+
+Only the NIOP calculation shows how the overall tax liability is arrived at. So you must always send the first IOP calculation with an NIOP calculation (even if the balance to pay is nil) so that the taxpayer can see how to work out the tax charge.

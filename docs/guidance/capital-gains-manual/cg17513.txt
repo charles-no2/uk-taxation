@@ -1,0 +1,34 @@
+Indexation: example: sale and leaseback
+Identifier: CG17513
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17513
+Published: 2016-03-12T10:17:49+00:00
+Updated: 2023-04-13T09:48:39+01:00
+Retrieved (UTC): 2026-09-18T14:38:34.668023+00:00
+
+X Ltd acquires in March 1987 a printing press costing £100,000.
+
+It is disposed of in March 1993 under a sale and leaseback arrangement for £27,000.
+
+The capital allowances, after deducting the balancing charge, amount to £73,000.
+
+A sale and leaseback is treated as a part-disposal. See CG70774.
+
+The value of the retained interest is £1,000.
+
+- |  - |    |  - |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  - |  - |  - |  27,000 |
+
+Less |  Cost |  - |  - |  - |  - |  100,000 |
+
+- |  Allow |  27,000 |  x |  100,000 |  96,248 |  - |
+
+- |  - |  (27,000 + 1,000) |  - |  - |  - |  - |
+
+- |  Deduct capital allowances |  - |  - |  - |  73,000 |  23,428 |
+
+- |  - |  Unindexed gain |  - |  - |  - |  3,572 |
+
+Less |  Indexation |  23,428 x 0.385 |  - |  - |  - |  9,020 |
+
+- |  - |  ALLOWABLE LOSS |  - |  - |  - |  5,448 |

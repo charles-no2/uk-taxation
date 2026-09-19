@@ -1,0 +1,80 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Interaction between Non-Resident CGT and ATED-related CGT: Post April 2015 assets and retrospective basis of computation, examples
+Identifier: CG73884
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73884
+Published: 2018-10-18T11:59:43+01:00
+Updated: 2019-10-11T10:29:54+01:00
+Retrieved (UTC): 2026-09-18T14:46:44.761023+00:00
+
+1. Asset acquired after April 2015
+
+2. Election for retrospective basis of computation made
+
+These examples follow on from examples in the ATED-related CGT guidance. They show how to calculate the NRCGT gain or loss on those disposals after calculating the ATED-related gain or loss.
+
+1. Asset acquired after April 2015
+
+Shows how to calculate the NRCGT gain on example 2 at CG73634
+
+Basic information:
+
+Residential property acquired October 2015 for £1,500,000 and disposed of April 2018 for £2,500,000.
+
+Estimated Indexation factor October 2015 to April 2018 0.20
+
+Total number of days chargeable to ATED 730
+
+Total days October 2015 to April 2018 913
+
+From CG73634 non-ATED related gain £140,307
+
+Step 2
+
+Determine the “special fraction” of the gain or loss
+
+SD = 913
+
+TD = 913
+
+SD/TD x gain = £140,307
+
+NRCGT gain £140,307
+
+2. Election for retrospective basis of computation made
+
+Shows how to calculate the NRCGT gain on example at CG73640
+
+Basic information:
+
+Residential property acquired April 2006 for £3,000,000 and disposed of April 2016 for £6,000,000. Election under paragraph 2(1)(b) Sch 4ZZB or paragraph 5 Sch 4ZZA made.
+
+Estimated Indexation factor April 2006 to April 2016 0.4
+
+Total number of actual chargeable days and pre April 2013 ATED days 1,825
+
+Total days 3,650
+
+Step 1
+
+Determine the amount of gain or loss
+
+Disposal proceeds £6,000,000
+
+Acquisition cost £3,000,000
+
+Indexation allowance £1,200,000
+
+Gain £1,800,000
+
+Step 2
+
+Determine the “special fraction” of the gain or loss
+
+SD = 1,825
+
+TD = 3,650
+
+SD/TD x gain = £900,000
+
+NRCGT gain £900,000
+
+See CG73894 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73894) for how to calculate the gain or loss that is neither ATED-related nor an NRCGT gain or loss.

@@ -1,0 +1,48 @@
+Relevant property: agricultural relief and business relief
+Identifier: IHTM42165
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42165
+Published: 2016-04-09T10:24:30+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:09:32.571603+00:00
+
+Chargeable value
+
+When working out the chargeable value of relevant property that is subject to Inheritance Tax (IHT), you should deduct any relevant agricultural relief (AR) (IHTM24001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24001)) and business relief (BR) (IHTM25131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25131)).
+
+Historic values for rate
+
+However, when you are calculating the appropriate rate of tax using historic values, you must not deduct any AR or BR from those historic values.
+
+Ten year anniversary (TYA)
+
+You can deduct AR or BR from the current value of relevant property in the trust for both:
+
+- the current chargeable value and
+
+- the value of cumulative proportionate charges in the previous 10 years.
+
+All historic values must however remain at the value before AR/BR.
+
+Proportionate charges: rate calculation
+
+For exit charges before the first TYA (S68)
+
+When calculating the rate you must not deduct AR or BR from the value of the relevant property at the date the trust was set-up.
+
+For exit charges after a TYA (S69)
+
+For charges on or after 6 April 2026 the rate of tax is based on the value of the relevant property at the TYA without deducting any relief given on that occasion. For charges before then it is the value after relief.
+
+Period of ownership
+
+You will always have to consider periods of ownership. You will need to establish who owned the property for IHT purposes during the relevant period of ownership, especially for any periods of interest in possession (IIP) entitlement. You will need to consider the IHT treatment of IIP entitlements before and after the Finance Act 2006 (IHTM16060 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16060)).
+
+Before FA06, it was possible for relevant property to start as relevant property, be appointed to IIP trusts, but then later revert to being relevant property again. Although the trustees had legal ownership throughout, the beneficiary who had the IIP had beneficial entitlement and so was the ‘owner’ for the BR and AR ownership provisions.
+
+For example, if business property reverted from an IIP that commenced before FA06 to discretionary trusts less than 2 years before a TYA, that property would not have been in the qualifying ownership of the trustees for the required 2 years. BR will not apply at the TYA.
+
+After FA06, you will need to consider whether an IIP is qualifying or non-qualifying under IHTA84/S59. If all the events in the example above occurred after FA06 then the IIP would be non-qualifying. The trustees would be the owner throughout and the ownership test for BR would be satisfied.
+
+Woodland relief
+
+Woodland relief is not available for settled property (IHTM04374 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04374)).

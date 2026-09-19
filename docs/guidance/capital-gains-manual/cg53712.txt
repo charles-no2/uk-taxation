@@ -1,0 +1,22 @@
+Qualifying corporate bonds: share reorganisations: the effect of section 116: QCBs to shares and non QCBs
+Identifier: CG53712
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53712
+Published: 2016-03-12T11:33:19+00:00
+Updated: 2016-01-26T09:09:40+00:00
+Retrieved (UTC): 2026-09-18T14:43:03.456553+00:00
+
+CG53710-CG53711 explains the position where the new asset consists of a qualifying corporate bond (QCB) but the old asset does not, see CG53710 for an explanation of the terms old and new asset. This paragraph explains the effect of TCGA 1992 section 116 where the old asset consists of a QCB but the new asset does not, and there was a relevant transaction, ie. sections 127 - 130 would apply. In such a situation it is possible that any gain that accrued on the QCB to the date of the relevant transaction could effectively be brought into charge when there is a disposal of the new, chargeable asset.
+
+Example 1 (part 1)
+
+Company B makes an offer to acquire the shares and QCBs in company A for shares in company B and section 135 applies, see CG52521+.
+
+Amarjeet holds QCBs in company A (which were not acquired as a result of a previous takeover to which section 127 applied). Ordinarily when Amarjeet sold or redeemed her QCBs in company A then in accordance with section 115 any gain that had accrued to the date of disposal would not be a chargeable gain. However if Amarjeet accepted company B’s offer she will have exchanged her QCBs in company A for shares in company B and section 127 will apply so that her company B shares are treated as the same asset as her company A QCBs, and as having been acquired at the same time and at the same cost. Amarjeet no longer holds an asset (QCBs) on which any gain would not be a chargeable gain. In exchange she now holds an asset (shares) which if a gain accrues on a disposal of those shares then that gain will be a chargeable gain.
+
+Example 1 (part 2)
+
+Amarjeet acquired the QCBs in company A on 1/1/95 for £50,000. At the time of the offer by company B the market value of the QCBs in company A was £85,000. On 1/1/12 Amarjeet sold her shares in company B for £100,000.
+
+If section 127 had effect at the time of the exchange (the relevant transaction) then for the purposes of the TCGA Amarjeet would be deemed to have acquired her shares in company B on 1/1/95 for £50,000. When Amarjeet sells her shares in company B her gain would be £50,000 (£100,000-£50,000). Part of that gain is attributable to the period when Amarjeet held QCBs in company A (£85,000 - £50,000 = £35,000). However as the disposal which gave rise to the gain, that is of the disposal of shares in company B, was not a disposal of QCBs then without special provision section 115 can not apply to ensure that the gain of £35,000 is not a chargeable gain.
+
+To prevent the gain of £35,000 being a chargeable gain the combined effect of section 116(5) and (9) is that there is a disposal at the time of the relevant transaction. In the above example the relevant transaction is when Amarjeet exchanges her QCBs in company A for shares in company B. The relevant transaction is treated as a disposal of the old asset and an acquisition of the new asset. Therefore in the above example for the purposes of the TCGA Amarjeet has disposed of her QCBs at the time of the exchange (relevant transaction) and under section 115 any gain will not be a chargeable gain. Amarjeet is treated as having made an acquisition of the shares in company B at the time of the exchange. CG53718 explains how the cost of the shares in company B is determined for the purposes of the TCGA.

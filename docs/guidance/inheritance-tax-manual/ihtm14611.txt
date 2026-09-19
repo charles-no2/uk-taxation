@@ -1,0 +1,46 @@
+Lifetime transfers: specific lifetime reliefs: taper relief: when the relief applies
+Identifier: IHTM14611
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14611
+Published: 2016-04-09T09:20:27+01:00
+Updated: 2022-02-16T16:57:05+00:00
+Retrieved (UTC): 2026-09-18T14:58:04.255605+00:00
+
+Taper relief under IHTA/S7(4) applies where:
+
+- the transfer was made more than three years before the transferor’s death,
+
+- tax is due on the transfer in its own right.
+
+The relief does not apply against tax on immediately chargeable transfers (IHTM04067 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04067)), unless there is a subsequent death and you are considering additional charges (IHTM14571 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14571)).
+
+Although we use the term taper relief it is not strictly a relief as defined elsewhere in the Inheritance Tax Act. Instead it takes the form of a percentage reduction in the tax which would otherwise be payable on the transfer. So, if no tax is payable on the transfer because it does not exceed the Inheritance Tax (IHT) nil-rate band (after cumulation (IHTM14502 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14502))), there can be no relief.
+
+Taper relief does not reduce the capital value of the transfer.
+
+Example 1
+
+Albert makes a gift of £300,000 on 1 February 2009. He dies on 20 June 2012.
+
+The gift is over three years from the date of death, but its value is below the IHT nil-rate band at the date of death. There is no tax directly attributable to the gift and so no taper relief applies.
+
+Example 2
+
+Take the same situation as above, but Albert had made an earlier gift of £100,000 on 1 January 2009.
+
+After taking into account cumulation (IHTM14513 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14513)), the gift on 1 February 2009 now exceeds the IHT nil-rate band.
+
+Value of transfer = £300,000
+
+Jan 09 transfer +£100,000
+
+Chargeable total = £400,000
+
+IHT nil-rate band -£325,000
+
+Capital value chargeable to tax = £75,000
+
+Taper relief applies against the tax on the £75,000 above the IHT nil-rate band.
+
+If the IHT threshold was increased by transferred nil rate band (TNRB IHTM43001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43001)) tax would only be attributable to the gifts if they exceeded the increased IHT nil-rate band.
+
+In example 2 above, if Albert’s personal representatives had been able to claim a transfer of the full unused nil-rate band of his late wife, increasing the IHT nil-rate band on his death to £650,000, the value of the gifts would be below the increased IHT nil-rate band. No tax would now be directly attributable to the gifts and no taper relief applies.

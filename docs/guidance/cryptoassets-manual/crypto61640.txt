@@ -1,0 +1,34 @@
+Decentralised Finance: Lending and staking: Chargeable Gains: Collateral
+Identifier: CRYPTO61640
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61640
+Published: 2022-02-02T15:09:27+00:00
+Updated: 2022-02-02T15:09:15+00:00
+Retrieved (UTC): 2026-09-18T16:18:43.416071+00:00
+
+Many Decentralised Finance (DeFi) lending platforms require a borrower to provide collateral before they are allowed to borrow from the DeFi lending platform. It will be necessary to consider the terms and conditions of the DeFi lending platform to understand whether the giving of collateral is a disposal.
+
+Where, under their terms and conditions, a DeFi lending platform is allowed to deal as it wishes with the tokens received as collateral, this will be a strong indicator that the DeFi lending platform has acquired the beneficial ownership of those tokens. If the DeFi lending platform has acquired the beneficial ownership of the tokens then the borrower will have disposed of their beneficial ownership of those tokens.
+
+Conversely if the DeFi lending platform is specifically restricted from dealing with the tokens received as collateral, this will be a strong indicator that the DeFi lending platform has not acquired beneficial ownership of those tokens. Therefore the borrower has retained beneficial ownership of the tokens and has not made a disposal.
+
+CG treatment where the giving of collateral results in a disposal
+
+Where the facts show that a disposal has occurred, the consideration for the disposal will be the market value in sterling of the tokens given. The gain or loss will then be computed as normal.
+
+When the collateral is withdrawn from the DeFi lending platform then this will be an acquisition. The acquisition cost of the tokens will be the market value in sterling of the tokens received.
+
+If the borrower’s position becomes liquidated by the DeFi lending platform then this won’t have any Chargeable Gains (CG) consequences. This is because the borrower will have already disposed of the tokens when they were transferred to the DeFi lending platform.
+
+CG treatment where the giving of collateral does not result in a disposal
+
+Where the facts show that a disposal has not occurred, section 26 Taxation of Chargeable Gains Act (TCGA) 1992 will apply.
+
+When the collateral is withdrawn from the DeFi lending platform then this has no CG consequences. This is because the borrower has retained the beneficial ownership of the tokens while they were in the control of the DeFi lending platform.
+
+If a borrower’s position needs to be liquidated by the DeFi lending platform then section 26(2) TCGA 1992 will apply. The DeFi lending platform is treated as a nominee for the borrower, so that the dealings of the DeFi lending platform with the collateral/security are, for CG purposes, dealings of the borrower. Consequently any gain or loss on a disposal of the tokens held as collateral by the DeFi lending platform is deemed to be the gain or loss of the borrower. The tokens disposed of to settle the borrower’s position are treated as disposed of at their market value in sterling.
+
+When a liquidation of a borrower’s position occurs, it is common for the DeFi lending platform to offer the position to third parties, referred to as liquidators. The liquidator takes on the borrower’s obligation to repay some or all of the loan to the DeFi lending platform. As an incentive to the liquidators for doing this, the DeFi lending platform may take an extra proportion of the borrower’s collateral as a penalty and then provide that quantity of tokens to the liquidator as a bonus.
+
+Tokens taken from the borrower as a penalty will not satisfy section 38 TCGA 1992 meaning that the market value of those tokens will not be an allowable deduction in calculating any gain or loss for CG purposes. Section 38 TCGA 1992 is a restrictive provision, only allowing a deduction for expenditure that satisfies one of the subsections. The tokens taken as the penalty can’t be said to be expenditure to acquire or provide an asset, expenditure to enhance an asset, expenditure to establish, preserve or defend the person’s rights to an asset, or incidental costs of acquiring or disposing of an asset as per the list in section 38(2) TCGA 1992.
+
+For an example of a CG computation where the borrower’s collateral is liquidated, see CRYPTO61675 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61675).

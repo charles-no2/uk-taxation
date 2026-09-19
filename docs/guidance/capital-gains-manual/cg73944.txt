@@ -1,0 +1,24 @@
+NRCG and the exemptions: Disposals from 6 April 2019: Indirect disposals: Related party assets and liabilities
+Identifier: CG73944
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73944
+Published: 2020-02-05T15:00:38+00:00
+Updated: 2020-02-10T14:42:53+00:00
+Retrieved (UTC): 2026-09-18T14:46:51.702671+00:00
+
+TCGA92/Sch1A Para 4
+
+The 75% property richness test is made by considering the proportion of UK land in relation to the overall qualifying assets of the company being disposed of. Qualifying assets includes all of the assets of the company, apart from those matching related party liabilities. Related party assets will include, but not be limited to, intra-group loans and derivatives.
+
+Liabilities are not considered when performing the UK property richness test. Removing related party assets ensures that the test is performed on the consolidated gross asset value of the entities being disposed of.
+
+It is necessary to consider related party assets and liabilities where a company (which is the target of the UK property richness test; see [link]), is disposed of along with other connected companies in one disposal (or one arrangement; see CG73944 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73944)).
+
+As noted in CG73934 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73934), the value used for the property richness test will commonly be the balance sheet or similar value. In a case where one company is leasing property to another company being disposed of in the same disposal or arrangement, it would be expected that the value of the liability on the lease would not be represented separately, but would be reflected in the asset value of the lease. In removing the value of the lease as an asset, this thereby ensures that the value of the property is only considered once.
+
+In the example below, the shareholders are disposing of companies D, E, and F by disposing of their interests in the shares in D. In considering whether the shares in D are a UK property rich asset, the shareholders will look at the assets of E and F in addition to the assets of D. E holds £75,000 of UK land, and owes £10,000 to D. F holds bonds (unconnected to UK land) worth £25,000.
+
+See Diagram (http://www.hmrc.gov.uk/gds/cg/attachments/CG73944.pdf)
+
+Under paragraph 4, the qualifying assets will include all of the assets apart from those linked to related party liabilities. The creditor loan balance of £10,000 in D’s hands is an asset linked to the liability in E, and as E’s assets are included in the UK property richness test performed on D the asset of £10,000 in D is not a qualifying asset.
+
+The only qualifying assets are therefore the £75,000 of UK land in E, and the £25,000 bonds in F. 75% of D’s gross assets are UK land, so the shares in D are a UK property rich asset in the hands of its shareholders.

@@ -1,0 +1,60 @@
+Share valuation: 1982 holding of unquoted shares: part disposals
+Identifier: CG59581
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg59581
+Published: 2016-03-12T11:49:14+00:00
+Updated: 2023-06-08T09:50:10+01:00
+Retrieved (UTC): 2026-09-18T14:44:33.704709+00:00
+
+The valuation you need is of the entire 1982 holding and not merely the shares sold.
+
+Example
+
+- In 1968 Stilton Holdings Ltd subscribed £10,000 for 10,000 £1 ordinary shares in Mowbray Metals Ltd.
+
+- In 1979 it subscribed for a further 8,000 £1 ordinary shares in Mowbray Metals Ltd at a cost of £4.00 per share.
+
+- In October 2012 it sold 6,000 shares for £90,000.
+
+- The taxpayer has not made an election under TCGA92/S35(5).
+
+Stilton Holdings therefore had a 1982 holding of 18,000 £1 ordinary shares costing £10,000 + £32,000 = £42,000.
+
+The valuation required from SAV is of 18,000 £1 ordinary shares in Mowbray Metals Ltd as at 31 March 1982. Assume SAV agree a value of £5.00 per share for a shareholding of that size.
+
+In the absence of an election under TCGA92/S35(5) it is necessary to make the kink test comparison between the capital gain computed by reference to the 31 March 1982 value and the original cost. That would not be needed for capital gains tax purposes for a disposal on or after 6 April 2008, nor would indexation allowance apply.
+
+Capital Gain - 31 March 1982 value
+
+- |  - |  - |  £ |
+
+Disposal proceeds |  - |  - |  90,000 |
+
+less Cost |  £90,000 x |  6,000 |  30,000 |
+
+- |  - |  18,000 |  - |
+
+Unindexed gain |  - |  - |  20,000 |
+
+less Indexation |  £30,000 x 2.092 |  - |  62,760 |
+
+LOSS |  - |  - |  (2,760) |
+
+Capital Gain - Original Cost
+
+- |  - |  - |  £ |
+
+Disposal proceeds |  - |  - |  90,000 |
+
+less Cost |  £42,000 x |  6,000 |  14,000 |
+
+- |  - |  18,000 |  - |
+
+Unindexed gain |  - |  - |  36,000 |
+
+less Indexation |  £30,000 x 2.092 |  - |  62,760 |
+
+GAIN |  - |  - |  13,240 |
+
+Therefore this transaction is treated as no gain/no loss by virtue of TCGA92/S35 (4).
+
+*Indexation allowance is given on the 31 March 1982 value or original cost whichever is higher.

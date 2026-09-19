@@ -1,0 +1,52 @@
+Business Asset Disposal Relief: trading company and holding company of a trading group - investments in joint venture companies - 18 March 2015 and later
+Identifier: CG64083
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64083
+Published: 2017-06-22T10:48:56+01:00
+Updated: 2020-09-24T07:41:20+01:00
+Retrieved (UTC): 2026-09-18T14:34:22.643297+00:00
+
+Entrepreneurs’ Relief was renamed in Finance Act 2020 with effect from 6 April 2020. The new name is generally used in this guidance but should be read as applying to times before that date.
+
+The following guidance is relevant only to disposals made on or after 18 March 2015.
+
+The terms “trading company” and “trading group” have different meanings within different sections of Ch3 Pt. 5 of TCGA92 (which provides for Business Asset Disposal Relief). Their meanings were previously given by TCGA92/S169S(4A), but that subsection has been superseded by TCGA92/SCH7ZA.
+
+The following guidance applies to the use of the terms in relation to disposals of shares or securities by an individual (TCGA92/S169I(6) and (7A)) or by a trust (TCGA92/S169J(4)).
+
+The basic definitions at TCAG92/S165A are still used but whether the activities of a joint venture company or a partnership are attributed to the investing company depends upon the level of direct or indirect interest in the shares of the joint venture company, or the assets, profits and voting rights of the partnership, held by the individual who is claiming the relief.
+
+The relevant legislation is found at TCGA92/SCH7ZA.
+
+Joint Venture Companies
+
+In order for a proportion of the joint venture company’s activities to be attributed to the investing company (for the purpose of a claim made in respect of shares in the investing company) the individual making the disposal must pass the shareholding and voting rights tests. Each test is passed if, throughout the relevant 2 year period, the result of the relevant calculation is at least 5%. The calculation is made following a prescribed formula.
+
+The shareholding test is the sum of the percentage of the ordinary share capital of the joint venture company held directly by the claimant and that held indirectly through certain “investing companies”. The aim of the test is to ensure that each claimant has an ‘effective’ 5% stake in the joint venture company.
+
+To calculate the indirect percentage, the fraction of the ordinary share capital of each company which is directly held by the customer (known as an investing company) is multiplied by the fraction of the ordinary share capital of the joint venture company held by the investing company (whether directly or indirectly).
+
+The fractions are however modified in certain circumstances. If the investing company owns more than half of the ordinary share capital of a company then it is treated as owning all of the ordinary share capital. If the company holding the shares of the joint venture company is in a group with the investing company, and there are further companies between them, then for the purposes of attributing activities of the joint venture company to a group company, each holding company in the ownership chain (other than the ‘top’, investing company) is treated as holding the whole of the share capital of its subsidiary.
+
+If there is more than one investing company in which the customer holds shares, the formula is used for each and the results are added together.
+
+The above applies in a similar fashion in calculating the total indirect voting rights percentage and its component parts.
+
+Partnerships
+
+Where there is a partnership, each partner carries on the activities of the partnership’s business so a corporate partner can meet the trading company definition if the partnership is carrying on trading activity. FA2016 introduced a rule that for Business Asset Disposal Relief purposes the attributed activities of the partnership are treated as not being trading activities if, in relation to the claimant, either or both of the profits and assets test or the voting rights test are failed. The rules are similar to those which apply for deciding whether to attribute a joint venture companies’ activities, but the legislation is worded differently. The joint venture company legislation in Part 2 refers to passing the tests whereas the partnership legislation in Part 3 refers to failing them. In addition, the activities are treated as non-trading activity if the company is not a member of the partnership throughout the relevant 2 year period.
+
+The profits and assets test and the voting rights test are passed if, throughout the relevant 2 year period, the result of the relevant calculations is at least 5%. The aim of the tests is to ensure that the claimant has a genuine interest of at least 5% in the partnership.
+
+The profits and assets test involves computing the sum of (i) the percentage interest in the assets of the partnership held directly by the customer and (ii) the percentage held indirectly through “direct interest companies” (companies in which the individual directly holds shares) and “relevant corporate partners” (companies in which a direct interest company holds shares directly or indirectly and which are in the same group as the direct interest company) that are members of the partnership.
+
+To calculate the indirect percentage held through a particular “direct interest company”, the fraction of the ordinary share capital of the direct interest company which is held by the customer is multiplied by the lower of the fractions of the profits or assets of the partnership held by the direct interest company.
+
+To calculate the indirect percentage held through a “relevant corporate partner”, the fraction of the ordinary share capital of the direct interest company which is held by the customer is multiplied by the fraction of the ordinary share capital of the relevant corporate partner which is held directly or indirectly by the direct interest company. The resulting percentage is multiplied by the lower of the fractions of the profits or assets of the partnership held by the relevant corporate partner
+
+The fractions are however modified in certain circumstances. If the direct interest company holds more than half of the share capital of another company then the actual fraction is replaced by 1. If the company which is a partner is in a group with the direct interest company, and there are further companies between them, then for the purposes of attributing activities to a group company, each holding company (other than the direct interest company) is treated as holding the whole of the share capital of the subsidiary.
+
+If there is more than one investing company, the formula is used for each and the results are added together.
+
+The above applies in a similar fashion in calculating the indirect voting rights percentage.
+
+For disposals before 6 April 2019, the relevant period was one year rather than two. Where a disposal takes place on or after 6 April 2019 and the end of the relevant period would be before 29 October 2018, the period remains one year.

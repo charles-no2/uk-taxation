@@ -1,0 +1,118 @@
+Deceased persons: beneficiaries of estates - tax rules for income
+Identifier: TSEM7453
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem7453
+Published: 2016-05-02T16:52:59+01:00
+Updated: 2026-05-20T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:20:32.473471+00:00
+
+In general law the income that arises to the estate of a deceased person during the administration period is that of the personal representatives. They are liable to tax on this income either at the basic rate, savings rate (for years where this rate applies) or the dividend rate depending on the type of income. The income then becomes chargeable income for any beneficiary who later receives it. The beneficiary is entitled to a tax credit for the tax previously paid by the personal representatives.
+
+Specific legacies
+
+The legatee is not chargeable to tax on the income arising on the legacy until the personal representatives decide to pass the income on to them. The income must then be treated as having belonged to the specific legatee in the years when it arose to the personal representatives. Find the rules for specific legacies at TSEM7490 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem7490).
+
+Interest in residue
+
+Special tax rules in Chapter 6 Part 5 ITTOIA (for non-corporate beneficiaries) and Chapter 3 Part 10 CTA 2009 (for corporate beneficiaries) have to be applied before such income can be treated as income of the beneficiary who has an interest in the residue of the deceased person’s estate.
+
+Beneficiaries' income from residue of estates in administration
+
+Background
+
+Prior to 1938 the Courts held that the income arising to an estate during the administration period is not the income of the residuary legatee for tax purposes. In 1938 the position was defined in legislation for Income Tax (and Sur-tax) purposes so that the income is also deemed to be income of the beneficiary. The position remains broadly same as then. That is, payments representing income of an estate received by, or due to, persons having an interest in the residue of the estate are subject to Income Tax or Corporation Tax. A credit is given for tax borne by the personal representatives on the income.
+
+Broad structure of Part 5, Chapter 6 (from the cross-headers) is as follows:
+
+[Whether tax is chargeable and on whom]
+
+- ss.649 to 651: The charge to tax on estate income
+
+- ss.652 to 655: Types of estate income
+
+- ss.656 to 659: Income charged and person liable
+
+[Calculation regarding the amount of tax payable]
+
+- ss.660 to 664: Basic amount of estate income: general calculation rules
+
+- ss.665 to 670: Further provisions for calculating estate income relating to absolute interests
+
+- ss.671 to 676: Special rules for successive interests
+
+- ss.677 to 678: Relief where foreign estates have borne UK income tax
+
+- ss.679 to 682A: General
+
+Basic amount
+
+The basic amount is the amount of income from residue of the estate which the beneficiary is entitled to for the tax year. This is chargeable as estate income by s649.
+
+De minimis
+
+From 6 April 2024, s649 and s680(1A) provide that where the beneficiary’s share of income derives from an amount within the tax-free de minimis for the PRs, it is also not taxable estate income for the beneficiary.
+
+PRs income taken into account
+
+S664 defines that all (the aggregate) income received by the PRs is taken into account – after deductions. Unless it relates to a specific gift under the will (which becomes beneficially owned by the beneficiary on death and does not form part of the residuary estate).
+
+Some deemed income is not chargeable on the PRs but must be included in the income total:
+
+- Stock dividends from UK companies
+
+- Release of loans to participator in close company
+
+- Some gains from contracts for life insurance
+
+S679 provides ordering of income from the aggregate income of the estate to attribute the basic amount. After being apportioned according to the beneficiaries’ interests, payments are treated as made starting with the income bearing tax at the highest rate to income bearing tax at the lowest rate. [From 6 April 2024, income within the PR’s tax-free de minimis is ordered last.]
+
+Income from an ISA or Lifetime ISA (not Junior ISA) continues to be exempt for the estate for up to 3 years following the death. (Reg 2G inserted to SI 1998/1870 from 6/4/2018) TSEM7413. Such exempt income is not included in the aggregate income of the estate and so is also not taxable for the beneficiary (s664(2)(a)).
+
+Guidance on gains for contracts for life insurance is at IPTM3240 (https://www.gov.uk/hmrc-internal-manuals/insurance-policyholder-taxation-manual/iptm3240).
+
+Grossing-up/tax credits – UK estates
+
+The key starting place is s.656(2) which, in combination with the prior provisions, provides essentially that tax is charged on the grossed-up basic amounts of estate income.
+
+The broad aim of s.663 is to establish this grossed-up amount. In simple terms, this should be the basic amount plus the tax borne by the PRs on that amount (at the time the income arose to them).
+
+The route to achieve that should be by grossing at the ‘applicable rate’ by reference to the corresponding part of the aggregate income of the estate from which the basic amount derives. Applicable rate: s670.
+
+- Stock dividends from UK companies (grossed at 0%)
+
+- Release of loans to participator in close company (grossed at 0%)
+
+- Gains from contracts for life insurance (grossed at basic rate – credit is non repayable)
+
+The PRs sort out any issues settling tax with foreign tax credits and the applicable rate does not carry any character. For the purpose of beneficiary grossing and credits, it does not matter whether any amount payable by the PRs is settled by way of non-repayable tax credits. The full grossing and credit is available to the beneficiary and may be repaid where appropriate.
+
+Foreign estates
+
+S657 provides that the basic amount is not grossed up. Excepting:
+
+- income under s680(4) (gains from life insurance contracts) treated as bearing income tax at basic rate and
+
+- dividends treated as bearing income tax at dividend rates
+
+Relief for UK tax is provided separately by s667/668.
+
+Character of estate income
+
+‘Estate income’ for the beneficiary does not automatically carry the character of the income for the PRs. The following deeming provisions apply so that the beneficiary can claim appropriate rates, reliefs and allowances:
+
+- S680A deems appropriate income from UK estates as dividend income – including stock dividends and release of loans re close company (not corporate beneficiaries)
+
+- S680B deems appropriate income from UK estates as savings income (not corporate beneficiaries). Note that S664(2)(e) gains from contracts for life insurance that have a nominal tax credit are not deemed to be savings income.
+
+- S680C deems appropriate income from UK estates as property income (not corporate beneficiaries) effective from 6 April 2027.
+
+No further character is attributed other than dividend income, savings income or property income. Reliefs for specific types of income (such as top slice relief for policy gains) do not apply.
+
+Income from a UK estate is UK income, not foreign income – s658(2)(b).
+
+Income from a foreign estate remains ‘estate income’.
+
+Corporate beneficiaries
+
+Chapter 3 of Part 10 of the Corporation Tax Act (CTA) 2009 (s934 to s968) concerns the taxation of beneficiaries’ income from estates in administration. The provisions generally mirror those for ITTOIA.
+
+Corporate beneficiaries include charities.

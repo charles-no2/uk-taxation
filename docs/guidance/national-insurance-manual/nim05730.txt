@@ -1,0 +1,40 @@
+Class 1 NICs: Expenses and allowances: Mileage allowances: Rules before 6 April 2002: Employer restricts the amount of business mileage paid - examples
+Identifier: NIM05730
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim05730
+Published: 2016-04-11T17:12:55+01:00
+Updated: 2022-03-01T13:38:05+00:00
+Retrieved (UTC): 2026-09-18T15:21:53.854522+00:00
+
+Example 1 – Employer’s mileage rate exceeds authorised rate and business miles travelled multiplied by authorised mileage rate is more than business miles paid multiplied by employer’s mileage rate
+
+This needs to be read in the context of the applicable NICS treatment that applied pre 06 April 2002
+
+Mr Smith’s employer pays a mileage rate of £0.70 a mile for business journeys. He calculates the amount to pay by comparing the cost of the journey from Mr Smith’s home to the place where he is required to attend the business meeting, with what it would have cost if Mr Smith’s journey had started and finished at his normal workplace. The Inland Revenue’s Authorised Mileage (AMR) rate for Mr Smith’s car is £0.45 permile.
+
+Mr Smith drives straight from home to the business meeting which is 20 miles away. From there he goes 8 miles to his normal office (making his total business travel for the meeting 28 miles) and finally returns home, a distance of 15 miles.
+
+Applying the “lesser of” rule, Mr Smith’s employer pays him £11.20 (16miles x £0.70) for the journey. That is, for the 16 miles round trip between his normal office and the meeting.
+
+The amount of NICs due on the mileage rate of £0.70 is calculated as follows:
+
+- Payment made = 16 miles x £0.70 = £11.20
+
+- AMR allowed = 28 miles x £0.45 = £12.60
+
+- No NICs are due on the payment Mr Smith receives because the AMR allowed exceeds the payment made. This is despite the fact that the employer pays a mileage allowance per mile that exceeds the AMR.
+
+Example 2 - Employer’s mileage rate exceeds authorised rate and business miles travelled multiplied by authorised mileage rate is less than business miles paid multiplied by employer’s mileage rate
+
+Mrs Jones’ employer pays a mileage rate of £0.70 a mile for business journeys. He calculates the amount to pay by comparing the cost of the journey from Mrs Jones’ home to her temporary work place with what it would have cost if Mrs Jones had started and finished at her normal workplace. The AMR for Mrs Jones car is £0.45 per mile.
+
+Mrs Jones drives straight from home to her temporary workplace which is 30 miles away and returns home without calling at her normal office. The whole journey is therefore business travel. The temporary workplace is 22 miles from her normal office.
+
+Applying the “lesser of” rule, Mrs Jones’ employer pays her £30.80 for the journey (44 miles x £0.70). That is, for the 44 mile round trip between her normal office and temporary workplace, because this is less than the 60 miles she actually travelled.
+
+The amount of NICs due on the mileage rate of £0.70 is calculated as follows:
+
+- Payment made = 44 miles x £0.70 = £30.80
+
+- AMR allowed = 60 miles x £0.45 = £27.00
+
+- NICs are due on £30.80 - £27.00 = £3.80

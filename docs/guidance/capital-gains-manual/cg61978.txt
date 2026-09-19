@@ -1,0 +1,82 @@
+Roll-over relief on transfer of shares to Share Incentive Plan: computing relief
+Identifier: CG61978
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg61978
+Published: 2016-03-12T11:52:13+00:00
+Updated: 2023-06-09T09:24:08+01:00
+Retrieved (UTC): 2026-09-18T14:33:59.980605+00:00
+
+Where shares are disposed of to the trustees of an approved Share Incentive Plan and a chargeable gain arises, a claim may be made to have that gain deducted from the acquisition cost of a replacement asset acquired in the specified period, TCGA92/SCH7C/PARA5.
+
+The relief is only available if claimed. Claims have to be made within a period of two years from the date of acquisition of the replacement asset. A company cannot claim the relief.
+
+You apply any other capital gains provisions which affect the consideration for disposal or acquisition before allowing the relief, for example the market value rule if the person disposing of the shares acquires a replacement asset from a connected person.
+
+The examples below show how to calculate the relief when there is only one replacement asset, as in each the XYZ Ltd shares are regarded as a single holding. If you are dealing with a case where there are a number of replacement assets, you allocate the relief between them on a just and reasonable basis.
+
+Full Reinvestment
+
+If the replacement asset is acquired for the full amount of the disposal consideration, then:
+
+- you reduce the consideration for the disposal to a figure that gives a no gain/no loss result, and
+
+- you reduce the acquisition cost of the replacement asset by the same amount.
+
+The whole of the capital gain is rolled over into the acquisition cost of the replacement asset.
+
+As an example, suppose that Mr A acquired shares in AA Ltd for £5,000 in April 2008.
+
+In July 2019, he sells them to the trustees of the AA Ltd approved Share Incentive Plan for their market value of £15,000 making a gain of £10,000. In August 2019, he acquires shares in XYZ Ltd for £17,500 and claims relief under TCGA92/SCH7C.
+
+The computations are:
+
+- |  - |  £ |
+
+(a) |  No gain/no loss on disposal on AA Ltd shares |  - |
+
+- |  Actual consideration |  15,000 |
+
+- |  No gain/no loss consideration |  5,000 |
+
+- |  Reduction |  10,000 |
+
+(b) |  Reduced costs of XYZ Ltd shares: |  - |
+
+- |  Actual cost |  17,500 |
+
+- |  Reduction |  10,000 |
+
+- |  Cost to carry forward |  7,500 |
+
+Partial Reinvestment
+
+If the replacement asset is acquired for less than the full amount of the disposal consideration, then partial relief may be available.
+
+If the amount which is not used is less than the amount of the original gain, then:
+
+- you reduce the amount of the gain to the amount not used, then
+
+- you reduce the acquisition cost of the replacement asset by the reduction in the gain.
+
+Part of the capital gain is rolled over into the acquisition cost of the replacement asset and part remains chargeable.
+
+There is no relief if the amount which is not used is greater than the amount of the original gain. On the facts in the example above, with the exception that this time Mr A acquires the XYZ Ltd shares for £10,000, the computation now becomes:
+
+- |  - |  £ |
+
+(a) |  Reduction in gain on disposal of AA Ltd shares: |  - |
+
+- |  Actual gain |  10,000 |
+
+- |  Amount not used (15000-10000) |  5,000 |
+
+- |  Reduction in gain |  5,000 |
+
+(b) |  Reduced cost of XYZ Ltd |  - |
+
+- |  Actual cost |  10,000 |
+
+- |  Reduction in gain |  5,000 |
+
+- |  Cost to carry forward |  5,000 |
+
+- |  Chargeable gain arising in 2019-20 |  5,000 |

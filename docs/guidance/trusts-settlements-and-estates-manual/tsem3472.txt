@@ -1,0 +1,18 @@
+Trust income and gains: vulnerable beneficiaries: claims to special tax treatment: computing the amount of relief: income tax - TLV2 and TLV1
+Identifier: TSEM3472
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3472
+Published: 2016-05-02T16:35:21+01:00
+Updated: 2023-08-30T14:00:50+01:00
+Retrieved (UTC): 2026-09-18T16:19:46.444131+00:00
+
+TLV2 is the vulnerable person’s total income tax and CGT liability on their actual income and gains but for the purposes of computing that liability the following should not be taken into account
+
+- income distributed by the trustees to the vulnerable person as a beneficiary in the tax year, and
+
+- any relief given to the vulnerable person by way of a reduction in the amount of income tax, for example married couple’s allowance.
+
+The CGT element in TLV2 is the vulnerable person’s CGT liability for the year, including the tax on any gains chargeable on the person under the special capital gains tax treatment. See CG35500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg35500)+.
+
+The method of calculating the CGT element changed from 2008-09 (see CG35522 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg35522)). The method of calculating the income tax element did not change.
+
+TLV1 is TLV2 plus the qualifying trusts income arising to the trustees. When calculating the additional tax, bear in mind that the inclusion of the qualifying trusts income may increase part or all of the CGT liability by pushing it into a higher tax rate band. This is so whether or not there are any gains subject to the special tax treatment.

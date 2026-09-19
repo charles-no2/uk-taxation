@@ -1,0 +1,132 @@
+Deferred consideration: shares and securities: example
+Identifier: CG58090
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58090
+Published: 2018-09-24T16:04:37+01:00
+Updated: 2023-07-03T08:49:21+01:00
+Retrieved (UTC): 2026-09-18T14:44:20.563063+00:00
+
+TCGA92/S138A
+
+This example illustrates the effect of TCGA92/S138A if the customer receives an immediate issue of debentures, which are Qualifying Corporate Bonds (QCBs), and an unascertainable deferred amount of shares and debentures, which are also QCBs.
+
+NOTE From 6 April 2008 only companies and other concerns within the charge to Corporation Tax may be able to claim indexation allowance, see CG17207 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17207).
+
+FACTS
+
+In year 0 V Ltd acquires all the shares in T Ltd for £100,000.
+
+In year 10 V Ltd sells the shares in T Ltd at arm’s length to P Ltd.
+
+The consideration is
+
+- debentures of P Ltd to the value of £300,000
+
+- the right to a payment of deferred consideration, the amount depending on future profits of T Ltd, to be satisfied only by an issue of shares in or debentures of P Ltd.
+
+The market value of the right to deferred consideration at the time of disposal is agreed by Shares and Assets Valuation at £250,000.
+
+In year 11 shares in P Ltd to the value of £169,000 (44,591 shares at £3.79 each) and debentures in P Ltd to the value of £86,000 are issued in full satisfaction of the right to deferred consideration.
+
+All of the debentures issued are QCBs.
+
+All of the conditions are satisfied and the earn-out right is treated as a security by section 138A.
+
+COMPUTATION
+
+A. COMPUTATION OF HELD OVER CHARGEABLE GAIN
+
+Description |  Action |  Calculation |  Amount |
+
+Market value of part of original holding |  - |  - |  - |
+
+( = value of the debenture) |  - |  - |  £300,000 |
+
+Apportioned cost |  - |  - |  - |
+
+£100,000 |  x |  £300,000 |  - |
+
+- |  - |  -————————- |  £54,545 |
+
+- |  - |  £300,000 + £250,000 |  - |
+
+Unindexed gain |  - |  - |  £245,455 |
+
+Indexation |  - |  £54,545 x 0.250 |  £13,637 |
+
+Held over gain |  - |  - |  £231,818 |
+
+B. COST OF NOTIONAL SECURITY
+
+Description |  Amount |
+
+Cost £100,000 - £54,545 |  £45,455 |
+
+Indexed rise to year 10 |  - |
+
+£45,455 x 0.250 |  £11,364 |
+
+- |  -———- |
+
+Indexed pool of expenditure |  £56,819 |
+
+- |  -———- |
+
+C. COMPUTATIONS WHEN DEFERRED CONSIDERATION RECEIVED
+
+i) Computation of held over gain on debenture
+
+Description |  Action |  Calculation |  Amount |  Total |
+
+Market value of part of notional security |  - |  - |  - |  - |
+
+( = value of the debenture) |  - |  - |  - |  £86,000 |
+
+Apportioned cost |  - |  - |  - |  - |
+
+£45,455 |  x |  £86,000 |  - |  - |
+
+- |  - |  -————————- |  £15,330 |  - |
+
+- |  - |  £86,000 + £169,000 |  - |  - |
+
+Indexation (year 0 to year 11) |  - |  - |  - |  - |
+
+- |  - |  £15,330 x 0.281 |  £4,308 |  £19,638 |
+
+- |  - |  - |  -———- |  -———– |
+
+Held over gain |  - |  - |  - |  £66,362 |
+
+ii) Computation of cost of shares issued
+
+Description |  Amount |
+
+Cost £45,455 - £15,330 |  £30,125 |
+
+Indexed rise to year 11 |  - |
+
+£30,125 x 0.281 |  £8,465 |
+
+- |  -———- |
+
+Indexed pool of expenditure |  £38,590 |
+
+- |  -———- |
+
+EXPLANATION
+
+A. IMMEDIATE ISSUE OF QCBS
+
+A chargeable gain is calculated in respect of the debenture received which is a QCB. This gain is held over until the debenture is disposed of (TCGA92/S116(10)). This is often when the debenture is redeemed.
+
+B. RIGHT TO UNASCERTAINABLE DEFERRED CONSIDERATION
+
+The right to the deferred consideration constitutes the ‘new holding’ under TCGA92/S127 by virtue of TCGA92/S135(3) and section 138A.
+
+C. COMPUTATION WHEN DEFERRED CONSIDERATION RECEIVED
+
+When shares and QCBs are received in satisfaction of the right:
+
+- the issue of shares is treated as a conversion of securities within TCGA92/S132 under subsection (3)(d) of section 138A
+
+section 116(10) applies to the exchange of the remaining part of the right to deferred consideration for the QCBs. The held over gain on the QCB is calculated by reference to the market value of the right.

@@ -1,0 +1,46 @@
+Indexation: from 6/4/88 example: basic computation
+Identifier: CG17310
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17310
+Published: 2016-03-12T10:16:51+00:00
+Updated: 2023-04-11T12:34:53+01:00
+Retrieved (UTC): 2026-09-18T14:38:24.521221+00:00
+
+On 1 May 1988 Mr A buys three paintings for £20,000 each.
+
+On 1 June 1992 he sells them.
+
+- The first is sold for £100,000 giving an unindexed gain
+
+- The second is sold for £15,000 giving an unindexed loss
+
+- The third is sold for £24,000 giving an unindexed gain
+
+The tables, see CG17290, show that for a disposal in June 1992 of an asset acquired in May 1988, the indexation factor is 0.312, giving indexation of £6,240.
+
+The computations are as follows:
+
+- |  FIRST |  SECOND |  THIRD |
+
+Disposal Proceeds |  100,000 |  15,000 |  24,000 |
+
+Cost |  20,000 |  20,000 |  20,000 |
+
+Unindexed Gain |  80,000 |  Loss (5,000) |  Gain 4,000 |
+
+less Indexation |  6,240 |  6,240 |  6,240 |
+
+Indexed Gain |  73,760 |  Loss (11,240) |  Loss (2,240) |
+
+This shows that before 30 November 1993, indexation could
+
+- reduce a gain as with the first picture,
+
+- increase a loss as with the second, and
+
+- turn an unindexed gain into an indexed loss as with the third.
+
+The effect of the changes applying with effect from 30 November 1993, see CG17700+, assuming a disposal on or after that date, would be that
+
+- the loss on the second would equal the unindexed loss, and
+
+- the unindexed gain on the third would be eliminated by indexation, but there would be no indexed loss.

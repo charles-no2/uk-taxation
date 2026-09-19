@@ -1,0 +1,24 @@
+Succession: Simultaneous deaths (commorientes): Death of elder
+Identifier: IHTM12197
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12197
+Published: 2016-04-09T09:14:54+01:00
+Updated: 2016-08-04T16:56:37+01:00
+Retrieved (UTC): 2026-09-18T14:56:57.778978+00:00
+
+Because IHTA84/S4 (2) applies only for the purposes of IHTA84/S4 (1) and does not affect the devolution of the estate, spouse or civil partner exemption (IHTM11031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11031)) under IHTA84/S18 is still available in England and Wales on property passing on death from the elder to younger spouse or civil partner.
+
+Example
+
+Hector leaves his estate to his younger wife, Wanda, by Will without any requirement that she should survive him by a specified period, such as 30 days. Her Will leaves her estate to Hector but if he does not survive her it passes to their children. Hector and Wanda are killed in an accident. The order of their deaths cannot be established so devolution is governed by Law of Property Act/ S184. Hector being the elder is deemed to have died first, so his assets pass into Wanda’s estate. Wanda’s estate passes to their children.
+
+The position for Inheritance Tax (IHT) is:
+
+- On Hector’s death his estate is spouse or civil partner exempt because Hector’s estate passes to Wanda and S4(2) does not prevent S18 applying
+
+- on Wanda’s death S4(2) operates to exclude Hector’s death estate from Wanda’s death estate for the purposes of the charge under S4(1) on her death. Since Hector and Wanda are treated as having died at the same instant we tax only Wanda’s own estate in connection with her death.
+
+The result is that Hector’s estate escapes IHT on both deaths. So it reaches the children, the beneficiaries under Wanda’s Will, without incurring a tax charge.
+
+In the example above the position would have been different if Hector’s Will had required Wanda to survive him by a certain number of days before she could inherit, or if he had died intestate (IHTM12101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12101)). Hector’s estate would then have passed directly to the children so Hector’s estate would not be spouse or civil partner exempt.
+
+The treatment of simultaneous deaths in Scotland (IHTM12193 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12193)) and in Northern Ireland (IHTM12194 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12194)) is different and no spouse or civil partner exemption under S18 is available in these circumstances.

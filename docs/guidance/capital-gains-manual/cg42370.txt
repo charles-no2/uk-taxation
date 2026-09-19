@@ -1,0 +1,24 @@
+Migration of companies: exit charges
+Identifier: CG42370
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42370
+Published: 2016-03-12T11:04:50+00:00
+Updated: 2021-04-22T10:39:16+01:00
+Retrieved (UTC): 2026-09-18T14:40:44.947773+00:00
+
+TCGA92/S185
+
+TCGA92/S185 imposes a charge to Corporation Tax on the unrealised gains of a company which ceases to be resident in the UK.
+
+In addition roll-over relief is restricted if the new asset is acquired after the company ceases to be UK resident and any gain arising on its immediate deemed disposal would be outside the charge to UK tax.
+
+TCGA92/S185 creates an occasion of charge immediately before the time (the `relevant time’) when a company ceases to be resident in the UK. TCGA92/S185 (2) deems the company to have disposed of all its assets at their market value immediately before the relevant time and to have reacquired them at that value at the relevant time.
+
+The resulting charge to Corporation Tax is known as the `exit charge’.
+
+Certain assets are excluded from the charge. If the migrating company continues to trade in the UK through a permanent establishment then, even though it has become non-resident, it will be within the charge to Corporation Tax by virtue of CTA09/S5 (2) and TCGA92/S10B as regards certain assets. Assets which are situated in the UK and are used or held for the purposes of the trade or permanent establishment are exempted from the exit charge by TCGA92/S185(4).
+
+It is possible to defer the charge on foreign assets of a foreign trade where a subsidiary company migrates but the principal company remains resident in the UK. See CG42390 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg42390).
+
+With effect from 11 December 2012, Sch3ZB TMA70 introduces an “exit charge payment plan” for eligible companies. Such companies may apply for an “exit charge payment plan” deferring payment of exit charges. The amount of tax which may be deferred is the difference between the amount of corporation tax that the company is liable to pay for the migration period and the amount to which it would have been liable absent the various exit charges. Full details can be found at CTM34132 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm34132).
+
+Where the deemed disposal is of an interest in property and an ATED related gain or loss (see CG73600+) would otherwise accrue TCGA92/S187A moves the date of the deemed accrual of the ATED related gain or loss to the date of a subsequent disposal. See CG73665 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73665).

@@ -1,0 +1,18 @@
+PMA: Anti-avoidance: Finance leaseback: Lessor's  income or profits: Termination of lease
+Identifier: CA28950
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28950
+Published: 2016-04-16T08:53:01+01:00
+Updated: 2016-04-06T16:57:03+01:00
+Retrieved (UTC): 2026-09-18T16:21:05.285220+00:00
+
+CAA01/S228E
+
+When a leaseback terminates the lessor may sell the asset that was leased and give the lessee a refund of rentals.
+
+Normally when the lessor sells the asset the disposal proceeds brought to account cannot be more than the qualifying expenditure (CAA01/S62 CA23250 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23250)). In a sale and finance leaseback case the qualifying expenditure is restricted to the lower of market value and notional written down value CA28550. So both the amount that the lessor spent on the asset and its selling price may be more than the qualifying expenditure.
+
+The refund of rentals will be based on the selling price rather than the disposal value brought to account so the deduction for the refund is based on the disposal value rather than the selling price.
+
+If the lessor’s disposal value is restricted by Section 62 the refund of rentals can only be deducted in computing income to the extent it is not more than the disposal value brought to account in the capital allowance computation.
+
+Example Roland sells an asset to Oliver for £20,000 and leases it back over 10 years for £2,000 a year. When Roland sells the asset to Oliver his disposal value is restricted by CAA01/S222 to £1,000. This means that Oliver’s qualifying expenditure is £1,000. Roland terminates the lease after two years and Oliver sells the asset for £18,500. Roland has to pay a termination charge of £16,000. Oliver’s disposal value is restricted to £1,000. He gives Roland £18,000 as a refund of rentals. Oliver can only deduct £1,000 of the £18,000 in computing his profits for tax purposes.

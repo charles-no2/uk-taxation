@@ -1,0 +1,98 @@
+Ten year anniversary: relief for double charges
+Identifier: IHTM42089
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42089
+Published: 2016-04-09T10:23:55+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:09:27.506647+00:00
+
+If property has
+
+-
+
+been subject to a proportionate charge within the ten years preceding the ten year anniversary (TYA), and
+
+-
+
+later becomes relevant property, and
+
+-
+
+is now subject to the IHTA84/S64 charge at the TYA,
+
+apply IHTA84/S67 (6) relief against the TYA claim for the potential double charge.
+
+These cases are rare, but may occur where a settlor ceases to be long-term UK resident (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000#)) and becomes long-term UK resident again before the ten-year anniversary.
+
+Without a relief the value of the proportionate charge
+
+-
+
+would be cumulated at the TYA under IHTA84/S66 (5)(b), and
+
+-
+
+it would be reflected in the taxable TYA fund.
+
+Applying the relief
+
+Apply the relief by reducing the trust’s cumulative total at the TYA by whichever is the lower value of
+
+-
+
+The value on which tax was charged for the proportionate charge (or the proportion of it falling back in), or
+
+-
+
+the value of the property (or proportion) as reflected in the TYA fund.
+
+Note that the reduction is to the trust’s cumulative total, not to the taxable TYA fund itself. The relief can apply to more than one event.
+
+Example
+
+-
+
+A non-interest in possession settlement dated 17 November 1991 had its first TYA on 17 November 2001. The settlor had made no chargeable transfers in the 7 years before the trust commenced.A life interest in a quarter of the fund was appointed to Mary on 15 May 2005. Value of the transfer for the proportionate charge was then £300,000.
+
+-
+
+Mary dies on 28 October 2008 and the transferred assets fall back into relevant property.
+
+-
+
+At the TYA on 17 November 2011 the value of the proportionate charge portion as existing in the whole fund can be identified as £200,000. The settlement’s cumulative total (which would otherwise be £300,000) will therefore be reduced by £200,000 to £100,000 under IHTA84/S67 (6).If there existed other proportionate charges unaffected by IHTA84/S67 (6) which caused the nil-rate band to be exceeded, the reduction by -£200,000 would make no difference to the calculation of rate – the TYA would still be taxed on a maximum 6%.
+
+Example
+
+-
+
+Manhar, a long-term UK resident, makes a trust with foreign assets in Year One.
+
+-
+
+Whilst he is a long-term UK resident, the assets are relevant property.
+
+-
+
+Manhar ceases to be a long-term UK resident in Year Three and pays a proportionate charge on the value of the trust fund, which is £600,000.
+
+-
+
+Manhar returns to the UK and becomes long-term UK resident again in Year 7.
+
+-
+
+At the TYA in Year 10, the settlement’s cumulative total (ordinarily £600,000, giving a full rate of 6% at the TYA) will be reduced. At the TYA, the fund is worth £540,000. The settlement’s cumulative total will therefore be reduced under IHTA84/S67 (6) by £540,000 (to £60,000, giving a rate lower than 6%).
+
+Interaction with IHTA82/S66 (2) relief
+
+In the typical case where S67(6) applies, the property in question has once again become relevant property comprised in the settlement. As it has not been relevant property throughout the period of ten years preceding the TYA, then relief under S66(2) will be due. (IHTM42088 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42088))
+
+This is not a duplicate relief
+
+-
+
+S67(6) operates on the cumulative value only,
+
+-
+
+S66(2) operates on the rate of tax upon relevant property

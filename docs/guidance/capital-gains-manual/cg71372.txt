@@ -1,0 +1,66 @@
+Leases: commutation of rent otherwise than under terms of lease
+Identifier: CG71372
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71372
+Published: 2016-03-12T12:16:27+00:00
+Updated: 2023-04-25T14:20:14+01:00
+Retrieved (UTC): 2026-09-18T14:46:22.182221+00:00
+
+On 31 October 2013, Mrs J acquired a 45 year lease over a property in return for the payment of a premium of £50,000. The rent payable under this lease was £5,000 a year.
+
+On 31 October 2017, she granted a 21 year sub-lease over the property in return for a premium of £40,000. The rent payable under the sub-lease was £5,000 a year. The lease did not provide the tenant with a right to commute the rent.
+
+However, on 31 October 2019 Mrs J agreed with her tenant that she would accept commutation of the rent in return for a payment of £35,000. As a result, no further rent was payable for the remaining 19 years of the sub-lease.
+
+The gains accruing to Mrs J on the grant of the sub-lease and on the receipt of the capital payment are as follows.
+
+Note: the gain on the original grant of the sub-lease is not recomputed in these circumstances when the capital payment is received.
+
+The Valuation Office Agency reported that the value of the reversionary interest at 31 October 2019 was £20,000.
+
+Since the lease did not provide for the commutation of rent, the receipt by Mrs J of the £35,000 commutation payment is a capital sum derived from her interest in the property and the gain arising is calculated as follows.
+
+As the commutation of rent was not provided for in the terms of the lease, no part of the capital sum is chargeable as property income.
+
+The allowable expenditure remaining after the grant of the sub-lease is:
+
+see CG71371 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71371)
+
+£50,000 - £11,866
+
+= £38,134
+
+As there are no special rules in TCGA92/SCH8 for dealing with cases of this type, the normal part disposal rules apply (subject to the wasting provisions in TCGA92/SCH8/PARA1).
+
+Amount of expenditure to be excluded
+
+See CG71141 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71141).
+
+[(P(1) - P(3)) / P(1)] x expenditure otherwise allowable under S38(1)(a)
+
+P (1) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the beginning of the period of ownership;
+
+P (3) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the date of disposal.
+
+[(98.059 - 94.842) / 98.059] x £38,134
+
+= £1,251
+
+Allowable expenditure
+
+Allowed Acquisition Cost x [ A / (A+B)]
+
+A is the disposal consideration
+
+B is the value retained at the time of the part disposal
+
+(£38,134 - £1,251) x [£35,000 / (£35,000 + £20,00)]
+
+= £23,471
+
+Chargeable gain
+
+Capital sum £35,000
+
+Less allowable expenditure £23,471
+
+£11,529

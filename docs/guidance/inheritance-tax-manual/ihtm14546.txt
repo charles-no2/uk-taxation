@@ -1,0 +1,26 @@
+Lifetime transfers: the charge to tax: grossing: settled property
+Identifier: IHTM14546
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14546
+Published: 2016-04-09T09:19:51+01:00
+Updated: 2016-02-11T17:03:24+00:00
+Retrieved (UTC): 2026-09-18T14:57:57.342534+00:00
+
+You do not gross up when tax is charged under IHTA84/S52 (1) on the lifetime termination of an interest in possession (IIP) in settled property. This is so even if:
+
+- tax is immediately payable because the deemed transfer is not a Potentially Exempt Transfer (PET),
+
+- tax is paid by the deemed transferor (the person whose IIP has come to an end).
+
+This is because under IHTA84/S52 (1) tax is charged ‘as if the value transferred had been equal to the value of the property in which his (the transferor’s) interest subsisted.’
+
+Consequently, the loss to the estate (IHTM04054 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04054)) concept does not apply, and so the value of the transferor’s estate immediately after the transfer is not relevant.
+
+The exception
+
+However where the IHTA84/S52 (1) charge on the termination of the IIP is the result of a partition of the settled fund
+
+- if it is a term of the partition agreement that the tax shall be paid out of the property remaining in settlement
+
+- the claim extends to the property required to meet the tax.
+
+Refer to Technical to clarify the extent of the claim.

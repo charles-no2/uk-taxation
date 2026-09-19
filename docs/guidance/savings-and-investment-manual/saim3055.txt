@@ -1,0 +1,34 @@
+Deeply discounted securities: excluded indexed securities: chargeable assets
+Identifier: SAIM3055
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3055
+Published: 2016-03-19T16:25:16+00:00
+Updated: 2018-12-04T09:59:06+00:00
+Retrieved (UTC): 2026-09-18T14:26:15.169326+00:00
+
+Chargeable assets
+
+Chargeable assets are those where a gain on disposal of the asset by the person in question would be a chargeable gain, assuming that
+
+- the disposal was not in the course of a trade, profession or vocation carried on by that person,
+
+- TCGA92/S100 (exemption for authorised unit trusts etc.) does not apply, and
+
+- chargeable gains that might accrue under TCGA92/S116 (10) (CG53820 onwards) are disregarded.
+
+Where a security is linked to an index of chargeable assets, changes in the components of the index can be ignored so long as the index continues to reflect the population it was set up to mirror. Cases where the condition may not be satisfied, for example, where a new index is used, or the linkage is to shares in only one company, which then changes, should be referred to BAI (Financial Products and Services Team).
+
+Amount payable on redemption
+
+The investor must have an entitlement to the issue price increased by the relevant change in the value of the chargeable assets (or index). Where the redemption value is to be satisfied by receipt of the linked chargeable assets themselves, with the result that the investor obtains more than the percentage change, the conditions would not be met. Nor is the condition satisfied if the return to the investor is geared, for example, if on redemption the investor receives twice the increase in the index (or some other multiple).
+
+Total return index
+
+The value of a ‘total return’ equity index reflects not only the price of the shares comprised in the relevant index, but also a measure of income in the computation of the level of that index. The value of the index may, for example, reflect an amount in respect of rolled-up dividends. Provided the index is a standard, commercially used index of the total return from shares, HMRC consider that it will be an index of the value of chargeable assets for the purposes of ITTOIA05/S433.
+
+Retail price index
+
+The Retail Prices Index (RPI), and any similar index published by or on behalf of any other government, is not treated as an index in the value of chargeable assets. Where the return on debt is linked to such an index, the debt is likely to be a deeply discounted security.
+
+Interest
+
+Interest payable on redemption is ignored in determining the redemption value of the security, and is chargeable to income tax as savings and investment income in the usual way.

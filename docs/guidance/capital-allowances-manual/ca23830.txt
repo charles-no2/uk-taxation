@@ -1,0 +1,112 @@
+PMA: Long funding lease: definitions of plant or machinery lease, short lease, funding and long funding leases
+Identifier: CA23830
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23830
+Published: 2016-04-16T08:50:05+01:00
+Updated: 2020-10-26T17:49:19+00:00
+Retrieved (UTC): 2026-09-18T16:20:52.220035+00:00
+
+CAA01/S70G - 70K, 70N -70P
+
+These are definitions you use for the long funding lease legislation.
+
+Plant or machinery lease
+
+A plant or machinery lease is:
+
+- an agreement or arrangement:
+
+- under which a lessor grants another person the right to use the plant and machinery for a period of time; and
+
+- which is treated under generally accepted accounting practice as a lease;
+
+- an agreement or arrangement which is treated under generally accepted accounting practice as a lease and conveys or would convey the right to use an asset which is plant or machinery;
+
+- the finance lease element of a sale and finance leaseback.
+
+If a lease would satisfy the conditions for being a plant or machinery lease immediately after the commencement of its term treat it as a plant or machinery lease from its inception.
+
+Short lease
+
+A short lease is
+
+- a lease whose term is not more than 5 years, or
+
+- a lease whose term is between 5 and 7 years, provided that:
+
+- the lease would be treated as a finance lease under generally accepted accounting practice;
+
+- the residual value of the asset implied in the lease is not more than five per cent of the fair value of the asset at commencement; and
+
+- the rentals due in any year do not vary by more than ten per cent from the rentals due in any other year (other than as a result of changes in interest rates).
+
+When you are trying to decide if the rentals vary ignore:
+
+- variations due to changes in the base rate for interest,
+
+- rentals payable before the commencement of the term of the lease, and
+
+- rentals payable at commencement to the extent that they are more than the next rental payment.
+
+The requirement that a lease whose term is 5 to 7 years would be treated as a finance lease means that an operating lease whose term is 5 years or more cannot be a short lease.
+
+Funding lease
+
+A funding lease is a plant or machinery lease that satisfies at least one of these conditions at its inception.
+
+- It is accounted for as a finance lease in the accounts of a person; where the person is a lessor the condition is that is accounted for as a finance lease in the accounts of anyone connected with the lessor. If accounts are not prepared in accordance with international accounting standards or UK generally accepted accounting practice check whether the lease would be accounted for as a finance lease under international accounting standards.
+
+- The net present value of the minimum lease payments is more than 80% of the fair value of the asset.
+
+- The term of the lease is more than 65% of the remaining useful economic life of the asset.
+
+The present value of the minimum lease payments is calculated by using the interest rate implicit in the lease, which is the interest rate that would apply in accordance with normal commercial criteria, including generally accepted accounting practice. Exceptionally, where the interest rate cannot be determined (as may happen in the case of some operating leases) the interest rate implicit in the lease is the temporal discount rate given by FA05/S70.
+
+The fair value of an asset is its market value less any grants received towards its purchase or use.
+
+The following leases are excluded leases (that is, they are not funding leases):
+
+- any lease where the asset has previously been leased out by the current owner, where none of the previous leases was a funding lease and the aggregate term of the previous leases was more than 65% of the useful economic life of the asset;
+
+- a hire or lease purchase lease to which CAA01/S67 applies CA23300 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23300).
+
+Long funding lease
+
+A long funding lease is a funding lease that is not:
+
+- a short lease,
+
+- a lease of a ship to a tonnage tax company or group,
+
+- an excluded lease of background plant or machinery for a building CA23835 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23835),
+
+- excluded because it is a lease of plant with land and the plant has a low percentage value CA23835.
+
+The lessor and lessee apply the tests to check if a lease is a long funding lease independently. This means that a lease may be a long funding lease for the lessor but not for the lessee and vice versa.
+
+The lessee may not use the plant for a qualifying activity at the inception of the lease. If the lessee begins to use the plant for a qualifying activity later on the lease is a long funding lease if this condition is satisfied. The lease would have been a long funding lease if the lessee had used the plant for a qualifying activity at the inception of the lease.
+
+A lessee cannot treat a lease as a long funding lease unless it makes a return for the period covering the inception of the lease on the basis that the lease should be taxed as a long funding lease.
+
+A lessee cannot make a claim for relief under the error or mistake relief provisions on the grounds that a return that shows that a lease should be taxed as a long funding lease or not was made in error or by mistake.
+
+Exclusion from definition of long funding lease
+
+A plant and machinery lease is not a funding lease for the lessor if the following conditions are satisfied:
+
+- The plant had been leased for at least 10 years before 1 April 2006.
+
+- The lessor under the plant and machinery lease was also the lessor of the plant on the last day before 1 April 2006 when the plant was leased.
+
+Example Barset Bank Plc leased an aircraft to Coconut Airways on a 6 year lease that ended on 30 April 2000. The same aircraft was then leased to Kathmandu Airways from 1 June 2000 to 31 May 2006. When that lease ended it granted Lost Horizon Airways a 10 year lease beginning 1 June 2006. The new 10 year lease is not a long funding lease because the aircraft had been leased for 12 years before 1 April 2006 and Barset Bank Plc was the lessor of the aircraft on the last day before 1 April 2006 on which it was leased.
+
+Additional expenditure
+
+Capital expenditure may be incurred on updating or improving an asset that has been subject to a lease for the 10 years before 1 April 2006.
+
+In considering whether the plant or machinery has been leased for 10 years before 1 April 2006 you should look at the item of plant or machinery as a whole, not its component parts.
+
+Example Rosco Plc. leased a train to Broad Street Railways on a 12 year lease that ended on 30 April 2006. When that lease ended it installed air-conditioning and then granted Broad Street Railways a new 10 year lease beginning 1 September 2006. The new 10 year lease is not a long funding lease because the train had been leased for more than 10 years before 1 April 2006 and Rosco Plc was the lessor of the train on the last day before 1 April 2006 on which it was leased.
+
+Long funding finance lease
+
+A long funding finance lease is a long funding lease that would be treated as a finance lease or loan in the lessor’s accounts under generally accepted accounting practice. A long funding lease that would be treated as a finance lease or loan in the accounts of a person associated with the lessor under generally accepted accounting practice is also a long funding finance lease.

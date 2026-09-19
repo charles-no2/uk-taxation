@@ -1,0 +1,60 @@
+Earnings Periods: Employee starts work part way through an earnings period but is not paid until the end of the next earnings period: Earnings periods in different tax years
+Identifier: NIM08312
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim08312
+Published: 2016-04-11T17:19:56+01:00
+Updated: 2025-05-06T10:20:43+01:00
+Retrieved (UTC): 2026-09-18T15:14:31.279125+00:00
+
+Regulations 3(1)(a) & 7(3) Social Security (Contributions) Regulations 2001
+
+The principle outlined in NIM08310 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim08310) applies. For example, if an employee starts work in March but does not receive their first payment of earnings until April (covering the March and April earnings periods), work out NICs on the earnings for each period separately. However, because Regulation 7(3) does not allow us to treat earnings paid in one tax year as paid in another, NICs must be calculated on the payment due for March using the later year’s contribution rates and limits.
+
+Example:
+
+- an employee starts work on 22 March 2025
+
+- the employee has a monthly earnings period (earnings are paid on the last day of each calendar month)
+
+- the employee is liable to standard catergory A NICs
+
+- it is too late for the employer to put the employee on to the payroll for March so the employee receives their first earnings payment, for the period 22 March to 30 April, on 30 April 2025.
+
+The employee’s gross pay is £4,000 which represents:
+
+- £1,000 for the period 22 to 31 March
+
+- £3,000 for the period 1 to 30 April
+
+NICs are calculated on each sum separately as follows (2025 to 2026 tax year):
+
+- monthly Secondary Threshold (ST) = £417
+
+- monthly Lower Eanings Limit (LEL) = £542
+
+- monthly Primary Threshold (PT) = £1048
+
+- monthly Upper Earnings Limit (UEL) = £4189
+
+Earnings payment for March = £1,000
+
+- Employee NICs = Earnings below PT = £0.00
+
+- Employer NICs = £583 x 15% = £87.45
+
+- Total NICs = £87.45
+
+Earnings payment for April = £3,000
+
+- Employee NICs = £1,952 x 8% = £156.16
+
+- Employer NICs = £2,583 x 15% = £387.45
+
+- Total NICs = £543.61
+
+Both sets of NICs are recorded on the employee’s record for the 2025 to 2026 tax year.
+
+This principle also applies to weekly paid employees.
+
+Note
+
+See also NIM09800 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim09800) regarding re-allocation of contributions for benefit purposes.

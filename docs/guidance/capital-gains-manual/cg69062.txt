@@ -1,0 +1,38 @@
+Life insurance policies/deferred annuities: computation of gain: disposals from 9 April 2003: interaction with Income Tax: example
+Identifier: CG69062
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg69062
+Published: 2016-03-12T12:12:00+00:00
+Updated: 2021-09-16T11:58:31+01:00
+Retrieved (UTC): 2026-09-18T14:35:13.128606+00:00
+
+This example illustrates the way losses may be restricted for disposals on or after 9 April 2003 of the rights (or an interest in the rights) conferred by a life insurance policy or deferred annuity, as described at CG69061 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg69061).
+
+Example
+
+A taxpayer acquired a life insurance policy for actual consideration, so that the exemption of TCGA92/S210 (2) is not due. She gave £39,000 at arm’s length for the policy in May 2021 and paid premiums of £500 while she held the policy. She sold the policy at arm’s length on 10 July 2021 and received £40,000. A Chargeable Event Gain £2,000 arises on which she is taxed under the Income Tax rules. (The Chargeable Event Gain is quantified by reference to the sale proceeds and the premiums paid under the policy by both the taxpayer and the previous owners of the policy, see CG69001 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg69001)). The ‘normal’ computation for Capital Gains Tax purposes (see CG69060 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg69060)) is
+
+disposal proceeds |  40,000 |    |    |
+
+less excluded by TCGA92/S37 |  (2,000) |    |  38,000 |
+
+|    |    |    |
+
+consideration given to acquire policy |  39,000 |    |    |
+
+premiums paid by taxpayer |  500 |    |  (39,500) |
+
+Loss |    |  (£ 1,500) |    |
+
+The comparative computation that TCGA92/S210 (8) requires, disregarding TCGA92/S37 and TCGA92/S39, is
+
+disposal proceeds |    |  40,000 |    |
+
+consideration given to acquire policy |  39,000 |    |    |
+
+premiums paid by taxpayer |  500 |    |  (39,500) |
+
+Gain |    |  £ 500 |    |
+
+As the result of the second computation is a gain, TCGA92/S210 (8) operates so that there is no loss on the disposal for Capital Gains Tax purposes. The legislation does not convert the loss into a chargeable gain - it simply restricts the amount of any loss for the purposes of Capital Gains Tax. There is no chargeable gain on which tax may be due from the disposal. And the restriction made to the loss has no bearing on the £40,000 cost of the policy to the person who bought the policy.
+
+If the premiums paid by the taxpayer in the above example had been £1,500 instead of £500, the first computation (assuming the same £2,000 Chargeable Event Gain) would finish with a loss of £2500. But the second computation would then result in a loss of £500. On those figures TCGA92/S210 (8) restricts the loss for the purposes of Capital Gains Tax to the smaller figure of £500.

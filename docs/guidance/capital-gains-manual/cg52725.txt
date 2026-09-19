@@ -1,0 +1,18 @@
+Company reconstructions: shareholder: Part 26 Companies Act 2006
+Identifier: CG52725
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52725
+Published: 2016-03-12T11:27:47+00:00
+Updated: 2026-04-28T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:42:52.490459+00:00
+
+This example illustrates the use of Section 425 Companies Act 1985 in accordance with Sch 5AA (5), meeting the 1st, 2nd and 4th conditions.
+
+EXAMPLE
+
+Old plc wants to put a new holding company above itself. It obtains High Court approval for an arrangement under Part 26 Companies Act 2006 (thus meeting the 4th condition). The existing shares in Old plc are cancelled and reissued to Newholdco plc. Newholdco plc issues ordinary shares to the original holders of ordinary shares in Old plc in respect of and in proportion to their existing holdings (meeting 1st and 2nd conditions).
+
+This is a scheme of reconstruction under Schedule 5AA.
+
+The cancellation of the Old plc shares, and the issue of the Newholdco plc shares, are both covered by S136(1)(b) TCGA 1992. The shareholders are treated as not having disposed of their original shares in Old plc. Instead their shares in Newholdco plc are treated as the same asset as the shares in Old plc, and as acquired at the same time and for the same cost as the original shares. The practical result is exactly the same as a share exchange. One of the advantages of using the Companies Act route is that a Court may approve an arrangement which has the support of may need the approval of only 75 per cent of the members of the company, S899 Companies Act 2006.
+
+S139 TCGA 1992 has no application in this example because there is no transfer of business assets.

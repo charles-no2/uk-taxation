@@ -1,0 +1,26 @@
+Records: bankruptcy: interest claimed and statements
+Identifier: SAM106080
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam106080
+Published: 2016-04-08T17:11:28+01:00
+Updated: 2016-02-23T14:52:14+00:00
+Retrieved (UTC): 2026-09-18T16:19:54.184319+00:00
+
+Accrued Section 86 interest on outstanding liabilities is dealt with as follows
+
+- Bankruptcy (or award of sequestration in Scotland): interest on outstanding liabilities, for which proof is lodged, is not normally included in the proof
+
+- Voluntary Arrangements: interest on outstanding liabilities within the voluntary arrangement is included in that arrangement (to the date on which the proposals have been accepted)
+
+Entry of the date of bankruptcy / voluntary arrangement on the SA record does not stop accruing interest being calculated beyond that date (and shown on the statement). However, when a charge is cleared and clearance is either wholly or in part by remission
+
+- Accrued interest on that charge is automatically cancelled. (Subsequent statements will therefore show no accrued interest in respect of the charge)
+
+- The computer will not create an interest charge in respect the charge (even if it was only cleared in part by the remission)
+
+Outstanding liabilities are remitted as follows
+
+- Bankruptcy cases on lodging provisional proof
+
+- Voluntary Arrangements on satisfactory conclusion of the arrangement. In practice full payment of the liabilities is rarely received (and unpaid liabilities are remitted)
+
+Note: An arrangement may be concluded by the Supervisor because the taxpayer did not keep to it. If so, remission is not appropriate and normal recovery action will resume following cancellation of the arrangement

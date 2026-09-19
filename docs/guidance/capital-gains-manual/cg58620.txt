@@ -1,0 +1,16 @@
+Co.purchases own shares: repayment/redemption share capital
+Identifier: CG58620
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58620
+Published: 2016-03-12T11:47:53+00:00
+Updated: 2021-03-31T15:16:47+01:00
+Retrieved (UTC): 2026-09-18T14:44:22.470736+00:00
+
+A company may repay or redeem its share capital. This is not the same procedure as purchasing its own shares. As far as the shareholder is concerned a purchase of own shares represents an actual disposal of those shares to the company. The sum received from the company is the proceeds of that disposal. By contrast a repayment or redemption of the share capital is a deemed disposal by virtue of TCGA92/S122.
+
+TCGA92/S122 (1) provides `where a person receives or becomes entitled to receive in respect of shares in a company any capital distribution from the company (other than a new holding as defined in section 126) he shall be treated as if he had in consideration of that capital distribution disposed of an interest in the shares’.
+
+A capital distribution is defined in TCGA92/S122 (5)(b) as `any distribution from a company, including a distribution in the course of dissolving or winding up the company, in money or money’s worth except a distribution which in the hands of the recipient constitutes income for the purposes of Income Tax’.
+
+A repayment or redemption of share capital will represent a distribution by the company. The distribution can only be a capital distribution if it does not constitute income for Income Tax or Corporation Tax purposes. The distribution will constitute income for Corporation Tax purposes, and usually also for Income Tax purposes, if it is a distribution as defined in CTA10/S1000 and is not within CTA10/S1033.
+
+Therefore, if a company repays or redeems its shares and the payment is treated as an income distribution there is no deemed disposal by the shareholder as the payment cannot be a capital distribution. If any part of the payment is not treated as an income distribution because, for example, it reflects a return of capital on the shares, that may be a capital distribution.

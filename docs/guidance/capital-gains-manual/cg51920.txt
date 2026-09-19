@@ -1,0 +1,76 @@
+Reorganisations of share capital: apportioning costs after a bonus issue
+Identifier: CG51920
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51920
+Published: 2016-03-12T11:25:47+00:00
+Updated: 2023-05-04T11:02:24+01:00
+Retrieved (UTC): 2026-09-18T14:42:31.571900+00:00
+
+The following example illustrates the computation if there is a bonus issue of different classes of share in respect of shares held in a Section 104 holding, so that the resulting new holding contains more than one class of share, or shares and debentures.
+
+Example
+
+- November 2005: an individual buys 10,000 £1 Ordinary shares in H Ltd at a price of 150p per share. Total cost £15,000.
+
+- June 2008 H Ltd declares a bonus issue of one £1 ‘A’ Ordinary share and one 50p preference share for every two ordinary shares held. The original shares are the 10,000 Ordinary shares and the new holding consists of the 10,000 Ordinary shares plus 5,000 ‘A’ Ordinary shares plus 5,000 Preference shares. None of the shares constituting the new holding are listed on a recognised stock exchange, so TCGA92/S129 applies.
+
+- August 2009 the individual sells 2,000 ‘A’ Ordinary shares at a price of 87.5p each. Disposal proceeds £1,750.
+
+In August 2009 the market values of the three classes of share comprising the new holding are
+
+- |  Share price |
+
+£1 Ordinary shares |  110p per share |
+
+£1 ‘A’ Ordinary shares |  90p per share |
+
+50p Preference shares |  50p per share |
+
+When a part of the new holding is disposed of in August 2009 it is necessary to apportion the cost of acquisition of the original shares (the 10,000 Ordinary shares bought in 2005) between what is disposed of and what is retained. First we apportion the total allowable cost between the three pools of shares which constitute the new holding, using the rule at section 129 ie by reference to the market values of the shares at the time of the disposal. Then we use the more familiar part-disposal formula (TCGA92/S42) to apportion the cost of the pool of ‘A’ Ordinary shares, as the August 2009 sale is a part-disposal of that asset.
+
+Determine the cost of the pool of £1 Ordinary shares
+
+The proportion of the cost of the original shares is given by (Market value of 10,000 £1 Ord. shares) / (Market value of the whole of the new holding), ie
+
+(10,000 x £1.10) / [(10,000 x £1.10) + (5,000 x £0.90) + (5,000 x £0.50)] = 61.11%
+
+So the allowable cost of the pool of 10,000 Ordinary shares is 61.11% x £15,000 = £9,167
+
+Determine the cost of the pool of £1 ‘A’ Ordinary shares
+
+The proportion of the cost of the original shares is given by (Market value of 5,000 £1 ‘A’ Ord. shares) / (Market value of the whole of the new holding), ie
+
+(5,000 x £0.90) / [(10,000 x £1.10) + (5,000 x £0.90) + (5,000 x £0.50)] = 25.00%
+
+So the allowable cost of the pool of 5,000 ‘A’ Ordinary shares is 25% x £15,000 = £3,750
+
+Determine the cost of the pool of 50p Preference shares
+
+The proportion of the cost of the original shares is given by (Market value of 5,000 50p Pref. shares) / (Market value of the whole of the new holding), ie
+
+(5,000 x £0.50) / [(10,000 x £1.10) + (5,000 x £0.90) + (5,000 x £0.50)] = 13.88%
+
+So the allowable cost of the pool of 5,000 Preference shares is 13.89% x £15,000 = £2,083
+
+Compute the gain on the disposal of 2,000 ‘A’ Ordinary shares
+
+This is a part-disposal of the section 104 pool, a single asset consisting of 5,000 ‘A’ Ordinary shares with an allowable cost of £3,750 (see above). Section 129 does not apply further, and so the cost attributable to the shares sold is determined by section 42. The proportion of the cost of the pool is given by (consideration for the disposal divided by [consideration for the disposal + market value of property undisposed of]), ie
+
+(2,000 x £0.875) / [(2,000 x £0.875) + (3,000 x £0.90)] = 1,750 / 4,450= 39.33%
+
+Note the difference between the sale price of the ‘A’ Ordinary (87.5p) in the numerator and the market value (90p) in the second expression in the denominator: this is because in this example the value of the consideration received is slightly less than its market value. Such a discrepancy does not necessarily indicate that the sale was not a bargain at arm’s length.
+
+The computation of the gain is
+
+- |  Amount |
+
+Consideration received |  £1,750 |
+
+Less Cost |  £1,475 (39.33% x £3,750) |
+
+Gain |  £275 |
+
+The cost of the pool of ‘A’ Ordinary shares carried forward is £3,750 - £1,475 = £2,275
+
+Indexation allowance
+
+Indexation allowance due to individuals, trustees and personal representatives was frozen as at April 1998 and ceased to be available altogether in respect of disposals on or after 6 April 2008. If a disposal of part of a new holding is subject to indexation relief the computation will differ from the example above. If you need guidance in such cases, please refer to Specialist PT (CG Technical) Solihull.

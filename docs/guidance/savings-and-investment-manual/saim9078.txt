@@ -1,0 +1,30 @@
+Deduction of tax: yearly interest: the person by or through whom payment is made
+Identifier: SAIM9078
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim9078
+Published: 2016-03-19T16:29:29+00:00
+Updated: 2020-02-05T11:00:23+00:00
+Retrieved (UTC): 2026-09-18T14:26:55.956656+00:00
+
+The requirement to deduct tax
+
+It is not uncommon for a loan receivable to be transferred by the original lender to another person, for example, where a portfolio of mortgages or consumer loans made to UK individuals and originated by a UK bank or building society is securitised. Often the seller/assignor of the receivables (or its agent) retains the legal title after disposing of the beneficial interest, while entering into a contractual obligation to hold any and all payments of principal and interest for the new beneficial owner. Typically, although not invariably, the legal title will thereafter (at the end of a defined transitional period) be transferred to whichever debt servicer the new beneficial owner chooses to be its asset manager for the longer term. The borrowers may or may not be informed that the legal or beneficial title to the loans has been transferred.
+
+Following the case of Howells v CIR (22TC501), a person in a position of a trustee who subsequently transfers a payment of interest to a beneficiary may be regarded as a person through whom a payment is made for the purposes of ITA07/S874(2), and therefore under an obligation to deduct income tax from the payment.
+
+HMRC will normally look to the place of abode of the person beneficially entitled to a payment in determining whether the payment is made to a person whose usual place of abode is outside the UK. Where the payments are made through a number of intermediaries the need to deduct tax will be taken as applying only to one such person. This will normally be the last UK-resident intermediary in the chain, the one that passes over the payment(s) to the overseas beneficial owner.
+
+In practice HMRC recognises that the borrowers will not usually be aware of this obligation and hence HMRC will usually look to the person through whom the payment is finally made to discharge the withholding obligation in respect of interest payments on the loans. If that person deducts the correct amount of tax at the correct time or receives a valid authorisation from HMRC to make payments without deduction of tax (or at a lower rate prescribed by double taxation arrangements) then HMRC will consider, in such circumstances, that the withholding tax requirements of ITA07/S874(2) are satisfied for all concerned along the payment chain. The time at which the payment is made for the purposes of ITA07/S874(2) will be treated in effect as being when that person passes the payment to the ultimate recipient.
+
+HMRC retains in law the right to assess the borrowers if necessary under ITA07/PT15/CH16 as the persons by whom the interest is paid where tax due under ITA07/S874 has not been properly discharged by a person through whom the interest is paid.
+
+See CFM72680 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm72680) for whether certain payments made under a securitisation arrangement are annual payments.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim9078#Top)
+
+Treaty Clearances
+
+A non-resident person to whom the beneficial interest in the receivables is transferred may be able to make an application under any applicable Double Taxation Arrangement (DTA) for the interest to be paid by the UK borrowers without deduction of tax. The information asked for in the appropriate claim form should be sufficient to identify the person through whom the payment is made, having regard to the comments made above about HMRC’s views on who might be considered as the person to whom any Regulation 2 SI1970/488 Direction would need to be issued.
+
+Enquiries about the DTA application should be made to the Large Business DT Treaty Team (https://www.gov.uk/guidance/double-taxation-relief-for-companies) in Nottingham.
+
+See SAIM9200 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim9200) onwards for more on payments of interest overseas.

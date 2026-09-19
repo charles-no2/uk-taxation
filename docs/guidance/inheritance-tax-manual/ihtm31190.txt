@@ -1,0 +1,44 @@
+Assessing: COMPASS: calculations: money (including deposits)
+Identifier: IHTM31190
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31190
+Published: 2016-04-09T10:03:30+01:00
+Updated: 2016-02-11T17:15:46+00:00
+Retrieved (UTC): 2026-09-18T15:05:56.767411+00:00
+
+Select the Money button in the assessment window to open the separate ‘Money’ window. In this window you can adjust the calculation to take account of
+
+- money on deposit
+
+- repayments being offset (IHTM31681 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31681)) from another assessment group
+
+- interest supplement (IHTM31665 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31665)) on within-COMPASS offset repayments (IHTM31683 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31683))
+
+- Income Tax and Capital Gains Tax repayments (IHTM31515 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31515))
+
+Deposits
+
+To add a deposit, select ‘New’.
+
+For each deposit you are applying against the calculation, write the
+
+- deposit number
+
+- Effective Date of Payment shown on SAGE, and
+
+- amount
+
+If you have more than one deposit, repeat the process. Then select the OK button.
+
+You may have a calculation where you need to give credit for a larger amount of the deposit than you are actually applying. This can happen on instalment calculations where box 2 interest is charged. In these cases, enter the full amount of the deposit for which you want to give credit. COMPASS will ensure that for instalment calculations only the amount needed to satisfy the calculation is applied at the end of the calculation, whilst calculating the interest taking account of the whole deposit.
+
+Certificate of Tax Deposits (CTDs)
+
+Enter CTDs (IHTM31771 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31771)) as deposits, using the Certificate number as the deposit number.
+
+Income Tax and CGT repayments
+
+Where you need to make allowance for Income Tax or CGT repayments (IHTM31515 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31515)), enter the amount in the separate category box.
+
+Make sure the amount entered here is not more than the total tax due on this calculation. If the repayment applies to more than one assessment group, you will need to give credit at each assessment group up to the total amount of the repayment.
+
+You should use the notes box to show that the interest charge has been reduced because of an Income Tax or CGT repayment. Select the ‘Notes’ button to bring up the Notes (IHTM31191 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31191)) window.

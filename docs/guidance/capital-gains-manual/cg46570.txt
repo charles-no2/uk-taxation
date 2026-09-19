@@ -1,0 +1,24 @@
+Depreciatory transactions: compensating adjustments
+Identifier: CG46570
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46570
+Published: 2019-06-19T14:18:42+01:00
+Updated: 2026-04-13T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:41:45.047214+00:00
+
+TCGA92/S176(6)
+
+Any reduction in the value of shares or securities caused by a depreciatory transaction may be balanced by an increase in the value of the shares or securities of the company benefiting from the transaction. There is no allowance for this when restricting a loss under TCGA92/S176. But if within six years of the depreciatory transaction a chargeable gain arises on the disposal of shares in or securities of any other company which was a party to the depreciatory transaction, there is provision in TCGA92/S176(6) for reducing the chargeable gain. The gain is reduced to such extent as appears just and reasonable having regard to the effect of the depreciatory transaction on the shares or securities subsequently disposed of at the time of their disposal. For the purposes of this adjustment it is necessary to establish the continuing effect of the depreciatory transaction on the value of the shares or securities giving rise to the gain at the time of their disposal.
+
+EXAMPLE 1
+
+The group structure is company A holds 100% of the shares in company B, company B holds 100% of the shares in company C.
+
+In 2008 C transfers an asset to B at less than market value. In 2009 B sells C at a loss which is restricted on account of the depreciatory transaction in 2008. In 2012 A sells B and realises a gain. No adjustment is due under Section 176(6). The depreciatory transaction in 2008 did not have any effect on the value of A's shares in B at the time of the depreciatory transaction or subsequently. This is because the reduction in the value of B's shares in C resulting from the depreciatory transaction was matched by an equivalent increase in the value of B's other assets.
+
+EXAMPLE 2
+
+The group structure is company A holds 100% of shares in two companies, company B and company C.
+
+In 2009 B transfers a business to C. The business assets include goodwill worth £1M for which C pays nothing. In 2010 A sells B at a loss which is restricted on account of the transfer of goodwill to C at less than market value. In the period to 2012 the business transferred to C becomes a complete commercial failure. In 2013 A sells C and realises a gain. No adjustment is due under Section 176(6). The transfer of goodwill at less than market value from B to C in 2009 had no effect on the value of the shares in C at the time of their disposal by A in 2013.
+
+Where a depreciatory transaction gives rise to one or more reductions of losses and one or more reductions of gains, the aggregate reduction of gains cannot exceed the aggregate loss reduction.

@@ -1,0 +1,26 @@
+Trust management expenses: how expenses are taken into account: accumulation/discretionary trusts: ITA/S484: basis of allowance
+Identifier: TSEM8240
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem8240
+Published: 2016-05-02T16:57:01+01:00
+Updated: 2018-12-14T01:45:23+00:00
+Retrieved (UTC): 2026-09-18T16:20:45.147362+00:00
+
+S484 provides that allowable TMEs are allowed on the ‘incurred’ basis.
+
+S485 provides for unused allowable TMEs incurred in an earlier year to be used against the current tax year. Where in a previous year the TMEs could not be used because there was insufficient or no trust rate income, the unused TMEs are treated as incurred in the current tax year.
+
+For an expense to be properly chargeable to income in trust law the trustees must have authority to put the final burden of that expense on the income fund. Which fund they use to pay it out of temporarily is not relevant.
+
+In a year where there is not enough income, trustees may borrow from capital to pay income expenses, and in the next year reimburse capital from income.
+
+If an expense is properly chargeable to income, but the trustees pay all or part of it from trust capital in year 1 because there is no income or not enough income that year, the net trust rate income in year 1 will be reduced to nil. If in year 2 the trustees reimburse capital from income, that amount will be allowable against trust rate income for tax purposes in year 2.
+
+Example
+
+Year 1, trust income £1,000, allowable TMEs £2,000.
+
+Trustees pay £800 TMEs out of income (see TSEM8245 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem8245) re grossing up), and £1,200 out of capital. Trustees’ trust rate income £1,000 less grossed up TMEs £1,000 = nil. So tax is payable at basic rate only on £1,000. Excess TMEs to carry forward £1,200.
+
+Year 2, trust income £3,000, allowable TMEs £1,000.
+
+Trustees pay £1,000 TMEs of current year out of income, and reimburse capital £1,200 for income expenses of previous year. They have £1,000 TMEs this year plus £1,200 from last year = £2,200. Trustees’ trust rate income £3,000 less £2,750 (£2,200 grossed up at basic rate) = £250. So tax is payable at the trust rate on £250 and at basic rate on £2,750.

@@ -1,0 +1,54 @@
+Share identification for corporation tax: shares held at 6 April 1965: election for pooling
+Identifier: CG51642
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51642
+Published: 2016-03-12T11:23:46+00:00
+Updated: 2026-09-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:48:03.941812+00:00
+
+Groups of companies (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51642#IDAG0GKG)
+Share reorganisations and conversions (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51642#IDA00GKG)
+Assessments (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51642#IDAG1GKG)
+
+A company could, potentially still can make an election to have quoted shares and securities brought into a 1982 holding at their market value on 6 April 1965. There is no particular advantage in making such an election if the company has made an election under TCGA92/S35(5) out of the kink-test. The election can be made under two provisions of the TCGA1992, TCGA92/SCH2/PARA4 and TCGA92/S109 (4).
+
+The only difference between the two elections is the relevant time limits. Otherwise the conditions are identical. The historical reason for the two elections is that TCGA92/SCH2/PARA4 represents the original right to make the election introduced in FA1968. If the company chose not or overlooked to make an election under the 1968 legislation they were given another opportunity to make the election in FA1985. The 1985 provision has been consolidated as TCGA92/S109 (4). However, TCGA92/S109 (5) provides that -
+
+`Paragraphs 4(8) to (13) and 5 to 8 of Schedule 2 shall apply in relation to an election under subsection (4) above as they apply in relation to an election under paragraph 4(2) of that Schedule, but with the substitution for any reference to 19th March 1968 of a reference to 31st March 1985 in the case of holdings or disposals by companies and 5th April 1985 in any other case.'
+
+Therefore, all the statutory references are given in terms of TCGA92/SCH2/PARA4.
+
+The election can be made in respect of two kinds of share and security.
+
+- Quoted shares and securities other than fixed interest securities and preference shares, TCGA92/SCH2/PARA4(8)(a). This category would include units in a unit trust if the price of the units were published daily by the managers of the scheme. Participating preference shares would also fall into this category.
+
+- Fixed interest securities and preference shares TCGA92/SCH2/PARA4(8)(b).
+
+However, the election cannot be made in respect of relevant securities, see CG51140+, TCGA92/SCH2/PARA4 (1).
+
+A separate election has to be made for each of the two categories of share and security. The election covers all the shares and securities of that particular type. An election is irrevocable, TCGA92/SCH2/PARA4(10)(b).
+
+The election must be made by the company within two years from the end of the accounting period in which the first relevant disposal was made or within such further time as the Board may allow, see CG13700  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13700)if an election is made late. The time limit will be extended as appropriate where a degrouping charge arises under TCGA92/S179 because that treats the transferred asset as being disposed of (and re-acquired) immediately after the acquisition by the company leaving the group (as originally set out in Statement of Practice D21).
+
+Groups of companies
+
+A disposal between members of the same group of companies will count as a disposal for the purposes of starting the time limit even though these transactions are treated on a no gain/no loss basis. The treatment of the shares or securities on a later disposal by the transferee depends upon whether there was an election by the transferor. Any election by the transferee is ignored, TCGA92/SCH2/PARA4(9).
+
+In the case of a group of companies as defined in TCGA92/S170 the election has to be made by the principal company for all the companies in the group, paragraph 5(1) Schedule 2. The relevant disposal is the first disposal for which either election can be made by any company which is then a member of the group. This includes an intra-group transfer. The election then covers the disposal of all shares and securities of that kind held by those companies which were members of the group at the date of the first relevant disposal, the relevant time. These companies have no separate right of election even if they leave the group. The principal company must make two separate elections in respect of the two different categories of share and security.
+
+In determining whether, for the purposes of TCGA92/SCH2/PARA5, a company is a member, or the principal company, of a group at any time after 31 March 2000, the group is defined by TCGA92/S170 as amended by FA2000/SCH29/PARA1, which removed the condition that only companies resident in the UK could be members of a group.
+
+A principal company cannot make an election in respect of securities held by a member company if that company has made a relevant disposal of shares or securities before it becomes a member of the group and either the company or its previous principal company had made an election or had not made an election and the time limit had expired before the relevant time, paragraph 5(3) Schedule 2. All disposals of such securities are governed by whether an election was or was not made by the member company itself or by its previous principal company. If, however, at the relevant time the member company or its previous principal company has not elected and the time limit for making the election has not passed, its right of election passes to the principal company.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51642#Top)
+
+Share reorganisations and conversions
+
+It is possible that quoted shares and securities may change their nature as a result of a share reorganisation within TCGA92/S126 or a conversion of securities within TCGA92/S132. For example, convertible loan stock which originally ranked as a fixed interest security may be converted to ordinary shares which rank as quoted securities other than fixed interest securities. It is the nature of the share or security at the date of disposal which determines whether or not it is covered by an election, TCGA92/SCH2/PARA6(1).
+
+Where shares or securities which were on an elected pool basis changed their nature so that at the date of disposal they are on a non pool basis it is not necessary to recompute any gains or losses on earlier disposals out of the pool. The pool should be reduced by taking the pre 6 April 1965 securities which remain in the pool out of the pool at the figure at which they were originally included.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51642#Top)
+
+Assessments
+
+Because of the length of time during which an election can be made assessments which are affected by the election may have become final and conclusive. TCGA92/SCH2/PARA44(13) provides that any necessary reopening of assessments (including further assessments) and repayments or discharges may be made.

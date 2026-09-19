@@ -1,0 +1,44 @@
+Decentralised Finance: Lending and staking: Chargeable Gains: Making a DeFi loan
+Identifier: CRYPTO61620
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61620
+Published: 2022-02-02T15:07:05+00:00
+Updated: 2022-02-02T15:06:52+00:00
+Retrieved (UTC): 2026-09-18T16:18:43.100343+00:00
+
+It is important to consider whether the lender/liquidity provider actually transfers their beneficial ownership of the tokens to the borrower/Decentralised Finance (DeFi) lending platform. This will require an examination of the contract/terms and conditions. Where the recipient of the tokens has the ability to deal with the tokens received as they want then this will be a strong indicator that the recipient has acquired the beneficial ownership of those tokens. Conversely if the recipient is specifically restricted from dealing with the tokens received, this will be a strong indicator that the recipient does not have beneficial ownership of the tokens received.
+
+Where the making of a loan/staking (as described at CRYPTO61120 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61120)) results in the lender/liquidity provider transferring their beneficial ownership of the tokens to the borrower/DeFi lending platform, this will give rise to a disposal of the loaned/staked tokens. The disposal will occur at the time that the lender/liquidity provider transfers the beneficial ownership of their tokens to the borrower/DeFi lending platform.
+
+The lender’s/liquidity provider’s consideration for the disposal will depend on the facts.
+
+Lender transfers control of tokens to a borrower
+
+A lender makes a disposal of tokens for a right to receive a future quantity of tokens. This right represents deferred consideration (see CG14850P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14850p)). The Chargeable Gains (CG) treatment of deferred consideration depends on whether the quantity of tokens to be received in the future is ascertainable or unascertainable. Where the consideration is in “money’s worth”, such as a quantity of foreign currency or shares, then it is necessary to consider if the quantity of that asset that is to be received in the future is known. This approach was confirmed by the Court of Appeal in Goodbrand v Loffland Bros North Sea Inc (71 TC 57). Although the facts of that case related to sale proceeds in a currency other than sterling, Millett L.J. also considered the same analysis would apply to proceeds which consisted of assets (such as shares).
+
+Where the quantity of tokens to be received in the future is known then section 48(1) Taxation of Chargeable Gains Act (TCGA) 1992 will apply. The lender should value the quantity of tokens to be received in the future at their sterling value at the time the loan is made.
+
+Where there is no agreed return (see CRYPTO61130 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61130)), then the borrower will be obliged to transfer to the lender the same quantity of tokens as they have borrowed. In such a case, section 48(1) TCGA 1992 should always apply.
+
+For an example of a CG computation where section 48(1) TCGA 1992 applies, see CRYPTO61671 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61671).
+
+The treatment of a loan that includes a return to the lender can be more complicated. The position will depend on whether the return means that the future quantity of tokens that will be received by the lender is ascertainable or unascertainable.
+
+Where the quantity of tokens that the borrower will need to transfer to the lender, including the return, is known or can be calculated then the total quantity of tokens that the lender will receive is ascertainable (see CG14881 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14881)). However, if the sterling value of the tokens that represent the return will be taxed as income when they are finally received then section 37 TCGA 1992 will apply (see CG14300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14300)). Section 37 TCGA 1992 excludes from the consideration the sterling amount that is being taxed as income. This is to prevent double taxation.
+
+For an example of a CG computation where section 37 TCGA 1992 applies, see CRYPTO61672 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61672).
+
+Where the quantity of tokens to be received in the future is unknown then the lender holds a right to receive unascertainable deferred consideration. In the House of Lords case of Marren v Ingles (54 TC 76) this type of right was found to be an asset for CG purposes (see CG14990 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14990)). The lender’s consideration will be the market value of that right at the time it is received. For further guidance on obtaining a valuation of a ‘Marren v Ingles right’ see CG14950 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14950).
+
+It will be unusual for the total quantity of tokens to be given to the lender to be unknown. This is because the loan will be for a known quantity of tokens (the principal), so the lender will know the quantity of tokens to be returned to satisfy the principal of the loan. It will be the return only that can be unknown. In that situation you would treat the principal as a known quantity of tokens to which section 48(1) TCGA 1992 applies. Only the right to the return on the loan would represent a ‘Marren v Ingles right’.
+
+For an example of a CG computation involving a ‘Marren v Ingles right’, see CRYPTO61673 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61673).
+
+Section 37 TCGA 1992 is not capable of applying to exclude any of the value of the ‘Marren v Ingles right’ from the CG computation. This is because none of the value of the right will be subject to Income Tax. This means that a loss may arise on the disposal of the right when the loan is satisfied by the borrower (see CRYPTO61650 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61650)). It may be possible to elect to set that loss against any gain that arose on the making of the loan. For more information about this election see CG15080 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15080) onwards.
+
+Liquidity provider transfers the control of tokens to a DeFi lending platform in return for the DeFi lending platform transferring the control of one or more tokens
+
+This is an exchange of one token for another token. The consideration for the disposal will be the market value in sterling of the token received from the DeFi lending platform. The acquisition price of the token received from the DeFi lending platform will be the market value in sterling of the token transferred to the DeFi lending platform.
+
+Where the liquidity provider needs to transfer more than one type of token to the DeFi lending platform to receive a token from the DeFi lending platform, the value of the token received from the DeFi lending platform should be apportioned between the disposals of the tokens on a just and reasonable basis.
+
+For an example of a CG computation where tokens are exchanged for a liquidity token, see CRYPTO61674 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61674).

@@ -1,0 +1,32 @@
+Stocks and shares: valuation: additional quotation markings
+Identifier: IHTM18098
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm18098
+Published: 2016-04-09T09:29:51+01:00
+Updated: 2022-05-09T09:54:19+01:00
+Retrieved (UTC): 2026-09-18T14:59:40.636541+00:00
+
+The London Stock Exchange and other exchange listings (IHTM18092 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm18092)) include a number of markings that may affect the value of the stocks and shares. Some of the markings increase the value of the shares and some decrease the value. You will need to account for such adjustments when valuing the investments. Other markings show that the deceased was entitled to some new shares at the date of death.
+
+Markings which increase the value
+
+- ‘xd’ (ex-dividend) - the dividend that is due remains payable to the deceased/transferor. See the separate dividends (IHTM18110 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm18110)) section of this manual.
+
+- ‘1k’ (‘gilts’ plus interest) - the interest that has accrued is part of the value at the date of death/transfer. Include the net interest that has accrued from the date interest was last paid up to date of death as an asset of the estate. 1k markings apply only to Government securities.
+
+- ‘1m’ (fixed interest securities, loan and debenture stock plus interest) - this is the same as ‘1k’ but applies to non-Government securities.
+
+Markings which decrease the value
+
+- ‘1k…X’ (‘gilts’ minus interest) - interest due from the date of death to the date of payment of interest is deducted from the value at the date of death. Take the net interest that has accrued from the date of death to the date interest was paid away from the value of the Government stock. If a separate interest payment has been received, calculate the net amount of the interest payment due to the estate.
+
+- ‘1m…X’ (fixed interest securities, loan and debenture stock minus interest) - this is the same as ‘1k…X’ but applies to non-Government securities.
+
+Markings which mean the deceased/transferor was entitled to new shares
+
+- ‘XC’ (also seen as ‘Xcap’) - This indicates that the company is giving free shares in lieu of a dividend as a capitalisation or “scrip” issue (IHTM18099 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm18099)). Include the new shares as an asset of the estate.
+
+- ‘XR’ (also seen as ‘Xrts’) - there has been a rights issue (IHTM18100 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm18100)). Account for the value of the new shares or rights in the estate.
+
+- ‘XE’ (ex-entitlement) - include the new shares or warrants, if any.
+
+If you do not know how many new shares, rights or warrants to include, ask the taxpayer to confirm the further assets due to the estate. Ensure that the new shares, rights or warrants are included with the original holdings on form IHT400 (IHTM10021 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm10021)).

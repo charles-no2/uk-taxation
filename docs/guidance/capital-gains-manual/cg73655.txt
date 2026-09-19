@@ -1,0 +1,32 @@
+Dwellings subject to ATED: how ATED-related gains/losses are charged/relieved - restriction on losses
+Identifier: CG73655
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73655
+Published: 2016-03-12T12:24:51+00:00
+Updated: 2018-05-16T08:38:54+01:00
+Retrieved (UTC): 2026-09-18T14:35:47.719690+00:00
+
+Special rules apply in some circumstances both to create an ATED-related loss and determine the amount of that loss.
+
+The rules apply where—
+
+- a disposal meets conditions A to C for it to be a relevant high value disposal (see CG73616),
+
+- but the disposal does not meet condition D, because consideration for the disposal is less than the ‘threshold amount’ for that disposal, and
+
+- the expenditure allowable as deductions in computing the gain or loss on disposal exceed that threshold amount.
+
+Although the interest disposed of may have been within the scope of ATED, without the special rules there would be no ATED -related loss, because condition D is not met. The rules ensure that an ATED-related loss does accrue, but restricts the amount of that loss. In these circumstances TCGA92/S2E treats the disposal as if it were a relevant high value disposal and the special computational rules in Schedule 4ZZA (see CG73625+) for computing ATED-related and non ATED-related losses can apply.
+
+However, the ATED-related loss computed under Schedule 4ZZA is then restricted to the amount which it would have been if the consideration for the disposal had been £1 more than the threshold amount and the amount of the restriction reverts to being a non ATED-related loss.
+
+Example
+
+The consideration for a disposal is £1.6 million and threshold amount for that disposal is £2 million. The cost of acquisition and other allowable expenditure is £2.2 million, giving rise to a ‘gross loss’ on the disposal (before adjustment) of £0.6 million.
+
+Conditions A to C for it to be a relevant high value disposal are met, but condition D is not because the consideration is less than the threshold amount. Section 2E treats the disposal as a relevant high value disposal.
+
+If the consideration for the disposal were £1 more than the threshold amount the loss on the disposal would have been £199,999 (£2,200,000 - £2,000,001).
+
+If the whole of the gross loss on the disposal (£0.6 million) were ATED-related, the allowable loss would be restricted to £199,999.
+
+If, say, only 25% of the gross loss (£150,000) were ATED-related, the actual ATED-related allowable loss would be restricted by reference to the same fraction multiplied by the loss computed using the deemed disposal consideration. That is, the ATED-related allowable loss would be restricted to 25% of £199,999 = £50,000. The amount which is excluded from being an ATED-related loss (£100,000 in the example) is a non ATED-related loss and may be allowed as such. The ‘gross loss’ that is not ATED-related (£450,000) is not affected by the restriction of the ATED-related loss.

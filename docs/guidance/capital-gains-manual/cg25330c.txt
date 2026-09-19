@@ -1,0 +1,32 @@
+Remittance basis: matching rules for relieving losses: TCGA92/S16ZC*
+Identifier: CG25330C
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25330c
+Published: 2016-03-12T10:24:14+00:00
+Updated: 2019-06-25T14:11:54+01:00
+Retrieved (UTC): 2026-09-18T14:38:53.338352+00:00
+
+Changes from 6 April 2025
+
+The remittance basis has been abolished and new rules have been introduced from the 2025/26 tax year.
+
+The latest guidance can be found in RFIG (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual) for Residence and RDRM (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis) for Domicile manuals.
+
+Please note that cases which occur from 6 April 2025 onwards will be determined in accordance with the new rules
+
+If an election has been made for foreign losses to remain allowable losses (see CG25330A (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25330a#)) then, in a tax year in which the remittance basis applies and the individual is not domiciled in the United Kingdom, special rules apply to determine how gains are to be relieved by losses. In summary, the allowable losses deductable under TCGA92/S2* are matched:
+
+- Firstly, against foreign chargeable gains accruing in the tax year to the extent that they are remitted to the United Kingdom in that year
+
+- Secondly, against foreign chargeable gains accruing in that year to the extent that they are not so remitted and
+
+- Thirdly, against chargeable gains accruing in that year other than foreign chargeable gains (this does not include chargeable gains treated as accruing under TCGA92/S12* ie on the remittance basis).
+
+And then the amount on which Capital Gains Tax is charged in the year is the total amount of chargeable gains accruing in the year less the losses matched against gains in the first and third categories only.
+
+This means in effect that allowable losses which are matched with unremitted foreign chargeable gains are not available for relief against gains on UK assets, which therefore remain chargeable. The unremitted foreign chargeable gains are reduced by the losses matched with them, and so will not give rise to any tax charge if or when they are remitted (TCGA92/S16ZD(3)*).
+
+Chargeable gains which are treated as accruing under TCGA92(S87) (attribution of gains to beneficiaries) or TCGA92/S89(2) (migrant settlements etc) are not within any of these three categories of gain. This means that relief for losses is not available against these sorts of gain.
+
+A taxpayer will need to keep records to allow the correct operation of these provisions to be verified.
+
+*These provisions were re-written for disposals from 6 April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

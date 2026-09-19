@@ -1,0 +1,348 @@
+Options: market value rule: examples: options other than employment-related share options
+Identifier: CG12399
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399
+Published: 2016-03-12T09:59:16+00:00
+Updated: 2023-04-13T15:19:31+01:00
+Retrieved (UTC): 2026-09-18T14:36:50.879342+00:00
+
+The following examples demonstrate the application of the market value rule in circumstances where assets are acquired or disposed of when options are exercised. They show the results both where options are exercised on or after 10 April 2003, and where the options were exercised before that date.
+
+The examples involve various permutations of the possible application of the market value rule to grant, transfer or exercise of options. The permutations are shown in the table below.
+
+Although the following examples all involve transactions between connected persons, the results would be the same if the transactions potentially fell within the market value rule for any other reason, such as the consideration being incapable of being valued or, for example, the option being granted by an employer to an employee in circumstances where TCGA92/S149A does not apply.
+
+Market value rule applies to
+
+Example |  Grant of option |  Transfer of option |  Exercise of option |
+
+Example 3 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#IDAVX4NH) |  Yes |  -– |  Yes |
+
+Example 4 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#IDAOC5NH) |  No |  Yes |  No |
+
+Example 5 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#IDA3N5NH) |  Yes |  Yes |  Yes |
+
+Example 6 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#IDAM05NH) |  No |  No |  Yes |
+
+Example 7 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#IDA1FAOH) |  No |  Yes |  Yes |
+
+Example 8 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#IDAKSAOH) |  Yes |  No |  No |
+
+Example 9 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#IDA53AOH) |  Yes |  No |  Yes |
+
+Example 10 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#IDARJBOH) |  Yes |  Yes |  No |
+
+Example 3
+
+B pays his father A £1,000 for the grant of an option entitling the holder to acquire an asset from A for £5,000. The market value of the option when it is granted is £2,000. B subsequently exercises the option and acquires the asset, paying £5,000. At the time of exercise of the option, the market value of the asset is £10,000. There is no employer/employee relationship between the parties.
+
+- The grant of the option is a transaction between connected persons, so the market value of the option at the time of the grant is substituted for the actual consideration given and received. (Sections 18 and 17 TCGA92, see CG14550+.)
+
+- The transfer of the asset from A to B is also between connected persons so, following the decision in Mansworth v Jelley, if the option was exercised before 10 April 2003, the market value of the asset at the time of transfer would be substituted for the consideration actually given, and no account would be taken of the amounts given or received for, or the market value of, the option. That rule is changed by TCGA92/S144ZA for options exercised on or after 10 April 2003, so that the only market value used is that of the option at the time it was granted.
+
+A’s asset disposal proceeds
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Market value of option at grant |  £2,000 |  - |  - |
+
+Amount received on exercise |  £5,000 |  Market value of asset at exercise |  £10,000 |
+
+Disposal proceeds |  £7,000 |  Disposal Proceeds |  £10,000 |
+
+B’s acquisition cost
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Market value of option at |  - |  - |  - |
+
+acquisition |  £2,000 |    |  - |
+
+Paid on exercise |  £5,000 |  Market value of asset at exercise |  £10,000 |
+
+Acquisition cost |  £7,000 |  Acquisition cost |  £10,000 |
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#Top)
+
+Example 4
+
+D is granted an option by C for £1,000. The acquisition is at arm’s length, and entitles the holder to acquire an asset from C for £5,000. D sells the option to his brother E for £800 at a time when the market value of the option is £1,100. E exercises the option and acquires the asset from C for £5,000. E and C are not connected. The market value of the asset when the option is exercised is £7,000. There is no employer/employee relationship between any of the parties.
+
+- The grant of the option is a transaction at arm’s length, so no market value substitution is required.
+
+- The transfer of the option from D to E is between connected persons, so the market value of the option at that time is substituted for the actual consideration paid by E to D. (Sections 18 and 17 TCGA92, see CG14550+.)
+
+- The transfer of the asset from C to E when the option is exercised is not between connected persons, so there is no reason to substitute market value for the actual consideration passing.
+
+C’s asset disposal proceeds
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Received for option |  £1,000 |  Received for option |  £1,000 |
+
+Received on exercise |  £5,000 |  Received on exercise |  £5,000 |
+
+Disposal proceeds |  £6,000 |  Disposal proceeds |  £6,000 |
+
+D’s transaction with the option
+
+Acquisition cost of option £1,000
+
+Market value of option at disposal £1,100
+
+Chargeable gain £100
+
+E’s acquisition cost of the asset
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Market value of option |  £1,100 |  Market value of option |  £1,100 |
+
+Paid on exercise |  £5,000 |  Paid on exercise |  £5,000 |
+
+Acquisition cost |  £6,100 |  Acquisition cost |  £6,100 |
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#Top)
+
+Example 5
+
+G acquires an option from his father F for £1,000. The option entitles the holder to acquire an asset from F for £5,000. The market value of the option when it is granted is £2,000. G sells the option to his sister H for £1,500 at a time when the market value of the option has increased to £2,500. H exercises the option and acquires the asset from her father F for £5,000. The market value of the asset at that time is £10,000.
+
+- The grant of the option is a transaction between connected persons, so the market value of the option at the time of the grant is substituted for the actual consideration given and received. There is no employer/employee relationship between any of the parties.
+
+- The transfer of the option from G to H is also a transaction between connected persons, so the market value of the option at the time of the transfer is substituted for the consideration actually given and received.
+
+- The transfer of the asset from F to H is also between connected persons. Following the decision in Mansworth v Jelley, if the option was exercised before 10 April 2003, the market value of the asset at the time of transfer is substituted for the consideration actually given, and no account is taken of the amounts given or received for, or the market value of, the option. That rule is changed by TCGA92/S144ZA for options exercised on or after 10 April 2003, so that the only market value used is that of the option at the time it was granted (for computing F’s disposal proceeds) or acquired (for computing H’s acquisition cost).
+
+F’s asset disposal proceeds
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Market value of option |  £2,000 |  - |  - |
+
+Received on exercise |  £5,000 |  Market value of asset |  £10,000 |
+
+Disposal proceeds |  £7,000 |  Disposal Proceeds |  £10,000 |
+
+G’s transactions with the option
+
+Market value of option at acquisition £2,000
+
+Market value of option at disposal £2,500
+
+Chargeable gain £500
+
+H’s acquisition cost of asset
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Market value of option at |  - |  - |  - |
+
+acquisition |  £2,500 |  - |  - |
+
+Paid on exercise |  £5,000 |  Market value of asset at exercise |  £10,000 |
+
+Acquisition cost |  £7,500 |  Acquisition cost |  £10,000 |
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#Top)
+
+Example 6
+
+K is granted an option at arm’s length by J for £1,000. The option entitles the holder to acquire an asset from J for £5,000. K then sells the option at arm’s length to L for £1,700. L is connected with J. L exercises the option and acquires the asset from the connected person J for £5,000. The market value of the asset when the option is exercised is £10,000.
+
+- The grant of the option is a transaction at arm’s length, so there is no reason to substitute market value for the actual consideration given and received.
+
+- The transfer of the option to L by K is at arm’s length so there is no reason to substitute market value for the actual consideration given and received.
+
+- But the transfer of the asset from J to L is between connected persons. Following the decision in Mansworth v Jelley, if the option was exercised before 10 April 2003 the market value of the asset at the time of transfer is substituted for the consideration actually given, and no account is taken of the amounts given or received for the option. That rule was changed by TCGA92/S144ZA for options exercised on or after 10 April 2003, so that the only market value that could be used is that of the option at the time it was granted or acquired. As both the grant of the option by J to K and the acquisition of the option by L from K were at arm’s length, no market value substitution is required. There is no employer/employee relationship between any of the parties.
+
+J’s asset disposal proceeds
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Received for option |  £1,000 |  - |  - |
+
+Received on exercise |  £5,000 |  Market value of asset at exercise |  £10,000 |
+
+Disposal proceeds |  £6,000 |  Disposal Proceeds |  £10,000 |
+
+K’s transactions with the option
+
+Cost of option £1,000
+
+Proceeds of disposal £1,700
+
+Chargeable gain £700
+
+L’s acquisition cost of the asset
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Cost of option at acquisition |  £1,700 |  - |  - |
+
+Paid on exercise |  £5,000 |  Market value of asset at exercise |  £10,000 |
+
+Acquisition cost |  £6,700 |  Acquisition cost |  £10,000 |
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#Top)
+
+Example 7
+
+N is granted an option by M at arm’s length for £1,000. The option entitles the holder to acquire an asset from M for £5,000. N sells the option to P, who is connected with both N and M, for £1,000, at a time when the market value of the option is £1,500. P exercises the option and acquires the asset from M at a time when the market value of the asset is £10,000. There is no employer/employee relationship between any of the parties.
+
+- The grant of the option is a transaction at arm’s length and between unconnected persons, so there is no reason to substitute market value for the actual consideration given and received.
+
+- The transfer of the option from N to P is a not a transaction at arm’s length, so the market value of the option is substituted for the amount actually paid by P.
+
+- The transfer of the asset from M to P is between connected persons. Following the decision in Mansworth v Jelley, where the option was exercised before 10 April 2003 the market value of the asset at the time of transfer is substituted for the consideration actually given, and no account is taken of the amounts given or received for the option. If the option is exercised on or after 10 April 2003, the rule is changed by TCGA92/S144ZA, so that the only market value that could be used is that of the option at the time it was granted or acquired. P acquired the option other than by way of an arm’s length bargain, so the market value of the option at the time of acquisition by P is used.
+
+M’s asset disposal proceeds
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Received for option |  £1,000 |  - |  - |
+
+Received on exercise |  £5,000 |  Market value of asset at exercise |  £10,000 |
+
+Disposal proceeds |  £6,000 |  Disposal Proceeds |  £10,000 |
+
+N’s transactions with the option
+
+Cost of option £1,000
+
+Market value of option at disposal £1,500
+
+Chargeable gain £500
+
+P’s acquisition cost of the asset
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Market value of option at |  - |  - |  - |
+
+acquisition |  £1,500 |  - |  - |
+
+Paid on exercise |  £5,000 |  Market value of asset at exercise |  £10,000 |
+
+Acquisition cost |  £6,500 |  Acquisition cost |  £10,000 |
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#Top)
+
+Example 8
+
+R is granted an option by Q for £1,000. The option entitles the holder to acquire an asset from Q for £5,000. Q and R are connected. The value of the option when it is granted is £2,000. R sells the option at arm’s length to S for £2,400. S is not connected with Q. S exercises the option and acquires the asset for £5,000 at a time when the market value of the asset is £10,000. There is no employer/employee relationship between any of the parties.
+
+- The grant of the option is a transaction between connected persons, so the market value of the option at the time of the grant is substituted for the actual consideration given and received.
+
+- The transfer of the option to S by R is at arm’s length, so no substitution of market value for the price actually paid is required.
+
+- The transfer of the asset by Q to S is also at arm’s length, so there is no substitution of market value for the price paid under the option.
+
+Q’s asset disposal proceeds
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Market value of option at grant |  £2,000 |  Market value of option at grant |  £2,000 |
+
+Received on exercise |  £5,000 |  Received on exercise |  £5,000 |
+
+Disposal proceeds |  £7,000 |  Disposal Proceeds |  £7,000 |
+
+R’s transactions with the option
+
+Market value of option at acquisition £2,000
+
+Disposal of proceeds £2,400
+
+Chargeable gain £400
+
+S’s acquisition cost of the asset
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Cost of option |  £2,400 |  Cost of option |  £2,400 |
+
+Paid on exercise |  £5,000 |  Paid on exercise |  £5,000 |
+
+Acquisition cost |  £7,400 |  Acquisition cost |  £7,400 |
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#Top)
+
+Example 9
+
+V is granted an option by T for £1,000. V and T are connected. The option entitles the holder to acquire an asset from T for £5,000. The market value of the option when it is granted is £2,000. V sells the option at arm’s length to W for £2,500. W and T are connected. W exercises the option and acquires the asset from T, paying £5,000. The market value of the asset when the option is exercised is £10,000. There is no employer/employee relationship between any of the parties.
+
+- The grant of the option is a transaction between connected persons, so the market value of the option at the time of the grant is substituted for the actual consideration given and received.
+
+- The transfer of the option to W by V is at arm’s length, so no substitution of market value for the price actually paid is required.
+
+- The transfer of the asset from T to W is between connected persons. Following the decision in Mansworth v Jelley, if the option was exercised before 10 April 2003 the market value of the asset at the time of transfer is substituted for the consideration actually given, and no account is taken of the amounts given or received for the option. If the option was exercised on or after 10 April 2003, the rule is changed by TCGA92/S144ZA, so that the only market value that could be used is that of the option at the time it was granted or acquired. W acquired the option by way of an arm’s length bargain, so there is no substitution of the market value of the option for the consideration actually given by W to V.
+
+T’s asset disposal proceeds
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Market value of option at grant |  £2,000 |  - |  - |
+
+Received on exercise |  £5,000 |  Market value of asset at exercise |  £10,000 |
+
+Disposal proceeds |  £7,000 |  Disposal Proceeds |  £10,000 |
+
+V’s transactions with the option
+
+Market value of option at acquisition £2,000
+
+Disposal proceeds £2,500
+
+Chargeable gain £500
+
+W’s acquisition cost of the asset
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Cost of option |  £2,500 |  - |  - |
+
+Paid on exercise |  £5,000 |  Market value of asset at exercise |  £10,000 |
+
+Acquisition cost |  £7,500 |  Acquisition cost |  £10,000 |
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12399#Top)
+
+Example 10
+
+Y is granted an option by X for £1,000. X and Y are connected. The option entitles the holder to acquire an asset from X for £5,000. The market value of the option when it is granted is £2,500. Y sells the option to Z for £3,000. Y and Z are connected, but Z is not connected with X. The value of the option when it is sold by Y to Z is £3,800. Z exercises the option and acquires the asset from X, paying £5,000. The market value of the asset when the option is exercised is £10,000. There is no employer/employee relationship between any of the parties.
+
+- The grant of the option is a transaction between connected persons, so the market value of the option at the time of the grant is substituted for the actual consideration given and received. (Sections 18 and 17 TCGA92, see CG14550+.)
+
+- The transfer of the option from Y to Z is also a transaction between connected persons, so the market value of the option at the time of the transfer is substituted for the consideration actually given and received.
+
+- The transfer of the asset by X to Z is at arm’s length, so there is no substitution of market value for the price paid under the option.
+
+X’s disposal proceeds
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Market value of option at grant |  £2,500 |  Market value of option at grant |  £2,500 |
+
+Received on exercise |  £5,000 |  Received on exercise |  £5,000 |
+
+Disposal proceeds |  £7,500 |  Disposal Proceeds |  £7,500 |
+
+Y’s transactions with the option
+
+Market value at acquisition £2,500
+
+Market value of option at disposal £3,800
+
+Chargeable gain £1,300
+
+Z’s acquisition cost of the asset
+
+Exercise on or after 10 April 2003 |  - |  Exercise before 10 April 2003 |  - |
+
+Market value of option at |  Market value of option at |    |    |
+
+acquisition |  £3,800 |  acquisition |  £3,800 |
+
+Paid on exercise |  £5,000 |  Paid on exercise |  £5,000 |
+
+Acquisition cost |  £8,800 |  Acquisition cost |  £8,800 |

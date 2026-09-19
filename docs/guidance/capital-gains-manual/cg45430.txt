@@ -1,0 +1,100 @@
+The degrouping charge: companies leaving groups on or after 19 July 2011, reduction of charge by claim
+Identifier: CG45430
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45430
+Published: 2016-03-12T11:06:57+00:00
+Updated: 2023-04-26T10:25:14+01:00
+Retrieved (UTC): 2026-09-18T14:40:57.929442+00:00
+
+TCGA92/S179ZA may apply to a degrouping charge triggered by a company leaving a group on or after 19 July 2011, the day Finance Act 2011 was passed.
+
+As explained in CG45400, the aim of the degrouping charge is to ensure that the increase in value of an asset during its period of ownership by a group is reflected for chargeable gains purposes even if the asset leaves the group by way of the disposal of a company that owns the asset.
+
+The “envelope trick” as described involves placing the asset within a corporate wrapper of suitably high base cost to eliminate any gain but the process of calculating the charge, by creating a deemed disposal of the asset at its market value at the time of transfer, makes no allowance for the fact that the transfer may not have caused any distortion for tax purposes.
+
+Say company B acquired an asset for cost £100 which increased in value to £300 by the time it is disposed of to group company A. The following possibilities are among those that may arise when company A later leaves the group:
+
+- If company A’s capital gains base cost is increased at that time of the transfer (say it issues shares to B in exchange for the asset) then the rise in value of the asset during B’s period of ownership will not be taxed when A is sold,
+
+- If company A pays B the market value for the asset then A’s value will not rise and again the rise in the value of the asset during B’s period of ownership will not be taxed when A is sold,
+
+- If company A pays B the £100 base cost for the asset then A’s value will rise by £200 as a result of the transfer and so the rise in value during B’s period of ownership will be taxed when A is sold.
+
+However, any rise in the value of the asset during A’s period of ownership will increase the consideration on the disposal of the shares in A.
+
+Finance Act 2011 introduced TCGA92/S179ZA to provide a mechanism to reduce a degrouping charge on a just and reasonable basis to address situations such as that in the final bullet above.
+
+It is common practice for assets to be transferred between companies within groups at their historic or book value. Where such a transfer value is broadly comparable to the capital gains base cost to the group then it will be just and reasonable to eliminate the degrouping charge on the asset on the making of a claim.
+
+The sub-group exception in TCGA92/S179(2) described at CG45435 disapplies a degrouping charge in situations where the transfer of the asset takes place within a sub-group and that sub-group then leaves the group. However, it does not apply where the transferor company, company B, is disposed of or struck off before the remaining part of the sub-group leaves the group. Again, a claim would be appropriate where the asset’s increase in value before the transfer is reflected in the gain accruing on the disposal of shares that triggers the operation of the degrouping charge.
+
+Where a degrouping charge is reduced by an amount as a result of a claim under this rule then the deemed disposal and reacquisition of the asset by company A is altered from market value to market value less the amount of reduction. This ensures that company A has the correct capital gains base cost for any future disposal. If a degrouping charge is eliminated as a result of a claim under TCGA92/S179ZA then in practice company A will retain the no gain/no loss figure resulting from the operation of TCGA92/S171.
+
+Example 1 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45430#IDANTRR)
+Example 2 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45430#IDAVVRR)
+Example 3 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45430#IDA3XRR)
+
+Example 1
+
+Company J acquired an asset for £200 and subsequently transferred it to group company K when it was worth £300. K paid £200 through an adjustment to inter-company balances. Two years afterwards K was sold out of the group at a time the asset was worth £500. The TCGA92/S179(3) calculation therefore produces a degrouping charge of £100.
+
+K makes a claim under TCGA92/S179ZA to reduce the degrouping charge from £100 to £nil. K paid as consideration the capital gains base cost to J. Therefore all of the £300 increase in the value of the asset during the ownership by the group will be reflected in the gain on the sale of shares in K.
+
+The just and reasonable adjustment is of an amount that eliminates the degrouping charge.
+
+K’s capital gains base cost going forward therefore remains the original amount paid by J:
+
+- |  Amount |
+
+Market value at transfer |  £300 |
+
+S179ZA adjustment |  £100 |
+
+Cost |  £200 |
+
+Example 2
+
+Company L acquired an asset for £100 and subsequently transferred it to group company M when it was worth £400. M paid £150 through an adjustment to inter-company balances. Three years afterwards M was sold out of the group at a time the asset was worth £250. The TCGA92/S179(3) calculation therefore produces a degrouping charge of £300.
+
+M makes a claim under TCGA92/S179ZA to reduce the degrouping charge from £300 to £50, that is a reduction of £250. M paid £50 more consideration than the capital gains base cost to L. Therefore of the £150 increase in the value of the asset during the ownership by the group, £100 will be reflected in the gain on the sale of shares in M, leaving a balance of £50 which without the degrouping mechanism would be untaxed.
+
+The degrouping charge calculated by TCGA92/S179(3) is the higher figure of £300, reflecting the market value at the time of transfer. The just and reasonable adjustment is of an amount that reduces the degrouping charge to £50.
+
+L’s capital gains base cost going forward is therefore:
+
+- |  Amount |
+
+Market value at transfer |  £400 |
+
+S179ZA adjustment |  £250 |
+
+Cost |  £150 |
+
+Example 3
+
+Principal company O has subsidiaries P and Q. Q in turn has subsidiaries R and S. R acquired an asset for £80 and subsequently transferred it to group company S when it was worth £240. S paid the market value of £240 through an adjustment to inter-company balances. Shortly afterwards R was liquidated. One year later Q was sold out of the group together with its remaining subsidiary, S. at a time the asset was worth £440. The TCGA92/S179(3) calculation therefore produces a degrouping charge of £160.
+
+S makes a claim under TCGA92/S179ZA to reduce the degrouping charge from £160 to £nil. Although S paid greater consideration than the capital gains base cost to R the increase in the value of the asset during the ownership by the group of £360 will be reflected in the gain on the sale of shares in Q.
+
+This is a situation where the associated companies exception in TCGA92/S179(2) would have applied but for the fact that R has been liquidated. The just and reasonable adjustment is of an amount that reduces the degrouping charge to £nil.
+
+S’s capital gains base cost going forward therefore remains the original amount paid by R:
+
+- |  Amount |
+
+Market value at transfer |  £240 |
+
+S179ZA adjustment |  £160 |
+
+Cost |  £80 |
+
+Note that it is not possible for a TCGA92/S179ZA adjustment to exceed the amount resulting from the TCGA92/S179(3) calculation; the transferee’s base cost after adjustment cannot be less than the corresponding figure for the transferor.
+
+There are no special provisions for making a claim so the general Corporation Tax Self Assessment claim provisions apply. However, a joint claim must be made if the degrouping charge arises because more than one group company make a simultaneous disposal of shares, TCGA92/S179ZA(2).
+
+In many cases it will be readily apparent that the capital gain calculated on the disposal of shares in company A (or on a disposal of the company that is the parent of company Y) will not lead to a loss of tax compared to a direct sale of the assets held by that company. For example where any asset transfers to that company have been at a book value which is broadly comparable with the capital gains base cost. In such cases HMRC will accept a claim that any degrouping charge that would arise will be eliminated by TCGA92/S179ZA.
+
+Otherwise, a claim under TCGA92/S179ZA must specify the amount by which a degrouping charge is to be reduced, TCGA92/S179ZA(3). The claim is not “all or nothing” and the question of whether an amount of a reduction is just and reasonable should be judged by reference to the amount of share capital of the company whose shares are disposed of and the circumstances in which the asset was transferred, TCGA92/S179ZA(5).
+
+In circumstances where the Substantial Shareholding Exemption applies to a disposal of shares the question of a claim under TCGA92/S179ZA may be academic.
+
+Note that it was possible for a group to elect to apply the changes to degrouping charge rules made in Finance Act 2011 from 1 April 2011. Whenever the above guidance refers to 19 July 2011 it should be taken as referring to 1 April 2011 for a company in a group that has made such an election.

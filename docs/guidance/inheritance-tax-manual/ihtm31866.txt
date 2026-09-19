@@ -1,0 +1,42 @@
+Assessing SAGE: matching payments received
+Identifier: IHTM31866
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31866
+Published: 2016-04-09T10:07:12+01:00
+Updated: 2016-02-11T17:19:46+00:00
+Retrieved (UTC): 2026-09-18T15:06:36.692268+00:00
+
+Matching is the process on SAGE where receipts are allocated to calculations issued by caseworkers. It is this that allows us to measure how much tax, interest and penalties have been collected. If receipts are not matched, the money received is accounted for as being held on deposit. So, if we do not match money when we should we are overstating:
+
+- money held on deposit
+
+- the tax and interest still due to us.
+
+Cashiers will match money on SAGE relating to calculations issued by caseworkers in the following circumstances:
+
+Payment equal to the amount due on the calculation
+
+In these cases you should change the status of the calculation on COMPASS to Paid (IHTM31211 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31211)).
+
+Payment is more than the amount due on the calculation
+
+Cashiers will match part of the payment to the amount due on the calculation and leave the balance of the payment unmatched. In these cases you must consider what to do with the unmatched money. If you want to let the calculation stand, change the status to Paid on COMPASS (where COMPASS calculations have been issued) and treat the remaining money as a deposit.
+
+Payment is less than the amount due on the calculation
+
+Cashiers will match all of the payment to part of the calculation (tax first, then interest) and leave the balance of the calculation unmatched. You have two options:
+
+- If you decide to let the calculation stand and simply request the balance from the taxpayer or agent, Cashiers will match the balance when we receive it.
+
+- If you withdraw the calculation and issue a fresh one, the withdrawal of the original calculation will be notified to Cashiers automatically overnight and the payment unmatched without the need for a Cas15 (IHTM31852 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31852)). Show the payment as a deposit on the fresh calculation so that it can be re-matched automatically.
+
+More than one calculation
+
+Where the payment accompanies two or more calculations, Cashiers will follow the same rules.
+
+Where the payment is less than the total due on the calculations, they will match the payment to:
+
+- tax on all of the calculations before any interest charges
+
+- NIOP (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)) before IOP
+
+- IOP before IOP(WIR)

@@ -1,0 +1,20 @@
+Assessing: calculations: death estate: revision to the original tax charge
+Identifier: IHTM31416
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31416
+Published: 2016-04-09T10:04:34+01:00
+Updated: 2016-02-11T17:19:03+00:00
+Retrieved (UTC): 2026-09-18T15:06:07.090300+00:00
+
+If a previous calculation has been issued for the assessment group, you should include in the new calculation the figures for:
+
+- the previous value of the property in this assessment group
+
+- the tax previously charged on it
+
+- the revised value of the property in this assessment group
+
+- the revised tax charged on it
+
+This will help the taxpayer or agent to understand how the figures are arrived at.
+
+COMPASS (IHTM31101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31101)) will input the above figures automatically, but you will have to include the figures yourself in the manual template (IHTM31301), in the relevant places.

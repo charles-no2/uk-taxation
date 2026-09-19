@@ -1,0 +1,14 @@
+Decentralised Finance: Lending and staking: Meaning of ‘loan’ and ‘staking’
+Identifier: CRYPTO61120
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61120
+Published: 2022-02-02T14:46:23+00:00
+Updated: 2022-02-02T14:46:10+00:00
+Retrieved (UTC): 2026-09-18T16:18:39.640649+00:00
+
+The activities of lending and staking have been particularly popular uses of Decentralised Finance (DeFi). It should be noted that there’s no statutory or legal meaning of the terms ‘lending’ and ‘staking’ in this context. The lending and staking section of guidance (CRYPTO61000 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61000)) applies to two types of transaction:
+
+A person (“lender”) transfers the control of tokens to another person (“borrower”). At the time that transfer occurs, the lender acquires a right to demand that the borrower transfers to the lender the control of an equivalent quantity of tokens at a time in the future to satisfy the loan.
+
+A person (“liquidity provider”) transfers the control of tokens to a DeFi lending platform. This type of transaction may be termed “staking” or “providing liquidity”. At the time when the transfer occurs, the DeFi lending platform transfers control of one or more different tokens to the liquidity provider.
+
+The DeFi lending platform has the ability to transfer the control of tokens provided to it by the liquidity provider to other persons (“borrowers”). It will normally do so on terms that mean the borrower has to provide a return to the DeFi lending platform in excess of the quantity of tokens that the borrower initially received. This return, or a part of it, will be passed onto the liquidity provider as their compensation for providing the liquidity to the DeFi lending platform.

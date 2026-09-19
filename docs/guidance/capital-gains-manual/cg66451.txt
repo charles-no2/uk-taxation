@@ -1,0 +1,80 @@
+Reliefs: Capital Gains Tax and Gifts: Chargeable Gifts: Assessments
+Identifier: CG66451
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66451
+Published: 2019-07-26T15:42:42+01:00
+Updated: 2024-11-18T11:45:16+00:00
+Retrieved (UTC): 2026-09-18T14:34:47.806955+00:00
+
+Whom you assess
+
+As CG66450 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66450) explains, unless hold-over relief has been claimed or a no gain/loss exception applies, a donor may have made a chargeable gain on the gift, calculated with reference to the market value of the asset at the date of disposal.
+
+Under s282 (https://www.legislation.gov.uk/ukpga/1992/12/section/282), if the donor has been assessed to Capital Gains Tax on a gift and fails to pay all the tax within twelve months of the due and payable date, then you can recover the outstanding tax from the donee. This must be done within two years from the date the tax was originally payable by the donor. S282 (https://www.legislation.gov.uk/ukpga/1992/12/section/282) then provides a right for the donee to recover any tax paid from the donor.
+
+Where the assessment is made in respect of a chargeable gain which accrued as a result of a clawback of relief following a settlement becoming settlor-interested under s169C (https://www.legislation.gov.uk/ukpga/1992/12/section/169C) (see CG66888 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66888) for hold-over relief under s165 (https://www.legislation.gov.uk/ukpga/1992/12/section/165) for gifts of business assets, and CG67032 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67032) for hold-over relief under s260 (https://www.legislation.gov.uk/ukpga/1992/12/section/260) for gifts of non-business assets)
+
+- references to the donor are taken to be to the person who made the gift on which hold-over relief was initially claimed, and
+
+- references to the donee are taken to be to the trustees of the settlement to whom the gift on which hold-over relief was initially claimed was made to
+
+Amending the donor’s assessment
+
+If the donee pays the tax on their assessment, you should discharge the donor's assessment by the same amount.
+
+Making the donee’s assessment
+
+The amount on which the donee is to be charged (in the name of the donor) cannot exceed the lesser of:
+
+- the amount of the gain accruing on the gift and
+
+- the amount which brings into charge the tax unpaid
+
+The donee's rate of liability is irrelevant and they are not allowed to use any capital losses in respect of this assessment.
+
+The donor has no right of appeal against an assessment made on the donee. Where there is more than one donee you apportion the amount assessable between them.
+
+Example
+
+In 2024-25, Douglas gives a property to Amber. Both are higher-rate taxpayers. The chargeable gain arising to Douglas as a result of the gift is £48,000. Douglas has gains on disposals of other assets which amount to £15,000 and allowable losses of £3,000. See CG10245 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10245) for the tax rate.
+
+Douglas filed his return which included Capital Gains Tax as follows:
+
+Net chargeable gains
+
+|
+
+£60,000
+
+|
+
+Less annual exempt amount
+
+|
+
+£3,000
+
+|
+
+Equals chargeable gain
+
+|
+
+£57,000
+
+|
+
+Amount of tax due at the higher rate
+
+|
+
+£13,680
+
+|
+
+Douglas fails to pay any of the tax. In December 2026, an assessment is made on Amber to recover the tax on the gift.
+
+That assessment should be made for 2026-27, see Hamar v HMRC TC01529, and cannot exceed the lesser of:
+
+- the amount of the gain arising on the gift (£57,000), and
+
+- the amount which brings into charge the tax unpaid (also £57,000, as Douglas and Amber have the same marginal rate for residential property)

@@ -1,0 +1,44 @@
+Basic definitions: 'Inherited'
+Identifier: IHTM46014
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46014
+Published: 2017-04-05T15:57:52+01:00
+Updated: 2018-09-28T07:37:54+01:00
+Retrieved (UTC): 2026-09-18T15:10:53.417394+00:00
+
+The rules that determine whether property is ‘inherited’ for RNRB purposes are set out in IHTA84/S8J. For RNRB purposes a person ‘inherits’ property if there is
+
+- a disposition to that person
+
+- from the deceased
+
+- of property that formed part of the deceased’s estate immediately before the death.
+
+The disposition may be one effected by will, under the law relating to intestacy, or otherwise, for example property passing by survivorship.
+
+In essence the property must be treated as being part of the deceased’s estate for inheritance tax purposes (IHTM04029 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04029)) immediately before the deceased’s death, and the property must become immediately comprised in the beneficiary’s estate for inheritance tax purposes.
+
+In most cases whether property has been ‘inherited’ for RNRB purposes is straightforward. For example the deceased may make a specific bequest of their home to their children in their Will, or the home may fall into the residue of the estate, all of which is left to the children. In either case it is clear that the home is ‘inherited’ by the children.
+
+Settled Property
+
+However, where the home is held as settled property, either before or after the deceased’s death, the position is less straightforward.
+
+If the home was settled property immediately before the deceased’s death it will only form part of the deceased’s estate if the deceased had a qualifying interest in possession (IHTM16060 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16060)) in that settled property. If the beneficiary only becomes entitled to an interest in possession in that property this does not satisfy IHTA84/S8J(5). It is then only treated, for RNRB purposes, as being inherited by a person if that person becomes beneficially entitled (IHTM04031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04031)) to the property itself.
+
+Where the home is not settled property immediately before the deceased’s death, but becomes settled property following the deceased’s death, it is only ‘inherited’ for RNRB purposes if:
+
+- the beneficiary becomes beneficially entitled to an interest in possession in the property which is an immediate post-death interest or a disabled person’s interest (IHTM16061 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16061)), or
+
+- the property becomes settled property held on trusts for a bereaved minor (IHTA84/S71A) or on an 18-25 Trust (IHTA84/S71D), and
+
+- in either case the property is held on trusts for the direct descendant.
+
+Gift With Reservation (GWR)
+
+Because the definition of ‘estate’ on death (IHTM46012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46012)) includes property subject to a reservation of benefit, a GWR, a home that is a GWR can be a ‘qualifying residential interest’ (IHTM46011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46011)). Where property is a GWR, there is no disposition on death. The disposition occurred when the gift was made. For the purposes of RNRB, GWR property is treated as being inherited by a person if the original disposal by way of gift was made to that person (IHTA84/S8J(6)).
+
+Example
+
+Diego makes a gift of his home to his daughter Maria, but continues to live in the property until his death. The home is the subject of a GWR, but as the disposition of the home by way of the original gift was to Maria, she is treated as ‘inheriting’ the home for RNRB purposes under IHTA84/S8J(6).
+
+More detailed guidance on the meaning on ‘inherited’ is provided at IHTM46033 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46033).

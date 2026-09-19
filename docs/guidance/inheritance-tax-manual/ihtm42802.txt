@@ -1,0 +1,32 @@
+Special trusts: flat rate charge
+Identifier: IHTM42802
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42802
+Published: 2016-04-09T10:25:26+01:00
+Updated: 2022-02-22T14:29:40+00:00
+Retrieved (UTC): 2026-09-18T15:09:43.871885+00:00
+
+Tax is charged at a flat rate which tapers over time, depending on the period (counted in quarter years) which has elapsed since the chargeable property became held on the trust. Do not count any period before 13 March 1975 or any period during which the trust property was excluded property
+
+The rate is the aggregate of the following percentages:
+
+Rate |  Relevant period |  Effective quarters |
+
+0.25% |  For each of the first forty complete successive quarters in the relevant period |  1-40 (first 10 yrs) |
+
+0.20% |  For each of the next forty complete successive quarters in the relevant period |  41-80 (10-20 yrs) |
+
+0.15% |  For each of the next forty complete successive quarters in the relevant period |  81-120 (20-30 yrs) |
+
+0.10% |  For each of the next forty complete successive quarters in the relevant period |  121-160 (30-40 yrs) |
+
+0.05% |  For each of the next forty complete successive quarters in the relevant period |  161-200 (40-50yrs) |
+
+Example
+
+After 25 full years have elapsed, a rate of 21% will apply, being the total of:
+
+0.25% x first 40 quarters = 10%
+
+0.20% x next 40 quarters = 8%
+
+0.15% x next 20 quarters = 3%

@@ -1,0 +1,56 @@
+NRCG and the exemptions: Disposals from 6 April 2019: Indirect disposals: Substantial indirect interest
+Identifier: CG73936
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73936
+Published: 2020-02-05T14:38:16+00:00
+Updated: 2023-09-15T07:26:31+01:00
+Retrieved (UTC): 2026-09-18T14:46:50.211365+00:00
+
+TCGA92/Scha 1A Para 8
+
+Overview
+
+A non-UK resident person is chargeable on a gain on disposal of an interest in UK land under the indirect disposal rules in Schedule 1A to TCGA, in general, where:
+
+- They are disposing of an interest in a company (including entities deemed to be companies for capital gains),
+
+- That disposal is of an asset that derives at least 75% of its gross asset value from UK land [link to UKPR], and
+
+- That person has a “substantial indirect interest in UK land”.
+
+This page provides guidance on the meaning of a “substantial indirect interest in UK land”. In broad terms, it is that the person and certain connected people own, or at some point in the two years prior to the time of disposal have owned, at least a 25% investment in the company being disposed of. Guidance on establishing the level of investment is at CG73938 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73938).
+
+The gain is calculated on the value of the person’s asset being disposed of at the point of the disposal (see the section on ‘Market value’ at CG73934 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73934)) – not at the point in time where they held 25% or greater investment.
+
+There are rules that attribute interests held by certain connected persons, and rules that mean a person does not have a substantial indirect interest if they have not held an interest for a significant period of time (see under the heading for insignificant ownership period below).
+
+This exemption for indirect disposals of UK land by non-UK residents where they do not hold a substantial indirect interest does not apply in certain circumstances where the disposal has an appropriate connection to a collective investment vehicle [CG73996J  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73996j)currently in Appendix 15].
+
+Attribution of connected persons’ interests
+
+A person is taken as having all of the rights and interests of persons who are connected with them within the meaning of paragraph 10 of Schedule 1A to TCGA 1992. The guidance at [link] deals with what the methods of measuring investment are in regard to rights and interests.
+
+‘Connected’ in paragraph 10 takes its meaning from TCGA92/s286 (see CG14580 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14580)), but with the following modifications:
+
+- A person is connected with an individual if that person is the individual’s spouse or civil partner, or is a lineal ancestor or lineal descendant of the individual or the individual’s spouse or civil partner (s286(2) as modified for application here, siblings are not automatically connected)
+
+- A person is not automatically connected to their business partners or to the spouses or civil partners of business partners (the test TCGA92/s286(4) does not apply)
+
+Persons are not to be taken as connected purely because of being parties to a normal commercial loan (see CG73935 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73935))
+
+Insignificant ownership period
+
+It will sometimes be the case that a person holds a 25% or greater investment in a company for a short period of time but only as a consequence of circumstances, and for the majority of the relevant time that person has had a less than 25% investment. This would commonly be the case where, say, a company was just acquiring investors, and during the initial seeding period that company had only a small number (sufficient that each one had 25% or greater); but once the company was established and on an ongoing basis no shareholders owned as much as 25%. Similar circumstances could arise where shareholders sell one by one, so that the last few shareholders left have 25% or more investment shortly before their own disposal.
+
+The test considers:
+
+- The length of time (aggregated) that a person has had a 25% or greater investment in the company,
+
+- As a proportion of the two years prior to disposal
+
+- Or, if a shorter period, as a proportion of the time the person has actually owned an interest in the company.
+
+If that proportion is an insignificant proportion, then the person does not have a substantial indirect interest for the purposes of meeting the test.
+
+As a general rule, HMRC will consider ‘insignificant’ to be 10% or less of the time (so 75 days or less for a full two year period). Where the total ownership period is very brief and the facts and circumstances indicate that the person was never intended to hold a 25% or greater investment for any length of time, this may allow a greater leeway.
+
+Because (under paragraph 10 of Schedule 1A) a person is themselves taken to have the rights and interests of certain connected persons, the same considerations abide in looking at whether those rights were only held for an insignificant time by the connected persons. In looking to aggregate the amount of time in the relevant period a person has held a 25% or greater investment, this will interact with the aggregation of the rights and interests of others so that the test is one of how much time the disponor and connected parties have held such an investment.

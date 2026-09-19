@@ -1,0 +1,58 @@
+Car benefit calculation Step 5, appropriate percentage, 2012 to 2013 onwards: car with an approved CO2 emissions figure: relevant threshold
+Identifier: EIM24655
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24655
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-02-24T11:20:47+00:00
+Retrieved (UTC): 2026-09-18T14:21:03.556124+00:00
+
+Section 139 ITEPA 2003
+
+The relevant threshold applies from 2012 to 2013 only.
+
+The relevant threshold
+
+This page relates to step 5 of the method statement in section 121(1) ITEPA 2003, see EIM24015 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24015).
+
+The relevant threshold is the approved C02 emissions figure upon which all calculations of the appropriate percentage are based from 2012 to 2013 onwards.
+
+The relevant threshold has been specified for the following tax years:
+
+Tax year |  Relevant threshold, g/km (generate per kilometre) |
+
+2012 to 2013 |  100 |
+
+2013 to 2014 |  95 |
+
+Calculating the appropriate percentage from the relevant threshold
+
+The appropriate percentage is calculated as follows:
+
+- if the car’s C02 emissions figure is less than the relevant threshold for the year, the appropriate percentage:
+
+g/km |  2012 to 2013 |  2013 to 2014 |  2014 to 2015 |  2015 to 2016 |  2016 to 2017 |
+
+0 |  0% |  0% |  0% |  5% |  7% |
+
+1 to 50 |  5% |  5% |  5% |  5% |  7% |
+
+51 to 75 |  5% |  5% |  5% |  9% |  11% |
+
+76 to 94 |  10% |  10% |  11% |  13% |  15% |
+
+If the car’s C02 emissions figure is equal to the relevant threshold for the year, the appropriate percentage is:
+
+Description |  2012 to 2013 |  2013 to 2014 |  2014 to 2015 |  2015 to 2016 |  2016 to 2017 |
+
+relevant threshold (g/km) |  100 |  95 |  95 |  95 |  95 |
+
+appropriate percentage |  11% |  11% |  12% |  14% |  16% |
+
+If the car’s C02 emissions figure exceeds the relevant threshold for the year, the appropriate percentage is the lesser of:
+
+- the threshold percentage increased by one percent for each 5g/km by which the C02 emissions figure exceeds the relevant threshold for the year
+
+- 35% (up to 2014 to 2015) and 37% from 2016 to 2017
+
+There is a ready reckoner for the appropriate percentage for a type A car for 2012 to 2013 onwards at EIM24705 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24705).
+
+For examples showing the calculation of the car benefit charge for type A cars with approved CO2 emissions figures for 2012 to 2013 onwards, see EIM25060 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25060).

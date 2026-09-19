@@ -1,0 +1,70 @@
+Co.purchases own shares: capital treatment: Condition A – reduction of seller’s interest
+Identifier: CG58641
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58641
+Published: 2018-07-18T09:00:02+01:00
+Updated: 2021-03-31T15:27:00+01:00
+Retrieved (UTC): 2026-09-18T14:44:24.340785+00:00
+
+CTA10/S1037 Requirement as to reduction of seller’s interest as shareholder
+
+If, immediately after the company purchases its own shares, the seller still holds an interest as a shareholder, it must be substantially reduced. The seller’s interest includes the combined interest of any associates of the seller.
+
+Associates, for the purpose of this part of the Act, are defined under CTA10/S1059. They include, amongst others:
+
+- Spouses living together
+
+- Civil partners of each other living together
+
+- Person under age of 18 and his/her parents
+
+- A person and a company he/she is connected with and includes any company controlled by that company
+
+- Personal representatives of a deceased person
+
+The seller’s interest is substantially reduced if, and only if, the seller’s subsequent interest after the company purchases its own shares, is not more than 75% of the seller’s prior interest.
+
+The seller’s prior interest means the total nominal value of the shares owned by the seller immediately before the purchase, expressed as a fraction of the issued share capital of the company at that time.
+
+{#}The seller’s subsequent interest means the total nominal value of the shares owned by the seller immediately after the purchase, expressed as a fraction of the issued share capital of the company at that time.
+
+EXAMPLE
+
+A company has issued share capital of 100 £1 ordinary shares and are held by
+
+Mr Q |  30 |
+
+Mrs Q |  5 |
+
+Mr R |  15 |
+
+Mr S |  25 |
+
+Ms T |  25 |
+
+Total |  100 |
+
+- Mr and Mrs Q are spouses
+
+- Mr R is the son of Mr and Mrs Q and is over the age of 18
+
+The company wishes to purchase its own shares from Mr Q.
+
+Mrs Q is an associate of Mr Q as she is his spouse so her shares are added to Mr Q’s. Mr R is not an associate under CTA10/S1059 as he is over the age of 18 therefore his interest is not added. Therefore the aggregated interest for Mr Q is 35 shares – 35/100 = 35%.
+
+As it is before the purchase of own shares by the company, the prior interest is 35%. Once the company has acquired the shares, they are treated as being immediately cancelled so the share capital is now 70 £1 ordinary shares. Mr Q has no longer an interest in his own capacity but through an associate, Mrs Q, who has 5 shares. Therefore Mr Q’s aggregate interest post purchase, the subsequent interest, is 5/70 = 7%.
+
+75% of the prior interest of 35% is 26.25%. As the subsequent interest of 7% is not more than 26.25%, the substantial reduction test has been satisfied.
+
+The minimum amount of shares that need to be repurchased so that the substantial reduction test is met can be calculated using:
+
+A X B
+
+4B-3A
+
+where,
+
+A = nominal value of the seller’s prior interest
+
+B = issued share capital prior to the company purchase of its own shares
+
+The answer should be rounded up.

@@ -1,0 +1,130 @@
+Member benefits: pensions: drawdown pension rules immediately before 6 April 2015: capped drawdown pension - reviewing the maximum annual amount before age 75 (position immediately before 6 April 2015)
+Identifier: PTM062540
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062540
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2024-04-06T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:50:58.417975+00:00
+
+As of 6 April 2024 there is no longer lifetime allowance. If you are looking for information about protections, enhancement factors and the lifetime allowance charge please see these pages on The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022829/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm090000). If you are looking for information about the principles of lifetime allowance and benefit crystallisation events please see these pages of The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022836/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm080000).
+
+Glossary
+
+|
+
+PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+|
+
+When to review the member’s maximum drawdown pension (position at 5 April 2015) (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062540#IDAQKHBC)
+Recalculating the member’s maximum drawdown pension at the start of a new reference period (position at 5 April 2015) (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062540#IDAWLHBC)
+Changing the reference period (position at 5 April 2015) (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062540#IDA5OHBC)
+
+Note: Capped drawdown that began on or before 5 April 2015 may continue, providing there have been no events since that date resulting in its conversion to flexi-access drawdown. But no new capped drawdown funds or flexible drawdown funds may be set up from 6 April 2015 onwards. See page PTM062700 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062700) for guidance on flexi-access drawdown funds.
+
+When to review the member’s maximum drawdown pension (position at 5 April 2015)
+
+Paragraph 10 Schedule 28 Finance Act 2004
+
+This depends on how old the member is.
+
+When the member is 75 or over, their maximum drawdown pension must be recalculated annually at the start of the member’s pension year.
+
+When the member is under age 75, their maximum drawdown pension is usually recalculated every three years, starting from when the member first designated funds into drawdown pension. This three year period is called a ‘reference period’. Certain events can cause the reference period to change. At the start of a new reference period, the maximum amount of the member’s drawdown pension must be recalculated.
+
+Find out more about reference periods and when they can be changed at Changing the reference period (position at 5 April 2015) (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062540#IDA5OHBC).
+
+Other events can trigger a recalculation of the member’s maximum drawdown pension but do not change the reference period - see PTM062560 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062560) for more information.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062540#Top)
+
+Recalculating the member’s maximum drawdown pension at the start of a new reference period (position at 5 April 2015)
+
+Paragraph 10 Schedule 28 Finance Act 2004
+
+The pension scheme administrator will need to recalculate a member’s maximum pension as follows:
+
+- if the member is under age 75: at the start of every new reference period,
+
+- if the member is aged 75 or older: annually, at the start of every pension year.
+
+The scheme administrator recalculates a member’s maximum drawdown pension in the same way as they worked out the original maximum drawdown pension (see PTM062530 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062530)). However this time the scheme administrator can carry out the calculation of the maximum drawdown pension on any day in the period of 60 days ending on the new reference date. So if the member’s new reference period starts on 1 July 2015, their scheme administrator can carry out the maximum drawdown pension calculation at any time from 3 May 2015 to 1 July 2015. The date chosen by the scheme administrator is called the ‘nominated date’. It is the scheme administrator who chooses the nominated date, not the member - although they may give the member an option to choose.
+
+The scheme administrator works out a member’s basis amount using:
+
+- their age on the nominated day
+
+- the value of their drawdown pension fund on the nominated day, and
+
+- the 15-year UK gilt yield for the 15th day of the month before the nominated date.
+
+Example
+
+Elaine originally designated £150,000 into drawdown pension on 1 September 2011. Her reference period for calculating her maximum capped drawdown pension ends on 31 August 2014.
+
+Elaine’s scheme administrator needs to work out the maximum amount of drawdown pension Elaine can take each year starting from 1 September 2014. This is the start of her new reference period.
+
+Elaine’s scheme administrator can carry out the calculation of the maximum drawdown pension on any day in the period of 60 days ending on the new reference date. This means that the calculation can be done on any day in the period starting on 4 July 2014 and ending on 1 September 2014. The date the scheme administrator uses to do the calculation is called the ‘nominated date’. Whatever date is chosen as the nominated date Elaine’s reference date is 1 September and her new reference period will start on 1 September 2014.
+
+To work out the maximum pension Elaine can have, her scheme administrator needs to know:
+
+-
+
+how old Elaine is on the nominated date
+
+-
+
+the yield on 15-year UK gilts from the FTSE UK Gilt Indices on the 15th day of the month before the nominated date, and
+
+-
+
+the value of Elaine’s drawdown pension fund on the nominated date.
+
+Elaine’s scheme administrator chooses to use a nominated date of 31 July 2014. Elaine is 61 on 31 July 2014 and the value of her drawdown pension fund on that day is £145,000. The scheme administrator looks up the 15-year UK Gilt index for 15 June 2014. Assume this is 4.25 per cent (this figure does not need to be rounded down).
+
+Using the male GAD tables this time (see PTM062530 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062530)) this gives an amount of £62 pension per £1,000 drawdown pension fund. Elaine’s new basis amount is £8,990 (145,000/1,000 x £62 = £8,990) and because the drawdown pension year starts after 26 March 2014, the maximum drawdown pension she can take is 150 per cent of the basis amount i.e. £13,485. The new maximum drawdown pension will take effect from the start of Elaine’s new reference period on 1 September 2014.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062540#Top)
+
+Changing the reference period (position at 5 April 2015)
+
+Paragraph 10(1A) Schedule 28 Finance Act 2004
+
+If a member is under age 75, the maximum amount of drawdown pension they can take each year is set for a period of three years. This period of time is called the ‘reference period’. Each time a member starts a new reference period, the maximum amount of drawdown pension they can take will be recalculated.
+
+A reference period does not have to last for three years. A member can reduce but not extend the length of time of their reference period. The member can also only start a new reference period at the end of their current pension year. For example, if their reference period is due to run from 1 November 2011 to 31 October 2014, the member could only start a new reference period on 1 November, in this example either 1 November 2012 or 1 November 2013.
+
+To change their reference period, the member must ask their scheme administrator before the end of the current pension year. If the scheme administrator agrees to the member’s request (and they don’t have to) the new reference period will start the day after the end of the member’s current pension year.
+
+A scheme administrator cannot change a reference period unless the member has asked them to do so.
+
+Example
+
+John designated benefits into drawdown pension on 1 May 2012, when he is aged 65. His reference period is due to run from 1 May 2012 to 30 April 2015 with his pension years running from:
+
+-
+
+1 May 2012 to 30 April 2013
+
+-
+
+1 May 2013 to 30 April 2014
+
+-
+
+1 May 2014 to 30 April 2015.
+
+John’s pension fund has performed very well since he first went into drawdown pension. He wants to take a bigger pension. To do this, John needs his scheme administrator to recalculate the maximum amount of pension he can take (the basis amount). As nothing else has happened that could trigger a recalculation of his basis amount John needs to start a new reference period.
+
+On 6 April 2014 John asks his scheme administrator to end his reference period at the end of his current pension year, which is 30 April 2014. John’s scheme administrator agrees to his request. John’s reference period ends on 30 April 2014. His new reference period starts on 1 May 2014 made up of the following pension years:
+
+-
+
+1 May 2014 to 30 April 2015
+
+-
+
+1 May 2015 to 30 April 2016
+
+-
+
+1 May 2016 to 30 April 2017.

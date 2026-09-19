@@ -1,0 +1,56 @@
+The settlement: Same day additions 
+Identifier: IHTM42233
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42233
+Published: 2020-10-28T14:48:47+00:00
+Updated: 2020-12-24T11:37:07+00:00
+Retrieved (UTC): 2026-09-18T15:09:37.314759+00:00
+
+The concept of Same Day Additions (SDAs) was introduced by the Finance (No.2) Act 2015 in IHTA84/S62A. The rules for SDAs supplement the existing rules that include ‘related trusts’ in arriving at a value for the notional transfer (IHTM42085 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42085)), for the purposes of calculating the rate of tax for charges on relevant property, by also bringing in the value for the SDA where these arise.
+
+Before the introduction of SDAs, transfers of value made on the same day to trusts created on different days, did not form part of the notional transfer.
+
+Example
+
+Fred intends to put £450,000 into three relevant property trusts. He creates three pilot trusts for £10 each on different days (trusts created on the same day would be ‘related’). Sometime after, but on the same day, he makes a ’chargeable’ transfer of £149,990 into each of the trusts. Because transfers made on the same day are ignored in computing the settlors cumulative total of chargeable transfers, that total will be £10, £20, or £30 when the relevant addition is made, and so each trust will enjoy a full nil rate band.
+
+The SDA
+
+Same day additions (SDAs) form part of the hypothetical transfer for calculating the rate of Inheritance Tax (IHT) on exits, IHTA84/S66 (IHTM42114); ten year anniversaries (TYAs), IHTA84/S68 (IHTM42085); and between TYAs, IHTA84/S69 (IHTM42115), on or after 18 November 2015.
+
+An SDA arises where the same person makes a transfer of value that:
+
+-
+
+adds assets or value
+
+-
+
+to two or more, new or existing trusts
+
+-
+
+on or after 10 December 2014, and
+
+-
+
+on the same day.
+
+There are four important points to note about the rules for SDAs:
+
+-
+
+The definition includes ‘additions of value’ to trusts as well as additions of new assets. Example: A value addition might occur where the settlor forgives a loan that was made to the trustees.
+
+-
+
+Additions must be ‘transfers of value’ for IHT. So it does not matter if the additions are for IHT purposes chargeable, exempt, or are given relief. If the addition is not a transfer of value then it is not within the definition of a SDA and can be ignored. For example, the settlor’s estate may not been reduced by a transfer of excluded property.
+
+-
+
+Not all trusts are included. That is because it is essential that a trust must have contained relevant property at some point in the period between the commencement of the trust and the point immediately after any same day transfers (IHTA84/S62A(3)). So, if a trust has always been a qualifying interest in possession trust or an 18/25 trust then transfers to these trusts can’t be within the SDA rule.
+
+-
+
+If the trusts are related trusts (IHTM42230) the SDA rule does not apply (IHTA84/S62A(4)).
+
+There are four exceptions to the SDA rules and they are set out in IHTA84/S62B (IHTM42234)

@@ -1,0 +1,56 @@
+Cryptoassets for individuals: Capital Gains Tax: pooling examples: example 3 - application of the 30 day rule
+Identifier: CRYPTO22253
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22253
+Published: 2021-03-30T09:03:27+01:00
+Updated: 2021-04-27T13:08:57+01:00
+Retrieved (UTC): 2026-09-18T16:18:40.746025+00:00
+
+This example shows how the 30 day rule operates, as well as showing what happens to any tokens that can’t be matched to the disposal.
+
+Rachel holds 2,000 token C in a section 104 pool. She spent a total of £1,000 to acquire them, which is her pooled allowable cost.
+
+Rachel enters into the following series of transactions:
+
+- On 31 March 20XX Rachel disposes of 1,000 token C for £400.
+
+- On 20 April 20XX Rachel disposes of 500 token C for £150
+
+- On 21 April 20XX Rachel acquires 700 token C for £175
+
+- On 28 April 20XX Rachel acquires 500 token C for £100
+
+- On 1 May 20XX Rachel acquires 500 token C for £150
+
+Acquisitions within 30 days of a disposal are matched on the basis of the earliest acquisition being matched to a disposal. The acquisitions on 21 April 20XX and 28 April 20XX take place within 30 days of the disposal on 31 March 20XX. This means that the acquisitions are matched to the disposal on 31 March 20XX as far as is possible. The acquisitions on 28 April 20XX and 1 May 20XX take place within 30 days of the disposal on 20 April 20XX. This means that the acquisitions are matched to the disposal on 20 April 20XX as far as is possible.
+
+Rachel will need to work out the gain on her two disposals as follows:
+
+31 March 20XX
+
+Consideration |  £400 |    |
+
+Less allowable costs – 30 day (21/04 – 700 token C) |  (£175) |    |
+
+Less allowable costs – 30 day (28/04 – 300 token C) |  £100 x (300 / 500) |  (£60) |
+
+Gain |  £165 |    |
+
+20 April 20XX
+
+Consideration |  £150 |    |
+
+Less allowable costs – 30 day (28/04 – 200 token C) |  £100 x (200 / 500) |  (£40) |
+
+Less allowable costs – 30 day (01/05 – 300 token C) |  £150 x (300 / 500) |  (£90) |
+
+Gain |  £20 |    |
+
+Rachel is unable to match the remaining 200 token C to acquisitions within 30 days of the disposal on 20 April 20XX. Instead those 200 token C and their associated cost of £60 (£150 x (200 / 500)) will go into the section 104 pool. The section 104 pool now contain 2,200 token C and total pooled costs of £1,060:
+
+Date |  Quantity of token C |  Pooled allowable costs |
+
+Opening balance |  2,000 |  £1,000 |
+
+01/05/20XX |  +200 |  +£60 |
+
+Closing balance |  2,200 |  £1,060 |

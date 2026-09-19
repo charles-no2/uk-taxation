@@ -1,0 +1,58 @@
+Introduction: basis of assessment and time apportionment
+Identifier: PIM1010
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1010
+Published: 2016-04-10T16:22:21+01:00
+Updated: 2025-06-09T11:56:30+01:00
+Retrieved (UTC): 2026-09-18T14:27:38.195839+00:00
+
+Income Tax (IT) Charge
+
+The charge for IT cases is on the full amount of the profits arising in the tax year (ITTOIA05/S270). The taxpayer therefore has to make a return to show the income of the year ended 5 April. This can be done either from accounts to 5 April or by time apportionment between two sets of accounts drawn up to some other accounting date. You should normally expect a consistent approach to be used.
+
+IT - Property business basis periods
+
+The basis period is the tax year. Generally, it is easier if taxpayers draw up their property business accounts to the 5 April each year. If taxpayers do not draw up their accounts to 5 April each year, they will have to apportion two years' accounts to find the profit or loss for the tax year. Apportionment must normally be made on a daily basis, though see below for alternative options.
+
+For example, where accounts are drawn up to 31 December each year:
+
+- the basis period for (say) the 2024-25 tax year is the year ended 5 April 2025,
+
+- to find the profit or loss for this year you take 270 / 365 days of the accounts for year ended 31 December 2024 and 95 / 365 days of the accounts for the year ended 31 December 2025.
+
+In a case like this the taxpayer may be unable to work out the profit or loss before the tax is due. They should pay tax on their best estimate of the final result. As a consequence they may overpay tax or underpay tax (which may lead to interest charges). A 5 April accounting date avoids this problem.
+
+PIM1015 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1015) outlines new statutory rules which apply from tax year 2023-24 onwards to businesses with an accounting year-end date between 1 and 5 April. These new rules effectively remove the need to apportion two years’ accounts where a taxpayer draws up their business rental accounts to a date between 31 March and 5 April.
+
+See below for more on apportionment methods.
+
+IT – When is the tax year not the basis period?
+
+While the assessable figure was normally based on the income of the year ended 5 April, two exceptions applied up to 5 April 2023:
+
+- where the property income belongs to a partnership carrying on a trade or profession, see PIM1040 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1040),
+
+- where the income is actually trading income (and not property income as defined for tax purposes) because the letting activity amounts to a trade, see PIM4300 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4300).
+
+The trade basis period rules cease to apply from 6 April 2024 following transitional arrangements in the tax year 2023-24 – see the Business Income Manual from page BIM81200 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81200). The transitional arrangements are outlined from page BIM81240 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81240); NB the rules on spreading transition profits (see BIM81310 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim81310)) only apply to trading income, not property income.
+
+IT - apportionment methods
+
+Where a taxpayer’s accounts are not in line with the tax year, section 275 of the Income Tax (Trading and Other Income) Act 2005 requires apportionment of profits in the accounts on the basis of the number of days in the period covered by each set of accounts, unless it is reasonable to use another method and that is used consistently.
+
+The case of Marshall Hus & Partners Ltd v Bolton [1980] 55TC539 gives an example of a better method of apportionment than time. In that case the company prepared one set of accounts to cover a period of more than five years. So one period of accounts covered six accounting periods. Apportionment by reference to the actual deals in each of the accounting periods gave fairer results than time apportionment.
+
+Generally it may only be possible to work out the profits of a tax year by reference to the transactions which took place in that year where there are a small number of easily identifiable transactions or if there are exceptional transactions which were disproportionally large in relation to the rest of the income, such as a premium.
+
+Section 275 was amended from the tax year 2023/24 to introduce new rules in sections 275A-C – see PIM1015 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1015). The existing rules in S275 continue to apply - taxpayers may continue to rely on them.
+
+Corporation Tax (CT) charge
+
+CT is chargeable on the profits of a property business (section 209 of the Corporation Tax Act 2009) which arise in an accounting period.
+
+Non-UK resident company landlords
+
+From 6 April 2020, non-UK resident companies that carry on a UK property business came within the charge to Corporation Tax from that date. A company with an existing UK property business at that date will have been chargeable to Income Tax on the profits of that business until 5 April 2020.
+
+If the company has an accounting year end of 31 March which has been used consistently as the basis for the relevant tax year, i.e. the five odd days at the beginning and end of the tax year (1 April to 5 April) were included in the return for the following year, and the figures are not substantial, HMRC will continue to accept this approach for the 2019/20 tax returns (the last tax return for Income Tax). HMRC will accept the same approach where non-resident landlords have consistently based their non-resident landlord income tax returns on profits to 31 March each year (in some cases using management accounts drawn up to the 31 March quarter date for the relevant data) and the difference in adjusting for the 5 days is not substantial.
+
+However, in adopting this pragmatic approach, HMRC expect that the Company Tax Return for the period 6 April 2020 to the date of the company’s year-end, for example 31 March 2021, to reflect the full 12 months result for the company’s year ending on 31 March 2021 (including the period 1 April 2020 to 5 April 2020). The same pragmatic approach applies where the company’s year ends on an earlier date for example 30 September 2020. In this situation the Company Tax Return should reflect the company’s results for the period 1 April 2020 to 30 September 2020.

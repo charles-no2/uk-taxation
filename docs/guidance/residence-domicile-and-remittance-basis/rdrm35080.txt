@@ -1,0 +1,32 @@
+Remittance Basis: Amounts remitted: Quantification: Condition D - remittances of foreign income or chargeable gains
+Identifier: RDRM35080
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35080
+Published: 2016-03-09T17:38:29+00:00
+Updated: 2015-11-27T14:33:34+00:00
+Retrieved (UTC): 2026-09-18T16:19:44.452694+00:00
+
+Where you discover that a taxpayer has entered into an arrangement with another person who is neither a ‘relevant person’ nor a ‘gift recipient’ so that a chargeable remittance has been made of the original taxpayers foreign income or gains, the amount remitted under the terms of Condition D is calculated in the same way as a remittance that is made under the terms of Condition C.
+
+Example
+
+John personally owns a country estate in Cornwall, in an area of outstanding natural beauty. His friend Janet wishes to use the mansion for several important family functions.
+
+Janet is a remittance basis user. She owns a foreign yacht which she bought using £600,000 of her foreign income and gains. On 2 March she disposes of the yacht to a non-resident company for £150,000.
+
+John has a controlling interest in that non-resident company. In October, with reference to the transfer of the yacht, John allows Janet full and exclusive use of the estate, rent-free.
+
+Although Janet enjoys John’s property in the UK, John is not a gift recipient (the yacht was given to his company, not to John). Condition C cannot therefore apply.
+
+The company is not a relevant person (as Janet is not a participator). John is not a relevant person in relation to Janet either.
+
+There is a qualifying disposition because:
+
+- There is a disposal of property (the yacht) which derived from Janet’s income or chargeable gains (ITA07/S809O(4)(c))
+
+- The disposal was made by a relevant person (Janet) (ITA07/S809O(4)(a))
+
+- The disposal was for the benefit of John (although the disposal was not made directly to John, he benefits from it through his ownership of the company) (ITA07/S809O(4)(b))
+
+- John’s property is enjoyed in the UK by a relevant person (Janet) (ITA07/S809L(5)(a) and ITA07/S809O(4)(b))
+
+In this example Janet’s advantage is due to a connected operation (ITA07/S809O(3)) and Condition D will be met. Janet has made a chargeable remittance of £450,000. That is because this is a partial disposal - the yacht cost £600,000 and was sold for £150,000 - the chargeable amount is calculated by reference to the amount of foreign income and gains that were used to purchase the yacht not its value when it is sold. The amount that was paid for the yacht must be taken into account when calculating the amount that has been remitted.

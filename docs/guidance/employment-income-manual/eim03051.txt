@@ -1,0 +1,66 @@
+Employee Ownership Trusts – qualifying bonus payments: The exemption to tax
+Identifier: EIM03051
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim03051
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-14T12:20:05+01:00
+Retrieved (UTC): 2026-09-18T14:18:45.946237+00:00
+
+Section 312A ITEPA 2003
+
+The exemption from tax on a qualifying bonus is provided for in this section. The definition of a qualifying bonus is not contained in this section but in section 312B.
+
+The basic requirements for the exemption are contained in section 312A(1):-
+
+- Payment of the qualifying bonus must be made by an employer which is a company. Employers who are sole traders or partnerships cannot take advantage of the limited exemption.
+
+- The payment must be made to an employee or former employee of the employing company. This has the effect that payments routed through third parties will not be able to take advantage of the limited exemption.
+
+- There must be a payment in cash. If, for example, a qualifying bonus is paid partly in cash and partly in shares under a SIP, it will only be the cash element which qualifies for this exemption.
+
+Section 312A(2) contains the exemption. The total chargeable amount exempted for qualifying bonus payments from 1 October 2014 is £3600. This is known as the exempt amount. S312A(9) provides that the Treasury can increase or decrease that amount by Order.
+
+The definition of a total chargeable amount in relation to the bonus is that it is the amount of employment income which would have been charged to tax if the amount had not been exempted as a qualifying bonus by section 312A. It follows that this will be the amount of the bonus paid in cash by the employer up to the exempt amount. Section 312I(3) provides that the rules in section 18 ITEPA 2003 apply to the bonus to determine when it is treated as received.
+
+An employee can receive two or more qualifying bonus payments from different employers. Where these payments are made by employers who are not in a group, the £3600 exemption limit will apply separately to each payment (section 312A(3)).
+
+For example:
+
+X receives qualifying bonus payments of £2,500 from Company A and £4,000 from Company B in the same tax year. The full amount of the £2,500 bonus from Company A can be treated as tax free. The bonus of £4,000 from Company B exceeds the exempt amount - £3,600 of the bonus can be treated as tax free, but £400 must be treated as taxable earnings. This means that X will receive tax free payments of £6,100 in that year.
+
+Where the employers are part of the same group at the time they make payments of qualifying bonuses to the same employee or former employee, section 312A(4) limits the total amount to which the exemption can apply to £3600. If an employer ceases to be a member of the group in a later part of the year in which a qualifying bonus payment has been made, s312A(5) treats the employer as a member of that group for the remainder of the year. This applies even if the employer becomes a member of another group.
+
+For example:
+
+Z receives qualifying bonus payments of £2,500 from Company F and £4,000 from Company G in the same tax year but on separate dates. Both companies are members of the same group. The full amount of the bonus payments would be £6,500 in the relevant tax year. The amount that can be treated as tax free is limited to £3,600, leaving £2,900 of the bonus payments which will be chargeable to tax.
+
+Where two or more payments of qualifying bonus are made, the exempt amount is set against payments in the order in which they are made. If two or more payments are made on the same day and the total exceeds the exempt amount, s312A(7) provides a formula to determine the amount of the bonus which will be qualifying. The formula is:-
+
+(P/SP) x REA
+
+P is the amount of the bonus payment. SP is the sum of all the bonus payments made on that day. REA is the remainder of the exempt amount after taking account of any qualifying bonus payments made previously in the year. The calculation will have to be done for each payment.
+
+Example
+
+An employee receives two qualifying bonus payments on 1 June 2015 from his two separate group employers. One payment is £2500. The other payment is £3000. The sum of the payments is £5500. No previous qualifying bonus payments have been made.
+
+P in the first calculation will be £2500. In the second calculation it will be £3000. For the purposes of both calculations, SP will be £5500 (£2500 + £3000) and REA will be £3600 as no previous qualifying payments have been made.
+
+The calculation to determine the exempt amount of the £2500 payment will be as follows:-
+
+£2500/£5500 = 0.455
+
+0.455 x £3600 = £1636.36
+
+This means the employer can pay £1636.36 free of tax in relation to the £2500 bonus.
+
+The calculation to determine the exempt amount of the £3000 payment will be as follows:-
+
+£3000/£5500 = 0.545
+
+0.545 x £3600 = £1963.64
+
+This means the employer can pay £1963.64 free of tax in relation to the £3000 bonus.
+
+Giving the exemption in this way means that the full exempt amount is appropriately split between the payments (£1636.36 + £1963.64 = £3600).
+
+If an employee is employed by more than two separate groups, it may be that the full exempt amount will apply separately to the bonus payments made by employers in each group. If so the formula above can be applied separately to payments made by each of the groups.

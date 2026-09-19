@@ -1,0 +1,42 @@
+Groups: indexation allowance restriction: not redeemable preference shares
+Identifier: CG46180
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46180
+Published: 2016-03-12T11:10:58+00:00
+Updated: 2026-05-19T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:41:32.021666+00:00
+
+Further conditions apply to the disposal of shares other than redeemable preference shares, since groups do not normally use ordinary shares for short term financing. An indexation restriction is only possible if all the following conditions are satisfied, TCGA92/S183 (1) and (3).
+
+- The companies were linked immediately before the disposal of the shares.
+
+- The companies were linked immediately after the acquisition of the shares by the company making the disposal, whether the shares were acquired by subscription or purchase.
+
+- The acquisition of the shares by the company making the disposal was wholly or substantially financed by one or more linked company loans, or linked company funded subscriptions, or by a combination of these.
+
+- The sole or main benefit which might have been expected to accrue from the acquisition of the shares was the obtaining of an indexation allowance on a disposal.
+
+The last requirement may exclude many cases from further consideration. If it was intended that the funds provided by the acquisition should be put to commercial use for the benefit of the company issuing or disposing of the shares, it is less likely that the sole or main expected benefit from the acquisition was an indexation allowance on the disposal of the shares. If on the other hand the acquisition simply gave rise to a circular flow of funds within the group, you should consider the possibility that the expected benefit was an indexation allowance.
+
+The financing test is satisfied where the chain of provision of finance for the subscription for shares includes a linked company loan.
+
+EXAMPLE 1
+
+Company A lends money to company B to acquire shares in company C. If
+
+- B and C are linked on the acquisition and disposal by B of the shares in C, and
+
+- A and B are linked immediately after B's acquisition of the shares
+
+then the loan is a linked company loan and the financing test is satisfied.
+
+EXAMPLE 2
+
+Company A lends to company B, which subscribes for shares in company C, which subscribes for shares in company D. Company C disposes of the shares in D. All four companies A - D are linked at the relevant times.
+
+The financing test in TCGA92/S183 (3)(b) requires C's acquisition of the shares in D to be financed by a linked company loan (which is not the case in this example) or a linked company funded subscription.
+
+To establish that B's acquisition of shares in C is a linked company funded subscription within Section 183(4) it is necessary to establish that the subscription was financed by a linked company subscription-financing loan. A's loan to B satisfies the definition of linked company subscription-financing loan in Section 183(5), so the financing test is satisfied in relation to C's acquisition of the shares in D.
+
+The definition of `linked company funded subscription' in TCGA92/S183 (4) refers to finance provided `directly or indirectly'. This covers the possibility that there may be several layers of share subscriptions in linked companies between the linked company subscription-financing loan and the acquisition of the shares in the target company. The phrase `directly or indirectly' does not extend the scope of the provisions to loans or subscriptions routed through unconnected third parties.
+
+If the shares disposed of form only part of a larger holding, and not all the shares were acquired in circumstances meeting the conditions for a restriction of indexation allowance, the indexation allowance available on the disposal is restricted by an amount which is just and reasonable. CG46221 sets out a suggested method, but you should consider on its merits any alternative apportionment proposed by the company.

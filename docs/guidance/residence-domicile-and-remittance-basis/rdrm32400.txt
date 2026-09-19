@@ -1,0 +1,40 @@
+Remittance basis: accessing the remittance basis: remittance basis charge - nomination of foreign income and gains: payments on account - nominations involving chargeable gains
+Identifier: RDRM32400
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32400
+Published: 2016-03-09T17:31:14+00:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:30.265825+00:00
+
+From 6 April 2025 it is not possible to use the remittance basis of taxation, however, any foreign income or gains that have arisen to a former remittance basis user prior to this date will continue to be taxed at the usual tax rates if they are remitted to the UK on or after 6 April 2025, subject to any amounts designated under the temporary repatriation facility (TRF) – see RDRM71000 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm71000).
+
+The guidance in this section only applies to tax years up to and including the 2024-25 tax year and remains for reference purposes only.
+
+Capital gains tax included in the calculation of liability for a year is not included in computing payments on account for the next year. Any part of the remittance basis charge that is tax on nominated foreign gains will not form part of the following year’s payments on account.
+
+There is an additional box to complete on the SA109, if a nomination of capital gains is made to ensure that the capital gains tax forming part of the remittance basis charge for a year is ignored for the purpose of calculating the next year’s payments on account.
+
+This box is called ‘Adjustments to payments on account for capital gains’ and must be completed if any nomination of capital gains is made.
+
+This box is not completed if a nomination of income only has been made, as any amount nominated from income will be taken into account in computing the overall payments on account liability for the following year.
+
+The amount entered in the ‘Adjustment to payments on account for capital gains’ box on the SA109 is required in order for the payments on account to be calculated correctly for subsequent years:
+
+where a taxpayer calculates their own liability to tax, the amount for capital gains tax entered in the box to adjust payments on account, should be excluded in their calculation of payments on account
+
+if the tax calculation summary page is used the first payment on account for the following year will not include any part of the amount entered for capital gains tax in the adjustment to payments on account box.
+
+Example involving an amount of capital gains in the ‘Adjustment to payments on account for capital gains’ box:
+
+Ricardo, claims the remittance basis in 2008-09 and nominates both foreign income and foreign gains to pay the £30,000 remittance basis charge.
+
+He nominates as follows:
+
+Relevant foreign income of £21,000 liable at 40% = £8,400
+
+Foreign chargeable gains of £120,000 liable at 18% = £21,600
+
+Total = £30,000
+
+The amount of £21,600 for capital gains tax should be entered in the ‘Adjustment to payments on account for capital gains’ box as this amount is excluded in calculating payments on account for the following year. Only the £8,400 tax that is chargeable on nominated income is taken into account when calculating the amount due as payments on account.
+
+If the entire amount nominated to pay the remittance basis charge comes from capital gains then the capital gains tax element of the remittance basis charge is not included in the calculation of the payments of account. In this case the full £30,000 from nominated gains will be entered in the ‘Adjustment to payments on account for capital gains’ box.

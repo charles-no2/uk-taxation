@@ -1,0 +1,80 @@
+Other authorised payments: genuine errors: “contributions” to a pension scheme that are not contributions
+Identifier: PTM146600
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm146600
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2019-12-23T09:41:35+00:00
+Retrieved (UTC): 2026-09-18T14:50:11.663622+00:00
+
+| Glossary | PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001) | |———-|————————————————————————————-|
+
+Introduction (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm146600#IDANLIMD)
+Statutory ‘cooling off’ periods (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm146600#IDAHMIMD)
+Taxation position (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm146600#IDA0OIMD)
+
+Introduction
+
+Section 279(2) Finance Act 2004
+
+Ordinarily, the tax rules limit the circumstances under which a contribution paid into a registered pension scheme by, or on behalf of, a member or an employer can be refunded. There are a few specific exceptions:
+
+Specific member contributions that might be refunded
+
+The value of contributions paid by, or on behalf of, a member (not including contributions paid in respect of a member by the member’s employer) can be refunded if the payment meets the conditions for:
+
+- a refund of excess contributions lump sum (see PTM045000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm045000)), or
+
+- a short service refund lump sum (see PTM045000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm045000)).
+
+Specific employer contributions that might be refunded
+
+Where contributions have been paid by a sponsoring employer to an occupational pension scheme, excess amounts can be refunded if the payment is an authorised surplus payment -see PTM145100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm145100).
+
+Administration errors
+
+However, if, as part of the day to day administration of the pension scheme, the scheme receives contributions from (or on behalf of) a member or an employer in genuine error, the repayment to the payer of the sums inadvertently received by the scheme will not be an unauthorised payment. This is because the scheme was not entitled to the contributions under its rules. The contributions are not therefore held for the purposes of the scheme. So a return of the contributions to the payer is not a payment (either authorised or unauthorised) for the purposes of Part 4 of Finance Act 2004 as they fall outside the definition in Section 279(2).
+
+Example 1
+
+A member’s contributions to a registered pension scheme are paid, by direct debit or standing order, from the member’s bank account. The member properly instructs the bank to cancel the arrangement but, despite the request, the bank continues to make payments to the scheme out of the member’s account.
+
+The inadvertent payments made by the bank were beyond the control of the member and the member never intended that the payments should be contributions, as evidenced by the cancellation instructions to the bank. On this basis, as the inadvertent payments were not contributions to the pension scheme, the return of the inadvertent payments to the member would not be an unauthorised member payment.
+
+Example 2
+
+An employee agrees to pay contributions to the employer’s pension scheme at a rate of 5% of the employee’s monthly salary and enters into an arrangement with the employer for the contributions to be deducted by the employer out of the employee’s monthly salary. However, the employer inadvertently deducts contributions at a rate of 15% of the employee’s monthly salary instead. Or the employer deducts employee contributions to an occupational pension scheme at the rate of 8% when the scheme’s employee contribution rate is 6%
+
+Rather than adjust the level of future monthly contributions from the employee’s salary (which otherwise might be expected), the amount of the overpayment is returned to the employee by the pension scheme. As the overpayment from the monthly salary was never intended to be made by the employee and its payment was beyond the control of the employee, the return of the overpayment would not be an unauthorised member payment. (The employer will be responsible for making any necessary adjustments to PAYE and NIC.)
+
+Example 3
+
+The contributions that an employee must pay into the employer’s pension scheme, as a condition of membership of that scheme, are deducted by the employer from the employee’s salary and are paid over to the scheme on behalf of the employee by the employer, together with the employer contributions on behalf of the same employee.
+
+When the employee leaves the service of that employer the contractual arrangement under which the employee and employer make contributions into the scheme stops automatically. However, the employer is unable to change its banking arrangements in time to stop some payments being made that represented both the ‘employee contributions’ and the ‘employer contributions’ that would otherwise have been made had the former employee not left that employment. As there was no basis upon which those inadvertent payments into the scheme could be accepted as contributions on behalf of the (former) employee, the return of those payments would not be an unauthorised payment.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm146600#Top)
+
+Statutory ‘cooling off’ periods
+
+Where, in respect of a registered pension scheme:
+
+- a member pays contributions to the scheme, and
+
+- the member subsequently changes his or her mind about the payment of those contributions under a statutory ‘cooling off’ period, and
+
+- those contributions are returned to the member
+
+that repayment will not be an unauthorised member payment.
+
+Similarly, if a transfer is made to another registered pension scheme and the member is entitled to change their mind under a statutory cooling-off provision, the repayment of the transfer to the original registered pension scheme will not be regarded as an unauthorised payment.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm146600#Top)
+
+Taxation position
+
+Any tax relief that a scheme administrator has claimed on contributions erroneously paid under relief at source arrangements (PTM044220 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm044220)) must be repaid to HMRC. (The short time span for statutory cooling off makes it less likely in that circumstance).
+
+This repayment may be done by adjustment to the next claim made to HM Revenue & Customs (HMRC) or alternatively by direct payment to HMRC.
+
+Similarly, any tax relief that might have been given under net pay arrangement (PTM044230 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm044230)) or by a claim (PTM044240 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm044240)) must be rectified by ensuring that no relief is given or claimed in respect of any payments that, eventually, are not contributions.
+
+The same would also apply in the case of any erroneous employer contributions.

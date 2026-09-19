@@ -1,0 +1,42 @@
+The degrouping charge: companies leaving groups on or after 19 July 2011, the sub-group exception
+Identifier: CG45435
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45435
+Published: 2016-10-17T14:44:24+01:00
+Updated: 2016-10-17T14:44:18+01:00
+Retrieved (UTC): 2026-09-18T14:40:58.289932+00:00
+
+TCGA92/S179 (2)
+
+Example (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45435#IDAJ3RR)
+
+From its introduction, the degrouping charge has featured an important exception for “associated companies”. Because that term does not feature in the legislation as amended by Finance Act 2011, this guidance adopts the term the “sub-group exception” although the distinction may not be made elsewhere.
+
+The exception deals with the situation where company A and company B leave the group at the same time. If the companies were in a sub-group relationship when the asset transfer took place and remain so at the time they leave the group the distortion that the degrouping charge addresses cannot take place.
+
+For a company leaving a group before 19 July 2011, TCGA92/S179(2) prevented a degrouping charge where two or more “associated companies” ceased to be members of the group at the same time in respect of the acquisition of an asset by one from another of those associated companies. For this purpose, the meaning of “associated companies” was given in TCGA92/S179(10)(a) as two or more companies which, by themselves, would form a group of companies.
+
+There was some uncertainty as to the operation of this exception that led to litigation. The changes in Finance Act 2011 included a revision of TCGA92/S179(2) and the introduction of TCGA92/S179(2ZA) & (2ZB) which provide a clear rule that reflects HMRC’s view of how the earlier version of the provision applied. That view is reproduced in CG45440.
+
+The purpose of the exception is to stop any degrouping charge where any gain inherent in an asset leaving the group is necessarily reflected in the value of the company that leaves the group. This will be the case where an asset is transferred entirely within a sub-group under an identifiable “parent” company (which may be a party to the transfer) and that parent leaves the group along with the (other) parties to the transfer.
+
+The revised form of TCGA92/S179(2) provides an exception to the degrouping charge where one of two conditions is met, either:
+
+- the transferor and transferee companies are both subsidiaries of another company at the time of the transfer and remain so until immediately after they leave the group, TCGA92/S179(2ZA), or
+
+- one is the subsidiary of the other and remains so until immediately after they leave the group, TCGA92/S179(2ZB).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45435#Top)
+
+Example
+
+Company J has directly held subsidiaries K and L, and company L has directly held subsidiaries M and N. Company L accordingly heads a sub-group comprising L, M and N. In year 1, company K disposes of asset X to company M. In year 2, company L disposes of asset Y to company N. In year 5, company J sells the shares in company L. As a result companies L, M and N cease at the same time to be members of the group headed by company J.
+
+Use this link to view example diagram (http://www.hmrc.gov.uk/gds/cg/images/cg45435.gif)
+
+When company J sells the shares in L, there is no degrouping charge on company N in respect of asset Y. Companies L and N meet the condition set out in TCGA92/S179(2ZB). This accords with the commercial reality that any increase in the value of asset Y while in the ownership of either L or N will be reflected in the gain accruing to J when it sells company L.
+
+The position is different for asset X transferred from company K to company M. Those companies do not leave the group together so neither condition can be met. A degrouping charge will be triggered and the sale proceeds on J’s disposal of the L shares adjusted accordingly. Depending on the circumstances under which M acquired asset X, it is still possible that any increase in the value of asset X while in the ownership of both K and M will be reflected in the gain accruing to J when it sells company L. If so, J may make a claim under TCGA92/S179ZA.
+
+Note that had N acquired an asset from M and then L had disposed of both companies simultaneously then TCGA92/S179(2ZA) would not apply. M and N would not be subsidiaries of L at the moment of time when they ceased to be members of the J group.
+
+Note that it was possible for a group to elect to apply the changes to degrouping charge rules made in Finance Act 2011 from 1 April 2011. Whenever the above guidance refers to 19 July 2011 it should be taken as referring to 1 April 2011 for a company in a group that has made such an election.

@@ -1,0 +1,48 @@
+Distribution from a relevant property trust settled by Will: when s.144 applies
+Identifier: IHTM35182
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35182
+Published: 2016-04-09T10:14:54+01:00
+Updated: 2022-12-05T08:57:48+00:00
+Retrieved (UTC): 2026-09-18T15:07:51.873138+00:00
+
+IHTA84/S144 applies where property comprised in a person's estate immediately before death is settled on discretionary trusts by their will, and
+
+- within two years of that person’s death, and
+
+- before any interest in possession has subsisted in the property (where the testator dies on or after 22 March 2006, an interest in possession here means only an immediate post death interest or a disabled person’s interest (IHTM16060 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16060))),
+
+an event occurs which
+
+- would prima facie give rise to a proportionate charge or flat rate charge (for example, an event resulting in the deceased’s widow becoming beneficially entitled would be such a chargeable occasion), or
+
+- would prima facie give rise to such a charge but for IHTA84/S75 and 75A and IHTA84/S76 or IHTA84/Sch4 para 16(1) (relief for property going to employee trusts, charities, political parties, IHTA84/Sch 3 bodies, public benefit, and maintenance funds for historic buildings etc) and for deaths on or after 10 December 2014 IHTA84/S65(4).
+
+Where the conditions outlined above are not satisfied, and therefore IHTA84/S144 cannot apply, include cases where
+
+- property is given by will for immediate absolute distribution at the discretion of executors or others, or
+
+- for deaths before 10 December 2014 the event occurred within three months of the testator's death (as in view of IHTA84/S65(4) it would not give rise to a charge).
+
+The position in the second bullet above was considered in the case of Frankland v IRC (1997) STC 1450 which upheld our interpretation of the law. For deaths on or after 10 December 2014 it no longer matters if the event was within three months of the testator’s death because of amendments made in the summer Finance Bill 2015.
+
+Finance Act 2006 introduced new categories of tax-advantaged trusts – immediate post-death interest (IHTM16060 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16060)), trusts for bereaved minors (IHTM42815 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42815)), and age 18-to-25 trusts (IHTM42816 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42816)) – that can only be set up under a person’s will or the rules of intestacy. Without express provision, an appointment out of a discretionary trust set up by someone’s will could not create one of these new trusts because it would not trigger the chargeable event referred to above. It could not therefore be treated under S144, as it applied before 22 March 2006, as provided for in the will of the person who had died.
+
+Finance Act 2006 therefore made special provision to ensure that, where an appointment is made on or after 22 March 2006 on terms that would have created such a trust if they had been included in the will of the person who has died, S144 shall apply and the results of the appointment shall be treated as if the will had provided for them, IHTA84/S144(3)-(6).
+
+But, bear in mind that s.144 operates as a result of an event and an event can happen automatically and without any action being taken by the trustees.
+
+Example
+
+Roy died in 2013. He left his estate on trust for his three children Alice, Ben and Cathy equally, with the income at 18 (as a result of Trustee Act 1925 s.31) and the capital if and when they attain 25.
+
+This will trust is drafted as an 18/25 trust under IHTA/s71D but this may not turn out be the case, whether initially or as a result of IHTA/s144.
+
+Consider the position if, at Roy’s death, Alice is 19, Ben is 17 and Cathy is 14.
+
+Alice is over 18 and takes an immediate interest in possession in one third. It is not an 18/25 trust. Instead it is an IPDI (and s144 cannot apply).
+
+Ben becomes 18 in the two years following Roy’s death. This event triggers s144 automatically and Ben too is treated as having an IPDI in one third from Roy’s death.
+
+Cathy’s interest is within 18/25 and this does not change in the two years following Roy’s death. When Cathy does attain 18 and becomes entitled to income there is no back-dating and no charge. The charge arises, as expected, when Cathy becomes 25.
+
+Note that if the trust had excluded the operation of Trustee Act s31, say by providing that until age 25 the income from each share could be used for maintenance with any balance accumulated then all of the interests would be within IHTA/s71D.

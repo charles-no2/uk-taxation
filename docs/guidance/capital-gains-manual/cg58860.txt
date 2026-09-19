@@ -1,0 +1,24 @@
+Value shifting: disallowance of multiple losses
+Identifier: CG58860
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58860
+Published: 2016-03-12T11:48:43+00:00
+Updated: 2016-01-26T10:36:23+00:00
+Retrieved (UTC): 2026-09-18T14:44:29.941878+00:00
+
+TCGA92/S29 (3)
+
+Where assets are held through a chain' of companies, the shifting of value out of assets at the bottom of the chain’ can result in decreases in value in the shares of each company up the chain. Without further rules, the value shifting provisions would not be effective in preventing allowable losses arising on disposals of shares at each tier.
+
+This effect is prevented by TCGA92/S29 (3).
+
+Example
+
+Miss L owns all the shares in Y Ltd. Y Ltd’s only asset is A' shares in Z Ltd. These A’ shares have rights to the majority of profits and assets of Z Ltd.
+
+Miss L also holds `B’ shares in Z Ltd. These ‘B’ shares have very limited rights.
+
+By altering the rights of the shares in Z Ltd, value can be transferred out of the A' shares and into the B shares (as illustrated in the example in CG58853). If the value shifting rules produce a charge on Y Ltd in respect of the value passing from the A' to the B’ shares, but increase the allowable expenditure on the `B’ shares to Miss L, the rules achieve symmetry. However, as a result of the alteration of the rights, the shares in Y Ltd are now also worth less. Losses are likely to arise on any subsequent disposal of these shares by Miss L.
+
+TCGA92/S29 (3) prevents this if a loss arises on the disposal of shares in a company which itself owns shares out of which value has been transferred. The loss is not allowable to the extent that it has been created by the transfer of value out of the shares it held. In this example , both Miss L and Y Ltd would be entitled to any losses on disposals of their shares in Z Ltd. But a loss on the disposal of her shares in Y Ltd by Miss L would not be allowable to the extent that the loss was created by the transfer of value out of Y Ltd’s holding of `A’ shares in Z Ltd.
+
+In group situations, arrangements of this sort may also be countered by the depreciatory transactions legislation, see CG46500+.

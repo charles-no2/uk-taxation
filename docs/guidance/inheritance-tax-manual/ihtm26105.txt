@@ -1,0 +1,30 @@
+Step 3 - interaction: extent of examination necessary 
+Identifier: IHTM26105
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26105
+Published: 2016-04-09T09:47:28+01:00
+Updated: 2018-12-14T01:38:54+00:00
+Retrieved (UTC): 2026-09-18T15:03:04.372035+00:00
+
+There are some cases where chargeable specific gifts (IHTM26011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26011)) exceed the nil rate band and the residue is wholly exempt. Where interaction (IHTM26102 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26102)) applies to these types of case you will need to consider the nature and value of the whole estate to establish the appropriate fraction (IHTM26108 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26108)). But only do so when the tax is worthwhile, as it is likely to involve establishing the availability of business relief (IHTM25131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25131)) and/or agricultural relief (IHTM24001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24001)). In most cases, where 100% relief is available you will not need to value the relievable property.
+
+Example
+
+Judith's estate is £1,200,000 including unlisted shares worth £300,000 before relief.
+
+She leaves
+
+- a legacy of £200,000 to charity
+
+- residue to children equally.
+
+The s.39A (4) fraction is:
+
+£900,000 ÷ £1,200,000 = 0.75
+
+Applying that to the exempt legacy reduces it to £150,000.
+
+If, however, the shares were worth £400,000 the interaction rules would result in:
+
+£900,000 ÷ £1,300,000 × £200,000 = £138,462
+
+The decrease in exemption (£150,000 - £138,462 = £11,538) would result in a tax increase of £4,615.20.

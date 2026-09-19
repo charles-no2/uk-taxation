@@ -1,0 +1,81 @@
+The scheme administrator: default of scheme administrator - liabilities pass to another person
+Identifier: PTM155000
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm155000
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2015-12-14T12:27:53+00:00
+Retrieved (UTC): 2026-09-18T14:48:48.713481+00:00
+
+| Glossary | PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001) | |———-|————————————————————————————-|
+
+PTM154000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm154000) explains the position where a scheme administrator has resigned without a replacement. The resigning scheme administrator remains liable until another scheme administrator is appointed. However if a scheme administrator ceases to exist or default on their responsibilities the tax legislation provides for the scheme administrator liabilities to pass to another person.
+
+Trustees, scheme managers etc. liable as scheme administrator (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm155000#IDADGSVD)
+Members liable as scheme administrator (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm155000#IDA1RSVD)
+
+Trustees, scheme managers etc. liable as scheme administrator
+
+Section 272 Finance Act 2004
+
+The liabilities of a scheme administrator can pass to another person if:
+
+- there is no scheme administrator and no-one remains liable as if the scheme administrator under section 271(4) Finance Act 2004 - see PTM154000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm154000) under heading ‘What happens if there is no replacement scheme administrator’,
+
+- there is no scheme administrator but someone remains liable under section 271(4) Finance Act 2004 and they either cannot be traced or are in serious default, or
+
+- there is a scheme administrator but they either cannot be traced or are in serious default.
+
+Liability in this context means not just a tax liability but also the liability to other obligations imposed by the legislation on the scheme administrator, e.g. the obligation to submit an Event Report.
+
+A person is in serious default if they have failed to pay any tax or carry out any other obligation and HMRC considers the failure to be serious.
+
+Order of default
+
+If the scheme administrator has defaulted as described above any liability passes in order of priority to:
+
+- if a trust based scheme, any UK resident trustee(s)
+
+- Any person(s) who controls the management of the pension scheme
+
+- Any person(s) who established the pension scheme, or their successor
+
+- if an occupational scheme, any sponsoring employer
+
+- if a trust based scheme, any non-UK resident trustee(s).
+
+Liability will not pass down the list if any person higher up the list can be traced and has not also defaulted
+
+Where a person assumes liability under section 272 Finance Act 2004 they take on liability for outstanding tax and obligations, e.g. an unfiled Event Report, as well as ongoing tax liabilities and scheme administrator obligations. However they will not take on liability for paying any penalty due before the scheme administrator defaulted.
+
+If you become liable under section 272 Finance Act 2004 HMRC will tell you as soon as is reasonably practicable. However a failure by HMRC to notify you will not remove liability under this section.
+
+Section 272A(6) Finance Act 2004
+
+An independent trustee appointed on or after 1 September 2014 by the Pensions Regulator, or by a court following an application made by the Pensions Regulator, may be excluded as a trustee or person that controls the management of the scheme in the above default list for certain liabilities. PTM156000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm156000) sets out when this can be done and what happens in these circumstances.
+
+Section 272B(3) Finance Act 2004
+
+Where an independent trustee mentioned above appoints someone to act as scheme administrator then that appointed person may be excluded as a person who controls the management of the scheme in the above default list for certain liabilities. PTM156000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm156000) sets out when this can be done and what happens in these circumstances.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm155000#Top)
+
+Members liable as scheme administrator
+
+Section 273 Finance Act 2004
+
+Where following a default of the scheme administrator there is outstanding liability to either the scheme sanction charge or the de-registration charge and none of the persons listed above have paid the tax due that liability can pass to members of the scheme. HMRC will notify a member if they become liable to tax under this provision.
+
+If a member is liable under this provision they may be assessed to an appropriate share of the tax due, based on the value of their assets, in relation to the overall value of the scheme.
+
+An individual can only be liable under this provision if they were a member of the scheme within the three years leading up to when liability to the relevant tax liability arose.
+
+The member can also only be liable under this provision if at least one of the following conditions is met:
+
+- the scheme is not an occupational pension scheme, or
+
+- the pension scheme is an occupational pension scheme and in the three years before the relevant tax liability arose the member was a controlling director of a sponsoring employer, or
+
+- in the three years before the relevant tax liability arose the scheme received a transfer and part or all of the transfer represented contributions either to:
+
+- a scheme that was not an occupational pension scheme, or
+
+- an occupational pension made in respect of service as a controlling director of a sponsoring employer.

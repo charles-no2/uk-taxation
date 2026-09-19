@@ -1,0 +1,24 @@
+Indexation: from 6/4/88 indexation formula: falls in RPI
+Identifier: CG17274
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17274
+Published: 2016-03-12T10:16:45+00:00
+Updated: 2016-01-25T12:19:05+00:00
+Retrieved (UTC): 2026-09-18T14:38:23.432909+00:00
+
+TCGA92/S54 (2)(b)
+
+Falls in RPI
+
+Where RI exceeds RD, it means that the RPI has fallen between the date of expenditure and the date to which the indexation allowance is calculated. No indexation is then available on that item. However, if the RPI falls between the two dates and then recovers so that overall RD exceeds RI, no regard is had to the temporary fall.
+
+TCGA92/S54 (3)
+
+Rounding of decimals
+
+The legislation requires the indexation factor to be rounded to the nearest third decimal place. Many people however use computers to calculate chargeable gains. It is often inconvenient to round off the computation in this way. Therefore you may accept computations ignoring the requirement to round the indexation factor, provided this is done on a consistent basis that neither favours the taxpayer nor HMRC. If however you prepare a computation to send to the taxpayer or agent this must be made on the strict basis.
+
+Rebasing of RPI
+
+The RPI for the period March 1982 to January 1987 was calculated by reference to a base of January 1974 = 100. From February 1987 onwards the RPI is expressed by reference to a base of January 1987 = 100. To calculate the indexation factor where the RI month is before February 1987 and the RD month is after January 1987 multiply the RPI for the RD month by 3.945 and apply the formula in the normal way with the amendment. (The same result is reached by dividing the RPI for the RI month by 3.945). See example in CG17313.
+
+Computations may also be received where the indexation allowance is calculated by reference to a notional series of RPI figures for the period March 1982 to January 1987 on the base January 1987 = 100. These notional figures are reproduced in the annual tables referred to in part (b) of CG17290. Computations based on these figures may be accepted.

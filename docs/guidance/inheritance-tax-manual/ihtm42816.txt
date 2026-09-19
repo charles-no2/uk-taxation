@@ -1,0 +1,144 @@
+Special trusts: Age 18-to-25 trusts
+Identifier: IHTM42816
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42816
+Published: 2016-04-09T10:25:51+01:00
+Updated: 2020-12-02T15:02:40+00:00
+Retrieved (UTC): 2026-09-18T15:09:48.699996+00:00
+
+Finance Act 2006 introduced a new category of “age 18-to-25 trusts”, IHTA84/S71D.
+
+The provisions of S71D are similar to those applying to a trust for bereaved minors (IHTM42815 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42815)), but the beneficiary must receive absolute ownership of the settled property on or before their 25th birthday.
+
+A trust of this kind can only be set up on or after 22 March 2006 under:
+
+-
+
+the Will of a deceased parent, including where this is deemed to have happened – for example, following a Deed of Variation that satisfies the conditions of IHTA84/S142 (IHTM35021 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35021) onwards), or
+
+-
+
+the Criminal Injuries Compensation Scheme
+
+‘Parent’ can include a step parent or a person who, immediately before their death had parental responsibility for the minor, IHTA84/S71H.
+
+IHTA84/S71 A&M trusts created before 22 March 2006 can also be amended to fall within these provisions (IHTM42808 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42808)).
+
+Other conditions
+
+For as long as the beneficiary is alive and under the age of 25 they must be entitled to all of the income and, if any of the settled property is applied for the benefit of the beneficiary, it must be applied for the benefit of the beneficiary, IHTA84/S71D(6)(b) and (c).
+
+On attaining the age of 25, or before, the person must become absolutely entitled to the settled property, any income arising from it, and any income that has arisen and accumulated from the property, S71D(6)(a).
+
+Multiple beneficiaries
+
+While S71D is drafted by reference to a single beneficiary (‘B’), we take the view that it is possible to have more than one existing beneficiary, so long as it is not possible for any other person to become entitled under the trusts in future.
+
+For example, the trusts of an existing A&M settlement provide that:
+
+-
+
+the three grandchildren – B1, B2 and B3 – of the settlor will take the trust assets absolutely at 25;
+
+-
+
+they will be entitled to all of the income arising before they reach 25; and
+
+-
+
+if any of the settled property is applied in that time, it must be applied for B1, B2 and B3.
+
+If B1, B2 and B3 are all living when S71ceases to apply, we take the view that S71D will begin to apply provided that it is not possible for any other person to become entitled in future. This is because it can still be said that ‘B’ – although plural – will become absolutely entitled to the settled property by 25 etc.
+
+We do not, however, consider that S71D will apply if someone other than B (plural or not) can become entitled in the future – for example, if the previous A&M settlement provided that any unborn grandchildren could benefit later. In those circumstances it could not be said that ‘B’ (that is, the living grandchildren) will:
+
+-
+
+become absolutely entitled to the settled property at or before age 25;
+
+-
+
+be entitled to all of the income in the meantime; and
+
+-
+
+be the only persons for whom any of the settled property is applied
+
+Tax consequences
+
+If the provisions are satisfied no charge to tax arises where
+
+-
+
+the beneficiary becomes absolutely entitled to any of the settled property on or before their 18th birthday, or
+
+-
+
+any property is applied for the maintenance of the beneficiary before they turn 18, or
+
+-
+
+the bereaved minor dies before they turn 18.
+
+However, a charge to tax under IHTA84/71E, calculated under IHTA84/S71F, will arise where
+
+-
+
+the provisions of S71D cease to apply to the settled property where the beneficiary becomes absolutely entitled to it between 18 and 25, or
+
+-
+
+the beneficiary dies over 18 but under 25.
+
+In all other circumstances the charge is calculated under IHTA/S71G.
+
+The calculation under IHTA84/S71F
+
+Where the provisions of S71D no longer apply to the settled property, or the beneficiary dies over 18 but under 25, the calculation follows the existing proportionate charges regime (IHTM42114) with a few important changes
+
+-
+
+The number of quarters is calculated from the day on which the beneficiary concerned attained 18. If the trust become subject to S71D at a date later than their 18th birthday then it is from this date that the number of quarters are calculated. (As the maximum period between the property becoming relevant and the trust concluding is seven years then the maximum charge that can arise under S71F is 7/10ths of 6%.)
+
+-
+
+The rate is calculated by reference to the historic value of the settlement at the time it is set-up. This is so even if the ten year anniversary has passed, because there is no ten year anniversary charge.
+
+-
+
+Previous lifetime cumulative total, related trusts and additions are cumulated for rate as usual.
+
+Example
+
+The deceased’s will provided that the residue of her estate was to held on trusts for her two children equally after their respective 21st birthdays. The value of the residue was £1M. There were no other trusts created by her will and she had a full nil rate band. Two of the three elements of the eventual charges can be calculated immediately.
+
+(a) The settlement rate is
+
+Initial funds £1,000,000
+
+Less nil rate band £325,000
+
+Balance £675,000
+
+Hypothetical tax at 20% = £135,000
+
+Rate = 135,000 ÷ 1,000,000 = 13.5%
+
+(b) The relevant fraction is
+
+3/10th x quarter years between 18 and 21 = 0.3 x 12/40 = 9%
+
+When the eldest child become 21 the total trust fund was £1,500,000 and their share was £750,000 and the tax was paid out of that share.
+
+The tax is £750,000 x 13.5% x 9% = £9,112.50.
+
+When the younger became 21 she was entitled to £760,000 and the tax was £9,234.
+
+The calculation under IHTA84/S71G
+
+In the rare case where the tax is not calculated under IHTA/s71F the charge it is at the flat rate under S70, as amended by S71G (IHTM42802 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42802)).
+
+The value of the disposition should be grossed if appropriate.
+
+- The relevant period begins with the day on which S71D began to apply to the settled property.
+
+- But if the trust was previously an A & M trust (IHTM42807 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42807)) to which S71 applied, the relevant period begins with the day on which S71 began to apply to the settled property.

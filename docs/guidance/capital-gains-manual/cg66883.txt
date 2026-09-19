@@ -1,0 +1,92 @@
+Relief for Gifts of Business Assets: The Donee
+Identifier: CG66883
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66883
+Published: 2016-03-12T12:05:57+00:00
+Updated: 2021-09-16T12:24:21+01:00
+Retrieved (UTC): 2026-09-18T14:46:06.790817+00:00
+
+Individuals (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66883#_Individuals_1)
+
+Partnerships & LLPs (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66883#_Partnerships_&_LLPs)
+
+Trustees (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66883#_Trustees_1)
+
+Companies (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66883#_Companies)
+
+To ensure that the gifted asset is not easily brought out of the charge to Capital Gains Tax, relief is precluded in some circumstances due to the status of the donee. These restrictions are discussed below.
+
+Individuals
+
+Where the donee is an individual, the general principle is that they must be UK resident (see RFIG Manual (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual)) for relief to be available on the gift. Broadly, relief is not available where the gift is to an individual who is not UK resident, or is UK resident but is regarded for the purposes of any double taxation relief arrangements as not UK resident, such that a subsequent disposal by them immediately after the gift is not going to be subject to UK tax (TCGA92/S166).
+
+The exception to this rule is where a direct or indirect interest in UK land (see CG73922 and CG73930 (http://internal.active.hmrci/manual/capital-gains-manual/cg73930)) is gifted to a non-resident. As a subsequent disposal of the asset will be within the scope of Capital Gains Tax or Corporation Tax on Chargeable Gains due to TCGA92/S1A(3)*, hold-over relief is extended by TCGA92/S167A to be available in these circumstances.
+
+Partnerships & LLPs
+
+Under TCGA92/SS59&59A, partnerships and LLPs are generally treated as ‘transparent’ for Capital Gains Tax purposes, such that any gains accruing are charged on the partners or members as persons. As a consequence, a gift to such a partnership or LLP is treated as being a number of gifts to each partner or member, proportionate to their interest in the partnership or LLP. The rules discussed in this section relating to individuals and companies therefore apply to partners or members receiving gifts, provided that the partnership or LLP is transparent.
+
+Under TCGA92/S59A(4), an LLP becomes ‘opaque’ on the appointment of a liquidator or (if earlier) the making of a winding-up order by the court, or on a similar event taking place outside of the United Kingdom. If, prior to the LLP becoming opaque, a member holds an asset that was gifted to the LLP and on which hold-over relief has been claimed then TCGA92/S169A brings the gain that was deferred into charge in the hands of the member.
+
+Trustees
+
+Likewise, the trustees of a settlement must generally be UK resident to be a valid donee for a gift relief claim. Broadly, relief is not available if the trustees are not UK resident (TCGA92/S166(1)) or are UK resident but are regarded for the purposes of any double taxation relief arrangements as not UK resident, such that a subsequent disposal by them immediately after the gift is not going to be subject to UK tax (TCGA92/S169).
+
+The exception discussed above regarding a gift of a direct or indirect interest in UK land to a non-UK resident applies equally in the case where the gift is to the trustees of a settlement.
+
+For a gift to the trustees of a settlement, relief is also unavailable in any one of the situations below (TCGA92/S169B):
+
+- The settlement is settlor-interested
+
+- An arrangement (being any scheme, agreement or understanding) subsists under which the settlement will or could become settlor-interested
+
+- In computing the gain on the gift in the absence of hold-over relief, a deduction in the acquisition cost would be required in relation to a previous hold-over relief claim by another individual and, immediately after the gift that individual has an interest in the settlement or an arrangement subsists such that they will or may acquire an interest
+
+However, these rules do not apply where the settlement is or could be a heritage maintenance fund within the meaning of ITA07/S508 (see TSEM5800). They are also not in point if the terms of the settlement apply the property and income for the benefit of a disabled person and, if it is settlor-interested, each settlor must be a disabled beneficiary. The legislation makes clear that the trusts on which settled property is held shall not fall outside the scope of this exception solely by reason of the trustees having the powers:
+
+- That enable payments in a tax year to be made otherwise than for the benefit of the disabled person up to the lower of £3,000 or 3% of the maximum value for the year
+
+- Of advancement, either conferred by or similar to section 32 of the Trustee Act 1925 (or section 33 of the Trustee Act (Northern Ireland) 1958), even if this is subject to a less restrictive limitation imposed by subsection (1)(a) of those acts (being that the amount advanced cannot exceed the presumptive or vested share or interest of that person in the settled property)
+
+It should be noted that under TCGA92/S169C relief will be clawed back if any of the conditions within TCGA92/S169B listed above are satisfied within a specified time frame following the gift. See CG66888 (http://internal.active.hmrci/manual/capital-gains-manual/cg66888) for further details.
+
+The definition of a settlor (TCGA92/S169E) for these purposes is broad, covering any individual from whom the settled property directly or indirectly originates, or now represents. It also includes any property originating from another person as a result of reciprocal arrangements involving the settlor.
+
+As defined by TCGA92/S169F, an individual has an interest in a settlement if any settled property or property deriving from it (such as income accruing from the settled property) is, will or may become applied for the benefit of the individual, their spouse/civil partner or their dependent child. Spouse/civil partner does not include those from whom the individual is separated under a court order, a separation agreement or in such circumstances that the separation is likely to become permanent. A child is dependent if they are under the age of 18 and are unmarried/have no civil partner and this definition includes step-children.
+
+The exceptions to these definitions are where:
+
+- A term of a settlement relates to an individual’s dependent child but the individual has no such child
+
+- An amount becomes payable to an individual from a marriage/civil partnership settlement, as a result of the death of both parties to the marriage/civil partnership and any of their children
+
+- An amount becomes payable to an individual following the death of their child who had been beneficially entitled to the settled property or any derived property at an age not exceeding 25
+
+Where these circumstances subsist, relief remains available.
+
+Companies
+
+Gifts to UK resident companies generally fall within the scope of the relief, except where the asset being gifted is shares or securities (TCGA92/S165(3)(ba)). As with individuals and trustees, TCGA92/S166 means that relief is typically not available where the donee is a non-resident company. The exception discussed above regarding a gift of a direct or indirect interest in UK land to a non-UK resident applies equally in the case where the gift is to a company.
+
+This restriction is extended to UK resident companies that are controlled by a person who, or by persons each of whom:
+
+- Is not resident in the United Kingdom (even if only by virtue of any double taxation relief arrangements) and
+
+- Is connected with the person making the disposal
+
+For disposals on or after 6 April 2021, the second condition above was amended to:
+
+- Is or is connected with the person making the disposal
+
+to ensure that hold-over relief is not available when a non-UK resident gifts an asset to a company which they also control.
+
+TCGA92/S288 explains that ‘control’ in these circumstances is to be construed in accordance with CTA10/SS450&451, see CTM60210 (http://internal.active.hmrci/manual/company-taxation-manual/ctm60210) et seq. In essence, a person has control over a company if they are able to exercise direct or indirect control over the company’s affairs, and/or possesses or is entitled to acquire the greater part of the share capital, voting power or assets and distributions on winding up. These rights can also be attributed to other persons, such as other companies controlled by or associates (see CTM60150 (http://internal.active.hmrci/manual/company-taxation-manual/ctm60150)) of the same person. In the Upper Tribunal held that attributions of interests to associates in this context are limited to connected persons who control the donee company by virtue of holding assets relating to that or any other company. The existence of non-resident relatives who are otherwise not involved in the company was determined not to preclude the availability of the relief.
+
+Under TCGA92/S286, a person is connected with an individual if they are certain relatives, trustees, partners or companies, see CG14580 (http://internal.active.hmrci/manual/capital-gains-manual/cg14580).
+
+Example
+
+John gifts a rare printing press used in his sole trade to Swifts Creek Ltd, a UK resident company, which is in turn controlled by John’s sister Pauline, who is resident in Australia. Under TCGA92/S286, John and Pauline (being siblings) are connected persons. As a result, TCGA92/S167 means that hold-over relief is not available on the gift by John.
+
+In terms of case law, demonstrates a successful challenge by HMRC in relation to these rules. There, the Court of Appeal held that an insurance provider both controlled the donee (being off-the-shelf UK resident companies) and was connected with the donors (the taxpayers), by virtue of TCGA92/S286(7) which provides that any two or more persons acting together to secure or exercise control of a company shall be treated in relation to that company as connected with one another. Accordingly, relief was not available to the taxpayers on the gift to the companies owned by the insurance provider.
+
+* This section was re-written for disposals from 6 April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150)

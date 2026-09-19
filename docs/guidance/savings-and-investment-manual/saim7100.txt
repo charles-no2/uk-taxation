@@ -1,0 +1,24 @@
+Artificial transactions in futures and options: deemed disposals where futures run to delivery or options are exercised (this guidance applies to disposals of futures and options before 6 April 2013)
+Identifier: SAIM7100
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim7100
+Published: 2016-03-19T16:28:48+00:00
+Updated: 2015-12-03T11:03:50+00:00
+Retrieved (UTC): 2026-09-18T14:26:47.503170+00:00
+
+Deemed disposals where futures run to delivery or options are exercised
+
+As originally enacted, ICTA88/SCH5AA applied only to disposals of futures and options. It was therefore possible to avoid its operation by using options that were exercised, or financial or commodity futures that resulted in the delivery of the underlying asset, since these events are not treated by TCGA 1992 as disposals. This was addressed in FA 1998, when a new rule was introduced. It applies to futures that run to delivery, or options that are exercised, after 5 February 1998. The rule is now in ITTOIA05/S564 and S565.
+
+ITTOIA05/S564 applies where there are two or more related transactions (as defined in section 566), and two conditions are met.
+
+Condition A is that one of those transactions is the creation or acquisition of a future or option (for example, buying a futures contract or paying a premium for an option).
+
+Condition B is that one or more of the other transactions is running a future to delivery, or exercising an option, where the transaction does not constitute a disposal of the future or option.
+
+Where these conditions are fulfilled, section 564 deems a disposal to have taken place immediately before the future has run to delivery, or the option has been exercised. If the future or option has a market value (in other words, it represents an asset of the person holding it), the disposal consideration is taken to be the market value. If, on the other hand, the derivative represents a liability to the holder, the disposal consideration is deemed to be nil. Furthermore, the holder is treated as incurring costs equal to what he or she would have to pay to get an arm’s length party to assume the liability.
+
+In applying Conditions A and B, TCGA92/S144 (2) and (3) are disregarded. This is because under these two subsections of TCGA92/S144 (which is applicable as a result of section 562) the grant and the exercise of an option are treated as a single transaction (to enable the premium to be set against the disposal proceeds). But, in order for section 564 to apply, there must be two related transactions, the creation of the future or option and its running to completion or being exercised, so those two transactions must not be taken to be a single transaction.
+
+ITTOIA05/S565 provides interpretation of section 564. In particular it defines ‘party’ in relation to the future or option in terms of rights, entitlements, obligations and liabilities, ensuring that both ‘grantors’ and ‘grantees’ of futures and options fall within the definition.
+
+SAIM7110 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim7110) gives an example of the operation of ITTOIA05/S564.

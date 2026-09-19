@@ -1,0 +1,34 @@
+Remittance Basis: Introduction to the Remittance Basis: Foreign Income and Gains: Foreign chargeable gains accruing on disposal made otherwise than for full consideration
+Identifier: RDRM31180
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31180
+Published: 2016-03-09T17:27:00+00:00
+Updated: 2015-11-27T13:52:42+00:00
+Retrieved (UTC): 2026-09-18T16:19:19.347595+00:00
+
+Foreign chargeable gains may accrue to a non-domiciled individual following disposal of an asset or assets located outside the UK without full consideration being received, for instance on making a gift.
+
+Where such a disposal occurs the capital gains rules on disposals other than by way of bargains at arm’s length normally apply. This means that the rules apply as if the disposal was at market value (TCGA92/s17; refer to Capital Gains Manual CG14530+).
+
+Independently of these computational rules, ITA07/s809T requires us to treat the asset itself as deriving from the chargeable gains in such cases.
+
+Prior to the introduction of section 809T it was not possible to tax such a gain on an individual chargeable on the remittance basis as it was not represented by money or money’s worth in the hands of the individual making the gift. It was not therefore possible for the individual to remit the gain.
+
+Section 809T is not a computational provision; the TCGA rules apply to quantify the amount of the gain. ITA07/s809T applies whenever a foreign chargeable gain accrues and the disposal consideration is not at least equal to the market value of the asset.
+
+So where ITA07/s809T applies, the asset that was gifted or otherwise disposed of otherwise than at market value is itself treated as deriving from the gain which accrues on its own disposal. So when you consider whether there has been a remittance, references to anything deriving from chargeable gains include the asset.
+
+Example 1
+
+Jean, a non-domiciled remittance basis user, gives the chef at his French chateau a picture off the wall there when he retires. As this is not a disposal at arm’s length, Jean is deemed to receive consideration equal to the market value of the picture and his foreign chargeable gain is computed using that figure.
+
+Example 2
+
+Ahmeda transfers his property in Dubai to a trust receiving no consideration in return. The deemed gain computed using the market value of the property at date of transfer is £400,000. The trustees subsequently sell the property for £550,000. The trustees then make a capital payment of £300,000 to a UK close company in which Ahmeda’s spouse is a participator.
+
+£300,000 of Ahmeda’s foreign chargeable gain has been remitted to the UK. This is because the property is treated as deriving from his gain (ITA07/s809T) and the proceeds from the sale of the property therefore also derive from the gain. The company is a relevant person (ITA07/s809M(2)(f)) and property (that is, money) which derives from Ahmeda’s gain has therefore been received in the UK by or for the benefit of a relevant person (ITA07/s809L).
+
+The gain which accrues to the trust on the actual sale of the property will be subject to normal rules.
+
+The new rule at ITA07/s809T applies to disposals by remittance basis users on or after 6 April 2008.
+
+You should refer to the Capital Gains Manual for further information about the computation of foreign chargeable gains.

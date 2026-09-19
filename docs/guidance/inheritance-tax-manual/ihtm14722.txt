@@ -1,0 +1,50 @@
+Lifetime transfers: specific lifetime reliefs: disallowed debts: calculations
+Identifier: IHTM14722
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14722
+Published: 2016-04-09T09:21:39+01:00
+Updated: 2016-02-11T17:03:39+00:00
+Retrieved (UTC): 2026-09-18T14:58:17.878562+00:00
+
+You must make separate calculations of the total tax payable as a result of the death as follows
+
+- reducing the liability in accordance with FA86/S103 but ignoring the value transferred by the lifetime transfer to the extent of the reduction, and
+
+- charging the lifetime transfer in the usual way but allowing the liability as a deduction without any reduction under S103.
+
+Tax is then charged on the basis of the calculation which produces the higher amount of tax.
+
+Where the higher amount results from reducing the liability and ignoring all or part of the lifetime transfer, you may allow a credit for all or part of any lifetime tax which was payable before the death.
+
+Example
+
+Anne makes a gift of £350,000 to Bob in Aug 2010
+
+In Feb 2011, Bob lends £100,000 to Anne
+
+Anne dies in July 2012 leaving a wholly chargeable estate of £500,000. The £100,000 owed to Bob is not deductible because of s.103.
+
+First calculation
+
+Disallow the deduction of the loan and reduce the lifetime charge on the failed potentially exempt transfer (PET) to the extent of the disallowed liability.
+
+Aug 2010 - after deduction of £100,000 the chargeable PET is £250,000. No tax payable.
+
+July 2012 - aggregate chargeable transfer (ACT) of £250,000 PET + £500,000 estate = £750,000.
+
+Tax payable = £170,000 (total tax payable on Anne’s death).
+
+Second calculation
+
+Charge the failed PET in full, but disregard s.103 and allow the deduction of the loan.
+
+Aug 2010 - tax on £350,000 = £10,000.
+
+July 2012 - ACT of £350,000 PET + £400,000 death estate = £750,000.
+
+Tax payable = £170,000 - £10,000 tax attributable to PET = £160,000.
+
+Total tax to pay = £170,000.
+
+Conclusion
+
+Although both calculations yield the same total, they apportion the tax between the gift and the death estate in different ways. You must charge tax on the basis of the first calculation and reduce the second to nil, as explained in the instructions for when calculations produce the same amount (IHTM14731 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14731)).

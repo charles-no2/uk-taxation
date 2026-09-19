@@ -1,0 +1,38 @@
+Capital distributions: small: rights issue: no gain/no loss transfer: small capital distribution
+Identifier: CG57861
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57861
+Published: 2016-03-12T11:46:00+00:00
+Updated: 2023-05-11T10:35:38+01:00
+Retrieved (UTC): 2026-09-18T14:44:13.134781+00:00
+
+If TCGA92/S122 (2) would apply to the deemed capital distribution because it is small the value of the capital distribution should be deducted from the transferor’s allowable cost. For guidance on small capital distributions see CG57835 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57835). The effect of Section 122(2) is that there is already no gain/no loss to the transferor. The transferee is treated as having acquired the rights at market value.
+
+Example
+
+- March 2015 A Ltd buys 1,000 shares in Maxico Ltd cost £4,000.
+
+- September 2017 Maxico Ltd declares a 1:1 rights issue. A Ltd transfers the rights nil paid to B Ltd a member of the same group.
+
+The market value of the rights was 10p per share.
+
+The market value of the shares at the time of the rights issue was £6 per share.
+
+The transfer of the rights is a small capital distribution. The market value of the rights 10p x 1,000 = £100 should be deducted from A Ltd’s allowable cost.
+
+Section 104 holding
+
+- |  Number of shares |  Pool of qualifying expenditure |  Pool of indexed expenditure |
+
+Acquisition |  1000 |  £4,000 |  £4,000 |
+
+Indexation March 2015 - September 2017 0.070 |  - |  - |  £280 |
+
+- |  1000 |  £4,000 |  £4,280 |
+
+Capital distribution |  - |  (£100) |  (£100) |
+
+- |  1000 |  £3,900 |  £4,180 |
+
+B Ltd acquires the rights at a cost of £100.
+
+NOTE. If a taxpayer is within the charge to Capital Gains Tax, neither indexation allowance nor taper relief apply to disposals of assets on or after 6 April 2008. Previously indexation allowance had been frozen at April 1998. Companies and other concerns within the charge to Corporation Tax are not affected by these changes. For indexation allowance see CG17207 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17207)+ and for taper relief see CG17895 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17895)+.

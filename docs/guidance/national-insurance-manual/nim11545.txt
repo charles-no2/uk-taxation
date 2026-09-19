@@ -1,0 +1,28 @@
+Class 1 NICs: reporting NICs in RTI: reporting aggregated earnings: general approach
+Identifier: NIM11545
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11545
+Published: 2016-04-11T17:25:51+01:00
+Updated: 2022-02-09T10:45:18+00:00
+Retrieved (UTC): 2026-09-18T15:15:05.368489+00:00
+
+Paragraphs 21A(3) and 21C of Schedule 4 to the Social Security (Contributions) Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+Paragraphs 5 and 11 of Schedule 4A to the Social Security (Contributions) Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+For information about when earnings from employments would be aggregated, see NIM10001 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim10001).
+
+NIM10004 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim10004) explains how to calculate NICs for aggregation in various circumstances.
+
+Where earnings from more than one employment are to be aggregated, the following rules should be followed for reporting NICs data:
+
+- the employer(s) must ensure that total year to date information is included in the Full Payment Submission (FPS) data in respect of just one of the employments
+
+- the employer only needs to report NICs category letter and deduction data to HMRC when the final payment of earnings is made in an earnings period.
+
+Example
+
+An employee has 2 jobs with the same employer and earnings fall to be aggregated. Job A is paid on Monday and Job B on Friday. The employer can only properly calculate NICs liability on the second pay day; therefore the NICs data for these payments can be reported on or before the second payment.
+
+If earnings are aggregated, the employer must enter “yes” in the “aggregated earnings indicator” on their FPS data item 49.
+
+NIM11550 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11550) provides more information on reporting aggregated earnings and NICs data in RTI.

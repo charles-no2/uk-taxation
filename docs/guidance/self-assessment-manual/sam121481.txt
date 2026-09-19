@@ -1,0 +1,22 @@
+Returns: individuals returns: multiple SAI for one basis  period: individuals (Action Guide)
+Identifier: SAM121481
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam121481
+Published: 2016-04-08T17:21:00+01:00
+Updated: 2016-02-23T14:56:21+00:00
+Retrieved (UTC): 2026-09-18T16:20:33.417534+00:00
+
+Where the taxpayer has submitted multiple Standard Accounts Information (SAI) for a business follow steps 1 - 3 below.
+
+For details of how to access the SA function, select ‘Index Of Functions’ on the left of the screen.
+
+-
+
+Check through the sets received and determine the set which is for the latest period of account
+
+-
+
+Capture the SAI for the latest period of account only, using function CAPTURE RETURN
+
+-
+
+Capture the basis period information. This should only be completed by the taxpayer on the set of pages relating to the latest period of account

@@ -1,0 +1,26 @@
+Decentralised Finance: Lending and staking: Chargeable Gains: Examples: Example 2: loan of tokens with a return on the loan
+Identifier: CRYPTO61672
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61672
+Published: 2022-02-02T14:55:37+00:00
+Updated: 2022-02-02T15:27:54+00:00
+Retrieved (UTC): 2026-09-18T16:18:44.031464+00:00
+
+Keri holds 100 tokens with a total acquisition cost of £200. Keri enters into an agreement with Chris to loan them the 100 tokens for 12 months. The loan agreement includes that Chris will pay a return of 5% at the end of the loan. At the time the loan is made, the tokens have a sterling value of £1.50 each.
+
+When the loan is satisfied by Chris, Keri will treat the tokens received as the 5% rate of return on the loan as miscellaneous income that will be subject to tax on income.
+
+Keri’s disposal is for a right to receive a future quantity of tokens. The future quantity of tokens is 105 so the future quantity of tokens is known. This means that section 48(1) Taxation of Chargeable Gains Act (TCGA) 1992 will apply. Section 48(1) TCGA 1992 brings the full quantity of tokens into the Chargeable Gains (CG) computation straight away.
+
+The tokens will need to be brought into the CG computation at their sterling value at the time of the disposal. The consideration in the computation will therefore be 105 tokens multiplied by £1.50 to give total consideration of £150.
+
+Section 37(1) TCGA 1992 excludes from the computation an amount which is chargeable to tax on income. The sterling value of the 5 tokens representing the 5% rate of return on the loan is therefore excluded from the CG computation.
+
+Keri’s CG computation will be as follows:
+
+. |  . |  £ |
+
+Consideration |  S48 TCGA 1992 – 105 x £1.50; less S37 TCGA 1992 – 5 x £1.50 |  150 |
+
+Allowable costs |  . |  (200) |
+
+Loss |  . |  (50) |

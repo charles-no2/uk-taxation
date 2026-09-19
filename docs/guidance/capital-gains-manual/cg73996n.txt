@@ -1,0 +1,98 @@
+UK property rich collective investment vehicles: Key definitions and terms: Meaning of ‘collective investment vehicle’ (CIV) 
+Identifier: CG73996N
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73996n
+Published: 2021-03-18T10:19:44+00:00
+Updated: 2021-03-18T10:19:39+00:00
+Retrieved (UTC): 2026-09-18T14:46:57.049660+00:00
+
+The term ‘collective investment vehicle’ (CIV) is a key part of the rules in Schedule 5AAA TCGA 1992. Paragraph 1 provides that various types of entities that may be used to hold UK property come within the meaning of the term, the intention being to broadly capture types of funds that may be used for that purpose.
+
+A CIV is any of the following (TCGA92/SCH5AAA/para 1(1)) –
+
+- A collective investment scheme, as defined in section 235 of the Financial Services and Markets Act 2000;
+
+- An Alternative Investment Fund (AIF) as defined in regulation 3 of the Alternative Investment Fund Managers Regulations 2013 (SI 2013/1773);
+
+- A company UK Real Estate Investment Trust (UK REIT), or the principal company of a group UK REIT, within Part 12 of Corporation Tax Act 2010; or
+
+- A company that is resident outside the UK and meets particular conditions, including the property income condition.
+
+The definition is important as, taken together with the expressions “offshore collective investment scheme” and a CIV being “UK property rich” introduced in paragraphs 2 and 3, it provides the foundations for the rules applicable to CIVs and their investors.
+
+Entities that do not come within the definition, and their investors, are instead subject only to the ‘core rules’ set out in Schedule 1A of TCGA 1992 (see CG73920 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73920) onwards).
+
+Note that being a CIV does not mean an entity is automatically entitled to make an election for transparent treatment (see CG73997V (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73997v)) or exemption (see CG73998P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73998p)), as making those elections is subject to certain conditions being satisfied.
+
+Collective investment schemes – umbrella funds
+
+An umbrella fund is a collective investment scheme that has separate compartments, usually referred to as sub-funds. Each sub-fund has its own segregated pool of assets, and investment strategies may vary from sub-fund to sub-fund. For example, one sub-fund within an umbrella fund may invest in UK real estate, and another may invest in German property.
+
+As a result of the provisions in S99A of TCGA and S235(4) of the Financial Services and Markets Act 2000 (FSMA), umbrella arrangements are not regarded as collective investment schemes in their own right for tax purposes, and instead each individual sub-fund is regarded as a collective investment scheme of the same form as the umbrella fund. This means that, when considering whether an entity is a collective investment scheme and, if so, whether it is UK property rich, it is the sub-funds that must be considered, and the umbrella disregarded.
+
+UK Real Estate Investment Trusts (‘UK REITs’)
+
+When introduced on 6 April 2019, paragraph 1(1)(c) included “a company which is a UK REIT” within the definition of a CIV. A REIT, or Real Estate Investment Company, is a type of listed property company, and legislation in Part 12 of the Corporation Tax Act 2010 provides tax rules relevant to such companies.
+
+A UK REIT may be a company REIT, or a group REIT. A group REIT consists of a principal company and its subsidiaries. However, the principal company itself is not a ‘UK REIT’ for the purposes of Part 12, rather the group as a whole is. The legislation as introduced on 6 April 2019 did not, therefore, include the principal company of a group UK REIT. This was contrary to intention, and regulation 3(a) of the UK Property Rich Collective Investment Vehicles (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2020 corrected this, so that with effect from 10 April 2020 both single company UK REITs and the principal company of a group UK REIT are included within the definition of a CIV.
+
+The practical impact of this is that non-resident investors with a less than 25% interest in the principal company of a group UK REIT that is UK property rich are not treated as having a substantial indirect interest in the company for the purposes of Schedule 1A TCGA 1992, prior to the amendments introduced on 10 April 2020. Consequently, gains made on disposals of such interests prior to that date are not within the charge to UK tax. From 10 April 2020, all non-resident investors with an interest in a group UK REIT that is UK property rich will be treated as having a substantial indirect interest for the purposes of Schedules 1A and 5AAA.
+
+Non-resident property companies similar to UK REITs
+
+Scope of definition
+
+Paragraph 1(d) and paragraph 2 as introduced on 6 April 2019 were intended to capture non-resident UK property rich companies that are similar to UK REITs. Regulations 3(b) to (h) of the UK Property Rich Collective Investment Vehicles (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2020 made changes with effect from 10 April 2020 to ensure that intention is given proper effect. Guidance on the effect of the changes applicable from that date is set out below under ‘Effect of changes applicable from 10 April 2020’.
+
+The changes made by regulation 3(b) ensure that only principal, and not subsidiary, companies of non-resident property groups come within the definition of a CIV. This is with one exception, so that a subsidiary company that is 99% or more owned by a qualifying investor (broadly, an institutional investor such as another type of CIV or a pension fund, for example – see CG73996Y (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73996y)) also comes within the definition. This broadly mirrors the position for companies within the definition of a UK REIT.
+
+Subparagraphs 1(d) to (f) of Schedule 5AAA bring three categories of companies that are not resident in the UK, and that meet the ‘property income condition’ (see below), within the definition of a CIV –
+
+- Subparagraph 1(d) includes companies that are not a member of a group;
+
+- Subparagraph 1(e) includes the principal company of a group that is not a close company, or is a close company but only because it has a qualifying investor as a direct or indirect participator;
+
+- Subparagraph 1(f) includes a company that is a member of a group but is not the principal company of that group and is a close company but only because it has a qualifying investor, or a company wholly (or almost wholly) owned by qualifying investors, as a direct participator.
+
+Whether a company is a member of a group, or is the principal company of a group, is determined in accordance with section 170 TCGA 1992.
+
+The term ‘qualifying investor’ is defined at paragraph 46(3) (see CG73996Y) and includes entities within section 528(4A) of CTA 2010 with some modifications to ensure that such entities are widely held where appropriate. The term is further modified for the purposes of paragraph 1 by regulation 3(e) so as to exclude qualifying companies and qualifying funds that are the subject of a paragraph 12 exemption election.
+
+Subparagraphs 1(d) to (f), together with the property income condition in subparagraphs 2 and 2A, therefore capture non-resident companies that are broadly equivalent to UK REITs. Subparagraph 1(f) broadly mirrors the requirement for a UK REIT to not be close other than because it is owned by one or more qualifying institutional investors within section 528(4A). Section 528(4A) would, for example, permit a company to qualify as a UK REIT if it is close because it is wholly or partly owned by a pension fund as defined in section 150(1) of Finance Act 2004, and similarly a non-resident company that is so owned and meets the property income condition will be within the definition of a CIV under subparagraph 1(f).
+
+The property income condition
+
+The property income condition is set out in TCGA92/SCH5AAA/para 1(2) and (2A).
+
+Subparagraph 1(2) applies for the purposes of subparagraph 1(d) and requires that –
+
+- The company is not close, or is only close because of control by ‘qualifying investors’;
+
+- At least half of its income derives directly or indirectly from long-term property investments (land, or estates, interests or rights in or over land);
+
+- Either as a result of a requirement of law, a commitment to its investors in its prospectus or similar documents made available to investors, or as a matter of established practice, it annually distributes all, or substantially all, of its profits from those investments (HMRC’s view is that ‘substantially all’ in this context means around 90%, which is consistent with the distribution requirement for UK REITs; annually can include more frequently, such as quarterly distributions; profits may be reference to any reasonable measure (cash or accruals, for example) provided that measure is applied consistently); and
+
+- It is not liable to tax on those profits under the law of any territory in which it is resident (that is, it does not pay tax on that income as the result of tax rules that provide for a single-level of taxation in the hands of the investors in the company, or otherwise because it is exempt or subject to a nil rate of tax).
+
+Subparagraph 1(2A) provides a substantially similar property income condition to that in subparagraph 1(2) for companies within subparagraph 1(e), with the following modifications –
+
+- The income test is by reference to the income of the group; and
+
+- The distribution test is by reference to the profits of the group.
+
+Regulation 3 of The UK Property Rich Collective Investment Vehicles (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2021 (S.I. 2021/213) introduced new paragraph 1(2B) with effect from 24 March 2021. It provides that references to ‘the group’ in subparagraph (2A) are to be read, for the purposes of subparagraph (1)(f), as references to –
+
+- the group that, if section 170(4) is ignored, would be the group of which the company is the principal company, or
+
+- if there is no group, the company.
+
+The not liable to tax test applies to the company within the definition of a CIV, and not to any other entity within the group, for both subparagraphs (1)(e) and (1)(f).
+
+Effect of the changes applying from 10 April 2020
+
+These changes mean that certain entities that were eligible to make an exemption election are not able to do so with effect from 10 April 2020. So, a company that falls within the original subparagraph 1(d) would no longer meet the definition of a CIV if it is not a standalone company, the principal company of a group, or within the new subparagraph 1(f).
+
+For a company that no longer comes within the definition of a CIV, and that has made a paragraph 12(2) exemption election, any disposal by an entity covered by the election up to the commencement date remains exempt, and investors are treated as continuing to hold their interests up until that date unless they make a disposal. From 10 April 2020, if the applicable exemption conditions are no longer met then, in accordance with paragraph 20, affected elections cease to have effect from that time in relation to disposals made thereafter.
+
+Investors are treated as making a deemed disposal on that date in accordance with paragraph 22. Any gains are then treated as accruing to investors in accordance with paragraph 23, that is at the end of the period of three years beginning with the time of the deemed disposal, unless an actual disposal has been made or an amount has been received that would be dealt with under paragraph 21.
+
+In practice, this scenario is unlikely to arise as fewer than 30 paragraph 12(2) elections had been received as at 2 March 2020.

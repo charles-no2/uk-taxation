@@ -1,0 +1,56 @@
+Cryptoassets for individuals: Stamp Duty, Stamp Duty Reserve Tax and Stamp Duty Land Tax
+Identifier: CRYPTO24000
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto24000
+Published: 2021-03-30T09:02:07+01:00
+Updated: 2021-03-26T10:13:32+00:00
+Retrieved (UTC): 2026-09-18T16:18:28.257396+00:00
+
+Stamp Duty and Stamp Duty Reserve Tax
+
+Stamp Duty is charged on instruments that transfer stocks or marketable securities, and interests in partnerships if the partnership assets include stocks or marketable securities.
+
+Stamp Duty Reserve Tax (SDRT) is a related tax and is charged on agreements to transfer chargeable securities.
+
+More information about Stamp Duty and SDRT is in the Stamp Taxes on Shares Manual (https://www.gov.uk/hmrc-internal-manuals/stamp-taxes-shares-manual).
+
+Transfer of exchange tokens
+
+For the transfers of exchange tokens to fall within the scope of Stamp Duty or SDRT, they would need to meet the definition of ‘stock or marketable securities’ or ‘chargeable securities’ respectively.
+
+This will be considered on a case-by-case basis, dependent on the characteristics and nature of the cryptoasset, rather than any labels attached to them.
+
+However, as of the original date of publication of this paper, HMRC’s view is that existing exchange tokens would not be likely to meet the definition of ‘stock or marketable securities’ or ‘chargeable securities’.
+
+Exchange tokens given as consideration
+
+Exchange tokens could be given as consideration for purchases of ‘stock or marketable securities’ and/or ‘chargeable securities’.
+
+For Stamp Duty, chargeable consideration is ‘money’, ‘stock or marketable securities’ or ‘debt’. For SDRT it is defined as ‘money or money’s worth’.
+
+If exchange tokens are given as consideration, this would count as ‘money’s worth’ and so be chargeable for SDRT purposes. Tax will be due based on the pound sterling value of the exchange tokens at the relevant date.
+
+HMRC does not consider exchange tokens to be currency or money, so they do not meet the definition of ‘money’ for Stamp Duty consideration purposes. They will also generally not count as ‘stock or marketable securities’.
+
+Broadly, ‘debt’ counts as chargeable consideration for Stamp Duty in the following scenarios:
+
+- release of a debt – The seller has an outstanding debt to the purchaser (which could be in the form of exchange tokens). The seller transfers shares to the purchaser, and in consideration the purchaser releases the seller from the debt.
+
+- debt is assumed – A third party has an outstanding debt to the purchaser (which could be in the form of exchange tokens). The seller transfers shares to the purchaser, and in consideration the seller is assigned the right to the debt from the third party.
+
+Stamp Duty Land Tax
+
+Stamp Duty Land Tax (SDLT) is paid on the acquisition of land and buildings over a certain price in England and Northern Ireland. More information on SDLT is available in the Stamp Duty Land Tax Manual (https://www.gov.uk/hmrc-internal-manuals/stamp-duty-land-tax-manual).
+
+- SDLT does not apply if the land or building(s) acquired is/are located in Scotland or Wales: You pay Land and Buildings Transaction Tax (https://www.gov.scot/policies/taxes/land-and-buildings-transaction-tax/) if you purchase land in Scotland on or after 1 April 2015
+
+- You pay Land Transaction Tax (https://gov.wales/land-transaction-tax) if you purchase land in Wales on or after 1 April 2018
+
+Transfer of exchange tokens
+
+HMRC does not consider transfers of exchange tokens to be land transactions. This means that SDLT will not be payable on such transfers.
+
+Exchange tokens given as consideration
+
+Chargeable consideration for the purposes of SDLT comprises anything given for the transaction that is ‘money or money’s worth’. As a general rule, any non-monetary consideration should be valued at its market value on the effective date of the transaction.
+
+Accordingly, if exchange tokens are given as consideration for a land transaction, these would fall within the definition of ‘money or money’s worth’ and so be chargeable to SDLT.

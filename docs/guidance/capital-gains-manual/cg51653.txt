@@ -1,0 +1,48 @@
+Share identification for corporation tax: relevant securities: transfer or delivery on particular date
+Identifier: CG51653
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51653
+Published: 2016-03-12T11:23:55+00:00
+Updated: 2016-01-26T08:52:39+00:00
+Retrieved (UTC): 2026-09-18T14:48:05.431169+00:00
+
+TCGA92/S108 (4) (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51653#IDAH5HKG)
+
+TCGA92/S108 (4) deals with securities disposed of for transfer or delivery on a particular date or in a particular period. It applies mainly, but not exclusively to Stock Exchange transactions. The subsection has its origins in a time when the Stock Exchange operated an Account System. The effect of Section 108(4) was to match acquisitions and disposals made in the same Stock Exchange Account even if the disposal preceded the acquisition.
+
+The Stock Exchange has since moved to a system of rolling settlement. Most bargains involving relevant securities which remain liable to Capital Gains Tax will now have to be settled seven calendar days after the transaction date. Therefore a security sold on Wednesday 5 October 2102 would have to be delivered on Thursday 13 October. However, it is open to the parties to agree a different settlement period. If the seventh calendar day falls on a non-business day, settlement will be due on the next following business day unless the parties have agreed a different settlement period.
+
+TCGA92/S108 (4)
+
+The introduction of rolling settlement has limited the scope of TCGA92/S108 (4) but there are still circumstances in which it may apply. The basic conditions for Section 108(4) to operate are
+
+- disposals made for delivery in a particular period are not identified against acquisitions made for delivery after that period.
+
+- Disposals are identified against acquisitions made for delivery on or before the day the shares sold must be delivered.
+
+- The acquisition must be made for transfer or delivery after the date of disposal.
+
+Assuming the normal settlement dates apply a disposal can never be matched against an acquisition made after the disposal.
+
+The taxpayer makes the following transactions in chargeable relevant securities
+
+- Day 1 buys 1,000 units loan stock for delivery day 7
+
+- Day 1 0 sells 1,000 units loan stock for delivery day 17
+
+- Day 13 buys 1,000 units loan stock for delivery day 20.
+
+The disposal on day 10 cannot be matched against the acquisition on day 13 because it fails the first test in CG51182. The delivery date for the disposal is before the delivery date for the acquisition. This contrasts with the operation of TCGA92/S108 (4) if delivery was dealt with on a Stock Exchange Account basis and days 10 and 13 fell within the same Account. Section 108(4) would have matched the acquisition on day 13 with the disposal on day 10.
+
+The situation may be different if the parties have agreed non-standard delivery dates. In the example above the parties may agree the day 10 disposal and the day 13 acquisition be settled on the same day, say day 17. TCGA92/S108 (4) would match the disposal on day 10 against the acquisition on day 13 not the acquisition on day 1.
+
+TCGA92/S108 (4) may also apply if there is an acquisition shortly before a disposal and the company still holds securities acquired within the previous 12 months.
+
+The company makes the following transactions in chargeable relevant securities
+
+- Day 1 buys 1,000 units loan stock for delivery day 7
+
+- Day 10 buys 1,000 units loan stock for settlement day 17
+
+- Day 16 sells, 1,000 units loan stock for delivery day 23.
+
+TCGA92/S108 (5) would normally match the disposal on day 16 against the acquisition on day 1. This is the first acquisition in the 12 months preceding the disposal. But TCGA92/S108 (4) applies to match the disposal against the acquisition on day 10. The first and second conditions for the rule to apply are satisfied because the disposal is made for delivery on day 23 and the acquisition for delivery on day 17. The third condition is critical because the acquisition on day 10 is made for delivery, day 17, after the date of disposal, day 16. The acquisition on day 1 does not satisfy this condition.

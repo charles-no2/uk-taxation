@@ -1,0 +1,84 @@
+Relevant termination awards received on or after 6 April 2018
+Identifier: EIM14000
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim14000
+Published: 2018-04-05T15:35:54+01:00
+Updated: 2021-12-15T15:56:31+00:00
+Retrieved (UTC): 2026-09-18T14:10:46.290075+00:00
+
+Sections 402A to 402E ITEPA 2003
+
+An employee’s weekly remuneration is made up of £2,500 salary (chargeable to Income Tax as earnings within section 62 ITEPA 2003), BUPA medical insurance (chargeable to Income Tax under the benefits code) and a company car (chargeable to Income Tax under the benefits code).
+
+The employee is entitled to a notice period of 6 weeks in accordance with the law. However, the employment contract provides for a notice period of 2 weeks on termination of the employment. It also includes a clause which provides for a contractual PILON of £5,000 if notice under the contract is not given. The employer terminates the employment on 13 July 2018 without giving any notice.
+
+The employee receives a termination package totalling £85,000 on 13 July 2018. This package is made up of:
+
+- a statutory redundancy payment of £25,000 (falling within section 401(1)(a) ITEPA 2003)
+
+- compensation for loss of employment of £45,000 (falling within section 401(1)(a) ITEPA 2003)
+
+- a bonus payable on termination of £10,000 (falling within section 62 ITEPA 2003)
+
+- a contractual PILON of £5,000 (falling within section 62 ITEPA 2003)
+
+The amount of the ‘relevant termination awards’ (see EIM13874 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13874)) is the total termination package falling within section 401(1)(a) ITEPA 2003 less the amount of the statutory redundancy payment (£70,000 − £25,000). The amount of the relevant termination awards is £45,000.
+
+The post-employment notice pay element is given by:
+
+((BP × D) ÷ P) − T
+
+See EIM13880 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13880) for further guidance on this formula.
+
+BP = £2,500
+
+BP is the employee’s basic pay in respect of the last full pay period (see EIM13882 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13882)). Basic pay in this scenario will be the employee’s weekly remuneration excluding the amounts taxable under the benefits code.
+
+D = 42 days
+
+D is the number of calendar days in the post-employment notice period (see EIM13890 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13890)). The employee is statutorily entitled to a notice period of 6 weeks but the contract provides for a period of notice of 2 weeks. The employee actually receives no notice. The post-employment notice period is the period of notice the employee didn’t receive but was entitled to. The statutory entitlement to 6 weeks is longer than the contractual entitlement so the post-employment notice period is 42 days.
+
+P = 7 days
+
+P is the number of calendar days in the employee’s last pay period ending before the trigger date (see EIM13886 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13886)). As no notice is given to trigger date is the date the employment is terminated. The employee is paid weekly so the last pay period is 7 days.
+
+T = £5,000
+
+T is the total amount of any payments, or benefits received in connection with the termination, but which are chargeable to Income Tax as earnings within the meaning at section 62 ITEPA 2003 (see EIM13896 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13896)). But, T specifically does not include holiday pay and bonuses payable on termination. The former employee received a contractual PILON of £5,000 and a bonus payable for termination of the employment of £10,000. T is £5,000; it does not include the bonus payable for termination of the employment.
+
+The amount of post-employment notice pay is:
+
+((2,500 × 42) ÷ 7) − 5,000 = £10,000
+
+The amount of termination awards subject to section 403 ITEPA 2003 is calculated by subtracting the amount of post-employment notice pay from the amount of the relevant termination awards:
+
+£45,000 − £10,000 = £35,000
+
+Total termination package |  £85,000 |
+
+Bonus payable for termination of the employment (taxable as earnings within section 62 ITEPA 2003) |  £10,000 |
+
+Contractual PILON (taxable as earnings within section 62 ITEPA 2003) (see EIM12976 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim12976)) |  £5,000 |
+
+Total termination award: Amount falling within section 401(1)(a) ITEPA 2003 (see EIM13000 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13000)) |  £70,000 |
+
+Statutory redundancy payment (see EIM13760 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13760)) |  £25,000 |
+
+Relevant termination awards (see EIM13874 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13874)) |  £45,000 |
+
+Post-employment notice pay chargeable to Income Tax as general earnings |  £10,000 |
+
+Relevant termination awards subject to section 403 ITEPA 2003 |  £35,000 |
+
+Total termination awards chargeable to Income Tax as specific employment income (statutory redundancy payment + relevant termination awards subject to section 403 ITEPA 2003) |  £60,000 |
+
+Less £30,000 threshold (see EIM13505 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13505)) |  £30,000 |
+
+Total amount chargeable to Income Tax as specific employment income |  £30,000 |
+
+Summary of amounts chargeable to Income Tax
+
+Amount chargeable to Income Tax as earnings within section 62 ITEPA 2003 (Bonus and contractual PILON): £15,000
+
+Post-employment notice pay chargeable to Income Tax as general earnings: £10,000.
+
+Total amount chargeable to Income Tax as specific employment income: £30,000.

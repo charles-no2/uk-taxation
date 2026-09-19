@@ -1,0 +1,36 @@
+Accrued Income Scheme: special cases: nominees and trustees
+Identifier: SAIM4320
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4320
+Published: 2016-03-19T16:26:31+00:00
+Updated: 2018-11-29T09:03:43+00:00
+Retrieved (UTC): 2026-09-18T14:26:30.582990+00:00
+
+Nominees and bare trusts
+
+ITA07/S666 provides that, where a person beneficially owns securities but their legal title is in the name of a nominee or bare trustee, transfers of securities by or to the nominee or bare trustee are to be treated as if they were made by or to the beneficial owner. Accordingly, returns of income made by a person acting as bare trustee should exclude accrued income charges and show actual income arising without deduction of any relief under the AIS.
+
+Questions as to whether a person is absolutely entitled to trust securities as against trustees should be dealt with in accordance with the instructions at CG34300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34300) onwards and CG37000C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37000c) onwards.
+
+Trusts other than bare trusts
+
+Securities settled on trust are, for the purposes of the AIS, transferred from the settlor to the trustee when the latter becomes entitled to the securities. If the settlor is himself a trustee, ITA07/S651 makes it clear that the time of transfer is when the trust is created (SAIM4270 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4270)). Transfers of securities into trust will almost invariably be ‘with accrued interest’; even if the securities concerned are in their ex-dividend period. The exception to this is when the securities were acquired by the settlor ex dividend payable next after the transfer to the trustees.
+
+Trustees are chargeable to tax under the AIS in the normal way. The tax is charged at the rate applicable to trusts and is due whether or not the trust is a discretionary or accumulation trust within ITA07/S479. It is available for set-off against any tax to be accounted for on payments by the trustees (see TSEM3360 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3360)).
+
+Accrued income charges which are assessable on the trustees as described above do not form part of the income of any beneficiary of the trust. This applies even in the case of a beneficiary (such as a life tenant) whose income is measured by reference to the amount of income arising to the trustees.
+
+On the other hand, accrued income losses reduce both the measure of trustees’ income and that of any beneficiary whose income is calculated by reference to that arising to the trustees. This means that the amount actually paid to a beneficiary may well be greater than the amount treated as his income for tax purposes. See SAIM4350 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4350) for the exemption from interest of foreign trustees.
+
+Trusts where the settlor may benefit
+
+ITA07/S667 applies the anti-avoidance provisions of ITTOIA05/PT5/CH5 for the purposes of the Accrued Income Scheme. The paragraph applies to settlements
+
+- in favour of unmarried minor children of a settlor,
+
+- where the settlor may benefit.
+
+The legislation has the effect of ensuring that charges under the Accrued Income Scheme are treated in the same ways as actual income to which the ITTOIA05 rules apply. The amount of interest on securities to be taken into account for ITTOIA05/PT5/CH5 purposes is that as reduced by any deductions available under the Accrued Income Scheme.
+
+In applying this special legislation assume that all the trustees of the settlement are resident and domiciled in the United Kingdom, whether or not this is in fact the case.
+
+See SAIM4350 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4350) for the exemption from interest from for foreign trustees in such cases.

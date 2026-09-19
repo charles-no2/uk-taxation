@@ -1,0 +1,116 @@
+Step 3 - interaction: the appropriate fraction where there are specific gifts or relievable property
+Identifier: IHTM26110
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26110
+Published: 2016-04-09T09:47:37+01:00
+Updated: 2022-02-01T13:25:36+00:00
+Retrieved (UTC): 2026-09-18T15:03:06.224615+00:00
+
+If there are specific gifts (IHTM26011) of relievable property, the appropriate fraction (IHTM26108 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26108)) has to be adjusted to exclude them and becomes:
+
+- The value of the free estate after business relief (BR)/agricultural relief(AR) less specific gifts of relievable property at reduced value, divided by:
+
+- The value of free estate before BR/AR less specific gifts of relievable property at unreduced value
+
+The following example shows how IHTA84/S39A (3) and (4) apply where there is also a specific gift of relievable property. A more complicated example including four-stage grossing up (IHTM26152 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26152)) can be found at IHTM26158 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26158).
+
+Example
+
+William’s free estate comprises of:
+
+Control holding of unlisted shares (BR at 100%) = £500,000
+
+Land and buildings occupied by the unlisted company (BR at 50%) = £300,000
+
+House and chattels = £200,000
+
+Other property = £500,000
+
+Total = £1,500,000
+
+By Will
+
+- Unlisted shares to son (who bears any tax)
+
+- House and chattels to widow
+
+- £10,000 to charity
+
+- Residue equally to widow and three children
+
+Settled property valued at £250,000 is also chargeable on the death.
+
+Stage 1
+
+The value transferred is £850,000
+
+(This is £1.5M less £650,000 BR, being 100% of £500,000 and 50% of £300,000. The settled property is excluded from the S39A calculations).
+
+Stage 2
+
+There is a specific gift of relievable property, that is the unlisted shares. Under IHTA84/S39A (2) this gift is taken at the value after BR, which is nil.
+
+Stage 3
+
+There is other relievable property not specifically given. There are other specific gifts, to the widow and charity, which have to be reduced by the IHTA84/S39A (4) fraction:
+
+(£850,000 - nil) ÷ (£1,500,000 - £500,000), that is
+
+£850,000(A) ÷ £1,000,000 (B) = 0.85
+
+(A) = the reduced value of the free estate less the reduced value of the gift of unlisted shares
+
+(B) = the unreduced value of the free estate less the unreduced value of the gift of unlisted shares.
+
+The settled property is excluded from the fraction.
+
+The reduced value of the gifts to the widow and charity are:
+
+Widow
+
+£200,000 × 0.85 = £170,000
+
+Charity
+
+£10,000 × 0.85 = £8,500
+
+Total
+
+(£170,000 + £8,500) = £178,500
+
+Stage 4
+
+No grossing up required
+
+Stage 5
+
+Calculate the residue using the reduced values:
+
+Value transferred = £850,000
+
+Gift of shares = Nil
+
+Less exempt gifts - £178,500
+
+Residue = £671,500
+
+The widow’s exempt share (a quarter) = £167,875
+
+Stage 6
+
+The chargeable transfer of the free estate is:
+
+value transferred = £850,000
+
+less exempt gifts - £178,500
+
+less exempt residue - £167,875
+
+Chargeable transfer = £503,625
+
+The total chargeable transfer on death is:
+
+Free estate = £503,625
+
+Settled property = £250,000
+
+Total chargeable = £753,625

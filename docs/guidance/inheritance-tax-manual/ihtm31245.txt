@@ -1,0 +1,24 @@
+Assessing: COMPASS: settlement cases: raising a calculation
+Identifier: IHTM31245
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31245
+Published: 2016-04-09T10:04:06+01:00
+Updated: 2016-02-11T17:18:55+00:00
+Retrieved (UTC): 2026-09-18T15:06:03.844838+00:00
+
+To raise a calculation, ensure that the Estate Details window is open and select ‘Raise’ from the Assessment menu. The Calculation of Rate Chargeable window will appear.
+
+If the settlor’s previous lifetime cumulative transfer (PLCT) needs to be taken into account, include it in the appropriate box.
+
+Select the rate of charge by selecting statutory reference section 66, 67, 68 or 69 from the drop down menu.
+
+Select the ‘raise’ button to continue. NIOP (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)) and IOP will be calculations raised in the same way as for death estates (IHTM31181 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31181)), except for the additional RAT button for reduction charges.
+
+Reduction charges
+
+Press the RAT button to display the Reduction Charges window. This displays any deductions against tax that COMPASS has calculated automatically, based on the information already on COMPASS. The deductions will be in respect of the complete quarters that the property subject to the charge was not relevant property.
+
+If the information is not correct, cancel the calculation and go back into the COMPASS record to amend the underlying information.
+
+Issue
+
+Issue (IHTM31210 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31210)), print and pay (IHTM31211 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31211)) the calculations as you would for a death estate.

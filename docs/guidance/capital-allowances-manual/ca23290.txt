@@ -1,0 +1,64 @@
+PMA: WDA & balancing adjustments: Disposal of plant subject to lease
+Identifier: CA23290
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23290
+Published: 2016-04-16T08:48:10+01:00
+Updated: 2016-04-06T16:53:35+01:00
+Retrieved (UTC): 2026-09-18T16:20:46.016471+00:00
+
+CAA01/S228K, S228L and S228M
+
+This legislation applies for corporation tax. It does not apply in income tax cases.
+
+A company with a business of leasing plant may dispose of leased assets but keep the rights to all or part of the income from them. When this happens the normal rules about disposal value CA23250 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23250) do not apply.
+
+The disposal value is the disposal proceeds plus the value of the rentals it keeps. The value of the rentals it keeps is called the net present value of the rentals.
+
+Normally there is a limit on disposal value CA23250 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23250). It is limited to the qualifying expenditure incurred on the provision of an asset by the person bringing the disposal value to account. This limit does not apply where:
+
+- a leased asset is sold,
+
+- some or all of the income is retained, and
+
+- the disposal proceeds exceed the qualifying expenditure.
+
+In a case like that the whole amount received is brought to account as a disposal value even if it is more than the qualifying expenditure incurred on the asset.
+
+If the disposal proceeds are less than the qualifying expenditure the limit applies even if the disposal value, that is the disposal proceeds plus the value of the rentals kept, is more than the qualifying expenditure. In a case like that only part of the value of the rentals kept will be included in the disposal value.
+
+Example
+
+Highway 61 Leasing Ltd has a business of leasing plant and machinery. It bought a helicopter for £50 million. It leases it to Grossman Plc for an annual rent of £500,000 on a 10-year lease. After two years it sells the helicopter for £48 million plus half the future rents. The value of the future rents it will receive is £3,500,000. The disposal value is £51,500,000 (£48 million + £3,500,000) but it is restricted to £50 million, the expenditure incurred, because the disposal proceeds of £48 million are less than the qualifying expenditure of £50 million.
+
+If the sale price of the helicopter had been £51 million the full £54,500,000 (disposal proceeds £51 million + value of future rents £3,500,000) would have been brought to account as disposal value because the disposal proceeds of £51 million are more than the qualifying expenditure of £50 million.
+
+If rentals are brought to account as disposal value, do not treat them as income. Make any apportionment that you need to make on a just basis.
+
+If plant is leased along with other assets like land apportion the net present value of the rentals on a just basis to find the value of the rentals under the lease relating to the plant.
+
+Net present value of rentals
+
+This is how you calculate the net present value of rentals. It will always be less than the actual rentals due.
+
+For each rental payment start with the rental payments payable after the disposal, that is the rental payments the seller will receive after the disposal.
+
+Then calculate the number of days in the period between the date of disposal and the payment date.
+
+Divide that rental payment by 1 plus the temporal discount rate to this power. The power is the number of days in the period divided by 365.
+
+The temporal discount rate is 3.5%. The Treasury may change this by regulations.
+
+The result is the net present value of the payment.
+
+You then add all of the net present values together to get the net present value of the rentals.
+
+Example
+
+Dylan Plc leases a space shuttle to Coconut Airways for an annual rent of £2 million payable on 1 January each year. He gets bored with leasing the shuttle and so he sells it to Garcia Ltd. on 1 July 2008 for £100 million plus 50% of the future rents. Dylan Plc’s disposal value is £100 million plus the net present value of the rentals.
+
+This is the net present value of the rental of £1 million that Dylan Plc receives on 1 January 2009.
+
+The number of days in the period from the disposal date to the payment date is 184. Divide the rental payment of £1 million by (1 + 3.5%) to the power 184/365. So the figure by which the rental of £1 million should be divided is 1.1676256.
+
+This means that the net present value of the rental of £1 million due on 1 January 2009 is £855,145.
+
+Dylan Plc (or its accountants) has to do this for each rental Dylan Plc is due to receive after the disposal. It then adds them together to get the net present value of the rentals. This is added to the disposal proceeds of £1 million to get the disposal value.

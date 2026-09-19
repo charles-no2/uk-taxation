@@ -1,0 +1,38 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Interaction between Non-Resident CGT and ATED-related CGT: Certain disposals after 5 April 2016 (computation involving additional rebasing in 2016)
+Identifier: CG73887
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73887
+Published: 2018-10-18T12:02:25+01:00
+Updated: 2019-10-11T10:31:00+01:00
+Retrieved (UTC): 2026-09-18T14:46:45.113993+00:00
+
+Sch 4ZZB/para 15 applies where the person in question held the disposed-of interest on 5 April 2016; the relevant high value disposal falls within Case 3 for the purposes of Sch 4ZZA/paragraph 2(4); and no election has been made under Sch 4ZZB/para 2. It provides for rebasing of the asset to its open market value at 5 April 2016 for the purposes of Sch 4ZZA.
+
+The NRCGT gain or loss accruing on the relevant high value disposal is computed as follows -
+
+- Step 1, determine the amount the amount equal to the special fraction of the notional post-April 2016 gain or loss.
+
+- Step 2, determine the amount equal to the special fraction of the notional pre-April 2016 gain or loss.
+
+- Step 3, add the amounts of gain or loss determined under Steps 1 and 2 (treating any amount which is a loss as a negative figure).
+
+If the result is a positive amount, that is the non-resident CGT gain on the relevant high value disposal. If it is negative amount, that is the non-resident CGT loss on the disposal.
+
+The “special fraction” is
+
+SD
+
+TD
+
+where SD is the number of section 14D chargeable days (see Sch 4ZZB/para 12(5)) in the relevant ownership period; and TD is the total number of days in the relevant ownership period.
+
+The “relevant ownership period” is
+
+- for the purpose of the computation under Step 1, the period from 6 April 2016 to the day before the day on which the relevant high value disposal occurs;
+
+- for the purpose of the computation under Step 2, the period from the day on which the person acquired the interest disposed of (or if later, 6 April 2015), to 5 April 2016.
+
+“Notional post-April 2016 gain or loss” means the gain or loss which would have accrued on the relevant high value disposal if the person had acquired the interest disposed of on 5 April 2016 for a consideration equal to its market value on that date.
+
+If the interest disposed of was not held by the person on 5 April 2015, “notional pre-April 2016 gain or loss” means the gain or loss that would have accrued on 5 April 2016 if the disposed of interest had been disposed of for a consideration equal to the market value of the interest on that date. If the interest disposed of was held by the person on 5 April 2015, “notional pre-April 2016 gain or loss” means the gain or loss that would have accrued to the person on the disposal, if the person had acquired the interest on 5 April 2015 for a consideration equal to the market value on that date, and had disposed of the interest on 5 April 2016 for a consideration equal to the market value on that date.
+
+The non-resident CGT gain or loss is therefore the proportion of the gain from 6 April 2015 to 5 April 2016 that represents the number of days during that period of ownership in which the asset was used as a dwelling and was not chargeable to ‘ATED-related’ CGT; plus that proportion of the gain from 6 April 2016 that represents the number of days during the period of ownership from then in which the asset was used as a dwelling and was not chargeable to ‘ATED-related’ CGT.

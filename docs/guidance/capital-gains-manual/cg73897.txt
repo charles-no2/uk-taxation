@@ -1,0 +1,256 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Interaction between Non-Resident CGT and ATED-related CGT: Gain or loss not ATED-related or NRCGT computations, examples
+Identifier: CG73897
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73897
+Published: 2018-10-18T12:14:47+01:00
+Updated: 2023-05-10T16:39:58+01:00
+Retrieved (UTC): 2026-09-18T14:46:46.247491+00:00
+
+1. Balancing gain or loss calculated under para 17
+
+2. Balancing gain or loss calculated under para 18
+
+3. Balancing gain or loss calculated under para 19
+
+1. Balancing gain or loss calculated under para 17
+
+For the ATED-related gain or loss in this scenario see example 1 in CG73643 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73643).
+
+For the Non-resident CGT gain or loss in this scenario see example 1 at CG73877 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73877).
+
+Basic information:
+
+Residential property acquired April 2006 for £3,000,000 and disposed of April 2016 for £6,000,000.
+
+The property had a value of £5,000,000 at 5 April 2013 and a value of £5,600,000 at 5 April 2015.
+
+Total number of days chargeable to ATED (say) 700
+
+Pre April 2015 ATED chargeable days 365
+
+Post April 2015 ATED chargeable days 335
+
+Post April 2015 S14D (NRCGT) chargeable days 30
+
+Total days 6 April 2013 to 5 April 2015 730
+
+Total days 6 April 2015 to disposal 365
+
+Estimated Indexation factors:
+
+April 2006 to April 2013 0.3
+
+April 2015 to April 2016 0.035
+
+April 2013 to April 2015 0.078
+
+Balancing gain or loss belonging to the notional post-April 2015 gain or loss
+
+Determine the amount of the post-April 2015 gain or loss
+
+Disposal proceeds £6,000,000
+
+Market value at 5 April 2015 £5,600,000
+
+Indexation allowance £196,000
+
+Notional post April 2015 gain £204,000
+
+Balancing fraction
+
+BD = balancing days in appropriate ownership period 0
+
+TD = total days in appropriate ownership period 365
+
+BD/TD x notional post-April 2015 gain = 0
+
+Balancing gain or loss belonging to the notional pre-April 2015 gain or loss
+
+Determine the amount of the pre-April 2015 gain or loss
+
+Market value at 5 April 2015 £5,600,000
+
+Market value at 5 April 2013 £5,000,000
+
+Indexation allowance £390,000
+
+Notional pre April 2015 gain £210,000
+
+Non-ATED related fraction
+
+NAD = Non-ATED chargeable days 365
+
+TD = Total days in appropriate ownership period 730
+
+NAD/TD x notional pre April 2015 gain = £105,000
+
+Notional pre-April 2013 gain
+
+Market value at 6 April 2013 £5,000,000
+
+Acquisition cost £3,000,000
+
+Indexation allowance £900,000
+
+Notional pre April 2013 gain £1,100,000
+
+Add together:
+
+Balancing gain belonging to the notional post-April 2015 gain £0
+
+Balancing gain belonging to the notional pre-April 2015 gain £105,000
+
+Notional pre-April 2013 gain £1,100,000
+
+Balancing gain (neither ATED-related not an NRCGT gain) £1,205,000
+
+Summary |    |    |
+
+ATED-related gain |  667,123 |  The unindexed gain across the 700 ATED chargeable days |
+
+NRCGT gain |  16,767 |  The indexed gain across the 30 NRCGT chargeable days |
+
+Balancing gain |  1,205,000 |  The indexed gain across the 2,920 balancing days in the ownership period |
+
+Total gains |  1,888,890 |    |
+
+2. Balancing gain or loss calculated under para 18
+
+For the ATED-related gain or loss in this scenario see example 2 in CG73634 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73634).
+
+For the Non-resident CGT gain or loss in this scenario see example 1 at CG73884 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73884).
+
+Basic information:
+
+Residential property acquired October 2015 for £1,500,000 and disposed of April 2018 for £2,500,000.
+
+Estimated Indexation factor October 2015 to April 2018 0.20
+
+Total number of days chargeable to ATED 730
+
+Total S14D (NRCGT) chargeable days 913
+
+Total days October 2015 to April 2018 913
+
+Determine the amount of gain or loss
+
+Disposal proceeds £2,500,000
+
+Acquisition cost £1,500,000
+
+Indexation allowance £300,000
+
+Gain £700,000
+
+As 730 days are chargeable to ATED, and 913 days are S14D days (NRCGT days), there are no balancing days, and so no balancing gain.
+
+The calculation would be:
+
+BD = 0
+
+TD = 913
+
+BD/TD x £700,000 = 0
+
+If there were days in the relevant ownership period which were not chargeable to ATED or NRCGT (because, for example, the building was not a dwelling), these would be balancing days and so there would be a balancing gain.
+
+Summary |    |    |
+
+ATED-related gain |  799,562 |  The unindexed gain across the 730 ATED chargeable days |
+
+NRCGT gain |  140,307 |  The indexed gain across the 913 NRCGT chargeable days |
+
+Balancing gain |  0 |  No balancing gain as there are no balancing days in the ownership period |
+
+Total gains |  939,869 |    |
+
+3. Balancing gain or loss calculated under para 19
+
+For the ATED-related gain or loss in this scenario see example 3 in CG73628 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73628).
+
+For the Non-resident CGT gain or loss in this scenario see the example at CG73891 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73891).
+
+Basic information:
+
+Residential property acquired April 2010 for £300,000 and disposed of 7 April 2018 for £700,000.
+
+The property had a value of £500,000 at 5 April 2015 and £550,000 at 5 April 2016.
+
+Estimated Indexation factors are:
+
+April 2015 to April 2016 0.013
+
+April 2016 to April 2018 0.019
+
+April 2010 to April 2015 0.158
+
+Total number of days chargeable to ATED 200
+
+Total days 6 April 2016 to day preceding disposal 730
+
+Pre April 2016 S14D (NRCGT) chargeable days 365
+
+Post April 2016 S14D (NRCGT) chargeable days 530
+
+Balancing gain or loss belonging to the notional post-April 2016 gain or loss
+
+Disposal proceeds £700,000
+
+Market value at 5 April 2016 £550,000
+
+Indexation allowance £10,450
+
+Notional post-April 2016 gain £139,550
+
+Balancing fraction
+
+BD = balancing days in appropriate ownership period 0
+
+TD = total days in appropriate ownership period 730
+
+BD/TD x notional post-April 2016 gain = 0
+
+Balancing gain or loss belonging to the notional pre-April 2016 gain or loss
+
+Market value at 5 April 2016 £550,000
+
+Market value at 5 April 2015 £500,000
+
+Indexation allowance £6,500
+
+Notional pre-April 2016 gain £43,500
+
+BD = balancing days in appropriate ownership period 0
+
+TD = total days in appropriate ownership period 365
+
+BD/TD x Notional pre-April 2016 gain = 0
+
+Notional pre-April 2015 gain or loss
+
+Market value at 5 April 2015 £500,000
+
+Acquisition cost £300,000
+
+Indexation allowance £47,400
+
+Notional pre-April 2015 gain £152,600
+
+Add together:
+
+Balancing gain belonging to the notional post-April 2016 gain £0
+
+Balancing gain belonging to the notional pre-April 2016 gain £0
+
+Notional pre-April 2015 gain £152,600
+
+Balancing gain (neither ATED-related not an NRCGT gain) £152,600
+
+Summary |    |    |
+
+ATED-related gain |  £41,095 |  The unindexed gain across the 200 ATED chargeable days |
+
+NRCGT gain |  £144,817 |  The indexed gain across the 895 NRCGT chargeable days |
+
+Balancing gain |  £152,600 |  The indexed gain across the 1,825 balancing days in the ownership period |
+
+Total gains |  £338,512 |    |

@@ -1,0 +1,236 @@
+Leases: merger
+Identifier: CG71400
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71400
+Published: 2016-03-12T12:16:29+00:00
+Updated: 2025-11-27T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:35:27.560677+00:00
+
+Leases merger
+
+TCGA92/S43
+
+Where a leaseholder of land acquires a superior interest (either the freehold reversion or the immediately superior leasehold interest) in the same land, the earlier lease will be extinguished. The two separate assets, that is the original lease and the superior interest, are regarded as merged within TCGA92/S43 and the owner now has a single asset.
+
+Allowable expenditure
+
+On any disposal of this single asset, the allowable expenditure will be the sum of the consideration given for:
+
+-
+
+the acquisition of the earlier lease, but see below, and
+
+-
+
+the acquisition of the superior interest (the freehold reversion or the superior leasehold interest).
+
+If the earlier lease had less than 50 years to run at the date on which the superior interest was acquired the expenditure on the acquisition of that lease must be ‘wasted’, see CG71141 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71141), down to the date of acquisition of the superior interest.
+
+If the superior interest is itself a lease with less than 50 years to run at the date of its disposal, the allowable expenditure calculated in accordance with the above rule will also need to be ‘wasted’.
+
+Valuations
+
+Valuations at 6 April 1965 (for the purposes of TCGA92/Sch 2) or 31 March 1982 (for indexation or rebasing purposes) may be required in cases involving the merger of leases.
+
+Where this is the case, there is a deemed disposal and reacquisition of the asset at the valuation date. The asset to be valued is the asset which existed on that date. So, if the superior interest was acquired after the valuation date, the asset to be valued is the earlier lease. In these circumstances the allowable expenditure will be:
+
+-
+
+the market value of the leasehold interest on the valuation date, ‘wasted’ to the date of acquisition of the superior interest (if appropriate), plus
+
+-
+
+the cost of the superior interest.
+
+Interaction with time-apportionment
+
+TCGA92/Sch 2/Para 16 (9)
+
+If the original lease was acquired before 6 April 1965 and the time-apportionment rules apply, see CG15500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15500), in applying the time-apportionment formula to the gain the whole of the expenditure attributable to the freehold is deemed to have been incurred on the date of the earlier acquisition of the leasehold.
+
+ESC/D42
+
+Under ESC/D42 (published on 29 June 1992) for disposals on or after 29 June 1992, indexation allowance on the cost of acquiring the original lease is calculated by reference to the date of its acquisition.
+
+Indexation allowance on the cost of acquiring the superior interest is calculated by reference to the date of its acquisition.
+
+Any indexation allowance relating to improvements is calculated by reference to the date on which the expenditure was incurred, TCGA92/S54 (4)(b).
+
+Example 1
+
+J Ltd acquired a long lease in January 1985 for £30,000. In January 1988 they acquired the freehold reversion for £20,000 and the long lease was extinguished. In January 2017 they sold the freehold for £500,000.
+
+The gain arising is calculated as follows:
+
+Unindexed gain
+
+Disposal proceeds
+
+|
+
+£500,000
+
+|
+
+Less Cost of lease
+
+|
+
+£30,000
+
+|
+
+Less Cost of freehold
+
+|
+
+£20,000
+
+|
+
+|
+
+£450,000
+
+|
+
+Indexation on lease
+
+Cost of lease x Indexation factor
+
+= £30,000 x 1.911
+
+= £57,330
+
+Indexation on freehold
+
+Cost of freehold x Indexation factor
+
+= £20,000 x 1.570
+
+= £31,400
+
+Indexed gain
+
+Unindexed gain
+
+|
+
+£450,000
+
+|
+
+Less Indexation on lease
+
+|
+
+£57,330
+
+|
+
+Less Indexation on freehold
+
+|
+
+£31,400
+
+|
+
+|
+
+£361,270
+
+|
+
+Example 2
+
+Mr M acquired a lease with fifty years to run on 31 March 1975 for £10,000. The market value on 31 March 1982 was £50,000. On 31 March 1987 he acquired the freehold for £60,000. On 1 January 2017 he sold the freehold for £800,000.
+
+The gain arising is calculated as follows:
+
+Amount to be deducted from cost of lease
+
+Value of lease at 31 March 1982: £50,000
+
+At the date that the freehold was acquired, the lease had 38 years to run, so the cost of the lease must be ‘wasted’, see CG71141 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71141). The ‘period of ownership’ begins on 31 March 1982.
+
+[(P(1) - P(3) / P(1)] x expenditure otherwise allowable under S38(1)(a)
+
+P (1) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the beginning of the period of ownership;
+
+P (3) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the date of disposal.
+
+= [(96.593 - 94.189) / 96.593] x £50,000
+
+= £1,244
+
+Allowable cost of lease
+
+Value of lease
+
+|
+
+£50,000
+
+|
+
+Less Amount to be deducted from cost of lease
+
+|
+
+£1,244
+
+|
+
+|
+
+£48,756
+
+|
+
+Allowable expenditure
+
+Allowable cost of lease
+
+|
+
+£48,756
+
+|
+
+Plus Cost of freehold
+
+|
+
+£60,000
+
+|
+
+|
+
+£108,756
+
+|
+
+Chargeable gain
+
+Disposal proceeds
+
+|
+
+£800,000
+
+|
+
+Less Allowable expenditure
+
+|
+
+108,756
+
+|
+
+|
+
+£691,244
+
+|

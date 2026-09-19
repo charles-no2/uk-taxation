@@ -1,0 +1,32 @@
+Deeply discounted securities: corporate strips: taxation
+Identifier: SAIM3160
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3160
+Published: 2016-03-19T16:25:34+00:00
+Updated: 2015-12-03T11:02:50+00:00
+Retrieved (UTC): 2026-09-18T14:26:19.163037+00:00
+
+Meaning of corporate strip
+
+The meaning of ‘corporate strip’ is given in ITTOIA05/S452C and S452E. It is an interest bearing corporate security which is converted into corporate strips under any scheme or arrangement by which the holder comes to have two or more assets in place of the converted security. These assets are the rights to stripped payments which taken together secure the repayment of the interest and principal remaining to be made under the converted corporate security.
+
+ITTOIA05/S452D applies the rules to a corporate strip which is itself stripped.
+
+ITTOIA05/S452E (2) ensures that the rules do not apply where an interest bearing security is re-denominated into smaller principal amounts.
+
+Acquisitions and disposals
+
+ITTOIA05/S452F gives rules for how the cost and proceeds of the disposal of corporate strips are to be calculated.
+
+The person converting an interest bearing security is treated as having acquired each corporate strip for an issue price that is in direct proportion to the market value of the security from which the strips were created. Where the converted security is itself a DDS, the conversion is treated as a disposal of the DDS for an amount equal to its acquisition cost. Thus, any discount that had accrued up to the date of conversion is carried through to the cost of the corporate strips and taxed when the corporate strips are disposed of or redeemed.
+
+Where a person consolidates corporate strips into a single security, each corporate strip is treated as redeemed at the time of its consolidation by a payment to that person of an amount equal to its market value.
+
+No account is taken of costs incurred in connection with the acquisition of the converted corporate security.
+
+These rules apply in place of the normal rules that apply to DDS on the time at which securities are transferred or acquired (ITTOIA05/S438) and the normal market value rules (ITTOIA05/S440 to S441). Market value is the market value at the time of the exchange or conversion.
+
+Anti-avoidance rules
+
+ITTOIA05/S452G replicates for corporate strips the anti-avoidance rules ITTOIA05/S449 that apply for gilt strips. These apply where a person has entered into any ‘scheme or arrangement’ to manipulate any acquisition or disposal value of a corporate strip, and the obtaining of a tax advantage is the main benefit. It imposes market value where the acquisition cost is more than market value or the redemption proceeds are less than market value (SAIM3090 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3090)).
+
+As is the case with gilt strips, there is a parallel provision at TCGA92/S151D which prevents the creation of an allowable capital loss under a ‘scheme or arrangement’ where the main benefit or one of the main benefits results in any person obtaining a tax advantage or an allowable loss.

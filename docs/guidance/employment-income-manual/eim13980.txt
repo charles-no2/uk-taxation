@@ -1,0 +1,28 @@
+Termination payments and benefits: example: exceptions: foreign service reduction: interaction with £30,000 threshold
+Identifier: EIM13980
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13980
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2020-01-16T14:22:08+00:00
+Retrieved (UTC): 2026-09-18T14:10:45.549188+00:00
+
+Section 414(2) ITEPA 2003
+
+An employee receives a termination payment within section 401 ITEPA 2003 of £100,000 which fails to qualify for full foreign service exception under EIM13690 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13690).
+
+The employee is non-UK resident in the tax year the employment is terminated (2018 to 2019) and there is some foreign service during the employment, so the reduction for foreign service in EIM13700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700) is considered.
+
+To calculate the foreign service reduction, the first step is find the amount of ‘post-employment notice pay’ and the ‘amount charged to tax’ as follows.
+
+Termination payments and benefits within section 401 ITEPA 2003 |  £100,000 |
+
+Post-employment notice pay (see EIM13874 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13874)) |  £10,000 |
+
+Termination awards subject to section 403 ITEPA 2003 (see EIM13874 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13874)) |  £90,000 |
+
+Less the £30,000 threshold (see EIM13505 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13505)) |  £30,000 |
+
+The ‘amount charged to tax’ * |  £60,000 |
+
+* More accurately, the amount that would otherwise count as employment income. See EIM13700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700).
+
+The £10,000 and £60,000 amounts may be eligible for reduction, as described at EIM13700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700) and shown in the examples at EIM13985 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13985).

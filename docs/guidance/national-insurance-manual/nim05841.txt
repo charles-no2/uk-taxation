@@ -1,0 +1,56 @@
+Class 1 NICs: Expenses and Allowances: Motoring Expenses (including mileage allowances) paid on or after 6 April 2002: Calculating Class 1 NICs - example - mileage allowance not paid for all business miles travelled
+Identifier: NIM05841
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim05841
+Published: 2016-04-11T17:14:02+01:00
+Updated: 2026-06-03T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:19:08.139576+00:00
+
+This example illustrates the rules for calculating the amount to be treated as earnings under Regulation 22A of the Social Security (Contributions) Regulations 2001 where the employee receives a mileage allowance rate for miles travelled but the employer does not pay for miles which cover normal home to office mileage. See NIM05837 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim05837) for more information.
+
+The example illustrates the effect of using non-reimbursed miles when calculating the qualifying amount (QA).
+
+Facts
+
+The employee uses his own car for business travel claiming expenses after the end of each calendar month.
+
+Since last month, when he was last paid his motoring expenses, he has travelled a total of 600 miles of which the employer does not pay for 100 miles.
+
+The employer pays the employee expenses of £290 on receipt of his expenses claim form based on 500 miles at £0.58 per mile.
+
+Step 1
+
+Calculate the Relevant Motoring Expenditure (RME) paid, which is
+
+500 miles x £0.58 = £290
+
+Step 2
+
+Calculate the qualifying amount (QA) (including any non reimbursed miles in the calculation)
+
+600 miles x £0.55 = £330
+
+Although the employee only received payment for 500 miles, the full 600 miles should be used to calculate the QA. In this example this is an additional 100 miles, which have all been travelled since the last payment of RME.
+
+For more information about identifying the number of business miles travelled for calculating the QA see NIM05831 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim05831).
+
+Step 3
+
+Subtract the QA (Step 2) from the RME (Step 1)
+
+£290 - £330 = -£40
+
+If the RME is equal to or less than the QA, the payments made are disregarded from earnings so there is no Class 1 NICs liability on the RME payments.
+
+If the RME is greater than the QA, the QA is disregarded from earnings but the excess RME must be added to any other earnings paid in the same earnings period.
+
+In this example RME is less than the QA. There is no excess RME above the QA.
+
+Step 4
+
+As there is no excess RME above the QA, the employer does not need to add any of the RME paid to the employee’s other earnings paid in the same earnings period as the RME. No Class 1 NICs liability arises on the RME payment.
+
+The £40 by which QA exceeds RME is lost. It can neither be set against other earnings in the earnings period, nor carried forward to the next earnings period.
+
+Income tax position
+
+For income tax purposes, the employer can reconcile mileage allowance payments made against the approved mileage allowance payments at the end of the tax year. They do not have to do the calculation in every earnings period unlike the RME – QA calculation for NICs. Any excess above the approved amounts must be returned on form P11D. See EIM30058 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim30058).

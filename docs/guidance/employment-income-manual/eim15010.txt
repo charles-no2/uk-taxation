@@ -1,0 +1,124 @@
+Non-approved and employer-financed retirement benefits schemes: introduction
+Identifier: EIM15010
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15010
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-05-04T09:40:05+01:00
+Retrieved (UTC): 2026-09-18T14:10:47.379996+00:00
+
+Sections 386 to 400 ITEPA 2003 - retirement benefit schemes (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15010#IDAZR1YH)
+Types of schemes (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15010#IDAEU1YH)
+Third-party arrangements (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15010#IDAGY1YH)
+How the EFRBS rules work with other provisions (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15010#provisions)
+Tax charges on EFRBS, FURBS and UURBS (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15010#IDAP21YH)
+
+Sections 386 to 400 ITEPA 200 - retirement benefit schemes
+
+The main characteristic of a retirement benefits scheme is that it provides for benefits on an employee’s retirement or death. Aside from this key aspect, such a scheme may in some cases provide other kinds of benefits, provide benefits at certain other times, and go under different names.
+
+Over time, there have been quite a few changes to the tax rules applying to retirement benefit schemes, spawning many variants, as well as some exceptions. Issues may arise under more than one category, and the timing of payments and events will determine which set of tax rules apply. The rest of this page introduces those categories and rules. Some quick links are:
+
+- for payments from a scheme which are taxable as pension income, including ‘relevant lump sums’ taxable as foreign pension income, see EIM75000 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75000) and particularly EIM75550 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75550)
+
+- for all provision through ‘third-party’ employer-financed retirement benefit schemes (including cases where the employer is acting as a trustee), typically but not exclusively funded arrangements, see EIM45600 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45600) in the context of EIM45000 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45000)
+
+- for other employer-financed retirement benefits schemes (as defined in EIM15020 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15020)), in particular directly-provided-unfunded arrangements, see EIM15015 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15015) to EIM15329 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15329), but at all times be mindful of the precedence of the third-party rules in the bullet above
+
+- for legacy non-approved schemes, see EIM15400 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15400), but be mindful of the historical nature of those parts of the Employment Income Manual.
+
+Types of schemes
+
+At the simplest level, there are 2 main types of schemes: registered and non-registered.
+
+Registered pension schemes receive significant tax advantages: for example, Part 4 Finance Act 2004 (together with supporting schedules and related regulations) provides that their investment income is not taxed, contributions to such schemes qualify for tax relief up to a point, and lump sum benefits (not pensions) are also exempt from tax up to certain limits. There is detailed guidance available in the Pensions Tax Manual (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual); the Employment Income Manual does not deal directly with registered pension schemes.
+
+The predecessors of registered pension schemes were known as ‘approved retirement benefit schemes’ or ‘exempt approved schemes’. From 6 April 2006, the system of HMRC granting such approval was replaced by registration with HMRC. Most approved schemes automatically became registered pension schemes on that day.
+
+Most of the tax advantages available to registered pension schemes do not apply if a scheme is not registered. Since 6 April 2006 such non-registered schemes have been known as employer-financed retirement benefits schemes (EFRBS - see EIM15020 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15020) and EIM15050 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15050)). An EFRBS has to provide for what are known as relevant benefits (see EIM15021 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15021)), though it can provide other benefits as well.
+
+Before 6 April 2006, such schemes were known as ‘non-approved’ (or unapproved) retirement benefits schemes (see EIM15402 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15402)). These were either funded (FURBS) or unfunded (UURBS). The most obvious change in the tax rules for such schemes at 6 April 2006 was a change in the timing of when benefits were subject to tax. Whereas tax charges on FURBS typically arose at the time of funding a benefit, EFRBS charges typically apply only at the point of receipt of a benefit (as was also the case for UURBS).
+
+The more detailed differences in tax treatment between EFRBS and their predecessors (FURBS/UURBS) are covered in this chapter of EIM (EIM15000 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15000) onwards). This chapter is sub-divided into 2 sections:
+
+- the first section (EIM15015 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15015) to EIM15329 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15329)) deals with the position of EFRBS from 6 April 2006 onwards - if the benefit under consideration was or will be received after 5 April 2006, follow this section of the guidance to determine its taxation
+
+- if the EFRBS was previously a FURBS or UURBS, then there may be transitional rules to follow as well (see EIM15121 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15121))
+
+- the second section (EIM15400 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15400) onwards) deals with the position of non-approved retirement benefits schemes before 6 April 2006 - follow this section of the guidance for benefits received before 6th April 2006.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15010#Top)
+
+Third-party arrangements
+
+Part 7A ITEPA 2003
+
+Part 7A was introduced by Finance Act 2011. This contains the tax legislation on ‘employment income provided through third parties’. It tackles arrangements which:
+
+- involve third parties (including trusts or other vehicles used to reward employees)
+
+- seek to avoid or defer the payment of Income Tax.
+
+Broadly speaking, if third-party arrangements are used to provide what is in substance a reward or recognition, or a loan - in connection with the employee’s current, former, or future employment - then an Income Tax charge arises.
+
+EFRBS can be third-party arrangements, so a great many EFRBS (particularly funded EFRBS) now come under Part 7A. These rules have both general provisions applicable to steps taken under third-party arrangements including EFRBS (see EIM45000 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45000)), as well as specific exceptions and transitional provisions (see EIM45600 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45600)). For example, the legislation makes particular provision for steps taken by registered pension schemes - these are excluded from giving rise to Income Tax charges under Part 7A as they have their own tax rules in Finance Act 2004.
+
+How EFRBS rules work with other provisions
+
+The EFRBS rules are in Chapter 2 Part 6 ITEPA 2003. If an EFRBS comes within the rules on third-party arrangements in Part 7A, it does not cease to be an EFRBS. However, the Part 7A charges are applied first, and EFRBS charges (see EIM15015 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15015)) do not apply to values first counting as Part 7A income. Only sums and assets not taxed under the Part 7A rules can be taxed under the EFRBS rules. This order of precedence prevents double charging.
+
+In practice, relevant benefits provided under third-party EFRBS out of rights accrued since 6 April 2011 will not be charged under the EFRBS rules, but rather through Part 7A ITEPA 2003.
+
+On the other hand, relevant benefits provided under an unfunded EFRBS, where the employer pays the benefit directly from company funds to a retiring or retired employee without any other complications, will normally not pass through any third-parties. Such benefits will continue to come under the EFRBS rules.
+
+It is important to note that charges under Part 7A can arise whenever ‘relevant steps’ are taken. These steps may occur at the same or at other times than when charges would otherwise apply on benefits under an EFRBS. EIM45055 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45055) explains about relevant steps.
+
+There are also exclusions from charge under Part 7A where the guidance at EIM45600 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45600) applies. In such a case EFRBS charges may apply even though a third party is involved. For example, there may be transitional issues relating to the provision of benefits under a third-party EFRBS, rights to which accrued before 6 April 2011, which mean that a lump sum relevant benefit is subject to tax under the EFRBS rules rather than under Part 7A.
+
+There are also specific pensions-related exclusions from the charges arising under Part 7A (see EIM45610 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45610)). For example, where the point concerns payments out of an EFRBS, first consider if the payment is a ‘relevant lump sum’ taxable as pension income under Part 9 ITEPA 2003 – see EIM75550 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75550).
+
+(This content has been withheld because of exemptions in the Freedom of Information Act 2000)
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15010#Top)
+
+Tax charges on EFRBS, FURBS and UURBS
+
+The general structure of the legislation for non-approved schemes and EFRBS is to tax as follows.
+
+Contributions received
+
+For non-approved schemes (FURBS and UURBS), an employer’s contributions to the scheme made before 6 April 2006 counted as employment income (see EIM00512 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim00512)) of the employee under section 386 ITEPA 2003 (see EIM15412 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15412)).
+
+There was no equivalent charge in connection with contributions to an EFRBS made after 5 April 2006, until the Part 7A rules started to operate from 6 April 2011.
+
+After 5 April 2011, there can be an Income Tax charge by virtue of Chapter 2 Part 7A when:
+
+- a sum of money or asset is held by or on behalf of a third-party EFRBS (for example as a result of the EFRBS receiving a contribution)
+
+- the EFRBS earmarks it - no matter how informally (see EIM45095 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45095))
+
+- the EFRBS does this with a view to a later relevant step (EIM45705 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45705)).
+
+Benefits provided
+
+Up to 6 April 2006, all lump sum payments (including commutations: see EIM15427 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15427)) out of non-approved schemes counted as employment income (see EIM00512 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim00512)) of the recipient under section 394 ITEPA 2003 (see EIM15420 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15420)).
+
+After 5 April 2006, only ‘relevant benefits’ (see EIM15021 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15021)) paid out of EFRBS count as employment income under section 394.
+
+After 5 April 2011, if the relevant benefit is paid out of a third-party EFRBS (see EIM45065 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45065)), then the charge on employment income arises through Part 7A (see EIM45705 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45705)) - unless it is excluded from charge (see EIM45601 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45601)).
+
+After 5 April 2017, where a lump sum payment is made under an overseas scheme to, or in respect of, a member resident in the UK, consider first whether the payment is a ‘relevant lump sum’ under section 574A ITEPA 2003 – see EIM75550 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75550). This should also be considered where the member has died but they were UK resident immediately before their death, including where the beneficiary is not themselves resident in the UK. If the payment is a relevant lump sum it is taxable as pension income under Part 9 ITEPA, rather than under the EFRBS provisions.
+
+For both non-approved schemes and EFRBS (whether under a third-party arrangement or not), the charge on lump sums paid out may be reduced where:
+
+- prior employer contributions have been taxed - see EIM15423 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15423) for non-approved schemes, EIM15125 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15125) for EFRBS subject to section 394, and EIM45620 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45620) for EFRBS subject to Part 7A
+
+- the employee has made contributions - see EIM15424 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15424) for non-approved schemes, EIM15126 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15126) for EFRBS subject to section 394 and EIM45615 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45615) for EFRBS subject to Part 7A.
+
+A pension from any of these schemes is charged separately as pension income under Part 9 ITEPA 2003 (see EIM75010 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75010), EIM15021 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15021), EIM15015 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15015) and EIM45610 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45610)). Pension income charged to tax under Part 9 ITEPA 2003 is not charged under section 394 nor through Part 7A.
+
+For guidance on how annuities, annual payments and non-cash receipts are dealt with, see:
+
+- EIM15100 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15100) for all payments under an EFRBS after 5 April 2006
+
+- EIM15420 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15420) for how payments under non-approved schemes were dealt with in the past.
+
+(This content has been withheld because of exemptions in the Freedom of Information Act 2000)

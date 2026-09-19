@@ -1,0 +1,36 @@
+Class 1 structural overview: abolition of secondary NICs for those employees under the age of 21: assessment
+Identifier: NIM01299
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01299
+Published: 2017-03-10T10:59:55+00:00
+Updated: 2021-11-03T11:20:09+00:00
+Retrieved (UTC): 2026-09-18T15:18:13.938676+00:00
+
+The examples below use the rates that apply for the 2025 to 2026 tax year.
+
+Example 1
+
+A monthly paid employee is under the age of 21 at the time earnings of £1,600 are paid. The earnings fall below the Upper Secondary Threshold (UST).
+
+Threshold | NICs calculation | NICs due |
+
+Primary | £1,600 − £1048 = £552 × 8% | £44.16 |
+
+Secondary | £1,600 − £417 = £1,183 × 0% | £0 |
+
+Total NICs due |   | £44.16 |
+
+Example 2
+
+A monthly paid employee is under the age of 21 at the time earnings of £5,000 are paid. The earnings are above the monthly UST.
+
+Threshold | NICs calculation | NICs due |
+
+Primary | £4,189 - £1048 = £3,141 x 8% | £251.28 |
+
+Primary | £5,000 - £4,189 − £811 × 2% | £16.22 |
+
+Secondary | £4,189 - £417 = £3,772 x 0% | £0 |
+
+Secondary | £5,000 − £4,189 = £811 × 15% | £121.65 |
+
+Total NICs due |   | £389.15 |

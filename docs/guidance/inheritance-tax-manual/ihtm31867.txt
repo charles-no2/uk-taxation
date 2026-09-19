@@ -1,0 +1,32 @@
+Assessing: SAGE: pre-grant payments and calculations
+Identifier: IHTM31867
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31867
+Published: 2016-04-09T10:07:14+01:00
+Updated: 2023-09-07T10:27:45+01:00
+Retrieved (UTC): 2026-09-18T15:06:37.074703+00:00
+
+HMRC Accounts (IHTM10021)
+
+When the account and payment is received, and the estate details datacaptured, Accounts, Nottingham match the payment to the charges in all cases.
+
+- Where the payment and charges are equal, all of the payment is matched to the charges
+
+- Where the payment is more than the amount of the charges, Accounts match part of the payment to all of the charges and leave the balance unmatched (as on deposit)
+
+- Where the payment is less than the charges, Accounts match all of the payment, firstly to tax, and any balance towards interest.
+
+Caseworker action
+
+When you receive the file and account after the grant
+
+- If the calculations on COMPASS and the amount paid are equal and you are satisfied that the details on COMPASS are correct, change the status of the calculations to paid (IHTM31211 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31211)).
+
+- If the account calculation is overpaid, do not change the status of the calculations to paid until you have decided whether or not to issue an immediate revised calculation.
+
+- If you issue a revised calculation, use the account payment as a deposit against the fresh calculation.
+
+- If you let the original calculation stand, change the status of the calculation to paid. Treat the remainder as deposit.
+
+- If the initial calculations are underpaid, decide whether to issue revised calculations (IHTM31018 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31018)). Show the initial payment as a deposit on any fresh calculations.
+
+- If you decide not to collect any underpayment immediately, leave the status of the calculation as unpaid.

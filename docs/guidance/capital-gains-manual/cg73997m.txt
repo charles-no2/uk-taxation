@@ -1,0 +1,44 @@
+UK property rich collective investment vehicles: Interaction with other TCGA92 provisions: Disapplying the ‘appropriate connection’ 
+Identifier: CG73997M
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73997m
+Published: 2021-03-19T08:58:37+00:00
+Updated: 2023-04-20T08:13:01+01:00
+Retrieved (UTC): 2026-09-18T14:47:00.839005+00:00
+
+TCGA92/SCH5AAA/para 7 provides an exception to the treatment set out in para 6(3), (5) or (6). Where the exception applies, non-resident investors making an indirect disposal in a UK property rich company, which would otherwise have an ‘appropriate connection’ to a CIV, will only be within the scope of CGT where they have a 25% investment in that company (and so are within the core rules in Part 3 of Schedule 1A and not para 6) – see CG73920 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73920) onwards).
+
+Para 7 will apply where the vehicle, or vehicles (for para 6(3)(b)), meet the following conditions–
+
+- The non-UK real estate condition; and
+
+- Either
+
+- the Genuine Diversity of Ownership (GDO) condition as set out in regulation 75 (2), (3), (4)(a) or (5) (where for the purposes of 75 (5), regulation 75 (4)(b) is omitted) of The Offshore Funds (Tax) Regulations 2009 (SI 2009/3001)) or,
+
+- if the vehicle is a company (including a deemed company as a result of paragraph 4 of Sch.5AAA), the non-close condition.
+
+The non-UK real estate condition requires that the prospectus made available to investors in the collective investment vehicle (or vehicles for paragraph 6(3)(b)) would not lead them to believe the vehicle to be likely to hold more than 40% of its assets in UK land on an ongoing basis. This is to prevent the removal of the 25% ownership de-minimis where a collective investment vehicle meets the mechanical test for being UK property rich in paragraph 6(1)(a) at a given point in time, but has been marketed to investors as, for example, a pan European property fund that is not likely to be primarily UK property focused on a general basis. Para 6 is only intended to apply to funds that are and are intended to be UK property rich.
+
+See IFM17000 (https://www.gov.uk/hmrc-internal-manuals/investment-funds/ifm17000) for further guidance regarding the GDO.
+
+Paragraph 7 does not apply to disposals under paragraph 6(4), where the interest in question is held through a partnership collective investment vehicle. Where such a CIV disposes of assets that derive at least 75% of their value from UK land, for example a UK property rich company or CIV, the partners in a such a CIV will be treated as making a disposal of their fractional interest in that company or CIV (as a consequence of normal operation of the tax rules for partnerships). Regardless of the level of interest in that asset all partners will be considered as having a UK substantial indirect interest.
+
+Regulation 6 of The UK Property Rich Collective Investment Vehicles (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2021 (S.I. 2021/213) introduces new paragraphs 7A and 7B into Schedule 5AAA. Those paragraphs provide that, subject to applicable conditions, paragraph 6 is disapplied for –
+
+- overseas life insurance companies (or companies that would be such a company if carrying on life assurance business in the United Kingdom through a permanent establishment), and
+
+- offshore CIVs
+
+that meet specified conditions and that, when they make a disposal of an interest in a UK property rich CIV that is a company (deemed under paragraph 4 or otherwise), do not have a 10% or more investment in that CIV immediately before the disposal. In effect, the rules provide an exemption for disposals of less than 10% investments where the conditions are met, to remove what may otherwise be disproportionate administrative burdens when disposing of portfolio holdings. This principle does not extend any further, so there is no generally applicable ‘portfolio exemption’. Neither does it apply to CIS LPs, or to CIVs that have elected to be treated as CIV LPs, making disposals of less than 10% interests as it is the fund’s investors and not the fund that has an interest (for UK tax purposes) in the underlying assets.
+
+The relevant conditions (in addition to the requirement for a less than 10% investment) are as follows –
+
+- Overseas life insurance company: immediately before the disposal, no more than 40% of the market value of the company’s assets derive from investments consisting of interests in UK land, or rights or interests in companies which are UK property rich;
+
+- Offshore CIV:
+
+- the vehicle meets the conditions in paragraph 7(2)(a) (the non-UK real estate condition (CG73998V (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73998v)), and 7(2)(b) (the genuine diversity of ownership condition (see IFM17000 (https://www.gov.uk/hmrc-internal-manuals/investment-funds/ifm17000)) or, if a company, the non-close condition (CG73998V), and
+
+- immediately before the disposal, the offshore CIV is not a UK feeder vehicle (a CIV is such a vehicle at any time if at least 85% of the market value of its assets derives from units in a single CIV that is UK property rich).
+
+Whether an overseas life insurance company or an offshore CIV has a 10% investment in a collective investment vehicle is measured by applying the rule in paragraph 9 (but without regard to paragraph 10) of Schedule 1A TCGA as if references to 25% were references to 10%.

@@ -1,0 +1,68 @@
+The degrouping charge: reallocation within group of degrouping charge
+Identifier: CG45455
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45455
+Published: 2016-03-12T11:07:04+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:40:59.757548+00:00
+
+Companies leaving groups on or after 19 July 2011 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45455#IDAZNONG)
+
+Companies leaving groups before 19 July 2011 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45455#IDAZNONG)
+
+Conditions (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45455#IDABOONG)
+
+Election (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45455#IDAJPONG)
+
+Companies leaving groups on or after 19 July 2011
+
+Degrouping charges that are triggered by a company leaving a group on or after 19 July 2011 will either result in an adjustment to the computation of the gain or loss on the disposal by a group company of a holding of shares in company A or a gain or loss will accrue to company A on a deemed disposal of the asset. In either case the gain or loss may be transferred to another group company by election under TCGA92/S171A, see CG45355+.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45455#Top)
+
+Companies leaving groups before 19 July 2011
+
+For degrouping charges triggered by a company leaving a group before 19 July 2011, the separate election mechanism in TCGA92/S179A applied. This was introduced from 1 April 2002 and it is possible for the degrouping charge to be treated as arising on a company other than the chargeable company provided both companies were members of the relevant capital gains group at the time the charge accrued, that is at the deemed disposal as described at CG45401. This result can be achieved by a joint election under TCGA92/S179A, which was introduced by FA02/S42 (1).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45455#Top)
+
+Conditions
+
+TCGA92/S179A can apply if
+
+- a gain or loss is deemed to accrue to the chargeable company, company A. See CG45403 for the time of accrual where the gain or loss accrues under S179(3) and CG45425 for S179(6)
+
+- both A and another company, company C, were members of the relevant group at the time of the accrual. For a definition of relevant group see CG45100 (S179(3)) and CG45430 (S179(6))
+
+- at the time the gain or loss accrues
+
+- Neither A nor C were a qualifying friendly society within the meaning of S171(5) See CG45332
+
+- C was resident in the UK or owned assets that were chargeable assets at the time
+
+- C was not an investment trust, a venture capital trust or a dual resident investing company.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45455#Top)
+
+Election
+
+There is no special form of election.
+
+- A and C can jointly elect that the chargeable gain or allowable loss accruing on the deemed sale can be treated as accruing to C.
+
+- The election can be made at any time up to two years after the end of A’s accounting period in which the time of the accrual fell.
+
+The effect of the election is that any deemed chargeable gain or allowable loss is treated as accruing to C, who will then be able to offset its allowable losses against any deemed chargeable gain or use any deemed allowable loss to cover its chargeable gains.
+
+A can enter into more than one election on the same gain or loss. For example A can enter into an election with C and company D whereby part of the gain or loss is treated as arising on C and part on D but the sum of the parts must not exceed the whole. For gains and losses accruing on or after 21 July 2009 TCGA1992/S179A(5) was amended to specify what happens if the sum does exceed the whole.
+
+- Where an election (or elections) has already been made and the situation is caused by a later election, then that later election shall have no effect.
+
+- Where the situation is caused by a single election or two or more elections received together, then none of those elections shall have effect.
+
+See CG45357 for further guidance concerning the making of elections.
+
+An asset is a chargeable asset if at any time any gain on its disposal would be a chargeable gain and would under TCGA92/S10B be chargeable to CT. If C is non-resident then the gain or loss is treated as accruing to C in respect of a chargeable asset.
+
+If any payment passes between A and C in connection with an election under TCGA92/S179A, it is not taken into account in computing the profits or losses of either company for Corporation Tax purposes (TCGA92/S179A(11)).
+
+Note that it was possible for a group to elect to apply the changes to degrouping charge rules made in Finance Act 2011 from 1 April 2011. Whenever the above guidance refers to 19 July 2011 it should be taken as referring to 1 April 2011 for a company in a group that has made such an election.

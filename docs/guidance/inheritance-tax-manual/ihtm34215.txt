@@ -1,0 +1,32 @@
+Restrictions on relief for purchases: prior purchase of  similar shares
+Identifier: IHTM34215
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34215
+Published: 2016-04-09T10:12:15+01:00
+Updated: 2017-11-07T16:44:41+00:00
+Retrieved (UTC): 2026-09-18T15:07:21.710807+00:00
+
+The IHTA84/S180 restriction applies to a purchase made at any time between the date of death and two months after the date of the last sale. During this period s.180 and IHTA84/S185 can both apply if the appropriate person (IHTM34161 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34161)):
+
+- buys investments of the same description as qualifying investments in the death estate, and
+
+- subsequently sells part of the resulting combined holding.
+
+Example
+
+On the death of Josie the life tenant, the Pluto trust fund includes 10,000 shares in JKL plc. Their date of death value is £2 per share. A few months later the trustees buy a further 5,000 shares for £7,000, at £1.40 per share. Following this purchase the trustees have 15,000 shares. Later, but within the year, the trustees sell 9,000 shares at £1.50 per share.
+
+Under s185, the shares sold have to be apportioned (IHTM34193 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34193)). The number of shares that are treated as being from the death estate is:
+
+10,000 ÷ 15,000 x 9,000 = 6,000
+
+The date of death value of these shares is 6,000 x £2.00 = £12,000
+
+The sale proceeds of these shares is 6,000 x £1.50 = £9,000
+
+On this basis, the loss on sale is = £3,000.
+
+S.180 then applies to reduce the loss of £3,000 by the formula (IHTM34183 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34183)) in IHTA84/S183 (5). In this case the aggregate value of the sales is the sale proceeds of the 6,000 shares treated as being from the death estate and the loss relief is reduced by:
+
+7,000 ÷ 9,000 x £3,000 = £2,333
+
+The net loss is now £3,000 - £2,333 = £677.

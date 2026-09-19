@@ -1,0 +1,236 @@
+Non-resident companies: TCGA92/S13*: amount assessable
+Identifier: CG57275
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57275
+Published: 2016-03-12T11:42:36+00:00
+Updated: 2023-05-11T08:35:06+01:00
+Retrieved (UTC): 2026-09-18T14:43:48.375736+00:00
+
+If the basic conditions described in CG57220 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57220) are satisfied you compute the amount attributable to the UK resident participators as follows.
+
+Step 1
+
+Calculate the chargeable gain that would have arisen to the non-resident company if it had been resident in the UK. The computation is to be made as if the non-resident company were a UK resident company within the charge to Corporation Tax. See CG57381 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57381) if any foreign tax is payable by the non-resident company in respect of the gain.
+
+Step 2
+
+Determine the interests of all participators, including any who are not resident in the UK, by applying those tests of participation appropriate to the circumstances.
+
+Step 3
+
+Calculate the proportion of the gain apportionable to the interests of each participator.
+
+Step 4
+
+Consider whether the gains calculated in Step 3 represents a just and reasonable apportionment. If not, re-apportion the gains taking account of all relevant factors to arrive at an apportionment that is just and reasonable. The total amount apportioned must not exceed the chargeable gain computed for the company at Step 1.
+
+In more complex cases it will be helpful to prepare a table or matrix at Step 3 so that the interests of each participator by reference to the tests that are appropriate to the circumstances of the particular case can be readily identified, see Example 4. This will simplify the process of making an initial apportionment.
+
+In many cases a participator in a non-resident company will be a participator wholly or partly by reference to a holding of shares, and the calculation of that person’s interest and the interests of others will be relatively straightforward. Unless the context requires otherwise examples in this section, and in later sections relating to reliefs and adjustments, are in respect of participators whose interest in a company is by way of a holding of shares.
+
+Example 1 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57275#example-1)
+
+Example 2 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57275#example-2)
+
+Example 3 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57275#example-3)
+
+Example 4 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57275#example-4)
+
+Example 1
+
+- a non-resident company has issued share capital of 150 Ordinary shares
+
+- A, B and C own 50 shares
+
+- A and B are all resident in the UK. C has never been resident in the UK
+
+- the non-resident company realises a gain of 300,000.
+
+You compute the gains to attribute as follows.
+
+Step 1
+
+Calculate the gain that would have arisen if the non-resident company had been resident in the UK. This is 300,000.
+
+Step 2
+
+Determine the interests of all participators, including any who are not resident in the UK, by applying the tests of participation appropriate to the circumstances. In this case each of the three participators has a 33 1/3 per cent interest.
+
+Step 3
+
+Calculate the proportion of the gain apportionable to the interests of each participator. Calculate the interests of all participators, including any who are not resident in the UK. In this case the proportion for each participator is 33 1/3% of 300,000 = 100,000.
+
+Step 4
+
+Consider whether the gains calculated in Step 3 represent a just and reasonable apportionment. In this case the apportionment is just and reasonable. Gains of 100,000 are attributed to each of A and B and treated as gains accruing to them on the date on which the gain actually accrued to the company.
+
+C is not liable to UK taxation. But it would not be just and reasonable to reapportion C’s gain of 100,000 to A and B as C has a real economic interest in the non-resident company.
+
+Example 2
+
+- A and B each own 50 shares
+
+- A and B are both resident in the UK
+
+- C is a loan creditor for 400,000. The loan is an arm’s length commercial transaction and interest is payable at a fully commercial rate on the loan
+
+- the non-resident company realises a gain of 500,000
+
+- the total capital of the non-resident company after the gain is 1,000,000.
+
+You compute the gains to attribute as follows.
+
+Step 1
+
+Calculate the gain that would have arisen if the non-resident company had been resident in the UK. This is 500,000.
+
+Step 2
+
+Determine the interests of all participators, including any who are not resident in the UK, by applying the tests of participation appropriate to the circumstances.
+
+A is a 50% participator by reference to the shareholding of 50 shares
+
+B is a 50% participator by reference to the shareholding of 50 shares
+
+C is a participator as a loan creditor, being entitled to an amount of 400,000 out of the total capital of 1,000,000.
+
+Step 3
+
+Calculate the proportion of the gain apportionable to the interests of each participator. In this case the proportion for each participator is
+
+A (as shareholder)
+
+- 500,000 x 50% = 250,000
+
+B (as shareholder)
+
+- 500,000 x 50% = 250,000
+
+C (as loan creditor)
+
+- 500,000 x 40% = 200,000
+
+Step 4
+
+Consider whether the gains calculated in Step 3 represent a just and reasonable apportionment. In this case the apportionment is not just and reasonable as the total of the gains under the initial apportionment exceeds the actual gain. C is a participator only by virtue of being a commercial loan creditor, see CG57220 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57220). C’s entitlement as loan creditor should be ignored, subject to a review of the circumstances to establish that C is indeed merely a commercial loan creditor and has no entitlement to a share of profits or gains, and that there are no other arrangements. In this example it is assumed that there are no other arrangements and therefore the whole of the gain should be apportioned by reference to the interests in shares. The final apportionment becomes
+
+A (as shareholder)
+
+- 500,000 x 50% = 250,000
+
+B (as shareholder)
+
+- 500,000 x 50% = 250,000
+
+Example 3
+
+- a non-resident company has issued share capital of 100 Ordinary shares
+
+- A and B each own 50 shares
+
+- A and B are both resident in the UK
+
+- A is a loan creditor for 200,000. No interest is payable on the loan
+
+- the non-resident company realises a gain of 500,000
+
+- the total capital of the non-resident company after the gain is 1,000,000.
+
+You compute the gains to be attributed as follows.
+
+Step 1
+
+Calculate the gain that would have arisen if the non-resident company had been resident in the UK. This is 500,000.
+
+Step 2
+
+Determine the interests of all participators, including any who are not resident in the UK, by applying the tests of participation appropriate to the circumstances.
+
+A is a 50% participator by reference to the shareholding of 50 shares
+
+B is a 50% participator by reference to the shareholding of 50 shares
+
+A is also a participator as a loan creditor, being entitled to an amount of 200,000 out of the total capital of 1,000,000. If all of the assets of the company were to be distributed immediately after the accrual of the gain the entitlements of A and B would be:
+
+A: 200,000 (as loan creditor) plus 50% of the balance of 800,000 (as shareholder), a total of 600,000 or 60% of the assets.
+
+B: 400,000, 50% of the balance of 800,000 (as shareholder), or 40 % of the assets.
+
+Step 3
+
+Calculate the proportion of the gain apportionable to the interests of each participator. In this case there are two possible apportionments.
+
+A: 500,000 x 50% = 250,000
+
+B: 500,000 x 50% = 250,000
+
+or
+
+A; 500,000 x 60% = 300,000
+
+B: 500,000 x 40% = 200,000
+
+Step 4
+
+Consider whether the gains calculated in Step 3 represent a just and reasonable apportionment. As there are at least two possible apportionments we must consider all of the facts relating to the arrangements under which A’s loan was made and the arrangements regarding profits and gains of the company. For instance:
+
+- Does the loan agreement give A any preferential rights to profits or gains, or simply to a repayment of the capital?
+
+- Is B entitled to an equal share of profits or gains?
+
+In such cases there is no easy answer and a full consideration of all of the relevant circumstances is necessary. On the bare facts of this example A has no preferential rights and consequently an apportionment by reference to the shareholdings, effectively excluding A’s participation as loan creditor, may be just and reasonable. If so, the gain would be attributed
+
+A: 500,000 x 50% = 250,000
+
+B: 500,000 x 50% = 250,000.
+
+Example 4
+
+- a non-resident company has issued share capital of 100 A shares and 100 B shares
+
+- both classes of shares carry equal voting rights but the B shares carry no entitlement to dividends or distributions in a winding-up
+
+- the A shares are owned by X who is resident in the UK
+
+- the B shares are owned by Y who has never been resident in the UK
+
+- the non-resident company realises a gain of 200,000.
+
+You compute the gains to be attributed charge as follows.
+
+Step 1
+
+Calculate the gain that would have arisen if the non-resident company had been resident in the UK. This is 200,000.
+
+Step 2
+
+Determine the interests of all participators, including any who are not resident in the UK, by applying the tests of participation appropriate to the circumstances.
+
+Participator |  Voting rights |  Distributions |
+
+X |  50% |  100% |
+
+Y |  50% |  0% |
+
+X is a 50% participator by reference to voting rights attached to the shareholding in A shares.
+
+Y is a 50% participator by reference to voting rights attached to the shareholding in B shares.
+
+X is a 100% participator by reference to rights to dividends and distributions attached to the shareholding in A shares.
+
+Step 3
+
+Calculate the proportion of the gain apportionable to the interests of each participator.
+
+X (rights to income and capital)
+
+200,000 x 100% = 200,000
+
+Y (voting rights)
+
+200,000 x 50% = 100,000
+
+Step 4
+
+Consider whether the gains calculated in Step 3 represent a just and reasonable apportionment. In this case the apportionment is not just and reasonable as the total of the gains under the initial apportionment exceeds the actual gain. A full review of all of the circumstances would be necessary. It appears that the true economic interest in the non- resident company is held solely by X. Y’s entitlement should be ignored, and the whole of the gain apportioned to X.
+
+*TCGA92/S13 was re-written for disposals from 6 April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

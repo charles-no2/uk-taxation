@@ -1,0 +1,34 @@
+Transfer of unused RNRB: effect on available RNRB
+Identifier: ihtm46043
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46043
+Published: 2018-09-28T09:07:18+01:00
+Updated: 2018-09-28T09:06:29+01:00
+Retrieved (UTC): 2026-09-18T15:10:59.653506+00:00
+
+IHTM46041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46041) explains how the brought-forward allowance (IHTM46040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46040)) is calculated and how it increases the residence nil-rate band (RNRB) that is potentially available to the estate of the surviving spouse or civil partner. However this increased RNRB can only be used on the survivor’s estate to the extent that there is a qualifying residential interest (QRI) (IHTM46011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46011)) which is closely inherited (IHTM46013). The brought-forward allowance is not simply an addition to the RNRB that is due. The examples below show how the brought-forward allowance affects the total RNRB available to an estate.
+
+Example 1
+
+David died in August 2015 with an estate valued at £500,000, which he left to his civil partner, Daniel.
+
+Daniel died in December 2018 when the residential enhancement (IHTM46022 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46022)) was £125,000. Daniel left an estate of £800,000 including a house worth £400,000. He left the whole of his estate to his children.
+
+The unused RNRB in David’s estate is treated as being £100,000 in accordance with IHTA84/S8G(4)(a) because his death was before 6 April 2017. This is 100% of the residential enhancement that is treated as being available at his date of death in accordance with IHTA84/S8G(4)(b). Daniel’s estate is entitled to claim a brought-forward allowance of 100% of the residential enhancement at Daniel’s date of death, which is £125,000.
+
+This brought-forward allowance (£125,000) is added to the residential enhancement available on Daniel’s death (£125,000) to give Daniel’s estate a default allowance (IHTM46024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46024)) of £250,000.
+
+As Daniel’s estate is below the taper threshold (IHTM46023 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46023)), there is no reduction made to the default allowance.
+
+Daniel leaves a house worth £400,000 to his children. Daniel’s estate is entitled to RNRB equal to the lower of £250,000 (his default allowance) or the value of the residence that is left to his children (£400,000). Daniel’s estate therefore qualifies for RNRB of £250,000.
+
+Example 2
+
+The facts were the same as in Example 1 above, but Daniel leaves the whole of his estate to his nephew.
+
+Daniel’s estate is entitled to claim a brought-forward allowance of £125,000 in respect of the unused RNRB in David’s estate.
+
+This brought-forward allowance (£125,000) is added to the residential enhancement available on Daniel’s death (£125,000) to give Daniel’s estate a default allowance of £250,000.
+
+As Daniel’s estate is below the taper threshold, there is no reduction made to the default allowance.
+
+Although Daniel’s estate has a default allowance of £250,000, there is no QRI being closely inherited from his estate. There is therefore no RNRB available to Daniel’s estate.

@@ -1,0 +1,26 @@
+Employment Allowance: How and when to stop claiming the Employment Allowance
+Identifier: NIM06580
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06580
+Published: 2016-09-19T12:08:49+01:00
+Updated: 2016-09-19T12:08:44+01:00
+Retrieved (UTC): 2026-09-18T15:14:03.851133+00:00
+
+National Insurance Act 2014 - Sections 1 and 2
+
+An employer will cease to be eligible to claim the Employment Allowance when they no longer incur any liability to pay secondary class 1 NICs (e.g. the employer ceases to employ any persons).
+
+At the beginning of each tax year, employers should consider if their circumstances have changed and if they are still eligible to claim the Employment Allowance. If they are no longer eligible to claim, the employer must submit an RTI Employer Payment Summary (EPS) upon which they should enter “No” in the “Employment Allowance Indicator” field on the EPS to declare they are no longer claiming the Employment Allowance.
+
+If an employer‘s software does not allow the completion of an EPS, they may instead withdraw their claim by using HMRC’s Basic PAYE Tools, which is free to download from Using the Basic PAYE Tools the claimant should:
+
+- select the correct name in the “Employer” menu on the home page
+
+- select “change employer details”
+
+- select “No” in the “Employment Allowance indicator” field.
+
+- send the EPS as normal
+
+Some employers are exempt from filing RTI returns online. However they can withdraw an existing claim for the Employment Allowance by submitting a paper version of an EPS, which is a form RT5. The RT5 form can be obtained from HMRC’s stationery and forms Orderline, whose contact details are contained on Their telephone number is 0300 123 1074 at the time this page of the National Insurance Manual was published.
+
+Once a claim for the Employment Allowance is withdrawn, it will then cease to be carried forward from one year to another. If the employer re-employs persons again and incurs a liability to pay secondary class 1 contributions, they should make a fresh claim for the Employment Allowance upon another EPS (or via the HMRC Basic PAYE Toolkit).

@@ -1,0 +1,60 @@
+Valuing Businesses and Partnerships: Relationship between Business and Agricultural relief
+Identifier: IHTM25121
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25121
+Published: 2016-04-09T09:44:27+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:16.164613+00:00
+
+It is possible for the conditions for both business relief and agricultural relief (IHTM24000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24000)) to be satisfied in regard to the same property. To prevent double relief, the legislation provides that any part of the value transferred which is reduced by agricultural relief (at whatever rate), (or would be so reduced but for IHTA84/S121 (3)), cannot be reduced by business relief, IHTA84/S114 (1).
+
+As the reliefs do not depend on the taxpayer claiming them, the effect of IHTA84/S114 (1) is that it is not possible for the parties to choose between business and agricultural relief.
+
+IHTA84/S114 (1) operates by preventing the same part of the value transferred being reduced by both business and agricultural relief. It gives priority to agricultural relief. However, the part of the value transferred which would otherwise be reduced by business relief retains its status as IHTA84/S105 (1) "relevant business property", or as part of the value of "relevant business property".
+
+The taxpayer will sometimes claim business relief on the value of agricultural property on the excess over its agricultural value - e.g. farmland with planning permission, development value or mineral value (such as gravel and sand).
+
+Example
+
+Thomas, who died in November 2012, was a working farmer. He had owned and run the business, including the farmland, for many years. The net assets value of the farming business for the purposes of IHTA84/S110 is
+
+Value of gross assets, comprising live and dead stock, and plant and machinery (£150,000) and farmland (value wholly agricultural) (£800,000) = £950,000.
+
+Deduct business liabilities of £75,000. The net value of the business = £875,000.
+
+So the value of the farming business as IHTA84/S105 (1) (a) "relevant business property" is £875,000. This is not affected by
+
+- the fact that the land qualifies for agricultural relief
+
+- whether or not the business liabilities are charged on any property and, if they are, whether or not the property on which they are charged is a business asset.
+
+Because, on the facts, the rates of business and agricultural relief are the same (100%), the apportionment of the value of £875,000 between the two reliefs does not affect the value transferred - i.e. the value of the estate after reduction by the reliefs.
+
+Where this is the position, you can normally follow the allocation of the reliefs by the taxpayer (provided the total is correct). However, to illustrate the way IHTA84/S114 (1) operates, the apportionment required by the subsection is set out.
+
+Assuming the business liabilities are not charged on the land, the apportionment is:
+
+- Value of the business = £875,000
+
+- Less value reduced by agricultural relief - £800,000
+
+- Value reduced by business relief = £75,000.
+
+But if the business liabilities are charged on the land, the apportionment becomes
+
+- Value of the business = £875,000
+
+- Less value reduced by agricultural relief
+
+- Farmland £800,000
+
+- less liabilities charged on it - £75,000
+
+- = £725,000
+
+- Value reduced by business relief = £150,000.
+
+On the facts, the liabilities charged on the land were incurred for the purposes of the business. But, because of IHTA84/S162 (4), in calculating the extent to which agricultural relief is due, you have to deduct all liabilities charged on the land from the value of the land. Only the net value qualifies for agricultural relief, but the whole transfer will still be covered by agricultural and business relief.
+
+In the case of a death/chargeable transfer on or after 6 April 2026, agricultural and business property reliefs are subject to a shared 100% relief allowance (IHTM25500 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25500)).
+
+In some situations, such as on a transfer made on death where the value of the transfer exceeds the 100% relief allowance available to the transferor, it will be necessary to apportion the allowance between the properties involved in the transfer by reference to the value of relevant business property or the agricultural value of agricultural property (IHTA84/S124D (7)) (IHTM25524 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25524)). You should not look to fully relieve all agricultural property involved in the transfer before applying remaining allowance to relevant business property.

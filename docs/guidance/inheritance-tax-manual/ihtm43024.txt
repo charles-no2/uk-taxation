@@ -1,0 +1,36 @@
+Calculating the transferable nil rate band: how there may still be an amount to be transferred even though IHT is paid as a result of the death
+Identifier: IHTM43024
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43024
+Published: 2016-04-09T10:28:39+01:00
+Updated: 2017-10-25T12:08:06+01:00
+Retrieved (UTC): 2026-09-18T15:09:56.078899+00:00
+
+If tax is paid on the estate passing on death then the nil rate band has been fully used and there is nothing left to transfer. However, if tax has been paid on a failed potentially exempt transfer (PET) by reason of an earlier chargeable transfer which cumulates with the PET but not with the estate on death, transferable nil rate band may still be available.
+
+Example
+
+Trevor died on 2nd February 2008 leaving a legacy to his sister of £40,000 and the residue of his estate of £400,000 to his surviving civil partner, Paul. Trevor made a PET in the tax year 2003/2004 of £200,000, which fails as a result of his death within seven years of the gift. He had also transferred £200,000 to a discretionary trust in 1998/99.
+
+The tax on the failed PET is calculated by cumulating the chargeable transfer in 98/99; so the aggregate of chargeable transfers is £400,000. This results in a liability of £40,000.
+
+But, as the transfer into trust was made more than seven years before the death, it does not cumulate with the death estate.
+
+Unused nil rate band calculation
+
+The maximum amount that could have been transferred at nil percent is
+
+£300,000-£200,000 = £100,000, so M is £100,000.
+
+The chargeable value transferred on the death is £40,000 so, VT is £40,000.
+
+M* *is greater than VT by £60,000
+
+Transferable nil rate band calculation
+
+E = 60,000
+
+NRBMD = 300,000 so
+
+(60,000 ÷ 300,000) × 100 = 20.0000%
+
+So even though there was a liability to Inheritance Tax as a result of the Trevor’s death, there is still 20% of the nil rate band available to transfer when Paul dies.

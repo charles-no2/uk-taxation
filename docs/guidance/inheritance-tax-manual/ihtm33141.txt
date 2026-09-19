@@ -1,0 +1,40 @@
+Loss on sale of land: non-qualifying sales: general rule for adjusting sale price
+Identifier: IHTM33141
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33141
+Published: 2016-04-09T10:09:12+01:00
+Updated: 2022-01-31T12:44:38+00:00
+Retrieved (UTC): 2026-09-18T15:06:59.344363+00:00
+
+Under IHTA84/S196 the sale price (IHTM33072 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33072)) of the interest in land (IHTM33061 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33061)) is adjusted where the appropriate person
+
+- makes a non-qualifying sale of another interest in land, or within three years exchanges any interest in land, and
+
+- the sale price of the non-qualifying sale, or the market value at the date of exchange, is more than its value on death (IHTM33100 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33100)).
+
+If the claim for relief relates to only one qualifying sale, the sale price is increased by the difference between the sale price of the non-qualifying interest and its value on death.
+
+If there is more than one qualifying sale, the excess must be apportioned between the qualifying sales according to their respective losses (or gains) using the ‘appropriate fraction’.
+
+The appropriate fraction is calculated as follows
+
+- Calculate the difference between the value of the qualifying interest on death and its sale price (as adjusted under IHTA84/S193 to 195). This figure is the numerator.
+
+- Divide this by the denominator. This is the aggregate of that difference and the differences for all the other qualifying interests to which the claim relates.
+
+Example
+
+‘Treetops’ and ‘The Pines’ were sold by qualifying sales, but ‘The Barn’ was sold by a non-qualifying sale.
+
+The Barn was valued at £50,000 on death and sold for £52,000, an increase of £2,000.
+
+Treetops was valued at £90,000 on death and sold for £95,000, an increase of £5,000. The apportioned gain of the The Barn is £400, giving an adjusted sale price of £95,400.
+
+The Pines was valued at £80,000 on death and sold for £60,000, a decrease of £20,000. The apportioned gain of the The Barn is £1,600, giving an adjusted sale price of £61,600.
+
+The gain on the non-qualifying sale is £2,000. The denominator is £25,000, the total differences of the qualifying sales, whether the differences are gains or losses. The denominator is not the same as the net loss on the qualifying sales (£15,000), it does not include the £2,000 difference in the value of The Barn because The Barn is not an interest to which the claim relates. So, the apportioned gains for Treetops and The Pines, as shown above, are
+
+Treetops: £2,000 x £5,000 ÷ £25,000
+
+The Pines: £2,000 x £20,000 ÷ £25,000
+
+In the above example, the sale price before adjustment of those properties which qualify (but not those which do not) is arrived at after making any adjustments for changes in the interest or underlying land (IHTM33121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33121)), compensation received (IHTM33130 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33130)), leases (IHTM33131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33131)) or valuation with, and sales without other land (IHTM33132 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33132)).

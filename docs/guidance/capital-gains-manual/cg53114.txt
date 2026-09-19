@@ -1,0 +1,56 @@
+Substantial shareholdings exemption: the trading company/group/subgroup requirements - special rules for joint venture companies
+Identifier: CG53114
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53114
+Published: 2016-03-12T11:29:34+00:00
+Updated: 2021-01-21T09:34:51+00:00
+Retrieved (UTC): 2026-09-18T14:32:43.090789+00:00
+
+TCGA92/SCH7AC/PARA23 & TCGA92/SCH7AC/PARA24
+
+Paragraph 23 Schedule 7AC TCGA 1992 contains special rules for determining whether a company, group or subgroup is a trading company, a member of a trading group or the holding company of a trading group or subgroup when it has a ‘qualifying shareholding’ in a ‘joint venture company’. These terms are defined by paragraph 24 Schedule 7AC TCGA 1992.
+
+A company is a ‘joint venture company’ if
+
+- it is a trading company (see CG53110) or the holding company (CG53006 explains what is a holding company for the purposes of the substantial shareholdings legislation) of a trading group or subgroup (see CG53112), and
+
+- five or fewer persons hold 75% or more of its ordinary share capital - in applying this test all shares held by the members of a group (CG53006 explains what is a group for the purposes of the substantial shareholdings legislation) are treated as if held by a single person.
+
+A company has a ‘qualifying shareholding’ in a joint venture company
+
+- if it is not a member of a group, when it holds 10% or more of the ordinary share capital of the joint venture company, or
+
+- if it is a member of a group, when it holds any of the ordinary share capital of the joint venture company and members of its group together hold more than 10% of that ordinary share capital.
+
+In determining whether: (a) the company is a trading company, (b) a group that the company is a member of is a trading group, and (c) the company is the holding company of a trading group or trading subgroup there are two particular aspects to the special treatment for qualifying shareholdings in joint venture companies.
+
+First, a proportion of the activities of the joint venture company, and any 51% subsidiaries it has, are attributed
+
+- to a company having a qualifying shareholding, in determining whether it is a trading company,
+
+- to all the companies in a group having a qualifying shareholding, in determining whether they are members of a trading group,
+
+- to all the companies in a group or subgroup having a qualifying shareholding, in determining whether they are the holding company of a trading group or subgroup respectively.
+
+The proportion of the activities of the joint venture company, and any 51% subsidiaries it has, that are attributed to each company is the proportion of the ordinary share capital of the joint venture company held by the company concerned. In establishing the activities of a joint venture company that is a holding company, intra-group activities within its group are disregarded (in the same way that other intra-group activities are disregarded - see CG53112).
+
+Second, for the purpose of determining each of these three questions, the investment activity of holding of shares in the joint venture company is disregarded.
+
+Joint venture companies in a capital gains group
+
+The special rules for qualifying shareholdings in joint venture companies only apply if the joint venture company is not a member of the same group as the company whose status is being determined. If the joint venture company is in the same group as the company with a qualifying shareholding the normal intra-group rules apply (see CG53112).
+
+This means that:
+
+- holdings of shares in the joint venture company are disregarded as an intra-group activity, but
+
+- the transactions between the companies are taken into account rather than attributing a proportion of the joint venture company.
+
+Example –
+
+The Gill Ltd group includes Allen Ltd, which is the holding company of trading company Burnham Ltd. Allen also holds 20% of the shares in King Ltd which meets the conditions for being a joint venture company but is also a member of the Gill group. King’s activities are a 50:50 mix of trading and investment.
+
+When assessing whether Allen is the holding company of a trading sub-group, it is not treated as undertaking 20% of King’s overall activities. Rather, the assessment will be based on Allen and Burnham’s relationship with King. If Burnham supplies materials for use in King’s trade (or vice versa), or rents it the property used in the trade, then these would not be considered non-trading activities of the Allen + Burnham sub-group.
+
+Investment in a joint enterprise that is not a “joint venture company”
+
+These rules provide for the apportionment of activities of company that meets the definition of a “joint venture company” in paragraph 24. The existence of this provision does not mean that an investment in a joint enterprise that is not within the statutory definition is necessarily treated as a non-trading activity when assessing whether a group is a “trading group”. Whether such an investment represents part of the group’s overall trading activities or constitutes a separate investment activity will be a question of fact and depend on the circumstances of the case. Where, for example, the effective management of the joint enterprise is closely integrated with that of the group and it conducts a trade that is similar to or complements that of the wider group then that would suggest that the group’s involvement in the enterprise does not represent a separate non-trading activity.

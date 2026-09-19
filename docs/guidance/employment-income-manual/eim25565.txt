@@ -1,0 +1,36 @@
+Car fuel benefit: reduction if car unavailable
+Identifier: EIM25565
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25565
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-02-23T15:44:17+00:00
+Retrieved (UTC): 2026-09-18T14:21:19.665683+00:00
+
+Section 152(1) ITEPA 2003
+
+The car fuel benefit charge is incurred as detailed at EIM25510 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25510).
+
+The cash equivalent of the car fuel benefit charge is reduced in proportion to the days in the year for which the car is unavailable. The reduction is in proportion to the number of days in the tax year (366 for leap years) and exactly matches the reduction in car benefit for periods when the car is unavailable (that is, the reduction at step 7 of the method statement in section 121(1) ITEPA 2003). The same definition of unavailable applies to both, see EIM25105 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25105).
+
+The reduced benefit is calculated from the formula ‘(CE × (Y - D)) ÷ Y’ where:
+
+- CE is the amount of the cash equivalent before any reduction (that is, for a full year)
+
+- Y is the number of days in the tax year in question
+
+- D is the total number of days on which either the car is unavailable (this page) or after fuel is finally withdrawn (see EIM25570 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25570) for full details)
+
+Example
+
+There is an example at EIM25605 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25605).
+
+Possible further reductions in the fuel benefit charge
+
+See:
+
+- EIM25570 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25570) if free fuel is withdrawn in a tax year and not reinstated
+
+- EIM25575 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25575) if the car is shared
+
+Years before 2003 to 2004
+
+The fuel benefit charge had a different basis in these years.

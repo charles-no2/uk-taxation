@@ -1,0 +1,18 @@
+Qualifying corporate bonds: definition - expressed and redeemable in sterling
+Identifier: CG53706
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53706
+Published: 2016-03-12T11:33:05+00:00
+Updated: 2021-08-27T16:35:54+01:00
+Retrieved (UTC): 2026-09-18T14:43:01.240399+00:00
+
+For a security to be a qualifying corporate bond (QCB) TCGA 1992 section 117(1)(b) requires that the debt has to be expressed in sterling at all times and that there must be no provision for redemption in, or conversion into, any other currency. Section 117(2) provides additional elements that might have to be taken into consideration when deciding how the rules in section 117(1)(b) apply.
+
+The additional elements within section 117(2) are
+
+- a security is not regarded as “expressed in sterling” if the amount of sterling falls to be determined by reference to value at any time of any other currency and asset.
+
+- a provision for redemption in a currency other than sterling but at the rate of exchange prevailing at redemption can be ignored.
+
+Section 117(2)(a) is intended to prevent a potential loss of tax on any exchange gain or loss on a disposal or redemption of the security. On the other hand, some issues of securities - and this applies in particular to some old Eurobond issues - may provide for the amount on redemption, although based on a sterling value, to be repayable in a currency other than sterling at the exchange rate prevailing at the time of redemption. The terms of the security may permit, for example, repayment of an amount of foreign currency computed by reference to a sterling figure using the exchange rate applying at or shortly before the due date for redemption. As a company may need a short time to acquire the necessary foreign currency before the due date, HMRC accepts that a rate of exchange up to ten business days before the due date for redemption can be the rate “prevailing at redemption”. In such cases the possibility of an exchange gain (or loss) is severely restricted.
+
+In effect there are two requirements within section 117(1) as augmented by section 117(2). Given the endless variations in the type of securities issued to date it is not possible to provide definitive guidance on when a security would meet the requirement within section 117(1)(b) as augmented by section 117(2). CG53707 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53707) provides examples of the approach that should be adopted when interpreting how those subsections might apply.

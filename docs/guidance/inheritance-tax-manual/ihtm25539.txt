@@ -1,0 +1,34 @@
+AR/BR 100% relief allowance: transfer of unused allowance – calculation where the survivor has been married to more than one spouse or been in more than one civil partnership  
+Identifier: IHTM25539
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25539
+Published: 2026-04-07T07:44:23+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:51.522334+00:00
+
+Example
+
+Sarah was married to Saul. Saul died on 1 July 2026 leaving a farm worth £1,250,000 to his son against which 100% relief allowance was claimed.
+
+Calculate the unused 100% relief allowance in Saul’s estate. This will be the difference between 100% relief allowance at Saul’s death (£2.5 million) and the 100% relief allowance used by his estate against legacy to his son (£1,250,000).
+
+£2.5 million - £1,250,000 = £1,250,000
+
+Then calculate the percentage of unused relief allowance available to transfer. This is the amount of unused 100% relief allowance divided by the final allowance amount at the date of the first death.
+
+£1,250,000 ÷ £2.5 million = 50%
+
+Sarah was remarried to Sam. Sam died on 1 July 2028 leaving shares worth £2,000,000 to his daughter against which 100% relief allowance was claimed.
+
+Calculate the unused 100% relief allowance in Sam’s estate. This will be the difference between 100% relief allowance at Sam’s death (£2.5 million) and the 100% relief allowance used by his estate against legacy to his daughter (£2,000,000).
+
+£2.5 million - £2,000,000 = £500,000
+
+Then calculate the percentage of unused relief allowance available to transfer. This is the amount of unused 100% relief allowance divided by the final allowance amount at the date of the first death.
+
+£500,000 ÷ £2.5 million = 20%
+
+Sarah died on 1 August 2030. To calculate the survivor’s additional allowance at her death we multiply the percentage of unused relief allowance from each of her husbands’ estates by the 100% relief allowance at her date of death.
+
+(£2.5 m x 50%) + (2.5m x 20%) = £1,750,000.
+
+If in the example above Sam had only left his daughter shares worth £1 million this would have meant that £1.5 million of his 100% relief allowance was unused leaving 60% unused relief allowance. However, the amount of transferable unused relief allowance is capped at 100% so only £2.5 million would be available to transfer.

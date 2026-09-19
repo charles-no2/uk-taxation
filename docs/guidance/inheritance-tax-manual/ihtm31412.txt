@@ -1,0 +1,30 @@
+Assessing: calculations: death estate: working out the aggregate chargeable transfer
+Identifier: IHTM31412
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31412
+Published: 2016-04-09T10:04:30+01:00
+Updated: 2016-02-11T17:19:01+00:00
+Retrieved (UTC): 2026-09-18T15:06:06.380757+00:00
+
+Before you consider any calculations you must take account of all amendments to the values at every part of the estate. Amendments at one Entry (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)) may affect the tax to pay at another.
+
+Find the value of all death estate Entries, (including IIP trusts (IHTM16061 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16061)), GWRs at death (IHTM14301 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14301)) and joint property (IHTM15011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm15011))) and add the values together.
+
+To this total, add the value of the previous lifetime cumulative total (PLCT) (IHTM31413 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31413)).
+
+The result is the aggregate chargeable transfer (ACT).
+
+Example
+
+Alan died on 1 January 2011. His death estate contained
+
+- Free Estate (Entry A) £330,000, and
+
+- Will Trust (Entry B) £150,000.
+
+Alan also made a lifetime transfer in Dec 2009 worth £50,000 (after reliefs).
+
+£480,000 Death Entries
+
++£50,000 PLCT
+
+£530,000 ACT

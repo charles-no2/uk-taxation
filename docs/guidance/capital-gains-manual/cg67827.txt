@@ -1,0 +1,68 @@
+Reliefs: employee-ownership trusts: The ‘trustee independence requirement’ 
+Identifier: CG67827
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67827
+Published: 2025-04-04T09:19:37+01:00
+Updated: 2025-04-04T09:19:38+01:00
+Retrieved (UTC): 2026-09-18T14:34:57.056721+00:00
+
+Throughout this manual, all legislative references are to Taxation of Chargeable Gains Act 1992 (https://www.legislation.gov.uk/ukpga/1992/12/contents)(“TCGA92”) unless otherwise stated.
+
+S236H(4)(ba) (inserted by by para 3 of Sch 6 Finance Act 2025 (FA25))
+
+Provides that for disposals on or after 30 October 2024, the settlement must meet the ‘trustee independence requirement’,
+
+- at the time of the disposal and
+
+- for the remainder of the tax year in which that time falls.
+
+S236LA (inserted by para 3 of Sch 6 FA25)
+
+The settlement meets the trustee independence requirement’ if
+
+- fewer than 50% of the trustees are persons who are excluded participators, and
+
+- excluded participators do not have control of the settlement.
+
+The definition of excluded participator is given at CG67839 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67839), but is modified for s236LA in two ways. Firstly, the definition does not include a person who would only be an excluded participator due to a connection falling within s286(3). Broadly this covers persons who are trustees of the settlement and are only connected to other excluded participators for this reason.
+
+Secondly, the definition of excluded participator is extended to include companies where 50% or more of its directors are excluded participators based on the definition above.
+
+If there is a sole corporate trustee, the trustee independence requirement is met if fewer than 50% of its directors are excluded participators and no other person or persons, who are excluded participators, have control of the settlement.
+
+Excluded participators have control of the settlement if, acting alone or together with other excluded participators, they are able to exercise any one or more of the following powers to:
+
+- dispose of, advance, lend, invest, pay or apply settlement property;
+
+- vary or terminate the settlement;
+
+- add or remove a person as a beneficiary or to or from a class of beneficiaries;
+
+- appoint or remove trustees or give another individual control over the settlement;
+
+- direct the exercise of any of the powers mentioned above
+
+Excluded participators are not considered to have control of the settlement if they are only able to exercise these powers with the consent of others, including trustees, who are not excluded participators, or as applicable a sole corporate trustee.
+
+The settlement should not give control for this purpose to C, if 50% or more of its directors are or might be excluded participators (for example giving C the power to appoint or remove trustees, or to vary the settlement).
+
+A power to appoint or remove a trustee director is not a power to appoint or remove a trustee.
+
+Example 4A
+
+The Cygnus Widgets EOT is established on 1 February 2026 by acquiring 100% of the ordinary share capital of Cygnus Widgets Limited.
+
+Cygnus Trustees Limited (a newly established company) is appointed as the sole trustee of the EOT. The directors of Cygnus Trustees Limited are Danielle (the former sole shareholder of Cygnus Widgets Limited), Maryann (an employee representative from Cygnus Widgets Limited), and Rowan (an independent trustee). No persons other than Cygnus Trustees Limited have any powers of control over the trust under the trust deed.
+
+As fewer than 50% of the directors of Cygnus Trustees Limited are excluded participators, Cygnus Trustees Limited is not itself an excluded participator under the expanded definition set out above. The EOT therefore meets the trustee independence requirement because the sole trustee (Cygnus Trustees Limited) is not an excluded participator.
+
+Example 4B
+
+The Andromeda Widgets Limited EOT was established on 1 September 2025 by acquiring 100% of the ordinary share capital of Andromeda Widgets Limited from Dennis, the former sole shareholder. Dennis is one of three trustees of the EOT alongside Nadia (an elected employee representative), and Ellen (an independent trustee), who were all appointed as the initial trustees of the EOT when it was established.
+
+Dennis, who is an excluded participator by virtue of his previous shareholding in the company, does not have any powers of control under the trust deed, nor does Andromeda Widgets Limited. There are no participators other than Dennis.
+
+Dennis has a contractual right under the sale share and purchase agreement to be a trustee (or nominate someone else to be a trustee) whilst he is owed consideration by the trustees. To ensure that the control restriction at S236LA(3) is not breached, the appointment of a nominee as Dennis’ replacement and any subsequent reappointment of Dennis must be made together with the other trustees who are not excluded participators under the terms of the settlement.
+
+Successors to Nadia will be elected by an employee council established by Andromeda Widgets Limited and will replace their predecessor simultaneously with the predecessor’s retirement as a trustee. The independent trustee will be replaced by the other trustees simultaneously with the predecessor’s retirement as a trustees. Care will be taken to ensure that such successors are not excluded participators (for example, loan creditors).
+
+The EOT meets the trustee independence requirement because more than 50% of the trustees are persons who are not excluded participators. If at any point after the date of disposal either Nadia or Ellen cease to be a trustee without being replaced, and Dennis remains a trustee, then the settlement would cease to meet the trustee independence requirement because 50% of the trustees would be excluded participators.

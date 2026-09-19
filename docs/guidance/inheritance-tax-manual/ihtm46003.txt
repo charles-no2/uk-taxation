@@ -1,0 +1,50 @@
+Basic Principles: how the RNRB is applied.
+Identifier: IHTM46003
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46003
+Published: 2017-04-05T15:47:45+01:00
+Updated: 2022-06-16T16:18:10+01:00
+Retrieved (UTC): 2026-09-18T15:10:51.228544+00:00
+
+RNRB is an extra nil-rate band. It is available in addition to the existing nil-rate band (NRB) if the qualifying conditions are met. In calculating the Inheritance Tax (IHT) due on the estate the RNRB is not applied directly to the value of the home, or ‘qualifying residential interest’ (IHTM46011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46011)). It is applied to the value of a person’s estate on death before applying the existing NRB. However, unlike the existing NRB, it does not apply to lifetime transfers made within seven years of the death.
+
+Examples:
+
+Anthony dies in August 2020 with an estate valued at £490,000, all of which is left to his children. His estate is entitled to RNRB of £175,000 and a NRB of £325,000.
+
+Example 1 |    |
+
+Value of the estate |  £490,000 |
+
+Deduct RNRB |  -£175,000 |
+
+Excess |  £315,000 |
+
+Deduct NRB |  -£315,000 |
+
+Value taxed at 40% |  Nil |
+
+In this case the whole of the RNRB has been used up, but £10,000 out of the available NRB of £325,000 remains unused and could be transferred to Anthony’s wife or civil partner.
+
+OR
+
+Delilah dies in October 2020 leaving an estate worth £750,000, to her granddaughter. She had previously made gifts of £700,000 to her other grandchildren and a nephew within seven years of her death. Delilah’s estate qualifies for RNRB of £175,000 and a NRB of £325,000.
+
+The NRB of £325,000 is applied against the lifetime gifts of £700,000 first:
+
+Example 2 |    |
+
+Chargeable lifetime gifts |  £700,000 |
+
+Less NRB |  -£325,000 |
+
+Value on which IHT due |  £375,000 |
+
+The chargeable lifetime gifts use up all of the NRB and £375,000 of the gifts are subject to IHT. In addition to the gifts, IHT is also due on the estate and although all the NRB has been used up, RNRB remains available to set against the estate value.
+
+Result |    |
+
+Estate value |  £750,000 |
+
+Less RNRB |  -£175,000 |
+
+Value on which IHT due |  £575,000 |

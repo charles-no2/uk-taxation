@@ -1,0 +1,46 @@
+Non-resident companies: double taxation agreements: overseas tax payable by non-resident company
+Identifier: CG57381
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57381
+Published: 2016-03-12T11:43:36+00:00
+Updated: 2023-08-21T10:20:02+01:00
+Retrieved (UTC): 2026-09-18T14:43:54.271682+00:00
+
+The non-resident company may have to pay tax on the gain in its country of residence. UK residents to whom the gain is apportioned will get relief for this tax. The two methods of giving relief are:
+
+- either the UK resident can claim tax credit relief,
+
+or
+
+- a proportionate part of the tax can be claimed in computing the apportioned gain
+
+Relief is given on a proportion of the foreign tax equal to the proportion of the total gain attributable to the UK resident. This amount is set-off against the charge to Capital Gains Tax or Corporation Tax on the relevant chargeable gains.
+
+If tax credit relief is allowed no deduction can be allowed in computing the chargeable gain.
+
+If the UK resident does not want to claim tax credit relief, the tax can be deducted in computing the gain, see INTM169010 (http://ttp://internal.active.hmrci/manual/international-manual/intm169010)+. The foreign tax paid does not qualify for indexation allowance. Although it is an allowable deduction in computing the gain it is not a deduction within TCGA92/S38 (1)(a) or TCGA92/S38 (1)(b). This means it is not relevant allowable expenditure for indexation allowance purposes, see CG17240 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17240). In all other respects you compute and apportion the gain in the usual way allowing the foreign tax paid as a deduction.
+
+The following example illustrates the differences between allowing any foreign tax paid by the non-resident company as tax credit relief or as a deduction in computing the gain.
+
+Facts
+
+- The non-resident company realises a gain of £20,000 computed under the normal Capital Gains Tax rules.
+
+- It has to pay £5,000 tax on this gain in its country of residence.
+
+- 75 per cent of the gain is attributable to a UK resident.
+
+Capital Gains Tax treatment
+
+A TCGA92/S13* charge of £20,000 @ 75 per cent = £15,000 is apportioned to the UK resident. Relief for the tax paid can be claimed in two ways.
+
+- TAX CREDIT RELIEF
+
+Suppose the UK resident is liable to Capital Gains Tax at 40 per cent. The tax payable would be £6,000. The UK resident can claim tax credit relief on the foreign tax of £5,000 paid by the company in the same proportion as the gain is apportioned. £5,000 @ 75 per cent = £3,750. The total tax payable by the UK resident becomes £2,250.
+
+- DEDUCTION IN COMPUTING THE GAIN
+
+The foreign tax paid of £5,000 can be deducted in computing the gain. No indexation allowance is due on this deduction. The gain to be apportioned becomes £20,000 - £5,000 = £15,000. The taxpayer's share is £15,000 @ 75 per cent = £11,250. At a rate of 40 per cent the tax payable would be £11,250 @ 40 per cent = £4,500.
+
+In this example you would expect the taxpayer to claim tax credit relief.
+
+* TCGA92/S13 was re-written for disposals from 6th of April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

@@ -1,0 +1,36 @@
+Close companies and settled property: example
+Identifier: IHTM16247
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16247
+Published: 2016-04-09T09:26:15+01:00
+Updated: 2022-02-22T12:25:54+00:00
+Retrieved (UTC): 2026-09-18T14:59:12.378144+00:00
+
+Calculating the chargeable value of the property (or part):
+
+A close company has assets in excess of £3million. It transfers cash of £1million to A and B absolutely.
+
+The company has 1000 shares in issue.
+
+The ‘participators’ are identified under IHTA84/S94 (2). They are:
+
+A - who holds 500 shares
+
+B - who holds 250 shares, and
+
+C - who holds 250 shares in his capacity as a trustee of a settlement. IHTA84/S99 (1)(a) causes S94 (2) to apply to him.
+
+The transferred amount of £1,000,000 is apportioned so that A is deemed to have made a transfer of value of (500 ÷ 1,000) x £1,000,000 = £500,000.
+
+From this figure we must deduct the amount of the transfer remaining in A’s estate (‘the amount by which his estate is more than it would be apart for the company’s transfer’ - S94(1)(a)). In this case he has accepted the money. His estate is ‘more’ by £500,000. So the taxable amount is £500,000 less £500,000 equals nil.
+
+As B is also an individual and has taken the money personally, his calculation follows the same lines.
+
+But C is also a participator, and (250 / 1,000) x £1m is apportioned to him under S99(1)(a) i.e. £250,000.
+
+The amount to be taxed in relation to C under S99 (2) is £250,000 less the amount by which the settlement in question is ‘more’ as a result of the company’s transfer - S99 (3).
+
+Thus, as C and his settlement received nothing, the calculation is £250,000 less nil =£250,000 chargeable under S99 (2) above.
+
+The last part of S99 (3) ‘leaving out of account the value of any rights or interests in the company’ means that the calculation stops here. S99 (3) prohibits the taking into account of the effects of these transactions by the company on the value of the shares (rights or interests), for example, the value of rights and interests still held by the shareholders as such could nullify the effect of all these provisions if that value were allowed into the above equation
+
+Also, if a company worth £3million gives away £1million as above, the thought might reasonably occur that the value of shares held by the shareholders personally has possibly dropped by about one-third. You might then wonder about ‘loss to the transferor’. You must put such thoughts out of your mind because such a claim does not exist.

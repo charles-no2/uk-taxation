@@ -1,0 +1,186 @@
+Annual allowance: pension input amounts: cash balance arrangements
+Identifier: PTM053400
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2018-12-14T01:28:14+00:00
+Retrieved (UTC): 2026-09-18T14:49:13.485417+00:00
+
+Glossary
+
+|
+
+PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+|
+
+How to find the opening value (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#IDAAXNMB)
+How to find the closing value (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#IDAGQMMB)
+Adjustments to the closing value (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#IDAOXMMB)
+If there has been a transfer into the arrangement in the pension input period (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#IDA1SMMB)
+If there has been a transfer out of the arrangement in the pension input period (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#IDATVMMB)
+If there has been a pension debit from the arrangement in the pension input period (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#pensiondebit)
+If there has been a pension credit to the arrangement in the pension input period (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#pensioncredit)
+If there has been a benefit crystallisation event (BCE) under the arrangement during the pension input period (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#bce)
+If there has been a reduction in the member’s benefits rights under the arrangement in the pension input period because the scheme administrator has paid an amount of the member’s annual allowance charge for any tax year (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#schemepays)
+Other adjustment where there have been minimum payments because the arrangement is contracted out of the State Second Pension (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#other)
+If there has been any payment of pension advice allowance from the arrangement in the pension input period (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#PensAdvice)
+
+Note – for tax year 2015-16 there are transitional rules for calculating pension input amounts. PTM058070 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070) has more details.
+
+Sections 230 to 232 Finance Act 2004
+
+The method of valuing pension savings to a cash balance arrangement is similar to that for defined benefits arrangements. The pension savings amount is the increase in the value of the member’s promised pension fund over the pension input period. This is the difference between the value of the member’s promised pension pot immediately before the start of the pension input period (the opening value) and the value of the promised pension pot at the end of the pension input period (the closing value). If the difference is a negative amount for a pension input period then the pension input amount for the arrangement is nil for that pension input period.
+
+How to find the opening value
+
+This is a 2 step process.
+
+Step 1
+
+Find the amount of the promised pension fund that the member had immediately before the start of the pension input period.
+
+Typically, this is the amount of the built up promised pension fund at the end of the immediately preceding pension input period. It is the amount that would be available to the member if they retired at that time having already reached normal pension age and without any extra benefits for ill health. So, if the member took the benefits at that time, what would they get without any adjustment for early payment? PTM053610 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053610) has more details on this aspect.
+
+Note: any adjustment made to the closing value of the immediately preceding pension input period applies only for that previous period. The adjustment is not taken into account again when calculating the opening value for the next or any subsequent pension input period.
+
+If it is the first pension input amount for the arrangement because the member’s benefits have started to build up for the first time under the arrangement, the opening value of the member’s promised fund is nil. Typically, this will be the case where the first pension input amount is for a new arrangement.
+
+If it is the first pension input amount for the arrangement because the member’s benefits have started to build up again under the arrangement, the opening value of the member’s promised fund is the amount that had built up immediately before the start of the pension input period. Typically, this will be the case for an arrangement where the member became a deferred member (as defined for the purpose of the tax rules) under that arrangement prior to 6 April 2006 and has remained so from then on until a point on or after 6 April 2006 when benefits start to build up again under that arrangement.
+
+PTM053900 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053900) has more information about pre-6 April 2006 deferred members including details on where a member may have ceased to accrue retirement benefits but nevertheless does not count as being a deferred member for the purpose of the tax rules since before 6 April 2006.
+
+Step 2
+
+Increase this amount by the 12 month increase in the CPI to the September before the start of the tax year for which the calculation is being done.
+
+Note – for tax year 2015-16 there are transitional rules for calculating pension input amounts. PTM058070 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070) has more details.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#Top)
+
+How to find the closing value
+
+The closing value is the amount of the member’s promised pension fund at the end of the pension input period.
+
+Example
+
+Mark is a member of a cash balance arrangement. His pension promise is that his pension pot will be increased by 12 per cent of his pay each year with a minimum amount of £10,000. For the purpose of this example, the CPI annual increase is 3 per cent.
+
+Immediately before the start of his pension input period Mark’s fund was at £156,000. This amount is increased by 3 per cent to £160,680. This is Mark’s opening value.
+
+Mark’s pay for the year was £82,000, 12 per cent of which is £9,840. This is less than the promised minimum increase to his pension pot, so £10,000 was added to Mark’s promised funds. This brings Mark’s closing value to £166,000.
+
+No adjustments need to be made to Mark's closing value as, during the pension input period, he has not had any transfers in or out, benefit crystallisation events (BCEs), pension debits or pension credits, or reduction in benefits because the scheme has paid an annual allowance charge for Mark.
+
+Mark’s pension input is the difference between his opening value (£160,680) and his closing value (£166,000). Mark’s pension savings amount is £5,320.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#Top)
+
+Adjustments to the closing value
+
+Certain events can cause the closing value of the member’s promised pension fund to be more or less than it would otherwise be. These events, in relation to a member's arrangement, include where:
+
+- a transfer payment is made or received,
+
+- a pension debit or pension credit is implemented,
+
+- a BCE has occurred (the most likely being when the member starts to take some or all of their benefits),
+
+- the member's promised pension fund has been reduced in return for their scheme paying some or all of the member's annual allowance charge for a tax year.
+
+When there is such an event, the closing value for the pension input period in which the event occurred must be adjusted (as shown in the sections below).
+
+The adjustment applies only for the pension input period in which the event occurred. It is not taken into account again when calculating the opening/closing values for the next or any subsequent pension input period.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#Top)
+
+If there has been a transfer into the arrangement in the pension input period
+
+Deduct the amount of the increase in rights available to provide benefits relating to the transfer from the closing value.
+
+There must be a direct link between the amount of the transfer payment and the amount of the increase in rights available to provide benefits (‘amount of increased rights’) relating to the transfer. The deduction from the pension input amount is the amount of increased rights that is funded by the transferred amount.
+
+If the amount of increased rights relating to the transfer in is more than the amount of increased rights that could have been funded by the transfer payment, the ‘excess’ amount of increased rights is included in the pension input amount calculation.
+
+An exception to these conditions is where:
+
+- rights are transferred from one registered pension scheme to another as part of a ‘block transfer’, and
+
+- the value of the rights given up in the transferring scheme is equal (or virtually equal) to the value of the rights granted in the receiving scheme in connection with the block transfer, but,
+
+- due to underfunding in the transferring scheme, the sums and assets transferred does not support the value of the rights being transferred.
+
+PTM053700 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053700) has more details about the adjustments made to the closing value in relation to a transfer in.
+
+PTM053710 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053710) has more details about ‘block transfers’.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#Top)
+
+If there has been a transfer out of the arrangement in the pension input period
+
+If the transfer is to another registered pension scheme or an overseas pension scheme that is a qualifying recognised overseas pension scheme add the amount of the reduction in rights available to provide benefits relating to the transfer to the closing value.
+
+Normally the decrease in the rights available to provide benefits will be fully reflected in the amount of the transfer payment, so the full amount of the decrease is added back to the closing value.
+
+Where the decrease in the rights available to provide benefits occurs as part of a ‘block transfer’ but (due to underfunding in the transferring scheme) the transfer payment does not support the amount of the rights transferred, the full amount of the decrease is usually added back to the closing value.
+
+PTM053700 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053700) has more details about the adjustments made to the closing value in relation to a transfer out.
+
+PTM053710 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053710) has more details about ‘block transfers’.
+
+If the transfer is not to a registered pension scheme or a qualifying recognised overseas pension scheme there is no need to add back the reduction in rights relating to the transfer to the closing value. The transfer out is an unauthorised member payment.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#Top)
+
+If there has been a pension debit from the arrangement in the pension input period
+
+Add the amount of the reduction in rights available to provide benefits relating to the pension debit to the closing value.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#Top)
+
+If there has been a pension credit to the arrangement in the pension input period
+
+Deduct the amount of the increase in rights available to provide benefits relating to the pension credit from the closing value. A pension credit for this purpose means only a pension credit from the same or another registered pension scheme.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#Top)
+
+If there has been a benefit crystallisation event (BCE) under the arrangement during the pension input period
+
+If BCE 1, BCE 2, BCE 3 or BCE 4 occurs during the pension input period:
+
+- add the amount of the reduction in rights available to provide benefits relating to the BCE to the closing value.
+
+The requirement in relation to a BCE 3 does not apply if:
+
+- the BCE 3 occurred only as a result of a provision contained in, or made under, any enactment, and
+
+- that enactment was not comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#Top)
+
+If there has been a reduction in the member’s benefits rights under the arrangement in the pension input period because the scheme administrator has paid an amount of the member’s annual allowance charge for any tax year
+
+Add back the amount of the reduction in rights that relates to the adjustment made as a consequence of paying the amount of tax charge to the closing value.
+
+Note, this add back is not made if the adjustment to the member’s rights to take account of an amount of tax paid relates to:
+
+- an amount of annual allowance charge that the member has elected to require a pension scheme to pay,
+
+- the annual allowance charge liability arose before 28 January 2015,
+
+- the notice given to the scheme administrator in respect of that liability was given before 28 January 2015, and
+
+- that amount of charge is for the same tax year in which the member becomes entitled to all benefits under the pension scheme in question (PTM053740 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053740) has more details).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400#Top)
+
+Other adjustment where there have been minimum payments because the arrangement is contracted out of the State Second Pension
+
+Subtract from what would otherwise be the pension input amount for the pension input period the amount of any minimum payments made during the pension input period in relation to the individual in connection with the arrangement. These are minimum payments made under:
+
+- section 8 of the Pension Schemes Act 1993, or
+
+- section 4 of the Pension Schemes (Northern Ireland) Act 1993.
+
+If there has been any payment of pension advice allowance from the arrangement in the pension input period
+
+Add to the closing value the amounts of any payments of pension advice allowance that have been made from the arrangement during the pension input period. PTM142000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm142000) has more details about the pension advice allowance.

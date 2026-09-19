@@ -1,0 +1,58 @@
+Rebasing to 31/3/82: kink test: two computations must be made
+Identifier: CG16730
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16730
+Published: 2016-03-12T10:15:33+00:00
+Updated: 2021-01-07T13:27:28+00:00
+Retrieved (UTC): 2026-09-18T14:38:15.176898+00:00
+
+Capital Gains Tax
+
+The kink test does not apply to gains on disposals on or after 6 April 2008 that are charged to capital gains tax.
+
+Corporation Tax
+
+The kink test will still apply where a company disposes of an asset it has held since 31 March 1982 where the company has not made an election under TCGA92/S35(5). The effect of the election is that the March 1982 value will used when calculating the company’s gains, see CG16760. The kink test is not required where the disposal is one to which a no gain/no loss rule applies as the benefit of rebasing is deferred.
+
+Applying the kink test: the basics
+
+The rebasing legislation requires two computations of the gain or loss accruing on the disposal to be made
+
+- the first by reference to a deemed acquisition of the asset as at 31 March 1982 (the rebased gain or loss), and
+
+- the second is without rebasing, so based on the allowable cost under the usual rules.
+
+Applying the kink test: assets held since April 1965
+
+Where a company has held an asset since the introduction of corporation tax in 1965 (or has acquied such an asset through no gain/no loss transfers going back to that time) then the special rules in TCGA92/SCH2 for assets held at that time need to be taken into account when making the second computation. This means that if a valuation of the asset as at 6 April 1965 is necessary either mandatorily or as a result of an election then that value is the starting point for the computation of the gain or loss. Otherwise the computation of the gain or loss will normally be based on time-apportionment under TCGA92/SCH3/PARA6. Guidance on the rules for assets held at 6 April 1965 is at CG15500.
+
+Applying the kink test: indexation allowance (TCGA92/S55)
+
+In computing both the rebased gain and the gain on the old rules, indexation allowance is given by reference to the higher of -
+
+- the 31 March 1982 market value, or
+
+- the relevant allowable expenditure incurred up to 31 March 1982
+
+by virtue of TCGA92/S55; and the relevant gain or loss is
+
+- after indexation allowance, but
+
+- before any reliefs.
+
+See CG17405+.
+
+Applying the kink test: the final step
+
+Finally the rebased gain or loss is compared with the gain or loss on the old rules. This is known as the kink test and the rules are
+
+- if both computations result in a gain select the smaller gain
+
+- if both computations result in a loss select the smaller loss
+
+- if one computation results in a gain and the other results in a loss the disposal is deemed to be at no gain/no loss
+
+- if the computation under the old rules results in no actual gain or loss or the old rules deem there to be neither a gain nor a loss then the disposal is deemed to be at no gain/no loss whatever the value of the rebased gain or loss.
+
+This gives the gain or loss which, subject to any further reliefs or exemptions, is the chargeable gain or allowable loss.
+
+Further guidance on indexation allowance is at CG17200+

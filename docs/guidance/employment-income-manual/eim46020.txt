@@ -1,0 +1,43 @@
+Section 554Z5: other provisions
+Identifier: EIM46020
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim46020
+Published: 2017-10-02T16:00:55+01:00
+Updated: 2017-10-02T16:00:14+01:00
+Retrieved (UTC): 2026-09-18T14:23:38.010802+00:00
+
+ITEPA 2003 - section 554Z5
+
+Besides the conditions listed in the previous paragraphs, the section contains other provisions which need to be considered.
+
+Where the earlier tax liability arose as a result of a relevant step within Part 7A on sum or asset Q, the sum or asset which is the subject of the later relevant step (P), is treated as overlapping with any other sum or asset, provided that these have been treated as overlapping with the original sum or asset Q.
+
+Where there are multiple relevant steps in a chain of transactions, this has the effect of reducing the value of the relevant steps provided they arise from the same sum of money or asset. This is provided for by section 554Z5(7) and (8).
+
+Some relevant steps will consist of withdrawal of both capital elements and growth elements. Where this is the case section 554Z5(6) provides that it needs to be just and reasonable to conclude that the sums or assets P and Q are the same sum of money or asset or that sum or asset P directly or indirectly represents sum or asset Q.
+
+For example, an amount of £1 million was put into an EBT in the tax year 2005-2006. It was immediately allocated into a sub-trust and tax was correctly accounted for following the allocation. By 2018-2019, the fund had risen in value to £1.7 million. A relevant step is taken in 2018-2019 where £600,000 is loaned to the employee, leaving £1.1 million still in the EBT.
+
+The EBT had grown by £700,000 in cash terms and by 2018-2019 is worth 170% of its original value. It’s necessary to calculate the amount by which the £600,000 overlaps with the original contribution.
+
+The £600,000 will consist of an amount of 100/170 which relates to the original contribution and 70/170 which will represent growth. In cash terms:
+
+£600,000 × (100 ÷ 170) = £352,941
+£600,000 × (70 ÷ 170) = £247,059
+
+It is just and reasonable to conclude that the overlapping amount of sum P and sum Q is therefore £352,941.
+
+Relief under this section is not allowed where the earlier tax liability arose from an earmarking relevant step which was taken prior to 6 April 2011 and which is, or would be if large enough, reduced under paragraph 59 Schedule 2, FA 2011 – please see section 554Z5(2).
+
+The earlier tax liability can be a liability of the employee personally or of any person linked with them – section 554Z5(9)(a).
+
+Any reference to a liability to Income Tax does not include any liabilities by reason of section 175, which charges the benefit of having a taxable cheap loan as earnings. Any amounts paid on the benefit of a loan declared on a P11D will not be available for relief. The benefit under section 175 is a charge on having a loan at a low rate of interest rather than an acceptance that what was described as a loan was in reality an amount of income – section 554Z5(9)(b).
+
+Section 554Z5 is part of a series of sections which reduce the value of relevant steps. These sections have to be considered in a particular order. Section 554Z(10) requires that adjustments to the value of the relevant steps are made after any adjustments under section 554Z4 (residence issues) or 554Z7 (exercise price of share options) but before any adjustments under sections 554Z6 (overlap with certain earnings) or 554Z8 (consideration given for relevant step).
+
+In deciding whether an amount has been paid for the purposes of relief under the payment condition, no tax is considered to have been paid if it is:
+
+- a payment on account of Income Tax
+
+- an amount treated as a payment on account of an accelerated payment notice
+
+- a payment pending determination of an appeal in accordance with section 55 TMA 1970 – section 554Z5(11).

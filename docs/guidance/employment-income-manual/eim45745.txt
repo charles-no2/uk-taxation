@@ -1,0 +1,46 @@
+Employment income provided through third parties: amount of Part 7A income: exercise price of share options: reduction
+Identifier: EIM45745
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45745
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T13:19:14+01:00
+Retrieved (UTC): 2026-09-18T14:23:29.111107+00:00
+
+Section 554Z7(3) ITEPA 2003
+
+If the conditions in Section 554Z7(1) and (2) are met (see EIM45740 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45740)), you reduce the value of the relevant step.
+
+Reduction if Section 554Z4 has not applied
+
+You take two steps to reduce the value of the relevant step.
+
+Step 1. Calculate the value of the relevant step after any reductions under:
+
+- Section 554Z5 (overlap with earlier relevant step), see EIM45725 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45725), or
+
+- Section 554Z6 (overlap with certain earnings), see EIM45735 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735).
+
+Step 2. Reduce the result of Step 1 (but not below nil) by the amount of the sum of money which A would have to pay as mentioned in Section 554Z7(1)(d) or (2)(b), see EIM45740 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45740).
+
+Reduction if Section 554Z4 has applied
+
+You take two steps to reduce the value of the relevant step.
+
+Step 1. Calculate the value of the relevant step after any reductions under:
+
+- Section 554Z4 (residence issues), see EIM45720 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45720),
+
+- Section 554Z5 (overlap with earlier relevant step), see EIM45725 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45725), or
+
+- Section 554Z6 (overlap with certain earnings), see EIM45735 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735).
+
+Step 2. Reduce the value calculated at Step 1 by
+
+S x (Z3V — Z4V) / Z3V
+
+where
+
+- ‘S’ is the amount of the sum of money which A would have to pay as mentioned in Section 554Z7(1)(d) or (2)(b), see EIM45740 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45740),
+
+- ‘Z3V’ is the value of the relevant step as determined under Section 554Z3, see EIM45710 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45710), and
+
+- ‘Z4V’ is the amount of the reduction under Section 554Z4, see EIM45720 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45720).

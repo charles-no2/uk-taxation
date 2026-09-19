@@ -1,0 +1,32 @@
+Replacement property: Application of IHTA84/S118
+Identifier: IHTM24111
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24111
+Published: 2016-04-09T09:40:58+01:00
+Updated: 2016-02-11T17:09:38+00:00
+Retrieved (UTC): 2026-09-18T15:01:34.314559+00:00
+
+The following example shows how the replacement provisions operate.
+
+Example
+
+In 1981, A purchased Blackacre as an investment. Blackacre was farmed by a tenant, X. A had not previously owned any agricultural property.
+
+In 1986, A died. By Will, the residue of his estate was left to his spouse for life. After A’s estate had been fully administered, Blackacre was part of the residuary trust fund.
+
+Blackacre did not qualify for relief on A’s death because A did not occupy the property and had not owned it for seven year test to be satisfied.
+
+In 1989, the trustees sold Blackacre, which throughout had been farmed by X.
+
+In 1990, the trustees purchased Whiteacre, which was farmed by a tenant, Y.
+
+In 1991, A’s spouse died. Whiteacre was still farmed by Y.
+
+Under IHTA84/S118 (2) the seven year ownership test in IHTA84/S117 (b) will be treated as satisfied on the spouse’s death in 1991 if Whiteacre and Blackacre were owned (and occupied for the purposes of agriculture) for periods totalling at least seven out of the last ten years before the death.
+
+A’s spouse cannot directly satisfy that requirement, as she has only owned the property herself since 1986. However under IHTA84/S120 (1), for the purposes of IHTA84/S117, the spouse is deemed to have owned Blackacre during the period that A owned it, that is, from 1981.
+
+So on the spouse’s death agricultural relief is due as the spouse is able to satisfy the alternative 7 out of 10 years ownership requirement in IHTA84/S118 (2), both Blackacre and Whiteacre being occupied for the purposes of agriculture at all relevant times.
+
+However, the amount of the relief may be restricted by IHTA84/S118 (3) (IHTM24112 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24112)).
+
+In this example, the successive transfer provisions (IHTA84/S121) are not satisfied as Blackacre was not eligible for relief on A’s death and on the spouse’s death, Whiteacre was occupied by a tenant (IHTM24130 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24130)).

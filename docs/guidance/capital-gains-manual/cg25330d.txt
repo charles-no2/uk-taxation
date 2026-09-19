@@ -1,0 +1,346 @@
+Remittance basis: matching rules for relieving losses: example: Section S16ZC*** TCGA 1992
+Identifier: CG25330D
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25330d
+Published: 2016-03-12T10:24:16+00:00
+Updated: 2023-04-17T10:46:28+01:00
+Retrieved (UTC): 2026-09-18T14:38:53.696896+00:00
+
+Johann is a remittance basis user in all years. He has made an election under Section 16ZA*** TCGA 1992 so his foreign losses are allowable, subject to the rules in Section 16ZB*** TCGA 1992 and Section 16ZC*** TCGA 1992. His history of gains and losses is as follows:
+
+-
+
+|
+
+UK gains
+
+|
+
+UK losses
+
+|
+
+Foreign gains
+
+|
+
+Cash brought to UK
+
+|
+
+Foreign losses
+
+|
+
+2008-09
+
+|
+
+100,000
+
+|
+
+25,000
+
+|
+
+30,000
+
+|
+
+0
+
+|
+
+-
+
+|
+
+2009-10
+
+|
+
+17,000
+
+|
+
+5,000
+
+|
+
+50,000
+
+|
+
+60,000 *
+
+|
+
+30,000
+
+|
+
+2010-11
+
+|
+
+0
+
+|
+
+0
+
+|
+
+12,000
+
+|
+
+20,000 **
+
+|
+
+25,000
+
+|
+
+* accepted after enquiry to establish facts and application of mixed fund rules (if necessary - see CG25385 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25385)+) as being £30,000 from 2008-09 plus £30,000 from 2009-10
+
+** accepted after enquiry to establish facts and application of mixed fund rules (if necessary - see CG25385 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25385)+) as being all from 2009-10
+
+2008-09
+
+Relevant allowable losses are £25,000 (Section 16ZC (7)*** TCGA 1992)
+
+Chargeable gains classified and ordered according to Section 16ZC (3)*** TCGA 1992:
+
+-
+
+|
+
+Amount
+
+|
+
+a) 2008-09 foreign chargeable gains remitted
+
+|
+
+Nil
+
+|
+
+b) 2008-09 foreign chargeable gains not remitted
+
+|
+
+30,000
+
+|
+
+c) 2008-09 other chargeable gains
+
+|
+
+100,000
+
+|
+
+Step 1: deduct relevant allowable losses from the gains so ordered. The net gains are therefore:
+
+-
+
+|
+
+Amount
+
+|
+
+a) 2008-09 foreign chargeable gains remitted
+
+|
+
+Nil
+
+|
+
+b) 2008-09 foreign chargeable gains not remitted
+
+|
+
+5,000
+
+|
+
+c) 2008-09 other chargeable gains
+
+|
+
+100,000
+
+|
+
+Step 2: the total amount of chargeable gains on which tax is charged by Section 2(2)*** TCGA 1992 is equal to the amount it would be if there were no relevant allowable losses (i.e. £100,000 UK gains) LESS the total amount deducted at step 1 from gains in classes (a) and (c) (i.e. £Nil).
+
+So in 2008-09 Capital Gains Tax is charged on £100,000. The effect of the rules is to use allowable losses to frank unremitted foreign chargeable gains even though that leaves UK gains in charge.
+
+The foreign chargeable gain not remitted is reduced by the allowable UK loss deducted from it at step 1 so going forward it becomes £5,000 (Section 16ZD (3)*** TCGA 1992). This is important to remember if it is remitted in a later year (see below).
+
+2009-10
+
+Relevant allowable losses are £35,000 (Section 16ZC(7)*** TCGA 1992)
+
+Chargeable gains classified and ordered according to Section 16ZC(3)*** TCGA 1992:
+
+-
+
+|
+
+Amount
+
+|
+
+a) 2009-10 foreign chargeable gains remitted
+
+|
+
+30,000
+
+|
+
+b) 2009-10 foreign chargeable gains not remitted
+
+|
+
+20,000
+
+|
+
+c) 2009-10 other chargeable gains
+
+|
+
+17,000
+
+|
+
+Step 1: deduct relevant allowable losses from the gains so ordered. The net gains are therefore:
+
+-
+
+|
+
+Amount
+
+|
+
+a) 2009-10 foreign chargeable gains remitted
+
+|
+
+Nil
+
+|
+
+b) 2009-10 foreign chargeable gains not remitted
+
+|
+
+15,000
+
+|
+
+c) 2009-10 other chargeable gains
+
+|
+
+17,000
+
+|
+
+Step 2: the total amount of chargeable gains on which tax is charged by Section 2(2)*** TCGA 1992 is equal to the amount it would be if there were no relevant allowable losses (i.e. £35,000 remitted gains (£5,000 from 2008-09 after set-off of 2008-09 losses plus £30,000 from 2009-10) plus £17,000 UK gains = £52,000) LESS the total amount deducted at step 1 from gains in classes (a) and (c) (i.e. £30,000).
+
+So in 2009-10 Capital Gains Tax is charged on £22,000 (52,000 - 30,000). The effect of the rules is to use allowable losses to frank unremitted foreign chargeable gains even though that leaves UK gains in charge.
+
+The foreign chargeable gain not remitted (category (b)) is reduced by the loss deducted from it at step 1, so it becomes £15,000 (Section 16ZD(3)*** TCGA 1992). This will be significant if it is remitted in a later year (see below).
+
+2010-11
+
+Relevant allowable losses are £25,000 (Section 16ZC(7)*** TCGA 1992)
+
+Chargeable gains classified and ordered according to Section 16ZC(3)*** TCGA 1992:
+
+-
+
+|
+
+Amount
+
+|
+
+a) 2010-11 foreign chargeable gains remitted
+
+|
+
+Nil
+
+|
+
+b) 2010-11 foreign chargeable gains not remitted
+
+|
+
+12,000
+
+|
+
+c) 2010-11 other chargeable gains
+
+|
+
+Nil
+
+|
+
+Step 1: deduct relevant allowable losses from the gains so ordered. The net gains are therefore:
+
+-
+
+|
+
+Amount
+
+|
+
+a) 2010-11 foreign chargeable gains remitted
+
+|
+
+Nil
+
+|
+
+b) 2010-11 foreign chargeable gains not remitted
+
+|
+
+Nil
+
+|
+
+c) 2010-11 other chargeable gains
+
+|
+
+Nil
+
+|
+
+Step 2: the total amount of chargeable gains on which tax is charged by Section 2(2)*** TCGA 1992 is equal to the amount it would be if there were no relevant allowable losses (i.e. £15,000, the adjusted residue of the 2009-10 gain; see above) LESS the total amount deducted at step 1 from gains in classes (a) and (c) (i.e. £Nil).
+
+So in 2010-2011 Capital Gains Tax is charged on £15,000. Note that none of the foreign loss arising in 2010-2011 can be relieved against the chargeable gain which accrued in the earlier year, even though that gain was not remitted until the year of loss. This is consistent with the fact that UK losses cannot be carried back to set against gains of earlier years.
+
+The foreign chargeable gain not remitted (category (b)) is reduced by the loss deducted from it at step 1, so it becomes £Nil (Section 16ZD (3)*** TCGA 1992). It has been franked by the loss of the period and will not give rise to a taxable remittance if cash etc representing it is brought to the UK in a later year.
+
+The unused balance of allowable losses (£25,000-£12,000 = £13,000) is carried forward and may be used to relieve chargeable gains of later years. (Section 16ZD (2)*** TCGA 1992).
+
+***These provisions were re-written for disposals from 6 April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

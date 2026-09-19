@@ -1,0 +1,24 @@
+Schedule 4C pool
+Identifier: CG39260
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39260
+Published: 2016-03-12T11:00:24+00:00
+Updated: 2016-01-25T16:44:06+00:00
+Retrieved (UTC): 2026-09-18T14:47:54.668426+00:00
+
+TCGA92/Sch4C/para1
+
+The trustees are treated as having a Schedule 4C pool if they make a transfer of value to which TCGA92/Sch4B applies. The pool is made up of three possible elements:
+
+- any outstanding section 2(2) amounts as at the end of the year of transfer, CG39265
+
+- any Schedule 4B gain created by the transfer of value, CG39270
+
+- any Schedule 4B gains created by further transfers of value in the same tax year.
+
+There is no requirement that the transfer of value creates a Schedule 4B gain or that the Schedule 4B gain is going to be taxed on the beneficiaries who receive capital payments. Schedule 4B will still apply to a transfer of value even if the only trust property is non-chargeable assets. Also it is possible that any Schedule 4B gain is taxed on the settlor under TCGA92/S86 leaving no TCGA92/Sch4B to be taxed beneficiaries who receive capital payments.
+
+The significance of this is that it could be that the only amounts in the Schedule 4C pool are the outstanding section 2(2) amounts. This matters because, unlike TCGA92/S87, capital payments to beneficiaries who do not pay UK tax are not matched against the Schedule 4C pool. That means those gains remain available for matching when capital payments are received by UK resident beneficiaries.
+
+It is possible that further amounts could be added to the pool after the year of transfer if the trustees make further transfers of value in later years, CG39275.
+
+If the settlement ceases to exist after the trustees have made a transfer of value the rules in TCGA92/Sch4C apply as if a tax year ended immediately before the cessation, TCGA92/Sch4C/para13A.

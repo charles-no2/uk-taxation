@@ -1,0 +1,222 @@
+Anti-avoidance rule for share exchanges and company reconstructions from November 2025
+Identifier: CG-APP20
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app20
+Published: 2026-05-28T14:56:30+01:00
+Updated: 2026-06-10T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:30:13.129028+00:00
+
+Changes to the capital gains share exchanges and company reconstructions anti-avoidance rule
+
+Changes to these anti-avoidance rules were announced at Budget 2025, details can be found at https://www.gov.uk/government/publications/capital-gains-tax-share-exchanges-and-reorganisations (https://www.gov.uk/government/publications/capital-gains-tax-share-exchanges-and-reorganisations). The changes apply from 26 November 2025 and were legislated in Finance Act 2026.
+
+This Capital Gains Manual annex provides HMRC’s guidance on the operation of the revised anti-avoidance rules and replaces most of the provisional guidance at appendix 19. The content will be incorporated into the main manual in due course. The guidance on the transitional arrangements for clearance applications submitted before the rule changed remains in appendix 19 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app19).
+
+Changes have been made to the following anti-avoidance rules in Taxation of Chargeable Gains Act 1992 (“TCGA”) –
+
+- Section 137: exchanges of shares and debentures (together: “securities”) and the shareholder treatment of company reconstructions. Sections 135 and 136.
+
+- Section 103K: exchanges, mergers and reconstructions of collective investment schemes. Sections 103G to 103I,
+
+- Section 139(5): business transfers as part of a scheme of reconstruction.
+
+This guidance focuses on the changes to section 137 which are largely replicated in the other provisions. All statutory references are to TCGA.
+
+Overview
+
+Section 137 is an anti-avoidance rule that can apply where section 135 would otherwise apply the “no disposal” treatment where a person passes their shares in one company (“company A”) to another (“company B”) in return for an issue to them of new shares in company B.
+
+HMRC will bear in mind the following broad principles when considering whether section 137 may be applicable to a transaction –
+
+- The deferral of a charge to tax is not, of itself, tax avoidance. The purpose of section 135 is to provide deferral and the anti-avoidance rule has to be viewed in that light. HMRC will have regard to the established case law on anti-avoidance rules such as the case when considering whether counteraction is warranted.
+
+- The rule applies to arrangements that would reduce or avoid a liability to tax and is therefore an “objective” test that operates in a similar way to rules that refer to arrangements that result in a “tax advantage”.
+
+- The rule operates as a counteraction regime and it is for HMRC to use its enquiry etc. powers to apply where appropriate. However, it is open to taxpayers to self-assess where they consider the rule applies to a transaction.
+
+- Where the rule applies then other elements of the capital gains legislation will apply accordingly. For example: the no gain/no loss treatment under section 171 may apply where there is a disposal between members of the same group of companies by a share exchange and section 135 does not apply.
+
+Previous wording
+
+The previous wording of the anti-avoidance rule meant that it applied where a share exchange does not meet both of the following conditions:
+
+- It was effected for bona fide commercial reasons and
+
+- It did not form part of a scheme or arrangements of which the main purpose, or one of the main purposes, was avoidance of liability to Capital Gains Tax or Corporation Tax
+
+HMRC’s long-held position is that section 137 only applies for Corporation Tax purposes where there is avoidance of tax on, specifically, chargeable gains. The reason for this is that when the rule was originally introduced in Finance Bill 1977 it also referred to avoidance of Income Tax but this was withdrawn following debate and did not appear in legislation. It is therefore clear that Parliament intended for the rule to apply only to avoidance of tax on chargeable gains and the reference to Corporation Tax has been interpreted accordingly. This approach will continue to be applied to the revised section 137. Consequently, a statutory clearance provided under section 138 in respect of section 137 confirms only that HMRC considers that there is no main purpose of avoiding corporation tax on, specifically, chargeable gains.
+
+The effect of the rule applying was that section 135 did not apply to treat the exchange as a share reorganisation, meaning that shareholders were treated as disposing of the securities given in the exchange rather than benefitting from “no disposal” treatment under section 127.
+
+The previous version of the rule affected all shareholders apart from those, either alone or with connected persons, holding 5% or less of the shares of, or of any class of, the securities in the original company involved in the transaction, referred to as "company A" in both sections 135 and 136.
+
+Revised wording
+
+The revised rule will apply where:
+
+- There are arrangements that relate to an exchange of securities, and
+
+- The main purpose, or one of the main purposes, of the arrangements is to reduce or avoid a capital gains liability.
+
+The reason for the change is that the Court of Appeal[1] (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app20) has confirmed that the previous wording focussed on the purposes of the exchange itself, finding that the exchange was not part of a scheme or arrangement to avoid tax. and that even where tax avoidance arrangements are present that may not be sufficient to amount to a main purpose. The revised wording puts the focus of the purpose test on the particular arrangements that are put in place to avoid tax. It also follows the approach of most modern Targeted Anti-Avoidance Rules (“TAARs”) which also dispense with a bona fide commercial reasons condition.
+
+Put simply: the changes to the rule are intended to deter and, where necessary, counteract, situations where additional arrangements have been included in a commercial transaction in order to reduce or avoid a liability to tax on chargeable gains.
+
+It remains the case that where compliance colleagues consider that the rule may be applicable advice must be sought from the Capital Gains Technical Team.
+
+Deferral alone is not a tax advantage for the purposes of section 137
+
+The revised wording refers to reducing or avoiding a liability to tax on chargeable gains. HMRC will accept that it does not apply where the advantage consists solely of the deferral of a liability, because the purpose of section 135 is to provide deferral and the anti-avoidance rule has to be viewed in that light.
+
+The Economic Secretary to the Treasury said the following when introducing the changes during the Committee Stage of the Finance Bill –
+
+“The amendments introduced by the clauses will allow HMRC to address situations where arrangements have been added to otherwise commercial transactions that reduce or eliminate, rather than just defer, a tax charge, allowing them to be more effectively challenged. The rule has been updated so that it affects only the shareholders who benefit directly from the avoidance.” Hansard 27 January 2026.
+
+In addition, the Courts have contrasted obtaining the deferral of a tax charge as provided in legislation with avoiding a charge altogether. Notably, Lord Nolan in Willoughby[2] (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app20) said –
+
+“But it would be absurd in the context of section 741 to describe as tax avoidance the acceptance of an offer of freedom from tax which Parliament has deliberately made. Tax avoidance within the meaning of section 741 is a course of action designed to conflict with or defeat the evident intention of Parliament.”
+
+HMRC considers this approach is applicable to the deferral offered by the share reorganisation exchange rules. Although it was unnecessary to apply Lord Nolan’s analysis directly in Delinian Ltd v HMRC [2023] EWCA Civ 1281 (“Euromoney”). That decision does confirm that:
+
+- Where there is deferral of a gain resulting from the share reorganisation rules, and
+
+- The deferred gain remains chargeable to tax
+
+then that not avoidance of tax.
+
+“Lord Nolan in Willoughby was contrasting tax avoidance with the acceptance of a deliberate offer made by Parliament of freedom from tax. That was not the situation in this case. … That was to rely on a provision intended to defer tax to secure an outcome where no tax was paid. The meaning of tax avoidance in section 137(1) is clear without the need to refer to Willoughby. If the scheme or arrangements lead to the non-payment of tax that would otherwise have had to be paid, even if deferred, then that is tax avoidance for these purposes.”
+
+In summary: the rule will not apply where the tax advantage obtained is the deferral of a tax liability that is fully in accordance with the purpose of the capital gains rules in the circumstances.
+
+The effect of the rule
+
+The effect of the rule applying is also changed. The previous rule simply disapplied the share exchange rule, which might affect shareholders who have not benefitted from the arrangements or result in a tax charge disproportionate to the advantage sought. The revised rule instead allows HMRC to make adjustments on a just and reasonable basis to counteract the tax advantage sought.
+
+Only the shareholders obtaining a tax advantage will be affected and in a proportionate way and therefore holders of 5% or less of any class of securities in the original company are no longer outside the scope of the rule. Indeed, a relatively small shareholding in a large enterprise may be of very significant value and the potential tax advantage from avoidance arrangements may be commensurate. Therefore, it is right that where any smaller shareholders also benefit from arrangements put in place for others then the tax advantage will be counteracted. The amended legislation still looks to the purpose of the arrangements and their effect, not the intention of any individual shareholder who may benefit from the resulting tax advantage. The change is the ability for HMRC to focus counteraction only on those who would otherwise benefit.
+
+HMRC is not aware of there being a significant issue with widely held or listed companies undertaking transactions that include arrangements that facilitate tax avoidance by their shareholders
+
+The adjustments are to be made by adjusting an existing assessment or by making a new assessment applying the normal tax administration rules for issuing a closure notice following an enquiry or, where necessary, making a discovery assessment. This means that the usual provisions for matters such as making appeals and charging interest or penalties will apply, as was the case for the previous version of the rule.
+
+It is expected that adjustments under the anti-avoidance rule will generally reflect the full or partial disapplication of the share exchange rule, as anticipated in the legislation.
+
+It is assumed that shareholders who do undertake transactions that are potentially within the scope of the rule will generally have taken the view that it does not apply when submitting a self-assessment return. However, where it is considered that the rule does apply then customers should include an adjustment in their return and explain the basis for this as a “white space” entry or, for corporation tax, by an explanation in the relevant capital gains computation.
+
+HMRC’s view of the concepts of “arrangements” and “main purpose” are well established and are set out in Companies and Groups of Companies: Administration: Capital loss anti-avoidance rule (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg40240p) for the capital loss TAARs at CG40242 to CG40427.
+
+However, the wording of the revised section 137 is more tightly focussed than some other anti-avoidance rules: the arrangements in question must relate to the exchange or scheme of reconstruction. The rule does not feature broader wording such as the arrangements being “in connection with” the exchange or reconstruction. This is relevant because the intention is that the rule will apply where the arrangements result in the existence of, or a particular feature of, the exchange or scheme of reconstruction. Typically, that will mean where securities of a certain type are included in a transaction in order to obtain a tax advantage or where the rights in securities are arranged to obtain one. In short: the rule will apply where the structure of the transaction itself reflects a purpose of obtaining the advantage.
+
+Where the rule applies to a transaction where the counterparty is a member of the same capital gains group then the no gain/no loss treatment under section 171 will apply where the usual conditions for that rule are met.
+
+Preparatory reorganisations
+
+There may be situations where arguably there are arrangements that result in a reduction in liability, but that reduction is fully in accordance with the purpose of the capital gains rules in the circumstances. That may be the case where an exchange or scheme of reconstruction is required as a preparatory step in moving a company or group into a tax-advantaged regime. The whole purpose of the transaction is to put the business into a position suitable for it to join the regime or potentially qualify for a relief. Where the reorganised business meets the requirements for the scheme or relief and that is in accordance with the purpose of the legislation then it would not be appropriate for HMRC to undertake counteraction as this would not be “just and reasonable” given the absence of avoidance, section 137(1B). Apart from that additional protection, HMRC does not consider that the revised wording affects its view of such transactions.
+
+In summary: HMRC does not consider that the rule would apply where corporate restructuring takes place in order to prepare a business for entry into a beneficial tax regime such as a Real Estate Investment Trust or the Non-Resident Capital Gains exemption regime provided there is no attempt to subvert the usual requirements of the regime.
+
+Similarly, HMRC does not consider that the rule would apply where a business is restructured so that a share sale will qualify for a relief or exemption should a sale take place after the relevant qualifying conditions for that relief have been met throughout the relevant period following the restructuring. For example: separating investment and trading activities with a view to any future sale of shares in a trading company qualifying for the Substantial Shareholding Exemption or separating commercial properties before transfer to a Real Estate Investment Trust or similar. This contrasts with situations where a proposed commercial transaction would not meet the conditions for such a relief at the time of the transaction, but a type of security is included in the exchange or scheme of reconstruction with the purpose of reducing or avoiding a liability to tax on capital gains.
+
+Other points
+
+HMRC does not consider that the share reorganisation anti-avoidance rules will be relevant where private equity transactions are structured to allow management shareholders a degree of choice in their investment. A common example is where managers are required to re-invest, but an arrangement is put in place to allow a choice of a tax-deferred basis (using the share reorganisation rules) or a post-tax basis (reinvesting cash proceeds). Or an overseas structure may include additional elements to take account of the position of UK management, such as the insertion of a company to block direct overseas taxation of UK participants.
+
+Section 138A provides for an earn-out that is to be settled by an unascertainable value or amount of securities to be treated as a security for the purposes of the share reorganisation rules. HMRC does not consider that the anti-avoidance rule would apply where an unascertainable earn-out is in the form of securities rather than cash. The ability to choose to structure an earn-out in such a way reflects the purpose of section 138A.
+
+Commencement and transitional rule
+
+See annex 19 of the Capital Gains Manual CG-APP19 - Changes to the share exchanges and company reconstructions anti-avoidance rule - interim guidance - HMRC internal manual - GOV.UK (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app19).
+
+Example 1
+
+A Ltd was established by Mr X and Ms Y who originally held 50% of the shares each. Later, shares were issued to employees who then held 20% reducing the holdings of Mr X and Ms Y to 40% each. A multinational group B Inc wished to take over A Ltd for cash. Mr X was planning to emigrate after receiving the proceeds and asked that instead of cash, he receive loan notes that would be redeemed after he had left the UK and so he would not be subject to UK CGT on the sale.
+
+Here an additional arrangement – the inclusion of payment in loan notes – was added to a commercial transaction in order for Mr X to obtain a tax advantage so HMRC would consider that the anti-avoidance rule applies. But rather than disapplying the share exchange treatment entirely, the counteraction will only apply to Mr X and it is just and reasonable for section 135 to be disapplied to his involvement in the exchange. There is no counteraction for Ms Y or for the employee shareholders because they would not obtain any advantage from the arrangements.
+
+If we assume that Mr X and Ms Y originally invested £500,000 each, and the offer was £25,000,000 for the whole company, we envisage the outcome in this example to be as follows:
+
+- Cost of Mr X’s original shares in A Ltd £500,000
+
+- Consideration for Mr X is a loan note in B Inc worth £10,000,000
+
+- Ignoring section 135 there is a gain of £9,500,000 at this point.
+
+- The counteraction is to disapply section 135 for Mr X, resulting in a chargeable disposal of his A Ltd shares and a gain of £9,500,000 at a time he was UK resident.
+
+Here the relevant arrangement is the additional step added to the exchange to provide Mr X with loan notes with a purpose of giving him a tax advantage. If the original commercial offer was for loan notes to be issued to all the shareholders in A Ltd, it would be less likely that counteraction would be appropriate, even if Mr X were considering emigration, as the arrangements (payment in loan notes) is not an element added to the transaction to facilitate the avoidance of CGT.
+
+Where there is some other form of avoidance involved, so that the intention was that a tax-free disposal of the loan notes would take place when Mr X was within the charge to UK CGT, then the adjustment described above will flow through to his eventual disposal of his loan notes:
+
+Assume that following the share exchange to which the anti-avoidance rule applied Mr X sells his loan note at a discount of £100,000 to its face value:
+
+- Proceeds on sale of loan note: £9,900,000
+
+- Allowable cost is the consideration given on the exchange: £10,000,000
+
+- Allowable loss: £100,000
+
+Example 2
+
+Ms M owns all of the shares in a company which she has used to build up a successful online trading business and has received an offer to buy the company for £3 million. Ms M would be entitled to claim Business Asset Disposal Relief (BADR) on the disposal of her shares subject to her lifetime limit of £1 million. The amount offered comprised £2 million cash and £1 million by way of a loan note redeemable after 12 months.
+
+Shortly before the sale Ms M transferred half her shares to her wife Ms P on a no gain/no loss basis under section 58. The terms of the sale are that while Ms M receives cash of £1.5 million, Ms P receives cash of £0.5 million, a £1 million loan note and is issued with shares in the acquiring company giving her a 5% interest. Ms P is also appointed a director of a dormant company in the same group. Two years after the transaction, Ms P sells her shares back to the company and redeems her loan note and claims BADR on a £1 million capital gain.
+
+Here the purpose of arrangements relating to the exchange is to ensure that Ms P’s BADR lifetime limit of £1 million can be set against the part of the proceeds for the sale of a company that she had not previously had any involvement in. The arrangements are intended to make the purchasing company her “personal company” for BADR purposes up to the point she redeems her loan note. HMRC considers that section 137 will apply to Ms P (but not Ms M) because the inclusion of the shares and, to an extent, her loan note in the exchange had a main purpose of reducing her liability to Capital Gains Tax because of BADR. Note that it is also likely that the personal company “avoidance arrangements” provisions in section 169S(3)-(3B) will apply.
+
+Example 3
+
+D plc holds 20% of the shares in E LLC which carry no rights to a dividend. rather it receives a royalty based on E LLC’s turnover. E LLC is subject to a takeover offer by F Inc and the consideration will be mainly cash with an element of loan notes. D plc’s share disposal would not qualify for the Substantial Shareholding Exemption (SSE) because the shares do not have a right to dividends. D plc requests that the cash element of the sale consideration is changed to an issue of redeemable preference shares with dividend rights with the intention that these can be redeemed a year after the exchange with the disposal qualifying for the SSE.
+
+Here the purpose arrangements relating to the exchange is to ensure that D plc’s disposal of its holding in E LLC will qualify for the SSE. Although the overall commercial transaction would necessarily involve an exchange because of the loan note element, the inclusion of the preference shares is an arrangement with the purpose of avoiding a liability to tax on the capital gain by the operation of the SSE.
+
+Example 4
+
+Members of the S family hold all of the shares in S1 Ltd, the holding company of a group of companies that provides a range of services to the retail sector, two complementary trading activities are conducted by the subsidiaries S2 Ltd and S3 Ltd. The shareholders wish to realise some capital by disposing of the S2 business. A capital reduction demerger is undertaken to demerge S2 Ltd under a new holding company which will be sold to an Employee Ownership Trust (EOT), the disposal will qualify for a reduced rate of CGT, section 236H.
+
+Here the purpose of the scheme of reconstruction is to separate out the businesses to be sold. There are no additional arrangements affecting the structure of the scheme that avoid or reduce the shareholders’ liability to Capital Gains Tax. It is the case that the shareholders will pay a reduced amount of tax but that is only because the purchaser is an EOT.
+
+Example 5
+
+This is similar to example 1 but involves a scheme of reconstruction rather than an exchange so that sections 136 and 139 are relevant.
+
+A Ltd was established by Mrs Z who holds 100% of the shares. A Ltd operates a manufacturing business and also a wholesale business that distributes both its own products and a variety of other products in the sector.
+
+A larger rival company B plc wishes to take over A Ltd’s manufacturing business for cash. Mrs Z was planning to emigrate shortly after the transaction and asked that instead of B plc paying A Ltd for the manufacturing business in cash, she receives loan notes that would be redeemed after she has left the UK and so she would not be subject to UK CGT when she redeems the notes.
+
+The transfer of A Ltd’s manufacturing business in return for an issue of securities to Mrs Z is potentially a scheme of reconstruction under Schedule 5AA so that –
+
+- Mrs Z will not be treated as making a disposal of her A Ltd shares but her loan notes in B plc will be treated as the same asset as the shares she retains in A Ltd under the share reorganisation rules, section 136, and
+
+- The assets of the manufacturing business are transferred from A Ltd to B plc on a no gain/no loss basis, section 139.
+
+Here an additional arrangement – the inclusion of payment in loan notes – was added to a commercial transaction in order for Mrs Z to obtain a tax advantage so HMRC would consider that the anti-avoidance rule applies. It would seem just and reasonable to counteract the intended tax avoidance in the following way –
+
+- Mrs Z is treated as making a disposal an interest in her shares in A Ltd. This is a deemed disposal because the consideration she receives in the form of loan notes is a capital sum under section 22, and
+
+- A Ltd is treated as disposing of the manufacturing business assets at their market value. B plc has effectively acquired these for cash.
+
+Example 6
+
+P Ltd was established by S, T and U, three individuals who between them hold 100% of the shares. P Ltd operates a manufacturing business and also a wholesale business that distributes both its own products and a variety of other products in the sector.
+
+P Ltd believes that it can maximise value in each business by "demerging" them so that they are held independently from one another and can each seek third party investment on a standalone basis.
+
+To achieve this, S, T and U establish a new UK company (Q Ltd) in the same proportions as they hold P Ltd. The manufacturing business is transferred to Q Ltd under a scheme of reconstruction involving a reduction of capital in P Ltd and a pro rata issue of shares and loan notes in Q Ltd to S, T and U.
+
+U is planning to emigrate shortly after the demerger and had pressed for the inclusion of the loan notes as part of the consideration. U then ceases UK residence and redeems their loan notes for cash.
+
+A few months later, a third-party investor makes an offer to buy shares in Q Ltd. This possibility had been contemplated at the time of the demerger - part of the reason for doing the demerger was to make third party investment in the manufacturing business possible. S agrees to sell his shares to the third party but T and U each decide to keep their shares.
+
+The demerger is expected to be CGT neutral for the shareholders (under section 136) and also for P Ltd and Q Ltd (under section 139). There is no disposal and the historic capital gains base cost rolls forwards in both the shares in Q Ltd and the assets of the manufacturing business.
+
+When S sells their shares in Q Ltd, CGT arises in the usual way.
+
+An additional arrangement – the inclusion of payment in loan notes – was added to a commercial transaction in order for U to obtain a reduction of CGT and therefore the anti-avoidance rule applies. It would seem just and reasonable to counteract the intended tax avoidance in the following way:
+
+U is treated as making a disposal of an interest in their shares in P Ltd at the time of the demerger to the extent of the loan note consideration paid to them.
+
+However, it would not be just and reasonable to counteract the no gain / no loss treatment (under section 139) for P Ltd. This would shift the burden of accelerated taxation to P Ltd and (indirectly) to S and T, none of whom benefits from U's tax avoidance.
+
+Similarly, the application of section 136 to S and T, and also to the share element of the consideration received by U, is unaffected by the anti-avoidance rule.
+
+[1] (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app20) Delinian Ltd v HMRC (https://caselaw.nationalarchives.gov.uk/ewca/civ/2023/1281?query=euromoney) [2023] EWCA Civ 1281(“Euromoney”), see also O Wilkinson & Ors v HMRC (https://caselaw.nationalarchives.gov.uk/ukftt/tc/2023/695?query=wilkinson&tribunal=ukftt%2Ftc) [2023] UKFTT 695 (TC)
+
+[2] (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app20) IRC v Willoughby (https://www.bailii.org/uk/cases/UKHL/1997/TC_70_57.html) [1997] UKHL 70 TC 57

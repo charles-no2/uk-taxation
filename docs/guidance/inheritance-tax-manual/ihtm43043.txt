@@ -1,0 +1,56 @@
+Domicile/long term residence: calculation where the domicile/long term residence of the survivor at the first death is outside the UK
+Identifier: IHTM43043
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43043
+Published: 2016-04-09T10:29:01+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:10:00.506063+00:00
+
+On the death of a first spouse or civil partner, IHTA84/S18 exemption (IHTM11031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11031)) is limited where the transferor was domiciled (IHTM13000) (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13000) in the UK (to 5 April 2025) or a long term UK resident (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)) (from 6 April 2025) and the transferee is domiciled outside the UK (to 5 April 2025) or not a long-term resident from (6 April 2025). The limit is imposed by IHTA84/S18(2). Since 6 April 2013 the limit has been equal to the nil-rate band at the date of transfer. Prior to that date the limit was £55,000.
+
+If the entire estate passed to the surviving spouse or civil partner, anything over the S18(2) limit is a chargeable legacy. Where the net estate is above the nil rate band plus the S18(2) limited exemption there will be no nil rate band to transfer, as illustrated below.
+
+Example
+
+Susan died on 1 June 2008, domiciled in the UK. She left an estate worth £450,000 all to her husband Lars who is domiciled in Sweden.
+
+Unused nil rate band calculation
+
+M = £312,000
+
+VT = £395,000 (Estate of £450,000 less limited spouse exemption of £55,000)
+
+M is not greater than VT, so there is nothing to transfer.
+
+Where the net estate is less than the nil rate band plus the S18(2) limit, there will still be an amount of nil rate band available to transfer. The following example shows how both the amount that the net estate is below the nil rate band, and limited spouse exemption, combine to produce the amount of nil rate band available to transfer.
+
+Example
+
+Charles died on 8 April 2025 and was a  long-term UK resident. He left an estate worth £520,000 all to his wife Helga who is not a long-term UK resident .
+
+Unused nil rate band calculation
+
+M = £325,000
+
+VT = £195,000 (Estate of £520,000 less limited spouse exemption of £325,000)
+
+M is greater than VT by £130,000.
+
+Transferable nil rate band calculation
+
+E =£130,000
+
+NRBMD = £325,000 so
+
+(130,000 ÷ 325,000) × 100 = 40.0000%
+
+On Helga’s death, the nil rate band on her death would be uprated by 40%. This approach will be appropriate on the death of the survivor when either
+
+-
+
+they remain domiciled abroad/not a long-term UK resident and their UK assets exceed the single nil rate band, or
+
+-
+
+between the first death and their own, they became domiciled, deemed domiciled in the UK, or became a long-term UK resident
+
+However, if Helga elects to be treated as if she is domiciled in the UK(IHTM13040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13040))/ a long term UK resident under the provisions of IHTA84/S267ZA and S267ZB from a date before Charles’s death, the limit on the amount of spouse exemption will not apply and the nil rate band on her death would then be uprated by 100%.

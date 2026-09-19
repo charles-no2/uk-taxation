@@ -1,0 +1,128 @@
+Reliefs: replacement of business assets (roll-over relief): furnished holiday lettings
+Identifier: CG60287
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg60287
+Published: 2020-01-09T10:44:04+00:00
+Updated: 2026-09-10T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:33:52.470815+00:00
+
+Abolition of the furnished holiday lettings rules
+
+From 6 April 2025 (1 April 2025 for Corporation Tax), furnished holidays lettings (FHLs) are no longer treated as a trade.
+
+This means rollover relief is not available where:
+
+-
+
+the old asset is disposed of on or after 6 April 2025
+
+-
+
+or the new asset is acquired on or after 6 April 2025
+
+for the purposes of a holiday lettings business.
+
+However, relief is still available where:
+
+-
+
+an asset used in an FHL business was disposed of before 6 April 2025
+
+-
+
+a valid claim is made for the gain to be rolled over into the acquisition of an asset used in an actual trade
+
+(See paragraph 13(2)(a) of Schedule 5 of the Finance Act 2025 (https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13)).
+
+The example below shows how the rules on the interaction with private residence relief continue to apply.
+
+Roll-over relief for furnished holiday lettings
+
+Roll-over relief was previously available for assets used for the purposes of commercial letting of furnished holiday accommodation, as defined in
+
+-
+
+Chapter 6 of Part 3 Income Tax (Trading and Other Income) Act 2005 (https://www.legislation.gov.uk/ukpga/2005/5/part/3/chapter/6) (for Capital Gains Tax)
+
+-
+
+Chapter 6 of Part 4 Corporation Tax Act 2009 (https://www.legislation.gov.uk/ukpga/2009/4/part/4/chapter/6) (for Corporation Tax on chargeable gains)
+
+See PIM4100 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4100). This guidance uses the term FHL to describe properties meeting the legislative criteria.
+
+Furnished holiday lettings treated as a single trade
+
+Sections 241(3) and 241(3A) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/241) treated all UK FHLs held by a person or partnership or body of persons in the UK as assets of a single trade for roll-over relief.
+
+On 22 April 2009 HMRC announced that FHLs located outside the UK but within the European Economic Area (EEA) would also be treated as assets of the same trade for roll-over relief. This applied from the latest of:
+
+-
+
+1 January 1994
+
+-
+
+the date the relevant country joined the EEA
+
+-
+
+the date on which the property was first let as an FHL
+
+The EEA consists of all those EU member states plus Norway, Liechtenstein, and Iceland.
+
+For disposals on or after 6 April 2011 (or, for companies, in accounting periods beginning on or after 1 April 2011):
+
+-
+
+section 241A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/241A) deemed all EEA (non-UK) FHLs to be a single trade, separate from the UK FHL trade
+
+-
+
+section 152(8) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/152) allowed gains from one deemed FHL trade to be rolled over against acquisitions in the other, provided the two trades were carried on at the same time or successively
+
+Interaction with private residence relief
+
+The normal rules of roll-over relief are modified if both of the following apply:
+
+-
+
+a chargeable gain has been deducted from the acquisition cost of FHL accommodation under section 152 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/152) or section 153 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/153)
+
+-
+
+part of the gain on the disposal of that accommodation qualifies for private residence relief (see section 222 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/222) and CG64200P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64200p))
+
+Where these conditions are met, section 223 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/223) restricts private residence relief to the part of the gain exceeding the amount that was rolled over.
+
+Example: interaction of FHL rules with private residence relief
+
+In January 2021, a property qualifying as FHL accommodation is sold for £340,000 giving rise to a £150,000 chargeable gain.
+
+The owner reinvests the full proceeds in September 2022 into a qualifying replacement property costing £450,000.
+
+The new property is used as FHL accommodation and is therefore a relevant asset (until the FHL rules are abolished from 6 April 2025).
+
+In September 2024, the owner begins to use the new property as their only or main residence.
+
+They sell the property in September 2027 for £500,000.
+
+Computation
+
+-
+
+The revised acquisition cost of the new property: £450,000 (acquisition cost) – £150,000 (rolled-over gain) = £300,000
+
+-
+
+Gain before private residence relief: £500,000 (disposal proceeds) – £300,000 (revised acquisition cost) = £200,000
+
+-
+
+Portion potentially eligible for private residence relief: £200,000 (gain) – £150,000 (roll-over gain) = £50,000
+
+-
+
+Private residence relief calculation - relief is due for three out of six years of ownership: (3 ÷ 6) × £50,000 = £25,000
+
+-
+
+Chargeable gain: £200,000 – £25,000 = £175,000

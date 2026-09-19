@@ -1,0 +1,22 @@
+Savings and investment income: tax is charged on the ‘gross amount’ of income
+Identifier: SAIM1100
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim1100
+Published: 2016-03-19T16:22:55+00:00
+Updated: 2015-12-03T11:02:50+00:00
+Retrieved (UTC): 2026-09-18T14:25:52.978776+00:00
+
+Grossing up
+
+Income tax is calculated by reference to the ‘gross amount’ of a payment (ITA07/S982), and sometimes ‘grossing up’ to include tax deducted at source is required. This is common with savings and investment income received by individuals.
+
+The ‘gross amount’ means the sum of the net amount and the tax deducted. ITA07/S998 gives the following formula for grossing up:
+
+GA = NA + (NA x R\100-R)
+
+GA is the gross amount
+
+NA is the net amount
+
+R is the percentage rate of tax by reference to which the net amount is to be grossed up.
+
+Dividend income commonly requires grossing up in respect of the tax credits attached to them. See SAIM5090 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5090) for more details.

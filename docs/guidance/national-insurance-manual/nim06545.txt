@@ -1,0 +1,36 @@
+Employment Allowance: Who can’t claim the Employment Allowance? Single director limited companies
+Identifier: NIM06545
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06545
+Published: 2016-09-19T11:57:21+01:00
+Updated: 2018-12-14T01:55:14+00:00
+Retrieved (UTC): 2026-09-18T15:14:01.240974+00:00
+
+National Insurance Contributions Act 2014 - Section 2, subsection (4A)
+
+The Employment Allowance (Excluded Companies) Regulations 2016
+
+The Employment Allowance (Excluded Companies) Regulations 2016 inserted subsection 4A into section 2 of the National Insurance Contributions Act 2014. Subsection 4A provides that from 6th April 2016 onwards, a body corporate (“C”) cannot qualify for the Employment Allowance for a tax year if both the following apply:
+
+- all the payments of earnings in relation to which “C” is the secondary contributor in that year are paid to, or for the benefit of, the same employed earner
+
+- when each of those payments is made, that employed earner is a director of “C”
+
+HMRC interprets section 4A as meaning that from 6th April 2016 onwards, if a company has just one director and that company only incurs secondary class 1 NICs liabilities on the employment earnings it pays to that director, then that company will not qualify to receive the Employment Allowance. The company would need to incur additional secondary class 1 NICs liabilities on employment earnings paid to at least one other employee (which can include an additional director) before that company may qualify to receive the Employment Allowance.
+
+The exclusion at subsection 4A therefore impacts on limited company businesses as follows:
+
+- a single director company where that director is the sole employee of the company. The company is not eligible to receive the Employment Allowance.
+
+- a single director company employing one director and other employees. The director’s employment earnings from that employment are over the threshold for paying employers secondary class 1 NICs but the other employees’ earnings from that same employment fall below the secondary threshold. The Company will not be eligible to receive the Employment Allowance.
+
+- a single director company employing one director and other employees. The director’s employment earnings from that employment are below the threshold for paying employers secondary class 1 NICs but at least one of the other employees earnings from that same employment are at, or above, the secondary threshold. The Company will be eligible to receive the Employment Allowance.
+
+- a single director company employing one director and other employees. Both the director’s employment earnings and at least one of the employees’ earnings from that employment are over the threshold for paying employers secondary class 1 NICs. The company will be eligible to receive the Employment Allowance against the employers secondary class 1 NICs liabilities arising on both the employee’s earnings and the director’s earnings.
+
+- a single director company where, at the beginning of the tax year, the sole director is the Company’s only employee. The Company is not eligible to claim the Employment Allowance at this stage. However, if during the tax year, the company employs at least one additional employee, who is then paid above the secondary threshold for paying employers secondary class 1 NICS, the company will become eligible to receive the full amount of the Employment Allowance in that tax year. The allowance can then be set against the employers secondary class 1 NICs liabilities arising on both the employee’s and the director’s employment earnings (assuming the director is also earning above the secondary threshold). If the employee leaves the employment before the tax year has ended and before the company has used up all of the Employment Allowance for that tax year, then the company may continue to claim the Employment Allowance to be set against any secondary class 1 NICs liabilities arising on the director’s earnings (up until when the allowance has been exhausted, or the tax year has ended - whichever is sooner). However, that company won’t be eligible to claim the Employment Allowance after that tax year ends until (a) the company employs at least one person (who is not the director) and (b) that person’s earnings will incur the company a liability to pay employers secondary class 1 NICs.
+
+- a limited company with two or more directors, where only one of the directors earns above the secondary threshold for paying employers secondary class 1 NICs. The company is not eligible to claim the Employment Allowance.
+
+- a limited company with two or more directors, where more than one of the directors earns above the secondary threshold for paying employers secondary class 1 NICs. The company is eligible to claim the Employment Allowance
+
+Any employers that are limited companies, which have previously made a claim for the Employment Allowance but now fall within the single director exclusion, must withdraw any existing claim for the Employment Allowance for tax years beginning after 6 April 2016. There is further guidance at NIM06580 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06580) that advises what an employer must do to stop claiming the Employment Allowance. See also NIM06590 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06590) to NIM06620 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06620) for guidance on claims to the Employment Allowance where there are connected companies or charities.

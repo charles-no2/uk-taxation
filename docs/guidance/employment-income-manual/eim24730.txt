@@ -1,0 +1,34 @@
+Car benefit calculation Step 5, appropriate percentage, 2011 to 2012 onwards: adjustments to appropriate percentage and code letters used for different fuels
+Identifier: EIM24730
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24730
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-03-28T16:37:40+01:00
+Retrieved (UTC): 2026-09-18T14:21:04.650958+00:00
+
+From tax year 2011 to 2012, the arrangements regarding different fuels are significantly simplified:
+
+- the diesel supplement applies to all diesel-powered cars except, for tax years 2018 to 2019 onwards diesel cars that meet the Real Driving Emission 2 (RDE2) standard are exempt (see note 3 below)
+
+- all ‘alternative fuel’ reductions cease to be available (though the 6% reduction given to type E cars in secondary legislation until tax year 2009 to 2010 is incorporated into primary legislation). See EIM24850 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24850) for more on type E cars from tax year 2011 to 2012.
+
+The code letters used to describe the various types of car are also simplified, as the following table illustrates.
+
+Type of fuel |  P11D code 2019 to 2020 onwards |  P11D code 2018 to 2019 |  P11D code 2016 to 2017 and 2017 to 2018 |  P11D code 2015 to 2016 |  Adjustment |  Note |
+
+Zero-emission cars (including electric cars) |  A |  A |  A |  A |  None |  1 |
+
+Diesel cars (all Euro standards up to 2017 to 2018) |  Not applicable |  Not applicable |  D |  D |  Supplement 3% up to 2017 to 2018 |  2 |
+
+Diesel cars that are RDE2 compliant from 2018 to 2019 onwards |  F |  A |  Not applicable |  Not applicable |  None |  3 |
+
+All other diesel cars from 2018 to 2019 onwards |  D |  D |  Not applicable |  Not applicable |  Supplement 4% from 2018 to 2019 |  Not applicable |
+
+All other |  A |  A |  A |  A |  None |  Not applicable |
+
+Notes
+
+1 |  The appropriate percentage for type E cars is 0% for tax years 2010 to 2011 - 2014 to 2015 inclusive. From tax year 2015 to 2016 onwards, 2 new appropriate percentage bands are introduced and the type E code will no longer be used. |
+
+2 |  Subject to the overall maximum appropriate percentage of 37%. |
+
+3 |  For tax years 2011 to 2012 - 2017 to 2018, the diesel supplement applies to all diesel cars, including Euro IV diesels first registered before 1 January 2006. From April 2018, if the diesel car is certified to meet Euro standard 6d (see EIM24705 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24705)), the diesel supplement does not apply. However,the diesel supplement will continue to apply to all other diesel cars. From tax year 2019 to 2020 onwards, a new type F code is introduced which should be used for diesel cars that meet the Euro standard 6d. |

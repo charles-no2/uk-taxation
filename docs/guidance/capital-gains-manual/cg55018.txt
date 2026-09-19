@@ -1,0 +1,68 @@
+Conversion of securities: change in status of debt S88 FA 1997
+Identifier: CG55018
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55018
+Published: 2016-03-12T11:36:18+00:00
+Updated: 2026-09-02T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:33:15.820700+00:00
+
+The scope of TCGA92/S132 was broadened in Finance Act 1997. FA97/S88 provides that if the tax status of a debt changes - from a debt which is not a qualifying corporate bond (QCB) into a QCB, or vice versa, either
+
+- as a result of an alteration in the terms of the debt,
+
+or
+
+- as a result of the operation of the terms of the debt
+
+the change is treated as a conversion of securities. The rules apply to any disposal on or after 26 November 1996, and in relation to such disposals the rules also apply to any change taking place prior to that date.
+
+The purpose of these rules was to provide a clear legislative counter to schemes under which it was for example claimed that
+
+- an alteration in the terms of a debt, or a change in the practical effect of the debt's terms during its life, can turn a debt which is a chargeable asset into a capital gains exempt qualifying corporate bond (QCB);
+
+- there is no disposal of the debt when its tax status changes;
+
+- any gain which would have been chargeable on a disposal of the debt at the time of the change is not taxable when the debt is later disposed of.
+
+The debt may have been issued in respect of shares on a reorganisation of share capital within TCGA92/S126, or on a company takeover, reconstruction or amalgamation treated as a reorganisation by TCGA92/S135 and TCGA92/136, see CG52500+. The result of TCGA92/S127 would be that the reorganisation is not a disposal of the shares, but the shares and the debt are treated as the same asset for capital gains purposes. This means the gain or loss when the debt is disposed of takes account of the overall gain or loss on the shares and the debt taken together. These rules do not apply where the shareholder acquires newly issued debt in the form of capital gains exempt QCBs. In that situation TCGA92/S116 may apply, see CG53709+. The effect of Section116 is to compute the gain or loss on the shares as at the time of the reorganisation, and to bring the gain or loss into charge when the QCBs are disposed of.
+
+Where on a reorganisation shares are replaced by debt, which later changes its status from non-QCB to QCB, the taxpayers' argument is that
+
+- there is no disposal of the shares at the time of the reorganisation, because of the no disposal fiction in TCGA92/S127
+
+- there is no charge under TCGA92/S116 when the QCBs are disposed of, because they were not QCBs at the time of the reorganisation.
+
+There may also be cases where taxpayers argue that a QCB changes its status to a non-QCB.
+
+By treating the occasion on which the tax status of the debt is claimed to have changed as a conversion of securities, TCGA92/S132 (1) is applied. This would treat the conversion in the same way as a reorganisation of the company's share capital, within TCGA92/S127 to TCGA92/131. Where, however, there would be a reorganisation which involves a QCB on one `side' of the conversion (but not both) the rules in TCGA92/S116 apply instead, see CG53709+. If the conversion is from a debt which is not a QCB into a debt which is a QCB, TCGA92/S116 (10) applies, see CG58845+. There is no disposal at the time of the conversion, but any gain (or loss) which would have arisen on a disposal of the debt at its market value at the date of conversion is computed under TCGA92/S116 (10)(a). This gain (or loss) is then held over until disposal of the QCB, TCGA92/S116 (10)(b). This treatment therefore ensures that any gain or loss on the original asset, such as shares, as well as on the debt itself up to the time of the conversion into the QCB, remains within the charge to Capital Gains tax.
+
+The FA 1997 rules were enacted so that there could be no doubt as to the tax position in relation to the cases described above. There are however several possible technical defences against the sort of argument outlined above, which may apply in cases where the disposals took place before the new rules came into force. The approaches available will depend on the precise facts and circumstances. Capital Gains Technical Group will be happy to advise in such cases.
+
+FA97/S88, TCGA92/S132 (3)(a)(ia), TCGA92/S132 (3)(a)(ib)
+
+The scope of TCGA92/S132 (3)(a) was broadened by FA97/S88 to cover
+
+- a conversion of a security which is not a QCB into a security (of the same company) which is a QCB; and
+
+- a conversion of a QCB into a security (of the same company) which is not a QCB.
+
+The rules operate both in circumstances where the terms of a debt were subject to amendment, and in circumstances where the change in tax status came about as a result of the way the terms of the debt operated. The opening words of TCGA92/S132 (3)(a) were amended to ensure that these latter cases were within the scope of the Section, as broadened.
+
+TCGA92/S132 (4)(a), TCGA92/S132 (4)(b), TCGA92/S132 (5)
+
+The two basic categories mentioned in above are extended to cater for cases where Section 251(6) TCGA 1992, see CG53441, would apply. Thus the first bullet above covers also cases where
+
+- the first debt is deemed to be a security, by TCGA92/S251 (6); and where
+
+- the second debt is one which, if TCGA92/S251 (6) applied, would be a QCB.
+
+In the same way, the second bullet in CG55024 covers cases where
+
+- the first debt is a QCB because TCGA92/S251 (6) and TCGA92/S117 (6A) have applied; and includes cases where
+
+- the second debt is one which is not a security, and would not be a QCB even if TCGA92/S251 (6) applied.
+
+TCGA92/S251 (6)
+
+The above rules establish whether there has been a conversion of securities in these cases. In conjunction with these changes, TCGA92/S251 (6) was extended so that any debenture which results from a conversion of securities within TCGA92/S132, or is issued as a result of rights attaching to such a debenture, is deemed to be a security for the purposes of that Section. So, once it is established that the transaction is - following the new rules - a conversion, this then ensures that the debt emerging from the conversion will be a security, for the purposes of TCGA92/S251.
+
+The new rules apply to any disposal on or after 26 November 1996; and where a conversion took place before that date, have effect in relation to that disposal as if they had come into force before that time.

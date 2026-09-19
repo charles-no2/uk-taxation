@@ -1,0 +1,66 @@
+Deferred consideration: ascertainable: payment by instalments: conditions and calculation
+Identifier: CG14910
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14910
+Published: 2016-03-12T10:08:18+00:00
+Updated: 2024-06-24T08:59:35+01:00
+Retrieved (UTC): 2026-09-18T14:37:43.806699+00:00
+
+TCGA92/S280
+
+Where the consideration for an asset is payable by instalments, the vendor may, in certain circumstances, ask to pay the tax due on its disposal by instalments.
+
+This relief is available where the instalments of consideration specified in the contract for sale of the asset
+
+- begin no earlier than the date of disposal of the asset
+
+and
+
+- extend over a period exceeding 18 months
+
+and
+
+- continue beyond the date on which the tax would otherwise be due and payable.
+
+Where these requirements are satisfied, the calculation of the instalments of tax which the vendor should pay should be approved by a Higher Officer.
+
+You should distinguish between cases where the consideration is payable by instalments and those where the consideration takes the form of a new asset or assets which are then disposed of in stages. An example would be where the asset is sold for an issue of debentures which are redeemable at six-monthly intervals. Instalments are not appropriate in this type of case because the full consideration, the debentures, has been received. See CG15020 where the vendor has made a loan to the purchaser.
+
+Calculation of instalments
+
+The vendor of an asset seeking relief under Section 280 TCGA will normally be expected to pay instalments of tax equal to 50 per cent of each instalment of consideration due under the contract until the total tax liability has been discharged. (The 50 per cent calculation is applied to the full amount of each consideration instalment due to the vendor and is not to be adjusted for any expenses incurred in selling the asset, whether or not these are allowable deductions under section 38 TCGA in computing the vendor's chargeable gain.)
+
+To the extent that instalments of consideration under the contract fall due on or before the normal due date for the payment of tax (31 January in the tax year following that in which the asset disposal occurred in the case of a non-corporate taxpayer) the respective instalments of tax are payable on that normal due date. Where instalments of consideration fall due after that time, then the respective instalments of tax are payable on the dates when the vendor is contractually entitled to receive his consideration. However, you should seek to agree arrangements under which instalments of tax are payable at not less than six-monthly intervals in cases where the period between contractual instalments of consideration is less than this.
+
+All these arrangements are subject to the period for paying the instalments of tax ceasing on or before the earliest of
+
+- the date when the last instalment of consideration for the asset is due to the vendor under the contract;
+
+- a date falling eight years after the normal due and payable date which would have applied in the absence of a claim under Section 280 TCGA.
+
+Example
+
+Mr X enters into a contract for the sale of an asset which provides for its disposal on 1 June 2023 for a consideration of £120,000 payable by six instalments of £20,000 each, at yearly intervals, commencing on 1 September 2023. The capital gains tax payable by Mr X on the disposal is £35,000 and he asks for Section 280 TCGA to apply.
+
+The tax instalments to be paid are calculated as
+
+- 50% of the consideration due on 1 September 2023
+
+= tax £10,000
+
+- 50% of the consideration due on 1 September 2024
+
+= tax £10,000
+
+- 50% of the consideration due on 1 September 2025
+
+= tax £10,000
+
+- 50% of the consideration due on 1 September 2026
+
+= balance of tax £5,000
+
+As the first two instalments of tax fall before the normal due and payable date for disposals in the tax year 2023/2024 (31 January 2025) then £20,000 is due from Mr X on 31 January 2025.
+
+As the remaining instalments of tax fall after 31 January 2025, then these are due when the instalments of consideration to which they relate are due to Mr X under his contract with the purchaser of the asset. Thus, a further £10,000 tax is due from him on 1 September 2025 and the final amount of £5,000 tax is due from him on 1 September 2026.
+
+The procedural steps involved in setting up the computer record for an instalment arrangement are outlined in the Self Assessment Manual (SAM80072) and the Debt Management and Banking Manual (DMBM800030).

@@ -1,0 +1,46 @@
+Car benefit: special cases: employees with frequent changes of car (from 2009/10): averaging step 4: average CO2 emissions and appropriate percentage of notional car
+Identifier: EIM23850
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23850
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-03-25T12:10:23+00:00
+Retrieved (UTC): 2026-09-18T14:20:39.049123+00:00
+
+EIM23815 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23815) explains why the arrangements described on this page exist and EIM23825 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23825) explains how the guidance on them is laid out.
+
+This page follows from step 3, described at EIM23845 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23845).
+
+Step 4A: average CO2 emissions for the notional car in each group
+
+This is achieved using this process:
+
+- ignore any cars in a group which do not have a CO2 emissions figure
+
+- take the CO2 emissions figure of each other car in the group, as determined at Step 1 (EIM23830 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23830)) and add these together
+
+- add 15 for each diesel car in the group to which the diesel supplement applies
+
+- for tax years 2009 to 2010 and 2010 to 2011 only, for cars which are not QUALECs (i.e. have CO2 emissions figures of 121 g/km or higher, EIM24605 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24605)):
+
+- deduct 15 for each hybrid
+
+- deduct 10 for each bi-fuel car or car manufactured to run on E85
+
+- now bring any cars which do not have a CO2 emissions figure back into the calculation by adding the figure obtained from EIM23835 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23835)
+
+- divide the result by the number of cars in the group
+
+For the tax year 2020 to 2021 onwards, where the CO2 emissions figure for the notional car is between 1 to 50 g/km, a zero emission mileage (electric range) figure of 50 should be used to establish the appropriate percentage.
+
+The result is the CO2 emissions figure for the notional car in that group (round down to the next integer).
+
+Step 4B: find the appropriate percentage for the notional car
+
+Because the effect of all fuels other than petrol has been taken into account in the above calculation, the notional car is deemed to run on petrol.
+
+The appropriate percentage for the year is therefore determined using the ready reckoner at EIM24705 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24705) (as appropriate) without the need for any further adjustments.
+
+Step 5 follows at EIM23855 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23855).
+
+Tax year 2008 to 2009 and earlier years
+
+This guidance applies only for tax year 2009 to 2010 and later years. Local arrangements applied for years leading to 2008 to 2009 as described at EIM23750 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23750) onwards.

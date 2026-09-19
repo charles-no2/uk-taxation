@@ -1,0 +1,30 @@
+Cryptoassets for individuals: Capital Gains Tax: what is a disposal
+Identifier: CRYPTO22100
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22100
+Published: 2021-03-30T09:03:09+01:00
+Updated: 2021-03-26T10:42:12+00:00
+Retrieved (UTC): 2026-09-18T16:18:33.452627+00:00
+
+Individuals need to calculate their gain or loss when they dispose of their tokens to find out whether they need to pay Capital Gains Tax. A ‘disposal’ is a broad concept and includes:
+
+- selling tokens for money
+
+- exchanging tokens for a different type of token
+
+- using tokens to pay for goods or services
+
+- giving away tokens to another person (unless it’s a gift to their spouse or civil partner)
+
+There is no disposal if the individual retains beneficial ownership of the tokens throughout the transaction, for example moving tokens between public addresses that the individual beneficially controls (commonly described as moving tokens between wallets).
+
+Using a mixer, tumbler or similar service so that the individual receives the same type of tokens that they put into the transaction also is not a disposal. However, it will constitute a disposal if the individual puts token A into the transaction and receives token B in return.
+
+If tokens are given away to another person who is not a spouse or civil partner, the individual must work out the pound sterling value of what has been given away. For Capital Gains Tax purposes, the individual is treated as having received that amount of pound sterling even if they did not actually receive anything.
+
+If Income Tax has been charged on the value of the tokens received, section 37 TCGA 1992 will apply. Any consideration will be reduced by the amount already subject to Income Tax.
+
+If an individual donates tokens to charity, they will not have to pay Capital Gains Tax on them, see CG66620P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66620p). This does not apply:
+
+- if they make a ‘tainted donation (https://www.gov.uk/government/publications/charities-detailed-guidance-notes/annex-viii-tainted-charity-donations)’
+
+- where the individual disposes of the tokens to the charity for more than the acquisition cost so that they realise a gain.

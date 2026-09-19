@@ -1,0 +1,32 @@
+1st Condition (Paragraph 2 Sch 5AA): issue of ordinary share capital
+Identifier: CG52707A
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52707a
+Published: 2016-03-12T11:27:29+00:00
+Updated: 2016-01-26T08:52:39+00:00
+Retrieved (UTC): 2026-09-18T14:42:48.865554+00:00
+
+There must be an issue of ordinary share capital by a company (the Successor Company) to the holders of ordinary share capital in another company (the original company). From 1 December 2003 onwards, transfers of shares out of treasury are treated as issues of shares (see CG52522).
+
+It is important that the new shares are issued directly to the shareholders in the original company. This condition will not be met otherwise.
+
+Where there are different classes of ordinary shares in the original company the successor company must issue shares to the shareholders in the original company who hold the class(es) of shares involved in the scheme of reconstruction. However, where the original company holds its own shares in treasury, no issue of shares can be made in respect of those treasury shares. If such an issue were made, the transactions would not be a reconstruction within the definition in TCGA92/SCH5AA. FA03/S195 provides that shares acquired by the company that issued them are treated for most tax purposes as cancelled, whether they are actually cancelled or held in treasury. Therefore an issue of shares in respect of such a “shareholding” would breach the first condition of Sch 5AA.
+
+Furthermore, look at the reconstruction set out in CG52725 and consider what would happen if Old Plc held some of its shares in treasury and Newholdco Plc were to issue shares in respect of these. Old Plc and Newholdco Plc would hold shares in each other, breaching S136 Companies Act 2006. Old Plc would also have “exchanged” shares treated as cancelled for an “active” shareholding in a different company.
+
+Ordinary share capital takes its meaning from S119/CTA 2010 and ITA 2007 part 16 [see CG50200+]. It is extended by paragraph 8(1) of Sch 5AA to include rights in unit trust schemes that are treated as shares by TCGA92/S99 [see CG57680+] and members’ interests in companies without share capital.
+
+The legislation caters for cases where there are two or more successor companies or original companies. (See the example at CG52707C for a reconstruction involving more than one successor company.)
+
+Paragraph 6 Sch 5AA provides that where there has been a reorganisation of the share capital of the original company (or companies) for the purposes of the scheme of reconstruction the first condition applies after the reorganisation.
+
+Example:
+
+Company A originally had one class of ordinary shares but prior to demerging part of its business to company B it reorganises its ordinary share capital into X & Y shares. Only the Y shares carry the rights to the part of the business that is to be demerged. The class of share involved in the scheme of reconstruction is the Y shares and it is to the holders of the Y shares that company B must issue ordinary shares.
+
+Note that paragraph 6 also applies to the 2nd condition of Sch 5AA, see below.
+
+A scheme of reconstruction must not involve the issue of ordinary share capital by a successor company to anyone other than the holders of the class (or classes) of ordinary shares involved in the scheme of reconstruction. We can, however, disregard any issue of shares by a successor company if the issue was
+
+- after the latest date on which a successor company issued shares in consideration for the transfer of a business, or
+
+- after the latest date on which a successor company issued shares as part of any compromise or arrangement under company law, under the scheme of reconstruction.

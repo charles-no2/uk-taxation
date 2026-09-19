@@ -1,0 +1,38 @@
+Lifetime transfers: the charge to tax: potentially exempt transfers (PETs): cumulation
+Identifier: IHTM14513
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14513
+Published: 2016-04-09T09:19:20+01:00
+Updated: 2022-02-16T16:44:53+00:00
+Retrieved (UTC): 2026-09-18T14:57:51.480807+00:00
+
+You calculate the tax directly chargeable on a PET (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)) by cumulating the values transferred by chargeable transfers in the seven years before the PET.
+
+Chargeable transfers which need to be cumulated include both
+
+- immediately chargeable transfers (IHTM14531 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14531)), and
+
+- failed PETs, (that is, PETs within seven years of the death which have become chargeable because of the death).
+
+Where a failed PET exceeds the IHT nil rate band (IHTM14515 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14515)) either before or after cumulation, it is “chargeable in its own right”.
+
+Example
+
+Ian makes the following transfers (net of exemptions and reliefs) before his death in September 2011:
+
+£50,000 to his son, Harry, in January 2002
+
+£60,000 to a discretionary trust in February 2002
+
+£75,000 to Harry in April 2006
+
+£200,000 to Harry in January 2009
+
+The tax payable on the three earliest transfers is nil because when adding all the previous transfers, they do not exceed the IHT nil rate band at the date of death, £325,000.
+
+But the cumulative value of the January 2009 PET is £335,000. (It is the total of the transfers in February 2002, April 2006 and January 2009).
+
+This exceeds the nil rate band applying at the date of death. So, £335,000 less £325,000 leaves £10,000 chargeable at 40% = £4,000 tax to pay on the PET.
+
+The transfer in January 2002 is separated from the date of death by a period of more than seven years and so is a successful PET. It is omitted from cumulation.
+
+The transfer in February 2002 is also separated from the death by more than seven years but, as an immediately chargeable transfer, it offers more scope for cumulation. It falls within seven years of the January 2009 PET, which is chargeable in its own right. The immediately chargeable transfer of February 2002 is included in the cumulation (IHTM14533 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14533)) when you calculate the tax payable on the January 2009 PET.

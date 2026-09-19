@@ -1,0 +1,42 @@
+The benefits code: beneficial loans: calculation of the cash equivalent: example
+Identifier: EIM26221
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26221
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-03-10T14:17:45+00:00
+Retrieved (UTC): 2026-09-18T14:12:17.377790+00:00
+
+Section 182 ITEPA 2003
+
+This example shows how to calculate the cash equivalent of a beneficial loan using the averaging method (see EIM26210 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26210)), and how to calculate the average official rate for part of a year.
+
+Facts
+
+A director has an interest-free loan from his company. The amount outstanding at the previous 5 April was £20,000. He makes regular repayments until 20 August, when he repays the amount then outstanding of £16,000. The averaging method of calculation applies as follows (the official rates for sterling loans are, for this example, 4.5% from 6 April to 5 July and 5.5% thereafter).
+
+Calculation
+
+Step 1: calculate the average amount of the loan outstanding:
+
+- maximum amount outstanding on previous 5 April = £20,000
+
+- maximum amount outstanding on 20 August = £16,000
+
+- £20,000 + £16,000 = £36,000 ÷ 2 = £18,000
+
+Step 2: calculate the average official rate for the period 6 April to 20 August (both dates inclusive):
+
+- 6 April to 5 July = 91 days × 4.5%
+
+- 6 July to 20 August = 46 days × 5.5%
+
+- total number of days = 137 days
+
+Therefore the average official rate is: (91 ÷ 137) × 4.5% + (46 ÷ 137) x 5.5% = 4.83%
+
+Step 3 - calculate the amount of interest payable at the official rate for the period for which the loan was:
+
+- (£18,000 × 4.83% × 4 (note)) ÷ 12 = £289 (rounded down)
+
+Note: 4 is the number of whole months during which the loan was in existence in the year of assessment, see EIM26217 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26217)).
+
+Finally, deduct any interest paid by the employee from the £289 that is the cash equivalent of the loan benefit.

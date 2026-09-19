@@ -1,0 +1,124 @@
+Individuals: effects of residence, ordinary residence and domicile: temporary non-residents: arrival and departure from UK: temporary non-residence: interaction with NRCGT – year of departure 2012-13 or earlier
+Identifier: CG26310
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg26310
+Published: 2016-08-26T14:15:28+01:00
+Updated: 2026-04-02T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:39:25.063361+00:00
+
+A disposal of an interest in UK residential property by an individual in a year of non-UK residence or the overseas part of a split year is caught by the charge to NRCGT. Guidance on NRCGT is from CG73700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73700) onwards.
+
+Where the disposal is also within the scope of TCGA92/S10A an adjustment is required to ensure that a double charge does not arise on the NRCGT gain.
+
+In a straightforward example, if the chargeable gain on the disposal of the interest for the whole period of ownership was £20,000, but that disposal also gave rise to a gain chargeable to NRCGT of £5,000 for the period of ownership from 6 April 2015, then only a gain of £15,000 would be caught by TCGA92/S10A.
+
+The following example considers a more complicated scenario where private residence relief and lettings relief is also due.
+
+Example
+
+Mr A is resident in the UK and acquires a property on 6 April 2012 for £150,000 that he lives in as his residence.
+
+On 5 April 2013 he leaves the UK to travel abroad indefinitely. He is not UK resident from 6 April 2013 and his UK property is let from 6 April 2014 until 5 May 2015. The property is then used by a relative for 2 months before being let again from 6 July 2015 until 5 October 2016. It was empty until sold on 5 January 2017 for £299,000. The value of the property at 6 April 2015 was £190,000.
+
+The property disposal on 5 January 2017 is within the scope of NRCGT.
+
+Mr A returns to the UK and is UK resident from 6 April 2017. The year of return is the 2017-18 tax year.
+
+The amount of NRCGT gain depends on whether an election is made under Para 2 Sch 4ZZB TCGA92.
+
+NRCGT Option 1 - No election made:
+
+Disposal proceeds £299,000
+
+Value at 6 April 2015 £190,000
+
+-------------
+
+Gain before any PRR £109,000
+
+PRR due:
+
+Period 6 July 2015 to 5 January 2017 (Last 18 months) 18/21 x £109,000 = £93,429
+
+Lettings relief restricted to £5,191 i.e. lesser of £40,000
+
+Gain by virtue of letting from April 2015
+
+(6 April 2015 to 5 May 2015 i.e. 1/21 x 109,000) £5,191
+
+PRR due £93,429
+
+NRCGT gain chargeable = £10,380 i.e. £109,000 – (£93,429 + £5,191)
+
+NRCGT Option 2 – Para 2(1)(a) straight-line time apportionment election
+
+Disposal proceeds £299,000
+
+Cost £150,000
+
+-------------
+
+Un apportioned gain £149,000
+
+Post April 2015 gain £54,895 (£149,000 x 21/57)
+
+PRR due:
+
+Period 6 July 2015 to 5 January 2017 (Last 18 months) 18/21 x £54,895 = £47,053
+
+Lettings relief restricted to £2,614 i.e. lesser of £40,000
+
+Gain by virtue of letting
+
+(period 6 April 2015 to 5 May 2017 i.e. 1/21 x 54,895) £2,614
+
+PRR due £47,053
+
+NRCGT gain chargeable = £5,228 i.e. £54,895 – (£47,053 + £2,614)
+
+NRCGT Option 3 – Para 2(1)(b) retrospective basis election
+
+Disposal proceeds £299,000
+
+Cost £150,000
+
+-------------
+
+Gain £149,000
+
+PRR due:
+
+Period 6 April 2012 to 5 April 2013 (actual occupation) 12 months
+
+Period 6 July 2015 to 5 January 2017 (Last 18 months)
+
+30/57 x £149,000 = £78,421
+
+Lettings relief restricted to £33,983 i.e. lesser of £40,000
+
+Gain by virtue of letting
+
+(period 6 April 2014 to 5 May 2015 i.e. 13/57 x 149,000) £33,983
+
+PRR due £78,421
+
+NRCGT gain chargeable = £36,596 i.e. £149,000 – (£78,421 + £33,983)
+
+Gains for s10A purposes
+
+The gain on disposal of property in 2016-17 would be £36,596 (in this example this is the same as in option 3) however this amount must be reduced by the NRCGT gain that accrued.
+
+1) If no election had been made under par 2 Sch 4ZZB TCGA 92 for the NRCGT gain:
+
+Gain would be £26,216 (£36,596 - £10,380)
+
+2) If an election under para 2(1)(a) has been made for the NRCGT gain
+
+Gain would be £31,368 (£36,596 – £5,228)
+
+3) If an election under para 2(1)(b) has been made for the NRCGT gain
+
+Gain would be nil (£36,596 - £36,596)
+
+The 2016-17 gain (either 1, 2 or 3 above) together with any other gains of that year or other intervening years within the temporary period of non-residence would be added together and treated as accruing in the year of return i.e. 2017-18.
+
+It cannot be assumed that the individual will have made an election under para 2(1)(b). With the availability of the annual exempt amount option 1 or 2 above may have been chosen. Details of any elections made will have been included on the NRCGT return.

@@ -1,0 +1,40 @@
+Rules about excepted estates:  restriction of spouse or civil partner exemption in Scotland
+Identifier: IHTM06014
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm06014
+Published: 2016-03-20T09:22:25+00:00
+Updated: 2022-01-24T11:54:58+00:00
+Retrieved (UTC): 2026-09-18T14:53:56.663106+00:00
+
+Where the deceased died in Scotland, the amount of spouse or civil partner exemption that can be deducted to establish whether or not the estate qualifies as an exempt excepted estate (IHTM06013 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm06013)) must take account of any claim to legal rights or legitim (IHTM12221 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12221)) that may exist. This is best illustrated by example.
+
+Example 1
+
+John died in September 2022 survived by his wife, Mary and two children (James and Shona). John left heritable estate worth £300,000 and moveable estate worth £1,200,000. The legitim fund is £400,000 (£1,200,000 ÷ 3)
+
+By Will the whole estate is left to the surviving spouse, Mary. James has renounced his legal rights before confirmation is applied for.
+
+Under the terms of the Will Mary receives the whole estate valued at £1,500,000.
+
+For the purposes of determining whether the estate is excepted, the spouse transfer is recalculated. Mary now receives the heritable property (£300,000), James’s renounced legal rights (£200,000) and the balance of residue (£800,000), a total of £1,300,000.
+
+The value of the estate after deducting spouse or civil partner exemption is £200,000 (£1,500,000 - £1,300,000). As there are no specified transfers (IHTM06018 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm06018)) or specified exempt transfers (IHTM06019 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm06019)) to add to this, the estate qualifies as an excepted estate since the gross value of the estate does not exceed £3,000,000 and the net qualifying value (£200,000) does not exceed the excepted estate limit.
+
+However, if neither child has renounced or claimed legal rights, the spouse or civil partner exemption is limited to £1,100,000 - being two-thirds of the residue plus the heritable property. The estate after deduction of spouse or civil partner exemption is therefore £400,000, which exceeds the relevant Inheritance Tax (IHT) nil rate band. So although the gross estate does not exceed £3,000,000, the net qualifying value exceeds the excepted estate limit and the estate does not qualify as an exempt excepted estate.
+
+It is important to remember that actual or potential legitim claims will not always affect the amount of spouse or civil partner exemption by the same amount as the claim itself. This is likely to be the case where part of the estate passes to a non-exempt third party.
+
+Example 2
+
+Peter died in December 2006 survived by his civil partner, David and two children (Paul and Lisa). Peter left heritable estate worth £120,000 and moveable estate worth £840,000. The legitim fund is £280,000 (£840,000 ÷ 3).
+
+Under the terms of the Will, David receives the heritable property (£120,000), a legacy of £450,000 and a one-third share of the residue (£130,000). Peter left the remaining two-thirds share of the residue to a friend (£260,000).
+
+Paul has renounced his claim to legitim leaving the other half of the legitim (£140,000) unclaimed and unrenounced to be deducted from the residue of the estate. This is apportioned by reference to the respective shares in residue – civil partner £130,000 - £46,666.66 and friend £260,000 - £93,333.33.
+
+The notional civil partner transfer becomes £120,000 + £450,000 + £83,333.33 = £653,333.33
+
+The value of the estate after deducting spouse or civil partner exemption is therefore £960,000 - £653,333.33 = £306,666.67. This same result is achieved by adding the unclaimed legitim fund (£140,000) to the remaining chargeable estate (£260,000 - 93,333.33).
+
+Unlike the first situation at example 1, the estate does not qualify as an excepted estate as, although the estate is below £1,000,000 (date of death before 1 January 2022) and part passes to the civil partner, the net qualifying value is more than the IHT nil rate band then applicable of £285,000.
+
+Remember, however, in both examples, this calculation is only to establish whether the estate can qualify as an exempt excepted estate; it does not affect the application of spouse or civil partner exemption in calculating whether tax is payable (IHTM12222 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12222)).

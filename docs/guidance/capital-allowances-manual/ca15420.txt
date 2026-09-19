@@ -1,0 +1,66 @@
+General: successions: balancing allowances on transfers of trade
+Identifier: CA15420
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca15420
+Published: 2016-04-16T08:42:58+01:00
+Updated: 2019-08-19T16:46:11+01:00
+Retrieved (UTC): 2026-09-18T16:20:29.558343+00:00
+
+CTA 2010 Part 22 Chapter 2/ Ss 954 - 957 (formerly ICTA88/S343ZA)
+
+Chapter 2 of Part 22 of CTA 2010 comprises anti-avoidance sections that prevents the sale of unused capital allowances.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca15420#Top)
+
+Background
+
+A company that makes a loss in its trade may decide not to claim all or part of the capital allowances to which it is entitled. This is particularly the case when all that it would do is increase the loss for which it has no immediate use. If this happens for a number of years the pool of qualifying expenditure may be much higher than the value of the plant in it.
+
+The company’s owner may decide to sell it to a person who thinks that they will be able to turn it around and run it at a profit.
+
+If the person buying the company is a company (typically, but not necessarily, part of another group) the owner (or its group) would be able to utilise the capital allowances that have not been claimed so far - via claims to group relief - but they may not be of much immediate use if the new owner does not have sufficient profits to utilise the capital allowances. That is, the immediate availability of significant capital allowances will be of little value to the purchaser. So the person selling the company may decide to pass the trade through to somebody who will be able to use the allowances on its way to the buyer; and who will pay more than the ultimate intended purchaser. They will do this by placing the loss-making company temporarily in the hands of a profit-making company (or group or consortium), which sells the trade (but not the company) to the ultimate purchaser. The sale of the trade by the loss-making company creates a balancing allowance (CAA01/S65). This generates a loss that is surrendered to the owner of the company as group relief.
+
+Here is an example of the scheme.
+
+Example
+
+Nick’s Nougat Niceties Plc runs a confectionery business. It has spent a lot on up-market nougat-making equipment. The business has made losses for a number of years which it has not been able to utilise so Nick’s Nougat Niceties Plc has not claimed capital allowances. Its pool of qualifying expenditure is £1.5 million and the market value of its assets is £200,000. Sue’s Super Sweets Ltd is interested in buying the confectionery business as it thinks it will be able to run it at a profit, but it is only making modest profits and so could not use all the capital allowances it would be entitled to.
+
+Nick’s Nougat Niceties Plc runs several unsuccessful businesses and Sue’s Super Sweets is only interested in buying the confectionery business. Therefore Nick’s Nougat Niceties Plc sets up a subsidiary company called Nick’s Nougat Ltd and transfers the confectionery business to it under the provisions of Chapter 1 of Part 22 CTA 2010 (formerly ICTA88/S343).
+
+After the transfer, Nick’s Nougat Ltd, has a pool of qualifying expenditure £1.5 million and assets whose market value is £200,000. Nick’s Nougat Niceties Plc sells Nick’s Nougat Ltd to a consortium of profit-making companies. After 6 months, Nick’s Nougat Ltd sells its trade to Sue’s Super Sweets Ltd for £250,000 - reflecting £200,000 for the plant or machinery plus £50,000 for other assets. As Nick’s Nougat Ltd has ceased trading it gets a balancing allowance of £1.3 million (pool value £1.5 million less disposal value of the machinery, £200,000). The losses generated (or supplemented) by the balancing allowance are surrendered to the (profitable) members of the consortium as group relief.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca15420#Top)
+
+Counteraction
+
+The legislation in Chapter 2 of Part 22 CTA2010 (formerly ICTA\S343ZA) stops schemes like this. It also stops the creation of a balancing allowance by the transfer of a part trade. The legislation applies to cessations of trades or part trades on or after 12 March 2008.
+
+Here are details of the legislation:
+
+Chapter 2 of Part 22 applies where
+
+- a company ceases to carry on a trade or part trade and another company starts to carry it on, perhaps as part of its trade,
+
+- the company that has ceased to carry on the trade would have been entitled to a PMA balancing allowance when it ceased to carry on the trade, and
+
+- the cessation of the trade was part of a scheme or arrangement whose main purpose, or one of whose main purposes, was to make the company entitled to a balancing allowance.
+
+The legislation does not apply if Chapter 1 part 22 of CTA 2010 (formerly ICTA/S343) CA15400 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca15400) applies.
+
+Where the above conditions are satisfied, CTA 2010/ss948, 49, Sch 1 para 359, Sch 2 para 100 (formerly ICTA88/S343 (2)) applies so that the transfer is ignored for capital allowance purposes. The successor company gets the same allowances and suffers the same charges as the predecessor would have got if it had continued to carry on the trade.
+
+Example
+
+In the example above the conditions for applying the legislation are satisfied:
+
+- Nick’s Nougat Ltd has ceased to carry on the confectionery business and Sue’s Super Sweets Ltd has begun to carry it on.
+
+- Nick’s Nougat Ltd would have been entitled to a balancing allowance.
+
+- the cessation of Nick’s Nougat Ltd’s trade was part of a scheme one of whose main purposes was to make it entitled to a balancing allowance.
+
+When the legislation is applied, Nick’s Nougat Ltd does not get a balancing allowance and Sue’s Super Sweets Ltd inherits its pool of £1.5 million (or so much of the pool as remains after any normal claim to WDAs by Nick’s Nougat Ltd).
+
+If the trade or part trade that is transferred is treated as part of the buyer’s trade, it is treated as a separate trade for CTA 2010/ss 948 and 949 (formerly s.343 (2)) purposes.
+
+CTA 2010/S950 (formerly S343A) (company reconstructions involving leasing business) does not apply where CTA 2010 Part 22 Chapter 2 (formerly s.343ZA applies).

@@ -1,0 +1,63 @@
+Section 554Z11C: identifying overlapping sums or assets and applying relief: example 3 – two or more charges – earlier charge paid
+Identifier: EIM46065
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim46065
+Published: 2017-10-02T16:01:13+01:00
+Updated: 2017-10-02T16:00:17+01:00
+Retrieved (UTC): 2026-09-18T14:23:41.316773+00:00
+
+ITEPA 2003 – sections 554Z11C(1) – (6)
+
+Since the legislation does not allow earlier charge paid amounts to be set against other earlier charges, a different approach must be taken to obtain relief where more than 2 charges exist and an amount is paid towards an earlier charge.
+
+Using the example from section 554Z11C – overlapping sums or assets – example 2 (https://www.gov.uk/government/publications/tackling-disguised-remuneration-draft-guidance-for-changes-to-part-7a/tackling-disguised-remuneration-draft-guidance-for-changes-to-part-7a#Sec554Z11CEX2) with a payment being made against an earlier charge will demonstrate how the difference in relief is obtained:
+
+2008-2009 - earnings charge on £400,000 (sum Q2) contribution to EBT - resulting in 40% tax charge of £160,000
+2016-2017 - relevant step on £200,000 (sum Q1 ÷ P2) earmarking charge - resulting in 45% tax charge of £90,000
+2017-2018 - relevant step on £150,000 loan (sum P1) - resulting in Chapter 2 liability at 45% of £67,500
+
+General principles
+
+To obtain full relief, it is necessary to consider how the payment made by the taxpayer interacts with each of the other liabilities as separate calculations.
+
+In the table of liabilities above, payment is being made against the 2016-2017 liability. It is necessary to consider the liability arising in 2017-2018 as including a Chapter 2 overlap charge against an earlier charge arising in 2016-2017. Any earlier charge paid amounts will be treated as payments on account of the Chapter 2 overlap charge. This will deal with any double taxation between the separate charges for these 2 years.
+
+This leaves the 2008-2009 liability to be considered. Since a payment of an earlier charge can’t be used to relieve another earlier charge, to fully relieve the income across all the charges, it is then necessary to compare the 2016-2017 liability separately against the 2008-2009 liability.
+
+The 2016-2017 liability becomes a separate Chapter 2 liability which includes a separately calculated Chapter 2 overlap charge against an earlier charge arising in 2008-2009. The value of the relevant step for the 2016-2017 liability becomes a newly calculated sum P. It is necessary to consider the overlap between this and the earlier liability in 2008-2009. This becomes a newly calculated sum Q. Any payments against the Chapter 2 overlap charge for 2016-2017 can be used as payments on account of the earlier charge for 2008-2009.
+
+Detailed calculation – 2017-2018 against 2016-2017
+
+The Chapter 2 liability is £67,500 in 2017-2018 and it wholly relates to income included in the 2016-2017 tax liability. The Chapter 2 overlap charge is therefore still £67,500.
+
+It is again necessary to calculate how much of the income which gave rise to the 2017-2018 charge is included in the 2016-2017 charge.
+
+The overlapping income is £150,000 (sum P1) out of total income charged of £200,000 (sum Q1). The overlap covers 75% of the income charged in 2016-2017. The charge for that year was £90,000. Since 75% of that charge relates to overlapping income, the amount of the earlier charge for 2016-2017 is £90,000 × 75% = £67,500.
+
+Detailed calculation – 2016-2017 against 2008-2009
+
+It is then necessary to consider what the Chapter 2 overlap and earlier charges are when comparing 2016-2017 to 2008-2009.
+
+Previously the liability for 2016-2017 was the earlier year’s tax liability and contained the earlier charge. In relation to the 2008-2009 year, the charge for 2016-2017 becomes the Chapter 2 tax liability and contains the Chapter 2 overlap charge.
+
+Sum P is no longer the £150,000 from 2017-2018 – it is now £200,000 from 2016-2017 (referred to now as P2). The overlapping amount between 2016-2017 and 2008-2009 is £200,000. This gave rise to the whole of the Chapter 2 tax liability of £90,000 so the Chapter 2 overlap charge is £90,000.
+
+The overlapping amount of £200,000 is 50% of the amount which gave rise to the earlier tax liability of £160,000. The earlier charge for 2008-2009 is £160,000 × 50% = £80,000.
+
+To summarise the position in relation to the overlapping charges:
+
+2008-2009 – earlier charge 2 – £80,000
+2016-2017 – Chapter 2 overlap charge in respect of 2008-2009 – £90,000
+2016-2017 – earlier charge 1 – £67,500
+2018-2019 – Chapter 2 overlap charge in respect of 2016-2017 – £67,500
+
+Paid amounts
+
+In 2018-2019, a payment of £70,000 is made for the 2016-2017 liability. This needs to be considered as a paid amount against both the 2018-2019 charge and the 2008-2009 charge.
+
+In relation to the 2018-2019 Chapter 2 overlap charge, this is an earlier charge paid amount. It can be used as a payment on account of the 2018-2019 Chapter 2 overlap charge of £67,500. Since the amount paid exceeds the Chapter 2 overlap charge by £2,500, that amount can be set against any late payment interest arising in respect of that Chapter 2 overlap charge. It will not clear the 2016-2017 liability in full but it does clear the earlier charge for this year.
+
+In relation to the 2008-2009 earlier charge, this is a Chapter 2 paid amount. The payment can be used as a payment on account of the 2008-2009 earlier charge.
+
+It will not clear the earlier liability in full. Since the earlier charge is £80,000, the payment of £70,000 will leave £10,000 of the earlier charge still able to be franked by any further payment towards any of the 2016-2017 liability.
+
+Using the payments in this example, the 2018-2019 charge is fully covered. Any further payments would be made against the balances remaining on the other years. These would then be considered as Chapter 2 paid amounts or earlier charge paid amounts as appropriate and available to be used as payments on account of the earlier charges or Chapter 2 overlap charges as appropriate.

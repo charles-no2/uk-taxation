@@ -1,0 +1,16 @@
+Class 1A NICs: liability for Class 1A NICs: Class 1A NICs on termination awards: reporting
+Identifier: NIM13203
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim13203
+Published: 2020-03-25T12:17:54+00:00
+Updated: 2022-05-11T16:25:08+01:00
+Retrieved (UTC): 2026-09-18T15:20:03.307182+00:00
+
+Where a payment made because of the termination of an employment falls to be charged to income tax, either under new subsections 402A to 402E of ITEPA or existing income tax rules of identifying earnings, Real Time reporting must be used to report the Class 1 NICs due on these earnings.
+
+When the termination award falls within the new rules explained in NIM02511 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim02511), payments in excess of £30,000 must be reported to HMRC.
+
+The award should be reported to HMRC online and in real time, either at the time the payment is made or beforehand.
+
+The employer should operate PAYE on any income above £30,000 to collect the income tax due and account for the Class 1A NICs.
+
+To report Class 1A NICs from a termination award using Real Time Information use the new Data Item box (Box209A - Class 1A Year to Date).

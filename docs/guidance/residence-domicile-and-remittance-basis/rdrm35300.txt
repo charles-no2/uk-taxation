@@ -1,0 +1,168 @@
+Remittance Basis: Amounts Remitted: Mixed Funds: Example 3 - single remittance
+Identifier: RDRM35300
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35300
+Published: 2016-03-09T17:39:36+00:00
+Updated: 2022-01-20T09:20:29+00:00
+Retrieved (UTC): 2026-09-18T16:19:47.567407+00:00
+
+Jeff’s overseas bank account (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35300#IDAQTLPG)
+
+Applying the ordering rules in S809Q to the account (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35300#IDATRMPG)
+
+Jeff has his UK salary of £10,000 a month paid into an overseas bank account. He also has a salary for overseas employment and his net salary for that work of £5,000 a month is paid into the same bank account. Both salaries are paid on the last day of each month. Dividends from a shareholding in a foreign company are also paid into the account.
+
+In Year 0, Jeff had purchased shares in a foreign company for £8m. The £8m is accepted as representing Jeff’s ‘clean’ capital, being perhaps an inheritance or similar such windfall. Jeff sells the shares in Year 2 for £10m, which produces a £2m chargeable gain.
+
+Jeff’s remittances to the UK from this fund in Year 2 are £10m.
+
+His UK salary is credited net of PAYE and NIC. His overseas salary is subject to a foreign tax deducted at source, and is credited net. His overseas dividends are credited net of overseas withholding taxes.
+
+Jeff’s overseas bank account
+
+Year 1 (2011-2012)
+
+Date |  Descriptor |  Credit |  Debit |  Balance |  Category (s809Q(4)) |
+
+31 March |  UK salary (net of tax) |  £10,000 |  - |  £10,000 |  Para (a) |
+
+31 March |  Overseas salary (net of tax) |  £5,000 |  - |  £15,000 |  Para (f) |
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35300#Top)
+
+Year 2 (2012-2013)
+
+Date |  Descriptor |  Credit |  Debit |  Balance |  Category (s809Q(4)) |
+
+30 Apr |  UK salary |  £10,000 |  - |  £25,000 |  Para (a) |
+
+30 Apr |  Overseas Salary |  £5,000 |  - |  £30,000 |  Para (f) |
+
+15 May |  Dividend |  £2,000 |  - |  £32,000 |  Para (g) |
+
+31 May |  UK salary |  £10,000 |  - |  £42,000 |  Para (a) |
+
+31 May |  Overseas salary |  £5,000 |  - |  £47,000 |  Para (f) |
+
+18 June |  Sale of shares (£8m capital and £2m gain no deduction of foreign tax) |  £2,000,000 |  - |  £2,047,000 |  Para (e) |
+
+18 June |  As above |  £8,000,000 |  - |  £10,047,000 |  Para (i) |
+
+30 June |  UK salary |  £10,000 |  - |  £10,057,000 |  Para (a) |
+
+30 June |  Overseas salary |  £5,000 |  - |  £10,062,000 |  Para (f) |
+
+25 Jul |  Dividend |  £2,000 |  - |  £10,064,000 |  Para (g) |
+
+31 Jul |  UK salary |  £10,000 |  - |  £10,074,000 |  Para (a) |
+
+31 Jul |  Overseas salary |  £5,000 |  - |  £10,079,000 |  Para (f) |
+
+31 Jul |  Bank interest |  £5,000 |  - |  £10,084,000 |  Para (d) |
+
+14 Aug |  Transfer to UK account |    |  £10,000,000 |  £84,000 |  - |
+
+Applying the ordering rules in S809Q to the account
+
+Apply immediately before the transfer
+
+Step 1
+
+Identify the ‘amount of transfer’ in the relevant tax year (year 2) = £10,000,000
+
+Analyse the mixed fund to identify the separate amounts of income, capital gains and capital present for each tax year immediately before the date of the transfer:
+
+- Para (a) employment income (including UK employment income) not subject to a foreign tax – year 1 £10,000, year 2 £40,000
+
+- Para (d) relevant foreign income (not subject to a foreign tax) – bank interest year 2 £5,000
+
+- Para (e) foreign chargeable gains (not subject to a foreign tax) – year 2 £2,000,000
+
+-
+
+Para (f) employment income subject to a foreign tax – year 1 £5,000, year 2 £20,000
+
+- Para (g) relevant foreign income subject to a foreign tax – foreign dividends, year 2 £4,000
+
+- Para (i) capital – capital from year 0 £8,000,000
+
+Step 2
+
+Identify the earliest paragraph from above for the relevant year (year 2), which has an amount of income or gain in the mixed fund – para (a) £40,000
+
+Step 3
+
+Where the amount of remittance is greater than the amount identified at step 2, the amount remitted is treated as reduced by the amount at step 2 - £10 million less £40,000 = £9,960,000.
+
+Step 4
+
+Find the next paragraph/amount for that tax year. In the order of preference listed above repeat steps 2 and 3.
+
+Step 2 - para (d) £5,000
+
+Step 3 - £9,955,000
+
+Step 4
+
+In the order of preference listed above repeat steps 2 and 3.
+
+Step 2 – para (e) £2 million
+
+Step 3 - £7,955,000
+
+Step4
+
+In the order of preference listed above repeat steps 2 and 3
+
+Step 2 – para (f) £20,000
+
+Step 3 - £7,935,000
+
+Step 4
+
+In the order of preference listed above repeat steps 2 and 3
+
+Step 2 – para (g) £4,000
+
+Step 3 - £7,931,000
+
+At this point all of the income from year 2 has been matched against the remittance.
+
+Step 5
+
+If the amount of the transfer (as reduced under step 3), is not nil once steps 2 and 3 have been undertaken for all of the capital, income and gains of the relevant tax year, repeat the exercise using the income, capital and gains of the next earliest year (year 1).
+
+Step 2 – para (a) £10,000
+
+Step 3 - £7,921,000
+
+Step 4
+
+In the order of preference listed above repeat steps 2 and 3
+
+Step 2 – para (f) £5,000
+
+Step 3 - £7,916,000
+
+At this point all of the income from year 1 has been matched against the remittance.
+
+Step 5
+
+If the amount of the transfer (as reduced under step 3), is not nil once steps 2 and 3 have been undertaken for all of the capital, income and gains of the relevant tax year, repeat the exercise using the income, capital and gains of the next earliest year (year 0).
+
+Step 2
+
+If the amount is more than the [residual] relevant amount, treat the whole of the remittance as coming from that item of income or gain. Para (i) £8 million
+
+The result of this exercise is that:
+
+- All of Jeff’s UK salary in tax year 2 is deemed to have been brought to the UK first.
+
+- Similarly all of his foreign income and gains of tax year 2 are treated as remitted to the UK and chargeable to tax at the appropriate rates of tax - allowing credit for foreign taxes charged on that same income as appropriate.
+
+- Jeff’s income of Year 1 is also matched against the remittance.
+
+- £7,916,000 capital has also been brought to the UK.
+
+Until such time as further amounts of income and gains are credited to the overseas account, the mixed fund contains £84,000 of capital from Year 0 (from the sale of shares).
+
+Refer to RDRM35310 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35310) example 3 (continuation) remittance of funds covering two years

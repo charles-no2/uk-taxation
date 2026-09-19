@@ -1,0 +1,30 @@
+Pre-owned assets: exemptions: relevant property remains part of the Inheritance Tax estate: restriction for subsequent ownership
+Identifier: IHTM44050
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44050
+Published: 2016-04-09T10:31:12+01:00
+Updated: 2016-02-11T17:26:34+00:00
+Retrieved (UTC): 2026-09-18T15:10:20.891213+00:00
+
+The introduction of the POA charge meant that successful ‘Ingram’ schemes (IHTM44100 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44100)) - those executed before 9 March 1999 - were subject to the charge from April 2005. Immediately, it became plain that a revertor to settlor trust (IHTM16121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16121)) would provide a way around the POA charge.
+
+Example
+
+Paul set up an ‘Ingram’ scheme in 1992 - he would be liable to the POA charge. In February 2006, his daughter to whom he had given the freehold, settled it on an interest in possession trust in favour of Paul, with remainders to herself. Because the property Paul had given away was now part of his estate again under IHTA84/S49(1), he would be exempt from the POA charge under FA04/Sch15/Para 11(1). On Paul’s death, the property would revert to his daughter so there would no charge to Inheritance Tax on his death by virtue of IHTA84/S54(1).
+
+Amending legislation was introduced by FA06/S80 in the form of FA04/Sch15/Paras11 - 13 which have the effect that from 5 December 2005, the exemption under FA04/Sch15/Para11(1) does not apply if the relevant person ceases to own the property and did not take an interest in possession immediately, but does so subsequently. Where this applies, FA04/Sch125/Para 11(12)(a) says that the relevant property and any derived property are not to be treated for the purposes of FA04/Sch15/Para11(1) & (2) as forming part of the estate, nor as subject to a reservation of benefit.
+
+So in the above example, Paul’s ownership of the freehold as life tenant of his daughter’s trust is ignored and the POA charge applies. Where the ownership exemption is claimed, therefore, you should always check that the property has remained part of his estate, either outright or under an interest in possession throughout. If there has been a break in ownership and the donor now has an interest in possession, the POA charge will apply unless one of the exclusions (IHTM44030 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44030)) applies.
+
+Note that references in FA04/Sch15/Para11(11) & (12) to any derived property are to other property that derives its value from the relevant property where the value is not substantially less than the value of the relevant property.
+
+Although the changes made FA06/S80 were aimed at reversion to settlor situations, they can also apply to other cases.
+
+Example
+
+In 1990 Abel gave his widowed mother Eve the money so that she could buy her council house. Eve died in 2005 leaving her house in trust to Abel for life with remainder to her grandson. Abel lives in the house as life tenant, so does not pay any rent. Despite the house being treated as part of Abel’s estate, Abel is not exempt under FA04/Sch15/Para11(1) - unless the de minimis (IHTM44056 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44056)) applies.
+
+Example
+
+Adam settled a holiday cottage in trust in 2000 giving his wife an interest in possession only while they are married, with a defeasible life interest for himself thereafter and remainders on discretionary trust for his children. He shares the occupation of the cottage with his wife. The initial transfer is an excluded transaction (IHTM44032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44032)) and also exempt from reservation of benefit (IHTM14318 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14318)).
+
+In May 2008 they divorce and Adam’s former wife’s interest ends. The initial exclusion comes to an end, but Adam’s subsequent qualifying life interest (a TSI under IHTA/S49C (IHTM16061 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16061))) is not exempt under FA04/Sch15/Para11(1).

@@ -1,0 +1,110 @@
+PMA: WDA & balancing adjustments: Disposal values
+Identifier: CA23250
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23250
+Published: 2016-04-16T08:48:02+01:00
+Updated: 2020-11-25T12:31:13+00:00
+Retrieved (UTC): 2026-09-18T16:20:45.368111+00:00
+
+CAA01/S61 (2) - (5), S62 & S63
+
+These are the disposal values for the various disposal events in CA23240 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240). The disposal values are subject to the limits detailed below. For disposal values in relation to fixtures, see CA26700 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26700).
+
+Disposal event | Disposal value |
+
+Sale of the asset
+
+|
+
+Net proceeds of sale (see CA11540 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11540)) plus any insurance money received as a result of an event affecting the sale price and any other capital compensation received
+
+|
+
+Sale of the asset at less than market value
+
+|
+
+Market value unless there is a charge under ITEPA on the buyer or the buyer can claim PMAs or RDAs on the asset and the buyer is not a dual resident investing company connected with the seller
+
+|
+
+Demolition or destruction of the asset
+
+|
+
+Net amount received for the remains of the asset together with any insurance money received for the demolition or destruction and any other capital compensation
+
+|
+
+Permanent loss of the asset not by demolition or destruction
+
+|
+
+Any insurance money received for the loss and any other capital compensation
+
+|
+
+Abandonment of an asset used for mineral exploration and access
+
+|
+
+Any insurance money received for the abandonment and any other capital compensation
+
+|
+
+Permanent discontinuance of the qualifying activity before an event listed above
+
+|
+
+The disposal value for the event
+
+|
+
+Commencement of the term of a long funding finance lease CA23850 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23850) of an asset
+
+|
+
+The greater of a) the market value of the plant and machinery at the commencement of the lease, and b) the "qualifying lease payments".
+
+For this purpose, "qualifying lease payments" means the minimum payments under the lease (including the initial payment), excluding the following:
+
+- so much of any payment which, under generally accepted accounting principles, falls (or would fall) to be treated as the gross return on investment under the lease,
+
+- so much of any payment as represents charges for services,
+
+- so much of any payment as represents qualifying UK or foreign tax (as defined in s70YE, CAA01) to be paid by the lessor.
+
+|
+
+Commencement of the term of a long funding operating lease of an asset CA23850 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23850)
+
+|
+
+The market value of the plant or machinery at the commencement of the term of the lease.
+
+|
+
+A disposal event arising under CTA09/S15A in relation to a company to which an election under CTA09/S18A has effect (INTM281020 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm281020) Companies with foreign permanent establishments) | The 'transition value' (this being such amount as gives rise to neither a balancing allowance nor a balancing charge). |
+
+Any other event | Market value |
+
+General limit on disposal value (CAA01/S62)
+
+Normally the disposal value of an asset is limited to the qualifying expenditure incurred on its provision by the person bringing the disposal value to account. There is one exception to this. If the person bringing the disposal value to account acquired it from a connected person or in a series of transactions between connected persons the limit on that person's disposal value is the greatest qualifying expenditure incurred by anyone in the chain.
+
+Cases in which disposal value is nil (CAA01/S63)
+
+The disposal value is nil in the following cases:
+
+- The asset is gifted to a person who is chargeable under ITEPA03 on the gift.
+
+- The asset is gifted to a charitable trust, a charitable company, a heritage body or museum listed in s468 CTA 2010 (formerly ICTA88/S507 (1)) or an educational establishment designated in ITTOIA/S110 or s106 CTA 2009 (formerly ICTA88/S84), or a club registered as a community amateur sports club. The requirements for a club to be registered as a community amateur sports club are in Chapter 9 of Part 13 CTA 2010 (formerly FA02/SCH18).
+
+- The disposal is of thermal insulation (CA22220 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca22220)) or personal security assets (CA22270 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca22270)).
+
+You should remember that the disposal value is nil when the gift is chargeable on the employee as a payment or other benefit in connection with termination of employment under ITEPA 2003 whether or not tax is actually charged. The disposal value is nil even if ITEPA prevents tax from being charged because the transfer price of the gift is less than £30,000.
+
+You should also remember that there is a nil disposal value only where an asset is gifted to an employee. It does not apply to any other kind of transfer.
+
+If an employer transfers an asset to an employee and claims that the disposal value is nil, you should check that the transfer is really a gift. A gift is a transfer from one person to another for no consideration (see CG12920 (http://www.hmrc.gov.uk/manuals/cgmanual/CG12920.htm) and CG66451 (http://www.hmrc.gov.uk/manuals/cgmanual/CG66451.htm)). This means that a transfer that is a gift cannot have been made wholly and exclusively for the purposes of the trade and CTA 2009 Ss 53,54,59,68,103 and 231 will prevent a deduction (see BIM47110 (http://www.hmrc.gov.uk/manuals/bimmanual/BIM47110.htm)).
+
+An employer cannot be entitled both to a revenue deduction and to have a disposal value of nil on the transfer of an asset to an employee. If the employer has claimed a revenue deduction, the transfer must have passed the wholly and exclusively test. If it has passed the wholly and exclusively test, it cannot have been for no consideration and so it cannot have been a gift. In that case the employer is required to bring a disposal value to account in the capital allowance computation.

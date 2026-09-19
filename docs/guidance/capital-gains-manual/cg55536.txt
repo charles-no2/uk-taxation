@@ -1,0 +1,34 @@
+Traded options: tax treatment: summary
+Identifier: CG55536
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55536
+Published: 2016-03-12T11:37:45+00:00
+Updated: 2023-05-05T13:54:26+01:00
+Retrieved (UTC): 2026-09-18T14:33:28.555451+00:00
+
+The ordinary rules of TCGA92/S144 and TCGA92/S144A as described in CG12300+ apply with certain modifications, see CG55400. Thus the tax treatment is as follows. This summary assumes the transactions do not amount to trading and that they do not otherwise fall to be dealt with under special income rules, see CG12310.
+
+See CG55545 for the tax consequences of closing out a traded option.
+
+Buyer of option
+
+- |  Call option |  Put option |
+
+Option Exercised underlying asset transferred |  Purchase of the option and acquisition of shares on exercise treated as same transaction. Cost of the option is added to cost of the shares. Indexation, if applicable, is given from date option was acquired, see CG55445. |  Purchase of option and sale of shares treated as same transaction. No indexation possible on premium which is treated as incidental cost of disposal, see CG12314. |
+
+Option Exercised, cash settlement |  Payment on exercise treated as consideration for disposal of an asset. Acquisition of the option and the exercise treated as a single transaction at the time of exercise. Cost of the option is allowed as acquisition cost in relation to the disposal. Indexation, if applicable, given on this from the date option was acquired, see CG12322. |  - |
+
+Option Sold |  Sale treated as disposal of an asset. Normal CG rules apply. In some markets the purchaser of an option may receive a payment for abandoning an option. Treat this as a disposal. Options of the same series are pooled, see CG55535. |  See opposite |
+
+Option Lapses |  Capital loss equal to cost of premium arises in the year option lapses. |  See opposite |
+
+Grantor of Option
+
+- |  Call option |  Put option |
+
+Option Granted |  The full amount of the premium less any incidental cost of disposal are assessable as a gain arising when the option is written. In practice, because the option period is usually short the exercise or lapse will normally occur before gain is included in an assessment. |  See opposite |
+
+Option Exercised |  The grant of the option and the sale of shares on exercise is treated as the same transaction. If any tax paid was paid in respect of the receipt of the premium it should be set-off or repaid, see CG12317. The premium is added to the sale proceeds. The normal share identification rules apply to the disposal. |  Grant of the option and purchase of shares on exercise are treated as the same transaction. If any tax was paid in respect of the receipt of the premium it should be set-off or repaid, see CG12317. The acquisition cost of the shares is reduced by the amount of the premium. |
+
+Option Exercised, cash settlement |  Exercise treated as disposal of an asset, and any amount paid to the grantee is treated as incidental cost of that disposal. Grant and exercise treated as single transaction, the consideration received for the grant being treated as consideration for the disposal, see CG12321. |  - |
+
+Option Lapses |  There is no effect on the grantor. Any CG charge in respect of the grant of the option remains. |  See opposite |

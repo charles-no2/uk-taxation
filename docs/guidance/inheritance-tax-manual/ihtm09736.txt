@@ -1,0 +1,22 @@
+Related property: the special rule for calculating the appropriate portion
+Identifier: IHTM09736
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09736
+Published: 2016-03-20T09:25:35+00:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:54:38.366297+00:00
+
+The special rule for calculating the value to be included in the deceased/transferor’s estate is mainly used for valuing shares in companies where the value of the same shares can vary with the size of the holding.
+
+The special rule is that where the property consists of shares of the same class, the apportionment is based on the number of shares, not the value of the different holdings, IHTA84/S161 (4). Shares are treated as being of the same class only if they are so treated by the practice of a recognised stock exchange or would be so treated if dealt with on such a stock exchange.
+
+Example
+
+XYZ Ltd has an issued capital of 20,000 £1 ordinary shares.
+
+H owns 12,000 shares. W owns 2,000 shares. W dies and, by Will, leaves her shares to her daughter.
+
+The combined holding of 14,000 shares has an agreed value of £420,000. There is no business relief because the ownership condition is not satisfied. Under IHTA84/S161 (4) the value of W’s holding of 2,000 shares is
+
+(£2,000 ÷ £14,000) × £420,000 = £60,000
+
+It does not matter that H’s holding of 12,000 is worth more per share than W’s minority holding. You do not need to value W’s holding by itself.

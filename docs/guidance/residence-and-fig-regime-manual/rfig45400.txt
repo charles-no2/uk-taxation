@@ -1,0 +1,310 @@
+FIG regime: Income arising under the transfer of assets abroad provisions
+Identifier: RFIG45400
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45400
+Published: 2025-04-04T17:52:58+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:18:30.509469+00:00
+
+Income treated as arising to an individual (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45400#Income)
+
+Benefits matched with foreign income (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45400#Benefits)
+
+Interaction between transferor charge and benefits charge (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45400#Interaction)
+
+Income treated as arising to an individual
+
+The transfer of assets abroad (ToAA) legislation is a wide-ranging anti-avoidance provision aimed at preventing individuals who are resident in the UK from avoiding a liability to tax by means of a transfer of assets which results in income becoming payable to a person abroad, whilst the transferor has either the power to enjoy the income arising or is entitled to receive a capital sum connected with the transfer. In such circumstances the transferor will be taxable on the income arising to the person abroad in a tax year. This is known as the income charge.
+
+The legislation also applies where an individual who is resident in the UK receives a benefit provided out of assets available as a result of a relevant transfer and there is income arising to the person abroad available to match against the benefit received. This is known as the benefits charge.
+
+Detailed guidance to the application of the ToAA provisions can be found in the International Manual at INTM600000 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm600000) onwards.
+
+Income that is treated as arising to an individual under one of the ToAA charges that is foreign income is included in the table of qualifying foreign income at section 845H ITTOIA 2005. Consequently, any foreign income assessable under the ToAA provisions can be subject to a claim for relief if the individual chargeable is a ‘qualifying new resident’ (see RFIG44000 (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig44000)). Details of making a claim can be found at RFIG42100 (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig42100).
+
+Income that is treated as arising to an individual by virtue of the ToAA income charges at section 720 ITA 2007 (power to enjoy) or section 727 ITA 2007 (capital receipt conditions) (see INTM600520 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm600520) onwards) which is treated as foreign income of the individual by virtue of the rules at sections 726 and 730 ITA 2007 is available for relief under the FIG regime. If an individual makes a claim in respect of their foreign income that is assessable under section 720 or section 727 it will be relieved from UK tax.
+
+Example 1
+
+Jerome has been living in France for 15 years. In 2026-27 Jerome, in preparation for a move to the UK, settled a Jersey resident discretionary trust, the J Trust, of which he is a beneficiary. The J trust holds all the shares in a Guernsey company, J Ltd. J Ltd holds several offshore investments which generate income of £100,000 per year.
+
+In 2027-28 Jerome becomes resident in the UK. It is assumed for the purpose of this example that none of the exemptions from the charge are applicable and so under section 720 an amount of income equal to the income of J Ltd will be assessable on Jerome. However, Jerome has never previously been resident in the UK so he is a qualifying new resident. He makes a foreign income claim under the FIG regime in respect of this income and so will be relieved from tax on the £100,000 arising in the year.
+
+Jerome will be able to continue to claim foreign income relief for the years 2028-29 to 2030-31 on the income arising to J Ltd which would be deemed to arise to him for each of these years. For the years 2031-32 onwards Jerome would no longer be a qualifying new resident and so from this year onwards he would be taxable on the annual income of £100,000 treated as arising to him under section 720.
+
+Example 2
+
+Simone has been living in Germany for 20 years. In 2015-16 she settled a Liechtenstein trust, the S Trust, for the benefit of her two children. Simone was excluded from benefiting from the S Trust. The S Trust incorporated a Bermudan company, S Ltd and Simone lent S Ltd £1 million which it invested in overseas investments. S Ltd generates profits of £150,000 per year from its investments.
+
+In 2028-29 Simone becomes UK resident. Simone does not have power to enjoy the income of the S Trust structure as she is excluded from benefit and is therefore not taxable on the income of S Ltd under section 720. However, as she is owed £1 million by S Ltd she is entitled to receive a capital sum and so she will be taxable under section 727. For this example, it is assumed that none of the exemptions at section 737 ITA 2007 are applicable and so an amount of income equal to the income of S Ltd, £150,000, will be assessable on Simone. However, Simone has never previously been resident in the UK so she is a qualifying new resident. She makes a foreign income claim under the FIG regime in respect of this income and so will be relieved from tax on the £150,000.
+
+Simone will also be able to claim relief for the years 2029-30 to 2031-32 on the income arising to S Ltd which would be deemed to arise to her for each of these years. From 2032-33 onwards Simone would no longer be a qualifying new resident and so from this year onwards, assuming she remained resident in the UK, she would be taxable on an amount equal to the income of S Ltd.
+
+S Ltd was also in receipt of £80,000 UK source income as well as the foreign source income in 2028-29. This UK source income remains taxable on Simone even though she claimed relief under the FIG regime in respect of the foreign source income. This is because UK source income is not qualifying foreign income and so remains taxable.
+
+Benefits matched with foreign income
+
+Any benefit received by an individual that is subject to a benefits charge under section 731 ITA 2007 (see INTM601400 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm601400)) that is matched with foreign income of the person abroad is also available for relief under the FIG regime. In determining whether the benefit is treated as foreign deemed income the matching rules at section 735A ITA 2007 need to be followed. Detailed examples of how the matching rules apply can be found at INTM602180 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm602180) onwards.
+
+When a FIG claim is made in respect of foreign deemed income charged under section 731 then for the purposes of Step 2 in section 733(1) ITA 2007 the amount of benefit subject to relief will be included in the amount deducted from the total benefits in subsequent calculations. This amount will also be deducted at Step 5(a) when computing the figure of 'available relevant income' for that individual as stipulated by section 733(2C)(a). However, in calculating the relevant income where relief on foreign deemed income is claimed under the FIG regime, these amounts are not deducted from the total relevant income in Step 5(b) of the calculation at section 733(1), when another individual receives a benefit in subsequent years as stipulated by section 733(2C)(b). This is because section 733(2B) states that where income is qualifying foreign income on a qualifying claim the income is treated as not having been charged to tax.
+
+Example 3
+
+Trinity has always been resident in the US and in 2027-28 comes to live in the UK. Trinity is the beneficiary of a discretionary trust established by her father in the BVI. The trust has invested in both overseas and UK investments such that it has received the following income.
+
+Year
+
+|
+
+Date
+
+|
+
+UK income
+
+|
+
+Foreign income
+
+|
+
+2024-25
+
+|
+
+30 September 2024
+
+|
+
+£5,000
+
+|
+
+£0
+
+|
+
+2024-25
+
+|
+
+31 March 2025
+
+|
+
+£0
+
+|
+
+£50,000
+
+|
+
+2025-26
+
+|
+
+30 September 2025
+
+|
+
+£40,000
+
+|
+
+£0
+
+|
+
+2025-26
+
+|
+
+31 March 2026
+
+|
+
+£0
+
+|
+
+£100,000
+
+|
+
+2026-27
+
+|
+
+30 September 2026
+
+|
+
+£50,000
+
+|
+
+£0
+
+|
+
+2026-27
+
+|
+
+31 March 2027
+
+|
+
+£0
+
+|
+
+£100,000
+
+|
+
+2027-28
+
+|
+
+30 September 2027
+
+|
+
+£60,000
+
+|
+
+£0
+
+|
+
+2027-28
+
+|
+
+31 March 2028
+
+|
+
+£0
+
+|
+
+£110,000
+
+|
+
+Upon moving to the UK Trinity asks the trustees to make a capital distribution to her in 2027-28 to assist her in purchasing a property in which to live. The trustees agree to do this and make a distribution of £400,000 to Trinity. As there is sufficient relevant income in the trust to match against this benefit Trinity is potentially taxable on the benefit of £400,000 under section 731, however, as a qualifying new resident she can claim relief under the FIG regime in respect of any of the amount of the benefit that is matched with foreign income. To determine how the benefit is matched with the trust income the steps in section 735A must be worked through.
+
+In this case the only benefit provided is £400,000 received by Trinity in 2027-28.
+
+To determine the order in which the benefit is matched to income, start with the income of the earliest year first (2024-25) matching with the UK source income first and then with the foreign income. This process is repeated for each subsequent year until all the benefit is matched. The table below sets out the income against which the benefit is matched.
+
+Year
+
+|
+
+UK Income
+
+|
+
+Foreign income
+
+|
+
+Total
+
+|
+
+2024-25
+
+|
+
+£5,000
+
+|
+
+£50,000
+
+|
+
+£55,000
+
+|
+
+2025-26
+
+|
+
+£40,000
+
+|
+
+£100,000
+
+|
+
+£140,000
+
+|
+
+2026-27
+
+|
+
+£50,000
+
+|
+
+£100,000
+
+|
+
+£150,000
+
+|
+
+2027-28
+
+|
+
+£55,000
+
+|
+
+£0
+
+|
+
+£55,000
+
+|
+
+Totals
+
+|
+
+£150,000
+
+|
+
+£250,000
+
+|
+
+£400,000
+
+|
+
+Having undertaken the matching process if Trinity made a foreign income claim in respect of the benefit £250,000 of the income treated as arising under section 731 would be relieved under the FIG regime because it is qualifying foreign income. Trinity would be taxable on the income of £150,000 which was not qualifying income.
+
+Regarding any future benefits received by other individuals from the trust the amount of foreign income of £250,000 would remain available to match against these benefits, because for the purposes of any future matching exercises this foreign income will be treated as not having been charged to income tax under section 731 in the application of section 733(1) to any other individual (but not for Trinity herself) as stipulated by s733(2C). The other £5,000 (£60,000 - £55,000) of UK source income and £110,000 of foreign source income that arose in 2027-28 but was not matched with the benefit received by Trinity would remain available for matching with benefits received by either Trinity or any other individuals.
+
+Interaction between transferor charge and benefits charge
+
+Where income has been treated as arising to a transferor under section 721 or section 728, and that transferor then makes a claim for relief under the FIG regime, the income of the person abroad that was taken into account in quantifying that deemed income of the transferor also remains available for matching in subsequent tax years with benefits received by other individuals. This is because the provision at section 733(2B) applies not just where income has been treated as arising under section 732(2), but also under section 721(2) or section 728(2).
+
+This can be illustrated by an extension of example 1 where Jerome settled a trust before becoming UK resident in 2027-28 and claimed relief under the FIG regime in respect of the foreign income arising in the trust of £100,000 in that year. The facts remain the same, but the trust settled by Jerome also included a UK resident family member Paul to be a beneficiary who could not qualify for relief under the FIG regime. If Paul received a £400,000 benefit in the 2031-32 tax year, this could be matched with the accumulated £400,000 of income that had been used to quantify £100,000 of deemed income of Jerome as a transferor in his first 4 years of residence in the UK.
+
+If Jerome himself had received such a benefit instead, this could not be matched with that accumulated income for two reasons. Firstly, an individual is not liable to a benefits charge under section 731 if they are liable, or would have been liable to a charge under section 720 or section 727 had they not made a claim for relief under the FIG regime. Secondly, section 733(2C)(b) only allows income that has resulted in a foreign income relief claim to be matched in subsequent tax years with benefits received by other individuals.

@@ -1,0 +1,314 @@
+Disposal of assets situated abroad: example 3
+Identifier: CG25431
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25431
+Published: 2016-03-12T10:24:50+00:00
+Updated: 2025-06-25T10:25:35+01:00
+Retrieved (UTC): 2026-09-18T14:39:00.378956+00:00
+
+An individual, resident but not domiciled in the UK, has a foreign bank account in a foreign currency, F. The account contains the following entries:
+
+Date
+
+|
+
+-
+
+|
+
+Amount
+
+|
+
+November 2008
+
+|
+
+Balance
+
+|
+
+Nil
+
+|
+
+December 2008
+
+|
+
+Deposit - Partnership profits (relevant foreign income)
+
+|
+
+10,000F
+
+|
+
+-
+
+|
+
+subject to foreign tax
+
+|
+
+-
+
+|
+
+January 2009
+
+|
+
+Deposit - sale of shares
+
+|
+
+15,000F
+
+|
+
+-
+
+|
+
+(cost 10,560F in December 1998)
+
+|
+
+-
+
+|
+
+February 2009
+
+|
+
+Withdrawal - brought to UK
+
+|
+
+20,000F
+
+|
+
+The rate of exchange is
+
+|
+
+2.2F = £1 in December 1998
+
+|
+
+-
+
+|
+
+-
+
+|
+
+2.0F = £1 in December 2008 and January 2009
+
+|
+
+-
+
+|
+
+-
+
+|
+
+2.5F = £1 in February 2009
+
+|
+
+-
+
+|
+
+As in Example 2, see CG25430 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25340#), the capital gain on the shares is first computed in sterling by reference to the rates of exchange ruling at the dates of acquisition and disposal respectively: thus:
+
+-
+
+|
+
+-
+
+|
+
+£
+
+|
+
+-
+
+|
+
+Disposal proceeds 15,000F ÷ 2.0
+
+|
+
+7,500
+
+|
+
+less
+
+|
+
+Cost 10,560F ÷ 2.2
+
+|
+
+4,800
+
+|
+
+-
+
+|
+
+Foreign Chargeable Gain
+
+|
+
+2,700
+
+|
+
+Next, as in Example 2, we analyse the account. But this time we analyse it into income, capital and foreign chargeable gains.
+
+Sterling is the only appropriate measure of capital gains (see Bentley v Pike, (53TC590) and Capcount Trading v Evans (65TC545) and CG25391 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25391#)). We must therefore decide on the amount of capital gains in the account on the date the remittance is made by converting the sterling figures of gains back into the foreign currency at the rate of exchange applying at the remittance date (for example 2.5F = £1). So the £2,700 gains are represented by 6,750F at this date.
+
+We then deduct the figures of foreign currency representing income and capital gains from the total foreign currency balance in the account. The figure we arrive at is normally called a figure of capital. However it is in reality only a balancing figure and it cannot be reconciled with amounts of capital that have been deposited in the account. Thus, in the present example:
+
+-
+
+|
+
+Income
+
+|
+
+Capital
+
+|
+
+Capital gains
+
+|
+
+Total
+
+|
+
+Deposit December 2008
+
+|
+
+10,000F
+
+|
+
+-
+
+|
+
+-
+
+|
+
+10,000F
+
+|
+
+Amount of Gains
+
+|
+
+-
+
+|
+
+-
+
+|
+
+6,750F
+
+|
+
+6,750F
+
+|
+
+Subtotal
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+16,750F
+
+|
+
+Figure of capital to balance
+
+|
+
+-
+
+|
+
+8,250F
+
+|
+
+-
+
+|
+
+8,250F
+
+|
+
+-
+
+|
+
+10,000F
+
+|
+
+8,250F
+
+|
+
+6,750F
+
+|
+
+25,000F
+
+|
+
+The transfer of 20,000F is then matched with the contents of the mixed fund under the rules described in CG25380 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25380#)+:
+
+£2,700 (6,750F) is foreign chargeable gains
+
+£4,000 (10,000F) is relevant foreign income (partnership profits)
+
+£1,300 (3,250F) is capital
+
+The first two components are remittances taxable in the United Kingdom.

@@ -1,0 +1,30 @@
+Decentralised Finance: Lending and staking: Chargeable Gains: Examples: Example 5: disposal when a borrower’s collateral is liquidated
+Identifier: CRYPTO61675
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61675
+Published: 2022-02-02T14:59:05+00:00
+Updated: 2022-02-02T15:31:19+00:00
+Retrieved (UTC): 2026-09-18T16:18:44.490161+00:00
+
+Lucas holds 100 tokens with a total acquisition cost of £500. Lucas provides the 100 tokens as collateral to a Decentralised Finance (DeFi) lending platform and then takes out a loan.
+
+During the term of the loan, the market price of the borrowed tokens falls. On 01/07/20XX the price of the borrowed tokens falls to the point where a liquidation of some of Lucas’s collateral occurs. 10 of the tokens given by Lucas to the DeFi lending platform as collateral get transferred to a liquidator, along with 1 additional token as the penalty. The tokens have a market value of £6 each at the time of the liquidation.
+
+Lucas’s Chargeable Gains (CG) computation of this disposal will be as follows:
+
+. |  . |  £ |
+
+Consideration |  11 x £6 |  66 |
+
+Allowable costs |  Section 104 pool – £500 x 11 / 100 |  (55) |
+
+Gain |  . |  11 |
+
+Lucas’s section 104 pool will be adjusted as follows:
+
+Date |  Quantity of tokens |  Allowable costs (£) |
+
+Opening balance |  100 |  500 |
+
+01/07/20XX |  (11) |  (55) |
+
+Closing balance |  89 |  445 |

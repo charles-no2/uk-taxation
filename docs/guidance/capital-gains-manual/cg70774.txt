@@ -1,0 +1,96 @@
+Leases: sale and leaseback
+Identifier: CG70774
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70774
+Published: 2016-03-12T12:14:04+00:00
+Updated: 2026-05-06T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:46:16.792143+00:00
+
+If a freehold or leasehold interest in land is disposed of, on terms which include the provision that the purchaser will grant a lease of the whole or part of the land in question to the vendor, that should be treated as a part-disposal by the vendor. It should not be treated as two separate disposals, one by the vendor and one by the purchaser, see Sargaison v Roberts 45TC612.
+
+The value of the interest which is retained by the vendor is the market value of the lease granted by the purchaser.
+
+It is possible that a charge arises under ITTOIA05/S285 or CTA09/S225, see PIM1226 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1226). Note a charge does not arise if the lease is granted and begins to run within one month of the sale.
+
+The way in which gains are computed in such cases is illustrated by the examples below. Note for companies, indexation may also be due.
+
+Example 1 - Sale of Freehold and Leaseback
+
+On 30 June 2015, Mr M bought the freehold of a property for £600,000. On 30 June 2020, he sold the property for £800,000 plus the grant of a 25-year lease at a rent of £100,000 a year.
+
+The Valuation Office reported that the market value of the lease was £300,000.
+
+The gain accruing to Mr M is calculated as follows:
+
+Disposal proceeds
+
+£800,000
+
+Allowable expenditure
+
+Acquisition Cost x /
+
+A is the disposal consideration
+
+B is the value retained at the time of the part disposal
+
+= £600,000 x /
+
+= £436,364
+
+Chargeable gain
+
+Disposal proceeds £800,000
+
+Less allowable expenditure £436,364
+
+£363,636
+
+Example 2 - Sale of short lease and leaseback
+
+On 30 June 2012, Mrs H paid a premium of £200,000 to acquire a 55-year lease on a property. The rent payable was £80,000 a year. On 30 June 2020, she assigned the lease in return for a payment of £250,000 plus the grant of a 25-year sub-lease of the property at a rent of £80,000 a year.
+
+The Valuation Office reported that the market value of the sub-lease was £100,000.
+
+The gain accruing to Mrs H is calculated as follows.
+
+Disposal proceeds
+
+£250,000
+
+Actual expenditure
+
+= £200,000
+
+Since the lease had less than 50 years to run at the date of the part disposal, the expenditure needs to be 'wasted' in accordance with TCGA92/Sch 8/Para 1, see CG71144 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71144).
+
+Amount of expenditure to be excluded / x expenditure otherwise allowable under S38(1)(a)
+
+P (1) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the beginning of the period of ownership;
+
+P (3) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the date of disposal.
+
+Amount of expenditure to be excluded:
+
+= / x £200,000
+
+= £2,196
+
+Allowable expenditure
+
+Total allowable expenditure x /
+
+A is the disposal consideration
+
+B is the value retained at the time of the part disposal
+
+= (£200,000 - £2,196) x /
+
+= £141,289
+
+Chargeable gain
+
+Disposal proceeds £250,000
+
+Less allowable expenditure £141,289
+
+£108,711

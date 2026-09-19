@@ -1,0 +1,32 @@
+Manage work: work management: how work items are  created
+Identifier: SAM71030
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam71030
+Published: 2016-04-08T17:39:20+01:00
+Updated: 2016-02-23T15:16:05+00:00
+Retrieved (UTC): 2026-09-18T16:19:16.571887+00:00
+
+When certain events occur in the SA system, details are passed to Work Management to create a work item.
+
+The trigger event(s) differ for each work item.
+
+Some of the details apply only to specific work items. For example
+
+- The amount of a debt
+
+-
+
+The number of returns outstandingThe following details are common to all work items
+
+- UTR
+
+- Taxpayer name
+
+-
+
+Date the work item was createdOther details, although potentially common to all work items, will not apply to every item. For example
+
+- Employers reference (EMPREF)
+
+- NINO
+
+- Schedule D register numberThe Index of Work Lists in the left bar provides more information.

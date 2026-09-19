@@ -1,0 +1,28 @@
+Temporary repatriation facility: Scope of designation: BIR investments: Multiple investments
+Identifier: RDRM74730
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74730
+Published: 2025-04-07T08:37:14+01:00
+Updated: 2025-04-14T16:54:30+01:00
+Retrieved (UTC): 2026-09-18T16:19:55.048507+00:00
+
+An individual may have multiple investments in a company or group, and these could be a combination of qualifying and non-qualifying investments.
+
+Where an individual has multiple investments in a company or group, and there is a potentially chargeable event, rules within section 809VN ITA 2007 determine the order in which such investments are deemed to have been disposed of (see RDRM34530 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34530) and RDRM34535 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34535)).
+
+The existing rules deem there to be a single holding and treat qualifying investments within the deemed single holding as disposed of in priority to non-qualifying investments, with qualifying investments treated as disposed of on a first in first out (FIFO) basis.
+
+From 6 April 2025, the ordering rules remain the same for undesignated foreign income and gains and non-qualifying investments, but where invested foreign income or gains in qualifying investments have been designated, and these now comprise some or all TRF capital, the TRF capital is remitted in priority. However, this priority ordering only applies to TRF capital that was designated in a tax year after the tax year in which the investment was made - see RDRM74760 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74760) for investments made with TRF capital.
+
+Example
+
+Mo has been UK resident since 6 April 2019 and had been subject to the remittance basis in every tax year from 2019-20 to 2024-25. Shortly before he came to the UK he made a £200,000 loan to a UK company, Trigamex Ltd, using money he inherited that year.
+
+On 6 April 2023 Mo acquired shares to the value of £500,000 in Trigamex Ltd using his foreign gains from 2022-23 and claimed BIR on the investment. Because Mo had already invested funds in the same company by way of a loan, he has both a qualifying and non-qualifying investment in Trigamex Ltd.
+
+On 6 April 2024 Mo made a further investment in Trigamex Ltd, acquiring preference shares, using £400,000 of his foreign income from 2023-24, on which he claims BIR. Mo now has 2 qualifying investments and a non-qualifying investment in the company.
+
+In the 2025-26 tax year Mo designates £300,000 of the invested foreign income under the TRF and pays the TRF charge of £36,000 (12% of £300,000). Therefore, the qualifying investment that Mo made on 6 April 2024 comprises £300,000 of TRF capital and £100,000 of undesignated foreign income.
+
+On 6 April 2027 Mo receives full repayment of the £200,000 loan from Trigamex Ltd. Under the BIR ordering rules, qualifying investments are treated as disposed of on a first in first out basis, and in priority to non-qualifying investments. However, as one of Mo’s qualifying investments comprises some TRF capital, the disposal of the loan is treated as a part disposal of the 6 April 2024 qualifying investment, comprising £200,000 of TRF capital, as this takes priority over the first qualifying investment. There is no further tax charge on the remittance of the £200,000 of TRF capital.
+
+If Mo does not make any further designations, then after the remaining £100,000 TRF capital portion of the 6 April 2024 qualifying investment is treated as remitted and there is no more TRF capital, the ordering rules will revert to prioritising the first qualifying investment (the £500,000 of foreign gains used to acquire shares on 6 April 2023) ahead of the remainder of the 6 April 2024 investment (£100,000 of foreign income), in line with the first in first out basis. All qualifying investments will be prioritised ahead of the non-qualifying investment (comprising the £200,000 of clean capital loaned before 6 April 2019) which will be treated as remitted last.

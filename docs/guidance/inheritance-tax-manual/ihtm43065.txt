@@ -1,0 +1,30 @@
+Other issues: the rate of tax on exit charges from relevant property trusts which include TNRB before the first ten year anniversary
+Identifier: IHTM43065
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43065
+Published: 2016-04-09T10:29:29+01:00
+Updated: 2017-10-26T10:00:59+01:00
+Retrieved (UTC): 2026-09-18T15:10:03.810954+00:00
+
+Where an amount up to the single nil rate band is settled on relevant property trusts by Will, there is no charge to Inheritance Tax (IHT) on any property leaving that settlement before the first ten year anniversary. This is because the rate of tax on such an exit is ascertained with reference to the IHTA84/S68(5)(a) historic value of the fund at the date of death. As this value was at, or below, the nil rate band at the date the settlement was created, and as it is most likely that the nil rate band will have either remained constant, or increased, between the date the settlement was created and the date the property leaves the settlement, the nil rate band at the date of the exit charge will almost always be greater than the historic value of the settlement.
+
+However, where the Will of the surviving spouse or civil partner leaves a sum ‘that is equal to an amount that will not give rise to an IHT charge’ on relevant property trusts, that amount will include nil rate band that has been transferred. When calculating the rate of tax under IHTA84/S68(1) that applies to any property leaving the trust before the first ten year anniversary, if the historic value of the fund is greater than the single nil rate band that applies when the property leaves the trust, there will be a positive rate of tax under IHTA84/S68(1) and a liability will arise on the exit charge.
+
+You will need to read the wording of such legacies carefully to ensure they are properly construed.
+
+Example
+
+‘I give free of tax to my trustees such sum as at my death equals the maximum amount which could be given to them by this Will without inheritance tax becoming payable in respect of my estate’ will allow the uprated nil rate band to be transferred.
+
+‘To my trustees such sum as I could leave immediately before my death without IHT becoming payable’ will only transfer the single nil rate band available on the deceased’s death, because any nil rate band that may transferred is not available immediately before death.
+
+‘I give free of tax to my trustees an amount equal to the upper limit of the nil per cent rate band in the table of rates in Schedule 1’ will only transfer a single nil rate band.
+
+‘To my trustees an amount equal to the nil rate band in force at my death’ again will only transfer a single nil rate band.
+
+It is possible that we may see a change in Will drafting to make it clear that a legacy includes an amount equal to any nil rate band that may be transferred.
+
+In the case of Loring v Woodland Trust [2013] EWHC 4400 (Ch), the relevant clause in the deceased’s Will read as follows
+
+‘My trustees shall set aside out of my residuary estate……an aggregate value equal to such sum as is at the date of my death the amount of my unused nil rate band for Inheritance Tax…………’
+
+Whilst on the facts of that case, it was held that this wording referred to the uprated nil rate band, a plain reading of those words would suggest otherwise. This is because ‘my nil rate band’ would normally be taken to refer to the nil rate band that the deceased was entitled to and at no time, whilst an individual is alive, are they entitled to anything more than a single nil rate band. If it were possible for an individual to transfer nil rate band while they were alive and set that increased amount against an immediately chargeable transfer (IHTM04067 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04067)) it would be easier to see that such wording would refer to that uprated amount; but that cannot be done as a claim to TNRB can only be made after an individual has died (IHTM43006 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43006)).

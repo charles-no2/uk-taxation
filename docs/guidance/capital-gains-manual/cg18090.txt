@@ -1,0 +1,42 @@
+Annual exempt amount: trust exemption
+Identifier: CG18090
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg18090
+Published: 2016-03-12T10:20:16+00:00
+Updated: 2026-08-06T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:30:38.858418+00:00
+
+The annual exempt amount (“AEA”) for trustees, other than trustees of settlements for certain disabled persons, see CG18050 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg18050), is basically one-half of that for individuals (Para.5 Sch.1C (https://www.legislation.gov.uk/ukpga/1992/12/schedule/1C)). If, however, the settlor has made more than one qualifying UK settlement the AEA may be restricted, see below.
+
+Two or more qualifying UK settlements
+
+There are special rules when a settlement comprises one of two or more qualifying UK settlements in a group. Qualifying UK settlements with the same person as settlor form a group. ‘Settlor’ has the meaning provided by s68A (https://www.legislation.gov.uk/ukpga/1992/12/section/68A) onwards.
+
+From 6 April 2019, a settlement will be a qualifying UK settlement for a tax year providing that the trustees are UK resident at some point during the tax year in question and the property in the settlement is not held for charitable or pensionable purposes.
+
+You determine the amount of AEA for a tax year for each qualifying UK settlement by dividing the amount of the trust AEA by the number of settlements in the group, subject to the proviso that if there are ten or more settlements, then the AEA for each settlement is one-tenth of the main AEA.
+
+Trustees of settlements made before 7 June 1978 are entitled to the trust exemption, without restriction in respect of any other settlements made by the same settlor.
+
+It may be difficult to identify when a settlement was ‘made’. You should take the word ‘made’ to refer to the various means by which a separate settlement may come into existence. This includes straightforward new deeds of settlement, assignments, appointments and transfers to new settlements, but not additions to the settled property of an existing settlement. Where it is argued in a particular case that two or more settlements exist because of the exercise of a deed of appointment or power of advancement, the matter should be determined by reference to the guidelines in CG37800 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37800c)+.
+
+A settlement under a will or intestacy should be regarded as made on the date of death.
+
+Losses
+
+The rules concerning losses apply to trusts with the substitution of the main AEA with the trust AEA, after restriction if necessary.
+
+Sub-funds
+
+Where a sub-fund election has been made under Para.1 Sch.4ZA (https://www.legislation.gov.uk/ukpga/1992/12/schedule/4ZA), see CG33330 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33330)+, the sub-fund is treated as a separate settlement. The AEA that would have been given to the trustees of principal settlement but for the election is divided equally between the principal settlement and the sub-fund settlement(s) included in the election.
+
+Example
+
+S created a settlement S1 for his children in 1988 and another S2 for his grandchildren in 2018. In 2023 the settled property of S2 has been divided and a sub-fund election is made in respect of the sub-fund S2A. On the basis of a trust AEA of £3,000 the AEA would be:
+
+S1: £1,500
+
+S2 (excluding S2A): £750
+
+S2A: £750
+
+The reason for this treatment is to ensure that S1 is not prejudiced by the decision to make an election.

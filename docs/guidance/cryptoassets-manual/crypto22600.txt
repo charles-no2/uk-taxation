@@ -1,0 +1,44 @@
+Cryptoassets for individuals: Capital Gains Tax: determining the location of exchange tokens
+Identifier: CRYPTO22600
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22600
+Published: 2021-03-30T09:03:19+01:00
+Updated: 2025-11-28T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T16:18:35.340398+00:00
+
+Cryptoassets are digital in nature, meaning that they do not have a physical location. It is still necessary to determine their location (often referred to as ‘situs’) for tax purposes. This is particularly relevant:
+
+- when computing Capital Gains Tax (CGT) or Inheritance Tax (IHT) liabilities
+
+- for those considering if the Requirement To Correct (RTC) and offshore penalty regime may apply – further guidance is available at Tell HMRC about your offshore income and assets (https://www.gov.uk/government/publications/tell-hmrc-about-your-offshore-income-and-assets).
+
+When considering the location (or situs) of an asset, the first thing to consider is whether there is any statute (whether for tax purposes or general purposes) that specifies the location. For CGT purposes, the Taxation of Chargeable Gains Act (TCGA) 1992 provides a number of statutory location rules in sections 275 (location of assets) and 275A (location of certain intangible assets), supplemented by 275B. For IHT purposes there are no statutory rules, determining the location instead relies on general principles applicable to private property.
+
+Underlying Asset
+
+Section 275 TCGA 1992 provides an exhaustive list of the different types of assets for the purposes of CGT. Where the cryptoasset is simply a digital representation of an underlying asset then the location of the underlying asset will determine the location of the cryptoasset.
+
+Example
+
+ABC Ltd buys and sells gold bullion on behalf of clients. ABC Ltd issues the GoldABC Coin where each token represents the beneficial interest in one gold bar. The GoldABC Coin is a digital representation of a physical asset – the gold bar – and we ‘look through’ the GoldABC Coin and establish the location of the GoldABC Coin by reference to the underlying asset, being gold bar.
+
+It is possible for a cryptoasset to be a digital representation of another intangible asset, such as share capital or debt, and the relevant rule for determining the location of the underlying asset would determine the location of the cryptoasset.
+
+No Underlying Asset
+
+Where the cryptoasset is an asset distinct from any underlying asset then HMRC’s view is that none of the statutory rules in the TCGA 1992 apply. Instead it is HMRC’s view that:
+
+- exchange tokens have an economic value as they can be ‘turned to account’ - for example, exchanging them for goods, services, fiat currency or other tokens;
+
+- exchange tokens are a new type of intangible asset (different to other types of intangible assets, such as shares or debentures); and
+
+- the only identifiable party to consider is the beneficial owner of the exchange token,
+
+such that the location of the cryptoasset will be determined by the residency of the beneficial owner
+
+Using the residency of the beneficial owner of the exchange tokens to determine the location gives a clear, logical, predictable and objective rule which can be easily applied. This means that a person who holds exchanges tokens is liable to pay UK tax if they are a UK resident (as determined by the Statutory Residence Test, see RFIG2000 (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20000)) and carry out a transaction with their tokens which is subject to UK tax.
+
+If an exchange token is co-owned between two or more beneficial owners, then section 275C Taxation of Chargeable Gains Act 1992 applies (for Capital Gains Tax). Each beneficial owner’s interest in the asset will be where that beneficial owner is resident. If one or more of the co-owners are UK resident, this will not affect the location for those co-owners who are not UK residents.
+
+For Inheritance Tax, common law is relevant to the extent that Double Taxation Agreements do not determine the location (section 158 of the Inheritance Tax Act 1984).
+
+Where the location of cryptoassets are being considered please make a referral by following the process at CRYPTO100500 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto100500).

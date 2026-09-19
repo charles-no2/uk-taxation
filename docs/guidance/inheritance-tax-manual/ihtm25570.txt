@@ -1,0 +1,86 @@
+AR/BR: 50% rate – unlisted shares and securities
+Identifier: IHTM25570
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25570
+Published: 2026-04-07T07:44:36+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:54.962645+00:00
+
+From 6 April 2026, certain categories of unquoted shares and securities no longer qualify for relief at 100%; relief is available at 50% only under IHTA84/S104.
+
+FA26/Sch12/Para 12 amends the definition of relevant business property in IHTA84/S105(1) by inserting new categories of unquoted shares and securities. These categories are treated differently from other unquoted holdings and are subject to a reduced rate of relief.
+
+Categories qualifying only for 50% relief
+
+The categories affected are:
+
+-
+
+IHTA84/S105(1)(aa)
+Any unquoted shares that are traded on a recognised stock exchange.
+
+-
+
+IHTA84/S105(1)(ab)
+Any unquoted securities that are traded on a recognised stock exchange which, together with any other unquoted shares or securities, give the transferor control of the company.
+
+-
+
+IHTA84/S105(1)(ac)
+Any unquoted shares that are traded on an exchange outside the United Kingdom that is not a recognised stock exchange.
+
+-
+
+IHTA84/S105(1)(ad)
+Any unquoted securities that are traded on an exchange outside the United Kingdom that is not a recognised stock exchange which, together with any other unquoted shares or securities, give the transferor control of the company.
+
+Although shares and securities within these categories remain relevant business property, they no longer qualify for relief at 100%. Relief is restricted to 50%, and such property is not relevant to the 100% relief allowance.
+
+Unquoted shares and securities that do not fall within these new categories (e.g. because they are not traded on a recognised stock exchange) may still qualify as relevant business property under IHTA84/S105(1)(b) (unquoted shares) or (bb) (unquoted securities which are part of a control holding). Where applicable, those holdings can qualify for relief at 100%, subject to the availability of the 100% relief allowance (see IHTM25171 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25171) and IHTM25191 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25191)).
+
+References to a “recognised stock exchange” are defined in IHTA84/S272 by reference to ITA07/S1005. See IHTM18131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm18131).
+
+This page outlines the changes in the rate of relief. The ownership conditions (see IHTM25301 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25301)) must also be satisfied for relief to be available.
+
+Transitional provisions
+
+Special transitional provisions apply in some cases involving these shares (see Finance Act 2026/Schedule 12/Para 17(1)-(4)).
+
+Where shares fall within IHTA84/S105(1)(aa) and a potentially exempt transfer or chargeable transfer of such shares is made between 30 October 2024 and 5 April 2026, and the transferor dies within 7 years of the transfer on or after 6 April 2026, relief is restricted to 50% when the tax charge on death is calculated.
+
+From 6 April 2026, securities within IHTA84/S105(1)(ab) which are part of a control holding get relief at 50%.  Where a potentially exempt transfer or chargeable transfer of such securities is made between 30 October 2024 and 5 April 2026 (whether or not that holding gave the transferor control) and the transferor dies within 7 years of the transfer on or after 6 April 2026, relief is restricted to 50% when the tax charge on death is calculated.
+
+Shares and securities within IHTA84/S105(1)(ac) and (ad) are not subject to any transitional provisions, so that if the transfer was before 6 April 2026, 100% relief is available.
+
+Instalments
+
+Any shares or securities that qualify for relief at 50% qualify for payment of tax by instalments (see IHTM30191 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30191)).
+
+Example 1 – after 6 April 2026
+
+Jake dies on 5 August 2029 and leaves shares in A Ltd to John.
+
+The shares in A Ltd are unquoted and are traded on the Alternative Investment Market of the London Stock Exchange, which is a recognised stock exchange.
+
+The shares are relevant business property under IHTA84/S105(1)(aa) and therefore qualify for relief at 50%.
+
+Example 2 – after 6 April 2026
+
+On 7 July 2029 Rob settles shares in Company X and Company Y into trust. This is an immediately chargeable transfer.
+
+Shares in Company X are unquoted and are traded on the Portfolio Stock Exchange in Spain, which is not a recognised stock exchange.
+
+Shares in Company Y are unquoted and are not traded on any stock exchange.
+
+The shares in Company X are relevant business property under IHTA84/S105(1)(ac) and therefore qualify for relief at 50%.
+
+The shares in Company Y are relevant business property under IHTA84/S105(1)(bb) and therefore qualify for relief at 100%, up to the value of the available 100% relief allowance.
+
+Example 3 – transitional provisions
+
+Mahendra makes a gift of AIM shares worth £400,000 to his daughter Kundan on 27 June 2025. This is a potentially exempt transfer.
+
+Mahendra dies on 9 August 2026. The transitional provisions apply because the gift was made between 30 October 2024 and 5 April 2026, and Mahendra died within 7 years of the transfer on or after 6 April 2026.
+
+When the tax is calculated on death on the potentially exempt transfer which has become chargeable, relief at 50% is available on the shares. If Mahendra had already used his nil rate band on earlier transfers, the tax chargeable would be:
+
+£400,000 × 50% = £200,000 × 40% = £80,000

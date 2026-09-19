@@ -1,0 +1,34 @@
+Qualifying corporate bonds: loan relationships: transitional: charge
+Identifier: CG54065
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg54065
+Published: 2016-03-12T11:34:13+00:00
+Updated: 2026-06-01T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:43:13.691121+00:00
+
+FA96/SCH15/PARA8 (3) and (5)
+
+This guidance describes the capital gains aspects of the regime for Loan Relationships for companies from 1 April 1996 until the first accounting period to start on or after 1 October 2002. For periods beginning on or after 1 October 2002 see CG54100+
+
+On the relevant event (see CG54060), you should compute the chargeable gain or allowable loss which would have accrued to the company holding the asset at 31 March 1996 (described as the relevant company) if it had disposed of the debt at that date and (if appropriate) for a consideration equal to its market value at that date.
+
+The market value at 31 March 1996 will not be relevant in arriving at the chargeable gain or allowable loss in relation to a debt which was already a qualifying corporate bond (QCB) at that date under normal TCGA92 rules, see CG53700+. This is because any gain or loss on the QCB itself would not be chargeable, or allowable, for CG purposes. However, the QCB may have been carrying a postponed chargeable gain or allowable loss under TCGA92/S116 (10), see CG53845+. Any such gain or loss will be recognised under the FA1996 transitional rules.
+
+Where a latent charge, or allowance, under TCGA92/S116 (10) has been recognised under the transitional rules it will not crystallise again on any later (actual) disposal of the debt.
+
+You should adjust the amount of the chargeable gain or allowable loss to exclude any amount which has already been, or will be, taken into account for Corporation Tax purposes in relation to the debt, for times before 1 April 1996, as a result of the use of an accruals or mark to market basis of accounting. Further guidance on the operation of this rule is provided in the detailed advice on loan relationships in the CT manual.
+
+FA96/SCH15/PARA8 (9) ensures that TCGA92/S176 (depreciatory transactions within a group, see CG46500+) will apply in relation to the deemed disposal for the purposes of the transitional charge or allowance, as it would have done on an actual disposal of the asset on 31 March 1996.
+
+FA96/SCH15/PARA8 (6) - (8)
+
+This guidance describes the capital gains aspects of the regime for Loan Relationships for companies from 1 April 1996 until the first accounting period to start on or after 1 October 2002. For periods beginning on or after 1 October 2002 see CG54100+
+
+The computation is modified to prevent recognition of gains or losses which originated from a time when the asset, or the company, was not liable to Corporation Tax. The modified rules apply where a disposal of the asset by
+
+- the company holding the asset at 31 March 1996, or
+
+- any earlier company from which the asset was acquired by a no gain/no loss transaction, or series of such transactions, within TCGA92/S35 (3)(d)
+
+at any time before 1 April 1996, would have not been brought into charge to Corporation Tax on chargeable gains, because the company was not resident and the gain would not be included in the company's chargeable profits under TCGA92/S10 (3), see CG42100.
+
+In these cases, the asset is deemed to have been acquired, at its market value, on the first day when a disposal of the asset at a gain would have been included in the chargeable profits of the company holding the asset, for the purposes of Corporation Tax. Any allowable losses which might have been available for deduction against the gain under TCGA92/S8 (1) or TCGA92/SCH7A are to be disregarded for this purpose.

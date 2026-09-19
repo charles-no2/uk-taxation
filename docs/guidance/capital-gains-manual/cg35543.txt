@@ -1,0 +1,52 @@
+Trusts with vulnerable beneficiaries: Non-resident beneficiary: tax years 2008-09 onwards
+Identifier: CG35543
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg35543
+Published: 2016-03-12T10:46:48+00:00
+Updated: 2020-02-20T09:59:15+00:00
+Retrieved (UTC): 2026-09-18T14:39:38.389452+00:00
+
+The introduction of a single rate of Capital Gains Tax by FA08 simplified the special treatment for non-resident beneficiaries for the year 2008-09 onwards. The basic principle remains the same but it is no longer necessary to calculate the beneficiary’s rate of tax. The changes to the rates of Capital Gains Tax made by F(No2)A 2010 and FA2016 have not altered this. There may be more cases in which a claim is beneficial as the trustees will be taxed at 28 per cent on gains that accrue on residential property or carried interest and 20 per cent on other assets, whereas the beneficiary will be taxed at 18 and 10 per cent respectively.
+
+The amount of the relief is calculated in accordance with the formula in FA2005/S32 as amended by FA08. The trustees liability to Capital Gains Tax, TQTG, is reduced by the amount of Capital Gains Tax that would have been payable if the chargeable gains accrued to the beneficiary, VQTG.
+
+VQTG is calculated in accordance with formula
+
+TLVA – TLVB
+
+TLVA is the total of the Capital Gains Tax payable on the vulnerable beneficiary’s deemed CGT taxable amount (‘DCTA’) and the CGT payable if trustees qualifying gains accrued to the beneficiary. The vulnerable beneficiary’s DCTA is calculated in accordance with FA2005/SCH1/PARA3.
+
+TLVB is the CGT payable on the beneficiary’s DCTA.
+
+Example 2018-19
+
+The trustees’ qualifying trust gains for 2018-19 are £37,100. £17,000 of these accrued on the disposal of shares and £20,100 on disposals of residential property.
+
+The trustees’ non-qualifying gains are £6,000 all of which accrued on further disposals of shares.
+
+The annual exempt amount for the trustees is £5,850 and £11,700 for the beneficiary.
+
+The beneficiary is resident and domiciled in Jersey throughout the year. The beneficiary has not disposed of any assets during the year.
+
+First, calculate TLVB.
+
+This is the beneficiary’s DCTA calculated in accordance with FA05/SCH1/PARA3. It is the liability on the total of their actual gains and losses and their assumed gains and losses. Because the beneficiary is not resident in the UK the only actual gains that they can have will accrue under section 10 TCGA. In this example, there are no such gains. The assumed gains are calculated in accordance with paragraph 6 of Schedule 1. These are the gains and losses, other than the actual gains and losses, which the beneficiary would make on the assumption that they were resident and domiciled in the UK throughout the tax year. Again though, there are no such gains here.
+
+TLVB is nil.
+
+Second, calculate TLVA.
+
+This is the CGT due if the trustees’ qualifying trust gains were added to the beneficiary’s actual and assumed gains and taxed on the beneficiary. The beneficiary has no income liable to the higher rate of income tax so all the gains are taxed at 10 or 18 per cent. There are no actual or assumed gains so TLVA is £20,100 - £11,700 @ 18% = £1,512 plus £17,000 @ 10% = £1,700, giving £3,212.
+
+Third, calculate VQTG.
+
+This is TLVA – TLVB. £3,212 – 0 = £3,212.
+
+Fourth, calculate TQTG.
+
+TQTG is the trustees’ liability on the qualifying gains. The qualifying trust gains are £37,100. £20,100 of these accrued in respect of residential property and are taxed at 28 per cent but it is to the trustees’ advantage to set their annual exempt amount first against the non-qualifying gains. This will maximise the amount of TQTG and the trustees’ reduction. TQTG is £20,100 @ 28 per cent = £5,628 and £17,000 @ 20 per cent = £3,400, totalling £9,028.
+
+Finally calculate the trustees’ reduction.
+
+This is TQTG – VQTG = £9,028 - £3,212 = £5,816.
+
+The trustees total liability is £20,100 @ 28 per cent = £5,628, £17,000 @ 20 per cent = £3,400 and the balance of the non-qualifying gains £150 @ 20 per cent = £30, totalling £9,058. This is reduced by £5,816 to give a liability of £3,242. This can be analysed into two components £3,212 which is the tax due if the qualifying gains were made by the beneficiary and £30 which is the tax due on the non-qualifying gains not covered by the trustees’ annual exempt amount.

@@ -1,0 +1,68 @@
+Capital allowances: part-disposals: example
+Identifier: CG15421
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15421
+Published: 2016-03-12T10:10:22+00:00
+Updated: 2023-04-20T07:54:20+01:00
+Retrieved (UTC): 2026-09-18T14:38:04.555562+00:00
+
+X acquires land for £100,000 and builds an industrial building at a cost of £400,000 which qualifies for industrial buildings allowance. In 1992 X grants a 99-year lease over the property for a premium of £300,000. The residual value is £100,000.
+
+The fraction of the expenditure which is allowable as a deduction in the computation of the loss accruing on the part-disposal is, see CG15410+
+
+300000 |  = 3 |    |    |    |
+
+300,000 + 100,000 |  4 |    |    |    |
+
+The computation of the loss is |    |  £ |    |    |
+
+|  Disposal proceeds |    |  300000 |    |
+
+Less |  Land |  3 |    |    |
+
+|  4x 100,000 |  75000 |    |    |
+
+|  Buildings |  3 |    |    |
+
+|  4x 400,000 |  300000 |  375000 |    |
+
+|  Unindexed loss |  (75000) |    |    |
+
+Less |  Indexation (say) |  75,000 x 0.5 |  37500 |    |
+
+|  300,000 x 0.4 |  120000 |  157500 |    |
+
+|  Loss |  (232,500) |    |    |
+
+As the computation results in a loss we must restrict the expenditure on the industrial building by the allowances which have been or may be given. In this case there is no balancing charge and so the allowable expenditure on the building is wholly restricted. The revised computation is
+
+|    |  £ |    |    |
+
+|  Disposal proceeds |    |  300000 |    |
+
+Less |  Land |    |  75000 |    |
+
+|  Buildings |  (300,000 - 300,000) |  0 |  75000 |
+
+|  Unindexed gain |    |  225000 |    |
+
+Less |  Indexation |  75,000 x 0.5 |  37500 |    |
+
+|  Gain |  187,500 |    |    |
+
+TCGA92/S41 cannot turn a loss into a gain so the loss is restricted to NIL.
+
+On a subsequent disposal we will need to know the exact amount of capital allowances (CA) used up in restricting the loss to nil. The only changes to the computation are
+
+- the CA restriction itself, plus
+
+- the indexation allowance in respect of the CA restriction;
+
+and together these must equal £232,500. This can be expressed as
+
+CA + (CA x 0.4) |  = 232,500 |
+
+CA x 1.4 |  = 232,500 |
+
+CA |  = 166,071 |
+
+If the disposal had been in January 1994 instead of 1992 the loss would have been £75,000 instead of £232,500 because no indexation allowance would have been due, see CG17700. In that case the amount of capital allowances used up in restricting the loss to nil is £75,000.

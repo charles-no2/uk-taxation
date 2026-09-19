@@ -1,0 +1,34 @@
+Targeted anti-loss buying rule - continuity of the rules
+Identifier: CG47033A
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47033a
+Published: 2016-03-12T11:14:29+00:00
+Updated: 2026-05-19T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:41:50.966629+00:00
+
+Section 184E(2) of the Taxation of Chargeable Gains Act (TCGA) 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184E) deals with cases of part disposals of assets when section 184E(1) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184E) would deem the part disposed of not to be a pre-change asset. This provision ensures that the remaining part of the interest in the original asset that was a pre-change asset, is still a pre-change asset.
+
+Section 184E(3) and (4) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184E) deal with cases where a company that had a qualifying change of ownership creates a new asset derived directly or indirectly from a pre-change asset, for example a new licence to exploit intellectual property where the intellectual property was a pre-change asset. It is necessary that the value of the new asset derives substantially from the value of the old asset. This provision ensures that such new assets are also regarded as pre-change assets, notwithstanding that the new asset did not exist at the time of the qualifying change of ownership. Section 184E(4) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184E) gives examples of when the value of the new asset is derived from another asset for the purposes of section 184E(3) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184E), but the operation of section 184E(3) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184E) is not limited to these examples.
+
+Where the pre-change asset was a holding of shares or securities and there has been a scheme of re-organisation, reconstruction or conversion affecting the holding that is within section 116 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/116) (see CG51700P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51700p)), section 184E(5) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184E) ensures the new asset is also regarded as a pre-change asset.
+
+Section 184E(6) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184E) provides a similar rule in relation to new holdings acquired under a scheme of reorganisation or reduction in share capital of a company within sections 127 to 131 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/part/IV/chapter/II/crossheading/reorganisation-or-reduction-of-share-capital) where the original shares were pre-change assets. The new holding will be a pre-change asset.
+
+Section 184E(7) to (9) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184E) deal with other cases where a pre-change asset has been disposed of, other than to another member of the same group of companies under section 171 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/171), in circumstances where the disposal does not result in the immediate recognition of a gain or loss for tax purposes. There are various deferral or roll over provisions providing a relief for particular transactions that are identified in section 184E(9) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184E). In each case the intention is that a gain or loss that would otherwise have arisen on the disposal of an asset that was a pre-change asset is tracked through to a subsequent event where that gain or loss is wholly or partly recognised, so that the gain on the replacement asset is treated in the same way as a gain on a pre-change asset.
+
+Section 184E(7) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184E) provides the basic premise, where there is a ‘relevant deferral provision’ (see below) the application of which means that a gain or loss is not recognised on the occasion of a disposal of a pre-change asset, but will be recognised on some subsequent occasion either in the company itself, or in another company.
+
+Section 184E(8) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184E) requires that part of a gain or loss which arises on the subsequent occasion is to be treated as a gain or loss on the disposal of a pre-change asset, to the extent that any previous gain or loss on a disposal of a pre-change asset has been deferred.
+
+The ‘relevant deferral provisions’ to which section 184E(7) and (8) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/184E) apply are
+
+- a demerger of part or all of a company’s business to another company in return for an issue of shares to the shareholder (section 139 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/139))
+
+- the transfer of a trade carried on outside the UK by a UK company to a non-UK company in exchange for shares (section 140 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/140))
+
+- transfers of a trade conducted in the UK to another company resident in a different EU member state under the EU merger directive (section 140A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/140A))
+
+- transfers of assets to a Societas Europea (section 140E TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/140E))
+
+- the rollover of a gain under the provisions of sections 152 and 153 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/part/V/chapter/I/crossheading/replacement-of-business-assets), and
+
+- the postponement of a charge on a deemed disposal on the migration of a company (section 187 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/187)).

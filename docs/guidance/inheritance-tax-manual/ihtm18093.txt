@@ -1,0 +1,32 @@
+Stocks and shares: valuation: shares
+Identifier: IHTM18093
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm18093
+Published: 2016-04-09T09:29:41+01:00
+Updated: 2022-05-09T09:42:25+01:00
+Retrieved (UTC): 2026-09-18T14:59:39.210225+00:00
+
+Authority for valuation methods
+
+The valuation methods for Inheritance Tax (IHT) were traditionally used for Estate Duty, principally the ‘quarter up’ price of shares. They are also prescribed in statutory form, latterly at TCGA92/S272(3) for Capital Gains Tax (CGT) purposes. From 6 April 2015, the method of valuation for CGT was changed by The Market Value of Shares, Securities and Strips Regulations 2015 (SI 2015/616). The value used for most CGT purposes is the figure one-half of the way up from the lowest to the highest closing prices of the day.
+
+However, these regulations do not apply to IHT so the value used is still the quarter up price at the date of the chargeable event. The quarter up price is the figure a quarter of the way up from the lowest to the highest closing prices of the day, as listed by the various market makers (IHTM25262 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25262)).
+
+Where the value of the shares has been ascertained for IHT (IHTM09241 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09241)) this figure will still be used as the acquisition cost for CGT purposes following a death (TCGA92/S274).
+
+Example of quarter up value
+
+Klaus owned 1,250 10p ordinary shares in a listed company. He died on 25 January. You should be able to find the prices for the shares of the company in question on the internet. The end of day quotation for this company on the date of death was ‘p1091 - 1101’. (If 25 January was a non-trading day see IHTM18092 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm18092) for the date to use.)
+
+To work out the value of the shares, multiply the number of shares by the ‘quarter up’ price. This is the lower price (1091) plus 1/4 of the difference between the two prices (quarter of 10p = 2.5p). The ‘quarter -up price’ is 1091 + 2.5 = 1093.5p per share. The total holding will be 1093.5 x 1,250 = £13,668.75.
+
+Action on receipt of forms in HMRC
+
+If the price shown for a listed share in the form IHT400 does not fall within the price range for the date of death, amend the value using the quarter up price if worthwhile. In most cases you will be able to accept the value offered – for example, where it is supported by a stockbroker’s valuation.
+
+Additional markings
+
+Watch out for additional markings (IHTM18098 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm18098)), such as ‘XD’ which are common and will affect the chargeable value.
+
+UK listed foreign shares
+
+Foreign shares listed on the London Stock Exchange and other UK based exchanges may have their value given in the currency of their country, for example $10. However, the price shown will be in sterling. You can value these shares as described above.

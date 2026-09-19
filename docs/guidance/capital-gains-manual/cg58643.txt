@@ -1,0 +1,60 @@
+Co.purchases own shares: capital treatment: Condition A – groups
+Identifier: CG58643
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58643
+Published: 2018-07-18T09:09:28+01:00
+Updated: 2021-03-31T15:28:56+01:00
+Retrieved (UTC): 2026-09-18T14:44:25.071826+00:00
+
+CTA10/S1039 Requirements where purchasing company is a member of a group and CTA10/S1040 Determining whether interests as shareholders in a group are substantially reduced
+
+Where a company is a member of a group immediately before the purchase, after the purchase the seller’s interest (or combined with any associates) in all of the group companies must be substantially reduced.
+
+Associates, for the purpose of this part of the Act, are defined under CTA10/S1059.
+
+Meaning of a group, for this part of the Act, is stated in CTA10/S1047. A group consists of a company together with its 51% subsidiaries but which itself is not a 51% subsidiary of another company.
+
+The seller’s interest is substantially reduced if, and only if, the seller’s subsequent interest after the company purchases its own shares, is not more than 75% of the seller’s prior interest.
+
+CTA10/S1040(2) The seller’s interest as a shareholder in the group is calculated by
+
+- Step 1 – expressing the total nominal value of the shares owned by the seller in each relevant company as a fraction of the issued share capital of the company,
+
+- Step 2 – adding together the fractions, and
+
+- Step 3 – dividing the result by the number of relevant companies (and any grouped companies in which the seller owns no shares).
+
+Relevant company, for the purpose of this section, means the company which makes the purchase and any other member of the purchaser company’s group in which the seller owns shares either immediately before or after.
+
+EXAMPLE
+
+Company A has issued share capital of 25,000 £1 shares, of which Mr Read owns 20,000 £1 shares.
+
+Company B has issued share capital of 50,000 £1 shares, of which Company A owns the whole issued share capital. Mr Read doesn’t own any.
+
+Company C has issued share capital of 50,000 £1 shares, of which Company A owns 30,000 £1 shares. Mr Read owns 10,000.
+
+Company D has issued share capital of 15,000 £1 shares, of which Company A owns 1,500 £1 shares. Mr Read owns 10,000.
+
+Therefore for the purpose of this section, the group consists of Companies A, B and C as B and C are both 51% subsidiaries of A.
+
+Company A decides to purchase its own shares from Mr Read. We need to determine Mr Read’s interest before the purchase of shares by following the steps explained above:
+
+Step 1 –
+
+A = 20,000 = 4, B = nil, C = 10,000 = 1, D = not grouped
+
+25,000 5 50,000 5
+
+Step 2 –
+
+4 + 1 = 5
+
+5 5
+
+Step 3 –
+
+5 / 3 = 5 = 33%
+
+5 15
+
+Therefore, the seller’s interest immediately before the purchase is 33%. To satisfy the substantially reduced condition, the seller’s interest in the group after the purchase by the company must not exceed 75% of 33% (which would be 24.75%).

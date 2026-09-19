@@ -1,0 +1,74 @@
+Basic terms of trust law as applied to CGT: sub-fund settlements
+Identifier: CG33330
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33330
+Published: 2016-03-12T10:40:13+00:00
+Updated: 2025-11-12T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:31:32.783123+00:00
+
+Introduction (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33330#introduction)
+
+Deemed disposal (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33330#deemed-disposal)
+
+Other effects (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33330#other-effects)
+
+Losses (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33330#losses)
+
+Introduction
+
+TCGA92/SCH4Z
+
+The existence of sub-funds within a settlement, in particular where some of the property of the settlement is vested in certain individuals who are only trustees of the sub-fund, and other assets are vested in other individuals, has caused various difficulties, because up to 5 April 2006 the trustees of the settlement were always regarded as one body of persons for CGT. Since then the trustees of the settlement have been deemed to be one person for Income Tax and CGT. So for example:
+
+- from the start of self-assessment all the chargeable gains of the settlement have had to be shown on one return, although there might be two or more returns for Income Tax up to 6 April 2006,
+
+- even before self-assessment there should have been one single assessment to CGT in which any of the trustees could be assessed, see for example Roome v Edwards, 54TC359,
+
+- the share identification rules applied to the settlement as a whole and not to blocks of shares held on particular trusts and
+
+- allowable losses belonged to the settlement as a whole.
+
+From 6 April 2006 trustees of a settlement can elect for a fund or other specified portion of settled property to be treated as a separate settlement. This is known as a ‘sub-fund’ or ‘sub-fund settlement’ and the original is known as the ‘principal settlement’. The individual trustees of the sub-fund are treated as the trustees of that settlement only and not of the principal settlement unless, as a matter of fact, they are trustees of both. Similarly, the individual trustees of the principal settlement are treated as trustees of that settlement only and not of sub-fund, unless they are trustees of both. See paragraph 18.
+
+TSEM3500+ explains the conditions which must apply to enable an election to be made.
+
+TSEM3520+ deals with the mandatory election form, SFE1, and the details that are required. This form is available on line.
+
+The election cannot be revoked, see TCGA92/SCH4Z, paragraph 13.
+
+Deemed disposal
+
+Except for the purposes of the annual exempt amount (see CG18090 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg18090)) the sub-fund becomes a new separate settlement on “the specified date” (see the end of TSEM3510).
+
+Otherwise the basic principle is that the tax consequences should be the same as those which would apply if the trustees had exercised their powers to transfer assets to the trustees of a separate settlement. The legislation provides the same possibilities in the case where such powers are not available to them. For example there may only be a power in ‘narrower form’. See the discussion in Bond v Pickford 57TC301, and CG37830 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37830).
+
+There is a deemed disposal under TCGA S71(1) by the trustees of the principal settlement at the beginning of the specified date and reacquisition by the trustees of the sub-fund settlement on the specified date. See TCGA92/SCH4Z paragraph 19 and paragraph 20(1) and (2)).
+
+If however a particular asset meets the business asset test or agricultural property test “gifts hold-over relief” may be available under TCGA section 165 or TCGA Schedule 7 paragraphs 1 to 4. See CG66884 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66884).
+
+It is also accepted that if the transaction creating the sub-fund settlement is a chargeable transfer for Inheritance Tax, and the specified date is the same day, the conditions of TCGA92/S260(2)(a) can be met. For example one might have a will trust where currently there is an immediate post-death interest for A, the son of the testator, see CG36542 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg36542). The trustees exercise a power to declare discretionary trusts for A’s children, B,C and D, in respect of part of the settled property. This is a chargeable transfer for IHT. Assuming the property held on discretionary trusts meets the conditions for there to be a sub-fund, an election might be made under which the specified date is the date of the exercise of the power. In this situation section 260(2)(a) could apply unless any of B,C and D are under 18.
+
+Other effects
+
+TCGA92/SCH4Z
+
+With effect from the specified date, any persons who are trustees of the trusts of the sub-fund settlement and are not trustees of the trusts of the principal settlement are to be treated as having ceased to be trustees of the principal settlement (paragraph 18).
+
+As the sub-fund settlement is treated as coming into existence on the specified date (paragraph 17) a separate trustees’ return will be required for the year of assessment but beginning on that date.
+
+If the trustees of the sub-fund settlement are not resident in the UK, TCGA section 80 would apply, but does not apply if the same asset is deemed to be disposed of by the trustees of the principal settlement under section 71(1), by reason of paragraph 19.
+
+Under paragraph 21 if money is treated as passing, this is treated as received by the trustees of the sub-fund settlement on the specified date. This would be relevant for the purposes of identifying the settlor of the sub-fund settlement, which is determined by section 68B, see CG33220 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33220).
+
+Paragraph 22 deals with cases to which deeming a new settlement to have come into existence means section 90 or section 94 applies.
+
+If on the specified date the assets of the sub-fund settlement include shares, they would be regarded as all acquired for market value (less any reduction because of gifts-hold-over relief) on the specified date. So the holding period for taper relief would recommence on that date.
+
+Losses
+
+TCGA92/S71(2)
+
+CG37200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37200) explains the position with regard to any allowable losses which arise on an occasion falling within section 71(1).
+
+Although the legislation refers to a beneficiary, this term is defined as “a person” who “becomes absolutely entitled as against the trustee.” So, although one would not normally regard the word “beneficiary” as describing trustees of a settlement, because they cannot as trustees have any beneficial interest, nevertheless section 71(2) does apply in this situation.
+
+So the allowable losses on the deemed disposal of any assets which the trustees of the sub-fund settlement are treated as acquiring can be used against gains on certain disposals of the assets to which they have become absolutely entitled, but not otherwise.

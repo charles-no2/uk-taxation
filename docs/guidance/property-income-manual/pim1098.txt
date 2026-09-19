@@ -1,0 +1,186 @@
+Cash basis for landlords: transitional adjustments on leaving the cash basis 
+Identifier: PIM1098
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1098
+Published: 2018-03-19T11:51:36+00:00
+Updated: 2025-07-25T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:27:46.383225+00:00
+
+When a person enters or leaves the cash basis, transitional rules are used to adjust for accrued income and expenses and payments in advance. This ensures that all income and expenditure is accounted for only once.
+
+These rules do not apply if a new property business commences during the 2017-18 tax year or later. They only apply where an existing property business changes the basis it uses.
+
+Overview
+
+Having adopted the cash basis, a business may then later leave it. This may be because they make an election to use GAAP accounting or because they no longer meet the criteria (for example, because their cash receipts exceed £150,000 in a tax year).
+
+When leaving the cash basis, transitional adjustments may need to be made. This will adjust for accrual accounting, so that all income is charged to tax and all allowable expenditure relieved only once.
+
+The adjustments have to be calculated in a way specified by the legislation to give an overall positive or negative adjustment. The way the adjustment is treated for tax depends on whether it is positive or negative.
+
+The calculation
+
+Step 1: Add together amounts that tenants owed for rental periods that had passed at the end of the last cash basis period.
+
+Step 2: Add together amounts that tenants had paid in advance for rental periods which had not yet passed at the end of the last cash basis period. Add to this any the business owed to suppliers at the end of the last cash basis period.
+
+Step 3: Deduct the total of STEP 2 from the total of STEP 1.
+
+If the result is negative, it is an adjustment expense. This is deducted from the taxable profits of first period calculated under GAAP after leaving the cash basis. There is no spreading.
+
+If the result is a positive amount, it is adjustment income. This is spread over six tax years starting in the first period after leaving the cash basis, so that one sixth of the adjustment income is charged to tax each year.
+
+Example 1
+
+Ms D leases two properties. Her tenants pay £3000 every 6 months in arrears. These amounts are due on the 30 June and 31 December.
+
+She uses the cash basis during the 2017-18 tax year, but elects to use the GAAP basis in 2018-19. This means she must make transitional adjustments.
+
+At the end of the 2017-18 tax year, her tenants each owe £1,500 rent for the final 3 months of that tax year. Whilst the rent is not due until 30 June 2018, it would have been earned under the accruals basis.
+
+The property’s boiler was serviced on 29 March 2018. The engineer invoices Ms D for £66. She pays this on 27 April 2018. This means that £66 of expenditure would have been incurred under the accruals basis.
+
+As Ms D is leaving the cash basis, she must make transitional adjustments as follows.
+
+Step 1: Add together the rent that is owed from the last cash basis period. This gives a total of £3,000.
+
+Step 2: Identify the £66 of expenditure incurred but not yet paid under the last cash basis period, 2017-18.
+
+Step 3: Calculate the transitional adjustment. £3,000 - £66 = £2,934. The result is positive. This means it must be divided by 6, resulting in £489, which is spread over the six tax years.
+
+This means that £489 of adjustment income is added to the profits of the property for six tax years beginning with the first tax year following the last cash basis period: 2018-19. This charges the amount to tax.
+
+Election to accelerate the charge
+
+If an adjustment income charge arises when a person leaves the cash basis, they can make an election to accelerate the charge. This means that the annual charges can be brought forward so that the tax is paid earlier. This may simplify their accounting.
+
+The election can be made in any of the 6 years. It does not need to be made in the first year so that the full amount is charged to tax in the first year after leaving the cash basis, though this is an option.
+
+Any amount of the charge can be accelerated; it does not need to be the full outstanding amount. The election must specify the amount of the outstanding charge to be treated as income arising in the tax year.
+
+The acceleration of the charge reduces the amount of adjustment income that is brought into account for each of the remaining tax years. The new amount of adjustment income is calculated by deducting the results of a statutory formula from the original adjustment income charge.
+
+Amount of reduction = A x 6/T
+
+A = the amount of the outstanding charge elected to be accelerated
+
+T = the number of tax years after the tax year of the election in the period of 6 tax years
+
+The new amount of adjustment income is then divided by 6 to find the amount to bring into account as income in each subsequent tax year.
+
+Example 2
+
+Ms D has a total transitional adjustment of £2,934. This is treated as income of £489 in each of the 6 tax years commencing with 2018-19.
+
+Ms D brings amounts of £489 into account as income in calculating the profits of both the 2018-19 and 2019-20 tax years. She has therefore brought a total of £978 into account, leaving an outstanding amount of £1,956.
+
+Further to the £489 that must be brought into account in the 2019-20 tax year, Ms D makes an election to accelerate £1,000 of the £1,956 outstanding charge so that it is treated as a further receipt of the business in the 2019-20 tax year.
+
+Therefore:
+
+A= £1,000 (the amount of the outstanding charge elected to be accelerated)
+
+T = 4 (years of the 6 year charge period remaining after this tax year)
+
+£1,000 x 6/4 = £1,500
+
+For each of the four subsequent tax years from 2020-21 to 2023-24, Ms D will bring a reduced amount of adjustment income into account. The total adjustment income of £2,934 is reduced by £1,500 and then divided by 6 to give the annual amount of £239 adjustment income that must be brought into account.
+
+(£2,934 - £1,500)/6 = £239
+
+The amounts of adjustment income brought into account as receipts of the property business each year are:
+
+2018-19: £489
+
+2019-20: £1,489
+
+2020-21: £239
+
+2021-22: £239
+
+2022-23: £239
+
+2023-24: £239
+
+Total: £2,934
+
+The election must be made on or before the first anniversary of the filing date for the tax year for which the election relates. Where the property business is being carried on by a partnership, the election must be made by all partners.
+
+Prepayments
+
+Where a prepayment is made under the cash basis for a service that is performed in a subsequent GAAP basis tax year, a deduction for the expenditure would be given twice were it not for transitional adjustments; once when it is paid under the cash basis, and once when the service is performed through accruals accounting under GAAP.
+
+The legislation disallows deductions for expenses that are brought into accruals based accounts where the amount was prepaid whilst in the cash basis was in use.
+
+Example 3
+
+Ms D also pays a gardener to mow the lawn and trim boundary hedges. She pays the gardener every two months in advance. On 1 March 2018, she pays the gardener £150 for March and April 2018. This means that £75 of expenditure would have been prepaid under the accruals basis. However, as Ms D was using the cash basis in the 2017-18 tax year, she received a deduction for the full £150 when it was paid.
+
+When Ms D leaves the cash basis, she is not allowed a further deduction of £75 in the 2018-19 tax year, even though it relates to services performed in that year.
+
+Capital expenditure
+
+Whilst under the cash basis, deductions may have been given for capital expenditure (PIM1095 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1095)). This is in contrast to businesses not under the cash basis, where capital expenditure is usually relieved through capital allowances.
+
+When leaving the cash basis, transitional adjustments may need to be made to make sure that future transactions involving assets on which a deduction was made for capital expenditure, for example when there is a disposal. Capital allowances must have been allowable had the business been using GAAP rather than the cash basis at the time of acquisition.
+
+The transitional adjustment will be based on the amount of the ‘unrelieved expenditure’. This is calculated as follows:
+
+The amount actually paid for any plant and machinery that is still in use in the business
+
+Less
+
+The amount that was deducted for that plant and machinery under the cash basis (or would have been allowed had all the expenditure been wholly and exclusively for the purposes of the business)
+
+Most of the time, this will result in a nil value for unrelieved expenditure.
+
+Example 4
+
+Mr H paid £1,000 for some plant and machinery for use in his property business. As his business was under the cash basis, he received a full deduction of £1,000 in calculating his profits when this amount was paid.
+
+He later elects to leave the cash basis.
+
+Total amount of expenditure: £1,000
+
+Less
+
+Amount deducted under cash basis: £1,000
+
+Unrelieved expenditure: £0
+
+Capital allowances pools are created through transitional adjustments to account for the relief of capital expenditure under the cash basis. To create the pool, the full amount actually paid is brought into the pool, and the amount given as a deduction under the cash basis is deducted.
+
+Most of the time, the above calculation will result in a nil balance, which means that any disposal proceeds received in the future will be brought into account for capital allowances purposes.
+
+Example 5
+
+Mr D paid a total of £750 for a number of pieces of plant and machinery for use in his property business. As his business was under the cash basis, he received a full deduction of £750 in calculating his profits when the amounts were paid.
+
+He later elects to leave the cash basis. Under the transitional adjustment rules, he must draw up a capital allowance pool for the capital expenditure that was relieved under the cash basis.
+
+Total amount of expenditure: £750
+
+Less
+
+Amount deducted under cash basis: £750
+
+Balance brought into CA pool: £0
+
+If Mr D later sells a piece of the plant and machinery, he will need to bring any disposal proceeds into the pool.
+
+If there is an amount of unrelieved expenditure, Annual Investment Allowance (AIA) or first year allowances (FYA) are available. These are given on the amount of unrelieved expenditure in the first year of leaving the cash basis.
+
+Example 6
+
+While under the basis, Ms V bought some plant and machinery for £2,000. She paid £1,000 on delivery and agreed to pay two further instalments of £500.
+
+In the 2019-20 tax year, she elects to leave the cash basis with one payment of £500 still outstanding.
+
+Total amount of expenditure: £2,000
+
+Less
+
+Amount deducted under cash basis: £1,500
+
+Unrelieved expenditure: £500
+
+Ms V can claim the £500 as AIA in the 2019-20 tax year, the first tax year having left the cash basis. She must then create a capital allowances pool to account for the relieved expenditure of £1,500.

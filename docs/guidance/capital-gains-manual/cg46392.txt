@@ -1,0 +1,34 @@
+Groups: rebasing: elections out of kink test:  takeover
+Identifier: CG46392
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46392
+Published: 2016-03-12T11:12:08+00:00
+Updated: 2016-01-25T17:05:34+00:00
+Retrieved (UTC): 2026-09-18T14:41:41.677431+00:00
+
+The position is different if P acquires T after the relevant time of the P group has been established. Any election by P only applies to companies which are members of the P group at the relevant time. Since no T group company is a member of the P group at the relevant time, an election made by P does not apply to any of the T group companies. If the relevant time for the P group is established by a disposal made before the takeover, and P does not make the election until after the takeover, the result is still that the election does not cover the companies in the former T group. This is because at the relevant time they were not members of the P group. The election rights of the T group are as follows.
+
+- If T has already made an election the T group companies will continue to be covered by that election.
+
+- If the T group companies are not covered by an election, each member of the T group will, following the takeover, have a separate right to make an election. An election by T will not be binding on any other member of the former T group. The result is the same whether or not the relevant time of the T group has been established by TCGA92/SCH3/PARA9 (1)(a) when P acquires T.
+
+The following examples illustrate the result where there is no election covering the target group at the time of the takeover.
+
+Example 1: Takeover before relevant time of target group
+
+No member of the T group has made a disposal up to the date of acquisition by P. So T’s relevant time has not yet been established.
+
+The effect of TCGA92/SCH3/PARA8 (2) is that an election only covers companies which are members of the group at the relevant time. None of the T group companies was a member of the P group at its relevant time, so no T group company is covered by an election made by P, irrespective of the time P makes the election.
+
+A company which is a member but not the principal company of a group cannot make an election unless the company did not become a member of the group until after the relevant time (TCGA92/SCH3/PARA8 (1) ). Following the takeover, T, T1 and T2 are members of a group, the P group, and none of them is the principal company of the P group. But T, T1 and T2 did not become members of the P group until after the relevant time of the P group.
+
+So the rule which restricts the right to make an election to the principal company does not affect any of the companies in the former T group. Each company in the T group has the right to make its own election. Assuming no election is made before 6 April 1990, the election can only be made when the company itself makes a disposal. This is because the rule in TCGA92/SCH3/PARA8 (5) no longer applies to members of the former T group following the takeover.
+
+Example 2: Takeover after a disposal by a subsidiary of T
+
+Suppose T1 has made the T group’s first disposal to which Section 35 applies before the takeover by P. This would establish the relevant time of the T group. As T1 was not the principal company of the T group, it cannot make an election at any time before the takeover by P (TCGA92/SCH3/PARA8 (1) ). After the takeover by P, T1 acquires a separate right to make an election. Such an election can have no effect on any other company since T1 is not at any time a principal company.
+
+Example 3: Takeover after a disposal by the former principal company T
+
+If T itself has made a disposal before the acquisition by P, this disposal establishes the relevant time for the T group. Following the takeover T is a member of the P group, but it did not become a member of that group until after the P group’s relevant time. The rule in TCGA92/SCH3/PARA8 (1) accordingly does not prevent T from making an election after the takeover. The election does not cover members of the T group as it was constituted at the relevant time of the T group. This is because an election by one company only applies to other companies if the election is made by a company which at the time of the election is the principal company of a group (TCGA92/SCH3/PARA8 (2) ).
+
+These examples illustrate the general effect that, if the P group takes over the T group after the relevant time for the P group, each member of the T group has the right to make its own separate election. An election by T after the takeover does not cover any other company in the former T group.

@@ -1,0 +1,86 @@
+PMA: Anti-avoidance: Finance leaseback: Lessee's income or profits: deductions
+Identifier: CA28920
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28920
+Published: 2016-04-16T08:52:54+01:00
+Updated: 2022-03-14T15:39:11+00:00
+Retrieved (UTC): 2026-09-18T16:21:04.811712+00:00
+
+CAA01/S228B and CAA01/S228F (2)
+
+Where there is a sale and finance leaseback Section 228B restricts the lease rentals that may be deducted in computing the lessee’s income or profits. This restriction is intended to recover any tax-free sum that the lessee may have received because the disposal value brought to account when the sale and finance leaseback was entered into was the restricted disposal value. It applies where the lease is a finance lease for the lessee.
+
+The deduction for lease rentals is restricted to the permitted maximum. The permitted maximum for an accounting period is the total of:
+
+- the finance charge shown in the accounts, and
+
+- the depreciation, taking the value of the plant or machinery at the beginning of the leaseback to be the restricted disposal value under CAA01/S222.
+
+When you calculate the permitted maximum start with the restricted disposal value and write that off over the length of the leaseback to get the depreciation element. You may need to make enquiries about the company’s accounting policies to check that they have done this correctly. Section 228B also applies in a lease and finance leaseback case. In such a case ignore the depreciation and calculate the permitted maximum by reference to the finance charge only.
+
+Example As in the example at CA28910 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28910) Anthony carries on a trade in the UK. In 2004 he sells equipment to B, a bank resident in Spain, for £490,000, it’s market value, and finance leases it back over 10 years. Anthony acquired the equipment in 1994 for £1,000,000 and it is depreciated on a straight-line basis over 20 years. So the depreciation charged in the accounts each year is £50,000.
+
+The notional written down value of the equipment when Anthony enters into the sale and finance leaseback is £55,000. So Anthony’s disposal value is £55,000. Anthony’s permitted maximum for an accounting period is the finance charge shown in his accounts plus the depreciation that would have been charged if the equipment had cost £55,000 and had been written off over the 10 year leaseback.
+
+As this is a sale and leaseback the accounts should not record a disposal of the asset. Rather the asset will continue to be recognised on the balance sheet and depreciated. So in this example assuming straight-line depreciation over a 20-year life of the asset the asset will depreciate 5% per annum and the annual accounts will show depreciation of £50,000. You should add back the depreciation as usual.
+
+The value of the equipment at the beginning of the leaseback is £55,000 and you should write this figure off on a straight-line basis over the 10-year leaseback to get the depreciation element of the permitted maximum to give a depreciation figure of £5,500 per year. This £5,500 is taken into account in calculating the permitted maximum but it doesnot mean that any part of the depreciation is allowable.
+
+Finance charge
+
+The legislation follows both the accounting treatment and SP3/91 (BIM61105 onwards). Current accounting standards require sales and finance leasebacks to be regarded purely as refinancing transactions (FLM13.06 - 11).
+
+If you have a case where a sale and finance leaseback has not been treated as a refinancing transaction in the accounts of the lessee you should refer it to your compliance accountant who will advise if the correct accounting treatment has been followed under UK generally accepted accounting practice.
+
+Where your compliance accountant confirms that the lease is correctly not treated as a refinancing transaction in the accounts of the lessee you should think about whether the special rules in CAA01/S228G or 228J CA28960 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28960) apply.
+
+Where the correct accounting treatment has been followed the amount of the finance charge to be included in the permitted maximum in any accounting period will be the finance charge shown in the accounts.
+
+Where the correct accounting treatment has not been followed, but should have been, you will need to take the advice of your compliance accountant to determine the amount of the finance charge that should have appeared in the accounts. If you have a case like that you may need to get a full copy of the lease agreement and where the lessor is UK based liase with the revenue officer dealing with the accounts of the lessor.
+
+Where the correct accounting treatment has not been followed and you have to calculate the finance charge, as explained in BIM61125, there may be more than one commercially acceptable method of allocating the total finance charge element of rentals to each period of account. Any acceptable method which is broadly consistent with the intention set out in BIM61055 (to allocate finance charges in such a way as to give a constant return to the lessor on the total rentals outstanding) may be followed for tax purposes.
+
+You will also have to fully identify all the amounts that have been reflected in the accounts in respect of rentals due under the lease to ensure that the permitted maximum is not exceeded.
+
+Depreciation
+
+You should use the actual rate of write-off in the accounts as a guide.
+
+If the asset is not depreciated in the company’s accounts because it is not likely to lose value at all over the life of the lease, there will be no allowable depreciation element of the lease rental during the course of the lease to be included in the permitted maximum.
+
+In exceptional cases regulatory requirements may prevent the rights in leased assets from being depreciated in the lessee’s accounts drawn up under Statement of Standard Accounting Practice 21, although the assets do in fact lose value over time. In those circumstances -and in those circumstances only - the allocation of the rentals to periods of account for tax purposes may be made by reference to the depreciation on the restricted disposal value which would reasonably have been charged in the absence of this requirement.
+
+The permitted maximum is increased where a leaseback terminates.
+
+When the leaseback terminates this is the amount that you add to the permitted maximum for the period of account in which the leaseback terminates.
+
+Current book value x original consideration divided by original book value
+
+The current book value is the net book value of the leased plant or machinery immediately before the termination.
+
+The original consideration is the consideration payable to the person who sold the plant and entered into the leaseback
+
+The original book value is the net book value of the leased plant or machinery at the beginning of the leaseback.
+
+This is most likely to apply where the leaseback terminates early because if it does the permitted maximum may not cover the termination payment.
+
+Example Anthony bought equipment for £1,000,000 in 1995 that he used for a qualifying purpose. In 1995 the equipment had an expected life of 20 years. He enters into a sale and lease back of the equipment with bank B in 2005 when the equipment has a book and market value of £500,000 and a tax written down value of £55,000. The sale and leaseback is for 10 years with a premium of £600,000 and annual rentals of £60,000. The value of the equipment at the beginning of the leaseback is £55,000 and you write this figure off on a straight line basis over the 10 year leaseback to get the depreciation element of the permitted maximum to give a depreciation figure of £5,500 per year. The legislation limits the annual lease rental deduction to an amount not exceeding the finance charge and depreciation so of the £60,000 annual rental paid in the first year only £5,500 will be allowable plus of course the finance charge.
+
+This would normally continue for the whole ten years but in 2010 Anthony decides that he no longer wants to continue with the leasing arrangements and decides to cancel the lease.
+
+When Anthony cancels the lease he still owes B £300,000 (5 years rent). Immediately before termination the current book value of the equipment is £250,000 and it is worth £245,000.
+
+The current book value is £250,000, the original consideration is £600,000 and the original book value is £500,000 so the permitted maximum is increased by £300,000.
+
+Suppose that the lease agreement with B requires that:
+
+- Anthony pays B £300,000 and receives back £245,000 as a refund of rentals, or
+
+- Anthony agrees with B to pay £55,000, the difference, or
+
+- The contract nets off the two amounts and Anthony pays B £55,000.
+
+When Anthony pays B £300,000 and receives back £245,000 as a refund of rentals the permitted maximum is increased to £300,000 and the refund of rentals is taxable in full.
+
+When Anthony and B come to an informal agreement about netting off and that Anthony should pay B £55,000 the permitted maximum is increased to £300,000. The amount payable underthe leaseback stays £300,000 so the allowable deduction is £300,000 and the refund of £245,000 is taxable under CAA01/S228B (5) and (6).
+
+When there is contractual netting off the permitted maximum is still increased to £300,000 but the amount payable under the leaseback is only £55,000 so that is the allowable deduction. There is no refund of rentals to take into account.

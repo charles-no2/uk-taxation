@@ -1,0 +1,62 @@
+PMA: WDA & balancing adjustments: Pooling
+Identifier: CA23210
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23210
+Published: 2016-04-16T08:47:51+01:00
+Updated: 2023-05-03T15:04:57+01:00
+Retrieved (UTC): 2026-09-18T16:20:44.356568+00:00
+
+CAA01/S53, S54 & S55
+
+Expenditure is pooled in order to calculate writing down allowances, balancing allowances and balancing charges CA20006 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca20006). You pool expenditure by adding it together and deducting disposal values from the total. If the disposal values are more than the expenditure in the pool the difference is a balancing charge (CAA01/S55(3)). There are no balancing allowances until the qualifying activity ends (CAA01/S55(4) & S65). When it does, the balancing allowance is equal to the unrelieved qualifying expenditure.
+
+Different types of pool
+
+Where a person carries on more than one qualifying activity there is a pool (or pools) for each qualifying activity. These are the different types of PMA pools:
+
+- The main pool
+
+- The special rate pool
+
+- The overseas leasing pool, which contains all the expenditure on assets leased overseas to which the overseas leasing legislation CA24000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24000) applies.
+
+- Single asset pools
+
+Special rate pool
+
+The special rate pool was introduced by FA2008. It contains expenditure incurred on or after 1/6 April 2008 on
+
+- the provision or replacement of integral features CA22300 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca22300)
+
+- long-life assets (LLAs) CA23700 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23700)
+
+- solar panels, from 1/6 April 2012, see CA22335 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca22335) (most solar panels were also classified as special rate before 1/6 April by virtue of being long life assets)
+
+- thermal insulation CA22220 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca22220)
+
+- from 1/6 April 2009, cars with higher CO2 emissions CA23535 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23535)
+
+- from 1 April 2010, cushion gas (gas that functions as plant in a gas storage facility)
+
+Overseas leasing pool
+
+The overseas leasing pool contains all the expenditure on assets leased overseas to which the overseas leasing legislation CA24000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24000) applies.
+
+Single asset pools
+
+Expenditure on any of the following should be allocated to a single asset pool:
+
+- A short life asset CA23600 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23600)
+
+- A ship CA25000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25000)
+
+- An asset used partly for purposes other than the qualifying activity CA27000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca27000)
+
+- An asset towards whose cost a partial depreciation subsidy is received CA27100 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca27100)
+
+- An asset for which contributions allowances are being claimed CA14500 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca14500).
+
+If expenditure is allocated to a single asset pool the allowances and charges are calculated separately and there is a balancing adjustment that ends the pool when there is a disposal event CA23240 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240). No other expenditure goes into that pool.
+
+Main rate pool
+
+The main rate pool contains expenditure that does not fall to be allocated to any of the other pools in accordance with the rules described above.

@@ -1,0 +1,44 @@
+Share identification rules for corporation tax: section 104 holding
+Identifier: CG51620
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51620
+Published: 2016-03-12T11:23:12+00:00
+Updated: 2016-01-25T17:18:29+00:00
+Retrieved (UTC): 2026-09-18T14:47:58.512445+00:00
+
+All shares of the same class in the same company acquired from 1 April 1982 onwards by a company in the same capacity are pooled in a Section 104 holding. This used to be called a new holding' until the name was changed by FA 1998. For convenience the 1998 name Section 104 holding’ is used throughout this section of the guidance.
+
+The only exceptions are rights and bonus issues in respect of shares held by the company on 31 March 1982.. See CG51632 if the bonus or rights issue relates to a 1982 holding, or CG51641 if the shares were held at 6 April 1965.
+
+All the shares in the Section 104 holding are regarded as indistinguishable parts of a single asset which grows or shrinks as shares are acquired or disposed of.
+
+Indexation allowance is given as an integral part of the Section 104 holding system. The provisions of TCGA92/S54, which normally apply to the calculation of indexation allowance do not apply to Section 104 holdings. Instead TCGA92/S110 sets out the rules which apply to Section 104 holdings so that a Section 104 holding consists of two pools of expenditure
+
+- the pool of qualifying expenditure and
+
+- the pool of indexed expenditure.
+
+TCGA92/S110 (4)
+
+The pool of qualifying expenditure includes all the relevant allowable expenditure on the shares. This is expenditure which is allowable under TCGA92/S38(1)(a) and (b). It will include the cost of the shares and the costs of acquisition. The definition of relevant allowable expenditure is in TCGA92/S53 (2).
+
+The pool of indexed expenditure is the cumulative total of the qualifying expenditure plus the indexation allowance due on that expenditure.
+
+The value of the indexed pool is adjusted every time there is an event, called an “operative event”, which reduces or increases the pool of qualifying expenditure, TCGA92/S110 (7). The commonest type of operative event will be the sale or purchase of shares. Indexation allowance is computed from the date of the last operative event to the date of the next operative event. This indexation is then added to the pool of indexed expenditure immediately before the next operative event. Therefore, if the operative event is a disposal the company gets the benefit of indexation up to the date of the disposal.
+
+An operative event need not necessarily be an acquisition or disposal. A company may pay for more shares in a company by taking up a rights issue. The share reorganisation rules of TCGA92/S127 treat the company as not having acquired any new asset for capital gains purposes. Instead the original shares and the new shares are treated as the same asset. However, TCGA92/S128 allows the company to claim a deduction for the payment it made for the new shares. That amount increases the qualifying expenditure on the Section 104 holding and therefore it is an operative event. There is an example involving a rights issue at CG51621.
+
+Share reorganisations which involve the issue of shares of a different class will be operative events even where no additional payment is made - for example, bonus issues. This is because in these cases the pool of qualifying expenditure has to be apportioned between the separate classes of share. See CG51700+, and in particular the Examples at CG51920 and CG51930.
+
+It is also possible for a transaction which is not a disposal to reduce the qualifying expenditure available on a Section 104 holding. For example, a company may make an election under TCGA92/S122 (2) to have a small capital distribution treated as though it was not a disposal. Instead the base cost of the shares is reduced by the amount of the small capital distribution. This is the type of transaction to which TCGA92/S110 (8)(d) applies. Both the pool of qualifying expenditure and the pool of indexed expenditure are reduced by the amount of the small capital distribution. For further details on small capital distributions see CG57835+.
+
+TCGA92/S110
+
+Indexation allowance is calculated by comparing the Retail Prices Index at the date of the operative event (RE) with the Retail Prices Index at the date of the previous operative event (RL) using the formula
+
+RE – RL
+
+RL
+
+If the RPI has remained the same or fallen no indexation allowance is due.
+
+HMRC publishes a monthly table of indexation factors. These are rounded to three decimal places as required by TCGA92/S54(1) although strictly that requirement does not apply to adjustments to the share pool. Most of the examples in this section of the guidance use these indexation factors.

@@ -1,0 +1,84 @@
+Deferred consideration: linked issues
+Identifier: CG15020
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15020
+Published: 2016-03-12T10:08:33+00:00
+Updated: 2016-01-25T11:58:52+00:00
+Retrieved (UTC): 2026-09-18T14:37:46.711377+00:00
+
+Sale of shares in/debentures of company (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15020#IDAES2WG)
+Proceeds lent back to purchaser (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15020#IDAMS2WG)
+When ESC D18 does not apply (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15020#IDAOV2WG)
+Market value substituted for consideration. TCGA92/S17 & TCGA92/S18 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15020#IDABW2WG)
+Proceeds in foreign currency (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15020#IDAJW2WG)
+
+Sale of shares in/debentures of company
+
+Where an agreement for the sale of shares in or debentures of a company provides for deferred unascertainable consideration which is to be satisfied wholly or partly by shares or debentures issued to the vendor, then TCGA92/S138A may result in TCGA92/S135 operating so that the no disposal/same asset treatment of TCGA92/S127 applies with the necessary adaptations. The guidance on TCGA92/S135 is at CG52500+ and on TCGA92/S138A is at CG58000+.
+
+Proceeds lent back to purchaser
+
+If the proceeds of the sale are lent by the vendor to the purchaser there are two separate transactions:
+
+- a sale of the asset by the vendor to the purchaser with full consideration paid, and
+
+- a grant of a loan by the vendor to the purchaser.
+
+In these circumstances the vendor has received full consideration for the asset. It is not appropriate to allow payment of the tax in instalments, see Coren v Keighley (48TC370).
+
+If the taxpayer states that the full sale proceeds were not received you will need to examine all of the relevant documents. These should include the conveyance and mortgage deed or legal charge in land cases. This will confirm whether there were two separate transactions.
+
+The chargeable gain on the sale of the asset will not be affected by any payment or default in payment on the loan, unless ESC/D18 applies. This concession applies in situations where the vendor regains beneficial ownership of asset.
+
+A chargeable gain or allowable loss may arise separately on the loan. See CG53400+ for instructions on loans.
+
+ESC D18
+
+This concession applies where the vendor of an asset regains ownership of that asset following a default by the purchaser on repayment of a loan granted by the vendor. All the following conditions must be satisfied before the concession can apply:
+
+- on the sale of the asset, the vendor grants to the purchaser a loan of the whole or part of the sale proceeds,
+
+- the purchaser subsequently defaults on repayment of the loan,
+
+- as a result of the default, the vendor regains ownership of the asset, and
+
+- the vendor and the purchaser are not connected persons, see CG14580+.
+
+If all of the above conditions are satisfied, and the vendor claims the benefit of the concession, the gain arising is to be treated as the amount of the net proceeds actually retained by the vendor.
+
+Example
+
+A sells an asset to B for £50,000 realising a gain of £35,000 after legal fees of £1,000. B actually pays £10,000 initially to A, and A grants B a loan of £40,000. That loan is repayable in four equal annual instalments.
+
+B pays the first instalment of £10,000, but fails to pay the next instalment. As a result, A regains ownership of the asset. A and B are not connected.
+
+A claims the benefit of ESC/D18.
+
+All the necessary conditions for ESC/D18 are satisfied, and therefore the gain arising to A is to be treated as the net amount actually received, that is £20,000 less the legal fees of £1,000 = £19,000.
+
+The loan is treated as never having come into existence.
+
+If A subsequently sells the asset, the gain or loss arising is calculated by reference to the original cost and date of acquisition.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15020#Top)
+
+When ESC D18 does not apply
+
+ESC/D18 cannot apply unless the vendor regains ownership of the asset. In particular, it cannot apply in the following circumstances:
+
+- where the vendor sells as mortgagee in possession, see CG12706,
+
+- where the asset is sold by a third party, for example a receiver, and the vendor receives less than the outstanding amount of the loan.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15020#Top)
+
+Market value substituted for consideration. TCGA92/S17 & TCGA92/S18
+
+Where the market value of the asset at the date of disposal has been substituted for actual consideration in the computation of the gain, then none of the special rules which are applicable to deferred consideration operate. There is no facility to allow the payment of the tax by instalments or for relief if part of the consideration is irrecoverable. This is because the consideration is deemed to be the market value of the asset and such deemed consideration is not a deferred payment.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15020#Top)
+
+Proceeds in foreign currency
+
+Where the ascertained or ascertainable consideration for the disposal of an asset is expressed in a currency other than sterling, it should be converted to sterling using the rate of exchange at the date of disposal of the original asset in order to arrive at the consideration to be included under TCGA92/S48.
+
+No chargeable gain or allowable loss will arise when the currency is actually received in satisfaction of the debt in the hands of the original creditor unless, exceptionally, the debt was a debt on a security, see CG53420+. The currency itself will have an acquisition cost equal to the amount included in the consideration for the disposal of the asset. Any subsequent disposal of the currency may give rise to a chargeable gain or allowable loss.

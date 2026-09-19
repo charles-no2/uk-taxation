@@ -1,0 +1,36 @@
+Assessing: SAGE: SAGE record in COMPASS
+Identifier: IHTM31892
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31892
+Published: 2016-04-09T10:07:27+01:00
+Updated: 2016-02-11T17:19:57+00:00
+Retrieved (UTC): 2026-09-18T15:06:39.649355+00:00
+
+To view the transaction records, select the ‘SAGE Trans’ button in your Case Summary window (below the list of calculations).
+
+The report window will open up, listing the calculations issued and withdrawn, payments and repayments in chronological order. This is a live link to SAGE which shows real-time data.
+
+The individual records are explained more clearly here than in the full transaction printout from Cashiers Section. The records you might find are
+
+- Issued or withdrawn calculations of tax
+
+- Issued or withdrawn calculations of interest
+
+- Payments
+
+- Repayment warrants (once processed by Repayments Section)
+
+- Repayment supplements
+
+- Issued or withdrawn irrecoverable/remitted tax
+
+- Issued or withdrawn irrecoverable/remitted interest
+
+- Under/overpayments
+
+- Penalties
+
+- Cashiers matching
+
+The amounts for assessed liabilities are shown as positive figures. The amounts for any payments or other receipts are minus figures.
+
+At the bottom of the page are totals for the tax and interest paid, the amounts received, and the balance. This lets you see at a glance whether there are payments (negative balance) or deposits (positive balance) outstanding.

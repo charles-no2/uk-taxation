@@ -1,0 +1,36 @@
+Accrued Income Scheme: transfers 'with accrued interest' and 'without accrued interest'
+Identifier: SAIM4020
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4020
+Published: 2016-03-19T16:25:40+00:00
+Updated: 2022-07-06T12:30:36+01:00
+Retrieved (UTC): 2026-09-18T14:26:19.871254+00:00
+
+The meaning of ‘cum div’ and ‘ex div’
+
+Before the AIS came into force, accrued interest on marketable securities was treated for tax purposes as forming part of the sale or purchase price. It thus entered into the sale or purchase consideration for capital gains purposes, while the whole of the next payment of interest was charged to income tax on the person entitled to receive that interest on the next interest payment date.
+
+Under the AIS the interest for the period which spans the date of sale is apportioned up to and from that date. It is taxable as income on the vendor or the purchaser of the security according to whether
+
+- the purchaser is entitled to receive the next interest payment (a ‘cum div’ sale), or
+
+- the vendor is entitled to receive it (an ‘ex div’ sale).
+
+The word ‘dividend’ here refers to the interest receivable on the security.
+
+Sales with accrued interest (‘cum div’)
+
+Most sales of marketable securities are ‘cum div’. That is, the buyer is entitled to the next interest due. As an interest payment date on a security approaches, its market price increases to reflect the increase in value of the buyer’s right to the interest. In other words, the price reflects accrued interest.
+
+For example, £100,000 8% Treasury Stock 2002-06 is transferred cum div on 19 April. 14 days’ interest has accrued since interest was last paid on 6 April. Accrued interest is £307 (14/365 x 8% x 100,000).
+
+Under the AIS, the interest which has accrued up to the date of sale is assessed to income tax on the vendor (whose sale price will have been increased to take account of it), and the purchaser is given relief for the same amount normally against the next payment of interest.
+
+Sales without accrued interest (‘ex div’)
+
+Not all sales of securities are ‘cum div’. This is because gilt-edged securities, and some corporate bonds, have an ‘ex div’ or ‘ex coupon’ date. The next interest coupon is paid to the person who is registered as the holder of the security at that date. So if the security is sold in the ‘ex div’ period, the seller collects and keeps the next interest due after the sale. For gilts, the ‘ex div’ period is 7 business days before the coupon date. Other securities may have a similar, or shorter, ‘ex div’ period.
+
+Consequently the market price of a security sold ‘ex div’ reflects the fact that the purchaser will own the security for a short period from the date of purchase to the next interest payment date. This is a period over which interest accrues but for which the interest is received not by him but by the seller. The interest accrued over such a period is known as rebate interest. It is treated in the opposite way to the more normal accrued interest associated with a ‘cum div’ sale.
+
+For example, £100,000 8% Treasury Stock 2002-06 is transferred ex div on 29 March. 7 days’ interest has accrued from the day after the transfer to the next interest date, 6 April. Accrued interest is £153 (7/365 x 8% x 100,000).
+
+Under the AIS, the interest which will accrue from the date of sale to the next interest payment date (the ‘rebate interest’) is charged to income tax on the purchaser (whose purchase price will have been reduced to take account of it), and the vendor is given relief for the same amount normally against the interest payment when he or she receives it.

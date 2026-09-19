@@ -1,0 +1,22 @@
+Lifetime transfers: the charge to tax: reliefs: business relief and agricultural relief 
+Identifier: IHTM14579
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14579
+Published: 2016-04-09T09:20:14+01:00
+Updated: 2026-03-11T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:58:01.702690+00:00
+
+Where the value transferred by the chargeable transfer was after reduction by BR or AR, the value for tax may not be the same in the recalculation.
+
+For the purpose of calculating the additional tax payable because of the transferor’s death, the reliefs are not preserved unless
+
+- the additional conditions for business relief (IHTM25361 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25361)), or
+
+- the additional conditions for agricultural relief (IHTM24172 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24172))
+
+are satisfied.
+
+If the additional conditions are not satisfied:
+
+- you calculate the additional tax on the basis of no relief, but
+
+- for the purpose of calculating the tax on later transfers, including that on the transferor’s death, the value for cumulation purposes remains that as established for the IHT charge at the time of the transfer - that is as reduced by BR or AR.

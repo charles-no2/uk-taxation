@@ -1,0 +1,22 @@
+Groups: business asset roll-over relief: the single group trade rule
+Identifier: CG45932
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45932
+Published: 2016-03-12T11:09:47+00:00
+Updated: 2020-03-30T11:50:29+01:00
+Retrieved (UTC): 2026-09-18T14:41:24.719294+00:00
+
+TCGA92/S175 (1) and (1A)
+
+One of the main requirements for business asset roll-over relief is that the old asset and the new asset are used for the purposes of a person’s trade.
+
+TCGA92/S175(1) treats all the trades carried on by members of a capital gains group as a single group trade for the purposes of roll-over relief. It is, however, important to note that Section 175 does not treat the companies in that group as the same company.
+
+Under TCGA92/S175(1A), only trades whose profits are within the scope of corporation tax are included in the single group trade. Those are trades carried on by companies resident in the UK, or carried on through a UK permanent establishment of a non-resident company.
+
+This rule does not apply if the group company that acquires the replacement asset is a dual resident investment company within CTA10/S109. Any trade conducted by such a company would not be within the charge to corporation tax. There is guidance on dual resident investing companies at CTM34500+ (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm34500). The specific exclusion for such companies was repealed in Finance Act 1994 and TCGA92/S175(2) is effectively redundant.
+
+Example
+
+Company A disposes of a trade asset to a person who is not a member of any group. In the following year, company A acquires an asset from a person who is not a member of any group. On the acquisition, the new asset is taken into use for the purposes of a trade carried on by company B. At the date of acquisition, companies A and B are members of the same group of companies. Under TCGA92/S175 (1) the trades carried on by companies A and B are treated as a single trade. The new asset has, therefore, been taken into use for the purposes of a trade carried on by company A. If all other conditions for relief are satisfied, company A’s gain on the old asset may be rolled over against the cost of acquisition of the new asset used by company B.
+
+The trades of companies A and B will only be treated as the same trade if their profits are within the scope of the charge to corporation tax.

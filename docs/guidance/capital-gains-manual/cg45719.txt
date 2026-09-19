@@ -1,0 +1,20 @@
+ETMD: securities issued on a partial division of a business: main conditions
+Identifier: CG45719
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45719
+Published: 2016-03-12T11:08:37+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:41:11.820726+00:00
+
+Where there is a partial division within TCGA 1992 section 140A(1A) or section 140C(1A) there has been a part disposal by the shareholders and/or debenture holders of the shares and/or debentures they hold in the transferor company. Such a chargeable occasion would be contrary to the general principle within the ETMD, see CG45701.
+
+To prevent such an occurrence section 140DA ensures that the ‘rollover’ treatment within section 127 will apply provided that there has been a partial division to which section 140A(1A) applied, see CG45703, or section 140C(1A) applied, see CG45714 and the following conditions are met.
+
+- The transferor or transferee (or each of the transferee) companies are each resident in a member state but not all in the same member state; section 140DA(1)(b) & (c).
+
+- The transfer is not a scheme of reconstruction within TCGA 1992 section 136; section 140DA(1)(e). Schedule 5AA provides the definition of a ‘scheme of reconstruction’ and generally it will be the inability of the partial division to meet the criteria within Schedule 5AA which means that it is not within the scope of section 136. For guidance on TCGA92/SCH5AA, see CG57200+.
+
+Where all the conditions are met then the transfer which gave rise to the partial division is treated as if it were a scheme of reconstruction for the purpose of allowing section 136 to apply; section 140DA(2). Provided the other conditions within section 136 are met this means that section 127 will have effect so that the shareholders or debenture holders in the transferor company or companies will be treated as not having made a disposal of their shares or debentures in those companies. It follows that no chargeable gain or allowable loss accrues to them at the time of the merger.
+
+Where section 136 applies by virtue of section 140DA then the anti-avoidance rules at section 137 can have no application; section 140DA(3). However section 140DA is itself subject to an anti-avoidance section by virtue of the fact that it cannot apply unless section 140A(1A) or section 140C(1A) applies and both of those sections are subject to an anti-avoidance section: section 140B for section 140A(1A) and section 140D for section 140C(1A), see CG45731.
+
+Note: Section 140DA can only apply to partial divisions within section 140A or 140C which take place on or after 1 January 2007.

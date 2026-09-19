@@ -1,0 +1,94 @@
+Transfers: transfers to a QROPS: calculating the amount of the overseas transfer charge
+Identifier: PTM102500
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102500
+Published: 2017-12-01T12:30:18+00:00
+Updated: 2017-12-05T10:15:46+00:00
+Retrieved (UTC): 2026-09-18T14:49:43.491479+00:00
+
+Glossary
+
+|
+
+PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+|
+
+Sections 244JA and 244K Finance Act 2004
+
+Legal background to how the tax charge is calculated (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102500#legal)
+Tax charge arises on a transfer from a registered pension scheme (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102500#rps)
+Tax charge arises on a transfer from a relieved relevant non-UK scheme (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102500#rnuks)
+Tax charge arises on an onward transfer from a QROPS or former QROPS (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102500#qrops)
+Tax charge arises due to a change of circumstances after a transfer (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102500#after-transfer)
+
+Legal background to how the tax charge is calculated
+
+The overseas transfer charge applies to the transfer of every type of pension right an individual may have under a scheme, including pension credit rights received from a pension sharing order following a divorce and all pensions ‘in payment’.
+
+In this context a pension is ‘in payment’ where the individual has become entitled to the payment of their pension from the scheme. Section 165(3) Finance Act 2004 defines when an individual becomes entitled to their pension as including when an individual designates sums or assets as available for the payment of drawdown pension. The term pensions in payment includes all pensions in payment to members in their own right, as well as where the individual has become entitled to any of the following beneficiary rights:
+
+- dependants’ scheme pension
+
+- dependants’ drawdown pension fund
+
+- dependants’ flexi-access drawdown fund
+
+- nominees’ flexi-access drawdown fund
+
+- successors’ flexi-access drawdown fund
+
+Section 167(1A) provides that an individual becomes entitled to the various forms of beneficiary drawdown when sums and assets under the scheme are designated as available for the provision of dependants’, nominees’ or successors’ drawdown pension.
+
+The amount of the overseas transfer charge is 25% of the ‘transferred value’. However the ‘transferred value’ is not simply the total amount of the sums and market value of the assets transferred to the qualifying recognised overseas pension scheme (QROPS). The amount of the transferred value will be affected by factors such as:
+
+- Is the transfer from a registered pension scheme, a QROPS or former QROPS
+
+- Whether or not the transfer was subject to the lifetime allowance charge
+
+- Whether or not the scheme administrator or scheme manager deducts the tax due before making the transfer
+
+- Where the transfer is from a QROPS or former QROPS, how much of the transferred funds is an onward transfer within scope of the tax charge
+
+- Where the transfer is from a QROPS or former QROPS, how much of the transferred fund is within scope and not excluded from the tax charge.
+
+Tax charge arises on a transfer from a registered pension scheme
+
+If the scheme administrator deducts the overseas transfer charge they are liable to in respect of that transfer, thus reducing the amount be transferred, the ‘transferred value’ is the total amount of the sums and market value of assets that was requested to be transferred before the deduction of the charge. The first example on PTM102530 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102530) illustrates this point.
+
+If the scheme administrator has paid the charge but has not deducted the tax charges they are liable to from the transfer, the ‘transferred value’ will be grossed up to reflect the fact that the individual is getting extra value from the scheme. See the third example on PTM102530 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102530).
+
+If the registered pension scheme is established outside the UK, the ‘transferred value’ is restricted to the amount of any sums and the value of any assets transferred that are attributable to the UK-relieved funds held in the scheme.
+
+PTM102530 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102530) provides examples to illustrate how to calculate the overseas transfer charge on a transfer from a registered pension scheme.
+
+Tax charge arises on a transfer from a relieved relevant non-UK scheme
+
+Not all sums and assets transferred from a relieved relevant non-UK scheme will be in scope of the overseas transfer charge. The ‘transferred value’ of the transfer from such a scheme is limited to the amount of any sums and the value of any assets transferred that are attributable to the UK tax- relieved fund held in the scheme. See PTM113230 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113230) for more information about the meaning of the term ‘UK tax-relieved fund’.
+
+Only the member will be liable to an overseas transfer charge arising on a transfer from a relieved relevant non-UK scheme, so the scheme manager should not pay the tax due or deduct it from the funds before making the transfer.
+
+Tax charge arises on an onward transfer from a QROPS or former QROPS
+
+As not all the sums and assets transferred from a QROPS or former QROPS will be subject to the overseas transfer charge, the first challenge is to identify the amount of the funds to be transferred that are subject to the charge. The overseas transfer charge is limited to:
+
+- the onward transfer of a ring-fenced transfer fund made within the relevant period, and
+
+- where the tax charge has not been paid previously (or has been paid but has since become repayable) in respect of an earlier transfer of those sums and assets that created the ring-fenced transfer fund.
+
+Having identified which ring-fenced transfer funds are subject to the tax charge the ‘transferred value’ then depends on whether or not the scheme manager has deducted the tax due before making the transfer.
+
+If the scheme manager deducts the overseas transfer charge they are liable to in respect of that transfer, thus reducing the amount be transferred, the ‘transferred value’ is the total amount of the relevant ring-fenced transfer fund(s).
+
+If the scheme manager paid the charge but has not deducted the tax charges they are liable to from the transfer, the ‘transferred value’ will be grossed up to reflect the fact that the individual is getting extra value from the scheme.
+
+PTM102550 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102550) provides examples of how to calculate the overseas transfer charge when the scheme manager is liable to the tax charge.
+
+Tax charge arises due to a change of circumstances after a transfer
+
+Section 244K Finance Act 2004
+
+Where an overseas transfer charge arises under section 244AC due to a change of circumstances after the transfer, the ‘transferred value’ is limited to the value of the member’s ring-fenced transfer funds under the scheme at the point that the tax charge arises.
+
+Where an overseas transfer charge arises under section 244IA due to a change of circumstances after the transfer that lead to an earlier section 244AC charge becoming repayable, the whole of the original ‘transferred value’ needs to be considered, not just that remaining in the ring-fenced transfer fund under the scheme at that point. See the example of Frank on PTM102400 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102400).
+
+PTM102550 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102550) provides examples of how to calculate the overseas transfer charge when the scheme manager is liable to the tax charge.

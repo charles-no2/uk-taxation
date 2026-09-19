@@ -1,0 +1,50 @@
+NRCG and the exemptions: Disposals from 6 April 2019: Indirect disposals: Establishing the level of investment
+Identifier: CG73938
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73938
+Published: 2020-02-05T14:42:18+00:00
+Updated: 2020-02-06T14:18:14+00:00
+Retrieved (UTC): 2026-09-18T14:46:50.592551+00:00
+
+Paragraph 9 of Schedule 1A to TCGA 1992
+
+Background
+
+On disposal of a UK property rich asset (see CG73934 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73934)), a non-UK resident is chargeable on gains under TCGA/s1A(3)(c) or 2B(4)(b) (for CGT and CT respectively) if they hold a substantial indirect interest in UK land – that is: if they hold at least a 25% investment in the company being disposed of in the transaction.
+
+This section of the guidance looks at how to establish whether a person has a 25% investment in the company being disposed of. The wider guidance on this condition, including rules for periods of investment and aggregation of connected party interests, is at CG73936 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73936).
+
+In the circumstances where the disposal is of several companies under one holding company, it is not necessary for the disponor to hold an effective 25% or greater investment in all of the companies being disposed of –only the immediate one which represents a UK property rich asset.
+
+Examples of establishing investment are at CG73940 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73940).
+
+This exemption for indirect disposals of UK land by non-UK residents where they do not hold a substantial indirect interest does not apply in certain circumstances where the disposal has an appropriate connection to a collective investment vehicle [CG73996J (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73996j) currently in Appendix 15].
+
+Overview
+
+Broadly the provisions look at equity holdings in a company. They also consider chains of entities (for example if the person is making a disposal in their capacity as a partner in a partnership).
+
+The rules will also cover establishing the level of investment in particular company further down a chain of companies, which have relevance for the rules relating to the exemption regime for collective investment vehicles [link to relevant funds guidance].
+
+If this condition and the UK property rich condition are met for the purposes of TCGA92/s1A(3)(c) or s2B(4)(b), then the calculation of the gain or loss will be based on the normal share disposal rules and reflect the value of the asset being disposed of. This is under the normal rule for such disposals, and no adjustment is made to reflect the assets that are not UK land.
+
+Measures of investment
+
+A person has a 25% or more investment in a company if they have any of the following:
+
+- 25% or more of the voting power over the company;
+
+- Entitlement to acquire 25% or more of the voting power over the company;
+
+- Entitlement to receive 25% or more of the proceeds of the equity on disposal of the company;
+
+- Entitlement to 25% or more of the income on a distribution to all equity holders;
+
+- Entitlement to receive 25% or more of the company’s assets on winding up (or otherwise), where those assets are distributed to equity holders.
+
+“Equity” is shares (including stocks and other interests) other than restricted preference shares, and loans other than normal commercial loans. “Restricted preference shares” are as defined in CTA10/s160A, and a “normal commercial loan” as outlined at CG73935 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73935) and both with the necessary modifications where the company does not have ordinary share capital.
+
+A person may have 25% or more investment by the measure of entitlement to proceeds from equity, income distributed, or assets in any way specified. So, for example, if one shareholder in a company was entitled to 100% of the assets on winding up and another shareholder in the same company had entitlement to 100% of the assets in all other circumstances, they would both have a 100% entitlement to the assets as equity holders for the purposes of this test. Even though they both have a 100% interest in the company in terms of meeting the test, the disposal value is still based on the actual value of the interest disposed of.
+
+Where there are multiple classes of shares and certain classes may have preferential rights these should be taken into account in respect of the income rights in light of the accounting periods overlapping with the previous 2 years ending at the point of disposal.
+
+Where the chain of investment is through one or more partnerships, the entitlement amongst the partners should be apportioned on a just and reasonable basis. The partnership agreement may be relevant.

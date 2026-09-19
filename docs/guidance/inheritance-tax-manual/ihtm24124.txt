@@ -1,0 +1,32 @@
+Successions: Example of occupation by a company
+Identifier: IHTM24124
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24124
+Published: 2016-04-09T09:41:13+01:00
+Updated: 2021-02-15T09:42:12+00:00
+Retrieved (UTC): 2026-09-18T15:01:37.323930+00:00
+
+Under IHTA84/S119 (1) occupation (IHTM24070 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24070)) by a company controlled by the deceased/transferor is treated as occupation by the transferor for the purposes of s IHTA84/S117 and IHTA84/S118. Despite the omission of any reference to IHTA84/S120 in IHTA84/S119 (1), you should apply IHTA84/S119 (1) as if it deems the provisions of IHTA84/S120 (1)(a) to be satisfied.
+
+Example
+
+A inherited farmland on the death of T in 1998. The land was then farmed by XYZ Ltd, a private company.
+
+In 2000, A purchased a control shareholding in XYZ Ltd.
+
+In 2001, A settled the farmland on discretionary trusts. XYZ Ltd still farmed the land.
+
+The 2001 transfer into settlement was an immediately chargeable transfer. The effect of IHTA84/S117, IHTA84/S119 (1) and IHTA84/S120 (1)(a) is
+
+- A is deemed by IHTA84/S120 (1)(a) to have owned the land since T’s death, but
+
+- as T’s death was less than seven years before the transfer by A, A cannot satisfy the seven year ownership test in IHTA84/S117 (b),
+
+- nor does IHTA84/S120 (1)(a) by itself enable A to satisfy the two year occupation test in S117(a). Under S120(1)(a) a transferor who subsequently occupies the property is deemed to have occupied it from the date of the earlier death. But A did not occupy the farmland. The company did.
+
+- however, by virtue of IHTA84/S119 (1), A is treated as occupier from the date of purchase of the control shareholding in 2000
+
+- because A is subsequently treated as occupying the property at some point between the transfers, that deemed occupation of the farmland is backdated to T’s death by IHTA84/S120 (1)(a)
+
+- the land was occupied by XYZ Ltd for agricultural purposes throughout the period between T’s death and A’s transfer.
+
+Accordingly the two year occupation test in IHTA84/S117 (a) is treated as satisfied even though A’s deemed occupation, by virtue of IHTA84/S119 (1), began less than two years before the 2001 chargeable transfer.

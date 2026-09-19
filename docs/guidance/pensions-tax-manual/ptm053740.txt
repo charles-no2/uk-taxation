@@ -1,0 +1,202 @@
+Annual allowance: pension input amounts: adjustments to closing values: Scheme pays for tax year in which member becomes entitled to all benefits under the scheme
+Identifier: PTM053740
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053740
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-01T20:59:05+00:00
+Retrieved (UTC): 2026-09-18T14:50:47.074690+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Sections 232, 236 and 237B Finance Act 2004
+
+Certain events can cause the closing value of the member’s benefits in a pension input period to be bigger or smaller than they would otherwise be. In these circumstances an adjustment must be made to the amount of the closing value in the pension input period in which the event occurred.
+
+PTM053300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053300) (for defined benefits arrangements) and PTM053400 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400) (for cash balance arrangements) have more details about the adjustments that must be made to the closing value of a member’s benefits.
+
+One of the events that could cause the value of the member’s rights to be smaller than they would otherwise be is where a member’s benefit rights under a defined benefits arrangement or cash balance arrangement have been reduced because the scheme administrator has paid an amount of the member’s annual allowance charge for a tax year.
+
+PTM056300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm056300) onwards has more details about when a pension scheme pays an amount of a member’s annual allowance charge.
+
+Where the member’s benefits (pension and, if applicable, separate lump sum) have been reduced during a pension input period as a result of the scheme paying an amount of the member’s annual allowance charge, that reduction is added back to the member’s benefit rights at the end of the pension input period before working out the closing value.
+
+However, such an ‘add-back’ is not made in the following circumstances. The circumstances are where:
+
+- the reduction to the member’s entitlement to benefits under an arrangement in a pension scheme is in respect of a liability to the annual allowance charge that arose before 28 January 2015
+
+- the member’s benefit rights under an arrangement in a pension scheme are reduced in a pension input period
+
+- the reduction relates to an amount of annual allowance charge that the scheme administrator has been required to pay for a particular tax year - ‘tax year 1’
+
+- in tax year 1 the member became entitled to all benefits under the pension scheme in question, and
+
+- the member’s notice requiring the scheme administrator to pay the amount of annual allowance charge for tax year 1 was given to the scheme administrator before the member became entitled to all benefits under the pension scheme and, in either case, the notice was given before 28 January 2015.
+
+The following paragraph explains the position as it stood up to 27 July 2015. After that date a notice for more than one tax year might have to be given before the entitlement to all benefits.
+
+Normally a notice electing to require a scheme administrator to pay an amount of annual allowance charge for a tax year cannot be given to the scheme administrator before the end of that tax year. An exception to this rule is where the member is going to become entitled to all benefits under the scheme in the tax year for which the notice is to be given. Then the notice must be given before the member becomes entitled to all the benefits.
+
+PTM056420 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm056420) has more details about when members must give their notice to a scheme administrator if they decide to elect to require their scheme to pay all, or part, of their annual allowance charge for a tax year.
+
+The following paragraph is relevant only in relation to example 1 below, where that example has application.
+
+Note that if, in the same pension input period, a reduction is made for an amount of annual allowance charge relating to a tax year before tax year 1, only the reduction relating to the charge for tax year 1 is not added back. The reduction relating to the charge for the earlier tax year (or tax years) must be added back to the member’s benefit rights at the end of the pension input period before working out the closing value. Note a reduction in the same pension input period for an amount of annual allowance charge relating to a tax year after tax year 1 would not be possible. This is because a notice can only be given before the end of a tax year if it is for a charge in the tax year that the member takes all their benefits under the pension scheme. Otherwise, the member must wait until after the end of the tax year in question to give a notice for the following tax year, irrespective of whether the notice is given on the ‘mandatory’ or voluntary basis.
+
+The following examples show how different annual allowance charge liabilities can occur for the tax year in which all benefits are taken under the pension scheme depending on whether the member has elected to require the pension scheme to pay or the scheme pays on a voluntary basis. Note examples 1 and 4 have limited application.
+
+The data used for the examples is:
+
+- George is a member of a defined benefits pension scheme
+
+- this is George’s only pension saving
+
+- annual allowance charge liability is for the tax year 2012-13
+
+- the annual allowance for 2012-13 is £50,000.
+
+For the purpose of these examples the annual allowance charge will apply at a rate of 40% on the pension savings George has in excess of the annual allowance.
+
+The pension input period runs from 1 November 2011 to 31 October 2012.
+
+The member becomes entitled to all benefits under the scheme on 30 April 2012.
+
+CPI increase for the 12 months to September 2011 is 5.2%.
+
+George’s benefit rights under the pension scheme arrangement immediately before 1 November 2011 is a pension entitlement of £20,000 per annum and at the time of becoming entitled to all his benefits under the scheme George has a pension entitlement of £25,500 per annum.
+
+George has available unused annual allowance to carry forward from the previous three tax years of £2,000.
+
+Example 1 - member elects to require the scheme to pay the annual allowance charge and the trustees choose to put the reduction through before the member’s entitlement to pension is finalised instead of after finalising the entitlement
+
+Note - this example has application only in respect of an annual allowance charge liability that arose before 28 January 2015 and where the notice was given before that date. For an annual allowance charge liability occurring on or after 28 January 2015 example 2 below would apply equally for a case where the member has elected to require the scheme to pay the amount of annual allowance charge.
+
+George plans to retire on 30 April 2012 (which is before the end of the pension input period) and would become entitled to all benefits under the pension scheme, which would be a pension of £25,500 per annum (he does not plan to commute any of this for a lump sum).
+
+George decides that he will elect to require his pension scheme to pay his annual allowance charge liability for 2012-13. Based on his anticipated pension of £25,500 George estimates that his annual allowance charge for 2012/13 would be £7,744.
+
+Opening value is:
+
+[£20,000 x 16 = £320,000] x 1.052 = £336,640.
+
+Anticipated closing value is:
+
+£25,500 x 16 = £408,000.
+
+Anticipated pension input amount is:
+
+£71,360 (£408,000 - £336,640).
+
+George’s anticipated pension input amount is more than £50,000.
+
+After taking into account the annual allowance for 2012-13 and carrying forward his available unused annual allowance George anticipates that he has to pay an annual allowance charge on £19,360 (£71,360 - [£50,000 + £2,000]).
+
+Based on his expected income for the tax year George’s reasonable estimation of the amount of annual allowance charge that he will have to pay is £7,744 (£19,360 x 40%).
+
+Because George will become entitled to all of his benefits under the scheme on 30 April 2012 his notice must be received by the scheme administrator before that date.
+
+Before sending his notice, George discusses with the scheme administrator the implications of electing to require the scheme to pay. The scheme administrator tells George his benefits would be reduced to take account of the estimated amount of annual allowance charge that George will put in his notice. Also, the administrator tells George that if he gives the scheme notice to pay his annual allowance charge before he takes his benefits, scheme policy is that his pension benefits would be reduced to take account of the amount of annual allowance charge that the scheme administrator would be required to pay before he actually became entitled to all of his benefits on 30 April 2012.
+
+The notice George gives to the scheme administrator is for an estimated amount of £7,744 and the resulting pension reduction before George becomes entitled to all of his benefits under the pension scheme is £7,744/19 = £407 per annum. (The scheme administrator values George’s pension at £19 per £1 per annum so £407 = £7,744/19.)
+
+Before the end of the pension input period George retires and becomes entitled to all benefits under the pension scheme. George is granted a pension of £25,093 per annum (£25,500 less £407). (George does not commute any of his pension for a lump sum.)
+
+Without a closing value adjustment, the value of George’s benefit rights at the end of the pension input period would be nil (no uncrystallised benefit at the end of the pension input period). But because there has been a BCE 2 there is a closing adjustment that takes the BCE 2 into account. However, there is no further adjustment to include the reduction to George’s pension as a result of the scheme administrator paying George’s estimated annual allowance charge for 2012-13.
+
+At the end of the pension input period the closing value is:
+
+[£25,500 - £407] x 16 = £401,488.
+
+George’s pension input amount is £64,848 (£401,488 - £336,640).
+
+After taking into account the annual allowance for 2012/13 and carrying forward his available unused annual allowance George has to pay an annual allowance charge on £12,848 (£64,848 - [£50,000 + £2,000]).
+
+At the close of 2012/13 George is able to establish that his actual annual allowance charge for 2012/13 is £5,139 (£12,848 x 40%).
+
+George gives an amended notice to the scheme administrator for the actual amount of annual allowance charge for 2012-13 of £5,139. The rate of George’s ongoing pension is increased to reflect the amount of annual allowance charge in the amended notice.
+
+Note that the calculations in this example apply when, and to the extent that, a reduction is made by the scheme administrator before the date of the individual becoming entitled to all benefits under the pension scheme during the pension input period. If an upward adjustment is made to the pension after the end of the pension input period (in this example the pension input period does not end until 31 October 2012), for example because of more information emerging about the annual allowance charge, this does not change the annual allowance charge because the adjustment occurs after the last pension input period for the individual under the arrangement is closed. (An upward adjustment might arise because the annual allowance charge paid by the scheme administrator turns out to be above the individual’s actual charge for the tax year. This might happen because of new, or corrected, data emerging, so that the adjusted pension put in place was too low resulting in the scheme administrator claiming a refund and making the consequential upward adjustment.)
+
+(Correspondingly if a downward adjustment is made to the pension following the initial reduction, after the end of the pension input period, for example because the individual finds that the annual allowance charge was higher and gives an amended notice for an additional amount of annual allowance charge, this does not change the annual allowance charge for the tax year because the adjustment occurs after the last pension input period for the individual under the arrangement is closed. However, note that reducing the pension after it has come into payment may result in an unauthorised payment where the reduction occurs before 6 April 2013. From 6 April 2013 the specific circumstances in which a scheme pension in payment can be reduced have been extended to include a reduction as a consequence of the scheme administrator paying an amount of the member’s annual allowance charge - see PTM056450 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm056450)).
+
+The scheme administrator might not apply a reduction for the charge before the benefit rights become crystallised as pension. It might be that the unreduced pension is put into payment as an entitlement and the reduction for the annual allowance charge for the tax year is put through later (because of scheme processes or policy). In such circumstances the annual allowance charge would then reflect the amount based on the unreduced pension (in this example the charge would be based on the unreduced pension of £25,500 per annum that would result in a charge of £7,744). Note - reducing a scheme pension after it has come into payment (or indeed after it has become an entitlement) may result in an unauthorised payment (see PTM056450 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm056450)) and if so, also has potential implications for the any pension commencement lump sum that might be drawn.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053740#Top)
+
+Example 2 - scheme pays the annual allowance charge on a voluntary basis
+
+Instead of being under one pension scheme, George’s pension savings are split equally between two pension schemes - ‘Scheme 1’ and ‘Scheme 2’.
+
+The pension input period runs from 1 November 2011 to 31 October 2012 in both schemes and George becomes entitled to all benefits under both schemes on 30 April 2012.
+
+Though George estimates that his annual allowance charge for 2012-13 will be £7,744 based on his total pension input amount across both schemes he cannot elect to require either of his pension schemes to pay an amount of his liability.
+
+However, Scheme 2 voluntarily agrees to pay all of George’s annual allowance liability. As George will be asking the scheme to pay an amount of annual allowance for a tax year in which he will become entitled to all benefits under the scheme, Scheme 2 follows the same basis for ‘mandatory’ scheme pays and requires George to give his notice for voluntary scheme pays before he becomes entitled to all of his benefits under the scheme.
+
+Scheme 1
+
+The opening value for Scheme 1 is:
+
+[£10,000 x 16 = £160,000] x 1.052 = £168,320.
+
+Before the end of the pension input period for Scheme 1 George retires and becomes entitled to all benefits under the pension scheme. George is granted a pension of £12,750 per annum (he does not commute any of this for a lump sum).
+
+Without the closing value adjustment George’s closing value under Scheme 1 would be nil (no uncrystallised benefit). But because there has been a BCE 2 there is a closing adjustment. The closing value is therefore calculated as:
+
+closing value is:
+
+£12,750 x 16 = £204,000.
+
+Pension input amount for Scheme 1 is £35,680 (£204,000 - £168,320).
+
+Scheme 2
+
+The opening value for Scheme 2 is:
+
+[£10,000 x 16 = £160,000] x 1.052 = £168,320.
+
+Before the end of the pension input period for Scheme 2 George plans to retire and would become entitled to all benefits under the pension scheme, which would be a pension of £12,750 per annum (he does not plan to commute any of this for a lump sum).
+
+George discusses with the scheme administrator the implications of Scheme 2 voluntarily paying all of his estimated annual allowance charge liability of £7,744. The administrator tells George that his pension would be reduced to take account of the estimated amount of annual allowance charge that George asked the scheme to pay and that the adjustment would be made before he became entitled to his anticipated pension of £12,750.
+
+George asks the scheme administrator to pay an amount of £7,744 and the resulting pension reduction before George becomes entitled to all of his benefits under the pension scheme is £7,744/19 = £407 per annum. (The scheme administrator values George’s pension at £19 per £1 per annum so £407 = £7,744/19.).
+
+Before the end of the pension input period for Scheme 2 George retires and becomes entitled to all benefits under the pension scheme. George is granted a pension of £12,343 per annum (£12,750 less £407). (George does not commute any of his pension for a lump sum.)
+
+Without a closing value adjustment, the value of George’s benefit rights at the end of the pension input period would be nil (no uncrystallised benefit at the end of the pension input period). But because there has been a BCE 2 there is a closing adjustment that takes the BCE 2 into account.
+
+However, a further adjustment applies here (that is not triggered under example 1). There is also a closing value adjustment for the amount of pension that George gave up as a result of Scheme 2 paying his annual allowance charge on a voluntary basis (because this counts as a ‘surrender, allocation or similar action’ option available to the member under provisions in George’s pension arrangement (as opposed to available because of a statutory requirement) to reduce the annual rate of pension that George would otherwise have been entitled to under that arrangement).
+
+The circumstances in which Scheme 2 has paid George’s annual allowance charge are similar to those in example 1 because Scheme 2 has paid an amount of George’s annual allowance charge liability for the tax year in which George became entitled to all benefits under Scheme 2 and George asked the scheme to pay before he became entitled to his benefits. However, the requirement in example 1 that the reduction in George’s benefits to take account of the annual allowance charge is not added back to the closing value of his benefits at the end of the pension input period does not apply for voluntary scheme payments.
+
+The closing value is therefore calculated as:
+
+[£12,343 (BCE 2 amount) + £407 (scheme pays adjustment)] x 16 = £204,000.
+
+Pension input amount for Scheme 2 is £35,680 (£204,000 - £168,320).
+
+George’s total pension input amount is £71,360 (£35,680 + £35,680).
+
+George’s total pension input amount is more than £50,000.
+
+After taking into account the annual allowance for 2012-13 and carrying forward his available unused annual allowance George has to pay an annual allowance charge on £19,360 (£71,360 - [£50,000 + £2,000]).
+
+George’s annual allowance charge is £7,744 (£19,360 x 40%), which Scheme 2 has paid on a voluntary basis.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053740#Top)
+
+Example 3 - as example 1 or example 2 except that the member decides to commute some pension for a lump sum
+
+In the above examples George decided not to commute any pension for a lump sum even though this was an option under the scheme rules. Had George drawn a pension commencement lump sum, this would have made no difference to the amount of annual allowance charge due. When benefits are drawn the commutation for the lump sum is ‘unwound’ (PTM053700 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053700) has more details).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053740#Top)
+
+Example 4 - as example 1 or example 2 except that the member becomes entitled to all benefits in 2011/12 but during the pension input period ending in 2012/13
+
+Note - the information in this example about giving a notice explains the position as it stood up to 27 July 2015. Also this example cross refers to example 1, which also has limited application.
+
+The pension input period in example 1 began on 1 November 2011 and ended on 31 October 2012 - that is, the pension input period ended in the tax year 2012-13. As such, the annual allowance charge for 2012/13 relating to that pension input period cannot be known for certain until 5 April 2013. Because George is drawing all of his benefits in this same tax year (that is, on 30 April 2012) he must give his notice electing the scheme to pay his annual allowance charge for tax year 2012-13 before he becomes entitled to all his benefits. This means that George can give only a reasonable estimate of the annual allowance charge that will be due for 2012-13, as identified in example 1.
+
+However, if George drew all benefits on 31 March 2012 (so during the 2011-12 tax year albeit in a pension input period that will end in 2012-13) the requirement in example 1 that the reduction in the member’s benefits to take account of the annual allowance charge is not added back to the closing value of the benefit rights at the end of the pension input period would apply only in relation to an annual allowance charge relating to the pension input period ending in that same tax year, that is, the pension input period ending 31 October 2011. Any annual allowance charge for accrual of benefits for the period 1 November 2011 to 31 March 2012 would have to follow the 'normal' scheme pays rules.
+
+In these circumstances, any reduction for an annual allowance charge that is attributable to the period 1 November 2011 to 31 March 2012 could not be made until 6 April 2013, by which time the pension would have been in payment for over a year. As noted in example 1 above, if the reduction in a scheme pension in payment occurred before 6 April 2013 it would have resulted in unauthorised payment charges unless the circumstances set out in the tax legislation at that time, which did not then include a reduction to meet an annual allowance charge, applied. From 6 April 2013 the specific circumstances in which a scheme pension in payment can be reduced have been extended to include a reduction as a consequence of the scheme administrator paying an amount of the member’s annual allowance charge. (PTM062340 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062340) has more details about the circumstances in which a scheme pension may be reduced or stopped.)
+
+It would not be possible to make a reduction to the starting pension in relation to the charge arising for the period 1 November 2011 to 31 March 2012 under the voluntary scheme pays approach. Except where notices are for a tax year in which all benefits are taken under the pension scheme, a notice for a particular tax year cannot be given until the end of that tax year whether on a ‘mandatory’ or voluntary basis.

@@ -1,0 +1,30 @@
+Reliefs: Capital Gains Tax and Gifts: Exemptions and No Gain/No Loss: Calculation for Gifts to Charities
+Identifier: CG66621
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66621
+Published: 2016-03-12T12:05:27+00:00
+Updated: 2026-08-13T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:46:03.417951+00:00
+
+The rules for gifts and other bargains not made at arm’s length to charities and national heritage bodies are in TCGA92/S257. Ordinary commercial transactions are dealt with using the normal rules.
+
+If the disposal is a gift or for a consideration less than the amount allowable under TCGA92/S38 both the disposal and the acquisition are treated as taking place for an amount which gives neither a gain nor a loss to the donor.
+
+If the consideration for the disposal exceeds the amounts allowable under TCGA92/S38, you take into account the actual consideration which passed and not the market value.
+
+If the disposal was made before 6 April 2008 you should include any indexation allowance due if the donor owned the asset on 6 April 1998, see CG17200 (http://internal.active.hmrci/manual/capital-gains-manual/cg17200)+. See TCGA92/S55 (5)-(6) (CG46110) if the donor held the asset on 31 March 1982.
+
+An anti-avoidance provision is contained at TCGA92/S257A, with the effect that the no gain/no loss treatment prescribed by TCGA92/S257 is not available for ‘tainted donations’ as defined in ITA07/PT13/CH8 and CTA10/PT21C, or any ‘associated donations’ as defined by ITA07/S809ZM, CTA10/S939F. Broadly, these are donations where the donor’s main purpose was to secure a financial advantage from the charity, for themselves or someone connected to them. Detailed guidance is available at within on gov.uk.
+
+Examples
+
+In all the examples below, Jess disposes of shares to a charity in 2019. She acquired the shares for a consideration of £100,000 in 1999.
+
+- Jess gifts the shares at a time when they have a market value of £250,000. Jess is treated as having disposed of the shares for a consideration of £100,000 and the charity as acquiring them for £100,000.
+
+- Jess sells the shares for a consideration of £75,000 at a time when they have a market value of £250,000. The result is the same as 1 above: Jess is treated as having disposed of the shares for a consideration of £100,000 and the charity as acquiring them for £100,000. The actual consideration received by Jess does not matter, as it is less than her acquisition cost.
+
+- Jess sells the shares for a consideration of £150,000 at a time when they have a market value of £250,000. Jess is treated as having sold them for a consideration of £150,000 and the charity as acquiring them for £150,000. As a result, Jess has a chargeable gain of £50,000.
+
+- Jess gifts the shares at a time when they have a market value of £80,000. Jess is treated as having disposed of the shares for a consideration of £100,000 and the charity as acquiring them for £100,000. Jess does not make an allowable loss on this transaction.
+
+- Jess sells the shares for a consideration of £30,000 at a time when they have a market value of £80,000. The result is the same as 4 above: Jess is treated as having disposed of the shares for a consideration of £100,000 and the charity as acquiring them for £100,000. The actual consideration received by Jess does not matter, as it is less than her acquisition cost.

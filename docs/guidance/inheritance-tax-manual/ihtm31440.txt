@@ -1,0 +1,36 @@
+Assessing: calculations: lifetime events: chargeable PETs and additional charges
+Identifier: IHTM31440
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31440
+Published: 2016-04-09T10:04:43+01:00
+Updated: 2016-02-11T17:19:06+00:00
+Retrieved (UTC): 2026-09-18T15:06:08.879603+00:00
+
+Once you have worked out the chargeable value of a failed potentially exempt transfer (PET) (IHTM14512 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14512)) or additional charge (IHTM14571 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14571)),
+
+- add the previous lifetime cumulative transfers (PLCT) (IHTM14502 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14502)).
+
+Then
+
+- deduct the IHT nil-rate band, and multiply the remainder by the appropriate rate of tax (40% unless the transfer is before 18 March 1988 (IHTM30171 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30171))).
+
+Apportion and deduct any tax attributable to previous lifetime transfers, leaving the tax due on the transfer itself.
+
+Taper relief
+
+Deduct any taper relief (IHTM14611 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14611)) due. COMPASS (IHTM31101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31101)) will calculate this automatically, but you must amend a manual calculation template yourself.
+
+Adjusting additional charges
+
+If you are calculating additional charges on an immediately chargeable transfer, deduct the tax paid (IHTM14576 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14576)) on the transfer at the time it was made. Show this as a 'relief against tax' in the appropriate box on your COMPASS (IHTM31189 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31189)) or manual template calculation.
+
+Next action
+
+You will now have the total tax charge for this lifetime transfer. You can follow the death estate instructions for the further aspects to consider.
+
+- Revision to the original tax charge (IHTM31416 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31416))
+
+- IOP cases (IHTM31418 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31418))
+
+- Tax previously paid (IHTM31419 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31419)) (relating to this chargeable occasion only)
+
+- Interest (IHTM31420 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31420))

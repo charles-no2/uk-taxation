@@ -1,0 +1,26 @@
+Qualifying corporate bonds: definition - normal commercial loan
+Identifier: CG53705
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53705
+Published: 2016-03-12T11:33:03+00:00
+Updated: 2026-09-14T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:43:00.868992+00:00
+
+TCGA 1992 section 117(1) requires that the debt does at all times represent a normal commercial loan. The definition of a normal commercial loan is taken from CTA 2010 section 162. Section 117 directs that within section 162(2)(a)-(c) you substitute the words ‘corporate bonds within the meaning of section 117 TCGA 1992’. In effect section 162(2) would read as follows for the purposes of section 117;
+
+‘Condition A is that the loan does not carry any right to conversion into shares or securities other than a right to conversion into corporate bonds within the meaning of section 117 of TCGA 1992.’
+
+CTM81010 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm81010) provides guidance on what is meant by ‘normal commercial loan’ but in considering the matter the decision in Weston v Garnett, 77TC650, should be borne in mind.
+
+In that case the taxpayer held loan notes (the first loan notes) which provided a right to convert them into another series of loan notes (the second loan notes). The second loan notes were convertible into shares. The Court of Appeal held that in determining whether the first loan notes represented at all times a normal commercial loan a distinction had to be drawn between the loan notes (the security) and the underlying debt. The legislation requires that it is the debt that has to represent a normal commercial loan and not the security. The conversion contemplated by section 162(2) CTA 2010 (as modified) would be a conversion of the underlying debt, not the security. In the Weston case the conversion of the first loan notes into the second loan notes did not change the terms of the underlying debt, so that debt was not a normal commercial loan because it carried rights to conversion into shares (which would not be corporate bonds) albeit that the rights came with the second loan notes rather than the first. Consequently the first loan notes did not meet the test in what is now section 162.
+
+The Court of Appeal also held that whilst section 117 borrowed a modified meaning of ‘normal commercial loan’, the context in which the meaning was originally set, ie. Chapter 5 of CTA 2010 did not apply when considering the matter within section 117.
+
+In determining whether a loan comes within section 162 it is important to remember that the underlying debt must have represented a commercial loan at all times.
+
+Example
+
+In 2010 a company issues securities that meet all of the criteria in section 117 except that the securities can be converted into shares of the quoted parent company. Consequently at that time the underlying debt cannot be a ‘normal commercial loan’ within the meaning of section 162 CTA and so the securities cannot meet the conditions within section 117 to be treated as qualifying corporate bonds (QCBs). In 2011 the quoted parent company is placed in liquidation and so the choice to convert is lost. Shortly thereafter the securities are redeemed at which time all of the conditions in section 117 would appear to be met. Nevertheless there was a time when the debt could have been converted. In other words the loan has not been a commercial loan at all times and so the securities are not QCBs at the time of redemption.
+
+Bail-in provisions
+
+Some instruments issued by financial institutions contain “bail-in” provisions in case of intervention by a regulator. The approach set out in CFM37870 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm37870) applies when considering whether such instruments are “normal commercial loans”.

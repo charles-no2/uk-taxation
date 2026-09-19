@@ -1,0 +1,48 @@
+Outward domestication: disposals that do not cause recovery of the deferred charge
+Identifier: CG45680
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45680
+Published: 2016-03-12T11:08:00+00:00
+Updated: 2018-04-17T12:34:10+01:00
+Retrieved (UTC): 2026-09-18T14:41:04.543399+00:00
+
+TCGA92/S140 (6) and (6A)
+
+Chargeable gains that are deferred on an outward domestication (CG45660) are brought back into charge on the occasion of certain disposals (CG45670). However, the gains are not brought back into charge if the disposal is deemed to be at no gain/no loss or in cases to which the European Tax Merger Directive (ETMD) applies.
+
+Disposal of shares or loan stock
+
+1. Deemed no disposal . Where the shares in the transferee company are exchanged for shares in another company such that the share reorganisation rule in TCGA92/S127 applies then there will be no disposal for chargeable gains purposes and the gains will instead be brought back into charge when the shares acquired in the exchange are disposed of. However, where the Substantial Shareholding Exemption applies this will take prioity over the reorganisation rules. For disposals on or after 22 November 2017 TCGA92/S140(4B) provides that the application of the Substantial Exemption is to be ignored in determining whether there is a shares disposal for this purpose.
+
+Example
+
+Company M carries on a trade abroad through a permanent establishment in Syldavia. M has an existing subsidiary N in the nearby state of Borduria. M incorporates a new subsidiary, P, which is resident in the Syldavia.
+
+M transfers the whole of the assets of the permanent establishment to P. P issues shares to M as consideration.
+
+M later decides to centralise its overseas structure to be based in Borduria and therefore transfers the P shares to N. N issues shares to M in consideration.
+
+This is a share exchange treated as a reorganisation so M is not treated as making a disposal of the P shares.
+
+M subsequently sells all the N shares to a third party. Because these are treated as the same asset as the P shares, the deferred gain will now accrue.
+
+If P were a trading company so that the SSE, rather than the share reorganisation rules, applies to the exchange, then the gain will continue to be deferred only if the exchange happened on or after 22 November 2017.
+
+2. No gain/no loss disposal . TCGA92/S140 (6) provides that there is no charge on the transferor company if the transferor company disposes of shares or loan stock in the transferee company at no gain/no loss under TCGA92/S171, see CG45300+. Any such no gain/no loss disposal (or any unbroken sequence of no gain/no loss disposals) is left out of account for the purposes of TCGA92/S140 (4). In these circumstances the deferred charge crystallises on the first subsequent disposal of shares or loan stock which is not at no gain/no loss under TCGA92/S171. This first subsequent disposal is treated as a disposal by the original transferor of the permanent establishment assets. The result is that for disposals before 6 January 2010 the consideration for the first subsequent disposal is increased by the appropriate proportion of the deferred gain, as determined by TCGA92/S140 (4). For disposals made on or after 6 January 2010 a chargeable gain equal to the appropriate proportion of the deferred gain is treated as accruing to the transferee in addition to any gain or loss on the shares or securities that actually accrues.
+
+Example
+
+Company A carries on a trade abroad through a permanent establishment. A also has a UK resident subsidiary, B. A incorporates a new subsidiary, Z, which is not resident in the UK.
+
+A transfers the whole of the assets of the permanent establishment to Z. Z issues shares to A as consideration. (The deferred gain on the transfer is £2m. A’s acquisition cost of the shares issued by Z is £3m, reflecting the total value of the assets transferred to Z).
+
+A later transfers the shares in Z to B at no gain/no loss under the provisions of Section 171(1).
+
+B subsequently sells the Z shares to an unconnected third party for £4m. If the disposal by B takes place before 6 January 2010 the consideration on the disposal is increased by £2m and, ignoring indexation allowance, a chargeable gain of £3m accrues to B. If the disposal by B takes place on or after 6 January 2010 two chargeable gains will accrue to B; the deferred gain of £2m and the actual gain on the shares of £1m.
+
+Disposal of assets
+
+CGA92/S140 (6) further provides that there is no immediate charge on the transferor company if the non-UK resident transferee company disposes of assets to another company in the same worldwide group, and the no gain/no loss rule would apply to that disposal. In these circumstances a later disposal of the assets outside the worldwide group is treated as a disposal by the company to which the branch assets were originally transferred. The result is that on a disposal outside the worldwide group the appropriate proportion of the deferred gain, determined in accordance with TCGA92/S140 (5), accrues to the original transferor of the branch assets.
+
+European Tax Merger Directive
+
+The circumstances in which a deferred gain is brought back into charge were modified with effect from 1 January 2007 to ensure compliance with the European Tax Merger Directive, see CG45734.

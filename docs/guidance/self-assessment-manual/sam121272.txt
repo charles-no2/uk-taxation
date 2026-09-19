@@ -1,0 +1,44 @@
+Returns: individuals returns: bankruptcy cases:  appropriate amount of pre-relevant date liability
+Identifier: SAM121272
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam121272
+Published: 2016-04-08T17:20:11+01:00
+Updated: 2016-02-23T14:56:13+00:00
+Retrieved (UTC): 2026-09-18T16:20:29.393247+00:00
+
+To calculate the appropriate amount of the pre Relevant Date liability when computing payments on account in a bankruptcy case, you should
+
+- Use function CREATE RETURN CHARGE to view the pre Relevant Date liability
+
+- Make a note of the figure shown in the Income tax due after reliefs field
+
+-
+
+Add to that figure any amount shown in the following fields
+
+- Recoverable tax on charges
+
+- Class 4 National Insurance
+
+- Underpaid tax for earlier years included in PAYE code
+
+- CODA Partnership Tax due
+
+- CODA Partnership NIC due
+
+-
+
+Deduct from that figure any amount shown in the following fields
+
+- Tax deducted at source
+
+- Tax due included in later PAYE code
+
+Notes:
+
+-
+
+Amounts shown in any other fields on the screen can be ignored as they do not form part of the payments on account for next year.
+
+-
+
+The amount may be negative.

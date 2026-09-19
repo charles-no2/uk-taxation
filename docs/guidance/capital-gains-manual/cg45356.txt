@@ -1,0 +1,82 @@
+CG groups: transfers by election, current legislation (gains and losses accruing on or after 21 July 2009)
+Identifier: CG45356
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45356
+Published: 2016-03-12T11:06:39+00:00
+Updated: 2016-07-05T08:58:34+01:00
+Retrieved (UTC): 2026-09-18T14:40:53.919971+00:00
+
+The legislation is set out in three sections: TCGA1992/S171A sets out the conditions and procedure for making an election, TCGA1992/S171B states the consequences of making an election and TCGA1992/S171C is a modification in the case of insurance companies.
+
+Election conditions: TCGA92/S171A (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45356#IDAGVSGF)
+Election requirements: TCGA1992/S171A (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45356#IDAEBRMD)
+Effect of election: TCGA1992/S171B (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45356#IDAUBRMD)
+Insurance companies: TCGA1992/S171C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45356#IDAECRMD)
+Oil production companies (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45356#IDAMCRMD)
+
+Election conditions: TCGA92/S171A
+
+Two companies, A and B, that are members of a group can make an election if -
+
+- a chargeable gain or allowable loss in respect of an asset accrues to A,
+
+- B is a member of the same group at the time the gain or loss accrues to A, and
+
+- a transfer of the asset from A to B immediately before that time would have been at no gain/no loss by virtue of TCGA1992/S171(1).
+
+Where B is a non-resident company, it is assumed that it would be chargeable to corporation tax on a disposal of the asset for the purposes of the last condition, TCGA1992/S171A (2). In such circumstances the gain or loss will accrue in respect of B’s activities that are chargeable to corporation tax (see TCGA1992/S171B (4), discussed below).
+
+Before the passing of Finance Act 2011 on 19 July 2011 no election under this section could be made in respect of a degrouping charge. Until then TCGA1992/S179A provided a very similar procedure but deals with the special rules that determined when degrouping gains and losses accrue. See CG45455.
+
+The requirement that a gain or loss accrues “in respect of an asset” means that the vast majority of gains and losses can be transferred by election. There is no requirement for there to be any actual disposal of an asset to any person so most gains and losses that were not within the original rule are now accommodated, these include chargeable gains and allowable losses which may accrue when -
+
+- A loss arises following a negligible value claims, see CG13120 onwards.
+
+- A capital sum is derived from an asset. For example: an insurance receipt.
+
+- There is a disposal to a non-resident member of the same group.
+
+- A capital distribution is received from a group company.
+
+However an election will not be possible in the unusual instance in which the gain or loss does not accrue in respect of an asset; such as gains that arise on foreign exchange movements on loans taken out. Note that most exchange gains and losses are brought into charge as an adjustment to the gain or loss on the underlying asset for asset disposals on or after 6 April 2010. [The Exchange Gains and Losses (Bringing into Account Gains or Losses) (Amendment) Regulations 2010, SI 809/2010]. ]. Where exchange gains and losses are not brought into account in this way, an election will not be possible if the gain or loss arises on a liability. HMRC does not accept that such gains or losses can be said to arise in respect of the hedged asset.
+
+The condition that a transfer of the asset from A to B immediately before the time the gain or loss accrues would have been within TCGA1992/S171(1) is necessary to ensure that a gain cannot be transferred to a group member by election where a transfer of the asset in respect of which the gain accrued would not be within the scope of the normal “no gain/no loss” treatment because of the exceptions set out in TCGA1992/S171(2).
+
+Where one or more elections are made that together specify more than the gain or loss then -
+
+- Where an election (or elections) has already been made and the situation is caused by a later election, then that later election shall have no effect.
+
+- Where the situation is caused by a single election or two or more elections received together, then none of those elections shall have effect.
+
+See CG45357 for guidance on what you should regard as specifying more than the amount of the gain or loss.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45356#Top)
+
+Election requirements: TCGA1992/S171A
+
+The election can be made at any time up to two years after the end of A’s accounting period in which the gain or loss accrued, TCGA1992/S171A(5).
+
+The election can specify the transfer of the whole of a gain or loss or a specified part of one, TCGA1992/S171A(4).
+
+See CG45357 for guidance on the election procedure and common areas of difficulty.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45356#Top)
+
+Effect of election: TCGA1992/S171B
+
+The effect of the election is that the gain or loss that accrued to A instead accrues to B at the time it would otherwise have accrued to A, TCGA1992/S171B(2)&(3). Where B is non-resident the gain or loss will be in respect of its activities that are chargeable to corporation tax, TCGA1992/S171B(4).
+
+Note that because it is a condition that the gain or loss first accrues in A then the chargeable gain or allowable loss is computed in the normal way according to the circumstances of A. This includes applying any exemption, relief or adjustment that may be applied in calculating an individual gain or loss. When a chargeable gain is transferred to B by election then the deductions that are available against the total of B’s gains for the accounting period may be used; most notably allowable losses.
+
+Any payment that passes between A and B in connection with an election is not taken into account in computing the profits or losses of either company for corporation tax purposes, TCGA1992/S171B(6).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45356#Top)
+
+Insurance companies: TCGA1992/S171C
+
+The election provision is adapted where B is an insurance company that carries on long term business. The effect is to prevent a company making an election in respect of gains or losses accruing on the disposal of assets of the long term insurance fund (LTIF). Where an election has the effect of deeming losses or gains on assets to arise in a life insurance company the gains or losses are deemed to have arisen on shareholder assets and not on assets of the LTIF.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45356#Top)
+
+Oil production companies
+
+The operation of TCGA92/S171A is restricted where a gain or loss would otherwise be transferred across the “ring fence” for the purposes of the Corporation Tax supplementary charge payable by oil production companies. See OT21202.

@@ -1,0 +1,22 @@
+Proportionate charges: loss to the settlement basis  of valuation
+Identifier: IHTM42119
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42119
+Published: 2016-04-09T10:24:15+01:00
+Updated: 2020-12-10T12:17:54+00:00
+Retrieved (UTC): 2026-09-18T15:09:30.767327+00:00
+
+The value taxable on an IHTA84/S65 proportionate charge is
+
+- the amount by which the value of relevant property comprised in the trust is less immediately after the event in question than it would be but for the disposition (IHTM04097 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04097))
+
+- grossed up where the tax is not being paid out of the assets ceasing to be relevant property.
+
+The ‘loss’ basis is a reflection of the ‘loss to transferor’ principle in lifetime transfers. This has led to the S65(2)(a) basis being described as a ‘loss to settlement’ or ‘loss to trust’. That description is correct where the whole fund is held on discretionary trusts of relevant property, but you must be careful not to include any non-relevant or related funds.
+
+Example
+
+A settlement holds 100 shares (100% control) in the Acme Investment Company Ltd. The trusts are two-thirds qualifying interest in possession, and one-third discretionary.
+
+The only relevant property in the settlement is the one-third share held on discretionary trusts. On distribution of the one-third discretionary share, the loss to the relevant property is only a 33.33% shareholding valued in isolation.
+
+Do not include non-relevant property in the ‘before’ and ‘after’ considerations. If the loss to settlement basis is used incorrectly, the absolute control holding of 100% would be valued ‘before’, and a 66.66% shareholding valued ‘after’ to quantify the loss. That valuation would produce a higher chargeable value, but part of the loss is attributable to non-relevant property and is not correct.

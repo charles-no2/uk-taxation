@@ -1,0 +1,30 @@
+Capital loss streaming from 19 July 2011: group takeovers
+Identifier: CG47420
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47420
+Published: 2016-03-12T11:15:35+00:00
+Updated: 2016-01-25T17:09:35+00:00
+Retrieved (UTC): 2026-09-18T14:42:02.117594+00:00
+
+TCGA92/SCH7A/PARA1 (6) & (7)
+
+There is a special rule for the situation where one group takes over another group.
+
+The general rule in TCGA92/S170 (10) is that if the principal company of one group becomes a member of another group, the two groups are regarded as the same, see CG45199. In the absence of a special rule then this would mean the losses would not be restricted where a company joins a new group on the takeover of a principal company.
+
+TCGA92/SCH7A/PARA1(6) ensures that where the principal company of one group becomes a member of another group, then the members of the first group are treated as joining a new group for the purposes of the schedule and therefore any accrued losses will be restricted.
+
+There is an exception to this special rule in TCGA92/SCH7A/PARA1(7). Losses will not be restricted where all that happens is that a new, “clean” principal company is placed at the head of an existing group. That is, the new principal company has the same shareholders as the former one, the new principal company was not previously a member of a group and, immediately after the change, the new principal company’s assets consist entirely or almost entirely of the issued share capital of the former principal company.
+
+Example 1:
+
+D is the principal company of a group which includes E that was acquired in June 2009 and F that was acquired in April 2010. E accrued an allowable loss in January 2011. In September 2011 the share capital of D is acquired by N, a member of a group with principal company M.
+
+The normal operation of TCGA92/S170(10) means that the members of the D group, including E, are regarded as having joined the M group at the time they joined the D group. E is treated as joining the M group in June 2009. However, for the purposes of TCGA92/SCH7A, it is treated as joining when it actually did, therefore the losses are restricted from September 2011.
+
+Example 2:
+
+Continuing from the above example, F accrued an allowable loss in January 2012. In preparation for a stock market listing, the shareholders of M acquired a newly incorporated company, L, and then exchanged their shares in M for newly issued shares in L.
+
+Here all that has happened is that a new top company has been put in place over an existing group. The normal operation of TCGA92/S170(10) will not be modified for the purposes of the schedule. F is treated as having joined the L group at the time it joined the M group. This, because of the previous application of TCGA92/S179(10), is when it actually joined the D group in April 2010. Therefore the losses of F are not restricted.
+
+Note: Additional rules relating to loss buying were enacted in FA 2006. See CG47020+ for guidance on the rules which apply in priority to TCGA92/SCH7A for accounting periods ending on or after 5 December 2005.

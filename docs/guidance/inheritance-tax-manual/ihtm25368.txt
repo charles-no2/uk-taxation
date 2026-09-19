@@ -1,0 +1,30 @@
+Lifetime transfers - additional conditions: Failure to satisfy the conditions
+Identifier: IHTM25368
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25368
+Published: 2016-04-09T09:46:28+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:42.946024+00:00
+
+If the conditions (IHTM25363 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25363)) are only satisfied in relation to a part of the gifted asset, you should reduce a proportionate part of the value transferred, IHTA84/S113A (5).
+
+Example
+
+Arthur made a potentially exempt transfer (PET) (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)) of unquoted shares in favour of Brenda. The value transferred (IHTM04028 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04028)) before relief is agreed at £200,000 on a loss to the estate basis. Before Arthur’s death Brenda sells one-half of the holding for £40,000. Business relief is available on £100,000.
+
+Where the conditions are not satisfied at all, the consequences depend on whether the transfer is a failed PET or an immediately chargeable transfer (IHTM04067 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04067)).
+
+When the transfer is a failed PET and the conditions are not satisfied, the effect of IHTA84/S113A (1) is that in working out the tax payable on the transfer and establishing the transferor’s cumulative total, the value transferred by the PET is ascertained on the basis of no business relief.
+
+When the transfer is immediately chargeable and the conditions are not satisfied, the effect of IHTA84/S113A (2) is that the additional tax chargeable by reason of the transferor’s death is calculated on the basis of no business relief. Consequently,
+
+-
+
+the additional tax payable on death is the difference between the tax at death rates (after taper relief (IHTM14517 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14517)), if due) on the unreduced value and the tax paid at lifetime rates on the reduced value, but
+
+-
+
+the cumulative total established at the time the transfer was made is not affected - it remains as it was, after deduction of relief
+
+-
+
+and, for transfers on or after 6 April 2026, the transferor’s 100% relief allowance is (re)calculated with the chargeable transfer ignored (IHTM25500 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25500)).

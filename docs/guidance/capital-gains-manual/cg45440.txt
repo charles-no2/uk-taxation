@@ -1,0 +1,56 @@
+The degrouping charge: companies leaving groups before 19 July 2011, applying the "associated companies" requirement
+Identifier: CG45440
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45440
+Published: 2016-10-17T14:49:17+01:00
+Updated: 2016-10-17T14:49:08+01:00
+Retrieved (UTC): 2026-09-18T14:40:58.648454+00:00
+
+Example (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45440#)
+
+This guidance sets out HMRC’s view of the operation of the version of the exception that applied to disposals before 19 July 2011.
+
+For this exception to the degrouping charge to apply in respect of any particular asset that has been transferred within a group, the transferor and transferee companies must be “associated companies” -
+
+- at the time of the asset transfer referred to in TCGA92/S179(1). This was confirmed by the Court of Appeal in Johnston Publishing (North) Ltd v HMRC [2008 EWCA civ 858]
+
+- at the time they leave the group; this includes the requirement to be associated immediately after they cease to be members of a group. This was confirmed by the Court of Appeal in Dunlop International AG v Pardoe (HMIT) [1999 EWCA civ 2043, 72TC71]
+
+- throughout the period between the above times, see final paragraph below.
+
+The question arises as to exactly which companies need to be considered when determining whether a transferor and a transferee company are associated. Clearly the sub-group of companies that existed at the time an asset transfer took place may have changed by the time that sub-group is sold out of the group. Therefore, does it matter whether companies that were not party to the asset transfer have left or become part of the sub-group by the time the sub-group is sold out of the group?
+
+In determining what may constitute “2 or more companies (that) by themselves form a group of companies” it is necessary to refer back to the basic definition of a capital gains group at Section 170 TCGA. It is also important to bear in mind that the question of whether companies are associated arises in respect of each potential degrouping charge and that regard must be had to the use of the words “by themselves”. Therefore, in this context, we consider that the “sub-group” in point would comprise the minimum number of companies necessary to establish the required group relationship that includes the transferor and transferee companies.
+
+Thus, if transferor A and transferee B can only be considered to form a group by reference to some other company C at the time of the transfer then A, B and C must also form a group at the time they leave. That is the “sub-group” to be considered.
+
+This situation will arise, for example, where A and B are sibling subsidiaries of C.
+
+The question asked above was: does it matter whether companies that were not party to the asset transfer have left or become part of the sub-group? The answer, in our view, is that the use of the words “by themselves” in Section 179(10) means that the presence, or absence, of any company(ies) other than A, B and such other companies that are required to identify a group relationship between A and B do not prevent S179(2) applying.
+
+Example
+
+- P is the principal company of a capital gains group. Q is one of its 100% subsidiaries.
+
+- Q has a 100% subsidiary R which in turn has two 100% subsidiaries A and B.
+
+- A also has an 80% subsidiary S.
+
+- A transfers an asset to B; Section 171 means no gain or loss arises.
+
+- Later, R is liquidated and its shareholdings passed up to Q.
+
+- S is then transferred elsewhere in the group.
+
+- B then acquires a new 100% subsidiary, T.
+
+If P sells Q, along with its subsidiaries at the time, to a third party then we would consider that there will be no degrouping charge in respect of the asset transferred from A to B. This is because Q, A and B formed a group of companies by themselves when the asset transfer took place (A and B were both 100% indirect subsidiaries of Q) and at the time when Q left the main group (A and B were both 100% direct subsidiaries of Q).
+
+Group at time of asset transfer
+
+Use this link to see diagram of group at the time of asset transfer (http://www.hmrc.gov.uk/gds/cg/images/45440a.GIF)
+
+Companies that left the group
+
+Use this link to see diagram of companies that left group (http://www.hmrc.gov.uk/gds/cg/images/cg45440b.gif)
+
+Section 170(2) defines a group by reference to a principal company and its 75% subsidiaries and Section 170(10) provides that a group remains the same while the principal company remains the same. Applying these to the provision at Section 179(10), we would expect the sub-group to remain defined by reference to the same company from the time of the asset transfer to the time the companies leave the group.

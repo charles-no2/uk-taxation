@@ -1,0 +1,46 @@
+NRCG and the exemptions: Disposals from 6 April 2019: Indirect disposals: Linked disposals and assessing UK property richness
+Identifier: CG73942
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73942
+Published: 2020-02-05T14:57:43+00:00
+Updated: 2020-02-11T09:13:11+00:00
+Retrieved (UTC): 2026-09-18T14:46:51.325942+00:00
+
+TCGA92/Sch1A Para 6
+
+In some circumstances two or more companies will be disposed of as part of a single arrangement, and taking all of the companies into account the disposals are not representative of a UK property rich asset (see CG73934 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73934)).
+
+If the arrangement is one where the disposal is of a single company that holds subsidiaries, then the basic rules for testing UK property richness will ensure that the disposal is not taxable under these rules. If, however, the arrangement is executed –in capital gains terms- by two or more separate disposals of companies, then outside of the rules covered in this page (see para 6, Sch1A) each disposal would be considered for property richness separately.
+
+Consider the differences between Figures 1 and 2 (http://www.hmrc.gov.uk/gds/cg/attachments/CG73942.pdf)
+
+In Figure 1, there is a holding company, D, which holds 100% interest in subsidiaries E and F (and has no other assets or liabilities). In Figure 2, the shareholders directly hold interests in companies E and F. This could be a holding held through a partnership (see example 2 in CG73940 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73940)).
+
+In both diagrams, company E only holds UK land worth £50,000 which it rents out to an unconnected third party; and company F only holds bonds (unconnected with UK land) worth £50,000. The shareholders are non-UK resident.
+
+Functionally there is no difference between these arrangements, apart from the fact that there is the holding company D in Figure 1. A disposal of company D, however, would not be of a UK property rich asset (as the values of E and F would be amalgamated in the asset value of D), where due to the absence of D in Figure 2 the investors are making a disposal of one UK property rich asset (company E) and one asset that is not (company F).
+
+The analysis would be similar to Figure 2 if it were D making the disposal, rather than the shareholder selling their interest in D itself.
+
+Paragraph 6 of Schedule 1A takes account of this by providing for the ability to measure property richness by aggregating several companies being disposed of where those disposals are linked. This ensures that those in a situation like Figure 2 will have the same outcome for those in a situation like Figure 1.
+
+When disposals are linked
+
+Those provisions apply where rights or interests in two or more companies are disposals of and the disposals are linked with each other.
+
+Disposals are linked where:
+
+- The disposals are made by the same person or by persons connected with each other and under the same arrangements,
+
+- The person making each disposal is connected with the company they are disposing of, and
+
+- The disposals are made to the same person or to persons connected with each other.
+
+“Arrangements” takes its natural meaning. “Connected” takes its meaning from section 286 TCGA (see CG14580 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14580)), but partners are considered connected even where the disposals or acquisitions of partnership assets are pursuant to bona fide commercial arrangements (so that partners are always connected). Connection is tested immediately before the disposals taking part in the arrangements.
+
+One example would be if companies were disposed of by different persons within a corporate group to one or more companies in another corporate group as part of a single arrangement. Or if several partners in a partnership disposed of two or more companies to another partnership in one arrangement.
+
+If the assets of all the companies in the linked disposals were aggregated into one of the companies, and such a disposal of that company would not be a disposal of a right or interest in an asset deriving at least 75% of its value from UK land, then none of the disposals is taken to be a disposal of a right or interest in an asset deriving at least 75% of its value from UK land.
+
+Using Figure 1, assume company E holds two wholly owned subsidiaries G and H, and F owns one subsidiary, J. The D group agrees with company X to sell G and J. G has a UK property worth £1m, J has non-UK assets worth £20m. The sales of G and J would be linked and so there would be no charge under s2B(4) on the sale of G.
+
+The Targeted Anti-Avoidance Rule in Schedule 1A will apply where arrangements are entered into to take advantage of this or other provisions in that Schedule (see CG73952 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73952)).

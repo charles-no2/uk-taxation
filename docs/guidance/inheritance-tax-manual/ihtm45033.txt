@@ -1,0 +1,24 @@
+Reduced rate for gifts to charity: abatement: insufficient assets to pay legacies under the Will
+Identifier: IHTM45033
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45033
+Published: 2016-04-09T10:32:59+01:00
+Updated: 2016-02-11T17:27:59+00:00
+Retrieved (UTC): 2026-09-18T15:10:45.350118+00:00
+
+Where there are insufficient assets in the estate to pay all the legacies bequeathed by Will, the legacies must abate in accordance with the general law (IHTM12086 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12086)). Where this results in the value of a charitable legacy being reduced in value, you must use this reduced value for the charitable legacy for the purposes of the 10% test.
+
+Example
+
+Robert died on 14 June 2012 leaving an estate valued at £500,000 after deduction of liabilities. He left a specific bequest of an antique vase worth £120,000 to his daughter and legacies of £150,000 to each of his three sons. He left £20,000 to English Heritage and the residue to be divided between his four children equally.
+
+At first sight, the estate is likely to qualify for the reduced rate; the baseline is £175,000 and £20,000 exceeds the 10% test.
+
+However, Robert has left legacies totalling £590,000 and his net estate is only worth £500,000. Under the rules of abatement, his daughter receives her legacy of the vase, leaving legacies totalling £470,000 to be paid from an estate worth £380,000. As the legacies are all in the same class of legacy, they will abate rateably so the legacies to the sons will reduce to
+
+£150,000 × (£380,000 ÷ £470,000) = £121,277
+
+and the legacy to the charity will reduce to
+
+£20,000 × (£380,000 ÷ £470,000) = £16,170
+
+The abated value of the charitable legacy does not meet the 10% test, so the estate will not qualify for the reduced rate. In cases where abatement applies you should look carefully at the terms of any Instrument of Variation (IHTM35011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35011)) to ensure that abatement does not continue to apply, even after the Will has been varied.

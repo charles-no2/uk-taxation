@@ -1,0 +1,48 @@
+Patents: Allowances: Calculation of allowances
+Identifier: CA75110
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca75110
+Published: 2016-04-16T09:06:02+01:00
+Updated: 2016-04-06T17:01:06+01:00
+Retrieved (UTC): 2026-09-18T16:20:15.756914+00:00
+
+CAA01/S470 - S477
+
+Expenditure on patents is pooled. There is a separate pool for each trade that a person carries on. There is also a separate pool for all of a person’s qualifying non-trade expenditure.
+
+This is how you calculate the pool for a chargeable period.
+
+Start with the pool brought forward from the previous chargeable period if there is one.
+
+Add to it the qualifying expenditure incurred in the current chargeable period on patent rights unless either:
+
+a. the patent rights were wholly disposed of or came to an end before the current chargeable period, or
+
+b. the person decides not to add the expenditure to the pool.
+
+If there is any qualifying expenditure incurred in previous chargeable periods on patent rights that the person still owns and which has not been added to the pool for a previous chargeable period it may also be added to the pool.
+
+Example Jack is a trader with an accounting date of 31 December. His pool carried forward at 31 December 2001 is £10,000. He incurs expenditure of £5,000 on patent rights in the year ended 31 December 2002. He incurred expenditure of £2,000 on patent rights in the year ended 31 December 1999 that he still owns in the year ended 31 December 2002 and which he did not add to the pool for the years ended 31 December 1999, 31 December 2000 or 31 December 2001. He can add the expenditure of £2.000 incurred in the year ended 31 December 1999 to his pool for the year ended 31 December 2002, which then becomes £17,000 (= £10,000 + £5,000 + £2,000).
+
+Once you have calculated the pool for a chargeable period you should compare it with any disposal values in that chargeable period. If the pool is more than the disposal values, there is an allowance for that chargeable period. If the pool is less than the disposal values the difference is a balancing charge CA75130 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca75130).
+
+Example If in the example above Jack has disposal values of £4,000 in the year ended 31 December 2002 he is entitled to an allowance for that chargeable period because £4,000 is less than £17,000. If, however, the disposal values are £20,000 rather than £4,000 there is a balancing charge of £3,000 (= £20,000 - £17,000).
+
+Where the pool is greater than the disposal values a writing down allowance (WDA) may be claimed unless the chargeable period is:
+
+- the chargeable period in which the trade permanently ceases,
+
+or, for the non-trade pool,
+
+- the chargeable period in which the last of the rights in the pool comes to an end.
+
+In a case like that there is a balancing allowance CA75130 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca75130).
+
+Where a WDA may be claimed, the annual WDA is 25% of the difference between the pool and the disposal values. The 25% rate is proportionately reduced where the patents expenditure is qualifying trade expenditure and the trade is carried on for part only of the chargeable period. A claim for less than the full amount may be made. Deduct both the disposal values and any writing-down allowance claimed to work out the pool carried forward to the next chargeable period.
+
+Example Brown has an accounting date of 31 March. He has a pool of £7,000 and disposal values of £3,000 in the year ended 31 March 2001. If the year ended 31 March 2001 is neither:
+
+- the chargeable period in which the trade permanently ceases, nor
+
+- the chargeable period in which the last of the rights in the pool comes to an end,
+
+Brown can claim a WDA of any amount up to £1,000 (= 25% x (£7,000 - £3,000)). Brown can claim a balancing allowance of £4,000 (= £7,000 - £3,000) if his trade ends in the year ended 31 March 2001 or, where the expenditure is non-trade expenditure, the last of the patent rights on which he is claiming allowances comes to an end in that year.

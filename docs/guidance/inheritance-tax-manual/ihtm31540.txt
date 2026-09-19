@@ -1,0 +1,26 @@
+Assessing: calculating interest: additional interest
+Identifier: IHTM31540
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31540
+Published: 2016-04-09T10:05:25+01:00
+Updated: 2024-12-12T09:30:21+00:00
+Retrieved (UTC): 2026-09-18T15:06:16.496322+00:00
+
+We allow the taxpayer or agent a period of grace in which to pay the calculated tax without revisiting the amount of interest we have charged.
+
+If additional interest is due, you should update COMPASS to show the original calculation as paid, and then raise a fresh calculation for the additional interest. Calculate the additional interest using the additional interest calculator (IHTM31511 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31511)) on SEES. You should include it as an 'adjustment' on a COMPASS (IHTM31192 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31192)) calculation, or as interest on a manual template calculation.
+
+You must charge additional interest only on the tax that has been paid late. The interest charge is simple (rather than compound) so you must not charge further interest on the interest that was paid late.
+
+You should issue a further calculation for interest only, on
+
+- the tax outstanding (after any deposits have been applied)
+
+- from the day after the date of the original calculation (or the day after the due date if later)
+
+- to the date of payment of that calculation.
+
+If the taxpayer or agent sends a payment to cover the amount of the calculation plus additional interest, you should:
+
+- treat the overpayment as a deposit and
+
+- use it to against the additional interest calculation.

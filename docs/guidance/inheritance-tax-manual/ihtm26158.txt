@@ -1,0 +1,200 @@
+Step 4 - four stage grossing calculations: example of a four stage calculation where interaction and settled property are also involved
+Identifier: IHTM26158
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26158
+Published: 2016-04-09T09:48:23+01:00
+Updated: 2022-02-07T16:01:38+00:00
+Retrieved (UTC): 2026-09-18T15:03:15.538275+00:00
+
+This example illustrates both four stage grossing up and the interaction (IHTM26101) calculation of the IHTA84/S39A (3) and (4) proportionate reduction where the Inheritance Tax estate includes property at more than one title (IHTM26211 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26211)) and a lifetime cumulation (IHTM14501). It combines
+
+- The six (IHTM26104 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26104)) interaction stages, and
+
+- The four (IHTM26152 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26152)) stages of grossing
+
+Example
+
+Diana dies in January 2001
+
+Her estate consists of:
+
+Free estate = £1,800,000
+
+Settled property = £500,000
+
+The free estate consists of:
+
+Control holding of unlisted shares (qualifies for business relief (BR) at 100%) = £600,000
+
+Land let to company (qualifies for BR at 50%) = £400,000
+
+House and chattels = £200,000
+
+Other assets = £600,000
+
+Settled property consists of listed securities valued at £500,000
+
+There is also a lifetime cumulative total of £80,000
+
+Free estate passing by Will:
+
+- Land let to company to son subject to tax
+
+- House and chattels to husband
+
+- £300,000 each to husband and daughter free of tax
+
+- Residue - half to husband, half equally to son and daughter.
+
+Interaction Stage 1
+
+The value transferred (free estate only) is:
+
+Value of the estate = £1,800,000
+
+Less BR
+
+- On shares at 100% (£600,000)
+
+- On land at 50% (£200,000)
+
+Value transferred = £1,000,000
+
+Interaction Stage 2
+
+There is one specific gift of relievable property, the gift of land to the son. This is taken at its value after relief of £200,000.
+
+Interaction Stage 3
+
+There is other relievable property. So the specific gifts to the husband and daughter have to be reduced by the S39A(4) fraction
+
+This fraction is based solely on the property comprised in the free estate (that is excluding settled property and ignoring the lifetime cumulative total):
+
+A = £800,000
+
+B = £1,400,000
+
+- A = the reduced value of the free estate (£1,000,000) less the reduced value of the specific gift (£200,000)
+
+- B = the unreduced value of the free estate (£1,800,000) less the unreduced value of the specific gift (£400,000).
+
+Accordingly, the reduced values are
+
+Gift to husband:
+
+£500,000 x (£800,000 ÷ £1.400,000) = £285,714
+
+Legacy to the daughter:
+
+£300,000 x (£800,000 ÷ £1,400,000) = £171,429
+
+Interaction Stage 4
+
+The chargeable specific gift to the daughter has to be grossed up using the reduced values. Four stage grossing is appropriate.
+
+In these calculations the settled property is ignored but the cumulation is taken into account.
+
+Grossing Stage 1
+
+The only chargeable specific gift free of tax is the legacy of £300,000 to the daughter. The value to be grossed up is the reduced value of £171,429.
+
+In accordance with IHTA84/S38 (3), this is initially grossed up at the rate appropriate to its separate value:
+
+Value of gift (as reduced) = £171,429
+
+Less unused nil-rate band (£234,000 minus lifetime cumulative total of £80,000) = £154,000
+
+Excess = £17,429 × (100 ÷ 60) = £29,048
+
+Add back unused nil-rate band +£154,000
+
+Initial grossed-up legacy = £183,048
+
+Grossing Stage 2
+
+Initial determination of the chargeable part of the estate:
+
+Grossed-up gift to daughter = £183,048
+
+Gift to son bearing own tax = £200,000
+
+Exempt specific gifts = £285,714
+
+Total specific gifts = £668,762
+
+Total free estate = £1,000,000
+
+Less total specific gifts -£668,762
+
+Residue = £331,238
+
+One half of residue is exempt = £165,619
+
+One half of residue is chargeable = £165,619
+
+Total chargeable free estate = £548,667 (£183,048 + £200,000 + £165,619)
+
+Grossing Stage 3
+
+The daughter’s legacy at its reduced value of £171,429 is grossed up again at the rate appropriate to a chargeable estate of £548,667 and a lifetime cumulation of £80,000. As before the settled property is ignored:
+
+Lifetime cumulative total = £80,000
+
+Chargeable transfer on death = £548,667
+
+Total = £628,667
+
+Tax on that revised value (after nil-rate band of £234,000 deducted) = £157,867
+
+Tax on death estate = £157,867 (no tax applicable to lifetime transfers)
+
+The chargeable death estate net of tax is £548,667 less tax of £157,867 = £390,800
+
+The gross equivalent of the specific gift of £171,429 is
+
+£171,429 × (£548,667 ÷ £390,800) = £240,679
+
+Grossing Stage 4 & Interaction Stage 5
+
+Calculate the residue and chargeable estate:
+
+Free estate = £1,000,000
+
+Less specific gifts
+
+- To son (Interaction Stage 2) £200,000
+
+- To daughter (Grossing Stage 3) £240,679
+
+Total chargeable gifts = £440,679
+
+Specific gift to husband (Interaction Stage 3) £285,714
+
+Total specific gifts = £726,393 (£200,000 + £240,679 + £285,714)
+
+Residue = £273,607
+
+Half exempt = £136,804
+
+Half chargeable = £136,803
+
+Interaction Stage 6
+
+Free estate = £1,000,000
+
+Less exempt gifts to husband
+
+- Specific (Interaction Stage 3) £285,714
+
+- Residuary £136,804
+
+Total gifts to husband = £422,518
+
+Chargeable free estate = £577,482
+
+Total chargeable death estate (with lifetime cumulative total of £80,000 to be added):
+
+Free estate £577,482
+
+Settled property £500,000
+
+Total = £1,077,482

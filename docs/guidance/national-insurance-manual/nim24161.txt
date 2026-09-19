@@ -1,0 +1,46 @@
+Class 4 NICs: structure: annual Class 4 NICs maximum from 6 April 2003: contributors who are self-employed only: example: profits exceed the Upper Profits Limit
+Identifier: NIM24161
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24161
+Published: 2016-04-11T17:41:03+01:00
+Updated: 2019-08-12T11:35:45+01:00
+Retrieved (UTC): 2026-09-18T15:22:10.203493+00:00
+
+Regulation 100 - Social Security Contributions Regulations 2001
+
+NIM24152 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24152) provides guidance on the calculation method used to determine the maximum amount of Class 2 and 4 NICs payable for tax years 2003/2004 onwards by contributors who are self- employed only.
+
+The following example illustrates the calculation for a contributor whose profits or gains for the tax year exceed the Upper Profits Limit (UPL).
+
+The calculation method shown applies to tax years from 2003/2004 onwards. For guidance on the Class 2 and 4 NICs annual maximum for tax years before 2003/2004 see NIM24101 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24101) onwards.
+
+The example uses the rates and limits in force during the 2012/2013 tax year. For rates and limits for other years see NIM24050 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24050)
+
+Mr Barnes has been self employed for the whole of the 2012/2013 tax year. His profits for the year amount to £70,000. Mr Barnes held no other employments during the year.
+
+Step 1
+
+Multiply by the appropriate main Class 4 percentage, the amount of profits or gains between the Lower Profits Limit (LPL) and the UPL
+
+£42,475 (UPL) - £7,605 (LPL) = £34,870 x 9% (main Class 4 percentage) = £3,138.30
+
+Step 2
+
+Multiply the amount of profits or gains that exceed the UPL by the additional Class 4 percentage.
+
+£70,000 (actual profits) - £42,475 (UPL) = £27,525 x 2% (additional Class 4 percentage) = £550.50
+
+Step 3
+
+Multiply the relevant Class 2 NICs rate by the number of weeks of self-employment in the tax year
+
+52 x £2.65 = £137.80
+
+Step 4
+
+Add together the results of steps 1, 2 and 3
+
+£3,138.30 + £550.50 + £137.80 = £3,826.60
+
+The result of step 4 is the amount of Class 2 and Class 4 NICs payable by a contributor who is self-employed only and has profits or gains amounting to £70,000.
+
+Note: for Class 2 purposes some tax years have 53 weeks. In those cases 53 should be used instead of the 52 quoted at step 3 above.

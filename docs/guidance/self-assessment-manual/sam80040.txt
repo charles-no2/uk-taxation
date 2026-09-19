@@ -1,0 +1,14 @@
+Payments: payments overview: payment update of SA customer records
+Identifier: SAM80040
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam80040
+Published: 2016-04-08T17:42:21+01:00
+Updated: 2016-02-23T15:16:31+00:00
+Retrieved (UTC): 2026-09-18T16:19:30.079259+00:00
+
+The batch function PROCESS PAYMENTS receives details of most payments processed by DM Banking in a single day and stores them on the database.
+
+SA payments are identified and posted to customer and management accounts. The process uses automatic allocation rules to determine which liabilities to set payment against.
+
+The allocation of payments causes a review of the interest position. Where an interest bearing liability is cleared by late payment, an interest charge is created.
+
+More information on the update of customer records on receipt of a payment is available in the Debt Management & Banking Manual DMBM210750.

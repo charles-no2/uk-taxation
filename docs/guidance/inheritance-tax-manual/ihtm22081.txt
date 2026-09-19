@@ -1,0 +1,24 @@
+Quantifying increase at deceased's estate: special  provisions for reversions
+Identifier: IHTM22081
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22081
+Published: 2016-04-09T09:36:18+01:00
+Updated: 2016-09-08T14:44:18+01:00
+Retrieved (UTC): 2026-09-18T15:00:48.164685+00:00
+
+In most cases a reversionary interest (IHTM16231 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16231)) is treated as excluded property (IHTM04251 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04251)) for Inheritance Tax. When you calculate the increase in your deceased’s estate on the earlier chargeable transfer (IHTM04027 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04027)), you should ignore any such reversionary interest which your deceased became entitled to before, or on, the earlier chargeable transfer.
+
+Example
+
+Virat by his Will leaves assets to Ishant for life. After Ishant dies the assets pass to Ravi absolutely. During Ishant’s lifetime Ravi has a reversionary interest in the assets.
+
+The reversion which Ravi acquires under Virat’s Will in fact increases his estate. But because of IHTA84/S141(6) the reversion does not increase Ravi’s estate for the purposes of quick succession relief (QSR) (IHTM22041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22041)).
+
+So
+
+- there can be no QSR on Ravi’s death for the tax charged on Virat’s death
+
+- if Ravi dies after Ishant, you calculate the QSR for tax payable on Ishant’s death on the basis that the increase in Ravi’s estate on Ishant’s death was the value of the settled fund at Ishant’s death, less the tax payable on it.
+
+(The increase is not limited to the difference between the value and the value of Ravi’s pre-existing reversion.)
+
+IHTA84/S141(6) is necessary to achieve this result because the excluded property provisions in IHTA84/S3(2), IHTA84/S5(1) and IHTA84/S48(1) do not apply for the purposes of IHTA84/S141.

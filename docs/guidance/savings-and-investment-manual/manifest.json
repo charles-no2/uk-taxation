@@ -1,0 +1,2039 @@
+{
+  "manual": "savings-and-investment-manual",
+  "source": "https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual",
+  "pages": {
+    "/hmrc-internal-manuals/savings-and-investment-manual": {
+      "file": "index.txt",
+      "children": [
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1000",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2000",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3000",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4000",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5000",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7000",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim8000",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9000",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10000",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim11000",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12000",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim15000",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim20000"
+      ],
+      "retrieved_at": "2026-09-18T14:06:30.573007+00:00",
+      "updated_at": "2026-04-07T16:21:07+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1000": {
+      "file": "saim1000.txt",
+      "children": [
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1010",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1020",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1030",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1040",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1060",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1070",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1080",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1090",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1100",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1110",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1112",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1120",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1130",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1140",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1150",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1160",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1170",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim1180"
+      ],
+      "retrieved_at": "2026-09-18T14:06:30.912751+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2000": {
+      "file": "saim2000.txt",
+      "children": [
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2010",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2020",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2030",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2040",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2050",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2060",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2065",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2070",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2075",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2076",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2080",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2085",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2090",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2095",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2100",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2105",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2110",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2115",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2120",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2125",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2130",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2135",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2140",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2145",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2200",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2210",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2220",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2230",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2240",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2250",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2255",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2300",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2310",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2320",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2330",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2340",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2400",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2410",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2420",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2430",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2440",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2450",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2500",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2510",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2520",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2600",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2700"
+      ],
+      "retrieved_at": "2026-09-18T14:06:31.286989+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3000": {
+      "file": "saim3000.txt",
+      "children": [
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3010",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3020",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3030",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3040",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3050",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3055",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3060",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3070",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3080",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3090",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3100",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3110",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3120",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3130",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3140",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3150",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim3160"
+      ],
+      "retrieved_at": "2026-09-18T14:25:45.916786+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4000": {
+      "file": "saim4000.txt",
+      "children": [
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4010",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4020",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4030",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4040",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4050",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4060",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4070",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4080",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4090",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4100",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4110",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4120",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4130",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4140",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4150",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4160",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4170",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4180",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4190",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4200",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4210",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4220",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4230",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4240",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4250",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4260",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4270",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4280",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4290",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4300",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4310",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4320",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4340",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4350",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4360",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4370",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4380",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4390",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim4400"
+      ],
+      "retrieved_at": "2026-09-18T14:25:46.272213+00:00",
+      "updated_at": "2019-03-18T12:14:35+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5000": {
+      "file": "saim5000.txt",
+      "children": [
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5010",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5020",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5030",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5040",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5050",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5060",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5070",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5080",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5090",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5100",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5102",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5104",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5106",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5110",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5120",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5130",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5140",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5150",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5160",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5170",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5180",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5190",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5200",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5210",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5220",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5300",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5310",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5320",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5330",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim5340"
+      ],
+      "retrieved_at": "2026-09-18T14:25:46.648215+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7000": {
+      "file": "saim7000.txt",
+      "children": [
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7010",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7020",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7030",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7040",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7050",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7060",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7070",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7080",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7090",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7100",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7110",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7120",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7130",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim7140"
+      ],
+      "retrieved_at": "2026-09-18T14:25:47.004006+00:00",
+      "updated_at": "2019-02-21T08:05:01+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim8000": {
+      "file": "saim8000.txt",
+      "children": [
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim8010",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim8020",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim8030",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim8040",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim8050",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim8060",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim8070",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim8080"
+      ],
+      "retrieved_at": "2026-09-18T14:25:47.359492+00:00",
+      "updated_at": "2015-12-03T11:03:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9000": {
+      "file": "saim9000.txt",
+      "children": [
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9010",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9020",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9030",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9035",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9040",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9050",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9060",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9070",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9075",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9076",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9078",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9080",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9090",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9092",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9095",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9100",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9110",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9115",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9116",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9117",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9120",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9130",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9140",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9150",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9160",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9170",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9200",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9210",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9220",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9230",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9240",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9250",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9260",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9310",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9320",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9330",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9340",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9350",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9360",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9370",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim9380"
+      ],
+      "retrieved_at": "2026-09-18T14:25:47.777621+00:00",
+      "updated_at": "2019-06-05T12:11:29+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10000": {
+      "file": "saim10000.txt",
+      "children": [
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10010",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10020",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10030",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10040",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10050",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10060",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10070",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10080",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10090",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10100",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10110",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10120",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10130",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10200",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10210",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10220",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10230",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10240",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10250",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10260",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10270",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10280",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10290",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10300",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10310",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10320",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10330",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10340",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim10350"
+      ],
+      "retrieved_at": "2026-09-18T14:25:48.150713+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim11000": {
+      "file": "saim11000.txt",
+      "children": [
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim11010",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim11020",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim11030",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim11040"
+      ],
+      "retrieved_at": "2026-09-18T14:25:48.525075+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12000": {
+      "file": "saim12000.txt",
+      "children": [
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12010",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12020",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12030",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12040",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12050",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12060",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12070",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12100",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12200",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12210",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12220"
+      ],
+      "retrieved_at": "2026-09-18T14:25:48.890092+00:00",
+      "updated_at": "2016-12-06T12:17:10+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim15000": {
+      "file": "saim15000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:49.261972+00:00",
+      "updated_at": "2026-02-27T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim20000": {
+      "file": "saim20000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:49.632354+00:00",
+      "updated_at": "2020-01-28T12:21:10+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1010": {
+      "file": "saim1010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:50.017386+00:00",
+      "updated_at": "2020-02-05T09:18:11+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1020": {
+      "file": "saim1020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:50.398012+00:00",
+      "updated_at": "2019-05-15T14:41:52+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1030": {
+      "file": "saim1030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:50.760094+00:00",
+      "updated_at": "2020-01-30T11:47:37+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1040": {
+      "file": "saim1040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:51.113435+00:00",
+      "updated_at": "2019-07-30T14:23:46+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1060": {
+      "file": "saim1060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:51.491667+00:00",
+      "updated_at": "2020-01-30T11:50:12+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1070": {
+      "file": "saim1070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:51.843283+00:00",
+      "updated_at": "2020-01-28T08:45:10+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1080": {
+      "file": "saim1080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:52.205713+00:00",
+      "updated_at": "2019-12-13T10:24:15+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1090": {
+      "file": "saim1090.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:52.580095+00:00",
+      "updated_at": "2019-12-13T10:31:44+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1100": {
+      "file": "saim1100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:52.978776+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1110": {
+      "file": "saim1110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:53.344971+00:00",
+      "updated_at": "2022-10-13T15:44:30+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1112": {
+      "file": "saim1112.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:53.726436+00:00",
+      "updated_at": "2019-12-13T10:46:42+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1120": {
+      "file": "saim1120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:54.084970+00:00",
+      "updated_at": "2020-02-05T09:25:09+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1130": {
+      "file": "saim1130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:54.458376+00:00",
+      "updated_at": "2020-02-05T09:28:04+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1140": {
+      "file": "saim1140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:54.809934+00:00",
+      "updated_at": "2020-01-28T09:11:09+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1150": {
+      "file": "saim1150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:55.153905+00:00",
+      "updated_at": "2020-02-05T09:30:47+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1160": {
+      "file": "saim1160.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:55.516073+00:00",
+      "updated_at": "2020-01-28T09:19:55+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1170": {
+      "file": "saim1170.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:55.885969+00:00",
+      "updated_at": "2021-04-08T09:40:40+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim1180": {
+      "file": "saim1180.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:56.230704+00:00",
+      "updated_at": "2020-02-05T09:34:36+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2010": {
+      "file": "saim2010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:56.661140+00:00",
+      "updated_at": "2019-04-10T14:02:11+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2020": {
+      "file": "saim2020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:57.007860+00:00",
+      "updated_at": "2018-11-20T09:14:39+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2030": {
+      "file": "saim2030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:57.370681+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2040": {
+      "file": "saim2040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:57.720666+00:00",
+      "updated_at": "2018-11-20T09:20:03+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2050": {
+      "file": "saim2050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:58.087559+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2060": {
+      "file": "saim2060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:58.433798+00:00",
+      "updated_at": "2020-10-13T10:11:19+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2065": {
+      "file": "saim2065.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:58.779370+00:00",
+      "updated_at": "2020-02-05T09:37:36+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2070": {
+      "file": "saim2070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:59.126557+00:00",
+      "updated_at": "2018-11-20T09:25:04+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2075": {
+      "file": "saim2075.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:59.480807+00:00",
+      "updated_at": "2019-04-10T14:40:36+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2076": {
+      "file": "saim2076.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:25:59.825554+00:00",
+      "updated_at": "2019-04-10T14:37:44+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2080": {
+      "file": "saim2080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:00.177262+00:00",
+      "updated_at": "2019-04-10T14:42:11+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2085": {
+      "file": "saim2085.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:00.529116+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2090": {
+      "file": "saim2090.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:00.895083+00:00",
+      "updated_at": "2022-05-05T16:10:39+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2095": {
+      "file": "saim2095.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:01.248796+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2100": {
+      "file": "saim2100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:01.599701+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2105": {
+      "file": "saim2105.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:01.949904+00:00",
+      "updated_at": "2019-04-10T14:27:16+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2110": {
+      "file": "saim2110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:02.305240+00:00",
+      "updated_at": "2022-05-03T14:58:09+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2115": {
+      "file": "saim2115.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:02.682332+00:00",
+      "updated_at": "2020-01-28T09:43:32+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2120": {
+      "file": "saim2120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:03.030418+00:00",
+      "updated_at": "2018-11-20T09:58:12+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2125": {
+      "file": "saim2125.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:03.379607+00:00",
+      "updated_at": "2018-11-20T10:03:31+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2130": {
+      "file": "saim2130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:03.729531+00:00",
+      "updated_at": "2018-11-20T10:07:59+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2135": {
+      "file": "saim2135.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:04.072954+00:00",
+      "updated_at": "2018-11-20T10:11:53+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2140": {
+      "file": "saim2140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:04.441783+00:00",
+      "updated_at": "2018-11-20T10:20:21+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2145": {
+      "file": "saim2145.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:04.791789+00:00",
+      "updated_at": "2018-11-20T10:23:55+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2200": {
+      "file": "saim2200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:05.140760+00:00",
+      "updated_at": "2020-02-05T09:40:51+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2210": {
+      "file": "saim2210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:05.499080+00:00",
+      "updated_at": "2019-03-13T13:12:18+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2220": {
+      "file": "saim2220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:05.857360+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2230": {
+      "file": "saim2230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:06.200413+00:00",
+      "updated_at": "2018-11-20T10:45:14+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2240": {
+      "file": "saim2240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:06.555034+00:00",
+      "updated_at": "2020-01-28T10:01:04+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2250": {
+      "file": "saim2250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:06.913468+00:00",
+      "updated_at": "2018-11-20T10:51:08+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2255": {
+      "file": "saim2255.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:07.267419+00:00",
+      "updated_at": "2022-05-03T15:00:52+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2300": {
+      "file": "saim2300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:07.622682+00:00",
+      "updated_at": "2020-01-28T10:04:34+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2310": {
+      "file": "saim2310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:07.972693+00:00",
+      "updated_at": "2020-01-28T10:10:41+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2320": {
+      "file": "saim2320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:08.341729+00:00",
+      "updated_at": "2019-03-18T11:58:25+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2330": {
+      "file": "saim2330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:08.686765+00:00",
+      "updated_at": "2020-01-28T10:16:36+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2340": {
+      "file": "saim2340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:09.043657+00:00",
+      "updated_at": "2021-05-06T09:06:27+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2400": {
+      "file": "saim2400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:09.392999+00:00",
+      "updated_at": "2019-04-10T15:04:05+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2410": {
+      "file": "saim2410.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:09.741905+00:00",
+      "updated_at": "2020-02-05T09:43:49+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2420": {
+      "file": "saim2420.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:10.115497+00:00",
+      "updated_at": "2020-01-28T10:46:03+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2430": {
+      "file": "saim2430.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:10.467730+00:00",
+      "updated_at": "2018-11-20T11:19:36+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2440": {
+      "file": "saim2440.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:10.838778+00:00",
+      "updated_at": "2025-09-30T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2450": {
+      "file": "saim2450.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:11.197470+00:00",
+      "updated_at": "2020-02-05T09:48:19+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2500": {
+      "file": "saim2500.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:11.602769+00:00",
+      "updated_at": "2018-11-20T11:32:23+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2510": {
+      "file": "saim2510.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:11.956392+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2520": {
+      "file": "saim2520.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:12.307057+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2600": {
+      "file": "saim2600.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:12.654517+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2700": {
+      "file": "saim2700.txt",
+      "children": [
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2710",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2720",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2730",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2740",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2750",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2760",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2770",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2780",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2790",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2800",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2810",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim2820"
+      ],
+      "retrieved_at": "2026-09-18T14:26:13.001976+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3010": {
+      "file": "saim3010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:13.367333+00:00",
+      "updated_at": "2018-11-20T12:41:28+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3020": {
+      "file": "saim3020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:13.714577+00:00",
+      "updated_at": "2018-11-20T12:44:18+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3030": {
+      "file": "saim3030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:14.071185+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3040": {
+      "file": "saim3040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:14.415231+00:00",
+      "updated_at": "2018-12-04T09:50:30+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3050": {
+      "file": "saim3050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:14.814630+00:00",
+      "updated_at": "2018-12-04T09:55:49+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3055": {
+      "file": "saim3055.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:15.169326+00:00",
+      "updated_at": "2018-12-04T09:59:06+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3060": {
+      "file": "saim3060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:15.523567+00:00",
+      "updated_at": "2019-04-10T15:14:21+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3070": {
+      "file": "saim3070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:15.889237+00:00",
+      "updated_at": "2019-04-10T15:21:18+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3080": {
+      "file": "saim3080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:16.247223+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3090": {
+      "file": "saim3090.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:16.595690+00:00",
+      "updated_at": "2018-12-04T10:07:47+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3100": {
+      "file": "saim3100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:16.953382+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3110": {
+      "file": "saim3110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:17.308968+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3120": {
+      "file": "saim3120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:17.672275+00:00",
+      "updated_at": "2019-03-14T12:37:40+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3130": {
+      "file": "saim3130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:18.074543+00:00",
+      "updated_at": "2020-02-05T09:56:37+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3140": {
+      "file": "saim3140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:18.426453+00:00",
+      "updated_at": "2019-03-14T12:46:51+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3150": {
+      "file": "saim3150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:18.798952+00:00",
+      "updated_at": "2019-03-14T12:56:59+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim3160": {
+      "file": "saim3160.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:19.163037+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4010": {
+      "file": "saim4010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:19.510783+00:00",
+      "updated_at": "2018-11-22T10:24:27+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4020": {
+      "file": "saim4020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:19.871254+00:00",
+      "updated_at": "2022-07-06T12:30:36+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4030": {
+      "file": "saim4030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:20.218353+00:00",
+      "updated_at": "2018-10-31T15:01:49+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4040": {
+      "file": "saim4040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:20.563049+00:00",
+      "updated_at": "2018-12-04T11:46:53+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4050": {
+      "file": "saim4050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:20.907391+00:00",
+      "updated_at": "2018-11-22T10:33:08+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4060": {
+      "file": "saim4060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:21.263063+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4070": {
+      "file": "saim4070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:21.630219+00:00",
+      "updated_at": "2018-11-22T10:37:27+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4080": {
+      "file": "saim4080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:21.979198+00:00",
+      "updated_at": "2018-11-22T10:43:46+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4090": {
+      "file": "saim4090.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:22.325587+00:00",
+      "updated_at": "2018-11-22T10:48:33+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4100": {
+      "file": "saim4100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:22.676912+00:00",
+      "updated_at": "2018-11-22T10:52:39+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4110": {
+      "file": "saim4110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:23.052671+00:00",
+      "updated_at": "2018-12-10T11:33:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4120": {
+      "file": "saim4120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:23.397839+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4130": {
+      "file": "saim4130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:23.752963+00:00",
+      "updated_at": "2025-07-28T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4140": {
+      "file": "saim4140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:24.098296+00:00",
+      "updated_at": "2018-11-22T11:06:54+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4150": {
+      "file": "saim4150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:24.452543+00:00",
+      "updated_at": "2018-11-22T11:10:43+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4160": {
+      "file": "saim4160.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:24.819442+00:00",
+      "updated_at": "2022-05-05T09:11:54+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4170": {
+      "file": "saim4170.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:25.175207+00:00",
+      "updated_at": "2018-11-22T11:37:22+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4180": {
+      "file": "saim4180.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:25.543642+00:00",
+      "updated_at": "2018-11-29T07:53:05+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4190": {
+      "file": "saim4190.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:25.897006+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4200": {
+      "file": "saim4200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:26.254013+00:00",
+      "updated_at": "2018-11-29T07:56:28+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4210": {
+      "file": "saim4210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:26.609887+00:00",
+      "updated_at": "2018-11-29T08:06:33+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4220": {
+      "file": "saim4220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:26.961544+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4230": {
+      "file": "saim4230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:27.333574+00:00",
+      "updated_at": "2019-03-14T13:21:09+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4240": {
+      "file": "saim4240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:27.716230+00:00",
+      "updated_at": "2020-02-05T10:00:40+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4250": {
+      "file": "saim4250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:28.069642+00:00",
+      "updated_at": "2018-11-29T08:18:11+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4260": {
+      "file": "saim4260.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:28.426227+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4270": {
+      "file": "saim4270.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:28.786397+00:00",
+      "updated_at": "2018-11-29T08:25:16+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4280": {
+      "file": "saim4280.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:29.139512+00:00",
+      "updated_at": "2018-11-29T08:30:00+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4290": {
+      "file": "saim4290.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:29.508500+00:00",
+      "updated_at": "2018-11-29T08:33:00+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4300": {
+      "file": "saim4300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:29.862638+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4310": {
+      "file": "saim4310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:30.229811+00:00",
+      "updated_at": "2018-11-29T08:57:19+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4320": {
+      "file": "saim4320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:30.582990+00:00",
+      "updated_at": "2018-11-29T09:03:43+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4340": {
+      "file": "saim4340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:30.930991+00:00",
+      "updated_at": "2018-11-29T09:26:27+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4350": {
+      "file": "saim4350.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:31.318453+00:00",
+      "updated_at": "2018-11-29T09:29:52+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4360": {
+      "file": "saim4360.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:31.729110+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4370": {
+      "file": "saim4370.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:32.095643+00:00",
+      "updated_at": "2022-05-05T12:19:20+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4380": {
+      "file": "saim4380.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:32.449820+00:00",
+      "updated_at": "2018-12-04T09:25:58+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4390": {
+      "file": "saim4390.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:32.797797+00:00",
+      "updated_at": "2022-05-05T12:26:55+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim4400": {
+      "file": "saim4400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:33.152014+00:00",
+      "updated_at": "2022-05-05T12:31:33+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5010": {
+      "file": "saim5010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:33.502368+00:00",
+      "updated_at": "2020-02-05T10:04:56+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5020": {
+      "file": "saim5020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:33.847505+00:00",
+      "updated_at": "2020-02-05T10:06:13+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5030": {
+      "file": "saim5030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:34.219991+00:00",
+      "updated_at": "2019-06-12T09:13:47+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5040": {
+      "file": "saim5040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:34.574717+00:00",
+      "updated_at": "2018-10-02T11:05:28+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5050": {
+      "file": "saim5050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:34.933989+00:00",
+      "updated_at": "2022-06-22T09:15:42+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5060": {
+      "file": "saim5060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:35.280819+00:00",
+      "updated_at": "2020-02-05T10:08:10+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5070": {
+      "file": "saim5070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:35.659890+00:00",
+      "updated_at": "2020-02-05T10:10:55+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5080": {
+      "file": "saim5080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:35.999467+00:00",
+      "updated_at": "2018-10-02T12:13:48+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5090": {
+      "file": "saim5090.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:36.350227+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5100": {
+      "file": "saim5100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:36.713393+00:00",
+      "updated_at": "2020-02-05T10:13:16+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5102": {
+      "file": "saim5102.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:37.072492+00:00",
+      "updated_at": "2018-10-02T12:55:04+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5104": {
+      "file": "saim5104.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:37.411878+00:00",
+      "updated_at": "2020-02-05T10:15:25+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5106": {
+      "file": "saim5106.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:37.760851+00:00",
+      "updated_at": "2020-02-05T10:17:16+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5110": {
+      "file": "saim5110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:38.098137+00:00",
+      "updated_at": "2018-10-02T13:28:34+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5120": {
+      "file": "saim5120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:38.443613+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5130": {
+      "file": "saim5130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:38.795751+00:00",
+      "updated_at": "2018-10-02T13:57:53+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5140": {
+      "file": "saim5140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:39.167644+00:00",
+      "updated_at": "2022-05-05T12:41:15+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5150": {
+      "file": "saim5150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:39.545418+00:00",
+      "updated_at": "2020-02-05T10:19:07+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5160": {
+      "file": "saim5160.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:39.890212+00:00",
+      "updated_at": "2018-10-02T14:29:51+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5170": {
+      "file": "saim5170.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:40.250719+00:00",
+      "updated_at": "2018-10-09T10:53:59+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5180": {
+      "file": "saim5180.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:40.614603+00:00",
+      "updated_at": "2018-10-09T12:33:38+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5190": {
+      "file": "saim5190.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:40.966001+00:00",
+      "updated_at": "2018-10-09T12:39:34+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5200": {
+      "file": "saim5200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:41.325044+00:00",
+      "updated_at": "2020-02-05T10:22:51+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5210": {
+      "file": "saim5210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:41.675048+00:00",
+      "updated_at": "2018-10-09T12:59:50+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5220": {
+      "file": "saim5220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:42.020847+00:00",
+      "updated_at": "2018-10-09T10:08:34+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5300": {
+      "file": "saim5300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:42.380968+00:00",
+      "updated_at": "2020-02-05T10:26:26+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5310": {
+      "file": "saim5310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:42.726267+00:00",
+      "updated_at": "2020-02-05T10:38:08+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5320": {
+      "file": "saim5320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:43.092436+00:00",
+      "updated_at": "2020-02-05T10:40:52+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5330": {
+      "file": "saim5330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:43.472194+00:00",
+      "updated_at": "2018-10-09T10:29:40+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim5340": {
+      "file": "saim5340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:43.836278+00:00",
+      "updated_at": "2022-12-15T12:11:39+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7010": {
+      "file": "saim7010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:44.201522+00:00",
+      "updated_at": "2019-02-21T08:20:53+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7020": {
+      "file": "saim7020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:44.565941+00:00",
+      "updated_at": "2020-02-05T10:48:12+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7030": {
+      "file": "saim7030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:44.934620+00:00",
+      "updated_at": "2022-05-05T12:44:38+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7040": {
+      "file": "saim7040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:45.290805+00:00",
+      "updated_at": "2019-02-21T08:53:07+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7050": {
+      "file": "saim7050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:45.657171+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7060": {
+      "file": "saim7060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:46.029747+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7070": {
+      "file": "saim7070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:46.404073+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7080": {
+      "file": "saim7080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:46.781452+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7090": {
+      "file": "saim7090.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:47.143772+00:00",
+      "updated_at": "2015-12-03T11:03:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7100": {
+      "file": "saim7100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:47.503170+00:00",
+      "updated_at": "2015-12-03T11:03:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7110": {
+      "file": "saim7110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:47.859797+00:00",
+      "updated_at": "2015-12-03T11:03:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7120": {
+      "file": "saim7120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:48.263429+00:00",
+      "updated_at": "2015-12-03T11:03:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7130": {
+      "file": "saim7130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:48.632357+00:00",
+      "updated_at": "2019-02-21T08:56:30+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim7140": {
+      "file": "saim7140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:49.004050+00:00",
+      "updated_at": "2019-02-21T08:59:55+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim8010": {
+      "file": "saim8010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:49.368582+00:00",
+      "updated_at": "2020-02-05T10:52:23+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim8020": {
+      "file": "saim8020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:49.736016+00:00",
+      "updated_at": "2018-12-04T10:53:00+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim8030": {
+      "file": "saim8030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:50.095858+00:00",
+      "updated_at": "2019-10-04T10:57:10+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim8040": {
+      "file": "saim8040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:50.463573+00:00",
+      "updated_at": "2019-04-16T09:27:12+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim8050": {
+      "file": "saim8050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:50.826200+00:00",
+      "updated_at": "2018-12-04T11:01:40+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim8060": {
+      "file": "saim8060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:51.192197+00:00",
+      "updated_at": "2019-04-16T09:36:40+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim8070": {
+      "file": "saim8070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:51.570444+00:00",
+      "updated_at": "2018-12-04T11:07:55+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim8080": {
+      "file": "saim8080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:51.943526+00:00",
+      "updated_at": "2020-02-05T10:54:59+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9010": {
+      "file": "saim9010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:52.312022+00:00",
+      "updated_at": "2019-02-20T13:07:14+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9020": {
+      "file": "saim9020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:52.682082+00:00",
+      "updated_at": "2019-03-21T11:44:59+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9030": {
+      "file": "saim9030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:53.046464+00:00",
+      "updated_at": "2020-02-05T10:57:44+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9035": {
+      "file": "saim9035.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:53.396534+00:00",
+      "updated_at": "2019-03-21T11:57:35+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9040": {
+      "file": "saim9040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:53.766680+00:00",
+      "updated_at": "2019-02-20T12:03:04+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9050": {
+      "file": "saim9050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:54.141276+00:00",
+      "updated_at": "2019-02-20T12:07:37+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9060": {
+      "file": "saim9060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:54.498742+00:00",
+      "updated_at": "2019-05-15T14:15:45+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9070": {
+      "file": "saim9070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:54.863002+00:00",
+      "updated_at": "2019-02-20T12:28:44+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9075": {
+      "file": "saim9075.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:55.223059+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9076": {
+      "file": "saim9076.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:55.582043+00:00",
+      "updated_at": "2019-03-21T12:06:06+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9078": {
+      "file": "saim9078.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:55.956656+00:00",
+      "updated_at": "2020-02-05T11:00:23+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9080": {
+      "file": "saim9080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:56.342826+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9090": {
+      "file": "saim9090.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:56.734116+00:00",
+      "updated_at": "2019-06-12T15:13:22+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9092": {
+      "file": "saim9092.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:57.110104+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9095": {
+      "file": "saim9095.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:57.483078+00:00",
+      "updated_at": "2015-12-03T11:03:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9100": {
+      "file": "saim9100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:57.843664+00:00",
+      "updated_at": "2022-05-05T12:53:29+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9110": {
+      "file": "saim9110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:58.203638+00:00",
+      "updated_at": "2019-06-12T15:33:49+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9115": {
+      "file": "saim9115.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:58.578749+00:00",
+      "updated_at": "2015-12-03T11:03:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9116": {
+      "file": "saim9116.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:58.950682+00:00",
+      "updated_at": "2019-05-30T10:13:20+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9117": {
+      "file": "saim9117.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:59.332073+00:00",
+      "updated_at": "2015-12-03T11:03:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9120": {
+      "file": "saim9120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:26:59.699746+00:00",
+      "updated_at": "2015-12-03T11:03:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9130": {
+      "file": "saim9130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:00.058762+00:00",
+      "updated_at": "2019-05-30T10:22:13+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9140": {
+      "file": "saim9140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:00.427881+00:00",
+      "updated_at": "2019-06-12T15:43:13+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9150": {
+      "file": "saim9150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:00.800297+00:00",
+      "updated_at": "2019-06-13T08:12:02+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9160": {
+      "file": "saim9160.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:01.175358+00:00",
+      "updated_at": "2019-06-13T08:34:41+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9170": {
+      "file": "saim9170.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:01.548015+00:00",
+      "updated_at": "2021-10-13T13:44:04+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9200": {
+      "file": "saim9200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:01.955665+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9210": {
+      "file": "saim9210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:02.328145+00:00",
+      "updated_at": "2020-02-05T11:03:38+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9220": {
+      "file": "saim9220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:02.702742+00:00",
+      "updated_at": "2019-05-30T10:55:56+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9230": {
+      "file": "saim9230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:03.063521+00:00",
+      "updated_at": "2019-05-30T11:09:08+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9240": {
+      "file": "saim9240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:03.444652+00:00",
+      "updated_at": "2019-05-30T11:16:35+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9250": {
+      "file": "saim9250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:03.823744+00:00",
+      "updated_at": "2019-06-05T11:50:46+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9260": {
+      "file": "saim9260.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:04.197078+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9310": {
+      "file": "saim9310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:04.573937+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9320": {
+      "file": "saim9320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:04.953362+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9330": {
+      "file": "saim9330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:05.325033+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9340": {
+      "file": "saim9340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:05.690053+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9350": {
+      "file": "saim9350.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:06.061360+00:00",
+      "updated_at": "2018-02-13T17:07:20+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9360": {
+      "file": "saim9360.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:06.456661+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9370": {
+      "file": "saim9370.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:06.825997+00:00",
+      "updated_at": "2020-02-05T11:06:44+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim9380": {
+      "file": "saim9380.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:07.203363+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10010": {
+      "file": "saim10010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:07.574947+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10020": {
+      "file": "saim10020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:07.937445+00:00",
+      "updated_at": "2019-06-13T08:53:07+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10030": {
+      "file": "saim10030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:08.297487+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10040": {
+      "file": "saim10040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:08.664970+00:00",
+      "updated_at": "2019-06-13T11:09:48+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10050": {
+      "file": "saim10050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:09.020451+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10060": {
+      "file": "saim10060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:09.391001+00:00",
+      "updated_at": "2019-06-13T11:15:45+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10070": {
+      "file": "saim10070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:09.775635+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10080": {
+      "file": "saim10080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:10.154585+00:00",
+      "updated_at": "2019-06-13T11:18:21+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10090": {
+      "file": "saim10090.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:10.524160+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10100": {
+      "file": "saim10100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:10.903333+00:00",
+      "updated_at": "2019-06-13T11:20:58+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10110": {
+      "file": "saim10110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:11.277238+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10120": {
+      "file": "saim10120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:11.664035+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10130": {
+      "file": "saim10130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:12.049942+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10200": {
+      "file": "saim10200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:12.397260+00:00",
+      "updated_at": "2019-06-13T11:24:44+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10210": {
+      "file": "saim10210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:12.787087+00:00",
+      "updated_at": "2019-06-13T11:30:35+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10220": {
+      "file": "saim10220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:13.151276+00:00",
+      "updated_at": "2019-06-13T11:37:44+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10230": {
+      "file": "saim10230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:13.522303+00:00",
+      "updated_at": "2019-06-13T11:44:11+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10240": {
+      "file": "saim10240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:13.890598+00:00",
+      "updated_at": "2019-06-13T11:48:01+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10250": {
+      "file": "saim10250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:14.280400+00:00",
+      "updated_at": "2019-06-13T11:52:15+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10260": {
+      "file": "saim10260.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:14.631875+00:00",
+      "updated_at": "2022-05-05T17:58:19+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10270": {
+      "file": "saim10270.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:15.002949+00:00",
+      "updated_at": "2019-06-13T11:57:14+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10280": {
+      "file": "saim10280.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:15.366934+00:00",
+      "updated_at": "2020-01-28T15:09:41+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10290": {
+      "file": "saim10290.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:15.744883+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10300": {
+      "file": "saim10300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:16.114783+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10310": {
+      "file": "saim10310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:16.480032+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10320": {
+      "file": "saim10320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:16.852021+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10330": {
+      "file": "saim10330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:17.238010+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10340": {
+      "file": "saim10340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:17.608409+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim10350": {
+      "file": "saim10350.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:17.968261+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim11010": {
+      "file": "saim11010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:18.327013+00:00",
+      "updated_at": "2020-02-05T11:11:08+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim11020": {
+      "file": "saim11020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:18.685378+00:00",
+      "updated_at": "2020-02-05T11:12:26+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim11030": {
+      "file": "saim11030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:19.051042+00:00",
+      "updated_at": "2020-02-05T11:13:49+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim11040": {
+      "file": "saim11040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:19.433254+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12010": {
+      "file": "saim12010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:19.790463+00:00",
+      "updated_at": "2018-12-14T01:56:55+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12020": {
+      "file": "saim12020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:20.161196+00:00",
+      "updated_at": "2018-12-14T01:56:55+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12030": {
+      "file": "saim12030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:20.524875+00:00",
+      "updated_at": "2019-05-07T11:48:04+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12040": {
+      "file": "saim12040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:20.892725+00:00",
+      "updated_at": "2019-05-07T12:18:38+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12050": {
+      "file": "saim12050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:21.254081+00:00",
+      "updated_at": "2018-12-14T01:56:55+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12060": {
+      "file": "saim12060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:21.621992+00:00",
+      "updated_at": "2018-12-14T01:56:55+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12070": {
+      "file": "saim12070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:21.994480+00:00",
+      "updated_at": "2018-12-14T01:56:55+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12100": {
+      "file": "saim12100.txt",
+      "children": [
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12110",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12120",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12130",
+        "/hmrc-internal-manuals/savings-and-investment-manual/saim12140"
+      ],
+      "retrieved_at": "2026-09-18T14:27:22.368421+00:00",
+      "updated_at": "2016-12-06T12:17:23+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12200": {
+      "file": "saim12200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:22.747523+00:00",
+      "updated_at": "2016-12-06T12:17:31+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12210": {
+      "file": "saim12210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:23.119835+00:00",
+      "updated_at": "2026-04-22T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12220": {
+      "file": "saim12220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:23.489453+00:00",
+      "updated_at": "2017-03-06T13:43:34+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2710": {
+      "file": "saim2710.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:23.840643+00:00",
+      "updated_at": "2018-11-20T11:51:56+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2720": {
+      "file": "saim2720.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:24.205379+00:00",
+      "updated_at": "2020-02-05T09:50:44+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2730": {
+      "file": "saim2730.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:24.573313+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2740": {
+      "file": "saim2740.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:24.928911+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2750": {
+      "file": "saim2750.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:25.297195+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2760": {
+      "file": "saim2760.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:25.672514+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2770": {
+      "file": "saim2770.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:26.032997+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2780": {
+      "file": "saim2780.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:26.412460+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2790": {
+      "file": "saim2790.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:26.783380+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2800": {
+      "file": "saim2800.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:27.160164+00:00",
+      "updated_at": "2018-11-20T12:23:03+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2810": {
+      "file": "saim2810.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:27.520260+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim2820": {
+      "file": "saim2820.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:27.891657+00:00",
+      "updated_at": "2015-12-03T11:02:50+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12110": {
+      "file": "saim12110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:28.285112+00:00",
+      "updated_at": "2016-12-06T12:17:24+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12120": {
+      "file": "saim12120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:28.661910+00:00",
+      "updated_at": "2016-12-06T12:17:25+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12130": {
+      "file": "saim12130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:29.034620+00:00",
+      "updated_at": "2016-12-06T12:17:25+00:00"
+    },
+    "/hmrc-internal-manuals/savings-and-investment-manual/saim12140": {
+      "file": "saim12140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:29.396307+00:00",
+      "updated_at": "2016-12-06T12:17:31+00:00"
+    }
+  },
+  "status": "complete",
+  "errors": {},
+  "checked_at": "2026-09-18T14:27:29.400721+00:00",
+  "pages_checked": 288
+}

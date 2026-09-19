@@ -1,0 +1,52 @@
+Annual allowance: pension input amounts: defined benefits arrangements: non-uniform accrual scales
+Identifier: PTM053310
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053310
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-01T19:28:36+00:00
+Retrieved (UTC): 2026-09-18T14:50:40.908907+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+A particular feature of a defined benefits arrangement can be the accrual rates. The circumstances of a member might be such that benefits could be said to accrue at different rates to reach the same expected amount of pension. Also, it might be common for a different accrual rate to apply if the member leaves pensionable service before the scheme’s ‘normal pension age’.
+
+This is demonstrated by the following example.
+
+A scheme with a normal pension age 65 has benefit formulae expressed as:
+
+- on retirement at normal pension age - pensionable salary x 1/45 x (service limited to 30 years) with retirement below this age being subject to an actuarial reduction reflecting age
+
+- on leaving pensionable service early - pensionable salary x [actual service/potential service to normal pension age] x (fraction applicable on staying to normal pension age) - sometimes called the ‘N/NS’ formula.
+
+So, an individual who joined aged 40 (with 25 potential years of service) has:
+
+- on retiring from service at normal pension age, a fraction of 25/45
+
+- on leaving after N years, a fraction of N/45 (in this case use of ‘N/NS gives an effective rate of 45ths).
+
+However, an individual who joined age 25 (so potential service 40 years) has:
+
+- on retiring from service at normal pension age, a pension fraction at normal pension age of 2/3rds; but
+
+- on leaving after N years, a fraction of N/60 (being N/40 x 2/3).
+
+Effectively, despite the accrual rate being N/45 for service to normal pension age (service limited to 30 Years) or N/NS for leaving early, it could be said that the individual has a ‘uniform accrual’ of 1/60 for all purposes.
+
+If the member who joined at 25 is now 54 (so has service 29 years at the start of the pension input period), the valuation assumptions, nevertheless, require a pension input amount based on 29/45 at the start of the pension input period and 30/45 at the end of the pension input period. The next pension input periods would use 30/45 for both the start and end of the pension input periods; so +1/45 for one year and zero 1/45ths thereafter.
+
+However, it could also be said that the accrual is 1/60ths.
+
+For the purposes of working out the pension input amount, the pension is calculated on the valuation assumptions. In other words, the pension input amount is based on the pension the member would be entitled to (if they retired now) having reached the age at which no actuarial reduction applies. This requirement cannot be read ‘purposively’.
+
+This means that, in the example above, while actual service is less than 30 years when the pension input amount is calculated, then the accrual would be worked out on the basis of 1/45th accrual per year of service (and once accrued service at the calculation is more than 30, accrual will be zero by reference to the 1/45th accrual rate, but there may still be accrual by reference to salary linkage).
+
+Schemes may want to change the wording of their rules expressing accrual (without such a rule change actually affecting the benefit due to be paid) if that is possible in the circumstances for certain members but that is a matter for the scheme.
+
+The calculation of the pension input amount will reflect the rules of the scheme at the effective date of the opening and closing valuations.
+
+For example, if for a member the rules had been written as in the example above except on retirement at normal pension age the benefit formula was expressed as:
+
+- “on retirement at normal retirement date (retirement below this age is subject to a reduction reflecting age) pensionable salary x 2/3rds”
+
+with all else remaining the same as in the example, a new joiner’s pension input amount in their first pension input period would reflect accrual of a full 2/3rds fraction. And thereafter there would be no accrual as far as the 2/3rd fraction is concerned but there could still be accrual by reference to salary linkage. Such an immediate accrual of the full 2/3rds pension would, of course, mean a significant pension input amount in the first pension input period after joining.
+
+It must be emphasised that the exact conclusion from a particular case depends on the precise wording in the rules.

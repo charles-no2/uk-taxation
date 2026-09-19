@@ -1,0 +1,34 @@
+Depreciatory transactions: method of adjustment
+Identifier: CG46560
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46560
+Published: 2019-06-19T14:13:50+01:00
+Updated: 2019-06-19T14:13:41+01:00
+Retrieved (UTC): 2026-09-18T14:41:44.673610+00:00
+
+TCGA92/S176(4) & (5)
+
+The rules giving the method of making the adjustment are in TCGA92/S176(4) and TCGA92/S176(5). The allowable loss on the ultimate disposal is reduced to such extent as is just and reasonable having regard to the depreciatory transaction. The restriction is to be made on the footing that the allowable loss ought not to reflect any diminution in the value of the company’s assets attributable to the depreciatory transaction.
+
+The purpose of the rule is to allow the unadjusted capital gains loss to be reduced by an amount that reflects the commercial or economic effect of the depreciatory transaction.
+
+The loss restriction under TCGA92/S176(5) takes count of both depreciatory transactions and appreciatory transactions affecting the value of the shares or securities disposed of on the ultimate disposal. An appreciatory transaction is one that increases the value of the company whose shares are the subject of the ultimate disposal AND depreciates the value of the assets of another group member. See also CG46570 concerning the compensating reduction of gains on disposals other than the ultimate disposal.
+
+EXAMPLE
+
+Company A buys company B in 2008. In 2011 company B sells to another member of the group for £1M an asset which is worth £5M. In 2012 company B buys from another member of the group for £6M an asset which is worth £7M; this depreciates the value of that other company’s assets. In 2013 A sells B at a loss.
+
+The Section 176 adjustment should be based on the net reduction in value of B £3M.
+
+Minority holdings
+
+If the company making the ultimate disposal is not a member of the group concerned at the time of the ultimate disposal, any loss restriction is confined to depreciatory transactions while that person was a member of the group.
+
+EXAMPLE
+
+From 2009 to 2012 the group structure is- use this link to view the 2009 to 2012 group structure (http://www.hmrc.gov.uk/gds/cg/images/46560a.gif)
+
+In 2009 C transfers an asset to A at less than market value.
+
+From 2013 A no longer has an interest in B and the group structure is - use this link to view the structure from 2013 (http://www.hmrc.gov.uk/gds/cg/images/46560b.gif)
+
+In 2013 C again transfers an asset to A at less than market value. In 2014 B sells its shares in C at a loss. The loss restriction can take account of the depreciatory transaction which reduced the value of C in 2009, when B was a member of the A group. The loss restriction cannot take account of the depreciatory transaction which reduced the value of C in 2013, when B was not a member of the A group.

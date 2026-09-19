@@ -1,0 +1,34 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Individuals: Special rules, and computation: Election for 'straight-line time apportionment' basis of computation
+Identifier: CG73788
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73788
+Published: 2018-10-18T08:38:28+01:00
+Updated: 2019-10-11T09:29:00+01:00
+Retrieved (UTC): 2026-09-18T14:46:32.385109+00:00
+
+Sch 4ZZB/para 8 modifies the computations at Sch 4ZZB/paras 6 and 7 where a person held an asset at 5 April 2015 and makes an election under para 2 for the amount of post 5 April 2015 gain or loss to be determined by using the straight-line time apportionment method.
+
+Where the person has made a non-resident CGT disposal of (or of part of) an interest in UK land in those circumstances, the legislation disapplies the “notional post-April 2015 gain or loss” and “notional pre-April 2015 gain or loss” under Sch 4ZZB/para 5(2)(a) and (b) that would have been used in a computation based on the default method. A different process is used to arrive at figures for “notional post-April 2015 gain or loss” and “notional pre-April 2015 gain or loss” to be used in the calculation under Sch 4ZZB/paras 6 / 7. The procedure is as follows:-
+
+- Step 1, determine the amount of the gain or loss which accrues on the disposal. (For this purpose no account is taken of Sch 4ZZB - or TCGA92/S57B, the provision which introduces Sch 4ZZB - apart from Sch 4ZZB/para 23, Indexation.)
+
+- Step 2, an amount equal to the post-commencement fraction of that gain or loss is the notional post-April 2015 gain or loss.
+
+- Step 3, an amount equal to the pre-commencement fraction of that gain or loss is the notional pre-April 2015 gain or loss.
+
+The “post-commencement fraction” is -
+
+PCD
+
+TD
+
+where “PCD” is the number of days in the post-commencement ownership period, and “TD” is the total number of days in the ownership period.
+
+The “pre-commencement fraction” is -
+
+TD - PCD
+
+TD
+
+“Ownership period” is the period from the day the person acquired the interest disposed of (or, if later, 31 March 1982) to the day before the day on which the disposal occurs. “Post-commencement ownership period” has the meaning given by Sch 4ZZB/para 6(5) - the period from 6 April 2015 to the day before the day of the disposal.
+
+The non-resident CGT gain or loss is therefore the proportion of the post 5 April 2015 gain that reflects the amount of days in the post 5 April 2015 period in which the asset is used as a dwelling; and any mixed use on the same day is similarly apportioned.

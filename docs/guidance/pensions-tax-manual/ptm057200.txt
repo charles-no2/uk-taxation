@@ -1,0 +1,256 @@
+Annual allowance: tapered annual allowance: example of how to calculate threshold income, adjusted income and the tapered AA
+Identifier: PTM057200
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057200
+Published: 2020-07-23T15:39:47+01:00
+Updated: 2020-07-31T15:02:46+01:00
+Retrieved (UTC): 2026-09-18T14:49:22.877374+00:00
+
+| Glossary | PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001) | |———-|————————————————————————————-|
+
+Simple examples of calculating the tapered annual allowance (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057200#simple-examples-tapered-annual-allowance)
+Full worked example: background information (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057200#full-background-information)
+Full worked example: calculating threshold income (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057200#full-threshold-income)
+Full worked example: calculating adjusted income (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057200#full-adjusted-income)
+Full worked example: calculating the tapered annual allowance (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057200#full-annual-allowance)
+
+Simple examples of calculating the tapered annual allowance
+
+Assumptions.
+
+- The standard annual allowance is £40,000
+
+- The tapered annual allowance applies if threshold income is more than £110,000 and adjusted income is more than £150,000
+
+- The tapered annual allowance cannot be less than £10,000.
+
+Adjusted income £160,000
+
+An individual with adjusted income of £160,000 has a reduced annual allowance of £35,000 for the tax year.
+
+The £10,000 of income above £150,000 creates a reduction of £5,000 from the annual allowance of £40,000 - resulting in a reduced annual allowance for the tax year of £35,000.
+
+Adjusted income £215,000
+
+An individual with adjusted income of £215,000 has a reduced annual allowance of £10,000 for the tax year.
+
+The £65,000 of income above £150,000 creates a reduction of £32,500 which would otherwise have reduced the annual allowance to below £10,000 – in this case it would have been reduced to £7,500.
+
+Adjusted income £177,979
+
+If the reduction to be made from the annual allowance is not a multiple of £1, the reduction is rounded down to the nearest £1.
+
+An individual with adjusted income of £177,979 has a reduced annual allowance of £26,011 for the tax year.
+
+The £27,979 of income above £150,000 creates a reduction of £13,989 from the annual allowance of £40,000 - resulting in a reduced annual allowance for the tax year of £26,011.
+
+One half of £27,979 is £13989.50. As this is not a multiple of £1 the reduction is rounded down to the nearest £1 which is £13,989.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057200#Top)
+
+Full worked example: background information
+
+Jon is an employee and also has a self-employment.
+
+Jon has a salary of £112.000 and as a member of his employer’s pension scheme he pays 12.5% of his salary (£14,000) as member contribution. This is paid using the net pay arrangement so reduces the amount of employment income chargeable to tax. As a result, Jon’s P60 shows taxable pay of £98,000.
+
+The employer’s pension scheme is a career average scheme accruing at 1/56th pay each year. Pension built up under the scheme from previous years (£12,500) is increased by CPI + 1%.
+
+Jon’s profit from self-employment is £44,000. Each month Jon pays £360 into a personal pension scheme.
+
+Jon has £2,000 income from savings, however £1,400 derives from ISAs so is not chargeable to tax. This leaves £600 savings income chargeable to tax.
+
+Jon also has dividend income of £1,900.
+
+Jon has not entered into any salary sacrifice or flexible remuneration arrangements.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057200#Top)
+
+Full worked example: calculating threshold income
+
+See PTM057100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057100) for guidance on the definition ‘threshold income’.
+
+Jon’s threshold income is calculated as follows.
+
+Step 1
+
+Start with Jon’s net income which is £144,500 made up of:
+
+£98,000 employment income
+
+£44,000 income from self-employment
+
+£600 savings income chargeable to tax
+
+£1,900 dividend income chargeable to tax
+
+Step 2
+
+Add the amount that would have been employment income but for the operation of a ‘relevant salary sacrifice arrangement’
+
+Jon hasn’t entered into a salary sacrifice arrangement so there is nothing to add at step 2 in respect of a relevant salary sacrifice arrangement.
+
+Running total = £144,500
+
+Step 3
+
+Add the amount that would have been employment income but for the operation of a ‘relevant flexible remuneration arrangement’
+
+Jon hasn’t entered into a flexible remuneration arrangement so there is nothing to add at step 3 in respect of a relevant flexible remuneration arrangement.
+
+Running total = £144,500
+
+Step 4
+
+Deduct the gross amount of contributions paid using relief at source (RAS).
+
+Each month Jon actually pays £360 into a personal pension scheme. The pension scheme administrator can claim £90 basic rate tax relief in respect of this contribution giving a gross contribution of £450 per month. This is £5,400 in RAS contributions for the year.
+
+Deduct £5,400, giving a running total of £139,100.
+
+Step 5
+
+Deduct the amount of any lump sum death benefit taxable as pension income.
+
+Jon has received no lump sum death benefit so there is nothing to deduct at step 5.
+
+Running total = £139,100
+
+Threshold income
+
+Jon’s threshold income is £139,100.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057200#Top)
+
+Full worked example: calculating adjusted income
+
+See PTM057100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057100) for guidance on the definition of ‘adjusted income’.
+
+Jon’s adjusted income is calculated as follows.
+
+Step 1
+
+Start with Jon’s net income which is £144,500 (see step 1 of Calculating threshold income (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057200#full-threshold-income) above for an explanation of how this figure is arrived at).
+
+Step 2
+
+Add the amount of any relief given under either section 193(4) or 194(1) Finance Act 2004.
+
+Jon’s contributions were made under the net pay arrangement or under RAS. Tax relief has not been given under either section 193(4) or 194(1) so there is nothing to add at step 2.
+
+Running total = £144,500
+
+Step 3
+
+Add the amount of member contributions paid under the net pay arrangement or which have been given transitional corresponding relief (see PTM111500 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm111500)).
+
+Jon paid £14,000 under the net pay arrangement.
+
+£144,500 + £14,000 = £158,500
+
+Step 4
+
+Add an amount equal to Jon’s total pension input amount minus Jon’s member contributions to all registered pension schemes.
+
+Jon has pension inputs under an other money purchase arrangement (his personal pension) and a defined benefits arrangement (his employer’s career average scheme).
+
+Other money purchase arrangement
+
+The pension input amount under the other money purchase arrangement is the total of any employer contributions and Jon’s relievable pension contributions. There are no employer contributions. The amount of Jon’s relievable pension contributions to his personal pension scheme is £5,400. (See step 4 of Calculating threshold income (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057200#full-threshold-income) above for an explanation of how this figure is arrived at.)
+
+Defined benefits arrangement
+
+PTM053301 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053301) provides general guidance on how to calculate the pension input amount under a defined benefits arrangement using the concept:
+
+Closing value – Opening value
+
+To calculate the opening value:
+
+Firstly identify pension entitlement
+
+This is £12,500 pension accrued from previous years
+
+Secondly multiply annual rate of pension by 16
+
+£12,500 x 16 = £200,000.
+
+Finally uprate by the annual increase in CPI for the September prior to the start of the relevant tax year. For the purpose of this example assume this is 2.5%.
+
+£200,000 x 1.025 = £205,000
+
+The opening value is £205,000.
+
+To calculate the closing value:
+
+Firstly identify pension entitlement
+
+£12,500 pension from previous years indexed in line with CPI (assume 2.5%) + 1%
+
+£12,500 x 1.035 = £12,937.50
+
+The new benefit accrued is 1/56th pay (£112,000) = £2,000
+
+Pension entitlement is £12,937.50 + £2,000 = £14,937.50
+
+Then multiply annual rate of pension by 16
+
+£14,937.50 x 16 = £239,000
+
+The closing value is £239,000.
+
+Pension input amount is: Closing value – Opening value
+
+£239,000 - £205,000 = £34,000
+
+Jon’s total pension input amount minus contributions
+
+Jon’s total pension input amount is
+
+£5,400 + £34,000 = £39,400
+
+Jon’s total member contributions were:
+
+£5,400 (to his personal pension) + £14,000 (to his employer’s scheme) = £19,400
+
+Total pension input amount minus member contributions is:
+
+£39,400 - £19,400 = £20,000
+
+The amount to be added to the calculation for step 4 is £20,000
+
+£158,500 + £20,000 = £178,500
+
+Step 5
+
+Deduct the amount of any lump sum death benefit taxable as pension income.
+
+Jon has received no lump sum death benefit so there is nothing to deduct at step 5.
+
+Running total = £178,500
+
+Adjusted income
+
+Jon’s adjusted income is £178,500.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057200#Top)
+
+Full worked example: calculating the tapered annual allowance
+
+In this example assume:
+
+- The standard annual allowance is £40,000
+
+- The tapered annual allowance applies if threshold income is more than £110,000 and adjusted income is more than £150,000.
+
+Jon’s threshold income is £139,100 and his adjusted income is £178,500. The tapered annual allowance applies to Jon.
+
+Jon’s tapered annual allowance is £25,750.
+
+His annual allowance is reduced by £1 for every £2 Jon’s adjusted income (£178,500) is in excess of the adjusted income limit for the year (£150,00).
+
+The amount of the reduction to Jon’s annual allowance is calculated as:
+
+(£178,500 - £150,000) x ½ = £14,250
+
+£40,000 - £14,250 = £25,750.
+
+John’s total pension input amount is £39,400 (see step 4 under Calculating adjusted income (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm057200#full-adjusted-income) for derivation. This is £13,650 more than Jon’s tapered annual allowance.

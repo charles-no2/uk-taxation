@@ -1,0 +1,190 @@
+International: UK tax charges on non UK schemes: the annual allowance charge and non-UK schemes: pension input amounts for cash balance arrangements and defined benefits arrangements
+Identifier: PTM113320
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2015-12-14T16:03:11+00:00
+Retrieved (UTC): 2026-09-18T14:51:19.335924+00:00
+
+| Glossary | PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001) | |———-|————————————————————————————-|
+
+How to calculate the pension input amounts for cash balance arrangements and defined benefits arrangements (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320#IDAQMOMB)
+The appropriate fraction (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320#IDAMQOMB)
+Converting pension input amounts expressed in a foreign currency into the sterling equivalent (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320#IDAAVOMB)
+Defined benefits pension savings based on a scheme year that is different from the UK tax year (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320#IDAIWOMB)
+Worked example of calculating the pension input amount for a defined benefits arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320#IDAAXOMB)
+
+How to calculate the pension input amounts for cash balance arrangements and defined benefits arrangements
+
+Sections 230 to 232 and 234 to 236 and paragraph 10 Schedule 34 Finance Act 2004
+
+Regulations 9 and 10 The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006 - SI 2006/207
+
+The method of calculating the pension input amount relating to cash balance arrangements and defined benefit arrangements held under a currently-relieved non-UK pension scheme is modified for a currently-relieved member for the tax year.
+
+The calculation of the pension input amount under a registered pension scheme requires the use of CPI. If there is an index in the movement of consumer prices maintained, or officially recognised, by the government of the country in which the currently-relieved non-UK pension scheme is established this index should be used in place of CPI. If there is more than one such index then the relevant non-UK scheme can choose which one to use. If there is no such index should CPI be used in the calculation of the pension input amount.
+
+The pension input amount is then adjusted by the application of a fraction (called The appropriate fraction (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320#IDAMQOMB)) to what would otherwise be the individual’s pension input amount. However, the fraction cannot reduce an employee’s pension input amount below the amount of contributions made by or on behalf of them to the scheme that have benefited from UK tax relief.
+
+So the pension input amount under a defined benefits arrangement or cash balance arrangement for a currently-relieved member of a currently-relieved non-UK pension scheme, is calculated in the following way.
+
+Step 1
+
+Calculate the pension input amount for the arrangement in the same way as for a registered pension scheme. For guidance on how to calculate the pension input amounts for:
+
+- defined benefits arrangements - see PTM053300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053300),
+
+- cash balance arrangements - see PTM053400 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053400).
+
+This step may require the use of an alternative overseas equivalent to the CPI.
+
+This page provides guidance on the annual allowance rules from 6 April 2011. Guidance relating to previous years can be found on the National Archives at http://webarchive.nationalarchives.gov.uk/*/http://www.hmrc.gov.uk/manuals/rpsmmanual/RPSM13102300.htm (http://webarchive.nationalarchives.gov.uk/*/http://www.hmrc.gov.uk/manuals/rpsmmanual/RPSM13102300.htm).
+
+Step 2
+
+Then apply the appropriate fraction to that pension input amount to give an adjusted pension input amount. If all of the currently-relieved member’s employment income is taxable in the UK then application of the fraction will not alter the pension input amount calculated under Step 1. See the section ‘The appropriate fraction (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320#IDAMQOMB)’ below for more details about the appropriate fraction.
+
+Step 3
+
+Work out the amount of contributions made by, or on behalf of, the currently-relieved member to the arrangement during the tax year that had UK tax relief. Note contributions ‘on behalf of the currently-relieved member’ do not include contributions paid by the member’s employer.
+
+Step 4
+
+The pension input amount for the arrangement is the greater of the amounts arrived at under Steps 2 and 3 above.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320#Top)
+
+The appropriate fraction
+
+Paragraph 10 Schedule 34 Finance Act 2004
+
+The appropriate fraction from 2014-15 is:
+
+(TE + TSI) / EI
+
+EI
+
+EI is the total amount of an individual’s employment income from any relevant employment(s) for the tax year excluding any employment income which is ‘exempt income’.
+
+A relevant employment is an employment(s) with an employer(s) who is a sponsoring employer(s) of the currently-relieved non-UK pension scheme. EI includes earnings from a relevant overseas employment even where they are not chargeable to UK tax in that year.
+
+Exempt income is exempt within the meaning of section 8 Income Tax (Earnings and Pensions) Act 2003 (ITEPA 2003). For example, section 307 ITEPA 2003 provides that there is no liability to income tax under the benefits code for provision by an employee’s employer for a retirement or death benefit.
+
+TE
+
+TE is so much of EI as it constitutes taxable earnings from any such employment coming within the meaning of section 10(2) ITEPA 2003. Section 10(2) provides for taxable earnings from an employment in a tax year to be determined in accordance with the rules in Chapters 4 and 5 of ITEPA 2003. It excludes income that is not remitted to the UK if it is not chargeable to UK tax.
+
+TSI
+
+TSI is so much of EI as constitutes specific income from any such employment coming within the meaning of section 10(3) to (5) ITEPA 2003.
+
+Before 2014-15 the appropriate fraction was:
+
+TE / EI
+
+Where for tax years 2008-09 to 2013-14 TE and EI have the same meanings as shown above.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320#Top)
+
+Converting pension input amounts expressed in a foreign currency into the sterling equivalent
+
+The promised benefits under a non UK scheme are likely to be expressed in the currency of the country in which the currently-relieved non-UK pension scheme is established rather than in sterling.
+
+The opening and closing value of the currently-relieved member’s benefit rights for the purpose of calculating the pension input amount can be converted to the sterling equivalent by using either:
+
+- the spot rate at the start of the pension input period, or
+
+- the spot rate at the end of the pension input period, or
+
+- the average exchange rate over the entire pension input period.
+
+However, the chosen method must be used on a consistent basis.
+
+The pension input period for arrangements a currently-relieved member has under a currently-relieved non-UK pension scheme will be the same as the UK tax year (6 April to following 5 April).
+
+For example, if the pension input amount is being calculated for tax year 2014-15, the spot rate for 5 April 2015 can be used.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320#Top)
+
+Defined benefits pension savings based on a scheme year that is different from the UK tax year
+
+The pension input period for an arrangement under a currently-relieved non-UK pension scheme is the same as the UK tax year (6 April to following 5 April).
+
+If the information on which to base a pension input amount calculation on the UK tax year is available to the currently-relieved member, it should be used. It is not appropriate to base a calculation on, say, the existing scheme’s calendar year just because it is simpler. If it is impractical to work out the defined benefit accrual over the period of the UK tax year it would be possible to use the scheme year, provided the use of the scheme year is reasonable and is used consistently.
+
+For example, if the scheme year ends on 31 March it would be acceptable to use the increase in pension rights over that scheme year as the basis for calculating the pension input amount for a particular tax year, provided that no significant events occur in the period beginning on 1 April and ending on 5 April, such as a discretionary increase to the benefit rights or the payment of benefits.
+
+If the scheme year ends earlier than 31 March, for example on 31 December, it may be possible to deduce the pension input amount based on the change in the member’s salary and increase in pensionable service over the tax year if the defined benefit accrual is based on salary and pensionable service with the employer.
+
+Other examples of a reasonable use of a scheme year, such as 31 December, might be where the benefit rights are calculated by reference to a formula that is more complicated than a basic accrual rate of 1/60, 1/50 etc. of pensionable salary for each year of service. For example, where benefits are based on historical contribution rates over the entire scheme membership or based on pensionable salaries that have a market adjustment or where benefits are linked to an amount of state pension entitlement. In these circumstances the individual might have a benefit statement that shows only an increase in benefit entitlement from year to year and not have access to the necessary information to enable a calculation to be based over the UK tax year instead.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320#Top)
+
+Worked example of calculating the pension input amount for a defined benefits arrangement
+
+Mary is a currently-relieved member of a currently-relieved non-UK pension scheme. The scheme provides defined benefits on an accrual rate of 1/50th for each year of service. Benefit statements are based on a scheme year ending on 31 December.
+
+At the latest benefit statement on 31 December 2014 Mary had completed 10 years of pensionable service based on a current pensionable salary of £100,000.
+
+By 5 April 2015 Mary’s pensionable salary had increased to £105,000.
+
+Mary’s contributions to the scheme during the tax year that had UK relief were £25,000.
+
+The total amount of Mary’s employment income (EI) from the employments to which those benefits relate is £142,000. Mary’s UK taxable earnings (TE) from these employments (excluding overseas income that is not chargeable to UK tax and her employer’s contribution to the scheme) are £87,000. Mary has no taxable specific income.
+
+Step 1 - the pension input amount is worked out in the same way as for a registered pension scheme
+
+This is the difference between the opening value and the closing value of Mary’s promised benefits.
+
+Working out the opening value
+
+The opening value of Mary’s benefit rights is based on her pensionable service by the start of the tax year 2014-15, which is 9 years and 3 months, and the pensionable salary of £100,000, as used in her latest benefit statement of 31 December 2014.
+
+Mary’s opening value is calculated as:
+
+1. Find amount of annual pension
+
+9.25/50 x £100,000 = £18,500
+
+2. Multiply annual rate of pension by flat factor of 16
+
+£18,500 x 16 = £296,000
+
+3. Increase by CPI or, if available, an alternative overseas measure equivalent to CPI (3 per cent used in this example for illustrative purposes only)
+
+£296,000 x 1.03 = £304,880
+
+Mary’s opening value is £304,880.
+
+Working out the closing value
+
+The closing value of Mary’s benefit rights is based on her pensionable service by the end of the tax year 2014-15, which is 10 years and 3 months, and the pensionable salary by that time of £105,000.
+
+Mary’s closing value is calculated as:
+
+1. Find amount of annual pension
+
+10.25/50 x £105,000 = £21,525
+
+2. Multiply annual rate of pension by flat factor of 16
+
+£21,525 x 16 = £344,400
+
+Mary’s closing value is £344,400.
+
+The difference between the closing value and the opening value is £39,520.
+
+Step 2 - Work out the adjusted pension input amount using the appropriate fraction
+
+The appropriate fraction (TE + TSI/EI) is applied to the pension input amount from Step 1
+
+£87,000+ £0/£142,000 x £39,520 = £24,212.95
+
+Step 3 - Work out the amount of member’s contributions to the pension scheme that had UK tax relief in the tax year
+
+Mary’s UK tax relieved contributions were £25,000
+
+Step 4 - Work out the pension input amount
+
+Mary’s UK tax relieved contributions (£25,000) were greater than her adjusted pension input amount (£24,212.95).
+
+Therefore, Mary’s pension input amount for the pension input period is £25,000.

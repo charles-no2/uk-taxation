@@ -1,0 +1,155 @@
+The scheme administrator: changing scheme administrators
+Identifier: PTM154000
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm154000
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-04-29T11:42:20+01:00
+Retrieved (UTC): 2026-09-18T14:48:48.254995+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+The person or persons acting as scheme administrator of a registered pension scheme can be replaced or can resign.
+
+Ceasing to act as a scheme administrator (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm154000#IDAMXQQB)
+Appointing a new scheme administrator (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm154000#IDAJ3OQB)
+What happens if no new scheme administrator is appointed (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm154000#IDAEBSVD)
+
+Ceasing to act as a scheme administrator
+
+Section 271(1) and (2) Finance Act 2004
+
+When a person ceases to be a scheme administrator, as long as there is already another person acting as scheme administrator, they will cease to be liable as a scheme administrator. The replacement scheme administrator(s) will take on the existing scheme administrator liabilities. However, this rule does not apply to a liability to penalties. The exiting scheme administrator keeps liability to penalties; they are not passed onto the new scheme administrator.
+
+There is one exception to this general rule. This is where an independent trustee has been appointed on or after 1 September 2014 by the Pensions Regulator or by a court following an application made by the Pensions Regulator. If the independent trustee takes on the role of scheme administrator or appoints someone else to that role, they may not be required to take on existing liabilities and these will remain with the old scheme administrator. PTM156000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm156000) explains when this rule applies and what happens in these circumstances.
+
+Associating a successor scheme administrator
+
+Before a person can be added as a scheme administrator to a pension scheme and make the required declarations, the scheme administrator already known to HMRC must firstly associate the new or additional scheme administrator to the scheme. This is so that access to the registered pension scheme’s on-line records is only given to those entitled to have access. For a scheme registered on Pension Schemes Online with a PSTR that starts ‘00’, the Guide to using the Online Service for scheme administrators (https://www.gov.uk/government/publications/pension-schemes-online-user-guide/a-guide-to-using-the-online-service-for-scheme-administrators-and-practitioners) explains how to associate a successor scheme administrator. For a scheme registered on the Managing Pension Schemes service with a PSTR starting ‘20’, a scheme administrator can log in to their account and send an invitation to another person to become a scheme administrator of the scheme. The recipient has 30 days to log in and accept the invitation. If they accept, they will be added to the scheme.
+
+Where the details of a pension scheme were first held on Pension Schemes Online but have since moved to the Managing Pension Schemes service as well as continuing to be held on Pension Schemes Online, both systems are used for adding a person as scheme administrator. As described immediately above for the respective systems, the ‘send an invitation to another person to become a scheme administrator of the scheme’ part of the Managing Pension Schemes service is used as well as the ‘associate a successor scheme administrator’ part of Pension Schemes Online.
+
+If the successor has not been able to add themselves as a scheme administrator using Pension Schemes Online (where pension scheme details are held on Pension Schemes Online only), or accept an invitation through the Managing Pension Schemes service (where scheme details are on that system only) or has neither been able to ‘add themselves’ nor ‘accept an invitation’ (where scheme details are on both the Managing Pension Schemes service and Pension Schemes Online), they will not have been able to make the declaration required to make that person a scheme administrator in line with section 270 Finance Act 2004. This means that they have not been correctly appointed as a scheme administrator and so cannot take on existing scheme administrator liabilities. Unless there is another live scheme administrator on the scheme record the ceasing scheme administrator will remain liable as if they were still the scheme administrator.
+
+Notification
+
+Regulation 6 The Registered Pension Schemes (Provision of Information) Regulations 2006 - SI 2006/567
+
+Regulation 4 The Registered Pension Schemes and Overseas Pension Schemes (Electronic Communication of Returns and Information) Regulations 2006 - SI 2006/570
+
+The scheme administrator ceasing to act must tell HMRC that they no longer act in that capacity, and state from what date. This notification must be made using Pension Schemes Online, if the scheme is held on Pension Schemes Online. The Guide to using the Online Service for scheme administrators (https://www.gov.uk/government/publications/pension-schemes-online-user-guide/a-guide-to-using-the-online-service-for-scheme-administrators-and-practitioners) explains how to do this.
+
+For schemes registered on the Managing Pension Schemes service (registration application made on or after 4 June 2018) the scheme administrator can cease themselves from a scheme using that system.
+
+Where the details of a pension scheme were first held on Pension Schemes Online but have since moved to the Managing Pension Schemes service as well as continuing to be held on Pension Schemes Online, the ceasing to act as a scheme administrator must be notified on both systems.
+
+The notification to HMRC should be made within 30 days of the effective date of ceasing to act as scheme administrator. Penalties under section 98 Taxes Management Act 1970 apply for failing to make the notification on time or providing incorrect information.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm154000#Top)
+
+Appointing a new scheme administrator
+
+Section 270 Finance Act 2004
+
+A person cannot be appointed as a scheme administrator after 5 April 2006 unless they:
+
+- have been appointed in accordance with the scheme rules
+
+- are resident in the United Kingdom, an EU member state or a European Economic Area (EEA) state which is not a member of the EU, and
+
+- have made the relevant declarations to HMRC.
+
+That person should also be a fit and proper person - see PTM153000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm153000).
+
+The relevant declarations are made when the person:
+
+- in the case of a pension scheme held on the Managing Pension Schemes service only, accepts an invitation through the Managing Pension Schemes service to become a scheme administrator for the scheme, or
+
+- in the case of a scheme administrator applying to register a scheme using the Managing Pension Schemes service from 4 June 2018, applies to register the pension scheme, or
+
+- in the case of a pension scheme held on Pension Schemes Online only, adds themselves as a scheme administrator for the scheme using Pension Schemes Online, or
+
+- in the case of a pension scheme first held on Pension Schemes Online but having since moved to the Managing Pension Schemes service as well as continuing to be held on Pension Schemes Online, accepts an invitation through the Managing Pension Schemes service to become a scheme administrator for the scheme and adds themselves as a scheme administrator for the scheme using Pension Schemes Online.
+
+It follows that a person cannot be a scheme administrator until they have been added as a scheme administrator using the appropriate online process.
+
+Once appointed the new scheme administrator takes on the existing scheme administrator liabilities (apart from liability for any penalties which stays with the old scheme administrator).
+
+However, if the new scheme administrator:
+
+- is an independent trustee appointed on or after 1 September 2014 by the Pensions Regulator or by a court following an application made by the Pensions Regulator, or
+
+- has been appointed by such an independent trustee
+
+see PTM156000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm156000).
+
+Adding a scheme administrator using Pension Schemes Online
+
+The Guide to using the Online Service for scheme administrators (https://www.gov.uk/government/publications/pension-schemes-online-user-guide/a-guide-to-using-the-online-service-for-scheme-administrators-and-practitioners) provides guidance on how to add a person as a scheme administrator to a pension scheme registered on Pension Schemes Online.
+
+Before a new person can add themselves as scheme administrator using Pension Schemes Online the outgoing or existing scheme administrator must ‘associate’ the new person to the scheme record. The Guide to using the Online Service for scheme administrators (https://www.gov.uk/government/publications/pension-schemes-online-user-guide/a-guide-to-using-the-online-service-for-scheme-administrators-and-practitioners) provides guidance on how an existing scheme administrator can associate a new person to be scheme administrator.
+
+Adding a scheme administrator using the Managing Pension Schemes service
+
+If the pension scheme was registered through the Managing Pension Schemes service, the scheme administrator can invite other scheme administrators to be added to the scheme. The scheme administrator must check that the scheme administrator being invited has enrolled onto the Managing Pension Schemes service.
+
+A person receiving an invitation through the Managing Pension Schemes service to be added to a pension scheme has 30 days to accept the invitation. If no action is taken within 30 days, the invitation will be withdrawn.
+
+Adding a scheme administrator using both the Managing Pension Schemes service and Pension Schemes Online
+
+In the case of a pension scheme first held on Pension Schemes Online but having since moved to the Managing Pension Schemes service as well as continuing to be held on Pension Schemes Online, both systems are used for adding a person as scheme administrator.
+
+The process when using each system is the same as that described above under the respective headings of ‘Adding a scheme administrator using the Managing Pension Schemes service’ and ‘Adding a scheme administrator using Pension Schemes Online’.
+
+What to do if a person cannot be added as a scheme administrator
+
+If there is no existing scheme administrator, or the outgoing scheme administrator refuses to associate or invite a new person (despite that new person being appointed in accordance with the scheme rules), this association will have to be done by HMRC Pension Schemes Services (PSS).
+
+This done by writing to PSS at:
+
+Pension Schemes Services
+HM Revenue and Customs
+BX9 1GH
+United Kingdom
+
+The following information must be provided:
+
+- evidence that the person has been appointed to the role of scheme administrator in accordance with the scheme rules, and
+
+- the Scheme Administrator ID, starting A0, given to that person when they registered as a scheme administrator using Pension Schemes Online, or
+
+- the Scheme Administrator ID, starting A2, given to that person when they registered as a scheme administrator using the Managing Pension Schemes service.
+
+HMRC will then associate the person to the scheme by entering that person’s Scheme Administrator ID. Once HMRC has done this the person will be able to add themselves as scheme administrator in accordance with chapter 3 of the Guide to using the Online Service for scheme administrators (https://www.gov.uk/government/publications/pension-schemes-online-user-guide/a-guide-to-using-the-online-service-for-scheme-administrators-and-practitioners). For a pension scheme registered on the Managing Pension Schemes service, HMRC will add the person’s Scheme Administrator ID to the scheme.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm154000#Top)
+
+What happens if no new scheme administrator is appointed
+
+Section 271(3) to (13) Finance Act 2004
+
+Retention of scheme administrator liabilities
+
+A scheme administrator cannot simply remove themselves from their duties and tax liabilities by resigning. If, after resigning, there is no other person acting as scheme administrator the ‘retiring’ scheme administrator remains liable as if they were the scheme administrator until a new scheme administrator is appointed and has, as appropriate, accepted the invitation through the Managing Pension Schemes service to be the scheme administrator or added themselves as scheme administrator using Pension Schemes Online. If the new scheme administrator is unable to report their appointment using the appropriate online process that person needs to write to Pension Schemes Services (see What to do if a person cannot be added as a scheme administrator (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm154000#whattodoifapersoncannot)).
+
+A person who retains liability as if they were the scheme administrator can apply to HMRC to be released from this liability. The application should be in writing setting out full details of how the situation arose and the reasons for the request to be released from liability - see PTM158000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm158000).
+
+HMRC will consider the application and notify the applicant of their decision. If HMRC decides not to release the ex-scheme administrator from ongoing liability the ex-scheme administrator can appeal against HMRC’s decision. Any appeal must be in writing and made within 30 days of HMRC’s notification of the decision.
+
+If there is no scheme administrator because the last person who was scheme administrator died or, in the case of an organisation, ceased to exist see PTM155000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm155000).
+
+Reports filed using Pension Schemes Online or the Managing Pension Schemes service
+
+Pension Schemes Online and the Managing Pension Schemes service will reject any returns or reports because there is no person who is the scheme administrator known to HMRC, and therefore no-one responsible for declaring the reports/returns as correct and complete, if:
+
+- it has a scheme administrator linked to a registered pension scheme, and
+
+- that scheme administrator ceases, and
+
+- it has no record of another scheme administrator, and
+
+- the scheme was registered after 5 April 2006.
+
+The returns or reports will be treated as not filed.
+
+De-registration
+
+HMRC may de-register the scheme as lack of a scheme administrator is one of the circumstances in which HMRC has the power to remove a scheme’s registered status - see PTM033200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm033200).

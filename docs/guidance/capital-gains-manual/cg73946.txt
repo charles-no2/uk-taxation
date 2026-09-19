@@ -1,0 +1,54 @@
+NRCG and the exemptions: Disposals from 6 April 2019: Indirect disposals: The trading exception
+Identifier: CG73946
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73946
+Published: 2020-02-05T15:05:45+00:00
+Updated: 2020-02-06T14:29:21+00:00
+Retrieved (UTC): 2026-09-18T14:46:52.086865+00:00
+
+TCGA92/Sch1A Para 5
+
+This exception acts to exempt non-UK residents on disposals of companies that are UK property rich (see CG73934 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73934)) which can apply where all, or almost all, of the UK land being disposed of is being used in the course of a qualifying trade, or if not currently being so used was acquired for the use in the course of a qualifying trade.
+
+This provision is intended to cover situations where what is being sold is an ongoing trade that has UK land amongst the assets. In most cases, an ongoing concern is unlikely to hold 75% of its gross assets in UK land; and paragraph 5 saves the need to calculate property richness in borderline cases where it is clear to the disponer that the disposal is of an ongoing trade, rather than a disposal of UK land in a company.
+
+Meaning of qualifying trade
+
+A qualifying trade is one:
+
+- That is being carried on by the company owning the UK land, or persons who are connected with that company, at the time of disposal and has been so for a least a year prior to that time, and
+
+- Which the disponer can reasonably conclude will continue to be carried on after the disposal for a more than insignificant period of time, on a commercial basis with a view to profits.
+
+The company must be carrying on the trade at the time of disposal, or a person connected with the company must be carrying it on. Connected takes the meaning in TCGA 1992/s286 (see CG14580 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14580)) and most commonly mean companies that are within the same group. The company carrying on the trade must continue to be connected at the point of disposal, but provided the trade continues after the disposal it may be transferred to another person in the purchasing group.
+
+Whether a given trade continues is based on similar principles to those applied under Part 14 of CTA10. It is necessary for the disponer to reasonably conclude that the trade is likely to continue for a ‘more than insignificant’ period of time – ‘insignificant’ in this context is a matter of degree, and should be taken in the context of these provisions to mean that the intention of the buyer is to continue to operate the trade.
+
+There may be circumstances where the trade is in distress and at risk of closing down after the sale; providing that there is a genuine understanding that the buyer is acquiring the land and trade with the intention of making the trade profitable this can meet the conditions.
+
+Letting out of property is not, in itself, a trade.
+
+See also CG53000P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53000p) in relation to companies disposing of trading companies or trading groups or sub-groups.
+
+Transfers of UK land within a group ahead of a disposal
+
+Under the NRCG rules UK land assets and shares in UK property rich companies are “chargeable assets”. This means that intragroup transfers of these “chargeable assets” are undertaken on a tax neutral basis under TCGA 1992/s171. S171 in respect of non-resident companies is discussed further at CG45310 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45310).
+
+In a group context, it is common for properties used within the group to be held in a different company to the trading company. A group may have several different trades held via different subsidiaries (in different jurisdictions) and the group parent may be non-UK resident. In the year ahead of a disposal of one of the group’s trades the properties used exclusively in that trade are transferred into a new property company. Where s171 applies the transfers involving UK land will be on a ‘nil gain, nil loss’ basis. If the relevant operating company and the property company are then sold together and the trade is expected to continue for the foreseeable future, then the conditions of the trading exception could be met. This would be a joint sale of the trading company and property-owning company as an ongoing trade.
+
+However, it is important to note that the trading exception applies only at the share asset tier. Depending on circumstances a degrouping charge could apply. Degrouping charges are discussed in detail at CG45400 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45400)+.
+
+Land not being used in the trade
+
+Either all of the UK land being disposed of must be used in a qualifying trade, or all but for low-value interests in UK land. This may be the case where, for example, a small amount of the value of UK land represents a dwelling for occupation by a member of staff (but not occupied for the purposes of the qualifying trade), or where there are derelict, low-value properties amongst otherwise occupied ones. This can include the letting out of surplus space by a trader. The scale of the portfolio of property being disposed of in the arrangement will be definitive in looking at the relative value of the amount of property not used in the trade.
+
+Land can be counted as being used for trading where it is intended that it be so used. So a building that is under repair or being re-fitted can be considered –even if not occupied at the point of disposal- providing that the intention is to use it in the trade following the disposal.
+
+Application to Property Development Companies
+
+Property Development Companies (PDC) can cover a range of activities associated with the development of UK land. This UK land is a principal asset such that they are likely to be UK property rich under Sch 1A.
+
+When considering the disposal of shares in a PDC consideration is first needed as to whether the disposal is charged under the ‘Transactions in UK land’ rules at [BIM60510 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim60510)+] which take priority. The ‘Transaction in UK land’ rules may apply to part or all of the gain.
+
+If NRCG could apply to all or part of the gain then the trading exception can be considered, however it is unlikely the trading exception would apply. For example, it is unlikely that the ‘qualifying trade’ will continue and that the land being used in the ‘qualifying trade’ at the point of disposal would continue to be used in that ‘qualifying trade’.
+
+Cases of doubt or difficulty should be referred to the CG Technical team.

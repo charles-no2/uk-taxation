@@ -1,0 +1,12 @@
+Targeted anti-loss buying rule - example 2
+Identifier: CG47038
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47038
+Published: 2016-03-12T11:14:39+00:00
+Updated: 2016-01-25T17:05:34+00:00
+Retrieved (UTC): 2026-09-18T14:41:52.778646+00:00
+
+Group A holds all of the share capital of B Ltd (Group A does not qualify for the substantial shareholding exemption). B Ltd owns all of the shares in C Ltd. Apart from the shares in C Ltd, B Ltd holds no significant assets or business. B Ltd’s holding in C Ltd stands at a loss. A then sells the shares in B Ltd to X group. B Ltd then disposes of the shares in C Ltd realising a capital loss. X group would then expect to transfer any assets within the group that are standing at a gain to B Ltd at no gain/no loss (TCGA92/S171) before disposing of these assets outside the group. (Under the terms of the legislation prior to the FA 2006 changes a proportion of the loss that arose on the disposal of C Ltd by B Ltd would not be regarded as pre-entry, even though the economic loss was wholly sustained prior to the disposal of B Ltd by the A Group.)
+
+This is a clear example of loss buying occurring in spite of the pre-FA2006 legislation, which might occur where the purchasing group is content that it will only be able to access a part of the losses sustained on the disposal of C Ltd. Again, the second principle set out in the HMRC statement of 5 December 2005 (see Appendix 8) has been infringed. There has clearly been a qualifying change of ownership as defined in TCGA92/S184C. B Ltd has accrued losses on the disposal of a pre-change asset. One of the main purposes of the change in ownership was to secure a tax advantage. TCGA92/S184A therefore applies and the qualifying loss cannot be deducted from any gains made by X group.
+
+If, before the shares in C Ltd were disposed of, they were transferred to another member of the X group, Y Ltd, at no gain, no loss (TCGA92/S171), the capital loss would then arise to Y Ltd. However, TCGA982/S184C applies and it would still be a qualifying loss as it has arisen to a company on a pre-change asset. The loss cannot therefore be deducted from any chargeable gains of Y Ltd.

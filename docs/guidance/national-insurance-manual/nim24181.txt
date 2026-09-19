@@ -1,0 +1,50 @@
+Class 4 NICs: structure: annual Class 4 NICs maximum from 6 April 2003 to 5 April 2011: contributors who are employed and self-employed: examples: Case 1 of regulation 100(3): contributor has not exceeded the maximum
+Identifier: NIM24181
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24181
+Published: 2016-04-11T17:41:21+01:00
+Updated: 2019-08-19T10:59:33+01:00
+Retrieved (UTC): 2026-09-18T15:22:11.374525+00:00
+
+Case 1 of Regulation 100, SSCR 2001.
+
+NIM24170 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24170) onwards provides guidance on the calculation method used to determine the Class 1, 2 and 4 NICs annual maximum liability for a contributor who is both employed and self- employed during the same tax year. The calculation method shown applies to tax years from 2003/2004 onwards. For guidance on the Class 1, 2 and 4 NICs maximum for tax years before 2003/2004 see NIM24120 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24120) onwards.
+
+The following example illustrates the Class 1, 2 and 4 NICs maximum calculation for a contributor who falls into Case 1 of regulation 100(3). In this example the contributor, whilst having paid all of the NICs that he is due to pay, does not exceed his maximum. The contributor is liable to pay Class 4 NICs at a rate of 8% only. This example should be read in conjunction with NIM24175 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24175) and NIM24176 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24176)
+
+The example uses the rates and limits in force during the 2010/2011 tax year.
+
+Example
+
+Mr Hoy has been self-employed for the whole of the 2010/2011 tax year. His profits for the year amount to £15,000. He has paid £742.80 at the main Class 4 NICs percentage. He has paid 52 Class 2 NICs at £2.40. Mr Hoy also had two part time employed earner’s employments during the 2010/2011 tax year. In the two employments he paid a total of £800 at the main Class 1 NICs percentage. Mr Hoy’s maximum Class 1, 2 and 4 NICs liability is calculated as follows.
+
+Step 1
+
+Subtract the Lower Profits Limit (LPL) from the Upper Profits Limit (UPL)
+
+£43,875 - £5715 = £38,160
+
+Step 2
+
+Multiply the result of step 1 by 8%
+
+£38,160 x 8% = £3052.80
+
+Step 3
+
+Add to the result of step 2, 53 times the weekly rate of Class 2 NICs
+
+£3052.80 + (53 x £2.40) = £3180
+
+Step 4
+
+Subtract from the result of step 3 the aggregate amount of any Class 2 NICs and any primary Class 1 NICs paid at the main primary percentage.
+
+£3180 - £924.80 = £2,255.20
+
+Which Case of regulation 100(3) does Mr Hoy fall into?
+
+If the result of step 4 is a positive figure and it exceeds the aggregate of Class 1 NICs payable at the main primary percentage, Class 2 NICs and Class 4 NICs payable at the main Class 4 NICs percentage on the earnings and profits received for the year, the result of step 4 is the maximum amount of Class 4 NICs due. There is no need to proceed to any further steps within regulation 100(3).
+
+On his earnings and profits Mr Hoy would be liable, and has paid, a total of £1667.60 in NICs. That is £800 in Class 1 NICs, plus £124.80 in Class 2 NICs plus £742.80 in Class 4 NICs. The figure produced by step 4 (£2,255.20) is a positive figure and it exceeds £1,667.60. Mr Hoy therefore falls into Case 1 of regulation 100(3). Case 1 provides that the figure of Class 4 produced at step 4 is the maximum amount of Class 4 NICs payable.
+
+Although the maximum amount of Class 4 payable by Mr Hoy is £2,255.20, he is only liable to pay £742.80 in Class 4 NICs because his profits are only £15,000. In this example, the contributor has paid all of the NICs that he is liable to pay but he has not reached his maximum. There is no question of Mr Hoy being required to pay any further Class 4 NICs.

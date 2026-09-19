@@ -1,0 +1,40 @@
+The benefits code: beneficial loans: calculating the  cash equivalent: the precise method: step-by-step
+Identifier: EIM26231
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26231
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T12:24:47+01:00
+Retrieved (UTC): 2026-09-18T14:12:18.532467+00:00
+
+Section 183 ITEPA 2003
+
+The step-by-step calculation of the cash equivalent of a beneficial loan using the precise method (see EIM26230 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26230)) is set out in Section 183(3) as follows.
+
+Step 1
+
+For each day when the loan was outstanding find the maximum amount of the loan and multiply this by the official rate of interest for that day.
+
+Step 2
+
+Add together each of the amounts from step 1.
+
+Step 3
+
+Divide the result of step 2 by the number of days when the loan was outstanding.
+
+Finally, deduct from the result of step 3 any interest paid on the loan.
+
+- In practice it may be quicker to do the calculation as follows:
+
+- take each period in the relevant year during which the appropriate official rate of interest remains the same
+
+- for each such period, take for each day in the period the maximum amount outstanding of the loan on that day, and add those amounts together
+
+- multiply that sum by the official rate in force during the period divided by 365
+
+- add together the resulting figures for each period in the relevant year
+
+- deduct from the result of step 4 any interest paid by the employee.
+
+The above steps are set out in a formula at EIM26235 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26235).
+
+See EIM26300 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26300) for a list of examples showing the precise method of working out the cash equivalent of a beneficial loan.

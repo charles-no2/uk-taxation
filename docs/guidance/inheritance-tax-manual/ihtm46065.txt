@@ -1,0 +1,32 @@
+Downsizing calculations: where there is no residential property interest in the estate: how to calculate the lost relievable amount 
+Identifier: IHTM46065
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46065
+Published: 2018-09-28T11:30:23+01:00
+Updated: 2021-07-09T07:46:33+01:00
+Retrieved (UTC): 2026-09-18T15:11:04.926220+00:00
+
+Where the person has disposed of a residential property interest (IHTM46011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46011)) in their lifetime and there is no residential property interest in their estate at death the calculation of the lost relievable amount (IHTM46062 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46062)) is provided by IHTA84/S8FE(10). The lost relievable amount is calculated using the following steps:
+
+Step 1 - Work out the person’s ‘former allowance’. This is broadly the RNRB that would have been available when the disposal took place, but with some adjustments.
+
+This figure is made up of:
+
+- the residential enhancement (IHTM46022 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46022)) that applied at the date of disposal, plus
+
+- any brought-forward allowance (IHTM46040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46040)) that would have been available at the date of disposal, plus
+
+- if the brought-forward allowance at the date of death is greater than the brought-forward allowance at the date of disposal, the difference between these two values.
+
+The total of these three values is the person’s ‘former allowance’.
+
+If the disposal occurred between 8 July 2015 and 5 April 2017 (IHTM46021 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46021)) the figure for the residential enhancement is treated as being £100,000 in accordance with IHTA84/S8FE(6)(a). There would not have been any brought-forward allowance available at that time, so this value will be nil in accordance with IHTA84/S8FE(6)(b). But any brought-forward allowance at the date of death is nevertheless added to the residential enhancement (see example 3 at IHTM46066 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46066)).
+
+Step 2 - Express the value of the person’s QFRI (IHTM46053 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46053)) as a percentage of the person’s ‘former allowance’ (the value from step 1 above). This percentage is capped at 100% if it would otherwise be higher.
+
+Step 3 - Multiply the person’s allowance on death (their default or adjusted allowance (IHTM46026 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46026)) by the percentage at step 2. This value is the person’s ‘lost relievable amount’
+
+The actual downsizing addition is the lower of:
+
+- the person’s ‘lost relievable amount’ from Step 3, and
+
+- the value of the property or assets which are closely inherited (IHTM46052 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46052)).

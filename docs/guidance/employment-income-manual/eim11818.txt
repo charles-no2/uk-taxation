@@ -1,0 +1,16 @@
+PAYE: special type of payer or payee: agency workers: example
+Identifier: EIM11818
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11818
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-03-25T15:13:11+00:00
+Retrieved (UTC): 2026-09-18T14:09:29.452781+00:00
+
+Sections 688 ITEPA 2003
+
+An individual works for a UK client. The individual is hired to work for the client via a UK agency. The worker is paid by an offshore intermediary of the client. Payment is made in readily convertible assets.
+
+Is PAYE due on the payment by the overseas intermediary?
+
+The overseas intermediary making the payment is outside the PAYE regulations but the remuneration arises under an agency agreement (see the Employment Status Manual, ESM2000 (https://www.gov.uk/hmrc-internal-manuals/employment-status-manual/esm2000)).
+
+A payment of readily convertible assets in these circumstances is treated as a payment by the UK agency (under sections 688(1) and 696 ITEPA 2003) for the purposes of Part 11 ITEPA 2003. So the agency is required to operate PAYE.

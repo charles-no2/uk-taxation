@@ -1,0 +1,252 @@
+Dwellings subject to ATED: computation of gains and losses: chargeable interests held on 5 April of the relevant year - examples
+Identifier: CG73628
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73628
+Published: 2016-03-12T12:24:38+00:00
+Updated: 2023-04-25T16:06:44+01:00
+Retrieved (UTC): 2026-09-18T14:35:44.374199+00:00
+
+1.Asset held on 5 April 2013 and always within the scope of ATED
+
+2.Asset held on 5 April 2015 and not within the scope of ATED until 1 April 2015
+
+3.Asset held on 5 April 2016 and not within scope of ATED until 1 April 2016
+
+Example 1. Asset held on 5 April 2013 and always within the scope of ATED
+
+Basic information:
+
+Residential property acquired April 2006 for £3,000,000 and disposed of April 2016 for £6,000,000.
+
+The property had a value of £5,000,000 at 5 April 2013.
+
+Estimated Indexation factors are: April 2006 to April 2013 0.3
+
+April 2006 to April 2016 0.4
+
+Total number of days chargeable to ATED (say) 700
+
+Total days 6/4/2013 to disposal 1095
+
+Stage 1
+
+Disposal proceeds £6,000,000
+
+Market value at 5 April 2013 £5,000,000
+
+Notional post April 2013 gain £1,000,000
+
+Stage 2
+
+Days in relevant ownership period from April 2013 that are chargeable to ATED (CD) 700
+
+Days in the relevant ownership period from 2013 to the date of disposal (TD) 1095
+
+CD/TD x notional post April 2013 gain ((700/1095)) x £1,000,000) = £639,269
+
+ATED related chargeable gain £639,269
+
+on ATED-related gain before notional indexation (IA) (see stage 4) £360,731
+
+Stage 3
+
+Market value at 5 April 2013 £5,000,000
+
+Allowable costs £3,000,000
+
+Indexation (3,000,000 x 0.3) £900,000 £3,900,000
+
+Notional pre April 2013 gain £1,100,000
+
+Stage 4
+
+Notional post April 2013 non ATED-related gain before IA (see stage 2) £360,731
+
+Less notional IA (see below)
+
+£252,512
+
+Notional indexation
+
+Indexation due on disposal disregarding Schedule 4ZZA
+
+3,000,000 x 0.4 £1,200,000
+
+Less
+
+Indexation from stage 3 £900,000
+
+£300,000
+
+Apply factor (CD-TD)/TD
+
+(1095-700)/(1095) x £300,000
+
+Notional Indexation is £108,219
+
+Stage 5
+
+Stage 3 gain £1,100,000
+
+Plus stage 4 gain £252,512
+
+Non ATED-related gain £1,352,512
+
+Example 2. Asset held on 5 April 2015 and not within the scope of ATED until 1 April 2015
+
+Basic information:
+
+Residential property acquired April 2010 for £800,000 and disposed of on 7 April 2016 for £1,400,000.
+
+The property had a value of £1,200,000 at 5 April 2015.
+
+Estimated Indexation factors are: April 2010 to april 2015 0.1
+
+April 2010 to April 2016 0.11
+
+Total number of days chargeable to ATED (assumed) 200
+
+Total days 6 April 2015 to disposal (relevant ownership period) 365
+
+Stage 1
+
+Disposal proceeds £1,400,000
+
+Market value at 5 April 2015 £1,200,000
+
+Notional post April 2015 gain £200,000
+
+Stage 2
+
+Days in relevant ownership period from April 2015 that are chargeable to ATED (CD) 200
+
+Days in the relevant ownership period from 2015 to the day preceding the date of disposal (TD) 365
+
+CD/TD x notional post April 2015 gain ((200/365)) x £200,000) = £109,589
+
+ATED related chargeable gain £109,589
+
+on ATED-related gain before notional indexation (IA) (see stage 4) £90,411
+
+Stage 3
+
+Market value at 5 April 2015 £1,200,000
+
+Allowable costs £800,000
+
+Indexation (800,000 x 0.1) £80,000 £880,000
+
+Notional pre April 2015 gain £320,000
+
+Stage 4
+
+Notional post April 2015 non ATED-related gain before IA (see stage 2) £90,411
+
+Less notional IA (see below) £3,617
+
+£86,794
+
+Notional indexation
+
+Indexation due on disposal disregarding Schedule 4ZZA
+
+800,000 x 0.11 £88,000
+
+Less
+
+Indexation from stage 3 £80,000
+
+£8,000
+
+Apply factor (CD-TD)/TD
+
+(365-200)/(365) x £8,000
+
+Notional Indexation is £3,617
+
+Stage 5
+
+Stage 3 gain £320,000
+
+Plus stage 4 gain £86,794
+
+Non ATED-related gain £406,794
+
+Example 3. Asset held on 5 April 2016 and not within scope of ATED until 1 April 2016
+
+Basic information:
+
+Residential property acquired April 2010 for £300,000 and disposed of 7 April 2018 for £700,000.
+
+The property had a value of £550,000 at 5 April 2016.
+
+Estimated Indexation factors are: April 2010 to April 2016 0.11
+
+April 2010 tp April 2018 0.13
+
+Total number of days chargeable to ATED (assumed) 200
+
+Total days 6 April 2016 to day preceding disposal 730
+
+Stage 1
+
+Disposal proceeds £700,000
+
+Market value at 5 April 2016 £550,000
+
+Notional post April 2016 gain £150,000
+
+Stage 2
+
+Days in relevant ownership period from 6 April 2016 that are chargeable to ATED (CD) 200
+
+Days in the relevant ownership period from 2016 to the day preceeding date of disposal (TD) 730
+
+CD/TD x notional post April 2016 gain ((200/730)) x £150,000) = £41,095
+
+ATED related chargeable gain £41,095
+
+Non ATED-related gain before notional indexation (IA) (see stage 4) £108,905
+
+Stage 3
+
+Market value at 5 April 2016 £550,000
+
+Allowable costs £300,000
+
+Indexation (300,000 x 0.11) £33,000 £333,000
+
+Notional pre April 2015 gain £217,00
+
+Stage 4
+
+Notional post April 2015 non ATED-related gain before IA (see stage 2) £108,905
+
+Less notional IA (see below) £4,356
+
+£104,549
+
+Notional indexation:
+
+Indexation due on disposal disregarding Schedule 4ZZA
+
+300,000 x 0.13 £39,000
+
+Less
+
+Indexation from stage 3 £33,000
+
+£6,000
+
+Apply factor (CD-TD)/TD
+
+(730-200)/(730) x £6,000
+
+Notional Indexation is £4,356
+
+Stage 5
+
+Stage 3 gain £217,000
+
+Plus stage 4 gain £104,549
+
+Non ATED-related gain £321,549

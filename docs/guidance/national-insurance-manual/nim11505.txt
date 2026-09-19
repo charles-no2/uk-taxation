@@ -1,0 +1,34 @@
+Class 1 NICs: reporting NICs in RTI: general information
+Identifier: NIM11505
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11505
+Published: 2016-04-11T17:25:32+01:00
+Updated: 2022-02-02T10:20:01+00:00
+Retrieved (UTC): 2026-09-18T15:15:01.415535+00:00
+
+Paragraph 21A of Schedule 4 to Social Security (Contributions) Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+From April 2013, HMRC introduced reporting of Pay As You Earn (PAYE) and National Insurance contributions (NICs) in “Real Time”, known as Real Time Information (RTI).
+
+Some employers started operating under RTI as part of a pilot during the 2012 to 2013 tax year. Others were given later migration dates. For more information about the pilot (see NIM11510 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11510)).
+
+Under RTI, employers report earnings, PAYE and NICs information to HMRC on or before the time they pay their employees instead of completing an annual return of PAYE and NICs. As part of their payroll process, payroll software collects the information and sends it to HMRC electronically.
+
+The introduction of RTI did not change the way NICs are calculated and deducted (see NIM01000CO (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01000co)).
+
+Employers are still required to prepare and maintain a deduction working sheet (or equivalent) where required under Para 6(1) of Schedule 4 to SSCR 2001 (see NIM11001 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11001)).
+
+End of Year
+
+There’s no need for an RTI employer to prepare end of year returns. The final FPS (Full Payment Summary) or EPS (Employer Payment Summary) includes an indicator that this is the final return and various declarations. At the end of the tax year, the year to date (YTD) data from the final FPS for each employment is used to create the record of earnings and contributions on NPS.
+
+RTI changed employers’ obligations as follows:
+
+- when they report earnings and NICs (see NIM11520 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11520))
+
+- what data they report (see NIM11525 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11525))
+
+For more information about RTI employers (see NIM11515 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11515)).
+
+You can find information about PAYE and RTI at PAYE5001 (https://www.gov.uk/hmrc-internal-manuals/paye-manual/paye5001).
+
+Some RTI employers who meet specific requirements can report under RTI via a paper channel (see NIM11565 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11565)).

@@ -1,0 +1,52 @@
+The benefits code: beneficial loans: a fluctuating cheap loan account: example
+Identifier: EIM26312
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26312
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-03-16T14:29:37+00:00
+Retrieved (UTC): 2026-09-18T14:12:24.996472+00:00
+
+This example shows how to calculate the cash equivalent of a fluctuating cheap loan account, using both the averaging method (see EIM26220 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26220)) and the precise method (see EIM26230 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26230)).
+
+A director has a standing loan arrangement with the company for which they work. Their withdrawals are used to pay their children’s school fees. The company charges the director interest at 2% on the outstanding balance of their loan account, the interest being payable annually on 31 December, which is the company’s accounting date.
+
+On 5 April in the year preceding the year of assessment the balance outstanding on their loan account with the company is £9,500. During the year of assessment the director repays £900 on 30 June but on 1 October they draw a further £1,500 to pay school fees. They make no further repayments and draw no further funds prior to the following 5 April, but on 31 December in the year of assessment they are charged £100, being the interest payable by the director for the company’s accounting year to 31 December. The interest charge of £100 is met by deduction from their salary cheque for that month. No other loans are in existence.
+
+The appropriate official rate was 4%.
+
+Liability on the normal averaging method (see EIM26210 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26210))
+
+- ((£9,500 + £10,100) ÷ 2) × (12 ÷ 12) × (4 ÷ 100) = £392
+
+- less interest paid: £100
+
+- chargeable benefit: £392 - £100 = £292
+
+Liability on the alternative precise method (see EIM26230 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26230))
+
+Period |  Balance |  Calculation |
+
+6 April to 30 June (86 days) |  £9,500 |  (86 ÷ 365) × 4% × £9,500 = £89.53 |
+
+1 July to 30 September (92 days) |  £8,600 |  (92 ÷ 365) × 4% × £8,600 = £86.70 |
+
+1 October to 5 April (187 days) |  £10,100 |  (187 ÷ 365) × 4% × £10,100 = £206.98 |
+
+- total: £89.53 + £86.70 + £206.98 = £383.21
+
+- less interest paid not eligible for relief: £100.00
+
+- chargeable benefit: £383.21 - £100.00 = £283.21 (say £283)
+
+The normal averaging method of calculation, which would be applied automatically, operates to the director’s disadvantage since their average loan over the year is about £9,580 and not £9,800 (£9,500 + £10,100 ÷ 2).
+
+Therefore, an election for the alternative precise method of calculation (see EIM26230 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26230)) would be to their advantage.
+
+Note that the interest paid by the director relates to the year ended 31 December and not to the tax year ended 5 April. Unless the director wishes to adopt the interest paid for the tax year you can regard the interest paid for the company’s accounting year ended in the tax year concerned as the interest paid for the relevant tax year (see EIM26252 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26252)).
+
+The additional loan of £1,500 taken out on 1 October is between the same lender and borrower and in the same currency as the existing loan. Neither loan is a qualifying loan (see EIM26137 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26137)). The example assumes that each year the employer makes an election for aggregation (see EIM26180 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26180)).
+
+Exemption under section 180(1)(b) ITEPA 2003 (see EIM26145 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26145)) is not due because the total balance outstanding on the non-qualifying loans exceeds £5,000 at some time in the year of assessment.
+
+The director will be treated as having paid £292 (or £283 if an election for the alternative precise method is made) interest on the loan in addition to the £100 actually paid. However this will have no effect on the final liability because none of the interest ranks for deduction or relief of any kind (see EIM26270 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26270)).
+
+The company may also be chargeable to tax under section 455 CTA 2010 in respect of loans made to the director (see EIM26500 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26500)).

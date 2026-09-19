@@ -1,0 +1,52 @@
+IBA: Allowances: writing down allowance
+Identifier: CA31205
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca31205
+Published: 2016-04-16T08:54:42+01:00
+Updated: 2022-06-08T08:48:33+01:00
+Retrieved (UTC): 2026-09-18T16:21:09.439003+00:00
+
+Budget 2007 announced a business tax reform package including the gradual withdrawal of IBAs and ABAs over four years. Legislation was introduced in FA08 to give effect to those changes. The phased withdrawal of IBA writing down allowances had effect for chargeable periods ending on or after 1 April 2008 for businesses within the charge to CT and 6 April 2008 for businesses within the charge to IT. There are no IBA writing down allowances for the financial year beginning on 1 April 2011 and subsequent years.
+
+CAA01/S310 - S311
+
+Writing down allowance (WDA) is given on a straight-line basis. The annual amount is a fixed percentage of the qualifying expenditure. The qualifying expenditure is fixed when WDA begins CA33500 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca33500) and that means WDA does not change unless the length of the chargeable period changes.
+
+The annual rate of WDA for a person who constructs an industrial building or buys it unused is 4% of the qualifying expenditure (the construction costs or purchase price) unless the building qualifies for the special rates of IBA for buildings in enterprise zones. For those buildings the annual rate of WDA is 25%.
+
+The 4% WDA is increased or reduced if the chargeable period is more or less than a year. For example, if the chargeable period is 9 months long the rate of WDA is 3% (= 4% x 9/12).
+
+Recalculate the WDA when someone buys a used industrial building as follows:
+
+- establish the residue of qualifying expenditure after sale CA34800
+
+- work out the length of time between the date of the sale and the end of the period of 25 years starting with date when the building was first used
+
+- divide the residue of qualifying expenditure after sale by this figure to get the annual rate of WDA.
+
+Example Green builds an industrial building for £1 million excluding the cost of the land in 1989 and brings it into use on 1 January 1990. The annual rate of WDA for Green is £40,000 (= 4% x £1 million). On 1 January 2000 he sells it to Brown for £1,400,000 of which £50,000 relates to the land so that the price paid for the building is £1,350,000. The residue of qualifying expenditure after sale is £1 million and this is the amount that Brown can claim IBA on. There are 15 years left of the period of 25 years that started on 1 January 1990. Brown’s annual rate of WDA is £66,667 for 14 years with the balance of unrelieved expenditure, £66,662, given for the final year.
+
+WDA is also calculated in this way where the used building has qualified for the special rate of
+
+WDA for buildings in enterprise zones CA37000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca37000).
+
+FA2008 changes
+
+FA2008 phased out IBAs by giving part only of a WDA each year. The WDA is calculated in the normal way but then a percentage of it is allowed. These are the percentages:
+
+Financial year |  Percentage allowed |
+
+Financial year beginning 1 April 2007 -Tax year 2007-08 and earlier years |  100% |
+
+And earlier years |  _ |
+
+Financial year beginning 1 April 2008 - Tax year 2008-09 |  75% |
+
+Financial year beginning 1 April 2009 - Tax year 2009-10 |  50% |
+
+Financial year beginning 1 April 2010 - Tax year 2010-11 |  25% |
+
+Financial year beginning 1 April 2011 - Tax year 2011-12 and later years |  0% |
+
+And later financial years |  _ |
+
+From 1 April (CT)/ 6 April (IT) 2011 onwards there are no IBA WDAs. |  _ |

@@ -1,0 +1,24 @@
+Introduction to cryptoassets: wallets
+Identifier: CRYPTO10375
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto10375
+Published: 2021-03-30T09:02:46+01:00
+Updated: 2021-03-26T10:03:09+00:00
+Retrieved (UTC): 2026-09-18T16:18:26.901625+00:00
+
+A cryptoasset wallet is a user interface where the private key is stored.
+
+There are two main types of wallet: cold wallet and hot (sometimes called ‘software’) wallet.
+
+A cold wallet refers to a wallet that is not accessible via an internet connection. Examples of a cold wallet include:
+
+- Hardware wallets - store key details offline on a piece of hardware such as a simple USB drive. It is possible to purchase hardware devices with the wallet already installed on them. More advanced versions of hardware wallets have additional security functions.
+
+- Paper wallets - where the information of the private and public keys is simply printed or written on paper. This means it is always offline and its location known only by the holder.
+
+A software wallet is one that is accessible via the internet. It can be further divided into online wallet and client-side wallets.
+
+- Online wallets may be offered by cryptoasset exchanges as part of their services. They can be held on a server in a specific geographical location, on a cloud or the storage may be contracted out to a wallet provider. In this case the platform holds and controls the public key and private key.
+
+- Client-side wallets are also known as desktop wallets. They are managed locally on a user’s computer or mobile device.
+
+Some token owners memorise their keys and do not use a wallet. Some people may also only store their private key as it is possible to reproduce the public key from that private key. In essence, anything that can store data could become the wallet. Where a wallet exists, it is the ‘container’ for the keys. The wallet/keys can be duplicated. The loss of a wallet does not affect the existence of the tokens themselves.

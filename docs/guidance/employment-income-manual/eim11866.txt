@@ -1,0 +1,24 @@
+PAYE: special type of income: shares ceasing to be  only conditional or being disposed of: example
+Identifier: EIM11866
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11866
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T11:31:27+01:00
+Retrieved (UTC): 2026-09-18T14:09:33.869922+00:00
+
+Section 698 ITEPA 2003
+
+A UK employer company is a subsidiary of a US parent company listed on NASDAQ, a recognised investment exchange (see EIM11901 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11901)).
+
+On 6 April 2003 the UK employer gives an employee 1,000 shares in the US parent subject to risk of forfeiture. The risk of forfeiture will be lifted on 1 March 2004 assuming various conditions are met.
+
+On 1 March 2004 the risk of forfeiture is lifted and the employee is free to keep or sell the shares. The employee chooses to keep them.
+
+The open market value of the shares on 1 March 2004 is £10,000.
+
+Is the employer obliged to operate PAYE?
+
+Section 427 ITEPA 2003 charges to income tax as employment income the value of the shares when the risk of forfeiture is lifted, less the amount paid for the shares, which in this case is nil. So the taxable amount in 2003/04 is £10,000. There is no charge to tax when the shares are awarded unless the period of forfeiture exceeds 5 years.
+
+By virtue of Section 698 ITEPA 2003, at the time the shares become unconditional, the employee is deemed to be provided with an interest in the shares that is not conditional and to which Section 696 applies. As the shares are readily convertible assets because they are listed on NASDAQ, the employer is required to operate PAYE on £10,000.
+
+Although the employee has not realised any amount, because the shares have been retained, this is of no relevance. The employer must deduct and account for tax in accordance with Section 710(1) and (4) ITEPA 2003 (see EIM11950 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11950)). Thus the employee should take care to make good to the employer within the time allowed any tax due to be accounted for under Section 710(4) in order to avoid a charge to tax under Section 222 ITEPA 2003 (see EIM11951).

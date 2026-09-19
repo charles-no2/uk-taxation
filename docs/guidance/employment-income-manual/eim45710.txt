@@ -1,0 +1,89 @@
+Employment income provided through third parties: amount of Part 7A income: value of relevant step
+Identifier: EIM45710
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45710
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2021-01-20T11:55:06+00:00
+Retrieved (UTC): 2026-09-18T14:23:26.448308+00:00
+
+Section 554Z3 ITEPA 2003
+
+Market value (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45710#IDAURLQB)
+Cost (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45710#IDAQSLQB)
+Example: asset falls in value (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45710#IDAQULQB)
+Priority rules (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45710#IDAJWLQB)
+
+If the relevant step involves a sum of money, its value is the amount of the sum.
+
+If it does not, its value is the higher of:
+
+- the market value of the asset which is the subject of the step, and
+
+- the cost of the relevant step.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45710#Top)
+
+Market value
+
+You apply the capital gains tax rules to calculate market value.
+
+You calculate the market value of the asset as at the time when the relevant step is taken.
+
+The market value rule is subject to Sections 437 and 452 ITEPA 2003, which provide for the specific valuation of convertible securities and shares in research institution spin-out companies respectively. See ERSM40050 (https://www.gov.uk/hmrc-internal-manuals/employment-related-securities/ersm40050) and ERSM100100 (https://www.gov.uk/hmrc-internal-manuals/employment-related-securities/ersm100100) respectively.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45710#Top)
+
+Cost
+
+The cost of the relevant step is the expense incurred:
+
+- in connection with the relevant step,
+
+- by the person or persons at whose cost the relevant step is taken.
+
+The cost of the relevant step includes a proper proportion of any expense relating partly to the relevant step and partly to other matters.
+
+You ignore the cost, and take the market value, in two cases. Both these cases involve employment-related securities.
+
+First, you ignore the cost if:
+
+- the relevant step is within Section 554C(1)(c) (securities, interests in securities etc, see EIM45060 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45060)), and
+
+- any of Part 7 Chapters 2 to 4A ITEPA 2003 apply to the acquisition, see ERSM20100 (https://www.gov.uk/hmrc-internal-manuals/employment-related-securities/ersm20100).
+
+Second, you ignore the cost if Section 554Z7 (exercise price of share options) applies. See EIM45740 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45740) onwards.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45710#Top)
+
+Example: asset falls in value
+
+- On 1 November 2010 an EBT uses funds contributed by employer to buy a work of art costing £1.5 million.
+
+- For several months the work of art is simply held by the trustee. There are no subtrusts and the trustee does not allocate the work of art to any particular employee or beneficiary.
+
+- On 1 May 2011 the EBT transfers the work of art to employee A for nil consideration. By now, the work of art has fallen in value. Its market value on 1 May 2011 is £1.2million.
+
+- The transfer is a relevant step within Section 554C(1)(b). See EIM45060 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45060).
+
+- In order to work out the value of the relevant step, you compare the market value at the time the step is taken (£1.2 million) with the cost (£1.5 million).
+
+- In this case, the cost is higher and so the value of the relevant step is the cost of £1.5million.
+
+In practice, it is likely that the transfer of the property by the trustee to the employee will give rise to earnings from the employee’s employment. See EIM00515 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim00515) onwards. If so, you will need to reduce the value of the relevant step by the amount of the relevant earnings. See EIM45735 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45710#Top)
+
+Priority rules
+
+In order to arrive at the value of the relevant step (and thus the amount counting as employment income) you may need to apply some other rules which override the rules in Section 554Z3 discussed above on this page.
+
+These other rules are listed below. If more than one of them is applicable, you apply them in the order in which they are set out below.
+
+- Section 554Z4 (residence issues), see EIM45720 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45720)
+
+- Section 554Z5 (overlap with earlier relevant step), see EIM45725 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45725) onwards
+
+- Section 554Z6 (overlap with certain earnings), see EIM45735 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735)
+
+- Section 554Z7 (exercise price of share options), see EIM45740 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45740) onwards
+
+- Section 554Z8 (cases where consideration given for relevant step), see EIM45755 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45755) onwards

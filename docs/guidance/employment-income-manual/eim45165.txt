@@ -1,0 +1,71 @@
+Employment income provided through third parties: undertakings given by employers etc in relation to retirement benefits etc: examples
+Identifier: EIM45165
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45165
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2017-12-04T04:00:50+00:00
+Retrieved (UTC): 2026-09-18T14:15:26.719927+00:00
+
+Example: EFRBS not making loan (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45165#IDAAE4YG)
+Example: B undertakes to pay retirement benefits directly and only directly to A (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45165#IDAYF4YG)
+Example: unpaid contributions recognised as liability in B’s balance sheet (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45165#IDA3G4YG)
+Example: unregistered defined benefit scheme (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45165#IDAUH4YG)
+
+Here are some examples to help you decide whether Part 7A ITEPA 2003 applies to a pension arrangement.
+
+Example: EFRBS not making loan
+
+The Part 7A rules will often apply if an EBT makes a loan to an employee. See EIM45120 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45120).
+
+The Part 7A rules will similarly apply if the loan is made by an EFRBS rather than an EBT.
+
+The Part 7A rules can also apply if an EFRBS is in place and no loans are arranged.
+
+Assume that:
+
+- the trustees of an EFRBS hold funds for A’s retirement,
+
+- no loans are arranged, and
+
+- the EFRBS arrangement meets conditions 1, 2, 4 and 5 in EIM45025 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45025) but not condition 3 (relevant third person takes relevant step).
+
+This, in itself, will not give rise to Part 7A income. The arrangement has not come through the Section 554A gateway.
+
+But condition 3 will be met, giving rise to Part 7A income, if the trustees take a relevant step within Section 554B, 554C or 554D.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45165#Top)
+
+Example: B undertakes to pay retirement benefits directly and only directly to A
+
+Part 7A Chapter 3 ITEPA 2003 can only apply if there is a ‘relevant undertaking’.
+
+An undertaking to pay retirement benefits directly to A is not a relevant undertaking, because it is not an undertaking to pay pension contributions to a relevant third person. See condition 3 in EIM45145 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45145).
+
+Assume that:
+
+- B provides security to trustees for an undertaking to pay a pension or other retirement benefits directly to A for the full period over which the benefits are to be paid, and
+
+- the trustees do not have the right to enforce the security unless a specified event occurs, such as the employer becoming insolvent, as a result of which there ceases to be a realistic prospect of the pension or other benefits being provided directly to A.
+
+This arrangement does not involve an undertaking to pay contributions to a third person and the third person paying A a pension or other retirement benefits out of those contributions. There is therefore no relevant undertaking. So, although B provides security, B does not take a step within Section 554Z19, and there is no Part 7A income.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45165#Top)
+
+Example: unpaid contributions recognised as liability in B’s balance sheet
+
+Assume that:
+
+- B has given a relevant undertaking to pay pension contributions to a relevant third person, and
+
+- recognises unpaid contributions as a liability in B’s balance sheet.
+
+It is likely that recognising a liability on the balance sheet under accounting principles would not, on its own, count as the earmarking of assets held by the employer within Section 554Z18. But this will depend on the facts of the case.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45165#Top)
+
+Example: unregistered defined benefit scheme
+
+There is no statutory exclusion which specifically prevents a step taken in relation to a defined benefit (that is, final salary) scheme from being a relevant step.
+
+But ‘earmarking’ needs to be earmarking in favour of a particular employee. See EIM45110 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45110).
+
+Therefore, so long as the assets and liabilities of a relevant third person providing defined benefits are both genuinely separate and pooled, then there would be no earmarking.

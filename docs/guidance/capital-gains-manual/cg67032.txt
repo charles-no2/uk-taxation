@@ -1,0 +1,58 @@
+Relief for Gifts Subject to Inheritance Tax: The Donee
+Identifier: CG67032
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67032
+Published: 2019-08-01T11:41:07+01:00
+Updated: 2024-03-06T09:09:46+00:00
+Retrieved (UTC): 2026-09-18T14:46:10.709627+00:00
+
+Individuals (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67032#_Individuals_2)
+
+Trustees (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67032#_Trustees_2)
+
+TCGA92/S260(1)(b) requires that the donee is an individual or the trustees of a settlement. Note that, unlike the relief for gifts of business assets under TCGA92/S165, a company cannot be the donee.
+
+To ensure that the gifted asset is not easily brought out of the charge to Capital Gains Tax, relief is precluded in some circumstances due to the status of the donee. These restrictions are discussed below.
+
+Individuals
+
+Where the donee is an individual, the general principle is that they must be UK resident (see RFIG Manual (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual)) for relief to be available on the gift. Broadly, relief is not available where the gift is to an individual who is not UK resident, or is UK resident but is regarded for the purposes of any double taxation relief arrangements as not UK resident, such that a subsequent disposal by them immediately after the gift is not going to be subject to UK tax (TCGA92/S261).
+
+The exception to this rule is where a direct or indirect interest in UK land (see CG73922 (http://internal.active.hmrci/manual/capital-gains-manual/cg73922) and CG73930 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73930)) is gifted to a non-resident. As a subsequent disposal of the asset will be within the scope of Capital Gains Tax due to TCGA92/S1A(3)*, hold-over relief is extended by TCGA92/S261ZA to be available in these circumstances.
+
+Trustees
+
+Likewise, the trustees of a settlement must generally be UK resident to be a valid donee for a gift relief claim. Broadly, relief is not available if the trustees are not UK resident (TCGA92/S261) or are UK resident but are regarded for the purposes of any double taxation relief arrangements as not UK resident, such that a subsequent disposal by them immediately after the gift is not going to be subject to UK tax (TCGA92/S169).
+
+The exception discussed above regarding a gift of a direct or indirect interest in UK land to a non-UK resident applies equally in the case where the gift is to the trustees of a settlement.
+
+For a gift to the trustees of a settlement, relief is also unavailable in any one of the situations below (TCGA92/S169B):
+
+- The settlement is settlor-interested
+
+- An arrangement (being any scheme, agreement or understanding) subsists under which the settlement will or could become settlor-interested
+
+- In computing the gain on the gift in the absence of hold-over relief, a deduction in the acquisition cost would be required in relation to a previous hold-over relief claim by another individual and, immediately after the gift that individual has an interest in the settlement or an arrangement subsists such that they will or may acquire an interest
+
+However, these rules do not apply where the settlement is or could be a heritage maintenance fund within the meaning of ITA07/S508 (see TSEM5800 (http://internal.active.hmrci/manual/trusts-settlements-estates-manual/tsem5800)). They are also not in point if the terms of the settlement apply the property and income for the benefit of a disabled person and, if it is settlor-interested, each settlor must be a disabled beneficiary. The legislation makes clear that the trusts on which settled property is held shall not fall outside the scope of this exception solely by reason of the trustees having the powers:
+
+- that enable payments in a tax year to be made otherwise than for the benefit of the disabled person up to the lower of £3,000 or 3% of the maximum value for the year
+
+- of advancement, either conferred by or similar to section 32 of the Trustee Act 1925 (or section 33 of the Trustee Act (Northern Ireland) 1958), even if this is subject to a less restrictive limitation imposed by subsection (1)(a) of those acts (being that the amount advanced cannot exceed the presumptive or vested share or interest of that person in the settled property)
+
+It should be noted that under TCGA92/S169C relief will be clawed back if any of the conditions within TCGA92/S169B listed above are satisfied within a specified time frame following the gift. See CG66888 (http://internal.active.hmrci/manual/capital-gains-manual/cg66888) for further details.
+
+The definition of a settlor (TCGA92/S169E) for these purposes is broad, covering any individual from whom the settled property directly or indirectly originates, or now represents. It also includes any property originating from another person as a result of reciprocal arrangements involving the settlor.
+
+As defined by TCGA92/S169F, an individual has an interest in a settlement if any settled property or property deriving from it (such as income accruing from the settled property) is, will or may become applied for the benefit of the individual, their spouse/civil partner or their dependent child. Spouse/civil partner does not include those from whom the individual is separated under a court order, a separation agreement or in such circumstances that the separation is likely to become permanent. A child is dependent if they are under the age of 18 and are unmarried/have no civil partner and this definition includes step-children.
+
+The exceptions to these definitions are where:
+
+- A term of a settlement relates to an individual’s dependent child but the individual has no such child
+
+- An amount becomes payable to an individual from a marriage/civil partnership settlement, as a result of the death of both parties to the marriage/civil partnership and any of their children
+
+- An amount becomes payable to an individual following the death of their child who had been beneficially entitled to the settled property or any derived property at an age not exceeding 25
+
+Where these circumstances subsist, relief remains available.
+
+* This section was re-written for disposals from 6 April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150)

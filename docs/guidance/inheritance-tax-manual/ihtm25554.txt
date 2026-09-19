@@ -1,0 +1,114 @@
+AR/BR 100% relief allowance: settlements - special trusts (other than age 18-to-25 trusts)
+Identifier: IHTM25554
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25554
+Published: 2026-04-07T07:44:32+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:54.177881+00:00
+
+The 100% trust relief allowance can apply to charges on or after 6 April 2026 in relation to property comprised in the following types of settlement
+
+-
+
+Temporary charitable trusts
+
+-
+
+Accumulation and maintenance trusts
+
+-
+
+Trusts for bereaved minors
+
+-
+
+Employee and Newspaper trusts
+
+-
+
+Pre-78 protective trusts
+
+-
+
+Pre-81 Trust for disabled persons
+
+-
+
+Maintenance funds.
+
+For guidance on these types of settlement see from IHTM42801 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42801).
+
+The charges are not common but, when they occur, the trustees of each of the types of trust above will have, from 6 April 2026, a 100% trust relief allowance of £2.5 million to apply when the value charged is attributable to qualifying agricultural and business property.
+
+This allowance is applied in the following way;
+
+-
+
+it is reduced by each charge in turn until it has been used in full, i.e. it does not refresh and
+
+-
+
+when there is more than one charge on the same day and the sum of the potentially relievable values exceeds the current balance of the 100% allowance, the balance is apportioned rateably.
+
+Example 1
+
+In 2028 the trustees of a special trust incurred a charge and used £1m of the 100% trust relief allowance. So, they have a remaining balance of £1.5m.
+
+In 2030 there were two charges on the same day with 100% relievable values of (a) £1m and (b) £2m, i.e. 1/3 and 2/3 of the total value transferred.
+
+Under the apportionment
+
+-
+
+transfer (a) gets 1/3 of the balance of the 100% allowance (=£500k) and tax is charged on a value of £250k {(£1m-£500k) * 50%}
+
+-
+
+transfer (b) gets 2/3 of the balance (=£1m) and tax is charged on a value of £500k {(£2m-£1m) * 50%}.
+
+And for future charges relief can only be claimed at 50% because the whole of the £2.5m allowance has been applied.
+
+Special trusts in existence prior to 6 April 2026
+
+If the value charged is attributable to property
+
+-
+
+that was comprised in the settlement prior to 6 April 2026 and
+
+-
+
+would have qualified for 100% relief at the date of the charge on the basis that the reforms to the reliefs had not been made
+
+then there are transitional provisions (FA26/Sch12/Para 17 (9)-(13)) that reduce the rate of tax on that property under IHTA84/S70(6).
+
+In such cases, the relievable property is treated as excluded property until the first new quarter year following 6 April 2026. That means the earlier quarter years are not counted when calculating the rate of tax on that property.
+
+Example 2
+
+A trust for the benefit of employees commenced on 1 September 2022 when the trustees were gifted 100 unquoted shares in a closely held manufacturing company.
+
+From 6 April 2026 the trustees’ 100% trust allowance is £2.5m.
+
+In 2029 the trustees distribute 50 shares to qualifying employees. There is no charge on this event, and the allowance remains intact.
+
+But on 10 November 2033, just over 11 years from the start of the trust, a charge under S72/IHTA/84 arises when the remaining shares are appointed to an employee who is a participator in the company. Those shares had a market value of £5m.
+
+The amount on which tax is charged is (£5m - £2.5m) * 50% = £1.25m.
+
+Without the transitional provision the rate of tax under S70(6) is
+
+40 quarter years @ 0.25% = 10%
+
+plus 4 quarter years @ 0.20%= 0.8%= 10.8%.
+
+And the tax would be £1.25m * 10.8% = £135,000. This is still the rate for non-relievable property (and property not qualifying for 100% relief).
+
+However, under the transitional provision and for the value attributable to the 100% relievable property, the complete quarters between 1 September 2022 and 1 June 2026 (the first quarter year for this trust following 6 April 2026) are not counted. So, we disregard 15 quarter years.
+
+The rate of tax is therefore
+
+(40-15) = 25 quarter years @ 0.25% = 6.25%
+
+plus 4 quarter years @ 0.20%= 0.8%= 7.05%.
+
+And the tax chargeable is £1.25m * 7.05% = £88,125.

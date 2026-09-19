@@ -1,0 +1,62 @@
+Rates of tax: Available basic rate band
+Identifier: CG21204
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg21204
+Published: 2019-11-04T14:10:51+00:00
+Updated: 2020-09-25T08:15:24+01:00
+Retrieved (UTC): 2026-09-18T14:30:43.382882+00:00
+
+This page has not yet been updated to take account of changes to CGT rates from 30 October 2024
+
+For cases that include gains that do not qualify for Business Asset Disposal Relief or Investor’s Relief consideration must be given to the Income Tax position of the individual.
+
+To work out what rates of tax may apply to the gains the unused basic rate band needs to be calculated. The basic rate band can be extended in two circumstances (ITA07/s10(6))
+
+- where payments are made that qualify for gift aid relief (ITA07/S414(2))
+
+- where relief at source is given for a pension contribution (FA04/S192(4)), see RPSM05101330.
+
+Where the basic rate band is extended a greater amount of gain may be taxed at 10% or 18% depending on the nature of the asset.
+
+Special cases
+
+The amount of the basic rate band available for gains can be increased where income tax liability is reduced by reason of certain reliefs in relation to life insurance contracts or certain income of the estates of deceased persons.
+
+The relevant reliefs are
+
+- relief for a deficiency arising in that year from a life insurance policy on a chargeable event (ITTOIA05/S539), see IPTM3860
+
+- relief where the residuary income of an estate for income tax purposes is reduced where income is taken into account to determine the value of the estate for inheritance tax (ITTOIA05/S669).
+
+When computing the amount of the basic rate band available for gains the amount of income taken into account is reduced by the amount of the deficiency or the reduction in the residuary income as the case may be.
+
+Section 4A also sets out the amount of the basic rate band available to be set against gains where a person’s income is deemed to include gains from life insurance contracts (ITTOIA05/S465), see IPTM3110+. Where an individual has such gains the amount of the basic rate band available is calculated on the basis that only the annual equivalent, see IPTM3840, and not the full amount of the chargeable event gain, is included in the calculation. If there is more than one chargeable event gain, then the total of the annual equivalents is included.
+
+The rate of Capital Gains tax chargeable for an individual entitled to top slicing relief (ITTOIA05/S535), see IPTM3820, will depend upon the amount of the annual equivalents included in the calculation of ‘relieved liability’. Where the calculation of ‘relieved liability’ (whether for one or more than one chargeable event gain) does not involve higher rate income tax, then Capital Gains Tax liability is computed on the basis that there is no liability to higher rate income tax or to the dividend upper rate. This means that the gains will be taxed at 18% or at 28% depending upon the unused amount of the basic rate band available.
+
+Subject to two exceptions, unused personal allowances and other unused Income Tax reliefs, for example capital allowances and allowable charges, cannot be set against chargeable gains. The two exceptions to this rule are listed below.
+
+The following Income Tax reliefs can be taken into account as deductions from chargeable gains
+
+- relief for trading losses (ITA07/S64 applied to Capital Gains Tax by TCGA92/S261B), see BIM75420 onwards
+
+- relief for post-cessation expenditure (TCGA92/S261D), see CG15802 (http://internal.active.hmrci/manual/capital-gains-manual/cg15802)
+
+- relief for certain post-employment expenses (TCGA92/S263ZA (3)), see CG15803 (http://internal.active.hmrci/manual/capital-gains-manual/cg15803).
+
+In some cases the individual may pay Income Tax at different rates for example the Scottish income Tax rate. Under TCGA92/S1J(6), when considering the amount of any available basic rate band, it is assumed the individual is not a Scottish or Welsh taxpayer.
+
+Example – extending the basic rate band
+
+An individual has income after allowances of £30,000 in 2018-19. She realises a gain on a painting of £70,000 in December 2018 and makes a gift of £40,000 to charity January 2019 that qualifies for gift aid relief. The annual exempt amount is £11,700 and the basic rate band is £34,500.
+
+The amount of the gain that is chargeable to Capital Gains Tax is £58,300 (£70,000 less £11,700).
+
+The gift is treated as having been made after deduction of income tax at the basic rate of 20% (The basic rate band is extended by an amount equal to the grossed up amount of the gift (ITA07/S414(2)(b)). The grossed up amount of the gift is £50,000 (£40,000 x 100/80).
+
+The basic rate band becomes £84,500 (£34,500 plus £50,000).
+
+The amount of the basic rate band that can be used against gains is £54,500 (£84,500 less £30,000).
+
+The amount of the gain that is taxed at 20% is £3,800 (£58,300 less £54,500).
+
+So the amount of Capital Gains Tax payable is £6,210 (£54,500 at 10% plus £3,800 at 20%).

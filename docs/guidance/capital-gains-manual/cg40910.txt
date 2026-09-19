@@ -1,0 +1,75 @@
+Computation of gain in non-sterling currency - example
+Identifier: CG40910
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg40910
+Published: 2016-03-12T11:02:34+00:00
+Updated: 2023-04-25T10:16:57+01:00
+Retrieved (UTC): 2026-09-18T14:31:57.349550+00:00
+
+Example of disposal within CTA10\S9C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg40910#IDARHI4E)
+Example of disposal under CTA10/S9C following intra-group transfer within TCGA92/S171 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg40910#IDA3SIGF)
+
+Example of disposal within CTA10\S9C
+
+On 1 September 2008 Finance One Ltd, a UK company with an US$ functional currency, acquired $200 of shares at a time when their Sterling value was £118.
+
+On 1 September 2014 Finance 2 Ltd sold the shares to a third party for £350 sterling.
+
+The computation is as follows:-
+
+- |  Amount |
+
+Third party sale 1 September 2014 |  - |
+
+Proceeds of sale £350 |  - |
+
+converted into US$ at the spot rate on 1/9/14 (£350 at 1.6) |  $560 |
+
+Less base cost |  -$200 |
+
+Indexation 9/08 to 9/14 |  -$46 |
+
+Net gain on disposal calculated in US$ |  $314 |
+
+Gain converted into sterling at spot rate on date of disposal |  £196 |
+
+Example of disposal under CTA10/S9C following intra-group transfer within TCGA92/S171
+
+On 1 September 2008 Finance One Ltd, a UK company with an US$ functional currency, acquired $200 of shares at a time when their Sterling value was £118.
+
+On 1 September 2012 the shares were transferred to Finance Two Ltd, a fellow group company also with US$ functional currency, in a nil gain/loss transfer under TGCA92/S171 At that time the Sterling value of the shares was £125.
+
+On 1 September 2014 Finance Two Ltd sold the shares to a third party for US$400.
+
+The computations are as follows:-
+
+Nil gain/loss transfer September 2012
+
+- |  Amount |
+
+Cost converted to Sterling at date of acquisition |  £118 |
+
+Add indexation 9/08 to 9/12 |  £22 |
+
+Total |  £140 |
+
+Transfer deemed to take place for proceeds of £140, which will form the base cost of the asset for Finance Two Ltd. As this transfer takes place before CTA10/S9C comes into effect, the deemed proceeds are identified in sterling.
+
+Third party sale September 2014
+
+- |  Amount |  Amount |
+
+Proceeds in US$ |  - |  $400 |
+
+Less Base cost |  £140 |  - |
+
+Converted to US$ at deemed date of acquisition 9/12(£140 at 1.6) |  - |  -$224 |
+
+Less indexation* 9/12 to 9/14 |  - |  -$24 |
+
+Net gain on disposal calculated in US$ |  - |  $156 |
+
+Finally, the gain converted into sterling at the spot rate at date of |  - |  - |
+
+Disposal 1 September 2014 |  - |  £97 |
+
+* Indexation calculated as normal on the $US amount.

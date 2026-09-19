@@ -1,0 +1,24 @@
+Introduction and computation: computation: cash basis for small businesses - capital gains aspects
+Identifier: CG15470
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15470
+Published: 2016-03-12T10:10:36+00:00
+Updated: 2026-09-03T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:30:29.072013+00:00
+
+The content in this manual covers a high level of detail. If you are looking for an introduction to the main rules for the cash basis, please see the Cash Basis Overview (https://www.gov.uk/simpler-income-tax-cash-basis) (GOV.UK).
+
+This guidance applies to trades where the cash basis applies. Until 5 April 2024, the cash basis only applied where an election was made under section 25A of the Income Tax (Trading and Other Income) Act (ITTOIA) 2005 (https://www.legislation.gov.uk/ukpga/2005/5/section/25A/2013-07-17). From 6 April 2024, where the conditions in section 24A ITTOIA 2005 (https://www.legislation.gov.uk/ukpga/2005/5/section/24A) are met then the cash basis applies automatically unless an election is made under section 25C ITTOIA 2005 (https://www.legislation.gov.uk/ukpga/2005/5/section/25C) to opt out.
+
+Cash basis provisions in the Taxation of Chargeable Gains Act 1992
+
+When a person is carrying on a trade using the cash basis, the profits of that trade for income tax purposes are calculated based on the cash flowing in and out of the trade. The trader can ignore the usual distinction between revenue and capital. As a result, any gain or loss on a capital asset to which the cash basis applies will be dealt with as an income profit or loss. The cash basis applies by default to all capital assets except those excluded by section 33A ITTOIA 2005 (https://www.legislation.gov.uk/ukpga/2005/5/section/33A), see subsection (4) onwards and BIM70035 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70035).
+
+Where the cash basis applies to the receipt for the disposal of a capital asset, section 47A of the Taxation of Chargeable Gains Act (TCGA) 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/47A) applies automatically to the disposal of an asset other than land. Section 47A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/47A) treats the disposal as exempt for the purposes of the TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/contents).
+
+Where the asset is a fixture, section 47A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/47A) won’t apply and a disposal of the land including that fixture will still be chargeable to Capital Gains Tax. Instead section 37(1A) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/37) will exclude the part of the receipt that was brought into account in the cash basis.
+
+In some cases, the cash basis will have applied when the asset was acquired but the cash basis will have ceased to apply when the asset is disposed of. The expenditure for the acquisition of the asset will have been deducted in full in the cash basis when that expenditure was incurred. The capital allowances regime makes necessary adjustments for this situation – see BIM70073 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70073). Where the asset is disposed of at a gain, the gain is computed for Capital Gains Tax purposes as normal. Where the asset is disposed of at a loss, section 41(4)(zaa) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/41) treats the amount deducted under the cash basis as if it is a capital allowance so that the loss for Capital Gains Tax purposes will be restricted to £nil.
+
+Sections 37(1A), 41(4)(zaa) and 47A TCGA 1992 ensure that that there won’t be double taxation of gains when a trade is using the cash basis. These rules also ensure that tax relief is given only once for any loss on the disposal of an asset.
+
+Full guidance on the cash basis can be found at BIM70000 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim70000).

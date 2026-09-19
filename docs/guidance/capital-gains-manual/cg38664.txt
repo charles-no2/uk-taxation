@@ -1,0 +1,78 @@
+Capital payments – making available moveable property – from 6 April 2017
+Identifier: CG38664
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38664
+Published: 2018-08-07T09:56:06+01:00
+Updated: 2023-04-20T09:52:06+01:00
+Retrieved (UTC): 2026-09-18T14:47:23.575143+00:00
+
+The value of a benefit provided by making movable property available to an individual is covered by S97B TCGA 92 and S742D ITA 07. This applies to capital payments or benefits received in 2017-18 and subsequent tax years. For this purpose moveable property means any tangible movable property other than money.
+
+The value of the benefit provided in these circumstances where there is no transfer of the property is calculated using the following formula:
+
+- ((CC x R x D) / Y) – T
+
+Where
+
+- CC is the capital cost of the moveable property on the date when the property is first made available to the individual in the tax year,
+
+- D is the number of days in the tax year on which the property is made available to the individual (the relevant period)
+
+- R is the official rate of interest for the relevant period (but see below for the calculation if there is a change in the official rate during a tax year
+
+- Y is the number of days in the year
+
+- T is the total of the amounts (if any) paid in the tax year by the individual to the person providing the benefit, in respect of the availability of the property, or in respect of the repair, insurance, maintenance or storage of the property.
+
+Made available
+
+When considering if something is made available this should be interpreted widely. It does not matter if the beneficiary chooses not to use the moveable property. However, in cases where moveable property is made available to more than one person at the same time, then apportionment of the benefit can be made by reference to use.
+
+Examples
+
+1) Trustees make available a work of art to a beneficiary. The beneficiary holds the art for 300 days in the year and then loans the art to a friend for the remaining 65 days of the year. The onward loan is a decision of the beneficiary so the work of art would be regarded as made available to the beneficiary for the 365 days in the year.
+
+2) Trustees make a yacht available to a beneficiary throughout a year. The yacht is only used by the beneficiary for two weeks in the year. Although only used for two weeks it is available for the full year and the benefit is calculated on this basis.
+
+3) A yacht is made available to two beneficiaries throughout the course of the year. A uses it for 3 weeks and B for 2. The full years benefit would be apportioned 3/5 for A and 2/5 for B.
+
+Capital Cost
+
+The capital cost of the moveable property means an amount equal to the greater of the total of the amount or value of the consideration given for the acquisition of the property by the person providing the benefit and its market value at the time of acquisition. If, since the acquisition, there has been enhancement expenditure this is also brought into account.
+
+Example
+
+A painting, which originally cost £30,000 in 2015/16, is made available to an individual on 1/10/18. On 1/12/18 significant restoration work is undertaken on behalf of the trustees. This costs £70,000.
+
+The capital cost would be £30,000 for 2018/19 and £100,000 for 2019/20. The other expenditure will only feature in the amount CC from the next 6 April.
+
+Official rate of interest changes
+
+If the official rate of interest changes during the relevant period, then R in the calculation above, is the average official rate of interest for the period calculated as follows:
+
+- Step 1 – Multiply each official rate of interest in force during the relevant period by the number of days in force
+
+- Step 2 – Add together the products found in Step 1
+
+- Step 3 – Divide the total found in Step 2 by then number of days in the relevant period.
+
+Example
+
+Simon is the beneficiary of a non-resident trust. The trust purchases a classic car in April 2019 for £50,000 and makes the car available for Simon’s use. In exchange for the use of the car Simon contributes £500 per year towards the insurance of the vehicle. For the purpose of the example it is assumed that the official rate of interest is 2.5%.
+
+The value of the benefit provided to Simon in 2019/20 is as follows:
+
+50,000 x2.5 % x 365 – 500 = £750
+
+365
+
+On 6 April 2020 the trustees spend £10,000 on the car to enhance its value. The value of the benefit in 2020/21 is calculated as follows:
+
+60,000 x 2.5% x 365 – 500 = £1,000
+
+365
+
+On 6 October 2021 the official rate of interest increases to 4%. The value of the benefit in 2021/22 is calculated as follows:
+
+60,000 x (((2.5% x 183) + (4% x 182))/365) x 365 -500 = £1,450
+
+365

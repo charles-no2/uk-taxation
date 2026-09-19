@@ -1,0 +1,12 @@
+Groups: appropriations from trading stock
+Identifier: CG45910
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45910
+Published: 2016-03-12T11:09:35+00:00
+Updated: 2020-03-30T11:41:05+01:00
+Retrieved (UTC): 2026-09-18T14:41:22.512853+00:00
+
+TCGA92/S173 (2)
+
+The reverse situation to that described at CG45905 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45905) is where a group member, which holds an asset as trading stock, disposes of the asset to another group member which does not hold the asset as trading stock. In this case TCGA92/S173 (2) treats the transferor as having, immediately before the disposal, appropriated the asset for some purpose other than use as trading stock. For capital gains purposes, TCGA92/S161 (2) provides that the transferor acquires the asset for the amount included as a receipt in computing the transferor’s trading income, see BIM33610 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33610). The no gain/no loss rule then operates on the intra-group transfer in the usual way, so the transferee takes over the deemed capital gains acquisition cost of the transferor.
+
+TCGA92/S173 only applies if the trade for which the asset is acquired as trading stock is carried on by a UK resident company or is carried on by a non-resident company through a UK permanent establishment. If the trade does not satisfy either of these conditions, the disposal and acquisition of the asset will not be subject to the no gain/no loss rule and a gain or loss will arise to the disposing company based on a sale at market value.

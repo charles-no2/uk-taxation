@@ -1,0 +1,250 @@
+Bare trusts: examples
+Identifier: CG34380
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34380
+Published: 2016-03-12T10:43:00+00:00
+Updated: 2026-09-02T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:31:36.844270+00:00
+
+Introduction (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34380#introduction)
+
+Land owned by several people at once (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34380#land-owned-by-several-people-at-once)
+
+Partnerships (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34380#partnerships)
+
+Assets bought in name of / with cash provided by another (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34380#assets-bought-in-the-name-of)
+
+Constructive Trusts (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34380#constructive-trusts)
+
+Asset pooling – shares – Booth v Ellard (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34380#asset-pooling–shares)
+
+Asset pooling – land – Warrington v Brown (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34380#asset-pooling–land)
+
+Unincorporated associations (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34380#unincorporated-associations)
+
+Investment groups (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34380#investment-groups)
+
+Introduction
+
+If there is a bare trust, it may be such for one of two reasons.
+
+- It may have become a bare trust as the result of the occurrence of a contingency, for example, the death of a beneficiary, an act of appointment or advancement, or a person reaching a particular age. Examples of this kind of event are discussed at CG37000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37000)+.
+
+- It may have always been a bare trust. Examples of the kind of case which may arise are discussed in the paragraphs following.
+
+This distinction is somewhat arbitrary. A trust may be bare because a contingency envisaged has already occurred. A good example of this is a will which provides that Miss C will become entitled to property if and when she attains the age of 25. If the testator lives beyond Miss C's 25th birthday then once the residue of the estate is ascertained, see CG30780 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg30780)+, or an assent is made, see CG30900 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg30900), there is a bare trust. Before that any liability on a disposal would fall on the executors.
+
+Land owned by several people at once
+
+TCGA92/S60 may apply also to two or more persons who are `jointly' absolutely entitled, provided that their interests are absolute and concurrent. A familiar example before 1997 was the case of common or joint ownership of land in England or Wales where trustees held the legal title upon `trust for sale' for the joint tenants or tenants in common (see Kidson v Macdonald, 49TC503). In England and Wales from 1997 almost all absolute and concurrent interests in land will be held under a ‘trust of land’ following the Trusts of Land and Appointment of Trustees Act 1996.
+
+The distinction between tenancy in common and joint tenancy is discussed at CG70500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70500)+. Section 34 Law of Property Act 1925 provides that in England and Wales tenancies in common and joint tenancies can only exist as equitable interests (in other words as interests under a trust). The legal title to the land must be held by trustees, even in the simple case of the home owned by two persons living together. These trustees are bare trustees. This is not the case in Ireland, where tenancies in common and joint tenancies may exist as legal interests. The equivalent Scottish interests may also exist without the use of a trust.
+
+The expression `trust for sale' may cause confusion. A trust for sale is a trust under which the trustees have the duty to sell the land, although normally the deed or will gives them the power to postpone sale, and indeed the power may be expressly restricted. A ‘trust of land’ is, with a few exceptions, any trust of property which consists of or includes land. But it is not the case that there is settled property if property is on trust for sale or a trust of land. Property held on trust for sale or a trust of land may for CGT purposes be settled property or property to which the beneficiaries are absolutely entitled, depending upon the nature of the interests of the beneficiaries.
+
+Another example of joint absolute entitlement is the case where property has ceased to be settled property but has not been appropriated or distributed to the persons having interests in it, see CG37100 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37100)+.
+
+Exceptionally there may be a bare trust of land in a situation where the rights of the persons concerned are not of exactly the same kind. For instance land which is wholly owned by Mr A may be conveyed to trustees on the basis that Mr A is entitled to the first £100,000 of the sale proceeds, and his children X and Y are each entitled to half of the rest. (This is not a tenancy in common.) Essentially it is no different from a conventional trust where on the occurrence of a particular contingency Mr A gets a lump sum and X and Y get the rest.
+
+Suppose the land cost £150,000, and, at the date of the conveyance to the trustees, Mr A's residual interest is worth £75,000, and the value of the interests taken by X and Y is £125,000 each. A has made a part- disposal, see CG12730 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12730)+ and the computation is:
+
+-
+
+|
+
+-
+
+|  |
+
+-
+
+|
+
+-
+
+|
+
+£
+
+|
+
+-
+
+|
+
+Disposal Proceeds
+
+|  |
+
+-
+
+|
+
+-
+
+|
+
+250,000
+
+|
+
+less
+
+|
+
+Cost
+
+|
+
+-
+
+|
+
+-
+
+|
+
+150,000
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Proportion
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Allowable
+
+|
+
+250,000
+
+|
+
+x
+
+|
+
+150,000
+
+|
+
+115,385
+
+|
+
+-
+
+|
+
+-
+
+|
+
+(250,000+75,000)
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Gain
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+134,615
+
+|
+
+Partnerships
+
+It is common for partnership assets, for example land, to be held by two to four (the statutory maximum) of the partners as trustees for all the partners. The existence of the trust may cause confusion unless it is appreciated that it is a bare trust arising out of the particular legal requirements. However it may be necessary to consider the precise terms of the trust. The asset may not belong to the partnership as a whole but to individual partners. See generally CG27000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27000).
+
+Assets bought in the name of / with cash provided by another
+
+The law may in certain well established circumstances, imply that a trust, almost certainly a bare trust, exists. For example a person may use his own money to buy an asset in the name of another. That other person should be regarded, in the absence of an express agreement to the contrary, as holding it as bare trustee for the purchaser. This does not apply, however, where that other person is the wife or child of the purchaser; in such a case the purchaser may be presumed (in the absence of evidence to the contrary) to have made a gift to his wife or child.
+
+If a person provides money to another to purchase an asset the same principle may apply. Alternatively it may be a simple loan. The documentation and other evidence must be carefully examined.
+
+Cases of doubt or difficulty should be referred to BAI Assets, Residence and Valuation (Technical).
+
+Constructive Trusts
+
+In certain situations the law may regard the legal owner of property as in some way bound to deal with it as if he or she were a trustee. If so, it is almost certainly a bare trust.
+
+A special type of case is where a person has a right of occupation which the courts will protect. The owner may be treated as holding the property as constructive trustee for the occupier. Generally the occupier's right is limited to his or her life, and therefore, if this is a constructive trust, this is settled property for CGT purposes. In practice this argument is often put forward by a taxpayer in order to obtain relief under TCGA92/S225. The issues are discussed at CG65415 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65415)+.
+
+Asset pooling – shares – Booth v Ellard
+
+Sometimes owners of property may enter into arrangements under which it is held by trustees in a pool. An example is Booth v Ellard, 53TC393. In this case shareholders in a company transferred their shares to trustees to hold for their mutual benefit, largely to enable a collective defence to be put forward against a takeover. The trustees exercised voting power on all the shares in accordance with a majority vote. The Court of Appeal held that this was a bare trust within TCGA92/S60. Therefore Mr Booth had not made a disposal to the trustees.
+
+In Booth v Ellard the shareholders were entitled to the same number of shares as they had put in to be returned to them. Therefore it seemed clear to the Court that there was no real disposal. The right of the trustees to deal with the shares did not prevent it from being a bare trust.
+
+Asset pooling – land – Warrington v Brown
+
+In Warrington (or Jenkins) v Brown, 62TC226, members of a family had put into a trust various pieces of land. The purpose was to maintain the continuity of the family farming unit. The beneficial interests were expressed as a percentage of the value of the property as a whole, calculated by reference to the values of what were originally put in. The court had to decide on the position when a member withdrew the same piece of land as he had put in. Knox J held that there was no disposal because one had to look at the interests in the mass and not at the individual case. It was not a case of every member disposing of their interest in that piece of land. The reasoning of the judge suggests that there would have been no disposal if a different piece had been removed.
+
+The documentation needs to be carefully considered before it is accepted that the decision in Warrington v Brown applies.
+
+It follows from what the judge says that this is a situation in which TCGA92/S43 applies. The interest in the mass derives from the original asset put into the pool by the taxpayer, and the asset taken out is derived from the interest in the mass. Subject to rebasing, the cost to the taxpayer when he or she disposes of the asset taken out is the original cost of the first asset.
+
+Where joint owners of land exchange their interests roll-over relief may be due in some circumstances, under the provisions of TCGA 1992/S248A – 248E in relation to disposals on or after 6th April 2010, see CG73000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73000), and under the terms of ESC/D26 in relation to disposals prior to 6th April 2010, see CG73000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73000).
+
+Unincorporated associations
+
+An unincorporated association cannot hold land directly, except, possibly, where it has been created by statute. The land must be held by trustees on its behalf. The trustees are bare trustees for the unincorporated association, which is therefore liable to Corporation Tax on the gain. See CTM00520 and Worthing RFC v CIR, 60TC487.
+
+Investment groups
+
+There may be cases where assets are pooled together for investment purposes. If so, the first question to ask is whether this is an unauthorised unit trust, see CG41300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg41300)+ and in particular CG41350 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg41350)+. The second question is whether this is an unincorporated association, see above. Only then is it necessary to consider whether it is a bare trust or settled property. It is the former if the rights of the members are qualitatively the same and there are no other beneficiaries.

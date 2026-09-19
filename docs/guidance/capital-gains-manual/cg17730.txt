@@ -1,0 +1,26 @@
+Indexation: disposals 30/11/93+: disposals following no gain/loss transfers
+Identifier: CG17730
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17730
+Published: 2016-03-12T10:18:25+00:00
+Updated: 2016-01-25T12:19:05+00:00
+Retrieved (UTC): 2026-09-18T14:38:40.004927+00:00
+
+The general rule in TCGA92/S56 (2) is that on a no gain/no loss transfer of an asset, indexation from the date of acquisition to the date of transfer becomes a part of the transferee’s relevant allowable expenditure (RAE), see CG17400+. The treatment of these amounts on a later disposal depends on whether the asset was held by the transferor on 31 March 1982.
+
+- Where the asset was not held by the transferor at 31 March 1982, the indexation allowance added to the transferee’s RAE remains there, on the eventual disposal of the asset.
+
+- Where the asset was held by the transferor at 31 March 1982, the indexation allowance added to the transferee’s RAE on the no gain/no loss transfer is excluded from RAE on the transferee’s disposal of the asset. The transferee is treated as having held the asset at 31 March 1982, and indexation allowance on the disposal is computed from that date, see CG17405+. The same rule applies if the asset was held on 31 March 1982 by an earlier transferor in an unbroken sequence of no gain/no loss transfers.
+
+This rule was not changed by Finance Act 1994.
+
+FA94
+
+FA94 changes
+
+The Finance Act 1994 changes operate so that indexation which was included in a transferee’s RAE on no gain/no loss transfers before 30 November 1993 remains available to create or increase a loss on a later disposal of the asset. But indexation included in RAE in respect of no gain/no loss transfers on or after 30 November 1993 is not able to create or increase a loss.
+
+The way in which this is done depends on whether the asset was held by the transferor at 31 March 1982.
+
+- Where the asset was not held by the transferor at 31 March 1982, the indexation allowance added to the transferee’s RAE on a no gain/no loss transfer remains as part of the transferee’s RAE on any subsequent disposal. Special rules ensure that any indexation allowance added to the transferee’s RAE on transfers on or after 30 November 1993 is identified, and is not allowed to create or increase a loss, see CG17740+. However, where the asset is shares, see CG17733.
+
+- Where the asset was held by the transferor at 31 March 1982, any indexation allowance which was added to the transferee’s RAE on a no gain/no loss transfer is removed from the RAE on the eventual disposal. Indexation is then computed as if the transferee had held the asset at 31 March 1982. All of this indexation would be subject to the general FA94 rules described at CG17700+. Special rules ensure that any indexation which had been added to the transferee’s RAE on no gain/no loss transfers before 30 November 1993 is protected, see CG17760+.

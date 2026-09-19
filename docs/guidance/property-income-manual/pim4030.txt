@@ -1,0 +1,84 @@
+Rent-a-room: receipts above exemption limit
+Identifier: PIM4030
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4030
+Published: 2016-04-10T16:26:00+01:00
+Updated: 2022-08-08T10:24:27+01:00
+Retrieved (UTC): 2026-09-18T14:28:06.557922+00:00
+
+Summary
+
+The rent-a-room scheme provides two ways to work out the tax when receipts are above the exemption limit of £7,500 (or £3,750 if someone else also got income from the same property in the same period). The customer can choose which of the following two methods is best for them:
+
+- Method A: paying tax on the profit they make from letting worked out in the normal way for a rental business (that is, rents received less expenses).
+
+- Method B: paying tax on the gross amount of their receipts (including receipts for any related services they provide) less the £7,500 (or £3,750) exemption limit.
+
+Method A
+
+This is the default method unless an election is made within the relevant time limits (see PIM4050 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4050)). Profits from the letting are worked out in the normal way set out in PIM1090 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1090) (where cash basis is applicable) and PIM1104 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1104) (where generally accepted accounting practice is applicable).
+
+Example where method A is preferential to the customer
+
+Leonardo lets out a room in his own home for a rent of £200 a week plus contributions to the heating and lighting. His total letting receipts for the year from letting the room are £10,400 rent plus £200 for light and heating = £10,600. He has expenses of £9,000 so his profit is £1,600. The excess of his gross receipts over £7,500 is £3,100 (£10,600 less £7,500).
+
+- Leonardo pays tax on his actual profit of £1,600 if he uses method A.
+
+- Leonardo pays tax on a profit of £3,100 if he uses method B.
+
+In Leonardo’s case, method A is better. Therefore he either does not elect for method B or, if he has already done so, he tells HMRC that he no longer wants it to apply. The profit of £1,600 is included in Leonardo’s overall business computation if he has other rental business income from lettings outside his home. The profit of £1,600 will be the only rental business profit if Leonardo has no other letting income.
+
+Method B
+
+For method B to apply an election must be made to HMRC within the relevant time limits (see PIM4050 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4050)).
+
+Once a customer has elected for method B it continues to apply in the future until they tell their tax office they want method A. The customer must tell HMRC within the time limit if they decide they no longer want method B to apply. They may want to do this where the taxable profit is less under method A or where expenses are more than the rents (so there is a loss).
+
+Profits under method B are calculated as the excess of their gross receipts less the £7,500 (or £3,750) exemption limit.
+
+Example where method B is preferential to the customer
+
+Florence lets out a room in her own home for £200 a week. Nobody else lets a room in the house. Her gross receipts for the year are £10,400. She isn’t exempt from tax because her gross receipts exceed the exemption limit of £7,500. She has expenses of £1,000 so her profit is £9,400. The excess of her receipts over £7,500 is £2,900 (£10,400 less £7,500).
+
+- Using method A, she pays tax on her actual profit of £9,400.
+
+- Using method B, she pays tax on a profit of £2,900
+
+In Florence’s case, method B is better and she elects for it. The profit of £2,900 is included in Florence’s overall business computation if she has other rental business income from lettings outside her home. The profit of £2,900 will be the only rental business profit if Florence has no other letting income.
+
+Legislation for method B
+
+The simplified method of calculation (‘method B’) is described in ITTOIA05/S795 to S798, and elections for it are covered in ITTOIA05/S800.
+
+The customer can elect for the alternative method of calculating profits if the ‘total rent-a-room amount’ exceeds the individual’s limit for the year. Any balancing charge is counted in the ‘total rent-a-room amount’ for this purpose.
+
+Under the alternative method of computation, tax is simply charged on the ‘total rent-a-room amount’ less the exemption limit, and
+
+- no other expenses can be claimed,
+
+- no capital allowances can be given.
+
+Changing from method A to method B and vice versa
+
+A customer can change from method A to method B (or vice versa) from year to year. But each time they want to change they must tell HMRC within the time limit.
+
+Method B will automatically cease if the rent drops below the exemption limit of £7,500 (or £3,750). The customer will then be automatically exempt from tax unless they ask within the time limit for their actual profit or loss to be taken into account. If, in the following year, their gross receipts go up and they want to use method B again, they must tell HMRC within the time limit. Otherwise they are automatically taxed on the normal rental business basis (receipts less expenses).
+
+Elections
+
+The individual must make an election for the alternative basis of computation (method B) to apply. If there is no election then the normal method of calculating profits (method A) will apply. Once made an election is effective for that and subsequent years of assessment until the individual withdraws the election or the individual becomes exempt.
+
+There is no special form. If the customer’s return is made on the basis of method B, that may be taken as an election.
+
+The time limits for making or withdrawing elections, and what to do about late elections are at PIM4050 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4050).
+
+More than one source
+
+If there is more than one source within rent-a-room, you have to look at the total from all the sources to determine whether the income exceeds the individual’s limit for the year. You cannot exempt some sources but treat others as outside rent-a-room.
+
+If the customer does not opt for method B then the profit calculation is straightforward, following normal principles.
+
+If there is an election for method B and there is more than one source (e.g. trading income from a bed and breakfast business and rental income from a lodger), the profits are calculated as follows:
+
+- divide the individual’s limit between the sources in proportion to the gross receipts from each source
+
+- calculate the profits from each source as the excess of its gross receipts over its portion of the individual’s limit.

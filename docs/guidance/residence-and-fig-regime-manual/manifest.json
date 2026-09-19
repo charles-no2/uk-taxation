@@ -1,0 +1,1602 @@
+{
+  "manual": "residence-and-fig-regime-manual",
+  "source": "https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual",
+  "pages": {
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual": {
+      "file": "index.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig10000",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20000",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30000",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig40000",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig50000"
+      ],
+      "retrieved_at": "2026-09-18T16:18:24.948029+00:00",
+      "updated_at": "2026-07-03T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig10000": {
+      "file": "rfig10000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig10050",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig10100"
+      ],
+      "retrieved_at": "2026-09-18T16:18:25.107556+00:00",
+      "updated_at": "2025-04-04T17:32:44+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20000": {
+      "file": "rfig20000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20010",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20100",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20300",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20500",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20700",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20900",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21000",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21500",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21700",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21900",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22000"
+      ],
+      "retrieved_at": "2026-09-18T16:18:25.248329+00:00",
+      "updated_at": "2025-04-04T17:32:40+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30000": {
+      "file": "rfig30000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30010",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30100",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30300",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30500",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30700",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30900",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31100"
+      ],
+      "retrieved_at": "2026-09-18T16:18:25.421619+00:00",
+      "updated_at": "2025-04-04T17:53:05+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig40000": {
+      "file": "rfig40000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig41000",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig42100",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig42300",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig43000",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig44000",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45100",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45200",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45250",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45300",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45400",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45500"
+      ],
+      "retrieved_at": "2026-09-18T16:18:25.593935+00:00",
+      "updated_at": "2025-06-06T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig50000": {
+      "file": "rfig50000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig50100",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig50200",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig50300",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig50400"
+      ],
+      "retrieved_at": "2026-09-18T16:18:25.769645+00:00",
+      "updated_at": "2025-04-04T17:32:33+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig10050": {
+      "file": "rfig10050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:25.916647+00:00",
+      "updated_at": "2025-04-04T17:36:32+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig10100": {
+      "file": "rfig10100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:26.090581+00:00",
+      "updated_at": "2025-04-04T17:36:30+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20010": {
+      "file": "rfig20010.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20020",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20030",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20040",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20050"
+      ],
+      "retrieved_at": "2026-09-18T16:18:26.262711+00:00",
+      "updated_at": "2025-04-04T17:32:56+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20100": {
+      "file": "rfig20100.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20110",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20120",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20130",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20140",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20150",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20160",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20170",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20180",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20190"
+      ],
+      "retrieved_at": "2026-09-18T16:18:26.415702+00:00",
+      "updated_at": "2025-04-04T17:32:56+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20300": {
+      "file": "rfig20300.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20310",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20320",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20330",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20340",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20350",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20360",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20370",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20380"
+      ],
+      "retrieved_at": "2026-09-18T16:18:26.566040+00:00",
+      "updated_at": "2025-04-04T17:32:55+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20500": {
+      "file": "rfig20500.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20510",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20520",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20530",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20540",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20550",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20560",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20570",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20580"
+      ],
+      "retrieved_at": "2026-09-18T16:18:26.730233+00:00",
+      "updated_at": "2025-04-04T17:32:54+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20700": {
+      "file": "rfig20700.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20710",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20720",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20730",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20740",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20750",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20760",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20770",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20780",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20790",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20800",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20810"
+      ],
+      "retrieved_at": "2026-09-18T16:18:26.878796+00:00",
+      "updated_at": "2025-04-04T17:32:53+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20900": {
+      "file": "rfig20900.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20910",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20920",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20930",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20940",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20950",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20960",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20970"
+      ],
+      "retrieved_at": "2026-09-18T16:18:27.034654+00:00",
+      "updated_at": "2025-04-04T17:32:52+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21000": {
+      "file": "rfig21000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21010",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21020",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21030",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21040",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21050",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21060",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21070",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21080",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21090",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21100",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21110",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21120",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21130",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21140",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21150",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21160",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21170",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21180",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21190",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21200",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21210",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21220",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21230",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21240",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21250",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21260",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21270",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21280"
+      ],
+      "retrieved_at": "2026-09-18T16:18:27.197099+00:00",
+      "updated_at": "2025-04-04T17:51:42+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21500": {
+      "file": "rfig21500.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21510",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21520",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21530",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21540",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21550",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21560",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21570",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21580",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21590",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21600",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21610",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21620",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21630"
+      ],
+      "retrieved_at": "2026-09-18T16:18:27.365464+00:00",
+      "updated_at": "2025-04-04T17:32:49+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21700": {
+      "file": "rfig21700.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21710",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21720",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21730",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21740"
+      ],
+      "retrieved_at": "2026-09-18T16:18:27.499937+00:00",
+      "updated_at": "2025-04-04T17:32:48+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21900": {
+      "file": "rfig21900.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21910",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21920",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21930",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21940"
+      ],
+      "retrieved_at": "2026-09-18T16:18:27.665544+00:00",
+      "updated_at": "2025-04-04T17:32:47+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22000": {
+      "file": "rfig22000.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22110",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22120",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22130",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22140",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22150",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22160",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22170",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22180",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22210",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22220",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22230",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22240",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22250",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22260",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22270",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22310",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22320",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22330",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22410",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22420",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22430",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22440",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22450",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22460",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22470",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22480",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22490",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22500",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22510",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22520",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22530",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22540",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22550"
+      ],
+      "retrieved_at": "2026-09-18T16:18:27.828568+00:00",
+      "updated_at": "2025-04-07T11:49:18+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30010": {
+      "file": "rfig30010.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30020",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30030",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30040",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30050"
+      ],
+      "retrieved_at": "2026-09-18T16:18:27.983434+00:00",
+      "updated_at": "2025-04-04T17:34:39+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30100": {
+      "file": "rfig30100.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30110",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30120",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30130",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30140",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30150",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30160",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30170"
+      ],
+      "retrieved_at": "2026-09-18T16:18:28.140869+00:00",
+      "updated_at": "2025-04-04T17:53:10+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30300": {
+      "file": "rfig30300.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30310",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30320",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30330",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30340",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30350",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30360",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30370",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30380",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30390",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30400",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30410",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30420",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30430"
+      ],
+      "retrieved_at": "2026-09-18T16:18:28.302647+00:00",
+      "updated_at": "2025-04-04T17:53:17+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30500": {
+      "file": "rfig30500.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30510",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30520",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30530",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30540",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30550",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30560",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30570"
+      ],
+      "retrieved_at": "2026-09-18T16:18:28.468530+00:00",
+      "updated_at": "2025-04-04T17:34:36+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30700": {
+      "file": "rfig30700.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30710",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30720",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30730",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30740",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30750",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30760",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30770"
+      ],
+      "retrieved_at": "2026-09-18T16:18:28.624254+00:00",
+      "updated_at": "2025-04-04T17:53:29+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30900": {
+      "file": "rfig30900.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30910",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30920",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30930",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30940",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30950",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30960",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30970",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30980",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30990",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31000",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31010"
+      ],
+      "retrieved_at": "2026-09-18T16:18:28.768621+00:00",
+      "updated_at": "2025-04-04T17:34:34+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31100": {
+      "file": "rfig31100.txt",
+      "children": [
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31110",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31120",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31130",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31140",
+        "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31150"
+      ],
+      "retrieved_at": "2026-09-18T16:18:28.924257+00:00",
+      "updated_at": "2025-04-04T17:34:33+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig41000": {
+      "file": "rfig41000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:29.065558+00:00",
+      "updated_at": "2025-04-04T17:40:34+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig42100": {
+      "file": "rfig42100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:29.225733+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig42300": {
+      "file": "rfig42300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:29.388961+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig43000": {
+      "file": "rfig43000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:29.552223+00:00",
+      "updated_at": "2025-12-10T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig44000": {
+      "file": "rfig44000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:29.716352+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45100": {
+      "file": "rfig45100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:29.872783+00:00",
+      "updated_at": "2026-08-28T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45200": {
+      "file": "rfig45200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:30.032294+00:00",
+      "updated_at": "2025-04-04T17:40:25+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45250": {
+      "file": "rfig45250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:30.194032+00:00",
+      "updated_at": "2025-06-06T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45300": {
+      "file": "rfig45300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:30.353570+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45400": {
+      "file": "rfig45400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:30.509469+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45500": {
+      "file": "rfig45500.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:30.662743+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig50100": {
+      "file": "rfig50100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:30.827903+00:00",
+      "updated_at": "2025-04-04T17:40:38+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig50200": {
+      "file": "rfig50200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:30.990801+00:00",
+      "updated_at": "2025-04-04T17:53:02+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig50300": {
+      "file": "rfig50300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:31.157204+00:00",
+      "updated_at": "2025-04-04T17:40:36+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig50400": {
+      "file": "rfig50400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:31.349768+00:00",
+      "updated_at": "2025-12-18T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20020": {
+      "file": "rfig20020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:31.511708+00:00",
+      "updated_at": "2025-04-04T17:36:36+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20030": {
+      "file": "rfig20030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:31.665020+00:00",
+      "updated_at": "2025-04-04T17:36:35+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20040": {
+      "file": "rfig20040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:31.825912+00:00",
+      "updated_at": "2025-04-04T17:36:34+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20050": {
+      "file": "rfig20050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:31.993212+00:00",
+      "updated_at": "2025-04-04T17:36:33+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20110": {
+      "file": "rfig20110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:32.146949+00:00",
+      "updated_at": "2025-04-04T17:36:44+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20120": {
+      "file": "rfig20120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:32.311987+00:00",
+      "updated_at": "2025-04-07T12:32:39+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20130": {
+      "file": "rfig20130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:32.479524+00:00",
+      "updated_at": "2025-04-04T17:36:42+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20140": {
+      "file": "rfig20140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:32.634281+00:00",
+      "updated_at": "2025-04-04T17:36:41+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20150": {
+      "file": "rfig20150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:32.810264+00:00",
+      "updated_at": "2025-04-04T17:51:04+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20160": {
+      "file": "rfig20160.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:32.986786+00:00",
+      "updated_at": "2026-07-03T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20170": {
+      "file": "rfig20170.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:33.143588+00:00",
+      "updated_at": "2025-04-04T17:36:39+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20180": {
+      "file": "rfig20180.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:33.301502+00:00",
+      "updated_at": "2025-04-04T17:36:38+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20190": {
+      "file": "rfig20190.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:33.456225+00:00",
+      "updated_at": "2025-09-08T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20310": {
+      "file": "rfig20310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:33.607195+00:00",
+      "updated_at": "2025-04-04T17:36:53+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20320": {
+      "file": "rfig20320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:33.768821+00:00",
+      "updated_at": "2025-04-04T17:36:52+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20330": {
+      "file": "rfig20330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:33.934644+00:00",
+      "updated_at": "2025-04-04T17:36:51+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20340": {
+      "file": "rfig20340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:34.086101+00:00",
+      "updated_at": "2025-04-04T17:51:13+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20350": {
+      "file": "rfig20350.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:34.252501+00:00",
+      "updated_at": "2025-04-04T17:36:49+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20360": {
+      "file": "rfig20360.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:34.396556+00:00",
+      "updated_at": "2025-04-04T17:36:48+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20370": {
+      "file": "rfig20370.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:34.557311+00:00",
+      "updated_at": "2025-04-04T17:36:46+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20380": {
+      "file": "rfig20380.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:34.698082+00:00",
+      "updated_at": "2025-04-04T17:51:16+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20510": {
+      "file": "rfig20510.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:34.850704+00:00",
+      "updated_at": "2025-04-04T17:37:01+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20520": {
+      "file": "rfig20520.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:35.025096+00:00",
+      "updated_at": "2026-07-03T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20530": {
+      "file": "rfig20530.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:35.185504+00:00",
+      "updated_at": "2026-03-10T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20540": {
+      "file": "rfig20540.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:35.334905+00:00",
+      "updated_at": "2025-04-04T17:36:58+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20550": {
+      "file": "rfig20550.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:35.506293+00:00",
+      "updated_at": "2025-04-04T17:36:57+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20560": {
+      "file": "rfig20560.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:35.664338+00:00",
+      "updated_at": "2025-04-04T17:36:56+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20570": {
+      "file": "rfig20570.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:35.836763+00:00",
+      "updated_at": "2026-01-08T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20580": {
+      "file": "rfig20580.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:35.999198+00:00",
+      "updated_at": "2025-04-04T17:36:54+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20710": {
+      "file": "rfig20710.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:36.140310+00:00",
+      "updated_at": "2025-04-04T17:37:10+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20720": {
+      "file": "rfig20720.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:36.285613+00:00",
+      "updated_at": "2025-04-04T17:37:09+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20730": {
+      "file": "rfig20730.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:36.436899+00:00",
+      "updated_at": "2025-04-04T17:51:29+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20740": {
+      "file": "rfig20740.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:36.594275+00:00",
+      "updated_at": "2025-04-04T17:37:07+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20750": {
+      "file": "rfig20750.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:36.740206+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20760": {
+      "file": "rfig20760.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:36.884945+00:00",
+      "updated_at": "2025-04-04T17:37:06+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20770": {
+      "file": "rfig20770.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:37.039544+00:00",
+      "updated_at": "2025-04-04T17:37:05+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20780": {
+      "file": "rfig20780.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:37.190148+00:00",
+      "updated_at": "2025-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20790": {
+      "file": "rfig20790.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:37.354318+00:00",
+      "updated_at": "2025-04-04T17:37:04+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20800": {
+      "file": "rfig20800.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:37.515438+00:00",
+      "updated_at": "2025-04-04T17:37:03+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20810": {
+      "file": "rfig20810.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:37.662858+00:00",
+      "updated_at": "2025-04-04T17:37:02+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20910": {
+      "file": "rfig20910.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:37.815326+00:00",
+      "updated_at": "2025-04-04T17:37:17+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20920": {
+      "file": "rfig20920.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:37.960773+00:00",
+      "updated_at": "2025-04-04T17:37:16+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20930": {
+      "file": "rfig20930.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:38.119348+00:00",
+      "updated_at": "2025-04-04T17:37:15+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20940": {
+      "file": "rfig20940.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:38.275124+00:00",
+      "updated_at": "2025-04-04T17:37:14+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20950": {
+      "file": "rfig20950.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:38.437054+00:00",
+      "updated_at": "2025-04-04T17:37:13+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20960": {
+      "file": "rfig20960.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:38.600707+00:00",
+      "updated_at": "2025-04-04T17:37:12+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20970": {
+      "file": "rfig20970.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:38.753215+00:00",
+      "updated_at": "2025-04-04T17:37:11+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21010": {
+      "file": "rfig21010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:38.910757+00:00",
+      "updated_at": "2025-04-04T17:38:09+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21020": {
+      "file": "rfig21020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:39.076555+00:00",
+      "updated_at": "2025-04-04T17:38:08+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21030": {
+      "file": "rfig21030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:39.227875+00:00",
+      "updated_at": "2025-04-04T17:38:07+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21040": {
+      "file": "rfig21040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:39.385658+00:00",
+      "updated_at": "2025-06-06T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21050": {
+      "file": "rfig21050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:39.545606+00:00",
+      "updated_at": "2025-04-04T17:38:05+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21060": {
+      "file": "rfig21060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:39.697458+00:00",
+      "updated_at": "2026-07-03T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21070": {
+      "file": "rfig21070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:39.861909+00:00",
+      "updated_at": "2026-07-03T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21080": {
+      "file": "rfig21080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:40.030807+00:00",
+      "updated_at": "2025-04-04T17:38:02+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21090": {
+      "file": "rfig21090.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:40.193904+00:00",
+      "updated_at": "2025-04-04T17:38:01+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21100": {
+      "file": "rfig21100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:40.349926+00:00",
+      "updated_at": "2025-04-07T09:55:39+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21110": {
+      "file": "rfig21110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:40.512158+00:00",
+      "updated_at": "2025-04-07T09:58:10+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21120": {
+      "file": "rfig21120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:40.672140+00:00",
+      "updated_at": "2025-04-07T10:00:14+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21130": {
+      "file": "rfig21130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:40.822006+00:00",
+      "updated_at": "2025-04-07T10:11:52+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21140": {
+      "file": "rfig21140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:40.987176+00:00",
+      "updated_at": "2025-04-07T10:12:27+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21150": {
+      "file": "rfig21150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:41.149217+00:00",
+      "updated_at": "2025-04-07T10:13:42+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21160": {
+      "file": "rfig21160.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:41.303648+00:00",
+      "updated_at": "2025-04-07T10:14:21+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21170": {
+      "file": "rfig21170.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:41.476725+00:00",
+      "updated_at": "2025-04-07T10:15:05+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21180": {
+      "file": "rfig21180.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:41.628137+00:00",
+      "updated_at": "2026-03-26T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21190": {
+      "file": "rfig21190.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:41.781269+00:00",
+      "updated_at": "2025-04-07T10:19:07+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21200": {
+      "file": "rfig21200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:41.926892+00:00",
+      "updated_at": "2025-04-04T17:38:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21210": {
+      "file": "rfig21210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:42.079659+00:00",
+      "updated_at": "2026-07-03T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21220": {
+      "file": "rfig21220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:42.250314+00:00",
+      "updated_at": "2026-07-03T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21230": {
+      "file": "rfig21230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:42.410317+00:00",
+      "updated_at": "2025-04-04T17:37:56+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21240": {
+      "file": "rfig21240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:42.567018+00:00",
+      "updated_at": "2026-07-03T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21250": {
+      "file": "rfig21250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:42.719369+00:00",
+      "updated_at": "2026-03-26T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21260": {
+      "file": "rfig21260.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:42.880678+00:00",
+      "updated_at": "2025-04-04T17:37:54+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21270": {
+      "file": "rfig21270.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:43.038274+00:00",
+      "updated_at": "2025-04-04T17:37:53+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21280": {
+      "file": "rfig21280.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:43.195474+00:00",
+      "updated_at": "2025-04-04T17:37:52+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21510": {
+      "file": "rfig21510.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:43.347528+00:00",
+      "updated_at": "2025-04-04T17:38:22+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21520": {
+      "file": "rfig21520.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:43.507578+00:00",
+      "updated_at": "2025-04-04T17:38:20+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21530": {
+      "file": "rfig21530.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:43.669644+00:00",
+      "updated_at": "2025-04-04T17:38:20+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21540": {
+      "file": "rfig21540.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:43.828296+00:00",
+      "updated_at": "2025-04-04T17:38:19+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21550": {
+      "file": "rfig21550.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:43.977092+00:00",
+      "updated_at": "2025-04-04T17:52:05+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21560": {
+      "file": "rfig21560.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:44.136859+00:00",
+      "updated_at": "2025-04-04T17:38:17+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21570": {
+      "file": "rfig21570.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:44.305839+00:00",
+      "updated_at": "2025-04-04T17:38:16+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21580": {
+      "file": "rfig21580.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:44.475188+00:00",
+      "updated_at": "2025-04-07T12:40:10+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21590": {
+      "file": "rfig21590.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:44.636438+00:00",
+      "updated_at": "2025-04-04T17:38:14+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21600": {
+      "file": "rfig21600.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:44.782106+00:00",
+      "updated_at": "2026-04-07T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21610": {
+      "file": "rfig21610.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:44.995393+00:00",
+      "updated_at": "2026-03-10T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21620": {
+      "file": "rfig21620.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:45.163205+00:00",
+      "updated_at": "2026-03-10T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21630": {
+      "file": "rfig21630.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:45.321962+00:00",
+      "updated_at": "2026-03-10T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21710": {
+      "file": "rfig21710.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:45.491107+00:00",
+      "updated_at": "2025-04-04T17:38:25+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21720": {
+      "file": "rfig21720.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:45.654231+00:00",
+      "updated_at": "2025-04-04T17:38:24+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21730": {
+      "file": "rfig21730.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:45.812379+00:00",
+      "updated_at": "2025-04-04T17:38:23+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21740": {
+      "file": "rfig21740.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:45.964397+00:00",
+      "updated_at": "2025-04-04T17:38:22+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21910": {
+      "file": "rfig21910.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:46.117289+00:00",
+      "updated_at": "2025-04-04T17:38:29+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21920": {
+      "file": "rfig21920.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:46.281695+00:00",
+      "updated_at": "2025-04-04T17:38:28+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21930": {
+      "file": "rfig21930.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:46.448551+00:00",
+      "updated_at": "2025-04-04T17:38:27+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21940": {
+      "file": "rfig21940.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:46.616807+00:00",
+      "updated_at": "2025-04-04T17:38:26+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22110": {
+      "file": "rfig22110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:46.770391+00:00",
+      "updated_at": "2025-04-04T17:34:32+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22120": {
+      "file": "rfig22120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:46.923403+00:00",
+      "updated_at": "2025-04-04T17:34:31+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22130": {
+      "file": "rfig22130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:47.069855+00:00",
+      "updated_at": "2025-04-04T17:34:30+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22140": {
+      "file": "rfig22140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:47.221640+00:00",
+      "updated_at": "2025-04-04T17:52:29+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22150": {
+      "file": "rfig22150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:47.396516+00:00",
+      "updated_at": "2026-07-15T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22160": {
+      "file": "rfig22160.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:47.563770+00:00",
+      "updated_at": "2025-04-04T17:52:31+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22170": {
+      "file": "rfig22170.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:47.727497+00:00",
+      "updated_at": "2025-04-04T17:52:32+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22180": {
+      "file": "rfig22180.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:47.889595+00:00",
+      "updated_at": "2025-04-04T17:34:25+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22210": {
+      "file": "rfig22210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:48.045312+00:00",
+      "updated_at": "2025-04-04T17:52:36+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22220": {
+      "file": "rfig22220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:48.210135+00:00",
+      "updated_at": "2025-04-04T17:52:38+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22230": {
+      "file": "rfig22230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:48.359836+00:00",
+      "updated_at": "2025-04-07T11:23:22+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22240": {
+      "file": "rfig22240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:48.496887+00:00",
+      "updated_at": "2025-04-04T17:52:40+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22250": {
+      "file": "rfig22250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:48.661144+00:00",
+      "updated_at": "2025-04-04T17:52:41+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22260": {
+      "file": "rfig22260.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:48.814857+00:00",
+      "updated_at": "2025-04-04T17:52:42+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22270": {
+      "file": "rfig22270.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:48.979294+00:00",
+      "updated_at": "2025-04-04T17:52:43+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22310": {
+      "file": "rfig22310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:49.140569+00:00",
+      "updated_at": "2025-04-07T11:43:11+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22320": {
+      "file": "rfig22320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:49.321938+00:00",
+      "updated_at": "2025-04-04T17:52:46+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22330": {
+      "file": "rfig22330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:49.483338+00:00",
+      "updated_at": "2025-04-07T11:48:37+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22410": {
+      "file": "rfig22410.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:49.631049+00:00",
+      "updated_at": "2025-04-04T17:52:23+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22420": {
+      "file": "rfig22420.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:49.789944+00:00",
+      "updated_at": "2025-04-04T17:34:14+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22430": {
+      "file": "rfig22430.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:49.980327+00:00",
+      "updated_at": "2025-04-04T17:34:12+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22440": {
+      "file": "rfig22440.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:50.132306+00:00",
+      "updated_at": "2025-04-04T17:34:11+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22450": {
+      "file": "rfig22450.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:50.302296+00:00",
+      "updated_at": "2025-04-04T17:34:10+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22460": {
+      "file": "rfig22460.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:50.460974+00:00",
+      "updated_at": "2025-04-04T17:34:09+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22470": {
+      "file": "rfig22470.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:50.605856+00:00",
+      "updated_at": "2025-04-04T17:34:08+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22480": {
+      "file": "rfig22480.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:50.762980+00:00",
+      "updated_at": "2025-04-04T17:34:07+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22490": {
+      "file": "rfig22490.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:50.906350+00:00",
+      "updated_at": "2025-04-04T17:34:06+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22500": {
+      "file": "rfig22500.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:51.071536+00:00",
+      "updated_at": "2025-04-04T17:34:05+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22510": {
+      "file": "rfig22510.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:51.240164+00:00",
+      "updated_at": "2025-04-04T17:34:04+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22520": {
+      "file": "rfig22520.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:51.412865+00:00",
+      "updated_at": "2025-04-04T17:34:03+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22530": {
+      "file": "rfig22530.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:51.575438+00:00",
+      "updated_at": "2025-04-04T17:34:02+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22540": {
+      "file": "rfig22540.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:51.725350+00:00",
+      "updated_at": "2025-04-04T17:34:01+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig22550": {
+      "file": "rfig22550.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:51.884438+00:00",
+      "updated_at": "2025-04-04T17:34:00+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30020": {
+      "file": "rfig30020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:52.057713+00:00",
+      "updated_at": "2025-04-04T17:39:59+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30030": {
+      "file": "rfig30030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:52.201672+00:00",
+      "updated_at": "2025-04-07T13:51:18+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30040": {
+      "file": "rfig30040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:52.353761+00:00",
+      "updated_at": "2025-04-04T17:53:08+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30050": {
+      "file": "rfig30050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:52.527576+00:00",
+      "updated_at": "2025-04-04T17:53:09+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30110": {
+      "file": "rfig30110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:52.690350+00:00",
+      "updated_at": "2025-04-04T17:53:11+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30120": {
+      "file": "rfig30120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:52.847914+00:00",
+      "updated_at": "2025-04-04T17:40:06+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30130": {
+      "file": "rfig30130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:53.016346+00:00",
+      "updated_at": "2025-04-04T17:40:05+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30140": {
+      "file": "rfig30140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:53.186646+00:00",
+      "updated_at": "2025-04-04T17:40:04+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30150": {
+      "file": "rfig30150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:53.341640+00:00",
+      "updated_at": "2025-04-04T17:40:03+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30160": {
+      "file": "rfig30160.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:53.506873+00:00",
+      "updated_at": "2025-04-04T17:40:01+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30170": {
+      "file": "rfig30170.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:53.658242+00:00",
+      "updated_at": "2025-04-04T17:53:16+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30310": {
+      "file": "rfig30310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:53.814710+00:00",
+      "updated_at": "2025-04-04T17:35:32+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30320": {
+      "file": "rfig30320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:53.961960+00:00",
+      "updated_at": "2025-04-04T17:35:31+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30330": {
+      "file": "rfig30330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:54.110414+00:00",
+      "updated_at": "2025-04-04T17:35:30+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30340": {
+      "file": "rfig30340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:54.270662+00:00",
+      "updated_at": "2025-04-04T17:35:29+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30350": {
+      "file": "rfig30350.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:54.423819+00:00",
+      "updated_at": "2025-04-04T17:53:29+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30360": {
+      "file": "rfig30360.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:54.575445+00:00",
+      "updated_at": "2025-04-04T17:35:27+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30370": {
+      "file": "rfig30370.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:54.735299+00:00",
+      "updated_at": "2025-11-24T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30380": {
+      "file": "rfig30380.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:54.890061+00:00",
+      "updated_at": "2025-04-04T17:35:25+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30390": {
+      "file": "rfig30390.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:55.058711+00:00",
+      "updated_at": "2025-04-04T17:35:24+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30400": {
+      "file": "rfig30400.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:55.268262+00:00",
+      "updated_at": "2025-04-04T17:35:23+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30410": {
+      "file": "rfig30410.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:55.425681+00:00",
+      "updated_at": "2025-04-04T17:35:22+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30420": {
+      "file": "rfig30420.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:55.582349+00:00",
+      "updated_at": "2025-04-04T17:35:21+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30430": {
+      "file": "rfig30430.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:55.749897+00:00",
+      "updated_at": "2025-04-04T17:35:20+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30510": {
+      "file": "rfig30510.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:55.952707+00:00",
+      "updated_at": "2025-04-04T17:40:16+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30520": {
+      "file": "rfig30520.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:56.119527+00:00",
+      "updated_at": "2025-04-04T17:40:15+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30530": {
+      "file": "rfig30530.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:56.267760+00:00",
+      "updated_at": "2025-04-04T17:40:12+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30540": {
+      "file": "rfig30540.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:56.445271+00:00",
+      "updated_at": "2025-04-04T17:40:10+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30550": {
+      "file": "rfig30550.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:56.597679+00:00",
+      "updated_at": "2025-04-04T17:40:10+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30560": {
+      "file": "rfig30560.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:56.776325+00:00",
+      "updated_at": "2025-04-04T17:40:09+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30570": {
+      "file": "rfig30570.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:56.926684+00:00",
+      "updated_at": "2025-04-04T17:40:08+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30710": {
+      "file": "rfig30710.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:57.090601+00:00",
+      "updated_at": "2025-04-04T17:35:39+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30720": {
+      "file": "rfig30720.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:57.242200+00:00",
+      "updated_at": "2025-04-04T17:35:38+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30730": {
+      "file": "rfig30730.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:57.399672+00:00",
+      "updated_at": "2025-04-07T12:44:46+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30740": {
+      "file": "rfig30740.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:57.549265+00:00",
+      "updated_at": "2025-04-04T17:53:33+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30750": {
+      "file": "rfig30750.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:57.704321+00:00",
+      "updated_at": "2025-04-04T17:35:35+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30760": {
+      "file": "rfig30760.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:57.877542+00:00",
+      "updated_at": "2025-04-07T13:11:37+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30770": {
+      "file": "rfig30770.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:58.024154+00:00",
+      "updated_at": "2025-04-04T17:53:35+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30910": {
+      "file": "rfig30910.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:58.202875+00:00",
+      "updated_at": "2025-04-04T17:35:52+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30920": {
+      "file": "rfig30920.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:58.359196+00:00",
+      "updated_at": "2025-04-04T17:35:51+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30930": {
+      "file": "rfig30930.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:58.511201+00:00",
+      "updated_at": "2025-04-04T17:35:50+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30940": {
+      "file": "rfig30940.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:58.656938+00:00",
+      "updated_at": "2025-04-04T17:35:49+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30950": {
+      "file": "rfig30950.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:58.801732+00:00",
+      "updated_at": "2025-04-04T17:35:47+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30960": {
+      "file": "rfig30960.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:58.947372+00:00",
+      "updated_at": "2025-04-04T17:35:46+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30970": {
+      "file": "rfig30970.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:59.097101+00:00",
+      "updated_at": "2025-04-04T17:35:45+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30980": {
+      "file": "rfig30980.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:59.258922+00:00",
+      "updated_at": "2025-04-04T17:35:43+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30990": {
+      "file": "rfig30990.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:59.419895+00:00",
+      "updated_at": "2025-04-04T17:35:42+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31000": {
+      "file": "rfig31000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:59.590602+00:00",
+      "updated_at": "2025-04-04T17:35:41+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31010": {
+      "file": "rfig31010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:59.751188+00:00",
+      "updated_at": "2025-04-04T17:35:40+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31110": {
+      "file": "rfig31110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:18:59.924524+00:00",
+      "updated_at": "2025-04-04T17:40:21+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31120": {
+      "file": "rfig31120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:00.117934+00:00",
+      "updated_at": "2025-04-04T17:53:57+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31130": {
+      "file": "rfig31130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:00.273532+00:00",
+      "updated_at": "2025-04-04T17:40:19+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31140": {
+      "file": "rfig31140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:00.427634+00:00",
+      "updated_at": "2025-04-04T17:40:18+01:00"
+    },
+    "/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig31150": {
+      "file": "rfig31150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T16:19:00.565525+00:00",
+      "updated_at": "2025-04-04T17:40:17+01:00"
+    }
+  },
+  "status": "complete",
+  "errors": {},
+  "gaps": {},
+  "checked_at": "2026-09-18T16:19:00.567685+00:00",
+  "pages_checked": 224
+}

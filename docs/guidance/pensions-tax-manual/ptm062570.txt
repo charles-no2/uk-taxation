@@ -1,0 +1,134 @@
+Member benefits: pensions: drawdown pension rules immediately before 6 April 2015: capped drawdown pension - using drawdown funds to provide other forms of pension (position immediately before 6 April 2015)
+Identifier: PTM062570
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062570
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2024-04-06T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:50:59.590048+00:00
+
+As of 6 April 2024 there is no longer lifetime allowance. If you are looking for information about protections, enhancement factors and the lifetime allowance charge please see these pages on The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022829/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm090000). If you are looking for information about the principles of lifetime allowance and benefit crystallisation events please see these pages of The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022836/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm080000).
+
+Glossary
+
+|
+
+PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+|
+
+Using funds from a drawdown pension fund to buy a lifetime annuity (position at 5 April 2015) (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062570#IDAJKIBC)
+Using funds from a drawdown pension fund to pay a scheme pension (position at 5 April 2015) (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062570#IDAZNIBC)
+Amount of capped drawdown pension when a short-term annuity using funds from a drawdown pension fund is bought (position at 5 April 2015) (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062570#IDA2QIBC)
+
+Note: Capped drawdown that began on or before 5 April 2015 may continue, providing there have been no events since that date resulting in its conversion to flexi-access drawdown. But no new capped drawdown funds or flexible drawdown funds may be set up from 6 April 2015 onwards. See page PTM062700 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062700) for guidance on flexi-access drawdown funds.
+
+Using funds from a drawdown pension fund to buy a lifetime annuity (position at 5 April 2015)
+
+Paragraph 10 Schedule 28 Finance Act 2004
+
+If the member is under 75 and uses part, or all, of the drawdown pension fund to buy a lifetime annuity, there is:
+
+- a recalculation of the maximum drawdown pension, and
+
+- a lifetime allowance test on the purchase of the lifetime annuity.
+
+PTM088640 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm088640) explains how the lifetime allowance test will work for the purchase of a lifetime annuity from a drawdown pension fund.
+
+The new maximum drawdown pension will take effect from the start of the next pension year. The scheme administrator must calculate the new maximum drawdown pension as at the date of the lifetime annuity purchase. They cannot choose to use another date.
+
+Example 1
+
+Asif is being paid a drawdown pension. His current reference period started on 1 May 2012 and is due to end on 30 April 2015. The basis amount for the reference period is £8,500. The maximum drawdown pension Asif can take each pension year is £8,500 (100% of the basis amount) for the first year, £10,200 (120% of the basis amount) for the next year and £12,750 for the third year (150%).
+
+On 1 February 2013, Asif (aged 66) uses £50,000 of his drawdown pension fund to buy a lifetime annuity. After the lifetime annuity purchase, Asif has £75,000 left in his drawdown pension fund. The purchase of the lifetime annuity triggers a recalculation of Asif’s maximum drawdown pension.
+
+The calculation must be carried out as at 1 February 2013, the date the lifetime annuity was bought. The scheme administrator cannot choose to use another day. Asif’s scheme administrator used the GAD tables to work out the new maximum drawdown pension using the following information:
+
+- the fund value after the annuity purchase (£75,000),
+
+- Asif’s age on 1 February 2013 (66), and
+
+- the 15-year UK gilt yield percentage for 15 January 2013 (4.5%).
+
+The revised basis amount is £5,325. This applies from the start of the next pension year. That is 1 May 2013, so until 30 April 2013 Asif can still be paid a drawdown pension based on the old maximum amount of £8,500. As the year beginning 1 May 2013 begins after 25 March 2013, Asif’s maximum drawdown pension for that pension year is 120% of the £5,325 basis amount i.e. £6,390. And for the pension year beginning 1 May 2014, as it begins after 26 March 2014 his maximum drawdown pension is 150% of the £5,325 basis amount (£7,987.50).
+
+The reference period remains the same: it will end on 30 April 2015. At the start of the new reference period Asif’s scheme administrator will calculate a new maximum drawdown pension for Asif.
+
+Because Asif is under 75 on 1 February 2013 when he buys the lifetime annuity, the purchase triggers a test against the lifetime allowance. As the lifetime annuity is purchased using funds already tested against the lifetime allowance, Asif is given a credit for the amount previously tested against the lifetime allowance. Asif used 40% of his drawdown pension fund to buy the lifetime annuity, so he is given a credit of 40% of the amount originally designated into his drawdown pension fund. Asif originally designated £140,000 into his drawdown pension fund. The calculation for the lifetime allowance test is
+
+Annuity purchase price - 40% of the amount designated to provide drawdown pension
+
+£50,000 - £56,000 (40% @ £140,000)
+
+The amount used to buy the lifetime annuity is less than 40% of the amount designated to provide drawdown pension. So in this case the amount tested against the available lifetime allowance is nil.
+
+Example 2
+
+The scenario is exactly the same as in Example 1 except that Asif originally designated £100,000 into his drawdown pension fund. This time the calculation for the lifetime allowance test is as follows
+
+Annuity purchase price - 40% of the amount designated to provide drawdown pension
+
+£50,000 - £40,000 (40% @ £100,000)
+
+The amount used to buy the lifetime annuity is £10,000 more than 40% of the amount designated to provide drawdown pension. So the amount tested against Asif’s available lifetime allowance is £10,000.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062570#Top)
+
+Using funds from a drawdown pension fund to pay a scheme pension (position at 5 April 2015)
+
+Paragraph 10(4) and (7) Schedule 28 Finance Act 2004
+
+If part, or all, of the drawdown pension fund is used to buy a scheme pension, and the member is under 75, there is:
+
+- a recalculation of the maximum drawdown pension, and
+
+- a lifetime allowance test on the provision of a scheme pension.
+
+PTM088620 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm088620) explains how the lifetime allowance test works where a scheme pension is provided from a drawdown pension fund.
+
+The new maximum drawdown pension will take effect from the start of the next pension year. The scheme administrator must calculate the new maximum drawdown pension as at the date the scheme pension is provided if the member is under 75. They cannot choose to use another date.
+
+Example
+
+On 5 January 2012 Tony puts all his funds in his money purchase arrangement into payment. He designates £562,500 to provide a drawdown pension. The scheme rules allow Tony to opt for a scheme pension at a later date.
+
+Tony’s reference period runs from 5 January 2012 to 4 January 2015. His scheme administrator calculates the basis amount as being £30,937.50. This is also Tony’s maximum drawdown pension for the pension years beginning 5 January 2012 and 5 January 2013. For the year beginning 5 January 2014, as it begins after 25 March 2013, Tony’s maximum drawdown pension is £37,125 (120% of £30,975.50).
+
+On 7 July 2013 Tony decides to take up the scheme pension option and uses half his fund to provide a scheme pension. Tony has drawn no pension from his drawdown pension fund and so, because of investment growth, his drawdown pension fund is now worth £650,000. The scheme will provide Tony with a £17,500 a year scheme pension in exchange for £325,000.
+
+The provision of the scheme pension triggers a recalculation of Tony’s maximum drawdown pension. The calculation must be carried out as at 7 July 2013, the date the scheme pension was provided. The scheme administrator cannot choose to use another day. Tony’s scheme administrator uses the GAD tables to work out the new maximum drawdown pension using the following information:
+
+- the fund value after the scheme pension has been provided (£325,000),
+
+- Tony’s age on 7 July 2013 (57), and
+
+- the 15-year UK gilt yield percentage for 15 June 2013 (3.75%).
+
+The revised basis amount is £17,875. The new maximum drawdown pension is 120% of the £17,875 basis amount i.e. £21,450 and this will apply from the start of the next pension year. That is 5 January 2014. So until 4 January 2014, Tony can still be paid a drawdown pension based on the old maximum amount of £30,973.50.
+
+The reference period remains the same: it will end on 4 January 2015. At the start of the new reference period Tony’s scheme administrator will calculate a new maximum drawdown pension.
+
+As Tony is under 75, the provision of a scheme pension triggers a lifetime allowance test. As the scheme pension is provided from funds already tested against the lifetime allowance, credit is given for the amount previously tested against the lifetime allowance. Tony has used 50% of his drawdown pension fund to provide a scheme pension so he is given credit for 50% of the amount originally designated to provide drawdown pension. So the amount tested against the lifetime allowance is:
+
+20 x the scheme pension - 50% of the amount designated to provide drawdown pension
+
+(20 x £17,500) - £281,250 (50% @ £562,500) = £68,750
+
+£68,750 will be tested against Tony’s available lifetime allowance.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062570#Top)
+
+Amount of capped drawdown pension when a short-term annuity using funds from a drawdown pension fund is bought (position at 5 April 2015)
+
+Paragraph 9 Schedule 28 Finance Act 2004
+
+Part of the drawdown pension fund can be used to buy a short-term annuity contract.
+
+The income the member receives from the short-term annuity counts towards the maximum amount of capped drawdown pension from that drawdown pension fund.
+
+Example
+
+Heather has designated funds into drawdown pension. Her scheme administrator has calculated her maximum drawdown pension as £5,000.
+
+Heather has used part of her drawdown pension fund to buy a short-term annuity. This gives Heather an annuity of £3,000 per year.
+
+Heather wants to draw some income from her drawdown pension fund. Her maximum drawdown pension is £5,000 and Heather is getting £3,000 of that maximum amount paid as a short-term annuity. This leaves a maximum of £2,000 that Heather can take as income withdrawal each pension year.

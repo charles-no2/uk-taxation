@@ -1,0 +1,146 @@
+Class 1 NICs: reporting NICs in RTI: when to report NICs data for RTI: "on or before"
+Identifier: NIM11520
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11520
+Published: 2016-04-11T17:25:39+01:00
+Updated: 2022-02-02T11:20:57+00:00
+Retrieved (UTC): 2026-09-18T15:15:02.844608+00:00
+
+Paragraph 21A of Schedule 4 to Social Security (Contributions) Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+In most cases, an employer must report the data required “on or before” the date on which a payment is made if the payment is payment of earnings for the purposes of NICs (see NIM02010 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim02010)) and either:
+
+- above the Lower Earnings Limit (LEL) or
+
+- below the LEL and not being reported for tax purposes.
+
+Note - Some employers may choose to report gross earnings for NICs data even where the LEL is not reached, but this is not now required by legislation (see pilot year NIM11510 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11510))
+
+For more details about what data is required, see NIM11525 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11525).
+
+Exceptions to the ‘on or before’ requirement
+
+From April 2013, in response to representations and feedback from the 2012 to 2013 pilot, a number of changes were made to the 'on or before' requirements.
+
+Summary of exceptions to 'on or before' requirement
+
+Social Security (Contributions) Regulations
+
+|
+
+Circumstance
+
+|
+
+Description/example
+
+|
+
+Requirement
+
+|
+
+Schedule 4, Para 21AA
+
+|
+
+No Deduction Working sheet (DWS) required.
+
+|
+
+Where the employer is not required to maintain a DWS - i.e. where no NICs are due, or treated as being due, but a return is still required. Where no tax is due.
+
+|
+
+Report data by end of the 7 day period starting the day after payment of earnings.
+
+|
+
+Schedule 4, Para 21AB
+
+|
+
+Variable payment, paid on day
+
+|
+
+Where all the following apply: Payments made on day and not reasonably practicable to calculate and not reasonably practicable to report on or before. For example: daily paid crop pickers paid on basis of amount picked or hourly paid catering staff paid before leaving venue.
+
+|
+
+Report data by end of the 7-day period starting the day after payment of earnings
+
+|
+
+Schedule 4, Para 21AD
+
+|
+
+Benefits and expenses subject to Class 1 NICs, but not subject to tax
+
+|
+
+E.g. payment of a private phone bill
+
+|
+
+As soon as is reasonably practicable, but within 14 days of the end of the tax month.
+
+|
+
+Schedule 4, Para 21B
+
+|
+
+Notional Payments.
+
+|
+
+Payments which are “notional payments” for the purpose section 710 ITEPA where there is no transfer of money. For example, certain payments by intermediaries, or by non-UK employers, specific types of income (see NIM06834 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06834)).
+
+|
+
+14 days after the end of the tax month in which ‘payment’ was made
+
+|
+
+Schedule 4, Para 21A
+
+|
+
+Transitional arrangements
+
+|
+
+Various transitional arrangements were agreed for specific employers to help them with their move to RTI. See below for details. Changes were made to para 21A for each change.
+
+|
+
+See below
+
+|
+
+Transitional arrangements for the tax year 2013 to 2014
+
+Transitional arrangements to the “on or before” requirement were put in place to assist small employers making weekly manual payments and then taking their records to their payroll provider each month to process the payroll for all the closed weeks in that month. Until 5 April 2014, employers with fewer than 50 employees were allowed to report payroll by the last day of the tax month in which the earnings were paid.
+
+Transitional arrangements to April 2016
+
+From 6 April 2014 to 5 April 2016, existing employers with fewer than ten employees can report on or before the last payment of earnings in the tax month.
+
+These easements do not change the requirement to record earnings on payroll records and calculate any NICs due at the time the earnings are paid.
+
+Arrangements from 6 April 2024
+
+From April 2024 employers have new reporting rules for salary advance payments.
+
+· See NIM08741  (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim08741)for details of what constitutes a Salary Advance payment.
+
+· See NIM11521 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11521) for details of what new reporting requirements now apply.
+
+Paper filers
+
+Different rules are in place for paper filers who record payments when they are made but report them to HMRC on a quarterly basis (from April 2014), see NIM11565 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11565).
+
+Aggregated earnings
+
+Where more than one payment is being made in an earnings period, the employer need only report gross earnings data until the final payment of the earnings period. The employer can then accurately assess the NICs due and report the full earnings and deductions data. See NIM10001 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim10001) (calculation) and NIM11545 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11545) (reporting).

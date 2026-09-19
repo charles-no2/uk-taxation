@@ -1,0 +1,66 @@
+Substantial Shareholdings exemption and Share Reorganisations
+Identifier: CG53170A
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53170a
+Published: 2016-03-12T11:30:05+00:00
+Updated: 2026-08-13T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:32:49.205083+00:00
+
+The following is taken from a document originally published on the HMRC website in June 2002 following the introduction of the Substantial Shareholding Exemption.
+
+Introduction
+
+These three examples explain how the substantial shareholdings provisions contained in Schedule 7AC TCGA 1992 apply in relation to share reorganisations, particularly within groups of companies.
+
+Examples 1 and 2 illustrate below how the legislation operates in two different types of intra-group transaction. Example 3 shows how the legislation applies to a share exchange outside a group.
+
+For the purposes of examples 1 and 2 there is a group consisting of three companies - the principal company, A, and subsidiaries B and C, both of which are 100% owned directly by A. The group and these shareholdings have been in place for 12 months or more and all of the companies are assumed to have been “trading companies”, for the purposes of Schedule 7AC, throughout their existence.
+
+Example 1 - An intra-group share exchange
+
+In this example, company A transfers the shares in company B to company C in exchange for an issue of shares by company C to company A. It is assumed that TCGA92/S137 would not prevent TCGA92/S135 from applying to the exchange.
+
+TCGA92/Sch7AC/para 4(1) (b) applies for the purposes of determining whether the substantial shareholdings exemption (SSE) applies. It tells us to disregard TCGA92/S127 for these purposes.
+
+TCGA92/Sch7AC/para 4(5) provides for this reference to TCGA92/S127 to include reference to that provision as applied by TCGA92/S135. So, in order to determine whether or not the SSE applies in relation to the share exchange, we disregard the effect of TCGA92/S127 as applied by TCGA92/S135 and there is a disposal by company A of the shares in company B. We will call this disposal “the assumed disposal”.
+
+The “assumed disposal” is an intra-group disposal to which TCGA92/S171(1) applies, because on the basis of the assumption that there is a disposal, TCGA92/S171(3) will not have effect to switch off TCGA92/S171(1). The “assumed disposal” is, therefore, a no gain/no loss disposal. As TCGA92/Sch7AC/para6 (1)(a) provides that none of the exemptions conferred by the Schedule applies to such disposals, it follows that no SSE applies in relation to the “assumed disposal”.
+
+It is only where the SSE applies in relation to the “assumed disposal” that TCGA92/Sch7AC/para4(3) has effect to disapply TCGA92/S127. It follows that TCGA92/S127 (as applied by virtue of TCGA92/S135) does, in fact, apply in relation to the share exchange.
+
+This has the following consequences -
+
+Company A is treated as having acquired the newly-issued shares in company C at the same date as it acquired the shares in company B and at the same cost (this is the result of the “single asset” treatment in TCGA92/S127 as applied by virtue of TCGA92/S135); and
+
+Company C is treated as acquiring the shares in company B at their market value at the time of the share exchange. (This is because TCGA92/S171(1) is prevented by TCGA92/S171(3) from applying to the transfer from company A to company C of the shares in company B. The market value rule in TCGA92/S17(1) applies instead to determine company C’s acquisition cost of those shares. For more detail on intra-group share exchanges, see CG45550 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45550).
+
+As TCGA92/S127 applies to the share exchange, TCGA92/Sch7AC/paras 14 and 25 will be relevant when determining whether the conditions are satisfied for the exemption to apply on a subsequent disposal by company A of the newly issued shares in company C. In effect, TCGA92/Sch7AC/paras 14 and 25 permit company A to look back through the share exchange and to take account of the time it held the shares in company B for periods before the share exchange. TCGA92/Sch7AC/para 14 relates to the substantial shareholding requirement in TCGA92/Sch7AC/para 7. TCGA92/Sch7AC/para 25 relates to the TCGA92/Sch7AC/para 19 requirements for the company invested in.
+
+Turning to company C, as a consequence of TCGA92/Sch7AC/para 10(2)(b, company C is treated for the purposes of TCGA92/Sch7AC/para 10(1) as having acquired the shares in company B from company A by way of a “no-gain/no-loss transfer” (as defined in TCGA92/Sch7AC/para 10(2)(a)). This means that, in order to establish the period for which company C is treated as having held the company B shares for the purposes of TCGA92/Sch7AC/Part 2, one looks back through the share exchange. This enables company C to benefit from the period for which company A held the shares in company B
+
+Example 2 - An intra-group exchange of shares for Qualifying Corporate Bonds (QCB’s)
+
+In this example, company A transfers the shares in company B to company C in exchange for an issue by company C to company A of loan stock which constitutes a QCB. It is assumed for the purposes of this example that, but for TCGA92/S116 (5), TCGA92/S127 would apply to the exchange (by virtue of TCGA92/S135).
+
+TCGA92/Sch7AC/para4(1)(a) applies for the purposes of determining whether the SSE applies in relation to the exchange. So, in order to determine whether or not the SSE applies in relation to the exchange the effect of Section 116(10) is disregarded and there is a disposal by company A of the shares in company B. As in example 1, we shall again call this disposal “the assumed disposal”.
+
+The “assumed disposal” is an intra-group disposal to which TCGA92/S171(1) applies. TCGA92/Sch7AC/para 6(1)(a) makes it clear that the exemptions conferred by Schedule 7AC do not apply in relation to no gain/no loss disposals. Since none of the exemptions apply to the “assumed disposal”, TCGA92/Sch7AC/para 4(3) does not have effect to provide that TCGA92/S116 (1) does not apply in relation to the exchange. It follows that TCGA92/S116 (10) does, in fact, apply in relation to the exchange.
+
+This means that TCGA92/S116(10)(a) will require the calculation of the chargeable gain or allowable loss which would have accrued if the “old asset” (here, the shares in company B) had been disposed of at its market value immediately prior to the exchange.
+
+The consequences are that company C will be deemed to have acquired the shares in company B at their market value immediately before the exchange, and if the conditions for the SSE are satisfied in relation to the hypothetical disposal mentioned in TCGA92/S1116(10)(a) then TCGA92/S116(10)(b) will not have effect to postpone any chargeable gain or allowable loss until such time as the QCB is disposed of. This is because no chargeable gain or allowable loss accrues on the hypothetical disposal of the shares if the conditions for the SSE are met;
+
+If the conditions for the SSE are not satisfied in relation to the hypothetical disposal mentioned in TCGA92/S116(10(a) then TCGA92/S116(10)(b) will have effect to postpone any chargeable gain or allowable loss accruing on that disposal until such time as the QCB is disposed of (subject to TCGA92/S116(11)). In such circumstances, TCGA92/Sch7AC/para 34 prevents any of the exemptions conferred by Schedule 7AC from applying to the postponed chargeable gains or allowable losses.
+
+Example 3 - A share exchange outside a group of companies
+
+For the purposes of this example it is assumed that company D has owned 30% of the shares in company E for 12 months or more. Company F, which has no connection with company D, acquires company D’s holdings of shares in company E in exchange for an issue of shares by company F. TCGA92/S137 would apply so as to not prevent Section 135 from applying to the exchange and that all three companies have been “trading companies” for the purposes of Schedule 7AC throughout their existence.
+
+TCGA92/Sch7AC/para4(1)(b) applies in relation to the exchange as described above. The effect of disregarding TCGA92/S127 here is that there is an arm’s length disposal by company D of the shares in company E to company F. This disposal produces a gain to which SSE applies. TCGA92/Sch7AC/para 4(3) therefore applies to prevent TCGA92/S127 from applying (by virtue of TCGA92/S135 to the share exchange).
+
+The consequences of this are that -
+
+Company D makes a disposal of this holding of shares in company E for consideration equal to the value of the shares issued by company F - any gain or loss arising on the disposal is, by virtue of the SSE, not a chargeable gain or allowable loss;
+
+Company F acquires the shares in company E at the value of the shares it issued to company D;
+
+Company D acquires the newly issued shares in company F at the amount or value of the consideration (the shares in E) given for them.

@@ -1,0 +1,170 @@
+Termination payments and benefits: example: foreign service reduction
+Identifier: EIM13985
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13985
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-02-15T11:40:41+00:00
+Retrieved (UTC): 2026-09-18T14:10:45.926916+00:00
+
+Section 414 ITEPA 2003
+
+Example 1
+
+The employee is non-UK resident for the tax year in which the employment is terminated. Two out of five years total service is ‘foreign service’ (see EIM13690 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13690)).
+
+The payment is £100,000 of which £10,000 is post-employment notice pay.
+
+Full exception under section 413 ITEPA 2003 is not available.
+
+Foreign service reduction (see EIM13700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)) is calculated as follows.
+
+Example | - | - |
+
+Payments and benefits within section 401 ITEPA 2003 | £100,000 |   |
+
+Post-employment notice pay (PENP) (see EIM13872 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13872)) | £10,000 |   |
+
+Less foreign service reduction = £10,000 × 2 ÷ 5 |   | (£4,000) |
+
+Amount treated as earnings by section 402B(1) ITEPA 2003 |   | £6,000 |
+
+Termination awards subject to section 403 ITEPA 2003 (see EIM13872 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13872)) | £90,000 |   |
+
+Less £30,000 threshold (see EIM13700  (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)and example EIM13980 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13980)). |   | (£30,000) |
+
+The 'amount charged to tax' (see EIM13700) (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700) |   | £60,000 |
+
+Less foreign service reduction = £60,000 × 2 ÷ 5 |   | (£24,000) |
+
+Amount chargeable to income tax as specific employment income under section 403 ITEPA 2003 |   | £36,000 |
+
+Example 2
+
+The employment commenced on 1 June 2008. The employee's contract provides for a 5-day working week with 20 days holiday – a total of 240 workdays.
+
+The employee arrived in the UK on 1 June 2014. After arriving in the UK, she continued to perform some of her duties overseas, and her salary continued to be paid directly into an off-shore bank account.
+
+The employee became non-resident on 6 April 2018 and her employment was terminated on 31 January 2019.
+
+The amount of ‘foreign service’ (see EIM13690 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13690)) is calculated as follows.
+
+Period | Residency | Foreign service | Overseas workdays | Total workdays |
+
+1 June 2008 to 31 May 2014 | Non-resident | The employee is not resident in the UK so section 15 ITEPA 2003 does not apply. Since her duties are performed outside the UK and her earnings are not “relevant earnings” the period counts as foreign service. | 1,440 | 1,440 |
+
+1 June 2014 to 5 April 2015 | Split year, resident from 1 June | The employee works outside the UK for a total of 25 days. The earnings in respect of those workdays are not in respect of duties performed in the UK and are not remitted to the UK, so section 26 ITEPA 2003 allows for ‘Overseas Workday Relief’. Those amounts do not fall within section 15 ITEPA 2003 and are not “relevant earnings” so those workdays count as foreign service. | 25 | 200 |
+
+6 April 2015 to 5 April 2016 | Resident | The employee works outside the UK for a total of 35 days. Those workdays count as foreign service as above. | 35 | 240 |
+
+6 April 2016 to 5 April 2017 | Resident | The employee works outside the UK for a total of 36 days. Those workdays count as foreign service as above. | 36 | 240 |
+
+6 April 2017 to 5 April 2018 | Resident | The employee works outside the UK for a total of 40 days but ‘Overseas Workday Relief’ is not available to her because she has been UK resident for the previous 3 tax years. All of her earnings are therefore “relevant earnings” and no part of the period will count as foreign service. | 0 | 240 |
+
+6 April 2018 to 31 January 2019 | Non-resident | The employee is not resident in the UK so section 15 ITEPA 2003 does not apply. Since her duties are performed outside the UK and her earnings are not “relevant earnings” the period counts as foreign service. | 200 | 200 |
+
+Numerator: 1440 + 25 + 35 + 36 + 0 + 200 = 1,736.
+
+Denominator: 1440 + 200 + 240 + 240 + 240 + 200 = 2,560.
+
+1,736 out of 2,560 days total service is ‘foreign service’.
+
+This equates to 67.8% (which is less than three quarters) so full exception under section 413 ITEPA 2003 is not available.
+
+The payment is £135,000 and post-employment notice pay is nil.
+
+Foreign service reduction (see EIM13700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)) is calculated as follows.
+
+Example | - | - |
+
+Payments and benefits within section 401 ITEPA 2003 | £135,000 |   |
+
+Post-employment notice pay (PENP) (see EIM13872 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13872)) | £0 |   |
+
+Termination awards subject to section 403 ITEPA 2003 (see EIM13872 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13872)) | £135,000 |   |
+
+Less £30,000 threshold (see EIM13700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)  (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)and example EIM13980 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13980)) |   | (£30,000) |
+
+The ‘amount charged to tax’ (see EIM13700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)) (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700) |   | £105,000 |
+
+Less foreign service reduction = £105,000 × (1,736 ÷ 2,560) |   | (£71,204) |
+
+Amount chargeable to income tax as specific employment income under section 403 ITEPA 2003 |   | £33,796 |
+
+Example 3
+
+Louisa lives in France and commences employment at the French branch of ABC plc on 1 September 2012. Louisa is sent on secondment to the UK for one year between 6 April 2013 and 5 April 2014 before returning to France. She is later sent on a second secondment to the UK, arriving in the UK on 1 September 2024. She finished her secondment and returned back to France on 1 January 2029.
+
+Louisa's employment was terminated on 30 June 2029 and she received a non-contractual termination payment of £150,000. Post-Employment Notice Pay (PENP) was calculated as £25,000.
+
+Louisa was UK resident for the 2013-14 tax year and met the section 26A requirement so that she could benefit from overseas workday relief for this tax year under the remittance based OWR rules. During 2013-14, she worked for 40 days overseas and 200 days in the UK. Louisa elected to be taxed on the remittance basis for 2013-14 , applying the OWR rules, and received her employment income abroad and did not remit anything to the UK. The earnings received in respect of her overseas duties were therefore chargeable under section 26 and were not section 15 earnings.
+
+From 6 April 2014 to 31 August 2024, Louisa was non-resident. This is a period of 10 tax years prior to becoming UK resident in 2024-25. Louisa therefore met the criteria at section 26A again for the 2024-25 tax year and elected to be taxed on the remittance basis for that tax year.
+
+Louisa meets the conditions at section 845B ITTOIA 2005 so that she is a qualifying new resident in 2025-26. She will continue to be eligible for OWR under the residence based OWR rules introduced from 6 April 2025 during her first 4 years of tax residence, so in each of the years 2025-26, 2026-27 and 2027-28. (OWR can also be referred to as Foreign Employment Relief, more information can be found from EIM43500 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim43500).)
+
+In 2028-29, Louisa is in her fifth year of tax residence and is therefore no longer a qualifying new resident, which means this is not a qualifying year for OWR purposes. Employment income earned after 5 April 2028 will not qualify for OWR, irrespective of where her duties are performed.
+
+During her second period of secondment, her work-days are as follows:
+
+- In the period 1 September 2024 to 5 April 2025, Louisa works 20 days overseas and 132 days in the UK.
+
+- Between 6 April 2025 and 5 April 2028, Louisa works 90 days overseas and 610 days in the UK.
+
+- From 6 April 2028 to 31 January 2029, Louisa works 40 days overseas and 168 days in the UK.
+
+- From 1 February 2029 to 30 June 2029, Louisa is non-resident and all her workdays are performed outside the UK.
+
+The treatment of her workdays is as follows:
+
+Period | Residency | Foreign Service | Overseas workdays | Total workdays |
+
+1 September 2012 to 5 April 2013 | Non-resident | Louisa is non-resident in the UK and none of her earnings are section 15 earnings. These earnings are not 'relevant earnings' and the period counts as foreign service.  | 150 | 150 |
+
+6 April 2013 to
+5 April 2014 | Resident | Louisa works outside the UK for 40 days. The earnings in respect of those workdays are not in respect of duties performed in the UK, so section 26 ITEPA 2003 allows for 'Overseas Workday Relief'. Those amounts do not fall within section 15 ITEPA 2003 and are not 'relevant earnings' so those workdays count as foreign service. | 40 | 240 |
+
+6 April 2014 to
+30 August 2024 | Non-resident | Louisa is non-resident and none of her earnings are section 15 earnings. These earnings are not 'relevant earnings' and the period counts as foreign service. | 2650 | 2650 |
+
+1 September 2024 to 5 April 2025 | Resident | Louisa becomes UK resident. Louisa once again meets the conditions to benefit from section 26 for OWR. These amounts do not fall within section 15 ITEPA 2003 and are not 'relevant earnings' so those workdays count as foreign service. | 20 | 152 |
+
+6 April 2025 to
+5 April 2028 | Resident | Louisa became resident in 2024-25 and is a qualifying new resident under section 845B ITTOIA 2005. Louisa can make an election and claim OWR as per sections 41M & 41P ITEPA 2003 in 2025-26, 2026-27 and 2027-28. The overseas earnings are qualifying foreign general earnings and are not 'relevant earnings'. These workdays count as foreign service. | 90 | 700 |
+
+6 April 2028 to
+31 January 2029 | Resident | Louisa is no longer a qualifying new resident. The earnings are not qualifying foreign general earnings and are chargeable under section 15 earnings even though they were for duties performed overseas. These earnings are 'relevant earnings' and will not form part of foreign service. | 0 | 208 |
+
+1 February 2029 to 30 June 2029 | Non-resident | Louisa is not resident in the UK so section 15 ITEPA 2003 does not apply. Since her duties are performed outside the UK and her earnings are not 'relevant earnings' the period counts as foreign service. | 104 | 104 |
+
+Louisa has a total of 4,204 workdays of which 3,054 are 'foreign service'. This represents a percentage of 72.6%, which is less than 75%, and therefore the full exception under section 413 ITEPA 2003 is not available.
+
+Foreign service reduction (see EIM13700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)) is calculated as follows:
+
+Example
+| - |
+
+Payments and benefits within section 401 ITEPA 2003 | £150,000 |
+
+Post-employment notice pay (PENP) (see EIM13872 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13872)) | £25,000 |
+
+Less foreign service reduction = £25,000 x 3054 ÷ 4204
+| (£18,162) |
+
+Amount treated as earnings by section 402B(1) ITEPA 2003 | £6,838 |
+
+Termination awards subject to section 403 ITEPA 2003 (see EIM13872 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13872)) | £125,000 |
+
+Less £30,000 threshold (see EIM13700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700) and example EIM13980 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13980)) | (£30,000) |
+
+The 'amount charged to tax' (see EIM13700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)) | £95,000 |
+
+Less foreign service reduction = £95,000 x 3054 ÷ 4204  | (£69,013) |
+
+Amount chargeable to income tax as specific employment income under section 403 ITEPA 2003 | £25,987 |
+
+Note
+
+The amount treated as earnings by section 402B(1) (‘post-employment notice pay’) is reduced where the employee is eligible for foreign service reduction, as shown in the examples above.
+
+Foreign service reduction is only available where the employee is non-UK resident for the tax year in which the employment terminates.
+
+EIM13877 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13877) explains the chargeability of post-employment notice pay for non-UK resident employees.

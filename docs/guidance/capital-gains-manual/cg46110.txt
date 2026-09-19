@@ -1,0 +1,30 @@
+Groups: indexation on no gain, no loss disposals: assets held on 31/3/82
+Identifier: CG46110
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46110
+Published: 2016-03-12T11:10:12+00:00
+Updated: 2026-05-19T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:41:29.111272+00:00
+
+Section 55(5) and (6) of the Taxation of Chargeable Gains Act (TCGA) 1992
+
+Indexation is calculated on 31 March 1982 market value in the following circumstances.
+
+- There is a disposal before 6 April 1988 of an asset held on 31 March 1982, and the taxpayer makes a claim under section 68(5) of the Finance Act 1985 (https://www.legislation.gov.uk/ukpga/1985/54/section/68) before amendment by Paragraph 11 of Schedule 8 to Finance Act 1988.
+
+- There is a disposal on or after 6 April 1988 of an asset held on 31 March 1982. And either there has been an election out of the rebasing kink test, see CG46300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46300), or the indexation calculated by reference to 31 March 1982 market value is greater than the indexation calculated by reference to historic cost, section 55(2) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/55).
+
+The rules giving indexation on 31 March 1982 market value are initially in terms of disposals by the person who held the asset on 31 March 1982. Without further provision these rules would not give the benefit of indexation on 31 March 1982 market value where a person making a disposal acquired the asset at no gain, no loss after 31 March 1982 from the person who held the asset on that date. Section 55(5) and (6) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/55) accordingly provide that a person making a disposal which is not a no gain/no loss disposal is treated as having held the asset on 31 March 1982 if
+
+- that person acquired the asset after 31 March 1982, and
+
+- the disposal when the asset was acquired, and any previous disposal of the asset after 31 March 1982, was a no gain/no loss disposal.
+
+The relevant no gain, no loss disposals are listed in section 35 (3)(d) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/35), together with section 257(2) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/257) and section 259(2) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/259).
+
+Where a person making a disposal other than at no gain/no loss is deemed to have held an asset on 31 March 1982 for indexation purposes, the indexation allowance on the disposal is by reference to the RPI increase over the entire period from 31 March 1982 up to the date of that disposal. Indexation allowance accruing in the period up to the actual acquisition of the asset by the person making the disposal (that is, up to the most recent no gain, no loss disposal) will generally have been incorporated into the capital gains cost by section 56(2) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/56). The legislation achieves this by stripping indexation out of the capital gains cost in relation to no gain, no loss disposals after 31 March 1982. See section 55(6)(b) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/55).
+
+Example
+
+Company A holds an asset on 31 March 1982. In December 1986 A disposes of the asset at no gain, no loss to B. In June 1990 B disposes of the asset to an unconnected third party. Indexation accrued to December 1986 is incorporated in the cost to B under the general rule that the notional consideration which establishes the no gain, no loss result for A takes account of A's indexation entitlement. But B, if treated as having held the asset on 31 March 1982, is entitled to indexation throughout the period from March 1982 to June 1990. To prevent the duplication of indexation for the period from March 1982 to December 1986, the indexation component is stripped out of the cost at which B acquires the asset from A.
+
+See also CG17760 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17760) concerning cases where `rolled-up indexation' relating to no gain, no loss disposals before 30 November 1993 continues to be available to create or increase losses where there is a disposal on or after that date.

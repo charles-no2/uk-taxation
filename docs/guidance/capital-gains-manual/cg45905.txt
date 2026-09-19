@@ -1,0 +1,28 @@
+Groups: appropriations to trading stock
+Identifier: CG45905
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45905
+Published: 2016-03-12T11:09:33+00:00
+Updated: 2020-03-30T11:39:18+01:00
+Retrieved (UTC): 2026-09-18T14:41:22.158749+00:00
+
+TCGA92/S173 (1)
+
+If a group company acquires an asset as trading stock from another group member which did not hold the asset as trading stock, the recipient is treated by TCGA92/S173 (1) as having acquired the asset otherwise than as trading stock and as having immediately appropriated it to trading stock. This results in a deemed market value disposal by the recipient under TCGA92/S161 (1). The overall result is that the no gain/no loss rule operates in the normal way on the intra-group transfer, and the gain or loss during the transferor’s period of ownership crystallises immediately following the transfer in the hands of the transferee.
+
+TCGA92/S173 only applies if the trade for which the asset is acquired as trading stock is carried on by a UK resident company or is carried on by a non-resident company through a UK permanent establishment. If the trade does not satisfy either of these conditions, the disposal and acquisition of the asset will not be subject to the no gain/no loss rule and a gain or loss will arise to the disposing company based on a sale at market value.
+
+The transferee may however elect under TCGA92/S161 (3) for the market value at the time of the appropriation to be reduced by the amount of the chargeable gain which would otherwise arise, see CG67900P+. An election eliminates the chargeable gain on the appropriation to trading stock, with a corresponding increase in trading profits. The transferee can only make an election where the trade is within CTA09/Part 3 Chapter 2.
+
+Where the appropriation took place before 8 March 2017, it was also possible to make an election if the deemed disposal resulted in a capital loss and the effect was to add the amount of the loss to the cost of the stock for income purposes. For appropriations into trading stock on or after 8 March 2017, the changes in Section 26 of Finance (No. 2) Act 2017 mean that only a chargeable gain may be “rolled” into the calculation of trading income.
+
+If an election relates to an asset brought into a group of companies by a company joining the group, paragraph 10 TCGA92/SCH7A restricts the loss which can be rolled over as a reduction in trading profits. The trading reduction is restricted by the amount of the pre-entry loss. Detailed guidance on computing pre-entry losses is at CG47400+ (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47400p). There is further guidance on paragraph 10 Schedule 7A at CG47455 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47455). The rules in TCGA92/SCH7A were substantially altered in Finance Act 2011, where a company joined a group before 19 July 2011. The guidance is at CG47600+ .
+
+The rule in TCGA92/S173 (1) is needed since an appropriation to trading stock takes the asset outside the scope of capital gains. It applies only where the transferee did, as a question of fact, acquire the asset as trading stock, see Coates v Arndale Properties Ltd 59TC516 and Reed v Nova Securities Ltd 59TC516.
+
+Example
+
+Companies C and D are members of the same group. D is a company dealing in commercial property. In year 1, C acquires an office building for £1M as an investment. C sells the building to D in year 4 at its market value £3M. D acquires the building as trading stock.
+
+The no gain/no loss rule operates on the transfer from C to D, so C’s consideration is £1M plus indexation in years 1 - 4, say £0.2M. D acquires the building at a capital gains cost £1.2M, and makes an immediate deemed disposal at market value £3M. There is accordingly a chargeable gain £1.8M assessable on D. The amount deductible in computing D’s trading profits is £3M.
+
+D may however make an election under TCGA92/S161 (3). The election reduces D’s deemed market value sale proceeds £3M by the amount of the chargeable gain £1.8M. This eliminates the chargeable gain in the hands of D. There is a corresponding adjustment in the computation of trading profits, so the building goes into D’s trading stock at a tax cost £1.2M.

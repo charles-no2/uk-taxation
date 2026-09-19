@@ -1,0 +1,30 @@
+Sales of related property, etc: example of how to  revalue property when both the loss on sale of land and sales of  related property provisions apply
+Identifier: IHTM09763
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09763
+Published: 2016-03-20T09:26:03+00:00
+Updated: 2022-02-02T13:01:21+00:00
+Retrieved (UTC): 2026-09-18T14:54:44.352674+00:00
+
+The deceased’s interest in land is valued along with other ‘related’ (IHTM09733 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09733)) land owned by the deceased’s wife or civil partner (IHTM11032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11032)). The deceased’s interest in the land is valued at £40,000 (the ‘appropriate portion’ (IHTM09735 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09735))).Its separate value at death would have been £30,000. Within 3 years of death it is sold without the other land for £25,000. The sale is a qualifying sale for both sales of related property (IHTM09751 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09751)) and loss on sale of land (IHTM33000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33000)) reliefs.
+
+Step 1 – Revalue under loss on sale of land provisions
+
+The value of the interest is adjusted under IHTA84/S195, which applies when an interest inland is valued with, and sold without, other land (IHTM33132 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm33132)).
+
+Actual sale price = £25,000
+
+Plus full value of death with related property (£40,000) less separate value (£30,000) = +£10,000
+
+Total ‘sale value’ = £35,000
+
+Step 2 – Revalue under sales of related property provisions
+
+Although the sale is a ‘qualifying sale’ under these provisions, a further condition (IHTM09760 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09760)) is imposed by IHTA84/S176 (4). In this case the sale price must be adjusted because there was a drop in value from the original separate value of £30,000 to the sale price of £25,000. As the original valuation – disregarding both loss on sale of land and sales of related property reliefs - was £40,000, the further condition was fulfilled.
+
+The revaluation under IHTA84/S176 (2) is calculated as follows:
+
+Property as revalued at step 1 using the basis of valuation with related property = £35,000
+
+Less the adjustment which resulted from using that basis of valuation = £10,000
+
+Property as revalued under the loss on sale of land provisions on the basis of valuation without related property = £25,000

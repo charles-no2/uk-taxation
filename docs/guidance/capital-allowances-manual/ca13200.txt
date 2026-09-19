@@ -1,0 +1,42 @@
+General: connected person and control sales: election to have sale treated as being for alternative amount
+Identifier: CA13200
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca13200
+Published: 2016-04-16T08:42:23+01:00
+Updated: 2019-08-19T15:00:34+01:00
+Retrieved (UTC): 2026-09-18T16:20:27.476455+00:00
+
+CAA01/S569 & S570
+
+Sometimes the parties to a sale can make an election to have the sale treated as taking place for an alternative amount. They can do so if:
+
+- the control test is met or there is a transfer treated as a sale by CAA01/S573 CA11540 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11540); and
+
+- the tax advantage test is not met - CA13100 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca13100).
+
+These are the alternative amounts:
+
+MEA - the unrelieved qualifying expenditure immediately before the sale.
+
+RDA - if an RDA has been given, nil; in any other case, the qualifying expenditure.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca13200#Top)
+
+If there is no alternative amount given the election has no effect because there is nothing to substitute for market value.
+
+The election must be made by notice to HMRC not later than two years after the sale. It must be made by all the parties to the sale.
+
+Once an election has been made all assessments and adjustments of assessments needed to give it effect should be made.
+
+Where the control test CA13100 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca13100) is met, the person(s) who have control when the election is made should sign the election. An election signed by a person who had control at the time of sale but who no longer has control when the election is made is not valid. For example, an election signed by a former director after ceasing to be a director is not valid, even if that person was a director at the time of the sale.
+
+An election may not be made if:
+
+- allowances or charges cannot be made on one of the parties to the sale; or
+
+- the buyer is a dual resident investing company (see CTM34560 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm34560))
+
+The first condition means that an election cannot be made where balancing charges cannot be made on the buyer, for example, where the buyer is a connected exempt pension fund or the buyer is a non resident who is outside the UK tax net.
+
+Once an election has been made any balancing charges that would have been made on the seller if there had been no change of ownership are made on the buyer.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca13200#Top)

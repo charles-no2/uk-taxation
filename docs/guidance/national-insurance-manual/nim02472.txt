@@ -1,0 +1,48 @@
+Class 1: vouchers, non-cash vouchers, qualifying childcare vouchers from 6th April 2005. How to calculate the exempt amount (the simplified method of calculation where there is a regular monthly payment of vouchers)
+Identifier: NIM02472
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim02472
+Published: 2016-04-11T17:07:07+01:00
+Updated: 2022-01-06T13:46:14+00:00
+Retrieved (UTC): 2026-09-18T15:22:27.623323+00:00
+
+Regulation 11(2)(b) and (4) Social Security (Contributions) Regulations 2001
+
+An employer may, in certain circumstances, calculate the exempt amount in the following way:
+
+If an employer provides a regular monthly amount of qualifying childcare vouchers, they may reasonably expect to be able to convert the weekly exempt amount (this will vary depending on the rate of tax paid after 6 April 2011 see NIM02440 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim02440)) into a monthly amount, rather than undertake a separate calculation each time it makes a payment of qualifying childcare vouchers (see NIM02471 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim02471) (contents)).
+
+In these circumstances, it is acceptable for an employer to convert the weekly exempt amount to a monthly amount by using the method of calculation set out in the above regulation (which sets out the calculation of the prescribed equivalents of the weekly lower and upper earnings limits, and primary and secondary thresholds).
+
+Using the calculation in the above regulation, the monthly equivalent of £55 a week is:
+
+£55 x 52/12 which rounds down to £238 for an ordinary rate tax payer
+
+£28 x 52 = £2860 / 12 = £121.33 = £121 pm rounded down for a higher rate tax payer
+
+£25 x 52 = £1300 / 12 = £108.33 = £108 pm rounded down for an additional rate tax payer
+
+So if an employer:
+
+- provides qualifying vouchers with a chargeable expense of £238 a month (plus any administration costs); for an ordinary rate tax payer and
+
+- calculates the exempt amount using this simplified method
+
+it may disregard the whole of the chargeable expense (ie, £238) in calculating an employee’s earnings for the purposes of calculating the amount of Class 1 NICs due.
+
+Employer’s Help Book E18 (2016) “How you can help your employees with childcare” advises employers that the amount of the exemption for monthly-paid employees can vary depending on their tax liability.
+
+If an employer provides qualifying vouchers with a chargeable expense of more than £238 a month:
+
+- the exempt amount can be accepted as £238 a month for an ordinary rate tax payer
+
+- any excess amount in the chargeable expense must included in the employee’s earnings for the purposes of calculating the amount of Class 1 NICs due.
+
+If the employer does not provide qualifying vouchers:
+
+- in regular amounts; but
+
+- does so in a lump sum or sums,
+
+it should follow the statutory method for calculating the exempt amount.
+
+examples showing the general rule , see NIM02471 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim02471).

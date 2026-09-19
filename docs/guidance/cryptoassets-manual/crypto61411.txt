@@ -1,0 +1,24 @@
+Decentralised Finance: Lending and staking: Corporation Tax: Making a DeFi loan: Introduction
+Identifier: CRYPTO61411
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61411
+Published: 2022-02-02T14:56:32+00:00
+Updated: 2022-02-02T15:38:57+00:00
+Retrieved (UTC): 2026-09-18T16:18:42.314372+00:00
+
+As explained at CRYPTO61130 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61130), a lender/liquidity provider may earn a return from the activity of making Decentralised Finance (DeFi) loans. This return may be subject to Corporation Tax for customers within the scope of the regime. The Corporation Tax treatment of the return received by the lender/liquidity provider will depend, in part, on whether the customer’s activities amount to a trade.
+
+The relevant considerations to be made when determining whether an incorporated entity has a trade involving the making of DeFi loans would be similar to those made when considering whether there is a trade in shares, securities and other financial products. For further guidance, see CRYPTO40150 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto40150) and BIM56800 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim56800).
+
+Treatment where a trade is carried on
+
+If a customer is considered to be carrying on a trade involving the making of DeFi loans, then the activity that falls within the scope of that trade will be subject to Corporation Tax under section 35 of the Corporation Tax Act 2009 (“CTA 2009”).
+
+If there is a trade involving cryptoassets, those assets may potentially be held either as trading stock or as investment assets outside of the trade. Consideration will need to be given as to whether there have been any appropriations to or from trading stock. For further guidance on appropriations to and from trading stock, please see BIM33630 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim33630).
+
+Treatment where a trade is not carried on
+
+If a trade is not carried on by the customer, or the activity which generates the return falls outside the scope of any trade, then the making of a DeFi loan may gave rise to a disposal of a chargeable asset (see CRYPTO61600 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61600)). Where this is the case, there may be a chargeable gain which is subject to Corporation Tax under section 2 CTA 2009.
+
+However, the lender/liquidity provider may receive a return in exchange for making the DeFi loan. If not part of the customer’s trade, this return may be chargeable as miscellaneous income under section 979 CTA 2009.
+
+Guidance pages CRYPTO61412 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61412)-CRYPTO61414 will cover when the return may be chargeable as miscellaneous income.

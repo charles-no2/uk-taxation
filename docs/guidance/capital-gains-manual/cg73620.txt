@@ -1,0 +1,76 @@
+Dwellings subject to ATED: relevant high value disposal: condition D - the threshold amount
+Identifier: CG73620
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73620
+Published: 2016-03-12T12:24:33+00:00
+Updated: 2018-05-10T16:43:20+01:00
+Retrieved (UTC): 2026-09-18T14:35:43.230038+00:00
+
+Condition D for a disposal to be a ‘relevant high value disposal’ is that the consideration for the disposal exceeds the ‘threshold amount’ for that disposal. TCGA92/S2D sets out how the threshold amount is determined.
+
+The basic threshold amount is:
+
+£2,000,000 where the disposal is on or after 6 April 2013
+
+£1,000,000 where the disposal is on or after 6 April 2015
+
+£500,000 where the disposal is on or after 6 April 2016
+
+The threshold amounts above apply where the person to whom the gain or loss accrues disposes of the whole of the ‘single-dwelling interest’ and has made no previous ‘relevant related disposals’ (see below). The threshold amount will be less where—
+
+- either the person has only a fractional share of the single-dwelling interest
+
+- or the person disposes of only part of the interest they hold, or have held
+
+- or both (a) and (b) apply.
+
+Disposal of fractional share
+
+Where the disposal is of the whole of a person’s fractional share either in the whole of an interest or in part of an interest (that is, where the interest or part of the interest is jointly owned, for instance by a partnership), in these cases the amount is reduced by reference to the person’s fractional share.
+
+For example, if a person has a 75% share in the chargeable interest (and there is no additional reduction because the disposal is a partial disposal, see below), the figure is reduced to 75% of the figure e.g. 75% of £2 million = £1.5 million.
+
+If a partner has a 50% share in the assets of a partnership which owns a half-share in a property, the figure is reduced e.g £500,000 (50% x 50% of £2 million) because the partner has a fractional share in part of an interest.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73620#Top)
+
+Partial disposal
+
+Where the disposal in question is either a disposal of part of the person’s chargeable interest, or where there has been one or more “relevant related disposals” the threshold amount is the amount given by the fraction:
+
+C/TMV × the basic threshold amount, or the reduced amount if it’s a disposal of fractional share, see above
+
+C is the amount or value of the consideration for the disposal. This is the amount determined under the normal TCGA rules, with one exception.
+
+The exception occurs where a company which is a member of a group of companies disposes of the interest to another company in the same group. TCGA92/S171 (2) (ba) prevents the disposal from being treated as one made at ‘no gain/no loss’ value (see CG45320). An additional effect is that it is not possible for companies to elect under TCGA92/S171A to treat the gains or losses accruing on the disposal to be treated as accruing to another member of the group (see CG45355). Instead the disposal and acquisition are treated as made at market value under the rule for transactions between connected persons (TCGA92/S17 and S18, see CG14560+). So in these cases, C is the market value of the asset transferred rather than the amount or value of the consideration.
+
+TCGA92/28 will determine the time at which TCGA92/17 applies.
+
+TMV is the Total Market Value, as at the time of the partial disposal, of a notional asset consisting of—
+
+- the disposed of interest, plus
+
+- if the disposal is a part disposal, the remaining part of the chargeable interest, plus
+
+- any chargeable interest (or part of a chargeable interest) which was the subject of a ‘relevant related disposal’ (see below), or would have been the subject of a relevant related disposal if the person making the actual disposal had disposed of that interest at the time.
+
+By using ‘TMV’ in the fraction C/TMV, we ensure that the threshold amount is reduced to take account of any part of the single-dwelling interest which is retained and any part which has been disposed of previously.
+
+Examples: If the person disposes of the whole of a single-dwelling interest and the C/TMV fraction is 40%, the threshold amount for that disposal is £2 million × 40% = £800,000. If the person had only a 75% fractional share the threshold amount would be £2 million × 75% × 40% = £600,000.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73620#Top)
+
+Relevant related disposals
+
+A ‘relevant related disposal’ is any chargeable disposal made in the period of 6 years ending with the date of the current disposal. It is a chargeable disposal if—
+
+- it is a disposal by the same person,
+
+- the disposal meets conditions A to C in section 2C, see CG73616-19, and
+
+- it is a disposal of
+
+- part of the same single-dwelling interest as the one that is the subject of the current disposal, or
+
+- the whole or part of a different single-dwelling interest in the same dwelling.
+
+Disposals within the 6 year period which are made before 6 April 2013 are excluded.

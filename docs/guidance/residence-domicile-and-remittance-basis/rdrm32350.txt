@@ -1,0 +1,106 @@
+Remittance Basis: Accessing the remittance basis: Remittance Basis Charge - Nomination of foreign income and gains: Relevant tax increase - Example 2
+Identifier: RDRM32350
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32350
+Published: 2016-03-09T17:30:50+00:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:29.483360+00:00
+
+From 6 April 2025 it is not possible to use the remittance basis of taxation, however, any foreign income or gains that have arisen to a former remittance basis user prior to this date will continue to be taxed at the usual tax rates if they are remitted to the UK on or after 6 April 2025, subject to any amounts designated under the temporary repatriation facility (TRF) – see RDRM71000 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm71000).
+
+The guidance in this section only applies to tax years up to and including the 2024-25 tax year and remains for reference purposes only.
+
+Example 2
+
+Lorna, a non domiciled long-term UK resident makes a claim to use the remittance basis in 2011 and must pay the £30,000 remittance basis charge (RBC). She is a higher rate taxpayer, paying tax at 40%, with UK source employment income of £80,000.
+
+She also has £150,000 of interest (relevant foreign income) from an overseas investment in Country X paid to her.
+
+Because nominated income is taxed on the ‘arising basis’, a remittance basis user is in the same position as any other UK resident person and is, subject to the ordinary rules that apply in such cases (TIOPA 2010 s18), entitled to credit against UK tax for certain amounts of overseas tax that is payable on that same income.
+
+Under the domestic law of Country X in which the investment was made, the interest was paid after deduction of 15% withholding tax. The Double Taxation Agreement between the UK and Country X provides that tax on this interest may be retained in the ‘source’ country at the rate of 15%.
+
+Lorna is therefore entitled to a credit, which she takes in the form of foreign tax credit relief (FTCR), against UK tax for the tax withheld in the other country. See the International Manual (INTM160000+) for more details about the availability of double taxation relief.
+
+Foreign tax credit relief calculation – general principles
+
+Ignoring the remittance basis issue for the moment:
+
+Lorna has received foreign interest of £150,000, on which Country X’s tax of £22,500 (15% as provided for in the DT treaty) has been deducted.
+
+Lorna’s income is chargeable to tax at 40%. The UK tax charge in respect of this £150,000 would be £60,000 (40% x £150,000).
+
+If she claims foreign tax credit relief her net liability to UK tax after the foreign tax credit relief will be:
+
+£60,000 minus £22,500 = £37,500
+
+Relevant tax increase including FTCR
+
+Foreign tax credit relief is only due to the extent that the foreign income on which it is given is brought into the UK tax charge. So for remittance basis users, relief for foreign tax paid on foreign income chargeable on the remittance basis is given when that income is remitted.
+
+However for remittance basis charge payers like Lorna, any foreign income which she nominates is chargeable on the arising basis so foreign tax credit relief can be given in relation to that nominated income.
+
+Because the ‘relevant tax increase’ must be £30,000, Lorna will need to nominate £120,000 of her foreign interest if she wishes to create an overall remittance basis charge of £30,000.
+
+FTCR calculation:
+
+- foreign tax that relates to the £120,000 nominated (at 15%) = £18,000
+
+- UK tax on £120,000 (at 40%) = £48,000
+
+- net liability to UK tax after FTCR (£48,000 minus £18,000) = £30,000
+
+refer to note 2 below
+
+Relevant tax increase calculation
+
+To determine the relevant tax increase we must complete two calculations.
+
+The first calculation (a) is of the total amount of Lorna’s income tax and capital gains tax actually payable in the year, as a remittance basis user and RBC payer.
+
+The second calculation (b) is the total amount of Lorna’s income tax and capital gains tax that would be payable by Lorna in the year as a remittance basis user less the tax charged on the nominated foreign income or foreign gains.
+
+The relevant tax increase is the total of calculation (a) minus calculation (b)
+
+Calculation (a)
+
+Non-savings income
+
+- £34,800 x 20% (1) = £6,960
+
+- £45,200 x 40% (1) = £18,080
+
+Savings income
+
+- £120,000 x 40% (1) = £30,000 (nominated RFI)
+
+Total income tax due £55,040 (3)
+
+Calculation (b)
+
+Non-savings income
+
+- £34,800 x 20% (1) = £16,960
+
+- 45,200 x 40% (1) = £18,080
+
+Savings income - see Note 4
+
+Total income tax due £25,040 (3)
+
+Relevant tax increase:
+
+- is total (a) £55,040
+
+- less total (b) £25,040
+
+- equals £30,000
+
+Notes
+
+- Rates and thresholds used here for the purposes of this example only; use the rates applying in the relevant tax year.
+
+- This is the foreign income that is nominated, and charged to tax on the arising basis in the year. FTCR is given, which has reduced the tax to £30,000
+
+- As a remittance basis user, Lorna has no personal allowances due
+
+- Lorna is a remittance basis user so would not be subject to tax on her unremitted foreign income, nor would any FTCR be due.

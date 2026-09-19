@@ -1,0 +1,72 @@
+Relevant property: treatment of income after 6 April 2014
+Identifier: IHTM42166
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42166
+Published: 2016-04-09T10:24:32+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:09:32.933406+00:00
+
+In general, the income of the settlement is not relevant property unless and until the trustees can and do exercise a power to accumulate and add it to the capital (IHTM42162 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42162)).
+
+However, the treatment of income that has not been converted to capital is different where a ten-year anniversary (TYA) charge arises on or after 6 April 2014. The broad effect of these provisions is that income which has not been distributed or converted to capital and has been held by the trustees for more than five years is to be treated as relevant property for the purposes of the TYA charge. The amendment to IHTA84/S66 means that tax is charged at the full rate, without any adjustment for the length of time the income has been held by the trustees.
+
+IHTA84/S64(1A) identifies the income concerned as income which:
+
+-
+
+is income of the settlement,
+
+-
+
+arose more than five years before the TYA charge,
+
+-
+
+has arisen (either directly or indirectly) from property comprised in the settlement that was, when the income arose, relevant property, and
+
+-
+
+when the income arose, no person was beneficially entitled to an interest in possession in the property from which the income arose.
+
+In most cases, there is no need to conduct a forensic examination of transactions through the income account. In determining whether any income is to be treated as relevant property under these provisions, it will normally be sufficient for trustees to take the balance on the income account immediately before the TYA year arises and deduct from that amount the income that has arisen during the five preceding years. Any balance on the income account is to be treated as relevant property.
+
+If the trust’s accounting period does not match with the anniversary of the trust, you may accept a sensible and reasonable approach to allocating income to the five year period immediately before the TYA charge (which will escape the charge). Where income has been distributed, again, you can follow the trustees’ approach and unless it is clear a specific part of the income has been distributed. A ‘first in, first out’ approach is acceptable.
+
+For the avoidance of doubt, IHTA84/S64(1A) is not limited to just the ten year period before each TYA charge. All income which arose more than five years before any TYA charge is treated as relevant property and will include income that arose at any time before the previousten year charge. If such income has not been distributed by the time the next TYA charge arises, you should treat it as relevant property for the purposes of that charge.
+
+Interaction with excluded property
+
+For chargeable events on or after 6 April 2025, there is a relaxation from the general position where
+
+-
+
+the settlor:
+
+-
+
+Is alive and is not a long-term UK resident (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000#)) immediately before the TYA;
+
+-
+
+Dies on or after 6 April 2025 and was not a long-term UK resident immediately before their death; or
+
+-
+
+Dies before 6 April 2025 was not domiciled in the UK at the time when the property (producing the income) became comprised in the settlement (IHTA84/S64(1BZA)
+
+and the income is represented by
+
+-
+
+property which is situated outside the UK, IHTA84/S64(1B)(a), or
+
+-
+
+a holding in an Authorised Unit Trust (AUT) or an Open-ended Investment Company (EIC), IHTA84/S64(1B)(b).
+
+-
+
+the income is represented by exempt gilts and it is shown that all the beneficiaries who could ever become entitled to the capital or income from the settled property meet the condition for residence and domicile specified in the issue of the Treasury stock concerned, IHTA84/S64(1C).
+
+For chargeable events before 6 April 2025 the condition in relation to the settlor is that they were not domiciled (IHTM13000) (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13000) in the UK at the time the property became comprised in the settlement and were not a formerly domiciled resident for the tax year in which the TYA charge falls.
+
+There is no relief for the period that the income that is deemed to be relevant property because IHTA84/S66(2A) dis-applies IHTA84/S66(2) – which allows for a reduced rate where property has not been relevant property throughout the preceding ten years – for income that is treated as relevant property under IHTA84/S64(1A), so that tax is charged as regards such income at the rate given by IHTA84/S66(1).

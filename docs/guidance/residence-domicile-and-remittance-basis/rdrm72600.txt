@@ -1,0 +1,216 @@
+Temporary repatriation facility: Qualifying overseas capital: Treatment of post-2024-25 income where pre-6 April 2025 gains available for matching
+Identifier: RDRM72600
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72600
+Published: 2025-04-07T08:36:52+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:13.409241+00:00
+
+Paragraph 7 Schedule 10 Finance Act 2025
+
+When matching capital distributions or other benefits it is usual for such amounts to be matched with all the relevant income of the overseas entity before such benefits are matched with capital gains. For details of how capital payments can be subject to Capital Gains Tax see CG38570C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38570c).
+
+For temporary repatriation facility (TRF) purposes, this rule is ignored where:
+
+-
+
+an individual is treated as having an amount of income for any of the tax years 2025-26, 2026-27 or 2027-28 as a result of section 732 ITA 2007 (individuals receiving a benefit as a result of relevant transactions)
+
+-
+
+the income does not fall within paragraph 6(1)(c) of Schedule 10 (benefits matched with pre-6 April 2025 relevant foreign income)
+
+-
+
+the benefit by reference to which that income is treated as arising would, if it were not chargeable to income tax, be an amount of qualifying overseas capital of the individual by virtue of paragraph 3 or 5 of Schedule 10 (capital payments)
+
+In such cases the amount is treated as an amount of qualifying overseas capital and can be designated by the beneficiary.
+
+This includes where income is treated as arising to an individual as a result of matching with relevant income which are offshore income gains (OIGs) following changes made to the Offshore Funds (Tax) Regulations 2009 which ensure that OIGs arising to non-resident settlements are only taxed under the transfer of assets abroad provisions – see RDRM72550 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72550), IFM and CG manuals for more details.
+
+For the purpose of determining whether the benefit would be an amount of qualifying overseas capital, there are specific rules introduced in paragraph 7 that require the provisions relating to trust gains under paragraph 3 or 5 to be applied as if:
+
+- references to chargeable gains being treated as accruing to an individual as a result of the capital gain attribution provisions at section 87, section 89 or Schedule 4C TCGA 1992 were replaced by references to the individual having income treated as arising to them under the ToAA provisions
+
+- references to ‘capital payments’ were references to ‘benefits’ in both paragraphs 3 and 5, in addition to in the application of the matching rules in section 87A TCGA 1992 for the purposes of those paragraphs.
+
+The nature of what is treated as the qualifying overseas capital as a result of this exercise was clarified by explicitly stating that it is the ‘amount of income’ that is treated as arising to the individual under the ToAA provisions.
+
+If the deemed income is qualifying overseas capital because of paragraph 7, the transfer of assets abroad (ToAA) provisions have effect as though the benefit by reference to which the deemed income was treated as arising had never been provided. So, in applying section 733(1) ITA 2007 to any individual for subsequent years:
+
+-
+
+the benefit will not be taken into account at step 1
+
+-
+
+no deduction in respect of the deemed income will be made at Step 2 or Step 5
+
+-
+
+the total untaxed benefits will not be reduced in respect of that benefit by virtue of section 734 (previous capital gains charge)
+
+-
+
+the relevant income (whether or not this income is OIGs) will continue to be available for matching with further benefits received by that individual or other individuals in future tax years
+
+For further details of the step calculation see INTM601740 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm601740).
+
+Example
+
+Jemima is the beneficiary of a non-resident trust which was established by a non-UK resident in Jersey, the J Trust. Jemima has been resident in the UK since 2015-16 and for all years until 2024-25 has been a remittance basis user.
+
+The J Trust has made a number of offshore investments which have resulted in the following income and gains arising:
+
+Year
+
+|
+
+Foreign income (£)
+
+|
+
+Foreign gains (£)
+
+|
+
+2017-18
+
+|
+
+10,000
+
+|
+
+0
+
+|
+
+2020-21
+
+|
+
+10,000
+
+|
+
+0
+
+|
+
+2022-23
+
+|
+
+10,000
+
+|
+
+20,000
+
+|
+
+2023-24
+
+|
+
+10,000
+
+|
+
+30,000
+
+|
+
+2024-25
+
+|
+
+10,000
+
+|
+
+0
+
+|
+
+2025-26
+
+|
+
+50,000
+
+|
+
+0
+
+|
+
+In 2025-26 the trustees make a capital distribution to Jemima of £90,000. Jemima decides that she wants to designate as much of the capital distribution as she can under the TRF.
+
+Note: this example is to demonstrate the impact on the relevant foreign income of the trust. For a more detailed calculation of the trust gains under the TRF see RDRM72400 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72400).
+
+Under the normal matching rules at section 735A ITA 2007 the capital distribution will be matched as follows:
+
+Year
+
+|
+
+Foreign income (£)
+
+|
+
+2017-18
+
+|
+
+10,000
+
+|
+
+2020-21
+
+|
+
+10,000
+
+|
+
+2022-23
+
+|
+
+10,000
+
+|
+
+2023-24
+
+|
+
+10,000
+
+|
+
+2024-25
+
+|
+
+10,000
+
+|
+
+2025-26
+
+|
+
+40,000
+
+|
+
+Leaving unmatched income of £10,000.
+
+However, as part of the capital distribution matched under section 735A ITA 2007 is matched with £40,000 of income that arose after 2024-25 it does not come within paragraph 6(1)(c) and therefore cannot under this paragraph be qualifying overseas capital within the TRF. However, paragraph 7(1)(c) will apply and for the purposes of the TRF Jemima is able see if there are any pre-6 April 2025 gains that would be available for matching. As there are pre-6 April 2025 gains totalling £50,000 there are sufficient gains available and so Jemima can treat the £40,000 as qualifying overseas capital by virtue of the gains.
+
+Jemima is therefore able to designate the full £90,000 under the TRF.
+
+When applying the matching rules at section 733(1) ITA 2007 in subsequent years the amount of benefit taken into account will be £50,000 (this is because the benefit treated as matched with gains is ignored for the purpose of the TRF) and the amount of deemed income at step 2 and step 5 will be £50,000 (because the deemed income treated as matched with gains is not deducted for the purpose of the TRF).

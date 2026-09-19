@@ -1,0 +1,38 @@
+Pre-owned assets: calculation of the charge on land: non-exempt sales
+Identifier: IHTM44015
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44015
+Published: 2016-04-09T10:30:07+01:00
+Updated: 2016-02-11T17:26:30+00:00
+Retrieved (UTC): 2026-09-18T15:10:10.473855+00:00
+
+Sales for full consideration will normally be excluded transactions (IHTM44031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44031)). FA04/Sch15/Para 4(4) introduces the concept of a ‘non-exempt sale’ for a disposal which is
+
+- a sale of the chargeable person’s whole interest in the property,
+
+- for a consideration paid in money in sterling or any other currency,
+
+- that is not an excluded transaction
+
+and therefore covers sales made for less than the market value for cash. The ‘appropriate proportion’, which is relevant for ascertaining the ‘appropriate rental value’ in FA04/Sch15/Para 4(2) is reduced using the formula
+
+(MV-P) ÷ MV where
+
+- MV is the value of the interest in land at the time of the sale, and
+
+- P is the amount paid.
+
+Note that these provisions only apply to a sale of the whole of an interest in a property. They do not apply to part sales or to exchanges, or to transactions where the contribution condition (IHTM44005 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44005)) is met.
+
+Example
+
+Andrew sells his house to his daughter for £100,000. It is worth £400,000. He continues to live in the house. The rental value is £12,000. The appropriate portion is
+
+(400,000 - 100,000) ÷ 400,000 = 25%
+
+The rental value subject to the POA charge is reduced by 25% to £9,000.
+
+However, since Andrew has made a gift of 75% of the property and has continued to live in the house, the gift element is subject to a reservation of benefit (IHTM14301 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14301)) and outside the POA charge (IHTM44044 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44044)). This will remain the case even if the sharing provisions of FA86/S102B(4) apply so that there is no reservation of benefit in view of FA04/Sch15/Para11(5)(c) (IHTM44047 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44047)). So, in most cases a non-exempt sale will be outside the POA charge since the proportion of the property that is attributable to the sale proceeds (25% in the example above) is relieved by FA04/Sch15/Para 4(4) and the proportion that was gifted is relieved as it is, or would have been, subject to a reservation of benefit.
+
+If Andrew had sold part of his house to his daughter at less than the full market value then the non-exempt sale provisions would not apply. So in the above example if he sold half his house to his daughter for £100,000 and that half share was in fact worth £200,000, although he would have made a gift of a one quarter share in which he may have reserved a benefit (subject to FA86/S102B(4) as above), the proportion of the rental value that is attributable to the a one quarter share that was sold, would be subject to the POA charge.
+
+On death, Andrew’s estate would contain the half share of the property he had continued to own, plus the £100,000 received from his daughter and a reservation of benefit in the one quarter share he gifted.

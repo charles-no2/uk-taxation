@@ -1,0 +1,46 @@
+Part 1 Accessing the Capital Gains Tax (CGT) on UK Property Account: Making a payment
+Identifier: CG-APP18-170
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-170
+Published: 2022-05-24T09:49:10+01:00
+Updated: 2023-09-04T08:05:02+01:00
+Retrieved (UTC): 2026-09-18T14:47:15.089410+00:00
+
+1.7 Making a payment
+
+Payments may be made by clicking on the pay now button in the online CGT on UK Property Account system or by one of these payment methods:
+
+- Approve a payment from your online bank account
+
+- Online or telephone banking
+
+- Debit or corporate credit card online
+
+- Cheque
+
+The 14-digit payment reference number starting with X is required when users make payments. This is found:
+
+- In the CGT on UK Property Account if the return was submitted online
+
+- In the letter sent to person making the return by HMRC if they have submitted a paper return
+
+- In the letter sent to the personal representative by HMRC for a Period of Administration Estate, when the return was made online.
+
+Information on how to make a payment can be found at Ways to pay (https://www.gov.uk/report-and-pay-your-capital-gains-tax/ways-to-pay)
+
+1.71 Payment references
+
+Online returns
+
+The return reference can be found by clicking the return review and pay button within the online service. The return reference is specific to an individual return to help differentiate between returns if there are multiple disposals in a year. This reference should be used when making a payment, so the payment is allocated to the specific return.
+
+Payment can be made to the CGT Account reference, but if there are multiple disposals the payment will be allocated to the earliest disposal with an unpaid charge. The CGT account reference number can be found from the taxpayers dashboard within the online service and clicking the make payment link underneath the total left to pay.
+
+Paper returns
+
+A Payment reference is issued when a paper return has been processed. HMRC will send a payment reference including the date the payment is due along with details of how to pay. Payments made to this reference will be applied directly to the charge for the return disposal.
+
+UTR
+
+Payments made to a Self Assessment UTR are not automatically allocated against the CGT on UK property account liability. There is a risk the payment could be allocated against other charges within the self assessment service or a repayment made before the CGT on UK Property account has been processed which could lead to interest and penalties accruing on the CGT on UK property account.
+
+To try and prevent this, the customer should contact HMRC. It is not always possible to reallocate payment to the CGT on UK Property account if the payment has been allocated against a due payment on account.

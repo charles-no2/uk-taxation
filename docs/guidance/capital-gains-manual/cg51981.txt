@@ -1,0 +1,54 @@
+Reorganisations of share capital: creation of separate holdings: example using section 130
+Identifier: CG51981
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51981
+Published: 2016-03-12T11:25:59+00:00
+Updated: 2016-01-26T08:52:39+00:00
+Retrieved (UTC): 2026-09-18T14:42:33.824119+00:00
+
+This example illustrates the operation of TCGA92/S130 if the original shares are in a Section 104 holding.
+
+- May 2022: a taxpayer buys 8,000 25p Ordinary shares in L PLC at a price of 160p per share. Total cost £12,800.
+
+- December 2023: L PLC makes a 5:8 rights issue of 50p Convertible Redeemable Preference shares at 100p per share payable on 3 January 2024. Total shares acquired 5,000. Total cost £5,000.
+
+The market value of the two classes of share on 13 December 2023, the first day prices are quoted for the shares in the new holding, is
+
+25p Ordinary shares
+
+|
+
+135p
+
+|
+
+50p Convertible Redeemable Pref. shares
+
+|
+
+100.25p per share (100p plus a premium of
+
+|
+
+|
+
+0.25p per share)
+
+|
+
+These values are used to apportion the total cost of the new holding (£12,800 + £5,000 = £17,800) between the two different classes of share:
+
+The pool of 8,000 25p Ordinary shares
+
+The total cost attributed to the pooled Ordinary shares is
+
+£17,800 x [market value of 8,000 25p Ordinary shares / (market value of 8,000 25p Ordinary shares plus market value of 5,000 50p Preference shares)] ie
+
+£17,800 x (8,000 x £1.35) / [(8,000 x £1.35) + (5,000 x £1.0025)] = £12,157
+
+The pool of 5,000 50p Preference shares
+
+The total cost attributed to the pooled Preference shares is
+
+£17,800 x [market value of 5,000 50p Preference shares / (market value of 8,000 25p Ordinary shares plus market value of 5,000 50p Preference shares)] ie
+
+£17,800 x (5,000 x £1.0025) / [(8,000 x £1.35) + (5,000 x £1.0025)] = £5,643

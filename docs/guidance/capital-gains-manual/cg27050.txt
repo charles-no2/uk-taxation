@@ -1,0 +1,68 @@
+Partnerships: limited liability partnerships- statutory rules
+Identifier: CG27050
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27050
+Published: 2016-03-12T10:28:04+00:00
+Updated: 2026-02-05T09:42:47+00:00
+Retrieved (UTC): 2026-09-18T14:29:08.137650+00:00
+
+Section 59A (https://www.legislation.gov.uk/ukpga/1992/12/section/59A)(1) of the Taxation of Chargeable Gains Act 1992 (TCGA 1992) applies to a Limited Liability Partnership (LLP) which carries on a trade or business with a view to profit. It provides that any dealings by an LLP are treated as dealings by its members. Therefore, in spite of an LLP’s corporate status, an LLP to which section 59A(1) TCGA 1992 applies is treated for Chargeable Gains (CG) purposes as a ‘tax transparent’ partnership, see CG27000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27000). Consequently it is the members of the LLP who are regarded as owning a fractional interest in each of the assets of the LLP. Guidance on establishing a member’s fractional interest in an LLP asset is at CG27220 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27220).
+
+Statement of Practice (SP) D12 (https://www.gov.uk/government/publications/statement-of-practice-d12/statement-of-practice-d12), SP 1/79 (https://www.gov.uk/government/publications/statement-of-practice-1-1979/statement-of-practice-1-1979-partnerships) and SP 1/89 (https://www.gov.uk/government/publications/statement-of-practice-1-1989/statement-of-practice-1-1989) apply to an LLP to which section 59A(1) TCGA 1992 applies.
+
+Cessation of trading/business
+
+If the cessation of trading/business is temporary then section 59A(3)(a) TCGA 1992 ensures that section 59A(1) TCGA 1992 continues to apply.
+
+If the cessation of trading/business is permanent, section 59A(1) TCGA 1992 ceases to apply on the occasion of the permanent cessation of the trade/business. Thereafter the LLP will be treated for CG purposes as a body corporate. Section 156A (https://www.legislation.gov.uk/ukpga/1992/12/section/156A) TCGA 1992 and section 169A (https://www.legislation.gov.uk/ukpga/1992/12/section/169A) TCGA 1992 provide for any rolled-over gains to be recouped where section 59A(1) TCGA 1992 ceases to apply, see CG27080 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27080).
+
+Winding up/liquidation of an LLP
+
+The members of an LLP may proceed to wind up its affairs in an orderly way without the formal appointment of a liquidator by settling outstanding liabilities and realising assets following a permanent cessation of the trade/business. In such circumstances section 59A(1) TCGA 1992 will continue to apply to the LLP during the period in which its assets are disposed of provided the conditions in section 59A(3)(b) TCGA 1992 are met.
+
+Section 59A(1) TCGA 1992 will immediately cease to apply when any of the following events occur:
+
+- a liquidator is appointed, whether or not the liquidator is charged for a period with completing any outstanding business transactions;
+
+- a winding-up order is made by the court;
+
+- a corresponding event under the law of a country or territory outside the UK.
+
+Effect of section 59A(1) TCGA 1992 ceasing to apply
+
+When section 59A(1) TCGA 1992 ceases to apply, an LLP will be treated as a body corporate for CG purposes. Chargeable gains arising on disposals of assets by the LLP or a liquidator will be computed as if the LLP had never been treated as a partnership throughout the LLP’s period of ownership of the asset. This will not affect the CG treatment of a disposal that was made while section 59A(1) TCGA 1992 still applied to the LLP.
+
+Each of the members will then be treated as owning an asset for CG purposes in the form of a capital interest in the LLP. The allowable acquisition cost of each member's capital interest in the LLP will be determined by reference to their capital contributions to the LLP as if the LLP had never been treated as a partnership.
+
+Section 59AA (https://www.legislation.gov.uk/ukpga/1992/12/section/59AA) TCGA 1992 will apply to a disposal made by an LLP where all of the following conditions are met:
+
+- A member contributed an asset to the LLP at a time when section 59A(1) TCGA 1992 applied to the LLP;
+
+- Section 59A(1) TCGA 1992 ceased to apply to the LLP while the contributed asset was still owned by the LLP;
+
+- After section 59A(1) TCGA 1992 ceased to apply to the LLP, the LLP disposed of the contributed asset to the member who originally contributed it or to a person connected with that member.
+
+The effect of section 59AA TCGA 1992 is that the asset contributed to the LLP is deemed to have been disposed of and reacquired by the member immediately before it was contributed to the LLP and for a consideration equal to its market value at that time. The gain or loss arising from that deemed disposal is treated as accruing to the member at the time when the LLP disposed of the asset.
+
+The member that contributes the asset to the LLP may make a part disposal of the asset at the time it is contributed or during the period that it is an LLP asset. The gain that is treated as accruing to the member under section 59AA(2) TCGA 1992 can be reduced on a just and reasonable basis to take account of the member’s part disposals.
+
+Example 1
+
+On 1 November 2024, a member of an LLP contributes an asset to an LLP that is trading with a view to profit. The member acquired the asset for £100,000 and it has a market value of £150,000 at the time it is contributed. The member retains a 100% fractional interest in the asset. The member therefore doesn’t make a disposal for CG purposes when the asset is contributed to the LLP.
+
+A few years later, the LLP is put into liquidation so that section 59A(1) TCGA 1992 ceases to apply to the LLP. On 1 June 2027, the liquidator sells the asset to a company controlled by the member for £250,000.
+
+The conditions for section 59AA TCGA 1992 to apply are satisfied so the member is treated as having disposed of and reacquired the asset on 1 November 2024. The consideration for that disposal was the market value of £150,000. The member’s acquisition cost of the asset was £100,000. The member therefore has a gain of £50,000. This gain is treated by section 59AA(3)(a) TCGA 1992 as arising to the member on 1 June 2027.
+
+The LLP has also made a disposal of the asset by selling it to the company. The consideration for that disposal was the sale proceeds of £250,000. The LLP’s acquisition cost of the asset was the market value of £150,000. The LLP therefore has a gain of £100,000 that arises on 1 June 2027.
+
+Example 2
+
+On 1 November 2024, a member of an LLP contributes an asset to an LLP that is trading with a view to profit. The member acquired the asset for £100,000 and it has a market value of £150,000 at the time it is contributed. The member is treated as retaining a 50% fractional interest in the asset. The member therefore makes a disposal for CG purposes when the asset is contributed to the LLP.
+
+The member’s consideration is treated as 50% of the market value of the asset at the time it is contributed to the LLP, so £75,000. The member’s allowable deduction is treated as 50% of the acquisition cost, so £50,000. The member therefore has a gain of £25,000. This gain is treated as arising to the member on 1 November 2024.
+
+A few years later, the LLP is put into liquidation so that section 59A(1) TCGA 1992 ceases to apply to the LLP. On 1 June 2027, the liquidator sells the asset to a company controlled by the member for £250,000.
+
+The conditions for section 59AA TCGA 1992 to apply are satisfied so the member is treated as having disposed of and reacquired the asset on 1 November 2024. The consideration for that disposal was the market value of £150,000. The member’s acquisition cost of the asset was £100,000. The member therefore has a gain of £50,000. As 50% of the asset was already treated as having been disposed of, this gain can be reduced by 50% to £25,000. The £25,000 gain is treated by section 59AA(3)(a) TCGA 1992 as arising to the member on 1 June 2027.
+
+The LLP has also made a disposal of the asset by selling it to the company. The consideration for that disposal was the sale proceeds of £250,000. The LLP’s acquisition cost of the asset was the market value of £150,000. The LLP therefore has a gain of £100,000 that arises on 1 June 2027.

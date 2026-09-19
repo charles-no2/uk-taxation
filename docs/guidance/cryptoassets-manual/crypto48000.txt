@@ -1,0 +1,42 @@
+Cryptoassets for businesses: Digital Services Tax and Cryptoasset Exchanges
+Identifier: CRYPTO48000
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto48000
+Published: 2021-11-22T09:21:10+00:00
+Updated: 2021-11-22T09:21:05+00:00
+Retrieved (UTC): 2026-09-18T16:18:30.808764+00:00
+
+DST Online Marketplaces and Exchanges for Cryptoassets
+
+Digital Services Tax (DST) is a 2% tax paid by groups on the revenues that are generated from UK users of certain digital activities. “Online marketplace” service is one of the three digital services activities defined for the purposes of DST.
+
+As set out in DST18100 (https://www.gov.uk/hmrc-internal-manuals/digital-services-tax/dst18100), there are two parts to the online marketplace definition which must both be satisfied for an online service to fall in scope as an online marketplace for the purposes of DST:
+
+-
+
+the service must enable users to sell particular things to other users, or to advertise or otherwise offer to other users particular things for sale, and
+
+-
+
+the main purpose, or one of the main purposes, of the service is to facilitate the sale by users of particular things.
+
+A ‘thing’ for these purposes is any service, goods or other property.
+
+Therefore, an exchange which has a purpose of facilitating the sale of tokens and, in fulfilling that purpose, enables users to sell tokens to other users, will be an online marketplace. It should be noted that the sale need not be concluded on or through the exchange, merely that the exchange enables the sale to take place, or the exchange advertises or otherwise offers the tokens for sale.
+
+DST Exemption for Online Financial Marketplaces
+
+There is an exemption from the online marketplace definition for online financial marketplaces, DST18700 (https://www.gov.uk/hmrc-internal-manuals/digital-services-tax/dst18700). This applies when more than half of the marketplace’s revenue in the accounting period arises in connection with facilitating the trading of financial instruments, commodities or foreign exchange.
+
+HMRC’s view of what cryptoassets are can be found at CRYPTO10100 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto10100). There are a wide variety of cryptoassets, each with different characteristics. For the reasons detailed below it is unlikely that cryptoasset exchanges can benefit from the exemption for Online Financial Marketplaces.
+
+-
+
+Generally, cryptoassets are not financial instruments as they do not represent either cash or a contract establishing a right or obligation to deliver or receive cash or another financial instrument.
+
+-
+
+HMRC does not consider cryptoassets to be a commodity therefore cryptoasset exchanges are not considered to be a commodities exchange.
+
+-
+
+HMRC does not consider cryptoassets to be currency or money. Therefore, the trading of cryptoassets are not considered a form of foreign exchange.

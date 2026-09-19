@@ -1,0 +1,92 @@
+Transfers: transfers to a QROPS: examples of calculating the amount of the overseas transfer charge on transfer from a registered pension scheme
+Identifier: PTM102530
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102530
+Published: 2017-12-01T12:31:11+00:00
+Updated: 2022-05-31T20:54:14+01:00
+Retrieved (UTC): 2026-09-18T14:49:43.867548+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Transfer below available overseas transfer allowance, overseas transfer charge under section 244AC paid by deduction from the transfer (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102530#244AC-deduction)
+Transfer above available overseas transfer allowance, overseas transfer charge under section 244IA deducted from the member’s funds (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102530#244IA-deduction)
+Transfer below available overseas transfer allowance, transfer not reduced for overseas transfer charge under section 244AC (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102530#244AC-no-deduction)
+Transfer above available overseas transfer allowance, transfer not reduced for overseas transfer charge under section 244IA (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102530#244IA-no-deduction)
+Example for non-UK registered pension scheme (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102530#non-UK-rps)
+
+Transfer below available overseas transfer allowance, overseas transfer charge under section 244AC paid by deduction from the transfer
+
+Kiki has pension rights valued at £500,000 under a UK-based registered pension scheme. Kiki has not previously made any transfers to QROPS and did not use up any of her lifetime allowance before 6 April 2024, so she has 100% of the overseas transfer allowance (£1,073,100) available to her. She wishes to transfer her pension rights to a qualifying recognised overseas pension scheme (QROPS). None of the exclusions from the overseas transfer charge apply.
+
+As none of the exclusions apply, the transfer will be subject to an overseas transfer charge under section 244AC. The scheme administrator will deduct the amount of this overseas transfer charge before transferring the remaining funds to the QROPS scheme manager.
+
+As the overseas transfer charge is to be paid by reducing Kiki’s transfer:
+
+The ‘transferred value’ = £500,000
+
+The overseas transfer charge under section 244AC = £500,000 @ 25% = £125,000
+
+Amount received by the QROPS = £500,000 – £125,000 = £375,000
+
+Transfer above available overseas transfer allowance, overseas transfer charge under section 244IA deducted from the member’s funds
+
+Ivor has £800,000 available overseas transfer allowance. In August 2024 Ivor decides to move his uncrystallised pension savings from a UK-based registered pension scheme to a QROPS based in Sweden, where he lives. The scheme administrator tells Ivor that his pension rights under the scheme are worth £950,000, so they can see that the transfer will exceed his available overseas transfer allowance. As Ivor lives in the same country as that in which the QROPS is established, the transfer will be excluded from an overseas transfer charge under section 244AC. However, as the transferred value is more than Ivor's available overseas transfer allowance, the excess will be subject to an overseas transfer charge under section 244IA. The scheme administrator will fund the payment of this overseas transfer charge by deducting the tax due from the amount of Ivor’s pension savings to be transferred.
+
+As the overseas transfer charge is to be paid by reducing Ivor’s transfer:
+
+‘Transferred value’ = £950,000
+
+Available overseas transfer allowance = £800,000
+
+The overseas transfer charge under section 244IA = (£950,000 - £800,000) @ 25% = £37,500
+
+Amount received by the QROPS = £950,000 - £37,500 = £912,500
+
+Transfer below available overseas transfer allowance, transfer not reduced for overseas transfer charge under section 244AC
+
+Dougal wants to transfer a pension fund of £100,000 from his UK-based registered pension scheme to a QROPS. Dougal has not previously made any transfers to QROPS and did not use up any of his lifetime allowance before 6 April 2024, so he has 100% of the overseas transfer allowance (£1,073,100) available to him. None of the exclusions apply to this transfer, so it is subject to an overseas transfer charge under section 244AC, but Dougal’s scheme administrator does not deduct the tax due from his transfer.
+
+As the overseas transfer charge is not deducted from the funds to be transferred, the transferred value is the aggregate of the ‘chargeable portion’, the ‘gross-up amount’ and the ‘non-chargeable portion’ (if any) :
+
+- Chargeable portion = £100,000
+
+- Gross-up amount = £100,000/3 = £33,333
+
+- Non-chargeable portion = nil
+
+Therefore, the transferred value = £133,333
+
+Overseas transfer charge under section 244AC = £133,333 @ 25% = £33,333
+
+Amount received by the QROPS = £100,000
+
+Transfer above available overseas transfer allowance, transfer not reduced for overseas transfer charge under section 244IA
+
+Murray has an available overseas transfer allowance of £775,000 and pension savings of £1.5 million under a UK-based registered pension scheme. He decides to transfer these funds to a QROPS based in Austria, where he also lives. The transfer is excluded from an overseas transfer charge under section 244AC, but it will be subject to a charge under section 244IA. The scheme administrator of Murray’s scheme pays this tax charge but does not deduct the tax due from his transfer.
+
+As the overseas transfer charge is not deducted from the funds to be transferred, the transferred value is the aggregate of the ‘chargeable portion’, the ‘gross-up amount’ and the ‘non-chargeable portion’ (if any):
+
+- Chargeable portion = £1,500,000 - £775,000 = £725,000
+
+- Gross-up amount = £ 725,000/3 = £241,666
+
+- Non-chargeable portion = £1,500,000 - £725,000 = £775,000
+
+Therefore, the transferred value = £1,741,666
+
+Overseas transfer charge under section 244IA = (£1,741,666 - £775,000) @ 25% = £241,666
+
+Amount received by QROPS = £1,500,000
+
+Example for non-UK registered pension scheme
+
+Zsa Zsa is a member of a scheme that is established in Germany and the scheme is also a registered pension scheme. As Zsa Zsa worked for some years at her employer’s UK branch she has pension savings that benefited from UK tax relief. Zsa Zsa’s total pension savings under the scheme are £800,000 of which £200,000 are UK-relieved funds.
+
+Zsa Zsa wishes to transfer her savings to a QROPS and this transfer will be subject to an overseas transfer charge under section 244AC. The amount of the charge is to be deducted by the scheme administrator before the funds are passed to the QROPS scheme manager.
+
+The overseas transfer charge provisions are limited to Zsa Zsa’s UK–relieved funds.
+
+Transferred value = £200,000 (amount of UK-relieved funds)
+
+Overseas transfer charge under section 244AC = £200,000 @ 25% = £50,000
+
+Amount received by the QROPS = £800,000 - £50,000 = £750,000

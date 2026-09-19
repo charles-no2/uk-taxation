@@ -1,0 +1,64 @@
+Non-resident trusts: trustees’ chargeability: Income Tax - trust management expenses - apportionment to untaxed income
+Identifier: TSEM10250
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem10250
+Published: 2016-05-02T16:25:53+01:00
+Updated: 2024-07-03T14:54:57+01:00
+Retrieved (UTC): 2026-09-18T16:21:18.147177+00:00
+
+If the trustees of an accumulation/discretionary trust are not resident in the UK, trust management expenses are apportioned to arrive at those expenses which are met out of untaxed (foreign-source) income of the trustees and taxed (UK-source) income in accordance with ITA07/S487. It should also be noted that if the Income Tax charge on the income arising to the trustees is limited by virtue of ITA07/S811 (see TSEM10220 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem10220)) then the untaxed income also includes the income arising which is treated as disregarded income.
+
+The balance of the trust management expenses is set against income chargeable at the special rates of tax, in the order detailed at TSEM8250 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem8250).
+
+Example
+
+Non-resident trust which is within ITA07/S479.
+
+Trust income for year 2013-14:
+
+UK Bank Interest = £20,000. Income Tax deducted = £4,000
+
+UK Property Income = £10,000. Income Tax paid = £2,000
+
+Foreign Bank Interest = £1,000. Income Tax = NIL
+
+Allowable trust management expenses = £5,000
+
+The beneficiaries (income and capital) include at least one who is resident in the UK for the year 2013-14. Consequently, none of the UK income is ‘disregarded income’ (TSEM10215 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem10215)).
+
+Income Tax due:
+
+Income chargeable at the standard rate band (TSEM10240 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem10240)) -
+
+UK Bank Interest = £1,000
+
+Income chargeable at the special trust rate -
+
+UK Bank Interest = £19,000 (£20,000 - £1,000)
+
+UK Property Income = £10,000
+
+Total = £29,000
+
+Less trust management expenses* -£6,049
+
+Chargeable at special trust rate = £22,951
+
+* Trust management expenses are set against income to arrive at the amount chargeable to Income Tax at the special trust rate.
+
+The expenses are reduced by the proportion of income arising to trustees which is untaxed foreign income (ITA07/S487(2)) -
+
+UK Bank Interest = £20,000
+
+UK Property Income = £10,000
+
+Foreign Bank Interest = £1,000 (Untaxed)
+
+Total income = £31,000
+
+*Expenses relating to foreign bank interest:
+
+(£1,000 x £5,000) ÷ £31,000 = £161
+
+Expenses allowed in arriving at income chargeable to Income Tax at the special trust rate £4,839 (£5,000- £161).
+
+Allowance due £6,049 (£4,839 grossed up by reference to basic rate on savings income - ITA07/S486(1) - Step 5) (TSEM8245 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem8245)).

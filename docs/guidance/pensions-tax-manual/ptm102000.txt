@@ -1,0 +1,180 @@
+Transfers: transfers to a QROPS: transfers from a registered pension scheme to a QROPS
+Identifier: PTM102000
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102000
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2024-11-01T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:49:41.145859+00:00
+
+Glossary
+
+|
+
+PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+|
+
+A recognised transfer can be made to a qualifying recognised overseas pension scheme (QROPS) as well as a registered pension scheme.
+
+For guidance on the conditions a scheme has to satisfy to be a QROPS and the information requirements for QROPS see PTM112000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm112000).
+
+In addition to the normal requirements for a recognised transfer (see PTM100010 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm100010)) there are extra requirements that must also be met if a transfer is to be made to a QROPS. Scheme administrators should notify the member of the extra prescribed requirements within 30 days of the member requesting the transfer to the QROPS.
+
+PTM102900 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102900) and PTM102950 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102950) provide guidance on the information members have to provide before and after a transfer to a QROPS.
+
+PTM103000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm103000) provides guidance on the actions a scheme administrator should take when transferring to a QROPS.
+
+If the transfer to a QROPS represents benefits in payment the relevant conditions at PTM104000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm104000) to PTM107000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm107000) also have to be met if the transfer is not to be treated as an unauthorised payment.
+
+Can a transfer be made to any QROPS? (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102000#IDAF4FLD)
+The transfer is tested against the member’s available overseas transfer allowance (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102000#OTA)
+
+The overseas transfer charge (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102000#otc)
+Member considerations before agreeing to make a transfer (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102000#IDAIAGLD)
+UK tax due on QROPS payments (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102000#tax)
+Scheme administrator considerations on transfer to a QROPS (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102000#scheme-adr)
+
+Can a transfer be made to any QROPS?
+
+A transfer to a scheme that is a QROPS may not be possible. QROPS status only has significance for UK tax purposes. Whether or not a particular transfer can take place will depend on the scheme being able to accept the transfer under the legislation of the country in which it is established.
+
+In particular HMRC understands that transfers to US “qualified” retirement plans, including individual retirement arrangements (IRAs), can’t be made as such plans are not permitted to accept a transfer of funds from a registered pension scheme.
+
+Questions about whether or not a particular scheme can accept a transfer should be directed to the scheme or the relevant overseas authority.
+
+The transfer is tested against the member’s available overseas transfer allowance
+
+Section 244IB Finance Act 2004
+
+A transfer to a QROPS is tested against the member’s available overseas transfer allowance. PTM102200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102200) provides more guidance on the overseas transfer allowance.
+
+If the value transferred is more than the member’s available overseas transfer allowance, the excess will be subject to the overseas transfer charge at a rate of 25%, even in circumstances where the transfer is otherwise excluded from the overseas transfer charge.
+
+The scheme administrator must tell the member the amount of overseas transfer allowance used up by the transfer and if any overseas transfer charge is due (see PTM103050 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm103050)).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102000#Top)
+
+The overseas transfer charge
+
+A transfer to a QROPS may be subject to the overseas transfer charge.
+
+Where the transfer from a registered pension scheme is requested on or after 9 March 2017 and before 30 October 2024, it will be subject to the overseas transfer charge if none of the following five exclusion conditions is met:
+
+- The member is resident in the same country as that in which the QROPS receiving the transfer is established
+
+- The QROPS receiving the transfer is established in a country within the European Economic Area (EEA) or Gibraltar and the member is UK resident, or resident in a country within the EEA or Gibraltar
+
+- The QROPS is set up by an international organisation for the purpose of providing benefits for, or in respect of, past service as an employee of the organisation and the member is an employee of that international organisation. PTM112200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm112200) provides guidance on the definition of an international organisation. It does NOT simply mean a multi-national employer.
+
+- The QROPS is an overseas public service pension scheme and the member is an employee of an employer that participates in the scheme.
+
+- The QROPS is an occupational pension scheme and the member is an employee of a sponsoring employer under the scheme
+
+Where the transfer from a registered pension scheme is requested on or after 30 October 2024, it will be subject to the overseas transfer charge if none of the following four exclusion conditions is met:
+
+- The member is resident in the same country as that in which the QROPS receiving the transfer is established
+
+- The QROPS is set up by an international organisation for the purpose of providing benefits for, or in respect of, past service as an employee of the organisation and the member is an employee of that international organisation. PTM112200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm112200) provides guidance on the definition of an international organisation. It does NOT simply mean a multi-national employer.
+
+- The QROPS is an overseas public service pension scheme and the member is an employee of an employer that participates in the scheme.
+
+- The QROPS is an occupational pension scheme and the member is an employee of a sponsoring employer under the scheme
+
+If none of these exclusion conditions are met, the overseas transfer charge will apply. This is an income tax charge of 25% of the ‘transferred value’.
+
+If one or more of the exclusion conditions listed here is met, but the transferred value exceeds the member’s available overseas transfer allowance, the excess will be subject to the overseas transfer charge of 25%.
+
+PTM102200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102200) provides more information about the overseas transfer charge, and PTM102300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102300) has further details on how to meet the exclusion conditions listed above.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102000#Top)
+
+Member considerations before agreeing to make a transfer
+
+In addition to the lifetime allowance charge and overseas transfer charge that may arise on the transfer to the QROPS, members should be aware that payments from the QROPS can also be subject to UK tax – see UK tax on QROPS payments (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102000#tax) below. These tax charges continue to apply if a scheme stops being a QROPS.
+
+The member must also provide information to the scheme administrator both before and after the transfer has taken place (see PTM102900 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102900) and PTM102950 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102950) for further details).
+
+As with any transfer, the person requesting the transfer, in this case the member, is responsible for ensuring the receiving scheme meets their requirements. With a transfer to a QROPS this includes, as far as possible, ensuring the scheme meets the conditions to be a QROPS. The member is also responsible for working out if their transfer will be subject to the overseas transfer charge. Members cannot rely on scheme administrators to carry out these checks for them.
+
+The member should get independent professional advice and confirm with the QROPS scheme manager that the scheme meets the requirements to be a QROPS before they agree to the transfer. Any pension scheme that genuinely meets the conditions to be a QROPS should be in a position to provide evidence of how the scheme meets those conditions. Guidance on the conditions that a scheme must meet to be a QROPS is at PTM112100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm112100).
+
+A letter from HMRC with a QROPS number is not confirmation that the scheme is or will remain a QROPS. It simply denotes that the scheme manager has notified HMRC that the scheme meets the conditions to be a recognised overseas pension scheme (ROPS) and has complied with certain information requirements. Similarly appearance on the published list of schemes that have told HMRC that they meet the conditions to be a ROPS is not a guarantee that the scheme is or will remain a QROPS.
+
+If the scheme does not meet the conditions to be a ROPS when the transfer is made the transfer will not be a recognised transfer. The transfer will be an unauthorised payment and the member liable to tax of at least 40% of the value of the transfer payment. PTM134000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134000) provides full guidance on the tax charges due on an unauthorised payment.
+
+The transfer may cause loss of protection
+
+Members need to consider the impact a transfer will have on any lifetime allowance, lump sum or pension age protection. The protection may be lost or the level of protection reduced because of a transfer.
+
+If the member has a valid lifetime allowance protection (enhanced protection, fixed protection, fixed protection 2014, fixed protection 2016) prior to 15 March 2023 then a protection cessation event cannot cause the member to lose their lifetime allowance protection.
+
+If the member has applied for a lifetime allowance protection after 15 March 2023 and it has been accepted, or has protection of a pension age below normal minimum pension age, the transfer may cause them to lose this protection.
+
+For more information on:
+
+- enhanced protection - see PTM176340 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176340),
+
+- fixed protection, fixed protection 2014 and fixed protection 2016 - see PTM176440 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm176440),
+
+- protected pension age - see PTM062240 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062240),
+
+- scheme specific lump sum protection - see PTM063150 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063150).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102000#Top)
+
+UK tax due on QROPS payments
+
+Tax on pension payments
+
+Chapter 4 Part 9 Income Tax (Earnings and Pensions) Act 2003
+
+Any pension paid from the QROPS will be taxable if the member is UK resident when they receive the pension.
+
+Section 576A Income Tax (Earnings and Pensions) Act 2003
+
+If the member is receiving one or more of the following types of pension when they are temporarily non-UK resident, the pension may be taxed when the member returns to the UK:
+
+- Drawdown pension (as member, dependant, nominee or successor),
+
+- Flexible annuity, or
+
+- Scheme pension from a scheme which is paying a scheme pension to less than 12 people.
+
+Tax on lump sum payments
+
+Section 574A Income Tax (Earnings and Pensions) Act 2003
+
+To the extent that a lump sum payment is outside the scope of the member payment provisions, lump sums paid to UK residents may be taxed as pension income.
+
+UK tax under the member payment provisions
+
+Paragraphs 1 to 7 Schedule 34 Finance Act 2004
+
+Payments made from a QROPS can still be subject to UK tax charges known as the member payment charges. The member payment charges include the tax charges applied to unauthorised payments and the tax due on uncrystallised funds pension lump sums.
+
+For a full list of the member payment charges, how they apply and when they don’t apply, go to PTM113210 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113210).
+
+UK tax on taxable property transactions
+
+Paragraph 7A Schedule 34 Finance Act 2004
+
+If the QROPS meets the conditions to be an investment-regulated pension scheme tax charges may arise on the member if their funds are invested in ‘taxable property'. These tax charges can arise whether or not the member is UK resident and regardless of the length of time the member has been non-UK resident.
+
+PTM113220 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113220) provides more information on the taxable property unauthorised payment charge.
+
+Transfers from a QROPS may be subject to the overseas transfer charge
+
+A transfer from a QROPS (or former QROPS) to another QROPS may also be subject to the overseas transfer charge. Go to PTM102200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102200) to find out more about when a transfer from a QROPS or former QROPS will be subject to the charge.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102000#Top)
+
+Scheme administrator considerations on transfer to a QROPS
+
+The main concerns of the scheme administrator are to ensure the correct tax treatment of the transfer, that is
+
+- is the transfer a recognised transfer, and
+
+- how does the overseas transfer charge apply to the transfer.
+
+Scheme administrator due diligence checks will be aimed at ensuring the scheme receiving the transfer is a QROPS. The questions and checks required will vary depending on the facts and circumstances of each individual transfer – see PTM103000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm103000) for more information.
+
+The information the member should give the scheme administrator before the transfer is designed to help the scheme administrator work out if the overseas transfer charge is due – see PTM102900 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102900).

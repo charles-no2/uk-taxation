@@ -1,0 +1,18 @@
+Matching capital payments - other charges - order of priority
+Identifier: CG38700
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38700
+Published: 2016-03-12T10:57:29+00:00
+Updated: 2019-10-15T11:38:10+01:00
+Retrieved (UTC): 2026-09-18T14:47:26.234228+00:00
+
+Other charges use the same mechanism of matching capital payments to calculate the charge. There is an order of priority to determine which charge should be considered first in the matching process. Capital payments are matched in the following order.
+
+- first against amounts charged as income under the transfer of assets rule, ITA2007/S732, CG38625 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38625)
+
+- second against offshore income gains, SI2009/3001 regulation 20
+
+- third against section 2(2)* amounts in a Schedule 4C pool, TCGA92/Sch4C/para8(4), CG39280 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39280)
+
+- fourth against section 2(2)* amounts in a section 87 pool.
+
+*This section was re-written for disposals from 6 April 2019 to section 1(3) see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

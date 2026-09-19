@@ -1,0 +1,36 @@
+PMA: Miscellaneous: Additional VAT and anti- avoidance
+Identifier: CA29240
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca29240
+Published: 2016-04-16T08:53:45+01:00
+Updated: 2020-01-08T18:20:13+00:00
+Retrieved (UTC): 2026-09-18T16:21:07.171898+00:00
+
+CAA01/S241 - S246
+
+You should take additional VAT liabilities and rebates into account when you apply the anti- avoidance legislation CA28000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28000).
+
+When a person (the buyer) enters into a relevant transaction CA28200 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28200):
+
+- the buyer is not entitled to first-year allowances in respect of the additional VAT liability, and
+
+- the additional VAT liability is taken into account when applying the limit on the qualifying expenditure the buyer can allocate to a pool.
+
+The limit is the seller’s disposal value if any.
+
+If the seller does not have to bring a disposal value to account the buyer’s allowances are restricted to the lowest of:
+
+- the market value of the asset,
+
+- if the seller incurred capital expenditure on the asset, that capital expenditure (together with any additional VAT liability incurred by the seller less any additional VAT rebate made to the seller),
+
+- if a person connected with the seller incurred capital expenditure on the asset, that person’s capital expenditure (together with any additional VAT liability incurred by that person less any additional VAT rebate made to that person).
+
+Do not give FYA on an additional VAT liability paid by a person who acquired an asset in a relevant transaction. If a FYA has been made it should be withdrawn.
+
+In a relevant transaction CA28200 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28200) the buyer’s expenditure includes any additional VAT paid by the buyer on the asset. When you restrict the buyer’s qualifying expenditure you should take additional VAT liabilities incurred by the seller into account when you calculate the seller’s qualifying expenditure or the qualifying expenditure of a person connected with the seller.
+
+In a sale and leaseback CA28300 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28300) the buyer’s expenditure includes any additional VAT paid by the buyer on the asset. If the lessor is not bearing the compliance risk CA28600 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28600) any additional VAT incurred by the buyer or the lessor is not qualifying expenditure.
+
+If an election is made for revised qualifying expenditure in a sale and leaseback case or a sale and leaseback case CA28650 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28650) and an additional VAT liability is incurred by the seller that additional VAT liability is not qualifying expenditure.
+
+If any assessments or adjustments of assessments are needed as a result of applying the additional VAT anti-avoidance legislation, CAA01/S246 gives authority for doing this.

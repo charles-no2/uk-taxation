@@ -1,0 +1,28 @@
+Co.purchases own shares: capital treatment: Purchasing options
+Identifier: CG58655
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58655
+Published: 2016-03-12T11:48:04+00:00
+Updated: 2021-03-31T16:00:50+01:00
+Retrieved (UTC): 2026-09-18T14:44:26.593885+00:00
+
+Company law CA06/S691(2) requires that the consideration for a purchase of own shares must be paid in full on completion. CA06/S692 outlines the condition for financing a purchase of own shares. A limited company may only purchase its own shares out of the distributable profits or proceeds of a fresh issue of shares made for the purpose of financing the purchase. However, companies may face difficulties obtaining funds outright to satisfy this criteria. There are several methods used by companies to overcome this obstacle. Each would need to be considered on its merits and in context with the facts of the case.
+
+As deferred consideration does not necessarily meet the conditions for capital treatment, many companies use a multiple completion method where a contract to purchase shares is made at the beginning and shareholders sell their shares back to the company in tranches. This method allows the company to utilise its cash flow by paying in tranches while attempting to remain in line with CA06 rules on purchases of own shares.
+
+This method, if not structured accurately, can be fraught with complexities for both company and tax law. Points to consider when you come across these types of purchases of own shares structures:
+
+- For CA06 purposes the legal ownership of the shares is considered but for CTA10 it is the beneficial ownership by virtue of CTA10/S1048.
+
+- Has there been a disposal of the entire beneficial interest? – normally the shareholder has to give up the entire interest in the shareholding without exception, baring very limited circumstances mentioned in SP 2/82, see CG58635.
+
+- Where the shareholder is to dispose of the entire beneficial interest using multiple completion method, has this arrangement hindered passing the CTA10/S1037 ‘substantially reduced’ tests? – the shareholder’s interest subsequent to the purchase must be less than 75% of the interest prior to the purchase, and in case of completing in tranches, this needs to apply every time.
+
+- Is the person still connected to the company after every stage that a tranche payment has been made? – although the contract to purchase shares has been signed, the shareholder has not relinquished shares until the date of payment, and when conducting in stage payments, at each stage CTA10/S1042(1) would need to be satisfied. This is because the connected test follows the legal ownership rather than the beneficial ownership.
+
+Another method used is the loan back method. This involves completion of the contract to buy back the shares in one stage but the seller would then lend back some of the consideration to the company. A modified version includes an indirect loan back where one or more of the remaining shareholders provide a loan to the company, rather than the seller.
+
+Factors to consider include:
+
+- Whether the seller and the company remain connected under CTA10/S1042 because the seller, after transaction, has become entitled to the loan capital under CTA10/S1062(2)(b).
+
+- Whether the structure of the transaction falls foul of the ‘purpose of benefitting a trade’ test, specifically CTA10/S1033(2)(b) and whether the purchase is wholly or mainly for the benefit.

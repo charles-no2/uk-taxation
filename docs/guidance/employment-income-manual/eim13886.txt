@@ -1,0 +1,52 @@
+PENP formula: how to calculate ‘P’
+Identifier: EIM13886
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13886
+Published: 2018-04-05T15:13:59+01:00
+Updated: 2021-08-24T09:25:10+01:00
+Retrieved (UTC): 2026-09-18T14:10:36.017049+00:00
+
+EIM13874 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13874) explains that, with effect from 6 April 2018, the post-employment notice pay element of all ‘relevant termination awards’ is chargeable to income tax as general earnings. Post-employment notice pay is calculated using the PENP formula (see EIM13880 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13880)).
+
+In the PENP formula, ‘P’ is the number of calendar days in the employee’s last pay period ending before the ‘trigger date’ (see Example 1 at EIM13888).
+
+A pay period reflects the period that the payment represents.
+
+For example, say an employee is paid on the 15th of each month and the payment they receive on 15 March represents the period from 1 March to 31 March. The pay period is 1 March to 31 March (not, for example, 16 February to 15 March).
+
+EIM13898 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13898) provides the definition of ‘trigger date’.
+
+If there is no pay period which ends before the last day of the employment, or the day notice is given then ‘P’ is the period starting on the first day of the employment and ending with the ‘trigger date’ (see example 2 at EIM13888).
+
+Simplified calculation by months
+
+If all of the following conditions are met:
+
+- the last pay period of the employee to end before the trigger date (‘P’) is a month
+
+- the employee’s contract provides a ‘minimum notice’ period, which is expressed in whole months
+
+- the post-employment notice period (‘D’) is equal to the ‘minimum notice’ period, or is otherwise a whole number of months (see EIM13890 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13890) to calculate ‘D’)
+
+- (from 6 April 2021) the employee’s salary is paid by 12 equal monthly instalments
+
+then take ‘P’ to be 1 and calculate ‘D’ in months rather than days (see example 3 at EIM13888 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13888)).
+
+EIM13898 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13898) provides the definition of ‘minimum notice’.
+
+From 6 April 2021 - alternative calculation for other employees paid by equal monthly instalments
+
+These changes are part of Finance Bill 2021. They will have effect from 6 April 2021 and should be followed from that date.
+
+An alternative calculation applies where all of the following conditions are met:
+
+- the last pay period of the employee to end before the trigger date (‘P’) is a month
+
+- the employee’s salary is paid by 12 equal monthly instalments
+
+- the post-employment notice period (‘D’) is not a whole number of months (in which case the simplified calculation by months should be used instead)
+
+From 6 April 2021, s402D(6) requires the employer to substitute 30.42 (being 365 ÷ 12) as the value of P in the PENP calculation where these conditions are met (see example 4 at EIM13888 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13888)).
+
+Between 16 October 2019 and 5 April 2021, HMRC allowed employers to use this calculation as a concession if doing so was to the employee’s advantage. From 6 April 2021, the calculation must be used if the conditions are met.
+
+This calculation addresses unintended outcomes that could arise where a worker’s contract creates payment periods in months, but they have a notice period in weeks or days. It ensures that PENP for employees who are paid by equal monthly instalments does not vary based on the length of the month prior to the trigger date.

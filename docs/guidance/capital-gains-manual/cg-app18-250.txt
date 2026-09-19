@@ -1,0 +1,178 @@
+“Report and pay the tax” section of the return submitted through the CGT on UK Property Account: Enter losses and exemptions
+Identifier: CG-APP18-250
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-250
+Published: 2022-05-23T11:15:24+01:00
+Updated: 2025-12-09T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:47:17.415657+00:00
+
+Top of page
+
+2.5 “Report and pay the tax” section of the return submitted through the CGT on UK Property Account (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-250#report-and-pay-the-tax-section)
+
+2.5.1 Enter losses and exemptions (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-250#Toc90369273)
+
+2.5.2 Enter CGT liability so far this year (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-250#Toc90369274)
+
+2.5.3  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-250#Toc90369275)
+
+2.5.4  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-250#Toc90369276)
+
+2.5.5 Preparing the return (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-250#Toc90369277)
+
+2.5 “Report and pay the tax” section of the return submitted through the CGT on UK Property Account
+
+The third section of the return submitted through the CGT on UK Property Account is where the final details are entered which are required to determine the amount of CGT relating to this disposal.
+
+Where possible from the details entered the account provides a calculation here.
+
+The user is then able to upload any supporting documentation, submit their return and pay the tax through the CGT on UK Property Account.
+
+2.5.1 Enter losses and exemptions
+
+The details entered into this section of the return feed into the calculation, see example at 2.2.3 above.
+
+The user is asked if they want to include other losses made in the same tax year as the gain they are reporting. The system will indicate that they must have made these losses before the date they entered in the first section as the completion date.
+
+Anticipated losses (losses which the person expects to make in the future but has not yet made), cannot be accounted for as part of the return and calculation of CGT due.
+
+Example: Mr T disposes of his buy to let residential property. His completion date is 17 July 2024, he exchanged contracts on 19 June 2024.
+
+Suppose that Mr T also made a loss on the disposal of some shares he held as an investment in the 2024-25 tax year. Whether he can use the loss to reduce the gain on the property disposal reported in year though the CGT on UK Property Account, depends on when in the year he made the loss.
+
+If he made this loss on 1 May 2024 i.e. before the property completion date of 17 July 2024, he can use this loss when he reports the property disposal to reduce the amount he will have to pay. This loss can be used when reporting the property disposal even if it has not been notified to HMRC yet.
+
+If he made this loss after the completion, say on 1 October 2024, he cannot use the loss against the property disposal he is reporting at this time.
+
+He will, of course, be able to use this loss in the normal way when he completes his Self Assessment return.
+
+Do you want to include any other CGT losses you made in previous tax years?
+
+If the person has capital losses from an earlier year which have been notified to HMRC or are otherwise available, the user can bring those losses in here.
+
+The user is asked how much of the loss they wish to use, and this figure is fed into the calculation.
+
+The system provides a link to further information about losses: www.gov.uk/capital-gains-tax/losses (http://www.gov.uk/capital-gains-tax/losses) and additional guidance on the notification and use of losses can be found in the CG Manual at CG15800 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15800p).
+
+Example: Miss E made a capital loss of £30,000 in the tax year 2021-22 and reported it to HMRC in her Self-Assessment return. These losses were not used against other gains in 2022-23 or 2023-24 and are available to carry forward.
+
+In 2024-25 tax year, she disposes of a residential property. Her net gain on this disposal is £55,000. She has also made a gain on some shares.
+
+When completing her Property return through the CGT on UK Property Account, she can decide how much of her capital loss to bring into account to reduce her residential property gain.
+
+She decides to use all of her previous year’s losses of £30,000, so enters 30000 into the box.
+
+How much of your CGT annual exempt amount (AEA) do you want to use
+
+If the person is entitled to an AEA they can choose how this tax free allowance is set against their gains in the way that is most beneficial to them. Claimants of the Foreign Income and Gains (FIG) regime will not be eligible to an AEA. Further guidance on the Annual Exempt Amount is at CG18000C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg18000c).
+
+Example: continuing the scenario of Miss E she has a gain after losses of £25,000 which is more than her AEA for 2024-25 of £3000, so is likely to use her full AEA.
+
+Care should be taken here if this is not the first property disposal to be reported in the tax year as the AEA is an annual tax-free allowance so it should be accounted for when calculating a year-to-date position – see section 2.5.9.
+
+If there are any specific rules relating to the losses, for example clogged losses, see the guidance at CG15800p (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15800p).
+
+Back to top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-250#top-of-page)
+
+2.5.2 Enter CGT liability so far this year
+
+What do you expect your gross income liable to UK tax will be in this tax year?
+
+The purpose of entering the expected gross income, is to enable the calculation performed by the system to work out the correct rate of tax. If the person will have some of their basic rate band remaining, then part of the gain up to the amount the person had remaining is chargeable at 18% rather than the higher 24% as demonstrated in the calculation section at 2.2.4.
+
+Para 14 Sch2 FA19 covers the making of assumptions, reasonable estimates etc. Under para14(4) the ‘estimate’ is related to a qualifying matter and under para14(5) this includes anything that is relevant to the application of S1I TCGA92. S1I TCGA92 is concerned with the rate of tax that may apply.
+
+The user should enter the expected gross income for the individual for the tax year in which the disposal was made. For many this may simply be the expected amount from UK employment/self-employment before any deductions such as tax or National Insurance. This should not include money made from selling the property, from ISAs, tax credits or income from any foreign employment. This amount is only required as part of this return to establish the CGT rates that will be applied in the calculation.
+
+If the person will not have any basic rate band remaining, all of the gain will be chargeable at the higher rate so looking to establish a precise figure of expected income is less important. For example,  for the 2024-25 tax year, an entry of £50,270 would fully utilise the basic rate band and result in the 24% rate being applied. The amount of CGT won’t be affected say if the final figure was £55,000.
+
+If they are confident that the CGT amount would not differ from the amount based on the amount of income included then there is no need to tick the estimate box, provided there were no other estimated figures in the return.
+
+If a person’s situation is more complex, for instance, they have multiple income sources, but it is expected that they will be chargeable at 24% on the whole gain, the correct rate will be applied if the amount entered for expected gross income is £50,270 or greater for the 2024-25 tax year.
+
+Similarly, if an individual expects to have the entirety of his gain chargeable at the lower rate because he knows his income and the amount of gain will not exceed the level of the basic rate band, then as long as the income figure entered results in the correct amount of CGT calculated, there is no need to tick the estimates box provided no other figures were estimated.
+
+If a person’s situation is more complex because their gross income will be affected by income tax reliefs which in turn affect the rate of CGT (e.g. losses, pension contributions, gift aid etc) the user should note that the rates applied in the calculation may be incorrect and a supporting computation may be required to support changing the figure from that calculated by the system. In this type of scenario there is an ‘estimate’ that relates to a qualifying matter.
+
+An example where top slicing applies to a chargeable event gain impacting the rate of CGT is in the complex scenarios section at 2.6.5.
+
+The user should enter their Income Tax Personal Allowance for the tax year in which the property disposal was made.
+
+The system indicates to the user what the general personal allowance for the year is and indicates that a person’s own personal allowance may be more if they receive Marriage Allowance or Blind Person’s Allowance and that the allowance may be reduced if the person’s income is over £100,000 or if they are claiming remittance basis.
+
+The system indicates to the user what the general personal allowance for the year is and indicates that a person’s own personal allowance may be more if they receive Blind Person’s allowance. The Marriage allowance does not increase the personal allowance but is available as a tax reducer against the person’s total taxable earnings for the year.
+
+The general personal allowance for the year may be reduced if the person’s income is over £100,000 or if they are making a claim under the Foreign Income and Gains (FIG) regime
+
+Further information on personal allowances can be found here: https://www.gov.uk/income-tax-rates (https://www.gov.uk/income-tax-rates)
+
+2.5.3 Have any of the amounts in this return been estimated?
+
+The legislation at Para 14 and 15, Schedule 2 Finance Act 2019 sets out the circumstances where a person may make reasonable estimates. Estimates should be made having regard to a person’s knowledge and all other relevant circumstances.
+
+HMRC expects the user to select yes to the question “” if any of the amounts estimated in this return would impact the amount of CGT owed at this point in the tax year.
+
+Where a user selects yes, they can upload details of how figures have been estimated where the amounts are material, following the same approach that would be taken with a Self Assessment return. (E.g. see SA108 notes for box 53).
+
+Example: Significant items of expenditure have been incurred, all of which have been estimated, the uploaded supporting document could confirm what these are.
+
+There may be circumstances where a person’s estimate will be their final figure, so there may be nothing further for them to amend. For example where reasonable estimates of the additional acquisition costs have been made, and the reason for estimating is that the exact figure will never be known, the user would select yes, that an estimate has been used and would then not need to amend the return further.
+
+This guidance on estimates presumes that all estimates are made on a reasonable basis.
+
+Example: The person has estimated that costs associated with his original acquisition were only £500, but he has now found an invoice showing the costs were £750. The taxpayer may decide that his estimate was reasonable, and that he does not wish to amend.
+
+The approach we take on estimates will be the same as would be taken with estimates within Self Assessment returns.
+
+Where a Self Assessment return is also required for the year this should include the final figures for the year.
+
+2.5.4 How much CGT is due for this return?
+
+Based on the details entered in the return, the system will look to display a calculation for the user.
+
+If the system cannot perform a calculation, it will ask the user to enter the amount of CGT that is due for this return.
+
+Where the system has provided a calculation, the user has the option to accept the result or enter their own figure if they believe it should be different.
+
+The approach in the calculation is shown in section 2.2 of this guidance.
+
+The examples at 2.6 complex cases includes some examples where the user may need to adjust the automatically calculated figure.
+
+The system gives the option of printing the calculation or saving the page as a PDF, so the user can retain the information for completing any future returns, such as Self Assessment.
+
+The system will only display the calculation if the responses to the questions so far have provided all the information needed to perform the calculation. If the calculation carried out by the system does not match the amount the user believes should be due, the user is given the option of saying that another amount is due and providing the supporting evidence for this alternate calculation.
+
+The user should check the calculation by selecting the button under each section of , to check that the resulting CGT due based on the information they have entered is what is expected. An example of the calculation steps shown by the account is given in section 2.2 of this guidance.
+
+If the responses entered in the return are such that the system calculation is not able to calculate the gain and the CGT due, the system will ask the user to enter the amount of CGT due for this return.
+
+Example. The user indicates that they have disposed of more than one property with the same completion date, and exchange dates in the same tax year. The details they have been asked to enter relate solely to one of the property disposals, so the calculation of CGT is not performed by the system, and the system will ask for the user to input the amount of CGT due for this return.
+
+2.5.5 Preparing the return
+
+Upload files
+
+The purpose of the document upload is to provide an opportunity for the user to provide evidence in support of the key details of the transactions where they haven’t been provided through the system. Where all of the information needed to calculate the CGT has been provided, and the figure calculated by the system is correct, it will not usually be necessary to upload any supporting evidence.
+
+Where the user has selected to enter a different figure to that calculated by the system or where the system has not provided a calculation at all and the user has had to manually enter the amount of CGT due for the return, then they must upload their own computation.
+
+The users are also given the opportunity to attach further supporting evidence, the service allows up to 2 attachments to be uploaded per return, each with a maximum file size of 3MB.
+
+There is no definitive list for supporting evidence and each disposal will be unique. The supporting evidence required is no different to that which the user would attach if they were declaring a disposal for CGT purposes on a Self Assessment tax return.
+
+If the user accepts the calculation performed by the system, they too are given the opportunity to attach further supporting evidence if they so wish.
+
+When amending a return, if a repayment is due and the last payment was by debit card, we will use these details and no further information is required. If the payment was not by debit card, a supporting document will need to be uploaded into the online system to provide bank details. The upload should include: name of account holder, bank name, sort code, account number and the amount you want to reclaim.
+
+Check and send return Pay any tax due
+
+The user is presented with their responses to all of the questions they have been asked and a declaration:
+
+When they click accept and send, they will be presented with confirmation that the return has sent, the amount of tax that is owed, and a payment reference number. Payments are covered in Part 1 of the guidance.
+
+Saving a partially complete return
+
+The user has the option of saving a partially complete return to come back to later. The system will keep an “in progress” return for 30 days from the date it was last saved. However, if any documents have been uploaded to an “in-progress” return the uploaded documents are only saved for 7 days from the date they were last saved.
+
+It is only possible to have one draft return in progress at a time in the Capital Gains Tax on UK Property Account.
+
+Back to top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-250#top-of-page)

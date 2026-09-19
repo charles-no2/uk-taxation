@@ -1,0 +1,158 @@
+Annual allowance: pension input amounts: defined benefits arrangements: bridging pensions: automatic pre-normal pension age
+Identifier: PTM053380
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053380
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-01T20:25:41+00:00
+Retrieved (UTC): 2026-09-18T14:50:43.625544+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Note – for tax year 2015-16 there are transitional rules for calculating pension input amounts. PTM058070 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070) has more details.
+
+Section 236(8) Finance Act 2004
+
+The increased amount of a member’s annual rate of pension represented by a temporary bridging pension is included as part of the pension input amount calculation.
+
+However, the member may have the option to exchange the bridging pension for an amount of ‘whole-life’ pension. Such an option is likely to result in the member’s initial annual rate of pension being a lesser amount.
+
+There is an ‘add-back’ provision for adjusting the closing value for the pension input amount for defined benefits arrangements when, in the pension input period, the annual rate of the pension to which the member would be entitled under the arrangement has been reduced by a surrender in return for another entitlement or similar action. Such a reduction must have been made under an option available to the member under the arrangement.
+
+This add-back will not happen if the scheme rules are changed so that the bridging pension is exchanged for a whole-life pension automatically rather than at the option of the member.
+
+Example 1 - automatic bridging pension paid
+
+Member has a normal pension age of 65. The main provision of the scheme is whole-life pension. But when a member retires from service before age 65, a bridging pension is paid automatically until age 65.
+
+The normal pension age rule specifies that the member’s benefit on retirement at normal pension age is a whole-life pension of service at normal pension age x 1/60ths of final pensionable salary at normal pension age.
+
+Under the rule for earlier retirement the formula is similar but with a reduction for early payment and also an automatic bridging pension of service x 1/80ths x the basic State Pension at normal pension age.
+
+Just before the beginning of the pension input period, the member has service of 30 years, final pensionable salary of £60,000 and basic State Pension is £5,000.
+
+At end of the pension input period final pensionable salary is £64,000 and the basic State Pension is £5,100 but the member immediately retires early at age 64 with an early retirement reduction of 4%.
+
+Pension input amount:
+
+- opening value:
+
+- step 1 - find annual rate of pension entitlement just before start of the pension input period for annual allowance purposes
+
+- the member is still in service and has not exercised any option to retire early so the pension rate to reflect is the default whole-life pension
+
+- ‘PB’ = 30/60 x £60,000 = £30,000
+
+- step 2 - multiply result by 16
+
+- £30,000 x 16 = £480,000
+
+- step 3 - add on any separate lump sum entitlement
+
+- none so running total is £480,000
+
+- step 4 - increase amount for CPI (for the purpose of this example assume relevant CPI increase is 3%)
+
+- £480,000 x 1.03 = £494,400
+
+- closing value:
+
+- step 1 - find annual rate of pension entitlement at end of the pension input period for annual allowance purposes
+
+- ‘PE’ under the valuation assumptions is zero initially because the member has started to draw all benefits and no benefits are uncrystallised in the arrangement
+
+- but during the pension input period the member started scheme pension so had a BCE 2, for which the starting pension rate was as follows
+
+- [31/60 x £64,000 x 0.96 (early retirement reduction) = £31,744.00] + [31/80 x £5,100 = £1,976.25] = £33,720.25
+
+- there has been no surrender (choosing an early retirement pension instead of a deferred pension on leaving is not a ‘surrender’) so even though the pension reduced because of retiring early this does not trigger an add-back adjustment
+
+- step 2 - multiply result by 16
+
+- £33,720.25 x 16 = £539,524.00
+
+- step 3 - add on any separate lump sum
+
+- none so running total is £539,524.00
+
+- if there are no other adjustments to the closing value, the pension input amount is £45,124 (£539,524.00 - £494,400)
+
+- the part of this arising from the increased start level of pension due to the temporary pension is £31,620.00 (£1,976.25 x 16).
+
+Note that the bridging pension causing this extra pension input amount was a pension of £1,976.25 payable for one year.
+
+As the option to retire before normal pension age (and the automatic bridging pension that comes with it) only happens at retirement, there is no allowance for the temporary pension for pension input periods prior to retirement. Whether the member triggers an annual allowance charge will depend on the availability of unused annual allowance to carry-forward.
+
+Example 2 - automatic bridging pension exchanged for whole-life pension option
+
+This example is the same as example 1 above except that the member does not want the bridging pension and asks the trustees to exchange it for a lower whole-life pension, which the trustees accept. Instead of paying a bridging pension for one year of £1,976.25, the member gets a whole-life pension of £90.00 per annum.
+
+Pension input amount:
+
+- opening value - the same as example 1
+
+- closing value:
+
+- step 1 - find annual rate of pension entitlement at end of the pension input period for annual allowance purposes
+
+- ‘PE’ under the valuation assumptions is zero initially because the member has started to draw all benefits and no benefits are uncrystallised in the arrangement
+
+- but during the pension input period the member started scheme pension so had a BCE 2, for which the starting pension rate was as follows
+
+- [31/60 x £64,000 x 0.96 (early retirement reduction) = £31,744] + [£90] = £31,834
+
+- for annual allowance purposes, in the pension input period “the annual rate of the pension to which the individual would be entitled under the arrangement has been reduced by any surrender made in return for any other entitlement, any allocation made, or any similar action taken, pursuant to an option available to the individual under the arrangement”, so the amount of the reduction (to the extent that it is not reflected in an amount added under a BCE) is to be added to ‘PE’ or ‘LSE’
+
+- here, choosing an early retirement pension instead of a deferred pension on leaving is not a ‘surrender’ so even though the whole-life pension of service at normal pension age x 1/60ths of final pensionable salary at normal pension age was reduced because of retiring early this does not trigger an add-back adjustment
+
+- however, the exchanging of the bridging pension for the whole-life pension of £90 does trigger an add-back
+
+- the amount of the bridging pension exchanged (to the extent that it is not reflected under a BCE) is added back
+
+- here some of the exchanged bridging pension has been reflected in the BCE (£90 in this case) so the amount of the add-back for the bridging pension is £1,886.25 (£1,976.25 less £90)
+
+- an amount of £33,720.25 (£31,744 + £90 + £1,886.25) is to be added to PE
+
+- step 2 - multiply result by 16
+
+- £33,720.25 x 16 = £539,524
+
+- step 3 - add on any separate lump sum
+
+- none so running total is £539,524
+
+- if there are no other adjustments to the closing value, the pension input amount is £45,124 (= £539,524 - £494,400).
+
+The pension input amount outcome would be unchanged from example 1, that is, a pension input amount of £45,124, of which £31,620 ([£1,886.25 x 16] + [£90 x 16]) arises solely because of the bridging pension.
+
+Example 3 - changing scheme rules
+
+Same as examples 1 and 2 above except that the conversion of the temporary bridging pension into a whole-life pension is made unilaterally by the scheme trustees, and not “pursuant to an option available to the member”.
+
+Pension input amount:
+
+- opening value - same as example 1
+
+- closing value:
+
+- step 1 - find annual rate of pension entitlement at end of the pension input period for annual allowance purposes
+
+- ‘PE’ under the valuation assumptions is zero initially because the member has started to draw all benefits and no benefits are uncrystallised in the arrangement
+
+- but during the pension input period the member started scheme pension so had a BCE2, for which the starting pension rate was as follows
+
+- [31/60 x £64,000 x 0.96 (early retirement reduction) = £31,744.00] + [£90] = £31,834.00
+
+- as with examples 1 and 2, reduction to the whole-life pension of service at normal pension age x 1/60ths of final pensionable salary at normal pension age because of retiring early does not trigger an add-back adjustment
+
+- however, unlike example 2, there is no add-back adjustment for the amount of the bridging pension not reflected under the BCE
+
+- step 2 - multiply result by 16
+
+- £31,834 x 16 = £509,344
+
+- step 3 - add on any separate lump sum
+
+- none so running total is £509,344
+
+- if there are no other adjustments to the closing value, the pension input amount is £14,944.00 (= £509,344- £494,400).
+
+If the trustees consider (subject to the provision for change in the scheme’s rules) changing the scheme rules before the pension input period in which member retires early, which rule change is made with the members’ consents (or individual request), the rule change has no impact on calculations for the pension input period in which the change is made (because it does not change the normal pension age rule). If and when in future pension input periods the member chooses to draw pension before normal pension age with age reduction, the BCE2 reflects the actual pension underlying the BCE2 (that is, not the bridging but the replacement whole-life pension instead of the bridging pension).

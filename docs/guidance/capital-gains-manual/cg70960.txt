@@ -1,0 +1,70 @@
+Leases: grant of short lease out of a freehold or long lease
+Identifier: CG70960
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70960
+Published: 2016-03-12T12:14:47+00:00
+Updated: 2026-05-06T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:48:10.231025+00:00
+
+Where a short lease, that is a lease with a term not exceeding 50 years, is granted out of a freehold or long lease, there are two particular rules which must be applied.
+
+- part of any premium paid will be chargeable as property income, see CG70900 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70900), and this part must be deducted in arriving at the consideration to be brought into the CGT computation.
+
+- in the A / (A + B) formula used for determining the allowable expenditure, the A in the numerator is not the same as the A in the denominator.
+
+Part disposal calculation
+
+As with the grant of any lease, the grant of a short lease out of a freehold or long lease is a part disposal. However, in applying the A / (A + B) part disposal formula in TCGA92/S42, a special rule must be observed.
+
+- The A in the numerator (the top part of the fraction) is the amount of the premium not chargeable as property income.
+
+- The A in the denominator (the bottom part of the fraction) is the full amount of the premium.
+
+The amount chargeable to property income is not deducted in arriving at the A factor in the denominator since the denominator must represent the value of the whole interest held by the landlord before the grant of the lease.
+
+Example
+
+On 6 April 2013, Miss S bought a freehold property for £450,000 including expenses of purchase. On 6 April 2020 she granted a 46 year lease for a premium of £350,000 and a rent of £20,000 per year. She incurred legal costs of £2,500. The Valuation Office reported that the value of the reversionary interest in the property was £500,000.
+
+The computation of the gain is as follows:
+
+Step 1: Amount chargeable as property income
+
+As per CG70900 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70900):
+
+P - [ (50 - Y) / 50 ]
+
+P is the amount of the premium;
+
+Y is the number of complete years (other than the first) in the term of the lease.
+
+= £350,000 - [ (50 - 45) / 50 ]
+
+= £350,000 x 0.1
+
+= £35,000
+
+Step 2: Consideration for capital gains purposes
+
+premium received £350,000
+
+Less amount chargeable as property income £35,000
+
+£315,000
+
+Step 3: Allowable expenditure
+
+Total allowable expenditure x [ A / (A + B) ]
+
+= £450,000 x [ £315,000 / (£350,000 + £500,000) ]
+
+= £166,765
+
+Step 4: Chargeable gain
+
+Consideration £315,000
+
+Less allowable expenditure £166,765
+
+Less legal fees £2,500
+
+£145,735

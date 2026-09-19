@@ -1,0 +1,38 @@
+Indexation: from 6/4/88: capital allowances: indexed/unindexed loss
+Identifier: CG17450
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17450
+Published: 2016-03-12T10:17:30+00:00
+Updated: 2016-01-25T12:19:05+00:00
+Retrieved (UTC): 2026-09-18T14:38:31.399445+00:00
+
+It is frequently argued that loss' in TCGA92/S41(2) and losses’ in TCGA92/S41(1) are references to the UNINDEXED loss. This is considered to be incorrect for the reasons set out in the following paragraphs. For disposals on or after 30 November 1993 these arguments do not necessarily apply, because of the changes in the wording of TCGA92/S53 effected by Finance Act 1994.
+
+TCGA92/S53 (1)
+
+HMRC’s view is that TCGA92/S53 (1) provides that indexation is set against the unindexed gain or added to the unindexed loss to give `the gain or loss for the purposes of this Act’. Therefore when the Act refers to gain or loss it means INDEXED gain or loss. The unindexed gain or loss is merely a stage in the computation. It exists as a concept solely for the purposes of TCGA92/S53(1), so that indexation can be set against or added to it. See Section TCGA92/S53(2)(a).
+
+The fact that the adjustment under TCGA92/S41 is made in the process of calculating the unindexed gain or loss does not prevent it from being part of the computation of the indexed loss. There is nothing in the language of TCGA92/S41 that points to the losses referred to there being unindexed.
+
+Without TCGA92/S41, TCGA92/S39 would apply and disallow expenditure qualifying for capital allowances, whether there was a gain or a loss. TCGA92/S41 tempers this so that expenditure is restricted only if there is a loss. It is therefore natural to conclude that the purpose is to prevent the allowability of losses where capital allowances have been given. It is indexed losses that are allowable, not unindexed losses.
+
+Disposals between April 1985/March 1988
+
+As indicated in CG17442 where an asset was held on 31 March 1982 and rebasing applies, TCGA92/SCH3/PARA3 provides that the capital allowances given in respect of the actual expenditure should be deemed to have been given in respect of the deemed acquisition cost. There is no similar provision for cases where a taxpayer disposed of an asset, held on 31 March 1982, between April 1985 and March 1988 inclusive and has claimed, see CG17572+, that indexation be based on the market value on 31 March 1982. See example in CG17601.
+
+For disposals on or after 6 April 1988 capital allowances are deductible from the 31 March 1982 value for both rebasing and indexation purposes, TCGA92/SCH3/PARA3 and TCGA92/S55 (3).
+
+TCGA92/S262
+
+Capital allowances: Chattel exemption
+
+If the asset in question is
+
+- tangible moveable property and
+
+- is sold for less than £6,000,
+
+it is necessary to take into account the provision of TCGA92/S262 that in computing the amount of the loss you deem the asset to have been sold for £6,000. See CG76550+. If capital allowances have been given, TCGA92/S41 applies as well.
+
+See example in CG17517.
+
+Where a disposal occurs ON OR AFTER 30 NOVEMBER 1993 the calculation of the loss, if any, is far simpler, because of the effect of the changes described in CG17700+ which prevent indexation from creating or increasing a loss. In the situations illustrated by the examples, the only effect of indexation is to reduce the unindexed gain to nil. If there is an unindexed loss after applying TCGA92/S41 then indexation is not given. See TCGA92/S53 (2A), as introduced by Finance Act 1994.

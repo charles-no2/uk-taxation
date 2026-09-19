@@ -1,0 +1,48 @@
+Step 3 - interaction: specific gifts of relievable property
+Identifier: IHTM26106
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26106
+Published: 2016-04-09T09:47:30+01:00
+Updated: 2022-06-08T15:47:19+01:00
+Retrieved (UTC): 2026-09-18T15:03:04.732834+00:00
+
+A specific gift (IHTM26011) of relievable property is a straightforward gift under which the beneficiary receives the relievable property, such as ‘my interest in the XYZ partnership to Ben absolutely’. There are separate instructions dealing with gifts that are not straightforward (IHTM26107).
+
+The value of a straightforward gift of relievable property is the value of that property after relief.
+
+Example
+
+- John’s estate passes by Will:£600,000 including unlisted shares worth £200,000.
+
+- Those shares qualify for business relief (IHTM25131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25131)) at 100%.
+
+- Specific gift of unlisted shares to a child.
+
+- Residue equally to spouse and child.
+
+Applying the stages (IHTM26104 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26104)) for calculating the chargeable estate
+
+Stage 1
+
+The value transferred after business relief is £400,000.
+
+Stage 2
+
+There is a specific gift of relievable property - the unlisted shares. This gift is taken at its value after relief, which is nil.
+
+Stage 3
+
+No action necessary.
+
+Stage 4
+
+There is no value to gross up (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121)).
+
+Stage 5
+
+Calculate the residue using the reduced values.
+
+Value transferred of £400,000 less specific gift (nil) = £400,000 (residue).
+
+Stage 6
+
+The chargeable estate is half the residue = £200,000.

@@ -1,0 +1,54 @@
+Car benefit calculation: Plug-in hybrid electric vehicles first registered on or after 1 January 2025
+Identifier: EIM24710
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24710
+Published: 2026-03-26T16:56:21+00:00
+Updated: 2026-03-30T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:21:04.282592+00:00
+
+Section 138A ITEPA 2003
+
+From 1 January 2025, a temporary easement applies that adjusts the CO2 emission figure used to calculate the car benefit charge for eligible plug-in hybrid electric vehicles (PHEVs). This easement is designed to avoid increases to the appropriate percentage used to calculate the company car taxable benefit, which would otherwise increase as a result of new emission testing standards (Euro 6e-BIS and subsequent regimes).
+
+During the easement period, the CO2 emissions figure used in company car calculations for qualifying PHEVs is deemed to be a nominal figure of 1 g/km, rather than the actual figure detailed in the vehicle registration document.
+
+The easement relates only to PHEVs and not other types of hybrid vehicles such as mild hybrids, self-charging hybrids etc. It also only applies for the purposes of calculating employment-related benefits i.e. company car tax, optional remuneration arrangement car schemes and the fuel benefit charge. It doesn’t alter the CO2 emission figures used for any other taxes, such as capital allowances, corporation tax, vehicle excise duty, or VAT.
+
+A PHEV will qualify for the easement if it meets all of the following conditions:
+
+- First registered on or after 1 January 2025 and before 6 April 2028,
+
+- Registered under an emissions standard other than Euro 6d-ISC-FCM or Euro 6e. This means the vehicle must be subject to one of the newer testing regimes introduced from 1 January 2025, such as Euro 6e-BIS or later testing standards,
+
+- Has a quoted CO2 emissions figure of 51 g/km or more, and
+
+- Has an electric range figure of at least 1 mile.
+
+For a qualifying PHEV, the nominal 1 g/km figure should be used during the easement period, instead of the value detailed in the vehicle registration document. The company car appropriate percentage is determined by the CO2 band and the vehicle’s electric range – see the ready reckoner at EIM24705 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24705) for the relevant year. The cash equivalent is then determined by multiplying the vehicle’s list price plus any accessories by the appropriate percentage. Adjustments for employee contributions and periods of unavailability can be taken into account as normal.
+
+This easement applies retrospectively from 1 January 2025 to 5 April 2028 inclusive. Depending on when the employee’s company car arrangement ends, transitional relief may continue to apply from 6 April 2028 to 5 April 2031.
+
+Transitional arrangements
+
+If an eligible PHEV is made available to an employee on or before 5 April 2028, the easement continues for that arrangement until the earlier of:
+
+- variation or renewal of the arrangement, or
+
+- 5 April 2031
+
+Following a renewal, variation or the 5 April 2031, the CO2 emissions value to be used is the figure recorded on the vehicle registration document.
+
+Any changes to the arrangements outside of the control of the parties, or transferring a car to another employee or the other employee's family member or household, would not amount to a variation of the arrangements.
+
+Examples
+
+The following examples relate to vehicles first made available in the 2025-2026 tax year and liable to a company car tax charge;
+
+- Employer A makes a PHEV (first registered on 15 December 2024) available to an employee. This has a CO2 emissions figure of 48 g/km (Euro 6d-ISC-FCM) and an electric range of 26 miles. As this was first registered before 1 January 2025, and not subject to the new testing regime, it will not qualify for the easement. The actual CO2 emissions figure in the vehicle registration document would be applied resulting in an appropriate percentage of 15%.
+
+- Employer B makes a PHEV (first registered on 1 February 2025) available to an employee. This has a CO2 emissions figure of 76 g/km (Euro 6e-BIS) and an electric range of 43 miles. As this was first registered after 1 January 2025 and subject to the new testing regime, it is eligible for the easement, and the CO2 emissions figure is treated as 1 g/km. The appropriate percentage would be 9%. This vehicle will also qualify for the transitional relief until renewal/variation or 5 April 2031 – whichever is earlier. The CO2 emissions figure would then revert to the vehicle registration document value and the higher appropriate percentage for that CO2 band would apply.
+
+- Employer C makes a PHEV (first registered on 1 March 2025) available to an employee. This has a CO2 emissions figure of 92 g/km (Euro 6e-BIS) and an electric range of 18 miles. As this was first registered after 1 January 2025 and subject to the new testing regime, it is eligible for the easement, and the CO2 emissions figure is treated as 1 g/km. The appropriate percentage would be 15%. Employer C transfers the vehicle to another one of their employees on 1 March 2028. As this was made available before 6 April 2028 and the transfer to another employee is not a variation, the easement will continue to apply until the earlier of any renewal or variation of the arrangement, or 5 April 2031. The CO2 emissions figure would then revert to the vehicle registration document value and the higher appropriate percentage for that CO2 band would apply.
+
+- Employer D makes a PHEV (first registered on 10 March 2025) available to an employee. This has a CO2 emissions figure of 51 g/km (Euro 6e-BIS) and an electric range of 65 miles. As this was registered after 1 January 2025 and is subject to the new testing regime, it is eligible for the easement and the CO2 emissions figure is treated as 1 g/km. The appropriate percentage would be 9%. This is leased by the employer until 9 March 2029. In February 2029, the employer decides to extend the lease until 5 April 2031. As the arrangement is renewed after 6 April 2028, the easement will cease to apply from 10 March 2029 when the renewal takes effect, and the CO2 emissions figure as detailed in the vehicle registration document would then need to be applied.
+
+As the easement applies retrospectively, employers should make any necessary amendments to their PAYE returns for the appropriate tax year. Employees affected by the retrospective element of the easement will be able to claim any refunds of overpaid tax via the usual methods.

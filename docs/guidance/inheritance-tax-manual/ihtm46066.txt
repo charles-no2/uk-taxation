@@ -1,0 +1,88 @@
+Downsizing calculations: where there is no residential property interest in the estate: calculating the downsizing addition 
+Identifier: IHTM46066
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46066
+Published: 2018-09-28T11:36:56+01:00
+Updated: 2018-09-28T13:34:53+01:00
+Retrieved (UTC): 2026-09-18T15:11:05.308356+00:00
+
+The downsizing addition (IHTM46050 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46050)) available to an estate is the lower of the ‘lost relievable amount’ (IHTM46062 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46062)) and the value of the assets which are being closely inherited (IHTM46052 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46052)). The examples below show how the downsizing addition is calculated.
+
+Example 1: The downsizing addition where the home was worth the same or more than the person’s former allowance (see Step 1 at IHTM46062)
+
+Jacob sold his home for £285,000 in October 2018 to go into residential care. He died in March 2021 with an estate worth £500,000. He left half his estate to his son, and half to his nephew.
+
+The residential enhancement in October 2018 is £125,000
+
+The residential enhancement in March 2021 is £175,000
+
+There is no entitlement to any brought-forward allowance (IHTM46040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46040)) on Jacob’s death.
+
+Step 1 – Jacob’s former allowance equals the residential enhancement at the date of disposal, £125,000
+
+Step 2 - The value of the QFRI (the property sold) is £285,000. Jacob’s ‘former allowance’ is £125,000. Expressed as a percentage £285,000 ÷ £125,000 = 228%. However, this is limited to 100%
+
+Step 3 - Jacob’s allowance on death (his default allowance) is £175,000. This is multiplied by the percentage in step 2 to give a lost relievable amount of £175,000 × 100% = £175,000
+
+The value of the residence at the time of the disposal was more than his former allowance so the whole of the RNRB has potentially been lost. Before he downsized, Jacob’s estate could potentially have qualified for the maximum RNRB at that time. The lost relievable amount as a result of the downsizing is therefore £175,000.
+
+The downsizing addition is the lower of the lost relievable amount (£175,000) and the value of other assets which are closely inherited. As £250,000 of other assets are left to Jacob’s son, a downsizing addition of £175,000 is due.
+
+If instead Jacob had only left £100,000 to his son and the rest of his estate to his nephew, the downsizing addition would be restricted to £100,000.
+
+Example 2: The downsizing addition where the home was worth less than the person’s former allowance.
+
+Jason had a flat which he sold for £90,000 in May 2019 to move in with his daughter. Jason died in January 2021 with an estate worth £600,000, all of which he left to his daughter.
+
+The residential enhancement in May 2019 is £150,000
+
+The residential enhancement in January 2021 is £175,000
+
+There is no entitlement to brought-forward allowance on Jason’s death.
+
+Step 1 – Jason’s former allowance equals the residential enhancement at the date of disposal, £150,000
+
+Step 2 - The value of the QFRI (the property sold) is £90,000. Jason’s ‘former allowance’ is £150,000. Expressed as a percentage £90,000 ÷ £150,000 = 60%.
+
+Step 3 - Jason’s allowance on death (his default allowance) is £175,000. This is multiplied by the percentage in step 2 to give a lost relievable amount of £175,000 × 60% = £105,000.
+
+The actual amount of the downsizing addition is the lower of the lost relievable amount (£105,000) and the value of other assets which are closely inherited. As £600,000 of other assets are left to Jason’s daughter, a downsizing addition of £105,000 is due.
+
+Example 3: The downsizing addition where there is brought-forward allowance available at death, but the property disposal took place between 8 July 2015 and 5 April 2017.
+
+Rob survived his wife who died in May 2009. He sold his home for £180,000 in September 2015 to move in with his son. He died in October 2017 with an estate worth £380,000. He left the whole of his estate to his son.
+
+The residential enhancement in September 2015 is nil, but is treated as being £100,000 by IHTA84/S8FE(6)(a)
+
+The residential enhancement in October 2017 is £100,000
+
+There was no brought-forward allowance available in September 2015 as the RNRB legislation was not in force.
+
+There is brought-forward allowance of £100,000 on Rob’s death.
+
+Step 1 - Rob’s former allowance equals the residential enhancement at the date of disposal (£100,000) plus the difference between the brought-forward allowance at death (£100,000) and disposal (nil). This is £100,000 + (£100,000 - £0) = £200,000.
+
+Step 2 – The value of the QFRI (the sold property) is £180,000. Rob’s former allowance is £200,000. Expressing this as a percentage £180,000 ÷ £200,000 = 90%.
+
+Step 3 – Rob’s allowance on death (his default allowance) is £200,000. This is multiplied by the percentage in step 2 to give a lost relievable amount of £200,000 x 90% = £180,000.
+
+The actual amount of the downsizing addition is the lower of the lost relievable amount (£180,000) and the value of other assets which are closely inherited. As £380,000 of other assets are left to Rob’s son, a downsizing addition of £180,000 is due.
+
+Example 4: The downsizing addition where there is brought-forward allowance but the property disposal took place after 5 April 2017.
+
+Sam’s husband left his estate to her on his death in July 2017. She sold her home for £104,000 in July 2019 and moved in to residential care. She died in December 2020 with an estate worth £800,000, and left half to her daughter and the other half to a friend.
+
+The residential enhancement in July 2019 is £150,000
+
+The residential enhancement in December 2020 is £175,000
+
+Sam’s husband had not used any RNRB so there was a brought-forward allowance of £150,000 (100% of the residential enhancement) available to Sam at the date of disposal in July 2019.
+
+There is a brought-forward allowance of £175,000 on Sam’s death
+
+Step 1 – Sam’s former allowance equals the residential enhancement at the date of disposal (£150,000), plus the brought-forward allowance at disposal (£150,000), plus the difference between the brought-forward allowance at death and at disposal (£175,000 - £150,000 = £25,000). Sam’s former allowance is therefore £325,000 (£150,000 + £150,000 + £25,000).
+
+Step 2 – The value of the QFRI (the sold property) is £104,000. Sam’s former allowance is £325,000. Expressed as a percentage £104,000 ÷ £325,000 = 32%.
+
+Step 3 – Sam’s allowance on death (her default allowance) is £350,000. This is multiplied by the percentage in step 2 to give a lost relievable amount of £350,000 x 32% = £112,000.
+
+The actual amount of the downsizing addition is the lower of the lost relievable amount (£112,000) and the value of other assets which are left to direct descendants. As £400,000 of other assets are left to Sam’s daughter, a downsizing addition of £112,000 is due.

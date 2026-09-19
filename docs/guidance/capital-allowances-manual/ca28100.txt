@@ -1,0 +1,24 @@
+PMA: Anti-avoidance: Introduction
+Identifier: CA28100
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28100
+Published: 2016-04-16T08:52:23+01:00
+Updated: 2020-01-08T16:26:12+00:00
+Retrieved (UTC): 2026-09-18T16:21:03.002585+00:00
+
+You may have a case where the taxpayer is using the capital allowance legislation in a way that it was not intended to be used. Here is an example.
+
+Example
+
+Frank and Jesse are brothers. They are both motor dealers. Frank buys a car transporter for £120,000 and adds the expenditure to his pool of qualifying expenditure. He sells the car transporter to Jesse for £200,000. Frank brings a disposal value of £120,000 (sale proceeds £200,000 restricted to cost, £120,000) to account. Jesse claims AIA on the £200,000 he has paid Frank for the car transporter. If this scheme worked the brothers would have obtained PMAs on expenditure of £200,000 for a car transporter that cost them £120,000.
+
+The anti-avoidance legislation in Chapter 17 Part 2 CAA01 stops the scheme working. Broadly, it prevents the acceleration or uplift in capital allowances on a:
+
+- transaction between connected persons CA28800 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28800) (a connected person transaction),
+
+- a sale and leaseback, or
+
+- a transaction to obtain a tax advantage.
+
+In the above example, the effect of the anti-avoidance legislation would be to resrict Jesse’s qualifying expenditure to £120,000 (Frank’s disposal value) and to prevent Jesse from claiming AIA or FYAs in respect of the expenditure.
+
+There are further restrictions where an asset is sold and leased back under a finance lease (see CA28400 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28400)+) and where a person transfers an asset which is subsequently made available to that person or a connected person under a hire purchase or similar contract (see CA28700 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28700)).

@@ -1,0 +1,58 @@
+PMA: WDA & balancing adjustments: Hybrid rate of WDA
+Identifier: CA23222
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23222
+Published: 2026-03-30T16:51:39+01:00
+Updated: 2026-04-02T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:20:44.713782+00:00
+
+Hybrid rate of WDA
+
+When a chargeable period begins before, and ends on or after, the date the main or special rate of WDA changes, a hybrid rate is used to calculate the rate of WDA for that period.
+
+The hybrid rate is calculated based on the proportion of days in the chargeable period that fall before the rate change and those that fall on and after the rate change.
+
+To calculate the hybrid rate, follow these steps:
+
+- Count the number of days in the whole chargeable period.
+
+- Count the number of days in the chargeable period falling before the date of the rate change.
+
+- Divide the number of days before the date of the rate change (step 2) by the total number of days (step 1).
+
+- Multiply the result from step 3 by the rate which applies before the change.
+
+- Count the number of days in the chargeable period falling on and after the date of the rate change.
+
+- Divide the number of days on and after the date of the rate change (step 5) by the total number of days (step 1).
+
+- Multiply the result from step 6 by the rate which applies after the change.
+
+- Add the result from step 4 to the result from step 7. If the result has more than two decimal places, it should be rounded up to the nearest second decimal place.
+
+The apportionment must be calculated in days.
+
+There is a calculator you can use to work out your hybrid rate of writing-down allowance (https://www.gov.uk/guidance/calculate-your-hybrid-rate-of-writing-down-allowance).
+
+Example of hybrid rate for FA 2026 changes
+
+A company has an accounting period beginning on 1 January 2026 and ending on 31 December 2026. As this period begins before 1 April 2026, and ends afterwards, a hybrid rate of WDA applies for the company's main pool.
+
+For this accounting period, there are:
+
+- 90 days that fall before 1 April 2026,
+
+- 275 days that fall on and after 1 April 2026, and
+
+- 365 days in total.
+
+The company has £10,000 in its main pool carried forward from the previous accounting period. The company adds no new expenditure to the pool in the period.
+
+The hybrid rate of WDA for the company's main pool is the sum of:
+
+- 90 divided by 365 multiplied by 18, and
+
+- 275 divided by 365 multipled by 14.
+
+Adding the results of these calculations together, and then rounding up to the nearest two decimal places, the hybrid rate of WDA for this accounting period is 14.99%.
+
+Therefore, the maximum amount of WDA that can be claimed for this accounting period is £1,499 (14.99% of £10,000).

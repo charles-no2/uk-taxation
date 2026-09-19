@@ -1,0 +1,56 @@
+Employment income provided through third parties: amount of Part 7A income: overlap with earlier relevant step: undertakings and provision of security in relation to retirement benefits etc
+Identifier: EIM45730
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45730
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T13:19:14+01:00
+Retrieved (UTC): 2026-09-18T14:23:27.917264+00:00
+
+Sections 554Z5 and 554Z19 ITEPA 2003
+
+In summary, B takes a step within Section 554Z19 if B provides security for the performance of a relevant undertaking.
+
+B may also be deemed to take additional steps within Section 554Z19 if B continues to provide security.
+
+On Section 554Z19, see EIM45155 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45155). On ‘relevant undertaking’, see EIM45145 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45145).
+
+Section 554Z5 prevents double counting if there is an overlap with an earlier relevant step and the specified conditions are met. See EIM45725 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45725).
+
+This page discusses the interaction between Sections 554Z5 and 554Z19.
+
+Scenario 1: anniversary step
+
+Suppose that:
+
+- B provides security for the performance of the relevant undertaking, thus taking an actual step within Section 554Z19, and
+
+- B continues to provide security and is deemed to take an ‘anniversary step’ within Section 554Z19.
+
+For the purposes of Section 554Z5, the sums of money and assets which are the subject of the security at the time of the anniversary step ‘replace’ the sums of money and assets which were the subject of the actual step.
+
+So, you reduce the value of the anniversary step on the basis that sum or asset P overlaps all of sum or asset Q, see EIM45725 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45725).
+
+Similarly, if B carries on providing security and there is a further anniversary step, the sums of money and assets which are the subject of the security at the time of this anniversary step ‘replace’ the sums of money and assets which were the subject of the actual step and the previous anniversary step.
+
+Scenario 2: new undertaking
+
+Suppose that:
+
+- B provides security for the performance of the relevant undertaking, thus taking a step within Section 554Z19, and
+
+- B revokes this undertaking and replaces it with a new relevant undertaking of equivalent value for which B provides security, thus taking a second step within Section 554Z19.
+
+For the purposes of Section 554Z5, the sums of money and assets which are the subject of the security at the time of the second step ‘replace’ the sums of money and assets which were the subject of the first step.
+
+So, you reduce the value of the second step on the basis that sum or asset P overlaps all of sum or asset Q, see EIM45725 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45725).
+
+Scenario 3: new, additional undertaking
+
+Suppose that:
+
+- B provides security for the performance of the relevant undertaking, thus taking a step within Section 554Z19, and
+
+- a new relevant undertaking is given for which B provides security, thus taking a second step within Section 554Z19, and
+
+- the new relevant undertaking is in addition to the first, not instead of it.
+
+In this case, there is more than one undertaking. This means that you have to apportion the sums of money and assets which are the subject of the security on a just and reasonable basis between the two undertakings. See EIM45155 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45155). As a result, there will be no overlap, and you will not need to consider Section 554Z5.

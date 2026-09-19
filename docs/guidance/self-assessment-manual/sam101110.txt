@@ -1,0 +1,22 @@
+Records: maintain taxpayer record: employer compliance system - expenses and benefits
+Identifier: SAM101110
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam101110
+Published: 2016-04-08T17:08:31+01:00
+Updated: 2016-02-23T14:51:47+00:00
+Retrieved (UTC): 2026-09-18T16:19:42.988776+00:00
+
+The Employer Compliance System
+
+- Checks the employer’s cash equivalent calculations
+
+- Identifies discrepancies
+
+- Checks and provides a CY coding forecast
+
+- Provides a coding forecast for CY+1
+
+- Updates on the PAYE record details of the latest car
+
+- Posts a summary of P11D information, including forecasts and discrepancies, to the PAYE record
+
+An automated facility allows tax codes to be updated immediately when form P11D information is processed. Expenses and benefits for CY and for CY-1 will be coded automatically in the majority of cases but where this is not possible the relevant PAYE Work Management item will be created. More information can be found in the PAYE Manual.

@@ -1,0 +1,14 @@
+Dwellings subject to ATED: interaction with TCGA92/S185 (exit charge on company leaving the UK)
+Identifier: CG73665
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73665
+Published: 2016-03-12T12:24:55+00:00
+Updated: 2016-01-26T17:53:20+00:00
+Retrieved (UTC): 2026-09-18T14:35:48.442677+00:00
+
+TCGA92/S185 imposes a charge to Corporation Tax on the unrealised gains of a company which ceases to be resident in the UK, see CG42370+. The company is deemed to have disposed of all its assets at their market value immediately before the relevant time and to have reacquired them at that value at the relevant time.
+
+TCGA92/S187A modifies the charge under Section 185 where an ATED-related chargeable gain or allowable loss would accrue on the deemed disposal. The ATED-related chargeable gain or allowable loss is treated as not accruing at the time of the deemed disposal. Instead it is treated as accruing on a subsequent disposal of the asset in question (in addition to any gain or loss that actually accrues on that subsequent disposal). If that subsequent disposal is a part disposal of the asset, only a corresponding part of the ATED-related chargeable gain or allowable loss is treated as accruing on the part disposal (leaving the remainder of the gain/loss to be treated as accruing as and when the remainder of the asset is disposed of).
+
+The ATED-related gain or loss is postponed in this way because companies that are not resident in the UK are still within the scope of the capital gains tax charge on such gains (see CG73611). It is not therefore necessary to treat the ATED-related gain or loss as accruing in advance of an actual disposal of the asset in question.
+
+Any non ATED-related gain or loss accruing on the deemed disposal is unaffected by the treatment of the ATED-related chargeable gain or allowable loss.

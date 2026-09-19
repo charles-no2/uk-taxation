@@ -1,0 +1,20 @@
+Class 1: Deeming: Definition -
+Identifier: NIM12103
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim12103
+Published: 2016-04-11T17:27:10+01:00
+Updated: 2022-02-16T11:43:01+00:00
+Retrieved (UTC): 2026-09-18T15:19:49.759379+00:00
+
+Deeming is a purely administrative action and refers to Class 1 NICs that you are satisfied HMRC has received. This means that
+
+- NICs have been deducted from the employee; and
+
+- NICs have been paid across to HMRC; but
+
+- you have not been able to trace the relevant return/NICs and allocate it to the NI account.
+
+If you can establish that the NICs were paid to HMRC, it follows that those NICs should be accepted as paid in full and should carry all the rights of a fully paid contribution. The status of deemed NICs is covered in NIM12105 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim12105).
+
+The reason you must record the NICs to the NI account as deemed, rather than just as paid, is to prevent a refund being triggered if the “real contributions” reach the NI account at a later date.
+
+When you deem Class 1 NICs, you are accepting that those NICs have been paid and are somewhere within the HMRC system. There is therefore the possibility that at some point in the future they will be matched up and recorded to the individual’s NI account. If this happens, the account will then appear to show a duplicate payment and it would seem that a refund should be given. Recording the NICs as deemed serves as a means of identifying the fact that they have not really been paid twice, and of preventing such a refund being made.

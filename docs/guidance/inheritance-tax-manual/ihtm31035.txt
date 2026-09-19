@@ -1,0 +1,76 @@
+Assessing: examples of calculations: calculation where there is residence nil rate band
+Identifier: IHTM31035
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31035
+Published: 2018-07-06T14:18:30+01:00
+Updated: 2018-07-06T15:28:57+01:00
+Retrieved (UTC): 2026-09-18T15:05:45.793223+00:00
+
+The facts
+
+Emily died in August 2017 with free estate (Entry A) of £750,000, made up of:
+
+- £250,000 personal assets
+
+- £500,000 freehold property, left to her children.
+
+The personal representatives have asked to pay the tax due on the freehold property by instalments.
+
+Emily also had a life interest in a Will Trust (Entry B), which passes on her death. The trust is valued at £250,000 at the date of Emily’s death.
+
+Emily made a chargeable lifetime gift of £125,000 (after exemptions) in June 2015.
+
+Emily’s estate qualifies for the residence nil-rate band (RNRB) (IHTM46001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46001)). Emily’s husband, Clive, died in May 2011. There was no unused nil-rate band left to transfer (IHTM43001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43001)) following his death but, because no RNRB could have been used on his death, Emily’s personal representatives can make a claim (IHTM46042 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46042)) to use his unused RNRB (IHTM46040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46040)) against Emily’s estate.
+
+Calculate the available nil-rate band
+
+The Inheritance Tax nil-rate band at the date Emily died is £325,000.
+
+Apply the available nil-rate band to any lifetime transfers first
+
+The available nil-rate band of £325,000 is used against the lifetime transfer of £125,000 first. This leaves £200,000 to be used against the death estate.
+
+Find the chargeable value of the estate at the date of death
+
+The chargeable value of the death estate, after deducting liabilities, exemptions and reliefs is £750,000 free estate plus £250,000 Will Trust = £1,000,000.
+
+Calculate the available RNRB
+
+The amount of RNRB at the date Emily died is £100,000 (IHTM46002 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46002)). Her personal representatives have claimed the RNRB unused on Clive’s death. As no RNRB was used on his death, the amount due on Emily’s death is increased by 100%, to £200,000.
+
+Apportion the available nil-rate band and RNRB
+
+Because there is more than one entry (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)) we must apportion the available nil rate band of £200,000 plus the RNRB of £200,000, totalling £400,000 between them, before we can work out the tax.
+
+Entry A
+
+£400,000 × £750,000 ÷ £1,000,000 = £300,000
+
+Entry B
+
+£400,000 × £250,000 ÷ £1,000,000 = £100,000
+
+Calculate the tax on Entries A and B:
+
+Entry A
+
+(£750,000 – £300,000) × 40% = £180,000
+
+This is then apportioned between:
+
+- The personal property (not paid by instalments) £250,000 × £180,000 tax ÷ £750,000 = £60,000
+
+- The freehold property (paid by instalments) £500,000 × £180,000 tax ÷ £750,000 = £120,000
+
+Entry B
+
+(£250,000 – £100,000) × 40% = £60,000
+
+Calculations
+
+Here we will raise death estate calculations for:
+
+- £60,000 at Entry A (NIOP)
+
+- 10 annual instalments of £12,000 (totalling £120,000) at Entry A (IOP)
+
+- £60,000 at Entry B (NIOP)

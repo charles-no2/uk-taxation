@@ -1,0 +1,32 @@
+Reduced rate for gifts to charity: calculating the baseline amount with a single estate component and lifetime cumulative total
+Identifier: IHTM45011
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45011
+Published: 2016-04-09T10:32:47+01:00
+Updated: 2022-02-09T16:00:45+00:00
+Retrieved (UTC): 2026-09-18T15:10:43.080719+00:00
+
+Step 2 in calculating the baseline amount (IHTM45009 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45009)) provides that the available nil-rate band is deducted from the chargeable transfer to establish the baseline amount. Where there are chargeable transfers in the seven years prior to death, they will reduce the amount of the nil-rate band that can be deducted.
+
+Example
+
+James died on 17 July 2012 leaving an estate valued at £750,000 after deduction of liabilities. He leaves a legacy of £50,000 to the RNIB. He had given £150,000 to his daughter 4 years before he died.
+
+The donated amount is £50,000. The baseline amount is calculated following the steps in IHTA/Sch1A/Para 5 as follows:
+
+Estate on death = £750,000
+
+Legacy to charity (donated amount) -£50,000
+
+Chargeable transfer = £700,000 (step 1)
+
+Less nil-rate band -£175,000 (£325,000 - £150,000)
+
+Step 2 amount = £525,000
+
+Add back legacy to charity +£50,000
+
+Baseline amount = £575,000 (step 3)
+
+The charitable giving condition (IHTM45002 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45002)) or 10% test requires that the donated amount is at least 10% of the baseline amount. Here the legacy of £50,000 is less than 10% of £575,000 or £57,500, so the estate does not qualify for the reduced rate.
+
+It would, however, be possible for the beneficiaries of the estate to increase the legacy to charity by another £7,500 by executing an Instrument of Variation (IHTM35011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35011)), so that the 10% test is met. This would reduce the liability at full rate from £210,000 to that at reduced rate of £186,300 - a tax saving of £23,700, which more than pays for the additional payment to charity.

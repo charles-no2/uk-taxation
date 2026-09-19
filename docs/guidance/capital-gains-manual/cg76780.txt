@@ -1,0 +1,42 @@
+Wasting assets: computation: using the T(2) formula
+Identifier: CG76780
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg76780
+Published: 2016-03-12T12:28:29+00:00
+Updated: 2016-07-04T16:08:54+01:00
+Retrieved (UTC): 2026-09-18T14:36:11.639174+00:00
+
+TCGA92/S46
+
+This instruction shows you how to use the T(2) formula to decide how much allowable enhancement expenditure has been written off. You work through the steps in number order:
+
+- What is the length of time between acquisition and disposal?
+
+- Call this T(1)
+
+- What is the length of time between enhancement and disposal?
+
+- Call this T(2)
+
+- Calculate (T(1) – T(2))
+
+- What is the predictable life of the asset from the time of the acquisition?
+
+- Call this L
+
+- Calculate L – (T(1) – T(2))
+
+- What is the allowable enhancement expenditure?
+
+- Call this E(2)
+
+- How much is the reduction in allowable expenditure, E(2), up to the date of disposal?
+
+- Calculate E(2) x T(2)/(L – (T(1) – T(2))
+
+- Call this R(2)
+
+- How much enhancement expenditure is allowable in computing the gain or loss on disposal?
+
+- Calculate (E(2) – R(2))
+
+There is an example at CG76792 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg76792).

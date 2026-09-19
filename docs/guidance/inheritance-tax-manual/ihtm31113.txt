@@ -1,0 +1,38 @@
+Assessing: COMPASS: viewing your records: Case Summary
+Identifier: IHTM31113
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31113
+Published: 2016-04-09T10:02:44+01:00
+Updated: 2016-02-11T17:15:39+00:00
+Retrieved (UTC): 2026-09-18T15:05:47.988468+00:00
+
+The Case Summary is a full page overview of the COMPASS (IHTM31101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31101)) and ERS (IHTM29101) record.
+
+Case details
+
+The top of this window gives brief identification details of the case event and the allocated caseworker
+
+Notes
+
+Service caseworkers use this box as part of their file management to record important events on a case, such as valuation referrals, amendments and phone calls. This is used in conjunction with the file notes as part of the file management.
+
+Calculations
+
+Scroll down the box to find records of all the calculations raised on the case, by date, assessment number and status (raised/issued/paid/repaid). You can use check the option box to include withdrawn calculations in the list.
+
+Double click on a record to open the full assessment record.
+
+SAGE
+
+The brief details show you the total amounts assessed and received, and an ‘at a glance’ note of the balance. To view the full SAGE (IHTM31851 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31851)) record, click on the SAGE Trans button.
+
+Compliance
+
+In this box you can see the total compliance yield (IHTM29107) so far recorded.
+
+Designatory
+
+This box records two dates
+
+- Date of receipt (IHTM31102 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31102)). This is the date stamped on the form IHT400 by the postroom, or, for excepted estates, the date of grant/confirmation.
+
+- Tax agreed (IHTM29074). This is the date you are satisfied with the information provided and have agreed or accepted the values returned and, if necessary, have issued final calculations.

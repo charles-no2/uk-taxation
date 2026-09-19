@@ -1,0 +1,24 @@
+Excepted transfers and terminations - value transferred attributable to property other than cash or quoted shares or securities
+Identifier: IHTM06104
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm06104
+Published: 2016-03-20T09:23:23+00:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:54:09.378456+00:00
+
+Where the property given away, or in which the interest subsists is wholly or partly attributable to property other than cash or quoted stocks and securities, the disposal must pass two tests.
+
+Firstly, the value transferred by the chargeable transfer (IHTM04027 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04027)) concerned together with the cumulative total of all chargeable transfers made by the transferor in the seven years before the transfer must not exceed 80% the relevant IHT nil rate band.
+
+And secondly, the value transferred by the transfer of value (IHTM04024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04024)) giving rise to the chargeable transfer concerned must not exceed the nil rate band that is available to the transferor at the time the disposal takes place.
+
+The purpose of the second test is to make it a requirement to deliver an account where the value transferred by the transfer value, or in which the interest in possession subsists, exceeds the nil rate band that is available to the transferor - but the chargeable transfer that emerges remains below the nil rate band due to exemptions or relief. And in this connection, agricultural relief (AR) and business relief (BR) are specifically excluded in establishing the chargeable transfer.
+
+Example
+
+Harry creates a relevant property trust in favour of his daughter Paula, in May 2007 and transfers £200,000 cash to the trustees. No annual exemptions are available. This is an excepted transfer as the value transferred is attributable to cash and is below the nil rate band.
+
+Later in August Harry invests £70,000 in a discounted gift product and transfers the policy to the trustees. Due to his age and the income withdrawals, the value transferred is quantified at £40,000. This too is an excepted transfer because although this second disposal is not of cash, the cumulative total of chargeable transfers does not exceed 80% of the nil rate band.
+
+Then in January 2008, Harry gives the trustees some shares in the family company where the loss to his estate is £100,000; but which qualify for 100% business relief. This is not an excepted transfer because although the cumulative total of chargeable transfers remains at 80% of the nil rate band, the availability of BR (and AR) is ignored for the purpose of applying these regulations. So, the unreduced value transferred by the transfer of value (£100,000) exceeds the nil rate band available to the transferor of £300,000 - (£200,000 + £40,000) = £60,000. An account is therefore required.
+
+IHTM06105 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm06105) gives further relevant guidance on insurance linked products.

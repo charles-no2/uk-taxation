@@ -1,0 +1,139 @@
+Value shifting: Corporation Tax anti-avoidance rule for disposals of shares or securities from 19 July 2011: examples
+Identifier: CG48560
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560
+Published: 2016-03-12T11:21:37+00:00
+Updated: 2020-10-14T12:34:41+01:00
+Retrieved (UTC): 2026-09-18T14:42:08.136089+00:00
+
+Examples of situations where HMRC considers that the rule would apply (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#IDAXPK3G)
+Examples of situations where HMRC considers that the rule would not apply (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#IDAKSK3G)
+
+The following examples illustrate situations where HMRC would, or would not, consider that the rule applies. The question of whether there is a main purpose of obtaining a tax advantage is not considered in detail; a real case will depend on its particular facts but it would be highly unlikely that there would be no such main purpose in a case corresponding to an example where HMRC consider that the rule would apply.
+
+The grouping, and therefore also the numbering, of the examples differs to that in the draft versions of the guidance that were published for consultation.
+
+Examples of situations where HMRC considers that the rule would apply
+
+Example 1 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#IDAOQK3G)
+Example 2 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#IDA4QK3G)
+Example 3 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#IDAKRK3G)
+Example 4 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#IDA0RK3G)
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#Top)
+
+Example 1
+
+The target company has issued share capital of 100,000 x £1 ordinary shares. A third party has offered to buy the target company for £1 million.
+
+The vendor group parent subscribes for a further 900,000 ordinary shares in the target company so as to increase the capital gains base cost to £1 million. The target company reduces its share capital, by re-denominating the shares as 1p shares and credits the amount of reduction, £990,000, to distributable reserves and then pays this amount to the parent as a dividend. The company is now worth approximately same as the capital gains base cost and so only a nominal gain will arise on the subsequent disposal.
+
+The subscription for further shares, the reduction in share capital and the payment of the dividend constitute arrangements and a tax advantage is obtained. The arrangements do not consist solely of the making of an exempt dividend. Therefore the sale consideration is adjusted to reflect the uplift in base cost.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#Top)
+
+Example 2
+
+The vendor group undertakes the drain out dividend scheme described in CG48510. However, instead of selling the shares in the target company, Q, to the third party, the third party instead subscribes for new shares in the target. The issue of new shares does not cause any reduction in the value of the shares held by the vendor group. The vendor group has not actually disposed of any shares and TCGA92/S29 will only create a deemed disposal if value has moved out of the vendor group’s shares.
+
+TCGA92/S31(5) ensures that the effect of the value reduction is ignored in considering the application of TCGA92/S29 and so there is a deemed disposal of the shares in the new company.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#Top)
+
+Example 3
+
+The vendor group undertakes the drain out dividend scheme described in CG48510. However, instead of selling the shares in the target company, Q, to the third party, it instead transfers those shares to a newly incorporated group company in exchange for an issue of shares. The third party acquires the shares in this new company, together with its subsidiaries.
+
+The shares disposed of have not been subject to a reduction in value. However, the shares in the target company have been and they are a “relevant asset” in connection with the disposal.
+
+Note that in this situation TCGA92/S179(9) would also allow the degrouping charge arising from the transfer of the target company to be increased by the rule. However, the effect of TCGA92/S31(2) is that only one adjustment will be made.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#Top)
+
+Example 4
+
+A group seeking to expand its overseas operations subscribed for 500 1 Crown ordinary shares in a Ruritanian company in 2008. These shares cost £100 at the prevailing exchange rate. The company bought an investment for 500 Crowns. In 2013 the company sells the investment for 800 Crowns and pays the 300 Crown profit to the group parent.
+
+The company is now worth 500 Crowns but in 2013 this is equivalent to £125 so the company also reduces its share capital by 100 Crowns, in accordance with Ruritanian company law, and then pays its parent company a further dividend of 100 Crowns. The company is then wound up and the parent receives consideration of 400 Crowns, equivalent to £100 so no gain arises.
+
+Although there has been no disposal of shares outside the group, the arrangements do not consist solely of the payment of an exempt distribution and were undertaken in order to secure a tax advantage. TCGA92/S31 would apply and the parent company’s disposal consideration should be increased by £25. It is just and reasonable to adjust the consideration to reflect the exchange gain made on the shares.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#Top)
+
+Examples of situations where HMRC considers that the rule would not apply
+
+Example 5 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#IDAGTK3G)
+Example 6 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#IDAWTK3G)
+Example 7 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#IDAKUK3G)
+Example 8 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#IDAFVK3G)
+Example 9 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#IDAFWK3G)
+Example 10 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#IDARWK3G)
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#Top)
+
+Example 5
+
+The target company has a large cash balance which it pays up to its group parent as a dividend before being sold. The purchaser pays what it considers to be a fair value for the shares following the dividend payment. If no dividend had been paid then the consideration would have been greater and more tax would have been payable (the purchaser would be “paying cash for cash”).
+
+However, HMRC does not interpret the legislation as requiring the existence of a tax advantage to be judged according to a comparison with the tax result of a commercial disposal that did not take place. Here no tax advantage is obtained because the proceeds correspond to the value of the assets held by the company that that have been disposed of out of the group.
+
+Furthermore, the only arrangement is the payment of an exempt dividend. The exception in TCGA92/S31(1)(c) means that the value shifting rule does not apply.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#Top)
+
+Example 6
+
+The target company has distributable profit reserves but no cash. It borrows money from its parent (it could be from another person) and uses this to pay a dividend. It is then sold to the purchaser and afterwards repays the loan.
+
+The payment of existing distributable reserves before the sale of a company is normal commercial practice and so is not regarded as being tax motivated.
+
+Here the arrangements did not consist solely of the payment of an exempt dividend because the target company needed to borrow the funds to make the payment. So the question is whether the arrangements had a main purpose of obtaining a tax advantage.
+
+Contrast this with the drain out dividend scheme described in CG48510 where a transaction takes place before the disposal in order to create a reserve of untaxed profits, with the purpose of obtaining a tax advantage.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#Top)
+
+Example 7
+
+This example illustrates various methods by which assets that are not required by a purchaser may be moved out of the target company:
+
+7(a) The target company has an asset that the purchaser does not want and the vendor group does not wish to retain. As part of the sale process the asset is sold for cash and the proceeds paid up as a pre-sale dividend.
+
+7(b) This is similar to example 7(a) apart from the fact that the asset is purchased by a fellow group company at market value and so TCGA92/S171 applied to the disposal.
+
+7(c) This is similar to example 7(b) but the asset is transferred under TCGA92/S171 at its book value which is nominal and there is therefore no dividend payment.
+
+Each of these transactions represents a normal part of the process of preparing the target company for a commercial sale and will not, of themselves, constitute arrangements with a main purpose of obtaining a tax advantage.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#Top)
+
+Example 8
+
+A company has a wholly owned subsidiary company that was acquired for £4 million. The subsidiary is no longer active and is to be wound up.
+
+The subsidiary has £10 million of assets (cash and debts due from group companies) and issued share capital of £10 million, In order to reduce the subsidiary’s share capital it undertakes a capital reduction of £9.9 million and takes the £9.9 million to distributable reserves. It then pays out an exempt dividend of that amount from that distributable reserve and its remaining assets distributed to its parent company. It is then struck off or formally liquidated.
+
+The dividend has not been paid out of funds lent to the subsidiary and its assets remain in the group, both factors are in contrast with those in example 1.
+
+Where a company is simply being wound up for commercial reasons, as opposed to being disposed of, the arrangements will not be undertaken with a main purpose of obtaining a tax advantage.
+
+The dividends paid are depreciatory and so TCGA92/S176 will ensure that there is no net capital loss.
+
+A similar analysis would apply to situations where the reduction of value arises through the transfer of assets, rather than the payment of a dividend. For example, where historically a trade has been conducted through a subsidiary but is hived up to a parent.
+
+Note that it is possible that a disposal of shares denominated in a foreign currency would result in a chargeable gain as a result of changes in exchange rates. TCGA92/S31 would be applicable to arrangements with a purpose of mitigating such a gain. See example 4 above.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#Top)
+
+Example 9
+
+The target company has a large cash balance which is to be stripped out before sale. It makes a capital contribution to another group company. The purchaser pays what it considers to be a fair value for the shares following the capital contribution. If no contribution had been made then the consideration would have been greater and more tax would have been payable.
+
+Paying out the surplus cash by making a capital contribution rather than paying a dividend means that the exception for exempt distributions in TCGA92/S31(1)(c) will not apply. However, this is the same routine pre-sale commercial transaction but effected by slightly different means. Therefore it would not constitute an arrangement with a main purpose of obtaining a tax advantage.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48560#Top)
+
+Example 10
+
+The target company has an outstanding debt due to another member of the vendor group at the time an approach is received from the purchaser. The loan was taken out to acquire fixed assets for use in its business. The sale takes place and the purchaser subsequently injects funds that allow the loan to be repaid.
+
+Although the vendor group receives funds from the purchaser in addition to the disposal consideration there has been no reduction in value. Therefore the vendor group does not obtain a tax advantage.

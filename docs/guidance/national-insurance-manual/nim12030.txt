@@ -1,0 +1,32 @@
+Class 1: Calculating Class 1 NICs for Directors: Annual earnings periods: Examples: Regular salary and personal expenses paid 
+Identifier: NIM12030
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim12030
+Published: 2016-04-11T17:26:57+01:00
+Updated: 2025-04-05T12:15:08+01:00
+Retrieved (UTC): 2026-09-18T15:15:17.644666+00:00
+
+Regulation 8 Social Security (Contibutions) Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+Director receives salary of £2,000 on 28th of each month from April 2025. The Company pays for various living expenses of £500 monthly (paid at the same time as salary) and also for an extension to the director’s house costing £28,000 and paid 15 June 2025. The expenses and extension are all the pecuniary liability of the director.
+
+Cumulative NICs shown but the amount payable in any month is the cumulative total less any amounts previously paid.
+
+Date | Cumulative | Primary | Secondary | Notes |
+
+28 April | £2,500 | Nil | Nil | Earnings below ST, LEL and PT |
+
+28 May | £5,000 | Nil | Nil | Earnings do not exceed ST and are still below LEL and PT |
+
+15 June | £33,000 (extension to house £28,000) | £1,634.40 (£33,000 - £12,570 x 8%) | £4,200.00 (£33,000 - £5,000 x 15%)  | Earnings above ST, LEL and PT |
+
+28 June | £35,500 | £1,834.40 (£35,500 -£12,570 x 8%) | £3,679.08 | - |
+
+July - November | £38,000 – £48,000 | - | - | Calculations as before |
+
+December | £50,500 | £3,020.60 (£50,270 – £12,570 x 8%) + (£50,500 - £50,270 x 2% = £3016 + £4.60 )  | £6,825.00 (£50,500 - £5,000 x 15%)  | Year to date earnings now above UEL  |
+
+January - March  | £53,000 - £58,000 | £3,070.60- £3,170.60 | £7,200 - £7,950.00 | No restriction on secondary liability |
+
+If the employer had contracted with the utility companies, builder and so on to provide the services leading to the expenses, the liability is Class 1A rather than Class 1. The Class 1 earnings would then be £2,000 monthly and the thresholds reached on different dates. The first payment of earnings for secondary NICs is June (£6,000 cumulative salary), with the first payment for primary NICs being October (£14,000 cumlative salary).
+
+If the employer decides to ‘pay on account’ (NIM12026 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim12026)) Class 1 NICs are due from the first month and the employer adjusts the final payment at the end of the year to ensure the same amount of NICs is paid as in the example.

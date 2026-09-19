@@ -1,0 +1,38 @@
+Class 1 structural overview: earnings limits & thresholds for pay intervals of other than a week 
+Identifier: NIM01010
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01010
+Published: 2016-04-11T16:57:49+01:00
+Updated: 2022-01-14T12:55:11+00:00
+Retrieved (UTC): 2026-09-18T15:12:47.980387+00:00
+
+Lower and upper earnings limits
+
+Regulation 11(2) of the Social Security (Contributions) Regulations (SSCR) 2001 SI 2001 No 1004
+
+If an employee’s earnings period (see NIM01003 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01003)) is for a period other than a week, the appropriate limits may be calculated as follows:
+
+Earnings Period |  How to calculate the earnings limits |
+
+Multiple of a week |  Multiply the weekly LEL and UEL by the number of weeks in the period. |
+
+A month |  multiply the weekly LEL and UEL by 4 1/3 and round the resultant figure up to the next whole pound |
+
+Multiple of a month |  multiply the weekly LEL and UEL by 4 1/3 and then by the number of months in the earnings period. Round this answer up to the next whole pound. |
+
+A year |  multiply the weekly LEL and UEL by 4 1/3 and then by 12. Round this answer up to the next whole pound |
+
+Not a multiple of a week or month |  divide the weekly LEL and UEL by 7. Multiply the answers by the number of days in the period. Calculate to the nearest penny, with a halfpenny or less being disregarded. |
+
+Primary and secondary thresholds
+
+Regulation 11(3) of the Social Security (Contributions) Regulations 2001 (SI2001 No 1004)
+
+If an employee’s Earnings period (see NIM01003 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01003)) is for a period of other than a week, the appropriate threshold may be calculated as follows:
+
+Earnings Period |  How to calculate the Primary and Secondary Thresholds |
+
+Multiple of a week |  Divide the yearly threshold by 52 and multiply the result by the number of weeks in the period. Round this answer up to the next whole pound. |
+
+Multiple of a month |  Divide the yearly threshold by 12 and multiply the result by the number of months in the period. Round this answer up to the next whole pound. |
+
+Not a multiple of a week or month |  Divide the threshold by 365 and multiply the result by the number of days in the period. Calculate to the nearest penny, with a halfpenny or less being disregarded. |

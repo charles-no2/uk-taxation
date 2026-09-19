@@ -1,0 +1,34 @@
+Dividends and other company distributions: no tax credits on non-qualifying distributions: tax years up to 2015-16: example
+Identifier: SAIM5140
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5140
+Published: 2016-03-19T16:27:16+00:00
+Updated: 2022-05-05T12:41:15+01:00
+Retrieved (UTC): 2026-09-18T14:26:39.167644+00:00
+
+Example of tax charge on non-qualifying distribution
+
+Michael holds 10000 partly paid up £1 redeemable shares in Bonus plc. The amount paid up is 75 pence per share. The company uses its shareholders’ funds to credit the partly paid shares to make them fully paid. Michael has received a non-qualifying distribution of £2500, and is treated as having paid income tax on the distribution at the dividend ordinary rate, that is £250.
+
+Shortly afterwards, Bonus plc repays 25% of its share capital. Michael now holds 7500 shares and has received a qualifying distribution of £2500. The tax credit is £278 (2500x 1/9) making a gross amount of £2778. Tax at the dividend ordinary rate of 10% is £277, of which £250 has been satisfied by the notional income tax on the non-qualifying distribution.
+
+Liability at dividend upper rate
+
+If Michael is liable at the dividend upper rate the tax payable on the non-qualifying distribution will be
+
+2500 @ 32.5% : 812.50
+
+Less notional tax : 250.00
+
+Additional tax due : 562.50
+
+Michael’s liability on the qualifying distribution will be on the augmented distribution of £2778 (2500 + the tax credit of 278).
+
+Augmented distribution : 2778 @ 32.5% = 902.85
+
+Less tax credit: 278.00
+
+Tax due: 624.85
+
+Less tax paid on non-qualifying distribution : 562.50
+
+Additional tax due : 62.35

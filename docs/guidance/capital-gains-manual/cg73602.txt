@@ -1,0 +1,40 @@
+Dwellings subject to ATED: introduction: capital gains tax charge - general outline
+Identifier: CG73602
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73602
+Published: 2016-03-12T12:24:19+00:00
+Updated: 2019-05-17T11:04:08+01:00
+Retrieved (UTC): 2026-09-18T14:35:40.219905+00:00
+
+A general description of the main features of the charge to capital gains tax is below. Detailed guidance is at paragraphs CG73610+.
+
+The general capital gains tax rule that liability arises only if the person is resident in the UK for tax purposes (TCGA92/S2) does not apply. Companies etc which are liable to pay ATED are within the scope of the capital gains tax charge whether they are resident in or outside the UK.
+
+Individuals, trustees of settled property and personal representatives of deceased persons are outside the scope of the charge. Companies and certain collective investment schemes are liable to the charge, but the normal exemptions from tax on chargeable gains - for authorised unit trusts, open-ended investment companies, charities, etc. - are available.
+
+Capital gains tax is charged under the new rules only on chargeable gains which are ATED-related gains. Normally, only gains attributable to periods after 5 April 2013 are ATED-related gains. Where the ‘single-dwelling interest’ in question was held on that date the gain or loss on disposal is apportioned to the periods before and after that date (subject to a right to elect out of the apportionment rule see CG73638). The rules for determining ATED-related gains (and hence gains which are not ATED-related), and for apportioning gains, are at TCGA92/SCH4ZZA.
+
+There is a threshold amount. If the consideration for the disposal falls below the relevant threshold amount the gain or loss on the disposal is outside the scope of the charge. Where the company etc disposes of the whole of the single-dwelling interest the threshold limit is:
+
+- £2,000,000 for disposals on or after 6 April 2013
+
+- £1,000,000 for disposals on or after 6 April 2015
+
+- £500,000 for disposals on or after 6 April 2016
+
+If the company disposes of only part of its interest, or owns only part of the ‘single-dwelling interest’, or both, the threshold amount is reduced proportionately.
+
+The amount of the gain or loss subject to the new charge is in proportion to the days for which the dwelling was subject to ATED. At its simplest (and ignoring the impact of the special rules for indexation), if the total period of a company’s ownership falls after 5 April 2013 and 75% of that period was chargeable to ATED, and the threshold limit is exceeded, 75% of the gain or loss on the disposal will be ATED-related and subject to the new capital gains tax charge. The remaining 25% of the gain or loss is a gain or loss that is not ATED-related.
+
+Detailed guidance for the special computational rules can be found at CG73625+.
+
+The rate of capital gains tax on chargeable gains that are ATED-related is 28%.
+
+Gains and losses that are ATED-related are ring-fenced from non ATED-related gains and losses.
+
+Non ATED-related gains and losses are subject to the usual capital gains rules.
+
+If a non ATED-related gain accrues to a company within the scope of corporation tax on chargeable gains it is subject to corporation tax in the same way as other chargeable gains.
+
+If a non ATED-related gain accrues to a company that is resident outside the UK the gain may still be taxable: for example a gain may be attributed to a participator under TCGA92/S13 see CG57200+.
+
+If the disposal was in the period 6 April 2015 to 5 April 2019 and was of an interest in residential property Non-resident Capital Gains Tax may apply see CG73700+

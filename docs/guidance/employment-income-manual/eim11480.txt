@@ -1,0 +1,40 @@
+Living accommodation: section 106 ITEPA 2003: amount of benefit
+Identifier: EIM11480
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11480
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2025-10-10T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:09:19.881734+00:00
+
+Section 106 ITEPA 2003
+
+This page tells you how to calculate the amount of the benefit under section 106 ITEPA 2003.
+
+You should already have decided:
+
+- that the cost of providing the living accommodation exceeds £75,000 (see EIM11428 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11428)) and
+
+- whether the cost of providing the living accommodation is on the cost basis or market value basis (see EIM11473 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11473)) and
+
+- the amount of the cost of providing the living accommodation (see EIM11429 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11429) for cost basis cases and see EIM11477 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11477) for market value basis cases).
+
+The amount of the benefit under section 106 is:
+
+- Step 1 - the cash equivalent as if section 105 ITEPA 2003 applied (see EIM11431 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11431))
+
+- Step 2 - ORI × (C − £75,000) (this amount is called the additional yearly rent), where:
+
+- C is the cost of providing the living accommodation (see point three above) and
+
+- ORI is the official rate of interest
+
+- Step 3 - calculate the rent that would have been payable if the property had been let for the taxable period at that additional yearly rent (see EIM11428 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11428) for taxable period)
+
+- Step 4 - add together the amounts calculated under step 1 and step 3. From this total subtract any excess rent paid by the employee. The answer is the amount of the benefit.
+
+The excess rent is any rent paid by the employee to the extent that it has not already been allowed in step 1, that is, when calculating the cash equivalent of the section 105 benefit.
+
+ORI, the official rate of interest, is prescribed by the Treasury (see EIM26104 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26104)). It is the rate in force at 6 April for the tax year under consideration.
+
+For a practical example in a cost basis case see example EIM11483 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11483).
+
+For a practical example in a market value basis case see example EIM11484 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11484).

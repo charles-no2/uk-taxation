@@ -1,0 +1,196 @@
+Reliefs: replacement of business assets (roll-over relief): depreciating assets 
+Identifier: CG60295
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg60295
+Published: 2026-06-08T13:52:39+01:00
+Updated: 2026-06-11T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:33:54.310894+00:00
+
+What is a depreciating asset?
+
+A depreciating asset is wasting asset or any asset that will become a wasting asset within ten years. On other words, it has a maximum life expectancy of 60 years or less from the date it is acquired (see section 154(7) of the Taxation of Chargeable Gains Act (TCGA) 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/154), section 44 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/44/enacted) and CG76700P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg76700p)). Plant and machinery is always a depreciating asset.
+
+Although for roll-over relief land and buildings are treated as separate assets, the life expectancy of both is determined by the length of tenure of the land on which the building stands.
+
+If a building is constructed on leasehold land and, when the building is completed, the unexpired residue of the lease is 60 years or less, the building is a depreciating asset.
+
+Freehold land is never a depreciating asset. But a building on it may be if it has a life expectancy under 60 years. This includes cases where planning permission or a legal obligation limits its expected life to under 60 years.
+
+Held-over gain when the new asset is a depreciating asset
+
+If the new asset is a depreciating asset, the normal roll-over relief rules do not apply. Instead, the depreciating asset keeps its full acquisition cost and the gain is held over (see section 154 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/154)) until the earliest of:
+
+-
+
+the date the depreciating asset is disposed of
+
+-
+
+the date the depreciating asset ceases to be used for the purposes of the trade
+
+-
+
+ten years from the acquisition date of the new asset
+
+When one of these events happens, the original gain must be self-assessed.
+
+Business Asset Roll-over Relief (Self Assessment helpsheet HS290) (GOV.UK) (https://www.gov.uk/government/publications/business-asset-roll-over-relief-hs290-self-assessment-helpsheet) provides an example.
+
+If the asset stops being used because the claimant dies, this is not treated as an occasion of charge.
+
+For groups of companies, see CG45945 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45945).
+
+Full reinvestment in a depreciating asset
+
+If a person acquires new depreciating assets costing (including allowable incidental costs of acquisition) the same as, or more than, the amount received for the old assets (after deducting allowable incidental costs of disposal) and makes a valid claim, the whole gain is held over until a trigger event occurs.
+
+Where market value is substituted for the actual consideration, full reinvestment occurs as long as the reinvestment is at least equal to that market value.
+
+Partial reinvestment in a depreciating asset
+
+If a person acquires new depreciating assets (including allowable incidental costs of acquisition) for less than the amount received for the old assets (after deducting allowable incidental costs of disposal) and makes a valid claim, it is not possible to defer the whole gain (see section 153 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/153)). Instead, only part of the gain may be held over and the person may have to pay tax on part of the gain at the normal time.
+
+In these cases, the amount of the gain on which tax may be due is the lower of:
+
+-
+
+the full chargeable gain arising on disposal of the old asset
+
+-
+
+the amount of consideration not reinvested in the replacement asset
+
+The held-over gain (the amount of the relief) is the difference between the full chargeable gain and the amount on which tax may be due.
+
+Where market value is substituted for the actual consideration, partial reinvestment occurs if the reinvestment is less than that market value.
+
+Converting held-over gains into roll-over relief (later acquisition of non-depreciating assets)
+
+Before any of the trigger event occurs, a person may acquire a non-depreciating relevant asset (see section 154(4) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/154) and section 154(5) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/154)). In that case, they may claim to:
+
+-
+
+treat the earlier hold-over claim as withdrawn
+
+-
+
+roll over the gain from the old asset into the new non-depreciating asset
+
+Where this happens:
+
+-
+
+the new non-depreciating asset (asset three) is treated as acquired within the statutory reinvestment time limit (see CG60300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg60300))
+
+-
+
+the new claim must be made within the normal time limit (see CG60310 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg60310))
+
+-
+
+the gain that can be rolled over cannot exceed the gain that was held over on the acquisition of asset two (see section 154(4)(a) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/154))
+
+-
+
+section 154(6) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/154) allows a gain to be partly held over and partly rolled over
+
+-
+
+the held-over gain is treated as being derived from two separate assets: the part that can be rolled over against asset three, and the part that must remain held over under the depreciating assets rules
+
+-
+
+this can be repeated with further non-depreciating assets, up to the total held-over amount, provided no trigger event has occurred and the time limit in section 154(2) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/154) is met
+
+Example: full reinvestment in a depreciating asset, followed by acquisition of a non-depreciating asset
+
+Facts
+
+-
+
+March 2017: Alex buys a freehold shop for £150,000 and uses and occupies it exclusively for trade purposes.
+
+-
+
+March 2022: Alex sells the shop for £298,000. The chargeable gain is £148,000.
+
+-
+
+March 2022: Alex acquires a 50‑year lease of a larger shop for £320,000, moves the trade, and claims roll‑over relief.
+
+-
+
+The lease is a depreciating asset.
+
+-
+
+March 2025: Alex assigned the lease for £350,000
+
+Outcome if no further action before disposal of the lease
+
+-
+
+Treat the shop disposal as if its consideration were reduced by £148,000 to £150,000.
+
+-
+
+The £148,000 gain is held over.
+
+-
+
+March 2025: when Alex assigns the lease for £350,000, compute the gain on the lease normally (see CG71140P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71140p)) and bring the held‑over £148,000 into charge at March 2025.
+
+Outcome if Alex acquires a non‑depreciating asset before the lease is assigned
+
+-
+
+June 2024: Alex buys the freehold of a third shop for £340,000 and makes a roll‑over claim.
+
+-
+
+Reduce the cost of the third shop by £148,000 to £192,000.
+
+-
+
+The held‑over gain does not become chargeable in 2024 to 2025.
+
+-
+
+If instead the third shop cost £260,000, the £38,000 not reinvested would be assessable in the 2024 to 2025 tax year, and the cost of the third shop would be £260,000 − £110,000 = £150,000 (that is, reduced by £110,000).
+
+Example: partial reinvestment in a depreciating asset, followed by acquisition of a non-depreciating asset
+
+Facts
+
+-
+
+March 2022: Dan sells a freehold shop for £200,000, realising a £60,000 gain.
+
+-
+
+2024: Dan acquires fixed machinery for £180,000 and claims relief.
+
+-
+
+The held‑over gain is £40,000 (the reinvested part of the £60,000 gain).
+
+-
+
+The £20,000 not reinvested is chargeable in the 2021 to 2022 tax year.
+
+Later acquisition
+
+-
+
+February 2026: while the machinery is still used for the purposes of the trade, Dan acquires a freehold shop for £260,000 and makes a claim under section 154(4) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/154).
+
+-
+
+The gain that can be rolled over is limited to £40,000.
+
+-
+
+Reduce the cost of the new shop to £220,000.
+
+-
+
+The chargeable gain in the 2021 to 2022 tax year is not affected.

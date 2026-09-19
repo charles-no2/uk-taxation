@@ -1,0 +1,172 @@
+Trust income and gains: the charge on trustees: the tax pool - trustees calculate maximum discretionary payment
+Identifier: TSEM3024
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3024
+Published: 2016-05-02T16:31:09+01:00
+Updated: 2025-11-06T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T16:19:34.178816+00:00
+
+In this example, in the tax year 2024-2025 a trustee of a discretionary trust receives a dividend of £1,500. The trustee is chargeable at 39.35%. The standard rate band is no longer applied from 6 April 2024.
+
+Description | Amount | Total |
+
+Dividend received
+
+|
+
+£1,500
+
+|
+
+-
+
+|
+
+Tax at 39.35% on £1500
+
+|
+
+|
+
+-
+
+|
+
+Total tax
+
+|
+
+-
+
+|
+
+£590.25
+
+|
+
+Tax payable by trustee - goes into tax pool
+
+|
+
+-
+
+|
+
+£590.25
+
+|
+
+Net income after tax
+
+|
+
+-
+
+|
+
+£909.75
+
+|
+
+If the trustee pays the net income of £909.75 to a beneficiary, the beneficiary receives a tax credit of 45% with this payment.
+
+The tax credit on the income payment to the beneficiary is calculated by grossing up the net payment at the appropriate tax rate.
+
+The grossed up payment is £1,654.09 with a tax credit of £744.34 (£909.75 x 100/55=£1,654.09).
+
+However, if there is no tax pool brought forward from the previous year and there is no other income on which tax has been paid, the tax pool of £590.25 will not cover the tax credit of £744.34 on the payment made.
+
+Under S496 the trustee would have to pay an additional income tax charge of £154.09 (tax credit £744.34 less available tax pool of £590.25 = £154.09), but the trustees have no income available to pay this.
+
+The maximum amount available for distribution to a beneficiary is 55% of the income after expenses, leaving the balance of 45% to cover the tax on the income and the additional tax charge under S496.
+
+Where the tax credit is partially covered by a balance in the tax pool brought forward, the amount available for distribution is 55% of the income available after tax, plus the updated balance in the tax pool.
+
+Description | Amount | Total |
+
+Net income after tax
+
+|
+
+£909.75
+
+|
+
+-
+
+|
+
+Add tax in tax pool
+
+|
+
+£590.25
+
+|
+
+-
+
+|
+
+Total amount to cover payment to beneficiary and tax credit at 45%
+
+|
+
+£1,500.00
+
+|
+
+-
+
+|
+
+Tax credit at 45%
+
+|
+
+-
+
+|
+
+£675.00
+
+|
+
+Less tax paid in tax pool
+
+|
+
+-
+
+|
+
+£590.25
+
+|
+
+Additional tax to be paid by trustee
+
+|
+
+-
+
+|
+
+£84.75
+
+|
+
+Net payment to beneficiary
+
+|
+
+£825.00
+
+|
+
+-
+
+|
+
+The beneficiary is paid net income of £825 with a tax credit of £675, which is equivalent to gross income of £1,500 with a tax credit at 45%.
+
+The trustee pays a total of £675 tax to HMRC, £590.25 tax on the dividend received and the additional £84.75 under S496.

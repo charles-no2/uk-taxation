@@ -1,0 +1,20 @@
+Other issues: application when the first death occurred under Estate Duty and Capital Transfer Tax
+Identifier: IHTM43060
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43060
+Published: 2016-04-09T10:29:20+01:00
+Updated: 2019-05-24T16:11:36+01:00
+Retrieved (UTC): 2026-09-18T15:10:02.350137+00:00
+
+Both Estate Duty (deaths before 13 March 1975) and Capital Transfer Tax (deaths between 13 March 1975 and 17 March 1986), while having tiered rates at which duty or tax was payable, had amounts under which no duty or tax was due. This sum will be the equivalent of the nil rate band for calculating the transferable nil rate band available on the death of a spouse whose estate was subject to either Capital Transfer Tax or Estate Duty. The nil rate band in such cases is defined in FA08/Sch4/Para10.
+
+When calculating VT (IHTM43020 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43020)) on the first death, you will need to bear in mind that up until 21 March 1972 there was no spouse or charitable exemption available. From 22 March 1972 to 12 November 1974 spouse exemption was limited to £15,000, charitable exemption to £50,000. From then on, the exemption for spouses who died domiciled in the UK was unlimited. The exemption for charitable bequests was increased from 13 March 1975 until it also became unlimited from 15 March 1983. The effect of this will be similar to when spouse exemption is restricted by IHTA84/S18(2).
+
+This means that, for deaths before 13 November 1974, even though property was left to the spouse (or a charity), it is possible the estate may have been liable to Estate Duty. If the estate did not exceed the amount on which duty was charged at 0%, the balance of that amount is available for transfer in the same way as unused nil rate band for Inheritance Tax (IHT). However, if any duty was paid, the amount on which duty was charged at 0% would have been exhausted, so there is nothing left to transfer. If the first death occurred between 13 March 1975 and 14 March 1983 and exemption is claimed for bequests to charity, seek advice from Technical.
+
+If business or agricultural relief is claimed for an estate subject to Capital Transfer Tax you should seek advice to confirm that the correct rates have been used (the maximum rate of relief was 50% and often less). There was no equivalent capital reduction in the chargeable value of either agricultural or business property for the purposes of Estate Duty – where the equivalent relief applied, it was a relief against duty. This means that if the relief applied, duty must have been payable and the nil rate band was fully used on the first death.
+
+Unlike the equivalent IHT exemption (IHTM11281 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11281)) there was no blanket exemption for Estate Duty for death on active service. It is not the case therefore that just because a person was killed on active service that the exemption from Estate Duty will apply.
+
+Broadly, full exemption only applied to the estates of common sailors, soldiers to the rank of corporal (including lance-sergeants) and ordinary aircraftmen or women killed on the service of the Crown. For more senior ranks, whether commissioned or not, there was no exemption until 12 March 1952. Instead there was a relief of up to £5,000 of the estate passing to certain specified relatives, including the spouse.
+
+Because of the exemption could be of limited effect, it is possible that duty was still payable, even though exemption had been granted. Any case where the taxpayers seek to claim exemption for death on active service afresh, on the basis that no duty would have been payable had the claim been made, should be referred to the Estate Duty specialist, as should any other case of difficulty where the first death occurred in Estate Duty times.

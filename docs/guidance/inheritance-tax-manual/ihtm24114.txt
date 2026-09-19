@@ -1,0 +1,30 @@
+Replacement property: Interaction with business relief
+Identifier: IHTM24114
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24114
+Published: 2016-04-09T09:41:04+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:01:35.429073+00:00
+
+You may need to consider the interaction of business and agricultural relief where the property that has been replaced would have qualified in part for business relief in addition to agricultural relief. (IHTM25121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25121)). The operation of this is best illustrated by the example below.
+
+Example
+
+Adam owns and has farmed Fairfield for a number of years. He sells the property for £20m for development in October 2001. The agricultural value of Fairfield was only £3m.
+
+In March 2002, Adam buys The Gallops for £9m (which is wholly attributable to agricultural value) to resume his farming business.
+
+In April 2003, Adam dies. The Gallops then has a value of £10m, wholly agricultural.
+
+The two year occupation (IHTM24071 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24071)) condition in IHTA84/S118 (1) is satisfied and the ownership conditions for business relief (IHTM25301 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25301)) are also satisfied. On A’s death, the agricultural value on which relief is due is restricted by IHTA/S118 (3). The apportionment in IHTM24113 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24113) gives the following calculation of qualifying agricultural value
+
+(3,000,000 ÷ 9,000,000) × 10,000,000 = £3,333,333
+
+Agricultural relief on The Gallops is limited to a value of £3,333,333. However, Adam had carried on a genuine farming business at Fairfield. If instead of selling Fairfield, he had died in October 2001, the non-agricultural value (£17m) of Fairfield would have qualified for business relief. So, the excess of £6,666,667 wholly qualifies for business relief because
+
+-
+
+the ownership conditions in IHTA84/S107 (1) are satisfied, and
+
+-
+
+there is no restriction of business relief under IHTA84/S107(2) because the relief is less than it would have been if the replacement had not been made.

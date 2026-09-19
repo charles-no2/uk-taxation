@@ -1,0 +1,22 @@
+Part disposals: no gain/no loss disposals
+Identifier: CG12735
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12735
+Published: 2016-03-12T10:00:29+00:00
+Updated: 2024-12-11T14:08:10+00:00
+Retrieved (UTC): 2026-09-18T14:36:54.167524+00:00
+
+S42(5) (https://www.legislation.gov.uk/ukpga/1992/12/section/42) makes it clear that the provisions for the apportionment of cost on a part disposal are to be operated before the various provisions which secure that, in certain circumstances, neither a gain nor a loss is deemed to have arisen on a disposal, see CG14500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14500) .
+
+Example
+
+X and Y are spouses, or civil partners, or members of a group of companies. X has an asset which cost £40,000 and transfers part of the asset to Y. At the time of the transfer, the market value of the part transferred was £30,000. The market value of the part retained was £20,000.
+
+The part disposal rules are applied on the basis that the part of the asset transferred to Y was disposed of at market value. The part of the cost apportioned to the disposal is
+
+£40,000 x (£30,000 / £30,000 + £20,000)) = £24,000
+
+For the purposes of any later disposal by X the adjusted cost of the remainder of the asset is
+
+£40,000 - £24,000 = £16,000.
+
+Y has an acquisition cost of £24,000 in respect of the part of the asset transferred to them.

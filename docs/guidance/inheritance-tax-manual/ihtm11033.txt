@@ -1,0 +1,58 @@
+Spouse or civil partner exemption: spouse or civil partner domiciled outside UK
+Identifier: IHTM11033
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11033
+Published: 2016-03-20T09:32:26+00:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:55:55.804868+00:00
+
+From 6 April 2025, for inheritance tax purposes, domicile is replaced by long-term UK residence and you can find details of these rules at IHTM (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000) and IHTM47030 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47030).
+
+Where a transfer is before 6 April 2025 and, immediately before the transfer
+
+-
+
+the transferor is domiciled (IHTM13031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13031)) in the United Kingdom, or is treated as domiciled in the UK  under IHTA84/S267, but
+
+-
+
+the transferor’s spouse or civil partner (IHTM11032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11032)) is neither domiciled nor treated as domiciled in the United Kingdom,
+
+the exemption for transfers between spouses and civil partners is restricted. Where the transfer is on or after 6 April 2013, the exemption is limited to the nil-rate band that applies at the date of transfer.
+
+Where the transfer was on or after 9 March 1982 and before 6 April 2013, the exemption was limited to £55,000. Before this date the limit was lower still - £50,000 from 26 March 1980 to 8 March 1982, £25,000 from 27 October 1977 to 25 March 1980 and £15,000 before 27 October 1977. (As with UK domiciled spouses there was no exemption at all before 22 March 1972.)
+
+This restriction to the amount of the exemption does not apply if:
+
+-
+
+both the transferor and their spouse or civil partner are domiciled outside the UK, or
+
+-
+
+the transferor is domiciled outside the UK but the spouse or civil partner is domiciled in the UK
+
+The restriction applies to:
+
+-
+
+the value before grossing (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121))
+
+-
+
+the cumulative total of all transfers to a spouse or civil partner. So you must take into account the amounts allowed under earlier transfers to a spouse or civil partner whether or not they were domiciled, treated as domiciled in the UK at the time in considering whether the restriction is exceeded, and
+
+-
+
+since the exemption applies to transfers made by a individual, if that person has been married or in civil partnership with more than person, the restriction applies to the cumulative total of all transfers to all spouses or civil partners.
+
+Where the appropriate limit is exceeded, you should allocate the exemption in the way which is most favourable to the spouse or civil partner. Factors you should bear in mind include which assets bear the tax and whether business relief (IHTM25131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25131)), agricultural relief (IHTM24001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24001)) or any other reliefs are available.
+
+Example 1
+
+In May 2012, Mr Allsop, who was domiciled in the UK, transferred £200,000 to Mrs Allsop, who was not domiciled in the UK. Of this transfer, £55,000 is exempt under IHTA1984/S18(2), and £145,000 is a potentially exempt transfer (PET) (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)) and assumed to be exempt. Mr Allsop dies in 2020 and leaves all his property to his wife, who remains domiciled outside the UK. On Mr Allsop’s death, the limited exemption under IHTA1984/S18(2) has increased to £325,000, so that exemption of £270,000 (£325,000 - 55,000) is now available on his death.
+
+Example 2
+
+In January 2013 Mr Costa transfers a UK property worth £200,000 to Mrs Costa. Both are domiciled outside the UK. Exemption under IHTA1984/S18 (1) is available in full. In June 2013 Mr Costa is deemed to be domiciled in the UK and gives another UK property worth £300,000 to his wife, who remains domiciled outside the UK. The restriction on the exemption under IHTA1984/S18 (2) applies at this point.
+
+At the time of the transfer that triggered the restriction, the spouse exemption available to Mr Costa was £325,000. He has already made a gift to Mrs Costa that qualified for exemption under IHTA84/S18 of £200,000, so the exemption available against this transfer is £125,000. This is because IHTA84/S18(2) reduces the amount of the limited exemption available by ‘any amount previously taken into account for the purposes of the exemption conferred by this section’. This means that £175,000 of the transfer will be a PET to Mrs Costa and chargeable to tax if Mr Costa dies before July 2020.

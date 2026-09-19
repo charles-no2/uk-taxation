@@ -1,0 +1,30 @@
+Calculating the RNRB: calculating the 'default allowance' and the 'adjusted allowance'
+Identifier: IHTM46026
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46026
+Published: 2017-04-05T16:16:36+01:00
+Updated: 2018-09-28T08:29:18+01:00
+Retrieved (UTC): 2026-09-18T15:10:55.971648+00:00
+
+The first step in calculating the entitlement to RNRB is to establish the ‘default allowance’ (IHTM46024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46024)) or the ‘adjusted allowance’ (IHTM46025 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46025)) for the estate. If the adjusted allowance is nil, then there is no RNRB available to the estate and there is no unused RNRB available to transfer to the estate of a spouse or civil partner.
+
+The default allowance is calculated first. The default allowance is equal to the value of the residential enhancement (IHTM46022 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46022)) at the date of death, plus the value of any brought-forward allowance (IHTM46040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46040)).
+
+The next step is to establish whether the value of the estate exceeds the taper threshold (IHTM46023 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46023)). If it does the value of the default allowance is reduced by the taper amount. This reduced value is the adjusted allowance.
+
+Example 1
+
+Evelyn has an estate valued at £750,000 when she dies on 4 September 2020. She is not entitled to any brought-forward allowance.
+
+As there is no brought-forward allowance, the default allowance is simply equal to the residential enhancement at the date of death, £175,000.
+
+The taper threshold at the date of death is £2,000,000. As the estate does not exceed the taper threshold there is no reduction in the default allowance, which remains £175,000.
+
+Example 2
+
+Vitaly has an estate valued at £2,100,000 when he dies on 5 May 2018. His estate is entitled to a brought-forward allowance of £125,000.
+
+The default allowance is equal to the residential enhancement at the date of death, £125,000, plus the brought-forward allowance of £125,000. So his default allowance is £250,000
+
+The taper threshold at Vitaly’s date of death is £2,000,000. His estate exceeds the taper threshold by £100,000, so the taper amount is £50,000. The adjusted allowance is equal to the default allowance minus the taper amount, that is £250,000 minus £50,000. So the adjusted allowance is £200,000.
+
+Note that the value of the default or adjusted allowance does not depend on the value of what is closely inherited. It simply sets the maximum amount of RNRB that the particular estate could possibly qualify for. It also sets the maximum amount of unused RNRB that might be available to transfer to a surviving spouse or civil partner.

@@ -1,0 +1,54 @@
+Long-term UK residence: Young persons
+Identifier: IHTM47024
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47024
+Published: 2025-04-07T08:01:59+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:11:10.630261+00:00
+
+For a young person under the age of 20, the long-term UK residence test is modified by IHTA84/S6B, so that a young person will be a long-term UK resident (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)) if they have been resident in the UK for Income Tax purposes for at least 50% of the tax years since their birth (rounded up to the next whole number). For the purposes of this calculation it is necessary to count the number of whole tax years for which the young person has been alive before the current tax year.
+
+Where a young person under the age of 20 satisfies the modified long-term UK residence test and then leaves the UK, they will remain in scope for a period of time determined by the length of their UK residence under S6A(3), subject to a minimum 3 year period in the same way as an adult (IHTM047020 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47020)).
+
+A young person is not a long-term UK resident at any time in a tax year if they were under the age of 1 (or were not yet born) immediately before the tax year.
+
+Example 1
+
+Michaela was born on 1 April 2006 and leaves the UK at the age of 19 on 1 September 2025 having been UK resident since her birth. The modified long-term UK residence test means that Michaela will be a long-term UK resident if she has been resident in the UK for at least 10 of the 19 whole tax years since her birth.
+
+19 x 50% = 9.5
+
+Rounded to the next whole number = 10
+
+Michaela satisfies the modified long-term UK residence test as she has been resident in the UK for at least 10 out of the 19 whole tax years since her birth as per S6B(1) IHTA84
+
+Michaela will remain in scope for IHT purposes for 9 years as the number of her resident years in the UK is 19 as per S6A(3) IHTA84
+
+Example 2
+
+Manuel was born on 6 April 2026 and leaves the UK on 15 October 2030 at the age of 4 having been UK resident since his birth. The modified long-term UK residence test means that Manuel will be a long-term UK resident if he has been resident in the UK for at least 2 out of the 4 whole tax years since his birth.
+
+4 x 50% = 2
+
+Manuel satisfies the modified long-term UK residence test as he has been resident in the UK for at least 2 of the 4 whole tax years since his birth as per S6B(1) IHTA 84.
+
+Manuel will remain in scope for IHT purposes for the minimum period of 3 years as the number of his resident years in the UK is 4 as per S6A(3) IHTA84.
+
+Example 3
+
+Jasper was born in Argentina on 6 April 2023.
+
+He came to the UK on 6 April 2025 to 10 April 2027. He then went to Hong Kong for 5 years and arrived back in the UK on 7 April 2032.
+
+He stayed in the UK for 3 years before a period of education in the US on 15 May 2035.
+
+On 31 March 2037, he returns to the UK for 1 year before leaving the UK permanently on 1 June 2038 when he is 15 years old.
+
+The modified long-term UK residence test means that Jasper will be a long-term UK resident if he has been resident in the UK for at least 8 of the 15 whole tax years since his birth.
+
+15 x50% = 7.5
+
+Rounded to the next whole number = 8
+
+Jasper does not satisfy the modified long-term UK residence test as he was not resident in the UK for at least 8 of the 15 whole tax years since his birth as per S6B(1) IHTA84. He was only resident in the UK for a total of 6 whole tax years.
+
+Jasper does not therefore satisfy the modified long-term UK residence test.

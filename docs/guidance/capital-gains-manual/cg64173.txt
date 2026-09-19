@@ -1,0 +1,128 @@
+Business Asset Disposal Relief: reduction in lifetime limit from 11 March 2020: anti-forestalling rule: elections under Section 169Q
+Identifier: CG64173
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64173
+Published: 2020-09-21T14:45:00+01:00
+Updated: 2021-02-11T13:15:31+00:00
+Retrieved (UTC): 2026-09-18T14:34:31.944859+00:00
+
+Entrepreneurs’ relief was renamed in Finance Act 2020 with effect from 6 April 2020. The new name is generally used in this manual but retained here as the rules take effect before that date.
+
+The lifetime limit for Entrepreneurs’ Relief was reduced from £10 million to £1 million for disposals on or after 11 March 2020. The legislation provided a number of “anti-forestalling” rules to counter certain arrangements that sought to “lock in” entitlement to the higher limit in anticipation of the abolition or restriction of the relief. Planning involving making an election under TCGA1992/S169Q is addressed by paragraphs 4 and 5 of Schedule 3 Finance Act 2020.
+
+TCGA1992/S169Q allows an election to be made that displaces the normal rule in TCGA1992/S127 that a share reorganisation is treated as not involving any disposal of the original shares involved in the reorganisation. Here, reorganisation includes share exchanges and company reconstructions that are treated as a reorganisation by TCGA1992/S135 and TCGA1992/S136 respectively.
+
+The aim of the election is to allow a disposal to be triggered so as to create a gain against which Entrepreneurs’ Relief may be claimed where it may not be available on a disposal of the new shares. However, it is not restricted to such situations and that leads to the opportunity to plan for changes that would restrict the relief.
+
+Where the anti-forestalling rules apply then if an election is made on or after 11 March 2020 in
+
+relation to a reorganisation that took place from 6 April 2019 to 10 March 2020 then Entrepreneurs’
+
+Relief will be available subject to the reduced lifetime limit of £1 million.
+
+There are separate rules that deal with reorganisations of shares of a single company (TCGA1992/S126) and exchanges of shares and securities (TCGA1992/135).
+
+The rules do not apply to –
+
+- company reconstructions that are treated as reorganisations under TCGA1992/S136, or
+
+- exchanges of shares for Qualifying Corporate Bonds under TCGA1992/S116(10), where an election to disapply the normal rule is provided for by TCGA1992/S169R.
+
+Single company reorganisations: paragraph 4 of Schedule 3 Finance Act 2020
+
+Shareholders can arrange for the company to reorganise its share capital in a way that would, absent the relief at TCGA 1992/S127, constitute a disposal of the shares and an acquisition of new shares. This may involve the cancellation of the existing shares and the issue of new shares or debentures, whether of the same or different classes as the original shares.
+
+Example 1
+
+X and Y each hold 50% of the ordinary shares in a trading company. Before 11 March 2020 they arrange for the company’s articles to be amended and for it to issue them with B shares that carry similar rights to their existing shares but rank below them in terms of rights to assets in a winding up. The ordinary shares are redesignated as non-voting shares with the right only to a return of par value in a winding up. This is treated as a share reorganisation so they are not treated as disposing of their ordinary shares.
+
+Following the reduction in the lifetime limit X and Y could elect under TCGA1992/S169Q to trigger a gain that would qualify for relief under the £10 million lifetime limit even though they would still qualify for relief (subject to the new limit) when they dispose of their B shares.
+
+This rule applies where a reorganisation within the meaning of TCGA1992/S126 takes place from 6 April 2019 to 10 March 2020 and where the individual concerned still meets the qualifying
+
+conditions for Entrepreneurs’ Relief in respect of their shares in the company on 11 March 2020. That means:
+
+- it is a trading company of the holding company of a trading group
+
+- it is their “personal company”, and
+
+- they are an employee or office of the company or a company in the same group
+
+Where the rule applies then gains that accrue because of an election made on or after 11 March
+
+2020 will qualify for Entrepreneurs’ Relief by reference to a lifetime limit of £1 million.
+
+Exchanges of share and securities: paragraph 5 of Schedule 3 Finance Act 2020
+
+The rule applies where an exchange of shares or securities within the meaning of TCGA1992/S135 (which refers to “company A” and “company B” as in the examples below) and either of these conditions is met –
+
+- Those holding shares or securities in company B immediately after the exchange are substantially the same as those who held them in company A. This rule , or
+
+- Those having control of company B immediately after the exchange are substantially the same as those who had control of company A
+
+Example 2
+
+X and Y each hold 50% of the shares in trading company A. Before 11 March 2020 they incorporate company B and it issues them with new shares in exchange for their shares in company A. This is treated as a share reorganisation so they are not treated as disposing of their shares in company A.
+
+Following the reduction in the lifetime limit X and Y could elect under TCGA1992/S169Q to trigger a gain that would qualify for relief under the £10 million lifetime limit even though they would still qualify for relief (subject to the new limit) when they dispose of their shares in company B.
+
+In example 2 the people holding shares are exactly the same individuals, so the first condition applies. The rule treats “connected persons” as the same person, with connected persons defined in
+
+TCGA1992/S286. It is concerned with the persons who actually hold shares in both companies.
+
+Guidance on the meaning of “connected persons” is at CG14580 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14580) onwards.
+
+Example 3
+
+Mr & Mrs M each own 50% of company A. Together with their two children they set up company B and exchange their company A shares for an issue of shares in company B. Because their children are connected persons then the shareholders in each company are treated as being the same so the first condition is met.
+
+Example 4
+
+Mr & Mrs N each own 50% of company A. Third parties wish to invest in the business via company B. Mr & Mrs N exchange their company A shares for an issue of shares in company B so that they together own a 70% majority of the shares. Taking into account the extent of the third party stake, the shareholders would not be considered to be substantially the same.
+
+Whether the shareholders would be regarded as being substantially the same will depend on the facts. Where, say, there are two original shareholders in company A but a third in company B who is not connected and holds a substantial (but not majority) proportion of the shares in that company then the rule may not apply.
+
+Example 4A
+
+Mr R owns 60% of company D. The remaining 40% is owned by other shareholders.
+
+Following a reorganisation Mr R now holds only preference shares in new company E. He is still be entitled to the greater part of the assets which would have been available for distribution among participators (see CTM60230 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm60230)) in the event of a winding up or any other circumstances.
+
+In this type of scenario the condition in para 5 (2)(b) is clearly met.
+
+The second condition applies the meaning of “control” in the close companies rules in CTA2010/S450 & 451. This will also deal with situations where the same persons, or persons connected with them under the TCGA 1992 rules, do not hold the shares in the companies.
+
+Example 5
+
+Mr O owns 100% of company C. The Z trust was settled by his late father and the beneficiaries are the children and further descendants of Mr O and his siblings. The Z trust owns company D, a long-established family investment company.
+
+In September 2019 Mr O exchanged his company C shares in exchange for £4 million in cash plus an issue of shares by company D.
+
+The shares in companies C and D are not held by persons who are connected within the meaning of the rules in TCGA 1992, see CG14590. However, Mr O and the trustees are “associates” because the settlor was a relative of his, CTA2010/S448. Companies C and D are therefore treated as being under the same control.
+
+Mr O will be taxed on the cash element at the time of the exchange and will be able to claim ER based on the £10 million lifetime limit. If he makes a S169Q election then the gain attributable to the consideration he received in the form of shares will attract ER restricted to the reduced limit of £1 million.
+
+This rule would apply to the situation described in example 3 because Mr & Mrs N are “associates” who together control the second company through their 70% shareholding. However, it would not apply where, say, the outside investors in that example had sufficient shares so that Mr & Mrs N do not have control of the second company
+
+Where the rule applies then gains that accrue because of an election made on or after 11 March
+
+2020 will qualify for Entrepreneurs’ Relief by reference to a lifetime limit of £1 million.
+
+There is an additional rule that applies where the share exchange takes place because of the departure of a shareholder: where the remaining shareholders together have a greater shareholding in company B than they did in company A. Where this rule applies then if an election is made then Entrepreneurs’ Relief will be available subject to the lifetime limit of £1 million where the individual concerned still meets the qualifying conditions for Entrepreneurs’ Relief in respect of their shares in the company on 11 March 2020. That means:
+
+- it is the holding company of a trading groupit is their “personal company”, and
+
+- they are an employee or officer of the company or a company in the same group
+
+Example 6
+
+D, E and F had equal shareholdings in company A but D now wishes to retire. E and F establish company B and in October 2019 they exchange their shares in company A for an issue of share in company B. D instead receives cash and loan notes issued by company B, but no shares.
+
+D would not meet the Entrepreneurs’ Relief conditions in respect of company B on 11 March 2020 because it is not their personal company and they are no longer an employee. Therefore they can make the election and the £10 million lifetime limit will apply. If E or F make an election then the limit of £1 million will apply.
+
+Exchanges of share and securities where statutory clearance given: paragraph 5 (7) of Schedule 3 Finance Act 2020
+
+Finally, rather than use an election under TCGA1992/S169Q to trigger a disposal before 11 March 2020 following a share exchange, someone could argue that the anti-avoidance rule in TCGA1992/S137 applies to give the same result. Paragraph 5(7) of Schedule 3 Finance Act 2020 provides that if HMRC has issued an advance clearance under TCGA1992/S138 to confirm that the rule will not apply then it cannot apply in any circumstances. The anti-forestalling rules described above may apply where an election is made.
+
+Example 7
+
+Company A applied for and obtained advance clearance for a share exchange in January 2020. The anti-forestalling rule applies so any gains triggered by an election will be subject to the lifetime limit of £1 million. The shareholders cannot now argue that the clearance is void because their application did not disclose all the material facts relating to the transaction as required by TCGA1992/S138(5).

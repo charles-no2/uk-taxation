@@ -1,0 +1,76 @@
+Absolute entitlement: special cases: unauthorized distributions
+Identifier: CG37700
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37700
+Published: 2016-03-12T10:52:32+00:00
+Updated: 2020-02-21T11:35:01+00:00
+Retrieved (UTC): 2026-09-18T14:31:48.725917+00:00
+
+Unauthorised distributions: Introduction (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37700#unauthorised-distributions-introduction)
+
+Class closing rules (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37700#class-closing-rules)
+
+Class closing rules: possible birth of children (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37700#class-closing-rules-possible birth-of-children)
+
+Special cases: infancy and but for being an infant (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37700#special-cases-Infancy-and-but-for-being-an-infant)
+
+Unauthorised distributions: Introduction
+
+On occasion trustees may execute a deed appointing or advancing property to a beneficiary in excess of their powers under the deed. Alternatively the beneficiaries may execute a deed under which they agree to bring a trust to an end, but strictly fail to do so because there are other persons with remote interests which have been overlooked or disregarded. The most common situation is where the remote interests can only vest if a number of beneficiaries die early or in the unlikely event of a particular elderly man begetting (further) children.
+
+In such circumstances the execution of the deed cannot make anyone absolutely entitled. The trustees could always refuse to distribute the property on the grounds of the existence of the remote interests. Instead there is an actual disposal under TCGA92/S1 on the actual transfer of assets.
+
+If the breach of trust appears to be deliberate, and the deed does not provide for the beneficiaries to indemnify the trustees in the event of any other person having a claim, then you should consult BAI Assets, Residence and Valuation , who will if appropriate consult Capital Gains Technical Group, before agreeing any Income Tax or Capital Gains Tax liability.
+
+Class closing rules
+
+In English and Northern Irish law, where a gift is to members of a class of persons, such as `all my grandchildren', as opposed to named individuals, there are certain rules, known as class closing rules or the rule in Andrews v Partington, which determine when the membership of the class is to be ascertained, if it is not specifically provided for in the deed or will. Good drafting should make it unnecessary to apply these rules and it will be noticed that many deeds and wills specifically exclude the `rule in Andrews v Partington.'
+
+If the class is not closed, then the trustees cannot distribute the property to the beneficiaries because they cannot tell whether the apparent share of a particular beneficiary will be reduced by the addition of further members to the class. Therefore absolute entitlement is deferred. The trustees may however be able to exercise the power of advancement, see CG37300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37300), to pass property to beneficiaries.
+
+In practice, because deeds are no longer examined, you are unlikely to have any reason to doubt that the trustees are correct when they apply the class closing rules and indicate that absolute entitlement has therefore occurred. However cases may arise where the trustees claim that because of the class closing rules absolute entitlement occurred many years ago. You should examine such cases critically.
+
+The general rule is that a class closes when any one member of that class first becomes entitled in possession; no one born after that date can qualify as a beneficiary.
+
+If a member's share is to vest on birth and there are no members when the gift should vest, (for example a will leaves property `to my grandchildren' and the testator has no grandchildren at this death) the class remains open until one can be sure that no more members can be born, which will be, (subject to the possible birth of children), the occasion of death of the testator's last child. If on the other hand the testator has at least one grandchild, then the class consists of those grandchildren alive at his or her death.
+
+If there is an intervening gift, for example `to X for life', then the class is determined when that interest terminates on X's death. If there are any members of the class alive then, the class is closed.
+
+If there is a gift to a class at a specific age, for example `to my grandchildren at 21', the class closes at once if there are any members aged 21 or over, and otherwise closes when the first reaches 21. If there is an intervening death, then the test is applied when the previous interest terminates.
+
+Class closing rules: possible birth of children
+
+There are cases in which the possibility of the birth of children (including further children) to a particular woman is relevant to the question of absolute entitlement. For example, if there is a life interest to Mrs A with remainder to her children, failing whom to B, and Mrs A (who has no children) surrenders her life interest, B does not become absolutely entitled if there is a possibility that Mrs A will have children.
+
+Section 2 Perpetuities and Accumulations Act 1964 and Section 2 Perpetuities Act 1966 (Northern Ireland) contain a presumption for certain purposes that a woman will have no children after she attains the age of 55 and the Revenue apply this for Capital Gains Tax purposes in cases to which those Acts apply. In England this covers settlements made after 15 July 1964.
+
+In cases to which those Acts do not apply, the initial presumption is that a woman may have children at any age. Nevertheless, as a matter of administration, trustees may rely on medical evidence and distribute property accordingly. The law assumes that a man may beget children at any time, but similarly evidence may be produced of male infertility.
+
+In cases of this kind there are three possible dates on which absolute entitlement could be said to have occurred.
+
+- The date upon which the incapacity arose
+
+- the date upon which the trustees became aware of the situation, or
+
+- the date upon which they decided to act on the basis of their knowledge.
+
+In the Board's view the last of these is correct.
+
+Special cases: Infancy and but for being an infant
+
+TCGA92/S60 (1) & TCGA92/S71 (3)
+
+In general a person who is an infant, under 18 in English and Northern Irish law, cannot require trustees to hand over property to which he or she would otherwise be entitled. In the case of land an infant cannot be the legal owner. In other cases the infant cannot give the trustee a receipt. Therefore the trustee must hold onto the asset. However if infancy is the only thing that prevents the property from being handed over, the infant is treated for Capital Gains Tax purposes as absolutely entitled to it. Similar treatment applies to other persons who are under a legal disability, for example, enemy aliens or those mentally disabled.
+
+See CG34320  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34320)for the distinction between the case where a person would be absolutely entitled but for being an infant, and the case where a person is not absolutely entitled because he or she has not yet attained the age of 18 when the interest vests.
+
+In Scotland a minor (person 14-17) has more rights and powers than an English infant, but the same principles apply.
+
+See CG36330  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg36330)for more information on the interests of infants and minors.
+
+Where a beneficiary would have become absolutely entitled as against the trustee, but for being an infant, TCGA92/S71 (3) makes it clear that there is on that occasion a deemed disposal by the trustees under Section 71 (1). The beneficiary is now within Section 60. He or she is treated as having acquired the assets in question for Capital Gains Tax purposes on that occasion.
+
+Section 71(3) was enacted in 1981 to avoid possible doubts. It is considered that it was declaratory of the existing law. It should therefore be treated as always having applied, even in cases which were settled on the incorrect basis that there was no disposal on that occasion.
+
+Where he or she would have become absolutely entitled before 3 April 1981, there was on that occasion a deemed disposal by the trustees of those assets under what is now TCGA92/S71 (1) and the beneficiary should be treated as acquiring the assets at their market value at that time. Where, however, in accordance with earlier instructions, the HMRC has accepted that no chargeable gains accrued to the trustees on that occasion because there was no deemed disposal of assets, that position should continue to be accepted but the beneficiary should nevertheless be treated as acquiring the assets at their market value at that time.
+
+Where he or she would have become absolutely entitled on or after 3 April 1981, TCGA92/S71 (3), (introduced by FA81/S87) makes it clear that there is on that occasion a deemed disposal by the trustees under Section 71(1), and the beneficiary should therefore be treated as acquiring the assets at market value at that time.

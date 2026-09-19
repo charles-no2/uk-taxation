@@ -1,0 +1,174 @@
+Globally mobile employees: Overseas Workday Relief: pre-6 April 2025 tax years: Amount of PAYE tax paid remitted
+Identifier: EIM43663
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim43663
+Published: 2026-01-12T14:33:11+00:00
+Updated: 2026-05-05T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:23:09.556755+00:00
+
+Where there is any PAYE tax deducted from section 26 earnings (“section 26 PAYE tax”) which is not repayable, in order to determine the full amount remitted it may be necessary to undertake two income tax liability calculations:
+
+- a preliminary calculation to determine any amounts which are not repayable and
+
+- a second calculation to determine the actual income tax liability for the tax year.
+
+After undertaking the preliminary calculation, where this shows that some, but not all, of the section 26 PAYE tax is not repayable, it may be necessary to undertake a grossing up calculation to determine the actual amount of section 26 PAYE tax remitted.
+
+This is because the remittance results in a further liability to income tax, which would reduce the PAYE tax repayable further, resulting in a further liability to income tax and so on.
+
+This means that where the preliminary calculation shows that some, but not all, of the section 26 PAYE tax is not repayable, the remittance would be the lower of the grossed up preliminary section 26 PAYE tax not repayable, or the total section 26 PAYE tax.
+
+Example (Part 1)
+
+Petra benefitted from OWR in a tax year in which her total general earnings for that year were £120,000, made up of £84,000 section 15 earnings and £36,000 section 26 earnings. This was made up of her monthly salary of £10,000.
+
+PAYE tax of £2,900 was deducted from her monthly salary, together with Primary Class 1 NICs of £100. Petra’s net earnings of £7,000 were then paid into an overseas bank account, which she transferred £4,500 from each month immediately after her salary was paid.
+
+Monthly pay | PAYE tax | Class 1 NIC | Net pay offshore | Net transfers to UK |
+
+£10,000 | £2,900 | £100 | £7,000 | £4,500 |
+
+Petra treats her employer as having paid each element from section 15 earnings and section 26 earnings in the same proportion as her total general earnings received in the tax year. So, £900 of the PAYE and Primary Class 1 NICs would have been deducted from section 26 earnings and the £7,000 payment into the offshore account would be made up of £4,900 section 15 earnings and £2,100 section 26 earnings.
+
+Total Transfers in | Total Transfers out | S.15 PAYE | S.26 PAYE | S.15 NIC | S.26 NIC |
+
+£7,000 | £4,500 | £2,030 | £870 | £70 | £30 |
+
+Under the mixed fund rules, transfers out of the overseas account into the UK are treated as being made from section 15 earnings first, so that the £4,500 transfer does not result in a remittance of any section 26 earnings.
+
+Total Transfers in | S.15 transfers in | S.26 transfers out | Total transfers out | S.15 transfers out | S.26 transfers out | S.15 balance | S.16 Balance |
+
+£7,000 | £4,900 | £2,100 | £4,500 | £4,500 | £0 | £400 | £2,100 |
+
+If any of the PAYE tax deducted from section 26 earnings is not repayable, there will have been a remittance to the UK when this PAYE tax was paid to HMRC.
+
+Any of the Primary Class 1 NICs deducted from section 26 earnings will result in a remittance when it is paid to HMRC, unless it is subsequently repayable by reason of a mistake or error having been made. If any such NICs is repayable, it would be necessary to consider where the repayment is received. Of the £1,200 total Primary Class 1 NICs deducted in the year, £360 was deducted from section 26 earnings, none of which was repayable.
+
+This means there was an in-year remittance of £360, in addition to any remittance as a result of any PAYE tax paid which was deducted from section 26 earnings, which is not repayable.
+
+| Annual | Section 15 | Section 26 |
+
+PAYE Tax | £34,800 | £24,360 | £10,440 |
+
+Class 1 NICs | £1,200 | £840 | £360 |
+
+To determine whether any of the section 26 PAYE tax paid is not repayable, it may be necessary to undertake a preliminary income tax liability calculation, not including the PAYE tax paid.
+
+Petra’s preliminary taxable earnings are made up of £84,000 salary taxable on receipt under section 15 and £360 Primary Class 1 NICs taxable on remittance under section 26. Petra’s preliminary taxable earnings are £84,360.
+
+The tax payable on these earnings was £26,204. As total PAYE tax of £34,800 was deducted, a repayment is due of £8,596. £10,440 total PAYE tax was deducted from section 26 earnings, so that £1,844 is not repayable and was remitted at the time the PAYE tax was paid to HMRC.
+
+£8,596
+
+| Amounts |
+
+Preliminary Taxable Earnings (s15 + S.26 class 1 NIC)
+| £84,360
+|
+
+Tax payable
+| (£26,204)
+|
+
+Total PAYE deducted
+| £34,800
+|
+
+Repayment due (Tax payable less PAYE deducted)
+| £8,596
+|
+
+Total PAYE deducted from s.26
+| (£10,440)
+|
+
+Balance of s.26
+| (£1,844)
+|
+
+The total amount remitted as a result of the section 26 PAYE tax paid, would be the lower of the grossed up £1,844 or the £10,440 PAYE tax deducted from section 26 earnings. £1,1844 grossed up is £3,073.33, so that the remittance was £3,073.33.
+
+Petra’s total taxable earnings are £87,433.33 and the tax payable on these earnings is £27,433.33, leaving £7,366.67 tax repayable.
+
+As the repayment is of tax deducted from section 26 earnings, it retains that character, so that if the £7,366.67 is paid into a UK bank account this would result in a further remittance. However, if it is paid into an offshore bank account, there would be no remittance until it is subsequently transferred into the UK.
+
+As set out EIM43660 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim43660), there will generally be a broad degree of discretion available when determining the character of earnings paid or provided by an employer, so that there may be a range of approaches which could be taken in a particular case.
+
+Example (Part 2)
+
+Instead of treating the amounts deducted and the payment into the overseas account as being made up of section 15 earnings and section 26 earnings in the same proportion as her total general earnings for that year, Petra could treat both the PAYE tax and Primary Class 1 NICs as being deducted wholly from section 15 earnings.
+
+The £2,900 PAYE tax and £100 Primary Class 1 NICs deducted each month would be treated as deducted from section 15 earnings, which would mean the monthly payment overseas would be made up of £4,000 section 15 earnings and £3,000 section 26 earnings.
+
+Monthly pay
+| Net pay offshore
+| S.15 balance
+| S.26 balance
+| Net transfers to UK
+| S.15 balance after transfer
+| S.26 balance after transfer
+| S.26 remitted
+|
+
+£10,000
+| £7,000
+| £4,000
+| £3,000
+| £4,500
+| £0
+| £2,500
+| £500
+|
+
+This would result in a remittance of £500 being made each month as a result of the £4,500 transferred into Petra’s UK bank account, so that there would now be in year remittances of £6,000, together with the £84,000 section 15 earnings. Petra’s total taxable earnings are £90,000 on which the tax payable is £28,460.
+
+Petra is now entitled to a repayment of £6,340, which she could receive into a UK bank account without resulting in any further remittance, as none of it was deducted from section 26 earnings.
+
+| Amounts |
+
+Preliminary Taxable Earnings (s15 + S.26 remittance)
+| £90,000
+|
+
+Tax payable
+| (£28,460)
+|
+
+Total PAYE deducted
+| £34,800
+|
+
+Repayment due
+| £6,340
+|
+
+Alternatively, rather than treat all the PAYE as having been deducted from section 15 earnings, she could treat part of it as being deducted from section 26 earnings. She could choose to treat £500 of the PAYE tax as having been deducted from section 26 earnings. It may therefore be necessary to undertake a preliminary income tax liability calculation not including the PAYE tax paid.
+
+Petra’s total taxable earnings would then be £84,000 on which there would be £26,060 tax payable. The PAYE tax repayable would be £8,740, and the PAYE tax deducted from section 26 earnings would have been £6,000. All the tax deducted from section 26 earnings is repayable, so it is unnecessary to undertake a further income tax liability.
+
+| Amounts
+|
+
+Preliminary Taxable Earnings (s15)
+| £84,000
+|
+
+Tax payable
+| (£26,060)
+|
+
+Total PAYE deducted
+| £34,800
+|
+
+Repayment due
+| £8,740
+|
+
+Total PAYE deducted from s.26
+| (£6,000)
+|
+
+| Repayment contains both s.26 and s.15 amounts
+|
+
+If the £6,000 section 26 earnings is repaid into an overseas account there are no remittances either in the year the earnings were received, or in the subsequent tax year, until it is subsequently transferred into the UK. Any amount of section 15 earnings can be repaid into a UK or overseas account.

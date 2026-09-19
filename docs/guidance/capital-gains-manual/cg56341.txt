@@ -1,0 +1,24 @@
+Shares and securities: employee share schemes: employment-related securities: employee: restricted securities example 
+Identifier: CG56341
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56341
+Published: 2016-03-12T11:39:13+00:00
+Updated: 2026-09-10T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:43:25.235304+00:00
+
+Share value lower than when recieved
+
+The effect of the Income Tax (Earnings and Pensions) Act 2003 (https://www.legislation.gov.uk/ukpga/2003/1/contents) rules and section 149AA of the Taxation of Chargeable Gains Act 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/149AA) can be to create a larger loss for Capital Gains Tax purposes than would otherwise be the case.
+
+Y receives 1,000 shares in his employing company. Their initial actual market value was agreed at 70p per share and the unrestricted market value was £1 per share. He did not sign an election.
+
+When the restriction is lifted the shares' market value is now only 60p per share - less than when Y received them.
+
+-
+
+The amount which constitutes earnings of Y on acquisition is based on 70% of the unrestricted market value (70% of £1 = 70p),
+
+-
+
+when the restrictions are removed the amount which counts as income of Y is 30% of whatever the market value is at that time (30% of 60p = 18p)
+
+So, if Y immediately sells the shares for 60p per share, the difference between the market value on acquisition, £700, and the sale proceeds is £100. But overall Y has employment income £880 and there is an allowable capital loss of £280.

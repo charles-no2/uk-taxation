@@ -1,0 +1,22 @@
+Interest: specific inclusions: discounts: taxation
+Identifier: SAIM2230
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2230
+Published: 2016-03-19T16:24:09+00:00
+Updated: 2018-11-20T10:45:14+00:00
+Retrieved (UTC): 2026-09-18T14:26:06.200413+00:00
+
+Tax treatment of discounted securities
+
+For the purposes of ITTOIA05 all discounts, other than discounts in deeply discounted securities, are treated as interest for tax purposes, ITTOIA05/S381. (Previously, Case III taxed ‘all discounts’.)
+
+But this does not mean that someone who acquires a debt security and later sells or redeems it can simply be taxed on their profit. Such profits can only be charged to income tax if they are income rather than capital: and there is an extensive body of case law dealing with this question.
+
+SAIM2240 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2240) looks briefly at how discounts and premiums are taxed under general tax principles. However, in most cases of sales or redemptions of debt securities, it is unnecessary to consider these general principles, since the majority of discounted securities (but not gilts, apart from gilt strips) and securities redeemable at a premium fall into the definition of ‘deeply discounted security’ in ITTOIA05/S430.
+
+ITTOIA05/PART4/CHAPTER8 charges the profit on sale or redemption of a deeply discounted security to income tax, regardless of whether the profit is capital or income. Such securities are taken out of the ambit of capital gains tax by being included in the definition of qualifying corporate bond. Full guidance on deeply discounted securities is at SAIM3000 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3000) onwards.
+
+Profits or losses on the sale of gilt-edged securities are not charged under an income regime, and are exempted from capital gains tax by TCGA92/S115, see CG54900 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg54900).
+
+Excluded indexed securities - securities where the amount payable on redemption is obtained by applying a percentage change in the value of chargeable assets (ITTOIA05/S433) - are kept out of the deeply discounted securities regime. Profits on sale or redemption are instead charged to capital gains tax, see CG53446 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53446).
+
+If a debt instrument is neither a deeply discounted security, a gilt nor an excluded indexed security, the tax treatment of any discount or premium will need to be decided on general principles. Such cases will include securities where the difference between the issue price and the amount payable is too small for the instrument to qualify as a deeply discounted security.

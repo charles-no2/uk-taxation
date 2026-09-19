@@ -1,0 +1,46 @@
+Ten year anniversary: Tax calculation: the rate of tax: step 2: the nil rate band available (‘NRBA’) 
+Identifier: IHTM42086
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42086
+Published: 2016-04-09T10:23:49+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:09:26.431016+00:00
+
+The nil rate band (NRB) is reduced by the sum of
+
+- any chargeable transfers made by the settlor in the seven years prior to the start of the trust (IHTM42255 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42255)) and
+
+- any amounts which incurred exit charges (IHTM (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42110)42110 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42110)) in the ten years prior to the anniversary.
+
+Nil Rate Band Available | £ | Notes |
+
+A: Nil rate band | A | Current NRB |
+
+B: Less any chargeable transfers made by the settlor in the seven years prior to the start of the trust | (B) | IHTM42255 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42255) |
+
+C: Less any amounts which incurred exit charges in the ten years prior to the anniversary | (C) |   |
+
+NRBA = | A - (B) - (C) | Sum cannot be a negative value |
+
+Simple scenarios
+
+If (B) + (C) is nil the NRBA is £325,000 (i.e. the full NRB).
+
+If that sum is £200,000 the NRBA is £125,000.
+
+If that sum is greater than or equal to £325,000 the NRBA is nil. It also means that the initial rate of IHT is 6% so you do not need to consider step 3.
+
+Other scenarios
+
+-
+
+If the trust started before 27 March 1974 then ignore 1. above.
+
+-
+
+If property had been the subject of an exit charge and is also comprised in the trust at the ten-year anniversary then you reduce sum of 1. + 2. above by the lower of the value transferred at the exit and the value charged at the anniversary (IHTM42089 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42089))
+
+-
+
+If the settlor makes further additions to the trust (after 8 March 1982) and the previous chargeable transfers at that time are greater than the chargeable transfers made in the seven years prior to the commencement of the trust then you should use the higher figure for cumulation. (IHTM42090 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42090))
+
+Once you know the NRBA above and the notional lifetime transfer (IHTM42085 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42085)) you can then calculate the initial rate of Inheritance Tax which will be a figure less than or equal to 6%.

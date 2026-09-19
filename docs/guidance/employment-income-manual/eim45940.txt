@@ -1,0 +1,92 @@
+Employment income provided through third parties: transition: relevant step within Section 554C or 554D giving rise to Part 7A income: relevant step within Section 554B before 6 April 2011 already taxed: example
+Identifier: EIM45940
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45940
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T13:19:14+01:00
+Retrieved (UTC): 2026-09-18T14:23:36.153027+00:00
+
+Schedule 2 paragraph 59 FA 2011
+
+There is the possibility of double taxation if what is effectively the same amount is:
+
+first taxed as earnings within Section 62 ITEPA 2003 (see EIM00511 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim00511)) for a period before 6 April 2011, and
+
+then taxed again under Part 7A ITEPA 2003.
+
+This could happen if there is a third party arrangement which results in essentially the same employment income being taxed both as earnings within section 62 ITEPA at an earlier date and under Part 7A after the commencement of the Part 7A rules because of something that happens after the Part 7A rules come into effect.
+
+There are special rules to stop this double taxation.
+
+EIM45935 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45935) explains these rules. This page gives a worked example.
+
+Stage 1 settlement
+
+Before 6 April 2011, employer B contributed a total of £1.7 million to an EBT, as follows:
+
+- £0.5 million on 10 May 2005 (in 2005-06)
+
+- £0.9 million on 28 October 2006 (in 2006-07)
+
+- £0.3 million on 5 August 2007 (in 2007-08)
+
+The trustee (P) immediately allocated all these amounts into a sub-trust for employee A.
+
+HMRC enquired into the treatment of the sums allocated into sub-trusts.
+
+Employer B and HMRC reached a settlement on 1 December 2012. It was agreed that all of the sums allocated to the sub-trust were payments of earnings within Section 62 ITEPA 2003 from A’s employment with B.
+
+In reaching the settlement, it was established that HMRC was able to collect the PAYE tax due on the payments of earnings for 2006-07 and 2007-08.
+
+But HMRC did not take action within normal time limits to protect the taxing position for 200506. Just for the purposes of this example, assume that it has also been established that on the specific facts of this case, extended time limits do not apply.
+
+In reaching the settlement, therefore, HMRC and employer B agreed that B was not liable to account for PAYE on the 2005-06 earnings. To determine whether the Part 7A charge should be reduced in circumstances where information had been provided to HMRC see questions 2.3 to 2.7 in the EBT Frequently asked Questions (http://www.hmrc.gov.uk/specialist/ebt-faqs.pdf)
+
+Following the settlement, employer B paid the PAYE for 2006-07 and 2007-08 to HMRC on 1 March 2013.
+
+Stage 2 Part 7A relevant step after settlement
+
+In the time since the allocations to the sub-funds, the trustee had invested the allocations of £1.7 million and the total amount had grown to £1.9 million by 1 March 2013.
+
+There is no suggestion of manipulation to inflate the investment returns artificially
+
+P paid the full sum of £1.9 million to employee A on 31 March 2013. This was a relevant step within Section 554C, and the arrangement came through the Section 554A gateway and so the Part 7A rules apply.
+
+Before taking account of any reduction provided by Schedule 2 paragraph 59 FA 2011, the value of the relevant step to count as A’s employment income would be £1.9 million.
+
+Is a reduction due under paragraph 59?
+
+In order to answer this question, you need to consider:
+
+- the conditions applying to the relevant step,
+
+- the tax compliance condition, and
+
+- the value condition.
+
+All three conditions applying to the relevant step are met.
+
+- The allocations to the sub-trusts were steps within (what is now) Section 554B.
+
+- The payment on 31 March 2013 was a relevant step within Section 554C.
+
+- This relevant step gave rise to Part 7A income.
+
+And all three elements of the first tax compliance condition are met.
+
+- The agreement between the employer and HMRC is made before the ‘chargeable step’ is taken on 31 March 2013.
+
+- The agreement covers one or more pre-6 April 2011 steps and provides that those steps are treated as giving rise to earnings within Section 62 ITEPA 2003 in the respective pre 6 April 2011 tax years.
+
+- Before the ‘chargeable step’ is taken on 31 March 2013, employer B has paid the outstanding tax due under PAYE for 2006-07 and 2007-08. Although 2005-06 has not been paid, this year was included in the agreement as described in Stage 1 of this example.
+
+Finally, you need to consider the value condition. As the growth in the EBT funds to £1.9 million has come about through normal investment activity with no manipulation, the value of the relevant step taken on 31 March 2013 can be considered, on a just and reasonable basis, to represent the earnings included in the settlement.
+
+So, you reduce the value of the relevant step by:
+
+- the earnings of £1.7 million (that is, the earnings for all three of the tax years covered by the settlement), and
+
+- the directly attributable return on those earnings of £0.2 million.
+
+So, the value of the relevant step is reduced to nil.
+
+The treatment of the payment of trust income of £0.2 million to the employee will need to be considered separately.

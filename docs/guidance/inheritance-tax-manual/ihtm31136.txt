@@ -1,0 +1,26 @@
+Assessing: COMPASS: making amendments: new Entries
+Identifier: IHTM31136
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31136
+Published: 2016-04-09T10:03:05+01:00
+Updated: 2016-02-11T17:15:43+00:00
+Retrieved (UTC): 2026-09-18T15:05:51.955387+00:00
+
+If one has not already been prepared, you can add a new Entry (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)) from the ‘Estate Details’ (IHTM31131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31131)) window.
+
+- Select the first ‘Add’ button. This will open a new window and create a new entry using the next consecutive letter available. For instance, if the last Entry was B, the next will be C. For this reason you should consider the order of your Entries before you set them up.
+
+- Enter a description for the new Entry, such as ‘F Bloggs Will Trust’. What you enter here will appear as the title on printed calculations.
+
+- Select the appropriate type of chargeable transfer from the drop-down stats box. Make sure this is correct, as you cannot change it later.
+
+- If the Entry relates to a lifetime transfer, enter the date of transfer in the new box that will appear. If you are including a number of transfers within the same Entry, use the date of the last transfer. COMPASS will use the date to calculate any taper relief (IHTM14611 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14611)) and interest.
+
+- Select ‘OK’ to confirm that you want to add the Entry.
+
+COMPASS will automatically set up an NIOP (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)) assessment group for the new entry. You can then add other assessment groups, asset, liabilities and reliefs and exemptions in the usual way.
+
+COMPASS will bring forward the agent and liable people details from the previous Entry. It is likely that you will need to change some of these. Do this in the usual way, making sure that the correct Entry is displayed in the Entry option in the Estate Details window.
+
+Shortcut
+
+You can add a new entry from the ‘Case Outline’ window. Choose any Entry folder and right click once.. Choose ‘Add Entry’ from the menu that appears.

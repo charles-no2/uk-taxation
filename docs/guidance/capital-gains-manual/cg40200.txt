@@ -1,0 +1,48 @@
+Administration: the charge to corporation tax on chargeable gains 
+Identifier: CG40200
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg40200
+Published: 2016-03-12T11:00:52+00:00
+Updated: 2025-10-28T09:40:51+00:00
+Retrieved (UTC): 2026-09-18T14:31:55.489006+00:00
+
+The charging provisions for gains of companies within the charge to corporation tax are set out in Chapter 2 of Part 1 TCGA. This was rewritten and applies to accounting periods beginning on or after 6 April 2019 and to disposals on or after that date for earlier accounting periods. The previous statutory references are shown in [square brackets] in this guidance.
+
+The profits of a company for corporation tax include its chargeable gains, CTA09/S2(2).
+
+A company which is not resident in the United Kingdom will only be within the charge to Corporation Tax for chargeable gains in the following circumstances –
+
+- if it carries on a trade here through a permanent establishment. The chargeable profits of a company which comes within the charge to Corporation Tax in this way will include chargeable gains on assets used for the business of the permenant establishment, TCGA92/S2B(3) & 2C [S10B],
+
+- for disposals on or after 6 April 2019, a non-UK resident company is chargeable on gains on interests in UK land and assets that derive 75% or more of their value from such interests, TCGA92/S2B(4).
+
+For disposals of certain interests in UK land before 6 April 2019 a non-UK resident company may have been chargeable to Capital Gains Tax under the following rules –
+
+- CGT on assets subject to the annual tax on enveloped dwellings (ATED-related CGT), see CGM76600+, and
+
+- Non-resident Capital Gains Tax (NRCGT), see CGM73700P
+
+From 6 April 2019 a company would only be liable to pay Capital Gains Tax in a in a fiduciary capacity, see below.
+
+The amount of gains to be included in corporation tax profits is the gains of the accounting period less any allowable capital losses which accrue to the company in the same accounting period and losses of any previous period which have not been set against earlier gains, TCGA92/S2A [S8(1)].
+
+Losses are computed on the same principles as chargeable gains. `Allowable losses' do not include losses which accrue to a company in circumstances where any gain that had arisen would have been exempt from Corporation Tax, TCGA92/S2A(2) [S8(2)] nor any losses that are subject to the anti-avoidance rules in TCGA92/S16A, see CG40240+.
+
+A company must give notice of loss in order for it to be an allowable loss, TCGA92/S16(2A). The rules about making claims apply to the giving of such a notice. The amount of the loss must be quantified and the notice must usually be given within four years of the end of the relevant accounting period. Further guidance on the rules for making claims is in the Company Taxation Manual at CTM90610+ and at CG15800+.
+
+The deduction of losses from gains is subject to restriction in the case of a `pre-entry loss', TCGA92/S77A and TCGA92/SCH7A. A pre-entry loss is a realised loss which has accrued to a company before it joins a group which a company brings into a group. Such losses can only be set against certain gains, see CG47400+.
+
+In addition, losses may not be set against gains where the anti-avoidance rules to prevent loss-buying and gain-buying in TCGA92/S184A-F apply, see CG47020+ and CG47320+. These rules apply losses would otherwise be deducted from gains that accrues from 5 December 2005.
+
+There is no provision that allows a company with an excess of losses over chargeable gains to set the excess losses against income in computing the Corporation Tax profits.
+
+Although Capital Gains Tax and Corporation Tax are distinct taxes, the general principles of Capital Gains Tax are to be applied (so far as is consistent with the legislation on the taxation of companies) both to that tax and to Corporation Tax on chargeable gains as if they were one tax, TCGA92/S2D [S8(3)].
+
+In particular, where those principles would apply in a matter which concerns two individuals, they are to apply equally in a matter which concerns an individual and a company, TCGA92/S2F [S8(5)].
+
+Chargeable gains of companies are charged as corporation tax on company profits. Depending on the amount of profits of the company, and if the company is within a special regime, the rate of tax may vary from the standard rate.
+
+With effect from 1 April 2023, the standard small profits rate of Corporation Tax for non-ring fence profits has been reintroduced (it previously applied for financial years up to and including 2014). Guidance on when and how the small profit rate applies can be found at CTM03905.  (https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fhmrc-internal-manuals%2Fcompany-taxation-manual%2Fctm03905&data=05%7C02%7Cowen.lloyd%40hmrc.gov.uk%7C699bf9fdde484198da6708ddc9bda933%7Cac52f73cfd1a4a9a8e7a4a248f3139e1%7C0%7C0%7C638888538596700979%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=SY8lvcBzAB0iLkMrkrdwzqVor18jG7XKigSnXD4%2F%2F98%3D&reserved=0)
+
+Special rates may apply to all of the profits for companies within certain special regimes, such as the “ring fence” business in the oil and gas sector
+
+Chargeable gains which accrue to a company in a fiduciary or representative capacity are excluded from the charge to Corporation Tax, CTA09/S6(1), see CTM01120. Such gains are chargeable to Capital Gains Tax on the company in accordance with the normal rules for trustees.

@@ -1,0 +1,142 @@
+Settlements legislation Rules affecting non-domiciled and deemed domiciled settlors of non-resident trusts from 6 April 2017 – 5 April 2025: Exceptions to transactions that are ignored for the purposes of tainting 
+Identifier: TSEM4625
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4625
+Published: 2025-04-07T08:00:14+01:00
+Updated: 2025-04-07T08:33:10+01:00
+Retrieved (UTC): 2026-09-18T16:19:56.245833+00:00
+
+The guidance on this page relates to the period 6 April 2017 - 5 April 2025. From 6 April 2025 the rules around the taxation of non-UK domiciled individuals ended and individuals are taxable based on their residence position only. Detailed guidance on the changes from 6 April 2025 can be found at TSEM4700 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4700) onwards.
+
+TSEM4620 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4620)  (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4620)looked at situations where transactions which added property or income to settlements were ignored for the purposes of tainting the trust. This paragraph looks at a number of exceptions to the rules on ignoring such transactions.
+
+These exceptions concern scenarios where a loan has been made. In order for any exception to apply it is important to note that the recipient of the loan must be the trustees of the settlement
+
+The first exception
+
+The first exception is where:
+
+-
+
+a loan is made to the trustees of the settlement by the settlor or the trustees of a settlement connected to the settlor, and
+
+-
+
+the loan is on arm’s length terms, but
+
+-
+
+a relevant event occurs.
+
+A connected settlement is where the person connected to the settlement is either the settlor or a beneficiary of that settlement.
+
+For this purpose, arm’s length terms means:
+
+-
+
+if a loan is made to the trustees of a settlement, interest at official rate or more must be paid at least annually under the loan, or
+
+-
+
+if a loan has been made by the trustees of the settlement, the interest payable under the loan should not be paid at more than the official rate.
+
+In these circumstances the principal of the loan cannot be ignored after the relevant event has occurred and it is to be regarded as having been provided for the purpose of the settlement at the time of the relevant event.
+
+A relevant event occurs in the following situations:
+
+-
+
+capitalisation of interest payable under a loan
+
+-
+
+any other failure to pay interest in accordance with the terms of the loan
+
+-
+
+a variation in the terms of the loan such that they cease to be arm’s length terms.
+
+In relation to bullet point two above HMRC will not seek to apply the tainting provisions for a minor failure to pay interest on time – as per Example 1 below where the payment was 10 days late.
+
+Example 1
+
+In February 2020 Maria lends the trustees of the Maria 2019 Discretionary Settlement €250,000, repayable in quarterly instalments over 10 years. The loan carries interest at 3% per annum, payable quarterly in arrears. The official rate of interest in February 2020 is 3%. In 2023 the official rate of interest rises to 3.25%.
+
+In May 2021 the trustees pay the quarterly interest due on the loan ten days late due to an administrative oversight. This would not be regarded as a failure to pay interest in accordance with the terms of the loan. The settlement would not be tainted, and the foreign source income would remain protected.
+
+Example 2
+
+The facts are the same as in example one above. From February 2022 the trustees do not pay the quarterly interest due on the loan on time. Payments are made between a week and several weeks late. This would be regarded as a failure to pay interest in accordance with the terms of the loan. The settlement would be tainted, and the foreign-source income would cease to be protected with effect from February 2022.
+
+Example 3
+
+The facts are the same as in example one. The trustees initially pay the interest in accordance with the terms of the loan but in June 2023 they request that the interest be payable annually with immediate effect. Maria agrees to the request and the terms of the loan are varied accordingly. It is necessary to consider whether there has been a relevant event per section 682B(4). There has been no capitalisation of the interest payable and no failure to pay it in accordance with the terms of the loan, but there has been a variation in the terms of the loan.
+
+The interest rate of the loan has not changed at June 2023 and the interest is payable annually. The official rate of interest rose to 3.25% from April 2022. This did not cause the tainting of the trust at that time, but the loan as varied carries interest at below the official rate from June 2023. The principal of the loan is therefore treated as having been provided to the trustees at June 2023. The settlement is therefore tainted, and the foreign source income ceases to be protected.
+
+The second exception
+
+The second exception can only apply:
+
+If:
+
+-
+
+The settlor becomes deemed domiciled in the UK on or after the 6 April 2017
+
+-
+
+Before the date that they become deemed domiciled (the deemed domiciled date) a loan has been made to the trustees of the settlement by:
+
+- the settlor, or
+
+- the trustees of a settlement connected with the settlor
+
+-
+
+The loan has not been entered into on arms-length terms, and
+
+-
+
+Any amount outstanding at the deemed domiciled date is payable or repayable on demand on or after that date
+
+The amount outstanding is regarded as property directly provided on the deemed domiciled date by the lender for the purposes of the settlement, and the trust will be tainted.
+
+But if the settlor becomes deemed domiciled on the 6 April 2017 (the deemed domicile date) there are transitional provisions so the loan will not be considered to be provided directly for the purpose of the settlement if:
+
+-
+
+the principal of the loan is repaid, and all interest under the loan is paid, before 6 April 2018, or
+
+-
+
+the loan becomes a loan on arm’s length terms before 6 April 2018 and before that date interest is paid to the lender in respect of the period from 6 April 2017 to 5 April 2018 as if the arm’s length terms had applied for that period, and interest continues to be payable thereafter in accordance with the terms.
+
+Example 4
+
+Tracy was born in Massachusetts, although her domicile of origin was in the UK. During her childhood her family emigrated to Western Australia, where she lived for many years. Tracy is married to an Australian citizen, and they have three children. It is accepted that Tracy acquired a domicile of choice in Western Australia in early adulthood.
+
+In March 2002 Tracy settled the Tracy Children’s Settlement using corporate trustees in Hong Kong. She settled two investment properties located in Thailand, an investment portfolio of non-UK shares and a substantial amount of cash held on deposit in Hong Kong. Tracy retained an interest in the settlement.
+
+In early 2004 Tracy’s husband is offered a senior role at an investment bank based in London. The family move to the UK in March 2004, expecting to be there for five years. During 2017 Tracy’s husband leaves his job in order to start a business with two former colleagues.  The business becomes successful, and the family remain in the UK beyond 2018.
+
+The trustees of the Grace 1983 Discretionary Settlement of which Tracy is a beneficiary, lend A$1,000,000 to the trustees of the Tracy Children’s Settlement in October 2008. The loan is interest free and repayable on demand.
+
+Tracy does not become deemed domiciled in the UK for 2017/18 under condition A, as she was born outside the UK. She becomes deemed domiciled under condition B in 2018/19, having been resident in the UK from the tax year 2003 - 2004 onwards. Tracy’s deemed domiciled date is 6 April 2018, as she is UK resident for 2018 - 2019 and has been UK resident for 15 of the previous 20 tax years.
+
+The trustees of the Tracy Children’s Settlement have repaid to the trustees of the Grace 1983 Discretionary Settlement A$500,000 of the loan outstanding, the balance being repayable on demand. The A$500,000 is an outstanding amount that is regarded as property directly provided for the purposes of the settlement on the deemed domiciled date. The Tracy Children’s Settlement is tainted for the year 2018/19. The income that arises to the trustees will no longer be protected foreign source income from 6 April 2018.
+
+If the balance of the loan had been cleared before 6 April 2018, or the terms of the loan had been varied to arm’s length terms the Tracy Children’s Settlement would not have been tainted and, although Tracy would have been deemed domiciled in the UK, the income arising under the settlement would have remained protected foreign source income.
+
+Example 5
+
+Charles was born in Belgium, where he grew up. His domicile of origin is Belgium, and he has never acquired a domicile of choice elsewhere, although he has lived in a number of countries.
+
+In September 1987 Charles settled on the Guernsey corporate trustee of the Charles Property Trust a range of income generating assets located outside the UK. Charles retains an interest in the settlement.
+
+Charles loaned €1,000,000 to the trustees of the Charles Property Trust in November 2001. The loan is interest free and repayable on demand, but no repayments have been made.
+
+In early 2002 Charles moved to the UK. Since then, he has lived in London, but he does not intend to remain in the UK permanently or indefinitely. He is actively considering leaving in 2019 or 2020.
+
+Charles becomes deemed domiciled in the UK in 2017/18 because he is resident in the UK for the year and has been resident in the UK for 15 out of the previous 20 years. Charles deemed domiciled date is therefore 6 April 2017.
+
+To prevent the trust becoming tainted the terms of the loan are renegotiated and the trustees agree to pay interest on the loan at the official rate, on an annual basis with effect from 6 April 2017. The trustees pay €25,000 interest to Charles on 31 March 2018 and continue to do so annually thereafter while Charles remains resident in the UK. The settlement is not tainted, and the foreign source income will continue to be protected provided all the other conditions are met.

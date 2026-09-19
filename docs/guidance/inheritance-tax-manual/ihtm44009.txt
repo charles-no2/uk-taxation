@@ -1,0 +1,36 @@
+Pre-owned assets: property in charge: intangible property
+Identifier: IHTM44009
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44009
+Published: 2016-04-09T10:29:56+01:00
+Updated: 2016-02-11T17:26:27+00:00
+Retrieved (UTC): 2026-09-18T15:10:08.267966+00:00
+
+The POA charge applies to intangible property comprised in a settlement where the settlor retains an interest and the following three conditions are met, FA04/Sch15/Para 8(1). Intangible property is defined as any property other than land and chattels and will therefore include cash, stocks and shares and insurance products. The three conditions are that
+
+- the terms of the settlement, as they affect any property comprised in the settlement, are such that any income arising from the property would be treated as income of the settlor (the chargeable person) within ITTOIA05/S624, otherwise referred to as a settlor-interested trust, FA04/Sch15/Para 8(1)(a),
+
+- any such income would be so treated if a reference to the spouse or civil partner of the settlor in ITTOIA/S625(1) is excluded, FA04/Sch15/Para 8(1)(b), and
+
+-
+
+the property includes any property which meets the conditions below, FA04/Sch15/Para 8(1)(c),
+
+- the property must be intangible property (for example bank and building society accounts, stocks and shares, insurance products - in fact anything other than land or chattels), and
+
+- the intangible property is or represents property which the chargeable person settled, or added to an existing settlement, after 17 March 1986, FA04/Sch15/Para 8(2).
+
+Note that under FA04/Sch15/Para 8(1)(a), income arising from the assets concerned (and not the settlement generally) must be treated as income of the chargeable person. So, if the settled property is partitioned so that the settlor cannot benefit from one part of the fund, the POA charge will only apply to the part of the fund that the settlor can benefit from. If the part the settlor can benefit from contains land - but the settlor does not occupy it - the POA charge on land (IHTM44004 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44004)) cannot apply, and will not apply to the part the settlor cannot benefit from, even if that part contains intangibles.
+
+You should also note the fact that the settled property may not actually produce any income does not matter, as long as any income that might arise would be treated as income of the settlor, a charge under FA04/Sch15/Para 8 will arise.
+
+A trust may be a settlor-interested trust because the settlor’s spouse or civil partner can benefit from the trust. The effect of the FA04/Sch15/Para 8(1)(b) above is that a charge cannot arise only because the chargeable person’s spouse or civil partner has retained an interest rather than the settlor.
+
+The charge is subject to certain exemptions (IHTM44040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44040)).
+
+Note that the intangibles charge does not apply to intangible property which is owned by a company which is in turn owned by a trust since the property owned by the company is not settled property. On the other hand, the shares of the company itself will be settled property and potentially caught by the POA charge subject to any exclusions (IHTM44030 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44030)).
+
+Example
+
+Andrew sets up a trust for his wife Joan on their marriage in 2005 and as he is excluded from all benefit there is no possibility of a charge under FA04/Sch15/Para 8 arising. If, however, he sets up a trust where Joan receives the income but he can benefit under, say, an overriding power of appointment or perhaps a remainder interest (although see IHTM44112 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44112) in this regard), then a charge under FA04/Sch15/Para 8 arises subject to any relevant exemptions (IHTM44040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44040)), even though the property forms part of Joan’s estate (being a pre-March 2006 interest in possession).
+
+In this context ‘settlement’ has the same meaning as it does for Inheritance Tax purposes. The definition of ‘settlement’ is in IHTA84/S43(2) (IHTM16042 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16042)). Unlike the requirement for Income Tax, the fact that there is no element of bounty does not prevent a trust being a ‘settlement’ for Inheritance Tax - although the legislation does still require the chargeable person to have ‘settled’ or ‘added’ property to the settlement. So an arms length sale at full market value to the trust would not be a settlement or addition by the vendor.

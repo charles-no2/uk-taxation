@@ -1,0 +1,18 @@
+Returns: partnership returns: processing of the return  information
+Identifier: SAM122225
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam122225
+Published: 2016-04-08T17:23:17+01:00
+Updated: 2016-02-23T14:56:34+00:00
+Retrieved (UTC): 2026-09-18T16:20:45.386209+00:00
+
+Following capture of the return, information is passed from LDC to the main computer. The following processes are then carried out automatically
+
+- The date of receipt of the return is recorded as the date of capture where the return was not previously logged
+
+- If capture has taken place in an office other than the responsible office, a paper report will be produced (with the exception of within Banking Operations), to enable the capture office to pass on the return
+
+- Work items are created where necessary
+
+- A paper report will be produced if the main computer rejects the return following further checks
+
+- Set certain Mandatory review signals

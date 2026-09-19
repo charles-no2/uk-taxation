@@ -1,0 +1,50 @@
+The benefits code: beneficial loans: circumstances where the Inspector should elect for the alternative precise method of calculating the chargeable benefit: example
+Identifier: EIM26313
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26313
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-02-25T14:51:44+00:00
+Retrieved (UTC): 2026-09-18T14:12:25.350886+00:00
+
+This example demonstrates circumstances where the Inspector should elect for the alternative precise method of calculating the chargeable benefit (see EIM26230 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26230)).
+
+A company’s accounting date is 31 March. The loan account of a director of the company was shown by the company’s accounts as having a balance of £4,000 at the beginning and end of the accounting year. The company makes an election for aggregation (see EIM26180 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26180)).
+
+When analysed, the loan account showed the following position during the accounting year:
+
+- balance outstanding at the beginning of the year 1 April: £4,000
+
+- advance to the director on 1 May: £8,000
+
+- advance to the director on 1 July: £2,000
+
+- total loans advanced: £4,000 + £8,000 + £2,000 = £14,000
+
+- less repaid by the director on 1 March: £10,000
+
+- balance outstanding at the end of the year on 31 March: £14,000 - £10,000 = £4,000
+
+The Inspector found that there had been no further advances or repayments over the five days up to 5 April following the company’s accounting year end. None of the loans were qualifying as they were all used to meet day to day living expenses (see EIM26136 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26136)).
+
+The Inspector gave notice of election for the alternative precise method of calculating the benefit (see EIM26240 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26240) onwards). They did so because the average of the loan to the director during the relevant tax year was slightly more than £12,000, although the balances at the beginning and end of the year were both £4,000. The appropriate official rate of interest for the year of assessment was 3.25%.
+
+The chargeable benefit on the normal averaging method would have been:
+
+- ((£4,000 + £4,000) x 12 x 3.25) ÷ (2 x 12 x 100) = £130
+
+The liability on the alternative precise method was:
+
+Period |  Calculation |  Amount (£) |
+
+6 April to 30 April |  (£4,000 ÷ 365 days) × 25 days × 3.25% |  8.90 |
+
+1 May to 30 June |  (£12,000 ÷ 365 days) × 61 days × 3.25% |  65.17 |
+
+1 July to 1 March |  (£14,000 ÷ 365 days) × 244 days × 3.25% |  304.16 |
+
+2 March to 5 April |  (£4,000 ÷ 365 days) × 35 days × 3.25% |  12.46 |
+
+Chargeable benefit : £8.90 + £65.17 + £304.16 + £12.46 = £390.69 (round down to £390)
+
+The director will be treated as having paid £390 interest on the loan. However this will have no effect on the final liability because none of the interest ranks for deduction or relief of any kind (see EIM26270 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26270)).
+
+Note that although the director made a repayment of £10,000 on 1 March, the maximum outstanding balance on that day was £14,000.

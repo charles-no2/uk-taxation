@@ -1,0 +1,18 @@
+Financial options: min-max contracts
+Identifier: CG55570
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55570
+Published: 2016-03-12T11:37:50+00:00
+Updated: 2016-01-26T09:50:48+00:00
+Retrieved (UTC): 2026-09-18T14:33:29.678268+00:00
+
+The type of option described in TCGA92/S144 (8)(c)(iii) is a special type of contract in which two parties agree to sell options to each other. One party grants a put option and the other a call option. Ideally the premiums payable for each option will cancel each other out. Typically the options are for foreign currency and the aim is to hedge a rate within the limits set by the respective options. This is sometimes called a `min-max’ contract.
+
+EXAMPLE
+
+- A manufacturing company knows it will have to buy US dollars. It does not want to pay more than 1.75 Euro to the dollar. The exchange rate stands at 1.5 Euro to one US$.
+
+- The manufacturer buys a dollar call option allowing it to buy dollars at 1.75 Euro.
+
+- The counterparty, say a bank, buys a dollar put option from the manufacturer allowing it to put dollars to the manufacturer at 1.25 Euro each.
+
+- If, as intended, the premium payable for both options is the same no payment is made at the time the option is granted.

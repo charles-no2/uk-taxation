@@ -1,0 +1,42 @@
+NRCG and the exemptions: Disposals from 6 April 2019: Indirect disposals: UK property richness
+Identifier: CG73934
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73934
+Published: 2020-02-05T14:31:24+00:00
+Updated: 2026-05-13T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:46:49.472217+00:00
+
+TCGA92/Sch1A Part 2
+
+The UK property richness test looks at whether 75% or more of the value of the gross qualifying assets of the company being disposed of are UK land (see CG73922 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73922)). Qualifying assets includes all of the assets of the company, apart from those matching related party liabilities (see CG73944 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73944)). The value to use for the test is the market value of the assets at the date of disposal (see CG73950 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73950)). The test is based on gross assets, so no liabilities are taken into account.
+
+It does not matter where the company (or any entities it has an interest in) are resident, but the test is only appropriate where the person making the disposal is non-UK resident and is chargeable on the disposal because of either TCGA92/s1A(3)(c) or s2B(4)(b) (for CGT or CT respectively).
+
+This page will give you the background to the UK property richness test. The other condition for TCGA92/s1A(3)(c) or s2B(4)(b)) to apply is that the disponor must have a substantial indirect interest in UK land (see CG73936 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73936)). There are examples to demonstrate both tests at CG73932 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73932).
+
+Market value
+
+The test is considered at the point of disposal and normal valuation principles apply.
+
+Where there is a disposal of shares in a company, and to a third party, there may have been no formal valuations undertaken of the underlying assets as part of the disposal. In these cases, there may be other sources of information available that would allow the disponor to conclude with strong confidence whether the company was UK property rich or not at the time of disposal. Such information may include informal valuations undertaken shortly before the disposal for other commercial purposes to report to independent parties (such as shareholders, banks and other similar creditors); or formal valuations undertaken for a recent balance sheet.
+
+Formal valuation will not always be necessary, but HMRC would expect the basis of the valuation to be appropriate to the value and complexity of the situation which gives rise to the disposal.
+
+When considering any valuation matter, caseworkers should consider the guidance at CG16200C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16200c) and make referrals under those procedures where there is doubt or difficulty.
+
+Undertaking the test
+
+Paragraph 3 of Schedule 1A provides for the basic rules of how the 75% UK property richness test is undertaken. The market value of a company will include the market value of the assets which it owns directly together with its share of the market value of any other assets in which it has an indirect right or interest.
+
+A normal commercial loan is not a right or interest for this purpose, see CG73935 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73935)
+
+The examples at CG73940 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73940) illustrate the application of this test.
+
+Tracing asset value to include in the test
+
+The tracing of market value can proceed through any number of companies, partnerships, trusts, or other entities, or arrangements. The attribution of assets is done at each stage –so between one company, entity, arrangement, etc. and the next- and in a way that is appropriate to each stage.
+
+What is appropriate will depend on the facts of the situation, and in general will be a manner of attribution that is reasonable based on those facts. In some cases, such as between two companies where there is a single class of share capital with no special rights, this may be as for normal tracing of interests through corporates (such as under section 1154 CTA 2010). Alternatively, if the arrangement between the two companies being disposed of gave the holding company minimal rights to votes and income, but a significant right to UK land held by the subsidiary, then it would be appropriate to reflect the rights over the UK land assets accordingly.
+
+Where the holding of shares is in a person’s capacity as a partner in a partnership, the partnership agreement will be relevant.
+
+Tracing value through companies is also necessary for the application of certain of the rules relating to collective investment vehicles [CG73996J  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73996j)currently in ].

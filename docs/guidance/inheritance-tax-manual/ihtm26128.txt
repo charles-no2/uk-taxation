@@ -1,0 +1,26 @@
+Step 4 - grossing up: initial procedure for grossing up
+Identifier: IHTM26128
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26128
+Published: 2016-04-09T09:47:52+01:00
+Updated: 2016-02-11T17:12:05+00:00
+Retrieved (UTC): 2026-09-18T15:03:09.275520+00:00
+
+Before starting the grossing calculation, you should make a note of the figures and values you will need. These are
+
+- the lifetime cumulative total (IHTM31413 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31413))
+
+- the total value transferred (IHTM04028 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04028)) at the title where grossing up is required
+
+-
+
+the value (as reduced under interaction (IHTM26101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26101)) provisions if appropriate) of the specific gifts (IHTM26011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26011)) at that title in three separate groups
+
+- the value of the exempt gifts
+
+- the value of the chargeable specific gifts which do not bear their own tax
+
+- the value of the chargeable specific gifts which bear their own tax
+
+- the proportion of the residue that is exempt
+
+After you have this information you should decide which type (IHTM26131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26131)) of grossing calculation to use.

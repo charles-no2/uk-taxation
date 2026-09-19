@@ -1,0 +1,26 @@
+Remittance basis: no effective carry back of foreign allowable losses: TCGA92/S16ZB*
+Identifier: CG25330B
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25330b
+Published: 2016-03-12T10:24:12+00:00
+Updated: 2019-06-25T14:08:27+01:00
+Retrieved (UTC): 2026-09-18T14:38:52.961315+00:00
+
+Changes from 6 April 2025
+
+The remittance basis has been abolished and new rules have been introduced from the 2025/26 tax year.
+
+The latest guidance can be found in RFIG (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual) for Residence and RDRM (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis) for Domicile manuals.
+
+Please note that cases which occur from 6 April 2025 onwards will be determined in accordance with the new rules.
+
+If an election has been made for foreign losses to remain allowable losses (see CG25330A) then a loss may not be set against chargeable gains taxable on the remittance basis in a tax year -known as the applicable tax year- after the foreign chargeable gains which are being remitted arose, if the foreign chargeable gain arose in a year before the loss. This means that a loss cannot be “carried back” and set against a foreign chargeable gain of an earlier year, even if that gain is not taxed until the year of loss because of the remittance basis.
+
+Example:
+
+Henri elects to use the remittance basis in 2014-15 and has an unremitted foreign chargeable gain of £1m in that year. He also elects for his foreign losses to remain allowable losses. In 2016-17 he remits the gain to the UK and has a foreign loss of £500,000. He does not elect to use the remittance basis in 2016-17. The relevant tax year is 2014-15 and the applicable tax year is 2016-17. Foreign chargeable gains accrued in or after the relevant tax year but before the applicable tax year and a chargeable gain is treated as accruing in the applicable tax year when those gains are remitted. The conditions of TCGA92/S16ZB(1)* are therefore satisfied. The remitted gains are known as relevant gains and are excluded from the total amount of chargeable gains from which losses are deducted under TCGA92/S2*. The relevant gains are nonetheless included in the amount on which Capital Gains Tax is charged for the applicable tax year (TCGA92/S16ZB(2)-(3)*). So the £500,000 loss may not be set against the chargeable gain of £1m treated as accruing to Henri in 2016-17.
+
+*These provisions were re-written for disposals from 6 April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).
+
+Note that this prohibition of carry-back applies to all losses, not just to foreign losses.
+
+Note also that this prohibition applies whether or not the remittance basis applies in the applicable year, ie the year in which the foreign chargeable gain is remitted.

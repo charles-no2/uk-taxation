@@ -1,0 +1,24 @@
+Cryptoassets for businesses: conversion to Sterling and accountancy
+Identifier: CRYPTO40100
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto40100
+Published: 2021-03-30T09:03:37+01:00
+Updated: 2021-03-26T11:15:21+00:00
+Retrieved (UTC): 2026-09-18T16:18:28.902648+00:00
+
+The calculation of an individual’s or a company’s taxable profits will be undertaken in pounds sterling. However, exchange tokens (including bitcoin) can be traded on exchanges which may not use pounds sterling. If the transaction does not have a pound sterling value (for example, if bitcoin is exchanged for ether), an appropriate exchange rate must be established in order to convert the transaction to pounds sterling.
+
+The value of any profit or gain (or loss) will need to be converted into pounds sterling for the purposes of filling in a tax return. Any profit or gain must be calculated by converting to pounds sterling using the appropriate rate at the time of each transaction. Reasonable care needs to be taken to arrive at an appropriate valuation for the transaction using a consistent methodology. Individuals and companies must also keep records of the valuation methodology.
+
+A company may make an election to designate a non-sterling currency as its functional currency. In these circumstances the transactions need to be converted to the functional currency using the appropriate rate at the time of each transaction. At the end of the accounting period the necessary steps will need to be completed to complete the tax return in pounds sterling. Further detail is available in CFM64100 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm64100).
+
+Accounting practices for calculating trading profits
+
+Generally, for Income Tax or Corporation Tax, profits from a trade involving cryptoassets must be calculated in accordance with Generally Accepted Accounting Practice (GAAP), subject to any adjustment required or authorised by law.
+
+For tax purposes, GAAP means either:
+
+- UK generally accepted accounting practice (UK GAAP)
+
+- for companies or other entities which prepare their accounts in accordance with international accounting standards (IAS), generally accepted accounting practice in relation to such accounts.
+
+If tax legislation requires or permits a different basis of calculation, then the relevant rules must be followed.

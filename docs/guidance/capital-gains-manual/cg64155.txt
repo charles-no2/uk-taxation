@@ -1,0 +1,42 @@
+Business Asset Disposal Relief: shares/securities: company reorganisations - share exchanges etc.
+Identifier: CG64155
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64155
+Published: 2016-03-12T11:53:53+00:00
+Updated: 2026-06-05T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:34:28.967089+00:00
+
+Entrepreneurs’ Relief was renamed in Finance Act 2020 with effect from 6 April 2020. The new name is generally used in this guidance but should be read as applying to times before that date.
+
+TCGA92/S169Q
+
+Where shares or securities are exchanged (in whole or in part) for other shares or securities in the course of a reorganisation of share capital, or a company reconstruction, whereby shares or debentures are issued by a company in exchange for shares in or debentures of another company then in these cases (and subject to certain conditions), TCGA92/S127 (albeit by virtue of TCGA92/S135 or S136) treats the transactions as involving neither disposal of the original shares or securities nor acquisition of the new shares or securities received see CG52500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52500)+.
+
+Instead, the “original shares” (this phrase covers debentures as well as shares) and the “new holding” following the transactions are treated as the same asset, acquired as the original shares were acquired.
+
+Where these rules apply, it is possible that a ‘normal’ disposal of the original shares at the time of the reorganisation, exchange or reconstruction would have resulted in a gain that could qualify for Business Asset Disposal Relief. But the gain on a later disposal of the new holding may not qualify. This may be because the shareholdings after the reorganisation, exchange or reconstruction are such that the company is no longer the individual’s personal company.
+
+TCGA92/S169H (1) explains that Chapter 3 Part 5 of TCGA 1992 provides relief from CGT in respect of “qualifying business disposals” with TCGA92/S169H (6) making provisions about reorganisations in TCGA92/S169Q and TCGA92/S169R (see CG64160 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64160) and CG64161). In this context TCGA92/S169Q (2) enables an election to be made for Business Asset Disposal Relief to be available on the basis that the ‘no disposal’ treatment of TCGA92/S127 does not apply. The result is that a gain, in respect of which Business Asset Disposal Relief can be claimed, accrues at the time of the reorganisation, exchange or reconstruction.
+
+On a disposal of trust business assets any election must be made jointly by the trustees and the qualifying beneficiary concerned. In other cases the election is made by the individual.
+
+It is NOT possible to make a partial election in respect of only some of the shares (or securities) included in the reorganisation.
+
+If an election has not been made then reference should be made to CG63975 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63975) to ensure that the "new holding" qualifys for BADR when disposed of.
+
+Time limit for claims
+
+Elections (as with claims for Business Asset Disposal Relief itself) must be made on or before the first anniversary of the 31 January following the tax year in which the qualifying business disposal is made - TCGA92/S169Q (4).
+
+Anti-forestalling
+
+There are special rules that apply to share reorganisations and exchanges that took place between 6 April 2019 and 10 March 2020 and where a S169Q election is made on or after 11 March 2020. See CG64173 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64173).
+
+Example
+
+D has been managing director of her personal trading company, E Ltd, for many years. In 2009 she disposes of her shares in E Ltd to F Plc. F Plc makes an issue of new ordinary shares to D in exchange for her shares in E Ltd.
+
+If the normal share exchange rules apply, D is treated as not disposing of her original shares in E Ltd. Instead those shares and the F Plc shares are treated as the same asset.
+
+As there is no disposal of the E Ltd shares for capital gains tax purposes, no gain arises in respect of which the relief may be given. But when D comes to sell her shares in F Plc it is unlikely that Business Asset Disposal Relief will be due as it would not qualify as her ‘personal company’ and/or she may well not be an officer or employee.
+
+If D makes an election she is treated as disposing of her shares in E Ltd. A gain is calculated by reference to the value of the shares in F Plc received in the exchange (or, if it is not a bargain at arm's length, the market value of the E Ltd shares). And the gain on that disposal would be eligible for Business Asset Disposal Relief if all the conditions for that relief were satisfied.

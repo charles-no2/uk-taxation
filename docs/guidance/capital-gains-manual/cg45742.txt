@@ -1,0 +1,16 @@
+ETMD: consequential amendments within TCGA 1992: - Sch 7A and mergers to form SEs
+Identifier: CG45742
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45742
+Published: 2016-03-12T11:09:20+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:41:20.292392+00:00
+
+CG45741 explained in brief terms how Schedule 7A restricts the use of capital losses on ‘pre entry assets’. Where there is a merger and as part of that process a SE is formed then as explained in CG45741 without special provision the restriction in TCGA 1992 Schedule 7A would not apply.
+
+For example company D heads the D group and it is to merge with company F, a French resident company. Company D has realised capital losses of £200 and holds chargeable capital assets one of which, asset 5, has a market value less than its original cost.
+
+As part of the process in the merger to form a SE company D is dissolved. The realised capital losses cannot be transferred to the newly formed SE. However the assets, including asset 5, are transferred to the newly formed SE. For Schedule 7A to apply a company has to join a relevant group but that is not what is happening here. Company D ceases to exist and the company does not join a group, it is only its assets etc. which are being transferred to the newly formed SE. Therefore without special provision Schedule 7A cannot apply to restrict the use of the latent losses in asset 5 but as explained in CG45741 the special provision has to recognise that some of the loss on the disposal of a pre entry asset may accrue after the asset is transferred to the newly formed SE.
+
+To ensure that Sch 7A may still apply to cases where a SE is formed by a merger within section 140E, see CG45707, paragraph 1(3A)(aa) was included in Sch 7A by F(No 2)A 2005.
+
+The new sub-sub paragraph (aa) operates by extending the definitions of a ‘pre entry asset’ and ‘relevant event’ to include assets that are transferred as part of the process of the formation of a UK resident SE. In relation to the example above where company D is merged with company F to form a SE that will be resident in the UK then despite the fact that a company is not joining a group the assets transferred to the newly formed SE now come within the definition of a pre entry asset. If following the merger the newly formed SE disposes of asset 5 at a loss then the relevant event for the purposes of establishing the pre entry element of the loss is the date when the assets were transferred. Thus if company D acquired asset 5 on 1/1/10 for £100-the merger with company F took place on 1/1/11, (the relevant event), - the market value of asset 5 at that time was £80, - and the asset was sold by the newly formed SE on 1/1/12 for £40 - the pre entry loss will be £30 (£100 - 40 x ½). Alternatively if the newly formed SE made an election within paragraph 5 of Schedule 7A the pre entry loss would £20 (£100 - 80) and all things being equal you would expect the SE to make such a claim as the market value alternative produces a lower figure of pre entry loss.

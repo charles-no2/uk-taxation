@@ -1,0 +1,68 @@
+Class 1 structural overview - post April 2003: structural changes: the Class 1 and 2 maximum: examples: one Class 1 employment and self-employment: Class 2 due
+Identifier: NIM01276
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01276
+Published: 2016-04-11T17:00:36+01:00
+Updated: 2021-10-27T11:49:36+01:00
+Retrieved (UTC): 2026-09-18T15:18:10.904449+00:00
+
+Example 5
+
+J Spencer is both employed and self-employed. His total earnings for the 2021 to 2022 tax year from his Class 1 employment are £72,000. He is paid £3500 per month and receives a £15000 bonus in June and December. His maximum Class 1 and 2 liability is calculated as follows:
+
+Step 1
+
+Deduct the relevant Primary threshold from the relevant UEL and multiply that figure by 53.
+
+967 - 184 = 783 x 53 = 41,499
+
+Step 2
+
+Multiply the result of step 1 by 12%
+
+41,499 x 12% = 4,979.88
+
+Step 3
+
+Add together so much of the person’s earnings from each employed earner’s employment as exceeded the Primary Threshold but did not exceed the Upper Earnings Limit.
+
+3,500 (monthly earnings) - 797 (monthly PT) = 2703 x 10 = 27,030
+
+4,189 (monthly UEL) - 797 (monthly PT) = 3,392 x 2 (June + Dec) = 6,784
+
+Total 27,030 + 6,784 = 33,814
+
+Step 4
+
+Deduct from the total found at step 3 step the amount produced by step 1
+
+33814 - 41,499 = minus 7,685
+
+Step 5
+
+If the figure produced at step 4 is a positive figure multiply that figure by 2%. If the figure produced at step 4 is a negative figure, it is treated for the purposes of step 8 as nil
+
+Nil
+
+Step 6
+
+Add together so much of the person’s earnings from each employment as exceeded the Upper Earnings Limit.
+
+37,000 (monthly earnings Jun + Dec) - 8,378 x 2 (monthly UEL) = 28,622
+
+Step 7
+
+Multiply the result of step 6 by 2%
+
+28,622 x 2% = 572.44
+
+Step 8
+
+Add together the results of steps 2, 5 and 7.
+
+4,979.88 + nil + 572.44 = 5,552.32
+
+J Spencer’s maximum for the 2021 to 2022 tax year is £5,552,32
+
+Since the employee will not have met his maximum by payment of Class 1 NICs, payment of Class 2 NICs is required.
+
+The reason why the employee has not met his maximum is that in ten of the twelve months his earnings did not reach the monthly UEL. The employee will not have paid main rate Class 1 contributions at 12% on earnings amounting to 53 x the UEL less the PT and some Class 2 NICs will be due.

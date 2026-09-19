@@ -1,0 +1,24 @@
+Dividends and other company distributions: no tax credits on non-qualifying distributions - tax years up to 2015-16: relief: distribution repaying shares or security issued in earlier distribution
+Identifier: SAIM5130
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5130
+Published: 2016-03-19T16:27:14+00:00
+Updated: 2018-10-02T13:57:53+01:00
+Retrieved (UTC): 2026-09-18T14:26:38.795751+00:00
+
+Non-qualifying distributions did not carry tax credit: tax years up to 2015-16
+
+ITTOIA05/S400, which was repealed by FA16/S5 and SCH1 for tax years after 2015-16, applied when a person received a non-qualifying distribution, see SAIM5050 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5050). A non-qualifying distribution did not carry a tax credit.
+
+The recipient of the non-qualifying distribution was treated as having paid income tax at the dividend ordinary rate (SAIM1080 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim1080)) on the actual amount of the non-qualifying distribution (so there was no grossing up).
+
+In the case of trustees of accumulation or discretionary trusts, the trustees were taxed on the amount or value of the distribution at the dividend trust rate. However, the trustees’ tax liability was reduced by an amount of income tax equivalent to the dividend ordinary rate.
+
+Continuing relief: distribution repaying shares or security issued in earlier distribution
+
+A non-qualifying distribution was generally the first part of an event that would eventually be a qualifying distribution. Thus the issue of redeemable share capital (unless a stock dividend) was a non-qualifying distribution (see CTA10/S1136 (1)(a)) but the repayment of that share capital was a qualifying distribution (SAIM5050 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5050)). ITTOIA05/S401 provides relief to avoid double taxation for a higher rate taxpayer. This provision is maintained for 2016-17 onwards but amended and applies to a subsequent (renamed) ‘non-CD distribution’ that would formerly have been a qualifying distribution for the purpose of granting relief in recognition of an earlier ‘CD distribution’, formerly known as a non-qualifying distribution.
+
+In its original form, the section (“relief: qualifying distribution after linked non-qualifying distribution”) applied where a taxpayer paid income tax at the dividend upper rate on the receipt of a non-qualifying distribution and was subsequently liable to income tax at the dividend upper rate on the receipt of the linked qualifying distribution. ITTOIA05/S401 enabled a taxpayer to set the extra tax liability (that is, the higher rate element) arising on the non-qualifying distribution against the extra liability arising on the qualifying distribution so the taxpayer was liable to pay only the balance.
+
+Where the earlier non-qualifying distribution was some years earlier than the later qualifying distribution, ITTOIA05/S401 (5) and (6) provided (before S401 was amended) for the extra liability to be charged on the basis of the lower or basic rate applicable at the time.
+
+S401 in its revised form, where the subsequent distribution is made in 2016-17 onwards, operates by relieving the lower of the income tax charged on the CD distribution and on the subsequent non-CD distribution. For this purpose, it is assumed that the CD distribution and later non-CD distributions are the lowest part of the person’s dividend income in the tax year in which they are made, unless the non-CD distribution is made in the same tax year as the earlier CD distribution. In this case, the non-CD distribution is treated as the next lowest part of the dividend income.

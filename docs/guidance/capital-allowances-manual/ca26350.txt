@@ -1,0 +1,46 @@
+PMA: Fixtures: Incoming lessee
+Identifier: CA26350
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26350
+Published: 2016-04-16T08:51:42+01:00
+Updated: 2020-03-02T15:46:19+00:00
+Retrieved (UTC): 2026-09-18T16:20:58.552881+00:00
+
+CAA01/S183 - S184
+
+Sometimes a person (the lessee) who pays a premium that is capital expenditure for a lease of land that includes a fixture is treated as the owner of the fixture.
+
+CAA01/S183 - election for lessee to be treated as owner
+
+A lessor and lessee can make an election that transfers deemed ownership, and therefore potential entitlement to allowances, from the lessor to the lessee if the following conditions are met:
+
+- the person granting the lease (the lessor) was entitled to PMAs on the fixture for the chargeable period in which the lease was granted, or would have been if he were within the charge to tax
+
+- the lessor and lessee are not connected as defined in S575 CA11630 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11630).
+
+Under the election, the fixture is treated as disposed of by the lessor and acquired by the lessee for the part of the premium that relates to the fixture.
+
+An election under CAA01/S183 must be made by notice to the HM Revenue & Customs within two years of the date on which the lease takes effect.
+
+Example
+
+Xanadu Properties owns the freehold of Kane House and installs central heating on which it claims PMAs before it grants a lease to Budokan Computers at a premium. If Xanadu and Budokan make an election under Section 183, Xanadu is treated as having disposed of the central heating and Budokan as having acquired it for the part of the premium that relates to the central heating.
+
+Under CAA01/S187A-187B, introduced by Finance Act 2012, Budokan will not be entitled to PMAs in relation to the central heating unless the value of it has been fixed. The normal means of fixing the value would be by a joint election made between Xanadu Properties and Budokan under CAA01/S199. The agreed value cannot exceed Xanadu’s original cost or the actual sales price.
+
+CAA01/S184 - lessee treated as owner without the need for an election
+
+If the following conditions are satisfied, the lessee is treated as owner of fixtures without the need for an election:
+
+- the lessor was not entitled to PMAs for the chargeable period in which the lease was granted
+
+- if the lessor is not within the charge to tax, he would not have been entitled to PMAs for the period in which the lease is granted even if he were within the charge to tax.
+
+- the fixture has not previously been used for the purposes of a qualifying activity by the lessor or any person connected to the lessor
+
+- neither the lessee nor any other person is entitled to and claims capital allowances on the fixture after the lease is granted by virtue of some other interest in land (for instance a superior or inferior interest).
+
+Example
+
+Kane House was constructed by Rosebud Developers, a property developer, which installs central heating. Rosebud Developers decides to retain the freehold of Kane House and grants a 50-year lease to Budokan Computers at a premium. Budokan Computers can claim capital allowances on the part of the premium that relates to the central heating.
+
+Rosebud Developers later grants a 999-year lease of Kane House, to which the Budokan lease is reversionary, to Xanadu Properties at a premium. Section 184 does not apply as allowances are being claimed by Budokan Computing. Xanadu Properties cannot claim allowances on the central heating.

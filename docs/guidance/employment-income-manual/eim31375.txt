@@ -1,0 +1,56 @@
+Employees using own vehicles for work: vehicles of different kinds used during the tax year
+Identifier: EIM31375
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31375
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2026-05-21T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:12:54.516871+00:00
+
+Section 230 ITEPA 2003
+
+This page illustrates how the calculation of chargeable mileage allowance payments and mileage allowance relief (EIM31235 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31235)) for business travel (EIM31260 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31260)) in the employee’s own vehicle is modified when vehicles of different kinds is used during the tax year.
+
+Example: for 2025 to 2026
+
+Employee N uses their own car for business travel. They also use their own cycle for short business journeys to locations close to the office. These are different kinds of vehicle (EIM31240 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31240)). N covers 9,500 business miles in the car and 700 business miles on the cycle in the tax year 2025 to 2026, receiving 38 pence a business mile for car journeys and 22 pence a mile for cycle journeys.
+
+Car
+
+Step 1: find the amount of mileage allowance payments (MAPs) received
+
+MAPs received: 9,500 miles × 38 pence = £3,610.
+
+Step 2: deduct the approved (exempt) amount (see EIM31230 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31230))
+
+Approved amount: 9,500 miles × 45 pence = £4,275.
+
+Step 3: is the answer positive or negative?
+
+The answer is negative:
+
+- mileage allowance payments received: £3,610
+
+- approved exempt amount: £4,275
+
+- mileage allowance relief available (EIM31330 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31330)): £665 (£4,275 - £3,610)
+
+Cycle
+
+Step 1: find the amount of mileage allowance payments (MAPs) received
+
+MAPs received: 700 miles × 22 pence = £154.
+
+Step 2: deduct the approved (exempt) amount (see EIM31230 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31230))
+
+Approved amount: 700 miles × 20 pence = £140.
+
+Step 3: is the answer positive or negative?
+
+The answer is positive:
+
+- excess over AMAPs is taxable and reported on P11D, in this example the amount in excess over AMAPs is £14
+
+- AMAPs exempt amount is £140
+
+Overall result
+
+Here the result is a taxable excess on one kind of vehicle and MAR available on the other. Because they are the results of separate calculations, they should be reported separately, not amalgamated.

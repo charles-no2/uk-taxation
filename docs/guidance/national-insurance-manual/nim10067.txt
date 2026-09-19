@@ -1,0 +1,58 @@
+Aggregation of earnings: calculation and recording: NICs due at main rate: same earnings period
+Identifier: NIM10067
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim10067
+Published: 2018-11-27T15:50:09+00:00
+Updated: 2022-09-27T11:18:33+01:00
+Retrieved (UTC): 2026-09-18T15:19:49.037944+00:00
+
+All examples on this page use the 2025 to 2026 rates and earnings bands. National Insurance Contributions (NICs) are worked out using the exact percentage method.
+
+When calculating aggregated NICs, NICs are worked out on the total earnings using the shortest earnings period.
+
+Employee’s NICs are worked out at:
+
+the main percentage rate on any earnings above the Primary Threshold (PT) up to and including the Upper Earnings Limit (UEL)
+
+the additional percentage on earnings which exceed the UEL
+
+Employer’s contributions are worked out at the main secondary percentage rate on earnings which exceed the Secondary Threshold (ST).
+
+Example
+
+An employee earns £500 per week from one job, and £400 per week from another. Total earnings are £900 per week and the earnings period is weekly.
+
+NICs type | NICs due | Table letter |
+
+Employee's NICs | £52.64 | A |
+
+Employer's NICs | £120.60 | A |
+
+Recording the NICs due on Real Time Information (RTI)
+
+Payroll software only records category letters where NICs is paid on earnings between the Lower Earning Limit (LEL) and the UEL. The figures will be recorded under contribution Table letter A. The entries on RTI for week 1 of 2025to 2026 will be as follows.
+
+Week 1
+
+Data item | Description |   |
+
+79 | NI category | A |
+
+79A | Gross earnings for NICs year to date | £900 |
+
+79B | Gross earnings for NICs pay period | £900 |
+
+82 | Earnings at the LEL year to date | £125 |
+
+82A | Earnings at LEL to PT year to date | £117 |
+
+169 | Earnings PT to UEL year to date | £658 |
+
+86A | Employer NICs year to date | £120.60 |
+
+86Aa | Employer NICs this pay period | £120.60 |
+
+86B | Employee NICs year to date | £52.64 |
+
+86Ba | Employee NICs this period | £52.64 |
+
+49 | Aggregated earnings indicator | Yes |

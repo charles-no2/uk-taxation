@@ -1,0 +1,28 @@
+Liability in special cases: liability of purchaser
+Identifier: IHTM30125
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30125
+Published: 2016-06-14T10:03:55+01:00
+Updated: 2016-07-12T13:10:07+01:00
+Retrieved (UTC): 2026-09-18T15:04:56.813679+00:00
+
+Where there has been a lifetime transfer of relevant business property (IHTM25141 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25141)), which qualified for business relief at the time it was given away and that property is
+
+- sold by the transferee within 7 years of death, and
+
+- not replaced with other qualifying business property,
+
+business relief will not be due when taking the transfer into account to work out the tax payable on death (IHTM25364 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25364)). The value transferred by the chargeable transfer (IHTM04027 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04027)) will cumulate with the estate on death and if the value transferred exceeds the nil-rate band, tax will be payable.
+
+The normal rules about liability for the tax will apply; the transferee, or any persons in whom the property is vested, are liable for the tax, IHTA84/S199(1)(b) & (c) and the personal representatives are also liable by virtue of IHTA84/S199(2), although subject to the limitation in IHTA84/S204(8).
+
+However, liability for the tax can also extend to the purchaser of the business property, but only where the property is subject to a charge in favour of HMRC, IHTA84/S199(3).
+
+The rules about an HMRC charge for unpaid tax are set out in IHTA84/S237. The position of purchasers who acquire property subject to the charge is protected where they have no notice of the circumstances giving rise to the charge IHTA84/S238(1)(c). The purchaser is also protected where HMRC have issued a certificate of discharge in respect of the transfer; provided they had no notice of any fact that could invalidate the certificate, IHTA84/S238(1)(d).
+
+The term ‘notice’ in IHTA/S238(1)(c) is considered to have a wide meaning and it is not limited to cases where, for example, an actual notice was given to purchaser. It will include cases where a purchaser acquires business property where they are aware that the property was given away less than 7 years prior to their purchase. In such cases the statutory charge created by IHTA84/S237 will apply to the business property in the hands of the purchaser if the tax remains unpaid by either the transferee or personal representatives.
+
+However, this extension of liability to a purchaser only applies where the lifetime transfer was a chargeable transfer when made (IHTM04067 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04067)) – most commonly this will be where relevant business property has been transferred to the trustees of a relevant property trust.
+
+The extension does not apply to a purchaser where the lifetime transfer was a potentially exempt transfer (PET) (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)) which later falls into charge by reason of death within seven years. This is because IHTA84/S237(3A)(a) excludes a PET, where the transferee has subsequently sold the gifted property, from the charge. Instead, the charge applies to the proceeds of the sale, or any other property representing the gifted property. But the charge does apply to the property given away by a PET where the transferee has disposed of the property otherwise than by a sale.
+
+It should only be in exceptional circumstances that you should need to consider recovering the tax from a purchaser or other subsequent owner of gifted property. You should make every effort to recover the tax from the transferee, or person in whom the gifted property was vested and follow the instruction at IHTM30044 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30044) if there is any prospect that you may need to have recourse to the personal representatives. In the very rare case where it appears that there may be difficulty in recovering the tax from both the transferee and the personal representatives, you should warn the purchaser of their potential liability as soon as it is apparent that it may be necessary to have to recourse to them.

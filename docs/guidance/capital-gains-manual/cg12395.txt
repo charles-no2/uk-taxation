@@ -1,0 +1,32 @@
+Options: market value rule
+Identifier: CG12395
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12395
+Published: 2016-03-12T09:59:07+00:00
+Updated: 2021-03-31T08:18:30+01:00
+Retrieved (UTC): 2026-09-18T14:36:49.405768+00:00
+
+Guidance on the taxation of transactions involving the grant and exercise of options is at CG12300+. The guidance here considers how the market value rule is applied when an option is granted or exercised.
+
+The grant of an option is the disposal of an asset (namely, the option). When the option is exercised, and, as a result, the asset over which the option is granted (the underlying asset) changes hands, TCGA92/S144 provides
+
+- that the grant or acquisition of the option and the acquisition or disposal of the underlying asset are parts of a single transaction, and
+
+- the disposal proceeds or acquisition costs of the option are taken into account in determining the disposal proceeds and cost of acquisition of the underlying asset.
+
+The market value rule in TCGA92/S17 (CG14530+) applies to the grant of the option if, for example, an option is granted
+
+- otherwise than by way of a bargain made at arm’s length (including to a connected person) or
+
+- for consideration that cannot be valued, or
+
+- in return for services.
+
+The effect of this rule is that the grantor’s consideration is equal to the market value of the option when it was granted, and the same figure is the acquisition cost of the option to the grantee. The consideration that will be payable when the option is exercised will be one of the factors taken into account in determining the market value of the option.
+
+If the option is exercised, the acquisition and disposal of the underlying asset could itself be within the market value rule, for example, if the two parties to the transaction are connected. In cases where the amount of the consideration payable under the option may be affected by the relationship between the parties, that will be taken into account in establishing the market value of the option itself at the time it is granted.
+
+An option allowing the holder to acquire an asset for a sum considerably below the current value of the asset would be expected to have a higher market value than an option allowing the acquisition at a sum similar to current market value. Where the circumstances are such that the market value rule does not apply, this low acquisition cost would be reflected in the price paid for the option. Where the market value rule does apply, the application of this rule to the grant of the option may be expected to produce the same result.
+
+In both cases, whether or not the market value rule applied to the grant or acquisition of the option, the price payable when the option was exercised is determined by the terms of the option, not any other relationship between the parties. So if the market value rule applies to the grant or acquisition of the option, but not to the price payable on exercise of the option, there will be broad consistency for capital gains purposes between cases where the transactions are not at arm’s length and those which are.
+
+See CG12397 for how the market value rule applies when an option is exercised on or after 10 April 2003. See CG12396 for options exercised before that date.

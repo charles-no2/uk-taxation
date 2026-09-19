@@ -1,0 +1,48 @@
+Annual allowance: pension input amounts: backdated pay rises
+Identifier: PTM053800
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053800
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-01T21:08:00+00:00
+Retrieved (UTC): 2026-09-18T14:49:14.978106+00:00
+
+Backdated salary rises can be relatively common, primarily occurring in two scenarios: in situations where negotiations with a trade union representing a large number of employees end some time after the date on which salaries are deemed to have increased, and in individual salary negotiations for senior management which may involve remuneration committee consideration.
+
+As a consequence, a salary increase could be granted at a date within one pension input period, but has backdated effect to a previous pension input period.
+
+What was paid and when is a matter of fact. Where the salary increase is awarded at a date falling within one pension input period (the current pension input period) but has backdated effect to a previous pension input period the effect of the salary increase is included in the current pension input period and not in the previous pension input period. This would not of itself require recalculation of the previous pension input amount in order to arrive at a new opening value for the current pension input period.
+
+Depending on the timing of the next year’s salary negotiations, some pension input periods could see the impact of two salary increases. However, carry forward of any unused annual allowance might reduce the possibility of an individual being liable to the annual allowance charge in these circumstances.
+
+Example:
+
+- for the purpose of this example CPI is assumed to be 3%
+
+- Dave has an arrangement in a defined benefits scheme where he accrues a 60th benefit for each year of service
+
+- Dave’s employer usually concludes the salary negotiations for each year 4 months before the end of the pension input period for Dave’s arrangement and any salary increase is paid from the following month
+
+- at the start of the previous pension input period Dave had 19 years’ service and his final pensionable salary was £80,000
+
+- at the end of the previous pension input period Dave had 20 years’ service but still had final pensionable salary of £80,000
+
+- his final pensionable salary had not increased because the salary negotiations covering that pension input period had not been concluded by the end of the pension input period
+
+- Dave’s pension input amount for the previous pension input period was:
+
+- (20/60 x £80,000 x 16) - (19/60 x £80,000 x 16 X 1.03) = £9,173.45
+
+- during the current pension input period Dave’s employer concludes the salary negotiations for the previous year as well as the current year
+
+- there is a backdated increase of 2% for the previous year which increased Dave’s final pensionable salary to £81,600 and a 1% increase for the current year which increases Dave’s latest final pensionable salary to £82,416
+
+- the pension input amount for the previous pension input period does not change despite the backdated salary increase
+
+- this is because the salary increase was not in payment when the previous pension input period ended
+
+- the opening value for the purpose of the current pension input period is based on Dave’s annual rate of pension just before the beginning of the pension input period
+
+- like the closing value of the previous pension input period, the opening value of the current pension input period is based on Dave’s final pensionable salary of £80,000 rather than £81,600 because Dave’s salary increase for the previous year was not in payment just before the start of the current pension input period
+
+- Dave’s pension input amount for the current pension input period is:
+
+- (21/60 x £82,416 x 16) - (20/60 x £80,000 x 16 X 1.03) = £22,063.05.

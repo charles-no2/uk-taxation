@@ -1,0 +1,20 @@
+The benefits code: beneficial loans: calculating the  cash equivalent: interest paid half yearly: example
+Identifier: EIM26253
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26253
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-02-25T16:08:25+00:00
+Retrieved (UTC): 2026-09-18T14:12:21.363579+00:00
+
+This example shows how to deal with interest paid, which falls due half yearly (see EIM26252 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26252)), when calculating the cash equivalent of a beneficial loan.
+
+An employee, who for 2015 to 2016 and earlier is not in an excluded employment (see EIM20007 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim20007)), borrows £100,000 from their employer on 6 December. The appropriate official rate for the year is 6%. Interest is payable at 4% a year on 1 June and 1 December each year. The chargeable benefit for the year the loan is made is calculated as follows:
+
+- interest calculated at the official rate: 100,000 × (4 ÷ 12) × 6% = £2,000
+
+- less interest payable and paid the following 1 June: 100,000 × (4 ÷ 12) × 4% = £1,333
+
+- cash equivalent (section 175(1) ITEPA 2003): £2,000 - £1,333 = £667
+
+Note that interest payable for the year the loan is made is included in the first half-yearly interest payment on the following 1 June.
+
+The 4 months interest of £1,333 is payable for the year the loan is made, even though it does not fall due for payment until after the end of the year, because it accrued in the year.

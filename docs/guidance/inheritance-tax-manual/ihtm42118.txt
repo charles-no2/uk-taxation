@@ -1,0 +1,50 @@
+Proportionate charges: grossing
+Identifier: IHTM42118
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42118
+Published: 2016-04-09T10:24:13+01:00
+Updated: 2021-03-01T09:47:31+00:00
+Retrieved (UTC): 2026-09-18T15:09:30.414998+00:00
+
+You need to consider grossing up the chargeable amount when the tax is being paid by the trustees.
+
+That is because the beneficiary is receiving a sum that is net of tax and by grossing up you are calculating the full loss to the trust, which is subject to Inheritance Tax (IHT).
+
+Grossing does not apply to a proportionate charge
+
+-
+
+If the tax is not being paid by the trustees
+
+-
+
+If the tax is being paid by the trustees from non-relevant property remaining in the trust
+
+-
+
+If the trust comes to an end as a result of the distribution (or there is no longer any relevant property in the trust).
+
+Remember grossing up does not apply to the ten year anniversary charge
+
+The grossing process
+
+Once you know the rate of the IHT on a proportionate charge then the process is simple.
+
+For example, if the final rate (after applying the appropriate fraction and any rate relief) is 2% and the value appointed to the beneficiary is £100,000 and the trustees are paying the tax then the gross value is
+
+£100,000 ÷ (100% - 2%) = 100,000 ÷ 98% = £102,041
+
+So, the beneficiary received £100,000 net of IHT. The gross transfer is £102,041 (the full amount leaving the trust) and the IHT on that amount is £2,041.
+
+The grossing addition is always equal to the tax (i.e. £102,041 x 2% = £2,041 tax)
+
+What if the property subject to the charge is being charged at different rates?
+
+In such cases you apply the process above to each part. For example, if £50,000 of the amount above had only been in the trust for half of the time and is only being charged at 1% then you do two grossing calculations.
+
+£50,000 ÷ (100% - 1%) = £50,000 ÷ 99% = £50,505 (IHT £505)
+
+And for the rest
+
+£50,000 ÷ (100% - 2%) = £50,000 ÷ 98% = £51,020 (IHT £1,020)
+
+The total gross transfer is £101,525 and the IHT is £1,525 and the difference equals the net amount of £100,000 given to the beneficiary.

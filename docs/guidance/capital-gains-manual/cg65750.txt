@@ -1,0 +1,214 @@
+Reliefs: Incorporation relief: example: consideration wholly in shares
+Identifier: CG65750
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65750
+Published: 2016-03-12T12:02:34+00:00
+Updated: 2026-08-25T11:25:39+01:00
+Retrieved (UTC): 2026-09-18T14:34:41.428198+00:00
+
+All statutory references in this page are to the Taxation of Chargeable Gains Act 1992 unless otherwise specified.
+
+The basic mechanics of section 162 (https://www.legislation.gov.uk/ukpga/1992/12/section/162) incorporation relief in a straightforward case are illustrated in the example below. The example assumes Extra Statutory Concession (ESC) D32 applies.
+
+A transferred his business with all its assets to X Ltd in consideration for an issue of 8,000 shares in X Ltd. Liabilities in the sum of £15,000 were transferred with the business.
+
+The balance sheet of the business at the date of transfer was as follows:
+
+This table shows a simple balance sheet. On the left: Capital and reserves, £70,000 plus Creditors, £15,000, totalling £85,000. On the right, Business assets listed as: Non chargeable, £49,000, plus chargeable (at cost) £23,000, plus cash 13,000, also totalling £85,000.
+
+-
+
+|
+
+£
+
+|
+
+Business assets:
+
+|
+
+£
+
+|
+
+Capital & Reserves
+
+|
+
+70,000
+
+|
+
+non-chargeable
+
+|
+
+49,000
+
+|
+
+Creditors
+
+|
+
+15,000
+
+|
+
+chargeable (at cost)
+
+|
+
+23,000
+
+|
+
+-
+
+|
+
+-
+
+|
+
+cash
+
+|
+
+13,000
+
+|
+
+-
+
+|
+
+85,000
+
+|
+
+-
+
+|
+
+85,000
+
+|
+
+It was agreed in the course of the negotiations that the current market values of the assets of the business were:
+
+- non-chargeable assets = £55,000
+
+- chargeable assets = £50,000
+
+and these values were adopted for the purpose of determining the consideration payable to A.
+
+1. Gains on the transfer of chargeable assets:
+
+This table shows the gain calculation. Market value on transfer, £50,000, less cost, £23,000, gives Aggregate net gains, £27,000.
+
+-
+
+|
+
+£
+
+|
+
+Market value on transfer
+
+|
+
+50,000
+
+|
+
+Less Cost
+
+|
+
+23,000
+
+|
+
+-
+
+|
+
+27,000
+
+|
+
+The whole of the consideration received by the transferor in exchange for the business was 8,000 shares in X Ltd.
+
+The value of the shares was £103,000:
+
+This table shows the calculation of net value of business transferred.
+
+Non-chargeable business assets, £55,000, plus Chargeable business assets,£50,000, plus Cash, £13,000 gives Total assets transferred, £118,000.
+
+Total assets transferred £118,000 less creditors, £15,000 gives Net value of business transferred (B), £103,000.
+
+-
+
+|
+
+£
+
+|
+
+Non-chargeable business assets
+
+|
+
+55,000
+
+|
+
+Chargeable business assets
+
+|
+
+50,000
+
+|
+
+Cash
+
+|
+
+13,000
+
+|
+
+-
+
+|
+
+118,000
+
+|
+
+Less creditors
+
+|
+
+15,000
+
+|
+
+Value of consideration
+
+|
+
+103,000
+
+|
+
+2. Proportion of aggregate net gains appropriate to the consideration in shares is the gain multiplied by the fraction of A divided by B:
+
+£27,000 × (103,000 ÷ 103,000) = £27,000
+
+This amount is to be deducted from the cost of the shares. The base cost of the shares to be used on the occasion of their disposal is £103,000 - £27,000 = £76,000.
+
+3. The balance of aggregate net gains is nil, the gain is relieved in full.

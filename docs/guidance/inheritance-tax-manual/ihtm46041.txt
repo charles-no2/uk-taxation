@@ -1,0 +1,70 @@
+Transfer of unused RNRB: the brought-forward allowance: method of calculation
+Identifier: IHTM46041
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46041
+Published: 2017-04-05T16:36:47+01:00
+Updated: 2018-09-28T08:51:57+01:00
+Retrieved (UTC): 2026-09-18T15:10:58.899773+00:00
+
+The way in which the brought-forward allowance (IHTM46040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46040)) is calculated is set out in IHTA84/S8G(3). The ‘person’ referred to below is the individual whose brought-forward allowance is being calculated.
+
+- The first step is to identify each amount available to be carried forward from the death of a spouse or civil partner of the person. This is the amount of unused RNRB in their estate.
+
+- This unused amount is then expressed as a percentage of the residential enhancement (IHTM46022) that applied at that earlier death.
+
+- If there is more than one pre-deceased spouse or civil partner, the percentages from each of them are added together to reach a total.
+
+- If this total percentage is greater than 100%, the percentage is limited to 100%. The brought-forward allowance is this percentage of the residential enhancement at the date of the survivor’s death.
+
+Example 1
+
+Thomas died in 2015 and left his entire estate, valued at £950,000, to his wife Edwina. Edwina dies on 30 July 2019 and leaves all her estate, including a residence worth £400,000, to her daughter.
+
+On the death of Thomas the RNRB could not have been used so 100% is available to transfer to his wife’s estate. On Edwina’s death the residential enhancement is £150,000. Her executor makes a claim to transfer the unused RNRB from Thomas’s estate. Edwina’s estate is entitled to a residential enhancement of £150,000, plus a brought-forward allowance of a further £150,000 (100% of the residential enhancement at her date of death). Edwina’s estate qualifies for a default allowance (IHTM46024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46024)) of £300,000.
+
+Example 2
+
+Paul’s wife, Linda, died in June 2017. Linda had an estate worth £2,100,000 including a share of a flat valued at £30,000 which was a qualifying residential interest (QRI) (IHTM46011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46011)) and which was left to her daughter. Her sister was left £100,000, and the remainder of her estate passed to Paul. The residential enhancement on Linda’s death is £100,000. However, as Linda’s estate is valued at more than £2,000,000 the residential enhancement is tapered (IHTM46023 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46023)) by £1 for every £2 by which the taper threshold is exceeded. Linda’s default allowance of £100,000 is reduced by £50,000 and her adjusted allowance (IHTM46025 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46025)) therefore becomes £50,000:
+
+£100,000 less (£2,100,000 − £2,000,000) ÷ 2 = £50,000
+
+On Paul’s death in June 2018 a claim is made by his personal representatives to transfer Linda’s unused RNRB. Since she left a QRI valued at £30,000 to her daughter, Linda’s estate used some of the available RNRB and her unused RNRB is reduced by this amount:
+
+Chargeable value of Linda’s estate |  £130,000 |
+
+|    |
+
+Less RNRB |  £30,000 (lower of £30,000 and £50,000) |
+
+|  £100,000 |
+
+Less NRB |  £100,000 |
+
+Value chargeable to IHT |  Nil |
+
+So in this example there is £20,000 of unused RNRB which, as a percentage of the residential enhancement at Linda’s date of death, is £20,000 ÷ £100,000 = 20%. On Paul’s death the residential enhancement at that time, £125,000, is multiplied by 20% to give a value of £25,000 for the brought-forward allowance.
+
+There is also £225,000 of Linda’s £325,000 NRB which was unused and is available to transfer (IHTM43000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43000)).
+
+Example 3
+
+Fred’s wife died in 2009. She had no residence in her estate, which was valued at £20,000 when she died. As her estate used no RNRB, it is all available to carry forward. The brought forward allowance will be 100% of the residential enhancement available when Fred dies.
+
+Example 4
+
+Joyce had been pre-deceased by two husbands (John and Allen) when she dies in 2020, at which time the residential enhancement is £175,000.
+
+John died in 2014. The unused RNRB is treated as being £100,000 in accordance with IHTA84/S8G(4)(a) because his death was before 6 April 2017. This is 100% of the residential enhancement that is treated as being available at his date of death in accordance with IHTA84/S8G(4)(b).
+
+Allen died in May 2019 when the residential enhancement was £150,000. By his will, he left his flat valued at £50,000 to his daughter, which utilised £50,000 of his available RNRB. Therefore £100,000 RNRB remained unused to be carried forward. This is 66.6667% (£100,000 ÷ £150,000) of the residential enhancement at the time of Allen’s death.
+
+These two percentages (100% from John and 66.6667% from Allen) are added together (166.6667%). As this is greater than 100% the brought-forward amount for Joyce’s estate is capped at 100% of the residential enhancement at her death (£175,000).
+
+Example 5
+
+Jill was pre-deceased by two husbands (Jack and David) when she dies in 2020, at which time the residential enhancement is £175,000.
+
+Jack died in June 2017 when the residential enhancement was £100,000, and he left his flat (which had been his residence) valued at £80,000 to his daughter. This used £80,000 of his RNRB, leaving £20,000 to be carried forward. This represents 20% of the residential enhancement at the time of Jack’s death (£20,000 ÷ £100,000).
+
+David died in May 2019, when the residential enhancement was £150,000. He left his flat (which had been his residence) valued at £125,000 to his grandson. This used £125,000 of his RNRB, leaving £25,000 to carry forward. This represents 16.6667% of the residential enhancement at the time of David’s death (£25,000 ÷ £150,000).
+
+These two percentages (20% from Jack and 16.6667% from David) are added together (36.6667%). As this is less than 100% the brought-forward amount at Jill’s death will be 36.6667% of the residential enhancement at her death, that is £64,167 (£175,000 x 36.6667%).

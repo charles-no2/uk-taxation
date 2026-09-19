@@ -1,0 +1,32 @@
+AR/BR 100% relief allowance: transfer of unused allowance - calculation where there is a lifetime transfer
+Identifier: IHTM25538
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25538
+Published: 2026-04-07T07:44:21+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:51.133207+00:00
+
+Example
+
+Alice and her spouse James jointly own agricultural property worth £4 million. James also owned agricultural land worth £500,000, which he gifted to his daughter, Sophie, on 1 May 2025.
+
+James died on 2 June 2026 leaving his estate to Alice.
+
+Alice continued farming and on her death on 2 March 2027 her estate included agricultural property worth £5 million.
+
+Alice has a 100% relief allowance of £2.5 million available to apply against her estate.
+
+In addition, there will be a 100% relief allowance of £2 million available to transfer from James’ estate. This is calculated as follows;
+
+Calculate the unused 100% relief allowance in James’ estate. This will be the difference between 100% relief allowance at James’ death (£2.5 million) and the 100% relief allowance used by his estate against the gift to Sophie on 1 May 2025 (£500,000).
+
+£2.5 million - £500,000 = £2 million
+
+Then calculate the percentage of unused relief allowance available to transfer. This is the amount of unused 100% relief allowance divided by the final allowance amount at the date of the first death.
+
+£2 million ÷ £2.5 million = 80%
+
+Finally calculate the survivor’s additional allowance by multiplying the percentage of unused relief allowance by the 100% relief allowance at the death of the surviving spouse or civil partner.
+
+80% x £2.5 million = £2 million transferable 100% relief allowance is available to apply against Alice’s estate.
+
+On Alice’s death the total 100% relief allowance available is £4.5 million, which is her own £2.5 million 100% relief allowance and the £2 million transferable 100% relief allowance.

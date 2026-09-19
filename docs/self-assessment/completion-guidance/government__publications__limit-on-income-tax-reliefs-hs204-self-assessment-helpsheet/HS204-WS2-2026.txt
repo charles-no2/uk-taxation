@@ -1,0 +1,37 @@
+Working Sheet 2
+
+ Column A           Column B      Column C      Column D        Column E          Column F          Column G       Column H
+ Name of business   Amount of     Amount in     Amount from     Limit on relief   Restricted        Total losses   Amount of
+                    losses that   column B      column B that   restrictions of   amount of         that can be    losses to
+                    qualify to    that is not   is subject to   £50,000 or        losses that can   set against    be carried
+                    be set off    subject to    restriction.    box G             be set against    income.        forward.
+                    against       restriction   (Column B       from Working      income.           (Column C      (Column B
+                    income                      minus           Sheet 1,          (Smaller of       plus           minus
+                                                column C)       if higher         column D or       column F)      column G)
+                                                                                  column E)
+
+
+                    £             £             £               £                 £                 £              £
+
+                                                                Column E
+                                                                Remaining
+                                                                limit on relief
+                                                                restrictions
+                                                                (previous
+                                                                column E
+                                                                minus previous
+                                                                column F)
+
+                                                                £
+
+                                                                Column E
+                                                                Remaining
+                                                                limit on relief
+                                                                restrictions
+                                                                (previous
+                                                                column E
+                                                                minus previous
+                                                                column F)
+
+                                                                £
+

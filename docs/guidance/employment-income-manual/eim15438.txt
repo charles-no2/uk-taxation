@@ -1,0 +1,36 @@
+Non-approved schemes: example: receipts excluded from charge: prior employer and employee contributions 
+Identifier: EIM15438
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15438
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T11:31:27+01:00
+Retrieved (UTC): 2026-09-18T14:11:21.065919+00:00
+
+Sections 395(2) and (4) and 396 ITEPA 2003
+
+Example 1
+
+On 1 January 1995 an employer sets up a non-approved retirement benefits scheme by contributing £10,000 to a trust for the purpose of providing benefits on retirement or death for employee A.
+
+Each subsequent 1 January until 2004 the employer contributes a further £25,000. All the employer contributions are taxed on the employee (see EIM15412 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15412)).
+
+The employee decides to contribute £500 from personal income monthly from March 1997 and does so until December 1998.
+
+The fund is based in the UK and pays UK tax on its investment income and gains.
+
+On 31 December 2004 the fund is wound up. The employee receives the fund as a single lump sum of £300,000. Since this falls before 6 April 2006 the rules for non-approved schemes are considered (see EIM15400 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15400)).
+
+All of the contributions to the scheme are either (a) employer’s contributions that have been taxed on the employee or (b) employee’s contributions. So there is no charge under Section 394 ITEPA 2003 (see EIM15423 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15423) and EIM15424 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15424)).
+
+Example 2
+
+The facts are as above but the employer’s contributions were not assessed under Section 595(1) ICTA 1988 or Section 386 ITEPA 2003 as they ought to have been.
+
+Only that part of the £300,000 lump sum attributable to employee’s contributions is not chargeable (see EIM15424 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15424)). Those contributions totalled £11,000 (£500 x 22) out of total contributions of £196,000 (£11,000 + £10,000 + 9 payments of £25,000).
+
+The part not chargeable is then £16,836 (£300,000 x £11,000/£196,000) unless there is evidence for a more reasonable attribution. For example, assume that:
+
+- the employee’s contributions (and income and gains from those contributions) were all invested in A Ltd shares worth £290,000 when the fund closed
+
+- the employer’s contributions (and income and gains from those contributions) were all invested in B Ltd shares worth £10,000 when the fund closed
+
+then a different attribution would be more realistic. Only £10,000 of the lump sum could reasonably be attributed to employer’s contributions not assessed on the employee.

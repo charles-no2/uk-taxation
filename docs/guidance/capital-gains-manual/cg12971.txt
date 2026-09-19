@@ -1,0 +1,98 @@
+Capital sums derived from assets: section 22(1) TCGA 1992: compensation: practical considerations 
+Identifier: CG12971
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12971
+Published: 2022-06-16T08:43:46+01:00
+Updated: 2025-11-18T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:36:59.013865+00:00
+
+Where awards of compensation or damages are made, you will need to take a methodical approach to determine the correct tax treatment of the sum received and the following key points will need to be established.
+
+1. Is any part of the award classified as revenue?
+
+i) The first question is whether the sum is capital or revenue in nature. Any charge to tax as income takes precedent over a capital gains charge (CG14300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14300)).
+
+ii) In order to determine whether a sum is capital or revenue in nature, you may find it useful to refer to the Business income manual at pages BIM35600 (https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fhmrc-internal-manuals%2Fbusiness-income-manual%2Fbim35600&data=05%7C01%7Cemma.campbell1%40hmrc.gov.uk%7C28a6a3cbbd6c424c12d408da42db9943%7Cac52f73cfd1a4a9a8e7a4a248f3139e1%7C0%7C0%7C637895808170014117%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=GGaaw%2BqLZP4P7%2BeLGBwOJHocLI4l%2BqtE93vBEt2jTfo%3D&reserved=0) and BIM40100 (https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fhmrc-internal-manuals%2Fbusiness-income-manual%2Fbim40100&data=05%7C01%7Cemma.campbell1%40hmrc.gov.uk%7C28a6a3cbbd6c424c12d408da42db9943%7Cac52f73cfd1a4a9a8e7a4a248f3139e1%7C0%7C0%7C637895808170014117%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=8Td1ebTqAZUQYZlvFxGeQTgCa303lPWbHgKeWS2Gh0k%3D&reserved=0).
+
+iii) Compensation that is revenue in nature could be trading income, or it could fall under the miscellaneous income provisions (see BIM100000 (https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fhmrc-internal-manuals%2Fbusiness-income-manual%2Fbim100000&data=05%7C01%7Cemma.campbell1%40hmrc.gov.uk%7C28a6a3cbbd6c424c12d408da42db9943%7Cac52f73cfd1a4a9a8e7a4a248f3139e1%7C0%7C0%7C637895808170014117%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=p7iD5e7zjmU%2FRybtAHg3VxzPdtnAvtwNFsXpLo81cNo%3D&reserved=0)).
+
+iv) Compensation could also be made up of an amount that is capital and an amount that is interest. If the compensation includes any amount of interest, the interest element is subject to Income Tax. This should be taxed accordingly and deducted from the sum being considered for capital gains purposes. SAIM2070 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2070) provides more information about interest included in compensation.
+
+The following steps need only be considered for amounts that are taxable as capital sums.
+
+2. Do any exemptions which exclude compensation payments from a charge to Capital Gains Tax or Corporation Tax on chargeable gains apply?
+
+i) In some circumstances, capital sums of compensation are specifically excluded from a charge for capital gains purposes. CG13030P+ (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13030p) provides further information.
+
+3. What is the asset?
+
+i) The receipt of a capital sum by way of compensation is a deemed disposal for capital gains purposes (CG12948 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12948)).
+
+ii) You will need to establish the asset from which the capital sum is derived. This will require careful consideration of the facts.
+
+iii) If you establish that the asset is a right, the capital gains treatment depends on the type of right held by the recipient of the sum.
+
+iv) You will need to check the information to see if the recipient of the sum had a statutory right or contractual right to the compensation. If either of these rights existed and gave rise to the compensation, you should follow the appropriate guidance:
+
+-
+
+statutory rights (CG12995 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12995)) - If there is an asset other than the statutory right which is the true source of the award, you should compute a disposal of the ‘true source’ of the award. If the only asset is the statutory right, you should compute a disposal of the statutory right.
+
+-
+
+contractual rights (CG13000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13000)) - If the subject matter of the contract itself is an asset, you must compute a disposal of the asset that is the subject matter of the disposal. If the only asset is the contractual right, you should compute a disposal of the contractual right.
+
+v) If neither a statutory right nor a contractual right exists, the recipient of the compensation is likely to have had a right of action. You should, however, ensure that you had had sight of the relevant documentation to satisfy yourself that this is the case.
+
+back to top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12971#top-of-page)
+
+4. Right of action
+
+i) A right to take court action for compensation or damages is also an asset, known also as a ‘right of action’ or a ‘chose in action’ (CG13015 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13015)).
+
+ii) The fact that a person had a right of action and received compensation does not necessarily mean the sum is chargeable as such. The true source of the capital sum may not be the same as the immediate source from which or by whom the payment is made (CG13015 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13015)).
+
+iii) In order to determine the correct tax treatment, it is necessary to consider ESC D33 and whether compensation falls under Paragraph 9 of ESC D33 or Paragraph 11 of ESC D33 (CG13020 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13020)).
+
+iv) Paragraph 9 of ESC D33 applies when there is a chargeable asset underlying compensation. It explains that the compensation is taxed on the basis that the amount is derived from the underlying chargeable asset. For more information about chargeable assets see CG11700C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg11700c).
+
+v) When paragraph 9 of ESC D33 applies, it is necessary to apply the part-disposal rules because a proportion of the allowable costs of the underlying chargeable asset can be allowed as a deduction when working out the gain. For more information about part-disposals please see CG12730p (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12730p). Any relief or exemption that applies was or would have been available on the disposal of the underlying asset (whether it’s still held or not), will apply to a capital amount of compensation that’s from that underlying asset.
+
+The above approach applies even if the underlying chargeable asset is no longer owned at the time the compensation is received. In that situation it is likely that all of the allowable costs would have already been included when working out the earlier disposal of that asset, so the receipt of the capital award will result in a gain..
+
+vi) Paragraph 11 of ESC D33 applies if the compensation did not derive from an underlying chargeable asset but from the right of action.
+
+5. Compensation falling within Paragraph 11 of ESC D33
+
+i) If a sum is received after 27 January 2014, paragraph 11 of ESC D33 treats as exempt from Capital Gains Tax the first £500,000 of a capital sum that derives from a right of action (CG13020 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13020)).
+
+ii) If a person receives compensation which falls under paragraph 11 of ESC D33 in excess of £500,000, HMRC may extend the exemption to the full amount of the capital sum received, if a claim is made to HMRC and that claim is accepted (CG13021 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13021)).
+
+iii) There are four conditions that need to be met for HMRC to accept the claim (CG13024 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13024)). The use of the Commissioner’s collection and management powers must be authorised at the appropriate level. As such it is mandatory to refer a claim to the Capital Gains Technical Group for approval before responding to the claimant.
+
+General comments
+
+It should be borne in mind that these guidelines are for general guidance, and that a decision in any particular case must have regard to all the facts of that case.
+
+The following list of documents/ points to consider is not exhaustive or intended as a checklist but may be useful in establishing the tax treatment of the compensation that has been received:
+
+-
+
+Correspondence in relation to an associated claim
+
+-
+
+Details of the claim
+
+-
+
+The settlement agreement
+
+-
+
+Documents with details and terms of settlement including an explanation / breakdown of how the final settlement figure was calculated
+
+-
+
+When banks are paying compensation, correspondence explaining why redress has been paid.
+
+back to top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12971#top-of-page)

@@ -1,0 +1,48 @@
+Annual allowance: pension input amounts: deferred members: deferred annuity contracts
+Identifier: PTM053940
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053940
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2016-02-29T15:48:32+00:00
+Retrieved (UTC): 2026-09-18T14:50:48.639130+00:00
+
+| Glossary | PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001) | |———-|————————————————————————————-|
+
+Sections 153(8) and 234(5B, 5BB, 5BC, 5BD, 5BE & 5C) Finance Act 2004
+
+An individual who has a defined benefits arrangement under a deferred annuity contract (the ‘annuity contract’), where the annuity contract is:
+
+- treated by the tax rules as a registered pension scheme because on or after 6 April 2006 funds have been transferred to the annuity contract to secure benefits payable at a future date and those funds have come from a registered pension scheme (see PTM031300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm031300) for more detail)
+
+- is treated as having no pension input amount for that arrangement under the annuity contract if the following conditions are met.
+
+For the arrangement to be treated as having no pension input amount the annual increase in the member’s benefits under the arrangement cannot be more than:
+
+- the ‘annuity rate’, plus
+
+- the ‘relevant statutory increase percentage’ (see PTM053920 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053920)).
+
+Note - for this purpose rights to a GMP do not have to be taken into account when considering the increase in the member’s benefits under the arrangement. Effectively, if either of the above conditions are met the rate of increase that must be given to the GMP can be ignored.
+
+The ‘annuity rate’ means:
+
+- an annual rate of increase specified in the rules of the annuity contract (or a ‘predecessor registered pension scheme’) on 14 October 2010, or
+
+otherwise
+
+- the greater of:
+
+- the ‘CPI percentage’, or
+
+- the ‘RPI percentage’.
+
+Note the annuity rate is not the greater of the rate specified in the rules on 14 October 2010 and the CPI or RPI percentage.
+
+The ‘CPI percentage’ means:
+
+- the increase in the CPI over the twelve month period ending with a month that falls within the pension input period (the month having been chosen by the scheme administrator).
+
+The ‘RPI percentage’ means:
+
+- the increase in the RPI over the twelve month period ending with a month that falls within the pension input period (the month having been chosen by the scheme administrator).
+
+A ‘predecessor registered pension scheme’ means another registered pension scheme from which some or all of the sums or assets held for the purpose of the defined benefits arrangement under the annuity contract derive.

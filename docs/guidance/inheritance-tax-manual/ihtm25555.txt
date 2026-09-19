@@ -1,0 +1,86 @@
+AR/BR 100% relief allowance: settlements - 18-25 trusts
+Identifier: IHTM25555
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25555
+Published: 2026-04-07T07:44:34+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:54.594713+00:00
+
+The 100% trust relief allowance can apply to charges on or after 6 April 2026 in relation to qualifying agricultural and relevant business property comprised in an age 18-25 trust.
+
+For guidance on this type of settlement see IHTM42816 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42816).
+
+The amounts and the application of the allowance depend on the bases of the charge.
+
+A: Charge under IHTA84/S71E(1)(a)
+
+When settled property ceases to be subject to the 18/25 trusts, e.g. because of a distribution by the trustees, the allowance is applied in the following way
+
+-
+
+for each beneficiary (“B”) there is a maximum trust relief allowance of £2.5m, subject to the rule about multiple 18/25 trusts below
+
+-
+
+the allowance is, in relation to B, reduced by each charge in turn until it has been used in full or the trust comes to an end, i.e. it does not refresh, and
+
+-
+
+when there is more than one charge in relation to B on the same day and the sum of the potentially relievable values exceeds the current balance of B’s relief allowance, the balance is apportioned rateably and the relief on the excess (and for any future charges) will be at 50%. There is an apportionment example at IHTM25554 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25554).
+
+Example (ignoring any future indexation)
+
+Trisha dies in 2029 and the residue of her estate passes to her two minor children, Joni (15) and Dylan (10), on trusts that satisfy IHTA84/S71D.
+
+At that time the settled property consisted of agricultural and business property worth £3m.
+
+In 2035 the trustees distribute property to Joni on her 21st birthday consisting of land with a value of £1m, which qualifies for 100% relief and is within Joni’s total allowance of £2.5m. The value transferred by the18/25 charge is reduced to nil and no IHT is payable.
+
+Four years later Joni becomes entitled to her one-half share in the settled property on her 25th birthday.
+
+At the same time the trustees decide to use their powers to accelerate Dylan’s interest, currently 20, and bring the trust to an end.
+
+At that time the relievable property had increased in value and the final distribution is £5m, of which £2m is Joni’s share.
+
+Joni’s 100% relief allowance for this event is (£2.5m - £1m) = £1.5m so that the 18/25 charge is based on a value of (£2m - £1.5m)  50% = £250k and a period of 7 years (=28/40).
+
+Dylan’s 100% relief allowance for this event is £2.5m so that the 18/25 charge is based on a value of (£3m - £2.5m) * 50% = £250k, and a period of 2 years (=8/40).
+
+If Trisha had a full nil rate band at death, then the settlement rate, based on an historic value of £3m is 5.35%.
+
+The total IHT payable by the trustees is
+
+Joni £250k * 5.35% * 28/40 = £9,362.50
+
+Dylan £250k * 5.35% * 08/40 =£2,675.00 £12,037.50
+
+B: Charge under IHTA84/S71E(1)(b)
+
+When the value of settled property remaining in the settlement has been reduced by an uncommercial disposition by the trustees, there is no 100% trust relief allowance. That means any devaluation of qualifying agricultural and business property can only attract 50% relief.
+
+Multiple 18/25 trusts including the same beneficiary
+
+It is possible that B may be a beneficiary of more than one 18/25 trust, made by the same parent on their death. Note that a parent includes a stepparent (or a person who, immediately before their death, had parental responsibility for the minor B).
+
+In such cases, the maximum 100% trust relief allowance of £2.5m in relation to B is apportioned equally between those trusts.
+
+So, if there were two separate 18/25 trusts made by the same parent on their death and B is a beneficiary of both then each trust has, in relation to B, a 100% trust relief allowance of £1.25m.
+
+Trusts made by a different parent (or where trusts arise under compensation schemes) are not affected by this rule.
+
+18/25 trusts in existence prior to 6 April 2026
+
+If the value charged is attributable to property
+
+-
+
+that was comprised in the settlement prior to 6 April 2026 and
+
+-
+
+would have qualified for 100% relief at the date of the charge on the basis that the reforms to the reliefs had not been made
+
+then there is a transitional provision (FA26/Sch12/Para17( 9)-(13)) that reduces the rate of tax for charges under IHTA84/S71E(1)(a), whether the rate is calculated under IHTA84/S71F(5) or IHTA84/S70(6).
+
+In such cases, the relievable property is treated as excluded property until the first new quarter year following 6 April 2026. That means the earlier quarter years are not counted when calculating the rate of tax.
+
+There is an example of how this transitional relief applies at IHTM25554 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25554).

@@ -1,0 +1,86 @@
+Other sums treated like premiums: sums payable in lieu of rent or for surrender of a lease
+Identifier: PIM1214
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1214
+Published: 2016-04-10T16:23:30+01:00
+Updated: 2020-08-07T11:34:15+01:00
+Retrieved (UTC): 2026-09-18T14:27:54.589466+00:00
+
+Summary
+
+This page is about two circumstances in which a payment is to be charged as if it were a premium. These are when the terms under which a lease is granted require a payment to be made:
+
+- in lieu of the whole or part of the rent for any period, or
+
+- as consideration for surrender of the lease.
+
+Without special rules, a landlord could impose such terms to avoid tax by effectively charging a premium, which took another form. A charge may arise even if the lease is for a period of more than 50 years. See below for details.
+
+The case where payment is made but not under the terms of the lease is dealt with at PIM1216 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1216).
+
+Payments dealt with in this page are covered by sections 219-220 of the Corporation Tax Act 2009 (CTA09) and sections 279-280 of the Income Tax (Trading and Other Income) Act 2005 (ITTOIA05).
+
+If a tenant has to pay a sum under the terms of a lease:
+
+- in lieu of the whole or part of the rent for any period (ie in commutation of rent), or
+
+- as consideration for the surrender of the lease,
+
+then the landlord is treated as though the lease had required payment of a premium of that amount.
+
+Timing
+
+The taxable amount of the payment is treated as if it were rent due when the sum became payable, not at the commencement of the lease.
+
+Period to be taken as the period of the lease
+
+The period to be taken as the period of the lease is as shown below.
+
+- If the payment is in commutation of rent for any period, treat the period as being the period for which payment of rent would have been made if it had not been commuted, see example 1 below.
+
+- If the payment is for surrender of the lease and the lease was granted on or after 25 August 1971, treat the period as being for the whole period of the lease unless the lease is to be regarded as for a shorter period (see PIM1206 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1206)). Where the lease is to be regarded as for a shorter period than the term of the lease, treat the period as being from the commencement of the lease to the date of surrender, see example 2 below.
+
+- If the payment is for the surrender of the lease and the lease was granted before 25 August 1971, treat the period as being from the commencement of the lease to the date of surrender.
+
+Calculation - formula
+
+The legislation sets out the calculation of the taxable amount with this formula:
+
+S x (50-Y)/50
+
+Where:
+
+S = the amount paid/payable instead of rent or for surrendering the lease.
+
+Y = the number of complete periods of 12 months to which the payment relates, less the year in which the payment was made.
+
+Example 1
+
+On 1 April 2005, Tisha granted a 21-year lease of a shop to Costantino. The rent was £10,000 a year payable half-yearly in advance. Under the terms of the lease, the rent for any period may be commuted on payment of a sum to be fixed. On 31 March 2019 Costantino agrees to pay Tisha £35,000 in commutation of four years’ rent.
+
+In this example, using the formula, ‘Y’ equals three: the payment was in lieu of four years’ rent and the first year is deducted. Tisha will be taxed as if rent of £32,900 was due on 31 March 2019, in addition to the rent of £10,000 included in the 2018-19 computation. The calculation is:
+
+1. Deemed premium receivable |  £35,000 |
+
+2. Multiply by (50-3) / 50 |    |
+
+3. Chargeable amount of premium |  £32,900 |
+
+4. Add rent for year ended 31.3.19 |  £10,000 |
+
+5. Total amount of taxable income in 2018-19 |  £42,900 |
+
+Example 2
+
+Thersa grants to Tarik a 70-year lease of a shop at a rent of £25,000 per annum from 1 January 2008. The lease includes an option for it to be surrendered after 10 years on payment of £60,000. The rent, after the initial 10-year period increases to £100,000 per annum.
+
+The lease was surrendered on 31 December 2017. It is agreed that a premium of £60,000 is not substantially greater than would have been the case for a 10-year lease (see above and PIM1206). In this example, using the formula, ‘Y’ is 9: the surrender premium is taken as relating to a 10 years and the first year is deducted. Thersa will be treated as if she had received rent of £49,200 on 31 December 2017, in addition to the nine months rent for this year, calculated as follows:
+
+1. Deemed premium receivable |  £60,000 |
+
+2. Multiply by (50-9) / 50 |    |
+
+3. Chargeable amount of premium |  £49,200 |
+
+4. Add actual rent for nine months to 31.12.17 |  £18,750 |
+
+5. Total amount of taxable income in 2017-18 |  £67,950 |

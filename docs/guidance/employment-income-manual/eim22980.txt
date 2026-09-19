@@ -1,0 +1,54 @@
+Van fuel benefit from tax year 2005 to 2006: example
+Identifier: EIM22980
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22980
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-03-25T08:06:03+00:00
+Retrieved (UTC): 2026-09-18T14:11:56.607850+00:00
+
+Sections 160 to 164 ITEPA 2003
+
+This example illustrates the principles at EIM22900 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22900) onwards.
+
+A van is available to employee E from 6 April to 31 December 2007 and the restricted private use condition (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22795) is not met. Fuel is provided for private use from 1 May until 30 November 2007, after which the facility is withdrawn and is not reinstated for this van in the tax year 2007 to 2008.
+
+Calculation
+
+Item |  Days |  Amount |
+
+Van fuel charge for 2007 to 2008 (whole year, EIM22915 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22915)) |  0 |  £500 |
+
+Days van unavailable (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22825): 1 January to 5 April 2008 |  96 |    |
+
+Additional days after fuel withdrawn (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22930): 1 to 31 December (note that the days from 6 to 30 April 2007 are not excluded because fuel is provided for the same van later in the same tax year) |  31 |    |
+
+Total days by which the fuel charge can be reduced |  127 |    |
+
+Reduction for unavailability: £500 × 127 ÷ 366 (number of days in the tax year 2007 to 2008) |  0 |  £174 |
+
+Van fuel charge for the tax year 2007 to 2008 for this van |  0 |  £326 |
+
+Van shared
+
+If the charge on E is reduced because the van is shared (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22830), the fuel benefit charge is reduced to the same extent.
+
+On the above facts:
+
+- the gross van benefit charge would be £3,000 (EIM22790 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22790))
+
+- the reduction for unavailability would be £3,000 × 96 ÷ 366 = £787, making the net charge £2,213
+
+- if the just and reasonable reduction for sharing were 30%, reducing the van benefit charge to £1,549 before taking into account any payments for private use, the van fuel charge above would also be reduced by 30% to £228
+
+- the van fuel benefit charge would not be affected by any payments the employee makes for private use of the van (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22840), even if the van benefit charge were reduced to nil by those payments
+
+Employee paying for fuel for private use
+
+If employee E is required to pay for all private fuel in the year, and does so, the van fuel benefit charge is reduced to nil (EIM22920 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim22920)).
+
+If employee E does not pay the full cost of private fuel, the charge is not reduced at all. The van fuel benefit charge operates in exactly the same way as the car fuel benefit charge: the charge is not reduced pound for pound by payments by employee E; it is either reduced to nil, or not at all.
+
+From the 2017 to 2018 tax year, the latest date for making good the cost of all fuel provided for privae use when calculating the van fuel benefit charge is by 6 July following the tax year in which the private fuel is provided.
+
+2005 to 2006 and 2006 to 2007
+
+Because the van fuel benefit charge is nil for these 2 tax years, its existence can effectively be ignored until the tax year 2007 to 2008.

@@ -1,0 +1,44 @@
+Capital loss streaming from 19 July 2011: order of set off of losses
+Identifier: CG47425
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47425
+Published: 2016-03-12T11:15:37+00:00
+Updated: 2016-01-25T17:09:35+00:00
+Retrieved (UTC): 2026-09-18T14:42:02.495997+00:00
+
+TCGA92/SCH7A/PARA6
+
+The general rule in TCGA92/S8 (1) states the amount to be included in a company’s total profits for an accounting period in respect of chargeable gains. This is
+
+- the total of the chargeable gains accruing in the period
+
+less
+
+- any allowable losses accruing in the period
+
+less
+
+- any allowable losses brought forward from previous periods while the company was within the charge to Corporation Tax.
+
+The rules in TCGA92/SCH7A/PARA7, see CG47430, set out the circumstances in which a restricted loss can be deducted from a chargeable gain. Where both restricted and unrestricted losses are available it may be necessary to identify which losses are deducted from the total chargeable gains of the accounting period and to determine whether losses carried forward to later periods are restricted.
+
+The general order of set-off is in TCGA92/SCH7A/PARA6(1). Losses are deducted from the chargeable gains of an accounting period in the following order:
+
+- Firstly, any restricted losses accruing in the period, to the extent that they are deductible from gains under the rules in TCGA92/SCH7A/PARA7.
+
+- Next, any restricted losses brought forward to the accounting period, to the extent that they are deductible from gains under the rules in TCGA92/SCH7A/PARA7.
+
+- Finally, any losses that are not restricted, applying the rules in TCGA92/S8 (1).
+
+Allowable losses not deducted under these rules, whether restricted or not, are carried forward to later accounting periods under TCGA92/S8 (1).
+
+Losses of a company may be subject to different restrictions, perhaps because a company has joined more than one group. It may therefore be necessary to establish which amounts of particular restricted losses are deducted from gains, in order to apply the appropriate restriction in a later period. In such circumstances the company may specify the deduction of any particular restricted loss from any particular gain in an election, TCGA92/SCH7A/PARA6(2).
+
+The time limit for an election is two years from the end of the accounting period in which the gain accrued, TCGA92/SCH7A/PARA6(3).
+
+If a company that is entitled to make an election fails to do so then TCGA92/SCH7A/PARA6(4) applies the following rules, so far as is consistent with any elections which have been made.
+
+- Earlier accrued losses are set off before later accrued losses.
+
+- Losses are set off against earlier gains in priority to later gains.
+
+Note: Additional rules relating to loss buying were enacted in FA 2006. See CG47020+ for guidance on the rules which apply in priority to TCGA92/SCH7A for accounting periods ending on or after 5 December 2005.

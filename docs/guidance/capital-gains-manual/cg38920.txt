@@ -1,0 +1,68 @@
+Transfers between settlements - calculating the section 2(2)* amounts transferred
+Identifier: CG38920
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38920
+Published: 2016-03-12T10:59:04+00:00
+Updated: 2019-10-15T14:37:45+01:00
+Retrieved (UTC): 2026-09-18T14:40:14.419817+00:00
+
+If TCGA92/S90 applies the first step is to carry out the section TCGA92/S87A matching in the transferor settlement for the year of transfer. See CG38960 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38960). Any gain accruing on the transfer itself is included in the section 2(2)* amount for the year of transfer and is included in this matching. It is only the unmatched section 2(2)* amounts remaining that may be transferred to the transferee settlement, TCGA92/S90(3).
+
+The value of unmatched section 2(2)* amounts transferred depends on whether all or only part of the settled property is transferred and what consideration, if any, is given for the transfer.
+
+All the settled property is transferred for nil consideration (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38920#IDAHG3PI)
+Only part of the settled property is transferred for nil consideration (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38920#IDAWA3PI)
+All or part of the settled property is transferred for a consideration equal to or greater than market value (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38920#IDAEE3PI)
+All the settled property is transferred for a consideration less than market value (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38920#IDAYE3PI)
+Only part of the settled property is transferred for consideration less than its market value (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38920#IDA002PI)
+
+All the settled property is transferred for nil consideration
+
+All the unmatched section 2(2)* amounts of the transferor settlement are added to the section 2(2)* amounts of the transferee settlement, TCGA92/S90(3)(a).
+
+The unmatched section 2(2)* amounts of the transferor settlement are reduced to nil, TCGA92/S90(5).
+
+See the example in CG38930 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38930).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38920#Top)
+
+Only part of the settled property is transferred for nil consideration
+
+Only the ‘relevant proportion’ of the unmatched section 2(2)* amounts of the transferor settlement is added to the section 2(2)* amounts of the transferee settlement, TCGA92/S90(3)(b). The relevant proportion transferred is ‘the market value of the property transferred’ divided by ‘the market value of the property comprised in the transferor settlement immediately before the transfer’, TCGA92/S90(4).
+
+The unmatched section 2(2)* amounts of the transferor settlement are reduced by the same amount, TCGA92/S90(5).
+
+See the example in CG38935 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38935).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38920#Top)
+
+All or part of the settled property is transferred for a consideration equal to or greater than market value
+
+No unmatched section 2(2)* amounts of the transferor settlement are added to the section 2(2)* amounts of the transferee settlement. The unmatched section 2(2)* amounts of the transferor settlement remain in the transferor settlement, TCGA92/S90A(1).
+
+See the example in CG38940 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38940).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38920#Top)
+
+All the settled property is transferred for a consideration less than market value
+
+Only the ‘relevant proportion’ of the unmatched section 2(2)* amounts of the transferor settlement are added to the section 2(2)* amounts of the transferee settlement. But the relevant proportion formula in TCGA92/S90(4) is modified by reducing the market value of the property transferred by the amount of the consideration, TCGA92/S90A(2) and (4). Because the relevant proportion formula does not apply if all the trust property is transferred TCGA92/S90A(3) treats the transfer as if it were a transfer of part of the property.
+
+The unmatched section 2(2)* amounts of the transferor settlement are reduced by the same amount, TCGA92/S90(5).
+
+See the example in CG38945 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38945).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38920#Top)
+
+Only part of the settled property is transferred for consideration less than its market value
+
+Only the ‘relevant proportion’ of the unmatched section 2(2)* amounts of the transferor settlement are added to the section 2(2)* amounts of the transferee settlement. But the relevant proportion formula in TCGA92/S90(4) is modified by reducing the market value of the property transferred and the market value of the trust property before the transfer by the amount of the consideration, TCGA92/S90A(2) and (4).
+
+The unmatched section 2(2)* amounts of the transferor settlement are reduced by the same amount, TCGA92/S90(5).
+
+See example in CG38950 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38950).
+
+For any of these calculations, where property is subject to a debt, the market value of the property should be reduced by the amount of the debt TCGA92/S90(9).
+
+The reduction in the unmatched section 2(2)* amounts of the transferor settlement has effect for the year after the year of transfer, TCGA92/S90(8). This is to allow the trustees’ section 2(2)* amount for the year of transfer to be matched before TCGA92/S90 applies.
+
+*This section was re-written for disposals from 6 April 2019 to section 1(3) see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

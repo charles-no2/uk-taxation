@@ -1,0 +1,112 @@
+Remittance basis: accounts denominated in foreign currencies
+Identifier: CG25392
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25392
+Published: 2016-03-12T10:24:39+00:00
+Updated: 2023-04-17T11:04:14+01:00
+Retrieved (UTC): 2026-09-18T14:38:58.143133+00:00
+
+Changes from 6 April 2025
+
+The remittance basis has been abolished and new rules have been introduced from the 2025/26 tax year.
+
+The latest guidance can be found in RFIG (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual) for Residence and RDRM (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis) for Domicile manuals.
+
+Please note that cases which occur from 6 April 2025 onwards will be determined in accordance with the new rules.
+
+To analyse an account at a specific date you must convert the figure of capital gain in sterling back into an amount of foreign currency using the spot rate of exchange at the date of the remittance. From the total balance in the account you can then deduct this figure and any amount of income held in the account to arrive at a net balancing figure. This balancing figure is normally called capital but when there have been movements in exchange rates it is not normally possible to reconcile it with the amount that was originally treated as capital in the foreign currency.
+
+Example
+
+Fatima is resident in the United Kingdom and claims the remittance basis in all relevant years. In August 2009 she disposes of property in Germany for net proceeds €400,000. She bought the property in March 2007 for €260,000. She banks the proceeds in a new account in Germany and in November 2010 transfers €100,000 from the account to a UK account denominated in Sterling. The Sterling: Euro exchange rates were
+
+Date
+
+|
+
+Exchange rate
+
+|
+
+March 2007
+
+|
+
+0.571
+
+|
+
+August 2009
+
+|
+
+0.909
+
+|
+
+November 2010
+
+|
+
+0.966
+
+|
+
+Foreign chargeable gain arising in August 2009:
+
+-
+
+|
+
+Amount
+
+|
+
+-
+
+|
+
+Proceeds
+
+|
+
+£363,600
+
+|
+
+(400,000 x 0.909)
+
+|
+
+Less cost
+
+|
+
+£148,460
+
+|
+
+(260,000 x 0.571)
+
+|
+
+Gain
+
+|
+
+£215,140
+
+|
+
+equivalent to €236,677 (215,140/0.909)
+
+|
+
+This gain is computed once and for all in Sterling at the time of the exchange, but as the foreign currency representing the gain is held in a bank account there is the possibility that a further gain or loss will arise if the withdrawal was made before 6 April 2012 (TCGA92/S252, see CG78320 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg78320#)+). As at August 2009 the bank account is a mixed fund containing foreign chargeable gains £215,140 (€236,677) and capital £148,461 (€163,323, ie €400,000 - €236,677).
+
+By November 2010 this gain is equivalent to €222,712 (215,140/0.966) ie there is an unrealised foreign exchange loss of £13,490 (ie €(236,677-222,712) = €13,965 expressed in Sterling). (If this is not realised by 5 April 2012 it will not be an allowable loss).
+
+Under the mixed fund rules (see CG25385 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25385#)+) the amount transferred out of the mixed fund is treated as containing only foreign chargeable gains. The proportion of the gain remitted is the Sterling equivalent of the amount transferred as fraction of the total foreign chargeable gain: (100,000 x 0.966)/215,140 = 44.9%.
+
+The same proportion of the loss due to exchange rate movements (ie 44.9% of £13,490) may be an allowable loss: see CG25330 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25330#)+ for information on losses under the remittance basis.
+
+So the amount of the original gain remitted is £96,600 and, going forward, the mixed fund contains £118,540 foreign chargeable gain (£215,140 - £96,600), giving it an overall composition of €122,712 gains plus €177,288 capital (€300,000 total less the euro equivalent of the remaining gain).

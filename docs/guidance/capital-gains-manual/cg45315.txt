@@ -1,0 +1,24 @@
+No gain/no loss transfers in groups: dividends in kind
+Identifier: CG45315
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45315
+Published: 2016-03-12T11:06:32+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:40:52.509441+00:00
+
+The transfer of the asset may be effected by the subsidiary company declaring a dividend in kind also known as a dividend in specie. The Corporation Tax consequences are described at CTM15250. Such a dividend will normally be declared in a given amount, to be satisfied by the transfer of the asset, and any dividend within CTA10/S1000(1)A will be equal to that specified amount. If the dividend is declared in an amount equal to the market value of the asset, then that is the measure of the dividend. If the dividend is declared in an amount equal to the book value of the asset, any excess of market value of that asset over the specified amount will be a distribution within CTA10/S1020, but CTA10/S1021 will disapply section 1020 in a group case.
+
+The receipt of the dividend will not give rise to a chargeable gain. The disposal of the asset by the subsidiary will be covered by TCGA92/S171, provided, for dividends on or after 1 April 2000, the asset remains within the UK tax net (CG45301). Neither the specified amount of the dividend nor any amount that would be a distribution for CTA10/Part 23 purposes but for CTA10/S1021 will be a capital distribution in respect of shares as defined in TCGA92/S122. Nor will there be any charge under TCGA92/S22. If a dividend paid on or after 1 April 2000 results in the asset ceasing to be within the scope of UK corporation tax on chargeable gains, the disposal is not within section 171, and will be at market value under TCGA92/S18.
+
+See CG45320 for guidance if the intra-group transfer of assets does take the form of a capital distribution, for example a distribution in specie received on the winding-up of a subsidiary.
+
+EXAMPLE
+
+B Ltd is a wholly owned UK resident subsidiary of A Ltd, a UK resident company. B Ltd owns an asset X book value £100,000 market value £1M. B Ltd declares a dividend of £100,000 to be satisfied by the transfer of X to A Ltd.
+
+For chargeable gains purposes there are potentially two disposals
+
+- the disposal of X by B Ltd. This is protected by TCGA92/S171
+
+- the receipt of a capital distribution by A Ltd in respect of its shareholding in B Ltd. Neither the dividend of £100,000 nor the £900,000 difference between the market value of X and the specified amount of the dividend represents a capital distribution.
+
+If A Ltd was not resident in the UK, and did not take the asset into use for the purposes of the trade of a UK permanent establishment, the transfer of the asset will be a disposal by B Ltd which could give rise to a chargeable gain or allowable loss. The disposal proceeds to B for the purposes of computing any gain or loss will be the market value of £1M. As A Ltd is not within the charge to corporation tax, it will have no chargeable gain on any capital distribution received.

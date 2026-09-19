@@ -1,0 +1,32 @@
+Pre-owned assets: excluded transactions: the disposal condition - transfer to spouse or civil partner
+Identifier: IHTM44032
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44032
+Published: 2016-04-09T10:30:27+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:10:14.536940+00:00
+
+For the purposes of the disposal conditions relating to land and chattels, the disposal of any property is an excluded transaction in relation to the chargeable person if the property was transferred to their spouse or civil partner, or former spouse or civil partner where the transfer has been ordered by a court, FA04/Sch15/Para10(1)(b). The transfer can be by any means, not necessarily by way of gift, but it must be direct to the spouse or civil partner. Unlike IHTA84/S18(2) which restricts Inheritance Tax spouse or civil partner exemption where the donee is not a long-term UK resident (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)) (on or after 6 April 2025) or was domiciled abroad (IHTM11031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11031)) (before 6 April 2025), there is no restriction on this exclusion.
+
+Alternatively, a disposal is also an excluded transaction provided
+
+-
+
+the disposal was by way of gift (or in accordance with a court order for the benefit of a former spouse or civil partner),
+
+-
+
+by virtue of which the property became settled property (IHTM16000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16000)), and
+
+-
+
+in which the spouse or civil partner (or former spouse or civil partner where the transfer has been ordered by a court) is beneficially entitled to an interest in possession (IHTM16060 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16060)), FA04/Sch15/Para 10(1)(c).
+
+The spouse or civil partner must take an interest in possession from the outset, but note that this does not have to be a qualifying interest in possession under IHTA84/S49(1A). The transaction will remain an excluded transaction provided the interest in possession remains in place until the death of the spouse or civil partner. If the interest in possession ends during their lifetime, the transaction ceases to be an excluded transaction, FA04/Sch15/Para 10(3), so the POA charge will arise in the normal way from that point onwards. However, if the spouse or civil partner (or former spouse or civil partner) has become absolutely entitled to the property, you can accept that the benefit of the exclusion is not lost.
+
+Example
+
+In 2005, Paul settles his house on qualifying interest in possession trusts for himself for life, then to his wife Susan with remainders to their children. Both occupy the property. In 2009, the trustees terminate Paul’s life interest; so that Susan now has a non-qualifying interest in possession, but Paul continues to occupy the property.
+
+Initially there would have been no POA charge as the transaction would have been exempt from the charge (IHTM44041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44041)). On the termination of Paul’s life interest, Susan’s interest in possession is not an excluded transaction because there is no disposal by way of gift by virtue of which the property becomes settled property in which Susan has a life interest. So the exclusion under FA04/Sch15/Para 10(1)(c) does not apply and as the exemption no longer applies either, a POA charge arises.
+
+However, as Paul continues to occupy the property and the termination of his qualifying life interest is deemed to be a gift by the life tenant, FA86/S102ZA (IHTM14391 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14391)), the exclusion under FA04/Sch15/Para 11(3) applies and no POA charge arises.

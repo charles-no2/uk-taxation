@@ -1,0 +1,97 @@
+Leases: grant of lease out of short lease: restriction of capital loss
+Identifier: CG71016
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71016
+Published: 2016-03-12T12:15:13+00:00
+Updated: 2023-04-27T12:46:14+01:00
+Retrieved (UTC): 2026-09-18T14:48:12.463231+00:00
+
+TCGA92/Sch 8/Para 6 (1)
+
+Where:
+
+- a short lease is granted out of a short lease;
+
+- a capital loss arises; and
+
+- the holder of the original lease is entitled to relief under ITTOIA05/S292 or CTA09/S232, see PIM2320 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim2320),
+
+the allowable loss is restricted by the amount of the relief given under ITTOIA05/S292 or CTA09/S232.
+
+The operation of TCGA92/Sch 8/Para 6 (1) cannot convert a loss into a chargeable gain. Where the relief given under ITTOIA05/S292 or CTA09/S232 exceeds the loss, the result is no gain/no loss.
+
+Example
+
+Miss P acquired a 40 year lease on a property, paying a premium of £300,000. She attempted to sub-let the property, but had difficulty in finding a tenant. Five years later she granted a 21 year sub-lease of the property for a premium of £50,000. The rent payable under the sub-lease was the same as that payable under the original lease.
+
+The computation of the loss accruing to Miss P is as follows:
+
+Deduction for premium paid
+
+Prior to the grant of the sub-lease, Miss P was entitled to a deduction under ITTOIA05/S292 or CTA09/S232, see PIM2320 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim2320), of £1,650 for each year.
+
+Premium on grant of sub-lease chargeable as property income
+
+P x [ (50 - Y) / 50 ]
+
+P is the amount of the premium
+
+Y is the number of complete years (other than the first) in the term of the lease
+
+=£50,000 - [ (50 - 20) / 50 ]
+
+= £50,000 x 0.6
+
+=£30,000
+
+Total deductions from the rent under ITTOIA05/S292 or CTA09/S232 over the term of the sub-lease
+
+= £1,650 x 21 = £34,650
+
+less £30,000 (premium received on grant of sub-lease)
+
+= £4,650
+
+Allowable expenditure on the grant of the sub-lease
+
+Expenditure x [ (C - D) / P(1) ]
+
+P (1) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the beginning of the period of ownership;
+
+C is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the remaining term of the lease when the sub-lease was granted;
+
+D is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the remaining term of the lease when the sub-lease expires.
+
+The percentages which are required from the table in TCGA92/Sch 8/Para 1, see CG71141 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71141), are:
+
+P (1) - Percentage for 40 years: 95.457
+
+C - Percentage for 35 years: 91.981
+
+D - Percentage for 14 years: 58.971
+
+Expenditure x [ (C - D) / P(1) ]
+
+= £300,000 x [ (91.981 - 58.971) / 95.457 ]
+
+= £103,744
+
+Calculation of loss
+
+Premium £50,000
+
+Less allowable expenditure £103,744
+
+(£53,744)
+
+Add back deductions allowable
+
+Loss (£53,744)
+
+Plus total deductions from the rent under ITTOIA05/S292
+or CTA09/S232 over the term of the sub-lease £4,650
+
+(£49,084)
+
+Miss P’s loss has therefore been reduced from £53,744 to £49,084.
+
+The addition of allowable deductions cannot convert a loss to a gain. The most it can do is reduce a loss to nil.

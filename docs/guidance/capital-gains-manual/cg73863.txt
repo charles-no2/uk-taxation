@@ -1,0 +1,16 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Interaction between Non-Resident CGT and ATED-related CGT: Computation, broad principles
+Identifier: CG73863
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73863
+Published: 2018-10-18T11:37:46+01:00
+Updated: 2019-10-23T12:30:50+01:00
+Retrieved (UTC): 2026-09-18T14:46:42.469180+00:00
+
+ATED-related CGT works by dividing gains accruing on a disposal into two parts - the ATED-related gain and a ‘non-ATED-related gain’. The ATED-related gain is chargeable to ATED-related CGT under TCGA92/S2B*. The non-ATED-related gain may be subject to tax under the other charging provisions of the Taxes Acts, for example CT in the case of a UK resident company, or CGT under TCGA/S86 or 87 in the case of settlors or beneficiaries of a non-UK trust, or CGT under TCGA92/S13* in the case of participators in certain non-resident companies. Alternatively, there may be no UK tax liability at all on the non-ATED-related gain.
+
+Where a disposal is potentially chargeable to both ATED-related CGT and Non-Resident CGT, the ATED-related gain is calculated first and takes priority over Non-Resident CGT. Any remaining gain may be subject to Non-resident CGT. For guidance on how to calculate the ATED-related gain, see CG73600+.
+
+Where the property disposed of was held on both 5 April 2013 and 5 April 2015, the legislation provides for the computation of notional gains and losses which would accrue as a result of deemed disposals and reacquisitions at market value on those dates.
+
+The rules for determining ATED-related, non-ATED-related and non-resident CGT gains apply independently to these notional gains, and the ATED-related, non-ATED-related, non-resident CGT and other gains so computed are all to be treated as accruing at the time of the actual disposal.
+
+*These sections were re-written for disposals from 6 April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150)

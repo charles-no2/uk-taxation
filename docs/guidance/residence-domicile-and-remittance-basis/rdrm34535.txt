@@ -1,0 +1,32 @@
+Remittance Basis: Exemptions: Business investment relief: Order of disposals: Qualifying and non-qualifying investments
+Identifier: RDRM34535
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34535
+Published: 2016-03-09T17:37:48+00:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:42.855153+00:00
+
+Where there are:
+
+- multiple investments in the same target company or eligible group
+
+- one or more of the investments is not a qualifying investment (because it was made from non-taxable funds or taxed UK funds)
+
+the rules are slightly different.
+
+The investments, whether qualifying or not, are treated as a single investment or holding. However, rather than a ‘first in first out’ rule, a part disposal is treated as coming from all of the qualifying investments before any of the non-qualifying investments.
+
+As explained at RDRM74730 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74730), from 6 April 2025 the ordering rules now provide that pre-6 April 2025 foreign income or gains in qualifying investments that have been designated under the TRF, that is, TRF capital, is remitted in priority. However, a part disposal is still treated as coming from all the non-qualifying investments last, as illustrated in the example below. To note, the example below applies where there are no investments consisting of TRF capital.
+
+Example
+
+Erik, a UK resident remittance basis user, holds 100 shares in a UK trading company he set up in 2004 using £500,000 of his UK taxed income. This is not a qualifying investment. In June 2012 Erik invests a further £500,000 of his foreign income into the company and receives an additional 100 newly issued shares. As Erik’s investment is a qualifying investment, he makes a claim to business investment relief on his tax return for 2012-2013 and the foreign income is not taxed as a remittance.
+
+In 2013-2014 Erik decides to sell half of his 200 shares to help fund the purchase of a property in the UK and receives £750,000 for them.
+
+As Erik does not carry out the appropriate mitigation steps, the 200 shares are treated as a single holding and the disposal of 100 of the shares is treated, for remittance basis purposes, as out of qualifying investments first. Erik is treated as disposing of the investment made in June 2012 first and so will be taxed on £500,000 foreign income. Erik has also made a capital gain that he declares on his 2013-2014 Self Assessment tax return along with the £500,000 foreign income remittance.
+
+Once again, it does not matter whether Erik or another relevant person makes the investments. All investments are treated as a single holding and disposals will be treated as coming from the qualifying investments first.
+
+If an investment is made with some funds that would qualify for business investment relief and some that would not, it is treated as two separate investments, one containing the qualifying funds and one containing the non qualifying funds (section 809VG(8) ITA2007)
+
+In the example at RDRM34530 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34530) if Asif’s second investment of £100,000 in June 2013 had been funded half from foreign chargeable gains and half from a UK taxed source, this would be treated as two separate investments of £50,000. One of the investments of £50,000 would derive from the foreign chargeable gains and the other from UK taxed income. In any subsequent disposal where the mitigation step is not taken, the investment containing the foreign chargeable gains would be deemed as disposed of before the investment containing the non taxable funds.

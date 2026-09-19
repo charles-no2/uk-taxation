@@ -1,0 +1,114 @@
+Relief for Gifts of Business Assets: Restrictions on Relief
+Identifier: CG66886
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66886
+Published: 2016-03-12T12:06:02+00:00
+Updated: 2021-02-03T08:02:40+00:00
+Retrieved (UTC): 2026-09-18T14:46:07.850347+00:00
+
+Excess Proceeds (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66886#_Excess_Proceeds)
+
+Consideration – Separated Spouses or Civil Partners (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66886#_Consideration_–_Separated)
+
+Time Apportionment for Non-trade Use (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66886#_Time_Apportionment_for)
+
+Area Apportionment for Non-trade Use (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66886#_Area_Apportionment_for)
+
+Apportionment for Company assets (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66886#_Apportionment_for_Company)
+
+Interests in UK Land (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66886#_Gifts_of_Interests_1)
+
+Excess Proceeds
+
+Where the donee pays consideration in excess of the donor’s allowable costs under TCGA92/S38 (see CG15150P (http://internal.active.hmrci/manual/capital-gains-manual/cg15150P)), TCGA92/S165(7) reduces the gain that can be held-over by this excess, as in the following example:
+
+- On 14 November 2019, Tom sells the premises he used in his trade to Megan for £600,000. At the date of the gift, the premises were worth £750,000. Tom acquired the premises on 7 June 2011 for £500,000.
+
+- In the absence of any relief, Tom’s gain on the disposal (using its market value, see CG66450 (http://internal.active.hmrci/manual/capital-gains-manual/cg66450)) would be £250,000
+
+- As Tom received £600,000 from Megan, his excess proceeds are £100,000 (being the amount received less allowable costs). Relief is therefore restricted to the amount that the gain in the absence of any relief (£250,000) less the excess proceeds (£100,000), leaving £150,000 to be relieved
+
+- As a result, a gain of £100,000 is chargeable on Tom and Megan’s acquisition cost is £600,000
+
+Consideration – Separated Spouses or Civil Partners
+
+Particular care should be taken in identifying any consideration passing in cases involving gifts from one spouse or civil partner to another after the tax year in which they separate but prior to either the divorce decree absolute or the final dissolution order. These disposals will be treated as taking place otherwise than by way of a bargain made at arm’s length, as will a transfer between the parties made under a Court Order, whether or not by consent.
+
+Where there is no recourse to the courts, such a disposal is usually made in exchange for a surrender by the donee of rights which they would otherwise have been able to exercise to obtain alternative financial provision. In these cases the value of the rights surrendered represent actual consideration of an amount which may reduce the gain potentially eligible for hold-over relief to nil, remembering that ‘consideration’ is not limited to money or money’s worth. Exceptionally, parties may be able to demonstrate there was a substantial gratuitous element in the transfer.
+
+Likewise, where there is recourse to the courts and a court makes an order:
+
+- For ancillary relief under the Matrimonial Causes Act 1973 which results in a transfer of assets from one spouse to another, or
+
+- For property adjustment under the Civil Partnership Act 2004, or
+
+- Formally ratifying an agreement reached by the divorcing parties or by the civil partners of a dissolved civil partnership dealing with the transfer of assets
+
+then, following , the court’s order quantifies the value of the applicant spouse’s statutory right by reference to the value of the money or property ordered to be transferred by the respondent spouse. The value of the statutory right surrendered is actual consideration for the assets received, which may restrict or preclude the availability of hold-over relief on the transfer.
+
+Time Apportionment for Non-trade Use
+
+As discussed in CG66884, the gift of an asset used for the purposes of a trade, profession or vocation by the donor (or their personal company or its subsidiary) can qualify for hold-over relief. The amount of relief that is available, however, is restricted under TCGA92/SCH7/PARA5 where the asset was not used for the purposes of a trade, profession or vocation throughout the entire period of its ownership by the donor. If this is in point, the held-over gain is multiplied by the fraction:
+
+A/B
+
+Where ‘A’ is the number of days in the period of ownership that the asset was used in the trade, profession or vocation and ‘B’ is the total number of days in the period of ownership.
+
+Using the example in CG66885 (http://internal.active.hmrci/manual/capital-gains-manual/cg66885) then, with the modification that Tom only took the asset into use in his sole trade from 7 June 2012, the original held-over gain (£250,000) is multiplied by 2716/3082 so that relief is restricted to £220,311, which leaves a chargeable gain of £29,689 accruing for Tom on the gift. Megan’s acquisition cost in this instance would be £529,689.
+
+It should be noted that this restriction does not apply in the circumstances where:
+
+- The gift is itself a chargeable transfer for Inheritance Tax purposes and a reduction is made in respect of the agricultural property by IHTA84/PT5/CH2 (see IHTM24001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24001)), or
+
+- If the gift were a chargeable transfer, then a reduction would have been so made, or
+
+- A reduction would be so made but for the restrictions imposed by IHTA84/S124A (see IHTM24172 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24172))
+
+Area Apportionment for Non-trade Use
+
+Where the gift is of a building or structure only part of which was used by the donor for the purposes of a trade, profession or vocation, under TCGA92/SCH7/PARA6 the held-over gain is multiplied by the fraction which it is just and reasonable to attribute to the part of the asset that was used for the purposes of a trade, profession or vocation. The restriction works in the same way as in the example for time apportionment given above.
+
+Apportionment for Company Assets
+
+TCGA92/SCH7/PARA7 provides that, where the gift is of shares in a company which owns chargeable assets that are not business assets and either:
+
+- At any time within the period of 12 months before the disposal the donor was able to exercise at least 25% of the voting rights in respect of the company, or
+
+- The donor is an individual and, at any time within the period of 12 months before the disposal, the shares gifted were in their personal company (see CG66884 (http://internal.active.hmrci/manual/capital-gains-manual/cg66884) for a definition)
+
+Then the gain is multiplied by the fraction:
+
+A/B
+
+Where ‘A’ is the market value on the date of the disposal of those chargeable assets of the company which are business assets and ‘B’ is the market value on that date of all the chargeable assets of the company.
+
+For these purposes, an asset is a ‘business asset’ if it or is an interest in an asset used for the purposes of a trade, profession or vocation carried on by the company. An asset is a ‘chargeable asset’ if, on a disposal at that time, a gain accruing to the company would be a chargeable gain. This restriction is demonstrated in the example below:
+
+- Sam gifts a 100% shareholding in Tilly Ltd (worth £800,000) to Lee. Sam acquired these shares for £100. At the date of disposal, the assets of Tilly Ltd are:
+
+- Premises used solely in a trade - £500,000
+
+- Investment property - £200,000
+
+- Cash - £100,000
+
+Cash is not a chargeable asset for Capital Gains Tax purposes so is ignored here. Of the two assets that would give rise to a chargeable gain if disposed by Tilly Ltd, only the premises is a business asset as the investment property is not used for the purposes of a trade.
+
+In the absence of this restriction, Sam’s held-over gain would be £799,900. However, once the restriction is applied this reduces to £571,357 (being £799,900 x £500,000/£700,000), leaving a chargeable gain in Sam’s hands of £228,543.
+
+Where the shares gifted are in the holding company of a trading group, then the restriction is calculated on the basis of the chargeable assets of the group as a whole. In these circumstances, a chargeable asset is a business asset if it is used in a trade, profession or vocation carried on by any member of the group.
+
+For these purposes, the holding by one member of the group of the ordinary share capital of another member does not count as a chargeable asset. Further, where the holding company does not own the whole of the ordinary share capital of a 51% subsidiary, the value of the chargeable assets of the subsidiary is multiplied by the percentage of its share capital that is owned directly or indirectly by the holding company.
+
+Gifts of Interests in UK Land from UK resident to non-UK resident
+
+As is discussed in CG66884, hold-over relief is available where a direct or indirect interest in UK land is gifted:
+
+- by a UK resident to a non-UK resident
+
+- by a non-UK resident to a UK resident, or
+
+- by a non-UK resident to a non-UK resident
+
+Where the gift is to a non-UK resident the mechanics of hold-over relief are slightly different (see CG73986). Rather than the held-over gain reducing the donee’s base cost, the held-over gain will instead accrue to them when they subsequently dispose of the asset.
+
+As an example, Izzy bought a UK property in 2001 for £400,000, to use in her trade. In May 2017, Izzy gifts the property to Tilan (who is resident in Cyprus), when it is worth £900,000. If hold-over relief is claimed, Izzy will not have to pay CGT in respect of her gain on the gift. When Tilan comes to dispose of the asset, a chargeable gain of £500,000 will accrue in his hands, in addition to any gain or loss arising during his ownership.

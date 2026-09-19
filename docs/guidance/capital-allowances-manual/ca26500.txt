@@ -1,0 +1,22 @@
+PMA: Fixtures: Cessation of ownership of fixtures:  qualifying interest
+Identifier: CA26500
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26500
+Published: 2016-04-16T08:51:49+01:00
+Updated: 2020-03-04T18:10:12+00:00
+Retrieved (UTC): 2026-09-18T16:21:00.691467+00:00
+
+CAA01/S188 - S189
+
+Cessation of ownership is a disposal event for PMAs CA23240 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240). Since the person who gets PMAs on a fixture is not the true owner of the fixture but the person that is treated as owning it (‘the virtual owner’) actual cessation of ownership is no use as a disposal event for fixtures. The other disposal events work normally. There is legislation in CAA01/S188 - S189 that says when you should treat the virtual owner of a fixture as ceasing to own it. This is how the legislation works. It says when the virtual owner of a fixture ceases to have the qualifying interest that person is treated as ceasing to be the owner of the fixture at the time that ownership of the qualifying interest ends. This means that the virtual owner has to bring a disposal value to account when ownership of the qualifying interest ends.
+
+These are the general rules about the ‘qualifying interest’:
+
+- Where a person with an interest in the relevant land has incurred expenditure on a fixture CA26150 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26150) the qualifying interest is the interest in the relevant land.
+
+- Where a person who buys an interest in land that contains a fixture makes a payment for the fixture CA26250 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26250) the qualifying interest is the interest in the relevant land.
+
+- Where a person who buys an interest in land that contains a fixture previously let under an equipment lease makes a payment to discharge the lessee’s obligations CA26300 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26300) the qualifying interest is the interest in the relevant land.
+
+- Where an incoming lessee has paid a premium for land that includes a fixture CA26350 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26350) the qualifying interest is the incoming lessee’s lease.
+
+The general rules do not work in some situations. The rules for special cases are outlined in CA26525 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26525).

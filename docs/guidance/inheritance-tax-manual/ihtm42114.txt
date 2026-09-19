@@ -1,0 +1,210 @@
+Proportionate charges: calculation of rate before first ten year anniversary
+Identifier: IHTM42114
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42114
+Published: 2016-04-09T10:24:05+01:00
+Updated: 2022-05-31T12:39:54+01:00
+Retrieved (UTC): 2026-09-18T15:09:29.334088+00:00
+
+The rate of Inheritance Tax (IHT) on the amount subject to charge on a proportionate charge in the first 10 years of the trust is based on the effective rate of tax on a hypothetical lifetime transfer.
+
+The components of that transfer have varied over time, but the calculation method remains the same and is set out in IHTA/S68. The calculation is based on 3/10 of the lifetime rate of inheritance tax (half death rates), currently 20%. The rate therefore cannot exceed 6%.
+
+In this guidance we have split the process into five steps.
+
+The first three are concerned with calculating the rate on the notional lifetime transfer:
+
+- identify the component parts of the notional lifetime transfer
+
+- adjust the full nil rate band (if necessary)
+
+- charge the balance at the lifetime rate of 20% and express that as percentage of the transfer and multiply by 30% (the initial rate)
+
+The final two steps reduce the rate on the notional lifetime transfer in certain circumstances:
+
+-
+
+reduce the rate in proportion to time that has already passed in the 10-year cycle (for example if half way through then reduce the initial rate by half)
+
+-
+
+further reduce the rate if the property (coming out of the trust) had not been in the trust since the start
+
+Step 1: The components of the notional lifetime transfer
+
+This is set out in the table below and consists of the historic value of all the relevant property added to the trust prior to the date of the charge together with other components that are broadly anti-avoidance provisions and which depend on the value added simultaneously to other trusts set up by the same settlor.
+
+Notional lifetime transfer (on or after 18 November 2015) |  £ |  Notes |
+
+Historic value in this trust |  Value before reliefs and exemptions in all cases |    |
+
+A: Relevant property added at start of trust |    |    |
+
+B: Relevant property added later |    |    |
+
+C: Property that has become relevant property |  Value at the date the property became relevant property |    |
+
+|    |    |
+
+Historic value in other trusts |    |    |
+
+D: Related relevant property at start of trust |  IHTM42230 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42230) |    |
+
+E: Same day additions (SDA) |  IHTM42233 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42233) |    |
+
+F: Initial value in SDA trust |  IHTM42233 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42233) |    |
+
+|    |    |
+
+Total value of notional transfer |    |    |
+
+Simple cases
+
+-
+
+If the settlor has never made more than one trust or has never added property or value to more than one trust on the same day (including trusts created on death) then none of D, E and F will apply.
+
+-
+
+If the trusts have remained the same throughout then C will not apply.
+
+If both of the above apply the notional transfer is simply A + B, i.e. the original value of the relevant property gifted to the trustees by the settlor.
+
+Charges prior to 18 November 2015
+
+The notional lifetime transfer consisted of all the property (A-D) added (and not just relevant property) and components E and F were not included.
+
+The next step is to establish the amount of the nil rate band that is available.
+
+Step 2: the nil rate band available (NRBA)
+
+The nil rate band maximum (currently £325,000) needs to be reduced if:
+
+- the settlor made chargeable transfers in the seven years prior to the start of the trust.
+
+- the settlor had made potentially exempt transfers in the seven years prior to the start of the trust that had (before the proportionate charge) become chargeable transfers because of the settlor’s death.
+
+The reduction is the sum of A and B and therefore the NRBA = £325,000 – (A + B). If the total sum above were £200,000 then the NRBA is £125,000.
+
+Simple scenarios
+
+-
+
+If the trust started before 27 March 1974 then the reduction provisions do not apply so that the nil rate band (NRB), currently £325,000, remains unchanged (the NRBA).
+
+-
+
+If there were no prior lifetime transfers, then there is no reduction to the NRB (currently £325,000)
+
+-
+
+If the sum is greater than or equal to the NRB (currently £325,000) then the NRBA is nil. (It also means that the initial rate of IHT is 6% and you need not complete step 3).
+
+Step 3: calculating the initial rate of IHT
+
+Follow the process set out in the table below. When calculating percentages round up to 3 percentage points (decimal places), e.g. 3.756%.
+
+|  Notes |    |
+
+Value of notional transfer |  A |  If A is less than B, then rate is nil and no IHT is payable |
+
+Less nil rate band available |  B |  If B is nil, then the initial rate is 6% |
+
+Difference |  C=A-B |    |
+
+Multiply by 20% |  D=Cx20% |    |
+
+Divide by A |  E=D/A (%) |  Cannot exceed 20% |
+
+Multiply by 3/10 |  F=Ex3/10 |    |
+
+For example, if the notional transfer is £500,000 and the NRBA is £325,000 then
+
+-
+
+C is the difference, i.e. £175,000 (apply the nil rate band))
+
+-
+
+D is £175,000 * 20% = £35,000 (the tax at lifetime rate)
+
+-
+
+E is 35,000/500,000 = 7% (the tax as a proportion of the transfer)
+
+and the initial rate (before relief) is F = 7% x 3/10 = 2.1%.
+
+The figure of 3/10 is (broadly) a reflection of the generational design of the trust charge.
+
+Note that the legislation calls this the ‘effective rate’ but, as this may not be the final rate, we use the term initial rate in this guidance.
+
+Step 4: reduction: the appropriate fraction of the initial rate
+
+The fraction is a relief that reflects the amount of time that has passed since the start of the trust and for this purpose the 10-year cycle is divided into 40 quarter years.
+
+The appropriate fraction is one 40th of the number of complete quarter years from the start of the trust to the date of charge.
+
+For example, if the initial rate at Step 3 is 2.1% and the charge arose just after 5 years, i.e. halfway through the first 10-year cycle, then the initial rate is one half (20/40) and the reduced rate is 1.05%.
+
+If the charge arose just before the 5 year point then the fraction would be 19/40ths and the rate would be 2.1% x 19/40 = 0.998%.
+
+If the charge arose in the three months before the first 10-year anniversary, then the rate would be 2.1% x 39/40 = 2.048%.
+
+There is a calculator that counts the number of fortieths quarters on GOV.UK at https://www.gov.uk/guidance/hmrc-tools-and-calculators#inheritance-tax (https://www.gov.uk/guidance/hmrc-tools-and-calculators#inheritance-tax)
+
+Note that the number of fortieths cannot be nil because
+
+-
+
+if the event happened in the first quarter then there is no charge at all (IHTA84/S65(4)) so the rate of tax is irrelevant, and
+
+-
+
+if the property became relevant property in the same quarter that the charge arises then you count one quarter anyway (IHTA84/S68(3)).
+
+Step 5: further reduction for added property
+
+The appropriate fraction may be further reduced if the property subject to charge had not been in the trust from the start of the trust.
+
+Put simply if the charge arises just after 5 years then the appropriate fraction at 4 above would be 20/40 as above. But if the property coming out of the trust was added 3 years after the start of the trust then that period (12/40) is not counted. So, the fraction would be (20-12)/40 = 8/40 and following the illustrations above the final rate would be 2.1% x 8/40ths = 0.42%
+
+Tracing issues
+
+If the added property was merged with existing trust assets, then it may be difficult to identify if and how much of the property coming out of the trust was derived from the initial funds and how much derived from the additional funds. In such a case it is acceptable to estimate the amounts for the purposes of establishing the relief.
+
+Grossing (a potential Step 6)
+
+If the trustees are paying the IHT then the amount that is charged to IHT may have to grossed-up at the rate calculated by the steps above.
+
+For example, if the final rate is 2% and the beneficiary receives £100,000 (net) then the grossed-up amount is 100,000 / (100% - 2%) = £102,041. So, the IHT is £102,041 x 2% = £2,041 and the gross value (£102,041) less the tax (£2,041) equals the net payment received (£100,000).
+
+Example
+
+John settles £290,000 on relevant property trusts on 5 June 2016. On the same day, he settles a further £50,000 on a trust he established on 1 June 2014 with a settlement of £100,000. Before the creation of the settlement on 5 June 2016 his chargeable transfers amounted to £90,000. There is no added property and no related settlement.
+
+The trust has risen in value to £350,000 and the entirety is distributed to beneficiaries on 1 July 2019.
+
+Calculating the IHT
+
+Notional transfer (Step 1) |  £440,000 |  £290,000 plus SDA of £50,000 and historic value of SDA £100,000 (the sum of A, E and F from Step 1) |
+
+less |    |    |
+
+NRB £325,000 - £190,000 (Step 2) |  £135,000 |    |
+
+|    |    |
+
+|  £305,000 x 20% = £61,000 |    |
+
+|    |    |
+
+Convert to rate (Step 3) |  £61,000/£440,000 x 100 = 13.864% |    |
+
+|    |    |
+
+Fraction of rate |  13.864% x 3/10 = 4.159% |  Cannot exceed 6% |
+
+|    |    |
+
+Actual rate (Step 4) |  4.159% x 12/40ths = 1.248% |  Actual rate is charged on the number of complete quarters RP held in trust |
+
+IHT is therefore payable on the exit of £350,000 at an actual rate of 1.248% = £4,368.

@@ -1,0 +1,68 @@
+Temporary repatriation facility: Mixed funds: Transfers to a TRF capital account: Transfers to the account
+Identifier: RDRM75310
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75310
+Published: 2025-04-07T08:37:23+01:00
+Updated: 2025-04-07T08:37:23+01:00
+Retrieved (UTC): 2026-09-18T16:19:55.666789+00:00
+
+Overview (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75310#Overview)
+
+Transfers from the mixed fund (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75310#Transfers from the mixed fund)
+
+Interest on the account (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75310#Interest on the account)
+
+Overview
+
+Section 809RZA Income Tax Act 2007
+
+Ordinarily, where an individual transfers funds from a mixed fund to another offshore account, or spends money from the mixed fund outside the UK without there being a benefit in the UK, this is treated as an ‘offshore transfer’ – see RDRM35410 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35410).
+
+Under the rules for offshore transfers, the transfer from the mixed fund is regarded as consisting of the appropriate proportion of each and every amount of each kind of income and capital as contained in the mixed fund itself, immediately before the offshore transfer.
+
+This means that if an individual designates some of their foreign income and gains within a mixed fund, but there are also undesignated amounts of income and gains and other capital, then an offshore transfer would be regarded as consisting of a proportion of the TRF capital as well as proportions of the other types of income and capital in the mixed fund. It is possible therefore that some TRF capital could be spent offshore and be unavailable for remittance to the UK. See RDRM75100 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75100) for definition of ‘TRF capital’.
+
+Therefore, to enable individuals to separate out their TRF capital where they have made a partial designation, they are able to transfer their TRF capital from a mixed fund to a special overseas account, known as a TRF capital account. This may help an individual to keep track of where their TRF capital is for remitting amounts to the UK, and to avoid using up TRF capital offshore instead. For details on how to nominate a TRF capital account, see RDRM75320 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75320).
+
+An individual is under no obligation to use a TRF capital account; it may not be necessary if they will only make transfers to the UK from the account which contains funds they have designated.
+
+Transfers from the mixed fund
+
+A TRF capital account can only hold TRF capital, so the amount of a transfer from a mixed fund to the TRF capital account cannot exceed the amount of TRF capital in the mixed fund.
+
+Where an individual accidentally makes a transfer of an amount which is higher than the amount of TRF capital in the fund, the transfer is treated as two separate transfers: a deemed transfer of the amount of TRF capital in the fund and a second deemed transfer of non-TRF capital occurring immediately after the first deemed transfer, which is treated as an ordinary offshore transfer – see RDRM35420 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35420). The second deemed transfer will breach the TRF deposit rule, which may result in the account ceasing to be a TRF capital account, unless this is remedied within 30 days – see RDRM75340 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75340) for further information.
+
+During the TRF period, an annualised basis applies to mixed funds containing TRF capital. This means that during the TRF period, rather than following the transaction-by-transaction basis under the ordinary mixed fund rules, any transfers to TRF capital accounts during the tax year will be deemed to have taken place before any remittances to the UK and any other offshore transfers – see RDRM75500 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75500) for an explanation of the annualised basis and examples.
+
+Example
+
+Stefano is UK resident and a former remittance basis user. He came to the UK for the first time on 6 April 2022. On 6 April 2025 he had an overseas bank account which is a mixed fund, comprising:
+
+- £200,000 foreign income from 2024-25
+
+- £300,000 foreign gains from 2023-24
+
+- £100,000 foreign gains from 2022-23
+
+Stefano wants to designate all his foreign income, but he does not intend to remit this immediately to the UK. He is unsure of when he will need these funds but does not want to delay making a designation.
+
+In 2025-26 Stefano designates the £200,000 foreign income and pays the TRF charge of £24,000 (12% of £200,000) on this amount. He does not make any remittances to the UK or any offshore transfers that year. His mixed fund now comprises:
+
+- £200,000 TRF capital
+
+- £300,000 foreign gains from 2023-24
+
+- £100,000 foreign gains from 2022-23
+
+On 31 August 2026 Stefano sets up a TRF capital account and makes a transfer of £300,000 to the account from his mixed fund.
+
+Because the amount of £300,000 exceeds the TRF capital in the mixed fund, the transfer is treated as a deemed transfer of £200,000 TRF capital and a second deemed transfer of £100,000 occurring immediately after. The second deemed transfer is an ordinary offshore transfer, which is comprised of a proportion of what remains in the mixed fund after the first deemed transfer of TRF capital. To prevent the TRF capital account losing its status, Stefano must take action in respect of the second deemed transfer of £100,000 to remedy the accidental breach.
+
+Alternatively, Stefano could keep the £100,000 in the TRF capital account and designate £100,000 of foreign gains in his Self Assessment tax return for 2026-27, as the TRF is still available to him. The amount would therefore be treated as designated on 6 April 2026, so when Stefano made the £300,000 transfer to the TRF capital account it was all TRF capital.
+
+If Stefano does not remedy the breach, then the TRF capital account will lose its status and the £300,000 transfer will be treated as an ordinary offshore transfer between two overseas bank accounts. Therefore, it will contain a proportion of the kinds of income and capital in his offshore account immediately before the transfer – see RDRM35410 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35410), subject to the annualised basis applying if there are any other transfers or remittances in 2026-27.
+
+Interest on the account
+
+Where interest is payable on TRF capital held in the TRF capital account, it does not need to be separated out or paid into a different bank account. This is because interest paid into the account is treated as TRF capital for the purposes of the TRF capital account by section 809RZB(11) ITA 2007. This means that the TRF deposit rule is not breached when interest is credited to the account.
+
+Any interest arising on TRF capital in a TRF capital account will be after 6 April 2025 when the remittance basis is no longer available, so it will be taxed on the arising basis in the year the interest arises. Therefore, remitting amounts of interest to the UK along with the TRF capital itself will not result in any further tax charges.

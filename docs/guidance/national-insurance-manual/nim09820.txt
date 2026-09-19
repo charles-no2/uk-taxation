@@ -1,0 +1,48 @@
+Earnings Periods: Reallocating NICs for benefit purposes: Payment not mistimed
+Identifier: NIM09820
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim09820
+Published: 2016-04-11T17:21:45+01:00
+Updated: 2022-01-05T11:00:10+00:00
+Retrieved (UTC): 2026-09-18T15:14:51.545088+00:00
+
+Regulation 58(2) of the Social Security Contributions Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+Regulation 58(2) caters for the situation where the employment commences in one tax year, but in line with the employer’s normal pay practice, the first regular earnings payment is not made until the following tax year, that is, the payment is not mistimed. The provisions of this regulation might be invoked, for example, where an employee starts work towards the end of a tax year, after a long period of unemployment. The employee has no entitlement to NIC credits once the employment begins and receives no earnings at all for the rest of that tax year.
+
+Example
+
+Given –
+
+- employee starts work on 16 March 2025
+
+- the employee has a monthly earnings period (earnings are paid on the 15th of each calendar month)
+
+- in line with the employer’s pay practice, the employee receives their first earnings payment for the period 16 March to 15 April on 15 April 2025. The employee’s gross pay is £1,900.
+
+Calculate NICs on £1,900 as follows:
+
+2025 to 2026 tax year
+
+monthly Secondary Threshold (ST) = £417
+
+monthly Lower Earnings Limit (LEL) = £542
+
+monthly Primary Threshold (PT) = £1048
+
+monthly Upper Earnings Limit (UEL) = £4,189
+
+Employee NICs = (£1,900 - £1048) x 8% = £68.16
+
+Employer NICs = (£1,900 - £417) x 15% = £222.45
+
+Total NICs = £290.61
+
+These NICs will form part of the employee’s record for the 2025 to 2026 tax year. However, in this example, the employee’s NICs paid (£68.16) and corresponding insurable earnings of £1,358 (that is £1,900 - £542(LEL)), can be reallocated to the 2024 to 2025 tax year, under regulation 58(2), if:
+
+- the employee’s record for the 2024 to 2025 tax year is deficient for benefit purposes; and
+
+- the employee agrees.
+
+All of the NICs and insurable earnings are reallocated, not just a portion of them.
+
+If it is decided that the provisions of regulation 58(2) can be invoked continue action as in NIM09840 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim09840).

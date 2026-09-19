@@ -1,0 +1,20 @@
+Financial options: tax treatment of grantee
+Identifier: CG55600
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55600
+Published: 2016-03-12T11:37:59+00:00
+Updated: 2016-01-26T09:50:48+00:00
+Retrieved (UTC): 2026-09-18T14:33:31.537892+00:00
+
+The ordinary rules of TCGA92/S144 apply, see CG12300+, subject to TCGA92/S144 (4) and TCGA92/S146, see CG55415 and 55416.
+
+Option exercised
+
+The grant and exercise of the option are treated as a single transaction. If the holder exercises a call option and buys an asset any premium paid is treated as part of the acquisition cost of the asset. Indexation allowance, if due, is given on the premium from the date the premium was paid, see CG51626 for shares and CG17404 other assets. If a put option is exercised and an asset is sold, the premium paid is treated as an incidental cost of disposal.
+
+Option sold
+
+The sale is a disposal to which the ordinary capital gains rules apply. The option is not treated as a wasting asset and therefore the acquisition cost is not reduced, TCGA92/S146, see CG55416. Indexation allowance, if due, is given from the date the option was acquired, see CG12315.
+
+Option abandoned or lapses
+
+There is a disposal of the option at the time it is abandoned or expires. The option is not treated as a wasting asset and therefore the acquisition cost is not reduced, TCGA92/S146, see CG55416. A loss thus accrues equal to the cost of acquiring the option.

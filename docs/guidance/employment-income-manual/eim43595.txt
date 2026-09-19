@@ -1,0 +1,78 @@
+Globally mobile employees: Overseas Workday Relief: qualifying deductions
+Identifier: EIM43595
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim43595
+Published: 2025-04-06T07:35:08+01:00
+Updated: 2025-04-06T07:35:09+01:00
+Retrieved (UTC): 2026-09-18T14:23:05.440243+00:00
+
+Once an OWR election has been made for a qualifying year, when qualifying foreign employment income which relates to that year is charged to tax, the employee can make an OWR claim for relief for the tax year in which  it is charged to tax.
+
+The amount of employment income charged to tax in a tax year is determined after any allowable deductions for that tax year are given against relevant employment income.
+
+From 6 April 2025, there are specific rules in section 41Q ITEPA 2003 which determine how any deductions are treated as being set against qualifying foreign employment income, when determining the amount charged to tax for the purposes of determining OWR which can be claimed for a tax year. These are applied before determining the application of the financial limit.
+
+The amount of the relief that the employee is entitled to claim is the amount of net taxable employment income for that year that reflects the qualifying foreign employment income. This is the total of the amount of the net taxable earnings from each employment in the tax year that reflects qualifying foreign general earnings and the total of the net taxable specific income from each employment for the tax year that reflects qualifying foreign third party income or qualifying foreign securities income.
+
+The amount of the net taxable earnings from an employment in a tax year that reflects qualifying foreign general earnings is the amount of the taxable earnings from the employment in that tax year which are qualifying foreign general earnings, minus the amount of any qualifying deductions. If the resulting amount of qualifying foreign general earnings is nil or negative, then none of the net taxable earnings from the employment in the tax year reflect qualifying foreign general earnings.
+
+Subsections 41Q(4) & (5) set out how to determine the amount of the qualifying deductions to be set against any qualifying foreign general earnings. Which subsection applies to a claim depends on whether the foreign employment relief claim is for the qualifying year (in which the relevant OWR election was made), or whether it is for a subsequent tax year (a later tax year to the one in which the relevant OWR election was made).
+
+Qualifying deductions in the qualifying year
+
+If the OWR claim for relief is being made for the same tax year as the one which the relevant qualifying general earnings are ‘for’, and for which the relevant OWR election was made, the amount of qualifying deductions set against qualifying foreign general earnings is determined under section 41Q(4).
+
+The amount of the qualifying deductions is the proportion of the total deductions allowable against the taxable earnings from that employment in that tax year, which is the same as the proportion of the claim year taxable earnings that are qualifying foreign general earnings. So, if 30% of the claim year taxable earnings are qualifying foreign general earnings, the qualifying deductions will be 30% of the total deductions for that employment.
+
+“Total deductions” means the total amount of any deductions allowed from the taxable earnings from the employment in the tax year, under provisions listed in section 327(3) to (5) ITEPA 2003. More guidance about deductions from earnings can be found from EIM31600 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/pagereference).
+
+Example 1
+
+Frederic arrives in the UK for the first time on 6 April 2025 and is a qualifying new resident for 2025-26. He makes an OWR election for that tax year. Frederic performs 75% of his employment duties during the 2025-26 tax year in the UK and 25% outside the UK, receiving total general earnings of £300,000 in relation to these duties. He incurs expenses of £20,000 in the performance of his duties, resulting in allowable deductions of £20,000. This means his net taxable earnings for 2025-26, and the amount charged to tax is £280,000.
+
+£75,000 of Frederic’s taxable earnings are qualifying foreign employment income, which is 25%, so that the qualifying deductions set against the qualifying foreign employment income is £5,000 (£20,000 x 25%). The maximum relief available which Frederic can include in his OWR claim for 2025-26, subject to the financial limit is £70,000.
+
+Example 2
+
+Viktor has £100,000 of taxable earnings from a single employment in 2026-27. These comprise of £90,000 which relates to his duties performed in 2026-27 and £10,000 which relates to his duties performed in 2025-26. Viktor also has allowable deductions of £10,000 in respect of this employment in 2026/27.
+
+Viktor is a qualifying new resident for 2026-27 and was non-UK resident for 2025-26.
+
+- In 2025-26, Viktor performs 60% of his duties in the UK and 40% of his duties overseas.
+
+- In 2026-27 Viktor performs 70% of his duties in the UK and 30% of his duties overseas.
+
+Viktor makes an OWR election for 2026-27 and has qualifying foreign general earnings in that year of £27,000. For the purposes of determining the qualifying deductions set against the qualifying foreign general earnings, these would be 30% of the total deductions, so £3,000. This means that the amount which reflects qualifying general earnings in 2026-27 would be £24,000.
+
+Qualifying deductions in a subsequent tax year
+
+If the OWR claim for relief is being made for a subsequent tax year to the one which the relevant qualifying general earnings are ‘for’, and for which the relevant OWR election was made, the amount of qualifying deductions set against qualifying foreign general earnings is determined under section 41Q(5).
+
+For the purposes of determining the extent to which the net taxable earnings reflects qualifying employment income in that year, any deductions allowable in that tax year should be first set against the taxable earnings which are for the tax year for which the claim is being made.
+
+If the OWR claim is for a subsequent tax year to the qualifying year, the amount of qualifying deductions available is determined by the following steps:
+
+Step 1 – Deducting the claim year taxable earnings from the total deductions.
+
+Step 2 – Deducting any other taxable earnings that are not qualifying foreign general earnings.
+
+If the result at either step is nil or a negative amount, then there are no qualifying deductions.
+
+Example 3
+
+Amelia is a qualifying new resident for 2025-26 and 2026-27. She makes an OWR election for both years.
+
+- In 2025-26, Amelia performs 75% of her duties in the UK and 25% of her duties outside of the UK.
+
+- In 2026-27, Amelia performs 80% of her duties in the UK and 20% of her duties outside of the UK.
+
+In 2026-27, Amelia receives earnings of £20,000 in relation to her duties performed in 2026-27 and also receives a bonus of £120,000 from her duties performed in 2025-26. Amelia incurs expenses resulting in allowable deductions against her taxable earnings of £30,000.
+
+As Amelia has made an OWR election for both 2025-26 and 2026-27, she is entitled to make OWR claims for relief in respect of her qualifying foreign employment income for both years, which is charged to tax in 2026-27.
+
+To calculate the maximum amount of relief which Amelia can include in each claim, we need to consider the qualifying deductions to be set against the qualifying foreign general earnings for each qualifying year.
+
+Amelia has taxable earnings of £20,000 which are for 2026-27, which is the claim year. Her qualifying foreign general earnings for 2026-27 are £4,000. The qualifying deductions set against the qualifying foreign general earnings for 2026-27 are £6,000 (£30,000 x 20%). This means there would be no qualifying foreign employment income for 2026-27 which Amelia would be able to make an OWR claim for relief on.
+
+Amelia also has taxable earnings of £120,000 in 2026-27 which are for 2025-26. Her qualifying foreign general earnings for 2025-26 which is taxable in 2026-27 is £30,000. To determine the amount of any qualifying deductions set against the qualifying foreign general earnings, it is necessary to deduct the claim year taxable earnings of £20,000 from the total deductions of £30,000, leaving deductions of £10,000. There are other taxable earnings that are not qualifying foreign general earnings of £90,000, which when deducted from the remaining deductions of £10,000, results in a negative amount. There are therefore no qualifying deductions to consider.
+
+This means that, subject to the financial limit, Amelia can make an OWR claim for relief in respect of £30,000.

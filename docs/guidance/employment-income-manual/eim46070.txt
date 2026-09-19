@@ -1,0 +1,40 @@
+Section 554Z11C: identifying overlapping sums or assets and applying relief: example 4 – paid amounts and late payment interest
+Identifier: EIM46070
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim46070
+Published: 2017-10-02T16:01:15+01:00
+Updated: 2017-10-02T16:00:17+01:00
+Retrieved (UTC): 2026-09-18T14:23:41.691854+00:00
+
+ITEPA 2003 – sections 554Z11C(1) – (6)
+
+The amount of a Chapter 2 paid amount or an earlier charge paid amount can include sums paid towards the various overlap and earlier charges as well as sums paid towards any late payment interest on those charges.
+
+The amount of the late payment interest which can count towards the paid amounts can only be the amount which has arisen due to the late payment of the overlap or earlier charges. It is not necessarily the full amount of the interest due on the entire Chapter 2 or earlier tax liability.
+
+An amount of £800,000 is put into an EBT in 2008-2009 for the benefit of an employee. It is chargeable under section 62 and is invested by the trustees. This is sum Q. A tax charge of £320,000 arises in 2008-2009.
+
+The employee wishes to withdraw the entire amount plus investment growth in 2018-2019. This will trigger a charge under Part 7A. By 2018-2019 the value of the fund has grown to £900,000. This is sum P. A tax charge of £405,000 arises in 2018-2019.
+
+The amount of overlapping income is £800,000. The early charge is £320,000 since it arises entirely from overlapping income. The Chapter 2 overlap charge is the portion of the £405,000 which arises from the £800,000 overlapping income. Since the charge is on £900,000, the overlapping amount of the charge will be (£405,000 ÷ £900,000) × £800,000 = £360,000.
+
+The taxpayer decides to settle in May 2019. By this time the 2008-2009 charge has accrued a late payment interest charge of £110,000, all of which relates to the charge on the overlapping income. The 2018-2019 charge has accrued a late payment interest charge of £11,150. Not all of this relates to the Chapter 2 overlap charge however. The same apportionment calculation as detailed above applies to give the amount of the interest which relates to the overlapping portion of the charges (£11,150 ÷ £900,000) × £800,000 = £9,900.
+
+At the date of settlement the taxpayer has to choose which liability they wish to pay. The total liabilities are as follows.
+
+Tax year |  Tax |  Overlap |    |    |    |
+
+(A) |  Interest |  Interest overlap |    |    |    |
+
+(B) |  Total overlap |    |    |    |    |
+
+(A + B) |    |    |    |    |    |
+
+2008-2009 |  £320,000 |  £320,000 |  £110,000 |  £110,000 |  £430,000 |
+
+2018-2019 |  £405,000 |  £360,000 |  £11,150 |  £9,900 |  £369,900 |
+
+The total liabilities (tax + interest) are £430,000 for 2008-2009 and £416,150 for 2018-2019.
+
+If the taxpayer chooses to settle 2008-2009 in full including interest, the total amount of £430,000 becomes the earlier charge paid amount and can be used as a payment on account against the Chapter 2 overlap charge and the overlapping interest. This will therefore frank £369,900 of the total 2018-2019 charge of £416,150. This will leave both the tax due on the growth element and the associated late payment interest totalling £46,250 still payable. The total amount payable is £320,000 + £110,000 + £46,250 = £476,250.
+
+If the taxpayer chooses to settle 2018-2019 in full including interest, the Chapter 2 paid amount will be the total of the Chapter 2 overlap charge plus the associated accrued interest which totals £369,900. This can be used as a payment on account of both the earlier charge as well as the overlapping interest of £430,000. It does not however cover the amount of the earlier liability in full. There will be an amount of £60,100 still payable in respect of late payment interest. The total amount payable is £405,000 + £11,150 + £60,100 = £476,250.

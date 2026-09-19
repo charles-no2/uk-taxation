@@ -1,0 +1,382 @@
+Relevant termination awards: post-employment notice pay (PENP): interaction with sections 38A and 414 ITEPA 2003 from 6 April 2026 
+Identifier: EIM13879
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13879
+Published: 2026-04-07T08:08:46+01:00
+Updated: 2026-04-07T09:00:03+01:00
+Retrieved (UTC): 2026-09-18T14:10:34.543121+00:00
+
+New rules from 6 April 2026
+
+These changes are part of Finance Act 2026. They will have effect from 6 April 2026 and should be followed from that date.
+
+These rules will apply to individuals whose employment is terminated on or after 6 April 2026 and who receive a termination payment on or after 6 April 2026.
+
+EIM13877 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13877) provides guidance on the rules that applied from 6 April 2021 to 5 April 2026
+
+Following the changes that came into effect from 6 April 2021, post-employment notice pay (PENP) received by non-UK resident employees could be reduced under both section 27(2A) ITEPA 2003 and section 414 ITEPA 2003 which was not the policy intent.
+
+From 6 April 2026, section 38A ITEPA 2003 has been introduced which clarifies the treatment of general earnings relating to duties not performed.
+
+Where section 38A ITEPA 2003 applies, the earnings are treated as being in respect of UK duties except in so far as, if the duties not performed had been performed, the earnings for those duties would have been in respect of duties performed outside the UK.
+
+For PENP, the duties not performed are the duties that it is reasonable to assume would have been performed during the post-employment notice period (as defined by section 402E ITEPA 2003) if the employment had not been terminated until the end of that period.
+
+Individuals will not be able to use section 38A ITEPA 2003 if they have claimed foreign service reduction under section 414 ITEPA 2003. An individual has the flexibility to use whichever method gives them the best outcome.
+
+If an individual claims a reduction subject to s414 ITEPA 2003, the full amount of PENP remaining after foreign service reduction will be taxable as UK-based earnings pursuant to section 27(1)(c) ITEPA 2003.
+
+An individual can choose whether to apply section 38A ITEPA 2003 or section 414 ITEPA 2003.
+
+Example 1 – applying section 414 ITEPA 2003
+
+The employee is non-UK resident for the tax year in which the employment is terminated. Seven out of eleven years total service is ‘foreign service’ (see EIM13690 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13690)).
+
+The payment is £90,000 of which £20,000 is post-employment notice pay.
+
+Full exception under section 413 ITEPA 2003 is not available.
+
+The employment terminates in October 2026 and the employee chooses to claim Foreign Service Relief under section 414 ITEPA 2003 rather than apply section 38A ITEPA 2003.
+
+The foreign service reduction (see EIM13700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)) is calculated as follows.
+
+Example
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Payments and benefits within section 401 ITEPA 2003
+
+|
+
+£90,000
+
+|
+
+|
+
+Post-employment notice pay (PENP) (see EIM13872 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13872))
+
+|
+
+£20,000
+
+|
+
+|
+
+Less foreign service reduction = £20,000 × 7 ÷11
+
+|
+
+|
+
+(£12,728)
+
+|
+
+Amount treated as earnings by section 402B(1) ITEPA 2003
+
+|
+
+|
+
+£7,272
+
+|
+
+Termination awards subject to section 403 ITEPA 2003 (see EIM13872 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13872))
+
+|
+
+£70,000
+
+|
+
+|
+
+Less £30,000 threshold (see EIM13700  (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)and example EIM13980 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13980)).
+
+|
+
+|
+
+(£30,000)
+
+|
+
+The 'amount charged to tax' (see EIM13700) (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)
+
+|
+
+|
+
+£40,000
+
+|
+
+Less foreign service reduction = £40,000 × 7 ÷ 11
+
+|
+
+|
+
+(£25,455)
+
+|
+
+Amount chargeable to income tax as specific employment income under section 403 ITEPA 2003
+
+|
+
+|
+
+£14,545
+
+|
+
+The total amount taxable in the UK is £7,272 + £14,545 = £21,817
+
+Example 2 – applying section 38A ITEPA 2003 where all of the duties would have been performed in the UK
+
+The employee is non-UK resident for the tax year in which the employment is terminated. Seven out of eleven years total service is ‘foreign service’ (see EIM13690 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13690)).
+
+The payment is £90,000 of which £20,000 is post-employment notice pay.
+
+Full exception under section 413 ITEPA 2003 is not available.
+
+The employment terminates in October 2026 and the employee chooses to apply section 38A ITEPA 2003 rather than claim Foreign Service Relief.
+
+It is reasonable to assume that all the employee’s duties during the notice period would have been performed in the UK. Therefore, all the post-employment notice pay is treated as being in respect of UK duties.
+
+Example
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Payments and benefits within section 401 ITEPA 2003
+
+|
+
+£90,000
+
+|
+
+|
+
+Post-employment notice pay (PENP) (see EIM13872 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13872))
+
+|
+
+£20,000
+
+|
+
+|
+
+Amount treated as earnings by section 402B(1) ITEPA 2003
+
+|
+
+|
+
+£20,000
+
+|
+
+Less amount treated as earnings in respect of non-UK duties by section 38A ITEPA 2003
+
+|
+
+|
+
+(£0)
+
+|
+
+Taxable UK earnings under section 27 ITEPA 2003
+
+|
+
+|
+
+£20,000
+
+|
+
+Termination awards subject to section 403 ITEPA 2003 (see EIM13872 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13872))
+
+|
+
+£70,000
+
+|
+
+|
+
+Less £30,000 threshold (see EIM13700  (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)and example EIM13980 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13980)).
+
+|
+
+|
+
+(£30,000)
+
+|
+
+The 'amount charged to tax' (see EIM13700) (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)
+
+|
+
+|
+
+£40,000
+
+|
+
+Amount chargeable to income tax as specific employment income under section 403 ITEPA 2003
+
+|
+
+|
+
+£40,000
+
+|
+
+The total amount taxable in the UK is £20,000 + £40,000 = £60,000
+
+Example 3 – applying section 38A ITEPA 2003 where some of the duties would have been performed in the UK
+
+The employee is non-UK resident for the tax year in which the employment is terminated. Seven out of eleven years total service is ‘foreign service’ (see EIM13690 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13690)).
+
+The payment is £90,000 of which £20,000 is post-employment notice pay.
+
+Full exception under section 413 ITEPA 2003 is not available.
+
+The employment terminates in October 2026 and the employee chooses to apply section 38A ITEPA 2003 rather than claim Foreign Service Relief.
+
+It is reasonable to assume that during the notice period:
+
+· 40% of the duties would have been performed in the UK
+
+· 60% of the duties would have been performed outside the UK
+
+Therefore, 40% of the post-employment notice pay is treated as being in respect of UK duties and 60% is treated as being in respect of duties performed outside the UK (“non-UK duties”).
+
+Example
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Payments and benefits within section 401 ITEPA 2003
+
+|
+
+£90,000
+
+|
+
+|
+
+Post-employment notice pay (PENP) (see EIM13872 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13872))
+
+|
+
+£20,000
+
+|
+
+|
+
+Amount treated as earnings by section 402B(1) ITEPA 2003
+
+|
+
+|
+
+£20,000
+
+|
+
+Less amount treated as earnings in respect of non-UK duties by section 38A ITEPA 2003
+
+|
+
+|
+
+(£12,000)
+
+|
+
+Taxable UK earnings under section 27 ITEPA 2003
+
+|
+
+|
+
+£8,000
+
+|
+
+Termination awards subject to section 403 ITEPA 2003 (see EIM13872 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13872))
+
+|
+
+£70,000
+
+|
+
+|
+
+Less £30,000 threshold (see EIM13700  (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)and example EIM13980 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13980)).
+
+|
+
+|
+
+(£30,000)
+
+|
+
+The 'amount charged to tax' (see EIM13700) (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13700)
+
+|
+
+|
+
+£40,000
+
+|
+
+Amount chargeable to income tax as specific employment income under section 403 ITEPA 2003
+
+|
+
+|
+
+£40,000
+
+|
+
+The total amount taxable in the UK is £8,000 + £40,000 = £48,000

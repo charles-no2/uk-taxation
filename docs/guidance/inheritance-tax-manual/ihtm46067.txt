@@ -1,0 +1,94 @@
+Downsizing calculations: interaction with the taper threshold
+Identifier: IHTM46067
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46067
+Published: 2018-09-28T11:47:58+01:00
+Updated: 2018-09-28T13:37:52+01:00
+Retrieved (UTC): 2026-09-18T15:11:05.666811+00:00
+
+Where an estate exceeds the value of the taper threshold (IHTM46023 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46023)), the calculation of the downsizing addition (IHTM46050 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46050)) takes the effect of tapering into account. The taper threshold can affect the calculation of the downsizing addition in two ways, depending on whether there is any brought-forward allowance (IHTM46040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46040)) due.
+
+No brought-forward allowance due
+
+Where there is no brought-forward allowance, the taper threshold is taken into account in the final step in calculating the ‘lost relievable amount’ (IHTM46060 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46060)). This is Step 5 where the estate includes a qualifying residential interest at the date of death (IHTM46062 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46062)) and Step 3 where there is no residential property interest in the estate at the date of death (IHTM46065 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46065)).
+
+In each case this final step which determines the lost relievable amount is to multiply the person’s allowance on death by the percentage in the previous step. The person’s allowance on death is their default or adjusted allowance (IHTM46026 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46026)). Where the value of the estate exceeds the taper threshold therefore, the lost relievable amount is a percentage of the adjusted allowance rather than the default allowance.
+
+Example 1
+
+Alex sold his house for £250,000 in July 2018 to move into a nursing home. He died in September 2020 with an estate worth £2,100,000, all of which he left to his children.
+
+The residential enhancement (IHTM46022 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46022)) in July 2018 is £125,000
+
+The residential enhancement in September 2020 is £175,000
+
+There is no entitlement to any brought-forward allowance on Alex’s death
+
+Step 1 – Alex’s former allowance equals the residential enhancement at the date of disposal, £125,000
+
+Step 2 - The value of the QFRI (the property sold) is £250,000. Alex’s ‘former allowance’ is £125,000. Expressed as a percentage £250,000 ÷ £125,000 = 200%, but this is capped at 100%.
+
+Step 3 - Alex’s estate exceeds the taper threshold by £100,000. His default allowance is £175,000, but this is reduced by £50,000 to become an adjusted allowance of £125,000. Alex’s allowance on death (his adjusted allowance) is £125,000. This is multiplied by the percentage in step 2 to give a lost relievable amount of £125,000 × 100% = £125,000.
+
+Brought-forward allowance is due
+
+Where there is brought-forward allowance due at the date of death, the taper threshold may be taken into account in calculating person’s ‘former allowance’ (IHTM46062 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46062)). This is Step 1 in the calculation of the lost relievable amount.
+
+Step 1 of the calculation of the lost relievable amount calculates a person’s ‘former allowance’. The person’s former allowance is made up of:
+
+- the residential enhancement that applied at the date of disposal – IHTA84/S8FE(3)(a), plus
+
+- any brought-forward allowance that would have been available at the date of disposal – IHTA84/S8FE(3)(b), plus
+
+- if the brought-forward allowance available at the date of death is greater than the brought-forward allowance that would have been due at the date of disposal, the difference between these two values – IHTA84/S8FE(3)(c).
+
+Where the value of the estate at death exceeds the taper threshold, and the brought-forward allowance at death exceeds the brought-forward allowance that would have been available at the date of the disposal, IHTA84/S8FE(5) applies. This adjusts the value to be added under IHTA84/S8FE(3)(c) in Step 1 above.
+
+Example 2
+
+Adil disposes of his house worth £242,250 in June 2017 and dies in October 2020 with an estate valued at £2,080,000. His wife was alive when the disposal was made, but dies in February 2019 without using any of her RNRB.
+
+The residential enhancement at the date of disposal was £100,000.
+
+There would have been no entitlement to a brought-forward allowance at the date of disposal.
+
+On death Adil’s estate is entitled to a brought-forward allowance of £175,000.
+
+Without IHTA84/S8FE(5) Adil’s former allowance would be:
+
+IHTA84/S8FE(3)(a) value = £100,000, plus
+
+IHTA84/S8FE(3)(b) value = nil, plus
+
+IHTA84/S8FE(3)(c) value = £175,000 – nil = £175,000
+
+Giving a total former allowance of £275,000
+
+However, IHTA84/S8FE(5) adjusts the value to be added under IHTA84/S8FE(3)(c).
+
+Firstly the brought-forward allowance is expressed as a percentage of the default allowance. In Adil’s case the brought-forward allowance is £175,000 and the default allowance is £350,000 (£175,000 residential enhancement plus £175,000 brought-forward allowance). The percentage is therefore 50%.
+
+Secondly the taper amount that applies to the estate is multiplied by this percentage. In Adil’s case the taper threshold of £2m is exceeded by £80,000, so the taper amount is £40,000. The £40,000 is multiplied by the 50% to give a value of £20,000.
+
+Lastly the brought-forward allowance is reduced by this £20,000, so the £175,000 is reduced by £20,000 to £155,000.
+
+The effect of IHTA84/S8FE(5) is therefore to reduce the value of the brought-forward allowance at the date of death, but only for the purposes of working out the person’s former allowance.
+
+Taking IHTA84/S8FE(5) into account, Adil’s former allowance becomes:
+
+IHTA84/S8FE(3)(a) value = £100,000, plus
+
+IHTA84/S8FE(3)(b) value = nil, plus
+
+IHTA84/S8FE(3)(c) value = £155,000 – nil = £155,000
+
+Giving a total former allowance of £255,000
+
+The lost relievable amount in Adil’s estate is therefore calculated as:
+
+Step 1 – Adil’s former allowance is £255,000
+
+Step 2 - The value of the QFRI (the property sold) is £242,250. Adil’s ‘former allowance’ is £255,000. Expressed as a percentage £242,250 ÷ £255,000 = 95%.
+
+Step 3 - Adil’s estate exceeds the taper threshold by £80,000. His default allowance is £350,000, but this is reduced by £40,000 to become an adjusted allowance of £310,000. Adil’s allowance on death (his adjusted allowance) is £310,000. This is multiplied by the percentage in step 2 to give a lost relievable amount of £310,000 × 95% = £294,500.
+
+If the adjustment under IHTA84/S8FE(5) had not been made Adil’s former allowance would have been £275,000. The percentage at Step 2 would have been £242,250 ÷ £275,000 = 88.091%, and the lost relievable amount would have been £310,000 × 88.091% = £273,082.

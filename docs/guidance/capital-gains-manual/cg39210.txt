@@ -1,0 +1,20 @@
+TCGA92/Sch4B - tax charge
+Identifier: CG39210
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39210
+Published: 2016-03-12T11:00:17+00:00
+Updated: 2019-10-15T14:50:56+01:00
+Retrieved (UTC): 2026-09-18T14:47:53.470265+00:00
+
+The tax charge depends on whether TCGA92/S86 or TCGA/S87 applies to the settlement:
+
+- If TCGA92/S86 applies the Schedule 4B gain is taxed on the settlor subject to the usual provisions of section 86. This includes the restriction in TCGA92/Sch5/para1(4) if the trustees are dual resident.
+
+- If TCGA/S87 applies the Schedule 4B gain is transferred into a separate TCGA92/Sch4C pool with any other unmatched section 2(2)* amounts. Capital payments from either the transferor or transferee settlement are matched to that pool, CG39250 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39250)+.
+
+If the deemed disposal and reacquisition gives rise to a net loss the treatment depends on whether section 86 or section 87 applies.
+
+If section 86 applies the Schedule 4B loss can set against other trust gains in calculating the net gain charged on the settlor. Also other trust losses can be set against the Schedule 4B gain.
+
+If section 87 applies the loss goes into the Schedule 4C pool. The loss cannot be set against any section 2(2) amount calculated on other disposals made by the trustees during the tax year, TCGA92/S85A.
+
+*This section was re-written for disposals from 6 April 2019 to section 1(3) see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

@@ -1,0 +1,22 @@
+Indexation: disposals 30/11/93+: assets not held by transferor at 31/2/82
+Identifier: CG17740
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17740
+Published: 2016-03-12T10:18:29+00:00
+Updated: 2016-01-25T12:19:05+00:00
+Retrieved (UTC): 2026-09-18T14:38:40.723296+00:00
+
+For assets which were not held by the transferor at 31 March 1982, or which cannot be traced back through an unbroken sequence of no gain/no loss transfers to 31 March 1982, indexation which has been included in the transferee’s RAE on a no gain/no loss disposal remains a part of the RAE on any subsequent disposal. It is not, therefore, indexation as such. So no special rules are needed to `protect’ amounts of indexation included in RAE on no gain/no loss transfers prior to 30 November 1993. However, special rules ARE needed to prevent indexation added to RAE on no gain/no loss transfers on or after 30 November 1993 from creating, or increasing, losses on a later disposal.
+
+TCGA92/S56 (3)
+
+The FA94 inserted a new subsection (3) to TCGA92/S56 to deal with these cases. For disposals on or after 30 November 1993, where the computation gives rise to a loss, and the deductions include amounts of indexation incorporated in RAE under TCGA92/S56 (2), on no gain/no loss transfers on or after 30 November 1993 the amount of RAE to be allowed as a deduction is reduced.
+
+Where the above applies, you should compute the indexation allowance which was incorporated in RAE on any no gain/no loss transfers on or after 30 November 1993. The amount by which the RAE in the computation on the disposal is to be reduced depends whether the loss is greater than this amount
+
+- where the loss is greater than the amount you have computed, reduce the loss by that amount
+
+- where the loss is less than the amount you have computed, reduce the loss to nil.
+
+The adjustments above cannot turn a loss into a gain. The amount of indexation included in RAE as a result of no gain/no loss transfers on or after 30 November 1993 remains, to the extent that it is reducing the gain to nil.
+
+The above points are illustrated in the following examples.

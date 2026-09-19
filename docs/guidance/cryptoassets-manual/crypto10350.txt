@@ -1,0 +1,20 @@
+Introduction to cryptoassets: public and private keys
+Identifier: CRYPTO10350
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto10350
+Published: 2021-03-30T09:02:29+01:00
+Updated: 2021-03-26T10:01:22+00:00
+Retrieved (UTC): 2026-09-18T16:18:26.732168+00:00
+
+Encryption keys are a vital aspect of cryptography. They make a message, transaction or data value unreadable for an unauthorised reader or recipient, so it can only be read and processed by the intended recipient.
+
+Exchange tokens rely on a public and private key system:
+
+- The private key is a randomly generated string and is used to authorise a transaction involving tokens held at a public address.
+
+- A public key is mathematically generated from the private key, linking the two keys cryptographically.
+
+For all practical purposes, a private key cannot be generated from a public key.
+
+The public address is shared across the Distributed Ledger (DL). Anyone who knows that address can look at the DL and see all transactions to and from the public address. Any person who knows the public and private keys can authorise transactions involving tokens held at the relevant public address.
+
+If a private key is lost, the tokens will continue to exist at the public address. However, the ‘owner’ would be unable to undertake any transactions in respect of those tokens. If private key details were kept only on a computer which was subsequently destroyed, then the tokens would be unreachable, although they would continue to exist.

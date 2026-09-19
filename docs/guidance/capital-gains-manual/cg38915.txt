@@ -1,0 +1,20 @@
+Transfers between settlements - when section 90 does not apply
+Identifier: CG38915
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38915
+Published: 2016-03-12T10:59:02+00:00
+Updated: 2019-10-15T14:31:17+01:00
+Retrieved (UTC): 2026-09-18T14:40:14.057173+00:00
+
+TCGA92/S90 does not apply to:
+
+- Transfers between settlements where market value, or more than market value, is given for the assets transferred. In these cases there is no net loss of value from the transferor settlement. See TCGA92/S90A(1) and the example in CG38940 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38940).
+
+- Transfers to which TCGA92/Sch4B applies. Schedule 4B is anti-avoidance legislation which blocked a loop-hole in section 90. See TCGA92/S90(10)(a) and CG39105 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39105).
+
+- Any section 2(2)* amounts that are in a TCGA92/Sch4C pool. Schedule 4C is part of the same anti-avoidance legislation as Schedule 4B. See TCGA92/S90(10)(b) and CG39250 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39250)+.
+
+If TCGA92/S90 does not apply the trustees’ section 2(2)* amounts stay in the transferor settlement. This is not a problem because either the transferor settlement will make capital payments or in the case of Schedules 4B and C special rules mean the payments can be matched against section 2(2)* amounts in either settlement.
+
+There is no requirement that section TCGA92/S87 or TCGA92/S89(2) applies to the transferor settlement in the year of transfer but that is the practical effect of the legislation. A transferor settlement that has always been UK resident and has not received unmatched gains on a previous transfer will have no section 2(2)* amounts that could be transferred.
+
+*This section was re-written for disposals from 6 April 2019 to section 1(3) see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

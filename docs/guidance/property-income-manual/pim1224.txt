@@ -1,0 +1,124 @@
+Other sums treated like premiums: sale of property with right to buy back
+Identifier: PIM1224
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1224
+Published: 2016-04-10T16:23:39+01:00
+Updated: 2021-12-20T13:45:51+00:00
+Retrieved (UTC): 2026-09-18T14:27:56.473781+00:00
+
+Summary
+
+A charge to tax may arise when, instead of a lease being granted:
+
+-
+
+the owner of a property (including the owner of a leasehold) sells their interest in it, and
+
+-
+
+there is a condition that they may buy it back later.
+
+Without special rules, a landlord could avoid tax by selling a property to a “tenant” with the right to buy it back later instead of granting a lease for a premium. The vendor is effectively taxed as if they had received a premium equal to the difference between the sale price and the price for the re-purchase. The sale of property with a right to lease back is dealt with at PIM1226 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1226).
+
+The legislation is in CTA09/S224 and ITTOIA05/S284.
+
+The provisions apply to the sale of “an estate or interest in land”: this may include either a freehold or a leasehold interest.
+
+For CTA09/S224 or ITTOIA05/S284 to apply, the sale must have been subject to a provision that the land shall be, or may be required to be, re-conveyed at a future date to the vendor or to “a person connected with him”. The meaning of “connected person” in CTA10/S1122 and ITA07/S993 apply.
+
+The amount chargeable is calculated using a formula set out in CTA09/S224 and ITTOIA05/S284.
+
+What is the date of sale?
+
+CTA09/S226 (6) and ITTOIA05/S286 (6) provide that an estate or interest in land is treated as sold when any of the following occurs:
+
+-
+
+an unconditional contract for its sale is entered into, or
+
+-
+
+a conditional contract for its sale becomes unconditional, or
+
+-
+
+an option or right of pre-emption is exercised requiring the vendor to enter into an unconditional contract.
+
+How the amount chargeable is taxed
+
+The amount chargeable is treated as income of the vendor's property business at the time of the original sale. If he already has a property business it is treated as part of the same business, unless it is in a different capacity such as trustee, personal representative, partner etc (see PIM1020 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1020)).
+
+Amount Chargeable
+
+The formula for calculating the chargeable amount within CTA09/S224 and ITTOIA05/S284:
+
+E x (50-Y)/50
+
+Where,
+
+E is the amount by which the price at which the estate or interest is sold exceeds the price at which it is to be reconveyed, and
+
+Y is the number of complete periods of 12 months (other than the first) comprised in the period beginning with the sale and ending with the earliest date on which under the terms of the sale the estate or interest would fall to be reconveyed.
+
+Date of re-conveyance not fixed, price may vary with date
+
+If the date of re-conveyance is not fixed, the date to be used is the earliest date that the property could be re-conveyed under the terms of the sale. If the price for re-conveyance varies according to the date, then the price to be used in the computation is the lowest possible under the terms of the sale. If in fact the re-conveyance takes place at a different price or not at the earliest possible date, the taxpayer may make a repayment claim within six years of the re-conveyance. The amount repayable is the difference between the liability assessed under CTA09/S224 or ITTOIA05/S284 and the amount that would have been assessed if the actual date had been used as if it were a fixed date.
+
+Example
+
+On 6 April 2010 Una completes the sale of a factory to Violet for £400,000. The sale agreement provides that Una may exercise an option to repurchase the factory for 250,000 at any time after 30 June 2015. As five years must elapse before the earliest date for re-conveyance, Una is chargeable on £138,000 for 2010-11, calculated like this:
+
+Step
+
+|
+
+Amount
+
+|
+
+Sale price of factory
+
+|
+
+£400,000
+
+|
+
+less re-purchase price
+
+|
+
+(£250,000)
+
+|
+
+Excess
+
+|
+
+£150,000
+
+|
+
+Chargeable amount formula: E x (50-Y)/50
+
+|
+
+E = £150,000
+
+Y = 5 - 1 = 4
+
+£150,000 x (50-4)/50
+
+|
+
+Chargeable amount
+
+|
+
+£138,000
+
+|
+
+Period between sale and repurchase is more than 50 years
+
+CTA09/S224 and ITTOIA05/S284 provides that the chargeable amount of the deemed premium is to be computed in the same way as the chargeable amount of a normal premium. That means that there is no charge if the period between sale and re-purchase is more than 50 years.

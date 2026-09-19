@@ -1,0 +1,144 @@
+Deep discount securities: introduction
+Identifier: CG54600
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg54600
+Published: 2016-03-12T11:35:44+00:00
+Updated: 2026-09-02T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:29:34.903698+00:00
+
+Introduction
+
+ICTA88/S57 and ICTA88/SCH4 introduced new rules for dealing with the Income Tax treatment of securities issued at a deep discount by companies after 13 March 1984. A similar charge will arise on the disposal, on or after 14 March 1989, of securities issued by public bodies. The investor is treated as having received an amount of accrued income which is taxable under Case III or Case IV when the security matures or is disposed of. For CapitalGains Tax purposes the computation on the disposal or maturity is adjusted to exclude the amount of the accrued income, TCGA92/S118.
+
+The deep discount regime was replaced by a new taxation regime for debts in FA96.ICTA88/S57 and ICTA88/SCH4 were repealed with effect from 1 April 1996 for Corporation Taxpurposes, see CG54000+, and from 6 April 1996 for Income Tax purposes, see CG54200+. The advice in below paragraph will not apply from these dates.
+
+Qualifying corporate bonds
+
+If the relevant conditions in TCGA92/S117 are satisfied a deep discount security will be a qualifying corporate bond (QCB) and, therefore, exempt from Capital Gains Tax. It is likely that many deep discount securities will be QCBs. For instructions on QCBs see CG53700+. The below instructions only apply to deep discount securities which remain chargeable to Capital Gains Tax.
+
+CGT adjustment
+
+TCGA92/S118
+
+A charge under ICTA88/SCH4/PARA4 will arise when a deep discount security is disposed of or redeemed, including an early redemption. Either event will be a disposal for Capital Gains Tax purposes. TCGA92/S118 adjusts the Capital Gains Tax computation to exclude any amounts of accrued income which have been charged under paragraph 4 Schedule 4. Either the disposal proceeds are reduced by the amount of the accrued income or, if the accrued income is greater than the disposal proceeds, the excess is treated as enhancement expenditure incurred immediately before the disposal. Because this expenditure is deemed to be incurred immediately before the disposal no indexation allowance is due on it.
+
+Example
+
+- January 1986 a taxpayer subscribes for 1,000 units of XYZ Ltd loan stock at a total price of £800. The loan stock is redeemable on 31 December 1990 for £1,000.
+
+- December 1988 the taxpayer sells the loan stock for £940 and incurs a ICTA88/SCH4/PARA4 charge of £80.
+
+Capital Gains Tax computation
+
+-
+
+|
+
+-
+
+|
+
+£
+
+|
+
+Disposal proceeds
+
+|
+- |
+
+940
+
+|
+
+less Deduction under S118(1)(a)
+
+|
+
+80
+
+|
+- |
+
+Cost
+
+|
+
+800
+
+|
+
+880
+
+|
+
+Unindexed gain
+
+|
+- |
+
+60
+
+|
+
+less Indexation 800 x 0.146*
+
+|
+
+-
+
+|
+
+117
+
+|
+
+Allowable loss
+
+|
+- |
+
+-57
+
+|
+
+(* January 1986 - December 1988-0.146)
+
+Conversion of securities and share exchanges
+
+TCGA92/S118 (3)
+
+It is possible deep discount securities may be involved in transactions which are treated as share reorganisations. For example
+
+- a conversion of securities in which deep discount securities are exchanged for shares or other deep discount securities, TCGA92/S132, see CG55000 onwards.
+
+- a share exchange in which shares or debentures are issued in exchange for deep discount securities, TCGA92/S135, see CG52521.
+
+These transactions are not treated as disposals for Income Tax purposes if
+
+- the new securities are also deep discount securities AND
+
+- they have the same or an earlier redemption date AND
+
+- no consideration is given for the conversion or exchange, ICTA88/SCH4/PARA7 (4).
+
+In other cases there will be a disposal for Income Tax purposes but not for Capital Gains Tax purposes.
+
+If no other consideration is received at the time of the share reorganisation the accrued income charged under the deep discount security legislation is treated as enhancement expenditure which attracts indexation from the date of the transaction.
+
+NOTE. If a taxpayer is within the charge to Capital Gains Tax, neither indexation allowance nor taper relief apply to disposals of assets on or after 6 April 2008. Previously indexation allowance had been frozen at April 1998. Companies and other concerns within the charge to Corporation Tax are not affected by these changes. For indexation allowance see CG17207+ and for taper relief see CG17895+.
+
+If other consideration is received the amount charged under TCGA92/S128 (3), see CG51875, is reduced by the accrued income charged under the deep discount security legislation. If the accrued income is greater than the consideration received the excess is treated as enhancement expenditure incurred at the time of the transaction.
+
+In other cases there will be a disposal for Income Tax purposes but not for Capital Gains Tax purposes.
+
+No gain, no loss transactions
+
+Section 118(4) of the Taxation of Chargeable Gains Act (TCGA) 1992
+
+Other transactions which may be liable to Income Tax but not Capital Gains Tax are transfers made on a no gain, no loss basis. For example, disposals between spouses or between civil partners, section 58 TCGA 1992, and disposals between members of the same group of companies, section 171 TCGA 1992.
+
+For Capital Gains Tax purposes the transferee's acquisition cost should be increased by the amount of the accrued income charged under the deep discount security legislation, section 118(4) TCGA 1992.
+
+Identification
+
+Deep discount securities are relevant securities for the purposes of the share identification rules. The share identification rules in TCGA92/S108 apply. For detailed instructions see CG51650+.

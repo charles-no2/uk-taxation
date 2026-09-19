@@ -1,0 +1,72 @@
+Premiums: how the charge is calculated
+Identifier: PIM1205
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1205
+Published: 2016-04-10T16:23:15+01:00
+Updated: 2020-05-21T15:36:00+01:00
+Retrieved (UTC): 2026-09-18T14:27:51.971307+00:00
+
+Taxation of premiums received
+
+Premiums and similar receipts related to the grant of a lease are taxable wholly or partly as income where the customer gets them for granting a lease of fifty years or less. The part of the premium taxable as income is treated as a receipt of the property business for the year of assessment in which the lease is granted.
+
+If the taxpayer receives a lump sum for selling (or assigning) their existing lease these special rules don’t apply: see PIM1204 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1204).
+
+The amount, which is a receipt of the property business, is calculated on a sliding scale that depends on the length of the lease for which the customer got the payment. The longer the lease, the smaller the amount charged as property income but the larger the amount potentially chargeable as trading income (in a property dealing trade) or, if there is no trade, to CGT, (CTA09/S217 and ITTOIA05/S277).
+
+The rule is that the amount taxable as income of the property business is calculated as follows:
+
+P x (50-Y)/50
+
+Where,
+
+P is the amount of the premium, and
+
+Y is the number of complete periods of 12 months (other than the first) comprised in the effective duration of the lease
+
+Example illustrating basic premium case
+
+Paul grants a 25-year lease to Peter on 5 June 2016. The lease agreement requires Peter to pay Paul a premium of £30,000 on 30 June 2016 in addition to rent of £400 a month. Paul must include in his property business accounts for 2016-17 both the rent due for the period from 5 June 2016 (when the lease started) to 5 April 2017 and the taxable amount of the premium. That is, the premium is taxed in the year in which the lease is granted. The amount of the premium which Paul is treated as receiving as part of his property business is calculated as follows:
+
+P x (50-Y)/50
+
+Where,
+
+P is £30,000
+
+Y is 25 - 1 = 24
+
+Thus,
+
+£30,000 x (50-24)/50 = £15,600
+
+Therefore the total amount that Paul must return as property income for the period from 5 June 2016 to 5 April 2017 is £19,600. This is calculated as the rent receipts of £4,000 (£400 x 10 months) plus the amount of the premium received taxable as income of the property business (£15,600).
+
+Length of lease and premiums
+
+Normally, in a straightforward case, the length of a lease is the period for which it is granted. For example, if the lease says it lasts for 60 years the duration will be taken as 60 years. But there are special rules aimed at attempts to make a lease appear to be:
+
+-
+
+long when, in substance, it is short, or
+
+-
+
+short when, in substance, it is long.
+
+The law aims to work on the true length of the lease.
+
+For example, a lease might be granted for 60 years at a premium but the facts known at the time the lease was granted could make it unlikely that the lease will last more than 10 years. A simple case might be a lease that provides that the rent due increases by a factor of 100 from year 11. Assuming that the amount of the premium reflects the 10-year period, the lease is treated as a 10-year lease.
+
+The rules for deciding the length of a lease are complicated and depend on when the lease was granted, see ‘duration of lease’ below.
+
+Duration of lease
+
+Determining the length of a lease may be straightforward. But there are rules designed to deal with cases where there may be an attempt to obtain a tax advantage from the premium provisions. These provide that in certain circumstances some period other than the stated term of the lease is to be used for the purposes of the charge on premiums.
+
+The rules have changed several times, and which rules to use depends on when the lease was granted. Here are details of where you can find more guidance in this manual.
+
+- Lease granted on or after 25 August 1971: see PIM1206 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1206) and PIM1207 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1207).
+
+- Lease granted after 12 June 1969 but before 25 August 1971: see PIM1208 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1208).
+
+- Lease granted on or before 12 June 1969: see PIM1209 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1209).

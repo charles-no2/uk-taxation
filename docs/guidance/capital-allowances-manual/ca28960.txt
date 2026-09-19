@@ -1,0 +1,26 @@
+PMA: Anti-avoidance: Finance leaseback: Leaseback  not a finance lease for lessee
+Identifier: CA28960
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28960
+Published: 2016-04-16T08:53:04+01:00
+Updated: 2016-04-06T16:57:04+01:00
+Retrieved (UTC): 2026-09-18T16:21:05.441818+00:00
+
+CAA01/S228G
+
+You may have a finance leaseback case where the lessee treats the leaseback as an operating lease even though the lessor treats it as a finance lease.
+
+Since the lessee has not accounted for the leaseback as a finance lease you will not be able to calculate the permitted maximum for the deduction of lease rentals CA28920 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28920) or the amount by which the lessee’s profits are increased where a leaseback terminates early CA28930 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28930). So the legislation in CAA01/S228C and CAA01/S228D does not apply.
+
+The legislation in Section 228G deals with this situation.
+
+If you can calculate the permitted maximum and the increase when the lease terminates by reference to a connected person’s accounts, do the calculations by reference to the connected person’s accounts and use those amounts for the lessee.
+
+If the leaseback is not accounted for as a finance lease in the lessee’s accounts or the accounts of a person connected with the lessee and the term of the leaseback begins on or after 18 May 2004 these rules apply.
+
+Increase the lessee’s profits for the period of account in which the leaseback begins by these amounts:
+
+- Where there is a sale and finance leaseback net consideration (CA28930 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28930)).
+
+(Net consideration is the difference between the amount the seller received for entering into the sale and finance leaseback and the restricted disposal value that was brought to account. That is, it is the tax-free amount that the seller received.)
+
+- Where there is a lease and finance leaseback the premium that the original owner received for granting the lease to the finance lessor.

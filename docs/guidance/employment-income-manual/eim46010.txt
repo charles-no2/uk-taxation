@@ -1,0 +1,32 @@
+Section 554Z5: payment condition
+Identifier: EIM46010
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim46010
+Published: 2017-10-02T16:00:52+01:00
+Updated: 2017-10-02T16:00:14+01:00
+Retrieved (UTC): 2026-09-18T14:23:37.275052+00:00
+
+ITEPA 2003 – section 554Z5(4)
+
+The payment condition in section 554Z5(4) is satisfied if, at the time the relevant step is taken, the earlier tax liability has become due and payable and has either been paid in full or the person liable has agreed terms with HMRC for payment of the liability. This can cover a variety of scenarios.
+
+Example: Reg 80 paid in full
+
+An employer placed £100 into an Employee Benefit Trust (EBT) in September 2010 for the benefit of one of its directors. This was subject to an earnings charge under section 62 ITEPA 2003 (http://www.legislation.gov.uk/ukpga/2003/1/section/62). This is sum Q. A Reg 80 determination was raised on the employer in January 2012 and was paid in full.
+
+The funds were left in the EBT until October 2017 when the trustees of the EBT made a loan of £100 to the employee which was chargeable as a relevant step under Part 7A. This is sum P.
+
+The Part 7A step is taken on the same amount of money as was originally settled in the EBT. The loan (sum P) therefore fully overlaps with the amount of money which was the subject of the earlier tax liability (sum Q). The value of the relevant step is therefore reduced by the amount of the overlap. This reduces the value of the step from £100 to £0.
+
+The earlier tax liability does not have to be an earnings charge under section 62. The overlap can be between 2 relevant steps, provided that the tax due on the earlier relevant step has become due and payable and has been paid or has been the subject of an agreement for the discharge of the liability.
+
+Example: contract settlement for earmarked funds
+
+An employer placed £1 million into an EBT in October 2012 which was allocated instantly by the trustees into a sub-trust for the benefit of one of the employer’s directors. The allocation gave rise to a charge under Part 7A as an earmarking step. No tax was paid on the value of the relevant step. The amount of £1 million is sum Q.
+
+The employer was subject to an Employer Compliance review which found that PAYE should have been operated at the time the relevant step was taken. The PAYE due was the subject of a contract settlement in March 2017 which provided for payment of the tax arising over a 12-month period.
+
+For the purposes of section 554Z5, the tax arising on the contract settlement is the earlier tax liability. The amount has become due and payable and terms have been agreed for settlement of the tax due between HMRC and the employer. The payment condition in section 554Z5(4) is therefore met. Any subsequent relevant step may be reduced by the amount by which it overlaps with the sum subject to the earlier charge.
+
+The EBT trustees subsequently made a loan to the director of £400,000 in August 2017, consisting of £350,000 from the £1 million originally contributed and £50,000 representing growth on the capital. For the purposes of section 554Z5(1), the £400,000 loan is sum P.
+
+The relevant step is for £400,000. The amount of the step which overlaps with the sum which was subject to an earlier tax liability is £350,000. The value of the relevant step can be reduced by this amount to leave a sum which is taxable under Part 7A of £50,000.

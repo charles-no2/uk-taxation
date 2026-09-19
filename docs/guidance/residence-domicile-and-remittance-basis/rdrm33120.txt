@@ -1,0 +1,52 @@
+Remittance Basis: Identifying Remittances: Conditions A and B: Condition A - money and property
+Identifier: RDRM33120
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33120
+Published: 2016-03-09T17:32:21+00:00
+Updated: 2025-07-31T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:32.167597+00:00
+
+Condition A must be taken together with Condition B (see RDRM33110 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33110)) in determining whether a taxable remittance has occurred.
+
+The first part of Condition A (section 809L(2)(a) ITA 2007) provides for occasions when property is brought to, received, or used in the UK by or for the benefit of a relevant person (see RDRM33030 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33030)).
+
+Money is, of course, a form of property. References in the legislation at Chapter A1 Part 14 ITA 2007 to ‘property’ include money, unless otherwise stated.
+
+From 6 April 2025, Condition A (section 809L(2)(c) ITA 2007) also provides for occasions where property is used outside the UK for the benefit in the UK of a relevant person (see RDRM33122 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33122)).
+
+‘Money or other property’ is not defined directly in section 809L:
+
+- money includes, among other things, cash (however denominated), cheques, traveller’s cheques, electronic transfers using the banking system, and the use of debit and charge cards
+
+- 'other property' is defined widely and includes, among other things, items such as cars, works of art, livestock, household goods, personal chattels, shares and intangible assets
+
+The provisions in section 809L apply to all relevant persons. This means that the money or property brought into the UK might not be brought in or used by the individual taxpayer themselves, but by another relevant person.
+
+Example
+
+Frederick is a former remittance basis user. He transfers some of his untaxed foreign income from his offshore account to the UK account of his wife Freda to purchase textbooks for her college course. Also, a motorcycle (property) purchased with Frederick's untaxed foreign income is used in the UK by his 17-year-old daughter.
+
+Condition A is met as money has been brought to the UK by Frederick who is a relevant person. Property (the motorcycle) has been used in the UK by a relevant person (Frederick's minor child). In order to determine whether there has been a taxable remittance, Condition B must now be considered - see RDRM33140 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33140) onwards.
+
+Also refer to the later example under Condition B - direct remittances of income or gains (RDRM33140) (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33140) and Conditions A and B - remittances of foreign income or chargeable gains (RDRM35020 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35020)).
+
+Intangible property
+
+Where the situs of intangible property falls within the scope of the provisions within sections 275 to 275C TCGA 1992, these will be used to determine the situs for the purposes of identifying if intangible property has been brought to the UK (section 809L(9B) ITA 2007). However, these TCGA provisions are not used to determine the situs of debts, other than judgment debts (section 809L(9C) ITA 2007), nor the situs of cryptoassets where there is no underlying asset.
+
+Debts
+
+Only judgement debts will be determined by the TCGA 1992 provisions, with common law principles applying to all other debts.
+
+In English law a simple contract debt is situated where the debtor resides: Att Gen v Bouwens (1838) 4 M & W 171, English, Scottish and Australian Bank Ltd v IRC [1932) AC 238. This means that where the debtor is resident in the UK, the debt will be treated for remittance basis purposes as having a UK situs.
+
+A debt under a letter of credit has been held to be situated in the place where it is in fact payable against documents (Power Curber International Ltd v National Bank of Kuwait [1981] 3 A11 ER 607).
+
+In the case of secured speciality debts, such as mortgage debts, where the debt is solely secured on land or other tangible property situated in the UK the situs of the debt will also be in the UK. HMRC considers the situs of the debt follows the genuine interest of the creditor in the secured property, not merely the personal obligation of the debtor to repay.
+
+In the case of unsecured specialty debts, the view of the Courts is that the situs of the debt is usually where the relevant deed or instrument evidencing the debt is found. However, where the creditor and debtor are both resident in the UK but the deed evidencing the debt has been removed from the UK, HMRC may consider that the debt is nevertheless situated in the UK for remittance basis purposes.
+
+Cryptoassets
+
+The situs of crypto assets for remittance basis purposes follows HMRC’s published guidance at CRYPTO22600 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22600).
+
+A distinction is made where a cryptoasset is a digital representation of an underlying asset, and where it is any other form of cryptoasset.

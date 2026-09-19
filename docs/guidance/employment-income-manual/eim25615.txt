@@ -1,0 +1,50 @@
+Car fuel benefit. Example 4: car partly unavailable and fuel withdrawn
+Identifier: EIM25615
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25615
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-02-23T14:31:23+00:00
+Retrieved (UTC): 2026-09-18T14:21:22.672326+00:00
+
+These examples illustrate all the principles summarised at EIM25550 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25550). 2004 to 2005 is used, which is not a leap year.
+
+Example: more than one car is available in the year from the same employment
+
+The vehicles are specific to this example. The details are:
+
+Description |  Car One |  Car two |
+
+Fuel benefit (full year, calculated as for EIM25550 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25550)) |  £3,000 |  £3,600 |
+
+Car available from |  6 April 2004 |  1 October 2004 |
+
+Car available to |  30 September 2004 |  5 April 2005 |
+
+Car unavailable (days) |  187 |  178 |
+
+Fuel available from |  1 May 2004 |  1 October 2004 |
+
+Fuel available until |  30 September 2004 |  31 January 2005 |
+
+Days when car available without fuel being available |  25 (6 April to 30 April) |  64 (1 February to 5 April) |
+
+Using the formula at EIM25565 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25565), the reduced benefit is:
+
+Car one:
+
+- £3,000 × (365 - (187+0)) ÷ 365 = £1,463
+
+Car two:
+
+- £3,600 × (365 - (178 + 64)) ÷ 365 = £1,213
+
+Total for the year:
+
+- £1,463 + £1,213 = £2,676
+
+Note: the days when fuel was not provided for car one (6 April to 30 April) are not excluded because the statutory conditions are not fulfilled later in the year (see EIM25570 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25570)).
+
+The above figures would again apply had Car 1 remained available alongside car two, with all other dates unchanged. The fuel benefit for each car is calculated independently.
+
+Years prior to 2003 to 2004
+
+The fuel benefit charge had a different basis in these years.

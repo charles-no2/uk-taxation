@@ -1,0 +1,20 @@
+Cryptoassets for businesses: Corporation Tax: Transferring tokens between distributed ledgers
+Identifier: CRYPTO41260
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto41260
+Published: 2021-11-22T09:06:29+00:00
+Updated: 2021-11-22T09:11:24+00:00
+Retrieved (UTC): 2026-09-18T16:18:36.253080+00:00
+
+Transferring tokens between distributed ledgers
+
+Tokens cannot simply be transferred from the distributed ledger for one cryptoasset to the distributed ledger for a different cryptoasset. For example, a bitcoin cannot exist on the Ethereum blockchain. An effect comparable to a ‘swap’ can be achieved using a smart contract and secure public address. The holder of the tokens uses a smart contract to transfer tokens to a public address that they don’t control. An equivalent amount of tokens of the second cryptoasset are transferred from a secure public address to a public address controlled by the person.
+
+The question that arises is whether this type of transactions results in a disposal for CGT purposes (for guidance on the general interpretation of disposal see CRYPTO22100, /manual/cryptoassets-manual/crypto22100 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22100)). HMRC’s view is that the answer will depend on the facts.
+
+‘One-way’ transfers
+
+Some transfers can only go in one direction, meaning that once the transfer has been made it cannot be undone or transferred back at a future date.
+
+An example of this can be seen with the Ethereum blockchain. Currently ether are on the Ethereum ‘mainnet’ (short for main network, the main public Ethereum blockchain). Holders of ether can choose to transfer their tokens from the mainnet to a different blockchain called the ‘Beacon Chain’. The Beacon Chain blockchain is where Ethereum’s ‘Proof of Stake’ will be implemented (for more information on Proof of Stake see CRYPTO10300, /manual/cryptoassets-manual/crypto10300 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto10300)). It will be impossible to transfer ether from the Beacon Chain to the mainnet, making transfers a one-way process only.
+
+HMRC’s view is that TCGA92/S43 applies to this type of transaction. The allowable costs in respect of the first cryptoasset are attributed in full to the second cryptoasset. A gain or loss will accrue as normal on a subsequent disposal of the second cryptoasset.

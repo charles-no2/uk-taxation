@@ -1,0 +1,99 @@
+Remittance basis: amounts remitted: remittances of 'nominated' income or gains: remittances of nominated income or gains - overview
+Identifier: RDRM35110
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35110
+Published: 2016-03-09T17:38:36+00:00
+Updated: 2022-01-04T11:19:25+00:00
+Retrieved (UTC): 2026-09-18T16:19:44.828109+00:00
+
+As a simple example (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35110#IDAU0CIB)
+So continuing the example above (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35110#IDAM2CIB)
+Table 1 - What actually happened (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35110#IDA02CIB)
+Table 2 - What is treated (and taxed) as remitted under section 809J (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35110#IDASQDIB)
+
+Long-term residents claiming to use the remittance basis under ITA07/s809B are required to make a nomination of their income or gains for the tax year, in order to compute the ‘relevant tax increase’ and so create the remittance basis charge (ITA07/s809C). The foreign income or gains that are ‘nominated’ are subject to UK tax in that year on the arising basis, and are then regarded as ‘taxed’ income or gains. They will not be taxed again if or when they are brought into the UK.
+
+The rules at ITA07/s809I and s809J are designed to ensure that nominated income or gains cannot be brought to the UK before all other amounts of foreign income or gains that have not been ‘nominated’ have been remitted.
+
+Broadly ITA07/s809I and s809J introduce strict statutory ordering rules that lay down the nature of any remittance made if any nominated income or gains are brought into the UK while any foreign income or gains that were not nominated, from years in which the remittance basis was used (after 6 April 2008) remain un-remitted.
+
+These rules are complex, and once they apply they will supersede any other ordering rules, including the mixed fund rules, although the mixed fund rules might apply in the first instance to determine that there has been a remittance of ‘nominated’ income or gains from a mixed fund.
+
+If the mixed fund rules determine that what has been brought into the UK is ‘capital’ (or indeed if money brought into the UK is clearly ‘clean capital’) then the s809J ordering rules will not apply. That is because, for these rules to operate, there first has to be a remittance within ITA07/s809L - that is a remittance of the individual’s income or gains.
+
+The s809J ordering rules apply to all of an individual’s foreign income and gains for the relevant tax year(s) that remain outside the UK, no matter where they are or how they are used.
+
+As a simple example
+
+Craig, a long-term UK resident, has three offshore accounts that contain all of his foreign income and gains for the tax year.
+
+In Year 1:
+
+- Account A contains £75,000 of Craig’s relevant foreign income, just from that year.
+
+- Account B contains £45,000 of Craig’s relevant foreign earnings from that year.
+
+- Account C has some proceeds from an asset sale in Year 1, which includes £120,000 foreign chargeable gains.
+
+Nothing has been subject to a foreign tax.
+
+Craig claims the remittance basis in Year 1, and nominates £75,000 of his relevant foreign income in Account A to create the remittance basis charge.
+
+After Year 1, Craig has no more foreign income or gains, and does not touch these accounts for several years. In Year 6 Craig brings into the UK £60,000 of his relevant foreign income from Account A. This is a remittance of ‘nominated income’. However he has other foreign income and gains from Year 1 that have not yet been remitted, so the ordering rules at section 809J apply.
+
+Under the ordering rules Craig is regarded, and taxed, as if he had remitted £45,000 of his relevant foreign earnings from Account B and then £15,000 of his foreign chargeable gains from Account C, even though he has not actually done so.
+
+If, in Year 7 Craig then brings into the UK £20,000 of the monies in Account B he is regarded, and taxed, by the ordering rules as making a remittance of £20,000 foreign chargeable gains from account C.
+
+The ordering rules start to apply from the tax year in which the nominated income or gains are first remitted, and continue until all of the individual’s foreign income or gains from that and earlier tax years (in which the remittance basis was used after 6 April 2008) have been remitted and taxed.
+
+Because the rules look at all of an individual’s foreign income or gains for a year no consideration is given to any ‘alienation’ of those income or gains offshore at a later date. This includes occasions where the income or gains are used to pay for any foreign expenditure, such as personal spending while overseas.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35110#Top)
+
+So continuing the example above
+
+Assume that in Year 8 Craig used all of the money in Account C offshore to pay his non-UK lawyer’s fees in an ongoing foreign legal dispute.
+
+He then brings in to the UK the remaining £15,000 in Account A and £25,000 in Account B. However he will be taxed as if he had remitted £40,000 of his foreign chargeable gains from Account C.
+
+Craig Example - Summary table
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35110#Top)
+
+Table 1 - What actually happened
+
+Account A |  CR/DR |  Account B |  CR/DR |  Account C |  Descriptor |
+
+Relevant foreign income |  - |  Relevant foreign earnings |  - |  Inc. foreign chargeable gains |  - |
+
+£75,000 |  CR |  £45,000 |  - |  £120,000 |  Account A - £75,000 nominated |
+
+£60,000 |  DR |  - |  - |  - |  Account A - £60,000 remitted in Year 6 |
+
+- |  - |  £20,000 |  DR |  - |  Account B - £20,000 remitted in Year 7 |
+
+- |  - |  - |  - |  £120,000 |  Account C - £120,000 lawyer’s fees in Year 8 |
+
+£15,000 |  DR |  £25,000 |  DR |  - |  Account A & B - £40,000 remitted in Year 8 |
+
+£Nil |  - |  £Nil |  - |  £Nil |  Closing balance |
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35110#Top)
+
+Table 2 - What is treated (and taxed) as remitted under section 809J
+
+Account A |  Account B |  Account C |  Amount remitted |
+
+Relevant foreign income |  Relevant foreign earnings |  Foreign chargeable gains |  - |
+
+£75,000 |  £45,000 |  £120,000 |  - |
+
+- |  £45,000 |  £15,000 |  £60,000 (remitted in Year 6) |
+
+- |  - |  £20,000 |  £20,000 (remitted in Year 7) |
+
+- |  - |  £40,000 |  £40,000 (remitted in Year 8) |
+
+If you are examining any case where nominated income or gains have been remitted you will need to refer to the details of all of the individual’s foreign income and gains for that year, plus all records of transactions detailing not only what was actually brought into the UK but what was taxed under ITA07/s809J as a remittance.
+
+From 6 April 2012 as part of the simplification of remittance basis rules, changes have been made to remittances of nominated income. From tax year 2012-2013 onwards long-term residents using the remittance basis can remit nominated income up to £10 for any tax year for which a nomination has been made without becoming subject to the identification rules as shown in the example above. The figure of £10 per tax year is a cumulative one and is illustrated by the example at RDRM35115 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35115).

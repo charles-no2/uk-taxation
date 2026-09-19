@@ -1,0 +1,74 @@
+Car benefit: special cases: employees in the motor industry (to tax year 2008 to 2009): frequent changes of car: CO2 emissions of notional car
+Identifier: EIM23765
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23765
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-03-25T11:35:16+00:00
+Retrieved (UTC): 2026-09-18T14:20:34.227640+00:00
+
+This page expands on the CO2 emissions figure aspect of EIM23755 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23755). See also:
+
+- EIM23760 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23760) about averaged prices and
+
+- EIM23775 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23775) about claims to special treatment.
+
+Always agree figures for the average CO2 emissions, never for the appropriate percentage. Agreeing an average appropriate percentage effectively freezes the tax year on which the benefit is based, because changes in the lower threshold in later years are prevented from taking effect. This means that the same tax is not charged as would be the case were statute strictly applied (see EIM23760 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23760)).
+
+You may accept averaged CO2 emissions figures that:
+
+- employers and employees agree and
+
+- result in the same tax being charged but with the amount calculated in simpler and more convenient ways.
+
+The comments about these administrative arrangements at EIM23760 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23760) in relation to the price of the notional car apply equally to notional CO2 emissions figures.
+
+In order to average CO2 emissions, proceed as follows:
+
+When cars are all of one fuel type (normally, all petrol or all diesel):
+
+- if all cars have CO2 emissions figures above the lower threshold for the year, simply average them. Use the same approach to averaging CO2 emissions figures as to averaging the price (see EIM23760 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23760)). Use the average CO2 emissions figure to work out the appropriate percentage to use at step 5 of the method statement at EIM24015 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24015).
+
+- if some cars have CO2 emissions figures below the lower threshold for the year, the above approach will result in too low an appropriate percentage and therefore too low a tax charge. In these cases, round up CO2 emissions to the lower threshold before averaging. This will produce the correct appropriate percentage, though the notional CO2 emissions figure will need to be calculated afresh for each year.
+
+When cars are all of different fuel types but all have CO2 emissions figures at or above the lower threshold for the year:
+
+- average the CO2 emissions figures, ignoring different fuel types
+
+- adjust by the relevant proportion of any diesel supplement or alternative fuel reduction
+
+- use the ready reckoner in reverse to find the notional CO2 emissions figure for an equivalent petrol-powered car, having taken account of different fuel types.
+
+The determined notional CO2 emissions figure can be used in future years unless the proportions of the different types of car vary significantly, in which case it will need to be calculated afresh.
+
+Example
+
+The drivers in this example use petrol cars and diesel cars approximately equally.
+
+|  Petrol |  Diesel |  Overall |    |
+
+Step 1 |  Average CO2 |  205 |  175 |  190 |
+
+Step 2 |  2003 to 2004 appropriate percentage for petrol car with this CO2 |    |  22% |    |
+
+Step 3 |  Diesel supplement: 3% × proportion of diesel use, rounded down (i.e. 3% × ½ = 1.5%, rounded down to 1%) |    |  1% |    |
+
+|  Appropriate percentage for notional car, 2003 to 2004 |    |  23% |    |
+
+Step 4 |  CO2 of equivalent petrol car |    |  195 |    |
+
+The determined CO2 emission of 195 fixes the appropriate percentage for the tax year 2003 to 2004. Providing the types of cars used do not vary significantly, it can also be used for future years. Based on an emission of 195, the appropriate percentage for the tax year 2004 to 2005 would be 25%.
+
+(This content has been withheld because of exemptions in the Freedom of Information Act 2000)
+
+(This content has been withheld because of exemptions in the Freedom of Information Act 2000)
+
+Claims to special treatment
+
+See EIM23775 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23775).
+
+Effect on car fuel benefit
+
+The appropriate percentage calculated from the notional CO2 emissions figure should also be applied to calculate any car fuel benefit for that employee for that year, see EIM25550 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25550) onwards.
+
+2009 to 2010 and later years
+
+See EIM23815 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23815) onwards.

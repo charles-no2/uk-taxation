@@ -1,0 +1,16 @@
+UK property rich collective investment vehicles: Transparency election: Interaction of the transparency election with rebasing rules in TCGA92/SCH4AA
+Identifier: CG73998D
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73998d
+Published: 2021-03-19T10:39:41+00:00
+Updated: 2021-03-25T08:17:33+00:00
+Retrieved (UTC): 2026-09-18T14:47:02.794268+00:00
+
+The rebasing rules for non-UK residents disposing of interests in UK land that were held at 5 April 2015 and/or 5 April 2019 are covered in detail in CG73960P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73960p) and CG73970P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73970p) (for CGT and CT respectively).
+
+A non-UK resident disposing of an interest in a UK property rich CIV would be making an indirect disposal, and so would fall within Part 2 of Schedule 4AA to TCGA 92; hence the default position would be for them to calculate their gain or loss using the 5 April 2019 market value as the base cost.
+
+Where the CIV has made an election for transparency, the effect will be that an investor disposing of an interest in the CIV will be treated as disposing of the underlying assets directly rather than being calculated as a disposal of their units in the CIV. This may mean in some cases that the investor is therefore making a disposal that would fall into Part 3 or Part 4 of Schedule 4AA (such as an individual disposing of an interest in a residential property), and may have an earlier rebasing date or a mixed-use calculation than had the investor’s disposal been treated as a disposal of the units.
+
+TCGA92/SCH5AAA/PARA 11 provides that the 5 April 2019 rebasing date be retained, so that if a person would (absent the transparency election) have fallen into Part 2 as making an indirect disposal, then they will still fall into that Part.
+
+Where the CIV itself is making the disposal, that is the sale of the property as part of the CIV’s normal business and that disposal would have fallen into Part 3 or 4 anyway – such as a direct disposal of UK residential land by a closely-held corporate CIV - then para 11 will not apply and Part 3 or Part 4 of Schedule 4AA would apply as normal.

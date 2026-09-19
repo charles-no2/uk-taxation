@@ -1,0 +1,26 @@
+Section 554Z11G – Interaction with section 222 ITEPA 2003
+Identifier: EIM46101
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim46101
+Published: 2018-01-02T22:01:05+00:00
+Updated: 2018-12-14T02:00:25+00:00
+Retrieved (UTC): 2026-09-18T14:23:44.280081+00:00
+
+ITEPA 2003 – Section 554Z11G
+
+Where an employer or worker’s end user is required to operate PAYE in respect of a relevant step, the amount on which PAYE is to be operated is a notional payment for the purposes of section 710 ITEPA 2003 (see EIM11950 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11950)). All Pt 7A charges, including the 2019 loan charge are notional payments and the provisions of section 222 apply accordingly.
+
+Where more than one charge arises on an amount of income, the double taxation provisions in Pt 7A at sections 554Z11B and C leave both charges outstanding. A payment against one is treated as franking the liability on the other, to the extent of the income which overlaps both charges.
+
+It is possible that a section 222 charge can arise against more than one Pt 7A charge if an obligation to operate PAYE exists on those charges. There would however only be one payment made to settle any overlapping liabilities.
+
+Section 554Z11G makes sure that the section 222 amount is calculated against the liability which is paid. Any section 222 liability on the other charges is calculated on the amount remaining after the value of any overlapping income is removed from the chargeable amounts. In order to benefit from this, an amount has to be paid against the other liability.
+
+Example
+
+An employer, ‘B’, contributes £400,000 to a trust, ‘P’, which then loans this to employee ‘A’ in 2015. In 2018, ‘P’ releases £100,000 of the loan so ‘A’ no longer has to repay it.
+
+‘B’ pays the tax due on the 2018 loan release Part 7A charge. Section 554Z11C applies to create a payment which franks the overlapping part of the earlier charge.
+
+A section 222 charge arises on the £400,000 loan in 2015. The employer has however chosen to pay the 2018 loan release charge so a section 222 charge can arise on the employee for the payment of the tax by the employer on this if it is not made good by ‘A’.
+
+The original 2015 section 222 charge is accordingly reduced. The amount on which PAYE should be calculated for the purpose of any charge under section 222 is reduced to £300,000, which is the amount not relieved by the payment of the 2018 liability.

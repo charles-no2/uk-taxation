@@ -1,0 +1,64 @@
+Anti-forestalling measures for changes announced at 30 October 2024 Budget - unconditional contracts
+Identifier: CG10250
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10250
+Published: 2025-03-12T08:21:38+00:00
+Updated: 2025-03-17T06:35:43+00:00
+Retrieved (UTC): 2026-09-18T14:30:15.714379+00:00
+
+Throughout this manual, all legislative references are to Taxation of Chargeable Gains Act 1992 (https://www.legislation.gov.uk/ukpga/1992/12/contents) (“TCGA92”) unless otherwise stated.
+
+Background
+
+Section 28 (https://www.legislation.gov.uk/ukpga/1992/12/section/28) provides that the date of disposal of an asset by way of contract is the date of an unconditional contract rather than the date the contract is completed. The rule also provides that a conditional contract is treated in the same way once the relevant condition is met. This provides an opportunity to plan for potential changes to the Capital Gains Tax (CGT) rules where,
+
+- an unconditional contract is entered into before the date of the rate or rule change, and
+
+- the time of disposal rule at section 28 (https://www.legislation.gov.uk/ukpga/1992/12/section/28) applies, then
+
+- the contract for the disposal completes after the date that the rate or rule change takes effect.
+
+This anti-forestalling rule is aimed at arrangements that involve a degree of tax planning to obtain a tax advantage, making use of the operation of section 28 (https://www.legislation.gov.uk/ukpga/1992/12/section/28). These arrangements typically involve entering into a contract with an entity (such as a family trust or a closely held company) where there is no intention of completing until the “genuine” buyer is found. On finding a genuine buyer, the contract completes such that a gain is triggered that is taxed under the rules applying at the time of the contract (per section 28 (https://www.legislation.gov.uk/ukpga/1992/12/section/28)). The intermediate entity making only an insignificant gain, see the examples below.
+
+The rules being introduced maintain the date of disposal determined by section 28 (https://www.legislation.gov.uk/ukpga/1992/12/section/28) for general CGT purposes but treats the disposal as taking place at the time the contract is completed for the purposes of determining the rate of CGT or lifetime limit that applies.
+
+What changes are affected by this anti-forestalling rule?
+
+The changes in Finance Act 2025 that are affected by this rule are –
+
+- The increases in the main CGT rates for individuals, trustees and personal representatives for disposals on or after 30 October 2024. Contracts entered into before that date and completed on or after.
+
+- The reduction in the lifetime limit (or cap) on gains that can qualify for Investors’ Relief for disposals on or after 30 October 2024. Contracts entered into before that date and completed on or after.
+
+- The increases in the CGT rates on gains qualifying for Business Asset Disposal Relief or Investors’ Relief for disposals on or after 6 April 2025. Contracts entered into before 30 October 2024 date and completed on or after 6 April 2025 and also contracts entered into before 6 April 2025 and completed on or after 6 April 2026.
+
+When the anti-forestalling rule will not apply
+
+This anti-forestalling rule does not apply to “excluded contracts”. This means a contract that -
+
+- was entered into with no purpose of obtaining a tax advantage by reason of the timing rule in section 28 (https://www.legislation.gov.uk/ukpga/1992/12/section/28), and
+
+- where the parties to the contract are connected, it was entered into for wholly commercial reasons.
+
+The meaning of ‘connected person’ is given by section 286 (https://www.legislation.gov.uk/ukpga/1992/12/section/286), see CG14580 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14580).
+
+A person must make a claim stating that the above conditions are met if they consider that a gain arose under an excluded contract. It is not necessary to make a claim if all of a person’s total gains resulting from disposals under excluded contracts do not exceed £100,000.
+
+Claims to disapply the rule
+
+A claim that a gain is to be treated as resulting from an excluded contract must include a statement or declaration that the contract was not entered into with a purpose of obtaining a CGT advantage by reason of the application of section 28 (https://www.legislation.gov.uk/ukpga/1992/12/section/28) and, where the disposal is to a connected person, that the contract was entered into for wholly commercial purposes. Where a tax return is made, this statement should be included in the ‘white space’ in the return or as an attachment.
+
+Where a claim for Business Asset Disposal Relief or Investors’ Relief is made jointly by trustees and a qualifying beneficiary, then the claim to disapply the anti-forestalling rule should also be made jointly by them.
+
+No claim is necessary where the total amount of gain arising on the disposal, in addition to any chargeable gain arising on all other disposals made under ‘excluded contracts’, is below £100,000. This does not affect the ability of HMRC to enquire into the matter if necessary.
+
+Examples
+
+Examples of how this type of anti-forestalling rule applies to the changes to the rates for gains qualifying for Business Asset Disposal Relief or Investors’ Relief can be found at CG64174 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64174) and CG63515 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63515) respectively.
+
+The following examples illustrate the application of the rule to the main CGT rate changes effective from 30 October 2024 -
+
+Mr A took advice about sheltering future gains from changes in the CGT rules. In January 2023 he entered into unconditional contracts to sell various of his investments to a family trust, but only intending to complete these in the event of a disposal to a third party. If he did make use of this planning then his gains on any disposals to the trust would otherwise be taxed at the CGT rates applicable in January 2023 and, if relevant, a higher lifetime limit for Investors’ Relief would apply. The anti-forestalling rules would apply the rates of CGT applying on or after 30 October 2024 and the lower lifetime limit for Investors’ Relief.
+
+Ms B agreed to sell a shop she owned as a rental investment to a major property developer in July 2024. There were various delays before the sale could be completed in June 2025 when she made a gain of £200,000. The anti-forestalling rule should not apply if she make a claim as the contract was not entered into for the purpose of gaining a section 28 tax advantage, so her gain will be taxed at the CGT rates before they increased on 30 October 2024. Ms B would need to make a claim to treat this as an excluded contract and include a declaration to that effect with her tax return.
+
+Mrs C is a farmer, in August 2024 she agreed to sell a small strip of land to a neighbour who wanted it to improve access to their property. The contract was completed in January 2025 and she made a gain of £60,000. The anti-forestalling rule should not apply and she doesn’t need to make a claim in order for her gain to be taxed at the CGT rates before they increased on 30 October 2024.

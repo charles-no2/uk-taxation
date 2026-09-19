@@ -1,0 +1,66 @@
+Class 1 NICs: Employment Related Securities (ERS): Internationally Mobile Employees (IMEs): Reciprocal Agreements (RA) countries/Double Contribution Conventions (DCC) 
+Identifier: NIM06910
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06910
+Published: 2016-04-11T17:18:11+01:00
+Updated: 2016-03-05T17:03:44+00:00
+Retrieved (UTC): 2026-09-18T15:19:47.566284+00:00
+
+Paragraph 18(6) of Part 9 of Schedule 3 Social Security (Contributions) Regulations (SSCR) 2001 (As inserted by The Social Security (Miscellaneous Amendments No. 2) Part 1, Regulation 21(3) 2015 / Statutory Instruments 2015 No. 478)
+
+The UK has a number of bi-lateral social security agreements with other countries outside the EEA, they determine which country’s social security legislation applies at any given time.
+
+Paragraph 18(6) of Part 9 of Schedule 3 SSCR 2001 provides the conditions to disregard the total instalment, as calculated at NIM06890 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06890) and NIM06895 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06895), where there is no liability to pay earnings-related contributions because the employed earner, is determined in accordance with the legislation of a country outside the UK with which the UK has a social security RA or DCC created under section 179 of the Administration Act 1992.
+
+A Certificate of Coverage (CoC) (similar to the Portable Document A1), keeps an employed earner (the IME) insured in the UK when they are sent by their employer to work in another RA/DCC country. The CoC prevents demands for social security contributions in the RA/DCC country and a “double charge” occurring on the IME’s earnings.
+
+In accordance with the daily earnings calculation example at NIM06890 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06890):
+
+Example 1 - ERS awarded in UK
+
+- IME leaves the UK on 1 January 2015 to work in another RA/DCC country
+
+- No CoC held (so subject to the legislation of the other country from the date of arrival)
+
+- UK NICs liability due for period 1 January 2013 - 31 December 2014 only (730 days)
+
+- UK NICs due on 730 days @ £913.24 per day = £666,667
+
+Paragraph 18(6) of Part 9 of Schedule 3 SSCR 2001 disregards 365 days (January 2015 - 31 December 2015), £333,333 of ERS earnings.
+
+Example 2 - ERS awarded in another RA/DCC country
+
+- IME arrives in the UK from another RA/DCC country to work from 1 January 2015
+
+- No CoC held (so subject to UK NICs from the date of arrival)
+
+- UK NICs liability due for period 1 January 2015 - 31 December 2015 only (365 days)
+
+- UK NICs due on 365 days @ £913.24 per day = £333,333
+
+Paragraph 18(6) of Part 9 of Schedule 3 SSCR 2001 disregards 730 days (January 2013 - 31 December 2014), £666,667 of ERS earnings.
+
+In Examples 1 and 2, UK NICs is apportioned in line with the period the IME was subject to UK NICs legislation. A double charge could occur whereby the other RA/DCC country subjects the full ERS earnings to their social security legislation at the point of vest, see NIM06915 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06915).
+
+Other RA/DCC Examples
+
+Example 3 - ERS awarded in UK
+
+- IME leaves the UK on 1 January 2015 to work in another RA/DCC country
+
+- CoC held covering the period 1 January 2015 - 31 December 2015 (when ERS vest)
+
+- UK NICs liability due on £1m
+
+- No double charge would occur.
+
+Example 4 - ERS awarded in another RA/DCC country
+
+- IME arrives in the UK from another RA/DCC country to work from 1 January 2015
+
+- CoC held covering the period 1 January 2015 - 31 December 2015 (when ERS vest)
+
+- No UK NICs liability due on £1m
+
+- No double charge would occur.
+
+Further information on RA countries can be found at NIM33400 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim33400).

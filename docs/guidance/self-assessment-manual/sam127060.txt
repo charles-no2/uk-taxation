@@ -1,0 +1,28 @@
+Returns: returns processed at HMRC Wolverhampton: HMRC  Wolverhampton: returns which cannot be scanned
+Identifier: SAM127060
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam127060
+Published: 2016-04-08T17:28:56+01:00
+Updated: 2017-09-05T14:20:52+01:00
+Retrieved (UTC): 2026-09-18T16:21:11.977477+00:00
+
+Some Short Tax Returns (SA200) will not be suitable for scanning and processing through Automated Data Capture, and they should be captured through Local Data Capture.
+
+Examples include where
+
+- The return is torn or damaged
+
+- There is no barcode, or the barcode has been written on or smudged
+
+-
+
+Marks are made on the return
+
+- Over location markers at the side and top of the form
+
+- Over the barcode
+
+- Over page numbers at the base of the form
+
+- Over the word ‘Your’ on the front page
+
+In these cases, the return should be logged then forwarded to the appropriate office with processing responsibility for manual capture.

@@ -1,0 +1,62 @@
+Capital allowances: wasting assets qualifying in  part for: example
+Identifier: CG15453
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15453
+Published: 2016-03-12T10:10:33+00:00
+Updated: 2023-04-20T08:06:55+01:00
+Retrieved (UTC): 2026-09-18T14:38:07.445429+00:00
+
+A wasting asset is purchased for £26,000. Suppose the asset
+
+- has a predictable life of 21 years,
+
+- has a scrap value of £1,000,
+
+- is used 40% of the time for business, and
+
+- qualifies for capital allowances on the business part.
+
+If the asset is sold 7 years later in 1992 for £10,000 the computation is in two parts
+
+NON-BUSINESS USE: This is the disposal of a wasting asset costing £15,600 (60% of £26,000) for £6,000 (60% of £10,000). The wasting asset restriction is, see CG76700+
+
+- 60% of (£26,000 - £1,000) = £15,000 x 5Yr/21yr = £5,000,
+
+so the restricted allowable expenditure, the wasted cost, is
+
+- £15,600 - £5,000 = £10,600.
+
+The loss is computed as follows
+
+|    |  £ |    |
+
+|  Disposal proceeds |    |  6000 |
+
+Less |  Wasted cost |    |  10600 |
+
+|  Unindexed loss |  (4600) |    |
+
+Less |  Indexation (say) |  10,600 x 0.3 |  3180 |
+
+|  Loss |  (7780) |    |
+
+BUSINESS USE: This is the disposal of a non-wasting asset costing £10,400 (40% of £26,000) for £4,000 (40% of £10,000). The disposal is at a loss so the allowable expenditure is restricted by the net capital allowances given £6,400, see CG15410+
+
+The loss is computed as follows
+
+|    |  £ |    |    |
+
+|  Disposal proceeds |    |  4000 |    |
+
+Less |  Cost |    |  10400 |    |
+
+|  less Section 41 restriction |    |  6400 |  4000 |
+
+|  Unindexed loss |  0 |    |    |
+
+Less |  Indexation (say) |  4,000 x 0.3 |  1200 |    |
+
+|  Loss |  (1200) |    |    |
+
+The allowable loss accruing on the disposal is therefore
+
+£7,780 + £1,200 = £8,980

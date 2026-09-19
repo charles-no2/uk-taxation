@@ -1,0 +1,46 @@
+Business Premises Renovation Allowance: proceeds from  balancing events, calculation of balancing adjustment
+Identifier: CA45900
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca45900
+Published: 2016-04-16T09:02:37+01:00
+Updated: 2022-06-08T10:11:31+01:00
+Retrieved (UTC): 2026-09-18T16:20:08.301920+00:00
+
+CAA01/ S360O and s360P
+
+These are the proceeds from the various balancing events.
+
+Balancing event |  Proceeds |
+
+The sale of the relevant interest |  The net proceeds of sale |
+
+The grant of a long lease out of the relevant interest |  The greater of the capital sum paid for the grant of the lease, and the commercial premium |
+
+The coming to an end of a lease where a person entitled to the lease is connected with a person entitled to a superior interest |  The market value of the relevant interest in the qualifying building at the time of the event |
+
+The death of the person who incurred the qualifying expenditure |  The residue of qualifying expenditure immediately before the death |
+
+The demolition or destruction of the qualifying building |  The net amount received for the remains together with any insurance monies received in respect of the demolition or destruction and any other capital compensation received |
+
+The qualifying building ceases to be qualifying business premises |  The market value of the relevant interest at the time of the event |
+
+This is how you calculate a balancing allowance or balancing charge.
+
+Compare the proceeds from the balancing event with the residue of qualifying expenditureimmediately before the balancing event.
+
+There is a balancing allowance if there are no proceeds or if the residueis more than the proceeds. The amount of the balancing allowance is
+
+- the residue if there are no proceeds
+
+- the difference if the proceeds are less than the residue.
+
+There is a balancing charge if the residue is less than the proceeds.The amount of the balancing charge is
+
+- the proceeds if the residue is nil
+
+- the difference otherwise.
+
+There is a restriction on the amount of a balancing charge. Abalancing charge may not be more than the initial allowances made to the person plus WDAsmade for chargeable periods ending on or before the date of the balancing event.
+
+Example
+
+Maureen incurs qualifying expenditure of £100,000 and claims 100% initial allowance sothe residue is nil. She sells the building for £120,000 3 years later. The balancingcharge is the proceeds, £120,000 but it is restricted to £100,000, the allowances made.

@@ -1,0 +1,72 @@
+Remittance Basis: Amounts remitted: Quantification: Condition B - Collateral in respect of relevant debt
+Identifier: RDRM35050
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35050
+Published: 2016-03-09T17:38:19+00:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:43.982992+00:00
+
+Overview (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35050#Overview)
+
+Example 1 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35050#Example 1)
+
+Example 2 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35050#Example 2)
+
+Example 3 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35050#Example 3)
+
+Example 4 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35050#Example 4)
+
+Overview
+
+When foreign income and gains are used as collateral for a relevant debt they are used ‘in respect of’ the relevant debt, so there may be a taxable remittance at that point. Refer to RDRM33170 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33170) for further information.
+
+Where the amount of the foreign income or gains offered as collateral is equal to or less than the amount of the loan, and the entire loan is brought to or within the UK, the amount remitted is the full amount of the foreign income and gains, because the full amount has been ‘used’ as collateral in respect of a relevant debt, within the meaning of section 809L(3)(c) ITA 2007.
+
+Where the amount of foreign income or gains offered as collateral is more than the amount of the loan, the amount ‘used’ is referable to the amount borrowed under the loan agreement and is therefore capped at the amount of the loan. To note, in the event that a lender seizes the collateral any accrued interest, penalties and service charges paid to the lender using foreign income or gains would also be used at that point and those amounts would be remitted.
+
+Where only part of the loan has been brought to the UK and the remainder of the loan is offshore, the amount of foreign income or gains remitted is capped at the amount brought to the UK. This is because section 809P(10) ITA 2007 limits the amount remitted to the property or service in the UK where part of the loan remains offshore.
+
+If more than one source of foreign income or gains, or a mixture of foreign income or gains and ‘clean capital’, are offered as collateral and the total collateral exceeds the loan amount, or it exceeds the part of the loan brought to or within the UK, the mixed fund ordering rules at section 809Q(4) ITA 2007 determine which kinds of foreign income and gains, and from which tax year, are remitted to the UK.
+
+The mixed fund ordering rules also determine the foreign income or gains remitted where one or more assets, whether money, property, or both, are offered as collateral and these themselves contain or are derived from more than one source of foreign income or gains, or clean capital. Refer to RDRM35270 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35270) for guidance and examples of how the amounts remitted are calculated where more than one source of foreign income or gains are used as collateral.
+
+Foreign income and gains used to pay interest on the debt and to repay the borrowed capital are also ‘used in respect of’ a relevant debt and will be taxable as a remittance. Where the same foreign income or gains have been used as collateral and also to repay the loan, section 809P(12) ITA 2007 limits the amount remitted to the amount of the foreign income or gains, to prevent the same foreign income or gains being charged to tax more than once. It limits the amount remitted by reference to amounts of the same foreign income or gains previously remitted and taxed on an earlier occasion, so that the total amounts remitted in respect of the same foreign income or gains cannot be more than the amount of the foreign income or gains.
+
+Example 1
+
+In 2016-2017 Freda, a remittance basis user, takes out a 5-year interest-free loan for £160,000. She uses the full amount of the loan to purchase a plot of land in the UK, so the loan is a relevant debt.
+
+Freda offers as collateral for the loan a French painting, currently in her Parisian apartment. She purchased this painting in an earlier tax year in which she was also a UK resident remittance basis user, using £160,000 of her untaxed relevant foreign income from that year. The painting is still worth £160,000.
+
+Freda has used her foreign income as collateral, in respect of a relevant debt. The amount used is the untaxed relevant foreign income that was used to acquire the painting - £160,000 in this case. Therefore, Freda has remitted £160,000 to the UK in 2016-2017.
+
+In 2020-2021 Freda sells the painting for £160,000 and deposits the proceeds into an offshore bank account. In 2021-2022 she repays the principal on the loan, using £140,000 of the sale proceeds from the painting and £20,000 of her foreign earnings from that year.
+
+Freda has used her foreign income to repay the loan, therefore it has been used in respect of a relevant debt and there would be a remittance of £160,000 in 2021-2022. However, section 809P(12) ITA 2007 limits the amount remitted to £20,000, comprising the foreign earnings, as £140,000 of the foreign income used to purchase the painting was already taxed when remitted in 2016-2017. So, Freda has a taxable remittance of £20,000 in 2021-2022.
+
+Example 2
+
+In 2021-2022 Jack, a remittance basis user, takes out a loan for £750,000 with a Jersey bank. He uses an overseas bank account as security for the loan. The charge is over all the funds held within the overseas account, into which his untaxed foreign dividends have been paid, from previous years when he was UK resident and using the remittance basis. The bank account has a balance of £1m at the time he secures the loan. Jack uses the full amount of the loan to acquire a cottage in the UK and the loan is a relevant debt.
+
+As the amount of the loan is £750,000, and the foreign income offered as collateral to secure the loan is a higher amount, the foreign income remitted to the UK is capped at the amount of the loan, as this is the amount used in respect of the relevant debt. Therefore, Jack has remitted £750,000 to the UK in 2021-2022.
+
+Example 3
+
+In 2021-2022 Nala, a remittance basis user, takes out a £500,000 loan from a Belgian bank. Nala uses a Belgian bank account as collateral for the loan, which contains unremitted foreign income of £600,000.
+
+Nala uses £470,000 of the loan to acquire a townhouse in the UK, so the loan is a relevant debt. Nala uses the remaining £30,000 of the loaned funds to purchase a classic car from a Belgian dealer which she keeps at her home in Brussels.
+
+As £470,000 of the £500,000 loan has been brought to the UK, and £30,000 remains offshore, the amount of the remittance is capped at £470,000. Therefore, Nala has remitted £470,000 to the UK in 2021-2022.
+
+Example 4
+
+In 2016-2017 Ahmed, a remittance basis user, takes out a 5-year loan for £500,000 from a Guernsey bank. He uses a German bank account containing £500,000 of his foreign income as collateral for the loan. He uses the loan to purchase a piece of land in the UK, so the loan is a relevant debt.
+
+Ahmed has used his foreign income as collateral in respect of a relevant debt. The amount used is £500,000. Therefore, Ahmed has remitted £500,000 to the UK in 2016-2017.
+
+In 2019-2020, Ahmed withdraws £100,000 from his German bank account to purchase a painting from an offshore dealer which he hangs in his apartment in Berlin. To make up the shortfall on the now £400,000 bank balance, he pays in £100,000 of foreign dividend income received in that year to his German bank account. As the £100,000 of foreign income now forms part of the collateral to secure the £500,000 debt, because it has replaced original collateral, Ahmed has used this foreign income in respect of a relevant debt and has therefore remitted that amount to the UK. The full £100,000 is remitted to the UK in 2019-2020 as that same foreign dividend income has not previously been remitted to the UK.
+
+In 2021-2022, Ahmed varies the terms of the loan, extending it for another 5 years. Since taking the loan out Ahmed has repaid £150,000 of the loan using clean capital, so the loan amount on which Ahmed secures amended terms is £350,000. Instead of using the German bank account as collateral he uses a Swiss bank account containing £600,000 of his untaxed foreign gains to secure the new terms. Because there has been a variation of the loan and a new use of Ahmed’s foreign income or gains as collateral to secure the new loan terms, and the amount of the loan is £350,000, this means that £350,000 of Ahmed’s foreign gains have been used in respect of a relevant debt. Therefore, there would be a new remittance to the UK in 2021-2022 of £350,000. Section 809P(12) ITA 2007 would not reduce the amount remitted in 2021-2022 to less than £350,000, because the foreign gains have not previously been remitted to the UK, so £350,000 would be remitted.
+
+In 2022-2023, Ahmed transfers £100,000 of the foreign income from his German bank account that he previously used as collateral to his UK bank account. Section 809P(12) ITA 2007 prevents a tax charge arising on the transfer in 2022-2023 as Ahmed has already remitted that foreign income to the UK.
+
+Note – Previous HMRC guidance did not follow the position given above and suggested that where a higher amount of foreign income and gains were offered as collateral than the amount borrowed, the amount remitted would not be capped at the loan amount. A copy of the previous version of RDRM35050 can be found on The National Archives site.

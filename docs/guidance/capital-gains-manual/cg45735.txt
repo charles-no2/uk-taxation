@@ -1,0 +1,28 @@
+ETMD: consequential amendments within TCGA 1992: section 154
+Identifier: CG45735
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45735
+Published: 2016-03-12T11:09:07+00:00
+Updated: 2026-08-13T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:41:17.631468+00:00
+
+TCGA 1992 sections 152 to 159 provide relief for the replacement of business assets. The basic principle behind those sections of TCGA 1992 is that provided the appropriate conditions are met, a gain on the disposal of an asset, asset 1, is deducted from the allowable cost incurred on the purchase of another asset, asset 2.
+
+However where asset 2 is a depreciating asset then section 154 provides different treatment. Instead of deducting the gain on asset 1 from the cost of asset 2, section 154(2) holds-over, or defers, the gain (deferred charge) until the earlier of one of three events, the events being:
+
+- the claimant disposes of asset 2 or,
+
+- the claimant ceases to use it for the purposes a trade carried on by him or,
+
+- a period of ten years expires since the acquisition of asset 2 by the claimant.
+
+See CG45733 and CG60295 for a fuller explanation.
+
+On a transfer of assets to which either section 140A or E would apply then similar to section 140, see CG45734 above, the deferred charge within section 154 would come back into charge at the time of the transfer within section 140A or E and again this would be contrary to the general principle of the ETMD.
+
+Section 154(2)(A) ensures that the deferred charge within section 154(2) does not accrue at the time of the transfer but instead the transferee company within section 140A or E will stand in the shoes of the transferor company.
+
+An example would be where company A disposed of an asset and a gain of £100 accrued. Company A acquires another asset, asset X, which is a depreciating asset and it makes a claim under section 154. Three years after that event company A transfers part of its business, which includes asset X, to a French resident company, company C and it is assumed that the conditions within section 140A are met. Without special provision the deferred charge under section 154(2) on asset X would accrue but section 154(2A) prevents this by providing that section 154(2) is to be disregarded at the time of the transfer to which section 140A applies and that company C would now become the claimant under section 154.
+
+Thus if for example 10 years after company A acquired the depreciating asset the asset was still held by company C then the deferred charge under section 154(2) would accrue on company C by way of section 10B, see CG42100+.
+
+Section 154(2D) applies the same treatment to that for section 140A to mergers within section 140E and section 154(2C) ) provides that references to transferor and transferee within section 154(2A) & (2B) have the same meaning as those within section 140E(9).

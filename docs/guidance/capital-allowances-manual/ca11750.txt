@@ -1,0 +1,20 @@
+General: Definitions: Expenditure incurred in foreign currency
+Identifier: CA11750
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11750
+Published: 2016-04-16T08:41:55+01:00
+Updated: 2019-07-17T17:36:04+01:00
+Retrieved (UTC): 2026-09-18T16:20:25.857964+00:00
+
+CAA01/S4 (1), FA96/S80 (5) and FA93/S93
+
+Expenditure incurred in a foreign currency is translated into sterling at the exchange rate for the date on which it is treated as incurred for capital allowance purposes apart from pre-trading expenditure.
+
+For example, if expenditure is incurred under a hire purchase type contract all the expenditure still to be incurred is treated by CAA01/S67 (3) as incurred on the date on which the asset is brought into use CA23310 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23310). This expenditure should be translated into sterling at the exchange rate for the day on which the asset is brought into use.
+
+Expenditure, which is incurred in a foreign currency before a trade begins, is treated as incurred on the day on which the trade begins. It should be translated into sterling at the exchange rate for the day on which it is actually incurred and not at the exchange rate for the day on which the trade begins.
+
+The amount of expenditure incurred in a foreign currency may be actually laid out on a date later than that on which it is treated as incurred for capital allowance purposes (“the CA expenditure date”). In that case the buyer may bring an exchange gain or loss into account in its profit and loss account that reflects, wholly or partly, a movement in currency rates between the CA expenditure date the payment date. This gain or loss may also reflect currency movement between the date the expenditure is brought into account in the company’s book (e.g. invoice date or delivery date) and the CA expenditure date.
+
+The amount of any exchange loss arising after the CA expenditure date should be deducted from the expenditure on which capital allowances are given.
+
+Sometimes companies draw up their accounts in a currency other than sterling. For example, a company that trades mainly in Europe may draw up its accounts in Euros. CFM64000 (http://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm64000) explains rules introduced by FA1993 on how companies (and permanent establishments of non-resident companies) which prepare accounts in a currency other than sterling should present their tax computations.

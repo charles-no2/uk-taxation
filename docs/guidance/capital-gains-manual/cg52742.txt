@@ -1,0 +1,72 @@
+Company reconstructions: shareholder: computations involving TCGA92/S136
+Identifier: CG52742
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52742
+Published: 2016-03-12T11:27:57+00:00
+Updated: 2023-05-05T11:33:37+01:00
+Retrieved (UTC): 2026-09-18T14:42:54.293885+00:00
+
+The ordinary computational rules of TCGA92/S127 - TCGA92/S131 apply. If the original shares are cancelled the computation will be the same as TCGA92/S135, see CG52579. If the original shares are retained you will have to split the cost between the original shares and the new shares. The normal rule in TCGA92/S129 is that you make the apportionment by reference to the market value of the different shares at the date of disposal of any of the shares in the new holding, see the Example below. However, if either class of the new shares is quoted TCGA92/S130 will apply. You will make the apportionment by reference to market value on the first day on which the shares are quoted.
+
+Example
+
+- June 2005 an individual buys 5,000 shares in Pacific Exploration Ltd at £3 per share.
+
+- September 2009 Pacific Exploration Ltd decides to demerge its wholly owned subsidiary Honest Endeavour Ltd. The shares in Honest Endeavour Ltd are transferred to Resolution Holdings Ltd which issues 3,000 £1 ordinary shares to the taxpayer. Neither Pacific Exploration Ltd nor Resolution Holdings Ltd are quoted, so TCGA92/S129 applies.
+
+- April 2011 the individual sells 2,000 shares in Resolution Holdings Ltd at £4 per share.
+
+In April 2011 the market values of the component parts of the new holding are
+
+- |  Share price |
+
+Pacific Exploration Ltd |  £5 per share |
+
+Resolution Holdings Ltd |  £4 per share |
+
+Section 104 Holding Pool
+
+- |  Number of shares |  Pool of qualifying expenditure |
+
+Purchase - June 2005 |  5,000 |  £15,000 |
+
+The proportion of the pools of qualifying expenditure and indexed expenditure attributable to the RH Ltd shares is calculated by reference to the market values of the component parts of the new holding in April 2011. This is
+
+3,000 x £4 |  = |  12 |
+
+(3,000 x £4) + (5,000 x £5) |  - |  37 |
+
+So the pool of qualifying expenditure attributable to the RH Ltd shares is £15,000 x 12/37 = £4,865
+
+The computation on the part disposal of the RH Ltd shares is then as follows.
+
+Section 104 Holding Pool
+
+- |  Number of shares |  Pool of qualifying expenditure |
+
+September 2009 Demerger |  3,000 |  £4,865 |
+
+April 2011 Disposal (see Note below) |  (2,000) |  (3,243) |
+
+- |  1,000 |  £1,622 |
+
+NOTE. The calculation of the amounts deducted from the pools of qualifying expenditure is shown in the Capital Gains Tax computation below.
+
+Capital Gains Tax computation
+
+Using consideration received the part disposal formula becomes
+
+£8000 = 8
+
+£8,000 x (1,000 x £4) 12
+
+- |  - |  Amount £ |
+
+Pool of qualifying expenditure £4,865 x 8/12 |  = |  3,243 |
+
+Disposal proceeds |  8,000 |    |
+
+less Cost |  3,243 |    |
+
+- |  Chargeable gain |  4,757 |
+
+NOTE - Indexation allowance will need to be considered where the shareholder is a company.

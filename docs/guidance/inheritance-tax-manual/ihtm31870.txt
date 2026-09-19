@@ -1,0 +1,16 @@
+Assessing: SAGE: unpaying calculations
+Identifier: IHTM31870
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31870
+Published: 2016-04-09T10:07:20+01:00
+Updated: 2016-02-11T17:19:48+00:00
+Retrieved (UTC): 2026-09-18T15:06:38.173403+00:00
+
+When calculations are withdrawn, any payments matched to them will be automatically unmatched by Cashiers. However, if a calculation is ‘unpaid’ on COMPASS (IHTM31212 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31212)) and not withdrawn, the entries stay matched on SAGE.
+
+Calculations must only be unpaid when:
+
+- the calculation has genuinely been marked paid on COMPASS in error
+
+- you are told that an invalid or dishonoured cheque has been received
+
+If you want to unpay a calculation for any other reason you should ask for advice from Accounts, Nottingham.

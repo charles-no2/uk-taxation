@@ -1,0 +1,52 @@
+Assets disposed of: series of transactions: portion of aggregate MV
+Identifier: CG14657
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14657
+Published: 2016-03-12T10:07:09+00:00
+Updated: 2023-04-13T16:28:54+01:00
+Retrieved (UTC): 2026-09-18T14:37:32.603587+00:00
+
+This means such portion as it is reasonable to apportion to the assets which were actually disposed of by the transaction concerned.
+
+Example 1
+
+Mr M owned 800 shares in an unquoted company.
+
+He makes the following gifts to his daughter:
+
+June 2016 200 shares
+
+June 2018 400 shares
+
+The aggregate market values of 600 shares at the relevant dates are:
+
+June 2016 £48,000
+
+June 2018 £60,000
+
+The appropriate portion of the aggregate market value at each date is arrived at as follows:
+
+June 2016 200/600x£48,000 = £16,000
+
+June 2018 400/600x£60,000 = £40,000
+
+In this example, the apportionment is straightforward, but this may not always be the case. For example, where the grant of a lease or tenancy is followed by the disposal of the freehold subject to that lease or tenancy, it is appropriate to apportion on each occasion the market value of the unencumbered freehold interest at the relevant date between the individual interests disposed of. You would thus need to know the values of all three interests concerned at each of the two relevant dates.
+
+Example 2
+
+On 1 October 2016 a company grants a lease to its controlling shareholder.
+
+On 1 October 2018 it transfers the freehold interest subject to that lease to the same individual. The relevant valuations are:
+
+- |  1.10.16 |  1.10.18 |    |
+
+Freehold on vacant possession basis |  £130,000 |  £160,000 |    |
+
+Freehold subject to lease |  £66,000 |  £80,000 |    |
+
+Leasehold interest |  £4,000 |  £5,000 |    |
+
+The appropriate portions of the aggregate market values would be |  - |  - |    |
+
+1.10.16 |  Leasehold interest |  £ 130,000 x £4,000=£70,000 |  £7,428 |
+
+1.10.18 |  Freehold reversion |  £160,000x£80,000=£85,000 |  £150,588 |

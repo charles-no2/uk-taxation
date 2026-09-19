@@ -1,0 +1,97 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Interaction between Non-Resident CGT and ATED-related CGT: Amount of gain or loss that is neither ATED-related nor an NRCGT gain or loss
+Identifier: CG73894
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73894
+Published: 2018-10-18T12:09:24+01:00
+Updated: 2019-10-11T10:34:57+01:00
+Retrieved (UTC): 2026-09-18T14:46:45.878348+00:00
+
+Sch 4ZZB/para 16 applies where the gain or loss on the disposal of land is neither ATED-related nor a non-resident CGT gain or loss. This amount is referred to as “the balancing gain or loss”.
+
+The balancing gain or loss is computed as follows -
+
+- Step 1, determine in accordance with Sch 4ZZB/paras 17 to 19 the amount of the gain or loss accruing on each relevant high value disposal which is neither ATED-related nor a non-resident CGT gain or loss. This is the “balancing” gain or loss for each disposal.
+
+- Step 2, add together the amounts of any balancing gains or losses determined under Step 1 (treating any amount which is a loss as a negative amount).
+
+If the result is a positive amount, that is the balancing gain on the disposal of land. If it is negative amount, that is the balancing loss on the disposal.
+
+A definition is provided of “balancing day” in relation to a relevant high value disposal, a term used in Sch 4ZZB/paras 17(6), 18(4) and 19(4). It means a day which is neither -
+
+- a section 14D chargeable day (see Sch 4ZZB/para 12(5)), nor
+
+- an ATED chargeable day (see Sch 4AA/para 3(6)).
+
+The amount of gain or loss that is neither ATED-related nor a NRCGT gain or loss is therefore the sum of the amounts determined in accordance with paras 17 to 19.
+
+Sch 4ZZB/para 17 contains provisions for computing gains and losses in the case of relevant high value disposals that are neither ATED-related nor NRCGT gains or losses, in cases where Sch 4ZZB/para 13 applies. Sch 4ZZB/para 13 is concerned with disposals of assets held at 5 April 2015 where no election is made and no rebasing in 2016 is required.
+
+In the case of a relevant high value disposal to which Sch 4ZZB/para 13 applies, the amount of the balancing gain or loss is determined by adding -
+
+- the amount of the balancing gain or loss belonging to the notional post-April 2015 gain or loss,
+
+- the amount of the balancing gain or loss belonging to the notional pre-April 2015 gain or loss, and
+
+- if P held the disposed of interest on 5 April 2013, the amount of the notional pre-April 2013 gain or loss
+(treating any amount which is a loss as a negative amount).
+
+If the result is a positive amount, that is the balancing gain on the relevant high value disposal. If it is negative, that is the balancing loss on the relevant high value disposal.
+
+Note that for disposals before 26 November 2015, the calculation above differed slightly if para 6A of Sch 4ZZA did not apply to the disposal.
+
+The balancing gain or loss relating to the notional post-April 2015 gain or loss represents the “balancing fraction” of the notional post-April 2015 gain or loss. The balancing gain or loss relating to the notional pre-April 2015 gain or loss represents the non-ATED related fraction of the notional pre-April 2015 gain or loss.
+
+The “balancing fraction” is -
+
+BD
+
+TD
+
+where “BD” is the number of balancing days in the appropriate ownership period, and “TD” is the total number of days in the appropriate ownership period.
+
+The “non-ATED related fraction” is -
+
+NAD
+
+TD
+
+where “NAD” is the number of non-ATED chargeable days (Sch 4ZZB/para 16(3)) in the appropriate ownership period.
+
+“Appropriate ownership period” is the post-commencement ownership period in Sch 4ZZB/para 13(5) for computing the balancing gain or loss relating to the notional post-April 2015 gain or loss; and the relevant ownership period in Sch 4ZZB/para 6A(11) for computing the balancing gain or loss relating to the notional pre-April 2015 gain or loss.
+
+“Notional post-April 2015 gain or loss” means the same as in Sch 4ZZB/para 13; “notional pre-April 2015 gain or loss” means the same as in Sch 4ZZB/para 6A; and “notional pre-April 2013 gain or loss” means the gain or loss that would have accrued on 5 April 2013 if the interest had been disposed of for the market value on that date.
+
+Sch 4ZZB/para 18 contains provisions for computing gains and losses in the case of relevant high value disposals that are neither ATED-related nor NRCGT gains or losses, in cases where Sch 4ZZB/para 14 applies. Sch 4ZZB/para 14 is concerned with disposals of asset acquired after 5 April 2015, or where an election is made for the retrospective basis of computation under Sch 4ZZB/para 2(1)(b) to apply (but no rebasing in 2016 is required).
+
+In the case of a relevant high value disposal to which Sch 4ZZB/para 14 applies, the amount of the balancing gain or loss is determined as follows.
+
+The number of balancing days (Sch 4ZZB/para 16(2)) in the relevant ownership period is determined. The balancing gain or loss on the disposal is equal to the balancing fraction of the amount of the gain or loss, determined under Step 1 of paragraph 14.
+
+“The balancing fraction” is -
+
+BD
+
+TD
+
+where “BD” is the number of balancing days in the relevant ownership period, and “TD” is the total number of days in the relevant ownership period. “Relevant ownership period” has the same meaning as in Sch 4ZZB/para 14.
+
+Sch 4ZZB/para 19 contains provisions for computing gains and losses that are neither ATED-related nor NRCGT gains or losses, in cases where Sch 4ZZB/para 15 applies. Sch 4ZZB/para 15 is concerned with certain disposals after 5 April 2016 involving additional rebasing in 2016.
+
+In the case of a relevant high value disposal to which Sch 4ZZB/para 15 applies, the amount of the balancing gain or loss is determined as follows. Add -
+
+- the amount of the balancing gain or loss belonging to the notional post-April 2016 gain or loss,
+
+- the amount of the balancing gain or loss belonging to the notional pre-April 2016 gain or loss, and
+
+- if P held the disposed of interest on 5 April 2015, the amount of the notional pre-April 2015 gain or loss (treating any amount which is a loss as a negative amount).
+
+If the result is a positive amount, that is the balancing gain on the relevant high value disposal. If it is a negative amount, that is the balancing loss on the relevant high value disposal.
+
+The balancing gain or loss relating to the notional post-April 2016 gain or loss represents the “balancing fraction” of the notional post-April 2016 gain or loss. The balancing gain or loss relating to the notional pre-April 2016 gain or loss represents the “balancing fraction” of the notional pre-April 2016 gain or loss.
+
+“The balancing fraction” is -
+
+BD
+
+TD
+
+where “BD” is the number of balancing days in the appropriate ownership period, and “TD” is the total number of days in the appropriate ownership period. “Appropriate ownership period” is the relevant ownership period in Sch 4ZZB/para 15(4)(a) for computing the balancing gain or loss belonging to the notional post-April 2016 gain or loss; and the relevant ownership period in Sch 4ZZB/para 15(4)(b) for computing the balancing gain or loss belonging to the notional pre-April 2016 gain or loss. “Notional post-April 2016 gain or loss” and “notional pre-April 2016 gain or loss” mean the same as in Sch 4ZZB/para 15; and “notional pre-April 2015 gain or loss” means the gain or loss that would have accrued on 5 April 2015 if the interest had been disposed of for the market value on that date.

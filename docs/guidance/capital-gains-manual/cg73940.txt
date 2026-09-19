@@ -1,0 +1,62 @@
+NRCG and the exemptions: Disposals from 6 April 2019: Indirect disposals: Examples of establishing the level of investment
+Identifier: CG73940
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73940
+Published: 2020-02-05T14:46:41+00:00
+Updated: 2020-02-10T14:51:52+00:00
+Retrieved (UTC): 2026-09-18T14:46:50.955167+00:00
+
+TCGA92/Sch1A Part 2 and para 9
+
+The guidance on establishing the level of investment is at CG73938 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73938). These examples illustrate the rules set out on that page, and interactions with the UK property richness test (see CG73934 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73934)).
+
+Example 1: Disposal of a group of companies (http://www.hmrc.gov.uk/gds/cg/attachments/CG73940.pdf)
+
+A non-UK resident person, A, owns 100% of the shares in Company B. B owns 100% of the shares in C and 10% of the shares in D. All shares referred to in the example are of one class and carry equal rights.
+
+B’s only assets are its shares in C and D. B has a loan from the bank of £500,000 which is ignored.
+
+C’s assets at the last balance sheet date, which was three months ago, were:
+
+- An office in the UK worth £700,000, which C rents out to a third party
+
+- Some stocks and bonds (unrelated to real estate) worth £200,000
+
+D’s only asset at the last balance sheet date, which was three months ago, was an office in the UK worth £1,000,000, which D rents out to a third party.
+
+In considering whether A holds an interest in an asset that derives 75% or more of its gross asset value from UK land, we would aggregate:
+
+- UK land: 100% of the £700,000 UK land in B, and 10% of the £1,000,000 UK land in D (total £800,000)
+
+- Total assets: the above, plus 100% of the £200,000 bonds in C.
+
+So (800,000 / 1,000,000) 80% of B’s gross asset value is in UK land. B is UK property rich, so this leg of the test in sections 1A(3)(c) and 2B(4)(b) TCGA 1992 is met.
+
+A has a 25% investment in B and so, as B is UK property rich, A has a substantial indirect interest in UK land. Here, because of the tracing rules, B is treated as having an interest in 10% of D’s land when working out if B is UK property rich and it is irrelevant that B (and therefore A) do not have a 25% investment in D as we are looking at the disposal of B only.
+
+If, instead of A disposing of its interest in B, B was selling its shares in D, even though D is UK property rich there would be no charge under s2B(4) as B does not have a 25% investment in D (and so does not have a substantial interest in land because of its ownership of D).
+
+Example 2: Disposal involving a partnership (http://www.hmrc.gov.uk/gds/cg/attachments/CG73940-1.pdf)
+
+Y is a partnership with a 100% investment in company Z. Z is UK property rich.
+
+The partners in Y have the following rights under the partnership agreement:
+
+- V has 20% of the votes, and 20% entitlement to income, but no rights to the assets of Z on the winding up of Z
+
+- W has 10% of the votes, and 10% entitlement to income, and 100% entitlement to the assets of Z on the winding up of Z
+
+- X has 70% of the votes, and 70% entitlement to income, but no rights to the assets of Z on the winding up of Z
+
+All other rights and interests follow the entitlement to income.
+
+The partnership is not a legal person or chargeable to tax on gains. The partners’ interests in the partnership are not assets for the purposes of capital gains. Hence in considering whether V, W, or X has a substantial indirect interest in UK land, we would look through the partnership at their “investment” in Z by the measures outlined in CG73938. The rights attached to the shares and the partnership agreement will both be informative in terms of this measurement. If by any of those measures, a partner has 25% or greater investment in Z, then that partner will have a substantial indirect interest in land under Part 3.
+
+V does not have a 25% or greater investment in Z by any of the measures outlined in CG73938 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73938), and so does not have a substantial indirect interest.
+
+W has a less than 25% investment in Z in terms of votes and rights to income, but is entitled to 100% of the assets on the winding up of Z and so has a substantial indirect interest in Z.
+
+X does not have any rights to assets on the winding up of Z, but has 70% of the votes and is entitled to 70% of the income of Z, so has a substantial indirect interest by both of those measures.
+
+Y may also have invested in other assets separately to the investment in Z, and those assets may not be interests in UK land. The interests that the partners have in those assets through the partnership will not be relevant in looking at whether they have a substantial indirect interest in Z. Those other assets would also not be relevant in the calculation of whether Z is UK property rich (but see CG73942 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73942) on linked disposals).
+
+This same analysis would also apply to an offshore Collective Investment Vehicle (CIV) that has made a transparency election under Part 3 of Sch 5AAA TCGA taking the place of Y in the above diagram.

@@ -1,0 +1,18 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Individuals: Special rules, and computation: Other new provisions for individuals: Unascertainable consideration
+Identifier: CG73804
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73804
+Published: 2018-10-18T09:00:23+01:00
+Updated: 2019-10-11T09:35:35+01:00
+Retrieved (UTC): 2026-09-18T14:46:34.271537+00:00
+
+TCGA92/S48A is concerned with cases where a person makes a chargeable non-resident CGT disposal and all or part of the consideration for the disposal consists of a right for deferred consideration that is unascertainable (see CG14840+ for general guidance on deferred consideration). If the person subsequently receives a payment representing all or part of the unascertainable consideration, that payment is treated as not accruing on the disposal of the right, and the person’s costs in acquiring the right (or the proportionate costs in the case of a part disposal) are taken to be nil.
+
+A right to consideration is unascertainable if the amount or value are uncertain when the right is conferred, because they refer to matters which have not yet occurred. The legislation indicates that a right to consideration is not to be regarded as unascertainable in some cases, for example where the right to receive the consideration is merely postponed or contingent, or the amount or value will be fixed by reference to values or amounts that are ascertainable (see CG14940-14950).
+
+TCGA92/S48A lays down the following basis for computing liability to NRCGT on subsequent receipt of payments -
+
+- Step 1, find any amount by which the later payment exceeds the original consideration for the right, and treat any excess as consideration (or further consideration) accruing on the original disposal. (If the original consideration exceeds the later payment, the original consideration is reduced by the excess.)
+
+- Step 2, compute the difference that the adjustment under step 1 makes to any NRCGT gain or loss, ATED-related gain or loss, or other gain or loss accruing on the original disposal (computing this separately for each type of gain or loss). The difference is “positive” if a loss is decreased or a gain created or increased, “negative” if a gain is reduced or a loss created or increased.
+
+Step 3, any positive amount is treated for the purposes of TCGA92 and TMA70 as a gain (of the type appropriate to the computation) accruing to the person at the time of the receipt of the subsequent payment. Any negative amount is treated for the purposes of the legislation as a loss (of the type appropriate to the computation) accruing to the person at the time of the receipt of the payment.

@@ -1,0 +1,90 @@
+Plant and Machinery Allowances (PMA): introduction: outline
+Identifier: CA20006
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca20006
+Published: 2016-04-16T08:43:18+01:00
+Updated: 2026-04-13T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:20:30.203147+00:00
+
+Outline of PMAs
+
+Depreciation of fixed assets charged in the accounts is not allowed as a deduction in computing taxable profits. Capital allowances may be given instead. Plant and Machinery Allowances (PMAs) give relief at prescribed rates for the depreciation of fixed assets that are plant or machinery.
+
+In order to qualify for PMAs, a person must:
+
+- be carrying on a qualifying activity (CA20010 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca20010)), and
+
+- incur qualifying expenditure (Section 11 CAA01 (https://www.legislation.gov.uk/ukpga/2001/2/section/11)). Qualifying expenditure is capital expenditure (CA11530 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11530)) on the provision of plant or machinery (CA21000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca21000)) wholly or partly for the purposes of the qualifying activity (CA20010 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca20010)). Normally the person must own the asset as a result of incurring the expenditure.
+
+The range of qualifying activities for PMAs is very wide. It broadly covers all taxable activities other than passive investment, including a trade, profession, vocation, office, employment and a UK or overseas property business.
+
+The range of assets that qualify as plant or machinery is also very wide. Broadly it covers all fixed assets used in the business other than intangible assets (apart from computer software (see CA23410 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23410))), land, buildings and most structures. The main difficulty in determining whether an asset qualifies as plant or machinery comes with assets incorporated into buildings and specialised structures.
+
+Normally, the taxpayer must also own the plant or machinery as a result of incurring the expenditure. There are exceptions to this condition, however, in particular for fixtures (CA26000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26000)).
+
+There are three main types of PMA: Annual Investment Allowance (AIA), First-Year Allowances (FYAs) and Writing-Down Allowances (WDAs). Where the expenditure may qualify for more than one type of PMA, it is up to the person to choose which of the available allowances they will claim (CA20008 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca20008)).
+
+AIA is a 100% allowance for business expenditure on plant and machinery (apart from cars). It is available in the year in which the expenditure is incurred. The AIA applies to businesses regardless of size. The current and past AIA thresholds and the date ranges for which they apply can be found at gov.uk (http://www.gov.uk/capital-allowances/annual-investment-allowance). (http://www.gov.uk/capital-allowances/annual-investment-allowance) For further information about the AIA, see CA23081 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23081) onwards.
+
+Before the introduction of Full Expensing, FYAs were only due in very specific circumstances. FYAs are special allowances given at a higher rate than the normal WDA for the chargeable period in which the expenditure is incurred. Any expenditure left unrelieved qualifies for WDAs for subsequent periods. FYAs are now broadly available for most qualifying expenditure on the provision of plant or machinery, though certain exclusions apply (CA23174A (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23174a) and CA23195 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23195)).
+
+WDAs are calculated using the pool basis. A pool may cover a single asset or a class of assets. Pooling works by keeping a running total of the unrelieved expenditure on the assets in the pool. WDA is given on the current total. This is known as the reducing balance basis.
+
+Example
+
+Bennett & Darcy Ltd runs a transport business. It draws up accounts to 31 December each year. Its pool of expenditure at 31 December 2026 is £32,000. In the year ended 31 December 2027, it buys seven new zero emission lorries for £100,000 each which qualify for Full Expensing and a second hand lorry for £50,000 which doesn't qualify for FYAs. In addition, it spends £950,000 on IT and other office equipment. The AIA threshold for the period is £1,000,000. It also sells a lorry for £4,000 in that year. The PMAs that might be claimed for the year ended 31 December 2027 are as follows:
+
+First-Year Allowances
+
+- Cost of new zero emission lorries (£700,000)
+
+- Full Expensing claimed 100% £700,000
+
+Annual Invesment Allowance
+
+- Cost of second-hand lorry (£50,000)
+
+- Cost of IT and office equipment (£950,000)
+
+- AIA claimed £1,000,000
+
+Main Pool Writing-Down Allowance
+
+- Pool brought forward £32,000 - disposal (£4,000) = £28,000 available for WDA
+
+- WDA claimed at 14% = £3,920
+
+- Pool carried forward = £28,000 - £3,920 = £24,080
+
+The pool brought forward at 1 January 2028 is £24,080.
+
+Different types of pool
+
+There are single asset pools, class pools and the main pool.
+
+Main pool
+
+The main pool contains all expenditure that does not go into a single asset or class pool.
+
+Single asset pools
+
+Expenditure on some assets is kept separate from expenditure on all other assets and does not go into the main pool. It is dealt with in single asset pools. Single asset pools are required for:
+
+- assets used partly for purposes other than the qualifying activity (CA27000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca27000)),
+
+- assets in respect of which a partial depreciation subsidy is payable (CA27500 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca27500)),
+
+- ships (CA25000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25000)),
+
+- allowances on contributions (CA14000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca14000)), and
+
+- short-life assets (CA23600 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23600)).
+
+Class pools
+
+There are two class pools:
+
+- special rate pool - certain expenditure (known as "special rate expenditure") must be allocated to the special rate pool and will attract WDAs at the "special rate", which is lower than the main rate (details of the current main and special rates can be found on gov.uk (http://www.gov.uk/work-out-capital-allowances/rates-and-pools)). Special rate expenditure includes expenditure on thermal insulation, integral features, long-life assets, solar panels, cushion gas and cars with higher CO2 emissions (see gov.uk (http://www.gov.uk/capital-allowances/business-cars)).
+
+- overseas leasing pool - the overseas leasing legislation does not apply to leases finalised on or after 1 April 2006 (CA24005 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24005)).
+
+Where a person carries on more than one qualifying activity, PMAs are calculated separately for each activity with a separate pool or pools for each of them.

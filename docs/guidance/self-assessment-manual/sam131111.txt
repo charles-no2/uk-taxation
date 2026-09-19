@@ -1,0 +1,50 @@
+Statements: statement issue: statement type: changing  the full or simple signal (Action Guide)
+Identifier: SAM131111
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam131111
+Published: 2016-04-08T17:29:57+01:00
+Updated: 2016-02-23T15:03:24+00:00
+Retrieved (UTC): 2026-09-18T16:21:16.482163+00:00
+
+To change the ‘Full’ or ‘Simple’ statement type signal, follow steps 1 - 6 below.
+
+The Guide is presented as follows
+
+|  Steps 1 - 4 |
+
+|    |
+
+|  Step 5 |
+
+|  Step 6 |
+
+For details of how to access any of the SA functions, select ‘Index Of Functions’ on the left of the screen.
+
+Taxpayer requests statements to be issued in Open Item (‘Full’) format
+
+-
+
+Using the online service SA View L & P, check View Statement to see if the last issued statement was in Open Item (know as ‘Full’) or Simple Statement format
+
+-
+
+If in Simple Statement format go to Step 5
+
+-
+
+If in Open Item format, put the case on BF until after the next monthly statements are issued
+
+-
+
+Check function VIEW STATEMENT after the next statements have been issued and if a statement has been issued for this taxpayer, go to Step 5. If no statement has been issued, go back to step 3
+
+Changing the preferred statement format signal to ‘Full’
+
+- In function INHIBIT STATEMENT
+
+* In the drop down menu alongside the line ‘Preferred Statement Format’ select ‘Full’ to issue statements in Open Item format * Select the [OK] button
+
+Taxpayer requests statements to be issued in Simple Statement (‘Simple’) format
+
+- In function INHIBIT STATEMENT
+
+* In the drop down menu alongside the line ‘Preferred Statement Format’ select ‘Simple’ to issue statements in Simple Statement format * Select the [OK] button

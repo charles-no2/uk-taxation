@@ -1,0 +1,18 @@
+Class 1 NICs: reporting NICs in RTI: employers reporting dates of payment and date of calculation “out of sync”: reporting period not aligned with payment dates
+Identifier: NIM11580
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11580
+Published: 2016-04-11T17:25:58+01:00
+Updated: 2025-11-04T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T15:15:06.799950+00:00
+
+During the RTI pilot year 2012 to 2013 and 2013 to 2014, a number of employers and payroll providers reported difficulties migrating to RTI because they had been reporting PAYE out of line with tax periods.
+
+For example, if the employer paid their employees on 7 October but ran the payroll on 4 October, some employers were incorrectly using 4 October as the calculation and reporting date.
+
+This meant that an employer could be calculating NICs incorrectly and, if the error was ongoing, or continued into the final tax period of the tax year, could lead to earnings being reported in the wrong tax year. This is not in line with legislation and could have impacts on benefit entitlement. Employers were advised to implement a fix to ensure that the reported date of payment (and calculation) was in the correct tax period.
+
+In some circumstances this “fix” resulted in a tax period being “skipped”, so although NICs were deducted and recorded for each payment, for the year of the fix an incorrect number of periods could be reported. This could cause a deficient NICs record for that employee.
+
+To protect their employees’ benefit entitlement, employers were advised to add one period of additional earnings at the Lower Earnings Limit to that tax year. Employers were advised to keep a record of this instruction and adjustment as an audit trail.
+
+Fix problems with running payroll (https://www.gov.uk/payroll-errors).

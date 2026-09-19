@@ -1,0 +1,30 @@
+Disposals by trustees: employee trusts: trusts for employees
+Identifier: CG33580
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33580
+Published: 2016-03-12T10:41:35+00:00
+Updated: 2025-11-12T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:31:34.963165+00:00
+
+Except where specific rules provide otherwise, trusts set up for the benefit of employees or their dependants are subject to the normal rules relating to settled property. For the purposes of determining the annual exempt amount the settlor is the person who made or entered into the settlement, generally the employer. It is therefore necessary to determine, for the purposes of the grouping rules, see CG18000C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg18000c), what other settlements have been made by the employer which are not excluded settlements, see CG18091 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg18091). In addition any individual or company which adds property to the settlement is also a settlor.
+
+Transfers by employee trusts
+
+TCGA92/S239ZA
+
+If trustees of a UK resident employee trust transfer assets to a beneficiary without receiving payment from the employee there is usually a charge to Capital Gains Tax on the disposal. This is a disposal other than by way of a bargain at arm’s length and TCGA92/S17 would apply to give a disposal consideration equal to the market value of the asset. If the asset was gifted to the trustees TCGA92/S239 will have applied to their acquisition. See CG36000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg36000). This could give them a low acquisition cost and increase the gain on the disposal to the employee.
+
+When the beneficiary receives the asset, it is likely that he or she does so as a reward for services. The beneficiary, or an employee to whom he or she is related if the beneficiary is not an employee, will be chargeable to Income Tax under ITEPA 2003.
+
+TCGA92/S239ZA prevents a charge to both Income Tax and Capital Gains Tax by providing that the disposal by the trustees is not a chargeable gain. It applies to disposals made on or after 6 April 2009. For disposals before that date a similar relief was given by ESC D35. In practice the relief is of limited application as most employee trusts are not UK resident and the trustees are not liable to Capital Gains Tax.
+
+The definition of employee trust is based on IHTA84/S86. See TCGA92/S239ZA(6). If you have any concerns about the application of that legislation you must contact HMRC – IHT see the Inheritance Tax Manual (IHTM) for the contact details.
+
+The conditions for the concession to apply are:
+
+- An amount equal to or greater than the market value of the asset is charged to Income Tax.
+
+- Neither the beneficiary nor the person liable to Income Tax, if different, is an excluded person. The definition of excluded person is in TCGA92/S239ZA(3) and is based on IHTA84/S28(4). If you have any concerns about the application of that legislation you must contact HMRC – IHT.
+
+- No actual consideration is given for the transfer. This does not include consideration given by the employee in the form of his or her services.
+
+- The provisions of TCGA92/Schedule 7D do not apply to prevent the gain being a chargeable gain. Schedule 7D applies to a variety of approved share schemes and share incentive schemes. See CG56440 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56440) for guidance on these schemes.

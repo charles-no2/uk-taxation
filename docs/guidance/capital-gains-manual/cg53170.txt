@@ -1,0 +1,38 @@
+Substantial shareholdings exemption: the exemptions available - application of exemption in priority to no disposal rules
+Identifier: CG53170
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53170
+Published: 2016-03-12T11:30:02+00:00
+Updated: 2021-06-07T09:25:23+01:00
+Retrieved (UTC): 2026-09-18T14:32:48.857304+00:00
+
+TCGA92/SCH7AC/PARA4
+
+TCGA92/Sch7AC/Para 4 generally applies the exemptions available under TCGA92/Sch7AC in priority to the ‘no disposal’ etc. rules in
+
+- TCGA92/S116(10)
+
+- TCGA92/S127 including any case where TCGA92/S127 is applied by another provision (such as TCGA92/S135) and
+
+- TCGA92/S192(2)(a)
+
+If, on the assumption that the no disposal rules in question were not to apply, there would be a disposal and a gain (or loss) on the disposal would be exempted (or made non-allowable), then the rule in question does not apply in relation to the subject matter of the exemption.
+
+However, this treatment is not followed if it would cause the investing company to suffer withdrawal or reduction of investment relief under the Corporate Venturing Scheme (paragraph 46 Schedule 15 Finance Act 2000).
+
+Where the no disposal treatment of section 116(10) or section 127 TCGA 1992 is switched off by paragraph 4 Schedule 7AC TCGA 1992, then paragraph 85 Schedule 15 Finance Act 2000 does not apply. Any investment or deferral relief under the Corporate Venturing Scheme attributable to the old shares is not attributed instead to the new shares issued in the exchange.
+
+Example
+
+Company X has held shares in company Y for many years and a disposal of those shares would qualify for exemption. Company Y is taken over by company Z. Company X receives shares in company Z in exchange for its shares in company Y such that the no disposal and single asset treatment of TCGA92/S127 would normally apply by virtue of TCGA92/S135.
+
+- As the gain if there were a disposal would be exempt, the no disposal or acquisition and the single asset treatments of TCGA92/S127 are turned off.
+
+- An exempt gain or non-allowable loss arises on the disposal by company X of its shares in company Y.
+
+- Company X acquires the shares in company Z at their market value.
+
+For future purposes of the substantial shareholdings exemption they are treated in exactly the same way as any other acquisition of shares. In particular, TCGA92/Sch7AC/para 14 (see CG53080 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53080)) does not apply since TCGA92/S127 has not been applied.
+
+Note however that if company X also held debentures in company Y that were exchanged for shares or debentures issued by company Z, then the no disposal treatment of that exchange would not normally be switched off. Unless the debentures were assets related to shares (see CG53010 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53010)) no exemption could be due on a disposal of the debentures and the no disposal treatment is only disapplied so that an exempt gain (or non-allowable loss) accrues on the shares or debentures being given up in the exchange.
+
+See CG53170a (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53170a) for additional and extended examples and explanations.

@@ -1,0 +1,184 @@
+Deferred consideration: shares and securities: example
+Identifier: CG58055
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58055
+Published: 2019-09-02T13:11:46+01:00
+Updated: 2023-05-11T12:27:36+01:00
+Retrieved (UTC): 2026-09-18T14:44:17.881121+00:00
+
+TCGA92/S138A
+
+This example illustrates the effect of an earn-out right being treated as a security by TCGA92/S138A if a customer sells shares and the consideration received is an immediate payment of cash and the right to receive an unascertainable deferred amount of shares.
+
+NOTE From 6 April 2008 only companies and other concerns within the charge to Corporation Tax may be able to claim indexation allowance, see CG17207 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17207).
+
+FACTS
+
+In year 0 V Ltd acquires all the shares in T Ltd for £100,000.
+
+In year 10 V Ltd sells the shares in T Ltd at arm’s length to P Ltd.
+
+The consideration is
+
+- cash £500,000, and
+
+- the right to two payments of deferred consideration, the amount depending on future profits of T Ltd, to be satisfied only by an issue of shares in P Ltd.
+
+The market value of the right to deferred consideration at the time of disposal is agreed by Shares and Assets Valuation at £300,000.
+
+In year 11 shares in P Ltd to the value of £202,940 (73,000 shares at £2.78 each) are issued to V Ltd in part satisfaction of the right to deferred consideration. The market value of the remainder of the right in year 11 is agreed by Shares and Assets Valuation at £90,000.
+
+In year 12 shares in P Ltd to the value of £118,440 (47,000 shares at £2.52 each) are issued in full satisfaction of the remainder of the right to deferred consideration.
+
+P Ltd is a company whose shares are quoted on the Stock Exchange. All of the conditions are satisfied and the earn-out right is treated as a security by section 138A.
+
+COMPUTATIONS
+
+A. IMMEDIATE CHARGEABLE GAIN
+
+Description |  Action |  Calculation |  Amount |
+
+Cash received |  - |  - |  £500,000 |
+
+Less apportioned cost |  - |  - |  - |
+
+Cost |  x |  Cash |  - |
+
+- |  - |  -—————- |  - |
+
+- |  - |  Cash + right |  - |
+
+£100,000 |  x |  £500,000 |  - |
+
+- |  - |  -————————- |  £62,500 |
+
+- |  - |  £500,000 + £300,000 |  - |
+
+Unindexed gain |  - |  - |  £437,500 |
+
+Less indexation £62,500 x 0.250 |  - |  - |  £15,625 |
+
+- |  - |  - |  -———- |
+
+CHARGEABLE GAIN YEAR 10 |  - |  - |  £421,875 |
+
+- |  - |  - |  -———- |
+
+B. COST OF NOTIONAL SECURITY = RIGHT TO DEFERRED CONSIDERATION
+
+Description |  Action |  Calculation |  Amount |
+
+Apportioned cost |  - |  - |  - |
+
+£100,000 |  x |  £300,000 |  - |
+
+- |  - |  -————————- |  £37,500 |
+
+- |  - |  £500,000 + £300,000 |  - |
+
+Indexed rise to year 10 |  - |  - |  - |
+
+£37,500 x 0.250 |  - |  - |  £9,375 |
+
+- |  - |  - |  -——– |
+
+Indexed pool of expenditure |  - |  - |  £46,875 |
+
+- |  - |  - |  -——– |
+
+C. COMPUTATIONS WHEN DEFERRED CONSIDERATION RECEIVED
+
+Calculation |  Notional security |  Cost of |  Indexed pool of |
+
+- |  - |  right |  expenditure |
+
+- |  As at year 10 |  £37,500 |  £46,875 |
+
+- |  Indexed rise to year 11 |  - |  - |
+
+- |  £46,875 x 0.025 |  - |  1,172 |
+
+- |  - |  - |  -——– |
+
+- |  - |  - |  48,047 |
+
+- |  Attributable to 73,000 shares in |  - |  - |
+
+- |  P Ltd issued in year 11 |  - |  - |
+
+202,940 |  - |  - |  - |
+
+———————– |  - |  25,979 |  33,286 |
+
+202,940 + 90,000 |  - |  -——– |  -——— |
+
+- |  Remainder at year 11 |  11,521 |  £14,761 |
+
+- |  Indexed rise to year 12 |  - |  - |
+
+- |  14,761 x 0.025 |  - |  £369 |
+
+- |  - |  - |  -———- |
+
+- |  - |  - |  £15,130 |
+
+- |  Attributable to 47,000 shares |  - |  - |
+
+- |  in P Ltd issued year 12 |  £11,521 |  £15,130 |
+
+D. SHARES IN P LTD
+
+P Ltd Shareholding |  No of shares |  Qualifying |  Indexed pool |
+
+- |  - |  expenditure |  of expenditure |
+
+73,000 shares acquired |  - |  - |  - |
+
+year 11 |  - |  - |  - |
+
+(see computations at C) |  73,000 |  £25,979 |  £33,286 |
+
+- |  -———— |  -———- |  -———- |
+
+Pool at year 11 |  73,000 |  £25,979 |  £33,286 |
+
+Indexed rise to year 12 |  - |  - |  - |
+
+£33,286 x 0.025 |  - |  - |  £833 |
+
+- |  - |  - |  -———- |
+
+- |  - |  - |  £34,119 |
+
+Additional 47,000 shares |  - |  - |  - |
+
+acquired year 12 |  - |  - |  - |
+
+(see computations at C) |  47,000 |  £11,521 |  £15,130 |
+
+- |  -——– |  -———- |  -———- |
+
+Pool at October 1993 |  120,000 |  £37,500 |  £49,249 |
+
+- |  -———- |  -———– |  -———- |
+
+EXPLANATION
+
+The statutory reasons for the method of computation are
+
+A. CASH RECEIVED
+
+The cash received is treated as a part-disposal of the old holding of T Ltd shares under TCGA92/S128(3). The apportionment of the base cost of the old holding is made on the basis of market value at the date of disposal (section 128(4) and TCGA92/S129).
+
+B. COST OF THE NOTIONAL SECURITY UNDER section 138A
+
+The notional security forms the ‘new holding’ under TCGA92/S127 as applied by TCGA92/S135(3).
+
+C. RIGHT TO UNASCERTAINABLE DEFERRED CONSIDERATION
+
+The part-satisfaction of the right to deferred consideration is a part-disposal of the right. But because of section 138A it is treated as a conversion of securities within TCGA92/S132. Section 127 applies with the necessary adaptations to the part-disposal and part of the base cost of the ‘notional security’ is transferred to the holding of shares in P Ltd.
+
+The procedure for obtaining valuations of the right to unascertainable deferred consideration is described at CG14950 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14950).
+
+D. SHARES IN P LTD
+
+The shares in P Ltd which are acquired go into the TCGA92/S104 holding of shares at the base cost computed in accordance with C above.

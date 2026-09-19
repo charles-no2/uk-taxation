@@ -1,0 +1,52 @@
+Globally mobile employees: Overseas Workday Relief: qualifying foreign securities income
+Identifier: EIM43575
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim43575
+Published: 2025-04-06T07:35:27+01:00
+Updated: 2025-04-24T14:31:27+01:00
+Retrieved (UTC): 2026-09-18T14:23:03.972996+00:00
+
+Section 41W ITEPA 2003 defines what it means for securities income to be “qualifying securities income” and for qualifying securities income to be “qualifying foreign securities income”.
+
+“Securities income” is an amount that counts as employment income under Chapters 2 to 5 of Part 7 ITEPA 2003 (see ERSM20000 (https://www.gov.uk/hmrc-internal-manuals/employment-related-securities/ersm20000)).
+
+Securities income is “qualifying securities income” to the extent that it accrues during the qualifying year and the duties of the relevant employment are performed wholly or partly outside the UK during the qualifying year.
+
+If the qualifying year is a split year, only the securities income accruing during the UK part of the year can be qualifying securities income.
+
+Securities income is ordinarily treated as accruing evenly over each day of the relevant period in accordance with section 41G ITEPA 2003 (see ERSM162500 (https://www.gov.uk/hmrc-internal-manuals/employment-related-securities/ersm162500)). However, if the resulting proportion of the securities income which would be qualifying securities income is not just and reasonable, the amount of the securities income which is qualifying securities income is such amount as is just and reasonable.
+
+If the duties of the relevant employment are wholly performed outside the UK during the relevant period, all of the qualifying securities income is qualifying foreign securities income.
+
+If some, but not all, of the duties of the relevant employment are performed outside the UK during the relevant period, the qualifying securities income is to be apportioned (on a just and reasonable basis) between duties performed in the UK and duties performed outside the UK. The income so apportioned in respect of duties performed outside the UK is qualifying foreign securities income.
+
+Any qualifying securities income from overseas Crown employment subject to UK tax cannot be qualifying foreign securities income (see EIM40205 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim40205)).
+
+Example
+
+Ciaran becomes UK resident for 2025-26 and is a qualifying new resident for this tax year, making an OWR election for this year. Ciaran has just one employment and performs 75% of their duties in the UK with 25% outside the UK. Ciaran earns £200,000 as a salary in 2025-26 and is also granted a share option on 6 April 2025, which they exercise on 5 April 2029.
+
+In 2025-26, Ciaran worked 165 days in the UK and 55 days outside the UK. In 2026-27, Ciaran worked 150 days in the UK and 70 days outside the UK. In 2027-28, Ciaran worked 140 days in the UK and 80 days outside the UK. In 2028-29, Ciaran worked 190 days in the UK and 30 days outside the UK.
+
+For each tax year 2025-26 to 2028-29, Ciaran is a qualifying new resident and makes an OWR election for that tax year.
+
+In 2028-29, when the option is exercised, a chargeable event arises which results in an amount of securities income taxable in that year of £200,000.
+
+It is then necessary to determine the extent to which the securities income is qualifying foreign securities income. The relevant period is 6 April 2025-5 April 2029, with the £200,000 securities income treated as accruing evenly on each day of that period. This means that £49,966 is treated as accruing in 2025-26, £49,966 is treated as accruing in 2026-27, £50,102 is treated as accruing in 2027-28 (as it is a leap year) and £49,966 is treated as accruing in 2028-29.
+
+-
+
+The qualifying foreign securities income for 2025-26 is £12,491.44 (£49,965.78 x 55/220).
+
+-
+
+The qualifying foreign securities income for 2026-27 is £15,898.20 (£49,965.78 x 70/220).
+
+-
+
+The qualifying foreign securities income for 2027-28 is £18,219.15 (£50,102.67 x 80/220).
+
+-
+
+The qualifying foreign securities income for 2028-29 is £6,813.52 (£49,965.78 x 30/220).
+
+Subject to the financial limit for each qualifying year, Ciaran will be able to make claims for OWR relief for 2028-29 on the foreign securities income totalling £53,422.31, in addition to any relief available on other qualifying foreign employment income charged to tax in that tax year.

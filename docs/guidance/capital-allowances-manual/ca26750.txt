@@ -1,0 +1,44 @@
+PMA: Fixtures: Disposal values and avoidance cases
+Identifier: CA26750
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26750
+Published: 2016-04-16T08:51:58+01:00
+Updated: 2017-07-24T18:20:59+01:00
+Retrieved (UTC): 2026-09-18T16:21:01.515041+00:00
+
+CAA01/S197
+
+There is legislation that prevents the acceleration of allowances by arrangements such as the creation of a balancing allowance through the sale of a fixture for a nominal amount. Where it applies the notional written down value is substituted for the disposal value in the seller’s capital allowance computations. The buyer’s expenditure qualifying for capital allowances is the actual price paid even though the seller’s disposal value is increased.
+
+The disposal value is the notional written down value if, after the fixtures legislation has treated a fixture as belonging to a person, all of the following conditions are met:
+
+- there is a disposal event
+
+- the amount of the disposal value is less than the notional written down of the asset
+
+- the disposal event is comprised in, or occurs in pursuance of, any scheme or arrangement which has the obtaining of a tax advantage as its main purpose, or one of its main purposes.
+
+Notional written down value is not substituted for the sale price in the buyer’s capital allowance computations. The buyer’s qualifying expenditure will be determined in accordance with the actual price paid, subject to the usual restrictions such as those in CAA01/S187A (CA26470 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26470)).
+
+This is how you calculate the notional written down value: You write down the cost of the fixture (at the main rate or special rate of Writing Down Allowance, as appropriate) on the reducing balance basis from the chargeable period in which the fixture was acquired to the end of the last chargeable period before the chargeable period in which the disposal event takes place. If a first year allowance would have been available, you deduct the maximum first year allowance for the first chargeable period and writing down allowance for each subsequent chargeable period.
+
+The balance to carry forward at the end of the last chargeable period before the chargeable period in which the disposal event takes place is the notional written down value.
+
+Example
+
+Dooley Plc draws up accounts to 31 December each year. It buys a fixture for £100,000 in March 2007 and sells it to Petty Ltd for £20,000 in the year ended 31 December 2010. The disposal value is not £20,000. It is the notional written down value of £42,187 calculated like this:
+
+Cost in 2007 |  £100,000 |
+
+WDA at 25% for 2007 |  £25,000 |
+
+Carried forward to 2008 |  £75,000 |
+
+WDA at 25% for 2008 |  £18,750 |
+
+Carried forward to 2009 |  £56,250 |
+
+WDA at 25% for 2009 |  £14,063 |
+
+Balance carried forward at 31 12 2010 |  £42,187 |
+
+Petty Ltd’s qualifying expenditure is the £20,000 that it paid Dooley Plc even though Dooley Plc’s disposal value is £42,187.

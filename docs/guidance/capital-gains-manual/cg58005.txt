@@ -1,0 +1,26 @@
+Deferred consideration: shares and securities: TCGA92/S138A: conditions and effect
+Identifier: CG58005
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58005
+Published: 2018-08-20T09:04:44+01:00
+Updated: 2021-05-24T14:34:13+01:00
+Retrieved (UTC): 2026-09-18T14:44:14.236734+00:00
+
+TCGA92/S138A(2)
+
+As CG58000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58000) explains, the purpose of TCGA92/S138A is to allow a right to unascertainable deferred consideration that will be satisfied by issuing shares or debentures to be treated as a security, so that the share reorganisation rules can apply.
+
+Conditions for section 138A to have effect
+
+Section 138A(2) sets two conditions that both need to be met before the section 138A treatment can apply.
+
+First, there has to be an ‘earn-out right’ as defined in section 138A(1) - see CG58010 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58010).
+
+Second, the exchange of the original shares or debentures for the right must have been such that TCGA92/S135 would have applied if the consideration for the transaction had been shares or debentures issued by the acquiring company, rather than the right. This means it is necessary that such a transaction would have met the conditions of section 135(1) and that the anti-avoidance provisions of TCGA92/S137 would not have operated to prevent section 135 applying. In determining whether this condition is met the guidance at CG52620 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52620) onwards should be followed. The accounts of the company whose shares or debentures are being sold consulted if necessary.
+
+For rights conferred on or after 10 April 2003, the section 138A treatment of an earn-out right as a security is automatic when the conditions are met unless the customer elects for the treatment not to apply. Section 138A(2) doesn’t apply if the customer makes such an election (section 138(2A)). For rights conferred before 10 April 2003 an election had to be made for the right to be treated as a security. See CG58020 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58020) regarding elections.
+
+Section 138A(3)
+
+If the conditions are met then TCGA92 has effect, for all persons who hold the right, in the manner described in section 138A(3). The right to receive the unascertainable deferred consideration is assumed to be a security of the purchasing company within the meaning of TCGA92/S132(3)(b), but not a qualifying corporate bond. The issue of shares or debentures in satisfaction of the right counts as a conversion of the right into the shares or debentures issued.
+
+These assumptions allow the conversion of securities provision in section 132, or the Qualifying Corporate Bond (QCB) rules in TCGA92/S116, to apply so that no gain or loss crystallises before there is a disposal of the shares or debentures received in satisfaction of the earn-out right.

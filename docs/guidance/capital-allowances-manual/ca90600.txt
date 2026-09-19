@@ -1,0 +1,30 @@
+Structures and buildings allowance (SBA): relevant interest: creation of subordinate interest
+Identifier: CA90600
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca90600
+Published: 2019-10-30T11:08:27+00:00
+Updated: 2019-10-30T10:02:08+00:00
+Retrieved (UTC): 2026-09-18T16:21:35.864828+00:00
+
+CAA01/S270DC, S270DD
+
+If qualifying capital expenditure has been incurred on the construction or acquisition of a building, the relevant interest is not affected if a subordinate interest is granted out of it unless both of the following conditions are met:
+
+- the lease term granted is for 35 years or more
+
+- the market value of the lessor’s retained interest in the property is less than one third of the capital sum paid for the grant of the lease.
+
+Where these conditions are met, the lessee is treated as acquiring the relevant interest on the grant of the lease, and only the lessee can claim SBA on the qualifying expenditure incurred by the actual holder of the relevant interest, not the lessor. If the lessee assigns the lease to another person the new lessee is treated as acquiring the relevant interest.
+
+Where these conditions are not met, the lessor continues to be the person who can claim.
+
+When such a lease comes to an end, the entitlement to any remaining SBA reverts back to the lessor.
+
+Example
+
+The market value of a retail outlet is £1,000,000. A 50 year lease is granted to a lessee for a capital sum of £750,000. The lessor’s retained interest in the property is £250,000. This is exactly one third of the capital sum, so the relevant interest does not pass to the lessee.
+
+If the 50 year lease had been granted for a capital sum of £750,001, leaving the lessor’s retained interest at £249,999, the value of the retained interest is less than a third so the relevant interest would pass to the lessee.
+
+When considering the market value condition described above, the capital sum given to acquire the relevant interest is treated as excluding the amount that is brought into account as a receipt in calculating the lessor’s profits for the purposes of ITTOIA05/S277 or CTA09/S217 PIM1205 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1205).
+
+The ‘effective duration’ of a lease is to be determined in accordance with ITTOIA05/S303 or CTA09/S243 PIM1206 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1206).

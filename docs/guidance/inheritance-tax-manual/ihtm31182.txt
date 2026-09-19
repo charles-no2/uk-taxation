@@ -1,0 +1,38 @@
+Assessing: COMPASS: calculations: the 'Calculation of Inheritance Tax' window
+Identifier: IHTM31182
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31182
+Published: 2016-04-09T10:03:14+01:00
+Updated: 2016-02-11T17:15:46+00:00
+Retrieved (UTC): 2026-09-18T15:05:53.758546+00:00
+
+This window shows how the calculations will be broken down between Entries (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)) and assessment groups (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)) and the net chargeable values for each.
+
+It is at this stage that COMPASS may tell you that one or more assessment groups is in deficit (IHTM31150 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31150))
+
+There are two boxes in which you can include information about the total of previous lifetime cumulative transfers (PLCT) and quick succession relief (QSR) (IHTM22041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22041)).
+
+PLCT
+
+COMPASS does not automatically calculate a PLCT total for you, even if the case record has Entries for lifetime transfers and failed PETs.
+
+This is because you may not have entries for earlier, sub threshold transfers. Also the earlier transfers may have a relief attached (such as fall in value relief (IHTM14621 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14621))) which will be ignored when cumulating the transfer.
+
+For this reason you must calculate the PLCT yourself and enter it in the box on this screen.
+
+If you have entered a figure when raising a previous set of calculations, COMPASS will bring forward the figure you entered then. If the PLCT has been revised since the last calculations you must delete this figure and enter the new total. Otherwise COMPASS will use the figure that is already there.
+
+COMPASS will deduct tax at the death rates on the PLCT when doing the calculation, which is displayed on the right hand side of the window.
+
+QSR
+
+Enter the amount of any QSR due in this box.
+
+As with the PLCT, if a figure has previously been entered in an earlier set of calculations, COMPASS will bring forward that figure. If the amount of relief has changed, delete the figure here and enter the new amount.
+
+Where you have revised the calculation of QSR, remember to tell the taxpayer or agent how you arrived at the revised figure, if you have not already done so.
+
+Raising the calculation
+
+Once you have made all the adjustments you need to, select the ‘Raise’ button to raise the calculation.
+
+If you decide that the figures are not correct or you want to cancel the calculation, select the ‘Cancel’ button.

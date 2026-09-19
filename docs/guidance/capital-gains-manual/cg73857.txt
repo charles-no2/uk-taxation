@@ -1,0 +1,104 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Companies: Special rules: Computations involving companies, example
+Identifier: CG73857
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73857
+Published: 2018-10-18T10:45:40+01:00
+Updated: 2019-10-11T10:04:01+01:00
+Retrieved (UTC): 2026-09-18T14:46:41.720181+00:00
+
+Basic information:
+
+Interest acquired 6 April 2010 for £300,000 and disposed of 5 April 2017 for £410,000
+
+Wholly used (or suitable for use) as a dwelling throughout ownership period
+
+Market value at 5 April 2015 £370,000
+
+No election made under Para 2(1)
+
+Total number of days within post-commencement ownership period 730
+
+Total number of days within that period where the property was used wholly or partly as a dwelling 730
+
+Indexation factor April 2010 to April 2015 0.158
+
+Indexation factor April 2015 to April 2017 (say) 0.023
+
+Calculating the NRCGT gain or loss
+
+Stage 1
+
+Notional post-April 2015 gain or loss
+
+Disposal proceeds £410,000
+
+Market Value of 5 April 2015 £370,000
+
+Indexation allowance (370,000 x 0.023) £8,510
+
+Notional post-April 2015 gain £31,490
+
+Stage 2
+
+RD = 730
+
+TD = 730
+
+RD/TD x Notional post April 2015 gain = £31,490
+
+NRCGT gain £31,490
+
+Calculating the gain or loss which is not an NRCGT gain or loss
+
+The part of the gain which is not an NRCGT gain will not be subject to charge unless it is brought into charge by other provisions. This second part of the computation may not be necessary for many companies.
+
+Step 1
+
+Determine the amount of the notional pre-April 2015 gain or loss
+
+Market Value at 5 April 2015 £370,000
+
+Allowable deductions
+
+Acquisition cost £300,000
+
+Indexation allowance (300,000 x 0.158) £47,400
+
+Notional pre-April 2015 gain £22,600
+
+Step 2
+
+Determine the amount of the post-April 2015 gain remaining after the deduction of the NRCGT gain
+
+Notional post-April 2015 gain £31,490
+
+NRCGT gain £31,490
+
+£0
+
+Step 3
+
+Not relevant as there is no post-April 2015 loss
+
+Step 4
+
+Add Step 1 to Step 2
+
+Step 1 £22,600
+
+Step 2 £0
+
+Gain which is not an NRCGT gain £22,600
+
+Summary
+
+Total gain throughout ownership period £54,090
+
+(Disposal proceeds of £410,000 less allowable deductions of £300,000 makes pre-indexation gain of £110,000, less total indexation allowance of 55,910)
+
+Divided into:
+
+NRCGT gain £31,490
+
+Gain which is not an NRCGT gain £22,600
+
+Therefore the only difference between the computation for companies and the computation for other persons is that companies are entitled to indexation allowance. This is also the case where the company makes an election for a different method of computation. However, if the gain may also be subject to ATED-related CGT, then the computation method is different – see CG73860 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73860)+.

@@ -1,0 +1,24 @@
+Assessing: calculating interest: remissions and discharges
+Identifier: IHTM31570
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31570
+Published: 2016-04-09T10:05:30+01:00
+Updated: 2023-09-07T11:18:40+01:00
+Retrieved (UTC): 2026-09-18T15:06:17.641165+00:00
+
+As a rule, remissions or discharges (IHTM30451 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30451)) of assessed tax and/or interest must be reflected in a raised calculation as a payment as if they were a deposit.
+
+Raise a fresh calculation. For a partial or full remission, select the 'money' button (IHTM31190 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31190)) and add a new deposit.
+
+- In the deposit box enter 'REMITTED'
+
+- In the date received box enter today's date.
+
+- In the amount box enter the amount to be remitted.
+
+Select 'OK'. Your calculation will either show 'nil' to pay or the balance to be collected after remission.
+
+If the calculations cannot be prepared on COMPASS, you must prepare a template or manuscript calculation showing the amount to be remitted in the 'Money applied from deposit' section of the calculation form.
+
+Discharges
+
+If the discharge relates to tax lost in error or a decision not to re-open a claim to tax, do not raise a calculation.

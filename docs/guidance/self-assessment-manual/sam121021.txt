@@ -1,0 +1,18 @@
+Returns: individuals returns: manually altered earlier years returns
+Identifier: SAM121021
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam121021
+Published: 2016-04-08T17:18:44+01:00
+Updated: 2016-02-23T14:55:56+00:00
+Retrieved (UTC): 2026-09-18T16:20:21.640207+00:00
+
+Returns that show the tax year has been altered and that have been submitted as a substitute for another year, should not be accepted as a valid return.
+
+The return will not be identical to the official returns for the relevant tax year because some of the boxes and text will be different. This may result in errors during capture. The returns should be treated as unacceptable. In these cases
+
+- Do not log the return
+
+- Send the return back immediately with SEES letter SA604
+
+- Issue the appropriate version of the return manually or from the record, using function RECORD RETURN REQUEST to note the record.
+
+The only exceptions to this are early settlement and permanent cessation cases where the customer’s tax affairs need to be settled before the tax return for the relevant year is available.

@@ -1,0 +1,38 @@
+Capital gains group definition: prevention of multiple group membership
+Identifier: CG45120
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45120
+Published: 2016-03-12T11:06:16+00:00
+Updated: 2017-05-08T09:50:47+01:00
+Retrieved (UTC): 2026-09-18T14:40:49.641455+00:00
+
+TCGA92/S170(4), (5) & (6)
+
+It is not uncommon to find that a company will satisfy the 75 per cent subsidiary requirement in terms of ordinary share capital but will not be an effective 51% subsidiary of a principal company. It is possible for such a company to be the principal company of a group but there are additional rules to consider.
+
+The general rule is that a company cannot be the principal company of a group if it is itself a 75 per cent subsidiary of another company, TCGA92/S170(4).
+
+There is then an exception to this rule in TCGA92/S170(5) dealing with the case where
+
+- a company, `the subsidiary’, is a 75 per cent subsidiary of another company but
+
+- the two companies are prevented from being members of the same group because the subsidiary is not an effective 51% subsidiary of the group’s principal company.
+
+The effect of TCGA92/S170(5) is that where a company (company Y) is a 75 per cent subsidiary of another company (company X), but X and Y are prevented from being members of the same group because Y is not an effective 51 per cent subsidiary of the principal company of X’s group, then Y may be the principal company of another group.
+
+This exception works “from the top down”. That is, if Y also had a 100% subsidiary Z then both Y and Z would fail the 51% test but the exception would result in only Y being treated as a principal company.
+
+EXAMPLE
+
+Take a “vertical” chain of companies starting with parent company A through B, C, D and E ending with F. A holds 80% of the shares in B giving it an 80% economic interest. C is similarly an 80% subsidiary of B, D an 80% subsidiary of C, and E an 80% subsidiary of D. However, F is a full 100% subsidiary of E.
+
+B, C, D, E and F each satisfy the group membership requirement in terms of ordinary share capital because each holding in the chain is at least 75%.
+
+In terms of direct or indirect beneficial entitlement to profits and assets, A has an 80 per cent interest in B; a 64 per cent interest in C; a 51.2 per cent interest in D; and 40.96 per cent interests in each of E and F. This means that B, C and D are effective 51 per cent subsidiaries of A, but E and F are not. A is therefore the principal company of a group which also includes B, C and D.
+
+E is the principal company of a separate capital gains group comprising E and F. Although E is itself a 75 per cent subsidiary of another company D, E is not on that account prevented from being the principal company of a group. This is because E is not an effective 51 per cent subsidiary of A which is the principal company of D’s group, and so cannot be in the same group as D. E is treated as the principal company of the separate group in preference to F (assuming that F itself has one or more subsidiaries) since treating E as a principal company makes F a member of E’s group.
+
+In this example there are two capital gains groups. Companies A, B, C and D form a group headed by principal company A. Companies E and F form a separate group headed by principal company E.
+
+Tiebreaker rules
+
+There is a further general rule in TCGA92/S170 (6) that a company cannot be a member of more than one group. Where, apart from this rule, a company would be a member of two or more groups, there are a series of “tiebreaker” tests to determine of which group, if any, the company is a member. These rules are described at CG45125.

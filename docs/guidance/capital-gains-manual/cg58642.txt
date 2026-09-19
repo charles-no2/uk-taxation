@@ -1,0 +1,74 @@
+Co.purchases own shares: capital treatment: Condition A – entitlement to profits
+Identifier: CG58642
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58642
+Published: 2018-07-18T09:06:07+01:00
+Updated: 2021-03-31T15:27:53+01:00
+Retrieved (UTC): 2026-09-18T14:44:24.705232+00:00
+
+CTA10/S1038 Section 1037: effect of entitlement to profits
+
+CTA10/S1038 states that the seller’s interest would not be substantially reduced for CTA10/S1037 if the seller would be entitled to more than 75% of the company’s total profits which are available for distribution. The share of the profits is expressed as a fraction.
+
+Profits available for distribution are defined in CA06/S830 but with differences mentioned in CTA10/S1038(4) and (5). Profits available for distribution, for the purpose of CTA10/S1038(1):
+
+- Profits defined as per CA06/S830
+
+And increased by:
+
+- Statutory addition of £100
+
+- Sum equivalent to the periodic fixed rate distributions entitled to the seller from the company, where such an entitlement exists.
+
+- Amount equal to the excess when sums payable by the company, on purchase of its own shares and any other share purchase at the same time, exceed the amount of profits available for distribution immediately before purchase.
+
+References to entitlement, except for trustees and personal representatives, are to beneficial entitlement.
+
+EXAMPLE
+
+ABC Manufacturers Ltd has 100,000 ordinary £1 shares and 2,000 8% preference shares in issue which are allocated accordingly:
+
+- Mr D – 21,000 £1 ordinary shares and 1,200 preference shares
+
+- Mrs E – 57,000 £1 ordinary shares and 800 preference shares
+
+- Mr M – 5,000 £1 ordinary shares
+
+- Mr R – 17,000 £1 ordinary shares
+
+The company wishes to purchase 15,000 of its own £1 ordinary shares from Mr D for £30,000. The distributable profits of the company were £18,000.
+
+The CTA10/S1038 profits available for distribution for the test would be:
+
+Distributable profits £18,000
+
+Statutory addition £ 100
+
+Preference dividends £ 160
+
+Total £18,260
+
+Mr D’s entitlement prior to the purchase – 21,000 ordinary shares and 1,200 preference shares:
+
+Preference dividend £ 96
+
+21% of total profits of £18,100 £ 3,801
+
+Total entitlement £ 3,897
+
+This represents 21.34% of the total profits – £3,897 of £18,260
+
+Mr D’s entitlement subsequent to purchase – 6,000 ordinary shares and 1,200 preference shares.
+
+Since the company has purchased 15,000 ordinary shares of its own share capital, these are treated as immediately being cancelled Therefore the total share capital has been decreased from 100,000 to 85,000.
+
+Hence Mr D’s shareholding now represents 6,000 out of 85,000 so 7.06%.
+
+Preference dividend £ 96
+
+7.06% of total profits of £18,100 £ 1,277.86
+
+Total entitlement £ 1,373.86
+
+This represents 7.52% of the total profits – £1,373.86 of £18,260
+
+The potential profits receivable by Mr D post purchase are less than 75% of his prior entitlement so the test is satisfied.

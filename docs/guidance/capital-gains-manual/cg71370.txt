@@ -1,0 +1,122 @@
+Leases: commutation of rent where landlord is a freeholder
+Identifier: CG71370
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71370
+Published: 2016-03-12T12:16:24+00:00
+Updated: 2026-07-30T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:46:21.467540+00:00
+
+The following example illustrates the situation where
+
+-
+
+the capital sum is received by a landlord who is a freeholder or a leaseholder under a long lease,
+
+-
+
+the payment is made in commutation of the rent due under the lease, and
+
+-
+
+the terms of the lease provide for the possibility of commutation of the rent.
+
+The calculations would have been the same if the tenant had paid the capital sum for the waiver of certain of the terms of the lease rather than in commutation of the rent.
+
+On 30 June 2013, Mr B bought the freehold of a property for £50,000. On 31 October 2017, he granted a 21 year lease of the property in return for a premium of £20,000. The rent payable under the lease was £5,000 a year. One of the terms of the lease was that the tenant could commute the rent for any period on the payment of a lump sum.
+
+On 31 October 2019, the tenant exercised the right to commute the rent and paid £35,000 to Mr B. As a result, no further rent was payable for the remaining 19 years of the lease.
+
+The Valuation Office reported the following values:
+
+-
+
+the right to receive rent for the period 31 October 2017 to 31 October 2019 (the period during which rent was actually paid): £7,500;
+
+-
+
+the value of the reversion at the end of the lease: £17,500.
+
+The gain arising to Mr B on the grant of the lease, recomputed following the payment for commutation of the rent, is calculated as follows.
+
+- the right to receive rent for the period 31 October 1989 to 31 October 1991 (the period during which rent was actually paid): £7,500;
+
+- the value of the reversion at the end of the lease: £17,500.
+
+The gain arising to Mr B on the grant of the lease, recomputed following the payment for commutation of the rent, is calculated as follows.
+
+Amount chargeable as property income
+
+As per CG70900 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70900).
+
+The total premiums received are £20,000 + £35,000 = £55,000. However, separate calculations of the amounts chargeable as property income are needed. The actual premium of £20,000 was paid for the grant of a 21 year lease; the deemed premium of £35,000 is treated as having been paid for a 19 year lease (the period of the actual lease to which the commutation relates).
+
+P x [(50 - 20) / 50]
+
+P is the amount of the premium
+
+Y is the number of complete years (other than the first) in the term of the lease
+
+£20,000 x [(£50-20) / 50]
+
+= £20,000 x 0.6
+
+= £12,000
+
+£35,000 x [(£50-18) / 50]
+
+= £35,000 x 0.64
+
+= £22,400
+
+Total
+
+= £12,000 + £22,400
+
+= £34,400
+
+Allowable expenditure (part disposal formula)
+
+Acquisition cost x [a / (A+B)]
+
+a in the numerator (the top part of the fraction) is the amount of the premium not chargeable as property income;
+
+A in the denominator (the bottom part of the fraction) is the full amount of the premium;
+
+B is the value retained at the time of the part disposal
+
+= £50,000 x [£20,600 / (£55,000 + (£7,500 + £17,500))]
+
+= £50,000 x 0.2575
+
+= £12,875
+
+Chargeable gain
+
+Premium received
+
+|
+
+£55,000
+
+|
+
+Less Amount chargeable as property income
+
+|
+
+£34,400
+
+|
+
+Less Allowable expenditure
+
+|
+
+£12,875
+
+|
+
+|
+
+£7,725
+
+|

@@ -1,0 +1,74 @@
+Foreign property: Double Taxation Conventions: Unilateral Relief: relief under IHTA84/S159 (3) and S159 (4)
+Identifier: IHTM27188
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm27188
+Published: 2016-04-09T09:51:00+01:00
+Updated: 2024-03-07T13:18:39+00:00
+Retrieved (UTC): 2026-09-18T15:03:41.642315+00:00
+
+Relief under s159(3)
+
+Relief is due under IHTA84/S159 (3) where both the UK and another foreign country charge tax on the same property and that property is situated:
+
+- neither in the United Kingdom nor in the foreign country, or
+
+- both in the United Kingdom and in the foreign country.
+
+Where relief is due under IHTA84/S159 (3), it is given on a split credit basis and will be less than the foreign tax paid. The amount of the credit is worked out by using the formula
+
+A ÷ (A + B) and then multiplying the result by C
+
+where:
+
+- A is the amount of Inheritance Tax due
+
+- B is the amount of the foreign tax
+
+- C is the smaller of A and B
+
+Example 1
+
+Country X and the UK both tax an item of property which is situated neither in Country X nor the UK.
+
+- Country X charges tax of £40
+
+- The UK charges IHT of £60
+
+The credit is: 60 ÷ (60 + 40) ×40 = £24
+
+Relief under s159(4)
+
+Where tax is imposed on the same property by two or more foreign countries and the property is situated:
+
+- neither in the United Kingdom nor in any of those foreign countries, or
+
+- both in the United Kingdom and in each of those foreign countries,
+
+relief is due under IHTA84/S159 (4).
+
+The formula, A ÷ (A + B) x C applies where:
+
+- A is the amount of Inheritance Tax
+
+- B is the aggregate amount of the foreign tax imposed in each of the foreign countries
+
+- C is the aggregate of A and B, less whichever is the largest amount of tax paid (in either the UK or one of the foreign countries).
+
+Example 2
+
+Each of Country X, Country Y and the UK tax an item of property which is not situated in Country X, Country Y nor the UK.
+
+- Country X charges £40
+
+- Country Y charges £20
+
+- The UK charges IHT of £60
+
+The credit is 60 ÷ (60 + 40 + 20) × (40 + 20) = £30
+
+Relief under s159(5)
+
+If relief is due under IHTA84/S159 (3)(a) or IHTA84/S159 (4)(a), IHTA84/S159 (5) must be considered when calculating the foreign tax paid (B in the formulas above).
+
+Where relief is due under IHTA84/S159 (3)(b) or IHTA84/S159 (4)(b), above, the foreign tax at B is simply the gross amount paid. You do not need to take account of any credit for tax paid in another country.
+
+If any of the above scenarios apply, please refer to Technical.

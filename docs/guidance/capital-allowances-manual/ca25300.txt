@@ -1,0 +1,16 @@
+PMA: Ships: Deferment of balancing charges: outline
+Identifier: CA25300
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25300
+Published: 2016-04-16T08:51:05+01:00
+Updated: 2016-04-06T16:53:46+01:00
+Retrieved (UTC): 2026-09-18T16:20:56.130152+00:00
+
+When a ship is bought the capital allowances on it are calculated separately. The expenditure on the ship is put into a separate pool (the single ship pool) CA25150 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25150). A disposal event for the ship does not give rise to a balancing charge in the single ship pool for that ship but it may give rise to a balancing charge in the main pool CA25250 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25250).
+
+The ship owner can opt out of single ship pool treatment for any ship and transfer all or part of the expenditure in its single ship pool. The expenditure is then transferred to the pool in which the expenditure would have been had the single ship pool treatment not been available CA25150 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25150). In that case if there is a disposal event all or part of the disposal proceeds are deducted from that pool in the normal way and there may or may not be a balancing charge in that pool.
+
+If there is a balancing charge following the disposal of a ship and the ship is a qualifying ship CA25350 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25350) the ship owner can make a claim to defer it. When a claim is made the shipowner attributes the part of the balancing charge attributable to the disposal of the ship to expenditure on new shipping incurred within six years of the date of the disposal. When attribution is made the balancing charge is brought to account as a disposal value in the single ship pool for the new ship. The deferment of balancing charges is sometimes called rollover. A balancing charge arising to a company which is a member of a group can be rolled over into the cost of new shipping acquired by other members of the same group provided that:
+
+- the ship against which the balancing charge is rolled over remains in the ownership of the company which acquired it, and
+
+- that company remains a member of the same group as the company on which the balancing charge arose for the next three years or until the total loss of or irreparable damage to the ship if sooner.

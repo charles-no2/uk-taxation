@@ -1,0 +1,20 @@
+Interest: interest payable from the Financial Services Compensation Scheme
+Identifier: SAIM2085
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2085
+Published: 2016-03-19T16:23:43+00:00
+Updated: 2015-12-03T11:02:50+00:00
+Retrieved (UTC): 2026-09-18T14:26:00.529116+00:00
+
+The provisions outlined here apply to any financial products meeting the criteria set out in SAIM2095 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2095). However, because the Financial Services Compensation Scheme (FSCS) has made most of its payments in respect of bank deposits the guidance refers mainly to bank deposits.
+
+When a bank (or another financial institution) is declared by the FSCS to be in default customers of the bank are invited by the FSCS to make a claim under the compensation scheme. If the claim is accepted by the FSCS as valid and the bank deposit paid interest then it is common for the FSCS to include in the compensation payment interest on the financial product up until the date that the bank was declared to be in default or if appropriate, up to the date of maturity of a fixed term deposit.
+
+The FSCS calculates the compensation payable just as if the bank had not defaulted and so uses the bank’s records to determine whether the payment is net or gross. See the examples in SAIM2090 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2090).
+
+The terms of the compensation scheme mean that any interest element included in the compensation calculation is not interest for common law purposes but is just part of the total amount of compensation paid by the FSCS. However, bank customers receiving the compensation may have had the amount of compensation they receive calculated as if tax had been deducted from the ‘interest’ amount paid by the FSCS up to the date of the bank default. So they will assume that they have received interest subject to deduction of tax from the FSCS in exactly the same way as if the interest had been paid by the bank.
+
+To ensure that FSCS claimants who receive compensation including an interest element paid by the FSCS are treated for tax purposes in the same way as if they had received the interest from the bank, FA09 introduced two new pieces of legislation. These are ITTOIA05/S380A and ITA07/S979A. These sections ensure that for income tax purposes interest paid by the FSCS to the date of the bank default is treated as if it were interest chargeable to income tax (ITTOIA05/S380A). If the FSCS has computed the compensation on the basis that the claimant is a taxpayer (i.e. the claimant receives a net amount) then the legislation treats the amount deducted by the FSCS as if it were tax deducted from that interest and so the claimant may make repayment claims or be charged to higher rate tax as necessary (ITA07/S979A). See SAIM2090 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2090) Example 1.
+
+ITTOIA05/S380A does not apply to all compensation payments made by the FSCS. Even where an element of interest is included in a compensation calculation it may still be that no interest is actually paid. This is because the FSCS may have compensation limits that limit the total amount of compensation payable. These limits may change from time to time and from product to product.
+
+Where a compensation payment is capped by a compensation limit we accept that the compensation is first applied to the outstanding deposit. See SAIM2090 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2090) Example 3.

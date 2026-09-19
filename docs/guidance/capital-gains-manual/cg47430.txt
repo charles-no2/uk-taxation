@@ -1,0 +1,30 @@
+Capital loss streaming from 19 July 2011: set off of restricted losses: (i) individual company joining a group
+Identifier: CG47430
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47430
+Published: 2016-03-12T11:15:38+00:00
+Updated: 2016-01-25T17:09:35+00:00
+Retrieved (UTC): 2026-09-18T14:42:02.873133+00:00
+
+TCGA92/SCH7A/PARA7
+
+Restricted losses may only be set off against certain gains. This guidance considers the rules that apply when a single company becomes a member of a group. CG47435 explains how these rules are modified when more than one company becomes a member of a group at the same time.
+
+Restricted losses may be set against
+
+- gains that accrued before the company with restricted losses became a member of the group, TCGA92/SCH7A/PARA7(1)(a)
+
+- gains that accrue after joining the group on disposals of assets that were owned by the company with restricted losses when it joined, TCGA92/SCH7A/PARA7(1)(b), and
+
+- gains that accrue on disposals of assets acquired from outside the group, and used for the purposes of a trade or business that was carried on by the company with restricted losses at the time it became a member of the group, TCGA92/SCH7A/PARA7(1)(c) and (1A).
+
+There is additional guidance regarding assets held by a company with restricted losses at the time it joins a group at CG47435. See also CG47440 where the asset in question is actually a collection of assets treated as a single asset for capital gains purposes (such as shares) and CG47445 where a capital gain accrues on the disposal of a qualifying corporate bond held at that time.
+
+In the case of a gain on an asset used for the purposes of a trade or business, it is not necessary for that trade or business to continue to be conducted by the company with restricted losses nor for the asset to be owned by the company that conducts the trade or business. The requirement is that the trade or business has continued to be conducted within the group and that the asset, acquired from outside the group, is used only for the purposes of that trade or business from the time of acquisition to that of disposal, TCGA92/SCH7A/PARA7(1A). However, restricted losses may not be deducted where there has been a major change in the conduct of the trade or business, see CG47450.
+
+Once a loss becomes subject to restriction then that restriction remains in place in respect of the particular loss, TCGA92/SCH7A/PARA7(1C). For example: company R with an accrued loss of £100 joins the S group, it then accrues a further loss of £150 before the R group is acquired by the T group. Joining the T group does not change the terms of the restriction affecting the £100. After R joins the T group, the loss of £100 can be set against gains on those assets held by R at the time it joined the S group.
+
+Joining a subsequent group may affect how a restriction applies. Extending the above example, if when it acquires R, a company in the T group acquires an asset that is then used for the purposes of a trade that has been conducted by R throughout the changes, then both of the losses may be set against a gain that accrues on the disposal of that asset.
+
+A company may be affected by a loss restriction even if it is no longer a member of any group. This may happen where a pre-entry loss is brought into a group by a company which subsequently leaves the group without becoming a member of any other group. In this situation the loss restriction will continue to apply.
+
+Note: Additional rules relating to loss buying were enacted in FA 2006. See CG47020+ for guidance on the rules which apply in priority to TCGA92/SCH7A for accounting periods ending on or after 5 December 2005.

@@ -1,0 +1,48 @@
+Wasting assets: computation: example 2: using the T(2) formula
+Identifier: CG76792
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg76792
+Published: 2021-04-26T15:18:04+01:00
+Updated: 2021-04-27T10:41:36+01:00
+Retrieved (UTC): 2026-09-18T14:36:12.366040+00:00
+
+TCGA92/S46
+
+Mr S purchases from a descendant the copyright over the memoirs of a writer 20 years after the end of the year in which the writer died. That copyright is, therefore, a wasting asset since it now has a predictable life of fifty years, see CG76723 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg76723). He pays the descendant £90,000 for it but does not expect it to have any residual value in fifty years’ time.
+
+After five years, Mr S has to take action to prevent a breach of his copyright. This costs him £10,000 in allowable expenditure on legal fees.
+
+He later sells after twenty years for £80,000.
+
+The computation now becomes:
+
+|   |   |   |   |   |   |   |   |   | £ |
+
+| Disposal proceeds |   |   |   |   |   |   |   |   | 80,000 |
+
+LESS | Acquisition cost [E(1)] |   |   |   |   |   |   | 90,000 |   |   |
+
+| Reduction as CG76791 |   |   |   |   |   |   | 36,000 |   |   |
+
+| Allowable cost |   |   |   |   |   |   |   | 54,000 |   |
+
+| Legal expenses [E(2)] |   |   |   |   |   |   | 10,000 |   |   |
+
+| T(1) - T(2) = 20 - 15 = 5 |   |   |   |   |   |   |   |   |   |
+
+| L - [T(1) - T(2)] = 50 - 5 = 45 |   |   |   |   |   |   |   |   |   |
+
+|   |   |   |   |   |   |   |   |   |   |
+
+| E(2) x | T(2) | = | 10,000 | x | 15 | = | 3,333 |   |   |
+
+|   | L - [T(1) - T(2)] |   |   |   | 45 |   |   |   |   |
+
+|   |   |   |   |   |   |   |   | 6,667 |   |
+
+| Allowable expenditure |   |   |   |   |   |   |   | 60,667 | 60,667 |
+
+| Gain |   |   |   |   |   |   |   |   | 19,333 |
+
+|   |   |   |   |   |   |   |   |   |   |
+
+NOTE. Companies and other concerns within the charge to Corporation Tax may be able to claim indexation allowance, see CG17200+ (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17200p).

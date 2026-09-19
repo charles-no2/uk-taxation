@@ -1,0 +1,222 @@
+Remittance basis: accounts denominated in foreign currencies - restriction of certain losses
+Identifier: CG25392A
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25392a
+Published: 2016-03-12T10:24:41+00:00
+Updated: 2023-04-17T13:49:18+01:00
+Retrieved (UTC): 2026-09-18T14:38:58.517246+00:00
+
+Examples (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25392a#IDA1ETRB)
+Example A1 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25392a#IDA5ETRB)
+Example A2 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25392a#IDAMJTRB)
+Example B1 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25392a#IDACOTRB)
+Example B1 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25392a#IDACOTRB)
+
+Special computational rules were introduced by TCGA92/Sch8A and are effective from 16/12/2009. These corrected a gap in the existing CGT rules for foreign currency bank accounts (FBCAs). These rules cease to apply on 5 April 2012 following amendments to TCGA92/S252.
+
+A foreign currency bank account is an asset within the scope of CGT (CG78320+) and a withdrawal of funds from a FCBA constitutes a disposal (or part-disposal) of the account on which a capital gain or loss arises.
+
+When a remittance is made from a FBCA the withdrawal of funds also represents consideration for disposal of the whole or part of the FBCA for CGT purposes. Prior to 16/12/2009 Section 37 TCGA applied in this situation to exclude from the calculation of the capital gain or loss arising on disposal (or part-disposal) of the FCBA the whole of, or the relevant part of, the withdrawal that was taxable as remitted income.
+
+The exclusion of consideration from the capital gains computation under section 37 could produce an anomalous result. For example:
+
+An individual paid salary in foreign currency of FC 40,000
+
+In year 1 this is paid into a FCBA abroad.
+
+FC1.00 = £0.50. So for CGT purposes, the cost of acquiring the FCBA is £20,000.
+
+In year 2 he transfers the whole FC 40,000 to the UK.
+
+At this point FC1.00 = £0.60 and he receives a credit of £24,000 in his UK sterling bank account.
+
+For income tax purposes the taxable amount is £24,000 (the value of FC40,000 at the time of remittance). For CGT purposes the computation was as follows:
+
+- |  Amount |
+
+Consideration for disposal of the FCBA |  £24,000 |
+
+Less exclusion under section 37 TCGA |  £24,000 |
+
+- |  Nil |
+
+Acquisition cost |  £20,000 |
+
+Loss |  £20,000 |
+
+This loss for CGT purposes is excessive, because the individual has incurred no real loss in these circumstances. It arose because the TCGA rules adjust the consideration for the disposal of the FCBA, but there is no requirement to remove the relevant income element from the allowable cost of the FCBA. The loss is an arithmetical anomaly.
+
+Sch8A TCGA 1992 applies from 16/12/2009 to remove this anomaly.
+
+The calculation of the gain or loss is now calculated as follows:
+
+- Look at the total remittance and identify the part of the withdrawal that is taxable as remitted income. This is called ‘the section 37 amount’.
+
+- Then proceed under A or B below, depending on whether the amount remitted is wholly or partially the section 37 amount.
+
+There were further changes introduced from 6 April 2012 for foreign currency bank accounts and guidance is from CG78320 onwards.
+
+A - Remittance is wholly the section 37 amount
+
+- Where the section 37 amount is the whole of the balance on the account, the loss arising on the disposal will not be an allowable loss for CGT purposes.
+
+- Where the section 37 amount is only part of the balance on the account, do not apply the normal part-disposal formula in section 42 TCGA. Instead:
+
+- Apportion the allowable cost of the account between the part disposed of and the remainder in proportion to the amounts withdrawn and retained. The loss on the disposal will not be an allowable loss for CGT purposes.
+
+B - Remittance is partially the section 37 amount
+
+- Treat the disposal as two disposals, one comprising the section 37 amount and the other comprising the balance of the remittance.
+
+Where the two disposals are of the whole of the balance on the account, so there is altogether a full disposal of the account:
+
+- Apportion the allowable cost of the account between the two disposals in proportion to the sums comprised in each disposal and compute the gain or loss on each disposal accordingly.
+
+- The loss arising on the disposal related to the section 37 amount will not be an allowable loss for CGT purposes and the gain or loss arising on the other disposal will be chargeable or allowable in the normal way.
+
+- Where the two disposals together comprise only part of the account, so that there is a part-disposal of the account do not apply the normal part-disposal formula in section 42 TCGA. Instead:
+
+- Apportion the allowable cost of the account between the two disposals and the remainder in proportion to the sums comprised in each disposal and the balance remaining in the account and compute the gain or loss on each disposal accordingly.
+
+- The loss arising on the disposal related to the section 37 amount will not be an allowable loss for CGT purposes and the gain or loss arising on the other disposal will be chargeable or allowable in the normal way.
+
+Examples
+
+Example A1
+
+A1. Account contains foreign currency (FC) 20,000, cost £10,000. FC 20,000 is taken from the account and remitted at the same time when its value is £12,000. The entire remittance is chargeable to income tax.
+
+There is no split between a section 37 amount and another amount because section 37 applies to the whole remittance.
+
+- |  Amount |  Amount |
+
+Gross consideration |  - |  £12,000 |
+
+Less section 37 adjustment |  - |  £12,000 |
+
+Net consideration |  - |  Nil |
+
+Allowable expenditure |  £10,000 |  - |
+
+Loss |  - |  (£10,000) |
+
+Loss of £10,000 is not an allowable loss.
+
+Example A2
+
+A2. Account contains FC 50,000, cost £40,000. FC 30,000 is remitted when its value is £18,000. The entire remittance is chargeable to income tax.
+
+There is no split between a section 37 amount and another amount because the section 37 amount relates to the whole remittance.
+
+Expenditure is allocated pro-rata:
+
+- |  Amount |
+
+To the section 37 amount, 30/50 x £40,000 |  = £24,000 |
+
+To the remainder, 20/50 x £40,000 |  = £16,000 |
+
+The section 37 amount computation:
+
+- |  Amount |
+
+Gross consideration |  £18,000 |
+
+Less section 37 adjustment |  £18,000 |
+
+Net consideration |  Nil |
+
+Expenditure |  £24,000 |
+
+Loss |  (£24,000) |
+
+Loss of £24,000 is not an allowable loss.
+
+The allowable expenditure remaining for the balance of the bank account is £16,000, apportioned as above.
+
+Example B1
+
+B1. Account contains FC 30,000, cost £30,000. FC 30,000 is remitted when its value is £27,000, of which FC 20,000, with a value of £18,000, is chargeable to income tax.
+
+The section 37 amount is £18,000 (representing FC 20,000). Non-section 37 amount is £9,000 (representing FC 10,000).
+
+Expenditure is allocated pro rata:
+
+- |  Amount |
+
+To the section 37 amount 20/30 x £30,000 |  = £20,000 |
+
+To non-section 37 amount 10/30 x £30,000 |  = £10,000 |
+
+The section 37 amount computation:
+
+- |  Amount |
+
+Gross consideration |  £18,000 |
+
+Less section 37 adjustment |  £18,000 |
+
+Net consideration |  Nil |
+
+Allocated expenditure |  £20,000 |
+
+Loss |  (£20,000) |
+
+Loss of £20,000 is not an allowable loss.
+
+Non-section 37 amount computation:
+
+- |  Amount |  Amount |
+
+Consideration |  - |  £9,000 |
+
+Allowable expenditure |  £10,000 |  - |
+
+Loss |  - |  (£1,000) |
+
+Loss of £1,000 is allowable in the normal way.
+
+Example B2
+
+B2. Account contains FC 200,000, cost £160,000. FC 120,000 is remitted when its value is £120,000, of which FC 20,000, with a value £20,000, is chargeable to income tax.
+
+The remittance is split between a section 37 amount of £20,000 (representing FC 20,000) and a non-section 37 amount of £100,000 (representing FC 100,000).
+
+The part-disposal A/(A+B) formula does not apply. Instead, expenditure is allocated pro-rata:
+
+- |  Amount |  Amount |
+
+To the section 37 amount, 20/200 x £160,000 |  = £16,000 |  - |
+
+To the non-section 37 amount, 100/200 x £160,000 |  - |  = £80,000 |
+
+To the remainder, 80/200 x £160,000 |  - |  = £64,000 |
+
+The section 37 amount computation:
+
+- |  Amount |
+
+Gross consideration |  £20,000 |
+
+Less section 37 adjustment |  £20,000 |
+
+Net consideration |  Nil |
+
+Expenditure |  £16,000 |
+
+Loss |  (£16,000) |
+
+Loss of £16,000 is not an allowable loss.
+
+Non-section 37 amount computation:
+
+- |  Amount |  Amount |
+
+Consideration |  - |  £100,000 |
+
+Allowable expenditure |  £80,000 |  - |
+
+Chargeable gain |  - |  £20,000 |
+
+Total chargeable gain £20,000.
+
+The allowable expenditure remaining for the balance of the bank account is £64,000, apportioned as above.

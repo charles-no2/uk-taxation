@@ -1,0 +1,18 @@
+Returns: returns processed at HMRC Wolverhampton: HMRC Wolverhampton: return indicates capital gains form completed (Action Guide)
+Identifier: SAM127031
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam127031
+Published: 2016-04-08T17:28:46+01:00
+Updated: 2022-10-03T10:19:47+01:00
+Retrieved (UTC): 2026-09-18T16:21:11.170158+00:00
+
+Where a return with an entry at box 7.4 has been received, follow steps 1 - 3 below
+
+1. Log the return using function LOG RETURN
+
+If form SA108 and capital gains computation is enclosed
+
+2. Forward the return for capture and retention to the relevant Processing office
+
+If neither form SA108 nor capital gains computation is enclosed
+
+3. Forward the return to the relevant Processing office for unsatisfactory returns procedure

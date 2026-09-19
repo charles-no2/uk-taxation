@@ -1,0 +1,28 @@
+Share identification rules for capital gains tax from 6.4.2008: the Section 104 holding in detail
+Identifier: CG51575
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51575
+Published: 2016-03-12T11:22:50+00:00
+Updated: 2020-11-18T09:27:22+00:00
+Retrieved (UTC): 2026-09-18T14:42:11.149186+00:00
+
+From 6 April 2008 all shares of the same class in the same company acquired from 1 April 1982 onwards by a person within the charge to capital gains tax are pooled in a Section 104 holding. See CG51570 for details of how to create a holding from shares acquired before that date. This is known as a `Section 104 holding’.
+
+All the shares in the Section 104 holding are regarded as indistinguishable parts of a single asset which grows or shrinks as shares are acquired or disposed of.
+
+For capital gains tax purposes a Section 104 holding consists of a single pool of expenditure.
+
+The pool of qualifying expenditure includes all the expenditure on the shares that is allowable under TCGA92/S38(1)(a) and (b). It will include the cost of the shares and the costs of acquisition.
+
+The value of the pool is adjusted every time there is an event which reduces or increases the pool of qualifying expenditure. Usually this will be the acquisition or disposal of shares. but not necessarily. For example, an individual may pay for more shares in a company by taking up a rights issue. The share reorganisation rules of TCGA92/S127 treat the individual as not having acquired any new asset for capital gains purposes. Instead the original shares and the new shares are treated as the same asset. However, TCGA92/S128 allows the individual to claim a deduction for the payment he or she made for the new shares. That amount also increases the expenditure on the Section 104 holding.
+
+Where a share reorganisation involves the issue of shares of a different class the holding will be adjusted even where no additional payment is made - for example, bonus issues. This is because in these cases the expenditure will need to be apportioned to create a separate holding for the new class of share issued. See CG51700+, and in particular the examples at CG51920 and CG51930.
+
+It is also possible for a transaction which is not a disposal to reduce the expenditure in a Section 104 holding. For example, someone may make an election under TCGA92/S122 (2) to have a small capital distribution treated as though it was not a disposal. Instead the base cost of the shares is reduced by the amount of the small capital distribution.
+
+If a person disposes of all the shares in the Section 104 holding the gain or loss is simply the difference between the disposal proceeds and the amount of expenditure in the section 104 holding.
+
+Where a person only disposes of some of the shares in the Section 104 holding it is necessary to apportion the allowable cost according to the proportion of the shares disposed of.
+
+Because the Section 104 holding is treated as a single asset the part disposal rules of TCGA92/S42 apply on a disposal of less than all the shares in the holding. In strictness the apportionment should be made using the A/A+B formula where A equals disposal proceeds of sale and B the market value of the remaining asset. But in practice the apportionment may be made by reference to the number of shares sold. But see CG51919+, if a share reorganisation involves different classes of share.
+
+See examples at CG51590.

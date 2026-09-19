@@ -1,0 +1,24 @@
+Interest: specific inclusions: funding bonds
+Identifier: SAIM2210
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2210
+Published: 2016-03-19T16:24:06+00:00
+Updated: 2019-03-13T13:12:18+00:00
+Retrieved (UTC): 2026-09-18T14:26:05.499080+00:00
+
+A company, public authority, government or similar body may have an obligation to pay interest on debt securities that it has issued, but lack the funds to do so. Instead of paying the interest in cash, they may issue ‘funding bonds’ - these are either shares, or further loan notes, bonds or promissory notes given to the creditor in lieu of interest.
+
+Without specific legislation, the interest would only be paid for tax purposes when the funding bond was redeemed for cash. However, ITTOIA05/S380 (previously ICTA88/S582) treats the issue of funding bonds as a payment of interest. The amount of interest received is the market value of the funding bonds at the time when they are issued. Any subsequent redemption of the funding bond is not treated as an income receipt (ITTOIA05/S754).
+
+Where the funding bond is treated as a payment of interest, ITA07/S939 imposes a requirement to deduct a sum representing income tax, subject to an exemption from this duty in certain cases (ITA07/S940). The person issuing the bonds must retain bonds equal to the tax on the deemed interest and may tender these to HMRC in satisfaction of the duty to collect the tax due. From 17 July 2013 a person required to retain funding bonds under ITA07/S939 must issue a certificate to the recipient on the day that the payment is made showing the gross amount of interest paid, the sum deducted, the net amount paid and the date the interest is paid.
+
+Note that an instrument under which interest in kind (SAIM2600 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2600)) is paid is not treated as a funding bond.
+
+Example
+
+Gary has made a loan of £250,000 to an unquoted trading company at an interest rate of 10% per annum. Because of cash flow problems, the company is unable to pay the interest due for year ended 31 December 2017. In February 2018, the company issues ordinary shares in full satisfaction of the arrears of interest owed to Gary. These are funding bonds.
+
+The company issues 250 £1 ordinary shares, each of which is treated as being issued at a premium of £9. 80% of the shares are issued to Gary, and the remaining 20% are issued to HMRC in satisfaction of its obligation to deduct tax at the lower rate from the deemed interest.
+
+Although Gary has accepted the 200 shares in satisfaction of his right to receive net interest of £2,000, it is agreed with HMRC that the market value of the shares at the time they were issued was only £1,100. When completing his tax return for 2017-18, Gary must therefore show a receipt of £1,100 net interest (a gross ‘payment’ of £1,375 from which tax of £275 has been deducted).
+
+The company’s fortunes subsequently improve, and in 2020 Gary is able to sell his 200 shares for £12,000. There are no income tax consequences to the sale. His profit is chargeable to capital gains tax - for CGT purposes, he is treated as acquiring the shares for £1,375.

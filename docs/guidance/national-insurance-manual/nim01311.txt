@@ -1,0 +1,66 @@
+Class 1 structural overview: abolition of secondary NICs for apprentices under the age of 25: assessment
+Identifier: NIM01311
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01311
+Published: 2017-03-10T10:51:19+00:00
+Updated: 2025-04-05T11:26:21+01:00
+Retrieved (UTC): 2026-09-18T15:18:16.172788+00:00
+
+The examples below use the rates that apply for the 2025 to 2026 tax year.
+
+Example 1
+
+A monthly paid apprentice is aged 23 at the time earnings of £1,600 are paid. The earnings fall below the Apprentice Upper Secondary Threshold (AUST).
+
+Threshold | NICs calculation | NICs due |
+
+Primary | £1,600 − £1048 = £552 × 8% | £44.16 |
+
+Secondary | £1,600 − £417 = £1,183 × 0% | £0 |
+
+Total NICs due |   | £44.16 |
+
+Category H should be used.
+
+Example 2
+
+A 17-year-old apprentice is monthly paid at the time earnings of £5,000 are paid. The earnings are above the monthly AUST.
+
+Threshold | NICs calculation | NICs due |
+
+Primary | £4,189 - £1048 = £3,141 x 8% | £251.28 |
+
+Primary | £5,000 − £4,189 = £811 × 2% | £16.22 |
+
+Secondary | £4,189 − £417 = £3,772 × 0% | £0 |
+
+Secondary | £5,000 − £4,189 = £811 × 15% | £121.65 |
+
+Total NICs due |   | £389.15 |
+
+Category H should be used.
+
+Example 3
+
+A monthly paid apprentice turns 25 on 15 June 2025. They are paid £1,400 on 30 June 2025.
+
+Threshold | NICs calculation | NICs due |
+
+Primary | £1,400 − £1048 = £352 × 8% | £28.16 |
+
+Secondary NICs
+
+As payment is made on 30 June 2025 and the apprentice is now 25 years old, the zero rate of secondary NICs up to the Apprentice UST is no longer available. All NICs should be assessed at category A.
+
+Threshold | NICs calculation | NICs due |
+
+Secondary | £1,400 − £417 = £983 × 15% | £147.45 |
+
+Total NICs due
+
+Threshold | NICs due |
+
+Primary | £28.16 |
+
+Secondary | £147.45 |
+
+Total NICs due | £175.61 |

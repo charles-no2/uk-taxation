@@ -1,0 +1,14 @@
+ETMD: securities issued on a transaction with the ETMD
+Identifier: CG45718
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45718
+Published: 2016-03-12T11:08:35+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:41:11.464803+00:00
+
+This part of the guidance CG45718 - CG45721 explains the consequences of a transfer within the ETMD at the shareholder tier for holders of shares or debentures in a transferor company who receive shares or debentures issued to them by a transferee company.
+
+In summary, where the relevant conditions are met the treatment described at TCGA 1992 section 127 is applied so that any gain or loss latent in the original shares or debentures is ‘rolled-over’ into the newly issued shares or debentures. This is achieved by deeming the transfer to be a reconstruction within the scope of TCGA 1992 section 136, resulting in the application of section 127. (For guidance on sections 136 and 127, see CG52700+ and CG51805+).
+
+Section 127 deems there to have been no disposal of the original shares or debentures and no acquisition of the shares in the transferee company as a result of the transfer. Instead, both holdings are treated as the same asset; that is to say the shares or debentures issued by the transferee company are treated as acquired for the same consideration, and at the same time as, the original shares or debentures in the transferor.
+
+For example Charlie holds 100 shares in company A that he acquired on 1/1/90 for £100. On 1/1/10 Charlie accepts an offer by Company B to acquire his shares in company A for shares in company B. It is assumed that the conditions in section 135 are met therefore section 127 has effect. Charlie now owns shares in Company B and the date of acquisition and cost for the shares in company B are 1/1/90 and £100 respectively.

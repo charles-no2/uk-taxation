@@ -1,0 +1,22 @@
+Other calculations: step 2 - abatement where there are not enough assets to pay specific gifts in full
+Identifier: IHTM26090
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26090
+Published: 2016-04-09T09:47:19+01:00
+Updated: 2016-02-11T17:11:57+00:00
+Retrieved (UTC): 2026-09-18T15:03:02.522483+00:00
+
+IHTA84/S37 (1) deals with the situation where gifts have to abate because there are not enough assets in the estate to meet them in full, even if the Inheritance Tax liability is ignored. The position in general law concerning abatement (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003)) is considered in detail elsewhere (IHTM12086 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12086)) in this manual.
+
+Example
+
+Tim leaves an estate of £300,000.
+
+By Will Tim gives three legacies of £150,000 each, one of them to charity.
+
+Normal abatement rules under the general law apply. The legacies total £450,000. The estate is only £300,000. So each legacy has to abate by one-third.
+
+Under IHTA84/S37 (1) the rule is that the abated value of each specific gift (IHTM26011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26011)) (£100,000 in the example) must be used in the partly-exempt transfer calculations. The extent of abatement is considered by reference to the situation and values at the date of death and not to the actual facts of the administration (which reflect post-death changes in value and the costs of administration).
+
+If the taxpayer or agent indicates, or the facts suggest, that IHTA84/S37 (1) may apply, you should refer the case to your manager.
+
+There are instructions elsewhere in this section on the effect of IHTA84/S37 (2) where the abatement is caused (IHTM26180) by grossing up (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003)).

@@ -1,0 +1,24 @@
+Accrued Income Scheme: ‘settlement day’
+Identifier: SAIM4080
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4080
+Published: 2016-03-19T16:25:51+00:00
+Updated: 2018-11-22T10:43:46+00:00
+Retrieved (UTC): 2026-09-18T14:26:21.979198+00:00
+
+Meaning of the ‘settlement day’
+
+It is normal practice in the gilts and bonds market for interest to be accrued to a ‘settlement day’. Once the parties have entered into a written or verbal agreement to transfer securities, a short period will elapse before completion of the contract (settlement). Settlement is normally on a ‘delivery versus payment’ (DVP) basis - there is a simultaneous and irrevocable exchange of the securities for the purchase price.
+
+The legislation reflects this by referring to an ‘interest payment day’ (SAIM4070 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4070)) that falls on or after a settlement day. There may be circumstances in which sales take place that are in theory ‘without accrued interest’ before an interest payment day with settlement taking place after that day. In practice, these are treated as sales with accrued interest, and ITA07/S630 reflects this.
+
+ITA07/S674 defines settlement day. Where the securities are transferred in accordance with the rules of a recognised market, the settlement day is the day on which the transferee agrees to settle. This will cover the very large majority of cases, and since in most cases acceptable accrued and rebate interest figures will have been identified by the market it will not normally be necessary to identify the settlement day in practice. Where the transfer is off market, the settlement day is the day on which the transferee agrees to make the payment for the securities, provided that the consideration for the transfer is money alone and full payment is due on or before the next interest payment date after the agreement for transfer is made.
+
+ITA07/S674 (4) and ITA07/S674 (5) provide the rules for securities transferred in other circumstances. Where there is no consideration for the transfer, for example in the case of a gift, or the transfer is one of the various deemed transfers (conversion, gilt exchanges, trading stock appropriations, trustees becoming entitled) and charitable trustees ceasing to be entitled, the settlement day is the day on which the securities are actually transferred.
+
+In any other case not falling into any of the above categories the settlement day is such day as the officer of HMRC decides (ITA07/S674 (6)), subject to the taxpayer’s right of appeal to the First Tier Tribunal (ITA07/S674 (7)). This power is there to frustrate attempts which might otherwise be made to postpone liability under the AIS by delaying indefinitely the date of payment of a small part of the consideration. A report should be made to BAI (Financial Products Team) before using the power.
+
+Example
+
+John buys 5,000 Treasury Stock 9% 2012 with half-yearly interest payment dates of 6 February and 6 August. The purchase is in the normal gilts market. The trade date is 1 August 2010, but settlement does not take place until 10 August 2010. The settlement date, for AIS purposes, is 10 August.
+
+The relevant interest period for the purposes of the AIS is the period in which the settlement takes place, that is, 7 August 2010 to 6 February 2011. Therefore, as John is entitled to receive the interest falling due on 6 February 2011, the securities will be treated as transferred with accrued interest and the accrued amount will be calculated on this basis. This reflects normal market practice: although the trade date falls in the ‘ex div’ period, the price John pays will be based on the settlement date, and will include 4 days’ accrued interest.

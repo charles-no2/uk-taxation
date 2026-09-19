@@ -1,0 +1,214 @@
+Partnerships: Transfers not at arm’s length and connected persons rules: SP D12: Section 8
+Identifier: CG27800
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27800
+Published: 2016-03-12T10:28:56+00:00
+Updated: 2023-04-19T08:51:53+01:00
+Retrieved (UTC): 2026-09-18T14:29:14.285201+00:00
+
+The effect of TCGA92/S17 and TCGA92/S18 is to treat transactions between connected persons or transactions between parties acting otherwise than at arm’s length as taking place at market value. Guidance on transactions between connected persons is at CG14580 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14580) and on transactions other than by way of a bargain made at arm's length at CG14540 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14540).
+
+TCGA92/S286 (4) provides that partners are connected persons except where the transaction relates to an acquisition or disposal of a partnership asset pursuant to a genuine commercial arrangement. This means that the market value rule will not apply to transactions in partnership assets which are carried out under genuine commercial arrangements and in which the partners are acting purely at arm's length.
+
+Similarly, the market value rule will not apply to changes in partnership sharing ratios occurring on the admission of a new partner who is not connected with the existing partners provided that the transaction is carried out under genuine commercial arrangements and the partners, including the incoming partner, are acting purely at arm’s length.
+
+The market value rule will apply to transfers of fractional interests in partnership assets between partners who
+
+- are otherwise connected with each other, for example, if they are connected by a family relationship such as father and son; or
+
+- are acting other than at arm’s length, for example, where no consideration is given or the consideration given is less than market value.
+
+However, section 8 of SP D12 explains that the market value rule will not be applied where no consideration or consideration less than market value passes between the partners, including incoming partners, provided that:
+
+- no consideration would have been paid had the parties been acting at arm's length, or
+
+- the consideration actually paid is not less than that which would have been paid by parties acting at arm's length.
+
+Example 1
+
+A and B carry on a business in partnership and hold equal interests in partnership assets.
+
+They agree to change their profit sharing ratios to:
+
+- A - 60%
+
+- B - 40%
+
+An enquiry establishes the fact that the arrangement in which B disposed of part of his fractional interests in partnership assets to A was a genuine commercial arrangement and that A and B are not connected persons other than by reference to TCGA92/S286 (4). Therefore the transaction can be accepted as being within the exception to TCGA92/S286 (4) and the market value rule will not apply.
+
+CG27500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27500) explains the rules that apply to the disposal by Partner B of part of his fractional interest in partnership assets to Partner A.
+
+Example 2
+
+K and L carry on a business in partnership and hold equal interests in partnership assets.
+
+K sells an asset which he owns personally to L for £6,000 at a time when its market value is £8,000.
+
+As K and L are connected persons under TCGA92/S286 (4) the market value rule applies and the asset is treated as having been disposed of by K and acquired by L for a consideration equal to its market value of £8,000.
+
+The exception to TCGA92/S286 (4) does not apply because the asset is not a partnership asset.
+
+Example 3
+
+M and N carry on a business in partnership and hold equal interests in partnership assets. They are not connected other than by means of the partnership relationship.
+
+The acquisition costs and current balance sheet values of the partnership assets were:
+
+-
+
+|
+
+Amount
+
+|
+
+Freehold property
+
+|
+
+£320,000
+
+|
+
+Goodwill
+
+|
+
+£100,000
+
+|
+
+When P was admitted to the partnership M and N agreed to change their profit sharing ratios to:
+
+- M - 25%
+
+- N - 50%
+
+- P - 25%
+
+At the time of P’s admission the market value of the partnership assets were:
+
+-
+
+|
+
+Amount
+
+|
+
+Freehold property
+
+|
+
+£400,000
+
+|
+
+Goodwill
+
+|
+
+£120,000
+
+|
+
+An enquiry establishes that:
+
+- M and P are connected persons under TCGA92/S286 (2) as M is P’s father,
+
+- P did not pay any consideration to M for his acquisition of a 25% interest in partnership assets,
+
+- when N acquired his 50% interest from M on admission to the partnership he made a direct payment of consideration to M.
+
+The payment by N to M on admission to the partnership indicates that M and P were not acting at arm’s length. The market value rule applies in relation to the disposal of a 25% interest by M and the acquisition of a 25% interest by P. M’s disposal proceeds and P’s acquisition costs in respect of the 25% interest in partnership assets changing hands will be calculated as follows:
+
+Freehold property
+
+MV £400,000 x 25% = £100,000
+
+Goodwill
+
+MV £120,000 x 25% = £30,000
+
+The gains accruing to M are calculated as follows:
+
+Partner M
+
+|
+
+Freehold property
+
+|
+
+Goodwill
+
+|
+
+Disposal proceeds
+
+|
+
+£100,000
+
+|
+
+£30,000
+
+|
+
+Less acquisition costs
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£320,000 x 25%
+
+|
+
+£80,000
+
+|
+
+-
+
+|
+
+£100,000 x 25%
+
+|
+
+-
+
+|
+
+£25,000
+
+|
+
+Gains
+
+|
+
+£20,000
+
+|
+
+£5,000
+
+|
+
+Example 4
+
+A large professional partnership which consists of 40 partners including Y and Z agree to change their profit sharing ratios. Under the terms of the partnership agreement no payments are made between the partners. Y's fractional interest is increased and Z's fractional interest is reduced.
+
+An enquiry establishes the fact that Y and Z are connected persons under TCGA92/S286 (2) as they are brothers but that none of the other partners are connected persons other than by virtue of the partnership relationship.
+
+Part of the increase in Y’s interest in the partnership assets is attributable to the decrease in Z’s interest. As Y and Z are connected by a family relationship the market value rule would normally be applied to the extent that Z has disposed of part of his fractional interest in partnership assets to Y. However, section 8 of SP D12 explains that as the facts show that the arrangement whereby no payments were made between Y and Z was a genuine commercial arrangement that applied to all of the partners the market value rule will not be applied.
+
+CG27500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27500) explains the rules that apply on disposals arising on a change in fractional interests in partnership assets.

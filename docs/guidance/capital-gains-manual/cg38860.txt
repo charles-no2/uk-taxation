@@ -1,0 +1,52 @@
+Paragraph 126 elections: what is the effect of the election?
+Identifier: CG38860
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38860
+Published: 2016-03-12T10:58:38+00:00
+Updated: 2023-04-24T10:26:40+01:00
+Retrieved (UTC): 2026-09-18T14:47:40.975496+00:00
+
+FA08/Sch7/para126(8)
+
+Relief is given for the year in which the capital payment is matched against a section 2(2)* amount. A UK resident but non-domiciled individual beneficiary is not liable to Capital Gains Tax on that part of the gain that relates to the period before 6 April 2008. FA08/Sch7/para126(8) restricts the charge to Capital Gains Tax to the “relevant proportion” of the gain.
+
+No effect on ordinary operation of TCGA/S87
+
+The election has no effect on the matching of section 2(2)* amounts. The section 87 gain accrues to the UK resident but non-domiciled beneficiary in accordance with the ordinary matching rules. Both the section 2(2)* amount and the capital payments are reduced as a result of the matching. The sole effect of the election is to reduce the amount of the section 87 gain on which the UK resident but non-domiciled beneficiary has to pay Capital Gains Tax.
+
+“Relevant proportion” of gain
+
+The “relevant proportion” of the gain is defined in FA08/Sch7/para126(9) as:
+
+- A
+
+- B
+
+A is what the section 2(2)* amount would be if it was calculated by reference to the market value of the assets held at 6 April 2008. B is the actual section 2(2)* amount. If A is greater than, or equal to, B then all of the gain is liable to Capital Gains Tax.
+
+So if A is £120,000 and B is £200,000 the relevant proportion is 120/200 = 60%. If the section 87 gains accruing to the non-domiciled beneficiary are £40,000 the beneficiary would be charged on only £24,000 of those gains. See CG38865 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38865).
+
+Fall in value of asset since 6 April 2008
+
+A section 2(2)* amount cannot be a negative amount. So if the value of the asset has fallen since 6 April 2008 the value of A will be reduced to 0 not a negative amount. For example:
+
+Asset:
+
+- |  Amount |
+
+Cost September 2006 |  £65,000 |
+
+Market value 6 April 2008 |  £100,000 |
+
+Disposal proceeds October 2013 |  £85,000 |
+
+A = 0 not -£15,000 and B = £20,000. The relevant proportion is 0/20 and that will reduce any 87 gain chargeable to nil. See CG38870. See 90 year 2013-14 for a more detailed example of a fall in value in which, because of the value of other assets, the value of A is not reduced to 0.
+
+Only value the assets disposed of
+
+The only assets included in the A/B formula are the assets disposed of in the tax year. This means that assets held at 6 April 2008 need be valued only when they are disposed of. If all the later capital payments are made to UK domiciled beneficiaries the 6 April 2008 value of the remaining assets will not be needed.
+
+Asset needs to be held continuously
+
+The asset must be held continuously since 6 April 2008 to qualify for relief, FA08/Sch7/para126(10)(b). FA08/Sch7/para126(13) deals with the case in which TCGA92/S43 applies because the asset is derived from another asset in the same ownership. If the settlement held the old asset at 6 April 2008 paragraph 126(13) provides that the new asset shall be treated as if it were owned on 6 April 2008.
+
+*This section was re-written for disposals from 6 April 2019 to section 1(3) see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

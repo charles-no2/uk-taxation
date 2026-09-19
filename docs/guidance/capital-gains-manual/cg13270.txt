@@ -1,0 +1,24 @@
+Value shifting: TCGA92 S30: disposals
+Identifier: CG13270
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13270
+Published: 2016-03-12T10:03:49+00:00
+Updated: 2019-04-03T17:01:52+01:00
+Retrieved (UTC): 2026-09-18T14:37:14.738903+00:00
+
+The value shifting rules in Section 30 do not apply on a disposal at no gain/no loss under
+
+- TCGA92/S58 (1) - disposals between spouses or between civil partners, see CG22200+
+
+- TCGA92/S62 (4) - disposals by personal representatives to legatees, see CG30770
+
+- TCGA92/S171 (1) - disposals within a group of companies, see CG45305.
+
+Relevant assets
+
+For disposals before 14 March 1989, the value shifting rules applied only where the scheme or arrangements reduced the value of the asset disposed of. FA89/S135 extended the value shifting rules to cover in addition the reduction in value of any other `relevant asset’. The extension to relevant assets only applies where a company disposes of shares or securities. In such a case an asset is a relevant asset if it is owned by a company in the same group as the company making the disposal, TCGA92/S30 (2) and TCGA92/S33 (9). Detailed instructions on relevant assets are at CG46920+.
+
+Finance Act 2011 introduced a new Targeted Anti-Avoidance Rule for disposals of shares and securities by companies on or after 19 July 2011. The relevant asset provision is only applicable to such disposals and has therefore been omitted from TCGA92/S30. See CG48500+ for guidance on the new rule for companies, TCGA02/S31.
+
+Disposal before acquisition assets
+
+In a straightforward case Section 30 prevents avoidance where a person acquires an asset, strips value from it in the form of a tax-free benefit, and then disposes of the asset. Without a special rule there would be scope for avoidance by first disposing of an asset not yet acquired, next increasing its value, and only then acquiring it. To counter this there is a special rule in TCGA92/S30 (9). In a case where the disposal of an asset precedes its acquisition, the references in TCGA92/S30 (1)(a) and TCGA92/S30 (2) to a reduction in value are to be taken as including a reference to an increase in value.

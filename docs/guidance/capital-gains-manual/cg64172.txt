@@ -1,0 +1,52 @@
+Business Asset Disposal Relief: reduction in lifetime limit from 11 March 2020: anti-forestalling rule: unconditional contracts
+Identifier: CG64172
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64172
+Published: 2020-09-21T14:36:17+01:00
+Updated: 2020-09-25T07:57:27+01:00
+Retrieved (UTC): 2026-09-18T14:34:31.566559+00:00
+
+Entrepreneurs’ relief was renamed in Finance Act 2020 with effect from 6 April 2020. The new name is generally used in this manual but retained here as the rules take effect before that date.
+
+The lifetime limit for Entrepreneurs’ Relief (ER) was reduced from £10 million to £1 million for disposals on or after 11 March 2020. The legislation provided a number of “anti-forestalling” rules to counter certain arrangements that sought to “lock in” entitlement to the higher limit in anticipation of the changes to the relief. Unconditional contract planning is addressed by paragraph 3 of Schedule 3 Finance Act 2020
+
+TCGA92/S28 provides that the date of disposal of an asset for CGT purposes is the date of the contract rather than the date the contract is completed. The rule also provides that a conditional contract is treated in the same way once the relevant condition is met. This provides an opportunity to plan for potential changes to the CGT rules.
+
+The legislation contains rules that counter forestalling arrangements that seek to ‘lock-in’ to the pre-Budget day lifetime limit. Those arrangements make use of:
+
+- unconditional contracts entered into before Budget day,
+
+- the time of disposal rule at section 28(1) of TCGA 1992 applies, and
+
+- then the contract for the disposal completes after Budget day.
+
+The arrangements normally include the creation of a company or other vehicle that ‘stands on contract’ until such time as a further purchaser is found.
+
+The rule being introduced maintains the date of disposal for the contracts but applies the new lifetime limits to these disposals unless the parties to the contract demonstrate:
+
+- that they did not enter into the contract with a purpose of obtaining a tax advantage by reason of the timing rule in section 28 of TCGA 1992, and
+
+- where the parties to the contract are connected, that the contract was entered into for wholly for commercial reasons
+
+For these purposes the meaning of ‘connected person’ is that given by section 286 of TCGA 1992. Information on this can be found in HMRC’s Capital Gains Manual at CG14580 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14580).
+
+An arrangement would normally be expected to fall outside of the tests, and be subject to the new lifetime limits, where the unconditional contract has been entered into in anticipation of a change to the scope of ER, as with the example shown below.
+
+Claims to disapply the rule
+
+Where a person believes that the tests are met, and the disposal is subject to the pre-11 March 2020 lifetime limits, they must make a claim to this effect (an ‘additional claim’) as well as the normal claim for Entrepreneurs’ Relief. For most persons this would mean including both claims in a Self Assessment tax return (see sections 42 to 43F of the Taxes Management Act 1970).
+
+The additional claim is to include a statement or declaration that the contract was not entered into with a purpose of obtaining a Capital Gains Tax advantage by reason of the application of section 28 of TCGA 1992 and, where the disposal is to a connected person, that the contract was entered into for wholly commercial purposes. Where a tax return is made, this statement should be included in the ‘white space’ in the return or as an attachment.
+
+Where the affected gains relate to disposals by trustees of a settlement the statement is to be made jointly with the qualifying beneficiary in the same way as with ER claims under section 169M(2)(a) of TCGA 1992.
+
+Example
+
+X owns all the shares in M Ltd that are standing at a considerable gain and would qualify for Entrepreneurs’ Relief. She has no immediate intention of selling the shares but in January 2020 she became concerned that the relief would be abolished. She was advised to set up a separate company, N Ltd, and enter into an agreement to sell her shares to that company for their market value at the time the contract is completed.
+
+If the rules for the relief do not change then the contract will remain uncompleted and may be cancelled. However, if the rules do change then she hopes to obtain relief under the former rules. So when a third party approaches to buy her shares in M Ltd the contract with N Ltd will be completed and the third party will then buy the shares from N Ltd. The rule in TCGA1992/S28 means that the disposal to N Ltd is treated as taking place in January 2020, before the lifetime limit reduced.
+
+The anti-forestalling means that where an unconditional contract is entered into before 11 March 2020 and is completed after that date then, for the purposes of determining the applicable lifetime limit only, the disposal will be treated as taking place at the date of completion and not the date of the contract. This includes conditional contracts where conditions were satisfied before 11 March 2020. This means that the new lifetime limit will apply to the gain arising on the disposal. The existence of this rule may mean that in practice the contracts it targets are unlikely to be completed.
+
+This provision addresses the sort of arrangement shown in the example above: where a contract is put in place with an entity where there is no intention of completing until the “genuine” buyer is found or where it was put in place in order to lock in Entrepreneurs’ Relief under the rules at the time the contract was entered into.
+
+You should regard the “contract” as being the agreement of X to sell an asset or assets to Y. If the process of entering into a contract was accelerated in order to put it into place before Budget day 11 March 2020 then that does not mean that the contract itself was entered into for the purpose of obtaining an advantage under S28. Nor, if connected persons are involved, that will mean that it was entered into for other than commercial purposes. Similarly, you should not be concerned if the finer details are changed or a lower consideration is accepted in order to put the contract in place before 11 March.

@@ -1,0 +1,74 @@
+Overseas leasing: Joint lessees
+Identifier: CA24400
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24400
+Published: 2016-04-16T08:50:46+01:00
+Updated: 2026-03-30T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:20:54.967627+00:00
+
+CAA01/S116 & S117
+
+You may have a case where plant or machinery is leased to two or more people jointly. The normal rules do not work because they look at the use by the lessee. If there are several lessees some may be non-qualifying lessees while others are not. There are rules (the joint lessees legislation) that apply where plant or machinery is leased to two or more people jointly and both the following conditions are satisfied:
+
+- At least one lessee is not resident in the UK and does not use the plant or machinery exclusively for earning profits chargeable to UK tax,
+
+- The leasing is not protected leasing CA24100 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24100).
+
+When the joint lessees use the plant or machinery for the purposes of a qualifying activity or qualifying activities otherwise than for leasing the overseas leasing legislation does not apply to all or part of the expenditure on the plant or machinery. It does not apply to the extent that it appears that the profits or gains of the qualifying activity arising throughout the designated period (or during the period of the lease, if shorter) will be chargeable to tax. The part of the expenditure that is excluded from the overseas leasing legislation will qualify for a normal WDA. If you have a case like that you split the expenditure and treat it as being expenditure on two separate items of plant or machinery, one subject to the overseas leasing rules and one not.
+
+Example Jim buys a computer for £8,000. Jim leases the computer jointly to Ray and Robbie, who use the computer for a qualifying activity other than leasing.
+
+Robbie is not resident in the UK and does not use the computer exclusively for earning profits chargeable to UK tax. It appears that, throughout the designated period, 25% of the profits of Ray and Robbie's qualifying activity will be chargeable to tax.
+
+Because 25% of Ray and Robbie's profits will be chargeable to tax, the overseas leasing legislation does not apply to 25% of the expenditure incurred on the computer, £2,000. The overseas leasing legislation applies to the other £6,000.
+
+Where plant or machinery is leased to joint lessees, and:
+
+- all or part of the expenditure on it has qualified for a normal writing down allowance under the above rules, and
+
+- at any time in the designated period no lessee uses the plant or machinery for the purposes of a qualifying activity the profits or gains of which are chargeable to tax, and
+
+- there is no recovery of allowances because no allowances are due CA24350 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24350) at that time and there has been no recovery of allowances at any earlier time,
+
+the separate item of plant or machinery that has qualified for a normal WDA is treated as if it had begun to be used for overseas leasing that is not protected leasing CA24100. This means that there is a recovery of excess allowances CA24210 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24210).
+
+Example As in the example above, Jim owns a computer that he leases jointly to Ray and Robbie for use in a qualifying activity other than leasing. Robbie is not resident in the UK and does not use the computer exclusively for earning profits chargeable to UK tax. It appears that, throughout the designated period, 25% of the profits of Ray and Robbie's qualifying activity will be chargeable to tax. This means that 25% of the expenditure incurred on the computer qualifies for a normal WDA.
+
+If at some later time in the designated period, neither Ray nor Robbie uses the computer for a qualifying activity whose profits are chargeable to tax in the UK, this is what happens:
+
+- There is a recovery of excess allowances given on the 25% of the expenditure that has qualified for a normal writing down allowance,
+
+- Jim, the person who owns the computer, has to give notice of the change of use to the Inland Revenue CA24500 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24500).
+
+These are the rules that apply where:
+
+- all or part of the expenditure on plant or machinery has qualified for a first year allowance or a normal writing down allowance other than one under the joint lessees legislation, and
+
+- at some subsequent time in the designated period the plant or machinery begins to be leased to joint lessees at least one of whom is not resident in the UK and does not use the plant or machinery exclusively for earning profits chargeable to tax, and the leasing is not protected leasing, and
+
+- while it is so leased there is a time in the designated period when none of the joint lessees use the plant or machinery for the purposes of a qualifying activity the profits of which are chargeable to UK tax, and
+
+- at that time there is no recovery of allowances because no allowances are due CA24350 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24350) and there has been no recovery of allowances at any earlier time.
+
+Where the above conditions are satisfied you should treat the whole of the plant or machinery (not just a part of it) as if it had begun to be used for overseas leasing that is not protected leasing. This means that there is a recovery of excess allowances CA24210 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24210).
+
+There are also rules that apply where:
+
+- plant or machinery is leased to two or more people jointly so that the joint lessees legislation applies,
+
+- all or part of the expenditure on the plant or machinery has qualified for a normal writing down allowance under the joint lessees legislation,
+
+- at the end of the designated period the plant or machinery is leased to joint lessees -and there has not been a recapture of allowances in relation to the part of the expenditure which has qualified for normal writing-down allowances, and
+
+- it appears that the extent to which the plant or machinery has in fact been used for the purposes of a qualifying activity or activities within the charge to tax is less than the original estimate taken into account in determining how much of the expenditure qualified for a normal writing down allowance.
+
+The amount of expenditure which qualifies for a normal writing down allowance will have been based on the extent to which the plant or machinery was expected to be used for the purposes of a qualifying activity within the charge to tax and so it will have been too high. At the end of the designated period there is a recovery of excess relief on that part of the expenditure that has qualified for a normal writing down allowance. The excess relief corresponds to the over-estimate of the extent to which the plant or machinery would be used for the purposes of a qualifying activity chargeable to tax.
+
+If disposal proceeds are brought to account, they are apportioned by reference to the extent of actual use for the purposes of a qualifying activity or qualifying activities chargeable to tax in the UK.
+
+Example As in the example above, Jim leases a computer jointly to Ray and Robbie. Ray and Robbie use the computer for a qualifying activity other than leasing. Robbie is not resident in the UK and does not use the computer exclusively for earning profits chargeable to UK tax, so that the joint lessees legislation applies. It appears that, throughout the designated period, 25% of the profits of Ray and Robbie's qualifying activity will be chargeable to tax. This means that 25% of the expenditure incurred on the computer will qualify for writing down allowances at the main rate. (The rates of WDA can be found at CA23220 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23220).)
+
+At the end of the designated period, the computer has in fact been used 20% for the purposes of a qualifying activity whose profits are chargeable to tax. So 5% (25% - 20%) of the expenditure that has qualified for a normal writing down allowance should not have done so meaning that:
+
+- there is a recovery of excess relief on 5% of the expenditure on the computer, and
+
+- if disposal proceeds are brought to account, they are split in the ratio 20:80 because the computer has actually been used 20% for the purposes of a qualifying activity chargeable to tax.

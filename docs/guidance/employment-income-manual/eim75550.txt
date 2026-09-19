@@ -1,0 +1,101 @@
+The taxation of pension income: lump sums from foreign pension schemes
+Identifier: EIM75550
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75550
+Published: 2022-03-28T16:34:05+01:00
+Updated: 2024-11-27T12:37:27+00:00
+Retrieved (UTC): 2026-09-18T14:17:33.005015+00:00
+
+Overview (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75550#overview)
+Taxable amount of the lump sum (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75550#taxable-amount-of-the-lump-sum)
+
+Overview
+
+Section 574A ITEPA 2003
+
+From 6 April 2017, certain lump sums are now taxable. These lump sums are paid to, or in respect of, a member of a foreign pension scheme which is not one of the following:
+
+- a registered pension scheme
+
+- a relevant non-UK scheme (RNUKS)
+
+- an employer-financed retirement benefits scheme (EFRBS) established in the UK
+
+These lump sums are called ‘relevant lump sums’. A lump sum will be taxable under section 574A only if the member is UK resident or, if the member has died, they were UK resident immediately before their death. This includes cases where the beneficiary is not themselves resident in the UK.
+
+Most commonly a payment will be a relevant lump sum if it is paid to or in respect of a UK resident member under a personal pension arrangement established outside the UK.
+
+If the payment is not taxed in the UK due to the operation of a double taxation agreement, it is a ‘relevant withdrawal’ for the temporary non-residence rules. The term ‘pension scheme’ has the same meaning as in section 150(1) FA 2004 (see PTM021000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm021000)).
+
+Relevant non-UK scheme (RNUKS)
+
+The term ‘relevant non-UK scheme’ is set by paragraph 1(5) schedule 34 FA 2004. PTM113210 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113210) provides guidance on the definition of an RNUKS, but broadly it is a foreign pension scheme that has benefitted from at least one of the following UK tax reliefs:
+
+- on contributions
+
+- funds transferred in from a registered pension scheme
+
+- under section 307 ITEPA 2003
+
+If a lump sum is paid under an RNUKS and the member payment provisions of schedule 34 FA 2004 do not apply to that payment, it will be a relevant lump sum under section 574A(2) ITEPA 2003. See the guidance at PTM113210 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113210) for information on the member payment provisions.
+
+Employer-financed retirement benefit scheme (EFRBS)
+
+Chapter 2 Part 6 ITEPA 2003
+
+An EFRBS is a scheme or arrangement for the provision of benefits to or in respect of an employee or former employee, consisting of or including ‘relevant benefits’. For a definition of ‘relevant benefits’ and more information about EFRBS see EIM15000 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim15000) onwards.
+
+Where a payment is made under an EFRBS, consider whether either Chapter 2 Part 6 or Part 7A ITEPA 2003 (see EIM45000 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45000) onwards) will apply.
+
+Taxable amount of the lump sum
+
+Section 574A(3) to (6) ITEPA 2003
+
+The starting point is that 100% of the lump sum payment will be taxable, subject to the 3 steps at section 574A(3) under which a reduction of the taxable amount of the lump sum may be available.
+
+Step 1 provides for a deduction from the lump sum in respect of the commutation of rights to receive pension income on which no liability to tax arises by reason of an exemption in Chapter 17 Part 9 ITEPA 2003. For details of exemptions see EIM75080 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75080).
+
+Step 2 provides for a deduction in relation to lump sum rights built up in a pension scheme before 6 April 2017. The deduction is limited to the value of the rights immediately before that date and does not include any investment growth thereafter. See Application of step 2 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75550#application-of-step-2) section below for more details.
+
+Step 3 provides for a deduction in respect of a lump sum payable under an overseas pension scheme where an amount would not be liable to Income Tax if it was paid under a registered pension scheme. For a definition of ‘overseas pension scheme’ and the conditions such a scheme must satisfy see PTM112200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm112200).
+
+The member is assumed to have all or part of their lump sum allowance available for the purposes of determining whether or not the lump sum could be paid by a registered pension scheme. For information on the taxation of lump sums paid under a registered pension scheme see EIM75420 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75420) for payments to members and EIM75620 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75620) for payments to beneficiaries following a member’s death.
+
+Application of step 2
+
+Scheme was not an EFRBS immediately before 6 April 2017 (for example, a personal pension scheme)
+
+Following any deduction under step 1, deduct from the remaining lump sum the value immediately before 6 April 2017 of the rights specifically to receive benefits by way of lump sum payments. These are rights which:
+
+- accrued before 6 April 2017
+
+- specifically to receive benefits in the form of a lump sum (or lump sums)
+
+The term ‘rights’ includes both actual and prospective rights accrued before 6 April 2017.
+
+The right to receive benefits by way of lump sum payments includes both actual and prospective rights held:
+
+- unconditionally
+
+- under a member’s election
+
+- at the option or direction of the trustee of the fund (where applicable)
+
+The detailed time-test for whether the member had such a right to receive a lump sum payment (whether by explicit provision, by election, by trustee’s option or by discretion) is that the right to receive a lump sum either:
+
+- could have been exercised at 5 April 2017
+
+- could have been exercised at that date had the member met the necessary conditions (for example, around age)
+
+For the purposes of this test, it does not matter if:
+
+- the right is exercised later
+
+- the lump sum includes growth occurring after 5 April 2017 (the value of the growth is not included in the step 2 deduction)
+
+Example: payment from overseas personal pension scheme
+
+Tom is UK resident and in November 2017 receives a lump sum payment of £150,000 from his overseas personal pension scheme, to which he has been contributing for several years. This scheme does not meet the conditions to be an overseas pension scheme within the meaning of section 150(7) FA 2004.
+
+At 5 April 2017 the value of Tom’s lump sum rights under the scheme was £130,000 and there has not been any growth on that fund value since that date.
+
+The starting point is that the full amount of the relevant lump sum (£150,000) will be taxable as foreign pension income. However, a deduction is available under step 2 in respect of the value at 5 April 2017 of the rights accrued before 6 April 2017 specifically to receive benefits by way of lump sum payments (£130,000). The taxable amount of the lump sum will therefore be £20,000 (£150,000 − £130,000).

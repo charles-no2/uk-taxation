@@ -1,0 +1,30 @@
+Decentralised Finance: Lending and staking: Chargeable Gains: Examples: Example 6: borrower satisfies the loan
+Identifier: CRYPTO61676
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61676
+Published: 2022-02-02T15:00:06+00:00
+Updated: 2022-02-02T15:32:16+00:00
+Retrieved (UTC): 2026-09-18T16:18:44.653995+00:00
+
+Paula loaned 500 tokens to Glyn for 12 months. The loan agreement included that Paula would receive a 5% rate of return on the loan.
+
+On 20/05/20XX, Glyn transferred 525 tokens to Paula to satisfy the terms of the loan. The tokens had a pooled acquisition cost of £5,250. At that time of the transfer to satisfy the loan, the tokens had a market value of £12 each.
+
+Glyn’s Chargeable Gains (CG) computation will be as follows:
+
+. |  . |  £ |
+
+Consideration |  525 x £12 |  6,300 |
+
+Allowable costs |  S104 - £5,250 x 525 / 525 |  (5,250) |
+
+Gain |  . |  1,050 |
+
+Glyn’s section 104 pool will be adjusted as follows:
+
+Date |  Quantity of tokens |  Allowable costs (£) |
+
+Opening balance |  525 |  5,250 |
+
+20/05/20XX |  (525) |  (5,250) |
+
+Closing balance |  0 |  0 |

@@ -1,0 +1,20 @@
+Deduction of tax: yearly interest: artificial arrangements
+Identifier: SAIM9110
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim9110
+Published: 2016-03-19T16:29:38+00:00
+Updated: 2019-06-12T15:33:49+01:00
+Retrieved (UTC): 2026-09-18T14:26:58.203638+00:00
+
+Anti-avoidance
+
+Anti-avoidance legislation at CTA10/PT16/CH3 is designed to frustrate artificial arrangements for dressing up payments of interest in another form.
+
+An example might be where A grants B an interest-free loan and B grants A an annuity for the life of the loan, or transfers the right to income from an asset to A for the duration of the loan. The provision applies to transactions connected with the lending of money or the giving of credit, whether effected between the lender and the borrower or between ‘persons connected with them’ (’connected person’ is defined in CTA10/S1122, for examples of connected persons see CG14580 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14580) onwards which deals with similarly worded legislation).
+
+If the transaction provides for the payment of an annuity or annual payment, the payment is to be treated as annual interest for all Income Tax (ITA07/S809CZB) and Corporation Tax purposes (CTA10/S778). The purpose of this sub-section was to prevent persons from obtaining tax relief by paying an annuity or annual payment where no relief would have been available for payment of interest.
+
+Since the enactment of ITA07/S900 and ITTOIA05/S727, previously ICTA88/S347A (SAIM9050 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim9050)) which limited the circumstances in which the payer of an annuity or other annual payment can deduct and retain income tax, the tax treatment of annual interest and annuities/annual payments is the same in most circumstances. However this sub-section is still relevant where the lender is overseas. Payments by individuals and trustees of annual interest to non-residents should be made under deduction of tax (SAIM9070 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim9070)), but payments of annuities/annual payments by non-corporates (whose income has been wholly subject to income tax) can be made gross. Without this sub-section there would therefore be the opportunity for a lender to receive gross payment for what is essentially interest.
+
+If the transaction is one which involves the assignment, transfer or waiver of rights to income from property (for instance a security) without the actual transfer or sale of the property itself then ITA07/S809 (CZC) (2) or CTA10/S779 (2) impose a charge on the debtor. This charge is to income tax or to corporation tax on an amount equal to the income assigned. The purpose of this section is to prevent debtors from escaping tax on income corresponding to interest for which they could not have claimed relief. The person to whom the right to the income has been transferred will remain liable to tax on this income.
+
+ITA07/S809 (CZC) (5) and (6) and CTA10/S779 (5) and (6) provide that, if property is bought on credit and the rights attaching to the property restrict the purchaser’s income from the property until it is paid for, so that there is no separate provision for waiver of rights, then the above will apply as if there was an agreement to forgo the relevant amount of income.

@@ -1,0 +1,26 @@
+Capital gains group definition: introduction and outline of guidance
+Identifier: CG45100
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45100
+Published: 2016-03-12T11:06:08+00:00
+Updated: 2016-01-25T16:53:40+00:00
+Retrieved (UTC): 2026-09-18T14:40:48.214077+00:00
+
+This guidance focuses on the definition of a capital gains group as at 2011. There were significant changes to the definition in 1989 and 2000 that are discussed briefly. If you need to consider the detailed guidance applying before the changes then this is available from commercial tax information packages or directly from Capital Gains Technical Group.
+
+The main rules:
+
+- What entities are capable of being members of a group, TCGA92/S179(9), CG45105.
+
+- A capital gains group consists of a “principal” company and its 75% subsidiaries provided they are also effective 51% economic subsidiaries of the principal company. The latter condition was introduced in 1989 (with transitional rules for companies “degrouped” as a result). TCGA92/S179(2) and (3), CG45110 and CG45115.
+
+- A company cannot be a principal company if it is itself a 75% subsidiary with one exception. TCGA92/S170(4) and (5), CG45120.
+
+- A company cannot be a member of more than one group and there are detailed “tiebreaker” provisions to prevent this. TCGA92/S170(6), CG45125.
+
+- There is a rule to maintain continuity of group membership where the principal company of a group becomes a subsidiary. TCGA92/S170(10) and CG45130.
+
+- The winding up of a company does not bring an end to group relationships. TCGA92/S170(11) and CG45135.
+
+Before 1 April 2000 the capital gains definition of a group of companies generally applied only to UK resident companies. There were transitional rules to deal with companies that became members of a (different) group as a result of the changes.
+
+The capital definition of a group is required principally because transfers of assets between members of the same group will be on a no gain/no loss basis under TCGA92/S171A. It applies to all the TCGA provisions concerning groups of companies with an important modification. When considering group membership for the purposes of the Substantial Shareholdings Exemption, the reference to a 75% subsidiary is modified to refer to a 51% subsidiary. See CG53006.

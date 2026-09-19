@@ -1,0 +1,42 @@
+Accrued Income Scheme: double taxation relief
+Identifier: SAIM4370
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4370
+Published: 2016-03-19T16:26:39+00:00
+Updated: 2022-05-05T12:19:20+01:00
+Retrieved (UTC): 2026-09-18T14:26:32.095643+00:00
+
+Double taxation relief
+
+Where an AIS charge arises on a foreign stock on which the interest would have suffered foreign tax eligible for credit relief if interest had been received, credit for foreign tax is allowable for the lower of
+
+- the rate of United Kingdom tax charged on the accrued income profit, and
+
+- the rate of foreign tax suffered on the interest payable at the end of the interest period for which the charge arises.
+
+If there is an accrued income loss to be set against foreign interest, reduce the credit for foreign tax in the proportion which the allowance bears to the interest.
+
+Example
+
+Taxpayer holds foreign stock on which the interest suffers tax eligible for credit at 15%. Interest paid on 30 June and 31 December.
+
+In the interest period to 30 June 2015, the taxpayer makes transactions resulting in an AIS loss of £200. He receives interest (gross) of £1,000 less £150 foreign tax.
+
+In August 2016 he sells the entire holding and there is an AIS profit of £300. He is liable to United Kingdom tax at 22%. His double taxation relief is as follows
+
+Foreign interest: £1,000
+
+Less Accrued Income relief : £200
+
+Total = £800
+
+Foreign tax deducted :£150
+
+Credit restricted to : £1000 - £200 x £150/£1000 = £120
+
+Accrued income profit: £300
+
+Allow credit for foreign tax on AIS charge £300 @15% = £45
+
+Total double taxation relief : £120 + £45 = £165
+
+The double taxation relief given can exceed the foreign tax suffered (£165 exceeds the £150 suffered).

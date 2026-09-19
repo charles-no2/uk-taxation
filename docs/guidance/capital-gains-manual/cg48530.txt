@@ -1,0 +1,38 @@
+Value shifting: Corporation Tax anti-avoidance rule for disposals of shares or securities from 19 July 2011: the legislation
+Identifier: CG48530
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48530
+Published: 2016-03-12T11:21:31+00:00
+Updated: 2016-01-25T17:17:29+00:00
+Retrieved (UTC): 2026-09-18T14:42:07.001758+00:00
+
+Key conditions
+
+The rule applies where two conditions are met:
+
+- There are “arrangements” that materially reduce the value of shares or securities, TCGA92/S31(1)(a), and
+
+- One of the main purposes of the arrangements is of obtaining a “tax advantage”, TCGA92/S31(1)(b).
+
+The tax advantage may arise to the vendor group company making the share disposal or to any other person, TCGA92/S31(3)(b).
+
+However, the rule will never apply where the arrangements consist solely of making an “exempt distribution”, TCGA92/S31(1)(c).
+
+Effect of the rule
+
+Where the rule applies the effect is that the disposal consideration for the shares is increased by a just and reasonable amount to counter the tax advantage obtained. The adjustment will take into account the overall tax consequences of the arrangements, TCGA92/S31(2). For example, if the arrangements have the effect of reducing consideration for a sale of shares by 200 but also have the direct consequence of triggering a degrouping charge gain of 50, then an adjustment of 150 may be appropriate.
+
+Relevant assets
+
+The rule applies to a reduction in value of a “relevant asset” because otherwise it would be possible to reduce the value of the target company, transfer that company to another group company with a capital gains cost corresponding to that reduced value (known as “enveloping”) and then sell the shares in the second company to the purchaser. CG46808 provides further background. A relevant asset is any asset owned by the vendor group at the time of the disposal, TCGA92/S31(3)(a). See example 3 in CG48560.
+
+Increases in value
+
+Because it is possible for an asset to be sold before it has been acquired then, in such circumstances, the rule can apply where the arrangements result in an increase in the value of a company, TCGA92/S31(4). See CG13270 for further background.
+
+Interaction with TCGA92/S29
+
+TCGA92/S29 creates a deemed disposal of shares where, rather than simply selling shares in the target company, that company issues further shares to the purchaser or the rights in existing shares are altered. TCGA92/S29 operates where this results in a movement of value to the purchaser. There will be a deemed disposal if the value of the target company has been reduced by arrangements covered by TCGA92/S31 before the shares are issued or have their rights altered, TCGA92/S31(5) & (6). See CG13220 for guidance on TCGA92/S29.
+
+Meaning of “securities”
+
+The rule applies for the purposes of Corporation Tax to disposals of shares or securities. TCGA92/S31(7) provides that the meaning of “securities” is that given by TCGA92/S132. Examples of a security include the loan stock or similar security of any company, whether secured or unsecured. There is further guidance CG53400+.

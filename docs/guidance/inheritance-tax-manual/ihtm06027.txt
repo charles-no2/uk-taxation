@@ -1,0 +1,36 @@
+Rules about excepted estates: restriction of normal expenditure out of income exemption
+Identifier: IHTM06027
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm06027
+Published: 2016-03-20T09:22:43+00:00
+Updated: 2021-12-14T11:44:56+00:00
+Retrieved (UTC): 2026-09-18T14:54:00.712671+00:00
+
+With effect from 1 March 2011, any gifts which exceed £3,000 per tax year and which are taken as exempt as normal expenditure out of income (IHTM14231 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14231)) are treated as chargeable transfers and must be taken into account as specified transfers (IHTM06018 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm06018)) in establishing whether or not an estate qualifies as an excepted estate.
+
+Only if the monetary limit for specified transfers is then exceeded, or if the gross value of the estate including specified transfers exceeds the appropriate nil rate band will the estate fail to qualify as an excepted estate.
+
+This rule also applies to the estate of the first deceased person for the purposes of establishing whether or not transferable nil rate band (TNRB) may be claimed (IHTM06024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm06024)).
+
+Example 1
+
+David died on 4 March 2011 leaving a free estate of £200,000 and having made a number of potentially exempt transfers (PETs) (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)) totalling £90,000. He also made regular payments of £4,000 per year to his son out of income.
+
+The regular payments over the 7 years before the death total £28,000. These are treated as chargeable transfers, so the value of specified transfers is £118,000. The aggregate value of the estate is £318,000.
+
+As the value of the specified transfers does not exceed £150,000 and the aggregate value of the estate does not exceed the nil rate band, the estate qualifies as an excepted estate.
+
+Example 2
+
+Joan died on 14 April 2011 leaving a free estate of £100,000. She was entitled to a life interest in £50,000 from the estate of her brother and had made PETs totalling £130,000. In the 4 years before she died she made regular payments of £6,000 per year to her daughter; before this the payments had been of £3,000 per year - all out of income.
+
+The regular payments of £3,000 per year are ignored. The four payments of £6,000 total £24,000 and are treated as chargeable transfers. When added to the PETs of £130,000, the value of specified transfers is £154,000. The aggregate value of the estate is £304,000.
+
+Although the aggregate value of the estate does not exceed the nil rate band, the value of the specified transfers is more than £150,000, so the estate does not qualify as an excepted estate and form IHT400 must be completed and delivered.
+
+Example 3
+
+Robert died on 17 March 2011 leaving a free estate of £300,000. He had made regular payments out of income of £5,000 per year to his daughter out of income.
+
+The regular payments over the 7 years before death total £35,000 which, when added to the gross value of the free estate, give an aggregate value of £335,000.
+
+As the aggregate value exceeds the nil rate band, the estate cannot qualify as an excepted estate unless Robert survived his civil partner and his estate met the conditions (IHTM06024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm06024)) to allow Robert’s personal representatives to claim TNRB.

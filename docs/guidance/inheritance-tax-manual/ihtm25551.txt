@@ -1,0 +1,114 @@
+APR/BPR 100% relief allowance: settlements - “pre-commencement settlements”
+Identifier: IHTM25551
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25551
+Published: 2026-04-07T07:44:26+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:53.074068+00:00
+
+If a settlement is a “pre-commencement settlement” then the full effect of the reforms (in relation to charges under the relevant property regime) is postponed until the first 10-year anniversary that occurs on or after 6 April 2026.
+
+At that time the trustees will have a maximum trust allowance of £2.5m - or more if the allowance is increased by indexation after 6 April 2031 - and that will feed into the 100% trust relief allowance mechanism described at (IHTM (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25552)25552 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25552)).
+
+Pre-commencement settlements (S124I/IHTA 84)
+
+Pre-commencement settlements are settlements that
+
+-
+
+commenced before 30 October 2024 and
+
+-
+
+immediately before that date, agricultural or business property was comprised in the settlement and
+
+-
+
+if there had been an occasion of charge at that time then at least some of that property would have qualified for and be covered by 100% relief under the new post 6 April 2026 rules. So, that will not include shares that are not listed on a recognised stock exchange to which relief is at most 50%.
+
+For the purpose of the notional charge and the definition, the usual 2-year and 7-year ownership and occupation periods are ignored and, for property subject to an agricultural tenancy (to which 50% relief would apply), the conditions are treated as satisfied.
+
+Relevant property comprised in a pre-commencement settlement
+
+If and while there is relevant property in the settlement, most of the restrictions on the availability of 100% relief and the introduction of the trust allowances are postponed and apply only to occasions of charge on or after the first 10-year anniversary to occur on or after 6 April 2026 (FA26/Sch 12/Para 17(6)).
+
+Until that time, the trustees will continue to have unlimited 100% relief on qualifying agricultural and business property for the purposes of proportionate charges
+
+-
+
+on or after 6 April 2026 and
+
+-
+
+before the first 10-year anniversary charge to occur on or after 6 April 2026.
+
+Again, that does not include unquoted shares and securities in the new categories in IHTA84/S105(1)(aa) to (ad) which can only obtain 50% relief from 6 April 2026.
+
+It is important to note that the definition of a pre-commencement settlement above is not limited to trusts containing relevant property at 30 October 2024. For example, a qualifying interest in possession settlement could be a pre-commencement settlement.
+
+However, the postponement of the reforms will only apply if some of that property later becomes relevant property. Before that time the rules applicable to those trusts will apply (IHTM25550 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25550)).
+
+The charge on the first 10-year anniversary (on or after 6 April 2026)
+
+The trustees are given a trust maximum allowance of £2.5m (IHTA 84/S124I(1)).
+
+That will also be the actual 100% trust relief allowance under IHTA84/S124G(2) because the restriction on reliefs did not apply to the proportionate charges prior to the anniversary so the maximum is not reduced.
+
+For the purposes of the charge, additional rate relief may also be available under IHTA84/S66(2) (IHTM42088 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42088)) for relevant property at the first anniversary if it is “previously relievable property” (FA26/Sch 12/Para 17(7) & (8)).
+
+Previously relievable property is
+
+-
+
+property that was comprised in the settlement before 6 April 2026 and
+
+-
+
+would have obtained 100% relief (at the anniversary) under IHTA84/S104(1)(a) IHTA84/S116(1) if the reforms had not been made.
+
+Such property obtains additional relief because previously relievable property is treated as if it were not comprised in the settlement until 6 April 2026.
+
+Charges after the first 10-year anniversary to occur on or after 6 April 2026
+
+The settlement is now fully within the new 100% trust allowance mechanism as described at IHTM25552 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25552).
+
+In other words, the trustees allowance period begins on the first quarter year after the anniversary date with a maximum allowance of £2.5m, which is then reduced by proportionate charges until the period ends on the next anniversary. The allowance of £2.5m is then refreshed for the next period.
+
+When there is more than one proportionate charge on the same day in any allowance period and the sum of the potentially relievable values exceeds the current balance of the 100% allowance, the balance is apportioned rateably. There is an apportionment example at IHTM25554 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25554).
+
+Example
+
+A discretionary settlement was made on 1 August 2020.
+
+On 30 October 2024, the settled property included
+
+(a) farmland and a farmhouse and
+
+(b) a portfolio of AIM shares.
+
+Based on the post-FA26 rules and for purposes of determining whether a pre-commencement settlement arises then
+
+-
+
+it is sufficient that only some of (a) above could have obtained relief at 100% for the settlement to be a pre-commencement settlement (assume so for this example)
+
+-
+
+conversely, if the trustee had only (b), then it could not be a pre-commencement settlement as 100% relief is no longer available for AIM shares.
+
+In January 2026 the trustees distribute some AIM shares to a beneficiary, triggering a proportionate charge. But as 100% relief applies the value transferred is nil. (If this had occurred after 6 April 2026 then only 50% relief would have been due.)
+
+In 2028 the trustees distribute some of the agricultural land, reducing the value of the relevant property by £3m.
+
+Again, the value transferred is reduced to nil by 100% relief because under the transitional provisions for pre-commencement settlements, the new trust allowance rules do not yet apply.
+
+On the 10th anniversary of the settlement in 2030 the settled property includes
+
+(i) the remaining land and farmhouse, valued at £3m and
+
+(ii) the AIM portfolio, valued at £1m.
+
+The trustees’ 100% trust relief allowance, which applies to (i) is £2.5m so that the value transferred is {£3m - £2.5M} * 50% = £250k.
+
+The AIM shares now only obtain 50%, so the value transferred is £1m *50% = £500k.
+
+However, both (i) and (ii) are “previously relievable property” (FA26/Sch12/Para 17(7)-(8)) and both will obtain rate relief for the period between 1 Aug 2020 and 6 April 2026, which is 22 complete quarter years. That means that the property will be charged on 18/40 of the normal rate of tax.

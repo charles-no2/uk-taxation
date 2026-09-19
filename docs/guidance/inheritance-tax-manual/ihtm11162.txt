@@ -1,0 +1,22 @@
+Settled property: acquisition of a reversionary interest from a charity (anti-avoidance)
+Identifier: IHTM11162
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11162
+Published: 2016-03-20T09:33:44+00:00
+Updated: 2016-02-11T17:00:09+00:00
+Retrieved (UTC): 2026-09-18T14:56:12.670947+00:00
+
+Most reversionary interests (IHTM16231 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16231)) are excluded property. This could provide an opportunity to avoid Inheritance Tax (IHT) in the following circumstances.
+
+Example
+
+Anna wishes to make a gift of £100,000 to Bill. Anna settles the £100,000 on herself for a short term, after which it will revert to Bill. Bill immediately sells his future right to receive the assets to the charity for £99,000. Anna then buys the reversion back from the charity for £100,000 to allow the charity a small profit.
+
+Without the following provision, the payment by Anna would be exempt.
+
+But, under IHTA84/S56 (1) charity exemption does not apply to property
+
+- given to a charity (IHTM11112 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11112)) in return for a reversionary interest (IHTM16231 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16231)) in settled property (IHTM16000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16000)), if
+
+- by reason of IHTA84/S55 (1) that reversionary interest does not form part of the IHT estate of the person acquiring it - that is when the person acquiring it already has a prior interest in the same property
+
+This provision is designed to prevent misuse of the charity exemption. In the example above, because of IHTA84/S55 (1) and IHTA84s/S56 (2), the reversion Anna purchases from the charity is not part of her estate and IHTA84/S10 (1) cannot apply to the transaction. Consequently the £100,000 Anna pays to the charity in consideration for the reversion is a transfer of value. But for IHTA84/S56 (1) that transfer of value would be exempt under IHTA84/S23 (1). The result would have been a gift of £99,000 from Anna to Bill without any charge to IHT. IHTA84/S56 (1) prevents this by making the £100,000 paid by Anna to the charity for the reversion into a chargeable transfer. It is not a potentially exempt transfer (PET) (IHTM14024) because the donee, the charity, is not an individual.

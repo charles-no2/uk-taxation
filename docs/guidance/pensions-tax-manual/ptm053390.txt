@@ -1,0 +1,32 @@
+Annual allowance: pension input amounts: defined benefits arrangements: anti-avoidance rule for post-entitlement enhancements
+Identifier: PTM053390
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053390
+Published: 2016-03-01T21:53:47+00:00
+Updated: 2016-02-29T15:01:16+00:00
+Retrieved (UTC): 2026-09-18T14:50:44.027025+00:00
+
+Section 236A Finance Act 2004
+
+An anti-avoidance rule applies in relation to a defined benefits arrangement (and accordingly a hybrid arrangement) if, during a pension input period (“the affected pension input period”), the individual enters into a scheme for the making of an avoidance-inspired post-entitlement enhancement.
+
+A ‘post-entitlement enhancement’ is an increase in the annual rate of a scheme pension under the arrangement, at a time after the member has become entitled to the scheme pension.
+
+A post-entitlement enhancement is ‘avoidance-inspired’ if the main purpose, or one of the main purposes, of the individual in entering into the scheme was to avoid or reduce a liability to the annual allowance charge.
+
+The tax rules relating to pension schemes etc in Part 4 of Finance Act 2004 have effect in relation to the arrangement and the individual, as respects the affected pension input period and all subsequent pension input periods, as if:
+
+- The ‘opening value’ and ‘closing value’ aspects of the pension input amount calculation were modified as described below, and
+
+- The CPI uprating of the opening value (‘Step 4’ in PTM053301 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053301)) and the possible adjustments to the closing value (see PTM053301 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053301)) did not apply.
+
+The modification to the opening value part of the pension input amount calculation is that the opening value is calculated as:
+
+such amount as, applying normal actuarial practice, is the expected cost of giving effect to the individual’s rights under the arrangement at the end of the immediately preceding pension input period (or is nil if the pension input period is the first pension input period of the arrangement).
+
+The modification to the closing value part of the pension input amount calculation is that the closing value is calculated as:
+
+such amount as, applying normal actuarial practice, is the expected cost of giving effect to the individual’s rights under the arrangement at the end of the pension input period.
+
+Note - for the purpose of this anti-avoidance rule, ‘scheme’ includes any arrangements, agreement, understanding, transaction or series of transactions (whether or not legally enforceable).
+
+Note - the term ‘scheme’ is used here in the sense of avoidance devices rather than pension schemes.

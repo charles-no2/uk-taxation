@@ -1,0 +1,14 @@
+Trust management expenses: IIP trusts: IIP beneficiaries: trust deed
+Identifier: TSEM8340
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem8340
+Published: 2016-05-02T16:57:33+01:00
+Updated: 2018-12-14T01:45:23+00:00
+Retrieved (UTC): 2026-09-18T16:20:47.116450+00:00
+
+The IIP beneficiary is taxed on the income of the trust net expenses properly chargeable to income.
+
+'Properly chargeable to income' in the IIP trust context means properly chargeable to income under all four sources of trust law referred to in TSEM8020 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem8020). By contrast with discretionary trusts, where ITA/S484 specifically excludes provisions in the trust deed, this term for IIP beneficiaries includes expenses whose final incidence falls on income by virtue of the terms of the trust deed - ITA/S500(2).
+
+So if an IIP trust deed allows the trustees to pay what are normally capital expenses out of income, those expenses reduce the measure of the beneficiary's income. If an IIP trust deed allows trustees to pay what are in general trust law income expenses out of capital, again the trust deed has priority over general trust law, and consequently the IIP beneficiary's income is not reduced by such expenses.
+
+In the absence of a specific provision in the trust deed, general trust law applies. If the trustees pay expenses out of income that are properly chargeable to capital in general trust law, then the IIP beneficiary is taxable on the amount of income used to pay the expenses, even though he or she does not receive it.

@@ -1,0 +1,18 @@
+Trust income and gains: vulnerable beneficiaries: claims to special tax treatment: computing the amount of relief: income tax - TLV2 and TLV1 - non resident vulnerable persons
+Identifier: TSEM3473
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3473
+Published: 2016-05-02T16:35:24+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:46.593034+00:00
+
+If the vulnerable person is not resident in the UK during the tax year then for the purposes of TLV1 and TLV2 that person’s:
+
+- income tax liability is computed in the normal way, subject to TSEM3472 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3472), on the assumption that they are resident and domiciled in the UK (to 5 April 2025) or UK resident (from 6 April 2025)throughout the tax year, and
+
+- CGT liability is computed on the assumption that their taxable amount is equal to their deemed CGT taxable amount.
+
+The deemed CGT taxable amount is the sum of the taxable amount for the year computed only by reference to actual gains and actual losses and the taxable amount computed only by reference to assumed gains and assumed losses. If there is a deficit in either category it is not to be set against any surplus in the other.
+
+Actual gains are those gains in respect of which the vulnerable person is already chargeable to CGT (charged under TCGA92/10 on gains of a UK branch or agency) and actual losses are losses which are allowable for the current tax year, plus unused losses brought forward.
+
+Assumed gains and losses are those gains and losses, other than actual gains and losses, of the current tax year which would be taken into account for CGT purposes if the vulnerable person were resident and domiciled in the UK (to 5 April 2025) or UK resident (from 6 April 2025) throughout the year. In computing these amounts losses brought forward are disregarded, the vulnerable person is deemed to have given valid notice in respect of losses which are not allowable because they accrued while he was non-resident, and claims or elections in respect of any assumed gains are disregarded.

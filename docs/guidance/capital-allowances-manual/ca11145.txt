@@ -1,0 +1,24 @@
+General: claims: Capital allowances claims and partnerships
+Identifier: CA11145
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11145
+Published: 2023-01-13T11:51:01+00:00
+Updated: 2023-01-16T08:07:51+00:00
+Retrieved (UTC): 2026-09-18T16:20:22.715789+00:00
+
+The partnership profits chargeable to tax are calculated in accordance with the tax regime and resident status of its members by applying the rules at ITTOIA 2005/S849 and CTA09/S1259 – PM163030 (https://www.gov.uk/hmrc-internal-manuals/partnership-manual/pm163030). This includes the claiming of capital allowances, which are claimed by the partnership in the partnership tax return. The partners each receive the effect of the partnership’s capital allowances claim through their allocation of partnership profits.
+
+Partnerships – all members subject to Income Tax
+
+For a partnership whose members are all within the charge to Income Tax, the partnership profits for tax purposes are calculated according to Income Tax rules, as though the partnership itself were an individual – a ‘notional individual’. Capital allowances are included as a deduction from income in arriving at those profits, which are then shared with the partners according to the commercial profit-sharing arrangement in force for the relevant period.
+
+Partnerships – all members subject to Corporation Tax (corporate partnership)
+
+For a partnership whose members are all within the charge to Corporation Tax, the taxable profits of the partnership are calculated according to Corporation Tax rules, as though the partnership itself were a company – a ‘notional company’. The computation of profits for the ‘notional company' can include a claim to capital allowances that are only available to companies within the charge to Corporation Tax, for example first year allowances such as full expensing or the super-deduction, as long as the ‘notional company’ meets the required conditions of the allowance.
+
+Mixed partnerships
+
+For a partnership with some members within the charge to Income Tax and some within the charge to Corporation Tax, before the partnership profits are allocated to the members, it may be necessary for the partnership to submit more than one computation, for example one in respect of individual members who are subject to Income Tax and one in respect of company members who are subject to Corporation Tax. As with the corporate partnership above, the computation for the ‘notional company’ can include a claim to capital allowances that are only available to companies within the charge to Corporation Tax. In this way, partnership members within the charge to Corporation Tax may obtain the benefit of first year allowances such as full expensing or the super-deduction (which partnership members within the charge to Income Tax are unable to access).
+
+Partnerships with a company member - AIA
+
+A partnership of which a company is a member is not a qualifying person for annual investment allowance (AIA) purposes CA23082 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23082). The computation of profits for the ‘notional company’ of a corporate or mixed partnership, and the computation of profits for the ‘notional individual’ of a mixed partnership, cannot include a claim to AIA because the partnership is not a qualifying person – CAA2001/S38A.

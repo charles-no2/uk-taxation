@@ -1,0 +1,28 @@
+Class 1 NICs: reporting NICs in RTI: when to report NICs data for RTI: Salary Advance Payments 
+Identifier: NIM11521
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11521
+Published: 2024-10-03T11:28:27+01:00
+Updated: 2024-10-08T15:34:47+01:00
+Retrieved (UTC): 2026-09-18T15:15:03.200318+00:00
+
+Paragraph 21AE of Schedule 4 to Social Security (Contributions) Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+Regulation 2(4) of the Social Security (Contributions) (Amendment No. 3) Regulations 2024 inserted a new paragraph 21AE into Schedule 4 of SSCR 2001.
+
+In most cases, an employer must report the data required “on or before” the date on which a payment is made (see NIM11520 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11520)) as set out in paragraph 21A of Schedule 4 to SSCR 2001.
+
+Prior to April 2024 when an employee received a salary advance the employer was required to make a Full Payment Submission (FPS) shortly before or at the time of the salary advance. The employer was also required to make a further FPS on the normal pay day.
+
+From 6 April 2024 new para 21AE requires employers to treat a salary advance payment that satisfies the requirements in para 21AE(1) to be treated as a single payment of earnings made at the time of the regular interval payment and report all earnings for a pay period on one FPS at the normal pay day.
+
+Employers are required to report by the date on which the remainder of the salary instalment at the regular interval that follows the advance payment is made and not the earlier payment dates of individual salary advances. The salary advance payment is subject to certain conditions, see NIM08741 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim08741).
+
+This reporting change applies where an employer:
+
+a) normally makes a payment of earnings to an employee at regular intervals of no shorter than a week and no longer than a month,
+
+b) makes an advance payment or multiple advance payments to the employee for work undertaken or obligations performed before the regular interval pay day, and
+
+c) makes a subsequent payment of earnings to the employee at the regular interval (reduced by reference to advance payments made to the employee) that follows the making of the advance payment.
+
+This is in respect of both the deductions working sheet, held by the employer, and the real time information (RTI) returns submitted to HMRC.

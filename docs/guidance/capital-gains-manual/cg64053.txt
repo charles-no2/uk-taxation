@@ -1,0 +1,78 @@
+BADR: Dilution elections where relevant share issue is on or after 6 April 2019
+Identifier: CG64053
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64053
+Published: 2019-05-02T12:36:39+01:00
+Updated: 2022-02-01T11:57:18+00:00
+Retrieved (UTC): 2026-09-18T14:34:19.297855+00:00
+
+Entrepreneurs’ Relief was renamed in Finance Act 2020 with effect from 6 April 2020. The new name is generally used in this guidance but should be read as applying to times before that date.
+
+TCG92/S169SB-SH
+
+A company may cease to be an individual’s personal company if further shares are issued such that the individual no longer holds 5% of the ordinary share capital. A disposal of those shares after such an issue may not meet the conditions for relief. Where this is the case, the relevant share issue is on or after 6 April 2019 and other conditions are met, the individual can make an election to deem a disposal and reacquisition of the shares/securities immediately before the dilution.
+
+The result of making the election would be that a gain accrues on the notional disposal which would qualify for Business Asset Disposal Relief. The individual may wish to make a supplementary election to defer the gain until the shares/securities in question are actually disposed of. Both elections are irrevocable.
+
+The election
+
+The first condition
+
+The first condition is that the company must cease to meet the personal company definition as a result of a relevant share issue. This is not limited to a reduction in the holding of ordinary share capital, if a relevant share issue results in a reduction in voting rights or economic entitlement then the condition would also be met.
+
+“Relevant share issue” is defined as where the company issues shares for consideration consisting wholly of cash (which includes cheque and foreign currency) and the shares are subscribed and issued for commercial reasons.
+
+The shares must not be issued in order to secure a tax advantage to any person. HMRC consider that the anti-avoidance rule would not normally apply where a tax advantage arises solely through the operation of an approved employee share scheme.
+
+The second condition
+
+The second condition is only met where a disposal of all the individual’s shares in and securities of the company would meet the conditions to be a material disposal of business assets immediately before the relevant share issue. This means for example that the individual must be an officer or employee of the company throughout the period of 2 years ending with the date of the deemed disposal.
+
+In addition, if the individual had made a claim in respect of that theoretical disposal it must result in a chargeable gain being treated by TCGA92/S169N(2) as accruing. This means that the condition is not met if the aggregate gains and losses of the disposals result in an overall loss.
+
+Valuation
+
+The value to use for the shares is the amount which would have been apportioned to them on a disposal of the whole of the issued share capital at its market value. This means that it ignores minority discounts. Securities would be valued at market value.
+
+The election must be made on or before the first anniversary of the 31 January following the tax year in which the notional disposal is made.
+
+The deferral election
+
+Where an election is made to deem a gain to accrue, a supplementary election can be made (see TCGA92/S169SD) to defer the gain. The effect of the election is that no gain or loss is treated as accruing on the notional disposal, and a chargeable gain will instead accrue on any subsequent disposal of shares or securities of the company.
+
+The amount which is brought into charge is additional to any further amount which actually accrues on the disposal.
+
+Calculation
+
+The amount brought into charge is calculated following 3 steps.
+
+Step 1
+
+Attribute the notional gain to each of the classes of shares in or securities of the company in the proportions which they bear to the gains which accrued on the notional disposal.
+
+Step 2
+
+Apportion the amount attributed to each class under Step 1 to the shares or securities of that class which are the subject of the subsequent disposal. The nominal value must be used to apportion the gain.
+
+Step 3
+
+The amount resulting from these steps is the amount as per Step 2 but adjusted for any previous amount brought into charge in relation to disposals of the same class of share or security.
+
+The supplementary election cannot be made more than 4 years after the end of the tax year in which the notional disposal is made.
+
+TCGA92/S169SE and TCGA92/S169SF apply where a deferral election has been made and is followed by a reorganisation, conversion or reconstruction to ensure that the gain is not brought back into charge or does not disappear.
+
+Example
+
+John owns 6% of the ordinary share capital of JDM Ltd and he meets the other conditions so that it is his personal company. He also holds a loan note of the company with a nominal value of £300,000. On 1 August 2019 the company issued further shares for cash in order to raise capital to fund expansion into larger premises. John’s shares were diluted to 3%. As John would no longer be eligible to claim relief on a future disposal of the shares he makes an election under TCGA92/S169SC.
+
+The value which would have been attributed to his shares if all of the issued share capital had been sold immediately before the issue of shares is £1,000,000. He bought the shares for £200,000 so the notional gain is £800,000. The value of the loan note at the same time was £310,000 resulting in a gain of £10,000.
+
+As he hasn’t actually sold the shares John has no money with which to pay the tax due so makes a further election under TCGA92/S169SD to defer the £810,000 aggregated gain.
+
+On 1 August 2020 John sells half of his shares to a third party. Of the £810,000 gain, £800,000 of the gain is apportioned to the shares. As he has sold half of the shares, £400,000 of the £800,000 gain is treated as accruing on the disposal.
+
+Claims
+
+Where a deferral election and a subsequent disposal have been made, the individual must make a claim to Business Asset Disposal Relief by the first anniversary of the 31 January following the first tax year in which the gain is treated as accruing. If only part of the gain is treated as accruing at that time, a further claim is not necessary on any subsequent accrual. As it is unlikely that the personal company conditions would be met in relation to such a claim, TCGA92/S169SH(5) deems the company to be the individual’s personal company for the purposes of this claim.
+
+Note that this does not affect the officer or employee requirement and it is only for the purposes of a claim where Condition A (TCGA92/S169I(6)) would be relevant.

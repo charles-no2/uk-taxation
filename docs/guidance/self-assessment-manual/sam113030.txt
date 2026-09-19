@@ -1,0 +1,16 @@
+Repayments: repayment work lists: w044 over-repayments work list
+Identifier: SAM113030
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam113030
+Published: 2016-04-08T17:16:03+01:00
+Updated: 2016-02-23T14:55:25+00:00
+Retrieved (UTC): 2026-09-18T16:20:10.279632+00:00
+
+From 6 April 2015, no new work items will populate this list.
+
+Alternatively, all over-repayments arising because of an amendment to a return will be replaced automatically by interest bearing over-repayment charges. Any disputes concerning the subsequent interest charged should be dealt with through the Interest Objection process.
+
+Cases created before 6 April 2015, were selected and work items created on the ‘Over-repayments’ work list where a Balancing charge credit had previously been repaid and the return was subsequently amended creating an over-repayment.
+
+The cases selected were notified to the office responsible for the processing activities by Work Management.
+
+When the function CREATE OVER-REPAYMENT CHARGE was accessed the operator was asked whether the over-repayment was to be replaced in full or in part by a new over-repayment charge. Irrespective of the operator’s decision, when the appropriate fields were completed and the [OK] button was selected, this action automatically deleted the work item from the work list. .

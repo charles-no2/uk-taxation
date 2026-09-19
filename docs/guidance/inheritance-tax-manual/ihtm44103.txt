@@ -1,0 +1,42 @@
+Pre-owned assets: specific avoidance schemes: land - home loan or double trust scheme
+Identifier: IHTM44103
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44103
+Published: 2016-04-09T10:32:00+01:00
+Updated: 2017-09-19T15:28:24+01:00
+Retrieved (UTC): 2026-09-18T15:10:30.818448+00:00
+
+This is a scheme whereby the individual seeks to put the value of their home outside their estate and avoid the reservation of benefit provisions, whilst still continuing to occupy the property. The steps in a typical scheme were:
+
+- the individual creates an interest in possession trust under which they are the life tenant; the trustees have the power to allow the life tenant to use the trust property,
+
+- the individual then sells their house to the trust, usually at the open market value; but because the trustees have no funds, they agree to leave the purchase price outstanding by way of loan,
+
+- the individual creates a second interest in possession trust under which (usually) their children are the life tenants and excludes the taxpayer from any benefit,
+
+- the individual transfers the benefit of the loan to the trustees of the second trust.
+
+The Inheritance Tax (IHT) consequences are intended to be as follows
+
+- there is no loss to the estate (IHTM04054 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04054)) on the sale of the property to the first trust as the individual enjoys a life interest in the trust property. On their death, the trust fund forms part of their estate (IHTM04082 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04082)), but the value of the property is largely or wholly covered by the debt now owed to the trustees,
+
+- the transfer of the debt to the second trust is a potentially exempt transfer (since the taxpayer is wholly excluded from benefiting under this trust), so that on survival for 7 years, the value of their home is not charged to IHT.
+
+The scheme relied on the position under Stamp Duty whereby duty was not payable until completion of the sale. Consequently, the sale to the first trust was left ‘resting on contract’, to avoid the Stamp Duty charge. This all changed with introduction of Stamp Duty Land Tax (SDLT) so that liability now arises on substantial completion, such as occupation. The addition of SDLT to the costs of establishing the scheme acted as a significant deterrent and few schemes have been established on or after 1 December 2003.
+
+The requirements of FA04/Sch15/Para3 (IHTM44003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44003)) are met in that the individual is occupying land which they owned and has now disposed of, so the pre-owned assets (POA) charge applies. However, the property still forms part of their estate as the life tenant of an interest in possession trust, and so the exemption in FA04/Sch15/Para11(1) applies (IHTM44041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44041)). To bring this scheme within the POA charge, the concept of excluded liabilities (IHTM44051 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44051)) is contained in FA04/Sch15/Para11(6) which states that only the value of the property in excess of an excluded liability is treated as forming part of the individual’s estate and therefore qualifies for the exemption under FA04/Sch15/Para11(1).
+
+You will need to obtain three values to correctly assess the POA charge
+
+- the rental value (R), say, £25,000,
+
+- the value at the valuation date (IHTM44011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44011)) of the interest that was disposed of (DV). Strictly, this is the value of the property, say £800,000, after deduction of the portion of the property that is exempt. So if the amount of the loan plus any interest or accrued indexation was £700,000, DV is £800,000 - (£800,000 - £700,000) = £700,000. It is easier to take DV as being the amount of the loan plus any interest or accrued indexation at the valuation date,
+
+- the value of the property at the valuation date (V), say, £800,000.
+
+Following the formula at IHTM44010 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44010), the amount subject to the POA charge is
+
+25,000 × 700,000 ÷ 800,000 = £21,875.
+
+But, this assumes that the scheme succeeds in avoiding the reservation of benefit provisions. HMRC does not accept that the scheme succeeds and is litigating the point. A brief analysis of HMRC’s view and the consequences for the POA charge are at IHTM44104 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44104) onwards.
+
+Taxpayers may want to unwind a home loan or double trust scheme they entered into. HMRC’s view of the implications for IHT and the POA charge of unwinding a scheme can be found in the section beginning at IHTM44120 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44120).

@@ -1,0 +1,120 @@
+Transfers on death: unquoted shares - 20% tax test
+Identifier: IHTM30219
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30219
+Published: 2016-04-09T09:58:44+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:05:08.994469+00:00
+
+From 6 April 2026, unquoted shares which attract Business Relief (BR) will also be eligible for interest free instalments (IHTM30363 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30363)) see IHTA/S227(2)(aa) and IHTA/S234(1)(a)). See also IHTM25570 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25570) and IHTM25580 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25580).
+
+If BR is not available, unquoted shares or securities that do not represent a control holding (IHTM30217 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30217)) of a company qualify for instalments if:
+
+-
+
+the tax attributable to those shares and securities
+
+-
+
+together with the tax on any other instalment option qualifying property (IHTM30212 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30212))
+
+-
+
+amounts to 20% of the tax on the value transferred by the chargeable transfer on the death
+
+-
+
+for which the person paying the tax is liable (IHTM30011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30011)) in the same capacity.
+
+The 20% test under IHTA84/S228 (1)(b) and (2) is confined to tax chargeable on the value transferred on the death for which the person paying the tax on the unquoted shares is liable in the same capacity. Accordingly, the procedure to follow is:
+
+-
+
+identify the person paying the tax attributable to the unquoted shares or securities and the capacity (e.g. as executor (IHTM05012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm05012))) in which that person is paying the tax
+
+-
+
+calculate the tax attributable (after any appropriate Business Relief (IHTM25131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25131))) to those shares or securities
+
+-
+
+calculate the tax attributable to any other IHTA84/S227 instalment option property (IHTM30191 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30191)) in the death estate for which the person at i. above is liable in the same capacity
+
+-
+
+calculate the total IHT on the death estate for which the person at i. above is liable in the same capacity
+
+-
+
+if the total of tax at 2. and 3. amounts to 20% or more of the tax at 4., the 20% test is satisfied.
+
+Example
+
+As executor of Tom’s estate, Andrew is liable for and pays the tax attributable to a holding of unquoted shares which forms part of Tom’s free estate when he dies. In applying the 20% test to the tax attributable to that holding
+
+-
+
+any tax for which Andrew may be liable in a different capacity, such as a trustee of a lifetime settlement, is disregarded, and
+
+-
+
+the fact that Brian may also be liable as beneficiary for the tax attributable to the shares (and that if applied to him the 20% test would not be satisfied) is irrelevant if the tax is in fact paid by Andrew.
+
+The detailed facts are:
+
+On the death of Tom in 2015 the death estate, wholly chargeable, consists of:
+
+Free estate Non IOP £250,000
+
+Unquoted shares £10,000
+
+House £200,000
+
+£460,000
+
+A potentially exempt transfer (PET) of £325,000 to Andrew becomes chargeable on the death and uses up the nil rate band.
+
+Under Tom’s Will the unquoted shares are the only benefit taken by Brian.
+
+The tax on the unquoted shares is paid by the executor, Andrew.  For the purpose of the 20 % test you have to:
+
+-
+
+take into account the tax on all the free estate as Andrew is liable for it as executor
+
+-
+
+but not tax for which Andrew is liable as
+
+-
+
+trustee of the settled property (IHTM16050 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16050))
+
+-
+
+beneficiary (and secondarily as executor) of the PET (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)), which is not part of the chargeable transfer on the death.
+
+Applying the procedure given at the beginning of this paragraph:
+
+-
+
+Andrew is paying the tax as executor
+
+-
+
+the tax on the shares is £4,000
+
+-
+
+Andrew is also liable as executor for the tax on the house, £80,000
+
+-
+
+the total liability of Andrew as executor for tax on the free estate is £184,000
+
+-
+
+the combined tax at points 2 and 3 (£84,000) is more than 20% of the tax at point 4.
+
+So Andrew can pay the tax on the shares by instalments.
+
+The fact that Brian is also liable for the tax on the shares (and that he would fail the 20% test) is irrelevant.

@@ -1,0 +1,82 @@
+Share reorganisations: apportionment of cost: example
+Identifier: CG51895
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51895
+Published: 2016-03-12T11:25:42+00:00
+Updated: 2023-05-04T09:31:49+01:00
+Retrieved (UTC): 2026-09-18T14:42:30.479195+00:00
+
+This example illustrates the operation of TCGA92/S129 if the shares are held in a Section 104 holding.
+
+- 15 May 1985 a taxpayer buys 1,000 25p ordinary shares in A B Electrical Products Group PLC at a price of 430p per share. Total cost £4,300.
+
+- September 1987 there is a rights issue of one new 25p share for every five shares held at a price of 350p per share payable in October. The taxpayer takes full entitlement. Total cost £700.
+
+- 15 September 1988 the taxpayer sells 400 shares at a price of 410p per share. Disposal proceeds £1,640.
+
+On 15 September 1988 the range of prices quoted for the shares was 395p-435p giving a 1/4 up value of 405p per share. The range of business done was 410p-430p per share giving a half-way value of 420p per share. Therefore, the market value per share was 405p, see CG59510.
+
+The purchase in May 1985 creates a Section 104 holding. The rights issue in September 1987 is an operative event but indexation allowance is given from the date of payment in October.
+
+Section 104 Holding
+
+- |  No. of Shares |  Pool of qualifying expenditure |  Pool of indexed expenditure |
+
+May 1985 purchase Indexation |  1,000 |  £4,300 |  £4,300 |
+
+May 1985 October 1987 - 0.081 |  - |  - |  £349 |
+
+- |  1,000 |  £4,300 |  £4,649 |
+
+September 1987 Rights Issue |  200 |  £700 |  £700 |
+
+- |  1,200 |  £5,000 |  £5,349 |
+
+Indexation October 87-September 88 - 0.053 |  - |  - |  £284 |
+
+- |  1,200 |  £5,000 |  £5,633 |
+
+September 1988 Disposal |  (400) |  (£1,665) |  (£1,876) |
+
+- |  800 |  £3,335 |  £3,757 |
+
+In strictness you should apportion the two pools of expenditure by reference to the market value of the shares, that is 405p. So the formula becomes
+
+4.05 x 400 = |  1620 |  = 0.333 |
+
+4.05 x 1200 |  4860 |  - |
+
+However, in practice you can use the consideration received, that is 410p per share so the formula becomes
+
+4.10 x 400= |  1640 |  = 0.336 |
+
+1640 + (4.05 x 800) |  4880 |  - |
+
+Because there is only one class of share in the new holding you can make the apportionment by reference to the total number of shares sold, the short cut method in CG51575. So the formula becomes
+
+400 |  = 0.333 |
+
+1200 |  - |
+
+In practice you should use the short cut method unless the taxpayer objects.
+
+Capital gains tax computation
+
+- |  Amount |
+
+Pool of indexed expenditure 5,633 x 0.333 |  £1,876 |
+
+Pool of qualifying expenditure 5,000 x 0.333 |  £1,665 |
+
+Indexation allowance |  £211 |
+
+- |  £ |
+
+Disposal proceeds |  1,640 |
+
+less Cost |  1,665 |
+
+Unindexed loss |  (25) |
+
+less Indexation |  (211) |
+
+Allowable loss |  (236) |

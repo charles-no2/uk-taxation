@@ -1,0 +1,60 @@
+Employment income through third parties: exclusions: loan to exercise employment-related securities option
+Identifier: EIM45335
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45335
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2021-01-20T11:29:47+00:00
+Retrieved (UTC): 2026-09-18T14:23:20.112057+00:00
+
+Section 554N ITEPA 2003
+
+Section 554N prevents a relevant step within section 554C(1)(a) from giving rise to Part 7A income if the four conditions in section 554N(13) are met.
+
+On section 554C(1)(a), see EIM45060 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45060).
+
+Conditions
+
+These are the 4 conditions.
+
+- The relevant step is the payment of a sum of money by way of loan (‘the relevant loan’).
+
+- The relevant loan is made and used solely for the purpose of enabling A to exercise an ‘employment-related securities option’ (within the meaning of Part 7 Chapter 5 ITEPA 2003). See ERSM110010 (https://www.gov.uk/hmrc-internal-manuals/employment-related-securities/ersm110010) onwards.
+
+Note that this condition will not be met if the relevant loan is also:
+
+- made for the purpose of enabling A to pay tax or NIC or both crystallised by the exercise of the option,
+
+- used for that purpose, or
+
+- both made and used for that purpose.
+
+Note also that ‘employment-related securities option’ has a wide meaning. For example, it is capable of covering a long term incentive plan under which A will be awarded shares automatically at a future date if specified conditions are met see ERSM110030.
+
+- A’s exercise of the option gives rise to employment income of A which:
+
+- is chargeable to Income Tax (or would be chargeable, but for Section 474 ITEPA 2003 (securities options: cases where Part 7 Chapter 5 does not apply)), or
+
+- is exempt income (see EIM45455 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45455)).
+
+- There is no connection (direct or indirect) between the relevant step and a tax avoidance arrangement. See EIM45855 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45855).
+
+On the ‘exercise’ of options, see EIM45460 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45460).
+
+Fall-back charge
+
+Under section 554N(14), there will be a fall-back charge if:
+
+- this exclusion has prevented a relevant step from giving rise to Part 7A income, and
+
+- by the end of the period of 40 days starting with the day on which the relevant step is taken, the relevant loan has not been fully repaid.
+
+In such a case, section 554N(15) deems a relevant step to be taken with the following features:
+
+- the relevant step is within section 554C(1)(a)
+
+- it is taken at the end of the relevant period
+
+- the subject of the relevant step is a sum of money of an amount equal to the outstanding amount of the relevant loan as at the end of the relevant period
+
+- the ‘relevant person’ (see EIM45090 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45090)) in relation to the relevant step is the person to whom the relevant loan is made
+
+- the relevant step gives rise to Part 7A income.

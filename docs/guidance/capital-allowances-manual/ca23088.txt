@@ -1,0 +1,70 @@
+PMA: Qualifying expenditure: Annual Investment Allowance (AIA) qualifying expenditure: restrictions on AIA applying to companies
+Identifier: CA23088
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23088
+Published: 2016-04-16T08:46:24+01:00
+Updated: 2021-04-21T19:01:08+01:00
+Retrieved (UTC): 2026-09-18T16:20:41.036527+00:00
+
+CAA01/S38A and S38B, S51A to S51N
+
+Restrictions relating to companies
+
+There is a restriction to a single AIA in the following cases:-
+
+First restriction: Single company
+
+A single company is entitled to only one AIA - even if it carries on more than one qualifying activity. For example, a company that carries on a trade as well as a property business may have two qualifying activities, but only one AIA, although that AIA may be shared between the two activities in any way the company sees fit.
+
+Second restriction: Group of companies
+
+Companies that fall within the company law definition of a group are legally and economically interdependent and are entitled to a single AIA per group.
+
+Once again, there are no rules about how the AIA may be allocated against the relevant qualifying expenditure incurred by any of the companies in the group - this may be done in any way the companies see fit. However, see the example at the bottom of this page for details of the chargeable periods to which the restriction applies.
+
+Third restriction: Groups of companies under common control
+
+Where two or more groups of companies are 'related' and controlled by the same person the companies collectively are entitled to a single AIA, which may be allocated between them in any way they see fit.
+
+Fourth restriction: Other ‘related’ companies under common control
+
+Other related companies under common control are entitled to a single AIA to be allocated between them in any way they see fit.
+
+Meaning of a group of companies
+
+A company is a parent undertaking of another company in a financial year if it is a parent undertaking of that other company at the end of that other company’s chargeable period ending in that financial year. Parent undertaking is defined in section 1162 of the Companies Act 2006.
+
+Example
+
+Company B draws up its accounts to 31 December each year. In terms of S.1162 of the Companies Act 2006, Company A is Company B's parent undertaking on 31 December 2023. This means that Company A is Company B's parent undertaking in the financial year ended 31 March 2024.
+
+Meaning of 'control'
+
+- A company is controlled by a person in a financial year if it is controlled by that person at the end of its chargeable period ending in that financial year.
+
+- Similarly, a group of companies is controlled by a person if the parent undertaking is controlled by that person at the end of its chargeable period, ending in that financial year.
+
+CAA01/S574(2) defines “control” in relation to a company which is a body corporate. In relation to a company (“C”) which is not a body corporate, control means the power of a person (“P”) to secure (through the holding of shares, voting or other powers) that the affairs of C are conducted in accordance with P’s wishes.
+
+Meaning of 'related'
+
+A company is related to another company in a financial year if one or both of the shared premises condition CA23090 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23090), and the similar activities condition CA23090 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23090) are met in that financial year.
+
+A group of companies is related to another group of companies in a financial year if in that financial year a company which is a member of one group is related to a company which is a member of the other group. If in a financial year a group (the first group) is related to another group (the second group), the first group is also related to any other group of companies to which that second group is related in that financial year.
+
+Allocation of single AIA between companies
+
+For restriction 2 (groups), the single AIA applies in respect of all AIA qualifying expenditure incurred in chargeable periods ending in the financial year in which one company is a parent undertaking of the other or others.
+
+For restrictions 3 and 4, the single AIA applies in respect of all AIA qualifying expenditure incurred in chargeable periods ending in the financial year in which the groups or companies are ‘related’ and under common control.
+
+Example
+
+In the financial year ending 31 March 2024, Company A is a parent undertaking of company B.
+
+Companies A and B have different chargeable periods ending within that financial year:
+
+Company A’s chargeable period ends on 31 December 2023;
+
+Company B’s chargeable period ends on 31 March 2024.
+
+Companies A and B are entitled to a single AIA of £1 million between them for those chargeable periods. For example, if it is decided that B should claim £200,000 for its chargeable period ending 31 March 2024, A will be left with a maximum of £800,000 to claim for its chargeable period ending 31 December 2023.

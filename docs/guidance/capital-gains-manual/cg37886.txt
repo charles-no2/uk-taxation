@@ -1,0 +1,34 @@
+Separate settlements: variations of trusts: instrument of variation of will or intestacy
+Identifier: CG37886
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37886
+Published: 2016-03-12T10:54:44+00:00
+Updated: 2020-02-21T14:50:35+00:00
+Retrieved (UTC): 2026-09-18T14:39:52.413428+00:00
+
+It is quite common for instruments of variation of wills or intestacies to be executed within two years of the testator's (or intestate’s) death. In England & Wales the usual form of the instrument is a deed. The general guidance is at IHTM35011+ and guidance on CGT at CG31600 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg31600)+. If an instrument of variation creates a continuing trust which replaces absolute interests in the original will, and there is no statement of intent in the deed or before 1 August 2002 no election, under TCGA92/S62 (7), the person who gives up the absolute interest in favour of the trustees is to be regarded as the settlor for the purposes of the annual exempt amount. His personal position is considered at CG32000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg32000)+, assuming the variation is gratuitous.
+
+If, however, in a case where there is no such election or statement of intent, the will or intestacy provided for property to be held subject to trusts, and these trusts are varied or replaced by the deed of variation, then there are two questions to be answered.
+
+- Is there a new separate settlement?
+
+- If so, who is the settlor of that settlement?
+
+If there are only minor variations clearly there is no new settlement and the deceased remains the settlor. Minor variations would include for instance changes in the administrative powers of the trustees, or the provision of an ultimate gift over, that is, a provision saying to whom the property is to pass if the trusts fail, or the appropriation of property to particular funds within the settlement. Otherwise it is necessary to determine whether there is a new settlement in accordance with the principles explained at CG37880 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37880), and see CG37886 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37886).
+
+If there is a new settlement then the identity of the settlor should be determined in accordance with CG37900 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37900).
+
+TCGA92/S62 (7) TCGA92/S68C
+
+In most cases a valid election or statement will have been made under TCGA92/S62 (7) or CGTA79/S49 (7), see CG31600 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg31600). The Revenue had always considered that Section 62(7) was concerned with computational matters only, and had no effect on the question whether a new settlement had come into existence or the identity of the settlor. The majority of the House of Lords, in Marshall v Kerr, 67TC56, preferred slightly different reasoning in holding that a residuary legatee, who had executed an instrument of variation so that her 50 per cent share of the estate was settled, was the settlor for the purposes of TCGA92/S87 (charge on beneficiaries of non-resident settlements). It may be noted that the case was concerned with the pre-1978 version of the relevant legislation and it is considered that the Revenue’s arguments in that case are stronger under the later legislation.
+
+Where the instrument was executed before 6 April 2006 this decision should be applied for the purposes of TCGA92/S77 & TCGA92/S86 (charge on settlors of certain settlements) and TCGA92/SCH1 (annual exempt amount for trustees).
+
+Where the instrument was executed on or after 6 April 2006 and notice is given under S62(7) TCGA92/S68C applies with these consequences.
+
+- Where under the will or intestacy property was to pass absolutely to an individual, and a variation is executed settling that property (or property deriving from that property), then the person to whom the property would have passed is the settlor with regard to that property.
+
+- Where under the will or intestacy property was to be settled, but the variation is such that a new settlement is created (see CG37886 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37886)) then the deceased is the settlor.
+
+- Where under the will or intestacy property was to be settled, but the variation is minor, then the deceased would be the settlor without the legislation in FA 2006 and therefore this case is not provided for specifically.
+
+One situation which has been quite common is where under the will there is a life interest trust for the spouse of the deceased. For Inheritance Tax reasons this is partly varied so that there is a discretionary trust up to the amount of the Inheritance Tax nil rate band. In such a case, where the spouse continues to be a beneficiary of the new discretionary trust, it would often be appropriate to regard this, except for the purposes of Inheritance Tax, as little more than a cosmetic arrangement, particularly if the broad intention is that the bulk of the income should be paid to the spouse. So this would be regarded for Capital Gains Tax purposes as a variation of the original will trust, and not as giving rise to a new separate settlement. The deceased remains the settlor.

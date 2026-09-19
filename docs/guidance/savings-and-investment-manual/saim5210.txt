@@ -1,0 +1,26 @@
+Dividends and other company distributions: foreign dividends
+Identifier: SAIM5210
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5210
+Published: 2016-03-19T16:27:27+00:00
+Updated: 2018-10-09T12:59:50+01:00
+Retrieved (UTC): 2026-09-18T14:26:41.675048+00:00
+
+Dividends from non-UK resident companies
+
+Dividends from non-UK resident companies are taxable under ITTOIA05/PART4/CHAPTER4. Before Tax Law Rewrite, the charge on foreign dividends was under Case IV or Case V of Schedule D.
+
+The rewritten legislation largely integrates the charge on foreign dividends with the taxation of the equivalent income from a UK source. But there are some differences. The UK charge includes other distributions, as well as dividends. These may include amounts of a capital nature and can treat interest as a distribution in certain circumstances.
+
+ITTOIA05/S402 thus charges dividends and does not include the wider definition of a distribution. However, if a non-UK resident company makes a distribution that is not a dividend it may be chargeable as interest, or as ‘income not otherwise charged’ taxed under the ‘sweep up’ (formerly Case VI) miscellaneous income provisions in ITTOIA05/PART5/CHAPTER8 S687 to S689. ITA07/S19 defines dividend income for the purposes of the tax rates applicable to savings and investment income as including a ‘relevant foreign distribution’. This is a distribution of a non-UK resident company which is not taxable as a non-UK resident company dividend under ITTOIA05/PART4/CHAPTER4, but would be taxable as a distribution from a UK resident company if the company were UK resident.
+
+The tax charge
+
+The charge to tax on foreign dividends is on the full amount of the dividends arising in the tax year - ITTOIA05/403. This is different from the paid basis that applies to dividends and other distributions from other UK companies. See SAIM5020 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5020).
+
+The person liable is the person receiving or entitled to receive the dividends. See SAIM2400 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2400) for an explanation of ‘entitlement’.
+
+Dividends of a capital nature
+
+ITTOIA05/S402 (4) excludes ‘dividends of a capital nature’. This phrase was inserted on Tax Law Rewrite to reflect the decisions in CIR v Trustees of Joseph Reid (dec’d) (1949) 30TC431 and Rae v Lazard Investment Co Ltd (1963) 41TC1. Whether a dividend is income or capital in nature is determined by reference to the mechanism of distribution under the constitutive law of the territory where the company is incorporated or registered and its implications for the company making the distribution.
+
+The question is whether or not the ‘corpus of the asset’ is left intact after the distribution. If not, the receipt will be a capital receipt; if it is, the payment will be chargeable as income. The corpus is not disturbed by payment of a large dividend simply because it is large - see HMRC v First Nationwide [2012] EWCA Civ 278: Moses LJ said ‘ the reality was the distribution of share premium as dividends’ (this type of distribution is possible under Cayman Islands company law though it is not under UK law). But it will be disturbed by some form of capital reduction, as with the partial liquidation under Maryland law in Rae v Lazard. Another example of a dividend of capital nature is found in the trust-law case Sinclair v Lee [1993] Ch 497, where Nicholls VC held that shares distributed by way of dividend in specie as part of an indirect or ‘3-cornered’ demerger should be regarded as giving rise to a distribution of capital. The importance lies not in what is distributed (shares, in this case) but rather in the effect of that distribution on the distributing company, its ‘corpus’.

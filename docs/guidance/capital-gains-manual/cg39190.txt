@@ -1,0 +1,60 @@
+Disposal of the whole or part of each asset?
+Identifier: CG39190
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39190
+Published: 2016-03-12T11:00:10+00:00
+Updated: 2023-06-30T11:54:42+01:00
+Retrieved (UTC): 2026-09-18T14:47:51.904073+00:00
+
+TCGA92/Sch4B/para11
+
+The basic design of a flip-flop is that the trustees borrow an amount equal to the value of the trust assets and then transfer that amount to a new settlement.
+
+If the trustees transfer an amount that is:
+
+- equal to or greater than the borrowing and
+
+- the value of the remaining assets
+
+- they are treated as disposing all the remaining assets.
+
+If the trustees transfer an amount that is:
+
+- lower than the borrowing or
+
+- lower than the value of remaining assets
+
+- they are treated as disposing of only part of the remaining assets.
+
+The proportion chargeable is given by the fractions in TCGA92/Sch4B/para11.
+
+VT less than TB or EV
+
+Here the value transferred is lower than the outstanding borrowing and the effective value of the remaining chargeable assets. The trustees are treated as disposing of the following fraction of the remaining chargeable assets.
+
+VT
+
+EV
+
+If the value transferred is £1,000, the outstanding trustee borrowing is £1,500 and the effective value of the remaining chargeable assets is £2,000 the proportion of each asset disposed of is ½.
+
+VT greater than TB but less than EV
+
+Here the value transferred is greater than or equal to the outstanding borrowing but lower than the effective value of the remaining chargeable assets. The trustees are treated as disposing of the following fraction of the remaining chargeable assets.
+
+TB
+
+EV
+
+If the value transferred is £2,000, the outstanding trustee borrowing is £1,500 and the effective value of the remaining chargeable assets is £2,500 the proportion of each asset disposed of is 3/5.
+
+All other cases
+
+Here either:
+
+- the value transferred is greater than or equal to the outstanding borrowing and the effective value of the remaining chargeable assets
+
+or
+
+- the value transferred is lower than the outstanding trustee borrowing but greater than the effective value of the remaining chargeable assets.
+
+In these cases the trustees are treated as disposing of all the remaining chargeable assets.

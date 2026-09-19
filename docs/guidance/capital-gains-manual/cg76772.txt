@@ -1,0 +1,22 @@
+Wasting assets: computation: allowable acquisition cost
+Identifier: CG76772
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg76772
+Published: 2016-03-12T12:28:23+00:00
+Updated: 2016-07-04T15:57:02+01:00
+Retrieved (UTC): 2026-09-18T14:36:10.528302+00:00
+
+TCGA92/S46
+
+CG76700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg76700) tells you that a wasting asset is likely to become less valuable over its predictable life. At the end of that life, it has only a residual or scrap value.
+
+Normally you allow the full acquisition cost of the asset in calculating any gain arising on its disposal. When, however, you are dealing with a wasting asset, you have to make certain assumptions. Depending on how much of the predictable life of the asset, see CG76700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg76700), has elapsed between its acquisition and disposal, the amount of allowable acquisition cost is reduced.
+
+In computing the gain arising on the disposal of a wasting asset, you:
+
+- reduce the allowable acquisition cost by the residual or scrap value
+
+- write off the balance over the predictable life of the asset
+
+- only allow any balance which has not been written off by the date of disposal.
+
+In practice, you calculate how much allowable acquisition cost has been written off, by using a simple formula. This is called T(1)/L and CG76775 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg76775) shows you how to use it.

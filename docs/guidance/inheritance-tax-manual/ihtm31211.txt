@@ -1,0 +1,30 @@
+Assessing: COMPASS: calculations: marking calculations as paid
+Identifier: IHTM31211
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31211
+Published: 2016-04-09T10:03:43+01:00
+Updated: 2016-02-11T17:18:50+00:00
+Retrieved (UTC): 2026-09-18T15:05:59.416959+00:00
+
+If a calculation has been paid or repaid you should amend COMPASS to show this.
+
+Select the case record from the Case Index window. Select Paid/Repaid from the Assessments menu. This will bring up the Assessments Paid/Repaid window.
+
+Highlight the calculation you want to register. If the calculation highlighted is for a payment, the button on the right will show as Paid. (When you highlight a repayment calculation, the button will change to Repaid). Select this button.
+
+This will bring up a new window titled ‘Date assessment was Paid (or Repaid)’. Enter the Effective Date of Payment (IHTM31187 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31187)) (EDP) of the calculation in the format dd/mm/yyyy.
+
+The EDP is either:
+
+- where part of the calculation has been satisfied from deposit, the EDP of the balance
+
+- where the calculation is wholly satisfied from deposit, the EDP of the most recent deposit, or
+
+- (for repayments) the date of issue of the Payable Order as shown on SAGE.
+
+Then choose the OK button. If you have chosen the wrong calculation to register, use the Cancel button to you to the Assessments Paid/Repaid window.
+
+Important note
+
+If you register the wrong calculation by mistake, COMPASS does not allow you to correct the mistake by changing the status of the calculation from Paid or Repaid back to Issued. Nor does COMPASS allow you to withdraw a Paid or Repaid calculation. You will therefore have to make certain that you are registering the right calculation before you click the OK button.
+
+If you do accidentally register the wrong calculation, speak to your manager about the possibility of unpaying it (IHTM31212 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31212)).

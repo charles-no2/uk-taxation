@@ -1,0 +1,28 @@
+Overseas leasing: Recovery of excess allowances when plant or machinery leased overseas
+Identifier: CA24210
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24210
+Published: 2016-04-16T08:50:39+01:00
+Updated: 2026-03-30T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:20:54.499279+00:00
+
+CAA01/S111 - S113
+
+The rates of WDA can be found at CA23220 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23220).
+
+Plant or machinery may qualify for FYA or a normal WDA before it is leased overseas. If that happens and the leasing is not protected leasing CA24100 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca24100) you need to recover the excess allowances, that is allowances at an annual rate higher than 10%, that have been given. You do this by making a balancing charge. A disposal value is brought to account to remove the balance of the expenditure from whatever main rate pool it is in.
+
+This is how you calculate the balancing charge:
+
+Work out the allowances that would have been given if the 10% rate had applied from the beginning. Deduct this from the total of any FYA and normal WDAs given. The answer is the balancing charge.
+
+Example David incurs qualifying expenditure of £10,000 on plant in his chargeable period ended 30 June 2002. He claims FYA of £4,000 in that chargeable period. He leases the plant to Jonathan, who is resident in New York, in his chargeable period ended 30 June 2004. The normal WDA for the chargeable period ended 30 June 2003 is £1,500 (= 25% x [£10,000 - £4,000]). So the allowances made total £5,500 (= £4,000, FYA, + £1,500, WDA). If the 10% rate had applied from the time when David bought the plant the allowances would have totalled £1,900 (= 10% x £10,000 + 10% x £9,000 [= £10,000 - £1,000]). The balancing charge is £3,600 (= £5,500 - £1,900).
+
+This is how you calculate the disposal value that is brought to account to remove the expenditure from the main rate pool.
+
+Start with the expenditure incurred. Deduct the allowances made (both FYA and normal WDAs) from it. This gives the disposal value. Deduct the disposal value from the pool that contained the expenditure and add it to the overseas leasing pool along with the balancing charge.
+
+Example In the example above David has to bring a disposal value of £4,500 (= £10,000 - [£4,000 + £1,500]) to account. He can add £8,100 (= disposal value £4,500 + balancing charge £3,600) to his overseas leasing pool. This means that the balance in the overseas leasing pool is the same as it would have been if the expenditure had been in the overseas leasing pool from the start and WDAs had been given at the 10% rate.
+
+There are rules for the case where the person leasing the plant or machinery overseas acquired it in a connected person transaction or a series of connected person transactions and the qualifying activity was not treated as continuing at that time. You should take account of any FYA or normal WDAs made to the person from whom the plant or machinery was acquired or the other connected persons when you calculate the balancing charge. If a balancing allowance or balancing charge was made to or on the person from whom the plant or machinery was acquired, make a just and reasonable adjustment to take account of it when you calculate the balancing charge.
+
+There are special rules for ships because there may be some allowances that have been postponed and not yet claimed CA25200 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25200). If there are postponed allowances that have not yet been claimed when a ship is leased overseas those allowances may not be claimed. You treat them as if they had been made when you calculate the balancing charge and then allocate them to the overseas leasing pool along with the balancing charge and the disposal value.

@@ -1,0 +1,28 @@
+Assessing: COMPASS: making amendments: deleting an entry or assessment group
+Identifier: IHTM31137
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31137
+Published: 2016-04-09T10:03:07+01:00
+Updated: 2016-02-11T17:15:44+00:00
+Retrieved (UTC): 2026-09-18T15:05:52.336314+00:00
+
+You can delete an Entry (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)) at any time, but you can only delete an instalment option property (IOP) assessment group (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)) if no calculations have been raised on it.
+
+Select ‘Amend’ from the main menu and choose ‘estate’. In the ‘Estate Details’ window choose the entry you want to delete from the first drop-down list and/or the assessment group from the second drop down list.
+
+- Select the Delete button.
+
+- Choose ‘Yes’ in the dialogue box that appears to delete the Entry/assessment group.
+
+Shortcut
+
+From the Case Outline window,
+
+- Select the relevant entry/ assessment group and drag it to the dustbin icon at the bottom of the window, or
+
+- Right click the relevant record and choose ‘delete’ from the menu.
+
+Consequences
+
+All the records of assets, liabilities and reliefs will be deleted. You will not be able to raise any further calculations.
+
+Although the entry or assessment group will not appear on the case outline, you will not be able to use the same letter or number again when you set up further entries. For instance, if you delete entry C, and subsequently add a new entry, that will be entry D.

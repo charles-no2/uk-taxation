@@ -1,0 +1,46 @@
+Cryptoassets for individuals: Capital Gains Tax: pooling examples: example 4 - interaction of same day rule with section 104 pool
+Identifier: CRYPTO22254
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22254
+Published: 2021-03-30T09:03:29+01:00
+Updated: 2021-09-28T09:42:11+01:00
+Retrieved (UTC): 2026-09-18T16:18:40.900589+00:00
+
+This example shows how to the same day rule and a part disposal of the section 104 pool interact.
+
+Daniel holds 8,000 token D in a section 104 pool. He spent a total of £1,000 acquiring them, which is his pooled allowable cost.
+
+On 31 January 20XX Daniel enters into the following transactions:
+
+- Disposal of 5,000 token D for £500.
+
+- Acquisition of 4,000 token D for £320
+
+- Acquisition of 1,000 token D for £75
+
+- Acquisition of 1,000 token D for £70
+
+- Disposal of 2,000 token D for £142
+
+- Acquisition of 500 token D for £35
+
+Daniel’s disposals both take place on the same day, so they are treated as a single disposal of 7.000 token D for £642. Daniel’s acquisitions all take place on the same day, so they are treated as a single acquisition of 6,500 token D for £500.
+
+Daniel’s acquisition and disposal take place on the same day, so the acquisition is matched with the disposal. The remaining 500 token D are treated as a part disposal of the section 104 pool. Daniel will need to work out the gain on his disposal as follows:
+
+Consideration |  £500 + £142 |  £642 |
+
+Less allowable costs – same day (6,500 token D) |  £320 + £75 + £70 + £35 |  (£500) |
+
+Less allowable costs – S104 |  £1,000 x (500 / 8,000) |  (£63) |
+
+Gain |  £79 |    |
+
+Daniel will need to reduce his section 104 pool to 7,500 token D and total allowable costs of £937:
+
+Date |  Quantity of token D |  Pooled allowable costs |
+
+Opening balance |  8,000 |  £1,000 |
+
+31/01/20XX |  (500) |  (£63) |
+
+Closing balance |  7,500 |  £937 |

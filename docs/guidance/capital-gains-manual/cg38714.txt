@@ -1,0 +1,42 @@
+Charge on beneficiary of non-resident settlement – TCGA92/S87: Capital Payments and onward gifts – relevant parts of payment from which onward gift derived – rules for 2018-19 and later years
+Identifier: CG38714
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38714
+Published: 2018-11-01T10:51:37+00:00
+Updated: 2019-10-15T11:57:45+01:00
+Retrieved (UTC): 2026-09-18T14:47:29.033812+00:00
+
+If following receipt of a capital payment there is an onward gift or gifts it is possible that only part of the original capital payment may be within the onward gift rules or there is more than one gift out of the original capital payment.
+
+Where the circumstances are such that the rules in S87I to S87M\TCGA92 apply (see CG38712 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38712)) then the rules in S87J operate to identify the relevant parts of the payment from which the onward gift is derived.
+
+The rules are focused on the capital payment (or part) that can then be matched to the trustee’s section 2(2)* amounts that have or may arise in the future. Within S87J the relevant parts of a capital payment from which an onward gift is made are defined.
+
+If a capital payment (or part) is received by a UK resident who claims the remittance basis, an exception to the normal rule can apply where there are amounts that have been matched to trustee’s section 2(2)* amount and these gains have not been remitted, here the gains are treated as accruing to the subsequent recipient.
+
+So where the rules apply the subsequent recipient of the onward gift may be treated as having received the original capital payment (or part) or in some circumstances gains are treated as accruing. The amounts deemed to be received by the subsequent recipient of the onward payment and any chargeable gain accruing is determined by S87K.
+
+The original capital payment is divided into slices as follows:
+
+- the Taxed part (if any) of each matched amount(if any) – see example (a and note A.
+
+- U – the untaxed part (if any) of each matched amount (if any) – see example (b.
+
+- R – the rest of the capital payment (if any) – see example (c.
+
+Examples
+
+- MR A is UK resident and receives a capital payment of £1,100 in 2018/19. This has been partially matched to trustee’s section 2(2)* amounts of £500 in 2019/20. Gains of £500 would be chargeable for 2019/20. The matched part is £500 which is taxed.
+
+- Mr A is a UK resident who claims the remittance basis for 2019/20. He receives a capital payment of £1,100 in 2018/19. This has been partially matched to trustee’s section 2(2)* amounts of £500 in 2019/20. In 2019/20 £300 of the matched gains are remitted in 2019/20. The matched part which is untaxed i.e. amount U is £200 (£300 was matched and taxed).
+
+- In both a) and b) above the amount R is £600 i.e. the balance.
+
+Note
+
+- Where a schedule 4C pool exists (see CG39255 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39255) onwards) the ‘taxed’ part in 1) is all of the matched amount. It has no untaxed part – S87I(5).
+
+Where there are a chain of gifts say from A to B to C etc, the approach to identifying which part of any capital payment or gains can be moved to a subsequent recipient is applied at each onward gift.
+
+There are the examples 10 and 11 in CG38718 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38718) and Table 2 at CG38718B (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38718b) that provide further guidance. There is some practical guidance at CG38716 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38716) and additionally support from Capital Gains Technical can be sought in complex cases.
+
+*This section was re-written for disposals from 6 April 2019 to section 1(3) see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

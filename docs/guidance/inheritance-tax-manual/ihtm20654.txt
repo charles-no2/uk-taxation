@@ -1,0 +1,52 @@
+Life Policies: Technical note on discounted gift schemes issued on 1 May 2007: position where there are joint settlors
+Identifier: IHTM20654
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm20654
+Published: 2016-04-09T09:34:49+01:00
+Updated: 2016-02-11T17:08:26+00:00
+Retrieved (UTC): 2026-09-18T15:00:32.651247+00:00
+
+Before the Technical note on discounted gift schemes (DGSs) was issued in 2007 HMRC had taken a pragmatic approach to calculating the value transferred where there were joint settlors, usually husband and wife or civil partners. The approach had been to value the retained rights in their entirety and deduct this amount from the total sum invested. The value of the transfer was then apportioned between the settlors in the proportions in which they provided the sum invested.
+
+Example of HMRC’s ‘old’ approach
+
+Husband (Herbert) aged 80 and wife (Winnie) aged 80 invest £100,000 equally in a DGS with monthly withdrawals of £416.67 payable until the death of the last to die of Herbert and Winnie.
+
+Open market value (OMV) of the retained rights calculated as £46,300.
+
+Transfer of value calculated as £100,000 - £46,300 = £53,700
+
+Of this, £26,850 is attributable to Herbert and £26,850 attributable to Winnie.
+
+In practice, where the joint settlors are of similar ages and in similar states of health the results of this pragmatic approach do not differ dramatically from the results where the value of each settlor’s retained rights are considered individually.
+
+Following the changes brought about by the Finance Act 2006, HMRC saw a number of cases where DGSs had been taken out where there was a significant age difference between the joint settlors or where one of the joint settlors was in very poor health or even uninsurable. In these cases the pragmatic approach does not achieve a reasonable result. We were also asked to clarify the correct method of valuation in these circumstances as different providers were calculating the transfer values using different methods, resulting in a lack of consistency. As taxpayers and their advisers were unclear as to which approach was correct we set out what we consider to be the correct valuation approach. We will follow this approach for all DGSs where the transfer takes place after 1 June 2007. We will also use this method where a transfer has taken place before that date and the pragmatic approach would provide an unreasonable valuation of the settlor’s retained rights and substantial sums are involved.
+
+In HMRC’s view, the correct approach is to value the retained rights in their entirety and to apportion this value between the joint settlors by reference to the OMV of each settlor’s retained rights. In the case of joint settlors who are married or in a civil partnership, the related property provisions of IHTA84/S161 are to be taken into account in this valuation. The application of IHTA84/S161 has been considered in some detail in Arkwright and anor v IRC [2004] EWHC 1720 (Ch) - STC 2004 p1323.
+
+The impact of this on the example above is as follows:
+
+- OMV of Herbert’s retained rights = £16,400
+
+- OMV of Winnie’s retained rights = £19,900
+
+- OMV of the total retained rights = £46,300
+
+(The calculations of retained rights reflect the age, state of health and insurability of Herbert and Winnie respectively.)
+
+The OMV of Herbert’s retained rights, calculated in accordance with IHTA84/S161 is
+
+£16,400 ÷ (£16,400 + £19,900) × £46,300 = £20,900
+
+The OMV of Winnie’s retained rights, calculated in accordance with IHTA84/S161 is
+
+£19,900 ÷ (£16,400 + £19,900) × £46,300 = £25,400
+
+So the values transferred by Herbert and Winnie are:
+
+- Value transferred by Herbert = £50,000 - £20,900 = £29,100
+
+- Value transferred by Winnie = £50,000 - £25,400 = £24,600
+
+where there are significant differences in the ages of the settlors (whether their actual ages or their effective ages for insurance purposes) it is technically possible for the value of the retained rights to be calculated as a negative amount using the above approach. It is also technically possible to calculate the value of the retained rights as exceeding the contribution of the settlor. The value of the lifetime transfer is calculated, in accordance with IHTA/S3(1), as the loss to the transferor’s estate. If the value of the retained rights is negative the loss to the transferor’s estate cannot exceed the amount contributed - there cannot be a negative ‘discount’. If the value of the retained rights exceeds the settlor’s contribution, there would be no loss to the estate and therefore no transfer of value.
+
+You should not re-open cases where the values transferred have been accepted in accordance with our previously adopted approach.

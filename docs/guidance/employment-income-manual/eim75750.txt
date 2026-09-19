@@ -1,0 +1,112 @@
+The taxation of pension income: social security lump sums
+Identifier: EIM75750
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75750
+Published: 2022-03-28T16:46:21+01:00
+Updated: 2025-09-24T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:17:35.133385+00:00
+
+Overview (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75750#overview)
+How the State Pension is taxed (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75750#how-the-state-pension-is-taxed)
+(This content has been withheld because of exemptions in the Freedom of Information Act 2000) (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75750#requests-for-advice)
+
+Overview
+
+Individuals who meet the requirement to receive a State Pension can defer receipt for as long as they wish. If the deferral is for less than 12 months, their weekly State Pension is enhanced.
+
+Those individuals who reach State Pension age before 6 April 2016 and choose to defer for 12 months or more can choose to receive either:
+
+- an increased weekly amount of State Pension
+
+- a one-off lump sum, known as the State Pension lump sum, and the weekly State Pension paid at the standard rate.
+
+The State Pension lump sum payment is chargeable to Income Tax.
+
+GOV.UK has more information on deferring the State Pension (https://www.gov.uk/deferring-state-pension).
+
+The legislation uses the term 'social security pension lump sum'. Section 9(1) Finance (No.2) Act 2005 explains that 'social security pension lump sum' means:
+
+- a State Pension lump sum (https://www.gov.uk/deferring-state-pension/what-you-get)
+
+- a shared additional pension lump sum (a lump sum payable under schedule 5, SSCBA 1992, or schedule 5 SSCB(NI)A 1992) in respect of a deferred social security pension)
+
+- a graduated retirement benefit lump sum (paid to individuals who paid into the Graduated Retirement Benefit between 1961 and 1975).
+
+Most social security pension lump sum payments are expected to be in respect of a State Pension lump sum. For convenience, therefore, this guidance uses the term 'State Pension lump sum' but this should be read as including a shared additional pension lump sum and a graduated retirement benefit lump sum.
+
+How the State Pension is taxed
+
+Sections 7 to 10 Finance (No 2) Act 2005
+
+Chapter 2A Income Tax (PAYE) Regulations (SI 2003/2682)
+
+A charge to Income Tax arises when a person becomes entitled to a State Pension lump sum, but the State Pension lump sum is not taken into account when determining the person's total income for Income Tax purposes.
+
+These rules mean that whilst any State Pension lump sum is charged to Income Tax it will not be aggregated with the individual's other income and consequently it cannot push the individual into a higher tax band. Neither can it affect the amount of any age-related personal allowance or married couple's allowance that might be due.
+
+Instead, any State Pension lump sum is taxed at the highest rate of tax that applies on the individual's total income. This highest rate is the one that applies after the set-off of all reliefs and allowances that are deducted in 'arriving at' and 'from' total income. This rate of tax is commonly referred to as the individual's ‘marginal rate’.
+
+For example, if the individual is liable to Income Tax in a tax year at the basic rate on their other income, that rate will also apply to any State Pension lump sum.
+
+Section 7(5) Finance (No2) Act 2005 confirms, firstly, that if the individual’s net income (not including the State Pension lump sum) is below the personal allowance (and blind person’s allowance if applicable) for the tax year, no tax should be deducted from any State Pension lump sum. Otherwise, the rates of Income Tax apply, as follows:
+
+For a person who is neither a Scottish taxpayer nor a Welsh taxpayer, or a Welsh taxpayer prior to 6 April 2018, or a Scottish taxpayer prior to 6 April 2016:
+
+- if the individual's taxable income is greater than nil but does not exceed the basic rate limit – the basic rate
+
+- if the individual's taxable income exceeds the basic rate limit but does not exceed the higher rate limit – the higher rate
+
+- if the individual's taxable income exceeds the higher rate limit – the additional rate (2010 to 2011 onwards).
+
+From 6 April 2018, for a person who is a Welsh taxpayer:
+
+- if the individual's taxable income is greater than nil but does not exceed the basic rate limit – the Welsh basic rate
+
+- if the individual's taxable income exceeds the basic rate limit but does not exceed the higher rate limit – the Welsh higher rate
+
+- if the individual's taxable income exceeds the higher rate limit – the Welsh additional rate
+
+From 6 April 2016, for a person who is a Scottish taxpayer:
+
+- if the individual’s taxable income is greater than nil - the highest Scottish rate that would be applicable to the individual’s taxable income if it was wholly chargeable to Income Tax at Scottish rates.
+
+The rate may be higher than the highest rate applied to the individual’s other income, for example, where the individual’s other taxable income falls within the dividend allowance or the personal savings allowance. If the basic rate band has been extended by Gift Aid, that can be accounted for in the calculation. Marriage Allowance is a tax reduction and therefore does not affect the basic rate band.
+
+For determining the rate of Income Tax that applies to any State Pension lump sum, the special rate that is used to tax dividend income (the ordinary dividend rate) falling within the basic rate band is disregarded. Similarly, the upper dividend rate is disregarded for dividend income chargeable above the basic rate limit. So, if an individual has any income chargeable above the basic rate of Income Tax, the higher rate (40%) will apply when charging any State Pension lump sum to tax.
+
+Example
+
+Max is entitled to a State Pension lump sum in tax year 2019 to 2020 of £15,000. His other income for 2019 to 2020 consists of earnings of £45,000 and State Pension of £3,000. In the tax year 2019 to 2020 he is entitled to a personal allowance of £12,500, the basic rate limit is £37,500 and the rate of tax is 20% (basic rate).
+
+First, determine what Max's income is for tax year 2019 to 2020.
+
+Item | Amount |
+
+Earnings | £45,000 |
+
+State Pension | £3,000 |
+
+Less personal allowance | (£12,500) |
+
+Total income less deductions | £35,500 |
+
+The correct rate of tax to apply to Max's State Pension lump sum is the basic rate of 20% because that is his marginal rate for the 2019 to 2020 tax year, ignoring the State Pension lump sum.
+
+Tax deducted by DWP
+
+It is not feasible to restrict a PAYE tax code to collect any tax due on a State Pension lump sum. The State Pension lump sum is therefore treated as PAYE income and the Department for Work and Pensions (Pensions Service) will operate a simplified form of PAYE. During the application process for a State Pension lump sum, the Department for Work and Pensions (Pension Service) will ask a person to self-declare their expected highest rate of Income Tax. Assuming they declare the basic rate, then tax of 20% will be withheld at the time the lump sum is paid.
+
+This self-declaration means that for most recipients of a State Pension lump sum, the correct rate of tax has been applied at the time of payment. If the individual fails to make a self- declaration of their highest rate of tax, tax at the basic rate will automatically be withheld by DWP.
+
+At the end of each tax year DWP will notify HMRC of all State Pension lump sums paid, together with details of the tax withheld based on the claimants’ self-declarations. If too much or too little tax has been deducted, the position will need rectifying by reference to the actual charge for the applicable year of assessment. If further tax is due, a tax return for the applicable year of assessment must be issued.
+
+Applicable year of assessment
+
+The person liable to a charge to Income Tax is the person entitled to the lump sum.
+
+The applicable year of assessment is the tax year including the first benefit payment day. This is the day from which payment of the weekly State Pension should begin in respect of a new claim or a recommenced claim. This applies regardless of when payment does in fact commence or when the lump sum is paid.
+
+However, there is one exception to this. On claiming the State Pension lump sum, a person can elect to receive the lump sum payment in the tax year immediately following the tax year in which the claim for payment of the weekly State Pension takes effect.
+
+If a person elects to receive the lump sum in the later year, then that later year becomes the applicable year of assessment for the lump sum.
+
+(This content has been withheld because of exemptions in the Freedom of Information Act 2000)

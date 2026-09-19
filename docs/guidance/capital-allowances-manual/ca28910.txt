@@ -1,0 +1,82 @@
+PMA: Anti-avoidance: Finance leaseback:  Background, commencement and definitions
+Identifier: CA28910
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28910
+Published: 2016-04-16T08:52:51+01:00
+Updated: 2016-04-06T16:57:02+01:00
+Retrieved (UTC): 2026-09-18T16:21:04.639878+00:00
+
+FA04/S134, CAA01/S228H
+
+Background
+
+The capital allowance legislation was being exploited in these two ways.
+
+1. Sale and finance leaseback
+
+Broadly there is a sale and finance leaseback if a person carrying on a qualifying activity sells an asset used in that qualifying activity and leases it back under a finance lease. You can find the full definition in CAA01/S221 CA28500 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28500).
+
+Where there is a sale and finance leaseback, the seller’s disposal value and the buyer’s qualifying expenditure are restricted CA28550 to the lowest of:
+
+- the true disposal value,
+
+- market value,
+
+- the notional written down value of the seller’s capital expenditure,
+
+- the notional written down value of the capital expenditure incurred by anyone connected with the seller.
+
+The seller’s restricted disposal value is referred to as the restricted disposal value.
+
+The legislation stops a person selling ‘unused’ capital allowances to a finance lessor by restricting the lessor’s qualifying expenditure to the seller’s disposal value. Without it, a person who was in a loss-making situation could sell an asset at a price higher than its written down value and lease it back. Any balancing charge caused by the sale would be covered by losses and the finance lessor would be able to claim allowances based on the purchase price even though it is far higher than the written down value of the asset.
+
+If a person sells an asset at a price higher than its restricted disposal value and the sale and finance leaseback legislation applies the difference between the restricted disposal value and the selling price is not taxed. It is not disposal value because that is restricted to the restricted disposal value and it is not trading income. The finance lessor’s qualifying expenditure is restricted to the seller’s restricted disposal value which means that the finance lessor cannot claim capital allowances on the difference and does not get relief for it.
+
+So things even out when the finance lessor is in the UK tax net but they do not when the finance lessor is outside it. In a case like that:
+
+- the seller (lessee) gets a tax free sum and allowable loan repayment deductions but there is no qualifying expenditure to restrict in the finance lessor’s hands,
+
+- the income is not subject to UK tax, and
+
+- the overseas taxing authority may only tax the interest element of the lease rentals rather than the whole lease rental.
+
+The transaction can also be carried out if the finance lessor is a UK business that is currently loss making but in this case the finance lessor is effectively selling its losses to a profitable company.
+
+Example Anthony carries on a trade in the UK. He has equipment that originally cost £500,000 on which he has claimed capital allowances. He sells the equipment to B, a bank resident in Spain, for £490,000, its market value, and finance leases it back. When the equipment is sold the notional written down value is £100,000. So Anthony’s disposal value is £100,000, and £390,000, the difference between the disposal value of £100,000 and the sale price of £490,000, is not taxable.
+
+2. Lease and leaseback
+
+The other way in which the legislation can be exploited is by lease and leaseback. A person (the owner) may lease plant that he, she or it owns to someone who is either resident outside the UK or has losses available to shelter any profits and then lease it back. The owner grants the lease for a peppercorn rent and a premium. The rents paid by the owner when the asset is leased back in effect repay the premium received. The owner continues to get capital allowances on the plant and also gets a deduction for the rents paid. This means that effectively the owner gets relief twice. Whilst the premium is chargeable to capital gains tax the part disposal rules within the capital gains legislation usually mean that there is no chargeable gain or that where there is a gain the gain is covered by capital losses. So the owner does not pay much tax, if any, on the premium received.
+
+Example As in the example above Anthony carries on a trade in the UK. He has equipment that in 1994 originally cost £1,000,000 on which he is claiming capital allowances. In 2004 he enters into an agreement with B, a bank resident in Spain, to lease the equipment to B for a premium of £500,000 and annual rents of £5 and to lease it back from B on a 10 year lease at an annual rent of £60,000. Anthony gets a Case I deduction for the rent he pays but continues to get capital allowances on the equipment that he is renting because it still belongs to him. He also pays no, or little, tax on the premium of £500,000 that he has received.
+
+Legislation was introduced in 2004 to deal with these situations. It is in CAA01/S228A toS228J. It applies to accounting periods ending on or after 17 March 2004. There are transitional provisions CA28980 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28980) that stop the new legislation applying to rents for periods before the commencement date.
+
+The legislation restricts the rent that can be deducted in computing profits. It also deals with the termination of leases but it lets existing arrangements be brought to an end in a way that is consistent with the legislation.
+
+The legislation in CAA01/S228B to S228E CA28920 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28920) to CA28950 applies where there is a sale and finance leaseback of plant or machinery and the seller’s disposal value is restricted by CAA01/S222 CA28550.
+
+The legislation in Sections 228B to 228D CA28920 to CA28940 applies where there is a lease and finance leaseback of plant or machinery.
+
+Definitions
+
+Broadly, a finance lease is a lease that transfers substantially all the risks and rewards of ownership of an asset to the lessee. All other leases are operating leases.
+
+The lease type is defined independently by the lessor and lessee. So a lease may be a finance lease for the lessor but an operating lease for the lessee and vice versa.
+
+Lease and finance leaseback is defined in CAA01/S228F (5). Broadly there is a lease and finance leaseback where the owner of plant or machinery leases the plant or machinery to a finance provider for a premium and leases it back from the finance provider.
+
+A lessee is the person to whom the lease is granted. A person who is a lessee by way of an assignment is not a lessee for the purposes of the legislation because the lease was not granted to that person.
+
+Net book value of leased plant or machinery is the book value having regard to any relevant entry in the lessee’s accounts. You should also take account of any depreciation up to the time in question but disregard any revaluation gains and losses and any impairments.
+
+Where there is a leaseback termination includes:
+
+- The assignment of the lessee’s interest.
+
+- The making of arrangements apart from the assignment of the lessee’s interest.
+
+- A variation as a result of which the leaseback ceases to be a finance lease.
+
+Correct accounts are accounts drawn up in accordance with generally accepted accounting practice.
+
+Where accounts drawn up are not correct accounts the legislation in CAA01/S228A to S228G applies as if correct accounts had been drawn up. Where that legislation refers to an amount as shown in the accounts it refers to the amount that would have been shown incorrect accounts.

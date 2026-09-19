@@ -1,0 +1,53 @@
+History TCGA92/Sch4B and 4C
+Identifier: CG39100
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39100
+Published: 2016-03-12T10:59:32+00:00
+Updated: 2016-01-25T16:44:06+00:00
+Retrieved (UTC): 2026-09-18T14:47:44.850714+00:00
+
+TCGA92/Sch4B and 4C were introduced by FA 2000 to block an avoidance scheme commonly known as a flip-flop. Schedule 4C was extensively amended by FA 2003 and FA 2008. When they were introduced Schedules 4B and C applied to non-resident settlements and UK resident settlor-interested settlements taxed under TCGA92/S77. Since TCGA92/S77 was repealed by FA 2008 the legislation now applies only to non-resident settlements, TCGA92/Sch4B/para1.
+
+Flip-flops before FA 2000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39100#IDA2SP5G)
+Flip-flops between FA 2000 and FA 2003 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39100#IDA4UP5G)
+
+Flip-flops before FA 2000
+
+The basic mechanics of a flip-flop before 2000 were as follows:
+
+- trustees of the first settlement hold assets with latent but unrealised gains
+
+- the trustees of the first settlement borrow funds secured on the value of the assets
+
+- the funds are transferred to a newly created second settlement with the same beneficiaries
+
+- the beneficiaries are excluded from any benefit under the first settlement
+
+- the trustees of the second settlement make loans or payments to the beneficiaries
+
+- the trustees of the first settlement sell the assets and repay the borrowing.
+
+The avoidance worked because the beneficiaries did not have an interest in the first settlement at the time it accrued gains on the disposal of the assets. The second settlement in which the beneficiaries did have an interest only ever held cash.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39100#Top)
+
+Flip-flops between FA 2000 and FA 2003
+
+TCGA92/Sch4B attempted to block the avoidance by treating the trustees as making a market value disposal and re-acquisition of the trust assets. That is the way TCGA92/Sch4B still works. If TCGA92/S86 applies to the settlement the gain will be taxed on the settlor.
+
+If the settlement was not settlor-interested TCGA/S87 applied and the gain was transferred to a TCGA92/Sch4C pool. That is also the way that TCGA92/Sch4C still works. The problem with the FA 2000 legislation was that it turned off TCGA92/S90 which applies when assets are transferred between trusts, see CG38910+.
+
+Section 90 wasn’t a problem for the original version of the flip-flop because the first trust didn’t have any gains at the time of the transfer. By turning-off section 90 FA 2000 inadvertently created an avoidance opportunity if the trustees of the first settlement already had a stockpile of undistributed accrued gains. The basic mechanics of the new flip-flops were:
+
+- the trustees of the first settlement borrow funds secured on the value of the trust assets
+
+- the cash is transferred to a newly created second settlement with the same beneficiaries
+
+- the beneficiaries are excluded from any benefit under the first settlement
+
+- the trustees of the second settlement make loans or payments to the beneficiaries
+
+- the trustees of the first settlement repay the borrowing from existing trust resources.
+
+The avoidance works because the stockpiled gains are not transferred to the second settlement. The trust assets in the first settlement are cash, gilts or the reinvested proceeds of earlier disposals which were not showing a gain. The trustees did not need to borrow funds to transfer cash to the second settlement. The purpose of the borrowing was so that TCGA92/Sch4B applied because that turned off TCGA92/S90. The fact that TCGA92/Sch4B imposed a market value disposal of the trust property didn’t matter because that deemed disposal produced no or a negligible gain. In effect anti-avoidance legislation was being used for avoidance purposes. The FA 2003 changes to TCGA92/Sch4C blocked this new avoidance by including the stockpiled gains in the Schedule 4C pool.
+
+In fact HMRC were successful in challenging flip-flop avoidance by non-resident settlements using the arguments based on TCGA92/S97(5) described in CG38670.

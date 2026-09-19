@@ -1,0 +1,112 @@
+Deferred consideration: shares and securities: example
+Identifier: CG58095
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58095
+Published: 2018-09-24T16:07:39+01:00
+Updated: 2023-07-03T09:32:47+01:00
+Retrieved (UTC): 2026-09-18T14:44:20.953275+00:00
+
+TCGA92/S138A
+
+This example illustrates the computation if an earn-out right is treated as a security by TCGA92/S138A but the customer does not receive the deferred consideration he or she was expecting. In the example the consideration to be received is immediate cash, immediate shares and an unascertainable deferred amount of shares and debentures.
+
+NOTE From 6 April 2008 only companies and other concerns within the charge to Corporation Tax may be able to claim indexation allowance, see CG17207 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17207).
+
+FACTS
+
+In year 0 V Ltd acquires all the shares in T Ltd for £100,000.
+
+In year 10 V Ltd sells the shares in T Ltd at arm’s length to P Ltd.
+
+The consideration is
+
+- cash £170,000, and
+
+- 60,000 shares in P Ltd at market value of £2.10 each (total £126,000), and
+
+- the right to a payment of deferred consideration, the amount depending on profits of T Ltd for year 11, to be satisfied only by an issue of shares in or debentures of P Ltd.
+
+The market value of the right to deferred consideration at the time of disposal is agreed by Shares and Assets Valuation at £40,000. T Ltd does not meet its profit target and no shares or debentures are issued. The accounts year for year 11 are finalised in year 12.
+
+COMPUTATIONS
+
+A. IMMEDIATE CHARGEABLE GAIN
+
+Description |  Action |  Calculation |  Amount |
+
+Cash received |  - |  - |  £170,000 |
+
+Less apportioned cost |  - |  - |  - |
+
+Cost |  x |  Cash |  - |
+
+- |  - |  -—————————– |  - |
+
+- |  - |  Cash + shares + right |  - |
+
+£100,000 |  x |  £170,000 |  - |
+
+- |  - |  -————————————- |  £50,595 |
+
+- |  - |  £170,000 + £126,000 + £40,000 |  - |
+
+- |  - |  - |  -———– |
+
+Unindexed gain |  - |  - |  £119,405 |
+
+Less indexation |  - |  £50,595 x 0.250 |  £12,649 |
+
+Chargeable gain year 10 |  - |  - |  £106,756 |
+
+B. COST OF SHARES IN P LTD
+
+Description |  Action |  Calcualtion |  Amount |
+
+Apportioned cost |  - |  - |  - |
+
+£100,000 |  x |  £126,000 |  - |
+
+- |  - |  -————————————— |  £37,500 |
+
+- |  - |  £170,000 + £126,000 = £40,000 |  - |
+
+Indexed rise to year 10 |  - |  - |  - |
+
+- |  - |  £37,500 x 0.250 |  £9,375 |
+
+Indexed pool of expenditure |  - |  - |  £46,875 |
+
+C. COST OF NOTIONAL SECURITY
+
+Description |  Action |  Calculation |  Amount |
+
+Apportioned cost |  - |  - |  - |
+
+£100,000 |  x |  £40,000 |  - |
+
+- |  - |  -————————————— |  £11,905 |
+
+- |  - |  £170,000 + £126,000 = £40,000 |  - |
+
+Indexed rise to year 10 |  - |  - |  - |
+
+- |  - |  £11,905 x 0.250 |  £2,977 |
+
+Indexed pool of expenditure |  - |  - |  £14,882 |
+
+D. COMPUTATIONS WHEN DEFERRED CONSIDERATION RECEIVED
+
+The accounts are finalised in year 12. At that point the amount which V Ltd is to receive becomes ascertainable. V Ltd no longer has a right to receive unascertainable deferred consideration.
+
+Description |  Amount |
+
+Proceeds |  Nil |
+
+Less cost |  £11,905 |
+
+- |  -———— |
+
+Allowable loss year 12 |  (£11,905) |
+
+- |  -———— |
+
+Indexation can’t create or increase an allowable loss, see CG17700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17700).

@@ -1,0 +1,54 @@
+Class 1 structural overview: Zero-rate of contributions for Armed Forces Veterans: assessment
+Identifier: NIM01445
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01445
+Published: 2022-04-05T20:30:52+01:00
+Updated: 2022-11-04T20:25:12+00:00
+Retrieved (UTC): 2026-09-18T15:18:19.526235+00:00
+
+The examples below use the rates and thresholds that apply for the 2025 to 2026 tax year.
+
+Example 1
+
+A monthly paid Veteran has earnings of £1,600 in May 2025. The earnings fall below the Veterans Upper Secondary Threshold (VUST).
+
+Threshold | NICs Calculation | NICs Due |
+
+Primary | £1,600 - £1048 = £552 x 8% | £44.16 |
+
+Secondary | £1,600 - £417 = £1,183 x 0% | £0 |
+
+Total NICs Due |   | £44.16 |
+
+Category V should be used.
+
+Example 2
+
+A monthly paid Veteran has earnings of £6,000 in May 2025. The earnings are above the monthly Veterans Upper Secondary Threshold (VUST).
+
+Threshold | NICs Calculation | NICs Due |
+
+Primary | £4,189 - £1048 = £3,141 x 8%  | £251.28 |
+
+Primary | £6,000 - £4,189 = £1,811 x 2% | £36.22 |
+
+Secondary | £4,189 - £417 = £3,772 x 0%  | £0 |
+
+Secondary | £6,000 - £4,189 = £1,811 x 15% | £271.65 |
+
+Total NICs Due |   | £559.15 |
+
+Category V should be used.
+
+Example 3
+
+A monthly paid Veteran has a 12 month relief period which ends during the tax year on 16 September 2025. They are paid £1,400 on 30 September 2025.
+
+Threshold | NICs Calculation | NICs Due |
+
+Primary | £1,400 - £1,048 = £352 x 8%  | £28.16 |
+
+Secondary | £1,400 - £417 = £983 x 15% | £147.45 |
+
+Total NICs Due |   | £175.61 |
+
+As payment is made on 30 September 2025 and the Veteran is now no longer eligible for the zero rate of secondary NICs up to the VUST. Category letter V should not be used for this or for subsequent earnings periods.

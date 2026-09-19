@@ -1,0 +1,96 @@
+Class 1 NICs: Employment Related Securities (ERS): Internationally Mobile Employees (IMEs): Rest of the World (ROW) countries
+Identifier: NIM06900
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06900
+Published: 2016-04-11T17:18:07+01:00
+Updated: 2016-03-05T17:03:17+00:00
+Retrieved (UTC): 2026-09-18T15:19:46.823747+00:00
+
+Paragraph 18(4) of Part 9 of Schedule 3 Social Security (Contributions) Regulations (SSCR) 2001 (As inserted by The Social Security (Miscellaneous Amendments No. 2) Part 1, Regulation 21(3) 2015 / Statutory Instruments 2015 No. 478)
+
+Paragraph 18(4) of Part 9 of Schedule 3 SSCR 2001 provides the conditions to disregard the total instalment, as calculated at NIM06890 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06890) and NIM06895 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06895), where there is no liability to pay earnings-related contributions because the employed earner does not fulfil the prescribed conditions as to residence or presence in Great Britain or Northern Ireland as defined in regulation 145(1) SSCR 2001, or because of the proviso in regulation 145(2) SSCR 2001.
+
+This applies to Rest of the World (ROW) countries. These are countries that are non-European Economic Area countries, and countries with which the UK does not have a Reciprocal Agreement or Double Contribution Convention for social security purposes.
+
+In accordance with the calculation of the daily earnings example at NIM06890 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06890):
+
+Example 1 - ERS awarded in a ROW country
+
+- IME arrives in the UK from a ROW country to work from 1 January 2014
+
+- IME does not satisfy Regulation 145(2) SSCR 2001 for the 52 week Class 1 NICs exemption to apply
+
+- IME liable for Class 1 NICs from start of employment in UK
+
+- UK NICs liability due for period 1 January 2014 - 31 December 2015 only (730 days)
+
+- UK NICs due on 730 days @ £913.24 per day = £666,667
+
+Paragraph 18(4) of Part 9 of Schedule 3 SSCR 2001 disregards 365 days (1 January 2013 - 31 December 2013), £333,333 of ERS earnings.
+
+Example 2 - ERS awarded in a ROW country
+
+- IME arrives in the UK from a ROW country to work from 1 January 2014
+
+- Regulation 145(2) SSCR 2001 applies to the IME and Class 1 NICs are not payable for the first 52 weeks of the IME working in the UK
+
+- UK NICs liability due for period 1 January 2015 - 31 December 2015 only (365 days)
+
+- UK NICs due on 365 days @ £913.24 per day = £333,333
+
+Paragraph 18(4) of Part 9 of Schedule 3 SSCR 2001 disregards 730 days (1 January 2013 - 31 December 2014), £666,667 of ERS earnings.
+
+Example 3 - ERS awarded in UK
+
+- IME leaves the UK on 1 January 2014 to work in a ROW country
+
+- Regulation 146 SSCR 2001 applies to the IME - this provides that the IME remains subject to UK Class 1 NICs for the first 52 weeks abroad.
+
+- UK NICs liability due for period 1 January 2013 - 31 December 2014 only (730 days)
+
+- UK NICs due on 730 days @ £913.24 per day = £666,667
+
+Paragraph 18(4) of Part 9 of Schedule 3 SSCR 2001 disregards 365 days (1 January 15 - 31 December 15), £333,333 of ERS earnings.
+
+Example 4 - ERS awarded in UK
+
+- IME leaves the UK on 1 January 2015 to work in a ROW country
+
+- Regulation 146 SSCR 2001 does not apply to the IME - the IME is not subject to a UK NICs liability from the date of departure
+
+- UK NICs liability due for period 1 January 2013 - 31 December 2014 only (730 days)
+
+- UK NICs due on 730 days @ £913.24 per day = £666,667
+
+Paragraph 18(4) of Part 9 of Schedule 3 SSCR 2001 disregards 365 days (1 January 2015 - 31 December 2015), £333,333 of ERS earnings.
+
+Example 5 - ERS awarded in a ROW country
+
+- IME arrives in the UK from a ROW country to work from 1 January 2014
+
+- Regulation 145(2) SSCR 2001 applies to the IME and Class 1 NICs are not payable for the first 52 weeks of the IME working in the UK
+
+- IME becomes liable for Class 1 NICs from 1 January 2015
+
+- IME leaves the UK on 30 June 2015
+
+- Regulation 146 SSCR 2001 does not apply to the IME - the IME is not subject to a UK NICs liability from the date of departure
+
+- UK NICs liability due for period 1 January 2015 - 30 June 2015 only (181 days)
+
+- UK NICs due on 181 days @ £913.24 per day = £165,298 (approx.)
+
+Paragraph 18(4) of Part 9 of Schedule 3 SSCR 2001 disregards 914 days (1 January 2013 - 31 December 2014, 730 days and 1 July 2015 - 31 December 2015, 184 days), £834,702 (approx.) of ERS earnings.
+
+In Examples 1 to 5, UK NICs is apportioned in line with the period the IME was subject to UK NICs legislation only.
+
+Example 6 - ERS awarded in UK
+
+- IME leaves the UK on 1 January 2015 to work in a ROW country
+
+- Regulation 146 SSCR 2001 applies to the IME - this provides that the IME is liable for UK NICs for the first 52 weeks.
+
+- UK NICs liability due for period 1 January 2013 - 31 December 2015 on the full amount of £1m of ERS earnings.
+
+N.B. The above examples are for illustrative purposes only, to ease understanding. It is recognised, however, when determining a period of liability for UK NICs and/or a period to be disregarded, that a period will begin on a Sunday and end on a Saturday.
+
+Further information on ROW countries can be found at NIM33500 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim33500).

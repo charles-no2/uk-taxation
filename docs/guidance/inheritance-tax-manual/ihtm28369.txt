@@ -1,0 +1,36 @@
+Liabilities: investigating form IHT419: allowing part of a debt under FA86/S103 (2)
+Identifier: IHTM28369
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28369
+Published: 2016-04-09T09:55:03+01:00
+Updated: 2016-02-11T17:14:36+00:00
+Retrieved (UTC): 2026-09-18T15:04:28.382106+00:00
+
+Even if an arrangement (IHTM28366 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28366)) is caught by FA86/S103 (1) (b), a deduction may still be allowed for part of the debt. If the value of the consideration given by the deceased exceeded the amount that would have been available if the lender had applied all the property derived from the deceased, then the debt is reduced only to the extent of that lower amount.
+
+Example
+
+- Amir gives his son Bashir shares worth £20,000.
+
+- Bashir lends Amir £25,000, out of his separate resources, at a time when the shares were worth £17,000.
+
+- Amir dies and a deduction of £25,000 is claimed.
+
+The amount of the deduction is the realisable value at the time the debt was created. So the liability is reduced by £17,000 - leaving £8,000 as a valid deduction.
+
+For this purpose the following property derived from the deceased is disregarded
+
+- property included in the consideration given (that is property falling within FA86/s103 (1) (a), FA86/S103 (2) (a)
+
+- property shown by the taxpayer to be derived from the deceased under a disposition which was not made with reference to, or with a view to enabling or facilitating, the giving of consideration or the recoupment of its cost, FA86/S103 (2) (b).
+
+Example
+
+- Amir gives shares worth £15,000 to Bashir.
+
+- 18 months later Bashir sells half the shares back to Amir for £7,500 - which is not paid but left as a debt repayable on demand.
+
+- Bashir lends Amir £12,000 entirely from his own resources.
+
+- Amir dies owing Bashir £19,500.
+
+The debt of £7,500 is clearly derived from the earlier gift of shares - and falls within FA86/S103 (1)(a). This liability is not deductible. If it was not for the provisions of FA86/S103 (2)(a) it would be possible to take that £7,500 into account in considering the debt of £12,000. The result would be that the entire debt of £12,000 would be non-deductible, so the whole of the claimed £19,500 would be disallowed. But because under FA86/S103 (1)(b) half the value of the shares is included in the consideration given for the debt there remains an excess of £4,500. This figure of £4,500 for the allowable debt is arrived at by calculating the resources available to B against the second loan of £12,000 as £7,500, being the original gift of shares less the £7,500 disallowed. So the balance of £4,500 is deductible without restriction because under IHTA84/S103 (2)(a) this amount is the excess consideration.

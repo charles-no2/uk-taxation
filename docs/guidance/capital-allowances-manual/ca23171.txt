@@ -1,0 +1,48 @@
+Plant and Machinery Allowance (PMA): First Year Allowance (FYA): Super-Deduction and Special Rate (SR) Allowance: Disposal of assets on which super-deduction has been claimed – balancing charge in chargeable periods commencing before 1 April 2023
+Identifier: CA23171
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23171
+Published: 2021-11-10T18:08:23+00:00
+Updated: 2021-11-10T18:08:22+00:00
+Retrieved (UTC): 2026-09-18T16:21:45.876347+00:00
+
+FA21/S12(6)-(8)
+
+CA23169 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23169) describes how to compute the ‘relevant proportion’, and therefore the balancing charge, which arises when an asset on which a super-deduction has been claimed is subject to a disposal event on or after 1 April 2021.
+
+The balancing charge arises in the chargeable period in which the disposal event occurs. There is guidance on disposal events at CA23240 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240).
+
+For disposal events within chargeable periods that commenced on or after 1 April 2021 and before 1 April 2023, the balancing charge is the ‘relevant proportion’ of the disposal value of the plant or machinery multiplied by the ‘relevant factor’.
+
+The disposal value is determined in the normal way. There is guidance on disposal values at CA23250 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23250).
+
+Relevant factor for chargeable periods ending before 1 April 2023
+
+If, in addition to commencing on or after 1 April 2021 and before 1 April 2023, the chargeable period ends before 1 April 2023, the relevant factor is 1.3.
+
+Example – disposal in a chargeable period ending before 1 April 2023
+
+Delta Ltd has a chargeable period ended 31 March. In the chargeable period ending 31 March 2022, the company incurs expenditure of £100,000 on a food processing machine and claims a super-deduction of £130,000. In the chargeable period ending 31 March 2023, the company decides it no longer requires the machine, so it sells it for £100,000.
+
+The balancing charge the company must add to its taxable profits in respect of this disposal is calculated using the following steps:
+
+- Calculate the relevant proportion, as outlined on CA23169: divide the £100,000 of relevant super-deduction expenditure by the £100,000 of total relevant expenditure to give a relevant proportion of 1.
+
+- Multiply the disposal value by the calculated relevant proportion: multiply the £100,000 disposal value by 1, the relevant proportion, to give £100,000.
+
+- As the disposal event occurred in a chargeable period ending before 1 April 2023, multiply the result at step 2 by the relevant factor: multiply the £100,000 by 1.3, the relevant factor, to give a balancing charge of £130,000.
+
+Relevant factor for chargeable periods ending on or after 1 April 2023
+
+If the chargeable period ends on or after 1 April 2023, you calculate the relevant factor using the following steps:
+
+- Divide the number of days in the period before 1 April 2023 by the total number of days in that period.
+
+- Multiply that amount by 0.3.
+
+- Add 1 to the result.
+
+Example – disposal in a chargeable period ending on or after 1 April 2023
+
+For a 12-month chargeable period ending 31 December 2023, there are 90 days in the period before 1 April 2023 and 365 days in that period. Following the above steps, the relevant factor will be 0.3 × (90 ÷ 365) + 1.
+
+The balancing charge is the product of the relevant proportion and the computed relevant factor. If the relevant proportion in this chargeable period is £100,000, the balancing charge will be £107,397.

@@ -1,0 +1,12 @@
+Assessing: COMPASS: settlement cases: adding an Entry
+Identifier: IHTM31244
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31244
+Published: 2016-04-09T10:04:04+01:00
+Updated: 2016-02-11T17:18:55+00:00
+Retrieved (UTC): 2026-09-18T15:06:03.476989+00:00
+
+When you create a new Entry (IHTM31242 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31242)) , select the type of charge, either TYA (Ten Year Anniversary) or proportionate, using the drop-down menu in the Entry - Add window. The title of the Entry is the account number (0 to 25) in consecutive order.
+
+If the Entry is for a proportionate charge, also include the date of the charge in the box below the charge type.
+
+Where the charge is a TYA, COMPASS will automatically enter the date of the next TYA, calculated from the date of the settlement.

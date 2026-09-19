@@ -1,0 +1,934 @@
+Example 1: transfer of an asset at market value
+Identifier: CG27940
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27940
+Published: 2016-03-12T10:29:06+00:00
+Updated: 2023-04-19T09:16:50+01:00
+Retrieved (UTC): 2026-09-18T14:29:15.010123+00:00
+
+Example 1: Transfer of an asset at market value: examples
+
+Facts
+
+A and B carry on a business in partnership.
+
+Their interests in partnership assets are shared as to:
+
+- Partner A - 75%
+
+- Partner B - 25%
+
+Partner A transfers an asset which he acquired five years earlier for £320,000 to the partnership at its current market value of £400,000. The consideration of £400,000 is credited to his capital account.
+
+The asset is included in the balance sheet at its cost to the partnership of £400,000.
+
+Four years later the partnership disposes of the asset for £600,000.
+
+Disposal on transfer of asset
+
+Partner A has disposed of a 25% interest in the asset on its transfer to the partnership as he has retained a 75% share by virtue of his interest in the assets of the partnership.
+
+The CG computation for Partner A's disposal of a 25% interest in the asset will be:
+
+-
+
+|
+
+-
+
+|
+
+Partner A
+
+|
+
+Disposal consideration
+
+|
+
+-
+
+|
+
+£100,000
+
+|
+
+£400,000 x 25%
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Less
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Acquisition cost
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£320,000 x
+
+|
+
+£100,000
+
+|
+
+£ 80,000
+
+|
+
+-
+
+|
+
+£100,000+ £300,000
+
+|
+
+-
+
+|
+
+TCGA92/S42 (2)
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Gain
+
+|
+
+-
+
+|
+
+£20,000
+
+|
+
+In effect, Partner A realised a profit of £80,000 (£400,000 - £320,000) on the transfer of the asset to the partnership. However, because he retained a 75% interest in the asset, the gain accruing at the time of the transfer is the proportion attributable to the interest that passed to Partner B (£80,000 x 25% = £20,000).
+
+The CG base costs of the partners are:
+
+-
+
+|
+
+Amount
+
+|
+
+Partner A
+
+|
+
+£320,000 - £80,000 = £240,000
+
+|
+
+Partner B
+
+|
+
+£100,000
+
+|
+
+Partner A's CG base cost is based on his original cost of acquisition and Partner B's CG base cost is equivalent to the disposal consideration taken into account for Partner A.
+
+Disposal on sale of asset for £600,000
+
+Section 2 of SP D12 applies to the calculation of the gains arising on the disposal of the asset, see CG27350.
+
+-
+
+|
+
+Partner A
+
+|
+
+Partner B
+
+|
+
+Disposal consideration
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£600,000 x 75%
+
+|
+
+£450,000
+
+|
+
+-
+
+|
+
+£600,000 x 25%
+
+|
+
+-
+
+|
+
+£150,000
+
+|
+
+Less
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Acquisition cost
+
+|
+
+£240,000
+
+|
+
+£100,000
+
+|
+
+Gains
+
+|
+
+£210,000
+
+|
+
+£50,000
+
+|
+
+Partner A's gain of £210,000 is equal to the remainder of the profit realised on the transfer of the asset to the partnership plus his share of the surplus on sale, (£80,000 x 75%) £60,000 + £150,000 = £210,000.
+
+Partner B's gain of £50,000 is equal to his share of the surplus on sale, £200,000 x 25% = £50,000.
+
+Example 2:
+
+Facts
+
+A and B carry on a business in partnership.
+
+Partner A transfers an asset which he acquired four years earlier for £450,000 to the partnership at its current market value of £800,000. The consideration of £800,000 is credited to his capital account.
+
+Partner A and Partner B agree that their interests in the asset will be:
+
+- Partner A - 100%
+
+- Partner B - 0%
+
+The asset is included in the balance sheet at its cost to the partnership of £800,000.
+
+Two years later the partners agree to change their interests in the asset to:
+
+- Partner A - 50%
+
+- Partner B - 50%
+
+No consideration is paid by B to A for the acquisition of a 50% interest in the asset.
+
+Three years later the partnership disposes of the asset for £1,200,000.
+
+Transfer of asset
+
+In effect, Partner A has realised a profit of £350,000 (£800,000 - £450,000) on the transfer of the asset to the partnership. However, as he has retained a 100% interest in the asset by virtue of the partnership agreement there is no disposal for CG purposes at the time of the transfer.
+
+The CG base costs of the partners are:
+
+-
+
+|
+
+Amount
+
+|
+
+Partner A
+
+|
+
+£450,000
+
+|
+
+Partner B
+
+|
+
+Nil
+
+|
+
+Note that Partner A's CG base cost is his original cost of acquisition.
+
+Disposal on change of sharing ratios
+
+Partner A has disposed of a 50% interest in the asset.
+
+Paragraph 4 of SP D12 applies to the calculation of the gain arising on the change in sharing ratios, see CG27500.
+
+The CG computation for Partner A's disposal of a 50% interest in the asset will be:
+
+-
+
+|
+
+Partner A
+
+|
+
+Disposal consideration based on BSV of the asset (£800,000 x 50%)
+
+|
+
+£400,000
+
+|
+
+Less acquisition cost (£450,000 x 50%)
+
+|
+
+£225,000
+
+|
+
+Gain
+
+|
+
+£175,000
+
+|
+
+Partner A's gain is equivalent to 50% of the profit he realised on the transfer of the asset to the partnership, ie £350,000 x 50% = £175,000.
+
+The CG base costs of the partners for future CG purposes are:
+
+-
+
+|
+
+Amount
+
+|
+
+Partner A
+
+|
+
+£450,000 - £225,000 = £225,000
+
+|
+
+Partner B
+
+|
+
+£400,000
+
+|
+
+Partner A's CG base cost is based on his original cost of acquisition whilst Partner B's CG base cost is equivalent to the disposal consideration taken into account for Partner A.
+
+Disposal on sale of asset for £1,200,000
+
+Paragraph 2 of SP D12 applies to the calculation of the gains arising on the disposal of the asset, see CG27350.
+
+-
+
+|
+
+Partner A
+
+|
+
+Partner B
+
+|
+
+Disposal consideration (£1,200,000 x 50%)
+
+|
+
+£600,000
+
+|
+
+£600,000
+
+|
+
+Less acquisition cost
+
+|
+
+£225,000
+
+|
+
+£400,000
+
+|
+
+Gain
+
+|
+
+£375,000
+
+|
+
+£200,000
+
+|
+
+Partner A's gain of £375,000 is equal to the remainder of the profit realised on the transfer of the asset to the partnership plus his share of the surplus on sale. (£350,000 x 50%) £175,000 + (£400,000 x 50%) £200,000 = £375,000.
+
+Partner B's gain of £200,000 is equal to his share of the surplus on sale, £400,000 x 50% = £200,000.
+
+Example 3:
+
+Facts
+
+A and her civil partner B carry on a business in partnership and hold equal interests in partnership assets.
+
+A transfers an asset which she had acquired two years earlier for £120,000 to the partnership at its current market value of £200,000. The consideration of £200,000 is credited to his capital account.
+
+The asset is included in the balance sheet at its cost to the partnership of £200,000.
+
+Three years later the partnership disposes of the asset for £240,000. The surplus on sale of £40,000 (£240,000 - £200,000) is credited to the partners' capital accounts in accordance with their interests in partnership assets:
+
+-
+
+|
+
+Amount
+
+|
+
+A
+
+|
+
+£40,000 x 50% = £20,000
+
+|
+
+B
+
+|
+
+£40,000 x 50% = £20,000
+
+|
+
+Disposal on transfer of asset
+
+The transfer of the asset to the partnership is an occasion of a disposal of a 50% interest in the asset by A. However, as the partners are civil partners TCGA92/S58 applies so that the disposal of a 50% interest in the asset by A to B is treated as having been made for a consideration that would secure neither a gain nor a loss.
+
+The CG computation for A's disposal of a 50% interest in the asset will be:
+
+-
+
+|
+
+Partner A
+
+|
+
+Disposal consideration - TCGA92/S58 (£120,000 x 50%)
+
+|
+
+£60,000
+
+|
+
+Less acquisition cost (£120,000 x 50%)
+
+|
+
+£60,000
+
+|
+
+-
+
+|
+
+No gain/no loss
+
+|
+
+The CG base costs of the partners are:
+
+-
+
+|
+
+Amount
+
+|
+
+A
+
+|
+
+£120,000 - £60,000 = £60,000
+
+|
+
+B
+
+|
+
+£60,000
+
+|
+
+A's CG base cost is based on his original cost of acquisition and B’s CG base cost is equivalent to the disposal consideration taken into account for A.
+
+Disposal on sale of asset for £240,000
+
+Paragraph 2 of SP D12 applies to the calculation of the gains arising on the disposal of the asset, see CG27350.
+
+-
+
+|
+
+A
+
+|
+
+B
+
+|
+
+Disposal consideration (£240,000x 50%)
+
+|
+
+£120,000
+
+|
+
+£120,000
+
+|
+
+Less acquisition cost
+
+|
+
+£60,000
+
+|
+
+£60,000
+
+|
+
+Gains
+
+|
+
+£60,000
+
+|
+
+£60,000
+
+|
+
+Example 4:
+
+Facts
+
+A Ltd, B Ltd and C Ltd are members of the same group of companies, ABC Group.
+
+A Ltd and B Ltd form a Limited Liability Partnership (LLP) in which they hold equal interests.
+
+C Ltd sells a freehold property which it acquired several years earlier for £1,500,000 to LLP for an amount equal to its current market value of £2,500,000.
+
+The property is included in the accounts at its cost to LLP of £2,500,000.
+
+Two years later D Ltd, a company which is not a member of ABC Group, is admitted to LLP at which time the members’ interests become:
+
+- A Ltd - 25%
+
+- B Ltd - 25%
+
+- D Ltd - 50%
+
+Three years later LLP sells the property for £3,000,000.
+
+The surplus on sale of (£3,000,000 - £2,500,000) £500,000 is credited to the members’ capital accounts as to:
+
+-
+
+|
+
+Amount
+
+|
+
+A Ltd
+
+|
+
+£500,000 x 25% = £125,000
+
+|
+
+B Ltd
+
+|
+
+£500,000 x 25% = £125,000
+
+|
+
+D Ltd
+
+|
+
+£500,000 x 50% = £250,000
+
+|
+
+Disposal on sale of freehold property to the partnership
+
+TCGA92/S171 applies to treat the disposal as having been made for a consideration that would result in neither a gain nor a loss because the members of LLP, A Ltd and B Ltd, are in the same group of companies as C Ltd. In consequence the members of LLP will be treated as having acquired their interests in the property for a total consideration equal to the original cost of the asset to C Ltd of £1,500,000, see CG45300+.
+
+The members’ CG base costs* are:
+
+-
+
+|
+
+Amount
+
+|
+
+A Ltd
+
+|
+
+£1,500,000 x 50% = £750,000
+
+|
+
+B Ltd
+
+|
+
+£1,500,000 x 50% = £750,000
+
+|
+
+*Note that indexation allowance has been ignored for the purposes of this example.
+
+Disposal on admission of D Ltd
+
+A Ltd and B Ltd have disposed of part of their interests in the property. Paragraph 4 of SP D12 applies to the calculation of the gains arising on the change in partnership sharing ratios, see CG27500.
+
+-
+
+|
+
+A Ltd
+
+|
+
+B Ltd
+
+|
+
+Disposal consideration based on BSV
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£2,500,000x 25%
+
+|
+
+£625,000
+
+|
+
+£625,000
+
+|
+
+Less acquisition cost
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£750,000 x 25%/50%
+
+|
+
+£375,000
+
+|
+
+£375,000
+
+|
+
+Gains
+
+|
+
+£250,000
+
+|
+
+£250,000
+
+|
+
+The total gains are equal to 50% of the profit which accrued to C Ltd on the sale of the property to LLP. (£2,500,000 - £1,500,000) £1,000,000 x 50% = £500,000.
+
+The members’ CG base costs for future CG purposes are:
+
+-
+
+|
+
+Amount
+
+|
+
+A Ltd
+
+|
+
+£750,000 - £375,000 = £375,000
+
+|
+
+B Ltd
+
+|
+
+£750,000 - £375,000 = £375,000
+
+|
+
+D Ltd
+
+|
+
+£625,000 + £625,000 = £1,250,000
+
+|
+
+Disposal on sale of property for £3,000,000
+
+Paragraph 2 of SP D12 applies to the calculation of the gains arising on the disposal of the property, see CG27350.
+
+-
+
+|
+
+A Ltd
+
+|
+
+B Ltd
+
+|
+
+D Ltd
+
+|
+
+Disposal consideration
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£3,000,000 x 25%
+
+|
+
+£750,000
+
+|
+
+£750,000
+
+|
+
+-
+
+|
+
+£3,000,000 x 50%
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£1,500,000
+
+|
+
+Less acquisition cost
+
+|
+
+£375,000
+
+|
+
+£375,000
+
+|
+
+£1,250,000
+
+|
+
+Gains
+
+|
+
+£375,000
+
+|
+
+£375,000
+
+|
+
+£250,000
+
+|
+
+The total gains of (£375,000 x 2) £750,000 accruing to A Ltd and B Ltd are equal to the balance of the profit which accrued to C Ltd on the sale of the property to LLP plus their shares of the surplus on sale:
+
+-
+
+|
+
+Amount
+
+|
+
+£2,500,000 - £1,500,000 = £1,000,000 x 50%
+
+|
+
+£500,000
+
+|
+
+£125,000 + £125,000
+
+|
+
+£250,000
+
+|
+
+-
+
+|
+
+£750,000
+
+|
+
+The gain of £250,000 accruing to D Ltd is equal to its share of the surplus on sale.

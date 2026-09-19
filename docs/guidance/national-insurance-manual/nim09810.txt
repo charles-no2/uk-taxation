@@ -1,0 +1,76 @@
+Earnings Periods: Reallocating NICs for benefit purposes: Mistimed payments
+Identifier: NIM09810
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim09810
+Published: 2016-04-11T17:21:43+01:00
+Updated: 2022-01-05T10:51:08+00:00
+Retrieved (UTC): 2026-09-18T15:14:51.190702+00:00
+
+Regulation 7 of the Social Security Contributions Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+Regulation 58(1) of the Social Security Contributions Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+Regulation 58(1) allows NICs paid in one tax year to be reallocated to another for benefit purposes if it is established that those NICs were paid in respect of a regular earnings payment which was clearly mistimed or made out of turn.
+
+Example
+
+A breakdown in an employer’s computerised payroll system meant that an employee’s regular monthly earnings of £1,900 due to be paid on 31 March could not be paid until the end of the first monthly earnings period in the following tax year, that is 30 April. Under regulation 7(3) SSCR 2001 (see NIM08720 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim08720)) the earnings for March are kept separate from the earnings for April and NICs are assessed using the rates and limits appropriate later tax year based on a monthly earnings period.
+
+Under Regulation 7(1) SSCR 2001 (see NIM08710 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim08710)) it is possible to treat a mistimed earnings payment as if it had been made at the proper time.
+
+Example A
+
+Given -
+
+- earnings of £2,000 are due to be paid at the end of August
+
+- earnings of £2,300 are due to be paid at the end of September
+
+- the August earnings are mistimed and are paid at the end of September (total earnings received at the end of September, therefore, amount to £4,300)
+
+Under regulation 7(1), it is possible to treat the payment for August as if it had actually been made at the end of August, in which case NICs are assessed separately on each payment (£2,000 for August, £2,300 for September) on a monthly basis.
+
+However, this does not apply to those situations where the payments cross tax years. This is because Regulation 7(3) does not allow HMRC to treat mistimed payments as if they were paid at their usual time if such treatment means that the payment will be treated as paid in another tax year. In such cases, while the mistimed payment must be kept separate from any other earnings paid in the same tax year, NICs must be worked out using the rates and limits appropriate to the tax year of payment.
+
+Example B
+
+An employee has a monthly earnings period (earnings are paid on the last day of each calendar month). The employer’s computerised payroll system breaks down and as a result the employee’s earnings for March 2025 are paid at the end of April 2025. The employee’s pay is £3,700 which represents £1,800 for the period 1 to 31 March and £1,900 for the period 1 to 30 April. Calculate NICs separately on each of these amounts as follows:
+
+2025 to 2026 tax year
+
+monthly Secondary Threshold (ST) = £471
+
+monthly Lower Earnings Limit (LEL) = £542
+
+monthly Primary Threshold (PT) = £1048
+
+monthly Upper Earnings Limit (UEL) = £4,189
+
+Earnings paid for March = £1,800
+
+Employee NICs = (£1,800 - £1048) x 8% = £60.16
+
+Employers’ NICs = (£1,800 - £417) x 15% = £207.45
+
+Total NICs = £267.61
+
+Earnings paid for April = £1,900
+
+Employee NICs = (£1,900 - £1048) x 8% = £68.16
+
+Employers’ NICs = (£1,900 - £417) x 15% = £222.45
+
+Total NICs = £290.61
+
+These NICs will form part of the employee’s record for the 2025 to 2026 tax year. However, in this example, the NICs paid in respect of the earnings for the period 1 to 31 March (and the corresponding insurable earnings) can be reallocated from the 2025 to 2026 tax year to the 2024 to 2025 tax year under regulation 58(1) if:
+
+- the employee’s record for the 2024 to 2025 tax year is deficient for benefit purposes; and
+
+- the employee agrees.
+
+Using this example, employee NICs of £60.16 can, therefore, be reallocated to the 2024 to 2025 tax year along with the corresponding insurable earnings of £1,258 ie £1,800 - £542 (LEL).
+
+If it is decided that the provisions of regulation 58(1) can be invoked, continue action as in NIM09830 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim09830).
+
+Note
+
+NICs can also be reallocated under regulation 58(1) from an earlier tax year to a later tax year. However, these situations will only arise in very exceptional circumstances.

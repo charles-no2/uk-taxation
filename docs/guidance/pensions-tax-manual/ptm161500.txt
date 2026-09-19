@@ -1,0 +1,96 @@
+Information and administration: reportable events 8 to 9
+Identifier: PTM161500
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161500
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2023-12-14T11:00:13+00:00
+Retrieved (UTC): 2026-09-18T14:50:17.342550+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Reportable event 8: Pension commencement lump sum with primary/enhanced protection (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161500#IDAK0RXH)
+Reportable event 8A: Stand-alone lump sums (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161500#IDAC4RXH)
+Reportable event 9: Transfers to qualifying recognised overseas pension schemes (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161500#IDAGBSXH)
+
+Regulation 3 The Registered Pension Schemes (Provision of Information) Regulations 2006 - SI 2006/567
+
+Reportable event 8: Pension commencement lump sum with primary/enhanced protection
+
+As of the 6 April 2024, Event 8 is no longer reportable. For any report occuring before the 6 April 2024 this event must be reported, and the below information consiered.
+
+This event occurs when a registered pension scheme pays a pension commencement lump sum to a member, and the lump sum is only an authorised payment because the member has either of the following:
+
+- protection of lump sum of more than £375,000 with primary protection (see PTM063110 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063110))
+
+- protection of lump sum of more than £375,000 with enhanced protection (see PTM063120 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063120)).
+
+If the amount of the pension commencement lump sum is not more than the standard permitted maximum amount (see PTM063230 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063230)) it does not need to be reported.
+
+Where a lump sum payment is made before the pension the scheme administrator will not initially know if the payment is a pension commencement lump sum; that is whether or not it is paid in the allowable period of up to 6 months before the connected pension crystallises. The pension commencement lump sum crystallises (the member becomes entitled to it) immediately before the connected pension. So, the tax year in which the pension commencement lump sum is paid may be different from the tax year in which it crystallises. Where this happens, the test for whether or not the lump sum is reportable is made using the standard lifetime allowance for the tax year in which the pension commencement lump sum is paid.
+
+Example
+
+Fiona has enhanced protection and a protected lump sum of 20%. In June 2008 she receives a pension commencement lump sum of £300,000 and a scheme pension with a crystallised value of £1.2 million.
+
+The maximum amount for a pension commencement lump sum in these circumstances if Fiona did not have protection would be £375,000. The £300,000 lump sum is not reportable as it is not more than the standard permitted maximum for a pension commencement lump sum.
+
+In March 2013 Fiona is paid a £200,000 pension commencement lump sum. On 5 May 2013 she crystallises £800,000 as a lifetime annuity. This lump sum is reportable in the 2012 to 2013 Event Report as a reportable event 8 because:
+
+- the lump sum was paid in 2012 to 2013 (although the BCE for lump sum occurs on 5 May 2013 - in 2013 to 2014)
+
+- the £200,000 lump sum is more than the permitted maximum for a non-protected pension commencement lump sum (which would be £0) - this lump sum is only an authorised payment because Fiona has enhanced protection with protection of lump sum rights of more than £375,000.
+
+The £200,000 pension commencement lump sum and £800,000 lifetime annuity both crystallise in 2013 to 2014 when the standard lifetime allowance is £1.5 million. The £1.5 million Fiona crystallised in 2008 to 2009 used up 100% of the standard lifetime allowance. This means that both BCE 6 for the pension commencement lump sum and the BCE 4 for the lifetime annuity are more than the standard lifetime allowance. These must be reported on the Event Report for 2013 to 2014 as a reportable event 6.
+
+The information to be provided on the Event Report for reportable event 8 is:
+
+- the name of the member
+
+- their National Insurance number (see PTM161200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161200) if the scheme administrator doesn’t have this)
+
+- the amount of the payment
+
+- the date of payment
+
+- the reference number of the protection certificate issued by HMRC.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161500#Top)
+
+Reportable event 8A: Stand-alone lump sums
+
+As of the 6 April 2024 Event 8A is no longer reportable. For any report occuring before the 6 April 2024 this event must be reported, and the below information considered.
+
+Event number 8A relates to the payment of stand-alone lump sums. The event occurs when a stand-alone lump sum is paid to a member who had either of the following:
+
+- lump sum rights of more than £375,000 on 5 April 2006 and either primary protection or enhanced protection (see PTM063110 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063110) and PTM063120 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063120))
+
+- scheme specific lump sum protection (see PTM063130 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063130)) and the lump sum paid is greater than 7.5% of the standard lifetime allowance for the year in which the lump sum is paid.
+
+If reporting this event on Pension Schemes Online, how the event is reported depends on how the member qualifies for a stand-alone lump sum. Pension Schemes Online uses the same screens for reportable event 8A as for reportable events 7 and 8.
+
+If the event is reportable under the first bullet point, the question for reportable event 8 is used.
+
+If the stand-alone lump sum is reportable under the second bullet point, the question for reportable event 7 is used.
+
+The information that must be provided on the Event Report for reportable event 8A is:
+
+- the name of the member
+
+- their National Insurance number (see PTM161200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161200) if the scheme administrator doesn’t have this)
+
+- the amount of the payment
+
+- the date of payment
+
+- where the lump sum is a stand-alone lump sum because the member has enhanced or primary protection with protection of lump sum rights of more than £375,000, the reference number of the protection certificate issued by HMRC.
+
+Event 8A is reported on Pensions Schemes Online using the questions for events 7 and 8 for pension commencement lump sums. These screens have a validation rule that requires an amount to be entered for a pension crystallisation, and £0 is not accepted. To be able to submit a report for a stand-alone lump sum an amount of £99 must be entered into the field that asks for the amount of pension crystallised.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161500#Top)
+
+Reportable event 9: Transfers to qualifying recognised overseas pension schemes
+
+Reportable event 9 occurs when a registered pension scheme makes a recognised transfer to a qualifying recognised overseas pension scheme (QROPS).
+
+Guidance for reporting an event prior to 6 April 2012 can be located in the archived version of RPSM held on the National Archives (http://webarchive.nationalarchives.gov.uk/*/http://hmrc.gov.uk/manuals/rpsmmanual/RPSM12301010.htm) website.
+
+Guidance on what a scheme administrator should report in respect of transfer to a QROPS requested on or after 6 April 2006 is in the transfer section at PTM103050 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm103050). Reportable event 9 is no longer included in the Event Report and should be reported separately.

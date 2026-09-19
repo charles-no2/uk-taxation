@@ -1,0 +1,54 @@
+Termination payments and benefits: example: Section 401 ITEPA 2003: £30,000 threshold: “associated” employers
+Identifier: EIM13965
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13965
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T11:31:27+01:00
+Retrieved (UTC): 2026-09-18T14:10:44.449391+00:00
+
+Section 404(1)(c) to (3) ITEPA 2003
+
+Example 1
+
+An employee was made redundant by company A on 1 July 2003. A payment within Section 401 ITEPA 2003 of £26,000 was paid on the same date, covered by the £30,000 threshold (see EIM13505 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13505)).
+
+The employee immediately found a new job with Company B but was again made redundant on 1 March 2004, when £6,000 within Section 401 ITEPA 2003 was received.
+
+Enquiries show that Company B held the majority of the voting shares in company A from 1950 until 2011.
+
+Should the payments be aggregated before the £30,000 threshold is applied?
+
+Find the “termination or change” date (see EIM13540 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13540), last bullet) - 1 March 2004.At that date, company B controls company A so they are “associated” employers under Test A of EIM13540 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13540). It follows that all payments and benefits within Section 401 ITEPA 2003 charged on this employee must be aggregated. In this case the total is £32,000 (£26,000 + £6,000). The £30,000 threshold is then applied, leaving £2,000 to be charged for 2003/04 (see EIM12855 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim12855)).
+
+Example 2
+
+An employee was made redundant by a train operating company (TOC1) on 1 July 2003 and received £65,000 within Section 401 ITEPA 2003. The employee was taken on a few weeks later by another train operating company (TOC2) but was again made redundant on 1 September 2004, this time receiving £25,000 within Section 401 ITEPA 2003.
+
+Enquiries show that neither company has ever controlled the other. TOC1 was controlled by company A until 1 January 2004 when it was acquired by company B. That was still the case at 1 September 2004. Company B had always controlled TOC2.
+
+Should the payments be aggregated before the £30,000 threshold is applied?
+
+Find the “termination or change date” (see EIM13540 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13540), last bullet) - 1 September 2004. At that date:
+
+- neither TOC controls the other, so they are not “associated” under Test A in EIM13540 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13540)
+
+- TOC2 was controlled by company B. TOC1 was also controlled by company B. So TOC1 {#}and TOC2 are “associated” under Test B in EIM13540 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13540)
+
+It follows that all payments and benefits within Section 401 ITEPA 2003 to this employee made by both companies must be aggregated. In this case, the total is £90,000 (£65,000 + £25,000). The £30,000 threshold is fully used against the first payment, leaving the £25,000 chargeable in full for 2004/05 (see EIM12855 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim12855))
+
+Example 3
+
+An employee was made redundant by a train operating company (TOC1) on 1 July 2003 and received £40,000 within Section 401 ITEPA 2003. The employee was taken on a few weeks later by another train operating company (TOC2) but was again made redundant on 1 September 2004, this time receiving £15,000 within Section 401 ITEPA 2003.
+
+Enquiries show that neither company has ever controlled the other. TOC1 was controlled by company A until 1 August 2004 when it was acquired by company B. That was still the case at 1 September 2004. Company A had always controlled TOC2.
+
+Should the payments be aggregated before the £30,000 threshold is applied?
+
+Find the “termination or change date” (see EIM13540 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13540), last bullet) - 1 September 2004. At that date:
+
+- Neither TOC controls the other, so they are not “associated” under Test A in EIM13540 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13540)
+
+- TOC2 was controlled by company A. TOC1 was controlled by company B. So TOC1 and TOC2 are not “associated” under Test B in EIM13540 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13540)
+
+- On 1 July 2003, which is another “termination or change date” (see EIM13540 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13540), last {#}bullet),TOC1 was controlled by company A. TOC2 was then also controlled by company A. So Test C in EIM13540 is satisfied and TOC1 and TOC2 are “associated”
+
+It follows that all payments and benefits within Section 401 ITEPA 2003 to this employee made by both companies must be aggregated. In this case the total is £55,000 (£40,000 + £15,000). The £30,000 threshold is then fully used against the first payment, leaving the £15,000 chargeable in full for 2004/05 (see EIM12855 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim12855))

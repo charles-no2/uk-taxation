@@ -1,0 +1,18 @@
+Assessing: COMPASS: calculations: reliefs against tax
+Identifier: IHTM31189
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31189
+Published: 2016-04-09T10:03:28+01:00
+Updated: 2025-07-21T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:05:56.358691+00:00
+
+The box where you should enter reliefs against tax, such as Double Taxation Relief (DTR) (IHTM27160 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm27160)) can be found on the right hand side of the assessment window. On instalment option calculations the box is marked 'less reliefs” on the left hand side of the calculation. Do not include QSR (IHTM31182 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31182)) here - it must be properly reflected earlier at the appropriate place on the 'Calculation of Inheritance Tax' window.
+
+If a figure was entered on the previous calculation for the assessment group (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)), the figure will be carried into this calculation. If it has changed, delete what is there and enter the new amount.
+
+Remember that DTR should never be more than the tax due on the particular asset. If the figure in this box is greater than the net tax on the Assessment Group, the calculation will - wrongly - show a repayment.
+
+Lifetime calculations
+
+COMPASS will automatically calculate taper relief (IHTM14611 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14611)) on lifetime transfers that are chargeable in their own right, using the date of the transfer entered at the data entry stage.
+
+If the date is wrong, the taper relief will be wrong. Where taper relief is shown, or you expect it to be shown, you should check it is correct.

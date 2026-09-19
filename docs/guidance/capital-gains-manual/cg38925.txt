@@ -1,0 +1,20 @@
+Transfers between settlements: impact on section 2(2)* amounts of transferee settlement
+Identifier: CG38925
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38925
+Published: 2016-03-12T10:59:06+00:00
+Updated: 2019-10-15T14:41:48+01:00
+Retrieved (UTC): 2026-09-18T14:40:14.796299+00:00
+
+The guidance in CG38920 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38920) refers to the section 2(2)* amount transferred being added to any section 2(2)* amounts of the transferee settlement. In practice transfers are often made to new settlements so there are no existing section 2(2)* amounts that could be increased and the transfer creates section 2(2)* amounts for the earlier years.
+
+If the transfer is to an existing settlement which already has unmatched section 2(2)* amounts the increase takes effect only for the year of transfer and subsequent tax years, TCGA92/S90(7). This means:
+
+- capital payments for earlier years that have already been matched don’t have to be re-matched against the adjusted section 2(2)* amounts in the transferee settlement
+
+- capital payments for earlier years that are unmatched cannot be matched against the adjusted section 2(2)* amounts in the transferee settlement, CG38955 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38955)
+
+- capital payments for the year of transfer can be matched with the section 2(2)* amount of the transferee settlement for the year of transfer.
+
+If the transferee settlement has always been UK resident TCGA92/S90(6) applies the rules in TCGA92/S89. Section 89 deals with the case in which a non-resident settlement becomes UK resident. See CG38600 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38600). Section 90(6) treats the transferee settlement as a non-resident settlement which became UK resident the year after the transfer. This means TCGA92/S89 applies to the transferee settlement and it is treated as having section 2(2)* amounts which can be matched with capital payments.
+
+*This section was re-written for disposals from 6 April 2019 to section 1(3) see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

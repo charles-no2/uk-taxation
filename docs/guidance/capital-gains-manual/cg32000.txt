@@ -1,0 +1,32 @@
+Death and Personal Representatives: Non-retrospective variations: disposals not for valuable consideration
+Identifier: CG32000
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg32000
+Published: 2016-03-12T10:37:02+00:00
+Updated: 2017-02-10T12:24:29+00:00
+Retrieved (UTC): 2026-09-18T14:39:35.418273+00:00
+
+A non-retrospective variation may be made purely voluntarily with no valuable consideration received. For example if
+
+- a deed of variation or disclaimer is voluntarily executed outside the period of 2 years from the date of death
+
+or
+
+- if a deed of variation is voluntarily executed within the 2 year period but no valid election under TCGA92/S62(7) is made
+
+or
+
+- the beneficiary gifts his or her interest in the estate to some other person
+
+then there will be no valuable consideration.
+
+An agreement to assign a future chose in action, see CG31940 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg31940)+, is only a good assignment when it is made for valuable consideration. When there is no valuable consideration the assignment can only take effect once there are specific assets that the legatee can assign. This position is only reached when assets vest from the estate to the legatee, normally when the residue is ascertained.
+
+The result is that in such a case TCGA92/S28 does not operate to fix the date of disposal at the date of variation. Instead the disposal only occurs when assets actually vest in the legatee and are then transmitted on to the assignee. At that time the legatee is deemed to both acquire and immediately dispose of the assets to the assignee. The legatee’s acquisition cost at this time will be the market value at the date of death by reason of TCGA92/S62 (4). The disposal, not being a bargain at arm’s length, will take place at the market value of the chargeable assets passing to the assignee at that time. As for any other disposal made otherwise than by way of a bargain at arm’s length, if the disposal occurred before 14 March 1989 an election for gifts holdover relief under FA80/S79 can be made, see CG66450 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66450)+.
+
+If the variation is not made for valuable consideration then the non-retrospective deed of variation is not a good assignment of the future chose in action. Accordingly the assignee only acquires chargeable assets from the original leg at the date the assets vest. The assignee then acquires them market value at that date.
+
+Because the original chose in action is personal to the legatee and is not disposed of despite the variations that have occurred, the transfers of assets that are made by the personal representatives when the assets vest are transfers to the legatees. As a result TCGA92/62 (4) applies so that the transfers are not disposals by the personal representatives for Capital Gains Tax purposes. There is therefore no charge to Capital Gains Tax on the personal representatives when the assets vest in these circumstances.
+
+On a purchase for cash the cost of this chose in action is the sum paid. However if the valuable consideration is the giving up of rights to pursue court action the cost must be equal to the market value of the consideration received by the legatee. The basis used to arrive at that figure is set out in CG31980 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg31980). The same principles should be applied in arriving at the assignee’s figure of cost for this chose in action.
+
+When the assets vest from the estate, the assignee makes a disposal of the chose in action acquired at the date of the variation. The disposal consideration is the value of the assets delivered to him by the legatee. A Capital Gains Tax computation must therefore be carried out at this time using the total value of all the assets, both chargeable and non-chargeable, vesting from the estate as the assignee’s disposal consideration. This may give rise to a chargeable gain or allowable loss to the assignee.

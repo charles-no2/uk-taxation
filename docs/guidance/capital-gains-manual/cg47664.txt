@@ -1,0 +1,40 @@
+Restrictions: pre-entry loss: time-apportionment: additional consideration
+Identifier: CG47664
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47664
+Published: 2016-03-12T11:18:01+00:00
+Updated: 2026-05-20T08:26:34+01:00
+Retrieved (UTC): 2026-09-18T14:32:15.275836+00:00
+
+Paragraph 2 of Schedule 7A to the Taxation of Chargeable Gains Act (TCGA) 1992
+
+There is a special rule in paragraph 2(4) of Schedule 7A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/schedule/7A) for cases where additional consideration is provided on a reorganisation, for example a rights issue. Where any asset (the second asset) is treated by section 127 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/127) as the same as another asset (the first asset) previously held by any company, the Schedule 7A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/schedule/7A) rules apply.
+
+- as if the consideration given for the acquisition of the second asset had been incurred at the same time as the consideration for the acquisition of the first asset
+
+- where there is more than one such time, as if the consideration for the acquisition of the second asset had been incurred at those different times in the same proportions as the consideration for the acquisition of the first asset.
+
+Example
+
+In 1990, company LV acquires 0.2M shares in company A for £3M.
+
+In 1991, LV leaves the L group and joins the M group.
+
+In 1995, LV acquires a further 0.3M shares in company A for £1.5M.
+
+In 1998, A makes a rights issue on a 1:5 basis at £6 per share. LV acquires 0.1M rights issue shares for £0.6M.
+
+For time-apportionment purposes, LV's total holding of 0.6M shares is treated as acquired
+
+0.24M shares in 1990 for £3.4M
+
+0.36M shares in 1995 for £1.7M
+
+Note: Additional rules relating to loss buying were enacted in the Finance Act (FA) 2006 (https://www.legislation.gov.uk/ukpga/2006/25/contents). See CG47020 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47020)+ for guidance on the rules which apply in priority to Schedule 7A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/schedule/7A) for accounting periods ending on or after 5 December 2005.
+
+Section 46 of the Finance Act (FA) 2011 (https://www.legislation.gov.uk/ukpga/2011/11/section/46) and Schedule 11 FA 2011 (https://www.legislation.gov.uk/ukpga/2011/11/schedule/11) greatly simplified the rules in Schedule 7A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/schedule/7A) for the deduction of losses on or after 19 July 2011. See CG47400 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47400)+ for guidance on loss streaming from that date.
+
+Paragraph 2(4) to Schedule 7A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/schedule/7A) can have the effect of treating a loss attributable to the post-entry period as a pre-entry loss, for example where the pre-entry cost is low in relation to additional consideration given on a post-entry reorganisation. But in this type of case the company concerned can elect under paragraph 5 to Schedule 7A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/schedule/7A) to compute the pre-entry loss by reference to the asset's market value at the time of entry into the group, see CG47720+.
+
+Note: Additional rules relating to loss buying were enacted in FA 2006 (https://www.legislation.gov.uk/ukpga/2006/25/contents). See CG47020 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47020)+ for guidance on the rules which apply in priority to Schedule 7A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/schedule/7A) for accounting periods ending on or after 5 December 2005.
+
+Section 46 FA 2011 (https://www.legislation.gov.uk/ukpga/2011/11/section/46) and Schedule 11 FA 2011 (https://www.legislation.gov.uk/ukpga/2011/11/schedule/11) greatly simplified the rules in Schedule 7A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/schedule/7A) for the deduction of losses on or after 19 July 2011. See CG47400 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47400)+ for guidance on loss streaming from that date.

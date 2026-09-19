@@ -1,0 +1,52 @@
+Lifetime transfers: the charge to tax: cumulation with the death estate
+Identifier: IHTM14503
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14503
+Published: 2016-04-09T09:19:14+01:00
+Updated: 2016-06-15T11:17:08+01:00
+Retrieved (UTC): 2026-09-18T14:57:50.380661+00:00
+
+You calculate tax on the death estate by cumulating the values transferred by chargeable transfers in the seven preceding years.
+
+Chargeable transfers that cumulate with the death estate include both
+
+- immediately chargeable transfers (IHTM14531 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14531)), and
+
+- failed potentially exempt transfers (PETs) (IHTM14511 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14511)).
+
+Example
+
+Trevor makes the following transfers (after exemptions and reliefs):
+
+- £50,000 to his son, Ryland, in January 2002
+
+- £75,000 to a discretionary trust in June 2006
+
+- £50,000 to his daughter, Sioned, in January 2008
+
+Trevor dies in October 2010 with a death estate of £225,000
+
+The value for tax on the death is
+
+June 2006 = £75,000
+
+Jan 2008 = £50,000
+
+Death estate = £225,000
+
+Total value = £350,000
+
+The gift in January 2002 is outside seven years of the death and so is omitted.
+
+If the lifetime transfers exceed the Inheritance Tax nil rate band before adding the death estate, then to calculate the tax due on the death estate you will need to:
+
+- deduct any tax attributable to the lifetime transfers from the total tax charge. Where this applies, the tax on the death estate will be simply 40% x chargeable value of the death estate.
+
+You also consider cumulation when calculating the tax charge on PETs and immediately chargeable transfers themselves. If a lifetime transfer exceeds the nil rate band after cumulation, tax is directly chargeable on that transfer. The value transferred is “chargeable in its own right”.
+
+The sections later in this manual explain how you consider cumulation and calculate tax on
+
+- PETs (IHTM14511 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14511)),
+
+- immediately chargeable transfers (IHTM14531 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14531)), and
+
+additional charges on immediately chargeable transfers because of a death

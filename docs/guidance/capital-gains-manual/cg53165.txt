@@ -1,0 +1,60 @@
+Substantial shareholdings exemption: the exemptions available - the subsidiary exemption where the conditions for the main exemption were previously met
+Identifier: CG53165
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53165
+Published: 2016-03-12T11:30:00+00:00
+Updated: 2023-07-21T07:25:48+01:00
+Retrieved (UTC): 2026-09-18T14:32:48.110175+00:00
+
+TCGA92/SCH7AC/PARA3
+
+TCGA92/Sch7AC/Para3 contains a further subsidiary exemption. It exempts certain gains which would otherwise be chargeable - for example, when the investing company is in liquidation. It also prevents certain losses being allowable when the other exemptions would previously have prevented this. It applies in certain cases where not all the conditions for the main exemption are met at the time of a disposal, but they were met at some time during the previous 2 years.
+
+Paragraph 3 provide that a gain accruing to company A on a disposal of shares, an interest in shares, or assets related to shares in company B is not a chargeable gain if all of the following five conditions are met.
+
+- 1) Company A must satisfy the substantial shareholding requirement (see CG53070 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53070) onwards) in relation to company B at the time of the disposal.
+
+- 2) A chargeable gain or allowable loss must, but for this subsidiary exemption, accrue to company A on the disposal. For disposals prior to 1 April 2017, this subsidiary exemption is not available if the only reason why a chargeable gain or allowable loss accrues on the disposal is that company A does not satisfy the requirement that it has to be a member of a qualifying group, or if not a member of a group, a trading company, immediately after the disposal (see CG53102 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53102)), unless
+
+- the failure to satisfy that requirement is due to the actual or imminent winding up or dissolution of company A (provided that where the winding up or dissolution is only imminent at the time of the disposal it takes place as soon after the disposal as is reasonably practicable in the circumstances).
+
+- The changes introduced by F(2)A 2017 which removed the investor trading condition for all disposals mean that, for disposals from 1 April 2017, this caveat to the operation of the second subsidiary exemption no longer applies. This is because, as there is no longer any condition that the investor company must be a member of a qualifying group, failure to meet this non-existent condition cannot be the only reason why the main exemption conditions are not satisfied.
+
+- Para 3(3), which applied this restriction to the second subsidiary exemption, was deleted from Sch7AC by S27 F(2)A 2017 as there are no circumstances in which it can apply in disposals on or after 1 April 2017.
+
+- 3) Company A is resident in the United Kingdom or, if it is not, the chargeable gain on the disposal would nonetheless form part of its profits chargeable to United Kingdom corporation tax.
+
+- 4) There was a time during the two years ending with the disposal (the ‘relevant period’) when if
+
+- company A, or any company which was, at any time during the ‘relevant period’, a member of the group of which company A was at that time a member,
+
+- had made a hypothetical disposal of any shares, or an interest in shares, that it held at that time in company B,
+
+- then any gain on that hypothetical disposal would have been exempted by the main exemption (see CG53155 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53155)).
+
+In determining whether any gain on the hypothetical disposal would have been so exempted you must assume that both company A and company B would have satisfied the post-disposal trading requirements (see CG53102 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53102) and CG53104 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53104)). In establishing what is the ‘relevant period’ for the purposes of paragraph 3, the time of the disposal mentioned in condition 1 above is determined as if TCGA92/S28(2) did not apply. So that if the disposal that may be the subject of this subsidiary exemption was by way of a conditional contract, the ‘relevant period’ is the two years up to the time the contract is made. Note that this is only for the purposes of establishing the ‘relevant period’ and does not alter the time of the disposal.
+
+- 5) If at the time of the disposal mentioned in condition 1 above company B did not meet the requirements relating to the investee company (see CG53104 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53104)), there must have been a time within the ‘relevant period’ when company B was controlled by
+
+- company A, or
+
+- company A together with any persons connected with it, or
+
+- a company which was, at any time in the ‘relevant period’, a member of the group of which company A was at that time a member, or
+
+- any such company together with any persons connected with it.TCGA92/S286 contains the rules governing when a person is connected with another person for the purposes of the TCGA.
+
+CG53006 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53006) explains what is a group for the purposes of the substantial shareholdings legislation. Sub-paragraphs (5) and (6) of paragraph 3 contain further rules that apply if
+
+- immediately before the disposal mentioned in condition 1 above company B holds an asset (or is in liquidation and an asset it held has vested in a liquidator) and
+
+- the allowable expenditure on a hypothetical disposal of the asset immediately before the disposal mentioned in condition 1 above would be reduced on account of a claim to gifts relief under TCGA92/S165 in relation to an earlier disposal, and
+
+- that earlier disposal fell within the ‘relevant period’.
+
+In those circumstances this subsidiary exemption does not operate to prevent the gain being a chargeable gain. Otherwise the gain deferred by the gifts relief could benefit from the substantial shareholdings exemption. However, this restriction on the subsidiary exemption does not also prevent a loss being non-allowable. Otherwise losses could be made allowable by transferring a trivial asset to a company and claiming gifts relief prior to a disposal that would otherwise be exempted by this subsidiary exemption.
+
+However, as with all the exemptions, this subsidiary exemption does not apply
+
+- in the circumstances specified in TCGA92/Sch7AC/Para5 (see CG53175 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53175) onwards), or
+
+- in the cases specified in TCGA92/Sch7AC/Para6 (see CG53190 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53190)).

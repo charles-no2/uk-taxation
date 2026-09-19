@@ -1,0 +1,62 @@
+Assessing: examples of calculations: calculation with reduced rate where part of the estate passes to charity 
+Identifier: IHTM31034
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31034
+Published: 2016-04-09T10:02:32+01:00
+Updated: 2016-02-11T17:15:38+00:00
+Retrieved (UTC): 2026-09-18T15:05:45.398750+00:00
+
+The facts
+
+Victoria died in August 2012 with free estate (Entry A) of £600,000, made up entirely of personal assets. Under her Will she left a legacy of £50,000 to charity. This reduced the chargeable value of her free estate to £550,000.
+
+Victoria also had a life interest in a Will Trust (Entry B), which passes on her death. The trust is valued at £250,000 at the date of Victoria’s death.
+
+Victoria’s husband, Daniel, died in March 2006. He left part of his estate to Victoria under his will. Victoria’s executors (IHTM05012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm05012)) have made a claim to transfer the nil rate band (TNRB) that was unused on Daniel’s death to be used against Victoria’s death estate.
+
+Calculate the available nil-rate band
+
+The Inheritance Tax nil-rate band at the date Victoria died is £325,000. The amount of nil-rate band that is available to transfer from Daniel’s death is £125,000. This increases the IHT nil rate band on Victoria’s death to £450,000.
+
+Apply the available nil-rate band to any lifetime transfers first
+
+As Victoria made no lifetime transfers the whole of the nil-rate band of £450,000 is available to use against the death estate.
+
+Find the chargeable value of the estate at the date of death
+
+The chargeable value of the death estate, after deducting liabilities, exemptions and reliefs is £550,000 free estate plus £250,000 = £800,000.
+
+Apportion the available nil-rate band
+
+Because there is more than one entry (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)) we must apportion the available nil rate band of £450,000 between them, before we can work out the tax.
+
+Entry A
+
+£450,000 × £550,000 ÷ £800,000 = £309,375
+
+Entry B
+
+£450,000 × £250,000 ÷ £800,000 = £140,625
+
+Calculate the tax on Entries A and B:
+
+Entry A
+
+Because of the legacy to charity Victoria’s free estate qualifies for the reduced rate of tax for charitable gifts of 36% (IHTM45012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45012))
+
+£550,000 - £309,375 × 36% = £86,625
+
+Entry B
+
+The Will trust is a separate component of the estate for the purposes of calculating the reduced rate and tax will be due on it at the full rate of 40%
+
+£250,000 - £140,625 × 40% = £43,750
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31034#Top)
+
+Calculations
+
+Here we will raise death estate calculations for:
+
+- £86,625 at Entry A (NIOP)
+
+- £43,750 at Entry B (NIOP)

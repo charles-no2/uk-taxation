@@ -1,0 +1,66 @@
+The degrouping charge: introduction
+Identifier: CG45400
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45400
+Published: 2016-10-17T14:32:36+01:00
+Updated: 2021-02-25T10:29:18+00:00
+Retrieved (UTC): 2026-09-18T14:40:55.373188+00:00
+
+The issue (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45400#)
+
+Legislative development (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45400#IDAOQQR)
+
+The issue
+
+In general the no gain/no loss rule gives a group the opportunity to make a disposal of a company holding a particular collection of assets with no gain arising, whereas a direct sale of the assets would result in a gain. The group can achieve this by tax free asset transfers within the group as a preliminary to a disposal of the shares in the company which owns the assets. As a result, without a special charging provision to supplement the no gain/no loss rule, the legislation would not succeed in imposing an effective tax charge on companies in respect of their chargeable gains. This is because of an arrangement commonly referred to as enveloping' or the envelope trick’ which was used extensively following the introduction of Capital Gains Tax (as it then was) for companies in Finance Act 1965.
+
+Enveloping in its simplest form consists of a company transferring an asset at no gain/no loss to a wholly owned subsidiary with a suitably high tax base cost (perhaps because the assets are transferred in consideration for a new issue of shares), and then selling the shares in the subsidiary to a third party. For capital gains purposes the company acquires the newly issued shares in the subsidiary at their market value, which reflects the value of the underlying asset. In the absence of a special rule, known as the degrouping charge, there would be no chargeable gain on an immediate third party sale of the shares in circumstances where a substantial gain would have resulted from a direct sale of the underlying asset.
+
+There is an example of the “envelope trick” below.
+
+Example: the “envelope trick” (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45400#IDAISQR)
+
+Note that the effect described can arise as a consequence of entirely commercial asset transfers within a group and is not confined to tax driven arrangements.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45400#Top)
+
+Legislative development
+
+The legislative response to the enveloping problem is the degrouping charge now to be found in TCGA92/S179, first introduced by Finance Act 1968. The broad effect of these provisions is to tax the gain that would have accrued on an earlier no gain/no loss disposal if the asset in question leaves the group otherwise than by a direct disposal of the asset. The rules achieve this by a deemed disposal and reacquisition at market value. The company leaving the group is deemed to have disposed of and reacquired the asset at market value immediately after the time it acquired the asset from another group company.
+
+TCGA92/S179 was introduced in 1993 as a revised form of TCGA92/S178 to take account of revisions to the assessment of Corporation Tax. This guidance no longer deals with the older version of the rules.
+
+From 1 April 2002 TCGA92/S179A made it possible for the chargeable company to enter into an election with another company that was a member of the relevant group at the time the gain or loss accrues. The effect of an election is that the gain or loss that results from the deemed disposal accrues to the other group company, see CG45455.
+
+Significant changes to the degrouping charge were made by FA11/S45 and Schedule 10 following consultation on the simplification of the capital gains group rules, in particular:
+
+- the mechanism by which a degrouping charge accrues is changed, where a company leaves a group on a disposal of shares by a group company, see CG45420,
+
+- TCGA92/S179ZA was introduced to allow a claim to be made to reduce the amount of a degrouping charge to the extent that any gain inherent in the asset leaving the group is reflected in the gain on the shares that are disposed of, see CG45430,
+
+- the general provision that allows gains and losses to be transferred within a group also applies to degrouping gains and losses, see CG45455 and CG45355+,
+
+- the interaction with the Substantial Shareholding Exemption has been improved,
+
+- clarification of the circumstances in which the “sub-group” or “associated companies” exception in TCGA02/S179(2) applies, see CG45435.
+
+These changes have effect for degrouping charges triggered by a company leaving a group on or after 19 July 2011 the day Finance Act 2011 was passed.
+
+Note that it was possible for a group to elect to apply the changes to degrouping charge rules made in Finance Act 2011 from 1 April 2011. Whenever this guidance refers to 19 July 2011 it should be taken as referring to 1 April 2011 for a company in a group that has made such an election.
+
+The procedure for making such an election was the subject of an HMRC Technical Note, the text of which can be found at CG45421.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45400#Top)
+
+Example: the “envelope trick”
+
+This example ignores indexation.
+
+Stage 1 Company F owns asset X which cost £1M, and is now worth £10M, so there is an accrued gain £9M. The asset is to be sold to unconnected company Z. Company F forms a new subsidiary, company G, and subscribes £2 for shares in G.
+
+Use this link to view the stage 1 diagram (http://www.hmrc.gov.uk/gds/cg/images/cg45400b.gif)
+
+Stage 2 Company F transfers asset X to company G as consideration for the issue of a further 9,998 shares by G to F. For capital gains purposes the asset transfer is at no gain/no loss under TCGA92/S171 (1).
+
+Use this link to view the stage 2 diagram (http://www.hmrc.gov.uk/gds/cg/images/cg45400c.gif)
+
+Stage 3 F sells the shares in G to unconnected third party Z at their market value £10M. Since F acquires the shares in G at a capital gains cost £10M, the sale of those shares for £10M produces no chargeable gain. So this is a case where a simple sale of the asset would result in a chargeable gain of £9M. But in the absence of supplementary rules company F could avoid the capital gains charge by a tax free transfer of the asset to G as consideration for an issue of shares by G, followed by a disposal of those shares. Company G would hold the underlying asset X with a base cost of only £1M, since it acquires the asset at no gain/no loss from F. The new owner of company G, company Z, can however dispose of its interest in the underlying asset without crystallising the latent chargeable gain of £9M. Company Z can achieve this by instead disposing of the company G shares which have an acquisition cost £10M. Alternatively, in the absence of supplementary rules, company G could repeat the envelope trick by transferring the asset to a newly incorporated subsidiary of itself, and then selling the shares in the subsidiary.

@@ -1,0 +1,140 @@
+Part 2 - Submitting returns through the CGT on UK Property Account: Complex and Miscellaneous Scenarios
+Identifier: CG-APP18-260
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-260
+Published: 2022-05-23T12:38:04+01:00
+Updated: 2024-04-04T12:13:48+01:00
+Retrieved (UTC): 2026-09-18T14:47:18.178717+00:00
+
+Top of page
+
+2.6 Complex and Miscellaneous Scenarios (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-260#Toc90369282)
+
+2.6.1 Multiple disposals in the same tax year where completion date for each is the same (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-260#Toc90369283)
+
+2.6.2 Instances where a return submitted through the CGT on UK Property Account is not required because a Self Assessment return is filed instead (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-260#Toc90369284)
+
+2.6.3 Mixed use properties (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-260#Toc90369285)
+
+2.6.4 Multiple acquisition dates /acquisition by instalments (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-260#Toc90369286)
+
+2.6.5 Chargeable event gains/ Top slicing (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-260#Toc90369287)
+
+2.6.6Business Asset Disposal Relief (BADR) (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-260#business-asset-disposal-relief)
+
+2.6.7 Election to pay CGT by instalment (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-260#election-to-pay-cgt-by-instalments)
+
+2.6.8 How to apply for payment by instalments (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-260#how-to-apply-for-payment-by-instalments)
+
+2.6 Complex and Miscellaneous Scenarios
+
+This section of the guidance covers how to enter details of more complex situations than those covered in the guidance so far, expanding on what to input into the return, and the need for additional uploads explaining the figures entered.
+
+2.6.1 Multiple disposals in the same tax year where completion date for each is the same
+
+Where a person completes on more than one property transaction on the same day and is required to make a return in respect of more than one transaction, these transactions should be reported in a single return, provided they relate to the same tax year. This is set out in legislation at Para 3(2) Schedule 2 Finance Act 2019.
+
+Example: Mr E sells residential property A, he exchanges on 19 March 2024, and completes on 23 April 2024. Mr E also sells residential property B, he exchanges on 26 March 2024 and completes on 23 April 2024.
+
+As both property transactions, A and B, have the same completion date and the date of exchange for both A and B was in the same tax year, 2023-24, they should be reported together using a single return.
+
+The return through the CGT on UK Property Account only records a single address, therefore Mr E should include the details of the property which resulted in the largest gain, when prompted for property details as described in section 2.4.1 of this guidance. Mr E will then be required to upload further details explaining the CGT calculated for all the properties he is reporting.
+
+2.6.2 Instances where a return submitted through the CGT on UK Property Account is not required because a Self Assessment return is filed instead.
+
+It is possible that a Self Assessment return could be submitted for a tax year and the date on which the return is submitted is before the due date for filing a UK property disposal return. The rules in Para 5 then apply.
+
+Para 5 Schedule 2 Finance Act 2019 states:
+
+(1) A person is not required to make or deliver a return under this Schedule in respect of a disposal if the filing date for the return would otherwise fall on or after—
+
+(a) the date on which the person has delivered to an officer of Revenue and Customs the person's ordinary tax return containing a self-assessment that takes account of the disposal, or
+
+(b) the date on or before which the person has (by notice) been required to deliver to an officer of Revenue and Customs the person's ordinary tax return for the tax year concerned.
+
+(2) For the purposes of sub-paragraph (1)(a), a self-assessment does not take account of the disposal if the amount of CGT that is self-assessed is less than the amount that would be payable under paragraph 6 if the person were required to make and deliver a return under this Schedule in respect of the disposal
+
+An example scenario is where a Self Assessment return is filed shortly after the end of the tax year and before the filing date for a CGT on UK Property return for a disposal. In this situation the CGT is payable by the usual self-assessment deadline.
+
+Example:
+
+An individual disposes of residential property, they exchange contracts on 12 March 2024, with completion on 26 March 2024. As this is close to the end of the tax year, if a 2023/24 Self Assessment return was required then it may be feasible for the person to file their SA return for 2023/24 sooner than the timeframe for filing the CGT on UK Property return.
+
+The effect of the legislation is that there is no requirement to file a CGT on UK Property return if the amount of CGT that would be due for the year and reported via a Self Assessment return is greater than would otherwise be included on the CGT on UK Property return. In that instance, only the Self-Assessment return would be required.
+
+Similarly, no UK property disposal return would be due when the Self Assessment return is due before the day by which a UK property disposal return was required e.g. say where was a long delay between the date of disposal and completion.
+
+Example: disposal 20 March 2023 but completion delayed to 10 January 2024.
+
+Here if a 2022/23 Self Assessment Return was required it would be due to be filed by 31 January 2024 and any CGT would be payable by 31 January.
+
+An exception applies where the amount of CGT in the Self Assessment is less than the amount of CGT that would be due on the CGT on UK Property return. Where this applies the CGT on UK property return is also required and payment of the CGT is required with that UK property return, this is because the Self Assessment return is deemed by Para 5 (2) Schedule 2 Finance Act 2019 to not take account of the disposal.
+
+However, as the Self Assessment will reflect the total CGT liability for the year it is acceptable for the amount of the CGT due on the CGT on UK Property return to be restricted (by means of replacing the calculated figure of CGT due) to the total CGT due for the year to simplify the year end accounting so that the correct amount is paid.
+
+Back to top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-260#top-of-page)
+
+Example:
+
+An individual disposes of residential property. They exchange contracts on 12 March 2024, with completion on 26 March 2024. The Self Assessment return is filed on 10 May 2024.
+
+The total amount of CGT due for the tax year is £20,000. This total relates to £22,000 on a UK property gain with that figure reduced by £2,000 in respect of losses on another asset made after 26 March 2022.
+
+The due date to file their UK property return falls after the date which they have delivered their ordinary tax return, and they are within the rule in para 5 (2).
+
+In this instance, both an ordinary Self Assessment return and the UK property return will need to be filed. This is because para 5 (2) deems the ordinary Self Assessment return does not take account of the property disposal, as the amount of CGT due is lower than the amount due on the property disposal.
+
+The UK property return can be filed with the lower figure of £20,000 CGT due.
+
+2.6.3 Mixed use properties
+
+This part of the guidance relates to disposals by UK residents of properties with both an identifiable residential element, and a non-residential or commercial element. Whilst these scenarios can often be complex, a simpler example of this would be a shop with a residential flat above. The apportionment required would be dependent on the specific facts that apply in the case. The notional split between these parts may vary during the period of ownership, so the person’s own figures of the residential proportion are required. Where an apportionment is made, details of the apportionment and the facts supporting that apportionment can be provided in a separate document that can be uploaded and submitted with the return.
+
+For a UK resident person who disposes of a mixed use property, a UK Property Disposal return would be required if the residential property disposal gave rise to a gain with CGT due. Only the residential part of the gain is required to be reported in the CGT on UK Property Account. If there will be no CGT to pay on the residential element of the gain, then there is no need for a UK property disposal return to be filed.
+
+However, if the non-residential element gave rise to a loss, this loss could be offset against the residential element when working out if they must file a UK Property Disposal return.
+
+2.6.4 Multiple acquisition dates /acquisition by instalments
+
+Where a person has acquired a single property in parts or instalments, they will have more than one acquisition date to enter. The system only allows the user to enter a single date. The advice to users in this scenario is to enter the earliest acquisition date and acquisition amount and provide the remaining detail in an upload.
+
+The user can enter a single total amount for the acquisition costs or add the acquisition amounts as improvement costs, such that the inbuilt calculator generates the correct result or if this is not possible they can enter the first acquisition amount and then choose the option to override the system generated figure, and enter their own calculation of the CGT. In both instances the supporting documentation should be uploaded.
+
+2.6.5 Chargeable event gains/ Top slicing
+
+As the system is only using the expected gross income figure to calculate the basic rate band remaining, where there is a chargeable event gain with top slicing, to enable the inbuilt calculator to generate the correct amount of CGT, the amount of income entered could reflect the amount of top slicing. If the gross income entered doesn’t reflect the top slicing the inbuilt calculation of CGT will be incorrect, and the figure generated will need to be overwritten with the correct figure and a supporting computation uploaded.
+
+Example: Mr F has a chargeable event gain of £5,000 from partially cashing in a life insurance policy which he held for 5 years. In the same tax year, he makes a chargeable gain on disposal of a residential property. When reporting the residential property gain, he is asked to enter his gross income. The figure entered for Mr F’s total income should only include the top slice of the chargeable event gain in this example £1000, and his other sources of income, in this case employment income of £15,000. The amount of his basic rate band used up is £16,000. He can enter this figure as his expected gross income to allow the inbuilt calculator to generate the correct CGT due.
+
+2.6.6 Business Asset Disposal Relief (BADR)
+
+Business Asset Disposal Relief (BADR) previously known as Entrepreneurs’ Relief is a relief which determines the rate at which CGT will be charged on a gain that relates to disposals of qualifying business assets as long as certain conditions have been met. As an example, BADR may be relevant when accommodation is provided to an employee of a business. Further guidance on Business Asset Disposal Relief in general can be found the at CG63950p (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63950p) onwards.
+
+Customers using the online CGT on UK Property Account can claim BADR in the relief section by selecting yes to the question
+
+For disposals in which BADR is claimed the CGT must be worked out manually.
+
+The guidance at 2.4.4 sets out that if a figure is entered, the amount entered reduces the gain which is not representative of how BADR actually works. BADR affects the rate at which CGT is calculated rather than deducting a figure. The CGT figure produced by the inbuilt calculator should be overridden with the figure worked out manually and a computation showing how the CGT figure owing has been arrived at will need to be attached.
+
+The filing requirement for a return is that there would be CGT liability. The CGT on UK Property Account does however permit returns to be filed where there is no CGT liability. In such cases, care may be needed to ensure any loss calculated is only used in latter returns where it is an allowable loss e.g. a £10,000 loss on a property where 100% private residence relief applies would not be an allowable loss.
+
+2.6.7 Election to pay CGT by instalment
+
+Disposal proceeds received in instalments – S280 TCGA 1992
+
+If disposal proceeds are receivable in instalments but tax is payable in full this may cause hardship. TCGA92/S280 allows the tax to be paid by instalments in certain circumstances see CG14910 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14910)+.
+
+Disposal by way of gift – S281 TCGA 1992
+
+Where the disposal is by way of gift, in some limited circumstances a statutory instalment arrangement can be made allowing for 10 yearly instalments, although interest will accrue on the outstanding amount as normal. Guidance on the instalment arrangement can be found in CG66452 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66452). The first instalment if an election is made prior to the full amount becoming due, is due when the full amount would be due, i.e. 60 days from the date the disposal is completed (or 30 days where completion was between 6 April 2020 and 26 October 2021).
+
+2.6.8 How to apply for payment by instalments
+
+Where the option to apply for instalments is available, see CG18601 (https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fhmrc-internal-manuals%2Fcapital-gains-manual%2Fcg18601&data=05%7C01%7Channah.atherton%40hmrc.gov.uk%7Ce1c5b7e0f26d4b4df47108daac4dff3f%7Cac52f73cfd1a4a9a8e7a4a248f3139e1%7C0%7C0%7C638011748232859593%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vKaaJ%2FRg7XTMZD1%2B%2Bu%2F%2BLcw2LwLbOkPINznFNcu2OCU%3D&reserved=0), a written request to elect to pay by instalments is required.
+
+If a return is completed through the online service, an election should be uploaded at this time The return is not reviewed manually and the customer/agent will need to contact HMRC (https://www.gov.uk/government/organisations/hm-revenue-customs/contact/capital-gains-tax-enquiries-for-individuals-employees-and-self-employed?_ga=2.77557014.2086711478.1629101858-689762046.1611227998&_gl=1*woswii*_ga*Njg5NzYyMDQ2LjE2MTEyMjc5OTg.*_ga_Y4LWMWY6WS*MTYyOTE0MzE1OS45LjEuMTYyOTE0MzQ1OS4w) to request a review of the instalment request.
+
+If submitting a paper CGT on UK Property return, then an election can be made at this time by attaching a letter alongside the return.
+
+Normal rules for payment apply until the election has been accepted.
+
+Back to top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-260#top-of-page)

@@ -1,0 +1,24 @@
+Trust income and gains: beneficiaries: discretionary payment from a non-resident trust
+Identifier: TSEM3790
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3790
+Published: 2016-05-02T16:37:58+01:00
+Updated: 2024-04-18T09:59:28+01:00
+Retrieved (UTC): 2026-09-18T16:19:55.444648+00:00
+
+Returning the payment - settlor interested cases
+
+If the non-resident trust is settlor interested and the settlor is chargeable on the income arising to the trustees (TSEM4200 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4200)) then we do not want to charge the income paid to a discretionary beneficiary. This is achieved in different ways.
+
+Up to 5 April 2006 - Discretionary income payments to beneficiaries were not regarded as income of the beneficiary.
+
+From 6 April 2006 - where the settlor is the beneficiary discretionary income payments continue not to be regarded as income of the beneficiary (who is also the settlor).
+
+From 6 April 2006 - where the beneficiary is someone other than the settlor the beneficiary enters the discretionary income payment on the Trusts etc supplementary pages. The amount of the income is the amount received. The beneficiary is treated as having paid tax at the higher rate on the payment so no further liability arises to them. However, the tax treated as paid is ring-fenced and can neither be repaid to the beneficiary nor set against any liability arising from other income of the beneficiary.
+
+Returning the payment - non settlor interested cases
+
+A beneficiary who receives a discretionary payment of income from a non-resident trust that is non-settlor interested shows it on the Foreign pages of the SA return. The amount of income returned is the amount received with no tax credit. The beneficiary must not include any UK or foreign tax, relating to the trust income, in the SA computation.
+
+The beneficiary may be entitled to relief for tax suffered by the trustees. If the beneficiary wants to claim, they can note this in the additional information box. The claim is under Extra-statutory Concession B18.
+
+Internal user should refer all claims to mailbox-HO Technical, Trusts (BT&C)  (mailto:4953547@internal.hmrc.gov.uk).They decide whether any relief is due, and if so, calculate the amount. The claim is free-standing, and is outside Self Assessment and it does not go in the SA computation.

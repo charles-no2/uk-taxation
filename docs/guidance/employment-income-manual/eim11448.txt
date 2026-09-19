@@ -1,0 +1,32 @@
+Living accommodation: lease premium cases: calculating the amount to be attributed in respect of a lease premium: lease containing one or more relevant break clauses 
+Identifier: EIM11448
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11448
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T11:31:27+01:00
+Retrieved (UTC): 2026-09-18T14:09:16.927027+00:00
+
+EIM11446 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11446) sets out the formula in Section 105A(2) ITEPA for finding the amount to be attributed to the relevant period in respect of a lease premium and explains that the rules are modified where the lease contains one or more relevant break clauses.
+
+The modified rules are found in Section 105B ITEPA.
+
+In this guidance:
+
+- a relevant break clause is a provision of a lease that gives a person a right to terminate the lease which can be exercised in such a way that the term of the original lease will be 10 years or less
+
+- “P” is the person at whose cost the accommodation is provided
+
+- “the relevant period” is the whole or part of the “taxable period” (see EIM11428 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11428))
+
+- the net amount payable by P in relation to the lease by way of lease premium is the total amount (if any) that has been paid, or is or will become payable, by P in relation to the lease by way of lease premium, less any of that amount that has been repaid or is or will become repayable.
+
+Section 105B(3) provides that both the term of the original lease and the net amount payable by P in relation to the lease by way of lease premium are to be determined, for the purposes of section 105A, on the assumption that any relevant break clause is exercised in such a way that the term of the lease is as short as possible.
+
+Special rules apply where a relevant break clause is not in fact exercised in such a way that the term of the lease is as short as possible. These rules treat the parties to the original lease as parties to another lease (a “notional lease”). The term of the notional lease begins immediately after the time at which the term of the lease would have ended if that break clause had been exercised. The term of the notional lease ends on the earlier of:
+
+- the time the term of the original lease would end if a relevant break clause exercisable only after the beginning of the term of the notional lease is exercised in such a way that the term of the original lease is as short as possible
+
+- the tenth anniversary of the beginning of the term of the original lease.
+
+If there is more than one relevant break clause, there will be a series of notional leases, the last of which will end on the tenth anniversary of the beginning of the term of the original lease.
+
+See EIM11449 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11449) for an example of how the rules in Section 105B apply.

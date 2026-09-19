@@ -1,0 +1,894 @@
+Partnerships: Changes in fractional interests in partnership assets: examples
+Identifier: CG27540
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27540
+Published: 2016-03-12T10:28:32+00:00
+Updated: 2023-04-18T09:55:26+01:00
+Retrieved (UTC): 2026-09-18T14:29:12.844819+00:00
+
+Example 1: Change in partners’ fractional sharing ratios
+
+Facts
+
+A and B carry on a business in partnership and hold equal interests in partnership assets.
+
+The partnership’s assets include a freehold property that is included in the balance sheet at its acquisition cost of £500,000.
+
+The CG base costs for A and B are:
+
+- A - £500,000 x 50% = £250,000
+
+- B - £500,000 x 50% = £250,000
+
+The partners subsequently agree to change their interests in the property to:
+
+- A - 40%, and
+
+- B - 60%
+
+No consideration passes from B to A for the acquisition of a further 10% interest in the property.
+
+Analysis
+
+Section 4 of SP D12 applies to the calculation of the gain, see CG27500.
+
+A is treated as having made a part disposal of his interest in the property.
+
+The CG computation for A’s disposal of a 10% interest in the property will be:
+
+-
+
+|
+
+Partner A
+
+|
+
+Disposal consideration based on balance sheet value (BSV)
+
+|
+
+-
+
+|
+
+£500,000 x 10%
+
+|
+
+£50,000
+
+|
+
+Acquisition cost
+
+|
+
+-
+
+|
+
+£250,000 x 10%/50%
+
+|
+
+£50,000
+
+|
+
+-
+
+|
+
+No gain/no loss
+
+|
+
+CG base costs to carry forward:
+
+- A - £250,000 - £50,000 = £200,000
+
+- B - £250,000 + £50,000 = £300,000
+
+Note that B is treated as having acquired his additional 10% interest for an amount equal to the disposal consideration taken into account for A.
+
+Example 2: Revaluation of an asset followed by a change in fractional sharing ratios
+
+Facts
+
+A and B carry on a business in partnership and hold equal interests in partnership assets.
+
+The partnership owns a freehold property that it acquired for £400,000 but which, following a revaluation, is included in the balance sheet at £600,000.
+
+The surplus on revaluation of the property, (£600,000 - £400,000) £200,000, was credited to the partners' capital accounts:
+
+- Partner A - £200,000 x 50% = £100,000
+
+- Partner B - £200,000 x 50% = £100,000
+
+The only other partnership asset was goodwill which had no cost of acquisition and was not included in the balance sheet.
+
+The partners’ CG base costs are:
+
+-
+
+|
+
+Freehold property
+
+|
+
+Goodwill
+
+|
+
+Partner A
+
+|
+
+£400,000 x 50% = £200,000
+
+|
+
+Nil x 50% = Nil
+
+|
+
+Partner B
+
+|
+
+£400,000 x 50% = £200,000
+
+|
+
+Nil x 50% = Nil
+
+|
+
+Disposals
+
+1) The partners change their fractional interests to:
+
+- A - 40%
+
+- B - 60%
+
+No consideration passes from B to A for his acquisition of a further 10% interest in the property and goodwill.
+
+2) The partnership subsequently disposes of its business as a going concern for £1.2m. The disposal proceeds are apportioned as to:
+
+-
+
+|
+
+Amount
+
+|
+
+Freehold property
+
+|
+
+£800,000
+
+|
+
+Goodwill
+
+|
+
+£200,000
+
+|
+
+Fixtures
+
+|
+
+£100,000
+
+|
+
+Stock
+
+|
+
+£100,000
+
+|
+
+The surpluses on sale of (£800,000 - £600,000) £200,000 for the freehold property and (£200,000 – nil) £200,000 for goodwill were credited to the partners’ capital accounts as to:
+
+-
+
+|
+
+Freehold property
+
+|
+
+Goodwill
+
+|
+
+Partner A
+
+|
+
+£200,000 x 40% = £80,000
+
+|
+
+£200,000 x 40% = £80,000
+
+|
+
+Partner B
+
+|
+
+£200,000 x 60% = £120,000
+
+|
+
+£200,000 x 60% = £120,000
+
+|
+
+Analysis
+
+1) Change in sharing ratios
+
+Section 4 of SP D12 applies to the calculation of the gain accruing to A on the disposal of a 10% interest in the asset, see CG27500. The CG computation for A’s disposal is:
+
+Partner A
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Property
+
+|
+
+Goodwill
+
+|
+
+Disposal consideration based on BSV
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Property £600,000 x 10%
+
+|
+
+£60,000
+
+|
+
+-
+
+|
+
+Goodwill Nil x 10%
+
+|
+
+-
+
+|
+
+Nil
+
+|
+
+Acquisition costs
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Property £200,000 x 10%/50%
+
+|
+
+£40,000
+
+|
+
+-
+
+|
+
+Goodwill Nil x 10%/50%
+
+|
+
+-
+
+|
+
+Nil
+
+|
+
+-
+
+|
+
+Gain £20,000
+
+|
+
+No gain/no loss
+
+|
+
+Note that A’s gain on the property is equal to the proportion of his share of the surplus on revaluation that is equivalent to the interest that has been disposed of, that is, £100,000 x 10%/50% = £20,000. At this point in time there is no disposal in respect of the remainder of his 40% interest which he still owns.
+
+CG base costs to carry forward:
+
+-
+
+|
+
+Property
+
+|
+
+Goodwill
+
+|
+
+Partner A
+
+|
+
+£200,000 - £40,000 = £160,000
+
+|
+
+Nil – Nil = Nil
+
+|
+
+Partner B
+
+|
+
+£200,000 + £60,000 = £260,000
+
+|
+
+Nil + Nil = Nil
+
+|
+
+Note that B is treated as having acquired his additional 10% interest for an amount equal to the disposal consideration taken into account for A.
+
+2) Disposal of the business
+
+The CG computations for A and B will be calculated in accordance with section 2 of SP D12, see CG27350, as follows:
+
+-
+
+|
+
+-
+
+|
+
+Partner A
+
+|
+
+-
+
+|
+
+Partner B
+
+|
+
+Freehold property
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Disposal consideration
+
+|
+
+£800,000 x 40%
+
+|
+
+£320,000
+
+|
+
+£800,000 x 60%
+
+|
+
+£480,000
+
+|
+
+Less acquisition costs
+
+|
+
+-
+
+|
+
+£160,000
+
+|
+
+-
+
+|
+
+£260,000
+
+|
+
+Gains
+
+|
+
+-
+
+|
+
+£160,000
+
+|
+
+-
+
+|
+
+£220,000
+
+|
+
+Note that A’s gain is equal to the remainder of his share of the surplus on revaluation of (£100,000 - £20,000) £80,000 plus the surplus on sale of £80,000. Partner B’s gain is equal to his share of the surplus on revaluation of £100,000 plus the surplus on sale of £120,000.
+
+Goodwill
+
+|
+
+-
+
+|
+
+Partner A
+
+|
+
+-
+
+|
+
+Partner B
+
+|
+
+Disposal consideration
+
+|
+
+£200,000 x 40%
+
+|
+
+£80,000
+
+|
+
+£200,000 x 60%
+
+|
+
+£120,000
+
+|
+
+Less acquisition costs
+
+|
+
+-
+
+|
+
+Nil
+
+|
+
+-
+
+|
+
+Nil
+
+|
+
+Gains
+
+|
+
+-
+
+|
+
+£80,000
+
+|
+
+-
+
+|
+
+£120,000
+
+|
+
+Note that the gains are equal to the surpluses on sale of goodwill that were credited to the partners’ capital accounts.
+
+[DN Jill - as with space between EX 1 and Ex 2 above, this space shouldn’t be here between Exs 2 and 3. Please delete.]
+
+Example 3: Revaluation of an asset followed by a change in fractional sharing ratios for which consideration is given
+
+Facts
+
+A and B carry on a business in partnership and hold equal interests in partnership assets.
+
+The partnership’s chargeable assets include a freehold property that cost £300,000 but which, following a revaluation, is included in the balance sheet at a value of £500,000.
+
+The surplus on revaluation, (£500,000 - £300,000) £200,000, was credited to a reserve account.
+
+The CG base costs for A and B are:
+
+- A - £300,000 x 50% = £150,000
+
+- B - £300,000 x 50% = £150,000
+
+Disposals
+
+1) The partners subsequently agree to change their fractional interests in the property to:
+
+- A - 40%, and
+
+- B - 60%
+
+Partner B pays the sum of £25,000 to Partner A for the acquisition of a further 10% interest in the property.
+
+2) Two years later the partnership sells the property for £600,000.
+
+Analysis
+
+1) Change in sharing ratios
+
+A is treated as having made a part disposal of his interest in the property.
+
+Section 4 of SP D12 applies to the calculation of the gain, see CG27500.
+
+The CG computation for A’s disposal of a 10% share in the property will be:
+
+-
+
+|
+
+-
+
+|
+
+Partner A
+
+|
+
+Disposal proceeds based on BSV
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£500,000 x 10% = £50,000
+
+|
+
+-
+
+|
+
+-
+
+|
+
++
+
+|
+
+-
+
+|
+
+-
+
+|
+
+consideration from B - £25,000
+
+|
+
+-
+
+|
+
+£75,000
+
+|
+
+Less acquisition cost
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£150,000 x 10%/50%
+
+|
+
+-
+
+|
+
+£30,000
+
+|
+
+Gain
+
+|
+
+-
+
+|
+
+£45,000
+
+|
+
+CG base costs to carry forward:
+
+- A - £150,000 - £30,000 = £120,000
+
+- B - £150,000 + £75,000 = £225,000
+
+B is treated as having acquired his additional 10% interest for an amount equal to the disposal consideration taken into account for A.
+
+2) Sale of the property
+
+Section 2 of SP D12 applies to the calculation of the gains, see CG27350.
+
+-
+
+|
+
+Partner A
+
+|
+
+Partner B
+
+|
+
+Disposal proceeds
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£600,000 x 40%
+
+|
+
+£240,000
+
+|
+
+-
+
+|
+
+£600,000 x 60%
+
+|
+
+-
+
+|
+
+£360,000
+
+|
+
+Less cost
+
+|
+
+£120,000
+
+|
+
+£225,000
+
+|
+
+Gains
+
+|
+
+£120,000
+
+|
+
+£135,000
+
+|
+
+Note that Partner A’s total gains of (£45,000 + £120,000) £165,000 are equal to:
+
+-
+
+|
+
+Amount
+
+|
+
+Surplus on revaluation £200,000 x 50%
+
+|
+
+£100,000
+
+|
+
+Consideration received from Partner B
+
+|
+
+£25,000
+
+|
+
+Surplus on sale £100,000 x 40%
+
+|
+
+£40,000
+
+|
+
+-
+
+|
+
+£165,000
+
+|
+
+Partner B’s gain of £135,000 is equal to:
+
+-
+
+|
+
+Amount
+
+|
+
+Surplus on revaluation £200,000 x 50%
+
+|
+
+£100,000
+
+|
+
+Surplus on sale £100,000 x 60%
+
+|
+
+£60,000
+
+|
+
+-
+
+|
+
+£160,000
+
+|
+
+Less consideration paid to Partner A
+
+|
+
+£25,000
+
+|
+
+-
+
+|
+
+£135,000
+
+|
+
+The total gains (£45,000 + £120,000 + £135,000) of £300,000 are equal to the overall gain arising on the asset (sale proceeds £600,000 – acquisition cost of £300,000).

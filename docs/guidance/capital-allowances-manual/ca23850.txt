@@ -1,0 +1,76 @@
+PMA: Long funding lease: more definitions
+Identifier: CA23850
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23850
+Published: 2016-04-16T08:50:14+01:00
+Updated: 2016-04-06T16:53:45+01:00
+Retrieved (UTC): 2026-09-18T16:20:52.873050+00:00
+
+CAA01/S70YE, S70YF, S70YG, S70YH, S70YI, S70YJ
+
+Minimum lease payments
+
+The minimum lease payments are the minimum payments over the term of the lease including any initial payment together with:
+
+- (lessee) any residual amount guaranteed by the lessee or anyone connected with the lessee,
+
+- (lessor) any residual amount guaranteed by the lessee or a person not connected with the lessor.
+
+Ignore the part of any payment that represents charges for services or qualifying UK or foreign tax. Qualifying UK or foreign tax is any tax apart from income tax or corporation tax or the overseas equivalent.
+
+Residual amount of a leased asset is so much of the fair value of the asset as cannot reasonably be expected to be recovered by the lessor from the payments under the lease.
+
+The fair value of an asset is its market value less any grants receivable towards its purchase or use.
+
+Example Dylan leases an asset to Garner. The market value of the asset is £1 million and Dylan received a grant of £150,000 towards its purchase. That makes the fair value of the asset £850,000. If the payments under the lease could be expected to recover £800,000 the residual amount is £50,000.
+
+Term of a lease
+
+The term of a lease is the period beginning with the date on which the term of the lease begins and ending when the lease ends unless the lessee may terminate the lease early without payment. If the lessee may terminate the lease early without payment the term ends on the earliest date on which the lessee may terminate it without payment. If the lessee has an option to extend the lease and it is reasonably certain from the start that that the lessee will exercise the option the term of the lease ends when the period covered by the option ends.
+
+These are the rules that apply if the market value of the leased asset is more than £1 million at the commencement of the term of the lease and the asset’s estimated market value 5 years later is more than half the market value. If the term of the lease would be 5 years or less but:
+
+- the lessee has options to continue to lease the asset,
+
+- the term of the lease at its inception would be more than 7 years assuming that it is reasonably certain that the lessee will exercise the options, and
+
+- the lessee may be required to pay the lessor if it fails to exercise those options,
+
+assume that the option to extend the lease will be exercised unless it is reasonably certain at the inception of the lease that it will not. This does not apply if:
+
+- the lease would be treated as a finance lease under generally accepted accounting practice;
+
+- the residual value of the asset implied in the lease is not more than five per cent of the fair value of the asset at commencement; and
+
+- the rentals due in any year do not vary by more than ten per cent from the rentals due in any other year (other than as a result of changes in interest rates).
+
+Termination amount
+
+This is how you work out the termination amount for an asset leased under a long funding lease.
+
+The lessor has not been entitled to PMA on the asset because the lease is a long funding lease. There may be an event that would have been a disposal event CA23240 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240) if the lessor had been entitled to PMA that causes the lease to terminate or a disposal event may occur as a result of or in connection with the termination of the lease. In that case the termination amount is the disposal value CA23250 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23250) that would have been brought to account by the lessor if the lessor had been entitled to PMA and had claimed all allowances available.
+
+If there is no disposal event and the lease is a long funding finance lease the termination amount is the value at which the asset is recognised in the lessor’s books or other financial records immediately after the termination of the lease.
+
+If there is no disposal event and the lease is a long funding operating lease the termination amount is the market value of the asset immediately after the termination of the lease.
+
+Termination value
+
+The normal rule is that the termination value of an asset that is, has been or is to be leased under a long funding lease is the value of the asset when the lease terminates. If the asset is sold when the lease terminates the termination value is the sale proceeds. If the lessor receives insurance proceeds or other compensation for the asset when the lease terminates the termination value is those insurance proceeds or compensation etc.
+
+Termination of a lease means the ending of the lease, either because its time is up or for some other reason.
+
+The remaining useful economic life of a leased asset is the period that begins when the lease begins and ends when the asset is no longer used or likely to be used by anyone for any purpose as a fixed asset of a business. You should note that the useful economic life does not end when the lease ends or when the lessor no longer leases the asset. If the asset can still be used for something after the lease ends the useful economic life has not ended.
+
+The commencement of the term of a lease is the date on or after which the lessee is entitled to use the complete asset.
+
+The inception of a lease is the earliest date when:
+
+- there is a contract in writing for the lease between the lessor and lessee,
+
+- the contract is unconditional or, if it is conditional the conditions have been met,
+
+- no terms remain to be agreed.
+
+Initial payment means a payment by the lessee in respect of the asset that is to be leased made at or before the time when the lease is entered into.
+
+Market value of an asset is determined on the assumption that the asset is disposed of by a person who owns it absolutely free from leases and other encumbrances.

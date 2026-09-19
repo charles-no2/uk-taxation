@@ -1,0 +1,26 @@
+Qualifying corporate bonds: loan relationships:  FA2002 Foreign exchange (FOREX) matching
+Identifier: CG54155
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg54155
+Published: 2016-03-12T11:34:31+00:00
+Updated: 2016-01-26T09:29:36+00:00
+Retrieved (UTC): 2026-09-18T14:43:17.056491+00:00
+
+Under the FOREX rules before FA2002 exchange gains or losses on a qualifying liability, or obligation to pay under a currency contract, could be `matched’ with certain non-monetary assets (that is, assets outside the FOREX rules). See CT13663 and CG44060. The purpose of matching was that, where assets denominated in foreign currency were matched by a foreign currency liability, the gains or losses on exchange rate movements would be netted off for tax purposes.
+
+For accounting periods beginning on or after 1 April 2002, there have been some alterations to the matching rules. The main change is that matching is now mandatory, rather than by election. Detailed guidance on matching is at CFM9300+.
+
+The rules for bringing FOREX debits and credits on matched liabilities into account are at SI 2002/1970. When a foreign currency liability is matched with an asset, the FOREX credits and debits are not brought into account immediately for tax purposes. Instead, they are held over until there is a disposal of the matched asset. At that time, the FOREX gains and losses which have been held over are brought together to produce a net gain or loss. The treatment then depends upon the nature of the matched asset. If that asset is:
+
+- a loan relationship which is a QCB for the purposes of TCGA92, or a ship or aircraft, the net gain or loss is treated as a credit or debit within the loan relationship regime in the accounting period of disposal of the matched asset (SI2002/1970 Reg 6);
+
+- shares or assets related to shares where a gain on disposal would be exempt under TCGA92/SCH7AC (the substantial shareholdings exemption), any net gain is not chargeable, and any net loss is not allowable (SI2002/1970 Reg 4(2));
+
+- any other matched asset, the net gain is chargeable, or loss allowable, under the CG code for the accounting period of disposal of the matched asset (SI2002/1970 Reg 4(1)).
+
+There may be cases where a liability is matched against a number of assets. In that case, the liability is matched against assets in the following order (SI2002/1970 Reg 7(6)):
+
+- Loan relationships (other than asset-linked securities within FA96/S93 - see CG54130), ships or aircraft
+
+- Assets on which chargeable gains or allowable losses accrue
+
+- Assets potentially within the substantial shareholdings exemption of TCGA92/SCH7AC. This involves making assumptions that the shares would continue to satisfy the qualifying conditions for exemption of gains under that schedule.

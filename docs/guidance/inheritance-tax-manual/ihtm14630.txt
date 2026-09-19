@@ -1,0 +1,72 @@
+Lifetime transfers: specific lifetime reliefs: fall in value relief: more than one sale
+Identifier: IHTM14630
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14630
+Published: 2016-04-09T09:20:49+01:00
+Updated: 2022-02-04T15:24:36+00:00
+Retrieved (UTC): 2026-09-18T14:58:08.248235+00:00
+
+When the original lifetime transfer consists of a number of assets, those assets could be sold at different times. For the purposes of the relief, the ‘relevant date’ in IHTA84/S131(1) applies to each of the underlying assets, not to the transferred property as a single asset. The example below explains how to calculate the relief where all the assets transferred have been sold. Where some of the property transferred had been sold and some retained, see the instruction at IHTM14631 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14631).
+
+Example
+
+Abbie transfers a portfolio of shares, then worth £100,000, to Barry on 5 April 2008. The portfolio consists of:
+
+- 1,000 shares in company XYZ worth £30,000,
+
+- 3,500 shares in company ABC worth £50,000, and
+
+- 1,750 shares in company DEF worth £20,000.
+
+Barry then sells
+
+- 600 shares in XYZ on 5 January 2009 for £15,000
+
+- 400 shares in XYZ on 20 January 2009 for £11,000
+
+- 2,100 shares in ABC on 10 February 2009 for £25,000
+
+- 1,400 shares in ABC on 15 February 2009 for £20,000, and
+
+- 1,750 shares in DEF on 12 May for 2009 £22,500.
+
+All the sales are arm’s length transactions at open market values.
+
+Abbie dies on 3 April 2010 so that the transfer becomes a chargeable transfer and Barry makes a claim for fall in value relief.
+
+Calculating the relief due
+
+600 shares in XYZ at the transfer date had a market value of £18,000
+
+600 shares in XYZ sold on 5 January for £15,000
+
+- Reduction in value = £3,000
+
+400 shares in XYZ at the transfer date had a market value of £12,000
+
+400 shares in XYZ sold on 20 January for £11,000
+
+- Reduction in value = £1,000
+
+2,100 shares in ABC at the transfer date had a market value of £30,000
+
+2,100 shares in ABC sold on 10 February for £25,000
+
+- Reduction in value = £5,000
+
+1,400 shares in ABC at the transfer date had a market value of £20,000
+
+1,400 shares in ABC sold on 15 February for £20,000
+
+- Therefore there was no reduction in value on sale of this holding.
+
+The shares in DEF were sold for a profit so there is no loss to take into account and the profit on sale is not offset against the other losses (IHTM14629 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14629)).
+
+Original transfer value = £100,000
+
+Reduction in value (£3,000 + £1,000 + £5,000) = -£9,000
+
+Value on which tax is charged on the death of Abbie = £91,000
+
+For the purposes of calculating the allowable relief, each individual sale must be taken in isolation. In each instance you are simply comparing the value at the date of transfer of the asset sold with its sale price.
+
+Although the value of £91,000 is used to calculate the tax due on the transfer the original value of £100,000 should still be used to calculate the tax due on later lifetime transfers and the death estate.

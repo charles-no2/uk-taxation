@@ -1,0 +1,66 @@
+Share reorganisations: apportionment of cost: main rule
+Identifier: CG51892
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51892
+Published: 2016-03-12T11:25:36+00:00
+Updated: 2026-06-01T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:42:29.733864+00:00
+
+TCGA92/S129
+
+The main rule in TCGA92/S129 is that you apportion the acquisition cost attributable to each class of share included in the new holding at the date of disposal of any of these shares, using the formula
+
+-
+
+|
+
+-
+
+|
+
+base cost x
+
+|
+
+market value part disposed of
+
+|
+
+-
+
+|
+
+market value part disposed of + market value part retained
+
+|
+
+This compares with the ordinary part disposal formula in TCGA92/S42 which is
+
+-
+
+|
+
+-
+
+|
+
+base cost x
+
+|
+
+consideration received
+
+|
+
+-
+
+|
+
+consideration received + market value part retained
+
+|
+
+In most cases the market value of the part disposed of will be the same as the consideration received. In practice because the difference is likely to be small you can use the consideration received rather than the amount of market value. This makes the formula identical to that in TCGA92/S42.
+
+Where the new holding only includes shares or securities of one class you can use the short cut method described in CG51575 and make the apportionment by reference to the number of shares or securities sold. This will apply where, say, there is a bonus issue of shares or securities of the same class and the normal share pooling rules do not apply. Share pooling did not apply for CGT purposes for shares between 1998 and 2008 and there continue to be a number of situations where pooling does not apply.
+
+You are most likely to see a difference between the consideration received and market value when dealing with the disposal of quoted shares. The statutory definition of market value in TCGA92/S272 (3) may give a slightly different figure to the price the taxpayer actually receives.

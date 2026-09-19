@@ -1,0 +1,28 @@
+Company reconstructions: shareholder: definition of debenture
+Identifier: CG52702
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52702
+Published: 2016-03-12T11:27:23+00:00
+Updated: 2016-01-26T08:53:30+00:00
+Retrieved (UTC): 2026-09-18T14:42:47.783553+00:00
+
+Nearly all debentures issued in a scheme of reconstruction will be securities within the meaning of TCGA92/S132 (3)(b). See CG53420+ and CG55015 for guidance on the definition of security. If exceptionally the debenture is not a security the treatment depends upon whether it was issued before or after 16 March 1993.
+
+Debenture: issue 16/3/93+
+
+TCGA92/S251 (6) deems any debenture issued on or after 16 March 1993 whose issue falls within TCGA92/S136 to be a security.
+
+Debenture: issue pre-16/3/93
+
+Any case in which it is claimed a debenture issued before 16 March 1993 whose issue falls within TCGA92/S136 is not a security and therefore not a chargeable asset should be referred to Capital Gains Technical Group.
+
+Debenture: qualifying corporate bonds
+
+When dealing with a reconstruction which involves the issue of a debenture you should always be aware of the possibility that the debenture may be a Qualifying Corporate Bond, QCB. See CG53700+ for advice on identifying QCBs.
+
+TCGA92/S136 DOES NOT APPLY TO THE ISSUE OF QCBS IN A SCHEME OF RECONSTRUCTION IF THE ORIGINAL HOLDING COMPRISED SHARES OR DEBENTURES WHICH ARE NOT QCBS.
+
+Instead TCGA92/S116 requires that you compute the gain or loss that would have arisen if the original shares and debentures had been sold at their market value. This gain or loss is then released on a later disposal of the QCBs. Further guidance can be found at CG53820+.
+
+You may meet cases where a debt which was issued on a company reconstruction has been disposed of, and it is suggested that a capital gains charge on the disposal has been reduced or eliminated because of a change in the tax status of the debt prior to its redemption or other disposal. It may, for example, be claimed that a debt was not a QCB at the time of the reconstruction, so that TCGA92/S136 can apply, but that (as a result of the claimed change in the status of the debt) the debt is a QCB by the time of disposal.
+
+Rules were introduced in Finance Act 1997 to ensure that in such cases any gains on the earlier shares, and where appropriate on the debt itself up to the time of the change in status, remain within the capital gains charge. See CG55018+.

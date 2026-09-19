@@ -1,0 +1,86 @@
+Lump sum allowance and lump sum and death benefit allowance: Enhancement factors: Non-residence factor: Defined benefits arrangements
+Identifier: PTM175340
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175340
+Published: 2024-03-27T00:10:48+00:00
+Updated: 2024-04-06T07:43:59+01:00
+Retrieved (UTC): 2026-09-18T14:51:28.482791+00:00
+
+As of 6 April 2024 there is no longer lifetime allowance. If you are looking for information about protections, enhancement factors and the lifetime allowance charge please see these pages on The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022829/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm090000). If you are looking for information about the principles of lifetime allowance and benefit crystallisation events please see these pages of The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022836/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm080000).
+
+If you are looking for information about enhancement factors pre-April 2024 please see The National Archive (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305085920/https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm095000). The below guidance applies for individual’s seeking an enhancement factor from 6 April 2024 to 5 April 2025.
+
+How to calculate the non-residence factor for a defined benefit arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175340#calculate)
+Pension entitlement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175340#entitlement)
+Example of how to calculate the non-residence factor for a defined benefit arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175340#example)
+
+How to calculate the non-residence factor for a defined benefit arrangement
+
+Paragraph 20D(3) and (4) Schedule 36, sections 276 and 277 Finance Act 2004
+
+For each part of an active membership period during which the individual is a relevant overseas individual, the defined benefits arrangement non-residence factor is established as follows:
+
+1. Select the individual’s pension entitlement under the defined benefits arrangement as at the latest of the following dates:
+
+- The date when the individual became a relevant overseas individual,
+
+- The date when the benefits first began to accrue to or in respect of the individual under the defined benefits arrangement, and
+
+- 6 April 2006.
+
+Multiply this figure by the relevant valuation factor of 20, or greater than 20 as agreed by HMRC.
+
+Where the registered pension scheme rules provide for a separate lump sum that is not a commutation of pension it is necessary to take that into account as well. That is done by adding together the result of the above calculation and the separate lump entitlement that the individual has under the defined benefits arrangement as at the latest date above. This only applies if the lump sum entitlement is not linked to the individual’s pension entitlement so that their prospective entitlement is not reduced as a result of taking the lump sum.
+
+2. Then multiply the individual’s pension entitlement under the defined benefits arrangement as at the earliest of the following dates by the relevant valuation factor of 20 (or greater if agreed by HMRC):
+
+- Immediately before the benefit payment,
+
+- The date when the individual ceased to be a relevant overseas individual, and
+
+- The date when the benefits ceased to accrue to or in respect of the individual under the defined benefits arrangement, and
+
+- 5 April 2024
+
+Where the registered pension scheme rules provide for a separate lump sum that is not a commutation of pension it is necessary to take that into account as well. That is done by adding together the result of the above calculation and the separate lump entitlement that the individual has under the defined benefits arrangement as at the earliest date above. This only applies if the lump sum entitlement is not linked to the individual’s pension entitlement so that their prospective entitlement is not reduced as a result of taking the lump sum.
+
+3. Deduct the result of step 1 from the result of step 2.
+
+4. Divide the result of step 3 by the standard lifetime allowance as at the date in 2.
+
+5. Express the resulting amount as an enhancement factor. The factor should go to two decimal places. This should be a rounded-up figure, so for example if the calculation provides a factor of 0.231 this becomes 0.24.
+
+This figure is then applied to the individual’s lump sum and death benefit allowance once a relevant benefit crystallisation event occurs.
+
+Pension entitlement
+
+The individual’s pension entitlement under the defined benefits arrangement is the annual rate of pension which would be payable to or in respect of the individual if they became entitled to the payment of it at the applicable date (as determined under 1 or 2 above).
+
+The individual’s lump sum entitlement under the defined benefits arrangement is the amount of lump sum which would be payable to or in respect of the individual if they became entitled to payment of it at the applicable date.
+
+Both the pension entitlement and the lump sum entitlement are established using the valuation assumptions set out in section 277 Finance Act 2004. These are as follows:
+
+- the individual concerned has reached any designated age as must have been reached to avoid any reduction in their benefits on account of their age, and
+
+- their benefits should be valued on the basis that they are not physically or mentally impaired.
+
+Example of how to calculate the non-residence factor for a defined benefit arrangement
+
+Vicky began working overseas on 6 December 2016 and so she became a relevant overseas individual on 6 April 2017. She began to accrue benefits under her defined benefits arrangement on 8 November 2016.
+
+The latest date for the purposes of step 1 is therefore 6 April 2017.
+
+Vicky’s pension entitlement as 6 April 2017 was £40,000 per annum. She had an option under the rules of the registered pension scheme defined benefits arrangement to commute part of her pension entitlement for a lump sum on retirement, but she was not entitled to a separate lump sum.
+
+£40,000 x 20 = £800,000
+
+Vicky returned to work in the UK on the 6 June 2022 and so she ceased to be a relevant overseas individual on 5 April 2022. That was before a benefits payment and before she ceased to accrue benefits under the defined benefit arrangement. Her pension entitlement as at 5 April 2022 was £56,500 per annum.
+
+£56,500 x 20 = £1,130,000
+
+£1,130,000 - £800,000 = £330,000
+
+The standard lifetime allowance for the 2021-2022 tax year is £1,073,100.
+
+£330,000 / £1,073,100 = 0.31
+
+Vicky’s non-residence factor is therefore 0.31.

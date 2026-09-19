@@ -1,0 +1,20 @@
+The general rule for employees: expenses: expenses that are deductible where some or all of the duties are performed outside the UK: tax year 2002 to 2003 onwards: use of own vehicle or bicycle: example
+Identifier: EIM31761
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31761
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-06-18T10:08:03+01:00
+Retrieved (UTC): 2026-09-18T14:13:20.445206+00:00
+
+In the tax year 2015 to 2016, an employee who was resident but not domiciled in the UK and elected to be taxed on the remittance basis, performed part of their employment duties in the UK and part outside the UK. The employee worked for a total of 300 days in 2015/16, of which 30 were worked in the UK. Their total earnings from the employment were £30,000. The employee travels on business in their own car with total business travel in the year of 9,500 miles. They are not reimbursed for any of their travel costs. Their earnings are wholly paid outside the UK but they bring £7,000 into the UK in 2015/16.
+
+The total mileage allowance relief is 9,500 × 45p = £4,275 (see EIM31240 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31240)).
+
+The earnings taxable on receipt under section 15 are £30,000 × 30/300 = £3,000 (see EIM31750 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31750)).
+
+Deduct mileage allowance relief from the earnings taxable on receipt £3,000 − £3,000 = nil (see EIM31760 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31760)).
+
+The earnings taxable on remittance under section 26 are £7,000 − £1,500 = £5,500 (see EIM31755 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31755)).
+
+Then deduct the remaining mileage allowance relief from earnings charged on remittance £5,500 − (£4,275 − £3,000) = £4,225.
+
+The total net taxable earnings is £4,225.

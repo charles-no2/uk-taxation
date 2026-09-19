@@ -1,0 +1,44 @@
+Seafarers Earnings Deduction: example of eligible period
+Identifier: EIM33006
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim33006
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2023-06-02T08:06:34+01:00
+Retrieved (UTC): 2026-09-18T14:13:39.154971+00:00
+
+Section 378 ITEPA 2003
+
+Section 378(3) defines a combined period as consisting of three consecutive periods, A,B and C where:
+
+- A is a period of consecutive days of absence from the United Kingdom or is itself a combined period
+
+- B is a period of not more than 183 days
+
+- C is a period of consecutive days of absence from the United Kingdom.
+
+It is a condition that at least half of the days in the combined period must be days of absence from the United Kingdom. See EIM33005  (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim33005)for further guidance.
+
+The following example shows how combining periods of absence works in practice.
+
+Dates |  Days of absence |  UK days |  Combined period A+B+C |  Running total of UK days |  1/2 limit for UK days |  Period B not to exceed 183 consecutive days |
+
+1 January 2004 to 31 March 04 |  91 (A) |  - |  - |  - |  - |  - |
+
+1 April 2004 to 31 May 2004 |  - |  61 (B) |  - |  - |  - |  OK |
+
+1 June 2004 to 31 August 2004 |  92 (C) |  - |  244 (A) |  61 |  122 OK |  - |
+
+1 September 2004 to 31 October 2004 |  - |  61 (B) |  - |  - |  - |  OK |
+
+1 November 2004 to 31 January 2005 |  92 (C) |  - |  397 (A) |  122 |  198 OK |  - |
+
+1 February 2005 to 31 March 2005 |  - |  59 (B) |  - |  - |  - |  OK |
+
+1 April 2005 to 30 June 2005 |  92 (C) |  - |  548 |  181 |  274 OK |  - |
+
+Notes
+
+- The first combined period from 1 January 2004 to 31 August 2004 is less than 365 days so by itself does not form an eligible period.
+
+- The extended combined period from 1 January 2004 to 31 January 2005 is 365 days or more so does form an eligible period.
+
+- The extended combined period from 1 January 2004 to 30 June 2005 further extends the eligible period.

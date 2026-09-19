@@ -1,0 +1,64 @@
+Class 1 structural overview - from April 2009: structural changes: the Class 1 and 2 maximum: example: four Class 1 employments: maximum not reached
+Identifier: NIM01277
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01277
+Published: 2016-04-11T17:00:38+01:00
+Updated: 2022-04-05T17:49:03+01:00
+Retrieved (UTC): 2026-09-18T15:18:11.283305+00:00
+
+Example 6
+
+P Parker has four part-time jobs. In each they earn £200 per week. Their maximum Class 1 NICs liability for the 2021 to 2022 tax year is calculated as follows:
+
+Step 1
+
+Deduct the relevant Primary threshold from the relevant UEL and multiply that figure by 53.
+
+967 - 184 = 783 x 53 = 41,499
+
+Step 2
+
+Multiply the result of step 1 by 12%
+
+41,499 x 12% = 4,979.88
+
+Step 3
+
+Add together so much of the person’s earnings from each employed earner’s employment as exceeded the Primary Threshold but did not exceed the Upper Earnings Limit.
+
+200 (weekly earnings) - 184 (weekly PT) = 16 x 208 (weeks) = 3,328
+
+Step 4
+
+Deduct from the total found at step 3 the amount produced by step 1
+
+3,328- 41,499 = minus 38,171
+
+Step 5
+
+If the figure produced at step 4 is a positive figure multiply that figure by 2%.
+
+If the figure produced at step 4 is a negative figure, it is treated for the purposes of step 8 as nil
+
+Nil
+
+Step 6
+
+Add together so much of the person’s earnings from each employment as exceeded the Upper Earnings Limit.
+
+There are no earnings above the UEL
+
+Step 7
+
+Multiply the result of step 6 by 2%
+
+Not applicable
+
+Step 8
+
+Add together the results of steps 2, 5 and 7.
+
+4979.88 + nil + nil
+
+P Parker’s maximum for the 2021 to 2022 tax year is £4979.88.
+
+The amount of primary Class 1 NICs the employee will pay in each employment on earnings of £200 will not reach the prescribed maximum but they will have met their full Class 1 liability.

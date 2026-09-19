@@ -1,0 +1,20 @@
+Quoted options to subscribe for shares: issue with share reorganisation
+Identifier: CG55485
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55485
+Published: 2016-03-12T11:37:23+00:00
+Updated: 2016-01-26T09:49:57+00:00
+Retrieved (UTC): 2026-09-18T14:33:24.048448+00:00
+
+TCGA92/S147
+
+TCGA92/S147 deals with share warrants issued at the same time as an event which is treated as a share reorganisation or conversion of securities. The most common examples will be rights issues and bonus issues, see CG50290 onwards and takeovers in which the acquiring company issues securities and share warrants in exchange for the shares it acquires, see CG52521. The effect of TCGA92/S127 is that none of these events is treated as a disposal of the original shares or securities or acquisition of the new shares and securities. Full instructions can be found at CG51700 onwards.
+
+Because share warrants are not themselves shares any share warrants issued at the time of a share reorganisation could give rise to an immediate charge to Capital Gains Tax. For example, a company issues debentures with detachable share warrants in exchange for shares in a company it is taking over. If the tests outlined in CG52660 are satisfied TCGA92/S127 will apply to the issue of the debentures by virtue of TCGA92/S135. However, Section 127 could not apply to the share warrants. Therefore, there would be a part disposal of the original shares equal to the value of the share warrants. (Section 135 would not apply if the debentures were qualifying corporate bonds, see CG52550+. However, they cannot be qualifying corporate bonds because they carry the right to acquire shares and, therefore, fail the test described in CG53709.)
+
+TCGA92/S147 applies to share warrants which are quoted options as defined in TCGA92/S144(8)(a). It prevents the issue of share options on a share reorganisation giving rise to a part disposal by treating the share options as the shares which could be acquired by exercising the options. In effect this means the share options become part of the new holding as defined in TCGA92/S126(1)(b), see CG51730. The market value of the options is determined as though they were quoted shares, TCGA92/S272(3), see CG59510.
+
+Once warrants have been treated, by the operation of TCGA92/S147, as shares they will remain to be treated as such in relation to any later reorganisation.
+
+For TCGA92/S147 to apply the option must be dealt in on the stock exchange where it is quoted within three months of a share reorganisation or conversion of securities falling within TCGA92/S126-TCGA92/S136. The Board can authorise an extension of the three month period. Any request to extend the period should be referred to Capital Gains Technical Group.
+
+The company may already have issued share warrants to which TCGA92/S147 did not apply. If the company later issues further identical warrants on a share reorganisation and Section 147 applies to those warrants, all the warrants of that kind issued by the company will be treated as shares, in relation to any later reorganisation.

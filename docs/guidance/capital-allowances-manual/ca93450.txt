@@ -1,0 +1,48 @@
+Structures and buildings allowance (SBA): qualifying expenditure: qualifying capital expenditure: qualifying capital expenditure incurred on works after a building comes into use
+Identifier: CA93450
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca93450
+Published: 2019-10-30T11:06:50+00:00
+Updated: 2021-11-22T17:51:50+00:00
+Retrieved (UTC): 2026-09-18T16:21:49.104562+00:00
+
+CAA01/S270BB
+
+Where construction, renovations, conversions or repairs are carried out after a building has been brought into qualifying use and qualifying expenditure is incurred on those works on more than one day, a new claim may be made for a 33 1/3 year period commencing with each of those days. To reduce the burden of calculating and administering several claims for the same building, an allowance may be claimed instead as though expenditure was incurred on one of the following (whether or not those days fall in the same chargeable period):
+
+- the latest of those days on which expenditure was incurred
+
+- the first day of the chargeable period following the latest of those days
+
+- the first day of the chargeable period following the day on which expenditure was incurred.
+
+This can be particularly helpful where there are multiple phases of construction or items of expenditure that occur or are brought into use on different dates in a chargeable period.
+
+Example
+
+Mote Ltd draws up accounts to 31 December every year. It operates a popular hotel in which 8 rooms are in need of updating and, in order to spread the cost adopts a rolling programme of works that will see one room finished at the end of every quarter, with each room brought back into use on the following day.
+
+The contract for works is entered into on 30 September 2020, the works commence 1 January 2021, and payment of £4,000 for each room becomes due and payable as each room is finished. For the purposes of this example, each payment is to be treated as incurred on the date it becomes payable.
+
+Strict position, ignoring the simplification offered by CAA01/S270BB
+
+Payments for each room are treated as distinct blocks of qualifying expenditure for SBA, with entitlement to SBA arising when each is brought into qualifying use, the day after each room is finished. The 33 1/3 year period for SBA commences on the same day, when each renovated room is first brought into non-residential use. Because each room meets the conditions for entitlement to SBA CA90100 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca90100) for only part of the chargeable period, an apportionment is required by CAA01/S270EA(3)(a) CA91300 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca91300).
+
+During the accounting period ending in 2021, three rooms are brought back into qualifying use within the year, on 1 April, 1 July and 1 October 2021. SBA at 3% on £4,000 qualifying expenditure for a full year would be £120 but apportioned allowances for each room under CAA01/S270EA will be £90, £60 and £30 respectively, bringing the total SBA available for 2021 to £180.
+
+During the accounting period ending in 2022, four further rooms are brought back into qualifying use within the year, on 1 January, 1 April, 1 July and 1 October 2022. SBA at 3% on £4,000 qualifying expenditure would be £120, but apportioned allowances for each room under CAA01/S270EA will be £120, £90, £60 and £30 respectively. Additionally, SBA of £360 will be available for the three rooms brought into qualifying use in the previous chargeable period, bringing the total SBA available for 2022 to £660.
+
+During the accounting period ending in 2023, the final room is brought back into qualifying use within the year, on 1 January 2023. SBA at 3% on £4,000 qualifying expenditure will be £120. Additionally, SBA of £840 will be available for the seven rooms brought into qualifying use in the previous chargeable periods, bringing the total SBA available for 2023 to £960.
+
+The 33 1/3 year period of entitlement to SBA will expire separately CA90100 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca90100) for the expenditure incurred on each room.
+
+Simplification options offered by CAA01/S270BB
+
+Rather than manage each block of expenditure separately CAA01/S270BB offers one of the following three alternatives:
+
+- Treat all £32,000 (8 lots of £4,000) expenditure as incurred on the latest day on which the construction expenditure is incurred (31 December 2022). As the first qualifying use for the last room takes place after the end of the chargeable period, the SBA for APE 2022 will be computed by taking the allowance for a full 12-month chargeable period (3% × £32,000 = £960) and proportionally adjusting it CA91400 to (1 ÷ 365) × (7 ÷ 8) × £960 = £3. The 33 1/3 years of entitlement to SBA for those 7 rooms will start on 31 December 2022. The SBA for the eighth room will start on 1 January 2023, and the SBA for the period ending 2023 will be £960.
+
+- Treat all £32,000 expenditure as incurred on the first day of the chargeable period following the latest of the days on which the construction expenditure is incurred (1 January 2023). As this day coincides with first qualifying use and non-residential use, the 33 1/3 year SBA entitlement will start on that date for all rooms, and the first SBA claim will be £960 for the chargeable period ending 31 December 2023.
+
+- Treat any expenditure incurred within one period of account as having been incurred on the first day of the following chargeable period, so Mote Ltd could treat: - The £16,000 qualifying expenditure paid during 2021 as incurred on 1 January 2022, starting the 33 1/3 year entitlement on that date and claiming the first SBA of £480 for the chargeable period ending 31 December 2022. - The £16,000 qualifying expenditure paid during 2022 as incurred on 1 January 2023, starting the 33 1/3 year entitlement for the four 2022 rooms on that date and claiming SBA of £960 for the chargeable period ending 31 December 2023.
+
+It will be up to Mote Ltd to decide whether the delay in claiming the SBA is a suitable trade-off for a simpler computation and therefore which if any of these simplifications are adopted.

@@ -1,0 +1,36 @@
+Deeply discounted securities: securities which are not deeply discounted securities
+Identifier: SAIM3040
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3040
+Published: 2016-03-19T16:25:12+00:00
+Updated: 2018-12-04T09:50:30+00:00
+Retrieved (UTC): 2026-09-18T14:26:14.415231+00:00
+
+Some securities are not deeply discounted securities
+
+ITTOIA05/S432 excludes certain types of security from being deeply discounted securities. These are
+
+- company shares
+
+- gilt-edged securities which have not been stripped (see SAIM3130 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3130) for more on strips)
+
+- life assurance policies
+
+- capital redemption policies.
+
+In practice, therefore, most deeply discounted securities will be securities in the nature of debts, that is, where the issuer has an obligation to make some form of return to the investor.
+
+Excluded indexed securities
+
+‘Excluded indexed securities’ are only deeply discounted securities where the parties are connected. See SAIM3050 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3050).
+
+Securities issued in separate tranches
+
+Subject to certain limits, securities issued under the same prospectus in separate tranches may be excluded from being treated as deeply discounted securities. See SAIM3060 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3060).
+
+Investment products linked to other assets and indices
+
+It is not always easy to determine whether a particular product is a deeply discounted security or not, particularly where the amount which the investor gets back depends on the performance of particular assets or a particular financial index. The capital initially subscribed by the investor may be completely or partly protected, or it may be possible for the investors to lose the whole of their money.
+
+Some such products, properly analysed, are options, for which the investor pays a premium. Others may be contracts for differences, or other derivatives. These will not be deeply discounted securities; disposal of an option, or of a financial future within TCGA92/S143, will give rise to a capital gain or allowable loss. See also CFM50080 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm50080) for the treatment of swaps held by non-corporates. SAIM7000 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim7000) explains the tax treatment of derivatives that generate an interest-like return.
+
+Other products, however, create a debt. Providing that the requirements of ITTOIA05/S430 are satisfied, these are likely to be deeply discounted securities, unless they fulfil the stringent conditions for ‘excluded indexed securities’ (SAIM3050 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3050)). You should seek advice from BAI (Financial Products and Services Team) if it is unclear whether or not a particular instrument is a deeply discounted security.

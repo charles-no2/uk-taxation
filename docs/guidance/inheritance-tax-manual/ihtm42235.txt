@@ -1,0 +1,36 @@
+Same Day Additions: Examples
+Identifier: IHTM42235
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42235
+Published: 2020-11-04T15:29:44+00:00
+Updated: 2020-11-04T15:37:30+00:00
+Retrieved (UTC): 2026-09-18T15:09:38.038476+00:00
+
+Example 1
+
+In August 2012 Amy created two small relevant property trusts (A and B) on different days, adding £100 to each. She made no other gifts. On her death in September 2018, her will gave legacies of £324,900 to the trustees of A, and £324,900 to B. The £350,000 residue of the estate goes to her second husband absolutely and no Inheritance Tax (IHT) is payable. In October 2021 the trustees of A make a distribution, and a proportionate charge arises.
+
+Before the introduction of ‘same day additions’ (SDAs), the only figures that mattered for calculating the rate of tax on the proportional charge was the historic value added to A, that is the initial value of £100 and the added value of £324,900 (S68(5)(a) and (c) IHTA). But as the total value does not exceed £325,000 the rate of tax is zero. The same would apply to B. So, potentially, neither trust will have to pay any IHT for at least the next 10 years.
+
+However, for charges on or after 18 November 2015 the SDAs to other trusts are taken into account. Here, the SDA relevant to the charge on trust A is the value added to B on the same day (£324,900) and – because the trusts are not related – the value of £100 added to B at commencement (IHTA/s68(5)(e) and (f)).
+
+That means that the total value for rate purposes is £650,000 and the effective rate is 3%. The overall effect is the same as if the will had created one trust of £650,000. The position for B would be the same.
+
+If Amy’s will had left the residue on an immediate post death interest (trust C), the total value for rate purposes might now be £1,000,000, but because trust C has never included relevant property (IHTA84/S62A(3)), it is not included as a SDA.
+
+Example 2
+
+In 2016 Charles created three consecutive relevant property trusts, A, B and C, putting £100 in each. At a later date he made a commercial loan to B. He also added £5,000 a month to C from excess income.
+
+In June 2018 he gifted unquoted shares to A, with a value of £350,000. On the same day he also
+
+executed a deed releasing £100,000 of the loan to B and, continuing the pattern of gifts from excess income, gifted a further £5,000 to C. No IHT is payable immediately on these lifetime transfers.
+
+The transfers to A, B and C are SDAs. It does not matter if the transfers are relievable (A), chargeable (B) or exempt (C). It is sufficient that they are transfers of value.
+
+For rate purposes, future charges on A will include an additional value of £105,200 (SDAs to B and C); for B an additional £355,200 (SDAs to A and C); and for C an additional £450,200 (SDAs to A and B).
+
+Note that the other regular transfers to C do not affect A or B because they only involve additions to C and cannot be SDAs.
+
+If in this example, assume under the old rules that trust B had just passed its ten-year anniversary, and the value of the relevant property in the trust was £600,000. The IHT would be £16,500 (overall rate of 2.75%).
+
+However, under the new rules the SDAs to A (£350,100) and C (£5,100) must be brought in to account in calculating the rate of IHT, which is now based on a combined value of £955,200. The IHT payable would be£23,748 (overall rate 3.958%).

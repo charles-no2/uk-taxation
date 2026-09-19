@@ -1,0 +1,66 @@
+Liabilities: restricted deductions: excess liability over property that has become excluded where money has been borrowed to acquire excluded property
+Identifier: IHTM28018
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28018
+Published: 2016-04-09T09:52:15+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:03:55.507213+00:00
+
+IHTA84/S162A(5) deals with the position where borrowed funds were used either directly or indirectly to finance the acquisition, or to enhance or maintain the value of assets that were not excluded property at the time, but have become excluded property.
+
+A the assets are now excluded from the charge to Inheritance Tax, IHTA84/S162A(6) restricts the extent to which the liability can be taken into account. The liability may only be taken into account to the extent that its value is greater than the value of the assets acquired with the loan and those assets:
+
+-
+
+have not been disposed of, and
+
+-
+
+have become excluded.
+
+Example
+
+Roberto, who is not domiciled in the UK (to 5 April 2025) (IHTM13000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13000)) or not a long-term UK resident (from 6 April 2025) (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)) borrows £500,000 which he uses to buy two paintings which he keeps in his London house. He subsequently takes one of the paintings, worth £300,000, to keep in his house in Florida. This painting is now excluded property.
+
+The £300,000 painting has not been disposed of but has become excluded property. The liability of £500,000 is therefore allowed to the extent that it exceeds the value of that painting. In other words, £200,000 of the liability is an allowable deduction (£500,000 less £300,000).
+
+But the excess liability may only be deducted from the chargeable estate if it has not been brought about by one or more of the reasons listed in IHTA84/S162A(7), which are that:
+
+-
+
+the excess arises from arrangements, the main purpose, or one of the main purposes of which was to bring about a tax advantage,
+
+-
+
+the amount of the liability has been increased because interest has been added to the amount due, or the amount to be repaid was to be worked out by reference to indexation, or some other formula,
+
+-
+
+the amount of the liability has increased as a result of the acquired asset being disposed of either partly or completely, which is dealt with by IHTA84/S162A(2) (IHTM28015 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28015)).
+
+Subsection (7)(a) prevents a deduction being taken into account where:
+
+-
+
+borrowed money has been used to acquire excluded property, and
+
+-
+
+the value of those assets is then artificially depressed to create an excess liability that could be deducted from the estate.
+
+But, at the same time the provisions protect the situation where a person who is not domiciled in the UK (to 5 April 2025) or not a long-term UK resident (from 6 April 2025) borrows money to buy an asset abroad which then, through no fault of their own, falls in value. The excess over and above the reduced value may still be taken into account and deducted against any other assets that are subject to the Inheritance Tax charge. Where the money was borrowed from abroad, the rules for setting a liability against assets situated in different countries apply (IHTM28394 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28394)).
+
+The meaning of ‘arrangements’ is defined in IHTA84/S162A(8) and includes any scheme, transaction, or series of transactions, agreement or understanding whether or not legally enforceable, and any associated operations (IHTM14822 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14822)).
+
+In view of the definition of ‘tax’ in IHTA84/S272, a tax advantage here means an Inheritance Tax advantage. This is defined in IHTA84/S162A(8) as meaning the avoidance or reduction of a charge to tax or the avoidance of a determination of tax.
+
+Subsection (7)(b) prevents any element of interest or other increase in the value of the liability over and above the value of the assets acquired with it being deducted against the chargeable estate. If the value of the loan is greater than the value of the assets acquired with it only because of accrued interest or indexation, the whole amount of the loan is disallowed.
+
+Subsection (7)(c) prevents any overlap between IHTA84/S162A(2) and (3). Where the asset that is not subject to tax has been disposed of, the provisions relating to disposal (IHTM28015 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28015)) apply.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28018#top)
+
+Example
+
+Emilio, who is domiciled outside the UK (to 5 April 2025) or not a long-term UK resident (from 6 April 2025), borrows £800,000 and invests it in diamonds, which he keeps in the UK. He moves the diamonds abroad just before he dies. On his death, the diamonds are still worth the same amount but interest has accumulated on the loan so that Emilio now owes £850,000.
+
+As the assets acquired with the loan have not been disposed of but have become excluded property, only the excess value of the loan over the asset can be allowed as a deduction against any chargeable estate. However, as the liability has increased due to accrued interest, none of the liability may be allowed as a deduction.

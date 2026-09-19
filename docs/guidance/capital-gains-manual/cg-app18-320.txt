@@ -1,0 +1,104 @@
+Part 3 - CGT on UK Property Account and Self Assessment: Individuals – General approach
+Identifier: CG-APP18-320
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-320
+Published: 2022-05-23T11:07:38+01:00
+Updated: 2026-08-17T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:47:19.306136+00:00
+
+Top of page
+
+3.2 Individuals – general approach.  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-320#individuals-general-approach)
+
+3.2.1 Interactions between the Self Assessment Process and the UK Property Account  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-320#interactions-between-the-self-assessment-process)
+
+3.2.2 Initial overpayments.  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-320#initial-overpayments)
+
+3.2.3 Reporting for 2020/21 SA tax return where there is an ‘initial overpayment’  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-320#reporting-for-sa-tax-returns)
+
+3.2.4 Reporting for 2021/22 SA tax and later years return where there is an ‘initial overpayment’  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-320#reporting-for-tax-return-where-there-is)
+
+3.2.5 Manual returns - Payment Reference Number (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-320#Manual-returns)
+
+3.2.6 Interaction with PPD after SA (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-320#interaction-with-ppd-after-sa)
+
+3.2 Individuals – general approach
+
+When an individual is completing a Self Assessment return, then they should include details of the total gains or losses they have reported within the CGT on UK Property Account, and the tax charges within the same account, within that Self Assessment return as well. This is to bring together the CGT gains, losses and tax charges on UK property with the other sources of income or gains/losses which the individual has for the tax year.
+
+The SA108 summary page notes(link is external) (https://www.gov.uk/government/publications/self-assessment-capital-gains-summary-sa108) provide guidance on the boxes which need to be completed within the Self Assessment return. In general, for most UK residents, any disposals will need to be reported in boxes 9 and 10, unless Business Asset Disposal Relief (BADR) applies.
+
+After all relevant sections of the Self Assessment return are completed, the individual should go to view the calculation section for the Self Assessment return and tick the option to View and print their full calculation.
+
+In some circumstances a CGT on UK Property return may still need to be filed after a Self Assessment return has been filed. The exception is where the conditions of Para 5 Schedule 2 Finance Act 2019 are met. There is further guidance for Para 5 and how it applies at 2.6.2 Instances where a return submitted through the CGT on UK Property Account is not required because a Self Assessment return is filed instead (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-260#toc90369284).
+
+3.2.1 Interactions between the Self Assessment Process and the UK Property Account
+
+The following paragraphs set out some additional considerations that may arise in terms of the interactions between the Self Assessment process and the CGT on UK Property Account, depending on the timings and circumstances affecting each individual.
+
+Depending on an individual’s circumstances, the information within the CGT on UK Property Account may:
+
+- Only relate to part of the total CGT due for the year e.g. the individual had other disposals of assets that were not UK property to report. In this case any additional CGT due should be reported and paid as part of the Self Assessment process.
+
+- Equal the total CGT due for the year e.g. the individual has only made UK property disposals in the year, all of which have been reported. In this case, once the figures within the CGT on UK Property Account are final, no further action is required in relation to CGT.
+
+- Result in an ‘initial overpayment’ of CGT for the year. In this case, additional action may be required to ensure this is correctly accounted for - see sections 3.2.2-3 for further details.
+
+An example of where Situation 3 might apply is if there are other asset disposals later in the tax year that affect the overall CGT liability or if there are changes in the amounts originally reported in the CGT on UK Property Account.
+
+3.2.2 Initial overpayments
+
+An ‘initial overpayment’ is where the total CGT due based on the total gains (after losses etc) in the Self Assessment return is lower than the total of any CGT charged by the CGT on UK Property Account returns (together with any CGT that might have been paid in a Real Time Transaction return) filed in respect of that tax year.
+
+In some cases this ‘initial overpayment’ may have been paid by the individual to HMRC before they come to complete their Self Assessment return, and they may be due a partial or full repayment depending on circumstances. In other cases, this ‘initial overpayment’ may have been charged but not yet paid e.g. where a return has been filed manually and no payment reference has yet been allocated. The sections below set out the actions to take depending on the circumstances.
+
+back to top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-320#top-of-page)
+
+3.2.3 Reporting for 2020/21 SA tax return where there is an ‘initial overpayment’
+
+Where an individual has completed a Self Assessment return for the 2020/21 tax year which has resulted in an ‘initial overpayment’ of CGT for the year, but has not actually yet paid that ‘initial overpayment’ amount as defined above to HMRC, they should contact HMRC by telephone on 0300 200 3300 to enable HMRC to make a manual adjustment and offset the amounts to ensure no late payment penalty is triggered. If any further action is required HMRC will contact them to advise what that is. An example is as follows.
+
+Taxable capital gains |   |   | £62,700.00 |
+
+Residential property and carried interest basic rate | £15,000.00 | x18% | £2,700.00 |
+
+Residential property and carried interest | £47,700.00 | x28% | £13,356.00 |
+
+|   |   | £16,056.00 |
+
+Minus Tax on gains already paid
+
+|   |   | £21,000.00 |
+
+Capital Gains Tax calculated as overpaid
+
+|   |   | £4,944.00 |
+
+Income Tax, Capital Gains Tax, and Class 2 National Insurance contributions due |   |   | £6,795.87 |
+
+Using the output of the SA302 above, the individual would pay the difference between the Income Tax, CGT and Class 2 NICs due figure and the CGT calculated as overpaid figure - £6,795.87 - £4,944.00 = £1,851.87.
+
+If they choose to make payment in full of the Income Tax and other liabilities, that is generated by the calculation for the year – that is, pay the ‘initial overpayment’ as well as their actual overall tax liability – they should also then contact HMRC to request a repayment of that ‘initial overpayment’ of CGT. This will then be reviewed by HMRC.
+
+In this case using the example above, the individual would have made a payment in full of the Income Tax, CGT and Class 2 NICs figure (£6,795.87).
+
+Once the Self Assessment return has been submitted, the individual should not attempt to amend their return within their CGT on UK Property Account for the corresponding tax year.
+
+3.2.4 Reporting for 2021/22 SA tax return and later years where there is an ‘initial overpayment’
+
+Where they have completed a Self Assessment return for the 2021/22 tax year onwards which has resulted in an ‘initial overpayment’ of CGT, this ‘initial overpayment’ of CGT will be automatically offset against other SA charges to prevent them having to overpay. If there remains an overpaid amount of CGT following the offset against other liabilities, this figure will be displayed on the SA302 output but not automatically repaid.
+
+HMRC should be contacted by telephone on 0300 200 3300 to enable any amount to be allocated to other tax charges or if appropriate a repayment made.
+
+Once the Self Assessment return has been submitted, they should not attempt to amend their return within their CGT on UK Property Account for the corresponding tax year.
+
+3.2.5 Manual returns - Payment Reference Number
+
+If the CGT on UK Property Account return has been filed manually i.e. a paper return has been submitted, but payment has not been possible because no payment reference number has been allocated as yet, then the Self Assessment return should be completed to reflect the CGT that will be charged via the CGT on UK Property Account, and a note made in box 54 of the SA108 to advise that the charge reference has not yet been allocated.
+
+3.2.6 Interaction with PPD after SA
+
+If the Self Assessment return was submitted prior to the paper CGT on UK Property return and the CGT charge has already been paid in Self Assessment, the individual will not be charged twice though late filing penalties and interest may apply.
+
+If the Self Assessment return was submitted prior to the paper CGT on UK Property return and the CGT wasn’t returned and paid in Self Assessment, a CGT charge will be raised. Late filing penalties and interest may apply.
+
+Back to top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app18-320#top-of-page)

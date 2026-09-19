@@ -1,0 +1,94 @@
+Land: small part-disposals
+Identifier: CG71870
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71870
+Published: 2016-03-12T12:18:22+00:00
+Updated: 2026-02-27T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:35:29.421557+00:00
+
+Small part-disposals
+
+TCGA92/S242
+
+Where part of a holding of land is disposed of, the taxpayer can elect that the transfer should not be treated as a disposal for Capital Gains Tax purposes provided that the following conditions are satisfied:
+
+- the consideration does not exceed 20% of the market value of the entire holding, see below, at the time of the transfer; and
+
+- the consideration does not exceed £20,000; and
+
+- the total consideration for all transfers of land made by the taxpayer in the year in question does not exceed £20,000.
+
+Where the above conditions are satisfied, the consideration is deducted from the allowable expenditure on the holding in computing the gain arising on any later disposal, or part-disposal.
+
+This treatment is not available in any of the following circumstances:
+
+- where the interest held by the transferor is a wasting asset;
+
+- where the transfer is between spouses or between civil partners, see CG22200C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg22000c).
+
+- where the transfer is between members of a group of companies, see CG45100P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45100p).
+
+Consideration exceeds allowable expenditure
+
+TCGA92/S244
+
+If the conditions set out above are satisfied, but the consideration received exceeds the allowable expenditure, it is not possible for the taxpayer to elect that the transfer should not give rise to a disposal for Capital Gains Tax purposes. Instead, the taxpayer may elect that the consideration for the part-disposal should be reduced by the amount of the allowable expenditure.
+
+Example
+
+Mrs J acquired a piece of land in April 1984 for £5,000. In May 2017 she disposed of a part of that land for £15,000 at a time when the whole land was worth £200,000. She made no other disposals in 2017-18.
+
+Mrs J elected for TCGA92/S244 to apply.
+
+Mrs J's gain on the part-disposal in 2017-18 is computed as follows:
+
+i) Chargeable gain
+
+= Consideration - Section 244 election
+
+= £15,000 - £5,000
+
+= £10,000
+
+ii) Subsequent disposals
+
+On a subsequent disposal or part-disposal of the remaining land, Mrs J will have no allowable expenditure under TCGA92/S38 (1)(a) to set against the consideration received (subject to the rebasing rules below).
+
+Rebasing rules applied on later disposal
+
+TCGA92/Sch 3/Para 4 (2)
+
+If TCGA92/S244 has applied on an earlier disposal, and:
+
+- the land in question was acquired before 1 April 1982;
+
+- the ‘small’ part-disposal occurred between 1 April 1982 and 5 April 1988; and
+
+- there is a later disposal or part-disposal of the land after 5 April 1988
+
+special rules apply to determine the allowable expenditure to be set against the later disposal, see CG16960 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16960).
+
+Definition of ‘holding’
+
+TCGA92/S242 (6)
+
+The land disposed of may be part of a large estate. In practice, ‘the holding’ should be taken to be the smallest piece of land which:
+
+- could have included all the part disposed of, and
+
+- which had a separately identifiable cost or deemed cost.
+
+Indexation allowance
+
+If TCGA92/S242 has applied in respect of a part-disposal, the rules for calculating the indexation allowance on a later disposal, or part-disposal, are set out at CG17360 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17360).
+
+NOTE. If a taxpayer is within the charge to Capital Gains Tax, neither indexation allowance nor taper relief apply to disposals of assets on or after 6 April 2008. Previously indexation allowance had been frozen at April 1998. Companies and other concerns within the charge to Corporation Tax are not affected by these changes. For indexation allowance see CG17207 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17207) and for taper relief see CG17895 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17895).
+
+Time limit for election
+
+TCGA92/S242 (2A) & TCGA92/S244 (3)
+
+The time limits are:
+
+- for Capital Gains Tax cases, one year after the 31 January in the year following that in which the disposal took place (in other words, 21 months from the end of the tax year in which the disposal took place)
+
+- for Corporation Tax cases, 2 years from the end of the accounting period in which the disposal took place.

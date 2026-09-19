@@ -1,0 +1,516 @@
+Trust income and gains: vulnerable beneficiaries: claims to special tax treatment: computing the amount of relief: income tax - basic example
+Identifier: TSEM3474
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3474
+Published: 2016-05-02T16:35:27+01:00
+Updated: 2026-02-24T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T16:19:46.734374+00:00
+
+A trust has arisen in England as a result of an intestacy. There is one current beneficiary, a UK resident minor who is a vulnerable person. Because of the right to accumulate the trustees are liable at the special trust rates. A valid vulnerable beneficiary election is in force.
+
+Example 2024-2025
+
+The example is when the income is received after 6 April 2024 when the standard rate band is no longer applicable.
+
+The trustees receive the following income in 2024-25:
+
+Income | Amount |
+
+Rent | £20,000 |
+
+Bank Interest | £5,000 |
+
+UK dividends | £10,000 |
+
+TQTI (the trustees tax liability before making a claim for special treatment)
+
+Tax rates | Non-savings income | Savings | Dividend | Total |
+
+Income | £20,000 | £5,000 | £10,000 | - |
+
+Tax at trust rate 45% | £20,000 | £5,000 | - | - |
+
+Tax at Trust dividend rate 39.35% | - | - | £10,000 | - |
+
+Tax chargeable | £9,000 | £2,250.00 | £3,935 | £15,185 |
+
+The vulnerable person has no personal income or gains in the year, and so the amount of TLV2 is nil.
+
+TLV1 (the amount of additional tax that the vulnerable person would pay if the qualifying trusts income arose directly to them) is:
+
+Income | Non savings income | Savings | Dividend | Total |
+
+Income-actual | - | - | - | - |
+
+Income treated as arising to vulnerable beneficiary | £20,000 | £5,000 | £10,000 | - |
+
+less personal allowance | £12,570 | - | - | - |
+
+Savings chargeable after £1,000 allowance (20%) | - | £4,000 | - | - |
+
+Tax chargeable | - | £800.00 | - | £800.00 |
+
+Chargeable at dividend rate after £500 dividend allowance (8.75%) | - | - | £9,500 | - |
+
+Tax chargeable | - | - | £831.25 | £831.25 |
+
+Chargeable at lower rate (20%) | £7,430 | - | - | - |
+
+Tax chargeable | £1,486.00 | - | - | £1,486.00 |
+
+TLV1 | - | - | - | £3,117.25 |
+
+less TLV2 | - | - | - | £000.00 |
+
+VQTI | - | - | - | £3,117.25 |
+
+The reduction that the trustees can claim is TQTI - VQTI (£15,185 - £3117.25) = £12,067.75.
+
+Their final liability is therefore:
+
+Tax due | Total |
+
+Tax due | £15,185 |
+
+Less reduction for special tax treatment | £12,067.75 |
+
+- | £3117.25 |
+
+Example for 2019-2020 when standard rate band was applicable
+
+The trustees receive the following income in 2019-20:
+
+Income | Amount |
+
+Rent
+
+|
+
+£20,000
+
+|
+
+Bank interest
+
+|
+
+£5,000
+
+|
+
+UK dividends
+
+|
+
+£10,000
+
+|
+
+TQTI (the trustees’ tax liability before making a claim for special tax treatment) is:
+
+Tax Rates
+
+|
+
+Non-savings
+
+|
+
+Savings
+
+|
+
+Dividend
+
+|
+
+Total
+
+|
+
+Income
+
+|
+
+£20,000
+
+|
+
+£5,000
+
+|
+
+£10,000
+
+|
+
+-
+
+|
+
+Tax at standard rate 20%
+
+|
+
+£1,000
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Tax at Trust rate 45%
+
+| £19,000 | £5,000 |
+
+-
+
+|
+
+-
+
+|
+
+Tax at Trust dividend rate 38.1% | - | - | £10,000 | - |
+
+Tax chargeable
+
+|
+
+£8,750.00
+
+|
+
+£2,250.00
+
+|
+
+£3,810.00
+
+|
+
+£14,810.00
+
+|
+
+The vulnerable person has no personal income or gains in the year and so the amount of TLV2 is nil.
+
+TLV1 (the amount of additional tax that the vulnerable person would pay if the qualifying trusts income arose directly to them) is:
+
+Income
+
+|
+
+Non-savings
+
+|
+
+Savings
+
+|
+
+Dividend
+
+|
+
+Total
+
+|
+
+Income - actual
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Income treated as arising to the vulnerable person
+
+|
+
+£20,000
+
+|
+
+£5,000
+
+|
+
+£10,000
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£20,000
+
+|
+
+£5,000
+
+|
+
+£10,000
+
+|
+
+-
+
+|
+
+Less personal allowance
+
+|
+
+£12,500
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Savings chargeable after £1,000 allowance (20%)
+
+|
+
+-
+
+|
+
+£4,000
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Tax chargeable
+
+|
+
+-
+
+|
+
+£800.00
+
+|
+
+-
+
+|
+
+£800.00
+
+|
+
+Chargeable at dividend rate after £2,000 dividend allowance (7.5%)
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£8,000
+
+|
+
+-
+
+|
+
+Tax chargeable
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£600.00
+
+|
+
+£600.00
+
+|
+
+Chargeable at lower rate (20%)
+
+|
+
+£7,500
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Tax chargeable
+
+|
+
+£1,500.00
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£1,500.00
+
+|
+
+TLV1
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£2,900.00
+
+|
+
+Less TLV2
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£0.00
+
+|
+
+VQTI
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+£2,900.00
+
+|
+
+The reduction that the trustees can claim is TQTI - VQTI (£14,810 - £2,900) = £11,910. Their final liability is therefore:
+
+Tax Due | Total |
+
+Tax due
+
+|
+
+£14,810.00
+
+|
+
+Less reduction for special tax treatment
+
+|
+
+£11,910.00
+
+|
+
+-
+
+|
+
+£2,900.00
+
+|
+
+The trustees must also ensure that they have paid enough income tax to cover the deemed deduction of tax on the distribution to the beneficiary (see TSEM3490 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3490)).

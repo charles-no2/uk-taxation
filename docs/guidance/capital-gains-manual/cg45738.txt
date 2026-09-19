@@ -1,0 +1,22 @@
+ETMD: consequential amendments within TCGA 1992: - section 179 assets other than shares
+Identifier: CG45738
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45738
+Published: 2016-03-12T11:09:12+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:41:18.768150+00:00
+
+A chargeable occasion, ‘a degrouping charge’ may arise under TCGA 92 section 179 when a company leaves a group taking with it an asset that it acquired from another company when that other company was a member of a group, see CG45731 above and CG45401+ for a fuller explanation on section 179.
+
+Where there is a transfer of assets to which section 140A or C would apply or a merger to which section 140E would apply then without special provision the transfer of the assets or merger could create a degrouping charge under section 179.
+
+An example could be where the G group consists of companies G, H, K, L and M and ten other subsidiaries. In year 1 company G transfers a chargeable asset to company M. In year 2 company M is merged with company Y, a French company. The merger meets the conditions within section 140E, see CG45706 - CG45710 above. As part of those conditions company M would cease to exist and therefore it will no longer be part of the G group. As a result a degrouping charge would arise under section 179 on the asset that was transferred in year 1 to company M from company G. The imposition of such a charge would be contrary to the general principle of the ETMD, see CG45701.
+
+Section 179(1B) prevent this from happening. Under section 179(1B)(a) where assets are transferred to a transferee within section 140E then a company which has ceased to exist will not be treated as having left a group. In terms of the example group 1 would be the G group.
+
+Section 179(1C) ensures that where section 179(1B) is in point then the potential for a degrouping charge can still arise dependent on future events. Section 179(1C)(a) provides that the company which ceases to exist and the transferee company are to be treated as the same entity. The transferee company being the company to which the assets are transferred and included in those assets there are assets which would have given rise to the degrouping charge at the time of the merger.
+
+Section 179(1C)(b) provides that if the transferee is a member of a group, group 2 - a company that was a member of group 1 and as a consequence of the merger becomes a member of group 2 - then group 1 and group 2 are to be treated as the same group. That rule applies irrespective of the fact that the transferee is the principal company of the group 2.
+
+In terms of the example what this means is that company M and company Y are treated as the same entity. If company Y is a member of a group then that will be group 2. If say two years after the merger company Y left group 2 then a degrouping charge would arise on company Y for the asset that was originally transferred to company M from company G. Although company Y is not a UK resident company the assets transferred to it must remain within the charge to UK tax under section 10B, see CG42100+, otherwise section 140E could never have applied to the merger. Consequently the degrouping charge can be collected by way of section 10B.
+
+Section 179(1D) provides that references to transferor and transferee within section 179(1B) and (1C) have the same meaning as those within section 140E(9).

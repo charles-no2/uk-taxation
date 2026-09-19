@@ -1,0 +1,77 @@
+Capital Gains Tax: basic concepts
+Identifier: CG10240
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10240
+Published: 2016-03-12T09:55:55+00:00
+Updated: 2019-06-13T14:54:25+01:00
+Retrieved (UTC): 2026-09-18T14:30:13.543850+00:00
+
+Assets (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10240#IDAFS1QD)
+Disposal of assets (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10240#IDABR1QD)
+Persons chargeable (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10240#IDABT1QD)
+Computation of a capital gain (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10240#IDAVV1QD)
+Indexation allowance (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10240#IDA3V1QD)
+Rebasing - assets held at 31 March 1982 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10240#IDA5S1QD)
+
+Capital Gains Tax and Corporation Tax on companies' chargeable gains were imposed by FA65 on gains realised on the disposal of assets after 6 April 1965 which were not otherwise charged to tax. The provisions relating to the taxation of chargeable gains are consolidated in the Taxation of Chargeable Gains Act 1992 (TCGA92).
+
+This page provides an introduction to some basic concepts in capital gains applicable to all taxpayers and provides references to detailed guidance. Certain concepts apply only to companies and these are covered at CG10247. Certain concepts do not apply to companies and these are covered at CG10248.
+
+Assets
+
+A chargeable gain may arise on the disposal of an asset. Assets include all forms of property wherever they are situated, so the general rule is that all property is potentially an asset for capital gains purposes.
+
+For guidance on chargeable assets for capital gains purposes see CG11700c.
+
+Disposal of assets
+
+TCGA92/S1*
+
+Capital Gains Tax is charged on disposals of assets. A disposal is an occasion when a person sells an asset or gives it away. Tax may also be charged if the legislation specifically provides for a transaction to be treated as though it were a disposal. Capital Gains Tax is not charged on disposals of liabilities.
+
+Note that in the TCGA92 and in this volume a gain is said to 'accrue' when it is realised or is deemed to be realised: 'accruing' does not mean a gradual build up over a period.
+
+For guidance on disposals and other occasions of charge see CG12700c.
+
+TCGA92/S8*
+
+Companies are not charged to Capital Gains Tax. A company's chargeable gains less allowable losses are included in its total profits for an accounting period and charged to Corporation Tax.
+
+Persons chargeable
+
+The chargeable gain is normally charged on the person who made the disposal of the asset.
+
+For guidance on persons chargeable, including guidance on exceptions to the general rule, see CG10700c.
+
+Computation of a capital gain
+
+In very broad terms a ‘capital gain' is the amount by which the disposal value of a chargeable asset exceeds its acquisition value. In the simple case, when you sell an asset you are taxed on what you get, after expenses, less
+
+- what you paid when you bought it, less
+
+- the cost of any permanent improvements.
+
+You have a `capital loss' when the sale proceeds are less than your expenditure. The calculation may also be affected by rebasing or by indexation allowance (for companies).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10240#Top)
+
+Indexation allowance
+
+TCGA92/S53
+
+Indexation allowance was introduced by FA82 following a period of high inflation. The allowance gave relief for the effects of inflation (from March 1982) in computing gains.
+
+If a taxpayer is within the charge to Capital Gains Tax, neither indexation allowance nor taper relief (CG17895+) apply to disposals of assets on or after 6 April 2008. Previously indexation allowance had been frozen at April 1998. Indexation relief for companies within the charge to Corporation Tax frozen from 1 January 2018.
+
+For guidance on indexation see CG17200c.
+
+Rebasing - assets held at 31 March 1982
+
+TCGA92/S35
+
+Capital Gains Tax was ‘rebased’ to 31 March 1982 in FA88. Rebasing is achieved by deeming any asset held at 31 March 1982 to have been sold and immediately reacquired at its market value on that date. The effect is that tax is normally charged only on gains which are attributable to the period since then.
+
+Companies may still make a rebasing election CG16760. Rebasing has been mandatory for all other persons since 2008.
+
+For guidance on rebasing see CG16700+.
+
+* These sections were re-written for disposals from 6 April 2019 see CG10150.

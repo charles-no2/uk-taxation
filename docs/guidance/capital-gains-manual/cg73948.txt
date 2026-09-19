@@ -1,0 +1,78 @@
+NRCG and the exemptions: Disposals from 6 April 2019: Indirect disposals: Impact of Double Tax Agreements
+Identifier: CG73948
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73948
+Published: 2020-02-05T15:10:33+00:00
+Updated: 2020-02-10T14:44:29+00:00
+Retrieved (UTC): 2026-09-18T14:46:52.457649+00:00
+
+TIOPA10/s2
+
+Domestic charging rules are subject to provision made by Double Taxation Agreements (DTAs) that the UK has entered into (see INTM150000 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm150000)). The UK has a substantial network of DTAs, most of which are based on the OECD Model Tax Convention (the OECD Model).
+
+Where the UK does not have a DTA with a given territory, or where the DTA does not cover capital gains, then the UK domestic law applies unchanged. In other cases, it is necessary to consider whether the provisions of the relevant DTA allocate taxing rights to the UK. It is the residence of the person making the disposal that determines the allocation of taxing rights, not the residence of the company (or companies) being disposed of.
+
+The OECD Model and immovable property
+
+For most gains the OECD Model gives the taxing rights for gains to the state of residence of the disponer. For disposals of “immovable property”, which is left to be defined in local law, the primary taxing right for gains goes to the source state (i.e. the state where property is situated). This means that as a general principle a gain on a direct disposal of an interest in UK land by a non-UK resident will be chargeable to tax in the UK.
+
+The OECD Model also contains a ‘securitised land provision’, which gives the source state (again, the state where the immovable property is situated) the primary right to tax gains on indirect disposals. In the 2017 OECD Model this is formulated as:
+
+- Disposals of shares or similar interests in companies, partnerships and trusts,
+
+- Where more than 50% of the value is derived, directly or indirectly, from immovable property in the source state.
+
+Not all UK DTAs contain a provision comparable to the ‘securitised land provision’ in the OECD Model, and those that do will frequently be on different terms due to changes in the OECD Model and the preferences of both the UK and our treaty partners.
+
+Variations on the OECD Model in UK DTAs
+
+The following differences will need to be noted:
+
+- The provision only covers disposals of shares (and not “comparable interests”)
+
+- The provision only covers “direct” indirect disposals (so the company being disposed of must, itself, be UK property rich; rather than being property rich because of the assets of its subsidiaries)
+
+- The provision does not apply where the shares are regularly traded on a stock exchange.
+
+In some DTAs, the asset value of the immovable property must be 75% or more. The UK property richness test CG73934 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73934) requires 75% or more, so is within these parameters.
+
+These other differences are explained more below.
+
+Disposals of shares but not comparable interests
+
+The 2017 OECD Model refers to “shares or comparable interests” and gives as examples interests in a partnership or trust.
+
+In the case of a partnership, UK domestic law treats the disposal of partnership interests as a disposal of the underlying assets of the partnership. So there is no need for the provisions of a given DTA to cover a disposal of partnership interests. If the partnership ‘owns’ an interest in the shares of a UK property rich company, the partners are for capital gains purposes (and in terms of the application of the DTA) directly holding an interest in those shares (see paragraph 32.4 of the Commentary to the 2017 OECD Model). The analysis may be different where a non-UK “partnership” is in fact an opaque entity (and it does not itself have shares).
+
+Only direct interests in UK land
+
+In some of the UK DTAs the securitised land provision only applies where the asset (i.e. the shares) being disposed of directly derives more than 50% of its value from UK land. This formulation means that the DTA only allocates taxing rights to the UK on the basis of the assets that are held by the company whose shares are being disposed of – not any assets held by subsidiaries of that company.
+
+See Diagram (http://www.hmrc.gov.uk/gds/cg/attachments/CG73948.pdf)
+
+In each of the three scenarios above, a non-UK resident is disposing of their interest in Company A. The disposal also includes the 100% direct subsidiary of company A, Company B. In all cases the disponer has a substantial indirect interest in Company A. The disponer is tax resident in a territory with which the UK has a Treaty that only allocates taxing rights to the UK on direct disposals of assets deriving more than 50% of their value from UK immovable property.
+
+Figure 1
+
+In this scenario, Company A has no assets, and Company B has only UK land. The disposal meets the UK domestic law test for UK property richness (see CG73934 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73934)), because the asset being disposed of is 100% UK land (and so 75% or more of its gross asset value is UK land).
+
+The DTA, however, only grants taxing rights to the UK where the immediate disposal is of an asset that derives more than 50% of its value from UK immovable property. The immediate disposal is of an asset with no UK land assets, so the DTA provision allocates the sole right to tax to the state of residence of the disponer.
+
+Figure 2
+
+In this scenario, Company A has £75m of UK land and £25m of other (non UK land) assets; Company B has £20m of non UK land assets. A, taken alone, meets both the UK domestic test for property richness and the DTA condition.
+
+Although the DTA allocates taxing rights to the UK on the direct disposal of Company A alone, the domestic provisions will still consider that Company B is part of the disposal and include the assets of B in the calculation for UK property richness. Including a consideration of Company B, only 63.5% of Company A’s gross assets are UK land, so the disposal is not chargeable under the domestic provisions.
+
+Figure 3
+
+In this scenario, Company A has £60m of UK land and £30m of other (non UK land) assets; Company B has £60m of UK land. A, taken alone, does not meet the UK domestic test for property richness, but as the proportion of UK immovable property is greater than 50% it does meet the DTA condition.
+
+As for Figure 2, the DTA does allocate taxing rights to the UK. The domestic provisions will consider the assets of Company B within Company A, and when taken together the disposal is of an asset where 75% or more of the gross assets are UK land. This disposal would be chargeable in the UK.
+
+The DTA has not restricted the application of domestic law, having allocated taxing rights to the UK. Similarly, the DTA will not restrict the domestic law test to only considering the non UK land assets of Company B. The first consideration is whether the DTA condition is satisfied (is the gross asset value of the asset being disposed of, taken alone, more than 50% UK land), and if this is satisfied then the domestic law test applies without restriction.
+
+Regularly traded shares
+
+Some Treaties have a formulation that does not allocate taxing rights to the state where the land is situated where the disposal is of shares in which there is regular trading on a stock exchange.
+
+This exclusion applies only to the shares in the company that is itself traded on a stock exchange. A disposal of shares in a subsidiary of that company would be within the UK’s right to tax, as the subsidiary’s shares are not traded.

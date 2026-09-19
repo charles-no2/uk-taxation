@@ -1,0 +1,64 @@
+Leases: grant of lease out of short lease: sub-lease at higher rent
+Identifier: CG71007
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71007
+Published: 2016-03-12T12:15:05+00:00
+Updated: 2026-07-30T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:48:11.717317+00:00
+
+TCGA92/Sch 8/Para 4 (2) (b)
+
+When a sub-lease is granted out of an existing lease, the rent payable under the sub-lease may be higher than the rent payable under the original lease. In such circumstances, the premium chargeable for the sub-lease will usually be lower than it would have been if the rental terms of the sub-lease had been the same as those of the original lease.
+
+Where this is the case, and both the sub-lease and the original lease are short leases, the amount of the expenditure allowable under TCGA92/S38 (1)(a) and (b) is reduced.
+
+Initially, the expenditure is calculated in the manner set out in CG71001 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71001). This amount is then multiplied by the fraction:
+
+Actual premium / Notional full premium
+
+The 'notional full premium' is the premium which would have been received if the rent payable under the sub-lease had been the same as the rent payable under the original lease.
+
+If the rent payable under the sub-lease is less than the rent payable under the original lease, there is no corresponding increase in the allowable expenditure on the grant of the sub-lease.
+
+If you meet a case in which the rent charged under the sub-lease is greater than the rent payable under the original lease, you should obtain, by way of a memo setting out the full facts, the Valuation Office's opinion of the 'notional full premium'.
+
+Example
+
+Mrs V paid a premium of £200,000 to acquire a 30 year lease over a property. Five years later she granted a sub-lease for 10 years over the whole property. The rent payable under the original lease was £8,000 per year; the rent payable under the sub-lease was £10,000 per year.
+
+Mrs V received a premium of £120,000. The Valuation Office stated that the notional full premium would be £150,000.
+
+Step 1: Allowable expenditure if sub-lease rental payments were the same or less than lease rental payments
+
+As per CG71001 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71001):
+
+Expenditure x [ (C - D) / P(1) ]
+
+If the sub-lease had required the same rental payments as the original lease, Mrs V's allowable expenditure on the grant of the sub-lease would have been:
+
+P (1) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the beginning of the period of ownership;
+
+C is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the remaining term of the lease when the sub-lease was granted;
+
+D is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the remaining term of the lease when the sub-lease expires.
+
+The percentages which are required from the table in TCGA92/Sch 8/Para 1, see CG71141 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71141), are:
+
+P (1) - Percentage for 30 years: 87.330
+
+C - Percentage for 25 years: 81.100
+
+D - Percentage for 15 years: 61.617
+
+Expenditure x [ (C - D) / P(1) ]
+
+£200,000 x [ (81.100 - 61.617) / 87.330 ]
+
+= £44,620
+
+Step 2: Allowable expenditure as sub-lease rental payments are more than lease rental payments
+
+Allowable expenditure x (Actual premium / Notional full premium)
+
+=£44,620 x (£120,000 / £150,000)
+
+=£35,696

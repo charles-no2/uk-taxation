@@ -1,0 +1,76 @@
+Assessing: calculation principles: the tax calculation (death cases)
+Identifier: IHTM31015
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31015
+Published: 2016-04-09T10:02:09+01:00
+Updated: 2018-07-06T15:23:05+01:00
+Retrieved (UTC): 2026-09-18T15:05:41.368459+00:00
+
+To calculate the tax on a death estate you should follow these steps:
+
+Calculate the available nil-rate band
+
+Find the amount of the Inheritance Tax (IHT) nil-rate band that applies at the date of death. Add to this any nil-rate band (IHTM43001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43001)) that was unused on the earlier death of a spouse or civil partner. The total will be the amount of nil-rate band that is available to use.
+
+Apply the available nil-rate band to any lifetime transfers first
+
+Work out the value of any chargeable lifetime transfers (IHTM14502 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14502)) that need to be taken into account on the death. The available nil-rate band should be used against these first. Whatever is left after deducting the value of the lifetime transfers will be used against the death estate. If the value of the lifetime transfers is more than the available nil-rate band:
+
+- there will be no nil rate band left to apply against the death estate, and
+
+- tax will be due, at 40%, on the value of the lifetime transfers, less the nil-rate band.
+
+We will raise a separate calculation for any tax due on the lifetime transfers.
+
+Find the chargeable value of the estate at the date of death
+
+Work out the value of:
+
+- the assets,
+
+- less the liabilities,
+
+- less any exemptions,
+
+- less any agricultural, business or woodlands relief,
+
+for each part of the death estate (or entry, see IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)), to find the chargeable value.
+
+Add the chargeable value at each entry together to calculate the total value of the death estate.
+
+Calculate the available residence nil-rate band
+
+For deaths on or after 6 April 2017 residence nil-rate band (RNRB) (IHTM46001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46001)) may be available if the qualifying conditions are met. It may also be possible to add any RNRB unused on the earlier death of a spouse or civil partner (IHTM46040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm46040)). The RNRB can only be applied against the IHT due in respect of the death estate.
+
+Apply the available nil-rate band/RNRB to the death estate
+
+The amount of any nil-rate band that has not been used against lifetime transfers, plus RNRB, will be used against the death estate. Tax will be due on the amount left after deducting the nil-rate band and RNRB, at either 40% or 36% (IHTM45001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45001)).
+
+Apportioning the nil-rate band/RNRB
+
+If the death estate is made up of more than one entry (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)) you will need to apportion the available nil-rate band and RNRB between the entries, before you can work out the tax. You do this by dividing the available nil-rate band and any RNRB by the total value of the death estate. Multiply the result of this sum by the value of each entry. This will give you the amount of nil-rate band and RNRB that can be applied at that entry. Tax will be due (at 40% or 36%) on the value at each entry after deducting the apportioned nil-rate band and RNRB. There are examples showing how to do this at IHTM31030 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31030) without RNRB and at IHTM31035 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31035) with RNRB.
+
+Deduct any quick succession relief
+
+If any quick succession relief (IHTM22041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22041)) is due, apportion this between the entries and deduct it from the tax due.
+
+Apportioning the tax
+
+If some of the tax at an entry is being paid by instalments and some is not there will be more than one calculation at that entry. You will need to apportion the tax between these calculations. To do this:
+
+- divide the tax due at the entry by the total value of the death estate, and
+
+- multiply the result by the chargeable value of the property at each calculation
+
+This will give you the amount of tax due at each calculation.
+
+Reliefs against tax and tax previously paid
+
+On each separate calculation, deduct:
+
+- Any reliefs against tax, such as double taxation relief
+
+- Any tax previously paid
+
+Examples
+
+You can find some examples of how the calculation works in different situations at IHTM31030 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31030) onwards.

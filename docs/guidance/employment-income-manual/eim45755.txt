@@ -1,0 +1,108 @@
+Employment income provided through third parties: amount of Part 7A income: consideration given for relevant step: A transfers an asset
+Identifier: EIM45755
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45755
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T13:19:14+01:00
+Retrieved (UTC): 2026-09-18T14:23:29.855663+00:00
+
+Sections 554Z8 and 554Z17(3) ITEPA 2003
+
+A transfers an asset as consideration for a relevant step: conditions (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45755#IDA0WDFC)
+‘At or about’ (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45755#IDALYDFC)
+Connected with tax avoidance arrangement (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45755#IDATYDFC)
+A transfers an asset as consideration for a relevant step: adjustment (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45755#IDAVZDFC)
+Example: sale of employee shares to EBT (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45755#IDAY2DFC)
+
+Section 554Z8 adjusts the value of certain relevant steps if consideration is given for the value of the relevant step in specified circumstances.
+
+If the statutory conditions are met, Section 554Z8 will stop Part 7A income arising if (for example) an EBT buys back shares at or below market value from employees.
+
+In Section 554Z8, ‘A’ includes any person linked with A, see EIM45860 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45860).
+
+Section 554Z8 does not apply to steps within Section 554Z18 or 554Z19.
+
+On Sections 554Z18 and 554Z19 (undertakings given by employers etc in relation to retirement benefits etc: earmarking etc and provision of security), see EIM45150 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45150) and EIM45155 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45155) respectively.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45755#Top)
+
+A transfers an asset as consideration for a relevant step: conditions
+
+If A transfers an asset as consideration for a relevant step, five conditions must be met if Section 554Z8 is to adjust the value of the relevant step. These conditions are bulleted below.
+
+- The relevant step is a step within Section 554C(1)(a) to (c) (payment of sum; transfer of asset; employment-related securities etc), see EIM45060 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45060).
+
+- The relevant step is for consideration given by A in the form of the transfer of an asset to P (in Section 554C) from A.
+
+- A transfers the asset before (or at or about) the time the relevant step is taken.
+
+- A does not transfer the asset by way of loan.
+
+- There is no connection (direct or indirect) between A’s transfer of the asset and a tax avoidance arrangement, see EIM45855 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45855).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45755#Top)
+
+‘At or about’
+
+Whether transactions take place ‘at or about’ the same time is a question of fact. In practice, ‘at or about’ normally means a few days either side of the date of the relevant step. The leeway allowed could be up to a week; depending on the particular circumstances, it could be longer.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45755#Top)
+
+Connected with tax avoidance arrangement
+
+A’s transfer of the asset will be connected with a tax avoidance arrangement if (in particular):
+
+- before the transfer, another person transferred the asset to A by way of loan, or
+
+- the asset is (or carries with it) any rights or interests under:
+
+- the arrangement which has come through the Section 554A gateway, or
+
+- any arrangement which is connected (directly or indirectly) with that arrangement.
+
+In other cases, you should consider whether A’s transfer of the asset is connected with a tax avoidance arrangement in the context of the specific facts.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45755#Top)
+
+A transfers an asset as consideration for a relevant step: adjustment
+
+If the five conditions set out above are met, you adjust Part 7A income in one of two ways.
+
+If Section 554Z4 has not applied, you reduce the value of the relevant step by the market value of the asset as at the time when A transferred it.
+
+If the value of the relevant step was reduced under Section 554Z4 (see EIM45720 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45720)), you reduce the value of the relevant step by
+
+MV x (Z3V — Z4V) / Z3V
+
+where
+
+- ‘MV’ is the market value of the asset as at the time when A transferred it,
+
+- ‘Z3V’ is the value of the relevant step as determined under Section 554Z3, see EIM45710 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45710), and
+
+- ‘Z4V’ is the amount of the reduction under Section 554Z4 (residence issues), see EIM45720 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45720).
+
+You make this reduction after any reductions under:
+
+- Section 554Z4,
+
+- Section 554Z5 (overlap with earlier relevant step), see EIM45725 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45725), or
+
+- Section 554Z6 (overlap with certain earnings), see EIM45735 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735).
+
+It cannot reduce the value of the relevant step below nil.
+
+You apply the capital gains tax rules to calculate market value.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45755#Top)
+
+Example: sale of employee shares to EBT
+
+Employer B plc uses an EBT to administer its employee share plans. As the EBT holds shares in order to meet future share awards, it is convenient for the trust to purchase shares from employees who wish to sell them, for example on leaving the employment of B plc.
+
+Employee A holds 1,000 ordinary £1 shares in B plc. On 1 September 2011 the market value of each share is £5.50, so the value of A’s holding is £5,500.
+
+A transfers the shares to the EBT on 1 September 2011 in return for cash consideration paid on the same day of £5,500. This payment of £5,500 to A is a relevant step.
+
+The five conditions set out above are met.
+
+Accordingly, if the purchase of the shares by the EBT comes through the Section 554A gateway (see EIM45025 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45025)) and is not covered by any exclusion, Section 554Z8 reduces the value of the relevant step to nil.

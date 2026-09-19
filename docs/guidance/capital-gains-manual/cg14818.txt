@@ -1,0 +1,16 @@
+Contingent liabilities: warranties/representations: share exchanges
+Identifier: CG14818
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14818
+Published: 2016-03-12T10:07:55+00:00
+Updated: 2019-06-25T12:34:59+01:00
+Retrieved (UTC): 2026-09-18T14:37:40.534576+00:00
+
+There are particular difficulties with TCAG92/S49 (2) if the asset sold is shares and the consideration received is an issue of shares and/or debentures which are not Qualifying Corporate Bonds. If the relevant conditions are satisfied TCGA92/S135 or TCGA92/S136 will apply. The transactions will be treated as a share reorganisation and not a disposal. The new shares and debentures are acquired at the same cost as the old shares. For detailed guidance see CG52500+. This gives two problems with Section 49
+
+- Section 49 requires there to be a disposal
+
+- there is no mechanism for reducing the value of the consideration received.
+
+ESC/D52 tackles these problems by allowing the vendor to claim that the amount of the warranty payment be treated as consideration given for the new shares or debentures. The claim is restricted to the amount that would be allowable under TCGA92/S49 (1)(c) if the consideration had been paid in cash. This means in certain cases it may be necessary to value the new shares to check the warranty payment is not greater than the value of the consideration received. If it is you must restrict the allowable expenditure to the value of the new shares to avoid producing negative amounts, see CG14807. The values shown in the share sale agreement will indicate whether you need to check for this restriction. The warranty payment will attract indexation allowance from the date it is made.
+
+In 2014 a taxpayer pays £200,000 for 200,000 shares in a private company. In 2018 the company is taken over. The consideration paid is £800,000 satisfied by an issue of shares in the acquiring company. TCGA92/S135 applies. Later the taxpayer has to pay £300,000 to the purchaser under a warranty. The taxpayer can make a claim for the £300,000 to be added to the £200,000 base cost of the shares. If the warranty payment was greater than £800,000 the additional cost would be restricted to £800,000.

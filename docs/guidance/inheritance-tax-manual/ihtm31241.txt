@@ -1,0 +1,52 @@
+Assessing: COMPASS: settlement cases: creating a record
+Identifier: IHTM31241
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31241
+Published: 2016-04-09T10:03:58+01:00
+Updated: 2016-02-11T17:18:54+00:00
+Retrieved (UTC): 2026-09-18T15:06:02.384693+00:00
+
+This instruction relates to Discretionary Trust charges. There are separate instructions for immediately chargeable transfers (IHTM31235 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31235)).
+
+Firstly you must make sure there is a settlement reference you can use to create the COMPASS record.
+
+Use the Data Entry (IHTM31102 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31102)) program to create the new settlement case on COMPASS.
+
+In the Data Entry window select ‘Register & Enter Estate Details’ from the File menu. This will bring up the Case Details window.
+
+In this window enter:
+
+- the ALF reference for the settlement file,
+
+- the stats type as ‘Stats case’ (from the dropdown menu),
+
+- the case type as ‘Settlement’ (from the dropdown menu),
+
+- the personal details of the settlor.
+
+- In the Surname & DoS box, the date of the settlement after the surname, for example, Pettigrew 12/9/2000. This will appear at the top of your printed calculations.
+
+- The date of the settlement. It is this date that COMPASS uses to calculate the dates of Ten Year Anniversary (TYA) charges.
+
+In the historic value boxes, enter:
+
+- the historic value of property in related settlements,
+
+- the historic value of non-relevant property in this settlement,
+
+If you are not aware of the values, leave them blank to amend later.
+
+Select the ‘Next Screen’ button. At the next window (Case Details (cont)) change the Marital Status and Domicile if necessary, and choose ‘Continue’.
+
+The Entry Window will display details for Entry B, which is for the historic value of the settlement. It will be shown as a TYA on the date the settlement was created.
+
+- In the Account box, type 0 (zero). The reason is that (this being the historic value) there will be no account (IHTM10601) for it.
+
+- Enter details of an agent or liable person, then select the Tax Summary button.
+
+- Confirm that you wish to save the estate details and whether the case should be a VIP case.
+
+- Select your name from the list as the case will be allocated to you.
+
+Leave the Data Entry program by selecting ‘Exit’ from the File menu.
+
+You can then amend the case details through the case working program.

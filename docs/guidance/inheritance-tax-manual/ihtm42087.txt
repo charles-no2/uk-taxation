@@ -1,0 +1,180 @@
+Ten year anniversary: Tax calculation: the rate of tax: step 3: calculating the initial rate of tax
+Identifier: IHTM42087
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42087
+Published: 2016-04-09T10:23:50+01:00
+Updated: 2022-03-28T10:58:17+01:00
+Retrieved (UTC): 2026-09-18T15:09:26.789142+00:00
+
+Follow the process set out in the table below. When calculating percentages round up to 3 decimal places, e.g. 3.756%.
+
+Rate of tax |  Notes |    |
+
+Value of Notional Transfer (Step 1) |  A |  If A is less than B then rate is nil |
+
+Less Nil Rate Band available (Step 2) |  B |  If B is nil the rate is 6% |
+
+Difference |  C = A – B |    |
+
+Multiply by 20% (Notional IHT) |  D = C x 20% |    |
+
+Divide by A (Effective Rate) |  E = D / A (%) |  Cannot exceed 20% |
+
+Multiply by 3/10 (Actual Rate) |  F = E x 3/10 (%) |  Cannot exceed 6% |
+
+Example 1:
+
+- Tony created a trust in 2010 and gifted £300,000 to the trustees.
+
+- In the seven years before that gift he made chargeable lifetime transfers totalling £50,000.
+
+- The trustees made no appointments of capital in the first 10 years. The nil rate band available is £325,000 less £50,000 = £275,000.
+
+The net value of the trust capital at the anniversary in 2020 is £450,000 so the rate of Inheritance Tax (IHT) is calculated as follows.
+
+Value of notional transfer |  A |  £450,000 |
+
+Less Nil Rate Band available |  B |  £275,000 |
+
+Difference |  C = A - B |  £175,000 |
+
+Multiply by 20% |  D = C x 20% |  £35,000 |
+
+Divide |  E = D/A (%) |  7.777% |
+
+Multiply by 3/10 |  F = E x 3/10(%) |  2.333% |
+
+The IHT payable is the amount subject to tax multiplied by 2.333%. Here, the notional transfer is the same as the value subject to tax so the IHT is £450,000 x 2.333% = £10,498.50.
+
+If any of the property has not been in the relevant property trust for the full ten years, allow relief for the number of quarters (40ths) that the property was not relevant property (IHTM42088 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42088)).
+
+Example 2: When Ten-Year Anniversary (TYA) before 18 Nov 2015
+
+- George created a trust on 1st January 1996.
+
+- Initial value of relevant property £400,000.
+
+- Ten year anniversary on 1st January 2006. Value of relevant property now £1,000,000.
+
+- Capital payments to members of the appointed class in 1998 and 1999 total £167,000. A related settlement exists. Historic value £250,000.
+
+- Part of the settled fund has been interest in possession from the beginning and remains so. Value of £100,000 (not relevant property)
+
+- At the date of settlement, George’s personal cumulative total of chargeable transfers was £32,000.
+
+The TYA tax charge on £1,000,000 current relevant property is calculated as follows:
+
+Step 1: Notional lifetime transfer
+
+|  £ |  Notes |
+
+|  Notional lifetime transfer before 18 Nov 2015, so ignore C and D |    |
+
+A: Relevant property |  1,100,000 |  Net assets after reliefs |
+
+B: Related (Relelevant property) |  250,000 |    |
+
+C: Same Day Additions (SDA) |  N/A |    |
+
+D: Initial value in SDA trust |  N/A |    |
+
+Total |  1,350,000 |    |
+
+Anniversary is prior to 18 November 2015, so
+
+- add to A above an amount equal to the historic value of the non-relevant property in the trust (if any). Such property may be subject to qualifying interest in possession trusts or special trust or be excluded property
+
+- adjust B above (if applicable) to include non-relevant (related) property
+
+- ignore C and D above.
+
+Step 2: Nil rate band available
+
+The available nil rate band is £275,000 less £32,000 (the value of George’s personal cumulative total of chargeable transfers), less £167,000 (capital payments made out of the trust) = £76,000.
+
+Step 3: Rate of tax
+
+Value of notional transfer |  A |  £1,350,000 |
+
+Less nil rate band available |  B |  £76,000 |
+
+Difference |  C = A - B |  £1,274,000 |
+
+Multiply by 20% |  D = C x 20% |  £274,800 |
+
+Divide |  E = D/A% |  18.874% |
+
+Multiply by 3/10 |  F = E x 3/10 |  5.662% |
+
+The rate of tax is 5.662%
+
+Tax at the TYA is £1,000,000 at 5.662% = £56,620
+
+IHT on a straight £1,000,000 relevant property with none of the above factors would be £43,500. (£1,000,00 - threshold x 6%)
+
+The previous cumulative transfers are below the IHT threshold at 1st January 2006, so no tax is directly attributable to them and no deduction needs to be made.
+
+For TYAs on and after 18 November 2015
+
+The calculation is the same as above, but now any non-relevant property is excluded from the value of the chargeable rate, and the value of any Same Day Additions (SDAs) arising after 10 December 2014 are brought into account.
+
+Example 3: TYA charge on trust D
+
+- Joseph created pilot trusts (A and B), settling £10 in each on 1 January 2007 and 2 January 2007.
+
+- Joseph created a further trust (C), on 3 January 2009. Initial value of relevant property was £150,000. He also added a further £75,000 to each of the earlier trusts on the same day.
+
+- Joseph created a further trust (D), on 3 January 2009, settling £250,000.
+
+- At the ten year anniversary on 3 January 2019, the value of relevant property in trust D was £350,000.
+
+- Capital payments to members of the appointed class in 2011 total £50,000.
+
+- Part of the settled fund (D) has been a qualifying interest in possession from the beginning and remains so. Value of £100,000 (not relevant property).
+
+- At the date of settlement, Joseph’s personal cumulative total of chargeable transfers was £20 (annual exemptions have been used previously).
+
+Given the facts above:
+
+- The transfer of £75,000 to each of trusts A and B, on 3 January 2009 are not SDAs, and are not included in the assumed chargeable total, because SDAs can only arise for transfers of value after 10 December 2014.
+
+- Trusts C and D are related, and part of the hypothetical transfer.
+
+- Non-relevant property of £100,000 in trust D is no longer part of the calculation for the TYA charge (as this event occurs after 18 November 2015)
+
+The tax on £350,000 current relevant property is calculated as follows:
+
+Step 1: Notional lifetime transfer
+
+Notional lifetime transfer on or after 18 November 2015 |  £ |  Notes |
+
+A: Relevant Property |  350,000 |  Net assets after relief |
+
+B: Related (relevant) property |  150,000 |    |
+
+C: Same Day Additions (SDA) |  0 |    |
+
+D: Initial value in SDA trust |  0 |    |
+
+Total |  500,000 |    |
+
+Step 2: Nil rate band available
+
+The available nil rate band is £325,000 less £20 (the value of George’s personal cumulative total of chargeable transfers), less £50,000 (Capital payments made out of the trust) = £274,980.
+
+Step 3: Rate of tax
+
+Value of notional transfer |  A |  £500,000 |
+
+Less nil rate band available |  B |  £274,980 |
+
+Difference |  C = A - B |  £225,020 |
+
+Multiply by 20% |  D = C x 20% |  £45,004 |
+
+Divide |  E = D/A% |  9.000% |
+
+Multiply by 3/10 |  F = E x 3/10 |  2.700% |
+
+Tax at ten year anniversary (TYA) on £350,000 at 2.700% = £9,450.
+
+The previous cumulative transfers are below the IHT threshold at 1 Jan 2019, so no tax is directly attributable to them and no deduction needs to be made.

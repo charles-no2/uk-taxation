@@ -1,0 +1,56 @@
+Short leases: disposal: relief given under ITTOIA05/S61 or CTA09/S63
+Identifier: CG71200
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71200
+Published: 2016-03-12T12:15:46+00:00
+Updated: 2020-10-05T08:11:29+01:00
+Retrieved (UTC): 2026-09-18T14:48:14.741090+00:00
+
+ITTOIA05/S61 & CTA09/S63
+
+If a premium is paid for the acquisition of a short lease, and the person acquiring the lease then uses the property for the purposes of his or her trade, profession or vocation, relief under ITTOIA05/S61 or CTA09/S63 may be available, see BIM46250 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46250) onwards.
+
+On a subsequent disposal of the lease, the allowable expenditure is reduced by the amount of the relief actually given to that person under ITTOIA05/S61 or CTA09/S63. This reduction is made before the reduction required by TCGA92/Sch 8/Para 1 (4).
+
+How this rule works in practice is illustrated by the following example.
+
+Example
+
+Mr W acquired a 31 year lease of a property on 31 January 2014. He paid a premium of £20,000. On 31 January 2020, he disposed of the lease for £25,000. Between January 2014 and January 2020, he used the property for the purposes of his trade of motor mechanic. He was given relief under ITTOIA05/S61 of £1,550.
+
+Mr W’s gain on the disposal of the lease is calculated as follows:
+
+Allowable expenditure
+
+Cost of lease |  £20,000 |
+
+Less relief given under ITTOIA05/S61 |  £1,550 |
+
+|  £18,450 |
+
+Amount excluded under TCGA92/Sch 8/Para 1 (4):
+
+[ ( P(1) - P(3) ) / P(1) ] x expenditure otherwise allowable under S38(1)(a)
+
+P (1) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the beginning of the period of ownership;
+
+P (3) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the date of disposal.
+
+= [ (88.371-81.100) / 88.371 ] x £18,450
+
+= £1,518
+
+Total allowable expenditure:
+
+Allowable expenditure |  £18,450 |
+
+Less Amount excluded under Sch 8 Para 1 (4) |  £1,518 |
+
+|  £16,932 |
+
+Chargeable gain
+
+Disposal proceeds |  £25,000 |
+
+Less allowable expenditure |  £16,932 |
+
+|  £8,068 |

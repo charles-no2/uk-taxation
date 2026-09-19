@@ -1,0 +1,40 @@
+Assessing: COMPASS: making amendments: reliefs and exemptions
+Identifier: IHTM31135
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31135
+Published: 2016-04-09T10:03:03+01:00
+Updated: 2016-02-11T17:15:42+00:00
+Retrieved (UTC): 2026-09-18T15:05:51.588647+00:00
+
+Select the ‘Relief ‘ button from the ‘Estate Details’ (IHTM31131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31131)) to open the Reliefs window.
+
+For COMPASS purposes, reliefs includes exemptions. You can apply a relief against either:
+
+- an assessment group, or
+
+- an individual asset.
+
+Adding a relief or exemption
+
+You can create a new relief or exemption and attach it to a group or asset by selecting from the two dropdown menus.
+
+- select the ‘Add’ button and then select the appropriate type of relief from the list of options.
+
+- Enter the correct amount of relief in the left box and press =.
+
+- You should always include the relief as an absolute amount and do not use the proportion option. Leave it at 100%.
+
+- Record whether the additional relief or exemption should be recorded on ERS (IHTM29012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm29012)).
+
+- select ‘OK’ to save your changes and exit the screen.
+
+Amending an existing relief or exemption
+
+Select the appropriate relief or exemption from the list on the ‘Reliefs’ window and then select the ‘Update’ button.
+
+Either:
+
+- enter the amendment in the left-hand box and select + or - to adjust the existing figure, or
+
+- enter the new figure in the left-hand box and select = to replace the existing amount.
+
+Remember to update ERS, if necessary.

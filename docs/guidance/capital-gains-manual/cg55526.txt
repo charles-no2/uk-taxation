@@ -1,0 +1,10 @@
+Traded options: LIFFE: purchaser of option: exercise of option
+Identifier: CG55526
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55526
+Published: 2016-03-12T11:37:39+00:00
+Updated: 2016-01-26T09:49:57+00:00
+Retrieved (UTC): 2026-09-18T14:33:27.449120+00:00
+
+If the purchaser does want to exercise their option, LIFFE allocates the contract on a random basis to persons who have written options. The writer (grantor) of the option receives an assignment notice. If they have written a call option over shares they will have to sell the shares at a fixed price. If they have written a put option they will have to buy the shares at a fixed price.
+
+The purchaser of an index option will usually take a profit or stop a loss by making a closing sale, see CG55525. But an index option is more likely to be exercised than an equity option. There may be a small difference between the market price in index points and the value at which the option can be exercised. For example, an American style April 5300 call option which is close to the expiry date may have a market price of 9 index points when the index stands at 5310. The holder would receive more by exercising the option than making a closing sale.

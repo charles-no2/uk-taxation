@@ -1,0 +1,32 @@
+IHT400 - Working out the Inheritance Tax and the simple calculation (page 11)
+Identifier: IHTM10041
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm10041
+Published: 2016-03-20T09:26:49+00:00
+Updated: 2017-12-18T16:21:48+00:00
+Retrieved (UTC): 2026-09-18T14:54:52.960744+00:00
+
+If there is no tax due on the estate the taxpayer or their agents do not have to answer the questions on page 11.
+
+The answers given to questions 109 and 110 are designed to establish whether a personal applicant wants us to work out the tax for them and whether the taxpayer or their agent can use the Simple Inheritance Tax calculation at boxes 111 to 117, lower down the page. If any of the tax is to be paid by instalments they cannot use the simple calculation and will have to use form IHT400 calculation to work out the Tax, instead.
+
+Where the taxpayers are not using an agent and want us to calculate the chargeable estate, we will do this for them.
+
+The simple Inheritance Tax calculation can only be used in cases where
+
+- There is no interest due
+
+- The total of all lifetime gifts made is below the IHT nil rate band
+
+- There are no deductions for double taxation relief or successive charges relief.
+
+- None of the tax is being paid by instalments
+
+If the simple calculation cannot be used because it does not meet the criteria and the tax is to be calculated by the taxpayer or their agent they will need to complete form IHT400 Calculation.
+
+Where the simple calculation is used you will need to
+
+- check that the tax due has been paid by comparing the figure in box 117 with the figure shown on the receipt for tax paid.
+
+- check the COMPASS record to ensure that it matches pages 6 and 7 of the IHT400. If it does register the payment on COMPASS (IHTM31101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31101)). If not, check that the arithmetic on pages 6 and 7 is correct. If tax has been underpaid you will need to raise a new calculation (IHTM31181 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31181)) to collect any additional tax due, using any payments received as deposits (IHTM31751 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31751)). If there had been an overpayment, match (IHTM31866 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31866)) the correct amounts using form CAS 15 and use the balance against the next instalment due or consider repaying (IHTM31601 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31601)) if no instalments are due for several months.
+
+- make a note to check any reliefs claimed in this section.

@@ -1,0 +1,16 @@
+ETMD: consequential amendments within TCGA 1992: - section 170
+Identifier: CG45740
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45740
+Published: 2016-03-12T11:09:16+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:41:19.522404+00:00
+
+As explained at CG45707 a SE can be formed in a number of ways, including transformation of an existing company. In the UK only a public limited company (a ‘plc’) can become an SE so the plc would cease to be known as a plc and would be known as a SE and governed by European Council Regulation (EC) 2157/2001.
+
+An SE can also be formed as a result of a merger of existing PLCs which were not SEs. For a UK plc this would happen where, as part of a process of merger, that company was merged with another company or companies to form a SE.
+
+For chargeable gains purposes, a group of companies remains the same group as long as the same company remains its principal company, and if the principal company of one group becomes a member of another group then both groups are treated as the same. This is at TCGA 1992 section 170(10), and CG45190 provides a fuller explanation.
+
+However what happens if the principal company of a group becomes a SE, or becomes a subsidiary of a SE, or merges with another company to form a SE? In order to remove any doubt on continuity of group membership section 170(10A) was introduced by F(No 2)A 2005. The new subsection applies where the principal company of a group is now a SE by reason of being an acquiring company, ie. it acquires a subsidiary that was a plc or by transformation, ie. where the plc transforms into a SE. The group that is now headed by the SE is to be treated as the same group as that in which either the plc previously headed prior to becoming a subsidiary or which it still heads but in the form of a SE.
+
+For example company H, a UK plc holding company is to merge with two other companies and the conditions with section 140E are met. As part of the process of the merger company H will cease to be a plc and become a SE. Before the merger company X was a member of the group headed by H plc. After the merger company X is a member of the group headed by company H SE. The two groups are treated as being the same so if company X joined the group headed by H plc on 1 January 2000 then that will be the date it is treated as joining the group headed by H SE. However, that will be subject to other parts of the TCGA 1992 such as Sch 7A paragraph 1(6), see CG47569.

@@ -1,0 +1,32 @@
+Returns: individuals returns: processing the information
+Identifier: SAM121515
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam121515
+Published: 2016-04-08T17:21:17+01:00
+Updated: 2016-02-23T14:56:22+00:00
+Retrieved (UTC): 2026-09-18T16:20:34.841856+00:00
+
+Where several years returns are received for the same UTR, the returns should be captured in chronological order (earliest year first, ending with the most recent year). This action will make sure that the charges are shown on the statement in the correct order.
+
+Following full capture of the return information and completion of the Coding (Integrity) Check, where appropriate, the information is passed from LDC to the main computer. The following processes are then carried out automatically
+
+- The taxpayer’s return profile is updated with details of the supplementary pages the taxpayer has returned
+
+- The date of receipt of the return is recorded as the date of capture where the return was not previously logged
+
+- Work items are created where necessary
+
+- A paper report will be produced if the main computer rejects the return following further checks
+
+- Payments on account will be calculated, except where the return information has been captured but the computer has been unable to compute the liability.
+
+In these circumstances payments on account will be calculated following use of the CREATE RETURN CHARGE function
+
+- Issue a Tax Calculation where requested or in Self Calculation cases, where a repair(s) has been made, together with an Agents copy if a form 64-8 is held
+
+- Issue an acknowledgement of receipt of the return to an agent representing a Self calculating taxpayer, where the return was processed without the need for repair
+
+- Record the updated liability and any balancing payments on the taxpayer’s record
+
+- Make any repayment, where claimed, unless inhibited. Note: Repayments arising from a return which are less than ten pounds are not made automatically but are carried forward on the Statement of Account and set against future debts
+
+- Set certain Mandatory review signals

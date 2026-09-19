@@ -1,0 +1,20 @@
+ETMD: transparent entities: division of business or transfer of assets: - the effect of Section 140I
+Identifier: CG45726
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45726
+Published: 2016-03-12T11:08:51+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:41:14.368206+00:00
+
+Where the transferor is a transparent entity the effect of TCGA 1992 section 140I is that neither section 140A nor section 140DA apply; section 140I(2)(a). This means that the chargeable assets which are transferred do not have the benefit of the no gain no loss treatment within section 140A(4) and that any interest holder in the transferor does not have the benefit of the fictional no disposal rule within section 127 as provided by section 140DA. Therefore any UK taxable person who has an interest in the transferor is chargeable to UK tax on the disposal of their interest in the chargeable assets transferred.
+
+Where the transferee is a transparent entity the effect of section 140I is that section 140DA only does not apply; section 140I(2)(b). In such situations, because the transferor is opaque, a UK taxable person who was a shareholder or debenture holder in the transferor company would not be chargeable in respect of any gain at the asset tier. However by disapplying section 140DA section 136 cannot apply and so there will be a chargeable occasion at the shareholder or debenture holder tier for the shareholder or debenture holder in the transferor company on a disposal or part of disposal of an interest in his their shares in the transferor.
+
+By making the assumptions within section 140I(1), see CG45725 and determining whether all of the other conditions within section 140A are met, see CG45702- CG45705 and section 140I, see below, chargeable persons who incur a liability to tax as a result of the application of section 140I may be able to set notional double taxation relief against tax due on the gain that accrued to them from the transfer.
+
+The other conditions within section 140I mentioned above are
+
+- If the transfer would have resulted in a ‘transfer gain’ being taxed in a member state other than the UK had that other state not implemented the ETMD, then relief will be due under the UK’s double taxation provisions in an amount equal to that person’s share of the notional tax on the transfer gain; section 140I(3).
+
+- Section 140I(4) defines a ‘transfer gain’ within section 140I(3) as a gain accruing to a transparent entity or treated as such if it were not transparent on the transfer of assets by the transparent entity to the transferee.
+
+- In calculating any gain for the purposes of section 140I then, so far as permitted under the law of the relevant state, losses arising on the transfer are set against gains arising on the transfer and any relief available to company A under that law is assumed to have been claimed; section 140I(5). CG45724 provides an example on notional tax in the context of share exchanges and similar principles will apply in cases involving the transfer of assets.

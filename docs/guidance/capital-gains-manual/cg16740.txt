@@ -1,0 +1,193 @@
+Rebasing to 31/3/82: examples
+Identifier: CG16740
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16740
+Published: 2016-03-12T10:15:37+00:00
+Updated: 2023-04-11T11:11:48+01:00
+Retrieved (UTC): 2026-09-18T14:38:15.529881+00:00
+
+Example 1 - rebasing gives greater gain (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16740#IDAZE1OB)
+Example 2 - rebasing gives greater loss (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16740#IDA120OB)
+Example 3 - rebasing creates a loss (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16740#IDAOZTOB)
+Example 4 - no gain or loss (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16740#IDAZDVOB)
+Example 5 - disposal following no gain/no loss transfer (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16740#IDA5JVOB)
+Example 6 - gain rolled over before 31 March 1982 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16740#IDAPKVOB)
+
+Example 1 - rebasing gives greater gain
+
+A company acquired an asset costing £8,000 on 1 March 1980. 31 March 1982 market value £7,000. Asset sold (at arm’s length) for £26,000 on 6 March 2013.
+
+REBASED GAIN
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  26,000 |
+
+less |  Cost (value at 31 March 1982) |  - |  7,000 |
+
+- |  Unindexed gain |  - |  19,000 |
+
+Less |  Indexation |  8,000 x 2.131 |  17,048 |
+
+- |  Gain |  - |  1,952 |
+
+GAIN ON OLD RULES
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  26,000 |
+
+less |  Cost (1 March 1980) |  - |  8,000 |
+
+- |  Unindexed gain |  - |  18,000 |
+
+Less |  Indexation |  8,000 x 2.131 |  17,048 |
+
+- |  Gain |  - |  952 |
+
+Note: Indexation is based on the higher of relevant allowable expenditure before 31 March 1982 and 31 March 1982 value, see CG16732.
+
+Chargeable gain = 952
+
+Example 2 - rebasing gives greater loss
+
+A company acquired an asset costing £14,000 on 6 April 1964. 31 March 1982 market value £20,000. Asset sold (at arm’s length) for £10,000 on 6 March 2013.
+
+REBASED LOSS
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  10,000 |
+
+less |  Cost (value at 31 March 1982) |  - |  20,000 |
+
+- |  Unindexed loss |  - |  (10,000) |
+
+Less |  Indexation |  20,000 x 2.131 |  42,620 |
+
+- |  Loss |  - |  (52,620) |
+
+LOSS ON OLD RULES (no rebasing election made)
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  10,000 |
+
+less |  Cost (6 April 1964) |  - |  14,000 |
+
+- |  Unindexed loss |  - |  (4,000) |
+
+Less |  Indexation |  20,000 x 2.131 |  42,620 |
+
+- |  Loss |  - |  (46,620) |
+
+- |  Time apportionment |  £46,620 x 57 11/12 / 58 11/12= |  (45,828) |
+
+Note: The loss to be compared with the rebased loss is the loss after time-apportionment. See also the note to Example 1 at CG16740 regarding indexation.
+
+Allowable loss = (45,828)
+
+Example 3 - rebasing creates a loss
+
+A company purchased an asset costing £2,000 on 1 May 1967. 31 March 1982 market value £8,000. Asset sold (at arm’s length) for £24,000 on 6 March 2013.
+
+REBASED LOSS
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  24,000 |
+
+less |  Cost (value at 31 March 1982) |  - |  8,000 |
+
+- |  Unindexed gain |  - |  16,000 |
+
+Less |  Indexation |  8,000 x 2.131 |  17,048 |
+
+- |  Loss |  - |  (1,048) |
+
+GAIN ON OLD RULES
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  24,000 |
+
+less |  Cost (on 1 April 1967) |  - |  2,000 |
+
+- |  Unindexed gain |  - |  22,000 |
+
+Less |  Indexation |  8,000 x 2.131 |  17,048 |
+
+- |  Gain |  - |  4,952 |
+
+See the note to Example 1 at CG16740 regarding indexation.
+
+As there is a rebased loss but a gain on the old rules, neither a gain nor a loss is deemed to arise.
+
+Example 4 - no gain or loss
+
+A company purchased an asset costing £2,000 on 1 May 1967. 31 March 1982 market value £8,000. Asset sold (at arm’s length) for £19,048 on 6 March 2013.
+
+GAIN ON OLD RULES
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  19,048 |
+
+less |  Cost (on 1 May 1967) |  - |  2,000 |
+
+- |  Unindexed gain |  - |  17,048 |
+
+Less |  Indexation |  8,000 x 2.131 |  17,048 |
+
+- |  - |  - |  Nil |
+
+As neither a gain nor a loss arises on the old rules, neither a gain nor a loss is deemed to arise following rebasing.
+
+Example 5 - disposal following no gain/no loss transfer
+
+Asset cost £8,000 on 1 March 1980. 31 March 1982 market value £7,000. Asset sold to a company in same group for £16,000 on 6 April 1992.
+
+These are the same dates and amounts as in CG16740. As a disposal between companies in the same group is is deemed to be at no gain/no loss, see CG45200+, then this is a specified no gain/no loss disposal, see CG16880.
+
+The second company is to be treated as acquiring the asset for £13,976 (that is, cost £8,000 plus indexation allowance £5,976) and rebasing will apply on any subsequent disposal of the asset by her.
+
+Example 6 - gain rolled over before 31 March 1982
+
+Asset A was sold in 1980 for £1,000 realising a gain of £500.
+
+A company acquired asset B in 1981 for £2,000 and a CGTA79/S115 (now TCGA92/S152) roll-over relief claim was made reducing its cost for CGT purposes to £1,500.
+
+Asset B was sold in March 2013 for £15,000 The market value of asset B at 31 March 1982 was £3,000.
+
+REBASED GAIN
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  15,000 |
+
+less |  Cost (market value at 31 March 1982) |  - |  3,000 |
+
+- |  Unindexed gain |  - |  12,000 |
+
+Less |  Indexation |  3,000 x 2.131 |  6,393 |
+
+- |  Gain |  - |  5,607 |
+
+Note: No adjustment is made to the 31 March 1982 market value of asset B for the gain on asset A which was rolled over before 31 March 1982 against the acquisition cost of asset B.
+
+GAIN ON OLD RULES
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  15,000 |
+
+less |  Cost 1981 |  2,000 |  - |
+
+- |  Deduct gain on asset A rolled over |  500 |  1,500 |
+
+- |  Unindexed gain |  - |  13,500 |
+
+less |  Indexation |  3,000 x 2.131 |  6,393 |
+
+- |  Gain |  - |  6,657 |
+
+- |  Chargeable gain |  - |  5,607 |

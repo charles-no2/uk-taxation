@@ -1,0 +1,42 @@
+Remittance Basis: Accessing the remittance basis: Exceptions to the claim requirements up to 5 April 2025: Below £2,000 threshold users: Years of arrival and departure - interaction with Extra Statutory Concession (ESC) A11 and SRT split year treatment
+Identifier: RDRM32120
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32120
+Published: 2016-03-09T17:29:52+00:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:27.222167+00:00
+
+From 6 April 2025 it is not possible to use the remittance basis of taxation, however, any foreign income or gains that have arisen to a former remittance basis user prior to this date will continue to be taxed at the usual tax rates if they are remitted to the UK on or after 6 April 2025, subject to any amounts designated under the temporary repatriation facility (TRF) – see RDRM71000 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm71000).
+
+The guidance in this section only applies to tax years up to and including the 2024-25 tax year and remains for reference purposes only.
+
+For years up to 2012-2013 ESC A11 may apply to an individual for the year in which they arrive or leave the UK; it effectively splits the tax year into periods of residence and non-residence and computes liability accordingly. This generally means that foreign income from the period of ‘non-residence’ is not subject to UK tax.
+
+However in considering whether the ‘below £2,000 threshold’ RDRM32110 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32110) limit applies in respect of use of the remittance basis of taxation under ITA07/s809D, the level of un-remitted foreign income and gains for the entire tax year must be taken into account.
+
+For years from 6 April 2013 (2013-2014 tax year), with the introduction of the Statutory Residence Test (SRT), this situation has changed. ESCA11 has been replaced by SRT split year treatment, which is now legislated, rather than being claimed split year is applied.
+
+This means that for the overseas part of a split year the income arising in that part of the year can be ignored for the purposes of working out whether an individual has less than £2,000 unremitted foreign income - the territorial scope exception.
+
+The consequences of these changes are demonstrated in the two examples below.
+
+Example 1
+
+Ferdinand enters the UK on 20 October 2010, and he is resident for the tax year 2010-2011. He claims split-year treatment under ESC A11.
+
+Ferdinand has foreign bank interest (relevant foreign income) for the period 6 April to 19 October 2010 totalling £2,200. He has further bank interest of £1,300 arising between 20 October 2010 and 5 April 2011. He remits £1,000 to the UK in that year.
+
+At the end of the year his total un-remitted foreign income is £2,500; note that even though he has claimed split-year treatment for 2010-2011, he still has to include any foreign income that arose before he entered the UK.
+
+As Ferdinand’s un-remitted foreign income is above the threshold he cannot use the remittance basis under s809D. If he wishes to use the remittance basis he will need to claim under ITA07/s809B, and will lose his personal allowances and the annual exempt amount.
+
+Example 2
+
+Ferdinand enters the UK on 20 October 2013, and he resident for the tax year 2013-2014. Split year treatment is applied, Ferdinand meets the conditions of Case 5 - starting full-time work in the UK.
+
+Ferdinand has foreign bank interest for the period 6 April 2013 to 19 October 2013 totalling £2,200. He has further bank interest of £1,300 arising between 20 October 2013 and 5 April 2014. He remits £1,000 to the UK in that year.
+
+At the end of the year his total unremitted foreign income is £2,500. However, only £1,300 of that arose in the UK part of the split year.
+
+As Ferdinand's unremitted foreign income is below £2,000, he can use the remittance basis under s809D, and so will not lose his personal allowances or annual exempt amount.
+
+Note: Assuming the temporary non-resident rules do not apply RDRM32500 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32500) remittances of foreign income arising in the period before an individual came to the UK, that is the period 6 April 2010-19 October 2010 in the above example will not be taxable. Foreign income arising from a tax year when the individual was not resident in the UK at all during the year is also not taxed when brought into the UK.

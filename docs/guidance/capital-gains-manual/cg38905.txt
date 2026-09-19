@@ -1,0 +1,32 @@
+FA08/Sch7/para126 elections and transfers of non-resident close companies - example
+Identifier: CG38905
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38905
+Published: 2016-03-12T10:58:56+00:00
+Updated: 2016-01-25T16:44:06+00:00
+Retrieved (UTC): 2026-09-18T14:47:44.435556+00:00
+
+All the settled property of the transferor settlement is transferred to the transferee settlement for nil consideration in 2009-10. No capital payments have been made out of the transferor settlement. The transferor settlement made no gains before the transfer.
+
+The transferor settlement’s only assets at the time of transfer are shares in a wholly owned non-UK resident close company which it has owned since 2001. A gain of £100,000 accrues on the transfer. The post 5 April 2008 element of the gain is £15,000 based on the difference between the value of the shares at 6 April 2008 and the value at the time of the transfer.
+
+The company continues to own an asset it acquired in 2002. That asset is sold in 2011-12 and at a gain of £150,000. The post 5 April 2008 element of the gain is £20,000 based on the difference between the value of the asset at 6 April 2008 and the value at the time of its disposal.
+
+The transferee settlement has no unmatched section 2(2) amounts of its own. Its only unmatched section 2(2) amount is the £100,000 for 2009-10 it is treated as receiving on the transfer.
+
+In 2014-15 the transferee settlement makes a capital payment of £250,000 to a UK resident but non-UK domiciled beneficiary.
+
+£150,000 of the capital payment is matched with the £150,000 gain made by the underlying non-UK resident company in 2011-12. A section 87 gain of £150,000 is treated as accruing to the beneficiary in 2014-15.
+
+Under section 87 a further £100,000 of the capital payment is matched with the section 2(2) amount for 2009-10 and a £100,000 chargeable gain is treated as accruing to the beneficiary in 2014-15.
+
+If no valid election has been made by the trustees of the transferor settlement then the full amount of the gains (£150,000 and £100,000 respectively) are chargeable to tax on the beneficiary in 2014-15. This is subject to the remittance basis if the beneficiary is a remittance basis user. The tax due on the gain relating to the 2009-10 section 2(2) amount will be increased by section 91.
+
+If a valid election under paragraph 126 of Schedule 7 has been made by the trustees of both settlements only the post 5 April 2008 element of both of the gains (£20,000 for the 2011-12 section 2(2) amount and £15,000 for the 2009-10 section 2(2) amount) are chargeable to tax on the beneficiary in 2011-12. This is subject to the remittance basis if the beneficiary is a remittance basis user. The time limit for making the election is 31 January 2011 for the transferor settlement and 31 January 2016 for the trustees of the transferee settlement. The tax due on the gain relating to the 2009-10 section 2(2) amount will be increased by section 91.
+
+If a valid election has been made by the trustees of the transferor settlement but not the trustees of the transferee settlement the formula in paragraph 127(4) applies to determine the relevant proportion of the gain on which the beneficiary is taxed. Suppose the facts are the same as the example but there is further section 2(2) amount for 2011-12 when the trustees dispose of an asset they have held since before 6 April 2008. The gain on this asset is £80,000. £80,000 of the capital payment made in 2014-15 is matched against this section 2(2) amount. The total amount matched against the 2011-12 section 2(2) amount is £230,000 leaving only £20,000 to be matched against the 2009-10 section 2(2) amount.
+
+A in the formula in paragraph 127(4) is the transferee settlement’s section 2(2) amount for 2011-12 if all the relevant assets had been sold and reacquired at their value immediately before 6 April 2008. These are the assets in the underlying company. This part of the section 2(2) amount is £20,000 to which you have to add the £80,000.
+
+B in paragraph 127(4) is the full section 2(2) amount of the transferee settlement for 2011-12 of £230,000 (£150,000 + £80,000).
+
+The UK resident but non-UK domiciled beneficiary is charged on £230,000 × £100,000/£230,000 = £100,000 of the gains matched to the 2011-12 section 2(2) amount. The gain on the payments matched against the section 2(2) amount on the transfer in 2009-10 is covered by the paragraph 126 election made the trustees of the transferor settlement. The amount of that gain charged to Capital Gains Tax on the UK resident but non-UK domiciled beneficiary is limited to £3000 (£20,000 × 15,000/100,000). The total gains chargeable in 2014-15 are £103,000. This is subject to the remittance basis if the beneficiary is a remittance basis user. The tax due on the gain relating to the 2009-10 section 2(2) amount will be increased by section 91.

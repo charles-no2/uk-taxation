@@ -1,0 +1,54 @@
+Calculating the transferable nil rate band: survivor was married to or in civil partnership with someone who was entitled to TNRB from an earlier death, where no claim was made on the earlier death 
+Identifier: IHTM43035
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43035
+Published: 2016-04-09T10:28:54+01:00
+Updated: 2017-10-25T16:11:17+01:00
+Retrieved (UTC): 2026-09-18T15:09:59.055823+00:00
+
+A claim to transfer unused nil rate band may not be appropriate in all cases when the surviving spouse or civil partner dies, for example, where their estate qualifies as an excepted estate (IHTM43064 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43064)). However, if the survivor had remarried, the lack of a claim on their death may reduce the amount of unused nil rate band available for transfer when their second spouse or civil partner dies.
+
+This is catered for by IHTA84/S8B(2) which allows the personal representatives making a claim on the last death to include a claim on an earlier death, provided it will not affect the tax payable on that death. It follows that it must have been possible for a claim on be made on the earlier death – so the earlier death must have been on or after 9 October 2007.
+
+Example
+
+Roger died in July 2010. He had been predeceased by Jane who died in January 2008. She in turn had been predeceased by her first husband, Stephen, in 1997.
+
+On Stephen’s death, he left his whole estate to Jane so that 100% of the nil rate band was unused. On Jane’s death she left her whole estate, valued at £270,000, on discretionary trusts for the children of her first marriage. As the estate was below the nil rate band, there was no need to make a claim to transfer the unused nil rate band from the first death.
+
+On Roger’s death in July 2010, the amount of unused nil rate band available to transfer from Jane’s death is
+
+Unused nil rate band calculation
+
+M = £300,000
+
+VT = £270,000
+
+M* *is greater than VT by £30,000
+
+Transferable nil rate band calculation
+
+E =£30,000
+
+NRBMD = £300,000 so
+
+(30,000 ÷ 300,000) × 100 = 10.0000%
+
+However, if Jane’s personal representatives had made a claim to transfer unused nil rate band from Stephen’s death, the actual nil rate band available on Jane’s death would have been £600,000. So the calculation becomes
+
+Unused nil rate band calculation
+
+M = £600,000
+
+VT = £270,000
+
+M* *is greater than VT by £330,000
+
+Transferable nil rate band calculation
+
+E =£330,000
+
+NRBMD = £300,000 so
+
+(330,000 ÷ 300,000) × 100 = 110.0000%
+
+So the nil rate band available on Roger’s death is capped at 100% of the amount available at that time, giving a nil rate band of £650,000.

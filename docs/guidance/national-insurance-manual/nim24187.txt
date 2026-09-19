@@ -1,0 +1,90 @@
+Class 4 NICs: structure: annual Class 4 NICs maximum from 6 April 2011: contributors who are employed and self-employed: examples: Case 2 of regulation 100(3): profits do not exceed the UPL
+Identifier: NIM24187
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24187
+Published: 2016-04-11T17:41:33+01:00
+Updated: 2019-08-19T11:35:29+01:00
+Retrieved (UTC): 2026-09-18T15:22:13.639475+00:00
+
+Case 2 of Regulation 100, SSCR 2001
+
+NIM24170 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24170) onwards provides guidance on the calculation method used to determine the Class 1, 2 and 4 annual maximum liability for a contributor who is both employed and self-employed during the same tax year. The calculation method shown applies to tax years from 2011/2012 onwards. For guidance on the Class 1, 2 and 4 NICS annual maximum for tax years before 2011/2012 see NIM24120 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24120) onwards.
+
+The following example illustrates the Class 1, 2 and 4 NICs annual maximum calculation for a contributor who falls into Case 2 of regulation 100(3). In this example the contributor's profits do not exceed the Upper Profits Limit and he is not required to pay any Class 4 NICs at the additional Class 4 NICs percentage. However, since the amount of Class 1 and 2 NICs that the contributor has paid does not exceed the Class 2 and main percentage Class 4 NICs maximum, the contributor is required to pay some Class 4 NICs at 9% and some Class 4 NICs at a rate of 2%. This example should be read in conjunction with NIM24175 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24175) and NIM24177 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24177)
+
+The example uses the rates and limits in force during the 2012/2013 tax year.
+
+Example
+
+Mr Rowsell has been self-employed for the whole of the 2012/2013 tax year. His profits for the year are £30,000. He has paid £2,015.55 at the main Class 4 NICs percentage. He has paid 52 Class 2 NICs at £2.65. Mr Rowsell was also employed during the 2012/2013 tax year and has paid £2,500 at the main Class 1 NICs percentage. Mr Rowsell's maximum Class 1, 2 and 4 NICs liability is calculated as follows.
+
+Step 1
+
+Subtract the Lower Profits Limit (LPL) from the Upper Profits Limit (UPL)
+
+£42,475 - £7605 = £34,870
+
+Step 2
+
+Multiply the result of step 1 by 9%
+
+£34,870 x 9% = £3,138.30
+
+Step 3
+
+Add to the result of step 2, 53 times the weekly rate of Class 2 NICs
+
+£3,138.30 + (53 x £2.65) = £3,278.75
+
+Step 4
+
+Subtract from the result of step 3 the aggregate amount of any Class 2 NICs and any primary Class 1 NICs paid at the main primary percentage.
+
+£3,278.75 - £2,637.80 = £640.95
+
+Which Case of regulation 100(3) does Mr Rowsell fall into?
+
+If the result of step 4 is a positive figure but it does not exceed the aggregate of Class 1 NICs payable at the main primary percentage, Class 2 NICs and Class 4 NICs payable at the main Class 4 percentage, the result of step 4 is the maximum amount of Class 4 NICs due at 9%.
+
+On his earnings and profits Mr Rowsell would be liable, and has paid, a total of £4,653.35 in NICs. That is £2,500 in Class 1 NICs, plus £137.80 in Class 2 NICs plus £2,015.55 in Class 4 NICs. The figure produced by step 4 (£640.95) is a positive figure but it does not exceed £4,653.35. Mr Rowsell therefore falls into Case 2 of regulation 100(3). Case 2 provides that the figure of Class 4 produced at step 4 is the maximum amount of Class 4 NICs payable at 9%. It is then necessary to go to step 5 to 9 of regulation 100(3).
+
+Step 5
+
+Multiply the result of step 4 by 100/9
+
+640.95 x 100/9 = £7,121.67
+
+Step 6
+
+Subtract the Lower Profits Limit from the lesser of the Upper Profits Limit and the actual amount of profits for the year.
+
+£30,000 - £7605 = £22,395
+
+Step 7
+
+Subtract the result of step 5 from the result of step 6.
+
+£22,395 - £7,121.67 = £15,273.33
+
+Step 8
+
+Multiply the result of step 7 by 2%
+
+£15,273.33 x 2% = £305.47
+
+Step 9
+
+Multiply by 2% the amount of profits in excess of the Upper Profits Limit
+
+Nil x 2% - there are no profits above the UPL.
+
+Step 10
+
+Add together steps 4, 8 and 9
+
+£640.95 + £305.47 + nil = £946.42
+
+Mr Rowsell's annual Class 4 liability amounts to £946.42. He is due to pay a combination of Class 4 NICs at 9% and 2%. As he has no profits above the UPL he is not liable for Class 4 NICs at the additional percentage. As he has paid less in Class 1, 2 and 4 NICs than the Class 2 and main percentage 4 maximum he is due to pay 2% on some of the profits that fall between the LPL and UPL. As a total of £2,015.55 in Class 4 NICs has been paid Mr Rowsell is due a Class 4 refund.
+
+From 6 April 2024
+
+There is no Class 2 element of the annual maximum calculation.

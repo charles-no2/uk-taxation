@@ -1,0 +1,20 @@
+IBA: other rules about buildings: proportion of non-qualifying use disregarded
+Identifier: CA32700
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca32700
+Published: 2016-04-16T08:57:00+01:00
+Updated: 2021-09-16T12:54:39+01:00
+Retrieved (UTC): 2026-09-18T16:21:16.203788+00:00
+
+Budget 2007 announced a business tax reform package including the gradual withdrawal of IBAs and ABAs over four years. Legislation was introduced in FA08 to give effect to those changes. The phased withdrawal of IBA writing down allowances had effect for chargeable periods ending on or after 1 April 2008 for businesses within the charge to CT and 6 April 2008 for businesses within the charge to IT. There are no IBA writing down allowances for the financial year beginning on 1 April 2011 and subsequent years.CAA01/S283
+
+Some parts of a building may be in qualifying use while others are not. For example, a factory building may contain offices. The offices are not in qualifying use but the rest of the building is.
+
+If part of a building is in qualifying use and part is not the whole building qualifies for IBA if the qualifying expenditure relating to the part that is not in qualifying use is less than 25% of the total qualifying expenditure on the building. This applies even if the non qualifying use is excepted use, CA32310 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca32310). Where the qualifying expenditure was incurred before 16 March 1983 the percentage disregard is 10%. Where premises consist of a collection of buildings apply the test to each building individually. Do not apply the test to the premises as a whole.
+
+There may be non-qualifying additions to a building that was constructed before 16 March 1983 and is caught by the 10% rule. Those additions will qualify for IBA provided that they do not make the non-qualifying expenditure more than 25% of the whole. The expenditure caught by the 10% rule does not qualify unless there are qualifying additions to the building which make the total non qualifying expenditure less than 10% of the total.
+
+Example Dave builds a factory for £1 million in 1980. It contains offices. The cost of constructing the offices was £120,000, which is more than 10% of the total construction costs. The expenditure qualifying for IBA is therefore £880,000 (= £1 million - £120,000).
+
+Dave extends the offices in 1990 at a cost of £80,000. The total construction costs become £1,080,000 and the cost of the offices is now £200,000. The cost of the offices is less than 25% of the total expenditure and so the £80,000 incurred in 1990 qualifies for IBA. The £120,000 incurred in 1980 still does not qualify for IBA because the cost of the offices is more than 10% of the total construction cost of £1,080,000.
+
+If instead Dave extends the factory at a cost of £250,000 the whole building qualifies for IBA because the total construction costs are £1,250,000 and the cost of constructing the offices, £120,000, is less than 10% of that.

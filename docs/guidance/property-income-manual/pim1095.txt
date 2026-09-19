@@ -1,0 +1,168 @@
+Cash basis for landlords: capital expenditure
+Identifier: PIM1095
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1095
+Published: 2018-03-19T11:38:30+00:00
+Updated: 2025-07-24T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:27:45.606640+00:00
+
+Introduction
+
+Under the cash basis, deductions are allowed for capital expenditure, with extensive exceptions. The legal basis is s307B of the Income Tax (Trading and Other Income) Act 2005 (ITTOIA05).
+
+No deduction is allowed for expenditure of a capital nature on non-depreciating assets. A depreciating asset has an expected life of 20 years or less or will decline in value by 90% or more in that time. See s307B (10) to (12).
+
+No deduction is allowed for expenditure on:
+
+- Assets that are not acquired or created for use on a continuing basis in the property business (s307B(10));
+
+- cars (s307B(10));
+
+- a non-qualifying intangible asset (s307B(10)) – see below;
+
+- financial assets (s307B(10)) – see below;
+
+- acquisition or disposal of a businesses or part of a business ((s307B(2));
+
+- education and training (s307B(3)).
+
+No deductions are allowed for capital expenditure on assets used in ordinary residential properties (s307B(6)) – instead, replacement of domestic items relief is available (see PIM3210 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim3210)). An ordinary residential property (s307B (8) and (9)) is a residential property which does not qualify as a furnished holiday letting. There are detailed rules for deductions in relation to other land and buildings – see the next section.
+
+Land and buildings
+
+While subsection (4) of s307B contains a general block on deducting capital expenditure on land and buildings, subsection (5) provides extensive exceptions for expenditure on depreciating assets installed in or fixed to ‘qualifying land’. Qualifying land is defined as any land or buildings which is not an ordinary residential building. See the previous section for definitions of ‘depreciating asset’ and ‘ordinary residential building’.
+
+Subsection (5) allows a deduction for expenditure on depreciating assets installed in or fixed to qualifying land, except for or in connection with the provision of:
+
+- Buildings
+
+- Walls, floors, ceilings, doors, gates, shutters, windows or stairs
+
+- Waste disposal systems
+
+- Sewerage or drainage systems
+
+- Shafts for lifts, hoists, escalators or moving walkways
+
+If a property is used as both an ordinary residential property and for a qualifying purpose the amount can be apportioned on a just and reasonable basis (s307B(7)).
+
+A deduction is not available for a lease premium because it cannot be a depreciating asset installed or fixed to land.
+
+Further definitions
+
+Non-qualifying intangible assets. Intangible assets are defined by FRS 105, but specifically include intellectual property. They are ‘non-qualifying’ if they are:
+
+- Intangible assets which are not due to expire within 20 years of the date of the expenditure, or where there is a right to renew or replace it so that it could exist for more than those 20 years.
+
+- Licences or other rights in respect of intangible assets which the taxpayer already holds.
+
+Financial assets. These are any rights under or in connection with a financial instrument or similar arrangement.
+
+Capital Allowances
+
+As capital expenditure can generally be relieved in full as a deduction when calculating the profits of a property business under cash basis, capital allowances are not available in respect of capital expenditure. This includes the Annual Investment Allowance and First Year Allowances.
+
+However, capital expenditure on cars may not be deducted under the cash basis. Instead, capital allowances continue to be available for cars.
+
+Mileage rates
+
+An unincorporated landlord using either the cash basis or GAAP accounting may use mileage rates to account for business travel, which includes relief for the capital cost of a vehicle. Capital allowances cannot also be claimed if mileage rates deductions are claimed (see PIM2220 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim2220)).
+
+Replacement of Domestic Items Relief
+
+As noted above, deductions are not allowable for capital expenditure relating to assets used in an ordinary residential property, i.e. a dwelling-house not used as a furnished holiday letting.
+
+Instead, replacement of domestic items relief is available when calculating the profits of a residential property business under the cash basis as it is under GAAP (PIM3210 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim3210)).
+
+The furnished holiday lettings rules cease to apply in tax years commencing on or after 6 April 2025 for Income Tax and for Capital Gains Tax, and 1 April 2025 for Corporation Tax and for Corporation Tax on chargeable gains.
+
+Disposal proceeds for assets on which a deduction has been given
+
+Disposals - introduction
+
+As deductions are allowed for capital expenditure on some types of assets under the cash basis s307E ITTOIA05 requires that the proceeds of a disposal of those assets is brought into account as a receipt of the property business (see subsection (12)).
+
+The disposal proceeds caught by the provisions must be treated as a receipt in calculating the profits of the property business in the year of the disposal. Any receipts should be proportionately reduced if only part of the expenditure was or would have been brought into account in calculating the profits of the trade under the cash basis.
+
+There are two cases in which disposal proceeds are treated as receipts.
+
+Case 1: Disposal Proceeds received during a Cash Basis Year (s307E(2) to (4))
+
+Case 1 applies where disposal proceeds or a capital refund are received for an asset in a year in which the profits are calculated using the cash basis, and a deduction has previously been given for an amount of capital expenditure in relation to that asset. The deduction must have been made either:
+
+-
+
+Under cash basis rules where the expenditure was made during a year when the profits were calculated under cash basis; or
+
+-
+
+Under GAAP and the expenditure was an incidental cost of obtaining finance, qualified for replacement of domestic items relief or qualified for a capital allowance.
+
+Example 1
+
+Mr C enters the cash basis for the 2017-18 tax year. At the end of his final period in which profits are calculated under GAAP, he has unrelieved capital expenditure in a capital allowances pool, containing equipment he uses to maintain his property business. Transitional adjustments (PIM1096 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1096)) are made to account for this, as capital allowances will no longer be available under the cash basis.
+
+During the 2018-19 tax year, Mr C sells the equipment for £760. He must include the £760 as a receipt when calculating his 2018-19 profits.
+
+Case 2: Disposal Proceeds received after leaving the Cash Basis (s307(5) to (8))
+
+Case 2 applies where disposal proceeds or a capital refund are received for an asset in a year in which the profits are calculated under GAAP and an amount of capital expenditure has previously been deducted, which was either:
+
+- Deducted in a tax year when the cash basis was used, and (had the cash basis not been used) it would not have been qualifying expenditure for capital allowances purposes: or
+
+- An incidental cost of finance or expense qualifying for replacement of domestic items relief, in a period in which the GAAP basis was used which occurred  before a period in which the cash basis was used.
+
+Example 2
+
+Miss L replaces the white goods in a residential property she lets out during the 2016-17 tax year. She claims the expenditure of £650 as a deduction using replacement of domestic items relief.
+
+In the 2017-18 tax year, she enters the cash basis. However, she decides to make an election to leave the cash basis in 2018-19. During that year, she decides to let out the residential property unfurnished, so she sells the white goods for £250.
+
+As she used the cash basis for a period between buying and selling the asset, and claimed a deduction under replacement of domestic items relief, she must include £250 as a receipt in calculating the profits of her 2018-19 tax year.
+
+Disposal Proceeds
+
+Under s307(9), ‘disposal proceeds’ means the proceeds from:
+
+-
+
+Whole or part-disposal
+
+-
+
+Granting of rights
+
+-
+
+Damages
+
+-
+
+Insurance Proceeds
+
+-
+
+Compensation
+
+-
+
+Refunds
+
+Deemed Disposals
+
+Under s307F ITTOIA05 some events are treated as a deemed disposal for the purposes of s307E (see above). Any proceeds arising from those events will be treated as a receipt of the property business if the circumstances of the deemed disposal meet Case 1 or Case 2 of s307E.
+
+A deemed disposal arises in the following circumstances:
+
+-
+
+If an asset ceases to be used for the purposes of the property business, the market value of the asset at the time of disposal is treated as deemed disposal proceeds (s307F(2)).
+
+-
+
+If the non-business use of an asset increases, that proportion of the market value at the time of the change is treated as deemed disposal proceeds (s307F(3)).
+
+-
+
+If a person who is a UK resident carrying on an overseas property business received a deduction for an asset used that business, and that person then moves overseas, the market value of that asset is treated as deemed disposal proceeds (s307F(5)).
+
+Where deemed disposal receipts are brought into account under the cash basis the receipt is excluded from the consideration on disposal of an asset for Capital Gains Tax purposes.

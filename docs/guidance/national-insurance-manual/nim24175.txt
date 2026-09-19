@@ -1,0 +1,154 @@
+Class 4 NICs: structure: annual Class 4 NICs maximum from 6 April 2003: contributors who are employed and self-employed: calculation method
+Identifier: NIM24175
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim24175
+Published: 2016-04-11T17:41:11+01:00
+Updated: 2022-11-09T13:39:56+00:00
+Retrieved (UTC): 2026-09-18T15:20:54.143128+00:00
+
+Regulation 100 of the Social Security Contributions Regulations (SSCR) 2001 (SI 2001 No.1004)
+
+To determine the maximum amount of Class 4 NICs payable for a year by a contributor, who has paid Class 1, or Class 1 and Class 2 NICs in the same year, the following calculation are used.
+
+From 6 April 2003 to 5 April 2011.
+
+Step 1
+
+Subtract the Lower Profits Limit from the Upper Profits Limit for that year
+
+Step 2
+
+Multiply the result of step 1 by 8%
+
+Step 3
+
+Add to the result of step 2, 53 Class 2 NICs at the rate in force for the year
+
+Step 4
+
+Subtract from the result of step 3 the total amount of any Class 2 NICs and any Class 1 NICs at the main primary percentage that the contributor has paid.
+
+The next steps are determined by reference to the following three cases.
+
+Case 1
+
+If the result of step 4 is a positive value and exceeds the aggregate of:
+
+- primary Class 1 NICs payable at the main percentage
+
+- Class 2 NICs and
+
+- Class 4 NICs payable at the main Class 4 NICs percentage
+
+that the contributor would have paid if no maximum existed, the result of this step is the maximum amount of Class 4 NICs that the contributor is liable to pay. There is no need to proceed to any further steps.
+
+Case 2
+
+If the result of step 4 is a positive value but does not exceed the aggregate of:
+
+- primary Class 1 NICs payable at the main percentage
+
+- Class 2 NICs and
+
+- Class 4 NICs payable at the main Class 4 percentage
+
+that the contributor would have paid if no maximum existed, the result of this step is the maximum amount of Class 4 NICs that the contributor is liable to pay at 8%. The calculation then continues at step 5.
+
+Case 3
+
+If the result of this step is a negative value, the maximum amount of Class 4 NICs payable at the main Class 4 NICs percentage is nil and the result of this step is treated as nil. The calculation then continues at step 5.
+
+Step 5
+
+Multiply the result of step 4 by 100/8
+
+Step 6
+
+Subtract the Lower Profits Limit from the lesser of the Upper Profits Limit and the contributor’s actual amount of profits for the year
+
+Step 7
+
+Subtract the result of step 5 from the result of step 6. If the result of this is a negative value it is treated as nil
+
+Step 8
+
+Multiply the result of step 7 by 1%
+
+Step 9
+
+Multiply the amount by which the profits and gains for the year exceed the Upper Profits Limit by 1%.
+
+Where Case 1 applies, the maximum amount of Class 4 NICs payable is the figure shown at step 4
+
+Where Case 2 or Case 3 applies, the maximum amount of Class 4 NICs payable is the aggregate of steps 4, 8 and 9.
+
+From 6 April 2011
+
+Step 1
+
+Subtract the Lower Profits Limit from the Upper Profits Limit for that year
+
+Step 2
+
+Multiply the result of step 1 by 9% (9.73% for the 2022 to 2023 tax year)
+
+Step 3
+
+Add to the result of step 2, 53 Class 2 NICs at the rate in force for the year
+
+Step 4
+
+Subtract from the result of step 3 the total amount of any Class 2 NICs and any Class 1 NICs at the main primary percentage that the contributor has paid.
+
+The next steps are determined by reference to the following three cases.
+
+Case 1
+
+If the result of step 4 is a positive value and exceeds the aggregate of:
+
+- primary Class 1 NICs payable at the main percentage
+
+- Class 2 NICs and
+
+- Class 4 NICs payable at the main Class 4 NICs percentage
+
+that the contributor would have paid if no maximum existed, the result of this step is the maximum amount of Class 4 NICs that the contributor is liable to pay. There is no need to proceed to any further steps.
+
+Case 2
+
+If the result of step 4 is a positive value but does not exceed the aggregate of:
+
+- primary Class 1 NICs payable at the main percentage
+
+- Class 2 NICs and
+
+- Class 4 NICs payable at the main Class 4 percentage
+
+that the contributor would have paid if no maximum existed, the result of this step is the maximum amount of Class 4 NICs that the contributor is liable to pay at 9% (9.73% for the 2022 to 2023 tax year). The calculation then continues at step 5.
+
+Case 3
+
+If the result of this step is a negative value, the maximum amount of Class 4 NICs payable at the main Class 4 NICs percentage is nil and the result of this step is treated as nil. The calculation then continues at step 5.
+
+Step 5
+
+Multiply the result of step 4 by 100/9 (use 100/9.73 for the 2022 to 2023 tax year)
+
+Step 6
+
+Subtract the Lower Profits Limit from the lesser of the Upper Profits Limit and the contributor’s actual amount of profits for the year
+
+Step 7
+
+Subtract the result of step 5 from the result of step 6. If the result of this is a negative value it is treated as nil
+
+Step 8
+
+Multiply the result of step 7 by 2% (2.73% for the 2022 to 2023 tax year)
+
+Step 9
+
+Multiply the amount by which the profits and gains for the year exceed the Upper Profits Limit by 2% (2.73% for the 2022 to 2023 tax year).
+
+Where Case 1 applies, the maximum amount of Class 4 NICs payable is the figure shown at step 4
+
+Where Case 2 or Case 3 applies, the maximum amount of Class 4 NICs payable is the aggregate of steps 4, 8 and 9.

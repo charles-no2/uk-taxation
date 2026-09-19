@@ -1,0 +1,50 @@
+Foreign currency: example
+Identifier: CG78336
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg78336
+Published: 2016-03-12T12:31:36+00:00
+Updated: 2016-01-26T18:10:02+00:00
+Retrieved (UTC): 2026-09-18T14:36:31.432756+00:00
+
+Day 1 |  US$2.40 to £1X borrows US$100,000 |  (=£41,667) |
+
+|    |    |
+
+Day 8 |  US$2.30 to £1X buys shares for US$100,000 |  (=£43,479) |
+
+Day 360 |  US$2.00 to £1X sells shares for US$100,000 |  (=£50,000) |
+
+Day 365 |  US$1.90 to £1 X repays loan US$100,000 |  (=£52,631) |
+
+The chargeable gain on the disposal of shares is computed as follows -
+
+|  £  |
+
+|    |
+
+Day 360 Disposal proceeds (in sterling terms) |  50,000 |
+
+Day 8 Acquisition cost (in sterling terms) |  43,479 |
+
+Chargeable gain subject to indexation  |  6,521  |
+
+The chargeable gains in respect of foreign currency are computed as follows -
+
+|    |    |    |  £ |
+
+|    |    |    |    |
+
+(i) |  Day 8 |  Disposal proceeds (in sterling terms) |    |  43,479 |
+
+|  Day 1 |  Acquisition cost (in sterling terms) |    |  41,667 |
+
+|    |    |  Chargeable gain |  1,812  |
+
+(ii) |  Day 365 |  Disposal proceeds (in sterling terms) |    |  52,631 |
+
+|  Day 360 |  Acquisition cost (in sterling terms) |    |  50,000 |
+
+|    |    |  Chargeable gain |  2,631 |
+
+No relief is due for the `loss’ in sterling terms on repaying the loan (repaid £52,631 - borrowed £41,667 = `loss’ £10,964).
+
+NOTE. If a taxpayer is within the charge to Capital Gains Tax, neither indexation allowance nor taper relief apply to disposals of assets on or after 6 April 2008. Previously indexation allowance had been frozen at April 1998. For indexation allowance see CG17207+ and for taper relief see CG17895+.

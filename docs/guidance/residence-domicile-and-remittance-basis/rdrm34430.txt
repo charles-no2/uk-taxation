@@ -1,0 +1,94 @@
+Remittance Basis: Exemptions: Business investment relief: Potentially chargeable events - 5 year and 2-year start-up rule
+Identifier: RDRM34430
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34430
+Published: 2016-03-09T17:37:13+00:00
+Updated: 2022-03-17T09:50:02+00:00
+Retrieved (UTC): 2026-09-18T16:19:41.196153+00:00
+
+For investments made before 6 April 2017 the 2-year start-up rule required a target company to be operational within two years of making the qualifying investment and to remain operational from then on.
+
+The 2-year start-up rule is breached if:
+
+- the target company was non-operational two years after the day the investment was made , or
+
+- at any time after the end of the two year period, the company becomes non-operational.
+
+For investments made after 6 April 2017, the start-up rule changed from 2 to 5 years. The 5-year start-up rule requires a target company to be operational within five years of making a qualifying investment and to remain operational from then on.
+
+The 5-year start-up rule is breached if:
+
+- the target company was non-operational five years after the day the investment was made
+
+- at any time after the end of the five-year period, the company becomes non-operational.
+
+For the five-year limit to apply the investment must be made on or after 6 April 2017. For investments made prior to this date the two-year start-up rule applies.
+
+If the target company is an eligible trading company [see RDRM34345 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34345)], non-operational means that the company is not actually carrying out a commercial trade.
+
+Example 1a
+
+Gabrielle invests in company A Limited on 10 April 2012 and receives newly issued shares. A Limited continually delays trading so by 11 April 2014 A Limited has never traded. The 2-year start-up rule has been breached. A Limited is non-operational immediately after the end of the two year period (s809VH(5)).
+
+If instead
+
+Example 1b
+
+Gabrielle invests in company A Limited on 10 April 2017 and receives newly issued shares. A Limited continually delays trading so by 11 April 2022 A Limited has never traded. The 5-year start-up rule has been breached. A Limited is non-operational immediately after the end of the five-year period.
+
+Example 2
+
+Einar invests in company B Limited on 10 April 2012 and receives newly issued shares. B Limited needs to carry out research and development (R&D) prior to trading commencing (s809VE(4)). R&D takes place from 10 April 2012 to 31 January 2014; trading commences on 1 February 2014. The 2-year start-up rule has been met and Elinar’s investment meets this criterion for business investment relief.
+
+Example 3
+
+Dalton invests in company C Limited on 10 April 2012 and receives newly issued shares. C Limited needs to carry out R&D prior to actual trading commencing. R&D is initially forecast to take place from 10 April 2012 to 31 March 2013, however, due to a breakthrough in research and subsequent change in C Limited’s target market, R&D is extended to 31 July 2014. C Limited actually commences trading on 1 August 2014. As the extended R&D has benefited the commercial trade of C Limited it is treated as carrying on a commercial trade (s809VE(4) ITA 2007) and the 2-year start-up rule has not been breached.
+
+Example 4
+
+Astrid invests in company D Limited on 10 April 2017 and receives newly issued shares. D Limited intends to trade but needs to carry out R&D first. By 11 April 2022 D Limited has neither commenced trading nor started R&D. The 5-year start-up rule has been breached as preparing to carry on R&D activities (s809VE(5) ITA 2007) is not a commercial trade for the purposes of s809VD.
+
+If the target company is an eligible stakeholder company [see RDRM34350 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34350)], non-operational means that the company:
+
+- holds no investments in eligible trading companies, or
+
+- none of the trading companies in which it holds investments is carrying out a commercial trade.
+
+If the target company is an eligible holding company [see RDRM34355 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34355)], non-operational means:
+
+- the group in which the company is a member is not an eligible trading group [see RDRM34345 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34345)] or,
+
+- none of its 51% subsidiaries is carrying out a commercial trade.
+
+If the target company is an eligible hybrid company (see RDRM34358), non-operational means that the company is not trading and:
+
+- it holds no investments in eligible trading companies
+
+- none of the eligible trading companies in which it holds investments is trading
+
+Example 5
+
+Ragnar invests in E Limited in August 2014 and receives newly issued shares. The company is an eligible holding company which has three subsidiaries:
+
+- F Limited which never actually undertakes any commercial trade;
+
+- G Limited which is trading but is sold to a competitor 18 months after Ragnar’s investment and
+
+- H Limited which is bought out by the employees 21 months after Ragnar’s investment and so ceases to be a member of the group.
+
+As E Limited no longer holds any trading subsidiaries carrying out commercial trades, for the purposes of the business investment relief it ceases to be an eligible trading group when H Limited leaves the group. Ragnar will have to take the appropriate mitigation steps to prevent a UK taxable remittance arising.
+
+Where either the 5 year (for investments made in 2017-2018 onwards), or the 2-year (for investments made up to 5 April 2017), start-up rule is not met there will be a potentially chargeable event and a taxable remittance of the foreign income or gains will occur unless the appropriate mitigation steps [see RDRM34440 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34440)] are taken. (s809VH(5), (6) and (7) ITA2007)
+
+Where more than one investment is made in a qualifying company or group, if there is a mixture of both qualifying and non-qualifying investment, it is only the qualifying investments that must be disposed of when a potentially chargeable event occurs. (s809VG(5) ITA2007)
+
+Example 6
+
+Sigmund has owned 100% of the shares in a qualifying trading company (J Limited) since he came to the UK in 2005. He had purchased the shares from an unconnected party for £100,000 using UK taxed income and gains. As this transaction took place before the business investment relief was introduced it is not a qualifying investment.
+
+In 2013-2014 Sigmund invests a further £100,000 of his foreign income and receives 100 newly issued shares in J Limited in return. Sigmund makes a valid claim to business investment relief on his tax return and the foreign income is not treated as remitted at that time.
+
+In 2015-2016 J Limited sells its trade to an unrelated third party and becomes an investment company. As J Limited is no longer a qualifying company this is a potentially chargeable event and Sigmund must take the appropriate mitigation steps if he wants to avoid his foreign income being remitted. Sigmund arranges for J Limited to buy back the 100 shares issued in 2013-2014 for their current market value of £100,000 which he takes offshore immediately.
+
+Sigmund does not have to dispose of the shares purchased in 2005 as these were not qualifying investments.
+
+For insolvency see RDRM34390 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34390).

@@ -1,0 +1,22 @@
+Share identification rules for corporation tax: the 10 day rule: general
+Identifier: CG51615
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51615
+Published: 2016-03-12T11:23:07+00:00
+Updated: 2016-01-25T17:18:29+00:00
+Retrieved (UTC): 2026-09-18T14:47:57.758705+00:00
+
+TCGA92/S107 (3)
+
+The Section 104 holding rules, see CG51620+, do not apply in the following circumstances.
+
+- A company acquires shares which would otherwise create or be added to a Section 104 holding.
+
+- Within ten days it makes a disposal of shares of the same class in the same company.
+
+In that case the disposal is identified against the acquisition within the previous nine days, TCGA92/S107 (3 on a first in/first out basis if they are made at different times in the ten day period, TCGA92/S107 (4)(b).
+
+No indexation allowance is due on acquisitions and disposals identified under the ten day rule if the acquisition and disposal are in different months, TCGA92/S107 (6).
+
+If there is a surplus of shares acquired after the matching process these either create or are added to a Section 104 holding. This is treated as an operative event in the month the shares were acquired not the month of disposal if the ten days straddle two months.
+
+The ten day rule does not apply to shares acquired as a result of a share reorganisation such as a rights issue. This is because the share reorganisation is not treated as involving any acquisition of the new shares.

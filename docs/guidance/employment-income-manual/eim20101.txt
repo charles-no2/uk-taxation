@@ -1,0 +1,54 @@
+The benefits code: working out if an employment has earnings of less than £8,500 a year: calculation
+Identifier: EIM20101
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim20101
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-12-30T08:58:12+00:00
+Retrieved (UTC): 2026-09-18T14:19:48.851218+00:00
+
+Section 218(1) ITEPA 2003
+
+This section only applies for 2015/16 and earlier.
+
+There are special rules for working out whether an employment has earnings of less than £8,500 a year. The main point to note is that you have to include in the calculation all the benefits and expenses on which an employee would be chargeable if he did have earnings at that rate.
+
+There are four steps in the calculation:
+
+Step 1
+
+Enter the total amount of earnings under Section 62 ITEPA 2003 (EIM00515 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim00515)) and
+
+- add any amounts treated as earnings under the benefits code (EIM20006 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim20006)), except those covered by dispensations (EIM30051 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim30051)) and
+
+- add any amounts treated as earnings under Part 3 Chapter 12 ITEPA 2003 and
+
+- in the case of a deemed employment by an intermediary (Section 56 ITEPA 2003), add the amount of the deemed employment income and
+
+- in the case of a deemed employment payment by a managed service company, add the total amount of deemed employment payments for the year, and
+
+- add any amounts that count as employment income for the year under Part 7A Chapter 2 ITEPA 2003
+
+- add any amounts oramounts that would be taxable as employment income if they were not exempt because of section 290A or 290B ITEPA 2003 (accommodation outgoings of ministers of religion).
+
+Step 2
+
+To the total amount in Step 1, add any amount that arises under Section 219 ITEPA 2003, in connection with a car.
+
+Step 3
+
+From the total of Steps 1 and 2, subtract the total amount of any “authorised deductions” (EIM20102 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim20102)).
+
+Step 4
+
+Apply the formula R x Y/E where
+
+- R is the result of Step 3,
+
+- Y is the number of days in the year and
+
+- E is the number of days in the year when the employment was held.
+
+For further information on this calculation see EIM20102 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim20102).
+
+Earnings for earlier years
+
+You can only include earnings for the year under review. If the employee received back pay for an earlier year you must leave it out of account for the year under review. This applies even though the earnings will actually be taxed in the year they are received (EIM42230onwards).

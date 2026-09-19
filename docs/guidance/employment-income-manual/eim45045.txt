@@ -1,0 +1,85 @@
+Employment income provided through third parties: meaning of 'relevant third person': group exception: examples
+Identifier: EIM45045
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45045
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T13:19:14+01:00
+Retrieved (UTC): 2026-09-18T14:15:17.165408+00:00
+
+Section 554A(7), (8) and (10)
+
+Example: subsidiary (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45045#IDAHIF5H)
+Example: joint venture (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45045#IDADJF5H)
+Example: associated companies (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45045#IDATJF5H)
+Example: connection with tax avoidance arrangement (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45045#IDALLF5H)
+
+In certain circumstances, the group exception cuts down the scope of the term ‘relevant third person’. See EIM45035 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45035).
+
+Here are some examples to show how the group exception works. For examples illustrating the LLP exception, see EIM45050 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45050).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45045#Top)
+
+Example: subsidiary
+
+B plc is the parent company in a group of companies. All companies in the group are 100% subsidiaries of B plc.
+
+All employees in the group are employed by B Operating Ltd.
+
+The group has a policy of providing season ticket loans to employees who use public transport to commute to work. All such loans are provided by B Finance Ltd.
+
+B Finance Ltd is a member of the same group as B Operating Ltd and therefore the group exception applies.
+
+The group exception could be prevented from applying if there was a connection between the season ticket loans to employees and a tax avoidance arrangement. But the group has a clearly laid down policy of providing season ticket loans to employees and there is no such connection here.
+
+The group exception stops the arrangement from coming through the Section 554A gateway, and the Part 7A rules do not apply.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45045#Top)
+
+Example: joint venture
+
+P Ltd is a timber supplier. G Ltd is a house builder. P Ltd and G Ltd form a joint venture company making log cabins, P G WH Ltd.
+
+Whether the group exception applies will depend on, among other things, the shareholdings of P Ltd and G Ltd.
+
+If the interests of P Ltd and G Ltd in P G WH Ltd are identical in every respect, the joint venture will not pass the 51% test.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45045#Top)
+
+Example: associated companies
+
+C is an entrepreneur. He is the majority shareholder and managing director of DLtd, which provides him with a company car.
+
+There is no question of this arrangement coming through the Section 554A gateway, as there is no third person involved. D Ltd provides C with the company car directly.
+
+C establishes a new venture. He carries it on through S Ltd, of which he is the majority shareholder and managing director. He drives the same car.
+
+D Ltd and S Ltd are owned and managed by C, and they are associated companies within Section 25 CTA 2010. But they are not members of the same group of companies. Therefore, the group exception does not apply.
+
+From the point of view of C’s employment with S Ltd, D Ltd is a relevant third person.
+
+It does not follow that this arrangement comes through the Section 554A gateway.
+
+You need to take account of all relevant circumstances in order to get to the essence of the matter.
+
+It may well be that it is reasonable to suppose that, in essence, there is no connection (direct or indirect) between (a) D Ltd’s provision of the company car to C and (b) the arrangements made by S Ltd to remunerate C.
+
+If so, Section 554A(1)(e) (condition 5 in EIM45025 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45025)) is not satisfied and the arrangement does not come through the Section 554A gateway.
+
+In addition, normal provision of a company car is not particularly likely to count as a relevant step within Section 554D. See EIM45080 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45080).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45045#Top)
+
+Example: connection with tax avoidance arrangement
+
+B plc is the parent company in a group of companies. All companies in the group are 100% subsidiaries of B plc.
+
+All employees in the group are employed by B UK Ltd.
+
+One of the subsidiaries, B Offshore Ltd, is located overseas.
+
+Certain employees of B UK Ltd are offered the opportunity to enter into special remuneration arrangements which involve funds being allocated into B Offshore Ltd and then advanced to them by way of loan.
+
+The employees are informally advised that they will not ultimately be expected to repay the loans as the funds are really intended to be part of their remuneration package.
+
+In this case it is likely that the group exception will be prevented from applying as it appears that there is a connection between the loans to employees and a tax avoidance arrangement.
+
+So, even though it is a member of the same group as B UK Ltd, B Offshore Ltd is a relevant third person. If the other statutory conditions are met, the arrangement will come through the Section 554A gateway.

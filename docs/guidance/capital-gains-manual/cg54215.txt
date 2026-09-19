@@ -1,0 +1,32 @@
+Qualifying corporate bonds: relevant: excluded indexed securities
+Identifier: CG54215
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg54215
+Published: 2016-03-12T11:34:51+00:00
+Updated: 2026-08-13T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:43:18.607330+00:00
+
+FA96/SCH13/PARA13
+
+A security is an excluded indexed security where the amount which has to be paid to discharge the debt (whether on redemption or otherwise) is calculated by applying a relevant percentage change in the value of chargeable assets to the amount of the original loan.
+
+A CHARGEABLE ASSET, for this purpose, is an asset where a gain on disposal by the person in question would be a chargeable gain, on the assumptions that
+
+- it was not a disposal in the course of a trade, profession or vocation carried on by that person, and
+
+- TCGA92/S100 (exemption for authorised unit trusts etc) does not apply.
+
+Gains accruing under TCGA92/S116 (10), see CG53820+, are to be disregarded.
+
+A RELEVANT PERCENTAGE change refers to the percentage change in the value of the chargeable assets, or any index of the value of those assets, over (broadly) the life of the loan.
+
+The retail prices index (RPI), and any similar general index such an index may still amount to a relevant discounted security.
+
+For detailed interpretation of these conditions, see IM1545.
+
+Excluded indexed securities are prevented from being relevant discounted securities because their value will reflect the value of the shares or other assets to which they are linked. Only amounts relating to interest are brought into the income regime. Any profits or losses on a redemption or other disposal remain to be dealt with under capital gains rules. These rules are, however, modified to ensure that gains or losses on these debts will normally be chargeable gains, or allowable losses, see CG54217+.
+
+TCGA92/S116 (6B), TCGA92/S116 (6C)
+
+No chargeable gain, or allowable loss, would arise on disposal of the debt if it was a QCB, see CG53700+. To prevent this, excluded indexed securities are, except in the circumstances in described below, prevented from being QCBs by TCGA92/S117 (6B) and TCGA92/S117 (6C).
+
+It is possible that debts, which fall to be treated as excluded indexed securities from 6 April 1996, will have come to be held prior to this date as a result of a company reorganisation. Where, in these cases, the debts were at that time treated as QCBs and TCGA92/S116 (10) applied, see CG53820+, they will continue to be treated as QCBs for this purpose. Any gain or loss under TCGA92/S116 (10) will crystallise in the usual way on a disposal of the excluded indexed security.

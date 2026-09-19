@@ -1,0 +1,62 @@
+Anti-forestalling measures for changes announced at 30 October 2024 Budget – elections to disapply share reorganisation treatment
+Identifier: CG10251
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10251
+Published: 2025-03-12T08:22:56+00:00
+Updated: 2025-03-17T06:36:12+00:00
+Retrieved (UTC): 2026-09-18T14:30:16.088756+00:00
+
+Throughout this manual, all legislative references are to Taxation of Chargeable Gains Act 1992 (https://www.legislation.gov.uk/ukpga/1992/12/contents) (“TCGA92”) unless otherwise stated.
+
+Finance Act 2025 contains anti-forestalling rules that prevent the use of elections within the rules for Business Asset Disposal Relief and Investors’ Relief to obtain a tax advantage in relation to changes announced at Budget 2024 on 30 October 2024.
+
+Further guidance, with examples, can be found in the guidance for the reliefs. For the rate changes see CG64175 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64175) for Business Asset Disposal Relief and CG63515 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63515) for Investors’ Relief. See CG63600 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg6360010245) for the reduction in the lifetime cap for Investors’ Relief.
+
+Broadly, the rules are aimed at situations where –
+
+- an election is made to disapply the usual tax treatment on a share reorganisation, so as to trigger a disposal at the time of the reorganisation, and
+
+- the person making the election would still be entitled to the relevant relief on the securities held following the reorganisation.
+
+Where the rule applies, the disposal is treated as taking place at the time the election is made for the purposes of applying CGT rates and the lifetime limit for Investors’ Relief.  In some circumstances, the disposal is treated as taking place at an earlier time when the person would have ceased to qualify for the relevant relief on a disposal.
+
+Background
+
+The capital gains rules for share reorganisations recognise that often transactions involving shares are “paper for paper” only so that no cash may be received. The rules generally seek to disregard any disposal for capital gains purposes by applying a form of rollover relief. The old and new holdings of shares are treated as the same asset, deferring any tax liability until the new holding is disposed of.
+
+This treatment is usually advantageous but may not be where, as a result of the reorganisation, a person no longer holds shares that would qualify for Business Asset Disposal Relief or Investors’ Relief. For this reason an election can be made that displaces the normal rule in section 127 (https://www.legislation.gov.uk/ukpga/1992/12/section/127) that a share reorganisation is treated as not involving any disposal of the original shares involved in the reorganisation. Here, reorganisation incudes share exchanges and more complex company reconstructions that are treated as reorganisations by sections 135 (https://www.legislation.gov.uk/ukpga/1992/12/section/135) and 136 (https://www.legislation.gov.uk/ukpga/1992/12/section/136). An election can be made under section 169Q (https://www.legislation.gov.uk/ukpga/1992/12/section/169Q) for the purposes of Business Asset Disposal Relief and under section 169VT (https://www.legislation.gov.uk/ukpga/1992/12/section/169VT) for the purposes of Investors’ Relief.
+
+The aim of the election is to allow a disposal to be triggered so as to create a gain against which the relevant relief may be claimed where it may not be available on a disposal of the new shares. However, it is not restricted to such situations and that leads to the opportunity to “lock in” treatment under the CGT rules that applied at the time of the reorganisation. Broadly, the anti-forestalling means that where an election was made but the shareholding would still qualify for the relief after the reorganisation, then any gain triggered by the election will instead be subject to the CGT rules applying at the time the election is made.
+
+Where the rule applies, it may affect more than one of the changes announced at Autumn Budget 2024. For example: there is a share reorganisation in August 2024 and a shareholder makes an election in May 2025 that triggers a gain of £3 million at the time of the reorganisation that qualifies for Business Asset Disposal Relief with the full lifetime limit of £1 million available. If the anti-forestalling rule is triggered then £1 million of the gain will be charged at 14 per cent and the balance at 24 per cent, rather than at the 10 and 20 per cent rates applying at the time of the reorganisation.
+
+What types of reorganisation are covered by the rule?
+
+Single company reorganisations
+
+Shareholders can arrange for the company to reorganise its share capital in a way that would, absent the relief at section 127 (https://www.legislation.gov.uk/ukpga/1992/12/section/127), constitute a disposal of the shares and an acquisition of new shares. This may involve the cancellation of the existing shares and the issue of new shares or debentures, whether of the same or different classes as the original shares.
+
+This rule applies where a reorganisation within the meaning of section 126 (https://www.legislation.gov.uk/ukpga/1992/12/section/126) and where the individual concerned still meets the qualifying conditions for Business Asset Disposal Relief or Investors’ Relief on the shares they continue to hold as a result of the reorganisation.
+
+For Business Asset Disposal Relief, this means:
+
+- They hold shares in a trading company of the holding company of a trading group,
+
+- it is their “personal company”, and
+
+- they are an employee or officer of the company or a company in the same group.
+
+For Investors’ Relief purposes, this means that they continue to hold shares that qualify, or potentially qualify for the relief.
+
+Share exchanges and company reconstructions
+
+The rule also applies where there is an exchange or company reconstruction that is treated as a share reorganisation under section 135 (https://www.legislation.gov.uk/ukpga/1992/12/section/135) or section 136 (https://www.legislation.gov.uk/ukpga/1992/12/section/136). The rule operates differently depending whether the election is made for Business Asset Disposal Relief or Investors’ Relief.
+
+For Business Asset Disposal Relief, this rule will apply in either of the following circumstances –
+
+- Where substantially the same people hold the shares in, or have control of, both of the companies involved in the exchange or reconstruction, or
+
+- Where there has been a concentration of shareholdings as a result of the exchange or reconstruction and the individual concerned would still qualify for relief on a disposal from their holding.
+
+The second bullet above is aimed at the scenario where one or more shareholders leave on a reorganisation, so that the remaining shareholders continue to hold shares in the successor company.
+
+For Investors’ Relief, this rule will apply where an individual continues to hold qualifying or potentially qualifying shares following the exchange or reconstruction.

@@ -1,0 +1,22 @@
+Appeals, postponements and reviews: postponements: making adjustments to an SA standover
+Identifier: SAM11140
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam11140
+Published: 2016-04-08T17:15:19+01:00
+Updated: 2016-02-23T14:52:38+00:00
+Retrieved (UTC): 2026-09-18T16:18:45.953720+00:00
+
+Adjustments to a formal standover
+
+A formal standover may be adjusted at any time prior to the determination of the appeal following an agreement between HMRC and the appellant. Function MAINTAIN STANDOVERS should be used to record the amended details.
+
+If an amendment is made to the charge arising from a Revenue assessment (SAM20130 (https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam20130)), Revenue amendment (SAM21020 (https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam21020)), or a Jeopardy amendment (SAM21010 (https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam21010)), against which the formal standover has been applied, then the standover will be automatically reduced to NIL.
+
+In other circumstances if the appeal has been determined but the charge has not been adjusted you should reduce the standover to NIL using function MAINTAIN STANDOVERS.
+
+Adjustments to an informal standover
+
+An informal standover may be adjusted or reduced to NIL at any time, depending upon the circumstances of the case, using function MAINTAIN STANDOVERS.
+
+An informal standover may also be adjusted automatically when the original charge, less adjustments, remissions, transfers to PAYE and formal standovers is reduced to less than the amount already informally stoodover.
+
+Note: When the original charge is amended, although formal standovers are automatically cancelled, related informal standovers need to be reviewed and reduced to NIL where appropriate.

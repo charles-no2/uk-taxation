@@ -1,0 +1,54 @@
+Remittance Basis: Identifying Remittances: Condition D: Qualifying disposition - definition
+Identifier: RDRM33420
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33420
+Published: 2016-03-09T17:33:30+00:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:35.397222+00:00
+
+In order for Condition D to be met, there must be a qualifying disposition (or disposal) and a connected operation (see RDRM33430 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33430)) associated with it (section 809O(3) and (4) ITA 2007).
+
+A ’qualifying disposition’ is a disposition (or disposal) of money or other property that is, or derives (wholly or in part, and directly or indirectly) from, income or chargeable gains of the individual, to someone else in circumstances where property of that other person is, or somehow facilitates enjoyment by a relevant person of that property or some other service in the UK.
+
+It is a disposition that:
+
+- is made by a relevant person (see RDRM33030 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33030))
+
+- is made to, or for the benefit of, a person who is neither a relevant person nor a gift recipient and who then uses some other of their property in such a way that:
+
+- the property is brought to, received or used in the UK and a relevant person enjoys the property or enjoys a benefit from it
+
+- the property is used as consideration for a service enjoyed in the UK by the relevant person
+
+- the property is used outside the UK, indirectly or directly, to provide a benefit in the UK for a relevant person
+
+- the property is used outside the UK, directly or indirectly, in respect of a relevant debt
+
+This means that where someone gives their property to someone else and property of that other person is 'remitted', the original foreign income and gains may remain taxable due to Condition D.
+
+To note, the enjoyment of a benefit as a result of qualifying property being brought to, received or used in the UK, and the enjoyment of a benefit as a result of qualifying property being used outside the UK, applies to remittances on or after 6 April 2025.
+
+Example 1
+
+John personally owns a country estate in Cornwall, in an area of outstanding natural beauty. His friend Janet wishes to use the mansion for several important family functions.
+
+Janet is a remittance basis user. She owns a foreign yacht which she bought using her foreign income and gains. On 2 March she disposes of the yacht to a non-resident company for less than a third of its cost and less than its current value.
+
+John has a controlling interest in that non-resident company. In October, with reference to the transfer of the yacht, John allows Janet full and exclusive use of the estate, rent-free.
+
+Although Janet enjoys John’s property in the UK, John is not a gift recipient (the yacht was given to his company, not to John). Condition C cannot therefore apply.
+
+The company is not a relevant person (as Janet is not a participator). John is not a relevant person in relation to Janet either.
+
+There is a qualifying disposition because:
+
+- there is a disposal of property (the yacht) which derived from Janet’s income or chargeable gains (section 809O(4)(c))
+
+- the disposal was made by a relevant person (Janet) (section 809O(4)(a))
+
+- the disposal was for the benefit of John (although the disposal was not made directly to John, he benefits from it through his ownership of the company) (section 809O(4)(b))
+
+- John’s property is enjoyed in the UK by a relevant person (Janet) (section 809L(5)(a) ITA 2007 and section 809O(4)(b)).
+
+In this example Janet’s advantage is due to a connected operation (see RDRM33430 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33430)) (section 809O(3)) and Condition D will be met. Some or all of the foreign income or gains used by Janet to acquire her yacht will be remitted.
+
+Note: In the context of another transaction, John could be a gift recipient in relation to Janet, and Condition C could apply to that transaction.

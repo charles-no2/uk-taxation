@@ -1,0 +1,60 @@
+Cryptoassets for businesses: Corporation Tax: allowable costs
+Identifier: CRYPTO41300
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto41300
+Published: 2021-03-30T09:04:05+01:00
+Updated: 2022-12-22T07:48:06+00:00
+Retrieved (UTC): 2026-09-18T16:18:36.423185+00:00
+
+When a person calculates their gains/losses from the disposal of tokens, not all costs are allowable as a deduction.
+
+Section 38 of the Taxation of Chargeable Gains Act (TCGA) 1992 provides for the types of costs which can be deducted. HMRC’s view is that these include:
+
+- the consideration (in pound sterling) originally paid for the asset
+
+- transaction fees paid for having the transaction included on the distributed ledger
+
+- advertising for a purchaser or a vendor
+
+- professional costs to draw up a contract for the acquisition or disposal of the tokens
+
+- costs of making a valuation or apportionment to be able to calculate gains or losses
+
+Any costs deducted against profits for Income Tax, see CG10260 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10260), are not allowable as a deduction for Capital Gains Tax.
+
+Exchange Fees
+
+It is common for people to use an exchange to perform transactions, as explained at CRYPTO10250 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto10250). Some fees charged by exchanges are allowable, but not all of them. Below is a list of common fees charged by exchanges and whether they satisfy section 38 TCGA 1992:
+
+Situation in which an exchange fee may be incurred |  Treatment of fee for section 38 TCGA 1992 |
+
+Exchange (swap) sterling for a fiat currency other than sterling |  Section 38(1)(a) - allowable as a cost of acquiring the fiat currency other than sterling |
+
+Exchange (swap) fiat currency other than sterling for sterling |  Section 38(1)(c) - allowable as an incidental cost of disposing of the fiat currency other than sterling |
+
+Deposit sterling with an exchange |  Sterling isn’t an asset for CGT purposes so not an allowable cost |
+
+Deposit fiat currency other than sterling with an exchange |  The depositor retains beneficial ownership of the fiat currency other than sterling so there’s no acquisition or disposal that the costs can be attributed to |
+
+Use sterling to purchase tokens |  Section 38(1)(a) - allowable as a cost of acquiring the tokens |
+
+Use fiat currency other than sterling to purchase tokens |  Section 38(1)(a) - allowable as a cost of acquiring the tokens |
+
+Exchange (swap) token A for token B |  See below |
+
+Dispose of tokens for sterling |  Section 38(1)(c) - allowable as an incidental cost of disposing of the tokens |
+
+Dispose of tokens for fiat currency other than sterling |  Section 38(1)(c) - allowable as an incidental cost of disposing of the tokens |
+
+Withdraw sterling from the exchange |  Sterling isn’t an asset for CGT purposes so not an allowable cost |
+
+Withdraw fiat currency other than sterling from the exchange |  The withdrawer retains beneficial ownership of the fiat currency other than sterling so there’s no acquisition or disposal that the costs can be attributed to |
+
+Exchange (swap) token A for token B: the fee paid is in relation to the whole of the transaction, that is for a disposal of one asset and the acquisition of another asset. This means that the fee is attributable to both assets. HMRC’s view is that this fee would be allowable as a deduction in computing the disposal in respect of token A under section 38(1)(c), and that it would be allowable as a deduction in computing the eventual disposal of token B under section 38(1)(a). TCGA92/S52(1) makes it clear that a sum may be allowed as a deduction only once in computing a disposal.
+
+Where an allowable cost relates to more than one asset, the cost should be apportioned between those assets on a just and reasonable basis (TCGA92/S52(4)). You can accept that apportioning this type of fee equally between the assets disposed of and the assets acquired (that is a 50/50 split) is just and reasonable in these circumstances. If the customer chooses to apply a different approach, then this can be considered on a case by case basis.
+
+Mining
+
+Costs for mining activities (for example equipment and electricity) do not count toward allowable costs in respect of tokens because they’re not wholly and exclusively to acquire the tokens, and so cannot satisfy the requirements of section 38(1)(a) TCGA 1992. It may be possible to deduct some of these costs against profits for Income Tax or Corporation Tax purposes. The costs incurred to acquire equipment used for mining may be allowable as a deduction in a disposal of that equipment subject to relevant provisions such as the chattels exemption and the wasting assets exemption.
+
+If the mining amounts to a trade for tax purposes the tokens will initially form part of trading stock. If these tokens are transferred out of trading stock, the business will be treated as if they bought them at the value used in trading accounts. Businesses should use this value as an allowable cost in calculations when they dispose of the tokens. More information can be found in CG69220.

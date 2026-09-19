@@ -1,0 +1,180 @@
+Remittance Basis: Amounts Remitted: Mixed Funds: Example 3 - (continuation) remittance of funds covering two years
+Identifier: RDRM35310
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35310
+Published: 2016-03-09T17:39:40+00:00
+Updated: 2022-01-20T09:46:30+00:00
+Retrieved (UTC): 2026-09-18T16:19:47.783534+00:00
+
+Jeff’s overseas bank account continuation (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35310#IDALMNPG)
+
+Applying the ordering rules in S809Q to the account (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35310#IDAXWOPG)
+
+Reconciliation (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35310#IDAWEPPG)
+
+Refer to RDRM35300 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35300) for earlier part of example 3
+
+Immediately after the £10m transfer in Year 2 (refer to example 3) Jeff’s mixed fund contains £84,000 of capital from Year 0 (from the sale of shares).
+
+For the rest of Year 2, Jeff continues to have his UK salary of £10,000 a month and his ‘relevant foreign earnings’ of £5,000 a month paid into that same account. Both salaries are paid on the last day of each month. There are no further credits or debits from the account in Year 2.
+
+In Year 3 Jeff purchases shares in a UK company by direct debit from this account (£150,000). He also transfers £5,000 to meet daily living expenses. These amounts are remittances from a mixed fund to which the rules in s809Q apply.
+
+His UK salary is credited net of PAYE and NIC. His overseas salary is subject to a foreign tax deducted at source, and is credited net. His overseas dividends are also credited to the account net of overseas withholding taxes.
+
+Jeff’s overseas bank account continuation
+
+Date |  Decriptor |  Credit |  Debit |  Balance |  Category s809Q(4) |
+
+Year 2 |  Balance b/f |  - |  - |  £84,000 |  - |
+
+31 Aug |  UK salary |  £10,000 |  - |  £94,000 |  Para (a) |
+
+31 Aug |  Overseas salary |  £5,000 |  - |  £99,000 |  Para (f) |
+
+30 Sept |  UK salary (net of tax) |  £10,000 |  - |  £109,000 |  Para (a) |
+
+30 Sept |  Overseas salary (net of tax) |  £5,000 |  - |  £114,000 |  Para (f) |
+
+31 Oct |  UK salary |  £10,000 |  - |  £124,000 |  Para (a) |
+
+31 Oct |  Overseas salary |  £5,000 |  - |  £129,000 |  Para (f) |
+
+30 Nov |  UK salary |  £10,000 |  - |  £139,000 |  Para (a) |
+
+30 Nov |  Overseas salary |  £5,000 |  - |  £144,000 |  Para (f) |
+
+31 Dec |  UK salary |  £10,000 |  - |  £154,000 |  Para (a) |
+
+31 Dec |  Overseas salary |  £5,000 |  - |  £159,000 |  Para (f) |
+
+31 Jan |  UK salary |  £10,000 |  - |  £169,000 |  Para (a) |
+
+31 Jan |  Overseas salary |  £5,000 |  - |  £174,000 |  Para (f) |
+
+28 Feb |  UK salary |  £10,000 |  - |  £184,000 |  Para (a) |
+
+28 Feb |  Overseas salary |  £5,000 |  - |  £189,000 |  Para (f) |
+
+31 Mar |  UK salary |  £10,000 |  - |  £199,000 |  Para (a) |
+
+31 Mar |  Overseas salary |  £5,000 |  - |  £204,000 |  Para (f) |
+
+30 April (Year 3) |  UK salary |  £10,000 |  - |  £214,000 |  Para (a) |
+
+30 April |  Overseas salary |  £5,000 |  - |  £219,000 |  Para (f) |
+
+15 May |  Dividend |  £2,000 |  - |  £221,000 |  Para (g) |
+
+31 May |  UK salary |  £10,000 |  - |  £231,000 |  Para (a) |
+
+31 May |  Overseas salary |  £5,000 |  - |  £236,000 |  Para (f) |
+
+30 June |  UK salary |  £10,000 |  - |  £246,000 |  Para (a) |
+
+30 June |  Overseas salary |  £5,000 |  £251,000 |  Para (f) |    |
+
+30 June |  Direct Debit to purchase UK shares |  - |  £150,000 |  £101,000 |  - |
+
+3 July |  Transfer to UK |  - |  £5,000 |  £96,000 |  - |
+
+The direct debit on 30 June (£150,000) is a remittance from a mixed fund.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35310#Top)
+
+Applying the ordering rules in S809Q to the account
+
+Apply immediately before the transfer
+
+Step 1
+
+Identify the ‘amount of transfer’ in the relevant tax year (year 3)
+
+Analyse the mixed fund to identify the separate amounts of income, capital gains and capital present for the relevant tax year (year 3) immediately before the date of transfer:
+
+- Para (a) employment income (including UK employment income) not subject to a foreign tax
+
+-
+
+Para (f) employment income subject to a foreign tax
+
+- Para (g) relevant foreign income subject to a foreign tax
+
+Step 2
+
+Identify the earliest paragraph above for the relevant year (year 3), which has an amount of income or gain in the mixed fund – para (a).
+
+Step 3
+
+Where the amount of the remittance is greater than the amount identified at step 2, the amount remitted is treated as reduced by the amount identified in step 2.
+
+Step 4
+
+Find the next paragraph/amount for that tax year (year 3). In the order of preference listed above repeat steps 2 and 3.
+
+Step 2 – identify the earliest paragraph – para (f)
+
+Step 3 – where the amount of the remittance is greater
+
+Step 4 – repeat steps 2 and 3
+
+Step 2 – identify the earliest paragraph – para (g)
+
+Step 3 – where the amount of the remittance is greater.
+
+At this stage all the amounts credited to the account in year 3 have been matched against remitted amounts. Income and capital of the next previous year, (year 2), must now be considered – so return to Step 1 for year 2.
+
+Step 1
+
+Identify the separate amounts of income, capital gains and capital present for year 2 before the transfer:
+
+- Para (a) employment income (including UK employment income) not subject to a foreign tax
+
+- Para (f) employment income subject to a foreign tax
+
+Step 2
+
+Identify the earliest paragraph above for the relevant year (year 2), which has an amount of income or gain in the mixed fund – para (a).
+
+Step 3
+
+Where the amount of remittance is greater than the amount identified at step 2, the amount remitted is treated as reduced by the amount identified at step 2.
+
+Step 4
+
+Find the next paragraph/amount for that tax year (year 2). In the order of preference listed above repeat steps 2 and 3.
+
+Step 2 – identify the earliest paragraph – para (f)
+
+Step 3
+
+If the amount is more than the [residual] ‘transfer amount’, the whole of the remittance comes from that paragraph.
+
+The £150,000 transfer is therefore regarded as a remittance of:
+
+Amount |  Source |  From |
+
+£110,000 |  UK employment income (Para a) |  (£30,000 Year 3 + £80,000 Year 2) |
+
+£38,000 |  relevant foreign earnings (Para f) |  (£15,000 Year 3 + £23,000 Year 2) |
+
+£2,000 |  relevant foreign income (Para g) |  (Year 3) |
+
+Note - The transfer on 3 July of £5,000 to meet daily living expenses will similarly be regarded as coming from the ‘earliest paragraph’ in the mixed fund, which is paragraph (f) containing £17,000 of relevant foreign earnings from Year 2.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35310#Top)
+
+Reconciliation
+
+The mixed fund still contains:
+
+- £84,000 - capital from Year 0 (from the sale of shares in Year 2)
+
+- £12,000 - relevant foreign earnings from Year 2
+
+- £96,000 total
+
+The result of this exercise is that:
+
+- All of Jeff’s UK salary in Year 3 (£30,000) is deemed to have been brought to the UK first and is not a taxable remittance. In addition, Jeff has remitted £80,000 of UK employment income from Year 2 that is also not taxable again upon remittance.
+
+- Similarly all of his relevant foreign income (£2,000) and overseas employment income of Year 3 (£15,000) together with £28,000 of relevant foreign earnings from Year 2 are treated as remitted to the UK and chargeable to tax at the appropriate rates of tax -

@@ -1,0 +1,28 @@
+Groups: indexation allowance restriction: share reorganisations
+Identifier: CG46195
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46195
+Published: 2016-03-12T11:11:06+00:00
+Updated: 2026-05-19T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:41:32.381570+00:00
+
+Section 183(1)(b) and (2) of the Taxation of Chargeable Gains Act (TCGA) 1992
+
+If a company exchanges shares or securities for other shares or securities in a reorganisation to which section 127 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/127) applies, there is no disposal or acquisition at the time of the exchange. Instead the original shares (taken as a single asset) and the new holding (taken as a single asset) are treated as the same asset acquired as the original shares were acquired. In determining whether the provisions restricting indexation apply on a disposal of the new holding, section 183(1)(b) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/183) applies the various tests in relation to the old holding, as if the old holding were the subject of the disposal.
+
+Example
+
+In 1986 company X acquires 1,000 A ordinary shares in company Y. In 1989 company X exchanges the A shares for 2,000 B ordinary shares. In 1990 company X disposes of the shares. The companies are linked throughout. The exchange is treated as a reorganisation within section 127 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/127). In determining whether the provisions apply on the disposal of the B ordinary shares (the new holding) the relevant tests apply to the acquisition of the A ordinary shares (the original shares) in 1986.
+
+The reorganisation might involve the exchange of one class of asset subject to the indexation restriction for another. Suppose a company acquires a debt on a security owed by a linked company, or redeemable preference shares in a linked company, and the companies remain linked. If the company disposes of the debt or the redeemable preference shares no indexation allowance will be due. If instead the company exchanges the debt or the redeemable preference shares for a holding of ordinary shares, and the reorganisation falls within section 127 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/127), then, in the absence of any contrary provisions, a full indexation allowance would be due on a disposal of the ordinary shares. The indexation allowance would be calculated by reference to the date and cost of acquisition of the debt or the redeemable preference shares. This is because the provisions relating to the acquisition of ordinary shares would not be satisfied in relation to the acquisition of the debt or the redeemable preference shares.
+
+To prevent this result section 183(1)(b) and (2) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/183) provide that if
+
+- on a reorganisation taking place on or after 15 March 1988
+
+- a company exchanges a debt on a security or redeemable preference shares for ordinary shares, and
+
+- the provisions restricting indexation would have applied if the company had disposed of the debt or the redeemable preference shares at the time of the reorganisation
+
+the indexation allowance available on the disposal of the ordinary shares is reduced by a just and reasonable amount. In this situation it would be appropriate to allow indexation only from the date of the exchange.
+
+The reverse situation might apply. Suppose a company acquires a holding of ordinary shares in a linked company in circumstances in which the conditions for the restriction of indexation allowance are not satisfied, and exchanges the shares for a debt on a security or for redeemable preference shares. When the company disposes of the debt or the redeemable preference shares, no indexation at all will be available because the test applicable to the acquisition of the debt or redeemable preference shares (that the companies were linked) is satisfied. To prevent this result, Sections 182(3) and 183(2) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/part/VI/chapter/I/crossheading/restriction-on-indexation-allowance-for-groups-and-associated-companies) allow indexation to the extent that this is just and reasonable. It would generally be appropriate to allow indexation up to the date of the exchange, but not thereafter. This applies whether the reorganisation took place before, on or after 15 March 1988.

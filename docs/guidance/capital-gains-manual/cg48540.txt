@@ -1,0 +1,52 @@
+Value shifting: Corporation Tax anti-avoidance rule for disposals of shares or securities from 19 July 2011: meaning of “arrangements”, “tax advantage” and “exempt distribution”
+Identifier: CG48540
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48540
+Published: 2016-03-12T11:21:33+00:00
+Updated: 2016-01-25T17:17:29+00:00
+Retrieved (UTC): 2026-09-18T14:42:07.374740+00:00
+
+As mentioned at CG48501, TCGA92/S31 adopts terms used in the targeted anti-avoidance rules for arrangements involving capital losses at TCGA92/S16A and TCGA92/S184A to 184I and the guidance is correspondingly similar.
+
+Arrangements (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48540#IDA1ZSCC)
+Tax advantage (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48540#IDAH0SCC)
+Exempt distribution (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48540#IDAT1SCC)
+
+Arrangements
+
+The term “arrangements” is widely drawn to include any agreement, understanding, scheme, transaction or series of transactions, whether or not legally enforceable, TCGA92/S31(7)(a).
+
+Whether a transaction forms part of a series of transactions, or a scheme, or an arrangement is in general a question of fact, but this conclusion will follow in any case where one transaction would not have taken place without another transaction, or would have taken place on different terms without that other transaction. However, it is not necessary that transactions must depend on each other in this way in order that they form part of a scheme or arrangements.
+
+Tax advantage
+
+It is a condition for the legislation to apply that the main purpose, or one of the main purposes, of any arrangements is to gain a “tax advantage” in terms of avoiding a liability to Corporation Tax on chargeable gains, TCGA92/S31(1)(b) and (7).
+
+It does not matter to whom the tax advantage arises, TCGA92/S31(3)(b) although this would typically be a company in the vendor group.
+
+The legislation asks whether the main purpose or one of the main purposes of the arrangements (referred to as “a main purpose” in this guidance) is to obtain a tax advantage. The purpose of the arrangements is determined by the purpose of the participants who enter into the arrangements and so if any participant has a main purpose of achieving a tax advantage, then that will constitute a main purpose of the arrangements.
+
+The rule primarily targets tax avoidance that is simple to describe in general terms: a company owns shares worth 100 and a straightforward sale would produce a gain. Something is done to reduce the value of the shareholding (or increase its cost) so that no gain arises on the sale but the vendor ends up receiving 100 of value and the purchaser acquires 100.
+
+The overall economic objective will generally be the commercial sale of a company but rather than this being done in a straightforward way, additional steps are put in place that reduce the consideration (or increase the allowable cost) in order to eliminate or reduce the gain that would otherwise arise.
+
+It will be relevant to compare whether, in the absence of the tax considerations:
+
+- the transaction giving rise to the advantage would have taken place at all;
+
+- if so, whether the tax advantage would have been of the same amount; and
+
+- whether the transaction would have been made under the same terms and conditions.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48540#Top)
+
+Exempt distribution
+
+The rule cannot apply where the arrangements being considered consist solely of an “exempt distribution”, TCGA92/S31(1)(c). Most distributions received by a company are exempted from Corporation Tax on income by Part 9A CTA09.
+
+The value shifting rule defines an exempt distribution as one that falls within an exempt class by virtue of CTA09/S931H, applying this definition in the case of all companies (the CTA09 rules differ where the recipient is a small company).
+
+This exception removes the need to consider the potential application of the rule where the only arrangement that has taken place is the making of a pre-sale dividend: TCGA92/S31 cannot apply to a straightforward pre-sale dividend strip.
+
+HMRC would regard transactions that are ancillary to the actual payment of distribution as part of the process of making the distribution. So, for example, where a company draws on funds held by another group member to make payment, that will not prevent TCGA92/S31(1)(c) from applying.
+
+Where additional transactions take place, HMRC will have regard to the purpose of carrying out those additional transactions as to whether they amount to a tax avoidance main purpose.

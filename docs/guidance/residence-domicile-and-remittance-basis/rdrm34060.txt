@@ -1,0 +1,28 @@
+Remittance Basis: Exemptions: Relevant services provided in the UK - location of overseas property
+Identifier: RDRM34060
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34060
+Published: 2016-03-09T17:34:59+00:00
+Updated: 2015-11-27T13:53:42+00:00
+Retrieved (UTC): 2026-09-18T16:19:03.395198+00:00
+
+Sections 275 to 275C TCGA 1992 apply in determining whether an asset is situated outside the UK - CG 12400+.
+
+In applying these rules it is important to determine exactly what the service relates to, not just to whom it is provided.
+
+For example, services may be said to be provided for non-resident trustees (a relevant person) RDRM33030 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33030) in respect of shares that the trust owns in a non-resident company (that would, if it were UK resident, be a ‘close’ company’). However if the service actually relates to that company’s underlying UK assets then the service does not relate to property ‘outside the UK’.
+
+On the other hand, if the service is in connection with legal obligations between the trustees and the non-resident company in respect of, say the shares that are held, for example updating the share register in the local territory, then this is a service relating to property (the company/shares) wholly situated outside of the UK.
+
+Example 1
+
+Petra, a remittance basis user, is a participator in a Jersey company that would, if it were in the UK, be a close company. The company is a relevant person RDRM33030 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33030). The company owns a portfolio of UK real estate. UK-based advisors produce an investment and tax report in respect of the company’s UK activities; the advisors fees are paid overseas using Petra’s foreign income.
+
+The relevant UK service is the provision of advice in a tax report which relates to the Jersey company’s UK activities. It is the UK activities which are the subject of the advice, not the overseas company so the exemption cannot apply. We look through to what the work relates to.
+
+Example 1(a)
+
+The Jersey company in example 1 above also has a French property, which makes up only 10% of its business.
+
+UK-based advisors produce a separate marketing report in respect of this property. The advisors fees are paid overseas using Petra’s foreign income.
+
+The service provided in the UK - in this case the preparation of the report - relates to a non-UK property. So the exemption at ITA07/s809W would apply, assuming the other conditions are also met.

@@ -1,0 +1,164 @@
+Private residence relief: change in use
+Identifier: CG64760
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64760
+Published: 2016-03-12T11:56:35+00:00
+Updated: 2025-07-16T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:45:05.002162+00:00
+
+S224(1) TCGA92 excludes from relief any part of a dwelling-house which has been used exclusively for a trade, business, profession or vocation, see CG64660+ (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64660). More generally, relief is limited by s222(1) TCGA92 to that part of a dwelling-house which has been used as its owner’s residence.
+
+In many cases the dwelling-house will have been altered or extended over the period of ownership and its use may have changed frequently. S224(2) TCGA92 applies in these circumstances to adjust the relief ‘in a manner which is just and reasonable'.
+
+S224(2) TCGA92 applies when:
+
+- there is a change in what is occupied as a person’s residence because of
+
+- reconstruction of a building, or
+
+- conversion of a building, or
+
+- any other reason, or
+
+- there is change in use of part of the dwelling-house for
+
+- a trade, business, profession or vocation, or for
+
+- any other purpose.
+
+The subsection is wide-ranging in its application, but its effect is to adjust the relief given by s223 TCGA92.
+
+Method of adjustment
+
+Each case must be considered on its merits, but the adjustment should reflect
+
+- the extent to which
+
+and
+
+- the length of time over which
+
+each part of the dwelling-house has been used as its owner’s only or main residence.
+
+You should allow relief for the final part of the period of ownership for any part of the dwelling-house which has at some stage been part of the owner’s only or main residence, see CG64985+ (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64985).
+
+No adjustments
+
+An adjustment under s224(2) TCGA92 is not appropriate where the only change of use occurs when the dwelling-house begins or ceases to be used as a residence. The method of computing relief in such circumstances is provided by s223(2) TCGA92 and there is no need for an adjustment to the relief. The effect of s224(2) TCGA92 is to adjust the relief provided by s223 TCGA92. It does not provide an authority to apportion the gain between exempt and non-exempt periods.
+
+Computations apportioning the gain are often submitted when the period in which the dwelling-house was used as a residence coincided with a period of high house price inflation. The aim is to increase the relief due.
+
+An example of the type of computation which has been seen is given at below. This form of computation should not be accepted. A correct computation is provided as a comparison.
+
+Example: Incorrect application of s224(2) TCGA92
+
+G bought a house on 1 June 2003 for £70,000. It was left empty until 1 June 2006 when he began to use it as his only or main residence. He sold the house on 1 June 2020 for £500,000.
+
+The computation which he submits is:
+
+EXEMPT GAIN
+
+|  |
+
+£
+
+|
+
+|
+
+Disposal proceeds
+
+|
+
+500,000
+
+|
+
+less
+
+|
+
+Value at 1 June 2006
+
+|
+
+80,000
+
+|
+
+|  |
+
+420,000
+
+|
+
+|  |  |
+
+NON-EXEMPT GAIN
+
+|
+
+| £ |
+
+|
+
+Value at 1 June 2006
+
+|
+
+80,000
+
+|
+
+less
+
+|
+
+cost
+
+|
+
+70,000
+
+|
+
+|
+
+CHARGEABLE GAIN
+
+|
+
+10,000
+
+|
+
+The justification given for this form of computation is that the increase in the value of the house took place when the house was being used as a residence. So s224(2) TCGA92 should be applied to wholly relieve this part of the gain.
+
+THIS APPROACH IS WRONG for two reasons:
+
+- s224(2) TCGA92 does not apply to these circumstances.
+
+- Even if it did, s224(2) TCGA92 only adjusts the relief given by s223 TCGA92. It does not alter the method of computing the gain.
+
+The correct method of computing the relief under s223(2) TCGA92 is:
+
+|
+|  |
+| £ |
+
+| Disposal proceeds |
+|
+| 500,000 |
+
+less | Cost |
+| 70,000 |  |
+
+| Net gain |
+|
+| 430,000 |
+
+| Private residence relief | 14/17 years |  |  |
+
+| EXEMPT GAIN | 14/17 years x £430,000 | 354,118 |  |
+
+| CHARGEABLE GAIN | 3/17 years x £430,000 |
+| 75,882 |

@@ -1,0 +1,20 @@
+Groups: rebasing: no gain, no loss disposals: elections out of kink test
+Identifier: CG46330
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46330
+Published: 2016-03-12T11:11:29+00:00
+Updated: 2026-05-19T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:41:35.027134+00:00
+
+Paragraph 2 of Schedule 3 to the Taxation of Chargeable Gains Act (TCGA) 1992
+
+It is possible to have a group in which some companies are covered by an election out of the kink test and others are not. Without a special rule it would be possible for groups to exploit this situation, for example, by transferring an asset from a company without an election to a company with an election as a preliminary to a disposal to anunconnected third party. The rule which counters this is paragraph 2 of Schedule 3 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/schedule/3).
+
+The rule only applies to disposals at no gain/no loss under section 171(1) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/171) (intra-group asset transfers, see CG45305 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45305)+).
+
+The rule applies where a company disposes of an asset acquired at no gain, no loss under section 171 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/171) on or after 6 April 1988. An election out of the kink test by the company making that disposal does not cover the disposal. Instead the disposal is covered by the election (if there is one) by the company from which the asset was acquired at no gain, no loss. But this does not apply if there was a previous no gain, no loss disposal on or after 6 April 1988. In that case the election out of the kink test (if there is one) which applies to the disposal is that made by
+
+- the last company acquiring the asset after 5 April 1988 other than at no gain, no loss
+
+- or, if there is no such company, the company which held the asset on 5 April 1988.
+
+See also CG46360 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46360)+ concerning elections in respect of group companies.

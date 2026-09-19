@@ -1,0 +1,24 @@
+Assessing: COMPASS: chargeable lifetime transfers: introduction
+Identifier: IHTM31231
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31231
+Published: 2016-04-09T10:03:48+01:00
+Updated: 2016-02-11T17:18:51+00:00
+Retrieved (UTC): 2026-09-18T15:06:00.512639+00:00
+
+Death
+
+COMPASS will allow you to prepare calculations on a death case for transfers after 18 March 1986 (IHTM31014 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31014)) for
+
+- the death estate (this includes free estate, settled property (IHTM04080), GWRs (IHTM14301 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14301)) where the reservation ceases on death) and other property aggregable with it
+
+- failed PETs (IHTM14512 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14512)) (including GWRs where the reservation ceases during lifetime), and
+
+- additional charges (IHTM14571 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14571)).
+
+Lifetime
+
+At a lifetime case, COMPASS will allow you to prepare calculations in respect of transfers after 18 March 1986 which are
+
+- immediately chargeable transfers (IHTM04067 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04067)) (taxable at half death rate (IHTM14534 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14534))).
+
+But, where you need to make an calculation for such a transfer, you will need to create a new case record (IHTM31235 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31235)) on COMPASS.

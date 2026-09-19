@@ -1,0 +1,34 @@
+Employment income provided through third parties: remittance basis: derivation of sum of money or asset which is subject of relevant step
+Identifier: EIM45820
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45820
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T13:19:14+01:00
+Retrieved (UTC): 2026-09-18T14:23:32.099370+00:00
+
+Section 554Z11(5) to (8) ITEPA 2003
+
+In a remittance basis case, A’s employment income under the Part 7A rules (or part of it) will be ‘taxable specific income’ if the statutory conditions are met. See EIM45805 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45805) onwards.
+
+For the purposes of the remittance basis, the asset or sum of money which is the subject of the relevant step is treated as deriving from A’s employment income (or the relevant part of it) to which Section 554Z9(2) or 554Z10(2) applies.
+
+To avoid double counting, this rule is extended to cover certain cases in which relevant steps overlap.
+
+The overlap rule applies if:
+
+- a relevant step has activated the remittance basis rules discussed in EIM45805 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45805) onwards,
+
+- after this step has been taken, another relevant step gives rise to Part 7A income in respect of the same employment, and
+
+- within the meaning of Section 554Z5 (see EIM45725 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45725)), there is overlap between:
+
+- the sum of money or asset (sum or asset R) which is the subject of the first relevant step, and
+
+- the sum of money or asset (sum or asset S) which is the subject of the later relevant step.
+
+There are three steps in the overlap rule.
+
+- Step 1. Compare sum or asset S and sum or asset R. To the extent that they are the same sum of money or asset, you exclude sum or asset S from consideration. If they are, to any extent, not the same sum of money or asset, go to Step 2
+
+- Step 2. Compare sum or asset S (to the extent that you have not excluded it from consideration at Step 1) and sum or asset R. To the extent that sum or asset S derives from sum or asset R, you exclude it from consideration. If by now you have not excluded sum or asset S from consideration completely, go to Step 3.
+
+- Step 3. Compare sum or asset S (to the extent that you have not excluded it from consideration at Steps 1 and 2) and sum or asset R. To the extent that there is overlap between sum or asset S and sum or asset R, you treat sum or asset S for remittance basis purposes as deriving from sum or asset R.

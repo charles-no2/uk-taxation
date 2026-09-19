@@ -1,0 +1,122 @@
+Annual allowance: pension input amounts: defined benefits arrangements: bridging pensions: exchanging for at normal pension age
+Identifier: PTM053370
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053370
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-01T20:09:47+00:00
+Retrieved (UTC): 2026-09-18T14:50:43.262102+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Note – for tax year 2015-16 there are transitional rules for calculating pension input amounts. PTM058070 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070) has more details.
+
+Section 236(8) Finance Act 2004
+
+There is an ‘add-back’ provision for adjusting closing value for the pension input amount for defined benefits arrangements when, in the pension input period, the annual rate of the pension to which the member would be entitled under the arrangement has been reduced by a surrender in return for another entitlement or similar action. Such a reduction must have been made under an option available to the member under the arrangement.
+
+There is also an ‘add-back’ provision for adjusting the closing value for the pension input amount when certain BCEs occur, including a BCE 2 (when the member becomes entitled to a scheme pension).
+
+When a member is able to exchange an amount of ‘whole-life’ pension for a temporary bridging pension at normal pension age the ‘add-back’ provision is unlikely to apply if the annual rate of the member’s pension is increased, albeit for a limited period of time. Therefore, the amount of whole-life pension given up for the bridging pension would not be added back to the closing value of the pension input amount. However, the increased amount of pension represented by the temporary bridging pension will be included as part of the pension input amount calculation as it will be included as part of the BCE 2 that is added back to the closing value for the pension input amount.
+
+Example 1:
+
+- James has a normal pension age of 60
+
+- on retirement James can exchange some of his whole-life pension due for a temporary pension which is paid from the scheme’s normal pension age to age 65
+
+- the normal pension age rule specifies that the member’s benefit on retirement at normal pension age is a whole-life pension of service at normal pension age x 1/60ths of final pensionable salary at normal pension age
+
+- at the end of the previous pension input period, he has service of 30 years and final pensionable salary of £60,000
+
+- at end of the pension input period final pensionable salary is £62,000 and James retires at age 60 drawing pension
+
+- he exchanges £2,000 of whole-life pension for a temporary pension of £5,000 payable to age 65
+
+- pension input amount
+
+- opening value:
+
+- step 1 - find annual rate of pension entitlement just before the start of the pension input period
+
+- the member is still in service and has not exercised any option so the pension rate to reflect is the default whole-life pension
+
+- ‘PB’ = 30/60 x £60,000 = £30,000
+
+- step 2 - multiply result by 16
+
+- £30,000 x 16 = £480,000
+
+- step 3 - add on any separate lump sum
+
+- none so running total is £480,000
+
+- step 4 - increase amount for CPI (for the purpose of this example assume relevant CPI increase is 3%)
+
+- £480,000 x 1.03 = £494,400
+
+- closing value:
+
+- step 1 - find annual amount of rate entitlement at end of the pension input period
+
+- ‘PE’ under the valuation assumptions is zero initially because the member has started to draw all benefits and no benefits are uncrystallised in the arrangement
+
+- but during the pension input period the member started scheme pension so had a BCE2, for which the starting pension rate was as follows
+
+- [31/60 x £62,000 = £32,033.33] - £2,000 + £5,000 = £35,033.33
+
+- during the pension input period, the “annual rate of the pension to which the individual would be entitled under the arrangement” has been changed by a “surrender made in return for any other entitlement, any allocation made, or any similar action taken, pursuant to an option available to the individual under the arrangement”
+
+- therefore has there been an adjustment that must be added back
+
+- the answer is ‘no’ because the change is a rise in starting pension rate, and the adjustment arises only if there is a reduction
+
+- step 2 - multiply result by 16
+
+- £35,033.33 x 16 = £560,533.28
+
+- step 3 - add on any separate lump sum
+
+- none so running total is £560,533.28
+
+- if there are no further adjustments to the closing value, the pension input amount is £66,133.28 (£560,533.28 - £494,400)
+
+- choosing to exchange whole-life pension for some temporary pension has added £48,000 to the pension input amount
+
+- as the option to select a temporary pension only happens as retirement options are being finalised, there is no allowance for the temporary pension for pension input periods prior to retirement. Whether the member triggers an annual allowance charge will depend on the availability of unused annual allowance to carry-forward
+
+Example 2:
+
+- this example is exactly as for example 1 above but this time the member has a normal pension age of 65, and the option to exchange whole-life pension for bridging pension (payable solely until normal pension age) arises only on drawing benefits before normal pension age
+
+- data is as for example 1 but at the end of the pension input period the member reaches age 60 and is allowed to draw whole-life pension early but with a reduction for the early payment
+
+- again, just before the beginning of the pension input period, he has service of 30 years and final pensionable salary of £60,000
+
+- at the end of the pension input period final pensionable salary is £62,000 but the member immediately retires early at age 60 with an early retirement reduction of 20% (4% for each year of drawing pension early)
+
+- again, he exchanges £2,000 of scheme pension for a temporary pension of £5,000
+
+- pension input amount
+
+- opening value:
+
+- as above: £494,400
+
+- closing value:
+
+- step 1 - find the annual rate of pension entitlement at end of the pension input period
+
+- the basis and arithmetic is as above but starting with the lower whole-life pension
+
+- [31/60 x £62,000 x 0.8 (early retirement reduction) = 25,626.67] - £2,000 + £5,000 = £28,626.67
+
+- step 2 - multiply result by 16
+
+- £28,626.67 x 16 = £458,026.72
+
+- step 3 - add on any separate lump sum
+
+- none so running total is £458,026.72
+
+- the closing value is less than the opening value and there is no pension input amount in the final year
+
+- as the option to select a temporary pension only happens at retirement, there is no allowance for the temporary pension for pension input periods prior to retirement.

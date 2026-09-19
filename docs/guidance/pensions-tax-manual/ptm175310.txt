@@ -1,0 +1,87 @@
+Lump sum allowance and lump sum and death benefit allowance: Enhancement factors: Non-residence factor: Overview 
+Identifier: PTM175310
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175310
+Published: 2024-03-27T00:12:23+00:00
+Updated: 2024-08-13T11:20:06+01:00
+Retrieved (UTC): 2026-09-18T14:51:27.378657+00:00
+
+As of 6 April 2024 there is no longer lifetime allowance. If you are looking for information about protections, enhancement factors and the lifetime allowance charge please see these pages on The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022829/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm090000). If you are looking for information about the principles of lifetime allowance and benefit crystallisation events please see these pages of The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022836/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm080000).
+
+If you are looking for information about enhancement factors pre-April 2024 please see The National Archive (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305085920/https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm095000). The below guidance applies for individual’s seeking an enhancement factor from 6 April 2024 to 5 April 2025.
+
+Basic principles (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175310#basicprinciples)
+Active membership period (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175310#Activemembershipperiod)
+Who is a relevant overseas individual? (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175310#relevant)
+Who is not a relevant overseas individual? (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175310#notrelevant)
+
+Basic principles
+
+Paragraph 20B Schedule 36 Finance Act 2004
+
+Where an individual is working abroad, they will not receive tax relief on contributions to, or the accrual of benefits under, a registered scheme.
+
+Any resulting lump sum payments may count as relevant benefit crystallisation events and impact an individual’s lump sum death benefit allowance (LSDBA). For this reason there is a provision that values a member’s rights and protects their LSDBA.
+
+Paragraph 20B broadly provides for an individual’s lump sum and death benefit allowance to be enhanced for such a period of overseas service after 5 April 2006. The enhancement is achieved with a non-residence factor that is the used to adjust the lump sum and death benefit allowance figure.
+
+The non-residence factor is calculated in one of a number of difference ways depending on whether the individual’s arrangement under the registered pension scheme is:
+
+- A cash balance arrangement (PTM175320 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175320)),
+
+- A money purchase arrangement (PTM175330 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175330)),
+
+- A defined benefits arrangement (PTM175340 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175340)), or
+
+- A hybrid arrangement (PTM173510 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175310))
+
+Normally there will be only one type of arrangement in a registered pension scheme, in this case the basis of the calculation of the individual’s non-residence factor will be determined by which of the above types of arrangements it is.
+
+However, an individual could be accruing benefits under different types of arrangements within a single scheme. For example, a member of a defined benefits scheme could have two types of arrangement if they were paying additional voluntary contributions, one being a defined benefits arrangement and the other a money purchase arrangement. If that is the case separate non-residence factors will need to be calculated for each of the types of arrangement under which the individual is accruing benefits.
+
+Active membership period
+
+Paragraph 20B(6) and (7) Schedule 36 Finance Act 2004
+
+To qualify for a non-residence enhancement factor a registered pension scheme member has to be a relevant overseas individual during any part of an active membership period.
+
+An active membership period relates to an individual’s membership of an arrangement under a registered pension scheme. It begins on the later of the following dates:
+
+- The date when benefits first began to accrue to or in respect of an individual under the pension arrangement, and
+
+- 6 April 2006
+
+It ends on the earlier of the following dates:
+
+- The date when the benefits ceased to accrue to or in respect of the individual under the pension arrangement
+
+- 5 April 2024
+
+Who is a relevant overseas individual?
+
+Paragraph 20B(5) Schedule 36 Finance Act 2004
+
+A relevant overseas individual is someone who either:
+
+- Is not a relevant UK individual under section 189 Finance Act 2004 (meaning they don’t meet the definition in PTM044100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm044100)) or,
+
+- Is a relevant UK individual only in the following specified circumstance:
+
+- They are only a relevant UK individual because of the five year rule in section 189(1)(C) of the Finance Act 2004, and
+
+- They are not employed by a UK tax resident employer
+
+An individual who falls into this specified category will be eligible for UK tax relief on member contributions up to £3,600, for up to five years overseas service, if they are a member of a registered pension scheme that operates relief at source. But if they are working abroad for an overseas tax resident company it’s employer contributions will not attract UK tax relief.
+
+An individual may be seconded overseas to work for another employer but their legal contract of employment will remain with an employer in the UK. HMRC is likely to accept that the individual is ‘not employed by a person resident in the UK’ if the arrangements are such that all the employment costs of the individual (particularly pension costs) are being borne overseas. This would be the case if the costs were paid by the UK person but then recharged to the overseas employer. This is because the enhancement factor is intended to carve out periods of active membership of the scheme that have not benefitted from UK tax relief. In this context, tax relief is both that available to the member (ignoring the basic £3600) and that available to the employer.
+
+The scenario described above is to be distinguished from the situation where an individual is sent overseas by the UK employer to perform duties for the UK employer. Any recharge here will be a charge for work done by the UK employer for the overseas entity. The individual will be considered to be employed by a person resident in the UK so an enhancement factor will not be appropriate.
+
+It is possible to be a relevant overseas individual during more than one part of an active membership period relating to the same pension arrangement. For example, an individual could work overseas for 5 years, return to the UK for a year and then work overseas for another 5 years. The allowances will be enhanced by the aggregate of the non-residence factors calculated separately for each of those part-periods under that arrangement.
+
+Who is not a relevant overseas individual?
+
+An individual will not be an overseas individual for any tax year in which they are a relevant UK individual, apart from the specified circumstances above.
+
+So, for example, where someone who is resident and working in the UK goes to work overseas on 25 November 2006 they will not be considered a relevant overseas individual for the 2006-07 tax year, even if they become non-resident at the time they leave the UK. They will have had relevant UK earnings chargeable to UK income tax up to that date and so will be a relevant UK individual for the 2006-07 tax year. For a similar reason, if they were to return to work in the UK on 25 May 2009 they will not be a relevant overseas individual in the 2009-10 tax year.
+
+In these circumstances, enhancement by a non-residence factor would not be appropriate in respect of the 2006-07 and 2009-10 tax years. This is because the individual is eligible to receive UK tax relief under section 188 Finance Act 2005 on their contributions to a registered pension scheme during those years.

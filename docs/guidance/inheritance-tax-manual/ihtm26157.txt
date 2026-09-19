@@ -1,0 +1,90 @@
+Step 4 - four stage grossing calculations: example of a four stage calculation
+Identifier: IHTM26157
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26157
+Published: 2016-04-09T09:48:21+01:00
+Updated: 2022-02-07T14:27:32+00:00
+Retrieved (UTC): 2026-09-18T15:03:15.173746+00:00
+
+The following example is a straightforward four stage (IHTM26152 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26152)) grossing calculation involving an estate with property at only one title (IHTM26211 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26211)), no lifetime cumulation (IHTM31413 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31413)) and no interaction (IHTM26101). A more complex calculation where these aspects are involved can be found at IHTM26158 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26158).
+
+Example 1
+
+June dies in November 2000
+
+She leaves free Estate of £1.6M. No relievable property. No lifetime cumulation and no other property chargeable on the death.
+
+By Will
+
+- House and chattels (total value £200,000) to surviving spouse
+
+- Legacies of £147,000 free of tax each to the two children
+
+Residue
+
+- Half to the surviving spouse
+
+- Half equally between the two children.
+
+Stage 1
+
+Gross up the legacies totalling £294,000 to the children at the rate appropriate to their total value.
+
+£234,000 + ((100 ÷ 60) x (£294,000 - £234,000)) = £334,000
+
+Stage 2
+
+Calculate the initial determination of the chargeable part of the estate.
+
+Value of the estate = £1,600,000
+
+Grossed up value of chargeable specific gifts = £334,000
+
+Exempt specific gifts = £200,000
+
+Residue = £1,066,000 (£1,600,000 - £534,000 total specific gifts)
+
+Value of half exempt residue = £533,000
+
+Value of half chargeable residue = £533,000
+
+The chargeable free estate is £334,000 + £533,000 = £867,000
+
+Stage 3
+
+Re-gross the chargeable specific legacies
+
+Chargeable free estate = £867,000
+
+Tax on £867,000 (after nil-rate band) = £253,200
+
+Chargeable estate net of tax = £613,800
+
+The gross equivalent of £294,000 is £294,000 × (£867,000 ÷ £613,800) = £415,279
+
+Stage 4
+
+Calculate the chargeable estate.
+
+Value of the estate = £1,600,000
+
+Less grossed-up value of chargeable specific gifts £415,279
+
+Exempt specific gifts £200,000
+
+Total specific gifts = £615,279
+
+Residue = £984,721 (£1,600,000 - £615,279)
+
+Value of half exempt residue = £492,361
+
+Value of half chargeable residue = £492,360
+
+The chargeable free estate is:
+
+Value of the estate = £1,600,000
+
+Less exempt gifts to spouse £692,361 (£200,000 specific and £492,361 residue)
+
+Chargeable estate = £907,639
+
+(You can check this final step by adding together the chargeable gifts. £415,279 specific and £492,360 residue totals £907,639.)

@@ -1,0 +1,30 @@
+Savings and investment income: non-residents
+Identifier: SAIM1170
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim1170
+Published: 2016-03-19T16:23:16+00:00
+Updated: 2021-04-08T09:40:40+01:00
+Retrieved (UTC): 2026-09-18T14:25:55.885969+00:00
+
+Savings and investment income arising to non-UK residents
+
+A non-UK resident person is taxable on savings and investment income taxable under Part 4 ITTOIA05 only on income arising from a UK source (ITTOIA05/S368 (2)). The same rule applies to Miscellaneous Income (such as annual payments arising under Part 5 (ITTOIA05/S577 (2)).
+
+Limit on the tax liability on savings and investment income of non-residents
+
+Chapter 1 of Part 14 of ITA07 limits the liability to income tax of non-UK residents. ITA07/S811 provides that a non-UK resident’s income tax liability is limited to the sum of
+
+- tax deducted from, or treated as deducted from, or tax credits on ‘disregarded income’, and
+
+- the tax liability leaving out the disregarded income and with no personal allowances or double taxation relief taken into account.
+
+‘Disregarded income’ is savings and investment income (dividends and stock dividends from UK-resident companies, interest, purchased life annuity payments, deeply discounted securities, distributions from unauthorised unit trusts, transactions in deposits), annual payments, and certain types of pension income, social security income, and certain payments made through UK brokers.
+
+The effect is that the liability of a non-UK resident in respect of savings and investment income is limited to the income tax deducted from it or treated as deducted or paid in respect of it (at the savings rate, dividend rate, or basic rate, as appropriate - SAIM1080 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim1080)), or the tax credit it carries.
+
+This rule does not apply to trade income. See INTM260000 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm260000) onwards for guidance on non-residents trading in the UK (this will normally be through a permanent establishment or agency in the UK), where interest arises on an account or other interest-bearing asset connected with the trade.
+
+The rule in ITA07/S811 only applies when an individual has been non-resident for the entire tax year. It does not apply, therefore, in the overseas part of a split year.
+
+Double taxation agreements
+
+Double taxation agreements may provide for tax imposed by the UK in respect of UK source income of non-UK residents to be less than the savings or basic rate, or for it to be exempt. See the Double Taxation Relief Manual (DTRM (https://www.gov.uk/hmrc-internal-manuals/double-taxation-relief)).

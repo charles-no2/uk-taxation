@@ -1,0 +1,116 @@
+Use of trading income rules: splitting receipts and expenses between years: examples
+Identifier: PIM1102
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1102
+Published: 2016-04-10T16:22:51+01:00
+Updated: 2024-12-13T13:36:35+00:00
+Retrieved (UTC): 2026-09-18T14:27:47.164395+00:00
+
+An example showing when income earned is recognised
+
+Logan lets a property. He charges a rent annually in advance as follows:
+
+-
+
+due 1 January 2021 - £100,000,
+
+-
+
+due 1 January 2022 - £120,000.
+
+Taking account of the odd days from 1 - 5 April the rent chargeable for 2021-22 is worked out like this (rounding each calculation up or down to the nearest pound):
+
+-
+
+The rent due on 1 January 2021 relates partly to 2020-21 (just over three months) and partly to 2021-22 (just under nine months). So the amount chargeable for 2021-22 is 270 / 365 days x £100,000 = £73,973.
+
+-
+
+The rent due on 1 January 2022 relates partly to 2021-22 (just over three months) and partly to 2022-23 (just under nine months). So the amount chargeable for 2021-22 is 95 / 365 days x £120,000 = £31,233.
+
+-
+
+The total chargeable for 2021-22 is therefore £105,206 (£73,973 + £31,233).
+
+The part of the rent charged for the use of Logan's property in January, February and March 2022 is included in his 2021-22 computation even if none of the rent due on 1 January 2022 is received until after 5 April 2022. See PIM1101 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1101) for more about the methods of splitting receipts and expenses between tax years.
+
+An example showing when expenses are deductible
+
+Judy owns a property which she lets:
+
+-
+
+Judy has the property painted during March 2022; the work is finished before the end of the month,
+
+-
+
+she is billed on 3 May 2022, and
+
+-
+
+she pays that bill on 31 May 2022.
+
+Judy deducts the full amount of the bill from the rental income for the year ended 5 April 2022. This is the year to which the work related. That same bill cannot be deducted again in the year ended 5 April 2023 when it is paid because the expenditure is not for maintenance work for the year ended 5 April 2023 (and relief has been given in the previous year).
+
+Suppose Judy was also due to pay the following insurance premiums on the property:
+
+-
+
+£1,000 on 1 January 2021, this provides cover for the year ended 31 December 2021,
+
+-
+
+£1,200 on 1 January 2022, this provides cover for the year ended 31 December 2022.
+
+Just under three quarters of the £1,000 paid on 1 January 2021 (about £750) provides cover for the period 6 April 2021 to 31 December 2021 (just under nine months). Just over a quarter of the £1,200 paid on 1 January 2022 (about £300) provides cover for the period 1 January 2022 to 5 April 2022 (just over three months). So the total insurance premium deductible for the year ended 5 April 2022 is £1,050, being:
+
+-
+
+£1,000 x 9 / 12 months = £750,
+
+plus
+
+-
+
+£1,200 x 3 / 12 months = £300.
+
+Further Examples
+
+As you will have seen from the examples above, it is sometimes necessary to time apportion figures to find the amount attributable to the tax year ending on 5 April. To simplify the computations for the purpose of explaining the principle in Judy's example, the five odd days at the beginning and end of the year (1 April to 5 April) were ignored. This can be done provided it is done consistently for all items in the computation (both receipts and expenses) and the figures are small. Strict daily apportionment calculations are needed where the figures are substantial and a strict comparison would produce a materially different result.
+
+For example, in the case of Judy's insurance premiums, the apportionment was made using whole months (see example above). A strict daily calculation of the premiums attributable to 2021-22 is as follows (rounding answers up or down to the nearest pound):
+
+-
+
+£1,000 premium due 1 January 2021 x 270 / 365 days = £740,
+
+plus
+
+-
+
+£1,200 premium due 1 January 2022 x 95 / 365 days = £312.
+
+The total amount Judy can deduct on the strict basis is therefore £1,052, compared to £1,050 on the whole month basis. The difference here is negligible and the whole month basis is acceptable.
+
+Unusual patterns of rental payments
+
+Sometimes landlords will grant a lease with an initial rent-free period. For example, a landlord may grant a 20-year lease with five years to run to the next rent review. No rent is payable in the first year and a rent of £10,000 a year is payable in years 2 to 5 inclusive. There are many variations on this theme.
+
+Accountancy practice in this area is developing. Under UK accounting practice (UITF28) the total rent due is spread evenly over the period of the lease to which it relates. This normally means over the period to the next rent review. Even spreading applies both to the tenant paying the rent under a lease of a property and to the landlord who gets the rent.
+
+In the example, the total rent due in the first five years (£40,000) is split evenly between the years so that £8,000 relates to each of the first five years. The landlord brings in £8,000 of receipts each year. The tenant deducts £8,000 rent each year. This treatment reflects the substance of the matter; there isn't really a rent-free year, the total rent under the lease secures the property for the whole five years.
+
+A straight-line spread isn't necessarily the only correct basis, but any other basis needs to be properly justified as being, in all the circumstances, a more rational and systematic solution. In most cases there will be no better way of dealing with the problem.
+
+For periods of account beginning on or after 1 January 2005 companies and other entities, for example partnerships and unit trusts, may use international accounting standards for tax purposes. The international standard equivalent to UITF28 is SIC15 (lease incentives). They give different results:
+
+-
+
+Under UITF28 the lease incentive is spread over the shorter period of the lease term and the date of the first rent review to market rates.
+
+-
+
+Under SIC15 the incentive is spread over the lease term regardless of the rent review periods.
+
+For more about the relationship between tax and accountancy see BIM31000 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim31000) onwards.
+
+The summary given above includes a broad outline of the principles that apply for computing trading income. For detailed guidance refer to the Business Income Manual.

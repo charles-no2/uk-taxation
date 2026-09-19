@@ -1,0 +1,64 @@
+Reorganisations of share capital: apportioning costs after a rights issue
+Identifier: CG51930
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51930
+Published: 2016-03-12T11:25:49+00:00
+Updated: 2023-05-04T11:06:49+01:00
+Retrieved (UTC): 2026-09-18T14:42:31.939332+00:00
+
+The following example illustrates the computation if there is a rights issue of different classes of unquoted share in respect of unquoted shares in a Section 104 holding, so that the resulting new holding contains more than one class of share, or shares and debentures.
+
+Example
+
+- May 2002 a taxpayer buys 5,000 £1 Ordinary shares in J Ltd, an unquoted company, at a price of 400p per share. Total cost £20,000.
+
+- November 2005 a rights issue at par of one £1 Preference share for every four shares held. The taxpayer takes up the full entitlement. Total cost £1,250. None of the shares are quoted so TCGA92/S129 applies. The original shares are the 5,000 Ordinary shares and the new holding consists of the 5,000 Ordinary shares plus the 1,250 Preference shares.
+
+- January 2010 the taxpayer sells 1000 £1 Preference shares at £1.10 per share. Disposal proceeds £1,100.
+
+In January 2010 the market values of the components in the new holding are
+
+- |  Share price |
+
+£1 Ordinary share |  £10 per share |
+
+£1 Preference share |  £1.10 per share |
+
+The approach is similar to that where there has been a bonus issue (see CG51920), but the £1,250 paid for the Preference shares is treated as having been given for the original shares (TCGA92/S128(1)) and is added the £20,000 cost of the original shares before the total is apportioned between the two pools which constitute the new holding, by reference to the market values of the shares at the time of the disposal, TCGA92/S129.
+
+Determine the cost of the pool of £1 Ordinary shares
+
+The proportion of the cost of the original shares is given by (Market value of 5,000 £1 Ord. shares) / (Market value of the whole of the new holding), ie
+
+(5,000 x £10) / [(5,000 x £10) + (1,250 x £1.10)] = 97.32%
+
+So the allowable cost of the pool of 5,000 Ordinary shares is 97.32% x (£20,000 + £1,250) = £20,681
+
+Determine the cost of the pool of £1 Preference shares
+
+The proportion of the cost of the original shares is given by (Market value of 1,250 £1 Pref. shares) / (Market value of the whole of the new holding), ie
+
+(1,250 x £1.10) / [(5,000 x £10) + (1,250 x £1.10)] = 2.68%
+
+So the allowable cost of the pool of 1,250 Preference shares is 2.68% x (£20,000 + £1,250) = £569
+
+Compute the gain on the disposal of 1000 preference shares
+
+This is a part-disposal of the section 104 pool, a single asset consisting of 1,250 Preference shares with an allowable cost of £569 (see above). Section 129 does not apply further, and so the cost attributable to the shares sold is determined by section 42. The proportion of the cost of the pool is given by (consideration for the disposal divided by [consideration for the disposal plus the market value of property undisposed of]), ie
+
+(1000 x £1.10) / [(1000 x £1.10) + (250 x £1.10)] = 1,100 / 1,375 = 80%
+
+The computation of the gain is
+
+- |  Amount |  - |
+
+Consideration received: |  £1,100 |  - |
+
+Less Cost |  £455 |  (80% x £569) |
+
+Gain |  £645 |  - |
+
+The cost of the pool of ‘A’ Ordinary shares carried forward is £569 - £455= £114
+
+Indexation allowance
+
+Indexation allowance due to individuals, trustees and personal representatives was frozen as at April 1998 and ceased to be available altogether in respect of disposals on or after 6 April 2008. If a disposal of part of a new holding is subject to indexation allowance the computation will differ from the example above. If you need guidance in such cases, please refer to Specialist PT (CG Technical) Solihull.

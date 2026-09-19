@@ -1,0 +1,48 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Individuals: Special rules, and computation: Existing CGT provisions for individuals chargeable to Non-resident CGT: Attribution of gains to other persons 
+Identifier: CG73771
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73771
+Published: 2018-10-16T15:50:32+01:00
+Updated: 2019-10-23T12:18:54+01:00
+Retrieved (UTC): 2026-09-18T14:46:30.594641+00:00
+
+Attribution of gains to members of non-resident companies under TCGA92/S13*
+
+TCGA92/S13* contains anti-avoidance legislation, the broad aim of which is to prevent people in the UK from setting up non-resident companies which they control for the purpose of holding assets, to keep gains on those assets outside the scope of CGT and CT. Where S13* applies, it attributes gains realised by non-resident companies (which would be close if UK resident) to UK resident participators in the company (or participators that are non-UK close companies or non-UK resident trustees of a settlement).
+
+To prevent double taxation, the new legislation disapplies S13* on the part of a gain where the company would otherwise also be subject to a charge to non-resident CGT.
+
+Example
+
+X Ltd is a Channel Islands company. It is controlled by its two 50% shareholders who are UK residents. It would be treated as a close company if it were UK resident. Among its portfolio of assets it owns a UK residential property purchased in April 2010.
+
+In April 2016 it disposes of the property, realising a gain.
+
+TCGA92/S13* cannot apply to a part of the gain that is ATED related (see CG73602 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73602)+). In addition with the introduction of NRCGT in 2015 the company could also be directly charged to CGT under section 14D* on part of the gain arising after 5 April 2015.
+
+Sched 4ZZB/para 10 prevents double taxation of the same gain by disapplying section 13* in relation to the post April 2015 gain. This has the effect that the NRCGT charge takes precedence for that gain.
+
+Section 13* would continue to apply to the part of the gain arising before 6 April 2015 that was not chargeable to ATED related CGT.
+
+Attribution of gains to settlors with interest in non-resident settlements under TCGA92/S86
+
+TCGA92/S86 serves to prevent people in the UK setting up non-resident trusts to keep gains outside the scope of CGT and CT (see CG38430 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38430)+).
+
+Where gains accrue to non-resident trusts in respect of any settled property “originating from the settlor”, that would be chargeable gains under TCGA92/S2(2)* if the trustees were UK resident, the gains are attributed to settlors who have an interest in the trust, and are chargeable to CGT.
+
+The new legislation contains provisions amending S86 to prevent possible double taxation (the trustees of a non-UK resident settlement being charged non-resident CGT on a gain accruing to them and S86 treating the same gain as accruing to a UK settlor). A disposal of settled property which is a non-resident CGT disposal is disregarded for the purposes of the S86 charging provisions, to the extent that a chargeable non-resident CGT gain accrues to the trustees. The new charge to non-resident CGT therefore takes priority over a charge under TCGA92/S86.
+
+Attribution of gains to beneficiaries of non-resident settlements under TCGA92/S87
+
+TCGA92/S87 imposes a charge on beneficiaries of non-resident trusts where S86 does not apply (see CG38570 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38570)+). Gains accruing to non-UK resident trustees are treated as chargeable gains accruing to beneficiaries, to the extent that the beneficiaries receive matched capital payments from the trustees. TCGA92/S91 increases the tax payable by an interest-related factor where the capital payment is made more than one year after the end of the relevant tax year.
+
+The new legislation amends S87 to prevent potential double taxation (the trustees of a non-UK settlement charged non-resident CGT on a gain accruing to them, and the same gain treated as accruing to the beneficiaries of the trust under S87).
+
+TCGA92/S87(5A) provides that where a disposal of settled property is a non-resident CGT disposal, it is disregarded for the purposes of the charging provisions in S87, to the extent that a chargeable non-resident CGT gain accrues to the trustees. In the same way as for S86, the new charge to non-resident CGT takes priority over a charge under TCGA92/S87.
+
+Transfers of value by trustees, attribution of gains to beneficiaries under TCGA92/Sch 4C
+
+TCGA92/Sch 4C is part of a series of anti-avoidance provisions introduced to counter ‘flip flop’ schemes, involving trustees of a non-resident trust borrowing funds on the value of settled property and making loans to another trust. In broad terms, gains on deemed disposals are attributed to the settlor or else are allocated to beneficiaries in receipt of capital payments (see CG39100 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39100)+).
+
+The new legislation contains provisions amending Sch 4C to prevent double taxation (a charge to non-resident CGT arising directly on the trustees on a disposal of a UK residential property interest, and a possible charge on beneficiaries on a deemed disposal of the same interest). Sch 4C is therefore disapplied in relation to disposals by the trustees that are non-resident CGT disposals, so that no deemed disposal accrues to the trustees at the time they make a transfer of value or there is trustee borrowing. Instead non-resident CGT would apply at the time of an actual disposal.
+
+*These sections were re-written for disposals from 6 April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150)

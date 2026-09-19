@@ -1,0 +1,50 @@
+Introduction to cryptoassets: record keeping
+Identifier: CRYPTO10400
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto10400
+Published: 2021-03-30T09:02:49+01:00
+Updated: 2021-03-26T10:04:46+00:00
+Retrieved (UTC): 2026-09-18T16:18:27.041655+00:00
+
+Cryptoasset exchanges may only keep records of transactions for a short period, or the exchange may no longer be in existence when an individual completes a tax return.
+
+The onus is therefore on the individual to keep their own records for each cryptoasset transaction.
+
+Records of cryptoassets can be:
+
+- paper (cold) wallets containing the individual’s public and private keys
+
+- electronic (hot) wallets on devices
+
+- other records of their transactions and balances such as downloads of their wallet activity from a cryptoassets exchange
+
+- hardware (cold) wallets looking like a USB, containing the individual’s public and private keys.
+
+Cryptoassets are digital assets and as such all records in a wallet should show balances and transactions, either in full or via reference to a public blockchain. The individual’s access to fiat currency could come from:
+
+- the point of deposits into a bank account; and
+
+- use of a cryptoasset Automated Teller Machine (ATM)
+
+These are records which should also be kept and produced for an enquiry. They form part of the audit trail from acquisition to disposal and therefore evidence of any gains made.
+
+Cryptoasset transactions usually occur on a public blockchain (see CRYPTO10200 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto10200)), so can be viewed digitally and checked using records obtained from a wallet. A link to an open source blockchain transaction and acknowledgement of the individual owning the public key involved in the transaction is a record as is a download from their wallet provider or exchange.
+
+Cryptoassets are obtained, administered, exchanged, used and linked to fiat currency electronically or digitally. It is therefore reasonable to request electronic records with full details of transactions and any supporting valuation records for the acquisition and disposal tax points.
+
+Cryptoasset exchanges may only keep records of transactions for a short period, or the exchange may no longer be in existence when an individual completes a tax return.
+
+The onus is therefore on the individual to keep their own records for each cryptoasset transaction, and these must include:
+
+- the type of cryptoasset
+
+- date of the transaction
+
+- if they were bought or sold
+
+- number of units involved
+
+- value of the transaction in pound sterling (as at the date of the transaction)
+
+- cumulative total of the investment units held
+
+- bank statements and wallet addresses, in case these are needed for an enquiry or review.

@@ -1,0 +1,66 @@
+Ten year anniversary: adjusting settlor's PLCT  where there are additions before the TYA
+Identifier: IHTM42090
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42090
+Published: 2016-04-09T10:23:56+01:00
+Updated: 2023-08-10T16:03:21+01:00
+Retrieved (UTC): 2026-09-18T15:09:27.888927+00:00
+
+IHTA84/S67 (1) applies in calculating the property to be cumulated for calculating rate where
+
+- after the settlement commenced and after 8 March 1982
+
+- but before the ten year anniversary (TYA)
+
+- the settlor made an addition to the trust. (A chargeable transfer as a result of which the value of the property comprised in the trust was increased.)
+
+How it works
+
+Where S67 (1) applies,
+
+- Instead of using the settlor’s previous lifetime cumulative total (the chargeable transfers in the seven years before the trust started),
+
+- if it is greater, use the total of chargeable transfers in the seven years before the addition occurred. But disregarding transfers made on that day, or before 27 March 1974.
+
+If the settlor has made more than one addition, take the highest figure.
+
+If the seven year period brings in the sum originally settled, exclude that amount. It will be brought into account in the TYA charge generally.
+
+Note that
+
+- TYA means first and subsequent TYAs
+
+- Only additions by the settlor trigger the provisions
+
+- But S67 is not triggered by property becoming relevant property in the settlement
+
+- The transfer must be a chargeable transfer. Potentially exempt transfers (PETs) are not chargeable transfers unless the settlor dies within 7 years.
+
+- It is the value of the fund which must be increased and not necessarily the amount of property in the fund.
+
+- Transfers that may have the effect of increasing the value of the fund are ignored if they are not primarily intended to have that effect and do not increase the value by more than 5%.
+
+- The chargeable transfer need not be made to the ‘discretionary’ part of the settlement. S67 refers to ‘the settlement’.
+
+- The termination of any interest in possession which the settlor has in (other parts of) the settlement is taxable under IHTA84/S52 (1) and is therefore a transfer of value under IHTA84/S3 (4) and a chargeable transfer under IHTA84/S2. Such a termination would trigger S67.
+
+- The addition to the settlement is not itself part of the new previous cumulative total.
+
+- The settlement’s own cumulative record between TYAs, proportionate/exit charges, plays no part in a S67 calculation.
+
+Example
+
+Andrew made a settlement on 14 December 1998 when his personal cumulative total was £36,000.
+
+The first TYA was charged on 14 December 2008, fund value £560,000 and £36,000 cumulated.
+
+- In 2012 and 2013 Andrew transferred property to two other family settlements. The value of these transfers was agreed at £203,000 after annual exemptions. He made no other transfers until, on 27 August 2016, he gave the trustees of the 14 December 1998 settlement a cheque for £10,000.
+
+- This chargeable transfer triggers S67.
+
+- In calculating the TYA on 14 December 2018, S67(3) directs that the higher of the two possible cumulative figures be used:
+
+either the original previous cumulative total (PCT) or, if higher, the PCT in the 7 years prior to his chargeable transfer of £10,000, S67(3)(b).
+
+That PCT is therefore £203,000. If the original PCT had been £204,000 rather than £36,000 we would simply stick with £204,000.
+
+The IHTA directs that we must use the higher figure.

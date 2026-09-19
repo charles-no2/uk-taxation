@@ -1,0 +1,36 @@
+Deeply discounted securities: introduction
+Identifier: SAIM3010
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim3010
+Published: 2016-03-19T16:25:07+00:00
+Updated: 2018-11-20T12:41:28+00:00
+Retrieved (UTC): 2026-09-18T14:26:13.367333+00:00
+
+Background
+
+This section of the Savings and Investment Manual explains the tax treatment of ‘deeply discounted securities’ (‘DDS’). These are government securities and commercial bonds and loan stock, where the amount paid on redemption is higher than the price at which they were issued. The difference is the discount and represents the whole or part of the reward to the holder of the security for the use of the money borrowed by the security issuer. Where certain conditions apply, the tax rules ensure that gains on such securities are taxed as income, rather than as capital gains.
+
+These rules only apply to a holder of such securities who is subject to income tax. They do not apply to the issuer. Nor do they apply for the purposes of corporation tax. For a company, whether as holder or issuer, a discounted security is a loan relationship chargeable under the rules of Corporation Tax Act 2009 Part 5, with particular rules applying to deeply discounted securities held by connected companies (see the Corporate Finance Manual - CFM35000 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm35000)).
+
+The tax rules
+
+The tax rules are set out in Part 4, Chapter 8 of the Income Tax (Trading and Other Income) Act 2005 (ITTOIA05), in sections 427 to 460. This legislation replaced the rules in FA96/SCH13, which referred to such securities as ‘relevant discounted securities’. The FA 1996 rules in turn replaced earlier legislation which referred to ‘deep discount’ and ‘deep gain’ securities.
+
+With two small exceptions there were no substantive changes in the law arising from the change in terminology from ‘relevant discounted securities’ to ‘deeply discounted securities’.
+
+The term ‘security’ is not defined in the legislation. It may be taken to have a broad meaning comparable to the definition in TCGA/S132 (3)(b) (CG53420 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53420)).
+
+Other discounts
+
+The rules at ITTOIA05/S427 onwards only apply to ‘deep discounts’. Discounts that do not fall within the DDS rules are taxed in accordance with ITTOIA05/S381 (see SAIM2230 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2230)).
+
+The Accrued Income Scheme does not apply to deeply discounted securities
+
+Where interest is payable on a deeply discounted security, transfers are not treated as such for the purposes of Part 12 of ITA07. In effect the Accrued Income Scheme does not apply to deeply discounted securities. See SAIM4000 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4000) for more about the Accrued Income Scheme.
+
+Capital gains
+
+Some deeply discounted securities will be ‘qualifying corporate bonds’ (QCBs) and exempt from capital gains tax. See CG54600 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg54600) onwards for further guidance.
+
+Anti-avoidance
+
+A number of avoidance schemes have sought to exploit the deeply discounted securities scheme (or the predecessor legislation). Such schemes may, for example, involve securities that satisfy the literal meaning of a deeply discounted security but have unrealistic redemption dates or other features inserted into the terms on which the security is issued. The Court of Appeal held against such a scheme in the case of Astall & Edwards v HMRC (TC2835). Artificial arrangements where avoidance is suspected should be reported to Counter Avoidance.

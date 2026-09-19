@@ -1,0 +1,100 @@
+Reliefs: replacement of business assets (roll-over relief): partnerships
+Identifier: CG60288
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg60288
+Published: 2026-06-08T12:42:12+01:00
+Updated: 2026-06-11T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:33:52.838750+00:00
+
+Section 59(1) of the Taxation of Chargeable Gains Act (TCGA) 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/59) treats dealings in partnership assets as dealings by the partners rather than by the partnership itself. A partnership cannot make a claim for roll-over relief. However, each individual partner can claim relief, but only:
+
+-
+
+to the extent of their interest in the old and the new assets
+
+-
+
+if those assets are used for the purposes of a trade carried on by them (either alone or in partnership)
+
+To determine the amount of relief due, each partner’s share of:
+
+-
+
+the disposal consideration for the old assets
+
+-
+
+the cost of acquiring the new assets
+
+must be established. Guidance on the computation and the method of charging gains on disposals of partnership assets is at CG27000C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27000c).
+
+Roll-over relief is also available to members of a Limited Liability Partnership (LLP), provided the conditions for relief are met. When an LLP ceases to trade, the LLP ceases to be treated as transparent for tax purposes and is instead treated as a body corporate. In certain circumstances, section 156A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/156A) requires rolled-over gains to be brought back into charge immediately before the transparency treatment ends (see CG27050 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27050)). The chargeable gain will be equal to the amount of the postponed gains that have not at that time come back into charge.
+
+Example: roll-over relief computation for partners
+
+A and B formed a partnership and acquired freehold trading premises costing £100,000 (including incidental expenses), held in equal shares.
+
+A few years later, the premises were sold for £340,000 net of expenses. The following year, the partnership acquired new freehold trading premises for £400,000. A held a three-fifths share in the new property, and B held two-fifths.
+
+-
+
+A: £170,000 disposal proceeds – £50,000 acquisition cost = £120,000 chargeable gain
+
+-
+
+B: £170,000 disposal proceeds – £50,000 acquisition cost = £120,000 chargeable gain
+
+The rolled-over gain is deducted from the cost of the new asset:
+
+-
+
+A acquired a new asset costing more than the consideration received for the old asset. Full roll-over relief is available (see CG60290 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg60290)). A’s revised acquisition cost = £240,000 – £120,000 = £120,000
+
+-
+
+B acquired a new asset costing less than the consideration received for the old asset. Partial roll-over relief is available (see CG60290 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg60290)). B’s revised acquisition cost = £160,000 – £110,000 = £50,000.
+
+Rent charged by partners
+
+Statement of Practice D11 (https://www.gov.uk/government/publications/statement-of-practice-d11) explains that roll-over relief is available for assets used in the partnership trade that are owned by an individual partner, even where the partnership pays rent to that partner.
+
+Partition of land
+
+Where partners exchange interests in jointly owned land that constitutes a single asset (see CG71800 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71800)), statutory roll-over relief cannot be claimed. This is because:
+
+-
+
+the land itself is the physical asset
+
+-
+
+the exchange does not constitute an acquisition of “other assets” or an interest in “other assets”
+
+However, under Extra Statutory Concession (ESC) D23, where land used for the purposes of a trade carried on in partnership is partitioned, the land acquired by each partner is treated as a new asset for roll-over relief purposes provided that the partnership is dissolved immediately afterwards. This concession also applies to other relevant assets acquired on partition.
+
+There is no requirement for each partner to become the sole owner of a part of the land. This distinguishes ESC D23 from the statutory provisions at sections 248A to 248E TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/part/vii/crossheading/joint-interests-in-land) (see CG73000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73000)).
+
+Example – partition of land in partnerships
+
+A, B and C jointly and equally owned land, which they had farmed in partnership since its acquisition.
+
+A wished to leave the partnership and to farm one-third of the land alone.
+
+B and C wished to remain in partnership, farming the remaining two-thirds.
+
+A's interest in two-thirds of the land was exchanged for B and C's interest in one-third of the land. Immediately afterwards:
+
+-
+
+the partnership was dissolved
+
+-
+
+A began farming the one-third now owned outright
+
+-
+
+B and C began farming the remaining two-thirds as a new partnership
+
+Depending on the valuations of the interests exchanged, relief is available to each of A, B and C under ESC D23.
+
+If, however, B and C had ceased to farm and had instead let the two-thirds of land they retained, that land would not have been used for trade purposes. In that case, only A would have been entitled to relief.

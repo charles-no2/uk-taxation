@@ -1,0 +1,28 @@
+The benefits code; beneficial loans: calculation of  the cash equivalent: the alternative precise method
+Identifier: EIM26230
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26230
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T12:24:47+01:00
+Retrieved (UTC): 2026-09-18T14:12:18.162709+00:00
+
+Section 183 ITEPA 2003
+
+The cash equivalent of the benefit of most beneficial loans is calculated normally using the averaging method (see EIM26210 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26210)). However either the employee or the Inspector can elect to use an alternative method, the precise method.
+
+See EIM26245 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26245), which tells you to consult an Inspector when use of the averaging method would put tax at risk.
+
+The calculation using the precise method is more complex. It does however give an exact result. It also overcomes the problem of fluctuating loans mentioned in EIM26225 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26225).
+
+Broadly the precise method involves:
+
+- for each day in the tax year that the loan (or loans if they are to be aggregated, see EIM26180 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26180)) is outstanding
+
+- dividing the official rate for that day (see EIM26104 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26104)) by 365 and
+
+- applying that to the maximum balance (see EIM26212 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26212)) on the loan for that day (or the total of the maximum balances if loans are aggregated).
+
+Any interest paid on the loan for the tax year is then deducted to arrive at the chargeable benefit for that year.
+
+See EIM26231 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26231) for a detailed step-by-step approach to calculation using the precise method.
+
+See EIM26300 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26300) for a list of examples showing the precise method of working out the cash equivalent of a beneficial loan.

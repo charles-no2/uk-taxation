@@ -1,0 +1,72 @@
+Remittance basis: accessing the remittance basis: remittance basis charge - nomination of foreign income and gains: example - insufficient nomination
+Identifier: RDRM32370
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm32370
+Published: 2016-03-09T17:30:56+00:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:29.799087+00:00
+
+From 6 April 2025 it is not possible to use the remittance basis of taxation, however, any foreign income or gains that have arisen to a former remittance basis user prior to this date will continue to be taxed at the usual tax rates if they are remitted to the UK on or after 6 April 2025, subject to any amounts designated under the temporary repatriation facility (TRF) – see RDRM71000 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm71000).
+
+The guidance in this section only applies to tax years up to and including the 2024-25 tax year and remains for reference purposes only.
+
+Isabella is a non-domiciled long-term UK resident who has claimed the remittance basis for 2014-15. She has £80,000 of UK employment income, and her un-remitted foreign income and foreign gains for the year are as follows:
+
+- relevant foreign income - bank interest £45,000
+
+- foreign employment income £5,000
+
+- foreign capital gains £190,000
+
+Isabella pays tax at a 40% tax rate on her nominated income and 28% on her nominated foreign gain. Nominated income and gains are taxed as if the remittance basis did not apply to them (ITA07 s809H(2)). Isabella chooses to nominate £10,000 of her foreign gains, and £40,000 of her bank interest (RFI), which creates a relevant tax increase of only £18,800
+
+Under section 809H(4) a further £28,000 of foreign income is treated as having been nominated, to create a further £11,200 of income tax due.
+
+Calculation (a)
+
+Non-savings income
+
+- £31,865 x 20% = £6,373
+
+- £48,135 x 40% = 19,254
+
+Savings income
+
+- £40,000 (nominated RFI) x 40% = £16,000
+
+- £28,000 x 40% (2) = £11,200 (foreign income (1) nominated under s809H(4)
+
+Capital gains
+
+- £10,000 x 28% (4) = £2,800
+
+Total income tax and CGT due £55,327 (3)
+
+Calculation (b)
+
+Non-savings income
+
+- £31,865 x 20% = £6,373
+
+- £48,135 x 40% = £19,254
+
+Total income tax due £25,327 (3)
+
+Relevant tax increase:
+
+- is total (a) £55,327
+
+- less total (b) £25,327
+
+- equals £30,000
+
+Notes
+
+- Section 809H(4) only allows an amount to be treated as foreign income, not capital gains, regardless of whether the individual has sufficient income to have made such a nomination. The actual composition of their offshore portfolio or their own nominations is irrelevant.
+
+- Income merely treated as nominated will be taxed at the prevailing higher rate for employment/savings income, but it is not necessary to determine its precise nature.
+
+- As a remittance basis user, Isabella has no personal allowances due.
+
+- Rates used here for the purposes of this example only; use the rates applying in the relevant tax year.
+
+Also refer to RDRM35100 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35100): remittances of nominated income or gains for details about the rules that may apply if Isabella remits any of her nominated income or gains in later years.

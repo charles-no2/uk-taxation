@@ -1,0 +1,46 @@
+Computation of gain in non-sterling currency
+Identifier: CG40900
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg40900
+Published: 2016-03-12T11:02:32+00:00
+Updated: 2016-01-25T16:52:30+00:00
+Retrieved (UTC): 2026-09-18T14:31:56.987479+00:00
+
+CTA10/S9C
+
+S66 FA13 introduced new legislation at S9C CTA10 permitting companies to compute gains on the disposal of certain assets in their non-sterling currency, if certain criteria are met.
+
+The new legislation applies to disposals made on or after 1st September 2013.
+
+Assets falling within the new legislation are defined as:-
+
+- Shares, or interests in shares as defined in Sch7AC TCGA92
+
+- Ships, and
+
+- Aircraft. (aircraft engines as a separate asset are not covered).
+
+This definition includes the benefit of a contract which relates to a ship or aircraft and to which S67CAA01 applies.
+
+Companies covered by the new legislation are defined as companies with a non-sterling relevant currency at any point from incurring the expenditure up to the date of disposal.
+
+“Relevant currency” is defined as either
+
+- the functional currency at that time (CTA10/S9C(2)) or,
+
+- in the case of an UK resident investment company, its designated currency where this differs from its functional currency (CTA10/S9C(3)).
+
+Functional currency is defined for tax purposes at CTA10/S17(4) as the currency of the primary economic environment in which the company operates. This may be Sterling, or another currency.
+
+If, at the time of disposal, either of the above conditions are met and the relevant currency is not sterling, then the chargeable gain or loss accruing is calculated in the relevant currency and converted into sterling at the spot rate at the date of disposal.
+
+In calculating the gain or loss any consideration given in a currency other than the company’s relevant currency should be translated into that relevant currency at the spot rate at the date of disposal.
+
+In calculating the gain or loss, any expenditure incurred in a currency other than the relevant currency is converted into the relevant currency at the time at the spot rate on the day it is incurred. This mirrors the rule applying when chargeable gains are calculated by reference to sterling and the company incurs expenditure in a non-sterling currency.
+
+A further conversion at the spot rate will occur on any subsequent date (before the disposal date) when the company’s relevant currency changes.
+
+Any currency conversions should be carried out in date order, earliest first, with adjustments for expenditure incurred made before adjustments for subsequent changes in the company’s relevant currency.
+
+Where the company is treated as acquiring the asset at market value, or at consideration giving rise to nil gain/loss under any other provisions then, for the purposes of CTA10/Sch9C the allowable expenditure is treated as incurred by the company at that date and converted into the relevant currency (CTA10/S9C(10)).
+
+The Exchange Gains and Losses (Bringing into Account Gains or Losses) (Amendment) Regulations 2013 amended the relevant regulations to apply a similar treatment to hedges.

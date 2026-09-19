@@ -1,0 +1,28 @@
+Employee benefit trusts: dispositions by a company: general
+Identifier: IHTM42953
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42953
+Published: 2016-04-09T10:26:53+01:00
+Updated: 2025-10-13T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:11:31.282635+00:00
+
+A charge to tax cannot arise on contributions that are made to an employee benefit trust (EBT) by a company that is not a close company (IHTM42955 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42955)). This is because a chargeable transfer (IHTM04027 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04027)) can only be made by an individual, IHTA does not generally apply to a public limited company; although see (IHTM42955 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42955)).
+
+Even so, where a company is the settlor of an EBT, the trust itself will be subject to Inheritance Tax in the normal way. The long-term UK residence (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)) status of the settlor (on or after 6 April 2025) or the domicile (IHTM13000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13000)) of the settlor (before 6 April 2025) will be particularly relevant.
+
+Long-term residence of settlor
+
+On or after 6 April 2025, the long-term UK residence status of the settlor is relevant when considering whether or not property situated outside the UK is excluded property (IHTM16162 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16162)). IHTA84/S6C confirms that a company is a long-term UK resident at all times in a tax year if it was incorporated in the UK or if it was chargeable to corporation tax by virtue of CTA09/S5(1) in the previous tax year (see IHTM47025 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47025)) and (INTM120030 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm120030))
+
+Domicile of settlor
+
+For times before 6 April 2025, the domicile of the settlor was relevant when considering whether or not property situated outside the UK is excluded property (IHTM16162 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16162)). A company is treated as a ‘person’ and as IHTA84/S44 defines settlor as including any person who made the settlement you may need to establish the company’s domicile. Generally, a company is domiciled where it is registered - Gasque v IRC [1940] 2KB 80. So, where a trust settled by an overseas company contains only overseas assets, that property will be excluded from any Inheritance Tax charges under IHTA84/S48(3).
+
+The employer company may be non-UK domiciled, but nonetheless have been resident in the UK through central management and control here, for a number of years. The wording in IHTA84/S267 is in terms of persons, which includes companies, for the purposes of the UK deemed domicile (IHTM13024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13024)) test. IHTA84/S267 applies to companies as it applies to individuals, so that a company will become deemed domiciled for IHT purposes after it has been resident here during 17 out of the last 20 tax years.
+
+Identifying the entity
+
+Where the company is a multi-national with a presence in the UK, you will need to establish which entity is the settlor and its status. In many cases this will be clear. For example, the entity that is providing the funds may be a subsidiary that is incorporated in the UK and therefore within the scope of the long-term UK residence rule at IHTA/s6C(a).
+
+The long-term UK residence rule will also apply to an entity that is incorporated overseas but is centrally managed and controlled in the UK (IHTA/s6C(b)).
+
+However, the rule does not apply in cases where an overseas company may be within the scope of Corporation Tax by virtue of operating through a UK permanent establishment. In such cases, and even if there is a requirement to register information with Companies House, the entity is still the overseas company.

@@ -1,0 +1,70 @@
+Class 1 NICs: Expenses and allowances: Mileage allowances: Rules before 6 April 2002: Lump sum payments - Calculating Class 1 NICs on lump sum payments
+Identifier: NIM05721
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim05721
+Published: 2016-04-11T17:12:51+01:00
+Updated: 2022-03-01T13:03:39+00:00
+Retrieved (UTC): 2026-09-18T15:21:53.097537+00:00
+
+Calculating NICs on lump sum payments made before 6 April 2002
+
+Where an employer has assessed the amount of a lump sum payment in a reasonable manner, with due regard to the actual costs incurred by his employees in using their cars for business travel, any profit element is calculated by including the lump sum in the NICs calculation. The NICs calculation compares the amount paid by the employer per mile to the yardstick rate, see NIM05710 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim05710).
+
+When calculating Class 1 NICs liability for periods to 5 April 2002 on lump sum payments, it is important to bear in mind that:
+
+- the calculation must be made on an earnings period basis. A cumulative calculation is not appropriate because this is contrary to legislation, see NIM08000 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim08000), (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim08000)
+
+- HMRC’s Authorised Mileage Rates (AMR), see NIM05715 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim05715), are considered to be sufficiently generous to cover the business proportion of standing and running charges,
+
+- for NICs the ‘up to 4,000 mile’ rate is used irrespective of the number of business miles travelled.
+
+There are two methods of calculating the NICs due on lump sum payments. The same result is produced whichever method is used. These methods are explained below.
+
+In the methods below the
+
+- employee travels 150 business miles in the month
+
+- employer reimburses the employee £0.20 a mile and gives him a lump sum of £45.00 per month
+
+- AMR is £0.45 per mile, which means that any amount paid to the employee which exceeds £67.50 (150 x £0.45) is liable for Class 1 NICs.
+
+Calculating NICs on lump sum payments - Method 1
+
+- Convert the lump sum payment into a mileage rate by dividing it by the number of business miles travelled.
+
+- Add this to the mileage rate in payment.
+
+- Compare the rate paid to the authorised rate.
+
+The balance will be the amount liable for NICs
+
+- £45.00/150 = £0.30 (lump sum equals £0.30 a mile)
+
+- £0.30 + £0.20 = £0.50 (lump sum rate and mileage rated added)
+
+- £0.50 – £0.45 = £0.05 (profit over the authorised mileage rate)
+
+NICs are due on £7.50 (150 x £0.05)
+
+Calculating NICs on lump sum payments - Method 2
+
+- Add the lump sum to the mileage payment.
+
+- Calculate the amount that could be paid using the appropriate AMR.
+
+- Compare the amount paid to the amount that could be paid.
+
+The balance will be the amount liable to NICs
+
+- £45.00 + £30.00 (150 x £0.20) = £75.00
+
+- 150 x £0.45 = £67.50
+
+- £75.00 - £67.50 = £7.50
+
+NICs are due on £7.50.
+
+Other methods of calculating NICs on lump sum payments
+
+Although the above methods are those most frequently used there is nothing to prevent an employer using any variation he finds better suited to his needs, providing the same end result is achieved.
+
+It is not compulsory for an employer to include lump sum payments in their NICs calculations to determine how much can be disregarded from earnings and how much must be included in gross pay when calculating Class 1 NICs. For ease of administration, some employers may include the lump sum in gross pay and pay Class 1 NICs on that lump sum.

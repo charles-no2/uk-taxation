@@ -1,0 +1,30 @@
+Long-term UK residence: Spousal long-term UK residence elections – delivery of accounts and payment of tax after making an election
+Identifier: IHTM47039
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47039
+Published: 2025-04-07T08:02:14+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:11:14.770915+00:00
+
+The rules for spouse elections prior to 6 April 2025 can be found at IHTM13040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13040) – IHTM13049 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13049).
+
+If a person has elected to be long-term UK resident (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)) and as a consequence of that election, an earlier disposition now gives rise to a transfer of value (IHTM47038 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47038)), it would not be reasonable for the original due dates for delivery of an account and for the payment of tax and interest to apply.
+
+Where the circumstances set out in IHTA84/S267ZD(5) apply, these dates are altered.
+
+The circumstances are that:
+
+-
+
+a lifetime or death election is made, IHT84/S267ZD(5)(a),
+
+-
+
+the person making the election has made a disposition between the time of making the election and the date from which the election is to take effect, IHTA84/S267ZD(5)(b) and
+
+-
+
+as a result of making the election, that disposition gives rise to a transfer of value, IHTA84/S267ZD(5)(c).
+
+When these circumstances are met, IHTA84/S267Z(6)(a) provides that the due date for the delivery of an account is 12 months from the end of the month in which the election is made. For the payment of the tax and the date from which interest is charged, the transfer is treated as if it was made at the date of the election.
+
+For COMPASS to calculate the tax and interest correctly, you should enter the date of the election as the date of transfer; but include the actual date of gift in the description of the entry.

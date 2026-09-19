@@ -1,0 +1,110 @@
+Taxable earnings - Overseas Chargeable Earnings - Dual Contracts with non-UK contract in ultra-low tax regime
+Identifier: EIM40109
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim40109
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T13:19:14+01:00
+Retrieved (UTC): 2026-09-18T14:14:28.175613+00:00
+
+Section 24A ITEPA 2003
+
+With effect from 6 April 2014 certain income from overseas employments will be taxed according to the “arising” basis if an employee meets the conditions set out in section 24A of the Income Tax Earnings and Pensions Act 2003. Full details on the conditions and criteria can be found in the restrictions on the remittance basis - dual contracts (https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/380369/dualcontracts.pdf) document published in January 2014.
+
+There are 5 Conditions to establish whether or not the legislation applies.
+
+General earnings from non-UK employment will be taxed on the arising basis if the employee meets each of Conditions 1 to 4 and does not meet Condition 5.
+
+Condition 1: UK employment
+
+This is satisfied if at any time during the tax year in question an employee holds one or more UK employments and at the same time holds one or more “relevant” employments.
+
+If the “split year” treatment applies during the tax year in question, Condition 1 will still apply if this test is met in the UK part of the tax year. Detailed information on the “split year” treatment is in section 1 of the Guidance Note: Residence, Domicile and the Remittance Basis (RDR1) (https://www.gov.uk/government/publications/residence-domicile-and-remittance-basis-rules-uk-tax-liability)
+
+A UK employment is an employment where some or all of the duties are performed inside the UK.
+
+A “relevant” (or overseas) employment is one with an overseas employer where the duties are performed wholly outside the UK. If any duties are performed in the UK they must be no more than “merely incidental” to the duties performed overseas. Guidance on what is considered to be “merely incidental” is at EIM40203 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim40203).
+
+Condition 2: UK and overseas employers are associated
+
+Condition 2 is met if the UK employer is the same as, or associated with, the overseas employer.
+
+Employers are associated if one has control of the other or both are under the control of the same person or persons.
+
+Guidance on the definition of control is at CTM60210.
+
+Condition 3: UK and overseas employments are related
+
+Condition 3 is met if the UK employment and the overseas employment are related to each other.
+
+Employments will be assumed to be related if any of the following apply:
+
+- it is reasonable to suppose that one employment would not be held without the other, or the employments would cease at the same time or one would cease as a result of the other ceasing
+
+- the terms of the employments operate, to any extent, by reference to each other
+
+- the performance of the duties of the employments are linked
+
+- the duties from the employments are of the same type
+
+- the employments deal with the same customers or clients
+
+- the employee is a director, senior employee or one of the higher or highest paid employees
+
+This list is not exhaustive. Whether or not employments are related will always be determined by the facts of each case. Further details on each of these criteria are provided in the restrictions on the remittance basis - dual contracts (https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/380369/dualcontracts.pdf) document.
+
+Condition 4: Overseas tax payable as a percentage of the UK additional rate
+
+Condition 4 is satisfied unless:
+
+- the employee has paid overseas tax on the overseas employment income for the relevant tax year
+
+- the overseas tax paid would be allowable by way of credit (Foreign Tax Credit Relief) against UK tax on the income from the overseas employment, if the overseas employment income was taxable in the UK on the arising basis, and
+
+- the amount of credit - expressed as a % of overseas income - that would be allowable is 65% or more of the UK additional rate of income tax for the relevant tax year
+
+The UK additional rate of Income Tax is the highest rate for the tax year.
+
+The following example shows a calculation of Foreign Tax Credit Relief as a percentage of the UK additional rate. This example uses the additional rate applicable for 2014-15.
+
+Overseas employment income for duties in country Z £500,000
+
+Country Z tax paid on overseas employment income
+
+for duties in country Z (Foreign Tax Credit Relief) £120,000
+
+Effective rate of country Z tax £120,000 / £500,000 x 100% 24% (X%)
+
+UK additional rate 45%
+
+UK additional rate x 65% 29.25% (Y%)
+
+As X% is less than Y% Condition 4 is met.
+
+Condition 5: Regulatory requirement for place of employment
+
+This condition is concerned with any regulatory requirements which oblige an employee to be employed in a particular territory to legally perform his or her employment duties. The relevant territory is the territory in which the overseas employment duties are performed.
+
+Condition 5 is met if both the UK and overseas employments oblige the employee to be employed in each territory in order to legally perform the duties of both employments.
+
+This means that the overseas employment duties cannot be legally performed in the relevant territory under the UK employment, because of a regulatory requirement of that territory and UK employment duties cannot be legally performed in the UK under the overseas employment, because of a regulatory requirement in the UK
+
+Whether a place of employment is dictated by a regulatory requirement will be determined by reference to the requirements imposed by or under UK law or the law of the relevant territory.
+
+Regulatory requirements will include visa requirements, employment law and requirements imposed by regulatory bodies, if those bodies are established by or under UK law or the law of the relevant territory.
+
+Examples of regulatory requirements include:
+
+- in order to get a work permit in some countries, you have to have an employment contract in that country
+
+- in order to provide certain types of financial services in the UK, you have to be employed by a person authorised by the Financial Conduct Authority
+
+How do the rules affect the taxation of overseas earnings and UK employment income?
+
+If these conditions are met from the tax year 2014-15 onwards, the income from the overseas employment will be taxable in the UK on the arising basis under the provisions of section 15 ITEPA 2003. It does not matter whether this income is received in or remitted to the UK. The income should be shown in full in the employee’s tax return for the year in which the employee receives it.
+
+What about overseas income for tax years before 2014-15 that is received in a later year?
+
+The new rules do not apply to overseas earnings and income for earlier tax years paid in or after the tax year 2014-15.
+
+Do the changes affect Overseas Workday Relief?
+
+No. These changes do not apply to overseas income that falls within the three year period for Overseas Workday Relief. Detailed information about Overseas Workday Relief is in Guidance Note: Overseas Workday Relief (OWR) (RDR4) (https://www.gov.uk/government/publications/rdr4-overseas-workday-relief-owr).

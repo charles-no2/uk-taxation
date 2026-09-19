@@ -1,0 +1,44 @@
+Deferred consideration: shares and securities:  ascertainable/unascertainable
+Identifier: CG58015
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58015
+Published: 2018-08-20T09:28:51+01:00
+Updated: 2021-05-24T14:36:12+01:00
+Retrieved (UTC): 2026-09-18T14:44:14.960991+00:00
+
+TCGA92/S138A(7)
+
+General guidance on the subject of deferred consideration is at CG14850 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14850)+.
+
+TCGA92/S138A(7) provides a definition of ‘unascertainable’ for the purposes of section 138A. The value or quantity of shares or debentures to be issued in pursuance of an earn-out right is taken as unascertainable at a particular time if, and only if:
+
+- it is made referable to matters relating to any business or assets of one or more relevant companies, and
+
+- those matters are uncertain at that time on account of future business or future assets being included in the business or assets to which they relate.
+
+Thus the number or the value of the shares or debentures to be issued in satisfaction of the earn-out right has to depend on events that take place after the contract date. Those events must concern the business or assets of one or more relevant companies.
+
+Relevant company is defined at section 138A(11) as
+
+- the company whose shares or debentures are to be issued or any company in the same capital gains group,
+
+or
+
+- the company taken over or any company in the same capital gains group.
+
+See CG45100+ for the chargeable gains definition of ‘group’.
+
+TCGA92/S138A(8)
+
+Section 138A(8) ensures that TCGA92/S48 (see CG14881 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14881)) applies in priority to section 138A. This means that any amount which would be included in the computations of a chargeable gain on a disposal by section 48, such as deferred consideration that is ascertainable but contingent (see CG14883 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14883)), cannot count as unascertainable consideration for the purposes of section 138A.
+
+TCGA92/S138A(9)
+
+The sale agreement may provide an option to choose between shares in and debentures of a company. Section 138A(9) says that the existence of such an option does not make the deferred consideration unascertainable.
+
+TCGA92/S138A(10)
+
+Section 138A(10) says that the value or quantity of the shares or debentures is not to be taken as unascertainable only because one has not been fixed if it will be fixed by reference to the other and the other is ascertainable.
+
+For example the sale agreement may specify that the vendor is to receive shares in the purchaser one year after the date of sale to the value of £100,000. The number of shares to be received will depend on their value in one year’s time. At the date of sale this will be unknown but the consideration is not ‘unascertainable’ for the purposes of section 138A.
+
+Similarly a sale agreement may specify that £10,000 shares are to be issued to the vendor in one year’s time. Their value will be unknown at the date of sale but the consideration is not ‘unascertainable’ for section 138A purposes.

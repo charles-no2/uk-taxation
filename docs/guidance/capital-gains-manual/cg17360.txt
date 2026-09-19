@@ -1,0 +1,52 @@
+Indexation: from 6/4/88: small part-disposals
+Identifier: CG17360
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17360
+Published: 2016-03-12T10:17:10+00:00
+Updated: 2025-11-11T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:38:27.418117+00:00
+
+TCGA92/S57
+
+There are a number of situations in which a small capital receipt is not treated as a part-disposal for Capital Gains purposes, but is instead deducted from the expenditure to be taken into account in arriving at the gain or loss on a subsequent disposal. These are listed below. Special rules apply for the purposes of the indexation allowances on the subsequent disposal.
+
+Proceeds less than cost
+
+Where there have been small receipts of this kind in connection with the asset disposed of, the amount of the indexation is reduced as follows.
+
+- Compute the indexation without regard to the small capital receipt.
+
+- Calculate the amount of indexation which would be given in respect of an amount of RAE which
+
+- is equal to the amount deducted from the expenditure and
+
+- was incurred on the date on which the event giving rise to the receipt occurred.
+
+- Deduct this amount of indexation from the indexation in respect of the expenditure from which the small receipt is deducted for the purposes of the computation of the unindexed gain.
+
+The effect of this is to give indexation in respect of this part of the expenditure up to the date of the part-disposal only.
+
+See example in CG17482 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17482).
+
+Proceeds more than cost
+
+The basis of computation is different if a disposal falls within TCGA92/S244, where the consideration for a small disposal EXCEEDS the allowable expenditure. See CG12820 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12820). Indexation in this situation is given in the part-disposal computation.
+
+See example in CG17483 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17483).
+
+See Example 12 in CG16960 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16960) where the asset was acquired before 31 March 1982.
+
+Case included
+
+These are the cases to which the above applies:-
+
+- compensation for an asset not lost or destroyed. (TCGA92/S23 (1), see CG15700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15700)+);
+
+- part-disposals of land to an authority with compulsory powers (TCGA92/S243, see CG72200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg72200));
+
+- small part-disposals of land (TCGA92/S242, see CG71870 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71870)+);
+
+- small capital distributions (TCGA92/S122 (2) & TCGA92/S133 (2), see CG57835 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57835)+ and CG55030 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg55030);
+
+- small part-disposals before 6 April 1965, see CG15500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15500);
+
+- small disposals in respect of insurance agencies, see CG69113 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg69113).

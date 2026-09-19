@@ -1,0 +1,42 @@
+Co.purchases own shares: capital treatment: CGT liability
+Identifier: CG58650
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58650
+Published: 2018-07-20T09:55:23+01:00
+Updated: 2021-03-31T15:58:54+01:00
+Retrieved (UTC): 2026-09-18T14:44:26.208800+00:00
+
+Where CTA10/S1033 applies, the payment when the company purchases its own shares is not a distribution for the purposes of the Corporation Tax Acts. The payment is included in calculating the chargeable gain or allowable loss on the disposal of the shares. Under TCGA92/S37(1), any amount that is subject to Income tax is excluded from the calculation.
+
+No chargeable gain or loss can arise to a UK incorporated company when it purchases its own shares. CA06/S706(b) treats the purchased back shares as cancelled therefore the company does not acquire shares on purchase nor dispose on cancellation. CA06 also provides a similar treatment for shares held in treasury.
+
+From 1 December 2003 FA03/S195(2) specifically provides that the purchase of its own shares by a company is not to be treated as the acquisition of an asset. Section 195 was introduced because of the new possibility of shares being held in treasury. It covers all cases where a company purchases its own shares. But the enactment of section 195 did not change the law in relation to shares that were purchased and immediately cancelled. It was always the case that the company did not acquire an asset when it purchased its own shares.
+
+Hence, as there is no acquisition by the company corresponding to the disposal by the shareholder, the following legislation would not apply to a purchase of its own unquoted shares by a UK incorporated company:
+
+- TCGA92/S171 intra-group transfer of assets, and
+
+- TCGA92/S18 transactions between connected person
+
+The shareholder has sold his or her shares to the company and the chargeable gains are computed in the normal way. For the shareholder the consideration would be the amount paid by the company on the purchase of its own shares and the acquisition costs would be the cost of acquiring the shares.
+
+The connected persons legislation of TCGA92/S18 does not apply to a purchase of own shares by a UK incorporated company. However, a formal valuation from SAV would only be required when you believe that the purchase does not satisfy ‘bargain made at arm’s length’ in TCGA92/S17, see CG14540. Before asking SAV for a formal valuation you should consider whether an informal opinion would be sufficient to check whether the point was worth pursuing, see CG59561.
+
+The companies involved are unquoted trading companies or unquoted holding companies of trading groups and the sales of shares are made by the shareholders. Hence, where the purchase of owns shares is not a bargain at arm’s length, as described in TCGA92/S17.
+
+EXAMPLE
+
+Ann is a founder shareholder of Kensington Ltd, having originally paid £10,000 for 10,000 £1 ordinary shares upon incorporation of the company in 1995. She has decided to retire and the company has agreed to buy back her shares for £45,000 in 2017. Ann does not hold any office or employment and her role is limited to being a shareholder.
+
+TCGA92/S38 Acquisition cost £10,000
+
+The consideration value would be £45,000
+
+Disposal proceeds £45,000
+
+Acquisition costs (£10,000)
+
+Gain £35,000
+
+Annual Exempt Amount (£11,100)
+
+Chargeable gain £23,900

@@ -1,0 +1,46 @@
+Assessing: COMPASS: calculations: NIOP calculation
+Identifier: IHTM31183
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31183
+Published: 2016-04-09T10:03:16+01:00
+Updated: 2016-02-11T17:15:42+00:00
+Retrieved (UTC): 2026-09-18T15:05:54.125047+00:00
+
+The layout of the NIOP (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)) screen is broadly in the format of the finished calculation, with
+
+- details of the estate and entry (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)) at the top,
+
+- amendments to the left, and
+
+- the calculation and interest figures to the right.
+
+The calculation number is displayed in the Entry box at the top of the window. This contains the entry, assessment group and consecutive number of the calculation.
+
+There are a number of boxes where you can change or add information. These are:
+
+- The effective date (IHTM31187 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31187))
+
+- Tax previously paid (IHTM31188 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31188))
+
+- Reliefs against tax (IHTM31189 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31189))
+
+- Money (IHTM31190 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31190)) (including deposits)
+
+- Notes (IHTM31191 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31191))
+
+- Adjustments (IHTM31192 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31192)) to interest
+
+Interest
+
+COMPASS calculates the interest due
+
+- from the start date - by reference to the date of death or transfer,
+
+- until the end date - the Effective Date of the calculation,
+
+on the amount of tax payable on the calculation.
+
+Where you apply a deposit (IHTM31560 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31560)), the end date for interest on that part of the tax covered by the deposit is the effective date of payment of the deposit.
+
+To view details of the interest calculation, select the Interest button. This will bring up the Interest Charges window. The calculation and total in the boxes will be printed as part of the finished calculation. Select ‘OK’ to return to the assessment screen.
+
+If the interest charge is not correct, you can include any adjustments in the Adjustment box (IHTM31192 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31192)) to achieve the correct overall result. You must then explain why you have done this in the notes box.

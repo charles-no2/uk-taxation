@@ -1,0 +1,40 @@
+Share valuation: 1982 holding of unquoted shares: shares reorganisations
+Identifier: CG59583
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg59583
+Published: 2016-03-12T11:49:19+00:00
+Updated: 2021-06-07T09:59:06+01:00
+Retrieved (UTC): 2026-09-18T14:44:34.476316+00:00
+
+Where after 31 March 1982, there is a rights issue, bonus issue or another transaction that is treated as a share reorganisation .in respect of shares in a 1982 holding, then the shares issued are added to a 1982 holding, see CG51632 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51632). The valuation you need is of the shares actually held on 31 March 1982 and included in the 1982 holding. You should not include shares issued after that date.
+
+EXAMPLE
+
+- Mrs Patrick had a 1982 holding of 2,000 shares in Questor Ltd.
+
+- November 1988 Questor Ltd declared an 11 for 1 bonus issue. 22,000 new shares are issued.
+
+- Mrs Patrick still held the shares at 6 April 2008 and so the value of her holding at 31 March 1982 is used to create a section 104 holding.
+
+The valuation you need is of 2,000 shares in Questor Ltd not 24,000. Care should be taken to be clear about the value per share in such cases. For example, the acquisition cost for Mrs Patrick’s disposals might easily be set out as -
+
+“acquisition cost (31.3.82 value) - 24,000 x £3 = £72,000”
+
+The value per share as at 31 March 1982 should be set out based on the number of shares actually held at that time, 2000 in this case. The valuation being suggested by Mrs Patrick is s not £3.00 per share but £36.00 (£72,000 divided by 2,000).
+
+The valuation request to SAV should be very clear about the suggested value per share, £36.00 in the example, to avoid error. Where a 1982 holding is affected by a later share reorganisation you should provide SAV with details.
+
+A takeover in which the acquiring company pays for the shares in the target company by issuing its own shares to the shareholders in the target company will also be treated as a share reorganisation if the conditions in TCGA92/S135 are satisfied, see CG52523 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg52523)+. If the takeover occurs after March 1982 you will need a valuation of the target company shares.
+
+EXAMPLE
+
+- Mr Richards had a 1982 holding of 10,000 £1 ordinary shares in Searchers Ltd.
+
+- November 1986 Searchers Ltd was taken over by Trendsetters Ltd. Trendsetters Ltd issues three of its own shares for each Searchers Ltd share held.
+
+- Mr Richards bought a further 5,000 Trendsetters Ltd shares in April 2005.
+
+- In November 2012, Trendsetters Ltd was taken over by Big plc in a cash offer and Mr Richards sold his holding of 35000 shares in Trendsetters Ltd.
+
+- Mr Richards held the shares at 6 April 2008 and so the value of his holding of Searchers Ltd shares at 31 March 1982 plus the cost of the additional 5,000 Trendsetters is used to create a section 104 holding.
+
+The valuation you need is of 10,000 shares in Searchers Ltd. Assuming it existed in March 1982 Trendsetters Ltd was an entirely different company to Searchers Ltd. There is no reason why a valuation of 10,000 shares in Trendsetters Ltd as at 31 March 1982 should bear any relation to the value of a holding of 10,000 shares in Searchers Ltd.

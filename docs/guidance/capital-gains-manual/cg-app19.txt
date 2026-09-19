@@ -1,0 +1,130 @@
+Changes to the share exchanges and company reconstructions anti-avoidance rule - interim guidance
+Identifier: CG-APP19
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app19
+Published: 2025-12-12T09:16:23+00:00
+Updated: 2025-12-12T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:30:12.776576+00:00
+
+Changes to the capital gains share exchanges and company reconstructions anti-avoidance rule
+
+Changes to these anti-avoidance rules were announced at Budget 2025, details can be found at https://www.gov.uk/government/publications/capital-gains-tax-share-exchanges-and-reorganisations (https://www.gov.uk/government/publications/capital-gains-tax-share-exchanges-and-reorganisations)
+
+The Capital Gains Manual will be updated once the revised legislation is passed (when the current Finance Bill receives Royal Assent) but this appendix provides:
+
+A provisional guidance, and
+
+B answers to questions on the handling of clearance applications.
+
+A. Changes to the share exchanges and company reconstructions anti-avoidance rule: provisional guidance
+
+Changes will be made to the following anti-avoidance rules in Taxation of Chargeable Gains Act 1992 (“TCGA”) –
+
+- Section 137: exchanges of shares and debentures (together: “securities”) and the shareholder treatment of company reconstructions. Sections 135 and 136.
+
+- Section 103K: exchanges, mergers and reconstructions of collective investment schemes. Sections 133G to 103I,
+
+- Section 139(5): business transfers as part of a scheme of reconstruction.
+
+This note will focus on the changes to section 137 which are largely replicated in the other provisions.
+
+The current wording of the anti-avoidance rule means that it applies where a share exchange does not meet both of the following conditions:
+
+- It is effected for bona fide commercial reasons and
+
+- It does not form part of a scheme or arrangements of which the main purpose, or one of the main purposes, is avoidance of liability to Capital Gains Tax or Corporation Tax (this means Corporation Tax on chargeable gains).
+
+The effect of the rule applying is that section 135 will not treat the exchange as a share reorganisation, meaning that shareholders will be treated as disposing of the securities given in the exchange rather than benefitting from “no disposal” treatment under section 127.
+
+The rule affects all shareholders apart from those, either alone or with connected persons, holding 5% or less of the shares of, or of any class of, the securities in the original company involved in the transaction, referred to as “company A” in both TCGA92/S135 and TCGA92/S136.
+
+The revised rule will apply where:
+
+- There are arrangements that relate to an exchange of securities, and
+
+- The main purpose, or one of the main purposes, of the arrangements is to reduce or avoid a capital gains liability.
+
+The reason for the change is that the Court of Appeal[1] (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app19) has confirmed that the previous wording focussed on the purpose of the exchange itself and that even where tax avoidance arrangements are present that may not be sufficient to amount to a main purpose. The revised wording puts the focus of the purpose test on the particular arrangements that are put in place to avoid tax. It also follows the approach of most modern Targeted Anti-Avoidance Rules (“TAARs”) which also dispense with a bona fide commercial reasons condition.
+
+Put simply: the revised rule is intended to deter and, where necessary, counteract, situations where additional features have been included in a commercial transaction in order to obtain a tax advantage.
+
+The effect of the rule applying is also changed. The current rule simply disapplies the share exchange rule, which might affect shareholders who have not benefitted from the arrangements or result in a tax charge disproportionate to the advantage sought. The revised rule will instead allow HMRC to make adjustments on a just and reasonable basis to counteract the tax advantage sought. This means that only the shareholders seeking a tax advantage will be affected and in a proportionate way and therefore holders of 5% or less of any class of securities in the original company are no longer outside the scope of the rule.
+
+The adjustments are to be made by adjusting an existing assessment or by making a new assessment applying the usual rules for issuing a closure notice following an enquiry or, where necessary, making a discovery assessment. It is anticipated that such adjustments will generally reflect the full or partial disapplication of the share exchange rule, as anticipated in the legislation see example.
+
+HMRC’s view of the concepts of “arrangements”, “tax advantage” and “main purpose” are well established and are set out in the guidance (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg40240p) for the capital loss TAARs at CG40242 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg40242) to CG40247 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg40247).
+
+In addition, the revised wording refers to reducing or avoiding a liability to tax on capital gains. It does not apply where the advantage is the mere deferral of a liability, which is the intended effect of the share exchange provisions.
+
+The revised wording of the anti-avoidance rule in section 137 will apply to an exchange where the new securities are issued on or after 26 November 2025. The operation of section 137 remains subject to a statutory clearance procedure under section 138.
+
+Where a clearance application has been received by HMRC before the commencement date then the matter will be considered under the wording which applied prior to 26 November 2025 for the purposes of the application. Where HMRC provides clearance then that existing wording will apply provided the issue of shares happens:
+
+- before 26 January 2026 if clearance was granted before 26 November 2025 or,
+
+- within 60 days of a clearance granted after that date.
+
+Where HMRC refuses clearance but it is provided on review by the First-tier Tribunal then the date is instead set by reference to that of the tribunal’s decision.
+
+The revised wording will apply to arrangements meeting the conditions where the exchange takes place on or after 26 November 2025 and either HMRC (or the tribunal) has refused clearance or none has been sought.
+
+Example
+
+A Ltd was established by Mr X and Ms Y who originally held 50% of the shares each. Later, shares were issued to employees who then held 20% reducing the holdings of Mr X and Ms Y to 40% each. A multinational group B Inc wished to take over A Ltd for cash. Mr X was planning to emigrate after receiving the proceeds and asked that instead of cash, he receive loan notes that would be redeemed after he had left the UK and so he would not be subject to UK CGT on the sale.
+
+Here additional arrangements – the inclusion of payment in loan notes – was added to a commercial transaction in order for Mr X to obtain a tax advantage so HMRC would consider that the anti-avoidance rule applies. But rather than disapplying the share exchange treatment entirely, the counteraction will only apply to Mr X and it is just and reasonable for section to be disapplied to his involvement in the exchange. There is no counteraction for Ms Y or for the employee shareholders because they would not obtain any advantage from the arrangements.
+
+We envisage the outcome in this example to be as follows:
+
+Cost of Mr X’s original shares in A Ltd £500,000
+
+Proceeds are a loan note in B Inc worth £10,000,000 (the consideration ignoring section 135)
+
+Ignoring section 135 there is a gain of £9,500,000 at this point.
+
+Counteraction is to disapply section 135 for Mr X to the whole of the original shares, resulting in a chargeable disposal of his A Ltd shares and a gain of £9,500,000 at a time he was UK resident.
+
+Should there be some other form of avoidance involved, so that the intention was that a tax free disposal of the loan notes would take place when Mr X was within the charge to UK CGT, or perhaps he did not become non-UK resident, then the adjustment described above will flow through to his eventual disposal of his loan notes:
+
+Assume that Mr X sells the loan note for a discount of £100,000 to its face value:
+
+Proceeds on sale of loan note: £9,900,000
+
+Allowable cost is the consideration given on the exchange: £10,000,000
+
+Allowable loss: £100,000
+
+Here the relevant arrangement is the additional step added to the exchange to provide Mr X with loan notes with a purpose of giving him a tax advantage. If the commercial transaction involved the issue of loan notes to the shareholders in A Ltd and Mr X then undertook a separate scheme to avoid tax when he redeemed his notes - and that did not affect the terms of the acquisition by B Inc - then section 137 will not apply, but there may be other reasons why his avoidance planning is not effective.
+
+B. Changes to the share exchanges and company reconstructions anti-avoidance rule: approach to statutory clearances (sections 138 & 139 TCGA 1992)
+
+1. I received a clearance notification before 26 November 2025 (Budget). Is my clearance still valid?
+
+- If you received a clearance notification before 26 November 2025, it remains valid as long as you complete the transaction by 26 January 2026.
+
+- If you can’t complete the transaction by then and you still want assurance that the anti-avoidance rules do not apply, you should submit a new application for clearance which the Board will consider under the revised rules.
+
+- A clearance notification issued under the revised rules won’t have a time limit.
+
+2. What if I want to change the transaction after getting clearance?
+
+- The clearance notification only covers the specific facts and circumstances described in your application and any associated correspondence with the Board.
+
+- If you change the transaction after receiving the notification, you may not be able to rely on any clearances granted.
+
+- If you want certainty, you should submit a new application for the changed transaction. This applies to all statutory clearances.
+
+- Any application under section 138 or 139 TCGA 1992 received on or after 26 November 2025 will be reviewed under the revised rules, even if it’s just a change to a previously cleared transaction.
+
+- A clearance notification issued under the revised rules won’t have a time limit.
+
+3. I applied for clearance before 26 November 2025 but haven’t received a decision yet. What now?
+
+- The Board will continue to review applications received before 26 November 2025 under the rules which applied prior to 26 November 2025).
+
+- Where the Board have made or make a request for further information you will be required to provide that information within 30 days as per 138(2) TCGA 1992. If any such request is not complied with within 30 days, or such longer period as has previously been agreed by Board, the Board need not proceed further on the application.
+
+- If clearance is granted under the old rules, you have 60 days from the notification date to complete the transaction.
+
+If you can’t complete the proposed transactions within 60 days and you still want assurance that the anti-avoidance rules do not apply, you’ll need to submit a new application which will be considered under the revised rules.
+
+[1] (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app19) Delinian Ltd v HMRC (https://caselaw.nationalarchives.gov.uk/ewca/civ/2023/1281?query=euromoney) [2023] EWCA Civ 1281(“Euromoney”), see also O Wilkinson & Ors v HMRC (https://caselaw.nationalarchives.gov.uk/ukftt/tc/2023/695?query=wilkinson&tribunal=ukftt%2Ftc) [2023] UKFTT 695 (TC)

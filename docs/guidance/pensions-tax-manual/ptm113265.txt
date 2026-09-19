@@ -1,0 +1,171 @@
+International: UK tax charges on non-UK schemes: the member payment charges and taxable property charges: when a member’s UK funds may be increased
+Identifier: PTM113265
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113265
+Published: 2018-04-13T16:03:15+01:00
+Updated: 2020-07-23T12:13:10+01:00
+Retrieved (UTC): 2026-09-18T14:51:18.178264+00:00
+
+Glossary
+
+|
+
+PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+|
+
+From 6 April 2017 it is possible that a member’s UK funds may be increased in certain circumstances. This will occur when:
+
+- the scheme manager receives a repayment of the overseas transfer charge from HMRC, and
+
+- transfers and certain other events occurring after a member has received a reduction due to a crystallisation event reverse a previous fund depletion.
+
+Throughout this page of guidance the phrase ‘UK funds’ means a:
+
+- UK tax-relieved fund
+
+- relevant transfer fund
+
+- ring-fenced transfer fund, or
+
+- a combination of more than one of those funds.
+
+For guidance on the definition of these types of fund go to PTM113230 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113230).
+
+Reversal of fund depletion (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113265#reversal)
+Repayment of the overseas transfer charge (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113265#repayment)
+
+Reversal of fund depletion
+
+Regulation 4ZD The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006 - SI 2006/207
+
+Where a member’s UK funds have been reduced following a crystallisation event as explained in PTM113255 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113255), part or all of the fund reduction previously given may be reversed if:
+
+- a transfer is made
+
+- the overseas transfer charge becomes due because of a change of circumstances after a transfer – see PTM102400 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102400)
+
+- the scheme is treated as making an unauthorised payment due to a significant reduction in the rate of payment of scheme pension, or
+
+- the member has not been paid a scheme pension for more than 12 months.
+
+These rules are designed to ensure the member payment provisions and other tax rules operate fairly and as intended. In particular they ensure that the ability to reduce a member’s UK funds on a crystallisation event is not used as part of an avoidance device by taking advantage of the upfront deduction.
+
+Reverse depletion on a transfer
+
+Regulation 4ZD(1), (3) and (9) The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006 - SI 2006/207
+
+A reverse depletion of the member’s UK funds occurs:
+
+- where the member’s funds have been reduced due to a crystallisation event (designation into drawdown or becoming entitled to a scheme pension) and
+
+- the scheme subsequently makes a transfer in respect of that member.
+
+The trigger for reverse depletion is any transfer; it occurs whether the transfer is of the member’s crystallised or uncrystallised rights.
+
+The amount added back to the member’s funds is found by the formula:
+
+(A + B) – C
+
+A = the amount designated into drawdown pension on or after 6 April 2017 less the total amount of payment of drawdown pension from those designated funds. This amount cannot be less than £0.
+
+B = the amount of the deduction given when the member became entitled to scheme pension (see PTM113255 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113255) for guidance on how this amount is calculated) less the total amount of payments of that scheme pension. This amount cannot be less than £0.
+
+C = the amount of any pension debit paid from the flexi-access drawdown fund designated on or after 6 April 2017, or sums and assets applied on or after 6April 2017 to provide the scheme pension.
+
+This amount is added back to the member’s funds immediately before the transfer is made. It is attributed back in the order that applies when a scheme makes a transfer (see PTM113260 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113260)).
+
+None of the member’s UK funds can be rebuilt to more than their original amount.
+
+Example
+
+Miguel is a member of a relevant non-UK scheme (RNUKS) with UK funds of £450,000.
+
+In May 2017 Miguel designates £300,000 into drawdown, which reduces his remaining UK funds to £150,000.
+
+After designating funds Miguel receives drawdown pension payments of £60,000.
+
+Miguel divorces his wife and there is a pension sharing order by which £200,000 is given to his ex-wife. The scheme actions the pension debit, taking £150,000 from Miguel’s uncrystallised rights and £50,000 from Miguel’s drawdown fund.
+
+Miguel later transfers his remaining funds under the scheme to another qualifying recognised overseas pension scheme (QROPS). This transfer triggers a reverse depletion. The amount added back to Miguel’s UK funds is calculated as:
+
+(A + B) – C
+
+A = £300,000 designated minus £60,000 drawdown pension payments = £240,000
+
+B= £0 (as Miguel has not become entitled to a scheme pension)
+
+C = the £50,000 pension debit paid from Miguel’s flexi-access drawdown fund.
+
+(£240,000 + £0) - £50,000 = £190,000
+
+Overseas transfer charge due because of a change of circumstances
+
+Regulation 4ZD(2), (3) and (9) The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006 - SI 2006/207
+
+A reverse depletion arises when the following series of events occurs:
+
+- a QROPS receives a transfer that is excluded from the overseas transfer charge because the member is resident in the same country as the QROPS, or the member is resident in the UK, Gibraltar or an EEA country and the QROPS is established in an EEA country or Gibraltar (see PTM102300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102300))
+
+- following the transfer the member’s funds have been reduced by a crystallisation event (see PTM113255 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113255)), and
+
+- following that crystallisation, and within the relevant period for the transfer (see PTM102200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102200)), the member changes country of residence so that the transfer is now subject to the overseas transfer charge.
+
+The amount to be attributed back to the member’s UK funds is found by the same formula as when a reverse depletion occurs on a transfer – see the previous section ‘Reverse depletion on a transfer’.
+
+This amount is added back to the member’s funds immediately before the event causing the original transfer to be subject to the overseas transfer charge. It is attributed back in the order that applies when a scheme makes a transfer (see PTM113260 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113260)).
+
+None of the member’s UK funds can be rebuilt to more than their original amount.
+
+A significant reduction in the rate of scheme pension
+
+Regulation 4ZD(4), (6), (7) and (9) The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006 - SI 2006/207
+
+A reverse depletion of the member’s UK funds occurs:
+
+- where the member’s UK funds have been reduced due to the member becoming entitled to a scheme pension on or after 6 April 2017, and
+
+- the scheme is treated as making an unauthorised payment in accordance with paragraph 2A Schedule 28 Finance Act 2004. The section of PTM062340 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm062340) ‘The imposition of an additional unauthorised payments charge on the member following a substantial reduction of a scheme pension’ explains when this occurs.
+
+The amount to be added back to the member’s UK funds is the amount of the sums and assets applied on or after 6 April 2017 to provide the scheme pension less the aggregate of:
+
+- the total payments made to the member of that scheme pension, plus
+
+- the amount of any pension debit paid from those sums and assets applied on or after 6 April 2017 to provide the scheme pension.
+
+This amount is added back to the member’s funds immediately before the deemed unauthorised payment is made. It is attributed back to the member’s UK funds in the following order:
+
+- Ring-fenced transfer funds. If a member has more than one ring-fenced transfer fund in this group, the payment is referable to the fund with the latest key date working through to the fund with the earliest key date. The total amount added back to the member’s ring-fenced transfer funds will also be added back to the member’s ring-fenced taxable asset transfer fund;
+
+- UK tax-relieved funds built up on or after 6 April 2017;
+
+- Relevant transfer fund. The amount added back to the relevant transfer fund will also be added back to the member’s taxable asset transfer fund;
+
+- UK tax-relieved funds built up before 6 April 2017.
+
+None of the member’s UK funds can be rebuilt to more than their original amount.
+
+Scheme pension not paid for more than 12 months
+
+Regulation 4ZD(5) to (7) and (9) The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006 - SI 2006/207
+
+A reverse depletion of the member’s UK funds occurs:
+
+- where the member’s funds have been reduced due to the member becoming entitled to a scheme pension on or after 6 April 2017, and
+
+- no scheme pension has been paid to the member in a period of 12 months for any reason, other than the member’s death or a recognised transfer.
+
+The reverse depletion occurs on the first anniversary of the last payment of scheme pension. For example, if the last scheme pension payment was made on 30 June 2018, the reverse depletion would occur on 30 June 2019.
+
+The amount to be added back to the member’s UK funds, and the order in which it is attributed, is the same as when a reverse depletion occurs due to an unauthorised payment arising in accordance with paragraph 2A Schedule 28 Finance Act 2004 following a significant reduction in scheme pension. See the previous section for details.
+
+Repayment of the overseas transfer charge
+
+Regulation 4ZE The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006 - SI 2006/207
+
+HMRC may repay the overseas transfer charge to the scheme manager of a qualifying recognised overseas pension scheme (QROPS) or former QROPS where the:
+
+- scheme manager paid the tax charge under section 244AC or section 244IA in error, i.e. the overseas transfer charge was not due on the transfer, or
+
+- overseas transfer charge under section 244AC has become repayable due to a change in circumstances after the transfer.
+
+Where the scheme manager receives a repayment of overseas transfer charge from HMRC, it is to be attributed back to the particular fund(s) from which it was originally referable.

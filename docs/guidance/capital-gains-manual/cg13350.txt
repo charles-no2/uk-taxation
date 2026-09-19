@@ -1,0 +1,42 @@
+Introduction and computation: occasions of charge: bed and breakfasting
+Identifier: CG13350
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13350
+Published: 2016-03-12T10:03:56+00:00
+Updated: 2026-02-11T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:30:24.632798+00:00
+
+The term bed and breakfasting covers arrangements in which a person sells an asset only to buy it back again a short time later. This may be done to trigger a gain that qualifies for some form of relief or to trigger a loss even though the intention is to hold the asset in the longer term. The following points arise for capital gains purposes.
+
+Share identification rules
+
+The share identification legislation contains rules about how disposals and acquisitions of the same type of shares or securities within a short period are matched. Guidance on these rules can be found at CG51500P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51550p) for Capital Gains Tax and CG51600P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51600p) for Corporation Tax.
+
+Repo contracts
+
+Combined sale and repurchase contracts for shares and securities are a very common commercial transaction, often referred to simply as “repos”. For companies, any profit or loss on the transaction is taxed as the profit or loss on a deemed loan relationship for Corporation Tax purposes, see Chapter 10 Part 6 of the Corporation Tax Act 2009 (https://www.legislation.gov.uk/ukpga/2009/4/part/6) and CFM46000 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm46000).
+
+It will be unusual for a person who is chargeable to Income Tax and Capital Gains Tax to be a party to a repo. The return from such an arrangement is taxed under the Income Tax rules on disguised interest, see Chapter 2A Part 4 of the Income Tax (Trading and Other Income) Act 2005 (https://www.legislation.gov.uk/ukpga/2005/5/part/4/chapter/2) and SAIM2700 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2700). Section 263A of the Taxation of Chargeable Gains Act (TCGA) 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/263A) provides that repos are not treated as involving any disposal of the asset for Capital Gains Tax.
+
+Bed and breakfasting to establish a tax loss
+
+Section 16A TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/16A) is a Targeted Anti-Avoidance Rule that deals with the creation of artificial losses. Unlike the rules mentioned above, it can apply to the disposal of any type of asset, rather than just shares and securities.
+
+This rule should be considered where a person has entered into a bed and breakfast transaction involving any asset in order to trigger a capital loss (see CG15835 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15835)).
+
+Bed and breakfasting generally
+
+Aside from the rules mentioned above, there will only be a disposal for capital gains purposes where a person genuinely transfers beneficial ownership of the asset, see CG10702 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10702), so that
+
+-
+
+both parties to the transaction are genuinely exposed to a movement in the price of the asset between sale and repurchase; and
+
+-
+
+the transactions take place at arm’s length (or market value), see CG14480P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14480p)
+
+There is no transfer of beneficial ownership if there is an unconditional agreement to repurchase the asset at the time of sale.
+
+Where the sale and repurchase of securities are made under a single agreement then the repo treatment described above will apply.
+
+Where other types of asset are involved, or the repurchase is provided for in a separate agreement, then it is possible that beneficial ownership of the asset is retained and that there will be no disposal for capital gains purposes.

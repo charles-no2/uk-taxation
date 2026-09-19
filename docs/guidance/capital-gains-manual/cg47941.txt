@@ -1,0 +1,46 @@
+Groups to which loss set-off restrictions apply: connected groups
+Identifier: CG47941
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47941
+Published: 2016-03-12T11:20:18+00:00
+Updated: 2026-06-01T09:57:40+01:00
+Retrieved (UTC): 2026-09-18T14:32:17.511109+00:00
+
+The Schedule 7A rules apply separately to each of the connected groups for the purpose of determining whether any loss is a loss on the disposal of a pre-entry asset, and for calculating the pre-entry proportion of the loss. If there is a loss on an asset which is a pre-entry asset in relation to more than one of the connected groups, the pre-entry proportion of the loss is the largest pre-entry proportion calculated for any of the connected groups.
+
+Note: Additional rules relating to loss buying were enacted in FA 2006. See CG47020+ for guidance on the rules which apply in priority to TCGA92/SCH7A for accounting periods ending on or after 5 December 2005.
+
+FA11/S46 and FA11/SCH11 greatly simplified the rules in TCGA92/SCH7A for the deduction of losses on or after 19 July 2011. See CG47400+ for guidance on loss streaming from that date.
+
+TCGA92/SCH7A/PARA9 (6)
+
+TCGA92/PARA9(6)/SCH7A) deals with the interaction between para 9 and TCGA92/S170 (10). The general rule in Section 170(10), see CG45190, is that if the principal company of one group becomes a member of another group, the two groups are regarded as the same. For the purposes of paragraph 9 Schedule 7A, paragraph 9(6) disapplies Section 170(10) in the case where either
+
+- The principal company of group A becomes a member of group B, and immediately before that event the principal company of group A was controlled by a company which was then a member of group B.
+
+- This stops the Section 170(10) rule affecting the separate application of Schedule 7A to connected groups in cases where the principal company of one connected group becomes a member of another connected group
+
+or
+
+- (With effect for any accounting period ending on or after 17 March 1998) in cases where the two groups are not connected - see above - a company joins a group and later in the same accounting period the principal company of that group becomes a member of another group.
+
+This rule, which was introduced by FA98/S138, prevents groups from using an intermediate group structure to avoid both the loss buying rules in TCGA92/SCH7A and the gain buying legislation in Schedule 7AA, see CG48200+. The example below is an illustration of one type of circumstance in which paragraph 9(6) would apply.
+
+EXAMPLE
+
+STAGE 1
+
+A small subgroup, headed by GV, leaves a group (`the gain group') with valuable asset Y, which it acquired from an independent third party, so there is no degrouping charge on GV in respect of asset Y when it leaves the gain group.
+
+STAGE 2
+
+The subgroup is now a capital gains group in its own right (the second group). GV crystallises the gain by selling asset Y to a third party. During this stage the second group also acquires company LV, a company which has left the group headed by L (`the loss group') with asset Z on which there is an unrealised loss. Loss asset Z is then transferred from LV to GV under the no gain/no loss provision in TCGA92/S171(1).
+
+STAGE 3
+
+The L group acquires GV and its subsidiaries. GV then disposes of loss asset Z and crystallises the loss.
+
+In this example, the gain buying rules in TCGA92/SCH7AA would be ineffective because the loss on asset Z would be a qualifying loss available against the pre-entry gain, see CG48205. Before amendment by FA98/S138 the loss buying rules in TCGA92/SCH7A would also be ineffective, because they would treat the second group and the L group as the same group. GV would be treated as joining this group at the time it joined the L group, with the result that the pre-entry proportion of the loss on asset Z could be set against the gain realised on asset Y. The effect of the rule in this case would be to impose the Schedule 7A restrictions on setting-off capital losses in respect of both the second group and the L group. As a result, the loss that arises on the disposal of asset Z will be treated as a pre-entry loss in relation to the second group and will, therefore, not be eligible to set against the gain that accrues on asset Y.
+
+Note: Additional rules relating to loss buying were enacted in FA 2006. See CG47020+ for guidance on the rules which apply in priority to TCGA92/SCH7A for accounting periods ending on or after 5 December 2005.
+
+FA11/S46 and FA11/SCH11 greatly simplified the rules in TCGA92/SCH7A for the deduction of losses on or after 19 July 2011. See CG47400+ for guidance on loss streaming from that date.

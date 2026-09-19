@@ -1,0 +1,128 @@
+Class 1: Calculating Class 1 NICs for Directors: Annual earnings periods: Examples: Regular monthly salary alternative method - 2025 to 2026 
+Identifier: NIM12031
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim12031
+Published: 2016-04-11T17:26:59+01:00
+Updated: 2022-09-28T11:43:04+01:00
+Retrieved (UTC): 2026-09-18T15:15:17.999576+00:00
+
+Regulation 8 Social Security (Contributions) Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+Director paid £3000 on 28th of each month starting April 2025. They receive a £5,000 bonus in October 2025. This Director has their NICs calculated each month using the alternative method which treats him like an employee until the final payment for the tax year which must be reconciled for their annual earnings period. The monthly thresholds for 2025 to 2026 are:
+
+Secondary Threshold (ST) – £417
+
+Lower Earnings Limit (LEL) - £542
+
+Primary Threshold (PT) – £1048
+
+Upper Earnings Limit (UEL) - £4,189
+
+Date | Cumulative | Primary | Secondary | Notes |
+
+28 April - September
+
+|
+
+£3,000
+
+|
+
+£156.16
+
+£3,000 - £1048 x 8%
+
+|
+
+£387.45
+
+£3,000 - £417 x 15%
+
+|
+
+Earnings exceed both primary & secondary thresholds -same amount deducted each month
+
+|
+
+28 October
+
+|
+
+£8,000
+
+|
+
+£327.50 (£4,189 - £1048 x 8%) + (£8,000 - £4,189 x 2%)
+
+|
+
+£1,137.45 (£8,000 - £417 x 15%)
+
+|
+
+Earnings exceed UEL
+
+|
+
+28 November - February
+
+|
+
+£3,000
+
+|
+
+£156.16
+
+|
+
+£387.45
+
+|
+
+Calculations as before
+
+|
+
+Total
+
+|
+
+£38,000
+
+|
+
+£1,889.10
+
+|
+
+£5,011.95
+
+|
+
+Year to date total NICs paid
+
+|
+
+28 March Reconciliation
+
+|
+
+£41,000
+
+|
+
+£385.30 ((£41,000 - £12,570 x 8%) = £2274.40 less NICs paid to date of £1,889.10)
+
+|
+
+£388.05 (£41,000 - £5,000 x 15% = £5,400 less NICs paid to date of £5,011.95)
+
+|
+
+Earnings for year have annual thresholds applied.
+
+|
+
+In Month 12 the director has to pay an additional £229.14 (this is the total due for reconciliation £385.30 - £156.16 which is the NICs due on March salary) to reconcile the additional NICs due from the bonus payment paid in October.
+
+In Month 12 the employer pays an extra £0.60 compared to other months due to the £4 difference between 12 x monthly ST and annual ST.

@@ -1,0 +1,118 @@
+Annual allowance: money purchase annual allowance: hybrid arrangements: relevant hybrid arrangement: example: multiple relevant hybrid arrangements
+Identifier: PTM056590
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm056590
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-28T22:18:46+00:00
+Retrieved (UTC): 2026-09-18T14:49:22.131079+00:00
+
+Section 227D Finance Act 2004
+
+Example
+
+Sara is subject to the money purchase annual allowance for tax year 2017-18 due to flexibly accessing a money purchase arrangement in the previous tax year. The tapered annual allowance does not apply to Sara for the tax year.
+
+The annual allowance for the tax year is £40,000.
+
+For the money purchase annual allowance for the tax year there is a £4,000 allowance for ‘money-purchase inputs’ and the alternative annual allowance for ‘other inputs’ is £36,000 (£40,000 less £4,000). (If the tax year had been 2016-17, respectively, the money purchase annual allowance and the alternative annual allowance would be £10,000 and £30,000.)
+
+Sara has unused annual allowance of £18,000 from previous tax years that she can carry forward to tax year 2017-18.
+
+For the tax year, Sara has 4 arrangements to take into account for annual allowance purposes.
+
+Two of Sara’s arrangements are hybrid arrangements. Both were set up after 14 October 2014 and provide either defined benefits or other money purchase benefits when Sara retires.
+
+The other 2 arrangements are a defined benefits arrangement and a money purchase arrangement.
+
+In the case of each arrangement, the pension input period ending in the tax year had started after Sara flexibly accessed the money purchase arrangement.
+
+The pension input amounts for each arrangement are:
+
+|  arrangement 1 |  arrangement 2 |  arrangement 3 |  arrangement 4 |
+
+type of arrangement |  hybrid |  hybrid |  defined benefits |  money purchase |
+
+defined benefits pension input amount |  £20,000 |  £15,000 |  £29,000 |  n/a |
+
+money purchase pension input amount |  £8,000 |  £1,000 |  n/a |  £3,000 |
+
+For annual allowance purposes, Sara must calculate the pension input amounts for each respective hybrid arrangement as if the arrangement had been a defined benefits as well as an other money purchase arrangement. Ordinarily, whichever is the greater of those amounts is the pension input amount for the respective arrangement for the tax year concerned.
+
+For the purpose of the annual allowance for the tax year, Sara’s total pension input amount is £67,000, which is the aggregate of the defined benefits pension input amount for both hybrid arrangements together with the pension input amounts for the defined benefits arrangement and money purchase arrangement (£20,000 + £15,000 + £29,000 + £3,000).
+
+Sara’s total pension input amount (£67,000) has exceeded her available annual allowance for tax year 2017-18 of £58,000 (£40,000 annual allowance plus carried forward unused annual allowance of £18,000).
+
+This means that the amount of Sara’s total pension input amount which would be chargeable to the annual allowance charge by reference to Sara’ s available annual allowance for the tax year is £9,000 (£67,000 less [£40,000 + £18,000]). This is Sara’s ‘default chargeable amount’.
+
+However, for both hybrid arrangements, the defined benefits pension input amount is greater than the other money purchase pension input amount. This means that both arrangements are relevant hybrid arrangements and that a further series of steps therefore needs to be carried out using the hybrid arrangements in different combinations.
+
+The further set of steps are to determine if the money purchase annual allowance for the tax year (£4,000 in this case) is exceeded and, if so, the greatest amount that would be chargeable to the annual allowance charge by reference to the money purchase annual allowance (the ‘alternative chargeable amount’).
+
+Sara must then compare the alternative chargeable amount against the default chargeable amount. The alternative chargeable amount will apply for the tax year if it exceeds the default chargeable amount. Otherwise the default chargeable amount will apply.
+
+Sara has 2 relevant hybrid arrangements which means there are 4 possible combinations, one containing both hybrid arrangements, one which is empty and the remaining other combinations containing one or the other of the hybrid arrangements.
+
+For a combination containing a hybrid arrangement, Sara has to use the other money purchase pension input amount instead of the defined benefits pension input amount for the hybrid arrangement concerned.
+
+Where a combination does not contain one or more of the hybrid arrangements, when calculating her ‘other inputs’ Sara has to use the defined benefits pension input amount for the hybrid arrangement not included in the combination.
+
+The 4 possible combinations are made up as follows:
+
+Combination one - hybrid arrangement 1 only
+
+Combination two - hybrid arrangement 2 only
+
+Combination three - hybrid arrangement 1 and hybrid arrangement 2
+
+Combination four - hybrid arrangements 1 & 2 left out.
+
+For combination one, the ‘money-purchase input’ would be
+
+£8,000 + £3,000 = £11,000
+
+(arrangements 1 and 4)
+
+For combination two, the ‘money-purchase input’ would be
+
+£1,000 + £3,000 = £4,000
+
+(arrangements 2 and 4)
+
+For combination three, the ‘money-purchase input’ would be
+
+£8,000 + £1,000 + £3,000 = £12,000
+
+(arrangements 1, 2 and 4)
+
+For combination four, the ‘money-purchase input’ would be
+
+£3,000
+
+(arrangement 4 only).
+
+Of the 4 combinations, one and three result in a ‘money-purchase input’ over the money purchase annual allowance for the tax year of £4,000. This means that those 2 combinations go forward for the next stage of calculations for the money purchase annual allowance.
+
+Combination one
+
+Excess of ’money-purchase input’ over £4,000 = £7,000
+
+Excess of ‘other inputs’ over the alternative annual allowance = nil
+
+£44,000 (arrangement 2 using defined benefits pension input amount plus arrangement 3) over the sum of £36,000 plus £18,000 = £0
+
+Note - Sara’s carried forward unused annual allowance of 18,000 is added to the alternative annual allowance (£36,000), giving an available alternative annual allowance for the tax year of £54,000
+
+Alternative chargeable amount for combination one = £7,000
+
+Combination three
+
+Excess of ’money-purchase input’ over £4,000 = £8,000
+
+Excess of ‘other inputs’ (£29,000 for arrangement 3) over the alternative annual allowance (£36,000) = nil
+
+Alternative chargeable amount for combination three = £8,000
+
+Combination three gives the greatest alternative chargeable amount (£8,000) for the current tax year.
+
+Sara’s alternative chargeable amount found from Combination three (£8,000) is less than her default chargeable amount (£9,000).
+
+This means Sara will be liable for the annual allowance charge on basis of her default chargeable amount for the tax year of £9,000.

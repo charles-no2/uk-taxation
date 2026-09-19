@@ -1,0 +1,32 @@
+Decentralised Finance: Lending and staking: Corporation Tax: Making a DeFi loan: Taxing Provisions
+Identifier: CRYPTO61412
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61412
+Published: 2022-02-02T14:57:36+00:00
+Updated: 2022-02-02T15:36:17+00:00
+Retrieved (UTC): 2026-09-18T16:18:42.477767+00:00
+
+HMRC does not consider the return (see CRYPTO61130 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61130)) earned by the lender/liquidity provider to be ‘interest’ for tax purposes (see CRYPTO61110 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61110)). Consequently, any provisions in the Taxes Acts which apply to interest will not apply to the return. In addition, HMRC does not expect that the lending/staking of tokens by a customer subject to Corporation Tax will be a loan relationship (see CRYPTO41100 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto41100)). How the return is taxed will depend on whether the receipt has the nature of capital or revenue. For guidance on determining the nature of the return, see CRYPTO61414 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61414) and CRYPTO61214 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61214).
+
+Capital Receipt
+
+If the return has the nature of capital, then the return will be chargeable to Corporation Tax as a chargeable gain see CRYPTO61620 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61620).
+
+Revenue Receipt
+
+If the lender/liquidity provider is not carrying on a trade involving the making of Decentralised Finance (DeFi) loans, and the receipt has the nature of income, it will be within the scope of the miscellaneous income provisions (Part 10 CTA 2009).
+
+Sections 979-981 CTA 2009 (known as the “sweep-up provisions”) charge to Corporation Tax income that is otherwise not chargeable as income under the Corporation Tax Acts. For guidance on the miscellaneous income sweep-up provisions generally, see BIM100000 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim100000).
+
+Numerous cases have considered the scope of the miscellaneous income sweep-up provisions. Broadly, the result is that the reward will be chargeable under the miscellaneous income sweep-up provisions if it has the character of income and results from an understanding between both parties that the recipient will remunerate the provider for their services, for example, if there is a quid pro quo. It does not matter that a formal written contract does not exist. For further guidance on the relevance of contracts and arrangements, see BIM100105 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim100105).
+
+When a lender liquidity provider lends/stakes tokens to a borrower/DeFi lending platform, there will be an agreement between the borrower/DeFi lending platform and the lender/liquidity provider. This agreement, which may fall short of being considered an enforceable contract, will set out the terms of the loan, including:
+
+- the borrowing term which may be fixed or indefinite,
+
+- the principal of the loan,
+
+- any return payable by the borrower/DeFi lending platform to the lender/liquidity provider
+
+It does not matter if the amount to be paid is unknown (for example, if the rate of return fluctuates or the borrowing/staking period is indefinite), only that there exists an obligation on the borrower/DeFi lending platform to pay.
+
+As a result, if the return has the nature of income, the return will be chargeable to Corporation Tax under the miscellaneous income sweep-up provisions.

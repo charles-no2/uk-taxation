@@ -1,0 +1,36 @@
+Pre-owned assets: calculation of the charge on land: where the chargeable person disposed of other property
+Identifier: IHTM44013
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44013
+Published: 2016-04-09T10:30:03+01:00
+Updated: 2016-02-11T17:26:29+00:00
+Retrieved (UTC): 2026-09-18T15:10:09.730375+00:00
+
+Where the disposal condition (IHTM44004 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44004)) is met because the chargeable person disposed of other property and the proceeds of this disposal were used to acquire the relevant property, the appropriate rental value is found by reference to the proportion of the value of the relevant property that can be reasonably attributed to the property originally disposed. How should this proportion be calculated?
+
+Each case will turn on its own facts and the
+
+- value of the land disposed of,
+
+- its ultimate sale price,
+
+- the consideration provided, and
+
+- the independent financial resources of the recipient
+
+will all have to be taken into account when making a judgement as to the value reasonably attributable.
+
+Example
+
+Roger gives ‘The Cottage’ which is worth £100,000 to his daughter Anne. Anne later sells ‘The Cottage’ for £300,000 and buys ‘The Bungalow‘ for £150,000 which Roger then occupies. The value of ‘The Bungalow’ is wholly attributable to proceeds of the property that Roger disposed of, so you can reasonably treat the whole value of the new property as attributable to the property originally disposed of. The full rental value of ‘The Bungalow’ would be subject to the POA charge.
+
+If the purchase price of ‘The Bungalow’ had been £400,000, the proportion of the value reasonably attributable to the original property will be £300,000 ÷ £400,000, or 75%. The value to be attributed to the new property cannot exceed the final value of the property originally disposed of.
+
+If the value of ‘The Bungalow’ at the valuation date was £500,000 and the annual value was £10,000, the reasonable attribution is not limited to the £300,000 originally put into ‘The Bungalow’ but is 75% of the value of ‘The Bungalow’ at the relevant valuation date (75% of £500,000 is. £375,000)
+
+So the appropriate rental value calculated under FA04/Sch15/Para 4(2)(b), is not
+
+10,000 × (300,000 ÷ 500,000) = £6,000, but is instead
+
+10,000 × (375,000 ÷ 500,000) = £7,500.
+
+If, in the above example, Anne had used the sale proceeds to buy another property ‘The Flat’ which Roger did not occupy, but also used her own resources to buy ‘The House’ which Roger did occupy, you should not treat the value of ‘The House’ as attributable to the property originally disposed of by Roger. An exception to this approach would be where Anne had borrowed on the security of ‘The Flat’ to purchase ‘The House’.

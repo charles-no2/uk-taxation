@@ -1,0 +1,30 @@
+Lifetime transfers - additional conditions: Introduction
+Identifier: IHTM25361
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25361
+Published: 2016-04-09T09:46:16+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:40.676035+00:00
+
+The additional conditions for deciding whether business relief is due on lifetime transfers (IHTM14000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14000)) made on or after 18 March 1986 and within seven years of the transferor’s death are contained in IHTA84/S113A and IHTA84/S113B. The conditions are designed to deny relief in connection with charges arising on the transferor’s death if, broadly, the transferee has disposed of the business asset without replacement or if it is no longer relevant business property (IHTM25141 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25141)).
+As the name suggests, the conditions are additional, so it is an essential preliminary that
+
+- where the transfer is a failed potentially exempt transfer (PET) (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)) that it would have qualified for relief at the time it was made,
+
+- where the transfer was immediately chargeable (IHTM04067 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04067)), that it did then qualify for relief.
+
+The conditions apply to affect
+
+- the value transferred by a PET, IHTA84/S113A (1)
+
+- the additional tax payable on an immediately chargeable transfer following the transferor’s death within seven years of the transfer, IHTA84/S113A(2).
+
+The additional conditions do not apply to gifts with reservation (IHTM25381 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25381)) where the reservation was still in existence at the date of death because there are separate rules that apply to this type of gift. But they will apply where the gift has ceased to be one with reservation so that the donor is treated as having made a deemed PET during their lifetime.
+The rate of relief (whether the higher or lower rate) and the value on which it is given are determined by reference to the original gift and the position at that time. But if the value of the rate of relief has changed, as it did in 1992 and in 1996, it is the rate at the date of death that applies.
+
+Note that, from 6 April 2026, in a case where IHTA84/S113A (2) applies, the chargeable transfer is ignored for the purposes of determining the amount of 100% relief allowance available to the transferor by virtue of IHTA84/S113A (2A) (IHTM25500 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25500)).
+
+Example
+
+On 1 December 2026, Suzie made a lifetime transfer of £1.5m of relevant business property into trust which qualifies for 100% BR. She dies on 1 August 2027. At this time, the conditions in IHTA84/S113A (3) are not met.
+
+The tax is recalculated at the death rate and BR is not available by virtue of S113A (2). But the value of the £1.5m chargeable transfer made on 1 December 2026 after BR remains nil for cumulation purposes and it is ignored when calculating Suzie’s 100% relief allowance available on her death.

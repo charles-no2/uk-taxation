@@ -1,0 +1,34 @@
+Calculating QSR: summary and formula
+Identifier: IHTM22051
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22051
+Published: 2016-04-09T09:35:55+01:00
+Updated: 2022-01-27T09:34:28+00:00
+Retrieved (UTC): 2026-09-18T15:00:43.761793+00:00
+
+You allow quick succession relief (QSR) (IHTM22041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22041)) by reducing the tax charged on the whole of the death estate
+
+- by a percentage
+
+- of the tax charged on the earlier transfer
+
+- so far as that transfer increased the deceased’s estate.
+
+If the tax charged on the earlier transfer was on settled property in which the deceased had an interest in possession (IHTM16061 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16061)), very exceptionally you will have to restrict the QSR on the deceased’s death because part of the tax has been allowed against a lifetime transfer. QSR on settled property (IHTM22090) is discussed later in this section.
+
+Subject to this qualification, the amount of the reduction depends on
+
+- the appropriate percentage, which is based on the length of time between the earlier transfer and the death
+
+- the amount of tax on the earlier chargeable transfer (IHTM04027 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04027))
+
+- and the extent to which the earlier chargeable transfer increased your deceased’s estate, which involves a comparison between the increase in your deceased’s estate because of the earlier chargeable transfer, and the value of the earlier chargeable transfer.
+
+Expressed as a formula, the calculation is (A ÷ D) × B × C
+
+A = Amount of increase of deceased’s estate (IHTM22054 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22054))
+
+B = Tax on earlier chargeable transfer (IHTM22053 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22053))
+
+C = Appropriate percentage (IHTM22052 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22052))
+
+D = Value of earlier chargeable transfer (IHTM22053 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22053))

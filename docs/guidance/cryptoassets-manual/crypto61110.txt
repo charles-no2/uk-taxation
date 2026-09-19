@@ -1,0 +1,18 @@
+Decentralised Finance: Lending and staking: Introduction
+Identifier: CRYPTO61110
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61110
+Published: 2022-02-02T14:45:23+00:00
+Updated: 2022-02-02T14:45:12+00:00
+Retrieved (UTC): 2026-09-18T16:18:39.484892+00:00
+
+Decentralised Finance (DeFi) is an umbrella term used to provide products akin to traditional financial services through Distributed Ledger Technology (see CRYPTO10200 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto10200)). DeFi platforms can provide services such as Decentralised exchanges (DEXs), saving, lending and derivatives. Most services are currently built on Ethereum utilising smart contracts and can be used by anyone.
+
+Lending and borrowing of cryptoassets
+
+Lending and borrowing of cryptoassets has been possible since the first cryptoasset, bitcoin, was produced in 2009. The pseudonymous nature of cryptoassets combined with a lack of regulation meant this was potentially a high risk activity for the lender as the borrower might deliberately default on the loan. Early lending and borrowing agreements tended to be restricted to parties that knew each other, such as a company and its shareholder(s).
+
+DeFi lending platforms facilitate lending between unconnected lenders and borrowers. By lending to a DeFi lending platform, the lender reduces their exposure to any borrower defaulting on the loan. The risk of a default is instead spread across all lenders to the DeFi lending platform and may be further mitigated by the provision of collateral. They may also provide a lender with a return on their loan, allowing cryptoassets to provide a source of income in addition to any increase in the capital value of the cryptoassets.
+
+The return received by a lender may be described or referred to as ‘interest’ by individuals or companies entering into these types of transactions. HMRC does not consider the return received by the lender to be interest for tax purposes. The return earned by the lender can be determined as the number of tokens received over the course of the loan in excess of the principal advanced.
+
+There is no statutory definition of interest for tax purposes however there are a number of guiding principles derived from case law (see CFM33030 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm33030)). Crucially, for tax purposes, interest is the return or compensation paid or received for the use or retention by one person of a sum of money belonging or owed to another. As HMRC does not consider cryptoassets to be currency or money (see CRYPTO10100 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto10100)), the rate of return is not considered to be interest.

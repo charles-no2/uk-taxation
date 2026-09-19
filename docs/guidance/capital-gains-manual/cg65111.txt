@@ -1,0 +1,74 @@
+Private residence relief: example: partial relief despite residential use
+Identifier: CG65111
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65111
+Published: 2016-03-12T11:58:33+00:00
+Updated: 2025-09-17T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:45:24.411679+00:00
+
+B acquired a house and 0.2 hectare garden in January 2011 for £190,000. She occupied the property as her only residence until May 2014 when she acquired a second house which she also used as a residence. A nomination under s222(5) TCGA92 was made within the time allowed, see CG64495 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64495), in favour of the second residence. In June 2020 the first house, together with its garden, was sold for £450,000.
+
+The house falls within s222(1)(a) TCGA92 because at some time in B’s period of ownership it has been her only or main residence. The garden falls within s222(1)(b) TCGA92 because, at the date of sale, it is occupied by her as the garden of that residence and is smaller than the area set out in CG64815 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64815).
+
+To compute relief under s223(1) and (2) TCGA92 in this case you do not need to distinguish between the house and the garden.
+
+Minus
+
+|
+
+Description
+
+|
+
+Amount (£)
+
+|
+
+-
+
+|
+
+Disposal proceeds
+
+|
+
+450,000
+
+|
+
+less
+
+|
+
+Cost
+
+|
+
+190,000
+
+|
+
+-
+
+|
+
+Gain
+
+|
+
+260,000
+
+|
+
+PRIVATE RESIDENCE RELIEF
+
+- Period of ownership Jan 2011 - June 2020 = 114 months
+
+- Period of only or main residence
+
+- Jan 2011 - May 2014 = 41 months
+
+- Final period allowed by TCGA92/S223 (2) = 9 months
+
+The relief is (41 + 9) / 114 x £260,000 = £114,035
+
+The chargeable gain will be £145,965 before the annual exempt amount.

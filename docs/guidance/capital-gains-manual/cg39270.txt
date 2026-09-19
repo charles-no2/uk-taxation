@@ -1,0 +1,48 @@
+Amount of Schedule 4B trust gains
+Identifier: CG39270
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39270
+Published: 2016-03-12T11:00:34+00:00
+Updated: 2016-01-25T16:44:06+00:00
+Retrieved (UTC): 2026-09-18T14:47:55.438636+00:00
+
+TCGA92/Sch4C/para3
+
+The amount of Schedule 4B trust gains is:
+
+the chargeable amount
+
+less
+
+any amount charged on the settlor
+
+less
+
+any allowable losses.
+
+Chargeable amount (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39270#IDAICAMF)
+Amount charged on the settlor (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39270#IDAYCAMF)
+Allowable losses (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39270#IDAADAMF)
+
+Chargeable amount
+
+If the trustees are non-resident the chargeable amount is the amount of the Schedule 4B gain, TCGA92/Sch4C/para4.
+
+If the trustees are dual resident so that TCGA92/S87 would apply by virtue of TCGA92/S88, CG38595, the chargeable amount is restricted to the gain on the assets that are not liable to Capital Gains Tax, TCGA92/Sch4C/para5.
+
+If the trustees are UK resident TCGA92/Sch4B may still apply through TCGA92/S89, CG39110. Any Schedule 4B gain on the transfer is not included in the TCGA92/Sch4C. As explained in CG39110 that gain would be taxed on the UK resident trustees. But any outstanding section 2(2) amount would go into the Schedule 4C pool.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39270#Top)
+
+Amount charged on the settlor
+
+The amount charged on the settlor is the amount charged under TCGA92/S86, TCGA92/Sch4C/para6. If the charge accrues because the settlor has returned after a period of temporary absence TCGA92/Sch4C/para12 reduces the amount charged on the settlor.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39270#Top)
+
+Allowable losses
+
+Any allowable losses are deducted after any amount charged on the settlor. Losses are deducted first from the chargeable amounts arising from any other transfer of value made in the same year. If the amount of the losses is lower than the chargeable amounts the losses are distributed between them rateably. If the losses exceed the chargeable amounts the unused balance is carried forward and set against any chargeable amount for a transfer of value in a later year, TCGA92/Sch4C/para7.
+
+It is not possible to set a TCGA92/Sch4B loss against any settlement gains not accruing under TCGA92/Sch4B. In other words the losses cannot be set against other gains accruing to the trustees which will be taxed under TCGA92/S87. In the same way if the calculation of the trustees’ section 2(2) amount for the purposes of TCGA92/S87 gives a loss that loss cannot be set against a TCGA92/Sch4B gain, TCGA92/S85A.
+
+As with TCGA92/S87 the gains in the Schedule 4C pool are called the trustees’ section 2(2) amount.

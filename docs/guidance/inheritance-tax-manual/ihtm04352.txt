@@ -1,0 +1,22 @@
+Reverter to settlor: limitations on the relief
+Identifier: IHTM04352
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04352
+Published: 2016-03-20T09:19:20+00:00
+Updated: 2018-04-25T14:32:03+01:00
+Retrieved (UTC): 2026-09-18T14:53:14.865596+00:00
+
+On the material event, the settled property must revert to the settlor themselves, who must then still be living. The property (IHTM04030 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04030)) out of which the settlor carved the life interest (I (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16000)HTM16060 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16060)) may have been in possession or in expectancy at the time when the settlement was executed. Where there are multiple dispositions, the property which reverts must be the underlying property in which the interest in possession (IHTM16062 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16062)) subsists.
+
+In the normal case of A settling property on B for life, remainder to A, the reversion to the settlor need not be absolute, i.e. it would be a life interest to A because IHTA84/S49(1) treats A as beneficially entitled (IHTM04031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04031)) to the property even though, in general law, A is not.
+
+Example
+
+Simon settles Blackacre on Thomas for 80 years with remainder to Yvonne. Thomas settles his life interest on Rupert for life with remainder to Thomas. Rupert takes an interest in possession in Blackacre.
+
+On Rupert’s death in Thomas’s lifetime, there is no relief under IHTA84/S54 (1) because the property which reverts to Thomas is the life interest which he settled and not Blackacre itself.
+
+There is no relief if the settlor has previously disposed of their reversion to someone else. Nor does the relief apply where the life tenant and the remainder men resettle the property already in a settlement upon the same trusts or trusts corresponding to them.
+
+Where the person becomes beneficially entitled to the interest in possession in settled property on or after 22 March 2006, the relief from charge is only applicable if the interest is a disabled person’s interest or a transitional serial interest
+
+Despite the requirement that the property must revert during the settlor’s life, you should still allow relief where the settlor is a company which is still in existence when the property reverts to it, provided that the conditions are otherwise satisfied.

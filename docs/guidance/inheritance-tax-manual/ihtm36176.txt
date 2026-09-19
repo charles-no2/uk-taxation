@@ -1,0 +1,40 @@
+Calculating the penalty: culpable tax
+Identifier: IHTM36176
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36176
+Published: 2016-04-09T10:18:02+01:00
+Updated: 2022-02-17T12:35:53+00:00
+Retrieved (UTC): 2026-09-18T15:08:24.484252+00:00
+
+The culpable tax to which the penalty loading is to be applied is that due as a result of fraud (IHTM36291 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36291)) or negligence (IHTM36301 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36301)), provided the time limit (IHTM36108 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36108)) for commencing penalty proceedings has not expired.
+
+Calculating the culpable tax is straightforward if there are only culpable additions to the estate and no decreases. The additional tax payable as a result of the culpable additions is the culpable tax. But bear in mind the instructions at IHTM36103 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm36103).
+
+If there are not only culpable increases but also decreases, resulting from say additional liabilities or an IoV (IHTM35011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35011)), the net additional tax after deducting the decreases is the culpable tax.
+
+However, if there are both culpable and non-culpable increases, you should apportion the net additional tax between the culpable and non-culpable increases to arrive at the culpable tax.
+
+Example
+
+Chargeable estate returned on the IHT400 = £501,730
+
+Non-culpable additions = £5,000
+
+Culpable additions = £54,000 & £59,000
+
+= £560,730
+
+Decreases
+(11,000)
+
+Final chargeable estate
+£549,730
+
+Final tax (based on a tax threshold of £250,000 = 119,892
+
+Original tax = 100,692
+
+Additional tax = 19,200
+
+Culpable tax is 19,200 X 54,000/59,000 = 17,572
+
+Penalty is calculated on £17,572

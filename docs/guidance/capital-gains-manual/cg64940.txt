@@ -1,0 +1,68 @@
+Private residence relief: ownership period: amount of relief
+Identifier: CG64940
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64940
+Published: 2016-03-12T11:57:41+00:00
+Updated: 2026-05-06T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:45:15.293149+00:00
+
+S223(7) TCGA92
+
+Under s223(7) TCGA92, the period of ownership for the purpose of computing the amount of relief due under s223 TCGA92 cannot include any period before 31 March 1982. This applies to any disposal on or after 6 April 1988.
+
+The limitation of the period of ownership to periods after 31 March 1982 applies regardless of whether a rebasing election has been made under s35(5) TCGA92, see CG16700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16700)+. For disposals after 6 April 1988 the allowable cost of assets held at 31 March 1982 is their value on that date and a rebasing election is no longer necessary.
+
+Example
+
+An individual bought the freehold of house E in July 1975 and occupied it as his only residence until October 1980 when he bought house F which he began to use as a second residence. He nominated house F as his main residence within the time allowed by s222(5) TCGA92, see CG64495 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64495). He sold house E on 1 June 2009 for £200,000. The Valuation Office has agreed that the value of house E at 31 March 1982 was £20,000.
+
+His gain on the disposal of house E is computed as follows:
+
+|  |
+
+£
+
+|
+
+|  |  |
+
+|
+
+Disposal proceeds
+
+|
+
+200,000
+
+|
+
+less
+
+|
+
+Value at 31 March 1982
+
+|
+
+20,000
+
+|
+
+|
+
+Net Gain
+
+|
+
+180,000
+
+|
+
+PRIVATE RESIDENCE RELIEF
+
+For the reason given in CG64943 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64943) we accept that because house E was his only or main residence at some time in the period of ownership defined at s222(7) TCGA92 he is entitled to relief for the final period of 36 months of ownership*. So the relief due is
+
+36 / 326 x £180,000 = £19,878
+
+The chargeable gain will be £160,122 (£180,000 - £19,878) before the annual exempt amount.
+
+* For details of the different final periods where relief is due which are applicable for different dates of disposal see CG64985 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64985).

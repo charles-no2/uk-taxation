@@ -1,0 +1,135 @@
+Unauthorised payments: the unauthorised payments charge and the unauthorised payments surcharge: surchargeable unauthorised member payments - valuing members rights in calculation the unauthorised payments percentage
+Identifier: PTM134500
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134500
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-08-02T14:11:32+01:00
+Retrieved (UTC): 2026-09-18T14:50:04.652928+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Valuing crystallised member rights when calculating the unauthorised payments percentage (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134500#valuing-crystallised)
+Valuing uncrystallised member rights (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134500#valuing-rights)
+Valuing uncrystallised member rights in a cash balance arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134500#valuing-cb)
+Valuing uncrystallised member rights in an other money purchase arrangement that is not a collective money purchase arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134500#valuing-omp-not-cmp)
+Valuing uncrystallised member rights in a defined benefits arrangement or a collective money purchase arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134500#valuing-db-or-cmp)
+Valuing uncrystallised member rights in a hybrid arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134500#valuing-hybrid)
+
+Valuing crystallised member rights when calculating the unauthorised payments percentage
+
+Section 211 Finance Act 2004
+
+The value of the member’s crystallised rights under an arrangement is the total of:
+
+- the value of each scheme pension or lifetime annuity to which the member has an actual entitlement (rather than a prospective entitlement) under the arrangement on the date of valuation,
+
+- the total amount of the sums and market value of assets representing the member’s drawdown pension fund (before 6 April 2011 unsecured pension fund or alternatively secured pension fund) on the valuation date, and
+
+- the total amount of the sums and market value of assets representing the member’s flexi-access drawdown fund on the valuation date.
+
+The scheme pension or lifetime annuity is valued using the formula:
+
+RVF x ARP
+
+RVF = the relevant valuation factor. This will be 20 unless HMRC has agreed to the use of an alternative valuation factor greater than 20 in accordance with section 276 Finance Act 2004 (see PTM088200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm088200)).
+
+ARP = the annual rate of the scheme pension or lifetime annuity.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134500#Top)
+
+Valuing uncrystallised member rights
+
+Section 212 Finance Act 2004
+
+Uncrystallised rights are rights to benefits that the member is not currently entitled to have in payment.
+
+Uncrystallised rights do not include the sums and assets making up a drawdown pension fund (before 6 April 2011 an unsecured pension fund or an alternatively secured pension fund) or flexi-access drawdown fund. This is because, even if a member chooses not to draw benefits from those funds, the member still has the right to the actual payment of a drawdown pension (before 6 April 2011 an unsecured pension or alternatively secured pension).
+
+How uncrystallised rights are valued depends on whether the form of the benefits being provided by an arrangement is:
+
+- a cash balance arrangement
+
+- an other money purchase arrangement that is not a collective money purchase arrangement
+
+- a defined benefits arrangement or a collective money purchase arrangement, or
+
+- a hybrid arrangement.
+
+The following sections set out how uncrystallised member’s rights are valued for each type of arrangement.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134500#Top)
+
+Valuing uncrystallised member rights in a cash balance arrangement
+
+Section 212(4) Finance Act 2004
+
+The value of a member’s uncrystallised rights under a cash balance arrangement is the amount that would be available for the provision of immediate benefit if the member was entitled to them on the valuation date, subject to two valuation assumptions.
+
+The two valuation assumptions are that:
+
+- where the amount of the immediate benefit would be reduced because the member had not reached a specified age, the benefit should be calculated assuming the member has reached the specified age
+
+- the member is deemed to be in good physical and mental health.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134500#Top)
+
+Valuing uncrystallised member rights in an other money purchase arrangement that is not a collective money purchase arrangement
+
+Section 212(5) Finance Act 2004
+
+For money purchase arrangements which are not cash balance arrangements or collective money purchase arrangements, the value of the member’s uncrystallised rights on the valuation date is the total of:
+
+- the value of the cash held under the arrangement, and
+
+- the market value of the other assets held by the arrangement to provide the individual’s benefits.
+
+Any loans or other indebtedness should be included in the calculation.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134500#Top)
+
+Valuing uncrystallised member rights in a defined benefits arrangement or a collective money purchase arrangement
+
+Section 212(6) Finance Act 2004
+
+For defined benefits arrangements or collective money purchase arrangements, the value of a member’s uncrystallised rights on the valuation date is represented by the formula:
+
+(RVF x ARP) + LS
+
+RVF = the relevant valuation factor in accordance with section 276 Finance Act 2004. This will be 20 unless HMRC has agreed to the use of an alternative valuation factor greater than 20 (see PTM088620 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm088620)).
+
+ARP = the annual rate of pension the member would be entitled to if they became entitled to the actual payment of benefits on the valuation date.
+
+LS = the amount of any separate lump sum (that is, not provided by commutation) the member would be entitled to if the member had an actual right to the payment of the lump sum on the valuation date.
+
+For both the annual rate of pension (ARP) and the amount of the lump sum (LS) it should be assumed:
+
+- where the amount of the immediate benefit would be reduced because the member had not reached a specified age, the benefit should be calculated assuming the member has reached the specified age, and
+
+- the member is deemed to be in good physical and mental health.
+
+Example
+
+On 5 August Joan receives an unauthorised member payment from her defined benefits arrangement. She has received no other benefits and has no other arrangement under the registered pension scheme.
+
+The value of Joan’s uncrystallised rights in the arrangement needs to be established to work out what percentage of the fund the unauthorised payment represents.
+
+The arrangement provides Joan with benefits of 1/40th of pensionable earnings for each year in the scheme. No separate lump sum is provided.
+
+On 5 August (the date of the unauthorised payment) Joan has pensionable earnings of £90,000 and has completed 20 years pensionable service.
+
+This gives an annual pension of £45,000 (20/40 x £90,000).
+
+The value of Joan’s uncrystallised rights using the (RVF x ARP) + LS formula is £900,000.
+
+(20 x £45,000) + £0 = £900,000
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134500#Top)
+
+Valuing uncrystallised member rights in a hybrid arrangement
+
+Section 212(7) and (8) Finance Act 2004
+
+In hybrid arrangements, a member’s uncrystallised pension rights are valued on the basis of whichever rights have the highest or higher value. Calculate the value of the member’s uncrystallised rights under each variety of benefits that could be provided under the arrangement. The hybrid value is the highest of the amounts determined.
+
+Example
+
+Paul has rights in an arrangement to take benefits from his fund on a money purchase basis, or take benefits at 1/100th of pensionable earnings for each year of service. The fund is valued at £900,000 using the money purchase basis. The defined benefit right is valued at £950,000. The higher value is the defined benefit right and the amount of £950,000 applies for the calculation of the unauthorised payments percentage.

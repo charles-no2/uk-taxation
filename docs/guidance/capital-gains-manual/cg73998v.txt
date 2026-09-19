@@ -1,0 +1,114 @@
+UK property rich collective investment vehicles: Exemption election: Qualifying conditions (TCGA92/SCH5AAA/para13)
+Identifier: CG73998V
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73998v
+Published: 2021-03-19T11:16:04+00:00
+Updated: 2023-04-17T14:17:31+01:00
+Retrieved (UTC): 2026-09-18T14:47:04.312351+00:00
+
+The conditions that collective investment vehicles (CIVs), limited partnerships collective investment schemes (LP CISs) and UK Co-ownership authorised contractual schemes (CoACS) must meet in order for an election to be made under TCGA92/SCH5AAA/para 12(2) or (3) are shown in the table below. In each case, the qualifying conditions of paragraph 13 must be met. These conditions include references to the genuine diversity of ownership condition (GDO) (at para13(3)), the recognised stock exchange condition (at para 13(4)), the non-close condition (at para 13(5)) and the UK tax condition (at para 13(7)). Additional comments on each are made below the table.
+
+CIVs (Election under para 12(2)) |
+
+Para 12(2)(a) | The vehicle must be offshore |
+
+Para 12(2)(b) | The vehicle is a company (including deemed companies under para 4) |
+
+Para 12(2)(c) | The vehicle is UK property rich (see para 3 / CG73996R) |
+
+Para 12(2)(d) | All of the qualifying conditions at para 13 are met |
+
+Para 12(2)(e) | If the vehicle is an alternative investment fund it must also be either a collective investment scheme or a company at para 1(d), (e)or (f) that meets the property income condition at para 1(2) or 1(2A) |
+
+| If the CIV is a collective investment scheme (under FSMA2000/S235) it meets either -  |
+
+Para 13(1)(a) | The genuine diversity of ownership condition (GDO), or |
+
+Para 13(1)(ab) | The UK tax condition and is wholly or (almost wholly) owned by one or more other collective investment schemes each of which meets the GDO, or the UK tax condition and the non-close condition |
+
+|   |
+
+| If the CIV is a company (excluding entities deemed to be companies by para (4), see CG73997D) it meets either - |
+
+Para 13(1)(b) | The recognised stock exchange condition and the non-close condition, or |
+
+Para 13(1)(c) | The UK tax condition and the non-close condition |
+
+LP CISs and CoACS (Election under Para 12(3)) – conditions to be satisfied by companies for which an election is to be made |
+
+Para 12(3)(a) | The company is wholly or ‘almost wholly’ and directly owned (see below) by the LP CIS or CoACS |
+
+Para 12(3)(b) | In the case of a LP CIS, the company is UK property rich (see para 3 / CG73996R); In the case of a CoACS, the CoACS is UK property rich (see para 12(4)(b)) |
+
+Para 12(3)(c) | All of the qualifying conditions at para 13 are met |
+
+|   |
+
+| Either – |
+
+Para 13(2)(a) | The company meets the UK tax condition and the non-close condition, or |
+
+Para 13(2)(b)(i) | The CIS that directly owns it meets the GDO condition, or |
+
+Para 13(2)(b)(ii) | The CIS that directly owns it is wholly or almost wholly and directly owned by one or more qualifying partnerships, each of which meets the GDO condition |
+
+References to direct ownership are to ownership otherwise than through a company, a partnership, trust or other entity or arrangements. A qualifying partnership means a collective investment scheme which is constituted by two or more persons carrying on a trade or business in partnership.
+
+All elections made under paragraph 12 are subject to initial and ongoing reporting obligations as set out in paragraphs 14 and 15; see CG73999J  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73999j)for details.
+
+The genuine diversity of ownership (GDO) condition
+
+TCGA92/SCH5AAA/para 13(3) points to regulation 75 of The Offshore Funds (Tax) Regulations 2009 (SI 2009/3001) and applies the rules therein as if any CIV were within the definition of an ‘offshore fund’ at TIOPA2010/S355. A collective investment scheme meets the condition if it meets either –
+
+- the conditions in regulation 75(2), (3) and (4)(a), or
+
+- the condition in regulation 75(5) assuming for this purpose that regulation 75(4)(b) is omitted.
+
+Regulation 75(5) moves the requirement for meeting conditions A to C to a feeder fund investing in the CIV where that feeder fund is an offshore fund, an open-ended investment company or an authorised unit trust scheme.
+
+Further in-depth guidance on the GDO as it applies for the purposes of TCGA/SCH5AAA is at IFM17000 (https://www.gov.uk/hmrc-internal-manuals/investment-funds/ifm17000).
+
+The recognised stock exchange condition
+
+A company meets the recognised stock exchange condition if it has ordinary share capital and the shares forming part of the ordinary share capital are regularly traded on a recognised stock exchange. A definition of a “recognised stock exchange” can be found at s.1005 ITA07.
+
+The non-close condition
+
+The meaning of ‘close company’ is provided at TCGA92/SCH5AAA/para 46(2) for the purposes of the non-close test at TCGA92/SCH5AAA/para13(5). The test is modelled on the test at CTA2010/S528(4) and (5) which applies to UK real estate investment trusts (REITs). For details on the application of the test, see IFM22015 (https://www.gov.uk/hmrc-internal-manuals/investment-funds/ifm22105) and IFM22017 (https://www.gov.uk/hmrc-internal-manuals/investment-funds/ifm22017).
+
+A CIV that is a company is (broadly) close if it is controlled by five or fewer participators, but it may pass the non-close test if it is only close because control can only be established by the inclusion of qualifying investors (see CG73996Y (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73996y)).
+
+The close company rules in CTA10/PART10/CHAP2 are further modified as follows –
+
+- CTA10/S442(a) (non-UK resident companies not to be regarded as close) is disapplied;
+
+- CTA10/S444 (companies involved with non-close companies not to be regarded as close) is disapplied;
+
+- CTA10/S447(1)(a) (shares in quoted companies beneficially held by non-close companies) is disapplied.
+
+- For the purposes of any attribution under CTA10/S451(4) (rights of a person’s associates to be attributed to the person etc in determining “control”, the rights and powers of a person (“A”) are not to be attributed to another person (“P”) merely because A is a partner of P
+
+- A company (“C”) is not to be regarded as a close company only because a person possesses or is entitled to possess the greater part of the voting power in C as a result of being a manager of a CIV or a general partner in an LP CIS.
+
+Unlike the test in section 528, the non-close test for the exemption election allows a look-through of immediate investors to establish whether control is ultimately established through institutional investors. The look-through must be through bodies corporate. For this purpose, a body corporate includes an offshore CIV assumed to be a company as a result of paragraph 4 and anything else which is assumed to be a company for the purposes of TCGA. For example, a company which is a direct investor in the CIV could count toward the level of control held by qualifying investors if its investors include one or more qualifying investors.
+
+Example
+
+Holding Company A is a body corporate and has a 60% investment in Fund B, a CIV which is tax resident outside the UK. Fund B does not meet the GDO test, so is required to meet the UK tax condition and the non-close test. The remaining 40% investment in Fund B is held by three other investors, none of whom can exert control within the meaning of the CTA10/PART10/CHAP2 close company rules.
+
+Holding Company A controls Fund B, and is not itself a Qualifying Investor within TCGA92/SCH5AAA/para46.
+
+Pension fund C holds a 50% investment in Holding Company A, and is a non-UK resident pension fund, which meets the conditions to be exempt from UK capital gains and is eligible to be a qualifying investor under TCGA92/SCH5AAA/para46.
+
+The other 50% is held by Fund D, which is the overseas equivalent of an authorised unit trust scheme. Fund D is eligible to be a qualifying investor only if it, itself, is either not close or meets the GDO. Fund D meets the non-close condition, so is eligible to be a qualifying investor.
+
+Holding Company A is 100% invested in (wholly owned) by qualifying investors. The control exerted by Holding Company A therefore counts as control by qualifying investors, and as that is the only reason that Fund B is close, Fund B will meet the non- close test.
+
+The UK tax condition
+
+The test at TCGA92/SCH5AAA/para 13(7) must be met in certain cases by the qualifying fund or qualifying company in order for the election under paragraph 12 to be made.
+
+To meet this test at any time the manager of the CIV must reasonably believe that, if all the shares in the fund were disposed of at their market value at that time , no more than 25% of the total proceeds would not be subject to UK tax in the hands of the investors because of the allocation of taxing rights under Double Tax Agreements.
+
+This percentage is to be calculated with regard to the holdings of all of the investors in the fund, including exempt investors and taxable UK resident investors. So where a manager can be sure that more than 75% of the investors are UK residents or exempt investors, or investors resident in a jurisdiction with a Double Tax Agreement that allocates taxing rights to the UK, the UK tax condition will be met. If any of the proceeds arise to a company which is wholly or almost wholly owned by one or more investors to which paragraph 33 applies, the company is to be treated for this purpose as exempt from corporation tax on chargeable gains otherwise as a result of double taxation arrangements.
+
+In many cases the manager will have no reason to know the tax residence of its investors, particularly for funds already in existence at 6 April 2019. The manager is not required to obtain information in order to perform a test of this condition, but if they are aware of the tax residence of their investors for other reasons - such as for due diligence, the Common Reporting Standard, or Anti Money Laundering procedures, then they should use the information they hold in order to establish whether the condition is passed.

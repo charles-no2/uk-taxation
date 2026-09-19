@@ -1,0 +1,56 @@
+Earnings Periods: Employee starts work part way through an earnings period but is not paid until the end of the next earnings period: Earnings period in same tax year
+Identifier: NIM08310
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim08310
+Published: 2016-04-11T17:19:54+01:00
+Updated: 2021-11-17T12:05:41+00:00
+Retrieved (UTC): 2026-09-18T15:14:30.914382+00:00
+
+Regulation 7(1)(a) & (2)(a) of the Social Security (Contributions) Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+When an employee starts work on a monthly earnings period basis part-way through the first earnings period (June) but receives their first earnings payment, for a part-month and a full month, at the end of the next earnings period (July) NICs are calculated on the earnings due for each earnings period separately.
+
+Example calculation:
+
+- an employee starts work on 21 June 2025
+
+- the employee will have a monthly earnings period (earnings will be paid on the last day of each calendar month)
+
+- the employee is liable to pay standard rate catergory A NICs
+
+- it is too late for the employer to put the employee on to the payroll for June so the employee receives their first earnings payment, for the period 21 June to 31 July, on 31 July 2025.
+
+The employee’s gross pay is £2,700 which represents:
+
+- £700 for the period 21 to 30 June
+
+- £2000 for the period 1 to 31 July
+
+Calculate NICs separately on each of these amounts as follows:
+
+The monthly thresholds for 2025 to 2026 tax year are:
+
+- Secondary Threshold (ST) of £417
+
+- Lower Earnings Limit (LEL) of £542
+
+- Primary Threshold (PT) of £1,048
+
+- Upper Earnings Limit (UEL) of £4,189
+
+As the earnings payment for June is £700 and this is less than the PT no primary NICs are due. However, as the payment is above the ST secondary NICs are due:
+
+Employer NICs = (£700 - £417 (ST) = £283) x 15% = £42.45
+
+Total NICs for June payment = £42.45
+
+Earnings payment for July = £2,000
+
+Employee NICs = (£2,000 - £1048 (PT) = £952) x 8% = £76.16
+
+Employer NICs = (£2,000 - £417 (ST) = £1,583) x 15% = £237.45
+
+Total NICs for July payment = £313.61
+
+Total NICs of £356.06 are, therefore, due on the earnings payment of £2,700.
+
+The principle also applies to weekly paid employees.

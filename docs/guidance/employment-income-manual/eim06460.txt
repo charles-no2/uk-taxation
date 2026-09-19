@@ -1,0 +1,50 @@
+Employment income: sick pay and injury payments: examples
+Identifier: EIM06460
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim06460
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-12-01T15:22:45+00:00
+Retrieved (UTC): 2026-09-18T14:19:27.135174+00:00
+
+Section 221 ITEPA 2003
+
+Example (a): employees’ and employer’s contributions fixed in advance
+
+Employees and their employer contribute to a sick pay insurance scheme. Until 31 December 2020, the employees each pay £30 per month and the employer pays £20 per month for each employee. From 1 January 2021, the employees’ contributions increase to £35 per month and the employer pays £25 per month per employee.
+
+An employee falls sick on 1 October 2020, and is still ill and receiving sick pay on 1 October 2021.
+
+From 1 October 2020, the amount of sick pay taxable as employment income is given by the formula:
+
+Sick pay × (20 ÷ (20 + 30))
+
+From 1 January 2021, the proportion of sick pay taxable as employment income is given by the formula:
+
+Sick pay × (25 ÷ (25 + 35))
+
+As the employee is still receiving sick pay after a whole year (on 1 October 2021) the part of the sick pay which is not taxable as employment income is potentially chargeable as Savings and Investment Income. Sections 735 – 743 ITTOIA 2005 exempt that part of the sick pay, but not the part taxable as employment income (see above).
+
+Example (b): employees’ or employer’s contribution variable
+
+A sick pay club makes up its accounts to 31 May each year.
+
+The employees each contribute 60p per week, and their employer pays whatever sum is needed to bring the total contributions up to £100,000 per year. Because the number of employees is variable, the relative amount of the employees’ and employer’s contributions will not be known until the end of the year.
+
+By 30 June 2020, the club calculates the employees’ total contributions for the year ended 31 May 2020 to be £40,400, so the employer pays in £59,600. The proportion taxable as employment income is given by the formula:
+
+Sick pay × (59,600 ÷ (59,600 + 40,400))
+
+This proportion is applied from 1 July 2020.
+
+By 30 June 2021, the club calculates the total contributions for the year ended 31 May 2021 as employees £35,700 and employer £64,300. The proportion taxable as employment income is recalculated as:
+
+Sick pay × (64,300 ÷ (64,300 + 35,700))
+
+This proportion takes effect from 1 July 2021.
+
+On 1 October 2021 the club changes its rules and employees begin to contribute 40p per week, and their employer 70p per week per employee. From 1 October 2021 the proportion of sick pay taxable as employment income can be calculated in accordance with the rules in Example (a) above and is given by the formula:
+
+Sick pay × (70 ÷ (70 + 40))
+
+Using a Salary Sacrifice
+
+For instances where an employer provides income protection policies through a salary sacrifice arrangement with their employees see guidance at EIM06470 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim06470).

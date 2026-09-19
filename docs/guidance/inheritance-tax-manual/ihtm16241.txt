@@ -1,0 +1,44 @@
+Close companies and settled property: introduction
+Identifier: IHTM16241
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16241
+Published: 2016-04-09T09:26:04+01:00
+Updated: 2018-04-11T14:40:38+01:00
+Retrieved (UTC): 2026-09-18T14:59:10.146153+00:00
+
+In the case of absolute lifetime transfers where a transfer of value is made by a close company IHTA84/S94 provides that a claim to Inheritance Tax (IHT) shall arise as if each individual [identified as a ‘participator’] to whom an amount [of the transfer] is apportioned under this section had made a transfer of value. (See the lifetime transfer/close company guidance from IHTM14851 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14851))
+
+So the rules relating to transfers by close companies ‘look through’ the company to its members to produce personal claims to IHT on absolute lifetime transfers of value by those individuals. Where the identified participator is another close company, we simply look through that, and so on.
+
+If trustees of settled property are among the participators in the close company, the same system is followed, with some modifications inIHTA84/S99 to cater for the fact that a trustee, as such, should not be treated as an individual making a lifetime transfer.
+
+Generally, the taxable results produced by IHTA84/PartIV are the same for transfers by the company, or alterations of capital in the company, but IHTA84/S100 specifically deals with alterations of capital where a trustee is the participator.
+
+Where the individual became entitled to the interest in possession on or after 22 March 2006, S100 applies only if the interest in possession is
+
+- an immediate post-death interest,
+
+- a disabled person’s interest, or
+
+- a transitional serial interest (IHTM16061 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16061)), IHTA84/S100(1A).
+
+Practice
+
+Shares and Assets Valuation (SAV) decides all questions on what is a close company, who is a participator, value, apportionment etc. You should consult Shares Valuation at an early stage in all cases.
+
+Where the amount apportioned to the trustee is less than 5% of the value transferred no claim to IHT is raised upon it, and it is left out of account for all cumulation purposes.
+
+Liability for IHT falls primarily on the company but if it does not pay it is generally the joint and several responsibility of the beneficiaries and participators, save that trustees who have less than the above 5% apportioned to them cannot be made liable.
+
+Consideration
+
+If consideration is given for the transfer or alteration then the amount of the consideration will be allowed under IHTA84/S52 (2) where the trusts are interest in possession.
+
+BR and AR
+
+Business relief or agricultural relief may be due on property chargeable under the ‘close company’ provisions. But in many cases the subject of the transfer will not satisfy the statutory conditions for
+
+- relevant business property (IHTM25141 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25141)) and
+
+- agricultural property (IHTM24030 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24030)).
+
+You must therefore analyse the subject matter of the transfer carefully, because of the high probability that in such transactions the transfer is of cash or of company assets which, taken by themselves, will not qualify for either relief.

@@ -1,0 +1,26 @@
+Restrictions: capital losses: introduction: general
+Identifier: CG47001
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47001
+Published: 2016-03-12T11:13:47+00:00
+Updated: 2023-03-17T07:27:20+00:00
+Retrieved (UTC): 2026-09-18T14:41:46.139664+00:00
+
+Original CG47000
+
+There is no form of group relief for the capital losses of companies. A company can surrender trading losses and other items to another company in the same group, see CT2670. But a company cannot surrender its allowable capital losses for set-off against the chargeable gains of another group member. Groups can however take advantage of the no gain/no loss rule for intra-group asset transfers, see CG45305, to achieve much the same result. A group can transfer an asset with a latent gain at no gain/no loss to a group company with a realised loss, and then sell the gain asset outside the group. The gain crystallises in the company with the allowable loss, and the loss is set off against the gain. Alternatively, a group can transfer an asset with a latent loss at no gain/no loss to a company with a chargeable gain, and then crystallise the loss in the gain company. Here too the result is to bring together in one company an allowable loss and a chargeable gain. Provided the gain crystallises in the same accounting period as the loss, or in a later accounting period to which the loss is carried forward, the tax charge is only on the net gain, if any.
+
+Original CG47001
+
+Before FA93, it was possible for groups to exploit the no gain/no loss rule and effectively buy capital losses from other groups, without any restriction on how the losses could be used.
+
+EXAMPLE 1: PURCHASE OF REALISED LOSS
+
+Group M has a subsidiary MA which will shortly sell an asset and realise a chargeable gain of £10M. A wholly unrelated group L has a subsidiary LV with a realised allowable loss of £10M which group L cannot use. Group L sells the loss vehicle LV to the M group for £1M. MA transfers the gain asset to LV at no gain/no loss. LV sells the gain asset to an unconnected third party, and realises the chargeable gain of £10M. This gain is sheltered by LV’s loss £10M.
+
+In this way the M group has obtained the benefit of a capital loss which accrued on adisposal by a different group altogether.
+
+EXAMPLE 2: PURCHASE OF UNREALISED LOSS
+
+Group M has a subsidiary MA which will shortly sell an asset and realise a chargeable gain of £15M. An unrelated group L has a subsidiary LV, and LV holds a valueless asset with an unrealised loss of £15M. Group L sells the loss vehicle LV to the M group for £1.5M. LV transfers the loss asset at no gain/no loss to MA. Company MA sells the gain asset to an unconnected third party, realising the chargeable gain of £15M, and makes a negligible value claim under TCGA92/S24 (2) in respect of the loss asset, realising an allowable loss of £15M.
+
+The M group has obtained the benefit of a capital loss attributable to the reduction in value of the loss asset at a time when it was owned by a different group altogether.

@@ -1,0 +1,18 @@
+Qualifying corporate bonds: changes to legislation so that a non QCB becomes a QCB
+Identifier: CG53716
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53716
+Published: 2016-03-12T11:33:28+00:00
+Updated: 2026-08-13T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:43:05.424769+00:00
+
+As explained at CG53700 the rules to determine what comes within the definition of a qualifying corporate bond (QCB) have changed considerably since 1984. It may be that at the time of a relevant transaction (see CG53710) securities received in exchange for shares did not meet the criteria to be QCBs. However, changes to the legislation between the relevant transaction and the date of disposal might mean that at the date of disposal the securities did meet the statutory criteria to be QCBs.
+
+For example, before 1989 one of the conditions in TCGA 1992 section 117 was that securities had to be issued by a company quoted on the UK stock exchange or dealt in on the Unlisted Securities Market. If say securities had been issued in 1987 by a company that did not meet this condition then at that time the securities would not be QCBs. However if the holder of the securities issued in 1987 disposed of them in say 1990 (by which time the condition had been repealed) then provided the other criteria in section 117 were met the securities in question would be QCBs.
+
+In situations such as these Schedule 11 paragraph 16 provides that if securities are QCBs at the time of the disposal then the securities are treated as if they were always QCBs.
+
+This could have the potential to allow any gain that accrued to the date of the relevant transaction never to come into charge, preventing section 116 from having its intended effect. (See CG53709 for an example of what would happen if section 116 did not exist.) To prevent such an event Schedule 11 paragraph 16(3) also provides that, where the paragraph applies, on the disposal of the QCBs you go back to compute the gain that accrued up to the time of the relevant transaction. If there is a gain then that gain becomes a deferred gain within section 116(10) and comes into charge on the disposal of the QCBs.
+
+Example
+
+Juanita held 100 shares in NPC Ltd. In 1987 SNPC Ltd offered to acquire her shares by issuing loan stock in SNPC Ltd for each share in NPC. The conditions of section 135 were met and all of the conditions in section 117 were met except one, namely SNPC Ltd was not quoted on the UK stock exchange or dealt in on the Unlisted Securities Market. Consequently the loan stock could not be QCBs. The loan stock was redeemed in 1997 for face value. Following the change to section 117 by FA 1989 the condition in section 117 that was previously not met is no longer a requirement. The terms of the loan stock have remained unchanged and as a result the loan stock qualified as QCBs at the time of redemption. Schedule 11 paragraph 16 deems the loan stock to always have been QCBs. Under Schedule 11 paragraph 16 the gain latent in the NPC shares at the date of the relevant transaction, ie. when Juanita exchanged her shares for loan stock in SNPC, is computed and that gain accrues and is chargeable in the year of assessment when the loan stock is redeemed. See CG53709.

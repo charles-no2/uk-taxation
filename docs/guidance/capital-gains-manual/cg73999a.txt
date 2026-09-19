@@ -1,0 +1,154 @@
+UK property rich collective investment vehicles: Exemption election: Effect of making an exemption election
+Identifier: CG73999A
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73999a
+Published: 2021-03-22T09:16:50+00:00
+Updated: 2021-03-25T08:28:38+00:00
+Retrieved (UTC): 2026-09-18T14:47:05.097777+00:00
+
+Top of page
+
+Disposal of UK land by an entity at least 40% owned by a qualifying fund or company (TCGA92/Sch5AAA/para 16) (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73999a#disposal-of-uk-land-by-an-entity)
+
+Rebasing of assets when a company is disposed of and at least 40% of that company is owned by a qualifying fund or company, or a company owned by such a qualifying fund or company (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73999a#rebasing-of-assets-when-a-company-is-disposed-of)
+
+Inter-dependency between paragraph 12 and paragraph 33 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73999a#inter-dependency-between-paragraph-12-and-paragraph-33)
+
+Investors in CIVs (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73999a#investors-in-civs)
+
+Interaction of different exemptions (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73999a#interaction-of-different-exemptions)
+
+Interaction of TCGA92/SCH5AA/PARA16(2) and (3) and the REIT rules in CTA10/PART12 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73999a#interactions-of-tcga92)
+
+Separate application and limiting of exemptions (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73999a#separate-application-and-timing-of-exemptions)
+
+A combination of TCGA92/SCH5AAA/paras 12 and 16 means that a gain, or an appropriate proportion of a gain, on a direct or indirect disposal of UK land made by –
+
+- ‘Q’ - a UK property rich qualifying fund or a qualifying company for which a paragraph 12 election has been made, or a company (or deemed company) ‘C’ that Q has a 40% or more interest in immediately before the disposal
+
+will not be a chargeable gain. Similarly, if the disposal gives rise to a loss, it will not be an allowable loss.
+
+Disposal of UK land by an entity at least 40% owned by a qualifying fund or company (TCGA92/Sch5AAA/para 16)
+
+The entities in which the CIV or company (‘Q’ in terms of the legislation) has at least a 40% interest and which also will be exempted as a result of TCGA92/SCH5AA/para 16 may be UK or non-UK resident, a body corporate or a deemed company under TCGA92/SCH5AAA/para 4 (where the entity is also CIV). The exemption covers direct or indirect disposals of UK land.
+
+Q must have an investment of at least 40% in an entity for that entity to benefit from exemption. Where the investment is less than 100% the gain or loss is exempted proportionately to the level of investment that Q has in the entity. The level of investment is established using the tracing rules in TCGA92/SCH1A/para 9 (see CG73938 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73938)).
+
+The “appropriate proportion” means the proportion that so much of the consideration for the disposal as forms part (directly or indirectly) of the assets of Q bears to the total consideration for the disposal. In practice it is expected that the “appropriate proportion” will usually mean the proportion of the gain as relates to the direct or indirect interest held by Q in the asset disposed of.
+
+Establishing a 40% investment
+
+For the purposes of paragraph 16, Q has a 40% investment in a company if, applying the rule in paragraph 9 (but ignoring paragraph 10) of Schedule 1A, references to 25% were references to 40%, and Q would be regarded as having a 40% investment in the company immediately before the disposal (see CG73938 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73938)).
+
+Limiting the exemption
+
+HMRC may make a just and reasonable adjustment to the appropriate proportion of a gain accruing to any person to prevent the application of paragraph 16 resulting in the total proportion of an exempt gain exceeding the whole of the gain. This may occur where, for example, different measurements of ‘investment’ (per TCGA92/SCH1A/para9; CG39938) lead to a total investment of greater than 100% -particularly where a company is a joint venture and benefits under paragraph 16 from paragraph 12 elections by two separate funds.
+
+Rebasing of assets when a company is disposed of and at least 40% of that company is owned by a qualifying fund or company, or a company owned by such a qualifying fund or company
+
+TCGA92/SCH5AAA/para31 provides for a proportionate, market value rebasing of qualifying UK land assets of a company ‘C’ (which is covered by a paragraph 12 election) where it is disposed of by a qualifying fund or qualifying company ‘Q’, or another company owned by such a fund or company. This rebasing requires that throughout the period of one year ending with the day on which the disposal of the asset is made, the asset has been held by C or any other company covered by the election or by Q.
+
+Example 1
+
+A fund A was launched in 2017 and acquired a company C owning UK land in June 2018. Fund A makes an exemption election with effect from April 2019 and then disposes of company C in September 2019. Fund A has held its interest in company C for more than 12 months and rebasing will apply.
+
+This ensures that the value of the exemption is preserved within the relevant fund structure; without rebasing a purchaser of the company disposed of might discount the purchase price to reflect tax on the unrealised gains on the underlying assets. The company being disposed of may also be a company because of the deeming provisions in paragraph 4 of Schedule 5AAA.
+
+Rebasing is applied by deeming C to have disposed of and having reacquired every asset the disposal of which would have been a direct or indirect disposal of UK land at market value immediately before it was sold by Q. The deemed disposal is limited to the appropriate proportion of the land assets of ‘C’. The appropriate proportion of an asset is equal to the appropriate proportion of any gain on a disposal under paragraph 16 of Schedule 5AAA.
+
+Where the company being disposed of owns other UK property rich companies, the deemed disposal of those companies under paragraph 31 triggers the same effect for them, so that there is a cascade effect to rebase that subsidiary company’s UK land assets (subject those companies also being covered by the paragraph 12 election).
+
+Example 2
+
+Fund A is subject to an election under paragraph 12(2). Fund A holds 100% of the units in Company B, which in turn owns 100% of the units in Company C, which in turn owns 50% of the units in Company D, which owns 50% of the units in Company E. All of the entities have been so held and covered by the exemption election for some years.
+
+Fund A has a 40% or greater investment in Company D (50%), so Company D is 50% exempt on its gains on direct and indirect disposals of UK land. Fund A only has a (50% x 50% =) 25% investment in Company E, so Company E is not covered by the exemption election (see paragraph 16(3)(b)).
+
+Fund A disposes of its interest in Company B. Paragraph 31 applies so that immediately before the disposal, Company B is deemed to have disposed of all of its UK land assets to the extent that:
+
+- Company B (or another company in the fund) has held them for at least a year prior to the disposal, and
+
+- The disposal of the asset would be covered by the exemption.
+
+Company B’s interests in Company C is such an asset, so Company B is deemed to have disposed of its interest in Company C. This, in turn, means that paragraph 31 will apply to Company C so that it is deemed to dispose of all of its UK land assets meeting the conditions above, and so on down the chain.
+
+Fund A has a 50% investment in Company D, so Company D is only 50% exempt on its gains on direct and indirect disposals of UK land. Hence when Company D is affected by paragraph 31 only 50% of the asset is rebased. This means that Company D is, effectively, deemed to have disposed of and reacquired 50% of its UK land assets. The base cost for those assets will be based on 50% of the existing base cost and 50% of the market value of the assets at the date of the deemed disposal.
+
+Company E is not covered by the exemption, and a disposal of Company E by Company D would not be exempted. Therefore, Company D is not deemed to dispose of its interest in Company E by paragraph 31.
+
+back to top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73999a#Top-of-page)
+
+Inter-dependency between paragraph 12 and paragraph 33 {#}
+
+See CG73999M (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73999m) for corporate feeder vehicles wholly owned by institutional investors.
+
+Paragraph 13 sets out various conditions that must be met in order for an election to be made to treat a relevant CIV or company as exempt. One component of those conditions is the concept of the ‘UK tax condition’, which is defined at paragraph 13(7). A holding company may meet the conditions to fall within paragraph 33 because it is wholly owned by persons listed in paragraph 33(4), but the CIV or company it is invested in may not meet the conditions for a paragraph 12 exemption election to be made purely because the holding company is resident in a territory that would make the CIV or company fail the UK tax condition.
+
+The 2020 regulations remove this anomaly by inserting new subparagraph 13(8), which provides that if any of the proceeds mentioned in subparagraph 13(7) arise to a company which is wholly (or almost wholly) owned by one or more investors to which paragraph 33 applies, the company is to be treated for the purposes of that subparagraph as if it were exempt from corporation tax in respect of chargeable gains accruing to it otherwise than as a result of double taxation agreements.
+
+So, for example, a Luxembourg corporate vehicle that is wholly owned (see CG73996V (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73996v)) by investors within paragraph 33(4) will not be considered to be an investor for whom a disposal of shares in the prospective paragraph 12 exempt entity would be left out of account for TCGA purposes.
+
+Example
+
+Holding Company A is a body corporate and not a CIV and is resident in a territory with which the UK has a Double Tax Agreement that does not allocate taxing rights to the UK for indirect disposals of UK land (see CG73948 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73948)).
+
+Holding Company A has a 50% investment in Fund B, a CIV which is tax resident outside the UK. Fund B meets the not close condition, but not GDO, so is required to meet the UK tax condition. All of the other investors in Fund B are UK tax resident.
+
+Pension fund C holds a 50% investment in Holding Company A, and is a non-UK resident pension fund, which meets the conditions to be exempt from UK capital gains and is eligible to be a Qualifying Institutional Investor under TCGA92/SCH7AC/para3A. The other 50% is held by Fund D, which is a qualifying fund within the meaning of TCGA92/SCH5AAA, and is subject to a para 12 election under that Schedule.
+
+Holding Company A meets the conditions to fall within para 33 in terms of being wholly owned by the right investors. Fund B, however, does not meet the UK tax condition due to the tax residence of Holding Company A. If Holding Company A were already subject to para 33, then Fund B would meet the UK tax condition.
+
+Fund B is eligible to make an election under TCGA92/SCH5AAA/para12(2), at which point para 33 will apply to Holding Company A and fund B will meet the UK tax condition.
+
+back to top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73999a#Top-of-page)
+
+Investors in CIVs (http://investors-in-civs)
+
+Regardless of whether a CIV is within the exemption regime or not, investors in the CIV remain taxable under first principles on any disposal of an interest in a CIV that is a UK property rich entity, subject to any exemption that an investor may itself have. Note that in certain circumstances a deemed disposal of investors’ interests in a fund that has elected for exemption will arise, for example where a fund no longer meets the conditions for exemption; see CG73998V (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73998v) for further details.
+
+Interaction of different exemptions
+
+It is possible for a gain arising from a single disposal to be exempted as a result of the application of more than one of the exemptions available under TCGA92/SCH5AA/para16, TCGA92/SCH7AC/para3A (the substantial shareholding exemption) and CTA10/S535 or 535A (exemption for certain disposals by UK real estate investment trusts (REITs)). Paragraphs 34 to 37 therefore set out priority rules, as well as limiting the overall exemption available to the correct aggregate amount. The rules work in a similar way for losses – the guidance below refers only to gains.
+
+Interaction of TCGA92/SCH5AA/PARA16(3) and TCGA92/SCH7AC/PARA3A
+
+TCGA92/SCH5AAA/para34 provides that where -
+
+- a gain arising on an indirect disposal of UK land made by an investing company owned by a qualifying fund or qualifying company (both referred to as ‘Q’) is exempted under TCGA92/SCH5AAA/para16(3), and
+
+- one or more qualifying institutional investors (‘QIIs’, as defined in TCGA92/SCH7AC) has an interest in the disposing company as a result of their interest in Q, then
+
+the QIIs’ interest in the investing company is ignored so that any exemption under TCGA92/SCH7AC is disapplied. In other words, TCGA92/SCH5AAA/para16(3) takes priority.
+
+Interaction of TCGA92/SCH5AA/PARA16(2) and (3) and the REIT rules in CTA10/PART12
+
+TCGA92/SCH5AAA/PARA35 provides that where a company that is both –
+
+- a UK REIT, or a member of a UK REIT, and
+
+- a company in the ownership chain of a qualifying fund or qualifying company
+
+makes a gain on a direct or indirect disposal of UK land and that gain might otherwise be exempted under both TCGA92/SCH5AAA/para16(2) or (3) and CTA10/S535 or 535A, the exemption under paragraph 16 is disapplied. In other words, the exemption provided by the REIT rules takes priority.
+
+This does not apply in the case of a joint venture company – see below.
+
+TCGA92/SCH5AAA/para36 applies where a company makes a gain on a disposal and is –
+
+a member of a UK REIT group as a result of a notice under CTA10/S586(1) or 587(1) (a joint venture company), and
+
+is also in the ownership chain of a qualifying fund or qualifying company (both ‘Q’), and
+
+both that company and the principal member of the group UK REIT are covered by an election made by Q under TCGA92/SCH5AAA/para12,
+
+then any exemption provided by TCGA92/SCH5AAA/para16(2) or (3) is reduced by the exemption provided under the REIT rules because of sections 535 or the new 535A of CTA 2010. In other words, the exemption provided by the REIT rules takes priority.
+
+back to top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73999a#Top-of-page)
+
+Separate application and limiting of exemptions
+
+In addition to the rules described above that apply for an order of priority as between exemption under Part 4 of Schedule 5AA, the substantial shareholding exemption, and the REIT rules, para37 of Schedule 5AAA provides for how the different exemptions are to be calculated generally.
+
+That is –
+
+- each exemption must be calculated separately without regard to any of the other exemption provisions, and
+
+- (bearing in mind the priority rules) the total proportion of a gain which is exempted is the total of those sums, except that the total can never exceed the whole amount of the gain.

@@ -1,0 +1,110 @@
+Temporary repatriation facility: Qualifying overseas capital: Capital payments made by non-resident settlements
+Identifier: RDRM72400
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72400
+Published: 2025-04-07T08:36:48+01:00
+Updated: 2026-06-23T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:12.579302+00:00
+
+Paragraphs 3 and 5 Schedule 10 Finance Act 2025
+
+Section 87, 89(2) and Schedule 4C TCGA 1992 treat UK beneficiaries of non-UK settlements, or a trust that has migrated to the UK, as accruing chargeable gains to the extent that they receive a capital payment that is matched to the trustees’ gains (see CG38570 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38570)+ and CG39100 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39100)+). For guidance on offshore income gains amounts see RDRM72560 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72560).
+
+Where chargeable gains are treated as accruing to an individual in tax years 2025-26 to 2027-28 because of a capital payment, the ‘qualifying overseas capital’ an individual may designate for TRF purposes is, broadly, so much of the payment that, in relation to them, is matched to trustees’ gains relating to tax years before 2025-26. Where a chargeable gain is treated as accruing to the individual in tax years before 2025-26 because of a capital payment from a non-resident settlement, and the remittance basis applied for the year in which the gain was treated as accruing, then any unremitted amount of the capital payment will be qualifying overseas capital – see RDRM72550 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72550). Where the capital payment itself derives from pre-6 April 2025 foreign income or gains, for example, where an individual settled an asset into a trust which derived from their income or gains and that asset is subsequently distributed, two designations may be required – see RDRM73600 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73600).
+
+To calculate the amount that is ‘qualifying overseas capital’ for TRF purposes for an individual, the normal capital gains matching rules are applied (see CG38700P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38700p) onwards) to the ‘section 1(3) amounts' or ‘Schedule 4C pool’ (as the case may be) that remain after any matching in 2024-25 but with the following modifications:
+
+- it is to be assumed that the ‘section 1(3) amount’ or ‘Schedule 4C pool’ (as the case may be) for each tax year after the tax year 2024-25 is nil
+
+- any capital payments made to other beneficiaries in a relevant tax year are to be ignored (and the total amount of capital payments made by the settlement is to be reduced accordingly) to the extent they are made to beneficiaries who are ineligible for the TRF because they are either not UK resident in that year or were not subject to the remittance basis for at least one tax year before 2025-26
+
+Any matching that occurs for the purposes of calculating the amount that can be designated for TRF does not affect any matching for other purposes. In effect, this means that a parallel matching exercise is carried out for TRF purposes only.
+
+See RDRM72450 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72450) for guidance on capital payments made by non-resident settlements where a 'supplementary charge' applies.
+
+Example
+
+At the end of 2024-25 a non-resident settlement has unmatched ‘section 1(3) amounts’ as follows:
+
+2019-20 = £30,000
+
+2020-21 = £50,000
+
+A further £60,000 of gains accrue in 2025-26.
+
+Capital payments of £60,000 in 2025-26 and £70,000 in 2026-27 are made to beneficiaries as follows:
+
+To Alan (who qualifies for and makes a TRF designation): £20,000 in 2025-26; £20,000 in 2026-27.
+
+To Bridie (who qualifies for but chooses not to make a TRF designation in 2025-26 as she has personal capital losses, but she does make a designation in 2026-27): £20,000 in 2025-26; £30,000 in 2026-27.
+
+To Craig (who does not qualify for TRF): £20,000 in 2025-26; £20,000 in 2026-27.
+
+In 2025-26:
+
+For TRF purposes only Alan and Bridie are considered; and the ‘section 1(3) amount’ for 2025-26 is assumed to be nil (instead of £60,000).
+
+Total payments to relevant beneficiaries = £40,000, split on a 50%:50% basis. This is all matched to 2020-21 and is therefore qualifying overseas capital. Both Alan and Bridie can designate up to £20,000 each. Alan designates their full £20,000.
+
+For future TRF purposes the ‘section 1(3) amounts’ are reduced irrespective of whether a person makes a TRF designation and become:
+
+2019-20 = £30,000
+
+2020-21 = £50,000 - £40,000 = £10,000
+
+2025-26 = £60,000
+
+For non-TRF purposes, Alan, Bridie and Craig each receive a £20,000 capital payment matched against 2025/26 gains, which is chargeable to CGT in the normal way.
+
+As Alan designates £20,000 for TRF purposes, he is given a CGT exemption for the same amount, reducing his amount chargeable to CGT to nil.
+
+For future non-TRF purposes the ‘section 1(3) amounts’, after all the capital payments have been matched, become:
+
+2019-20 = £30,000
+
+2020-21 = £50,000
+
+2025-26 = £60,000 - £60,000 = nil
+
+In 2026-27:
+
+For TRF purposes only Alan and Bridie are considered; and the ‘section 1(3) amount’ for 2025-26 is again assumed to be nil (instead of £60,000). There is no ‘section 1(3) amount’ for 2026-27.
+
+Total payments to relevant beneficiaries = £50,000, split on a 40%:60% basis. £10,000 is first matched to 2020-21 ‘section 1(3) amounts’ and then £30,000 to 2019-20 amounts. These are therefore amounts of qualifying overseas capital. The remaining £10,000 cannot be matched to pre-2025-26 ‘section 1(3) amounts’ and is not qualifying overseas capital.
+
+Of the £40,000 qualifying overseas capital, Alan can designate up to £16,000 and Bridie up to £24,000. They both make their full designations.
+
+For future TRF purposes the ‘section 1(3) amounts’ become:
+
+2019-20 = £30,000 - £30,000 = nil
+
+2020-21 = £10,000 - £10,000 = nil
+
+2025-26 = £60,000
+
+For non-TRF purposes, £50,000 of the capital payments are first matched against the available 2020-21 gains as follows:
+
+For Alan: (£20,000/£70,000) x £50,000 = £14,286
+
+For Bridie: (£30,000/£70,000) x £50,000 = £21,428
+
+For Craig: (£20,000/£70,000) x £50,000 = £14,286
+
+and the remaining £20,000 of capital payments are then matched against the available 2019-20 gains as follows:
+
+For Alan: (£20,000/£70,000) x £20,000 = £5,714
+
+For Bridie: (£30,000/£70,000) x £20,000 = £8,571
+
+For Craig: (£20,000/£70,000) x £20,000 = £5,714
+
+For Alan, as he designates £16,000 for TRF purposes, a CGT exemption is given for the same amount against the total £20,000 matched payment otherwise chargeable to CGT (see RDRM73600 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73600)). The remaining £4,000 is charged to CGT in the normal way.
+
+For Bridie as she designates £24,000 for TRF purposes, a similar CGT exemption is given for the same amount against the total £30,000 matched payment otherwise chargeable to CGT. The remaining £6,000 is charge to CGT in the normal way.
+
+For future non-TRF purposes, the ‘section 1(3) amounts’ after the capital payments have been matched become:
+
+2023-24 = £30,000 - £20,000 = £10,000
+
+2024-25 = £50,000 - £50,000 = nil
+
+2025-26 = nil

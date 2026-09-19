@@ -1,0 +1,62 @@
+Class 1 structural overview - From April 2009: structural changes: the Class 1 and 2 maximum: examples: two Class 1 employments
+Identifier: NIM01272
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01272
+Published: 2016-04-11T17:00:28+01:00
+Updated: 2024-04-04T14:11:37+01:00
+Retrieved (UTC): 2026-09-18T15:18:09.408019+00:00
+
+Example 1
+
+R Drake has two separate employments. His total earnings for the 2024 to 2025 tax year are £103,200. He is paid monthly in each job and receives the same amount of earnings in each earnings period. His maximum Class 1 liability is calculated as follows:
+
+Step 1
+
+Deduct the relevant Primary threshold from the relevant UEL and multiply that figure by 53.
+
+967 - 242 = 725 x 53 = 38,425
+
+Step 2
+
+Multiply the result of step 1 by 8%
+
+38,425 x 8% = 3,074
+
+Step 3
+
+Add together so much of the person’s earnings from each employed earner’s employment as exceeded the Primary Threshold but did not exceed the Upper Earnings Limit at the time the payment of earnings was made.
+
+The earnings between the PT and the UEL for the first employment is 37,700. The same is the case for the second employment. The result of this step is therefore 75,400
+
+Step 4
+
+Deduct from the total found at step 3 step the amount produced by step 1
+
+75,400 – 38,425 = 36,975
+
+Step 5
+
+If the figure produced at step 4 is a positive figure multiply that figure by 2%
+
+If the figure produced at step 4 is a negative figure, it is treated for the purposes of step 8 as nil
+
+36,975 x 2% = 739.50
+
+Step 6
+
+Add together so much of the person’s earnings from each employment as exceeded the Upper Earnings Limit.
+
+51,600 – 50,270 = 1,330 x 2 employments = 2,660
+
+Step 7
+
+Multiply the result of step 6 by 2%
+
+2,660 x 2% = 53.20
+
+Step 8
+
+Add together the results of steps 2, 5 and 7.
+
+3,074 + 739.50 + 53.20 = 3,866.70
+
+R Drake’s maximum for the 2024 to 2025 tax year is £3,866.70

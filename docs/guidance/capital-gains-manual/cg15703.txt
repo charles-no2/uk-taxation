@@ -1,0 +1,53 @@
+Compensation: assets damaged/destroyed: meaning of `small'
+Identifier: CG15703
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15703
+Published: 2016-03-12T10:11:53+00:00
+Updated: 2023-04-11T10:04:32+01:00
+Retrieved (UTC): 2026-09-18T14:38:08.878536+00:00
+
+In considering whether the claim satisfies either conditions 2 or 3 as described in CG15700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15700), you should regard ‘small’ as meaning the same as in s122 TCGA92 (see CG57835 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57835)).
+
+In this context ‘small’ is regarded as
+
+5% or less of the capital sum for condition 2 to apply, or
+
+5% or less of the value of the asset for condition 3 to apply.
+
+HMRC also accepts that a capital sum is ‘small’ if the amount or value of the receipt is £3,000 or less, regardless of whether it meets the 5% test.
+Where a capital sum is received in respect of damage to an asset which itself forms part of a larger unit, you apply condition 3 in CG15700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15700) to the smallest unit which could reasonably be sold separately. For example, if a cottage is damaged, the unit is the cottage and not the estate on which it stands.
+
+Example 1 - whole sum used for restoration
+
+Mr B buys an asset for £10,000 and insures it. When its value is £12,000, it is damaged by fire. Mr B receives £4,000 compensation from the insurers and spends all of this on restoring the asset. He makes a claim under s23(1) TCGA92.
+
+As all the compensation has been used to restore the asset, s23(1) TCGA92 applies and the capital sum received is deducted from the acquisition cost of the asset. It is not treated as a part-disposal. The cost of restoration is allowable under s38(1)(b) as enhancement expenditure.
+
+- |  - |  £ |
+
+- |  Cost of asset |  10,000 |
+
+Deduct |  compensation receipt |  4,000 |
+
+- |  - |  6,000 |
+
+Add |  restoration expenditure |  4,000 |
+
+Equals |  Adjusted cost |  10,000 |
+
+Example 2 - part of sum used for restoration
+
+Mr B again buys an asset for £10,000 and insures it. When its value is £12,000, it is damaged by fire. He receives compensation of £4,000 from the insurers but this time he only spends £3,900 on restoration.
+
+Mr B can still make a claim under s23(1) TCGA92 as the amount of the capital sum not used on restoration (£100) is small as it does not exceed 5% of the total capital sum received (£4,000 x 5% = £200). The receipt can therefore be deducted from the acquisition cost.
+
+- |  - |  £ |
+
+- |  Cost of asset |  10,000 |
+
+Deduct |  compensation receipt |  4,000 |
+
+- |  - |  6,000 |
+
+Add |  restoration expenditure |  3,900 |
+
+- |  Adjusted cost |  9,900 |

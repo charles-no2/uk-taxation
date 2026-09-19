@@ -1,0 +1,74 @@
+Cryptoassets for individuals: Capital Gains Tax: Fees satisfied in tokens
+Identifier: CRYPTO22280
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22280
+Published: 2021-05-20T10:12:38+01:00
+Updated: 2021-05-20T10:12:30+01:00
+Retrieved (UTC): 2026-09-18T16:18:34.232811+00:00
+
+Most cryptoasset transactions require the person disposing of the tokens to pay a fee. This fee will often be satisfied in tokens. If the transaction fee is satisfied in tokens then you need to consider that fee as one of the costs for the disposal of the tokens, but you also need to consider the fee as a disposal in its own right.
+
+The fee is given as consideration for a service – normally the exchange matching orders and/or inclusion of the transaction in the distributed ledger (although this is by no means the only services that the fees are given for). TCGA92/S17(1)(b) says that market value is to be used where an asset is disposed of wholly or partly in consideration for “any other service rendered or to be rendered by him or another”. As such the token(s) given as a fee is disposed of for its market value and the allowable cost is established in the normal way (i.e. same day rule, 30 day rule or appropriate part of the TCGA92/S104 pooled allowable expenditure as appropriate).
+
+It’s also the case that the fee is given for a service that is used for the acquisition or disposal of tokens. The price of the service is what’s given i.e. the market value of the token. So the strict position is that where a token is paid as a fee then the relevant CG computation will include the following:
+
+- Consideration equal to the MV of the token given as a fee
+
+- Allowable cost equal to the MV of the token given as a fee
+
+- Allowable cost using same day rule, 30 day rule or S104 pool as appropriate
+
+Below is an example to set out how this will look for CG purposes.
+
+Example
+
+Terri holds 10,000 tokens that she acquired for total cost of £20,000. Terri decides to sell 1,000 of the tokens for £5,000. The transaction requires that she pays a fee of 0.1% of what she is selling, i.e. 1 token.
+
+Terri’s S104 pool before the disposal is:
+
+Date |  Tokens |  Pooled cost |
+
+B/f |  10,000 |  £20,000 |
+
+The CG computation of the two disposals would be as follows
+
+1,000 tokens for £5,000
+
+Consideration |  £5,000 |    |
+
+Less Allowable costs |  S104 – 1,000 / 10,000 x £20,000 |  (£2,000) |
+
+|  Fee – 1 token with MV of £5 |  (£5) |
+
+Gain |  £2,995 |    |
+
+1 token given as the fee
+
+Consideration |  MV of service received |  £5 |
+
+Less Allowable costs |  S104 – 1/10,000 x £20,000 |  (£2) |
+
+Gain |  £3 |    |
+
+However the disposal of the 1,000 tokens and the disposal of the 1 token fee take place on the same day and involve the same type of token. That means that the same day rule applies and all the tokens disposed of shall be treated as disposed of in a single transaction (see CRYPTO22200). The CG computation should therefore look as follows:
+
+Consideration |  £5,005 |    |
+
+Less Allowable costs |  S104 – 1,001 / 10,000 x £20,000 |  (£2,002) |
+
+|  MV of fee |  (£5) |
+
+Gain |  £2,998 |    |
+
+Practical considerations
+
+It is necessary for the customer to use the approach of producing two CG computations where the token disposed of and the token(s) given as the fee are different types of token. This may happen where the person has used an exchange which allows the use of its own token to satisfy transaction fees.
+
+You may come across cases where the disponor has excluded the market value of the fee from the consideration and the allowable costs. In that situation the CG computation would look something this:
+
+Consideration |  £5,000 |    |
+
+Less Allowable costs |  S104 – 1,001 / 10,000 x £20,000 |  (£2,002) |
+
+Gain |  £2,998 |    |
+
+In strictness this approach is wrong. But as long as only the allowable cost of the fee is included in the computation so that the gain or loss computed is correct then you can accept the customer’s computations if they use this approach.

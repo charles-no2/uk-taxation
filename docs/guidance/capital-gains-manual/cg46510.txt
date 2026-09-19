@@ -1,0 +1,22 @@
+Depreciatory transactions: the issue being addressed
+Identifier: CG46510
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46510
+Published: 2016-03-12T11:12:16+00:00
+Updated: 2016-01-25T17:05:34+00:00
+Retrieved (UTC): 2026-09-18T14:41:42.779765+00:00
+
+In its broadest sense a depreciatory transaction is simply a transaction which reduces the value of an asset. In the context of a capital gains group it is a simple matter to take value out of one company, reducing it value, while there is no economic effect looking at the group as a whole.
+
+EXAMPLE
+
+Say the principal company of a group, company A, acquire all the shares in company B from an unconnected third party at their market value of £12M.
+
+The £12M paid by A reflects the aggregate market value of the assets owned by B. If any of the individual assets owned by B increases or reduces in value this change will be reflected in the value of the shares in B held by A.
+
+B’s assets may lose value for external commercial reasons unconnected with transactions between B and other members of the group. For instance, a fall in property prices may have the result that B’s assets are worth only £9M. If A then sells B for £9M, A’s capital loss of £3M simply represents the decline in the market value of the underlying assets owned by B in the period when A owns B.
+
+But what if B transfers an asset worth £2m to A shortly before being disposed of? That might be simply because the purchaser of B is not interested in that particular asset. If A pays the then market of £2m then a loss of £3m will arise; the amount of the loss has not been affected by the transaction because it is not depreciatory. Commercially that transaction might not be likely as a purchaser would probably not be interested in acquiring the cash. It is more likely that A would either not pay £2m in the first place or take that amount out as a dividend. Either way, B would be worth only £7m on disposal and the loss on shares becomes £5m. But A still has £2m of value after the sale. The economic loss is only £3m. So the transfer of the asset (or the subsequent dividend) was depreciatory.
+
+TCGA92/S176 restricts the loss for capital gains purposes to £3m, reflecting the actual economic loss.
+
+Note that these provisions do not restrict losses by any precise mechanical formula but rather to such extent as it is “just and reasonable”. Capital gains calculations are not based on accounting results but the purpose of the legislation is to allow the unadjusted capital gains loss to be reduced by an amount that reflects the commercial or economic effect of the depreciatory transaction.

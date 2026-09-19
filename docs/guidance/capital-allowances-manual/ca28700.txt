@@ -1,0 +1,82 @@
+PMA: Anti-avoidance: Assets being acquired by the  seller on hire purchase
+Identifier: CA28700
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28700
+Published: 2016-04-16T08:52:44+01:00
+Updated: 2020-01-08T15:56:48+00:00
+Retrieved (UTC): 2026-09-18T16:21:04.321096+00:00
+
+CAA01/S229-229A
+
+Special rules apply where
+
+- a hire purchase contract is assigned before the asset has been brought into use
+
+- plant or machinery is acquired under a hire purchase or contract for leasing
+
+- plant or machinery is transferred and then subsequently made available to the seller or connected person as a result of a hire purchase contract.
+
+Details are as follows.
+
+Assignment of hire purchase contract before the asset has been brought into use
+
+If a person who is buying an asset under a hire purchase or similar contract (CA23300 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23300)) assigns the benefit of the contract before the plant or machinery has been brought into use, the disposal value under the normal rules will be the total of any capital sums received as consideration, compensation, damages or insurance in respect of the asset or the assignor’s rights under the contract.
+
+There is a departure from these normal rules if the assignee’s allowances are restricted under the anti-avoidance legislation. Otherwise, the rules would produce an unfair result because the anti-avoidance legislation provides that the assignee’s qualifying expenditure cannot be more than the seller’s disposal value and the disposal value under the normal rules takes no account of the expenditure still to be incurred under the contract.
+
+Example
+
+Lovell runs a trucking company. He enters into a hire purchase contract to buy a truck for £50,000. He pays the deposit of £10,000 but then decides that he doesn’t like the truck, so he does not bring it into use and assigns the contract to Jackson, a connected person, for £10,000.
+
+Lovell’s disposal value is £10,000. Jackson will incur capital expenditure of £50,000 on the truck (£10,000 paid to Lovell plus £40,000 still to be paid under the contract).
+
+If the normal rules about assignment of a hire purchase contract applied Jackson’s qualifying expenditure would be restricted to Lovell’s disposal value, £10,000 even though Jackson will incur capital expenditure of £50,000 on the truck.
+
+So the normal rules do not apply where a person buying an asset under a hire purchase contract assigns the benefit of the contract in a transaction where the provisions of this Chapter apply. Instead the seller’s disposal value is - for the purposes only of this Chapter:
+
+- any capital sums received as consideration, compensation, damages or insurance for the persons rights under the contract or the asset, and
+
+- any capital expenditure still to be incurred under the contract.
+
+The seller is treated as incurring any capital expenditure still to be incurred under the contract in the chargeable period in which the contract is assigned.
+
+Example
+
+In the example above the £40,000 still to be incurred under the contract is added to Lovell’s qualifying expenditure and disposal value. Lovell’s disposal value becomes £50,000 and this is the limit on Jackson’s qualifying expenditure.
+
+Plant or machinery acquired on hire purchase for finance leasing
+
+There is also a departure from the general rules when plant or machinery is acquired on hire purchase for finance leasing. In these circumstances:
+
+-
+
+the person is not treated as incurring the balance of the capital expenditure under the contract when they bring the plant or machinery into use - i.e. they do not get the benefit of capital allowances on expenditure they have in fact not yet incurred;
+
+but
+
+- if they assign the benefit of the contract:
+
+- the disposal of the plant or machinery is again the total of any capital sums received as consideration, compensation, damages or insurance for the persons rights under the contract or the asset any capital expenditure still to be incurred under the contract; and
+
+- for the purposes of bringing that disposal value into account they are treated as if they have incurred the balance of the capital expenditure under the contract
+
+Transfer of an asset followed by hire purchase where the asset is available to be used by the seller or connected person.
+
+Restrictions apply if
+
+- A person (“the seller”) transfers plant and machinery to another person;
+
+- at any time after the transfer, the plant or machinery is available to be used by the seller or connected person under a contract which provides that the seller or connected person shall or may become the owner on performance of the contract; and
+
+- the seller or connected person incurs capital expenditure under that contract.
+
+In these circumstances, the following restrictions apply:
+
+Firstly, the seller or connected person is not entitled to AIA or FYAs
+
+Secondly, the seller or connected person’s qualifying expenditure is restricted to
+
+- The seller’s disposal value if the seller is required to bring a disposal value into account because of the transfer of the plant or machinery.
+
+- Nil if the seller is not required to bring a disposal value into account because of the transfer and at any time before the transfer the seller or linked person (broadly a person who was connected with the seller) became owner of the plant or machinery without incurring capital expenditure.
+
+- In other cases, the smallest of the market value or the amount of capital expenditure incurred by the seller or connected person on the provision of the plant or machinery before the transfer.

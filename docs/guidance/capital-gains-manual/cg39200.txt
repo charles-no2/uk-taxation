@@ -1,0 +1,22 @@
+TCGA92/Sch4B - value of asset attributable to trustee borrowing - outline
+Identifier: CG39200
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39200
+Published: 2016-03-12T11:00:13+00:00
+Updated: 2016-01-25T16:44:06+00:00
+Retrieved (UTC): 2026-09-18T14:47:52.656031+00:00
+
+TCGA92/Sch4B/para12
+
+Determining how much of the value of an asset is attributable to trustee borrowing is required for two reasons:
+
+- if a transfer of value is the transfer of an asset the amount of value transferred is not reduced by any consideration received for the asset, TCGA92/Sch4B/para2(4)(a)
+
+- the effective value of the remaining chargeable assets is reduced by the amount of that value that is attributable to trustee borrowing, TCGA92/Sch4B/para11(5).
+
+The following simple example illustrates why these rules are needed.
+
+Example
+
+The trustees have chargeable assets value £250,000. The gain on those assets is also £250,000. The trustees borrow £750,000. They use £500,000 to buy chargeable securities. This is an application of the borrowing for normal trust purposes. The trustees transfer the remaining £250,000 to a new settlement. Without reducing the effective value of the remaining chargeable assets by the amount attributable to trustee borrowing the fraction in TCGA92/Sch4B/para11 is 250,000(VT)/750,000(EV) = 1/3. The gain of £250,000 would be reduced to £83,000.
+
+The reality is that the securities haven’t changed in value since they were acquired. They will not accrue a gain when they are sold together with the original trust assets to repay the borrowing. Reducing the effective value of the remaining chargeable assets by the amount attributable to trustee borrowing ensures the full amount of the gain on the original trust assets is charged.

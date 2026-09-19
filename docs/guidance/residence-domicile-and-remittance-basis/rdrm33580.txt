@@ -1,0 +1,118 @@
+Remittance Basis: Identifying Remittances: Specific Topics: Foreign Currency Bank Accounts - Interaction with Mixed Funds Rules
+Identifier: RDRM33580
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33580
+Published: 2016-03-09T17:34:25+00:00
+Updated: 2022-01-04T10:00:12+00:00
+Retrieved (UTC): 2026-09-18T16:19:37.905266+00:00
+
+Section 809Q - Mixed funds and remittances (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33580#IDAMKJPG)
+
+Section 809R - Mixed funds and Offshore Transfers (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33580#IDAISJPG)
+
+Note 1: Full details on computing foreign exchange gains or losses arising on foreign currency accounts can be found in the Capital Gains Manual refer to CG78320 onwards.
+
+Note 2: For information about the operation of the mixed fund rules in general refer to RDRM35200 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35200)
+
+Section 809Q - Mixed funds and remittances
+
+The capital gains rules for foreign currency accounts held by non-domiciled remittance basis users may interact with the mixed fund rules at ITA07 s809Q. Where the foreign currency account is held offshore, any gain arising will be a foreign chargeable gain.
+
+Looking at this through an example:
+
+Example 1 (Tom):
+
+Tom is a UK resident and ordinarily resident, but non-UK domiciled remittance basis user. He has a Euro bank account in a German bank.
+
+Between 6 April and 4 July 2011 there are Euro credits of:
+
+- €4,000 to this account on the 1st of each month, from Tom’s German employer for duties carried out wholly in Germany (Relevant Foreign Earnings)
+
+- Credits paid on 3rd of each month from various investments, which total €3,000 each month (Relevant Foreign Income).
+
+On 5 July 2011, Tom decides to make an electronic transfer of €15,000 from this account to his UK sterling current account. The relevant exchange rates in 2011 (assume relevant for the entire month) are:
+
+- May - €1 = £0.90
+
+- June - €1 = £1.20
+
+- July - €1 = £1.10
+
+The account contains both Relevant Foreign Income and Relevant Foreign Earnings, so it is a mixed fund and the rules at ITA07 s809Q apply. These rules require an analysis of the account immediately before the transfer, to identify amounts in each of the s809Q(4) categories for each year.
+
+In Tom’s case, on 5 July 2011 immediately before the transfer he has:
+
+- €12,000 credits from his German employment income (Para (b)) and
+
+- €9,000 from RFI (Para (d))
+
+Tom’s €15,000 remittance of income is subject to UK income tax in the UK; it consists of €12,000 RFE and €3,000 RFI. This amount is translated into sterling on the date of remittance (€1 = £1.10); so Tom has remitted £13,200 RFE and £3,300 RFI.
+
+There is also a foreign exchange gain/loss on the withdrawal/transfer which crystallises immediately after the money is withdrawn, because that is the point at which the part disposal of the debt occurs. The gain will be a foreign chargeable gain, arising on the disposal of a non-UK situs ‘debt receivable’.
+
+The acquisition costs are computed using the exchange rates applicable on the date of each credit, and the disposal proceeds using the exchange rate applicable on date of disposal. This latter figure will be the sterling ‘credit’ that appears on Tom’s UK bank account, using that day’s rate of exchange (assumed here to be €1 = £1.10). The remainder of the account ((€21,000 less €15,000 = €6,000) is translated to sterling market value too, on the same day (€6,000 = £6,600).
+
+Tom’s original ‘expenditure’ on acquiring the debt/asset is:
+
+- May - €7,000 x £0.90 = £6,300
+
+- June - €7,000 x £1.20 = £8,400
+
+- July - €7,000 x £1.10 = £7,700
+
+Total = £22,400
+
+Tom’s allowable exp = £22,400 x (£16,500/(£16,500 + £6,600)) = £16,000
+
+The capital gain computation = £16,500 - £16,000 = £500 gain
+
+So in July 2011, when Tom brings in his €15,000 he has a taxable remittance of RFE of £13,200 and RFI totalling £3,300. He has also remitted the proceeds of a disposal; which contain a foreign chargeable gain of £500 which is also taxable.
+
+If the withdrawal/transfer was after 5 April 2012 then a chargeable gain would not arise on the (part) disposal. However, a remittance made after 5 April 2012 may still include chargeable gains arising from earlier (part) disposals.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33580#Top)
+
+Section 809R - Mixed funds and Offshore Transfers
+
+Broadly, an ‘offshore transfer’ is a term used to describe any transfer from a mixed fund that does not require the ordering and identification rules in ITA07 s809Q to be applied to it. Refer to RDRM35400 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35400) - Offshore transfers for details.
+
+Using the example of Gelda to look at an offshore transfer:
+
+Example 2 (Gelda):
+
+Gelda is a UK resident and ordinarily resident, but non-UK domiciled remittance basis user. She has a Euro bank account in a German bank.
+
+Between 6 April and 31 July 2010 there are Euro credits of
+
+- €4,000 to this account on the 1st of each month, from Gelda’s German employer for duties carried out wholly in Germany (Relevant Foreign Earnings)
+
+- Credits paid on 3rd of each month from various offshore investments, which total €3,000 each month,(Relevant Foreign Income).
+
+There are then no further credits to the account.
+
+The relevant exchanges rates in 2010 (assume relevant for the entire month) are:
+
+- May - €1 = £0.90
+
+- June - €1 = £1.20
+
+- July - €1 = £1.10
+
+On 20 August 2012, Gelda decides to make an electronic transfer of €15,000 from this account to another Euro account with another bank in Spain.
+
+This would be an offshore transfer within ITA07 s809R.
+
+Under the rules at section 809R an offshore transfer is treated as containing an appropriate proportion of each kind of income/capital in the transferring mixed fund immediately before the transfer.
+
+As at 20 August in 2012 Gelda’s German account held
+
+- €12,000 RFE and
+
+- €9,000 RFI
+
+The exchange rate for August 2012 is say €1 = £1.15
+
+So the offshore transfer contains RFE and RFI in a 4:3 proportion, that is €8,571 RFE and €6,429 RFI. There is no remittance to the UK at this point, so no need to translate this income to sterling for income remittance purposes.
+
+There would not in this example be a chargeable gain, because the (part) disposal of the asset held in Germany occurred after 6 April 2012 - the transfer took place on 20 August 2012.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33580#Top)

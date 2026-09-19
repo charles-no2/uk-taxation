@@ -1,0 +1,46 @@
+PMA: Ships: Limit on amount deferred
+Identifier: CA25450
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25450
+Published: 2016-04-16T08:51:12+01:00
+Updated: 2019-12-31T11:10:43+00:00
+Retrieved (UTC): 2026-09-18T16:20:56.603630+00:00
+
+CAA01/S138
+
+If a claim is made to defer a balancing charge that arises on the disposal of a qualifying ship there is a limit on how much of the balancing charge can be deferred. The amount of the balancing charge that may be deferred is the smallest of:
+
+- the balancing charge that would have been made if there had been no claim for deferment;
+
+- the amount taken into account in respect of the old ship CA25475 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca25475);
+
+- the amount of expenditure incurred or expected to be incurred on new shipping within six years of the disposal event by the ship owner or members of the same group as the ship owner when the expenditure is incurred;
+
+- the amount of the ship owner’s profits or income for the chargeable period ignoring any losses brought forward.
+
+These rules limit the amount which can be deferred to the amount of the balancing charge, if any, in respect of the ship and on which tax is charged. If there is a loss for the relevant period overall no part of the balancing charge can be deferred because the profits are already nil.
+
+Example
+
+Bright owns the Bounty, which is a qualifying ship.
+
+He sells it for £1,000,000 on July 2014. He says that he plans to buy a replacement ship that will cost £1,250,000 before 4 July 2020.
+
+The allowances on the Bounty are being calculated separately and so a disposal value of £1,000,000 is brought to account in the single ship pool.
+
+The expenditure in the single ship pool when the Bounty is sold is £400,000 so there is a notional balancing charge of £600,000 in the single ship pool. That is the amount taken into account in respect of the Bounty.
+
+The balance in the main pool is £250,000, which means that the balancing charge for the relevant period for the actual qualifying activity is £350,000.
+
+Bright’s accounts for the relevant period show a loss of £50,000. He has losses brought forward of £200,000.
+
+The amount of the balancing charge that may be deferred is the smallest of:
+
+- £350,000, the balancing charge that would have been made; and
+
+- £600,000, the amount taken into account in respect of the Bounty;
+
+- £1,250,000, the amount Bright plans to spend on a replacement ship;
+
+- £300,000, the amount which would reduce the profits of the relevant period to nil; the losses of £50,000 for the year are taken into account but the losses brought forward of £200,000 are ignored.
+
+This means that the amount of the balancing charge which may be deferred is £300,000 because it is the smallest of (a) to (d). If Bright claims to have the balancing charge deferred £300,000 is added to his qualifying expenditure for the relevant period. This makes the pool £550,000 before the balance from the single ship pool of £400,000 is added to it. Once the disposal proceeds of £1,000,000 have been deducted from the qualifying expenditure in the main pool there is a net balancing charge of £50,000, which is covered by the trading loss of £50,000 for the year.

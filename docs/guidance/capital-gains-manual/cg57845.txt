@@ -1,0 +1,64 @@
+Small capital distributions: computation: - 1982 holding
+Identifier: CG57845
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57845
+Published: 2016-03-12T11:45:42+00:00
+Updated: 2023-05-11T09:34:47+01:00
+Retrieved (UTC): 2026-09-18T14:44:10.937567+00:00
+
+If the shares are held in a 1982 holding, for a company TCGA92/S57 applies to adjust the indexation allowance due on a later sale of the shares, see CG17360 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17360)+. No adjustment is required at the time of the capital distribution. When the shares are sold you calculate the indexation allowance due in the following way.
+
+- Calculate indexation allowance on the allowable cost of the shares before any adjustment for the capital distribution.
+
+- Compute the indexation allowance due on the capital distribution from the date of the distribution to the date the shares were sold.
+
+- Subtract the indexation allowance due on the capital distribution, Step 2, from the total indexation allowance due, Step 1.
+
+Example
+
+- March 1980 company A Ltd buys 1,000 £1 ordinary shares in Holmes Holdings Ltd.
+
+- September 1991 Holmes Holdings Ltd reduces its share capital to 50p by paying 50p in cash.
+
+- December 2017 A Ltd sells its entire holding of 50p shares for £200,000.
+
+The market value of the £1 ordinary shares are agreed as follows:-
+
+31 March 1982 £45 per share
+
+September 1991 £110 per share.
+
+A ltd has made an election under TCGA92/S35 (5) out of the kink test.
+
+The capital distribution in September 1991 is small and is not treated as a disposal.
+
+When Mrs A ltd sells the shares in December 1992 you compute the indexation allowance due as follows.
+
+1 - Compute the full amount of indexation allowance without any adjustment for the capital distribution. March 1982-December 2017 (factor is 2.463)
+
+£45,000 x 2.463 = £110,835
+
+2 - Compute the indexation allowance due on the capital distribution from September 1991 to September 2017 (factor is 1.044)
+
+£5,000 x 1.044 = £5,220.
+
+3 - Reduce £110,835 by £5,220 = £105,615
+
+Capital Gains Tax computation
+
+- |  - |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  - |  200,000 |
+
+less |  Cost |  - |  45,000 |  - |
+
+minus |  Capital distribution |  - |  5,000 |  40,000 |
+
+- |  - |  Unindexed gain |  - |  160,000 |
+
+less |  Indexation |  - |  110,835 |  - |
+
+minus |  Capital distribution |  - |  5,220 |  105,615 |
+
+- |  - |  Chargeable gain |  - |  54,385 |
+
+NOTE. If a taxpayer is within the charge to Capital Gains Tax, neither indexation allowance nor taper relief apply to disposals of assets on or after 6 April 2008. Previously indexation allowance had been frozen at April 1998. Companies and other concerns within the charge to Corporation Tax were not affected by these changes. Instead indexation allowance for companies within the charge of Corporation Tax was frozen from January 2018. For indexation allowance see CG17207 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17207)+ and for taper relief see CG17895 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17895)+.

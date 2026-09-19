@@ -1,0 +1,30 @@
+Bare trusts: introduction
+Identifier: CG34300
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34300
+Published: 2016-03-12T10:42:18+00:00
+Updated: 2020-02-07T14:38:05+00:00
+Retrieved (UTC): 2026-09-18T14:31:36.102538+00:00
+
+There are many situations where the legal title to property is held by trustees. For instance if the asset is land, it has at some time been conveyed to them, and they are registered as the owners. Similarly shares may be registered in the name of trustees.
+
+But even though trustees hold the legal title to the property the property is not necessarily settled property for the purposes of CGT, see CG33220 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33220). It is not settled property where one or more persons are `absolutely entitled as against the trustees’.
+
+If it is not settled property then the trustees are holding it as bare trustees’ for one or more persons who are absolutely entitled to it. (In English and Irish law it is common to talk about these persons as having beneficial ownership’ in comparison with the `legal ownership’ of the trustees.)
+
+Where there is a bare trust for CGT purposes, we treat the persons absolutely entitled as if they owned the property. We disregard the trustees’ legal ownership. It is possible for a trust to be partly bare. This generally happens where one beneficiary has become entitled to a share of the property, but nothing has yet been distributed.
+
+In the case of a bare trust normally the trustees must handle the property exactly as instructed by the persons who are absolutely entitled.
+
+CG37000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37000)+ deal with the situation where a normal trust turns into a bare trust because one or more beneficiaries have become absolutely entitled.
+
+Example 1
+
+In England and Wales the most common kind of bare trust is where two or more persons jointly' own land. In this situation Section 34 Law of Property Act 1925 requires the legal title to the land to be held by trustees. In the case of the family home the strict analysis is generally that A and Mrs A legally own the land as trustees for themselves. In the case of a partnership up to four of the partners may hold the partnership land for the partners as a whole. See CG70500+ for an explanation of tenancies in common and joint tenancies, the two kinds of joint ownership’ in English law. In Scotland and Ireland there is no need to use trusts for `joint ownership’, although they may be used.
+
+Example 2
+
+Another common case is where property is held by trustees on behalf of an infant or other person who cannot own the asset directly. This often happens as the result of a will. The infant cannot take over the property because he or she cannot give a good receipt.
+
+Example 3
+
+Another example is where assets are held by nominees. This is very common where an investor’s stocks and shares are looked after by a bank or stockbroker. There is no distinction for CGT purposes between nominees and bare trustees.

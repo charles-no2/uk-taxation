@@ -1,0 +1,58 @@
+Substantial shareholdings exemption: anti-avoidance rule - the legislation
+Identifier: CG53180
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53180
+Published: 2016-03-12T11:30:09+00:00
+Updated: 2021-01-11T12:18:43+00:00
+Retrieved (UTC): 2026-09-18T14:32:49.914242+00:00
+
+TCGA92/SCH7AC/PARA5
+
+The anti-avoidance measure in paragraph 5 Schedule 7AC TCGA 1992 is aimed at tax driven arrangements intended to exploit the substantial shareholdings exemption regime. Essentially, the provision aims to deny exemption when untaxed income or gains are realised indirectly by way of a disposal of shares that would otherwise be exempt.
+
+Broadly speaking, paragraph 5 is aimed at ‘arrangements’ from which the ‘sole or main benefit’ that can be expected to be derived is that a gain on a disposal of shares will be exempt under Part 1 of Schedule 7AC. In those circumstances the anti-avoidance measure provides that none of the exemptions is available.
+
+Sub-paragraph 5 (1) sets out the circumstances that must arise before exemption is denied. These are that
+
+- an untaxed gain must accrue to a company (company A) on a disposal of shares, or an interest in shares or an asset related to shares, in another company (company B), and before the gain accrued either
+
+- company A acquired control of company B, or the same person or persons acquired control of both companies, or
+
+- there was a significant change of trading activities affecting company B at a time when it was controlled by company A, or when both companies were controlled by the same person or persons.
+
+‘Arrangements’ are defined widely in sub-paragraph (6) so as to include any scheme, agreement or understanding, whether or not legally enforceable. However, not all such ‘arrangements’ will invoke the anti-avoidance provision. Sub-paragraph (2) ensures that the legislation only takes account of arrangements from which the ‘sole or main benefit’ that could be expected to arise from the outset is that a gain would, but for the anti-avoidance measure, have been exempted. Because of this most transactions that would fall within the broad definition of arrangements are disregarded and account is taken only of those directed at securing an exempt gain. Moreover, unless all the circumstances required to trigger the measure occur in pursuance of such arrangements exemption will not be denied.
+
+What counts as an ‘untaxed gain’ for these purposes is explained by sub-paragraph (3). A gain is ‘untaxed’ if all the gain, or all but a part that is not substantial, represents profits that have not been brought into account
+
+- in the United Kingdom or elsewhere
+
+- for the purposes of tax
+
+- for a period ending on or before the disposal that would result in an exempt gain but for this provision.
+
+For these purposes ‘profits’ mean income or gains, including unrealised income or gains and in this context we interpret ‘substantial’ as meaning more than 20%.
+
+Sub-paragraph (4) makes it clear that profits do not count as being ‘untaxed’ if, for an accounting period of that company ending on or before the date of the disposal, an amount in respect of profits is apportioned to a company resident in the United Kingdom under the controlled foreign company rules (Part 9A TIOPA 2010).
+
+The anti-avoidance rules require company A to control company B, or for both companies to be under the control of the same person or persons. The general TCGA interpretation of ‘control’ in section 288(1) TCGA 1992 applies to determine whether company A acquired control of company B before the gain accrued, or the same persons similarly acquired control of both companies then. ‘Control’ is therefore construed in accordance with sections 450 & 451 CTA 2010.
+
+However, the control condition is not itself sufficient. Either
+
+- control must have been acquired before the gain accrued, or
+
+- there must have been a significant change in company B’s trading activities while the control condition existed.
+
+For this purpose sub-paragraph (5) provides that there is a ‘significant’ change if
+
+- there is a major change in the nature or conduct of a trade carried on by company B or a 51% subsidiary of company B, or
+
+- there is a major change in the scale of the activities of a trade carried on by company B or a 51% subsidiary of company B, or
+
+- company B or a 51% subsidiary of company B begins to carry on a trade.
+
+A ‘major change in the nature or conduct of the trade’ here has the same meaning as in section 768 ICTA 1988 (see CT1207).
+
+It will be a question of fact in any particular case whether a gain wholly, or wholly except for a part which is not substantial, represents untaxed profits. Broadly, this will involve looking at how the consideration obtained for the shares is derived from assets held directly or indirectly by the company in question. In many cases this will include both taxed and untaxed profits. For example, undistributed reserves representing profits which have been brought into account for tax purposes (even if no tax has actually been paid because of reliefs available) and unrealised gains on capital assets, such as land. In these circumstances, the gain should be taken as first representing the taxed profits and only any balance which then remains as representing untaxed profits. Moreover, even if on this basis the gain wholly, or wholly except for a part which is not substantial, represents untaxed profits, the exemption would be denied only if
+
+- all the circumstances set out in sub-paragraph (1) occur in pursuance of arrangements, and
+
+- the sole or main benefit that could be expected to arise from the arrangements is that the gain accruing on the disposal would be exempt under Part I of Schedule 7AC.

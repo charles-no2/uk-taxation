@@ -1,0 +1,118 @@
+Unauthorised payments: the unauthorised payments charge and the unauthorised payments surcharge: surchargeable unauthorised member payments
+Identifier: PTM134400
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134400
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-01T17:51:17+00:00
+Retrieved (UTC): 2026-09-18T14:50:04.289240+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Surchargeable unauthorised member payments (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134400#IDARGRQB)
+The surcharge threshold for surchargeable unauthorised member payments (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134400#IDAFFRQB)
+Example of surchargeable unauthorised member payments (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134400#IDAV0QQB)
+
+Surchargeable unauthorised member payments
+
+Section 210 Finance Act 2004
+
+A payment to or in respect of a member is a surchargeable unauthorised member payment if it is an unauthorised member payment that, together with any other unauthorised member payments made by the same registered pension scheme to or in respect of that member, before the end of a 12-month reference period equals or exceeds the surcharge threshold. A reference period begins on a certain date called the reference date.
+
+Where the surcharge threshold is reached in respect of a particular member, a surcharge period is established and all of the unauthorised payments made to or in respect of that member in the surcharge period are surchargeable unauthorised member payments.
+
+The surcharge period
+
+A surcharge period starts with the reference date and, where the surcharge threshold is reached before the end of a period of 12 months beginning from that reference date, ends on the day on which the surcharge threshold is reached.
+
+More detail on the surcharge threshold is under the heading later below.
+
+So, if in any 12-month period the total unauthorised member payments made by a particular registered pension scheme to or in respect of a member are less than the surcharge threshold the unauthorised payments surcharge will not apply to those unauthorised payments.
+
+The reference date
+
+The reference date is the date of payment of the first unauthorised member payment made to or in respect of the member concerned.
+
+Subsequent reference dates will occur on the payment of an unauthorised member payment in respect of the same member after the end of a reference period.
+
+The reference period
+
+A reference period starts with the reference date and ends on the earlier of:
+
+- 12 months following the reference date
+
+- the day on which the surcharge threshold is reached.
+
+So, the first reference date in respect of a member will be the date of payment of the first unauthorised member payment to or in respect of the member by the registered pension scheme. The first reference period for that member will run from the first reference date until the surcharge threshold is reached or until 12 months later if earlier.
+
+The second reference date for that same member will be the date of first payment of an unauthorised member payment to or in respect of that member from that registered pension scheme after the first reference period. The second reference period will run from the second reference date until the earlier of 12 months later or the reaching of the surcharge threshold.
+
+The method of calculation of surcharge periods described above for a member of a registered pension scheme applies equally to the payment of unauthorised member payments to or in respect of a former member.
+
+The method of calculation also applies to unauthorised member payments made to a person who was a member in respect of one or more unauthorised payments and a former member in respect of other such payments. For example:
+
+- a reference period starts when a registered pension scheme makes an unauthorised member payment to a member (payment 1). Payment 1 does not reach the surcharge threshold
+
+- 6 months later, that person leaves scheme membership and immediately afterwards the scheme pays another unauthorised member payment to that, now, former member (payment 2)
+
+- payment 1 is considered with payment 2 to determine whether or not the surcharge threshold is now reached.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134400#Top)
+
+The surcharge threshold for surchargeable unauthorised member payments
+
+Section 210(7) to (10) Finance Act 2004
+
+The surcharge threshold is reached if the unauthorised payments percentage reaches 25%.
+
+The unauthorised payments percentage is the total of the percentages that each unauthorised member payment represents in relation to the value of a person’s rights under the registered pension scheme when those payments are made on or after a reference date.
+
+The percentage used up on making an unauthorised member payment is represented by the formula
+
+UMP / VR X 100
+
+UMP = the amount of the unauthorised payment
+
+VR = the value of the member’s rights under arrangements relating to the member under the pension scheme when the unauthorised payment is made (or, if the unauthorised member payment is made after the member had died or has otherwise ceased to be a member of the pension scheme, at the date when the member died or otherwise ceased to be a member).
+
+Valuation of rights
+
+How the member’s rights are valued depends on whether the rights are crystallised or uncrystallised. It will also depend on the form of crystallised benefits and the type of arrangement or arrangements under the scheme. The value of the person’s rights (VR) is the total of the value of the:
+
+- crystallised member’s rights and
+
+- uncrystallised member’s rights
+
+PTM134500 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134500) explains how crystallised and uncrystallised member’s rights are valued when calculating the unauthorised payments percentage.
+
+The example below shows how the surcharge threshold is used to identify surchargeable unauthorised payments.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134400#Top)
+
+Example of surchargeable unauthorised member payments
+
+Trevor has two money purchase arrangements in a registered pension scheme, each with a value of £50,000 on 1 January 2014.
+
+On 1 January 2014 Trevor receives an unauthorised member payment of £10,000 from arrangement 1. This results in Trevor being liable to an unauthorised payments charge on the £10,000 payment.
+
+A reference date of 1 January 2014 is set in relation to the scheme in respect of Trevor.
+
+As the payment represents 10% of the value of the arrangements under the scheme in respect of Trevor, the surcharge threshold has not been reached. This means the payment is not a surchargeable unauthorised member payment and so there is no unauthorised payments surcharge.
+
+On 1 February 2015 the value of arrangement 1 is £42,000 and arrangement 2 is £52,000. Trevor receives unauthorised member payments of £9,400 from arrangement 1 and £9,400 from arrangement 2. Trevor is liable to an unauthorised payments charge on both payments.
+
+As over 12 months has passed since the last unauthorised member payment made from arrangement 1 a new reference date of 1 February 2015 is set in relation to the scheme in respect of Trevor.
+
+The payments from arrangements 1 and 2 represents 20% of the total value of Trevor’s arrangements under the scheme when the payments were made. This means the surcharge threshold has not been reached and so no unauthorised payments surcharge is due on the total unauthorised member payments of £18,800.
+
+On 1 March 2015 the value of arrangement 1 is £32,600 and arrangement 2 is £42,600. Trevor receives another unauthorised member payment of £5,000 from arrangement 1. This represents 6.65% of the total value of Trevor’s arrangements under the scheme when the unauthorised payment is made. Trevor becomes liable to the unauthorised payments charge in respect of the £5,000 payment.
+
+Before this latest unauthorised payment neither the surcharge threshold has been reached, nor has 12 months elapsed since the previous reference date of 1 February 2015 in relation to the scheme in respect of Trevor was set. So, there is both a reference date and an open reference period under the scheme in respect of Trevor.
+
+The percentage value of the latest unauthorised payment is added to the percentage value of the payments made from the scheme on 1 February 2015. This gives a total percentage amount of 26.65% (20% + 6.65%). The surcharge threshold in respect of Trevor has now been reached. This means:
+
+- the reference period in respect of Trevor, that started on 1 February 2015, ended on 1 March 2015, as this is the day the surcharge threshold is reached
+
+- there is a surcharge period in relation to the scheme in respect of Trevor that began on 1 February 2015 and ended on 1 March 2015
+
+- all unauthorised member payments made to or in respect of Trevor in that surcharge period are surchargeable
+
+- Trevor is now liable to the unauthorised payments surcharge in respect of both of the unauthorised member payments of £9,400 made on 1 February 2015 and the payment of £5,000 made on 1 March 2015.

@@ -1,0 +1,20 @@
+Other issues: valuing the first estate, ascertained valued for CGT
+Identifier: IHTM43066
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43066
+Published: 2016-04-09T10:29:31+01:00
+Updated: 2017-10-26T09:07:35+01:00
+Retrieved (UTC): 2026-09-18T15:10:04.187967+00:00
+
+Where the value of an asset is not ascertained (IHTM09241 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09241)) for the purposes of determining the chargeable value of the estate on the death of the first spouse or civil partner to die, on any subsequent sale, the acquisition value for Capital Gains Tax (CGT) will need to be established. If that property is subsequently valued to find the percentage of the transferable nil rate band (TNRB) available on the second death, the value we adopt for Inheritance Tax (IHT) does not replace the value used in establishing the CGT liability IHTA84/S8C(8).
+
+Example
+
+On Harry’s death in January 2008, his share of the matrimonial home is left to his son Edward, with the residue passing to his wife, Fern. The value returned for the entirety is £300,000, so the half share chargeable on the first death is £150,000.
+
+The property is sold in 2009 for £350,000 and Edward’s share is liable to CGT. As the value for his share was not ascertained for IHT purposes on the first death, it is necessary to agree the acquisition value to establish the chargeable gain. The value of a one half share in January 2008 is agreed, for CGT purposes, at £127,500.
+
+On Fern’s death in 2011, we need to agree the value of the house so that we can establish the amount of the nil rate band available for transfer. The value is agreed at £300,000, so the chargeable estate on the first death is £150,000, meaning that TNRB available for transfer is 50%.
+
+As the value of £150,000 has been ascertained for the value of the half share on the first death, this would normally be the acquisition value for the CGT charge. FA2008/Sch4/Para8 prevents the normal rule applying and the CGT calculation is not adjusted.
+
+This only applies solely in connection with TNRB; in all other cases, TCGA92/S274 applies to adopt the value ascertained for IHT purposes as the acquisition value for CGT.

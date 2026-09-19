@@ -1,0 +1,46 @@
+Car benefit calculation Steps 1-6, 2011 to 2012 onwards: diesel car (type D): example
+Identifier: EIM25055
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25055
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-04-11T14:56:47+01:00
+Retrieved (UTC): 2026-09-18T14:21:08.754673+00:00
+
+This page illustrates steps 5 and 6 of the method statement in Section 121(1) ITEPA 2003, see EIM24015 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24015) and the example shows how to do the calculations explained at EIM24855 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24855).
+
+Example 1: Diesel car with a low approved CO2 emissions figure
+
+The price of the car and accessories (the figure at step 3) is £15,000. The approved figure of CO2 emissions is 119g/km.
+
+First, check whether the car is either:
+
+- for 2011 to 2012 only, a QUALEC (EIM24605 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24605))
+
+- for 2012 to 2013 and 2014 to 2015, a car with CO2 emissions between 1-75 g/km (EIM24610 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24610))
+
+If it is not, round the CO2 emissions figure down to 115 g/km, then look up the appropriate percentage for a type A car at in the ready reckoner at EIM24705 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24705).
+
+Finally, make any required adjustments for this type of car (see EIM24730 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24730)).
+
+2011 to 2012
+
+The car is a QUALEC: the unrounded CO2 emissions figure of 119 exceeds 75 but does not exceed 120, EIM24605 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24605).
+
+The appropriate percentage (the figure at step 5) is 10% (EIM24605 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24605)). Add the 3% diesel supplement (EIM24730 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24730)). The basic car benefit charge (the figure at step 6) is £15,000 × 13% = £1,950.
+
+Example 2: Diesel car with a high approved CO2 emissions figure
+
+The price of the car and accessories (the figure at step 3) is £20,000. The approved figure of CO2 emissions is 217g/km.
+
+First, check whether the car is either:
+
+- for 2011 to 2012 only, a QUALEC (EIM24605 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24605))
+
+- for 2012 to 2013 to 2014 to 2015, a car with CO2 emissions between 1-75 g/km (EIM24610 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24610))
+
+If it is not, round the CO2 emissions figure down to 215g/km, then look up the appropriate percentage for a type A car in the ready reckoner at EIM24705 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24705).
+
+Finally, make any required adjustments for this type of car (see EIM24730 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24730)).
+
+2011 to 2012
+
+The car is not a QUALEC, so the appropriate percentage from the ready reckoner is 33%. Add 3% diesel supplement, subject to a maximum at step 5 of 35%. The appropriate percentage (the figure at step 5) is therefore 33% + 2% (restricted) = 35%. The basic car benefit charge (the figure at step 6) is £20,000 × 35% = £7,000.

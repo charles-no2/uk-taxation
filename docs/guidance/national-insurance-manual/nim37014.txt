@@ -1,0 +1,30 @@
+Refunds: Class 1: NICs paid in error: Error occurred within recently ended tax year
+Identifier: NIM37014
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim37014
+Published: 2016-04-11T17:51:26+01:00
+Updated: 2023-04-06T15:21:08+01:00
+Retrieved (UTC): 2026-09-18T15:17:35.169216+00:00
+
+Tax years from 2020 to 2021
+
+If an employer discovers, on or before 19 April following the end of the tax year, that they have not submitted a Full Payment Submission (FPS) or has reported incorrect year to date figures, they should submit a further FPS with corrected year to date figures as at 5 April for the tax year in question.
+
+If the employer discovers the issue on or after 20 April in the following tax year, they should submit a further year to date FPS. A further FPS can be submitted to correct FPS information for up to 6 years after the original FPS or EPS was filed.
+
+Guidance on how to do this can be found
+
+- in the CWG2 (https://www.gov.uk/government/publications/cwg2-further-guide-to-paye-and-national-insurance-contributions) Employers Further Guide to PAYE and National Insurance contributions, and
+
+- on the Fix Problems with Running Payroll pages on GOV.UK (https://www.gov.uk/payroll-errors), and
+
+- at NIM11530 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim11530).
+
+If a further FPS is submitted which amends figures downwards (a refund is due) the employer should refund the money directly to their employee(s). Where this is not possible, the employer can also request a refund by contacting HMRC - guidance can be found on the Fix Problems with Running Payroll pages on GOV.UK (https://www.gov.uk/payroll-errors/correcting-payments-to-hmrc)
+
+For detailed information on RTI submission types see PAYE5025 (https://www.gov.uk/hmrc-internal-manuals/paye-manual/paye5025).
+
+Tax years prior to 2020 to 2021
+
+From April 2021 the Earlier Year Update (EYU) will no longer be a valid submission type for the tax year 2020 to 2021. If the employer discovers an issue on or after 20 April in the following tax year, they should submit an EYU. An EYU can be submitted to correct FPS information for up to 6 years after the original FPS or EPS was filed.
+
+EYUs are returns that adjust a customer End of Year Record (EOYR) details for a given year. Employers should correct their payroll data for the 2019 to 2020 and earlier tax years by sending an EYU.

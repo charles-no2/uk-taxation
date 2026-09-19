@@ -1,0 +1,120 @@
+Remittance Basis: Amounts Remitted: Mixed Funds: Example 4 - (continuation) remittances involving pre 6 April 2008 income or gains
+Identifier: RDRM35330
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35330
+Published: 2016-03-09T17:39:47+00:00
+Updated: 2022-01-20T10:32:32+00:00
+Retrieved (UTC): 2026-09-18T16:19:48.074288+00:00
+
+Continuing BVI account from RDRM35320 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35330#IDA44R2H)
+
+Applying the ordering rules in S809Q to the account (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35330#IDA0NUTG)
+
+Continuing from the example 4 above, on 5 April 2008 Martyn’s BVI account contains
+
+2007-2008:
+
+- UK salary £20,000
+
+- Overseas salary £45,000
+
+- Overseas dividends £9,000
+
+- Sale of shares - Capital £4,000,000
+
+- Sale of shares - Gains £1,000,000
+
+Continuing BVI account account from RDRM35320 (2008-2009)
+
+Date |  Desccriptor |  Credits |  Debits |  Balance |  s809Q(4) |  Note |
+
+6 April |  Balance b/f |  - |  - |  £5,074,000 |  - |  - |
+
+30 April |  UK salary (net) |  £10,000 |  - |  £5,084,000 |  Para (a) |  -- |
+
+30 April |  Overseas salary (net) |  £5,000 |  - |  £5,089,000 |  Para (f) |  - |
+
+3 May |  Transfer to UK account |  - |  £5,000 |  £5,084,000 |  - |  1 |
+
+15 May |  Dividend |  £2,000 |  - |  £5,086,000 |  Para (g) |  - |
+
+31 May |  UK salary |  £10,000 |  - |  £5,096,000 |  Para (a) |  - |
+
+31 May |  Overseas salary |  £5,000 |  - |  £5,101,000 |  Para (f) |  - |
+
+30 June |  UK salary |  £10,000 |  - |  £5,111,000 |  Para (a) |  - |
+
+30 June |  Overseas salary |  £5,000 |  - |  £5,116,000 |  Para (f) |  - |
+
+30 June |  Direct Debit |  - |  £100,000 |  £5,016,000 |  - |  2 |
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35330#Top)
+
+Applying the ordering rules in S809Q to the account
+
+Apply immediately before the transfer:
+
+Step 1
+
+Identify the ‘amount of transfer’ in the relevant tax year (2008-2009) - £5,000.
+
+Identify the separate amounts of income, gains and capital:
+
+- Para (a) employment income (including UK employment income), not subject to a foreign tax - £10,000
+
+- Para (f) employment income subject to a foreign tax - £5,000
+
+Step 2
+
+Identify the earliest paragraph above for the relevant year, which has an amount of income or gain in the mixed fund – para (a) - £10,000
+
+Step 3
+
+Where the amount of the remittance is less than the amount identified at Step 2, the amount remitted is treated as coming entirely from that paragraph. There is no need to continue to
+
+Step 4 - £5,000
+
+The remittance is regarded as coming from the ‘earliest paragraph’, that is Para (a), so the £5,000 is UK employment income, so there is no taxable remittance of foreign income nor further tax to pay upon remittance.
+
+Note 2 - Martyn decided to buy a residential property. He remits £100,000 to pay some legal fees for the purchase on 30 June. Although Martyn considers that this amount has come from the sale of shares in 2007-2008 the ordering rules in s809Q require the remittance to be taken into account first against all income and gains of the year in which the remittance is made.
+
+Step 1
+
+Identify the ‘amount of transfer’ in the relevant tax year (2008-2009) - £100,000
+
+Identify the separate amounts of income, gains and capital present for the relevant tax year, (2008-2009) immediately before the transfer:
+
+- Para (a) employment income (including UK employment income), not subject to a foreign tax - £25,000
+
+- Para (f) employment income subject to a foreign tax - £15,000
+
+- Para (g) relevant foreign income subject to a foreign tax £2,000
+
+Step 2
+
+Identify the earliest paragraph above for the relevant year, which has an amount of income or gain in the mixed fund – para (a) – £25,000
+
+Step 3
+
+Where the amount of the remittance is greater than the amount identified at Step 2, the amount remitted is treated as reduced by the amount identified in Step 2 - £100,00 minus £25,000 = £75,000.
+
+Step 4
+
+Find the next paragraph/amount for that tax year. In order of preference listed above repeat steps 2 and 3.
+
+Step 2 – identify the earliest paragraph – para (f) £15,000
+
+Step 3 – where the amount remitted is greater - £75,000 minus £15,000 = £60,000
+
+Step 4 – in the order of preference listed above repeat steps 2 and 3.
+
+Step 2 – identify the earliest paragraph – para (g) £2,000
+
+Step 3 – where the amount remitted is greater - £60,000 minus £2,000 = £58,000
+
+At this stage all of the amounts credited to the account in 2008-09 have been matched against £100,000 remittance transfer in that year. But £58,000 has been brought to the UK that has not been ‘matched’ under the s809Q rules (and cannot be matched because of FA2008/para 89).
+
+The remaining £58,000 is regarded as coming from the 2007-08 credits to the account. The ordering rules at section 809Q cannot be used, so instead the general principles outline in Note 2 of example 4 above will apply.
+
+This £58,000 will usually be regarded as a remittance of Martyn’s income and is, first and foremost (Sterling Trust principle) his taxed income and then (Scottish Provident v Allan principle) any other income - that is his foreign employment income or dividends - as he selects.
+
+However in this case Martyn may equally be able to demonstrate that the remaining £58,000 comes from the proceeds of the sale of shares, as he particularly sold the shares in order to fund this house purchase. If that is the case, the remaining remittance will consist of £11,600 foreign chargeable gain (1/5 due proportion - refer to Note 3 in example 4).

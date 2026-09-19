@@ -1,0 +1,164 @@
+Transfers: transfers to a QROPS: when an overseas transfer charge arises due to a change in circumstances after a transfer
+Identifier: PTM102400
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102400
+Published: 2017-12-01T12:27:32+00:00
+Updated: 2025-11-11T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:49:43.127237+00:00
+
+Glossary
+
+|
+
+PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+|
+
+When an overseas transfer charge arises after the transfer (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102400#when)
+Who is liable to pay the overseas transfer charge (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102400#who)
+Requirement to notify change of residence (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102400#notify-residence)
+The amount of the overseas transfer charge (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102400#amount)
+Telling HMRC about liability to an overseas transfer charge (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102400#tell-hmrc)
+Paying an overseas transfer charge (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102400#pay)
+
+When an overseas transfer charge arises after the transfer
+
+Section 244B(4) and (for transfers requested before 30 October 2024 and completed before 30 April 2025 only) section
+244C(5) Finance Act 2004
+
+Section 32 FInance Act 2025
+
+The transfer of pension rights to a qualifying recognised overseas pension scheme (QROPS) is not the only situation in which an overseas transfer charge can arise. A tax charge can also arise if there is a change in circumstances within the relevant period from the date of the original transfer. See PTM102200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102200) for the meaning of the terms relevant period and original transfer.
+
+A tax liability under section 244AC arises after a transfer if the reason the charge did not apply at the time of the transfer from the registered pension scheme, relieved relevant non-UK scheme, QROPS or former QROPS was because, when the transfer occurred:
+
+- the member was resident in the same country as that in which the QROPS receiving the transfer is established (excluded from charge by section 244B), or
+
+- for transfers requested before 30 October 2024 and completed before 30 April 2025 only, the member was UK resident or resident in a country within the European Economic Area (EEA) or Gibraltar and the QROPS is established in a country within the EEA or Gibraltar (excluded from charge by section 244C).
+
+and after the transfer circumstances change so that none of the conditions for exclusion from an overseas transfer charge under section 244AC are met.
+
+An overseas transfer charge under section 244AC arises at the time that the member ceases to meet any of the exclusion conditions for the charge.
+
+Where there has been a transfer to a QROPS that benefited from the exclusion under section 244C before its repeal, and the member changes their residence to elsewhere in the EEA or Gibraltar within the relevant period, the transfer will continue to be sheltered from an overseas transfer charge.
+
+Example
+
+Mary is resident in New Zealand and transfers her pension savings under a registered pension scheme to a New Zealand QROPS. Mary asked her scheme administrator to make the transfer on 5 May 2017 and the transfer was made to the New Zealand scheme on 11 August 2017. At the time of the transfer it is not subject to an overseas transfer charge as Mary is resident in the same country as that in which the QROPS is established. The relevant period for this transfer runs until 5 April 2023 (11 August 2017 to 5 April 2018, plus 6 April 2018 to 5 April 2023). In May 2021 Mary becomes resident in Australia and ceases to be New Zealand resident. As she is no longer resident in the same country as the QROPS, an overseas transfer charge now arises on her transfer.
+
+Section 244IA(2) Finance Act 2004
+
+A change of circumstances following a transfer may also give rise to an overseas transfer charge under section 244IA. This will be the case where:
+
+- the transfer was originally subject to an overseas transfer charge under section 244AC because none of the exclusion conditions applied
+
+- there is a subsequent change of circumstances within the relevant period such that an exclusion condition starts to apply and the section 244AC charge becomes repayable, and
+
+- the transferred value was more than the member’s available overseas transfer allowance at the time of making that transfer.
+
+See PTM102600 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102600) for details about when an overseas transfer charge may be repaid.
+
+Example
+
+Frank lives in Hong Kong and has rights valued at £1,900,000 under a UK-based registered pension scheme. He transfers these pension rights to a QROPS established in Germany. This transfer takes place on 10 April 2024 at a time when Frank has an available overseas transfer allowance of £1,073,100. The relevant period for this transfer runs until 5 April 2030 (10 April 2024 to 5 April 2025, plus 6 April 2025 to 5 April 2030).
+
+The transfer is subject to an overseas transfer charge under section 244AC as Frank is not resident in the same country as that in which the QROPS is established. The scheme administrator deducts the amount of the charge before transferring the remaining funds to the QROPS scheme manager.
+
+The ‘transferred value’ = £1,900,000
+
+Overseas transfer charge under section 244AC = (£1,900,000 @ 25%) = £475,000
+
+Amount received by the QROPS = £1,900,000 - £475,000 = £1,425,000
+
+In October 2025 Frank becomes resident in Germany. As he is now resident in the same country as the QROPS, the overseas transfer charge under section 244AC becomes repayable. As the scheme administrator of the registered pension scheme paid the charge, it is that scheme administrator who may make a claim for repayment (see PTM102600 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102600)).
+
+However, as the transferred value of the transfer was more than Frank’s available overseas transfer allowance, an overseas transfer charge under section 244IA will now arise. This is a charge of 25% of so much of the ‘transferred value’ as was above Frank’s available overseas transfer allowance at the time of the transfer.
+
+Excess of transferred value over available overseas transfer allowance:
+
+£1,900,000 - £1,073,100 = £826,900
+
+Overseas transfer charge under section 244IA = (£826,900 @ 25%) = £206,725
+
+Who is liable to pay the overseas transfer charge
+
+Section 244J(1A) and (4) Finance Act 2004
+
+Where an overseas transfer charge under either section 244AC or section 244IA arises due to a change of circumstances after either a recognised transfer or onward transfer both the member and the scheme manager of the QROPS (or former QROPS) that currently holds the transferred funds are liable to the tax charge. Liability is joint and several and arises whether or not any of the people liable to the charge are UK resident or domiciled.
+
+So, in the example above, it is the scheme manager of the New Zealand QROPS that together with Mary becomes liable to the overseas transfer charge when Mary becomes resident in Australia in May 2021.
+
+Where an overseas transfer charge under either section 244AC or section 244IA arises due to a change of circumstances following a relieved relevant non-UK scheme transfer, the member is solely liable to the tax charge. This liability arises whether or not the member is UK resident or domiciled.
+
+Requirement to notify change of residence
+
+Regulation 11BB Registered Pension Schemes (Provision of Information) Regulations 2006 - SI 2006/567
+
+Regulation 3AF The Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) Regulations 2006 – SI 2006/208
+
+If a transfer was excluded from an overseas transfer charge because the member was resident in:
+
+- the same country as that in which the QROPS is established, or
+
+- the UK, Gibraltar or a country within the European Economic Area (EEA) and the QROPS is established in a country within the EEA or Gibraltar (for transfers requested before 30 October 2024 and completed before 30 April 2025 only)
+
+the member needs to tell the transferring scheme administrator or manager and the receiving QROPS scheme manager when they become resident or stop being resident in a country. PTM102950 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102950) provides more information about this requirement.
+
+On receipt of this information the scheme manager of the receiving QROPS must work out if the overseas transfer charge now arises.
+
+The transfer will become subject to the tax charge if the member is no longer resident in the same country as that in which the scheme is established.
+
+For transfers requested before 30 October 2024 and completed before 30 April 2025 only, if the receiving QROPS is established in Gibraltar or a country that is within the EEA, the transfer becomes subject to the overseas transfer charge if the member is not resident in Gibraltar or a country that is a member of the EEA.
+
+The amount of the overseas transfer charge
+
+Section 244JA Finance Act 2004
+
+The amount of the overseas transfer charge under section 244AC is 25% of the ‘transferred value’. Where this charge arises due to a change of circumstance after a transfer, the ‘transferred value’ is limited to the amount of the sums and assets under the member’s ring-fenced transfer funds (see PTM113230 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113230) for definition) under any QROPS or former QROPS.
+
+PTM102500 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102500) provides more information on how to calculate the amount of the overseas transfer charge.
+
+Telling HMRC about liability to an overseas transfer charge
+
+Regulation 3(2B) and (3A) The Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) Regulations 2006 – SI 2006/208
+
+Scheme managers are required to tell HMRC if their scheme received a recognised transfer or onward transfer that was not subject to an overseas transfer charge and due to a change of circumstances a tax charge is now due.
+
+They must do this within 90 days of being told of the change of residence that results in the overseas transfer charge now being due.
+
+The scheme manager must give HMRC the following information:
+
+- the fact the overseas transfer charge is now due because of change of residence
+
+- the date that the member changed country of residence
+
+- the ‘transferred value’ of the transfer (see PTM102500 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102500))
+
+- the amount of the member's overseas transfer allowance that was available on the making of the transfer
+
+- the amount of the overseas transfer charge now due
+
+- whether and to what extent they have accounted for, or intend to account for, the tax charge, and
+
+- the value of the member’s relevant transfer fund and ring-fenced transfer fund(s) that remain after the tax charge has become due.
+
+Scheme managers can use form APSS 244 available on GOV.UK to notify HMRC.
+
+No report is needed if
+
+- the member payment provisions and tax charges no longer apply to the member (see PTM113210 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113210)) and
+
+- it is more than 10 years from the key date of the ring-fenced transfer fund created under the scheme as a result of the transfer.
+
+If the scheme manager does not make the required reports when due HMRC can remove the scheme’s QROPS status – see PTM112500 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm112500).
+
+Paying an overseas transfer charge
+
+When HMRC receives the report they will give the scheme manager an accounting reference and bank details for the scheme manager to use to pay the overseas transfer charge due.
+
+The due date for payment of the overseas transfer charge is 90 days following the date that HMRC issues the accounting reference details to the scheme manager.
+
+If the scheme manager does not pay the overseas transfer charge by the due date:
+
+- interest will be charged on the amount outstanding from the due date until the date it is paid
+
+- HMRC will issue a notice of assessment to the scheme manager for the charge. The tax due on the assessment must be paid within 30 days of the date that the notice is issued.

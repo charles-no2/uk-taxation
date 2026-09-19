@@ -1,0 +1,38 @@
+Long-term UK residence: Companies
+Identifier: IHTM47025
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47025
+Published: 2025-04-07T08:02:00+01:00
+Updated: 2025-10-13T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:11:10.993501+00:00
+
+At IHTA84/S6C, there is a long-term UK resident test for corporate bodies, such as limited companies.
+
+This will be relevant, for example, in establishing whether settled property in a settlement made by a corporate body is excluded property (IHTM42953 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42953)).
+
+It is not relevant to the main excluded property tests in section 6(1) and 6(1A) which only apply to individuals.
+
+Nor is a close company’s residence status relevant to the charge under IHTA/S94 (IHTM14851 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14851)). Whether the property is excluded depends on the location of the property and the long-term UK residence status of the participators.
+
+A body corporate will be long-term UK resident at all times in a tax year if it was:
+
+-
+
+Incorporated in the UK; or
+
+-
+
+Within the charge to Corporation Tax by virtue of CTA09/S5(1) at any time during the previous tax year as a UK resident company (see INTM120030 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm120030)).
+
+For the first year of the body’s existence, only the incorporation status is relevant as there will be no previous tax year to consider.
+
+Where a company ceases to exist, it is treated as a deceased settlor for the purposes of the excluded property rules (IHTM04273 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04273)) so if the company ceases to exist on or after 6 April 2025 you will be looking to test the company’s long-term UK residence status at that time: foreign property settled by the company will only be excluded property if the company was not long-term UK resident at the time it ceased to exist.
+
+Where a company settlor ceased to exist before 6 April 2025, foreign property settled by the company will only be excluded property if the company was not domiciled in the UK at the time it became comprised in the settlement.
+
+Identifying the entity
+
+Where the company is a multi-national with a presence in the UK, you will need to establish which entity is the settlor and its status. In many cases this will be clear. For example, the entity that is providing the funds may be a subsidiary that is incorporated in the UK and therefore within the scope of the long-term UK residence rule at IHTA/s6C(a).
+
+The long-term UK residence rule will also apply to an entity that is incorporated overseas but is centrally managed and controlled in the UK (IHTA/s6C(b)).
+
+However, the rule does not apply in cases where an overseas company may be within the scope of Corporation Tax by virtue of operating through a UK permanent establishment. In such cases, and even if there is a requirement to register information with Companies House, the entity is still the overseas company.

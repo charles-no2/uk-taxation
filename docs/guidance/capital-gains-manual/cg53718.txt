@@ -1,0 +1,32 @@
+Qualifying corporate bonds: shareholder receives shares and QCBs: computation
+Identifier: CG53718
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53718
+Published: 2016-03-12T11:33:31+00:00
+Updated: 2016-01-26T09:09:40+00:00
+Retrieved (UTC): 2026-09-18T14:43:06.171642+00:00
+
+A share reconstruction may involve the issue of both shares and qualifying corporate bonds (QCBs) in exchange for shares in the original company. The effect of TCGA 1992 section 116 is that the provisions of section 127-131 are only turned off for that element of the exchange that relates to the issue of QCBs, eg. section 116(4) defines the new asset only in terms of QCBs and section 116(5) disapplies sections 127-131 by reference to the new asset.
+
+Example
+
+Rebecca holds 100 shares in company X Ltd, cost £100, and receives 2 shares and loan stock with a nominal value of £20 in company Y for each share held in company X. The loan stock is a QCB and it is assumed that section 135 will apply, see CG52521+.
+
+There are two elements to this exchange. The exchange of shares for shares is unaffected by section 116 and so section 127 will continue to have effect for that element of the exchange. The second element is the exchange of shares for QCBs. Section 127 is disapplied for that element, section 116(5), and under section 116(10) a computation has to be prepared to compute the gain or loss on a notional disposal of the shares corresponding to the QCBs Rebecca receives, see CG53711-13. This is achieved by apportioning the base cost of the shares held in company X between the new shares and the QCBs in company Y according to their respective market values at the time of the exchange. Section 116 does not provide specific rules for this therefore the apportionment will be on a just and reasonable basis under section 52(4).
+
+At the date of the exchange the market value of the shares in company Y is £15 per share. The market value of each share in company X immediately before the relevant transaction is £50.
+
+The formula for computing the base cost of the X shares attributable to the Y shares is
+
+£100 (Cost of shares in X Ltd) x £3,000 (MV of shares received = £60
+
+£3,000 (MV of shares received) + £2,000 (nominal value of loan stock)
+
+Note: Rebecca received 200 shares in Y Ltd and the market value of each at the time of the exchange is £15 hence the total of £3,000.
+
+Similarly Rebecca received nominal loan stock of £20 in Y Ltd for each share in X Ltd. Rebecca held 100 shares in X Ltd hence the total value of the nominal loan stock is £2,000.
+
+It follows that the cost attributable to the shares in company X exchanged for QCBs in company Y is £40 (£100 - £60).
+
+The market value of the shares held by Rebecca in company X immediately before the relevant transaction was £5,000 (£50 x 100). The nominal value of the loan stock received is £2,000 (£20 x 100) which represents 40% of the total value of the shares in company X immediately before the relevant transaction.
+
+The deferred gain for the purposes of section 116(10) is £1,960 (£2,000 - £40).

@@ -1,0 +1,50 @@
+Non-resident companies: non-resident group
+Identifier: CG57400
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57400
+Published: 2016-03-12T11:43:47+00:00
+Updated: 2023-08-21T10:22:48+01:00
+Retrieved (UTC): 2026-09-18T14:43:55.377291+00:00
+
+TCGA92/S14*
+
+A TCGA92/S13* charge could arise on the disposal of an asset by a non-resident company to another company under the control of the same shareholders or participators. TCGA92/S14* prevents this if the transfer is between members of a non-resident group of companies. It does this by applying some of the general Capital Gains Tax rules for groups to non-resident groups for the purposes of calculating the Section 13 charge.
+
+For the purposes of TCGA92/S13* TCGA92/S14 (4)(b) amends the definition of group in TCGA92/S170 by omitting the references to companies resident in the UK and particular types of company. It then defines a non-resident group as being either
+
+- two or more members of the same group, using the amended definition, both of which are non-resident. A UK resident company cannot be a member of the non-resident group. A non-resident company cannot be a member of the UK group. But a UK resident company can group two non-resident companies, see Example 1
+
+or
+
+- the whole of the group if none of the members are resident in the UK.
+
+FA2000/SCH29/PARA1 amended TCGA92/S170 to remove the requirement that members of a group had to be resident on the UK. For the purposes of TCGA92/S14 the definition of a non-resident group remains unchanged by this amendment.
+
+Example 1 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57400#example-1)
+Example 2 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57400#example-2)
+Example 3 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57400#example-3)
+
+Example 1
+
+Example 1 (http://www.hmrc.gov.uk/gds/cg/attachments/CG57400_Example_1.jpg)
+
+A Ltd is resident in the UK and B Ltd and C Ltd are 100% subsidiaries overseas.
+
+B Ltd and C Ltd form a non-resident group.
+
+A Ltd is not a member of the non resident group but it does have the effect of`grouping’ B Ltd and C Ltd.
+
+Example 2
+
+Example 2 (http://www.hmrc.gov.uk/gds/cg/attachments/Example_2.jpg)
+
+Mr A is resident in the UK and owns 100% of both B Ltd and C Ltd which are resident overseas.
+
+B Ltd and C Ltd do not form a non resident group because they are not members of any group.
+
+Example 3
+
+Mr A is resident in the UK and owns 100% of B Ltd which in turn owns 100% of C Ltd which are both resident overseas.
+
+B Ltd and C Ltd form a non resident group because all of the companies in the group are not resident
+
+* TCGA92/S13 was re-written for disposals from 6th of April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

@@ -1,0 +1,114 @@
+PMA: Long funding lease: lessees
+Identifier: CA23810
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23810
+Published: 2016-04-16T08:49:56+01:00
+Updated: 2016-04-06T16:53:43+01:00
+Retrieved (UTC): 2026-09-18T16:20:51.568386+00:00
+
+CAA01/S70A - 70C, 70Q
+
+A person (a lessee) carrying on a qualifying activity may incur expenditure under a lease on an asset for the purposes of that qualifying activity. For example, the lessee may pay rent for an asset to use in its trade.
+
+If the lessee treats the lease as a long funding lease CA23830 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23830) the lessee is treated as:
+
+- incurring capital expenditure on the provision of the asset at the commencement of the term of the long funding lease, and
+
+- owning the asset as a result of incurring that expenditure.
+
+This means that the lessee satisfies the conditions for claiming PMA CA20006 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca20006) based on the capital expenditure they are treated as incurring. The capital expenditure that the lessee is treated as incurring depends upon whether the lessee treats the long funding lease as a finance lease or an operating lease and broadly it follows the accounting treatment.
+
+This treatment does not apply if the lease is a hire or lease purchase contract. In that case the lessee is entitled to PMA based on the capital expenditure to be incurred under the contract CA23300 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23300).
+
+It does not matter if the lessee’s expenditure under the long funding lease is capital or revenue. In both cases the lessee is deemed to have incurred capital expenditure on the provision of the asset.
+
+Leases that cannot be treated by the lessee as long funding leases
+
+Sometimes the lessee cannot treat the lease as a long funding lease. In that case the lessee cannot claim PMA.
+
+The lessee cannot treat a lease as a long funding lease if the lessor or any superior lessor CA23820 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23820):
+
+- is entitled to claim PMA at the inception of the lease, or
+
+- has at any earlier time been entitled to capital allowances and has not brought a disposal value to account under CAA01/S61 (1)(ee) CA23250 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23250) when the long funding lease is granted.
+
+If the lessor is not chargeable to tax assume that the lessor is chargeable to tax when you check conditions (a) and (b) above. These conditions mean that the lessee can only claim PMA if:
+
+- no superior lessor is entitled to PMA when the lease begins, and
+
+- if a superior lessor has been entitled to PMA it brought a disposal value to account when the long funding lease was granted.
+
+If the lessee cannot show that no superior lessor is entitled to PMA it will not be entitled to capital allowances but it will get a deduction for rental payments in the normal way.
+
+Condition (b) means that the lessee cannot treat a lease as a long funding lease if the lessor has claimed a capital allowance other than a PMA on the asset. For example, the lessor may have claimed 100% enterprise zone allowances if the asset is in a building in an enterprise zone. If so, the lessee cannot treat the lease as a long funding lease.
+
+There is an exception to this. A lessee can claim capital allowances even if the lessor has claimed them provided that the lease is not a funding lease for the lessor only because CA23830 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23830):
+
+- the plant had been leased for at least 10 years before 1 April 2006,
+
+- the lessor under the plant and machinery lease was also the lessor of the plant on the last day before 1 April 2006 when the plant was leased, and
+
+- the inception of the lease is before28 June 2006.
+
+The lessee must satisfy you that the lease is not excluded by the above rules before the lessee can treat it as a long funding lease.
+
+Lessee’s capital expenditure
+
+This is the lessee’s capital expenditure.
+
+If the long funding lease is an operating lease the lessee’s capital expenditure is the market value of the asset at the later of:
+
+- the commencement of the term of lease, and
+
+- the date on which the asset is first brought into use by the lessee for the purposes of the qualifying activity.
+
+You calculate the market value ignoring the lease.
+
+Example Z Plc. leases a plane to Dylan Airways which brings it into use immediately. Dylan Airways treats the lease as a long funding operating lease. If it were not for the lease the market value of the plane when it is leased to Dylan Airways would be £5 million. The plane’s market value subject to the lease is £500,000. Dylan Airways’ capital expenditure is £5 million.
+
+If the long funding lease is a finance lease the basic rule is that the lessee’s capital expenditure is the present value of the minimum lease payments CA23850 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23850) at the appropriate date. The appropriate date is the later of:
+
+- the commencement of the term of the lease, and
+
+- the date on which the lessee first brings the asset into use for the purposes of the qualifying activity.
+
+The present value of the minimum lease payments at the appropriate date is the amount that would fall to be treated as the present value of the minimum lease payments in the lessee’s accounts at the appropriate date, assuming the accounts are prepared in accordance with generally accepted accounting practice.
+
+If a long funding lease is accounted for as a loan you should calculate the lessee’s capital expenditure in the same way.
+
+Anti-avoidance
+
+This applies where the long funding lease is a finance lease.
+
+If the main purpose, or one of the main purposes, of entering into:
+
+- the lease, or
+
+- a series of transactions of which the lease is one, or
+
+- any transaction in a series like that,
+
+- is to get PMA on an amount that materially exceeds the market value of the leased asset at the commencement of the lease you should restrict the lessee’s capital expenditure to that market value.
+
+If you have a case where there is a:
+
+- lease,
+
+- transaction, or
+
+- series of transactions,
+
+under which the lessee gets PMA based on an amount higher than the market value of the leased asset at the commencement of the lease you should assume that that was the main purpose, or one of the main purposes, for entering into it. It is a fact that that is one of the results and it is unlikely that it happened by chance. If the taxpayer does not want the legislation to apply it is up to them to show that the lease etc. was entered into for some other reason.
+
+Different treatment by lessor and lessee
+
+The fact that the lessee treats a lease as a long funding lease does not mean that the lessor will have treated it as one and vice versa.
+
+If the lessor has not treated the lease as a long funding lease the lessor will be entitled to capital allowances and the lessee will not be entitled to PMA whether or not it treats the lease as a long funding lease. Conversely, if the lessor treats the lease as a long funding lease but the lessee does not neither the lessor nor the lessee will be entitled to PMA because the lessor will have brought a disposal value to account and the lessee will not satisfy the conditions for claiming PMA.
+
+Example Z Plc. leases a plane to Dylan Airways. Dylan Airways treats the lease as a long funding lease and wants to claim capital allowances. Dylan Airways can only treat the lease as a long funding lease and claim capital allowances if either:
+
+- Z Plc. has never claimed capital allowances on the plane, or
+
+- Z Plc. has claimed capital allowances on the plane and has brought a disposal value to account under CAA01/S61 (1) (ee) when it granted the lease to Dylan Airways.
+
+Treat a long funding lease as a finance lease if it would be treated as a finance lease in accordance with generally accepted accounting practice.

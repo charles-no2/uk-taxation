@@ -1,0 +1,78 @@
+Employment income provided through third parties: amount of Part 7A income: value of relevant step: step within section 554Z19
+Identifier: EIM45715
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45715
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-01-28T10:36:07+00:00
+Retrieved (UTC): 2026-09-18T14:23:26.820037+00:00
+
+Section 554Z20 ITEPA 2003
+
+Value of the security (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45715#IDAR1LQB)
+Value of anniversary step within section 554Z19 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45715#IDAC3LQB)
+Priority rules (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45715#IDAE4LQB)
+
+The value of a relevant step within section 554Z19 (undertakings given by employers etc in relation to retirement benefits etc: provision of security by employers etc) is the lower of C and S, where:
+
+- ‘C’ is the amount to be paid as a contribution under the ‘relevant undertaking’ determined:
+
+- as at the time the step is taken
+
+- on a just and reasonable basis
+
+- on the assumption that, if any condition must be met before a payment is made, it will be met
+
+- ‘S’ is the value of the security.
+
+These rules are modified in order to value an anniversary step within section 554Z19.
+
+For details on section 554Z19, see EIM45155 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45155). For an explanation of ‘relevant undertaking’, see EIM45145 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45145).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45715#Top)
+
+Value of the security
+
+There are 5 steps to calculate the value of the security:
+
+- Calculate the total amount of the sums of money included in the subject of the step - for details of the sums of money included in the subject of the step, see EIM45155 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45155).
+
+- Calculate the total market value, as at the time the step is taken of the assets included in the subject of the step - see EIM45155 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45155) as above for details of assets included.
+
+- Add together the totals you calculated at steps 1 and 2.
+
+- Establish whether any term of the security limits the total amount which may be made available under the security for the performance of the relevant undertaking. If there is no such term, the total you calculated at step 3 is the value of the security. Otherwise, go to step 5.
+
+- Reduce the total you calculated at step 3 on a just and reasonable basis to take account of the term mentioned in step 4. The result is the value of the security.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45715#Top)
+
+Value of anniversary step within section 554Z19
+
+If B continues to provide the security for over a year, there will be at least one deemed ‘anniversary step’ within section 554Z19 - see EIM45155 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45155).
+
+To value the anniversary step under review, look back over the year ending on the anniversary day.
+
+Take the 5 steps set out above. Steps 1 and 2 apply with 2 possible modifications.
+
+Firstly, the total amount of the sums of money which are the subject of the security may vary from time to time.
+
+If it does, then find the time during the year ending on the anniversary day when this total was at its highest. That is the total which is included in the subject of the anniversary step.
+
+Secondly, if the subject of the anniversary step included an asset, then that asset’s market value can be determined as at any time during the year ending on the anniversary day so long as the subject of the security was (or included) that asset at that time. The employer can choose any valuation date within that year. This means that, if the same asset is used as security for several different undertakings with different anniversary days, the asset does not have to be valued as at different dates.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45715#Top)
+
+Priority rules
+
+To arrive at the value of the relevant step (and thus the amount counting as employment income) you may need to apply some other rules which override the rules in section 554Z20 discussed above on this page.
+
+These other rules are listed below. If more than one of them is applicable, apply them in the order:
+
+- section 554Z4 (residence issues), see EIM45720 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45720)
+
+- section 554Z5 (overlap with earlier relevant step), see EIM45725 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45725) onwards
+
+- section 554Z6 (overlap with certain earnings), see EIM45735 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735)
+
+- section 554Z7 (exercise price of share options), see EIM45740 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45740) onwards
+
+- section 554Z8 (cases where consideration given for relevant step), see EIM45755 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45755) onwards.

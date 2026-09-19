@@ -1,0 +1,40 @@
+Co.purchases own shares: capital treatment: Condition A – residence and period of ownership
+Identifier: CG58640
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58640
+Published: 2018-07-18T08:54:51+01:00
+Updated: 2021-03-31T15:25:58+01:00
+Retrieved (UTC): 2026-09-18T14:44:23.964534+00:00
+
+For Condition A to be met:
+
+CTA10/S1034 Requirement as to residence
+
+The seller, or the nominee if held through a nominee, must be resident in the United Kingdom in the tax year in which the company purchases its own shares.
+
+Where there is a personal representative, the residence of the personal representative is taken as the same as the deceased person’s residence immediately prior to the death of that person.
+
+CTA10/S1035 Requirement as to ownership period
+
+The shares must have been owned by the seller throughout the 5 years ending with the date of purchase.
+
+Where the seller has acquired shares of the same class, they are treated as being disposed of on a first in-first out basis. However where there was any previous disposal of shares of that class by the seller, it is assumed to be on a last in-first out basis.
+
+EXAMPLE
+
+- Mina acquired 1200 ordinary shares in LOA Ltd. She sold some in 2016 and the company is looking to repurchase 800 ordinary shares in 2017.
+
+- The shares were acquired in the following order – 2009 (300 shares), 2010 (400 shares) and 2012 (500 shares).
+
+- In 2016 she sold 350 shares to an unconnected third party – this is a previous disposal by the seller so works on a last in-first out basis – the 350 shares disposed of are allocated against the 500 shares acquired in 2012.
+
+- The repurchase of 800 ordinary shares in 2017 is now identified on a first in-first out basis – 300 shares acquired in 2009, 400 shares acquired in 2010 and 100 shares acquired in 2012 (from remaining balance of 150 shares).
+
+Where an acquisition of shares was from a reorganisation of share capital or conversion of securities or any other treatment mentioned under TCGA92/S126 to S139, the date of acquisition is the original acquisition date of the holding, unless the shares were allotted for payment or for stock dividends.
+
+CTA10/S1036 Determining the period of ownership
+
+At any time during the period mentioned in CTA10/S1035, if shares were transferred to the seller by a person (transferor) who was at the time the seller’s spouse or civil partner and living with the seller, then for the purpose of CTA10/S1035, any period the shares were owned by the transferor is treated as period of ownership by the seller.
+
+This does not apply if at the date of the purchase of own shares by the company, the transferor is alive but no longer the seller’s spouse or civil partner and living with the seller.
+
+If the seller becomes entitled to the shares under a will or intestacy of a previous owner or is the personal representative, the period of ownership of the previous owner is treated as a period of ownership by the seller. Additionally the CTA10/S1035 requirement is reduced to 3 years.

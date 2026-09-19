@@ -1,0 +1,68 @@
+Decentralised Finance: Lending and staking: Chargeable Gains: Examples: Example 9: lender’s loan of an unascertainable quantity of tokens is satisfied
+Identifier: CRYPTO61679
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61679
+Published: 2022-02-02T15:04:54+00:00
+Updated: 2022-02-02T15:37:52+00:00
+Retrieved (UTC): 2026-09-18T16:18:45.106054+00:00
+
+Robert holds 4,000 tokens with a total acquisition cost of £2,000. On 15/04/20XX, Robert enters into an agreement with Samantha to loan Samantha 1,000 tokens with no fixed end date to the loan. Robert can make a demand for the loan to be satisfied or at any time before that Samantha can choose to satisfy the loan. They agree an annual percentage rate of 5% on the quantity of tokens loaned. At the time the loan is made, the tokens have a sterling value of £1.00 each.
+
+Robert’s disposal is for a right to receive a future quantity of tokens. Robert knows that he will receive 1,000 tokens to satisfy the principal of the loan. This means that section 48(1) Taxation of Chargeable Gains Act (TCGA) 1992 will apply to those 1,000 tokens. Section 48(1) TCGA 1992 brings the 1,000 tokens into the Chargeable Gains (CG) computation straight away.
+
+Robert also has a right to receive a 5% return per annum over an unknown period of time. It won’t be possible to establish the quantity of tokens until the loan is satisfied, as that will fix the date for which that rate of return is applied up to. This means that Robert also has acquired a right which is an asset for CG purposes. Robert will need to establish the market value of that right and include that value in the CG computation. Robert establishes the market value of that right to be £100. The value of that right will not be taxed as income, so section 37(1) TCGA 1992 will not apply.
+
+Robert’s CG computation is as follows:
+
+. |  . |  £ |
+
+Consideration |  S48 TCGA 1992 – 1,000 x £1.00; plus market value of right - £100 |  1,100 |
+
+Allowable costs |  S104 - £2,000 x 1,000 / 4,000 |  (500) |
+
+Gain |  . |  600 |
+
+Robert’s section 104 pool will be adjusted as follows:
+
+Date |  Quantity of tokens |  Allowable costs (£) |
+
+Opening balance |  4,000 |  2,000 |
+
+15/04/20XX |  (1,000) |  (500) |
+
+Closing balance |  3,000 |  1,500 |
+
+On 14/04/20X3, Samantha satisfies the loan with a transfer of 1,150 tokens to Robert. At the time the loan is satisfied, each token is worth £0.85.
+
+Robert treats the receipt of 150 of the tokens as miscellaneous income for tax purposes. This means that 150 tokens x £0.85 = £127.50 is subject to tax on income.
+
+The sterling value of the remaining 1,000 tokens will be a capital sum that is derived from Robert’s right to receive a future quantity of tokens. Robert’s CG computation of the disposal of his right is as follows:
+
+. |  . |  £ |
+
+Consideration |  1,000 x £0.85 |  850 |
+
+Allowable costs |  Value of right to receive a future quantity of tokens |  (1,000) |
+
+Loss |  . |  (150) |
+
+Robert’s CG computation of the disposal of his ‘Marren v Ingles right’ is as follows:
+
+. |  . |  £ |
+
+Consideration |  150 x £0.85; less S37 TCGA 1992 – 150 x £0.85 |  0 |
+
+Allowable costs |  Value of ‘Marren v Ingles right’ |  (100) |
+
+Loss |  . |  (100) |
+
+Robert receives 150 tokens which are treated as miscellaneous income, so they are acquired at £0.85 each. Robert also receives 1,000 tokens derived from his right to receive a future quantity of tokens, which are also acquired at £0.85 each. Robert’s section 104 pool will be adjusted as follows:
+
+Date |  Quantity of tokens |  Allowable costs (£) |
+
+Opening balance |  3,000 |  1,500 |
+
+14/04/20X3 |  +150 |  +128 |
+
+. |  +1,000 |  +850 |
+
+Closing balance |  4,150 |  2,478 |

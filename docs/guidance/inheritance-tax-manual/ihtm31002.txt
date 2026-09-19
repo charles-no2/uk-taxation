@@ -1,0 +1,22 @@
+Assessing: calculations: extraction of data for statistical purposes
+Identifier: IHTM31002
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31002
+Published: 2016-04-09T10:01:59+01:00
+Updated: 2016-02-11T17:15:33+00:00
+Retrieved (UTC): 2026-09-18T15:05:39.578252+00:00
+
+Data is extracted from a sample of all Inheritance Tax estates and is used by Government statisticians for a variety of purposes. Cases that are selected for this sample are identified with the word ‘Sample’ on the file cover. All estates identified as Sample cases must be fully datacaptured on COMPASS whether they are taxpaying or not. From 2010 onwards all taxpaying cases are sample cases.
+
+Each chargeable component of the estate must be identified (IHTM31011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31011)) and an entry created. Details of the assets, liabilities, exemptions, and reliefs must be entered on COMPASS (IHTM31136 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31136)). Where there is no tax to pay on the estate, nil calculations must still be raised, (IHTM31181 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31181)) issued (IHTM31210 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31210)) and paid (IHTM31211 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31211)) - although there is no need to print the assessment and file a copy.
+
+Where it is necessary, at a death file, to assess and collect tax from an immediately chargeable lifetime transfer, a linked lifetime reference must be created on COMPASS (IHTM31136 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31136)). You should register a lifetime file using the digits from the death file reference number. If the death estate has been selected as a Sample case, the linked file must also be identified as a ‘Stats’ case on COMPASS.
+
+Where a sample case includes any lifetime transfers but the chargeable value of the transfers remains below the threshold you must still datacapture details of the property given away and the exemptions or reliefs deducted. You must also raise, issue and pay the resulting nil calculations. You only need to create one entry for each tax year in which gifts were made. Use the date of the first transfer as the date of transfer. So, where there are three gifts in three different tax years, you will need to create three entries, one for each gift. If all three gifts were in the same tax year, you will only need to create one entry. The responsibility for datacapturing sub-threshold lifetime gifts is as follows:
+
+- Non-taxpaying cases - the Registry will datacapture details of transfers in sample cases
+
+- Taxpaying estates closed by Risk - the risk assessors will datacapture the transfers in sample cases
+
+- Taxpaying estates closed after acceptance by IAU - these cases are returned to Service and details of any transfers in sample cases will be datacaptured by Service before the cases are closed.
+
+- Taxpaying estates dealt with in Service and Compliance - caseworkers are responsible for the datacapture of transfers in sample cases.

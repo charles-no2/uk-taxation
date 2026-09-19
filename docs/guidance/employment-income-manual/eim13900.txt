@@ -1,0 +1,22 @@
+Termination payments and benefits: example: introduction
+Identifier: EIM13900
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13900
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2018-04-06T08:17:54+01:00
+Retrieved (UTC): 2026-09-18T14:10:38.984951+00:00
+
+Sections 62, 225 and 401 ITEPA 2003
+
+A taxpayer tells you that a redundancy payment of £33,000 has been taxed in full under PAYE. You find that this means that £3,000 was subjected to PAYE after applying the £30,000 threshold under EIM13505 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13505). The payment was paid in full before 6 April 2018.
+
+You make enquiries and find that the elements of the payment were:
+
+- a contractual payment in lieu of notice of £2,500 - this is taxable under section 62 ITEPA 2003 (see EIM12976 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim12976))
+
+- a bonus of £7,500 for the last employment period - this is also taxable under section 62 ITEPA 2003
+
+- a sum of £10,000 for a new undertaking not to compete with the employer after termination - this is taxable under section 225 ITEPA 2003 (see EIM03600 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim03600))
+
+- a payment for redundancy of £13,000 - this is shown to be within the definition of redundancy in EIM13800 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13800) and so is the only part of the package within section 401 ITEPA 2003. It is within the £30,000 threshold (see EIM13505 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13505))
+
+The total employment income that counts as general earnings is £20,000 and the employer should have operated PAYE accordingly.

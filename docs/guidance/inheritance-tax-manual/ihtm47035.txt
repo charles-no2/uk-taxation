@@ -1,0 +1,32 @@
+Long-term UK residence: Spousal long-term UK residence elections – Process for dealing with an election
+Identifier: IHTM47035
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47035
+Published: 2025-04-07T08:02:09+01:00
+Updated: 2025-04-07T08:02:09+01:00
+Retrieved (UTC): 2026-09-18T15:11:13.262096+00:00
+
+The rules for spouse elections prior to 6 April 2025 can be found at IHTM13040 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13040) – IHTM13049 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13049).
+
+Lifetime election
+
+When Risk receive a lifetime election (IHTM47032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47032)) from a person who is not long-term UK resident (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)), they will ask Service to set up a record on ALF for the person making the election, using the XA case type and the prefix XDOM. The record should contain:
+
+-
+
+the name of the person making the election, and
+
+-
+
+their date of birth.
+
+The name of their spouse or civil partner who is a long-term UK resident should be added as an alternative name on the record. Service will send SL15 to the person who sent the election, acknowledging receipt and telling them the reference number.
+
+Election on death of first spouse or civil partner
+
+Where you receive a death election (IHTM47032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47032)) from a person who is not long-term UK resident following the death of their long-term UK resident spouse or civil partner, you should ask Service to set up a record, send SL15 and keep the election as above. If a record already exists for the spouse or civil partner who has died, Service should make a copy of the election, and refer the case to the caseworker who is dealing with the deceased or civil partner and include the XDOM reference.
+
+Election on death of second spouse or civil partner
+
+Where a death election is received from the personal representatives of a person who is not long-term UK resident and a record exists for the person to whom the election applies, it should be uploaded to the case record. If a record does not exist, one should be created.
+
+As an election will only be made by the personal representatives where the long-term UK resident spouse or civil partner has already died; the two records should be cross referenced for risk assessment.

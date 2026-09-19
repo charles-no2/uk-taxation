@@ -1,0 +1,34 @@
+Employment income: negative taxable earnings
+Identifier: EIM00820
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim00820
+Published: 2016-12-22T09:28:35+00:00
+Updated: 2018-12-14T01:58:31+00:00
+Retrieved (UTC): 2026-09-18T14:18:10.520667+00:00
+
+Net taxable earnings
+
+Section 11(1) states that the “net taxable earnings” is given by the formula:
+
+TE - DE
+
+For the purposes of that formula:
+
+‘TE’ means the total amount of any taxable earnings from the employment in the tax year
+
+‘DE’ means the total amount of any deductions allowed from those earnings under the provisions listed at section 327(3) to (5).
+
+In HMRC v Julian Martin, Judge Warren said:
+
+“It is not difficult to see conceptually how TE-DE might be negative. Where that is the case, ‘net taxable earnings’ are to be taken to be nil. What is not so easy to see is how TE by itself might be negative. There is no definition in ITEPA or elsewhere of what it is for TE to be negative.”
+
+Negative taxable earnings
+
+The phrase “negative taxable earnings” does not appear in the legislation. Judge Warren construed it to refer to “an item (typically a payment by an employee to his employer) which is brought into account in computing the total amount of earnings within the definition of TE and which reduces the amount of TE from what it would otherwise have been.”
+
+The meaning of “earnings” is explained by section 62 (see EIM00520 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim00520)). The ordinary concept is of something moving from employer (or sometimes a third party) to employee. It is difficult to conceive of how there could be a negative amount arising under the specific descriptions stated in section 62. However, section 11(3) envisages the possibility of TE being negative. Judge Warren reconciled this by saying:
+
+“Just as positive taxable earnings represent positive general earnings of the employee for a relevant tax year, so too negative taxable earnings must, in my view, envisage payments which are made (rather than received) by the employee for the relevant tax year. I will refer to such payments as negative general earnings.”
+
+However, he qualified that with the comment:
+
+“There is no explanation in the legislation of what it means for TE to be negative or of what items of expenditure by an employee could be brought into account in making a determination of TE. In my terminology, there is no explanation of the concept of what could amount to negative general earnings or negative taxable earnings.”

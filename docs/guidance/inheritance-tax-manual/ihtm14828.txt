@@ -1,0 +1,34 @@
+Lifetime transfers: associated operations: restrictions on which operations can be taken into account
+Identifier: IHTM14828
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14828
+Published: 2016-04-09T09:22:04+01:00
+Updated: 2016-02-11T17:03:40+00:00
+Retrieved (UTC): 2026-09-18T14:58:22.662625+00:00
+
+Several operations (IHTM14826 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14826)) may be associated under the definition in IHTA84/S268. However, as the decision of the House of Lords in Macpherson v IRC [1989] AC 159 (IHTM14829 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14829)) made clear, it may not be possible to take all of those operations into account.
+
+The decision in Macpherson established that only operations which together are relevant to the tax charge being considered are to be taken into account as associated operations.
+
+As a result, when applying the associated operations rules you may only take account of operations
+
+- which are ‘associated’ within the statutory definition (IHTM14822 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14822)), and
+
+- which are relevant for the purposes of the tax charge that you are considering.
+
+Whether any given associated operation is also a relevant operation will depend on the statutory context in which it is being considered. However an operation will usually be a relevant operation if
+
+- it forms part of and
+
+- contributes to
+
+a scheme or plan which gives rise to the tax charge under consideration for IHT purposes.
+
+Relevant operations
+
+In the case of a transfer of value under IHTA84/S3 (1), every associated operation which contributes to the loss to the transferor’s estate (IHTM04054 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04054)) is a relevant operation. Any other operation, although it may be ‘associated’, is not relevant for the purpose of that provision.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14828#Top)
+
+Example
+
+So if Angus grants a lease to Brodie and then later gives him the freehold reversion, after which Brodie pays to have an extension built, all three operations are associated. They all affect the same property. But the only the first two operations are relevant to the transfer of value under IHTA84/S3(1), since the building of the extension by Brodie does not give rise to any further loss to Angus’s estate.

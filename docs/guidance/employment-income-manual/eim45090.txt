@@ -1,0 +1,64 @@
+Employment income provided through third parties: relevant steps: ‘relevant person’ in sections 554C and 554D
+Identifier: EIM45090
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45090
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2021-01-20T11:04:04+00:00
+Retrieved (UTC): 2026-09-18T14:15:20.440586+00:00
+
+Section 554C(2) and (3) and 554D(5) and (6)
+
+Any person on this list is a ‘relevant person’ for the purposes of sections 554C and 554D:
+
+- A
+
+- a person ‘linked’ with A (see EIM45860 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45860))
+
+- a person chosen by A
+
+- a person chosen by a person linked with A
+
+- a person within a class of persons chosen by A
+
+- a person within a class of persons chosen by a person linked with A
+
+Any other person not listed above is a ‘relevant person’ if:
+
+- the relevant third person (P) is taking a step on A’s behalf
+
+- P is otherwise taking a step at A’s direction or request
+
+- P is taking a step on behalf of a person linked with A
+
+- P is otherwise taking a step at the direction or request of a person linked with A
+
+Note that ‘relevant person’ in sections 554C and 554D is a different concept from:
+
+- ‘relevant third person’ in section 554A (see EIM45035 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45035))
+
+- ‘relevant person’ in the remittance basis legislation - see section 809M of ITA 2007 and RDRM33030 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm33030)
+
+The definition of ‘relevant person’ for the purposes of sections 554C and 554D is very wide.
+
+But it does not follow that virtually any transaction with a link to A’s employment could come within the Part 7A rules.
+
+It’s not enough for there to be a relevant step within (for example) section 554C.
+
+The relevant step must be taken by a relevant third person, and the arrangement must come through the section 554A gateway. See EIM45025 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45025) onwards.
+
+Example: company fuel card
+
+Employer B provides employee A with a fuel card, so that A is provided with fuel but B meets the cost by settling the bill with the commercial fuel card provider. When A uses the card to obtain fuel at a filling station, the fuel card provider will subsequently make a payment to the owner of the filling station.
+
+It could be argued that the fuel card provider is a relevant third person who makes a payment to someone chosen by A (namely, the owner of the filling station).
+
+So, looking at matters in isolation, there would appear to be a step within section 554C.
+
+But the payment by the fuel card provider to the filling station operator does not meet the conditions in section 554A.
+
+In particular, this payment does not satisfy condition 5 in EIM45025 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45025).
+
+Here, a commercial credit card company is making a payment in the normal way to a retailer registered to accept that type of card.
+
+It would be very unusual, in the absence of facts which suggest otherwise, to suppose this to be a step taken in pursuance or in connection with an arrangement to provide employee A with rewards or recognition or loans. Part 7A does not apply.
+
+The question of any other tax liability in respect of the provision of the fuel card will be considered under the other provisions of ITEPA 2003. See, for example, EIM25500 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25500) onwards if the fuel card is used to provide fuel for a car that attracts the car benefit charge.

@@ -1,0 +1,144 @@
+Temporary repatriation facility: Qualifying overseas capital: Unattributed transfer of assets abroad income treated as qualifying overseas capital
+Identifier: RDRM72550
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72550
+Published: 2025-04-07T08:36:51+01:00
+Updated: 2025-04-07T08:36:51+01:00
+Retrieved (UTC): 2026-09-18T16:19:13.085077+00:00
+
+The transfer of assets abroad legislation
+
+The transfer of assets abroad legislation (ToAA) is a wide-ranging anti-avoidance provision aimed at preventing individuals who are resident in the UK from avoiding a liability to income tax by means of a transfer of assets which results in income becoming payable to a person abroad, whilst the individual who made the transfer has either the power to enjoy the income arising or is entitled to receive a capital sum connected with the transfer. In such circumstances the transferor will be taxable on the income arising to the person abroad in a tax year. This is known as the income charge.
+
+The legislation also applies where an individual who is resident in the UK receives a benefit provided out of assets available as a result of a relevant transfer and there is income arising to the person abroad available to match against the benefit received. This is known as the benefits charge.
+
+Detailed guidance on the application of the ToAA provisions can be found in the International Manual at INTM600000 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm600000) onwards.
+
+For each of the years up to and including 2024-25 if an individual was a remittance basis user and is subject to an income charge or benefits charge on foreign income under the ToAA provisions, that income would only be subject to tax in the UK to the extent that it was remitted to the UK in the year of receipt or any subsequent year. Guidance on how the remittance basis applied to such income can be found at INTM601900 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm601900).
+
+From 6 April 2017 special rules were introduced in relation to non-resident trusts that were settled by individuals when they were non-UK domiciled. For such trusts and their underlying entities sections 720 and 727 ITA 2007 were switched off for non-domicile and certain deemed domiciled individuals in respect of foreign income that arose within the structure. Instead of being taxed on the income in the structure as it arose, the transferor was instead assessable on any benefits that they received from the structure to the extent that the benefit was matched with protected foreign source income or transitionally protected income. Further details of the taxation of such individuals can be found at INTM603180 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm603180) onwards. Where such benefits arose to a non-UK domiciled remittance basis user the benefit would only be assessable if remitted to the UK.
+
+Unattributed foreign income held within overseas structures
+
+Foreign income that has been attributed to former remittance basis users can meet the definition of qualifying overseas capital - see RDRM72200 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm72200) and the examples at RDRM74800 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74800). However, many offshore structures will hold foreign income that has not been attributed to an individual because for example the transferor in relation to a structure did not have the power to enjoy the income of the person abroad or the transferor is deceased. The scope of the TRF includes individuals who are former remittance basis users and who receive benefits during the TRF period from an overseas structure that are matched with pre-6 April 2025 unattributed foreign income.
+
+It should be noted that the TRF does not apply to income distributions made from an overseas structure during the TRF period, as such income is not assessable under the ToAA provisions. It only applies to capital distributions or benefits that are matched with the foreign income of the structure under section 731 (the benefits charge). For further guidance on the benefits charge see INTM601400 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm601400).
+
+The specific legislation dealing with the application of the TRF to unattributed foreign income held within an overseas structure can be found at paragraph 6 Schedule 10 Finance Act 2025 with the paragraph 6(1)(c) dealing specifically with its application to the ToAA benefits charge. This states that where:
+
+- an individual is treated as having an amount of income for any of the tax years 2025-26, 2026-27 or 2027-28 as a result of section 732 ITA 2007 (individuals receiving a benefit as a result of relevant transactions)
+
+- under section 735A ITA 2007, if it applied for this purpose, that amount would be matched with relevant income that arose in the tax year 2024-25 or an earlier tax year, and
+
+- that amount would have been treated as relevant foreign income of the individual if it had been treated as accruing in the tax year 2024-25 and the individual had been subject to the remittance basis for that tax year
+
+The effects of paragraph 6(1)(c) in relation to a benefit provided during the TRF period to an individual who qualifies to use the TRF are:
+
+- where an individual is the settlor of a trust, and the benefit is matched with protected foreign source income arising in the trust during the years 2017-18 to 2024-25 or with transitionally protected income that arose prior to 2017-18, this income is treated as qualifying overseas capital and can be designated in the tax year in which the income is treated as arising to the individual
+
+- where an individual who is not the transferor receives a benefit which is matched with the relevant foreign income of the structure which arose before 6 April 2025, this is treated as qualifying overseas capital and can be designated in the tax year in which the income is treated as arising to the individual
+
+Where an amount of income is treated as arising to an individual under section 732 no liability to income tax arises in respect of an amount that has been designated as qualifying overseas capital.
+
+If the deemed income under section 732 is qualifying overseas capital because it is matched with an amount that would have been relevant foreign income arising in 2024-25 or an earlier year, then in the application of section 733(1) to the individual for subsequent tax years, the amount of the deemed income at step 2 and at step 5(a) is deducted for the individual to whom the income was treated as arising under section 732. In the application of section 733(1) to any other individual for the subsequent tax years, the amount of the deemed income will be deducted at paragraph (b) of step 5. This means that the income designated under the TRF will not be matched with any future benefits received from the structure. For details of the step calculation see INTM601740 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm601740).
+
+Example 1
+
+Natalie is UK resident and a former remittance basis user. She is the beneficiary of a non-resident trust that was established for her benefit by a non-UK resident relative. The trust has invested all its property in overseas investments and for the periods up to 5 April 2025 the trust's total relevant income is £1.5 million.
+
+In 2025-26 Natalie wants the trustees to make a distribution to her so that she can utilise the TRF and use some of the accumulated assets within the trust to purchase certain assets in the UK. The trustees of the trust agree to make two capital distributions to Natalie as follows:
+
+2025-26 £450,000
+
+2027-28 £200,000
+
+These capital distributions will be matched with the relevant foreign income that arose within the trust prior to 6 April 2025, Natalie is able to designate the income treated as arising to her under section 732 and it will be treated as qualifying overseas capital. As a result, Natalie can designate the amounts in each of her tax returns for 2025-26 and 2027-28 and will have to pay TRF charges in the following amounts each year:
+
+2025-26 qualifying overseas capital - £450,000 x 12% = £54,000
+
+2027-28 qualifying overseas capital - £200,000 x 15% = £30,000
+
+Natalie must make designations in each tax year because an amount can only be designated in a year in which the income was treated as arising to her. Having made the designations and paid the TRF charge Natalie can bring the amounts to the UK without having to pay any further tax when they are remitted.
+
+Example 2
+
+Simon is UK resident and a former remittance basis user. He came to live in the UK in 2021-22. He is the beneficiary of a non-resident trust that was established by his uncle for his benefit.
+
+The trust has not realised any gains but has accumulated relevant income as set out in the table below.
+
+Year
+
+|
+
+UK source income
+
+|
+
+Foreign income
+
+|
+
+2021-22
+
+|
+
+£4,000
+
+|
+
+£25,000
+
+|
+
+2022-23
+
+|
+
+£2,000
+
+|
+
+£30,000
+
+|
+
+2023-24
+
+|
+
+£3,000
+
+|
+
+£35,000
+
+|
+
+2024-25
+
+|
+
+£3,000
+
+|
+
+£35,000
+
+|
+
+In 2025-26 the trustees make a capital distribution of £100,000 to Simon. Under the matching provisions in section 735A the capital distribution will be matched with the following income:
+
+2021-22 UK source income £4,000 foreign source income £25,000
+
+2022-23 UK source income £2,000 foreign source income £30,000
+
+2023-24 UK source income £3,000 foreign source income £35,000
+
+2024-25 UK source income £1,000
+
+Following the matching of the capital distribution under section 735A, £90,000 has been matched to relevant foreign income, and £10,000 to UK source income. Simon could elect to designate the amount that is matched to relevant foreign income under the TRF because this amount would be treated as qualifying overseas capital. The remainder of the capital distribution of £10,000 cannot be designated as it would not have been treated as relevant foreign income and will be subject to Income Tax at the usual rates, and therefore does not meet the criteria to be treated as qualifying overseas capital.
+
+Example 3
+
+Sandra is resident and a former remittance basis user. In March 2017 in the expectation that she would become deemed domiciled in 2017-18 and would from this date no longer have access to the remittance basis, Sandra settled £1 million into a Jersey trust, the S Trust. The S Trust is a discretionary trust, and Sandra is a named beneficiary of the trust. The trustees invested the £1 million into overseas investments that returned £75,000 a year. As the trust income is foreign source income and Sandra was non-UK domiciled when she settled the trust, the income of the trust will be protected foreign source income and so Sandra was not assessable on the trust income under section 720. As of 5 April 2025, Sandra had received no distributions from the trust and the accumulated protected foreign source income of the S Trust was £600,000.
+
+In 2025-26 the trustees make a capital distribution to Sandra of £500,000. This distribution will be matched with the pre-6 April 2025 protected foreign source income of the trust and Sandra will be assessable under section 731 on the benefit she received of £500,000. As the benefit is matched with pre-6 April 2025 income, the amount will be treated as qualifying overseas capital and Sandra can designate the £500,000 on her 2025-26 tax return, on which she will pay the TRF charge.

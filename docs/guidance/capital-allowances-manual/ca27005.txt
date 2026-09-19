@@ -1,0 +1,120 @@
+PMA: Assets used partly for qualifying activity: Allowances and charges
+Identifier: CA27005
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca27005
+Published: 2016-04-16T08:52:09+01:00
+Updated: 2024-10-23T07:51:12+01:00
+Retrieved (UTC): 2026-09-18T16:21:02.181344+00:00
+
+A person may buy an asset partly to use in a qualifying activity and partly for other purposes. An example is a businessman who buys a computer that he uses to keep his business records and his private financial records. If the person claims AIA or FYA (if one is available for the period) they must reduce the AIA or FYA on a just and reasonable basis taking account of the extent to which the asset is likely to be used for purposes other than those of the qualifying activity. But they must deduct the full AIA or FYA (before the reduction) when they calculate the qualifying expenditure they can add to a pool for WDA.
+
+Example
+
+In 2017 Bruce buys a minibus for £50,000 to use in his business. He does not buy anything else in the chargeable period. This minibus is not a car for Capital Allowance purposes. The maximum amount of AIA threshold at the time was £200,000. Bruce also plans to use the minibus privately and estimates that the private use will be 20%. His AIA entitlement is therefore reduced to £40,000 (= 80% of £50,000). The qualifying expenditure carried to the pool is nil (= £50,000 - £50,000).
+
+Where an asset is acquired partly for purposes other than those of the qualifying activity, or starts to be used in that way before any expenditure is pooled, put the qualifying expenditure into a single asset pool. Similarly, if a disposal value is brought to account because an asset has begun to be used partly for purposes other than those of the qualifying activity CA23240 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240) put an amount equal to the disposal value into a single asset pool.
+
+Calculate the WDA in the normal way and then reduce it on a just and reasonable basis taking account of the extent of use not for the qualifying activity. It is this reduced WDA that is made to the taxpayer but you deduct the full WDA in calculating the qualifying expenditure to carry forward.
+
+If there is a balancing event calculate a balancing adjustment (a balancing allowance or a balancing charge) in the normal way. Then reduce it on a just and reasonable basis to reflect the degree of non-qualifying activity use (and so the restriction of the allowances) over the period of ownership.
+
+Example
+
+In the year ended 31 December 2017 Michael introduces a van which he bought some years earlier for his private use into his business. It has a market value of £40,000. In the year ended 31 December 2017 he uses it 75% for business purposes and 25% privately. In the year ended 31 December 2018 Michael uses the van 50% for business purposes and 50% privately. In the year ended 31 December 2019 Michael sells the van for £32,500. Here are his capital allowance computations: AIA is not available as the example falls within the general exclusions.
+
+Description
+
+|
+
+Amount
+
+|
+
+Restriction
+
+|
+
+Market value of van year ended 31/12/2017 (s 13 CAA 2001)
+
+|
+
+£40,000
+
+|
+
+_
+
+|
+
+WDA @ 18% for year ended 31/12/2017
+
+|
+
+£7,200
+
+|
+
+restricted to £5,400
+
+|
+
+Pool carried forward at 31/12/2017
+
+|
+
+£32,800
+
+|
+
+_
+
+|
+
+WDA @ 18% for year ended 31/12/2018
+
+|
+
+£5,904
+
+|
+
+restricted to £2,952
+
+|
+
+Pool carried forward at 31/12/2018
+
+|
+
+£26,896
+
+|
+
+_
+
+|
+
+Sale in year ended 31/12/2019
+
+|
+
+£32,500
+
+|
+
+_
+
+|
+
+Balancing charge
+
+|
+
+£5,604
+
+|
+
+restricted to £3,502.50
+
+|
+
+The balancing charge of £5,604 is restricted to £3,502.50 (= £5,604 x [75% + 50%] / 2) to reflect the 75% business use in the year ended 31 December 2017 and 50% business use in the year ended 31 December 2018.

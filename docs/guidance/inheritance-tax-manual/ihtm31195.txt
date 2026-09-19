@@ -1,0 +1,44 @@
+Assessing: COMPASS: calculations: adjustments to COMPASS calculations
+Identifier: IHTM31195
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31195
+Published: 2016-04-09T10:03:39+01:00
+Updated: 2016-02-11T17:18:46+00:00
+Retrieved (UTC): 2026-09-18T15:05:58.679788+00:00
+
+In the following scenarios you will need to quality check the COMPASS calculation and may need to make manual adjustments to correct it. In these cases you will need to check the tax and interest. There are also some circumstances where you may need to check the interest calculation (IHTM31550 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31550)).
+
+Scenario 1
+
+If assets that were previously shown as sold move to unsold on an instalment option calculation and decrease in value you may need to check that COMPASS has apportioned the tax previously paid correctly.
+
+You should check the calculation by apportioning the tax yourself. To do this, look at the last calculation of tax. You will need to know:
+
+- the total tax and value of the estate on the last calculation
+
+- the value of the property that was sold at the last calculation.
+
+The calculation is:
+
+Total tax ÷ total estate × value of property
+
+Divide the answer by ten and multiply by the number of instalments already collected. Take this value from the ‘instalments still apply’ column on the last calculation and add it to the ‘instalments no longer apply’ column. These should be your tax previously paid values on the new calculation.
+
+Scenario 2
+
+When you have sold and unsold assets on an instalment option calculation and there are overlapping interest periods a prompt box will appear asking you to allocate your deposit.
+
+You should check the dates and amounts on which interest has been charged and the date of your deposit. The guiding principle is to use the money you have on deposit to reduce the interest charge by the most.
+
+For example, if you have a £30,000 deposit and interest on £1,000 a box 1 column A, £2,000 on Box 1 Column B and £28,000 on box 2 column A, you should apply £28,000 of the deposit against box 2 column A and the remaining £2,000 against box 1 column B.
+
+However, there is no point applying the deposit against box 2 if, say, the deposit was received on 6 May 2012, but interest was charged on box 2 from 1 May 2011 to 30 April 2012. In this case you would simply apply £1,000 of the deposit against box 1 column A and £2,000 against box 1 column B.
+
+Scenario 3
+
+You should consider the effect of choosing ‘yes’ or ‘no’ to the question, ‘The next instalment is due in 30 days do you want to include it here?’
+
+If you select ‘yes’ when there are assets in both Column A and B, COMPASS will charge interest on the sold property up to the due date of the instalment.
+
+If you select ‘no’ when there are assets in columns A and B, COMPASS will not raise the next instalment, and will charge interest to today’s date on the assets in column B.
+
+You should always select ‘no’ when all the assets are in column B, or if the calculation will result in a repayment.

@@ -1,0 +1,73 @@
+Unauthorised payments: deemed or specific situations that are unauthorised payments: increase in rights of a connected person on death
+Identifier: PTM133400
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm133400
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-01-31T20:50:56+00:00
+Retrieved (UTC): 2026-09-18T14:50:00.794364+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+When an increase in rights of a connected person on death is an unauthorised payment (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm133400#IDAVVQQB)
+Calculating the amount by which the second member’s rights are regarded as increased (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm133400#IDAJXQQB)
+
+Note: This guidance refers to deaths occurring on or after 6 April 2011.
+
+The rules relating to unsecured pension funds and alternatively secured pension funds changed from 6 April 2006 up to 6 April 2008, then again up to 6 April 2011. See National Archives version of page RPSM09100173 (http://webarchive.nationalarchives.gov.uk/*/http://hmrc.gov.uk/manuals/rpsmmanual/rpsm09100173.htm) for the guidance relating to deaths on earlier dates.
+
+Also see archived page RPSM09100176 (http://webarchive.nationalarchives.gov.uk/*/http://hmrc.gov.uk/manuals/rpsmmanual/rpsm09100176.htm) for guidance about a member who dies before 6 April 2011 with an alternatively secured pension fund and another member of the scheme becomes entitled to rights in relation to the deceased member’s rights.
+
+When an increase in rights of a connected person on death is an unauthorised payment
+
+Section 172B Finance Act 2004
+
+A registered pension scheme is treated as making an unauthorised payment where a member dies who has either
+
+- uncrystallised rights, or
+
+- rights to a scheme pension, or dependants’ scheme pension, provided by the scheme administrator or purchased from an insurance company selected by the scheme administrator with sums or assets held for the purposes of the pension scheme, or
+
+- rights to a lifetime annuity, or dependants’, nominees’ or successors’ annuity, purchased with sums or assets held for the purpose of the scheme, or
+
+- a drawdown pension fund, or
+
+- a flexi-access drawdown fund
+
+and there is an increase in the rights of another member (the second member) of the scheme attributable to that death, where the deceased member and the second member were connected immediately before the death.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm133400#Top)
+
+Calculating the amount by which the second member’s rights are regarded as increased
+
+The amount by which the second member’s rights are regarded as increased as a result of the death is the difference between the amount that might have been received had the second member’s increased rights been assigned on an arm’s length basis and the amount that might have been received from such an assignment in respect of the second member’s rights immediately before they were increased. In both cases, for the purpose of establishing the amount that might be received by way of an assignment, any power to reduce the second member’s rights is ignored.
+
+The following amounts are deducted from the amount by which the second member’s rights have increased:
+
+- the value of any authorised pension death benefits or authorised lump sum death benefits to which the second member becomes entitled in respect of the deceased member,
+
+- any amount prescribed by HMRC regulations. (There are no such regulations existing or currently planned).
+
+The resulting figure is the amount of the deemed unauthorised payment.
+
+The unauthorised payment is treated as being made to the member whose rights are increased - the second member - or that member’s personal representatives.
+
+However, the scheme is not treated as making an unauthorised payment if
+
+- the increase in the second member’s rights is brought about by an assignment (see PTM133200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm133200)),
+
+- at least 20 members in the scheme receive an increase in rights at the same rate in respect of the deceased member’s rights, or
+
+- the increase in the second member’s rights:
+
+- comprises an increase in the member’s rights under an existing dependants’ scheme pension, dependants’ annuity, nominees’ annuity, successors’ annuity, dependants’ drawdown pension fund, dependant’s flexi-access drawdown fund, nominee’s flexi-access drawdown fund, successor’s flexi-access drawdown fund that the second member already had in respect of the deceased member and
+
+- that increase is attributable to rights of a third member, also in respect the deceased member, who has also died. An example of where this circumstance would apply is where member A dies and authorised pension death benefits are paid to dependants B and C (and D and so on). Dependant B dies and, as a consequence, the existing rights for dependant C (or C and D and so on) are increased but that increase is directly attributable to the death of member A.
+
+References to the rights of a member (the deceased member or the second member) under the registered pension scheme include the right to receive
+
+- a scheme pension or dependants’ scheme pension either provided directly by the scheme administrator or purchased from an insurance company with sums or assets held for the purposes of the pension scheme, or
+
+- a lifetime annuity or a dependants’, nominees’ or successors’ annuity that has been purchased from an insurance company with sums of assets held for the purposes of the pension scheme.
+
+For a definition of ‘connected person’ (as in section 993 of ITA 2007), see PTM027000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm027000)
+
+PTM134100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134100) onwards has details of the tax charges in respect of unauthorised member payments.

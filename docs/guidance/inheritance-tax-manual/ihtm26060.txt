@@ -1,0 +1,18 @@
+Calculating the chargeable estate: calculation where there are chargeable specific gifts and residue wholly exempt
+Identifier: IHTM26060
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26060
+Published: 2016-04-09T09:47:04+01:00
+Updated: 2016-02-11T17:11:54+00:00
+Retrieved (UTC): 2026-09-18T15:02:59.544385+00:00
+
+If the residue is wholly exempt, in practice you can normally calculate the chargeable part of the estate simply by adding together the value of the specific gifts (IHTM26011 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26011)) to chargeable beneficiaries. The gifts which do no bear their own tax should be grossed up (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121)).
+
+If the whole estate is exempt except for chargeable pecuniary legacies which are clearly below the threshold (taking into account any lifetime cumulative total (IHTM31413 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31413)) and property taxable at another entry), proceed as if the whole estate is exempt. In other cases you should limit your investigation of the nature and value of the estate as a whole to what you need to do to value the chargeable specific gifts. In practice you should consider
+
+- the value of any asset in the estate given to a chargeable beneficiary (for example, a bequest of a house)
+
+- interaction (IHTM26101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26101)), and
+
+- abatement (IHTM26090 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26090))
+
+The chargeable estate cannot be more than the value transferred on the death - that is the value of the estate for IHT purposes. If, after grossing up, the total value of all the specific gifts (both chargeable and exempt) exceeds that value, you will have to abate (IHTM26180) the specific gifts.

@@ -1,0 +1,38 @@
+Lifetime transfers: associated operations: Re Macpherson
+Identifier: IHTM14829
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14829
+Published: 2016-04-09T09:22:06+01:00
+Updated: 2020-08-28T08:03:03+01:00
+Retrieved (UTC): 2026-09-18T14:58:23.052895+00:00
+
+The House of Lords case of Macpherson v IRC [1989] AC 159
+
+As explained in IHTM14828 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14828), the House of Lords decision in Macpherson set out restrictions on which operations can be taken into account for the purposes of IHTA84/S268. In Macpherson the House of Lords was considering the application of what is now IHTA84/S10 (IHTM04161 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04161)).
+
+The case concerned two transactions affecting property in a discretionary trust (IHTM42002 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42002)). The first transaction reduced the value of the property in the trust. This was followed, the next day, by an appointment of an interest in possession (IHTM16062 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16062)) in the property.
+
+It was agreed that the appointment of the interest in possession was a capital distribution that gave rise to a tax charge. The trustees argued that the reduction in the value of the settlement was only equal to the value of the property which had been reduced by the first transaction. HMRC argued that both transactions had to be taken together, giving rise to a larger reduction in value.
+
+The House of Lords confirmed that, as a matter of fact, the appointment would not have been made if the first transaction had not taken place.
+
+The trustees argued that as the first transaction, taken in isolation, was not intended to confer a gratuitous benefit, it was covered by what is now IHTA84/S10 (IHTM04161 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04161)). They contended that the first transaction should therefore be ignored when considering the reduction in the value of the settlement.
+
+The House of Lords decided that, although the first transaction did not, by itself, confer a gratuitous benefit, the subsequent appointment did confer a gratuitous benefit. It held that the first transaction was made in a set of operations which were intended to confer a gratuitous benefit and therefore it was not covered by the predecessor of IHTA84/S10.
+
+In explaining the judgment, Lord Jauncey said, at page 175H:
+
+‘If an associated operation is not intended to confer such a benefit it is not relevant for the purpose of the subsection. That is not to say that it must necessarily per se confer a benefit but if must form a part of and contribute to a scheme which does confer such a benefit.’
+
+He also explained that if the appointment had occurred first and the agreement which reduced the value of the property had occurred afterwards:
+
+‘The agreement would undoubtedly have been associated with the appointment within the definition of s44 (now IHTA84/S268) but it would not have been a relevant associated operation since it would have contributed nothing to the conferment of the gratuitous benefit which had already been effected by the appointment.’
+
+In the case of HMRC v Parry and others [2020] UKSC 35 (‘Parry’), the Supreme Court had to consider the application of the principles from Macpherson. In Parry the taxpayers argued that to be a relevant step, not only must that step form part of, and contribute to, a scheme that confers a gratuitous benefit, but that step must itself have been intended to confer a gratuitous benefit. In rejecting this argument, Lady Black, at 75 and 76, said:
+
+- There might initially appear to be support for the appellants’ interpretation of Lord Jauncey’s speech in the following passage:
+
+“The intention to confer gratuitous benefits qualifies both transactions and associated operations. If an associated operation is not intended to confer such a benefit it is not relevant for the purpose of the subsection.”
+
+Lord Jauncey might be taken to be saying, here, that each step in any scheme must be intended to confer benefit, otherwise it is irrelevant.
+
+- However, I do not think that can be what he meant. … That scheme was made up of one element which was not attended by gratuitous intent (the variation) and one element (the appointment) which was. If Lord Jauncey had intended to say that a scheme can only comprise elements which are, themselves, attended by gratuitous intent, there would have been no scope for taking the variation and the appointment together in this way. Accordingly, I would reject the argument that a step can only be relevant if it is, itself, taken with an intention to confer gratuitous benefit.

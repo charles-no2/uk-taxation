@@ -1,0 +1,46 @@
+Succession: Scottish Prior and Legal rights: Example of legal rights calculations - scenario 1
+Identifier: IHTM12244
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12244
+Published: 2016-04-09T09:15:28+01:00
+Updated: 2016-02-11T17:02:19+00:00
+Retrieved (UTC): 2026-09-18T14:57:04.463713+00:00
+
+Molly has renounced (IHTM12229 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12229)) any legal rights (IHTM12221 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12221)) entitlement she might have had in George’s estate in the ante nuptial marriage contract before George died. Mary renounced her legal rights entitlement shortly after George’s death. John has claimed his legal rights but is obliged to collate (IHTM12228 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12228)) the £150,000 lifetime gift he received. No decision can be taken at this stage for Jack and Jill.
+
+The consequences of this are that Molly is treated as dead for the purposes of calculating legal rights. The fund available for the calculation and settlement of legitim (IHTM12221 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm12221)) claims is therefore £1,200,000, being half of the moveable estate. The £150,000 gift to John must be brought into the calculation to establish how much each claimant is due.
+
+This fund is divisible among those entitled to claim legitim, namely Mary, John, Jack and Jill. Mary and John are due a third each while Jack and Jill share the remaining third equally. The calculation is
+
+- Legitim fund £1,200,000
+
+- Add back lifetime gift 150,000
+
+- Total for ascertainment of payments due £1,350,000
+
+John is due a third of £1,350,000 or £450,000, but having received £150,000 already as a lifetime gift is entitled to receive only £300,000 from the estate in settlement of his legitim claim.
+
+Mary is also due a third amounting to £450,000 payable entirely from the legitim fund, but as she has renounced her entitlement, this amount remains part of the estate divisible according to the provisions of the Will.
+
+Jack and Jill are entitled to share equally the remaining third share, amounting to £450,000, and payable out of the legitim fund.
+
+The Inheritance Tax (IHT) position
+
+The IHT position on George’s death in this scenario would be broadly as follows
+
+- Lifetime gift to John Chargeable £150,000
+
+- George’s Estate Legacy (free of tax) to Joan Chargeable £100,000
+
+- Legitim claim John (bearing own tax) Chargeable £300,000
+
+- Legitim entitlement of Jack and Jill (bearing own tax) Chargeable £450,000
+
+The half residue of estate to George’s brother is chargeable. The half residue to Molly covered by spouse or civil partner exemption (IHTM11031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11031)) (IHTM11032 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11032)).
+
+Note
+
+- George’s father’s trust would be aggregable with the estate, the husbands’ fund of the ante nuptial settlement would be covered by spouse or civil partner exemption.
+
+- The calculations above ignore the consequences of interaction (IHTM26101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26101)) and grossing up (IHTM26001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26001)). Both are applied after values payable as a consequence of the legal rights claims and discharges have been determined.
+
+- Jack and Jill’s entitlement follows the basic rule in IHTA84/S147 (2) (IHTM35212 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35212))

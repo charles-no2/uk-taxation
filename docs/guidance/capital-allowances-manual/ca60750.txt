@@ -1,0 +1,28 @@
+RDA: Additional VAT
+Identifier: CA60750
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca60750
+Published: 2016-04-16T09:04:58+01:00
+Updated: 2016-04-06T16:58:09+01:00
+Retrieved (UTC): 2026-09-18T16:20:11.565874+00:00
+
+CAA01/S446 - S449
+
+Under the VAT Capital Goods Scheme (https://www.gov.uk/guidance/vat-capital-goods-scheme-and-capital-assets), a person may be required to make adjustments over a number of years to the amount of input tax that was originally claimed on the creation or acquisition of a capital asset, to reflect changes in the taxable use of the asset over time.
+
+For RDA purposes, if a person has to pay back input tax under the VAT Capital Goods Scheme, this is known as 'an additional VAT liability,' whereas if a person becomes entitled to deduct extra input tax under the scheme, this is known as 'an additional VAT rebate.'
+
+Give RDA on an additional VAT liability incurred on a research and development asset provided that the person who incurred the original expenditure on the asset still owns it and the asset has not been demolished or destroyed.
+
+Treat an additional VAT rebate as a disposal value provided that the person who incurred the original expenditure on the asset still owns it and the asset has not been demolished or destroyed.
+
+If there is no unclaimed RDA treat the additional VAT rebate as a balancing charge. If there is unclaimed RDA and the additional VAT rebate is less than the unclaimed RDA deduct the additional VAT rebate from the unclaimed RDA and treat the result as the unclaimed RDA for future disposal events. If the additional VAT rebate is more than the unclaimed RDA treat the difference as a balancing charge. In a case like that there is no unclaimed RDA for future disposal events.
+
+Example
+
+Graham Ltd. purchases a laboratory for research and development purposes for £1 million plus £200,000 VAT. The VAT Capital Goods Scheme  (https://www.gov.uk/guidance/vat-capital-goods-scheme-and-capital-assets)adjustment period is 10 intervals (around 10 years).
+
+In the first year, Graham Ltd. is entitled to recover 60% of the VAT as input tax (£200,000 x 60% = £120,000). The remaining non-recoverable VAT of £80,000 forms part of the capital expenditure for RDA purposes and therefore Graham Ltd. claims RDAs of £1,080,000.
+
+In the second interval, Graham Ltd.'s partial exemption recovery rate is lower than its recovery rate for the first year and Graham Ltd. calculates that it is required to pay back £2,000 of the original input tax claim in this second interval (details of how the scheme works can be found in VAT Notice 706/2, 'Capital Goods Scheme.' (https://www.gov.uk/guidance/capital-goods-scheme-notice-7062)) For RDA purposes, this liability to pay back £2,000 input tax is known as 'an additional VAT liability' and Graham ltd. is entitled to claim RDA in respect of this additional VAT liability if it still owns the asset and the asset has not been demolished or destroyed.
+
+In the third interval Graham Ltd.'s partial exemption recovery rate is higher than the recovery rate in the first year and Graham Ltd. calculates that it is entitled to a VAT input tax adjustment of £2,000 in its favour in the third interval. For RDA purposes, this additional input tax entitlement is known as 'an additional VAT rebate' and must be accounted for as a disposal event for RDA purposes.

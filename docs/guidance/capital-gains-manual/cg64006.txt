@@ -1,0 +1,44 @@
+Business Asset Disposal Relief: relevant business assets - exclusion of goodwill in certain circumstances from 3 December 2014
+Identifier: CG64006
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64006
+Published: 2016-11-03T11:14:50+00:00
+Updated: 2020-09-23T14:05:36+01:00
+Retrieved (UTC): 2026-09-18T14:34:14.078659+00:00
+
+Entrepreneurs’ Relief was renamed in Finance Act 2020 with effect from 6 April 2020. The new name is generally used in this guidance but should be read as applying to times before that date.
+
+General rule
+
+For disposals on or after 3 December 2014, gains on disposals of the goodwill of a business will no longer be relevant business assets and therefore will no longer qualify for the relief if the disposal is made to a close company.
+
+The rule only applies if immediately after the disposal, the person (either by themselves or with a “relevant connected person”) own 5% of the Ordinary Share Capital or have 5% of the voting rights of the purchasing company (or any company which is in a group in which the company is a member).
+
+This means that the relief will not be available where a sole trader or partnership transfers their business to a company or “incorporates”. Note that TCGA92/S162 can provide relief on incorporation, see CG65700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg65700) onwards.
+
+- “Close company” has the meaning given in CTA2010, see TCGA92/S288(1). A non-UK resident company is treated as a close company for the purposes of this rule if it would meet the definition were it UK resident, TCGA92/S169LA(5).
+
+Retiring partners TCGA92/S169LA(3)
+
+When it was first introduced, TCGA92/S169LA included references to related parties and retiring partners. These were omitted by FA2016 with effect on disposals on or after 3 December 2014. They will therefore only be of relevance where a claim was made before FA2016 was enacted. The effect of the retiring partner clause was as follows:
+
+Where a partnership business is sold to a close company and one of the partners leaves the business at the same time, then that partner will meet the definition of a “related party” and would not qualify for the relief on the disposal of goodwill. Therefore a “retiring partner” will not be prevented from obtaining relief on a disposal of goodwill provided –
+
+- there are no arrangements whereby the retiring partner can become a participator in the company or another company that controls or has a major interest in it, and
+
+- the individual is a related party only because they are treated as an associate of participators in the company, and
+
+- the individual is only treated as an associate of theirs by reason of their membership of the partnership.
+
+Definitions of terms used in this rule can be found in the intangibles fixed asset code in CTA09.
+
+Shares sold to third party TCGA92/S169LA(1A) - (1C)
+
+Where the restriction would apply due to the individual owning shares or having voting rights in the acquiring company, it is treated as not applying if those shares are disposed of to another company within 28 days beginning with the date of the qualifying business disposal. This treatment will not apply however if the other company is close and the individual (either on their own or with the relevant connected person) own 5% or more of the ordinary share capital or holds 5% or more of the voting rights in the company (or a company which is member of the same group).
+
+The 28 day period may be extended by the Commissioners for Her Majesty’s Revenue and Customs (see CG64007 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64007)).
+
+The term “relevant connected person” means a company or trustees connected with the individual.
+
+Anti-abuse TCGA92/S169LA(6)-(7)
+
+Relief is not available if there are arrangements that have a main purpose of securing that this restriction on Business Asset Disposal Relief does not apply. Any decision to challenge eligibility for relief on the grounds of such arrangements should be agreed by the relevant G7 technician and discussed with CG technical.

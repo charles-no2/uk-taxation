@@ -1,0 +1,62 @@
+Long-term UK residence test: Foreign settled property: Special Trusts
+Identifier: IHTM47053
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47053
+Published: 2025-04-07T08:02:23+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:11:17.012844+00:00
+
+Special trusts (IHTM04098 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04098)) are given specific or favourable IHT treatment if and for so long as their terms meet the requirements set out in the legislation.
+
+In particular, the settled property is neither within the scope of relevant property charges nor is the property included in the estate of the beneficiary.
+
+When those requirements are no longer met then a charge to IHT arises, and the rate of tax is proportional to the time that the settled property has been relieved from the usual trust charges.
+
+The tax is charged at a flat rate, i.e. there is no nil rate band to take into account.
+
+When charges do arise then the excluded property (IHTM04251 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04251)) status for non-UK assets will, like other forms of trust, depend on the date of the chargeable event and the settlor’s status:
+
+-
+
+Where the chargeable event occurs on or after 6 April 2025, whether foreign settled property is excluded property depends on whether the settlor is alive at the date of the chargeable event.
+
+-
+
+For chargeable events on or after 6 April 2025, if the settlor was alive at the date of the chargeable event, foreign settled property will be excluded property if the settlor was not a long-term UK resident (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)) at that date.
+
+-
+
+For chargeable events on or after 6 April 2025, if the settlor had died before the date of the chargeable event, then:
+
+-
+
+If the settlor died on or after 6 April 2025, foreign settled property will be excluded property if the settlor was not a long-term UK resident immediately before their death.
+
+-
+
+If the settlor died before 6 April 2025 foreign settled property is excluded property where the settlor was domiciled outside the UK at the time when the property became comprised in the settlement.
+
+In contrast to other types of trust, excluded property for special trusts does not deny the charge itself. Instead, it reduces the rate of tax that is charged (IHTM42802 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42802)) because quarters where the property is excluded property are to be ignored in determining the number of quarters in the relevant period.
+
+Example
+
+Property in a special trust becomes subject to a charge after 85 complete quarter years.
+
+For the first 40 quarters, the settled property did not contain any assets in any assets in the UK and was excluded property because the settlor was not long-term UK resident. The settlor remained not long-term UK resident for quarters 41-56 and then became long-term UK resident.
+
+To calculate the flat rate:
+
+Quarters 1-40 0.25% x 0 0%
+
+(all quarters excluded property)
+
+Quarters 41-800.20% x 24 4.8%
+
+(16 quarters excluded property, 24 not excluded property)
+
+Quarters 81-850.15% x 5 0.75%
+
+(All 5 quarters not excluded property)
+
+Total: 5.55%
+
+So, if the settled property had a value of £1 million at the date of the charge then £55,500 is payable by the trustees.

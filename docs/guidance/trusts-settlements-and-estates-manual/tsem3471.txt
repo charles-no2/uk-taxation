@@ -1,0 +1,16 @@
+Trust income and gains: vulnerable beneficiaries: claims to special tax treatment: computing the amount of relief - income tax
+Identifier: TSEM3471
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3471
+Published: 2016-05-02T16:35:19+01:00
+Updated: 2021-03-30T13:13:48+01:00
+Retrieved (UTC): 2026-09-18T16:19:46.286977+00:00
+
+Relief in respect of a claim that applies to income is given by way of a reduction to the trustees’ liability to income tax. The amount of that reduction is equal to-TQTI - VQTI
+
+where:
+
+- TQTI is the amount of income tax to which the trustees would be liable (before applying the special treatment) for the tax year in respect of the qualifying trusts income arising to them in that year, and
+
+- VQTI is an amount equal to TLV1 - TLV2 (see TSEM3472 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3472)).
+
+Put simply, the amount of the reduction is the amount of income tax the trustees would pay (before applying the special treatment) less the amount of any additional tax (income tax and CGT) that the vulnerable person would pay if the qualifying trusts income arose directly to that vulnerable person. By applying this reduction to the tax payable, the trustees end up paying the same amount of tax as the vulnerable person would have paid had the income arisen directly to them - see the example in TSEM3474 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3474).

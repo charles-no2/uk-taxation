@@ -1,0 +1,418 @@
+Cryptoassets for individuals: Capital Gains Tax: pooling examples: example 7 - disposal of tokens to acquire different tokens (‘crypto-to-crypto' exchange)
+Identifier: CRYPTO22257
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22257
+Published: 2021-03-30T09:03:34+01:00
+Updated: 2021-11-17T08:06:24+00:00
+Retrieved (UTC): 2026-09-18T16:18:41.357438+00:00
+
+Most types of tokens need to be purchased using another token. This means that a transaction may simultaneously affect two section 104 pools. This example illustrates how a transaction can affect two section 104 pools simultaneously.
+
+Elina holds 100,000 token G in a section 104 pool. She spent a total of £300,000 acquiring them, which is her pooled allowable cost.
+
+Elina enters into the following transactions:
+
+- 31 August 20XX – acquisition of 10,000 token H (with a value of £3,200) for 1,000 token G (with a value of £3,200)
+
+- 31 August 20XX – disposal of 5,000 token H (with a value of £1,700) for 600 token G (with a value of £1,920)
+
+- 31 August 20XX – acquisition of 5,000 token H (with a value of £1,650) for 550 token G (with a value of £1,760)
+
+- 4 September 20XX – disposal of 2,000 token H (with a value of £560) for 180 token G (with a value of £558)
+
+- 16 September 20XX – acquisition of 4,000 token H (with a value of £1,080) for 400 token G (with a value of £1,080)
+
+- 27 October 20XX – disposal of 12,000 token H (with a value of £2,400) for 900 token G (with a value of £2,430)
+
+Elina entered into two acquisitions of token H on 31 August 20XX. These acquisitions are treated as a single acquisition of 15,000 token H on that date. That single acquisition is then matched as far as possible with the disposal of 5,000 token H on the same date. The remaining token H that were acquired go into a section 104 pool of token H.
+
+Elina has also entered into two disposals of token G on 31 August 20XX. These two disposals are treated as a single disposal of 1,550 token G on that date. That single disposal is matched as far as possible with the acquisition of 600 token G on the same date. The disposal is then matched to the acquisition of 180 token G on 4 September 20XX. The remaining part of the disposal comes from the section 104 pool of token G.
+
+Elina’s disposal of 2,000 token H on 4 September 20XX is matched with the acquisition of 4,000 token H on 16 September 20XX as the acquisition takes place within 30 days of the disposal.
+
+Elina’s acquisition of 180 token G on 4 September 20XX goes into the section 104 pool for token G.
+
+Elina’s disposal of 400 token G on 16 September 20XX comes from the section 104 pool of token G.
+
+Elina’s disposal of 12,000 token H on 27 October 20XX comes from the section 104 pool for token H.
+
+Elina’s acquisition of 900 token G on 27 October 20XX goes into the section 104 pool for token G.
+
+Elina will need to work out her gains/losses on the three disposals as follows:
+
+31 August 20XX – disposal of token G
+
+Consideration
+
+|
+
+Value of 15,000 token H acquired
+
+|
+
+£4,850
+
+|
+
+Less allowable costs – same day (600 token G)
+
+|
+
+Value of 5,000 token H disposed of on 31/08/20XX
+
+|
+
+(£1,700)
+
+|
+
+Less allowable costs – 30 day (04/09 – 180 token G)
+
+|
+
+Value of 2,000 token H disposed of on 04/09/20XX
+
+|
+
+(£560)
+
+|
+
+Less allowable costs – S104
+
+|
+
+£300,000 x 770 / 100,000 = £2,310
+
+|
+
+(£2,310)
+
+|
+
+Gain
+
+|  |
+
+£280
+
+|
+
+31 August 20XX – disposal of token H
+
+Consideration
+
+|
+
+Value of token G acquired
+
+|
+
+£1,920
+
+|
+
+Less allowable costs – same day (5,000 token H)
+
+|
+
+(£3,200 + £1,760 = £4,960) x 5,000 / 15,000
+
+|
+
+(£1,653)
+
+|
+
+Gain
+
+|  |
+
+£267
+
+|
+
+4 September 20XX – disposal of token H
+
+Consideration
+
+|
+
+Value of token G acquired
+
+|
+
+£558
+
+|
+
+Less allowable costs – 30 day (16/09 – 2,000 token H)
+
+|
+
+£1,080 x 2,000 / 4,000
+
+|
+
+(£540)
+
+|
+
+Gain
+
+|  |
+
+£18
+
+|
+
+16 September 20XX – disposal of token G
+
+Consideration
+
+|
+
+Value of token H acquired
+
+|
+
+£1,080
+
+|
+
+Less allowable costs – S104
+
+|
+
+£297,690 x 400 / 99,230
+
+|
+
+(£1,200)
+
+|
+
+Loss
+
+|  |
+
+(£120)
+
+|
+
+27 October 20XX – disposal of token H
+
+Consideration
+
+|
+
+Value of token G acquired
+
+|
+
+£2,430
+
+|
+
+Less allowable costs – S104
+
+|  |
+
+(£3,847)
+
+|
+
+Loss
+
+|  |
+
+(£1,417)
+
+|
+
+The section 104 pools are as follows:
+
+Section 104 pool for token G
+
+Date
+
+|
+
+Quantity of token G
+
+|
+
+Pooled allowable costs
+
+|
+
+Opening balance
+
+|
+
+100,000
+
+|
+
+£300,000
+
+|
+
+31/08/20XX - Disposal of 770 tokens
+
+|
+
+(770)
+
+|
+
+(£2,310)
+
+|
+
+Balance at 31/08/20XX
+
+|
+
+99,230
+
+|
+
+£297,690
+
+|
+
+16/09/20XX - Disposal of 400 tokens
+
+|
+
+(400)
+
+|
+
+(£1,200)
+
+|
+
+Balance at 16/09/20XX
+
+|
+
+98,830
+
+|
+
+£296,490
+
+|
+
+27/10/20XX - Acquisition of 900 tokens
+
+|
+
++900
+
+|
+
++£2,400
+
+|
+
+Balance at 27/10/20XX
+
+|
+
+99,730
+
+|
+
+£298,890
+
+|
+
+Section 104 pool for token H
+
+Date
+
+|
+
+Quantity of token H
+
+|
+
+Pooled allowable costs
+
+|
+
+31/08/20XX - Acquisition of token H
+
+|
+
++10,000
+
+|
+
++£3,307
+
+|
+
+Balance at 31/08/20XX
+
+|
+
+10,000
+
+|
+
+£3,307
+
+|
+
+16/09/20XX - Acquisition of 2,000 tokens
+
+|
+
++2,000
+
+|
+
++£540
+
+|
+
+Balance at 16/09/20XX
+
+|
+
+12,000
+
+|
+
+£3,847
+
+|
+
+27/10/20XX - Disposal of 12,000 tokens
+
+|
+
+(12,000)
+
+|
+
+(£3,847)
+
+|
+
+Pool ceases
+
+|
+
+0
+
+|
+
+£0
+
+|
+
+This shows that the principles in the previous examples apply in the same way where the transaction involves the disposal of one type of token to acquire a different type of token. The important thing to remember in this situation is that every acquisition will involve a corresponding disposal that needs to be computed.

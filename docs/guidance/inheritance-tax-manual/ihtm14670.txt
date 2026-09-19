@@ -1,0 +1,170 @@
+Lifetime transfers: specific lifetime reliefs: interests in land: leases
+Identifier: IHTM14670
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14670
+Published: 2016-04-09T09:21:10+01:00
+Updated: 2016-02-11T17:03:45+00:00
+Retrieved (UTC): 2026-09-18T14:58:12.394666+00:00
+
+You may need to make an adjustment to the market values (IHTM14626 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14626)) where the transferred property is a leasehold interest, having not more than fifty years to run at the time of the chargeable transfer.
+
+In these circumstances you have to make an adjustment to the market value of the property transferred at the date of death or sale in accordance with IHTA84/S138.
+
+You have to increase the value at the relevant date using the formula:
+
+P(1) - P(2) ÷ P(1) × mv
+
+- mv is the market value at the time of the chargeable transfer.
+
+-
+
+P(1) and P(2) are the percentages derived from the table below (which comes from TCGA92/S8(1)) by reference to
+
+- the length of the lease at the time of the chargeable transfer - P(1), and
+
+- the length of the lease at the date of death or sale - P(2).
+
+Years |  Percentage |
+
+|    |
+
+50 or more |  100.000 |
+
+49 |  99.657 |
+
+48 |  99.289 |
+
+47 |  98.902 |
+
+46 |  98.490 |
+
+45 |  98.059 |
+
+44 |  97.595 |
+
+43 |  97.107 |
+
+42 |  96.593 |
+
+41 |  96.041 |
+
+40 |  95.457 |
+
+39 |  94.842 |
+
+38 |  94.189 |
+
+37 |  93.497 |
+
+36 |  92.761 |
+
+35 |  91.981 |
+
+34 |  91.156 |
+
+33 |  90.280 |
+
+32 |  89.354 |
+
+31 |  88.371 |
+
+30 |  87.330 |
+
+29 |  86.226 |
+
+28 |  85.053 |
+
+27 |  83.816 |
+
+26 |  82.496 |
+
+25 |  81.100 |
+
+24 |  79.622 |
+
+23 |  78.055 |
+
+22 |  76.399 |
+
+21 |  74.635 |
+
+20 |  72.770 |
+
+19 |  70.791 |
+
+18 |  68.697 |
+
+17 |  66.470 |
+
+16 |  64.116 |
+
+15 |  61.617 |
+
+14 |  58.971 |
+
+13 |  56.167 |
+
+12 |  53.191 |
+
+11 |  50.038 |
+
+10 |  46.695 |
+
+9 |  43.154 |
+
+8 |  39.399 |
+
+7 |  35.414 |
+
+6 |  31.195 |
+
+5 |  26.722 |
+
+4 |  21.983 |
+
+3 |  16.959 |
+
+2 |  11.629 |
+
+1 |  5.983 |
+
+|  0.00 |
+
+Example
+
+Abdul transfers a lease having exactly four years to run on 31 December 2006 when it is worth £20,000. He dies on 31 December 2008, when the lease is worth £5,000. Under the table, P(1) is 21.983 and P(2) is 11.629.
+
+For relief purposes, increase the £5,000 by
+
+(21.983 - 11.629) ÷ 21.983 × £20,000 = £9,420
+
+to £14,420.
+
+If the duration of the lease is not an exact number of years, use the percentage for the whole number of years plus one twelfth of the difference between that and the percentage for the next highest number of years for each additional month, counting 14 days or more as one month.
+
+Example
+
+On 5 April 2004 Barbara transfers a lease expiring on 31 March 2019. It was worth £50,000 on that date. She died on 20 June 2008 when the lease was worth £35,000.
+
+At the transfer date the lease had 14 years, 11 months and 25 days to run. This is taken to be 15 years so P(1) is 61.617.
+
+At the date of death the lease had 10 years, 9 months and 11 days to run. This is taken to be 10 years and 9 months, so P(2) is calculated as:
+
+Percentage for 10 years = 46.695, plus
+
+Nine twelfths of the difference between the percentages for 10 and 11 years
+
+(50.038 - 46.695) × (9 ÷ 12) = 2.507
+
+So P(2) = 46.695 + 2.507 = 49.202.
+
+For relief purposes you would increase the £35,000 by
+
+(61.617 - 49.202) ÷ 61.617 × £50,000 = £10,074
+
+to £45,074.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14670#Top)
+
+Note
+
+Also consider whether the lease, being an interest in land, is subject to amendments for any changes (IHTM14661 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14661)) that have occurred during the relevant period

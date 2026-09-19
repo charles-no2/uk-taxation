@@ -1,0 +1,60 @@
+Rebasing following 'small' part-disposal
+Identifier: CG16960
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16960
+Published: 2016-03-12T10:15:59+00:00
+Updated: 2023-04-11T12:18:02+01:00
+Retrieved (UTC): 2026-09-18T14:30:33.884628+00:00
+
+TCGA92/SCH3/PARA4 (2)
+
+There was a defect in the original rebasing legislation in relation to `small’ part-disposals but only where there was insufficient allowable expenditure to allow the normal rule that the consideration is deducted from that expenditure to be applied. In such cases special rules apply under
+
+- TCGA92/S23 (2); CGTA79/S21 (2) (compensation money applied to restore an asset)
+
+- TCGA92/S122 (4); CGTA79/S74 (4) (capital distribution on shares)
+
+- TCGA92/S133 (4); CGTA79/S83 (4) (premiums on conversion of securities)
+
+- TCGA92/S244; CGTA79/S109 (small part disposals of land).
+
+These rules involve the allowable expenditure being reduced to nil with the balance of the consideration charged as a gain, see CG12820+. Where the part-disposal took place after 31 March 1982 and before 6 April 1988, there was no provision enabling expenditure allowed at the time of the part-disposal to be deducted from the 31 March 1982 market value of the asset in the computation of the rebased gain on a disposal of the remainder on or after 6 April 1988. This defect was remedied for disposals on or after 6 April 1989.
+
+Example
+
+A company acquired a parcel of land cost £5,000 in 1970. Its market value on 31 March 1982 was £50,000.
+
+On 31 December 1987, when the land was valued at £150,000, part of the land was sold for £10,000. An election was made under CGTA79/S109 for the consideration to be reduced by the allowable expenditure £5,000.
+
+The remainder of the land was sold for £175,000 in March 2013.
+
+1987 DISPOSAL
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  10,000 |
+
+less |  Cost |  - |  5,000 |
+
+- |  Unindexed loss |  - |  5,000 |
+
+less |  Indexation |  5,000 x 0.300 |  1,500 |
+
+- |  Gain |  - |  3,500 |
+
+2012 DISPOSAL
+
+Rebased gain
+
+- |  - |  - |  £ |
+
+- |  Disposal proceeds |  - |  175,000 |
+
+less |  Cost (value at 31 March 1982) |  50,000 |  - |
+
+- |  Disallowed (TCGA92/SCH3/PARA4 (2)) |  5,000 |  45,000 |
+
+- |  Unindexed gain |  - |  130,000 |
+
+less |  Indexation |  45,000 x 2.131 |  95,895 |
+
+- |  Gain |  - |  34,105 |

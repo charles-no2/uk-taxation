@@ -1,0 +1,42 @@
+Employee benefit trusts: property leaving employee benefit trusts: where the charge is imposed
+Identifier: IHTM42982
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42982
+Published: 2016-04-09T10:27:37+01:00
+Updated: 2016-02-11T17:26:15+00:00
+Retrieved (UTC): 2026-09-18T15:11:40.450655+00:00
+
+IHTA84/S72(2) sets out three cases in which the flat rate charge (IHTM42981 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42981)) is imposed. These are
+
+- under IHTA84/S72(2)(a), where settled property ceases to qualify under IHTA84/S86; as a result of an event other than payment out of the settlement. This will often be the case where trust property is appointed onto sub-trusts (IHTM42970 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42970)),
+
+- under IHTA84/S72(2)(b), where a payment or a non-commercial loan is made out of trust property for the benefit of a person within IHTA84/S72(3) or a person connected with them,
+
+- under IHTA84/S72(2)(c), where the trustees make a disposition (other than by a payment) reducing the value of the employee trust property.
+
+IHTA84/S63 defines payment as including a transfer of assets other than money, so a charge arises when any assets are transferred to a beneficiary in the circumstances above.
+
+A person is within IHTA84/S72(3) if:
+
+- they have directly or indirectly provided any of the settled property (other than by additions not exceeding £1000 in any one year), or
+
+-
+
+in the case of employment by a close company, they are a participator and either
+
+- beneficially entitled to, (or to rights entitling them to acquire), more than five per cent of, or any class of the shares comprised in, its issued share capital, or
+
+- would, on a winding -up of the company, be entitled to more than five per cent of its assets; or
+
+- they have acquired an interest in the settled property for a consideration in money or money’s worth.
+
+It is not uncommon to find that the trustees have made loans to beneficiaries of the trust. Depending on the terms of the loan, this can give rise to charges under IHTA84/S72(2)(b) when the loan is made and under IHTA84/S72(2)(c) if the trustees write off the loan at some later date.
+
+If a loan is made at a commercial rate of interest, no charge will arise under IHTA84/S72(2)(b), whether or not the recipient is a person within IHTA84/S72(3) because there is no reduction in the value of the trust fund as is required by IHTA84/S70(5)(a). On the other hand, if the loan is made at a favourable or nil rate of interest, that will confer benefit on the recipient and if they fall within IHTA84/S72(3) a charge will arise under IHTA84/S72(2)(b). The amount in charge will be the reduction in value of the trust fund resulting from the difference between the value of the funds loaned and the value of the right to repayment under the terms of the loan - although if the loan is made with in the first 3 months of the funds qualifying under IHTA84/S86, the rate of tax is nil.
+
+If the trustees write off a loan, a charge will arise under IHTA84/S72(2)(c) on the fall in value of the trust fund. This applies whether the recipient is a person within IHTA84/S72(3) or not. This is likely to equate to face value of the loan where it was granted at a commercial rate of interest; or the value of the right to repayment where the loan was granted on favourable terms.
+
+So a loan granted at commercial rates is only likely to give rise a charge under IHTA84/S72(2)(c) if it is written off; whereas a loan granted on favourable terms will give rise to charge partially under IHTA84/S72(2)(b) at the time it is made and partially under IHTA84/S72(2)(c) if it is written off. In both cases, the values involved will depend on the terms of the loan.
+
+Generally, a distribution from an employee benefit trust (EBT) to a participator will give rise to a charge under IHTA84/S72(2)(b), unless the payment is income for Income Tax purposes (IHTM42986 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42986)).
+
+On the other hand and bearing in mind the purpose behind EBTs, there is no charge where a payment out of the trust is made to an employee or dependant who is not connected with a person within IHTA84/S72(3).

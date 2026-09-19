@@ -1,0 +1,36 @@
+Cryptoassets for individuals: Capital Gains Tax: pooling examples: example 2 - application of the same day rule
+Identifier: CRYPTO22252
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22252
+Published: 2021-03-30T09:03:25+01:00
+Updated: 2021-03-26T11:06:30+00:00
+Retrieved (UTC): 2026-09-18T16:18:40.586384+00:00
+
+This example shows how the same day rule operates, as well as showing what happens to any tokens that can’t be matched to the disposal.
+
+Martyn holds 5,000 token B in a section 104 pool. He spent a total of £500 acquiring them, which is his pooled allowable cost.
+
+On 23 June 20XX Martyn enters into the following transactions:
+
+- Morning – he disposes of 1,000 token B for £800.
+
+- Afternoon – he acquires 1,600 token B for £1,000.
+
+- Evening – he disposes of 500 token B for £600.
+
+Martyn’s disposals both take place on the same day, so they are treated as a single disposal of 1,500 token B for £1,400. Martyn’s acquisition takes place on the same day, so the acquisition is matched with the disposal. Martyn will need to work out the gain on his disposal of 1,500 token B as follows:
+
+Consideration |  £800 + £600 |  £1,400 |
+
+Less allowable costs |  £1,000 x (1,500 / 1,600) |  (£938) |
+
+Gain |  £462 |    |
+
+Martyn is unable to match the remaining 100 token B to disposals on the same day. Instead those100 token B and their associated cost of £62 (£1,000 x (100 / 1,600)) will go into the section 104 pool. The section 104 pool now contains 5,100 token B and total pooled costs of £562:
+
+Date |  Quantity of token B |  Pooled allowable costs |
+
+Opening balance |  5,000 |  £500 |
+
+23/06/20XX |  +100 |  +£62 |
+
+Closing balance |  5,100 |  £562 |

@@ -1,0 +1,44 @@
+Section 554Z11C: identifying overlapping sums or assets and applying relief: example 2 – two or more charges – Chapter 2 overlap charge paid
+Identifier: EIM46060
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim46060
+Published: 2017-10-02T16:01:11+01:00
+Updated: 2017-10-02T16:00:16+01:00
+Retrieved (UTC): 2026-09-18T14:23:40.948461+00:00
+
+ITEPA 2003 – sections 554Z11C(1) – (6)
+
+The provisions of section 554Z11C(1)-(6) can be used where there is overlap between more than one earlier charge. Where this happens it is necessary to consider which charge is the Chapter 2 overlap charge and which charge is the earlier charge to give relief across all charges. It may be necessary to have 2 years which contain different Chapter 2 overlap charges in order to fully give relief.
+
+The reason for this is that section 554Z11C allows an earlier charge paid amount to be set against a Chapter 2 overlap charge and a Chapter 2 paid amount to be set against an earlier charge. Where 2 or more earlier charges exist, there is no provision to set an earlier charge paid amount against a different earlier charge.
+
+To ascertain how relief is given in these circumstances, it is necessary to firstly consider which charge is being paid. This is required to decide which year’s liability contains the Chapter 2 overlap charge and which year contains the earlier charge. This may affect which sums or assets are considered to be P and Q.
+
+Example
+
+An amount of £400,000 was originally contributed to an EBT in 2008-2009. From this sum an amount of £200,000 was earmarked in 2016-2017. An amount of £150,000 was then loaned to the employee from the earmarked amount in 2017-2018. This is sum or asset P which has given rise to the Chapter 2 overlap charge. Sum or asset Q needs to be considered in terms of each charge.
+
+2008-2009 - earnings charge on £400,000 (sum Q2) contribution to EBT - resulting in 40% tax charge of £160,000
+2016-2017 - relevant step on £200,000 (sum Q1) earmarking charge - resulting in 45% tax charge of £90,000
+2017-2018 - relevant step on £150,000 loan (sum P) - resulting in Chapter 2 liability at 45% of £67,500
+
+If a payment is made in relation to the 2017-2018 liability, this will be the year whose liability contains sum or asset P and the Chapter 2 overlap charge. The liabilities for 2016-2017 and 2008-2009 will both contain earlier charges.
+
+The Chapter 2 tax liability is £67,500 in 2017-2018. The liability is based on income of £150,000 which was included in the previous 2 charges to tax. The overlapping amount is £150,000 and was brought fully into charge in 2017-2018. The Chapter 2 overlap charge is 100% of the Chapter 2 liability and is £67,500 in cash terms.
+
+The first overlap in descending order exists between the liabilities for 2017-2018 and 2016-2017 and it is necessary to determine the earlier charge in relation to the 2016-2017 liability.
+
+It is necessary to identify how much of the income which gave rise to the 2017-2018 charge is included in the 2016-2017 charge.
+
+The overlapping income is £150,000 (sum P) out of total income charged of £200,000 (sum Q1). The overlap covers 75% of the income charged in 2016-2017. The charge for that year was £90,000. Since 75% of that relates to overlapping income, the amount of the earlier charge for 2016-2017 is £90,000 × 75% = £67,500.
+
+The second separate earlier charge exists between the liabilities for 2017-2018 and 2008-2009. It is necessary to identify how much of the 2017-2018 charge is included in the 2008-2009 charge.
+
+The overlap in terms of the original charge for 2008-2009 is (£150,000 (sum P) ÷ £400,000 (sum Q2)) × 100 = 37.5%.
+
+The earlier tax liability for 2008-2009 was £160,000. Since 37.5% of this relates to the amount which overlaps with the liability on the loan, the earlier charge for 2008-2009 is £160,000 × 37.5% = £60,000.
+
+In 2018-2019 a payment is made for the entire Chapter 2 tax liability of £67,500. This will clear the liability for this year in full but since it relates to income which overlaps with the earlier years liabilities, it can also be used as a payment on account of these charges.
+
+The payment can be used against the 2016-2017 liability. This was £90,000 in total but the earlier charge in relation to this year was £67,500. The payment therefore reduces the liability to £22,500.
+
+The payment of £67,500 can also be used against the liability for 2008-2009. The earlier charge for this year was £60,000 so the payment will cover this amount in full. There is however £7,500 remaining of the Chapter 2 overlap charge. This can be set against any late payment interest in respect of the earlier charge.

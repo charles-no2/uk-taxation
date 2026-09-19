@@ -1,0 +1,38 @@
+Remittance Basis: Exemptions: Business investment relief: Mixed funds
+Identifier: RDRM34540
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34540
+Published: 2016-03-09T17:37:52+00:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:43.033348+00:00
+
+Ordering rules (at section 809VO ITA 2007) exist to deal with situations where qualifying investments are made from a mixed fund. A mixed fund is a fund held overseas which contains either:
+
+- more than one type of income or capital
+
+- income or capital from more than one tax year
+
+- TRF capital and another type of income or capital (from 6 April 2025 – see RDRM75100 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75100))
+
+A mixed fund can be a bank account or other property (see RDRM35220 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35220)).
+
+Where a qualifying investment is made from a mixed fund the investment is treated as an offshore transfer (see RDRM35410 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35410)). This means the qualifying investment will contain a proportional amount of the types of income and gains that were in the mixed fund immediately before the transfer was made. In the absence of this rule, a transfer from an offshore mixed fund to the UK would be treated as being made in the order set out in section 809Q ITA 2007. RDRM35210 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35210) contains more information on mixed funds and the order of remittances to the UK.
+
+The proportion of each type of income and capital within the investment is referred to as ‘the fixed proportion’ of that kind of income and capital. When the invested property is partly or wholly disposed of, the disposal proceeds will contain amounts of each type of income and capital, in the fixed proportion, whether or not the appropriate mitigation steps are taken. Section 809Q does not apply to disposal proceeds retained in the UK (section 809VO(8)(c)).
+
+From 6 April 2025 foreign income or gains that have been used to make qualifying investments are eligible to be designated under the temporary repatriation facility (TRF) (see RDRM71000 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm71000)). Where pre-6 April 2025 foreign income or gains in qualifying investments have been designated, and these now comprise both TRF capital and undesignated amounts, additional ordering rules at section 809VO provide that a disposal will be treated as comprising TRF capital first, and then a proportional amount of each of the types of income and gains that remain. This requires the original proportions to take account of what has become TRF capital – see RDRM74750 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm74750) for guidance on the additional ordering rules and an example.
+
+The examples below illustrate the operation of the ordering rules where there is no TRF capital.
+
+Example 1
+
+Sue, a UK resident remittance basis user, has an offshore bank account containing £5 million. The account is a mixed fund containing £2 million foreign employment income, £2 million foreign chargeable gains and £1 million capital, all arising in the 2010-2011 tax year. In September 2012 Sue transfers £2,500,000 to the UK and loans the money to an eligible trading company within 45 days. Sue makes a valid claim to business investment relief on her 2012-2013 tax return so none of the £2,500,000 is taxed on the remittance basis.
+
+The £2,500,000 brought to the UK is treated as containing proportional amounts of each kind of income or capital in the offshore mixed fund, in this case £1 million foreign employment income, £1 million foreign chargeable gains and £500,000 capital. If a valid claim to business investment relief had not been made, the taxable remittance to the UK from the offshore mixed fund would have been £2 million foreign employment income and £500,000 foreign chargeable gain.
+
+Example 2
+
+In 2013-2014 Vladimir, a UK resident remittance basis user, has a mixed fund of £6 million from which he invests £3 million into a UK trading company which meets the provisions for the business investment relief. He receives 10,000 newly issued shares. The mixed fund contained £2 million foreign income, £2 million foreign chargeable gains and £2 million capital, all from the same tax year. The fixed proportion within the invested property is £1 million foreign income, £1 million foreign chargeable gains and £1 million capital. Vladimir makes a claim for business investment relief on his 2013-2014 Self Assessment tax return.
+
+In a later tax year, Vladimir disposes of 5,000 of the shares for £2 million and takes the appropriate mitigation step by taking the full £2 million offshore. The £2 million will contain £500,000 foreign income, £500,000 foreign chargeable gains, £500,000 capital and £500,000 UK chargeable gain. Vladimir will report the UK chargeable gain on his tax return for the year of disposal.
+
+If Vladimir had not taken the proceeds of disposal offshore, he would be regarded as remitting the £500,000 foreign income, £500,000 foreign chargeable gains and £500,000 capital to the UK and would report, on his Self Assessment tax return, the foreign income and foreign chargeable gains in addition to the UK chargeable gain.

@@ -1,0 +1,56 @@
+Partnerships: Partnership assets divided in kind among the partners: SP D12
+Identifier: CG27400
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27400
+Published: 2016-03-12T10:28:27+00:00
+Updated: 2023-04-18T09:17:57+01:00
+Retrieved (UTC): 2026-09-18T14:29:12.118285+00:00
+
+Section 3 of SP D12 explains the CG treatment when a partnership distributes an asset to one or more of its partners. Such a distribution may occur, for example, when the partnership is dissolved.
+
+Any partners to whom the asset was not distributed will be treated as having disposed of their fractional interests in the asset at the time of the distribution. For the purpose of calculating any gains or losses the asset is treated as having been disposed of for an amount equal to its current market value at the time of the distribution.
+
+The partner to whom the asset was distributed will not be treated as having made a disposal at the time of the distribution. In fact, his interest in the asset will have increased. His CG base cost on a future disposal of the asset will be determined by reference to its market value at the time of the distribution as reduced by the amount of the notional gain arising on his fractional interest at that time.
+
+Example
+
+A and B carry on a business in partnership and hold equal interests in partnership assets.
+
+The partnership owns a freehold property which cost £400,000.
+
+On the dissolution of the partnership the property was distributed to Partner B.
+
+The market value of the property at the time of the distribution was £640,000.
+
+The chargeable gain arising on the disposal by A of his fractional interest in the asset at the time of the distribution and the notional gain arising on B’s fractional interest in the asset are computed as follows:
+
+- |  Partner A |  Partner B |
+
+Disposal proceeds based on market value |  - |  - |
+
+£640,000 x 50% |  £320,000 |  £320,000 |
+
+Less acquisition cost |  - |  - |
+
+£400,000 x 50% |  £200,000 |  £200,000 |
+
+Chargeable Gain |  £120,000 |  - |
+
+Notional Gain |  - |  £120,000 |
+
+Partner A
+
+The gain accruing to Partner A, £120,000, will be chargeable at the time of the distribution.
+
+Partner B
+
+The notional gain accruing to Partner B is not chargeable as the effect of the distribution is that his interest in the asset has increased. His CG base cost on a future disposal of the property will be the market value of the asset at the time of the distribution reduced by the notional gain:
+
+- |  Amount |
+
+Market value of asset |  £640,000 |
+
+Notional gain on distribution |  £120,000 |
+
+CG base cost |  £520,000 |
+
+Note that Partner B acquired a 50% interest in the asset for £200,000 on its acquisition by the partnership. At the time of the distribution he acquired a further 50% interest for an amount equal to the disposal consideration taken into account for Partner A, i.e. £320,000. His total acquisition cost is therefore £520,000.

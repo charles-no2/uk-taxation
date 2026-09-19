@@ -1,0 +1,38 @@
+Lifetime transfers: the charge to tax: immediately chargeable transfers: cumulation
+Identifier: IHTM14533
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14533
+Published: 2016-04-09T09:19:37+01:00
+Updated: 2016-06-28T11:13:45+01:00
+Retrieved (UTC): 2026-09-18T14:57:54.783822+00:00
+
+You calculate the tax on transfers on or after 18 March 1986 by cumulating the values of all other immediately chargeable transfers in the preceding seven years.
+
+You do not include Potentially Exempt Transfers (PETs) (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)) in the cumulation.
+
+Example
+
+Bob transferred £250,000 into a discretionary trust on 1 April 2010. Bob had previously made the following transfers
+
+- Feb 2003, £30,000 to a discretionary trust
+
+- May 2006, £80,000 to a discretionary trust
+
+- July 2008, £60,000 to a friend.
+
+You calculate the lifetime tax (IHTM14534) on the April 2010 transfer on the basis of
+
+- Previous chargeable transfers = £80,000
+
+- April 2010 transfer + £250,000
+
+- Total = £330,000
+
+The Feb 2003 transfer is omitted from the previous lifetime transfers because it is outside the seven year period.
+
+The July 2008 transfer is omitted because it is a PET.
+
+- £330,000 - £325,000 (IHT nil rate band at date of transfer) = £5,000
+
+- Multiply this by 20% (half death rate (IHTM14534 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14534))
+
+- = £1,000 tax to pay on the transfer

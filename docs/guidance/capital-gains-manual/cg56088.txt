@@ -1,0 +1,16 @@
+Futures: settled by delivery: date of contract
+Identifier: CG56088
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56088
+Published: 2016-03-12T11:38:20+00:00
+Updated: 2021-03-31T14:43:52+01:00
+Retrieved (UTC): 2026-09-18T14:33:35.237754+00:00
+
+A future is a contract and the normal rules of TCGA92/S28, see CG14250+, apply to establish the date of acquisition or disposal of the asset. Most futures contracts are unconditional.
+
+EXAMPLE
+
+- 1 May 2010 the taxpayer agrees to buy 200 ozs December Gold at US$1,300 a troy ounce.
+
+- December 2010 the contract is not closed out and the taxpayer takes delivery of the gold paying 200 x 1,300 US$ = 260,000 US$. The taxpayer is treated as having acquired the gold in May 2010. The US$:£ exchange rate on 1 May 2010 was 1 US$ = 65p. Therefore, the taxpayer’s acquisition cost is £169,000.
+
+Some futures contracts are conditional because at the time the contract is made the parties do not know precisely what assets will have to be delivered. For example, a government bond future may be based upon a theoretical bond whose price is informed by a basket of physically available bonds. Should the contract go to delivery it may be satisfied out of a range of physically deliverable bonds. The particular bonds sold cannot be identified before delivery. Therefore the contract is a conditional contract. The date of acquisition and disposal is the date of delivery and not the date the future was acquired.

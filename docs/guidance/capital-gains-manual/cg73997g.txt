@@ -1,0 +1,28 @@
+UK property rich collective investment vehicles: Interaction with other TCGA92 provisions: Interaction with rules in Chapter 3 of Part 3 TCGA92 
+Identifier: CG73997G
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73997g
+Published: 2020-01-10T11:19:13+00:00
+Updated: 2021-03-24T14:33:18+00:00
+Retrieved (UTC): 2026-09-18T14:47:00.035375+00:00
+
+Schedule 5AAA TCGA92 and Chapter 3 of Part 3 TCGA92 set out how unit trusts and contractual funds (for example, UK co-ownership authorised contractual schemes (CoACS), Luxembourg or French fonds commun du placement (FCPs) and Irish common contractual funds (CCFs)) and their investors are treated for relevant TCGA purposes.
+
+This is necessary because, whereas funds which take corporate form are treated in the same way as any other company for TCGA purposes, unit trusts and contractual funds may be considered to be, on first principles, transparent for capital gains purposes. This analysis may be subject to considerable uncertainty, and potentially high complexity, for investors as regards their capital gains position.
+
+Chapter 3 of Part 3 therefore provides rules to simplify that position, and the Schedule 5AAA rules provide a basis that treats unit trusts and contractual funds in a similar way to companies for relevant TCGA purposes, specifically as regards sections 1A(3)(b)&(c) and 2B(4) TCGA 92 (broadly, non-residents’ interests in UK land, or assets that derive at least 75% of their value from UK land – see CG73920 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73920) onwards).
+
+Some of the rules in Chapter 3 are impacted by Schedule 5AAA. The table below sets out what the two different sets of rules do and how they interact; text in italics refers to provisions in Chapter 3 that, for non-UK residents only, are superseded by Schedule 5AAA.
+
+|  Ch.3 of Pt.3 TCGA92 |  Sch.5AAA TCGA92 |
+
+UK resident unit trusts |  TCGA92/S99 treats the unit trust scheme as if it were a company, and the rights of the unit holders as shares in the company |  Not covered, therefore TCGA92/S99 applies |
+
+Non-resident unit trusts that are not within the meaning of a transparent fund in SI/2009/3001* |  TCGA92/S99 treats the unit trust scheme as if it were a company, and the rights of the unit holders as shares in the company |  TCGA92/SCH5AAA/para 4(1),(2)&(6) apply to treat the unit trust scheme as if it were a company, and the rights of the unit holders as shares in the company. Note: S99 is therefore disapplied but Sch 5AAA has the same effect |
+
+Non-resident unit trusts within the meaning of a transparent fund in SI/2009/3001* |  TCGA92/S103D treats a unit as an asset for TCGA purposes and a participant’s interest in the fund property (that is, the underlying assets) is disregarded for those purposes\nNote: S103D(4) to (9) (calculation of gains on disposal of units etc.) still apply for all investors, whether UK resident or not |  TCGA92/SCH5AAA/para 4(1)&(2) apply to treat the unit trust scheme as if it were a company, and the rights of the unit holders as shares in the company. Note:TCGA92/SCH5AAA/para 4(4) disapplies this treatment where an election for transparency under para 8 has been made (see CG73997P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73997p)) |
+
+UK authorised co-ownership contractual scheme (CoACS) |  TCGA92/S103D treats a unit as an asset for TCGA purposes and a participant’s interest in the fund property (that is, the underlying assets) is disregarded for those purposes |  Sch 5AAA does not disturb the S103D treatment generally but note that TCGA92/SCH5AAA/para 5 provides that for Sch 1A purposes (the core rules) ‘the asset’ is treated as a share in a company. This means that a CoACS is, for Sch 1A purposes, treated as a company when considering the UK property rich test |
+
+Non-UK co-ownership contractual arrangements within the meaning of a transparent fund in SI/2009/3001* |  TCGA92/S103D treats a unit as an asset for TCGA purposes and a participant’s interest in the fund property (that is, the underlying assets) is dis-regarded for those purposes |  TCGA92/SCH5AAA/para 4(1)&(2) apply to treat the scheme as if it were a company, and the rights of the unit holders as shares in the company. Note: TCGA92/SCH5AAA/para 4(4) disapplies this treatment where an election for transparency under para 8 has been made (see CG73997P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73997p)) |
+
+* see regulation 11 of the Offshore Funds (Tax) Regulations 2009

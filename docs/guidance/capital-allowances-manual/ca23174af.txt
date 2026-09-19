@@ -1,0 +1,46 @@
+Plant and Machinery Allowance (PMA): First Year Allowance (FYA): Full expensing and 50% allowance for special rate expenditure: Anti-avoidance
+Identifier: CA23174AF
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23174af
+Published: 2023-10-09T16:34:06+01:00
+Updated: 2023-10-09T16:33:58+01:00
+Retrieved (UTC): 2026-09-18T16:21:47.155192+00:00
+
+CAA01/S45T, S59C
+
+The targeted anti-avoidance rules in CAA01/CH17 apply to full expensing and the 50% FYA. There is guidance about these rules at CA28000 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28000). Those rules are supplemented by additional anti-avoidance rules introduced for the purposes of full expensing and the 50% FYA.
+
+Exclusion of expenditure incurred under disqualifying arrangements
+
+Expenditure is not first-year qualifying expenditure under CAA01/S45S, thus cannot qualify for full expensing or the 50% FYA, if the expenditure is incurred directly or indirectly in consequence of, or otherwise in connection with, “disqualifying arrangements”.
+
+Arrangements are “disqualifying arrangements” if both of the following conditions are met:
+
+- the main purpose, or one of the main purposes, of the arrangements is to secure a tax advantage connected with expenditure being first-year qualifying expenditure under section 45S (including securing the advantage by avoiding a balancing charge under section 59A or 59B or reducing the amount or timing of such a charge), and
+
+- it is reasonable, taking account of all the relevant circumstances, to do one of the following–
+
+- to conclude that the arrangements are, or include steps that are, contrived, abnormal or lacking a genuine commercial purpose, or
+
+- to regard the arrangements as circumventing the intended limits of relief under CAA01 or otherwise exploiting shortcomings in CAA01.
+
+“Tax advantage” is defined by CAA01/S577(4) CA11850 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11850).
+
+“Arrangements” include any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).
+
+Tax avoidance arrangements: disposals CAA01/S59C
+
+The disposal rules in CAA01/S59A-S59B have effect as if arrangements are not entered into if such arrangements are entered into the main purpose, or one of the main purposes, of which is:
+
+- to secure that a balancing charge under CAA01/S59A or S59B is not chargeable on the company, or
+
+- to secure a reduction in the amount, or a change in the timing, of a balancing charge under CAA01/S59A or S59B which is chargeable on a company.
+
+“Arrangements” include any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).
+
+Tax Avoidance arrangements: disposals of fixtures CAA01/S59C, S198
+
+An election under section 198 CAA01 is an acceptable means, enshrined in legislation, by which two businesses may agree the part of the sale price that is to be attributed to the fixtures when there is a sale of the qualifying interest in the underlying property (CA26800 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26800)).
+
+A section 198 election is already subject to the provisions at section 197 CAA01 if the disposal event is part of, or occurs as a result of, any scheme or arrangement that has the obtaining of a tax advantage as its main purpose, or as one of its main purposes. Likewise, a section 198 election will be subject to section 59C, but only if there is a tax avoidance arrangement; section 59C is not intended to prevent the making of a section 198 election.
+
+HMRC does not provide clearance on the application of anti-avoidance provisions and whether those provisions apply in a certain set of circumstances will be entirely dependent on the facts.

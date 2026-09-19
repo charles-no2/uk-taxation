@@ -1,0 +1,36 @@
+Property at more than one title: example of the effect of S40
+Identifier: IHTM26213
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26213
+Published: 2016-04-09T09:48:42+01:00
+Updated: 2022-06-08T16:58:47+01:00
+Retrieved (UTC): 2026-09-18T15:03:19.324305+00:00
+
+As well as the example below further examples may be found in the instructions on interaction (IHTM26101 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26101)) and grossing up (IHTM26121 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26121)). For an example including both interaction and grossing refer to IHTM26158 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26158).
+
+Example
+
+Tanya died in August 2002 leaving an estate of £500,000. By Will Tanya left a legacy of £300,000 free of tax to Xavier, a chargeable beneficiary, and the rest of the estate to a qualifying charity. There is no business relief (BR) (IHTM25131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25131)) or agricultural relief (AR) (IHTM24001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24001)).
+
+Tanya was also life tenant of settled property (IHTM16000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16000)) valued at £2M. The trust property includes agricultural property qualifying for AR. The trust passes to a chargeable beneficiary.
+
+The effect of S40 on the calculation of Xavier’s £300,000 legacy is:
+
+- There is no interaction because there is no BR or AR in the free estate and the AR on the settled property is irrelevant.
+
+- The £300,000 is grossed up at its own rate and, for grossing purposes, the settled property is ignored.
+
+The grossing calculation is:
+
+Legacy = £300,000
+
+Less nil-rate band -£250,000
+
+Excess = £50,000
+
+Excess of £50,000 × (100 ÷ 60) = £83,333
+
+Add back nil-rate band +£250,000
+
+Grossed-up value of legacy = £333,333
+
+The grossed up value of the £300,000 legacy, and consequently the chargeable estate on Tanya’s death, is £333,333 plus the value of the settled fund after AR. Tax is assessed accordingly.

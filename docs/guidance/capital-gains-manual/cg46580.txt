@@ -1,0 +1,24 @@
+Depreciatory transactions: dividend stripping in respect of 10% holdings
+Identifier: CG46580
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46580
+Published: 2016-03-12T11:12:26+00:00
+Updated: 2016-01-25T17:05:34+00:00
+Retrieved (UTC): 2026-09-18T14:41:45.418531+00:00
+
+TCGA92/S177
+
+The depreciatory transactions rules introduced by FA68 were extended by FA69 to cover depreciatory distributions in respect of 10 per cent holdings. The rules for 10 per cent holdings are now in TCGA92/S177. These rules restrict losses where
+
+- one company the first company' has a holding in another company the second company’, and
+
+- the holding represents at least 10 per cent of all holdings of the same class in the second company, and
+
+- the first company is not a dealing company in relation to the holding, and
+
+- there is a distribution to the first company in respect of the holding which materially reduces the value of the holding.
+
+Where these conditions are satisfied the depreciatory transactions rules in Section 176 apply as if the distribution were a depreciatory transaction, and as if the companies concerned were members of the same group. As with distributions paid between group members, this rule will only restrict a loss to the extent that the distribution is made out of pre-acquisition profits, see CG46540.
+
+The Section 177 loss restriction applies on a disposal by the first company, or by any other company which acquires the holding on a no gain/no loss disposal within TCGA92/S140A or TCGA92/S171.
+
+TCGA92/S177(5) defines a company as `a dealing company’ in relation to a holding if a profit on the sale of the holding would be taken into account in computing the company’s trading profits. Holdings of shares or securities of different classes are treated as separate holdings by TCGA92/S177(6) as are holdings of securities which differ in their entitlements or obligations. The holdings of connected persons are aggregated, TCGA92/S177(7).

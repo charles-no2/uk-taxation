@@ -1,0 +1,36 @@
+Interest: specific inclusions: introduction
+Identifier: SAIM2200
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2200
+Published: 2016-03-19T16:24:04+00:00
+Updated: 2020-02-05T09:40:51+00:00
+Retrieved (UTC): 2026-09-18T14:26:05.140760+00:00
+
+Amounts that are treated as interest
+
+Certain income receipts are treated as interest for tax purposes, even though they may not constitute interest in a legal sense. Some of these are listed in ITTOIA05/S369. This list is not exhaustive, as other particular receipts are treated as interest by other parts of the Tax Acts.
+
+Building society dividends
+
+Investors holding certain types of building society account (usually called share accounts) are members of the society and receive what are technically dividends. These are taxed as interest ‘for the purposes of this Act’ (ITTOIA05/S372).
+
+Interest distributions from open-ended investment companies and authorised unit trusts
+
+Unit holders in authorised unit trusts (AUTs), and shareholders in open-ended investment companies (OEICs), may receive income as an interest distribution or a dividend distribution (but not both in the same distribution period).
+
+ITTOIA05/S373 (for OEICs) and ITTOIA05/S376 (for AUTs) taxes the interest distributions as interest. The tax voucher which the investor receives from the AUT or OIEC will make it clear whether the receipt is an interest or a dividend distribution.
+
+An investor who holds accumulation units or shares, where the interest distribution is automatically reinvested in the fund, is still taxable on the distribution.
+
+Industrial and provident society payments
+
+A dividend, bonus or other sum payable to a shareholder in a registered industrial and provident society, or a UK agricultural or fishing co-operative, is treated as interest if it is payable by reference to the person’s shareholding (ITTOIA05/S379). There is more detail about industrial and provident societies at CTM40500 (http://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm40500) onwards.
+
+Price differences on repos
+
+For payments arising on or after 01 January 2014, sections 604 and 607 have been replaced by simpler provisions at ITA 2007/S614ZD(1) and (2), which provide that any manufactured payment which is representative of interest will be taxed as interest in the hands of the recipient.
+
+For arrangements prior to 01 January 2014, there is background repos (sale and repurchase agreements) at CFM46100 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm46100). This explains that the repurchase price was normally equal to the original sale price plus an increment equivalent to interest on a loan of the same amount as the sale price for the period of the repo. Where the repurchase price was greater than the sale price the interim holder is treated for income tax purposes as receiving interest on a deemed loan to the original owner. This interest equals the difference between the sale and repurchase prices and was treated as due when the repurchase price becomes due and received when that price is received (ITA07/S607).
+
+Where, exceptionally, the sale price was greater than the repurchase price the original owner was treated for income tax purposes as receiving interest on a deemed loan to the interim holder calculated on the same basis.
+
+In the case of a net paying repo, the interim holder was deemed to make a manufactured payment to the original owner (CFM74320 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm74320)). The repurchase price was treated as increased by the amount of the deemed manufactured payment (ITA07/S604) when the difference from the sale price is calculated.

@@ -1,0 +1,58 @@
+PMA: Anti-avoidance: Restriction on allowances
+Identifier: CA28300
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28300
+Published: 2016-04-16T08:52:28+01:00
+Updated: 2020-01-08T17:08:35+00:00
+Retrieved (UTC): 2026-09-18T16:21:03.320134+00:00
+
+CAA01/S214 - S218 & S230
+
+There are restrictions if there is a relevant transaction CA28200 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28200):
+
+- between connected persons (Section 214), or
+
+- that has an avoidance purpose or is part of, or occurs as a result of, a scheme or arrangement that has an avoidance purpose (transactions to obtain tax advantages) (Section 215), or
+
+- where the “buyer” leases the asset back to the “seller” or to a person connected with the seller (a sale and leaseback transaction) (Section 216). Do not read “buyer” and “seller” literally here as the transaction may, for example, be an assignment of a contract.
+
+An additional restriction applies where the main purpose or one of the main purposes of an arrangement is to enable a person to obtain an AIA to which the person would not otherwise be entitled (s218A).
+
+These restrictions are covered below. There are further restrictions for assets sold and leased back under finance leases and hire purchase type arrangements. These are covered in CA28400 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28400)+ and CA28700 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28700).
+
+Connected person (s214) and sale and leaseback (s216) transactions
+
+The following restrictions apply:
+
+- the “buyer” is not entitled to the AIA or FYA (Section 217), and
+
+- there is a limit on the qualifying expenditure the buyer can allocate to a pool. The buyer’s qualifying expenditure is limited to:
+
+- the seller’s disposal value if any.
+
+- nil, if the seller or linked person* became owner of the plant or machinery before the relevant transaction without incurring either capital expenditure or qualifying revenue expenditure** on its provision (*A person is a ‘linked person’ if connected with the seller at any time between becoming the owner and the relevant transaction. ** ‘Qualifying revenue expenditure’ is revenue expenditure of an amount that is at least equal to the amount that would have been expected to be incurred under an arms-length transaction or in the case of manufacturing expenditure, at least equal to the reasonably expected normal cost of manufacturing).
+
+- in other cases, the lowest of the market value of the asset and the capital expenditure incurred by the seller or connected person on the asset.
+
+There are different rules about the buyer’s qualifying expenditure where there is a sale and finance leaseback CA28500 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28500).
+
+These restrictions do not apply if the asset is new, the seller’s business includes manufacturing or supplying assets of that class and the asset is sold as part of the seller’s normal business (s230). For example, a man who runs an electrical store may sell his sister a new computer from his stock. If his sister claims PMAs on the computer the restrictions on allowances do not apply. She can claim PMAs on the price she pays.
+
+Transactions to obtain tax advantages (s215)
+
+If the main purpose, or one of the main purposes, of any party entering into a transaction, scheme or arrangement is to enable any person to obtain a tax advantage under Part 2, CAA01 (PMAs) that would otherwise not be obtained (including a more favourable allowance or avoiding liability for the whole or part of a balancing charge), then that transaction, scheme or arrangement is regarded as having an ‘avoidance purpose’ under s215.
+
+Restrictions apply if a relevant transaction has an avoidance purpose or is part of, or occurs as a result of, a scheme or arrangement that has an avoidance purpose (regardless of whether the scheme or arrangement was made before or after the relevant transaction and regardless of whether it is legally enforceable).
+
+The type of restriction depends on the nature of the tax advantage:
+
+- Disposal value related advantages: If the tax advantage relates to the disposal value, the disposal value is adjusted in a just and reasonable manner, so as to effectively cancel out the tax advantage, by taking into account an appropriate portion of any payment (including the provision of any benefit, assumption of any liability and any other transfer of money or money’s worth) that would not otherwise be taken into account in determining the disposal value. (ss215(4A) and 218ZB).
+
+- Higher percentage rate of allowance: If the tax advantage is in the form of an allowance at a higher percentage rate than would otherwise apply, the buyer is prevented from claiming FYAs and AIA and the allowance is calculated at the percentage rate that would apply if it were not for the tax advantage (ss215(5), 215(7)(a), 217 and 218ZA(5).
+
+- Accelerated allowances: If the tax advantage is in the form of the buyer’s entitlement to allowances arising sooner than would otherwise be the case, the buyer is prevented from claiming FYAs and AIA and is only entitled to claim the allowances as and when the entitlement would occur without the tax advantage (ss215(5), 215(7)(b), 217 and 218ZA(5).
+
+- Other tax advantages: For other types of tax advantages, the buyer is prevented from claiming FYAs and AIA; and some or all of the buyer’s expenditure is left out of account so as to in effect cancel out the tax advantage (whether the tax advantage is obtained by the buyer or another person and whether it relates to the relevant transaction or something else). If the buyer’s expenditure is also restricted under section s218 (connected party and sale and leaseback transactions - see above) and s218 results in a greater restriction, then this greater restriction will apply (ss215(6), 217, 218ZA(1), 218ZA(3)-(4)).
+
+Arrangements to obtain AIA (s218A)
+
+Where the main purpose or one of the main purposes of an arrangement is to enable a person to obtain an AIA to which the person would otherwise not be entitled, the AIA is not to be made or if it has already been made it is to be withdrawn.

@@ -1,0 +1,44 @@
+Decentralised Finance: Lending and staking: Making a DeFi loan
+Identifier: CRYPTO61130
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61130
+Published: 2022-02-02T14:47:29+00:00
+Updated: 2022-02-02T14:47:16+00:00
+Retrieved (UTC): 2026-09-18T16:18:39.792631+00:00
+
+There are various operating models which allow a lender to lend tokens to a borrower, all of which allow the lender/liquidity provider to provide tokens that are ultimately lent to the borrower. However, the way in which this is achieved may differ and some operating models will include a third-party to the transaction. The activity of lending of tokens may amount to a trade (CRYPTO61211 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61211)). Where a trade is not being carried on, there may instead be a disposal for chargeable gains purposes (CRYPTO61620 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61620)).
+
+The lender/liquidity provider, in exchange for lending the tokens to the borrower or staking them with a Decentralised Finance (DeFi) lending platform, may receive a reward for that lending/staking (the “return”). This return is paid to remunerate the lender/liquidity provider for the lending/staking of the tokens. This return may be treated as taxable income of the lender/liquidity provider for the purposes of Income Tax or Corporation Tax (see CRYPTO61200 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61200) or CRYPTO61400 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61400) respectively).
+
+The return may be calculated by reference to an agreed rate throughout the period of lending (for example, 5% per annum) or by reference to the value of a liquidity pool (see CRYPTO61200 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61200)). The return may also be paid to the lender/liquidity provider periodically throughout the period of the lending/staking or may be paid at the time that the principal is repaid to the lender/liquidity provider. How the lender is rewarded, and how that return is calculated, will depend on the operating model of the transaction and will influence whether the return is correctly treated as taxable income or as a chargeable gain. There is no single operating model for DeFi lending platforms. This means that it will be necessary to consider the terms and conditions offered by the DeFi lending platform to understand the tax consequences. Examples of some common types of ’loan’ (as defined in CRYPTO61120 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61120)) are below:
+
+Lender provides tokens directly to borrower (no DeFi lending platform involved)
+
+This is where a person (“lender”) transfers the control of tokens to another person (“borrower”). This was the only type of lending that was possible until the introduction of DeFi lending platforms. It does not necessarily require a transaction to transfer tokens between public addresses of the lender and borrower.
+
+Liquidity provider provides liquidity to DeFi lending platform. The liquidity provider doesn’t receive tokens from the DeFi lending platform
+
+This is where a person (“liquidity provider”) transfers the control of tokens to a DeFi lending platform. The DeFi lending platform includes those tokens in a general pool of tokens referred to as a liquidity pool.
+
+Another person (“borrower”) is able to request a loan from the DeFi lending platform. When the loan request is accepted then the control of the specified quantity of tokens is transferred from the DeFi lending platform to the borrower for the term of that loan.
+
+Liquidity provider provides liquidity to DeFi lending platform. The liquidity provider receives tokens from the DeFi lending platform at a fixed ratio for each token that is loaned
+
+This is where a person (“liquidity provider”) transfers the control of tokens to a DeFi lending platform. The DeFi lending platform includes those tokens in a general pool of tokens referred to as a “liquidity pool”. In return the DeFi lending platform transfers control of different tokens to the liquidity provider, with a fixed ratio of these tokens being provided to the lender for each token that is transferred to the DeFi lending platform.
+
+For example, Helen transfers 10 ether to the Aave DeFi lending platform and receives 10 Aave ether (aETH) from Aave. When Helen wants to end the loan she transfers the 10 aETH to Aave and receives 10 ether in return.
+
+Another person (“borrower”) is able to request a loan from the DeFi lending platform. When the loan request is accepted then the control of the specified quantity of tokens is transferred by the DeFi lending platform to the borrower.
+
+Liquidity provider provides liquidity to DeFi lending platform. The liquidity provider receives tokens from the DeFi lending platform to represent their share in the liquidity pool
+
+This is where a person (“liquidity provider”) transfers the control of tokens to a DeFi lending platform. The DeFi lending platform includes those tokens in a general pool of tokens referred to as a liquidity pool. In return the DeFi lending platform transfer control of different tokens to the liquidity provider, with those tokens representing the liquidity provider’s interest or ‘stake’ in the liquidity pool. These tokens are commonly referred to as ‘liquidity tokens’.
+
+For example, Rachel transfers 10 ether to the Compound DeFi lending platform. At that time the exchange rate is 0.020070. Rachel receives 498.26 Compound ether (cETH). When Rachel wants to end the loan she transfers the 498.26 Compound ether to Compound. At that time the exchange rate is 0.022371. Rachel receives 11.15 ether in return.
+
+Another person (“borrower”) is able to request a loan from the DeFi lending platform. When the loan request is accepted then the control of the specified quantity of tokens is transferred from the DeFi lending platform to the borrower.
+
+Liquidity provider provides liquidity to DeFi lending platform. The liquidity provider receives a non-fungible token from the DeFi lending platform that records the terms of the loan
+
+This is where a person (“liquidity provider”) transfers control of the tokens to a DeFi lending platform. The DeFi lending platform includes those tokens in a general pool of tokens referred to as a liquidity pool. In return the DeFi lending platform transfers to the liquidity provider the control of a non-fungible token (NFT) that records the terms of the loan (e.g. loan period, quantity of tokens loaned, rate of return on the loan). Another person (“borrower”) is able to request a loan from the DeFi lending platform.
+
+When the loan request is accepted then the control of the specified quantity of tokens is transferred from the DeFi lending platform to the borrower. The DeFi lending platform may also issue the borrower with an NFT that records the terms of the loan (e.g. loan period, quantity of tokens loaned, rate of return on the loan).

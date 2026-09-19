@@ -1,0 +1,40 @@
+Futures: closed out before maturity: CG treatment
+Identifier: CG56079
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56079
+Published: 2016-03-12T11:38:14+00:00
+Updated: 2021-03-31T14:40:05+01:00
+Retrieved (UTC): 2026-09-18T14:33:34.118729+00:00
+
+TCGA92/S143 (5)
+
+A person who closes out a futures contract by entering into a second and reciprocal contract is treated as having disposed of an asset. That asset is the obligations under the first contract. ‘Obligations’ here encompasses both liabilities and entitlements.
+
+TCGA92/S143 (5) provides that any money
+
+- received is treated as consideration for the disposal
+
+- paid is treated as an incidental cost of making the disposal. This is expenditure allowable under TCGA92/S38 (1)(c).
+
+EXAMPLE
+
+- In November an investor sells 2 contracts in March cocoa and a speculator buys 2 contracts in March cocoa each at £1,900 per tonne.
+
+- In December both the investor and the speculator close out their contracts. The investor buys 2 contracts in March cocoa at £1,840 per tonne. The speculator sells 2 contracts in March cocoa at £1,840 per tonne.
+
+CAPITAL GAINS COMPUTATION
+
+The investor
+
+The investor receives a payment of
+
+20 x £1,900 |  £38,000 |
+
+20 x £1,840 |  £36,800 |
+
+Payment |  £1,200 |
+
+No premium is payable or receivable on entering into the commodity future, see CG56060. The investor has made a capital gain of £1,200 less dealing costs on disposing of his entitlement under the contract.
+
+The speculator
+
+The speculator has to make a payment of £1,200. There is no consideration for the disposal of the obligations under the original contract and the payment made is treated as incidental costs of disposal. He or she is entitled to a capital loss of £1,200 plus dealing costs on disposing of the obligations under the contract.

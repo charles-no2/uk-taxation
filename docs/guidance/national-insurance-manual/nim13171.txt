@@ -1,0 +1,46 @@
+Class 1A National Insurance contributions: Liability for Class  1A NICs: Identifying whether a benefit has been provided: Definition of a  benefit in kind for NIC purposes
+Identifier: NIM13171
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim13171
+Published: 2016-04-11T17:29:19+01:00
+Updated: 2023-02-08T10:13:53+00:00
+Retrieved (UTC): 2026-09-18T15:20:01.417043+00:00
+
+Regulation 25 of, and paragraph 1 of Part 2 of Schedule 3 to, the Social Security (Contributions) Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+For NICs purposes, the way in which an employer provides something to an employee will normally determine whether a
+
+- payment of earnings has been made on which Class 1 NICs are due, or
+
+- benefit in kind has been provided on which Class 1A NICs are due.
+
+As any amount of general earnings, or anything treated as general earnings for tax purposes, may attract a Class 1A NICs liability if there is no existing Class 1 or Class 1B NICs liability, it is important to establish the correct NICs liability on anything provided to an employee, see NIM13160 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim13160).
+
+The starting point for this is to establish whether the item provided has been disregarded from earnings for Class 1 NICs purposes. If the item has been disregarded, it is likely to attract a Class 1A NICs liability unless the item
+
+- has been specifically excluded from Class 1A NICs liability, see NIM14001 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim14001), or
+
+- it is included in a PAYE Settlement Agreement, see NIM14400 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim14400).
+
+To do this it is necessary to consider the wording of the above legislation that disregards certain payments from earnings on which Class 1 NICs are due and in particular the regulation which disregards benefits in kind. Although the wording of the NICs legislation talks in terms of a ‘payment in kind’ this is taken to be the equivalent of the tax expression ‘benefit in kind’.
+
+Subject to specific exceptions, paragraph 1 of Part 2 of Schedule 3 provides that
+
+”A payment in kind, or by way of the provision of services, board and lodgings or other facilities is to be disregarded in the calculation of earnings.”
+
+The payments in kind which are not disregarded are those assets listed in Parts 3, or 4 of Schedule 3 to SSCR 2001 and are those that have been specifically regulated into Class 1 NICs liability, see NIM06820 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim06820) onwards.
+
+There is no statutory definition for NICs of the term ‘payment in kind’. As a result, it is necessary to draw a distinction between items which, when given to an employee, can be turned into cash only by sale and which depend upon there being a willing buyer and mutually agreed price, and items which can be turned into cash by surrender.
+
+Items which are
+
+- turned into cash only by sale are payments in kind, and therefore disregarded from earnings for Class 1 purposes, for example, giving an employee a television
+
+- converted into cash by surrender are earnings not disregarded for Class 1 purposes, for example, giving an employee Premium Bonds.
+
+Although both the television and the Premium Bonds are general earnings chargeable to income tax under ITEPA 2003 , for the purposes of NICs, the
+
+- television attracts a Class 1A NICs liability because it can only be turned into cash by sale to a willing buyer for a mutually agreed price. The television is disregarded from earnings as a payment in kind.
+
+- Premium Bonds attract a Class 1 NICs liability because the employee can turn the bonds immediately into cash by surrender at the Post Office. The Premium Bonds cannot be disregarded from earnings as a payment in kind.
+
+The distinction drawn here should not be confused with an employee’s ability to give up a benefit in exchange for additional cash, which is explained at EIM00570 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim00570) and NIM16650 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim16650).

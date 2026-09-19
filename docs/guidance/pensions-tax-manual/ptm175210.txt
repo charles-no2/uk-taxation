@@ -1,0 +1,112 @@
+Lump sum allowance and lump sum and death benefit allowance: Enhancement factors: Recognised overseas scheme transfer factor: Overview
+Identifier: PTM175210
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175210
+Published: 2024-03-27T16:27:49+00:00
+Updated: 2024-08-21T07:39:23+01:00
+Retrieved (UTC): 2026-09-18T14:51:25.465716+00:00
+
+As of 6 April 2024 there is no longer lifetime allowance. If you are looking for information about protections, enhancement factors and the lifetime allowance charge please see these pages on The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022829/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm090000). If you are looking for information about the principles of lifetime allowance and benefit crystallisation events please see these pages of The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022836/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm080000).
+
+If you are looking for information about enhancement factors pre-April 2024 please see The National Archive (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305085920/https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm095000).  The below guidance applies for individuals applying for an enhancement factor from 6 April 2024 to 5 April 2025.
+
+Entitlement to a recognised overseas scheme transfer factor
+
+Paragraph 20E Schedule 36 Finance Act 2004
+
+If after 5 April 2006 and before 6 April 2024 there is a transfer of an individual’s rights from an arrangement under a recognised overseas pension scheme to an arrangement under a registered pension scheme, the individual’s allowances may be enhanced by a factor which is called a recognised overseas scheme transfer factor.
+
+The recognised overseas scheme transfer factor is calculated by dividing the amount of any sums and assets transferred by the standard lifetime allowance at the date of the transfer. But if contributions made by or in respect of an individual to, or their accrual of benefits under, the overseas arrangement after 5 April 2006 received UK tax relief the amount transferred must be reduced by the relevant relievable amount.
+
+The deduction of the relevant relievable amount ensures broadly that the enhancement does not include amounts transferred into the registered pension scheme that have benefited from UK tax relief after 5 April 2006 (for example because the individual has had migrant member relief on contributions to the overseas scheme). The relevant relievable amount relates to any part of the period during which the individual was an active member of the recognised overseas pension scheme and was not a relevant overseas individual.
+
+Notifying entitlement to a recognised overseas scheme transfer factor
+
+Regulations 8 and 12 The Registered Pension Schemes (Enhanced Allowances) Regulations 2006 SI 2006/131
+
+An individual must notify HMRC of their entitlement to a recognised overseas scheme transfer factor. Notification should be made on form APSS 202 and normally received by HMRC no later than five years after the 31 January following the end of the tax year in which the transfer took place or 5 April 2025, whichever is earlier.
+
+Separate APSS 202 notification forms should be submitted to HMRC in the following circumstances:
+
+- where transfers to a registered pension scheme are made from different recognised overseas pension schemes at different times,
+
+- where transfers to different registered pension schemes are made from one or more recognised overseas pension schemes, or
+
+- where transfers to a registered pension scheme from a recognised overseas pension scheme are made on different dates.
+
+However, a single APSS 202 form can be submitted to HMRC where there have been transfers from more than one arrangement under a recognised overseas pension scheme to the same registered pension scheme at the same time. The total figures for the transfers from those different arrangements should be shown in the boxes at 7.2 and 7.3.
+
+How to calculate the recognised overseas scheme transfer factor
+
+Paragraph 20E(5) and (6) Schedule 36 Finance Act 2004
+
+The recognised overseas scheme transfer factor is worked out as follows:
+
+1. Calculate any relevant relievable amount.
+
+2. Deduct the relevant relievable amount from the total amount of the sums and assets transferred (including the market value of any assets transferred) from an arrangement under a recognised overseas pension scheme made after 5 April 2006.
+
+3. Divide the result of step 2 by the standard lifetime allowance at the date of the transfer
+
+4. Express the result amount of step 3 as an enhancement factor at the date on which the transfer took place. The factor should go to two decimal places. This should be a rounded-up figure, so for example if the calculation produces a factor of 0.231 it becomes 0.24.
+
+The recognised overseas scheme transfer factor can be used by the individual to calculate the lump sum death benefit allowance availability once a relevant benefit crystallisation event occurs.
+
+How to calculate the relevant relievable amount
+
+Paragraph 20E-G Schedule 36 Finance Act 2004
+
+The relevant relievable amount relates to any part of the overseas arrangement active period during which the individual was not a relevant overseas individual. If there is more than one part of the overseas arrangement active membership period where the individual was not a relevant overseas individual than that individual’s relevant relievable amount is the total of the amounts relating to each of those part-periods.
+
+The overseas arrangement active period is defined in 20E(7) Schedule 36 Finance Act 2004 and relates to membership of an arrangement under a recognised overseas pension scheme. It beings on the latest of the following dates:
+
+- the date when the benefits first began to accrue to or in respect of an individual under the overseas arrangement, and
+
+- 6 April 2006
+
+It ends on the earliest of the following dates:
+
+- Immediately before the transfer was made
+
+- The date when the benefits ceased to accrue to or in respect of the individual under the overseas arrangement
+
+- 5 April 2024
+
+The relevant relievable amount is calculated in a number of different ways depending on whether the individual’s recognised overseas pension scheme arrangement is:
+
+- a cash balance arrangement (see PTM175220 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175220)),
+
+- an other money purchase arrangement (see PTM175230 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175230)),
+
+- a defined benefits arrangement (see PTM175240 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175240)), or
+
+- a hybrid arrangement (see PTM175250 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm175250)).
+
+Normally there will be only one of those types of arrangement in a recognised overseas pension scheme. If that is the case there will be a single transfer and, if applicable, a single calculation of a relevant relievable amount. The basis of the calculation will be determined by the type of arrangement it is.
+
+However, it is possible that an individual could be accruing benefits under different types of arrangement within a single recognised overseas pension scheme that has multiple arrangements. For example, a member of a defined benefits scheme could have two types of arrangement if they were making additional voluntary contributions to the scheme. That is because the additional voluntary contributions would be an other money purchase arrangement. Should that be the case, and if the total amount transferred from the recognised overseas pension scheme related to separate transfers from each of the arrangements, separate calculations of any relevant relievable amounts would need to be made.
+
+Examples of how to calculate the recognised overseas transfer factor
+
+Example 1
+
+Ken transferred £200,000 from his arrangement under a recognised overseas pension scheme on 7 April 2023. He doesn’t have a relevant relievable amount, he applies for an overseas scheme transfer factor on 15 April 2024.
+
+The standard lifetime allowance for the 2023-24 tax year is £1,073,100.
+
+£200,000 / £1,073,100 = 0.19.
+
+The resulting factor is 0.19.
+
+Example 2
+
+Neeta transferred £800,000 from her recognised overseas pension scheme to a registered pension scheme on 8 June 2022. She had a relevant relievable amount of £400,000.
+
+Deduct the relevant relievable amount from the amount of the transfer.
+
+£800,000 - £400,000 = £400,000
+
+Determine the overseas transfer factor by dividing the result by the standard lifetime allowance at the date of the transfer. The standard lifetime allowance for the 2022-23 tax year £1,073,100.
+
+£400,000 / £1,073,100 = 0.37
+
+The resulting factor is 0.37

@@ -1,0 +1,30 @@
+Decentralised Finance: Lending and staking: Chargeable Gains: DeFi Lending and repos
+Identifier: CRYPTO61610
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61610
+Published: 2022-02-02T15:06:02+00:00
+Updated: 2022-02-02T15:05:50+00:00
+Retrieved (UTC): 2026-09-18T16:18:42.955031+00:00
+
+Section 263A Taxation of Chargeable Gains Act (TCGA) 1992 applies to the sale and repurchase (also known as a repo) of securities. Section 263B TCGA 1992 applies to the lending of securities. Both of these provisions rely on the definition of securities in section 263AA(8) TCGA 1992. This says that “securities” for these purposes means:
+
+(a) shares in a company wherever resident,
+
+(b) loan stock or other securities of—
+
+(i) the government of the United Kingdom,
+
+(ii) a local authority in the United Kingdom,
+
+(iii) another public authority in the United Kingdom,
+
+(iv) a company resident in the United Kingdom or other body resident in the United Kingdom, or
+
+(c) shares, loan stock, stock or other securities issued by—
+
+(i) a government, local authority or other public authority of a territory outside the United Kingdom, or
+
+(ii) another body of persons not resident in the United Kingdom.
+
+It will be a question of fact whether the tokens being loaned and borrowed or staked (as applicable) can satisfy this definition to be securities for the purposes of sections 263A or 263B TCGA 1992. Generally tokens will not be securities for this purpose.
+
+If you come across a case where the customer is arguing that section 263A or 263B TCGA 1992 applies then you should refer the case for advice, following the guidance at CRYPTO100500 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto100500).

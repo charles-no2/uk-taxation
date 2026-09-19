@@ -1,0 +1,56 @@
+Companies and groups of companies: administration: insolvency
+Identifier: CG40400
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg40400
+Published: 2016-03-12T11:02:09+00:00
+Updated: 2026-09-02T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:31:56.237107+00:00
+
+TCGA92/S8 (6)
+
+The appointment of a liquidator in the case of a voluntary or compulsory liquidation of a company does not give rise to a disposal of
+
+- assets by the company
+
+- shares by the shareholders.
+
+The reasons for this are
+
+- the liquidator is treated for all Capital Gains Tax purposes as a `bare trustee', see CG34300+
+
+- disposals by the shareholders take place when the liquidator makes distributions of assets, see below.
+
+You should treat a receiver or manager who is appointed to control the affairs of a company in the same way as a liquidator even though that person may be a receiver for creditors or debenture holders. See CG15260 in connection with the allowance of expenses incurred by the liquidator in disposing of a company's assets.
+
+Distributions: general
+
+If after collecting and realising a company's assets and meeting the company's liabilities, including expenses incurred in the course of the liquidation, the liquidator has any surplus assets, these are available for distribution to the members. The receiptof such a distribution is the occasion of a disposal by the shareholders. Distributions may be in cash or in kind, see below. There may also be more than one distribution in the course of a winding up, see below.
+
+Distributions in kind
+
+TCGA92/S17 (1)
+
+The liquidator may distribute assets such as real property, shares and securities andchattels without turning them into cash. When this happens, there is for Capital Gainspurposes
+
+- a disposal by the liquidator of those assets for a consideration which is deemed to be equal to their respective market values
+
+- an acquisition of those assets by the shareholders at the same market values
+
+- a disposal by each shareholder of shares in the company for a consideration which includes the market value of the assets received in kind.
+
+More than one distribution
+
+There is often more than one distribution during the course of winding up a company.Each distribution represents a part-disposal by the shareholder of the shares in thecompany (see CG57800 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57800)) for instructions on part-disposals). In such a case, where the sharesof the company are unquoted at the date of the first or later distribution, an Inspectorshould accept any valuation from a taxpayer or agent of the residual value of the sharesat the date of the particular distribution for use in the part-disposal formula, providedthat
+
+- the valuation appears reasonable, and
+
+- the liquidation is expected to be completed within two years of the first distribution (and does not in fact extend much beyond that period).
+
+The valuation need not include a discount for deferment. If the distributions arecompleted before the chargeable gains are assessed, it should be accepted that theresidual value of the shares in relation to a particular distribution is equal to theactual amount of all subsequent distributions.
+
+Groups of companies
+
+TCGA92/S170
+
+The commencement of the winding up of a company is not an occasion on which a companyceases to be a member of a group of companies, TCGA92/S170 (11). When assets aredistributed in kind within a group of companies as defined by TCGA92/S170 there is no chargeable gain or allowable loss on the assets themselves. However, the third bullet shown remains applicable as regards the deemed disposal of shares in the company, Innocent v Whaddon Estates Ltd 55TC476.
+
+Where the disposal of shares in a member of a group of companies gives rise to a loss, the instructions concerning depreciatory transactions at CG46500+ should be considered.

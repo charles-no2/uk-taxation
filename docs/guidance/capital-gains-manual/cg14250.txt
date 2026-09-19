@@ -1,0 +1,74 @@
+Introduction and computation: computation: date of disposal: importance and how to determine the date of disposal
+Identifier: CG14250
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14250
+Published: 2016-03-12T10:05:11+00:00
+Updated: 2026-02-11T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:37:18.755346+00:00
+
+Why is the date of disposal important?
+
+When someone has disposed of an asset (or where the law deems a disposal), it is necessary to identify the date of the disposal. This is important as it will determine the tax year (or, for companies, accounting period) in which any chargeable gain arises. The date of disposal could influence:
+
+- the deadline for declaring the disposal
+
+- the rate of tax charged
+
+- the date that any tax owing must be paid
+
+- in the case of individuals, the annual exempt amount (AEA) that is available
+
+- whether or not the gain is chargeable, for example if an individual is resident in the UK in one tax year but not in another
+
+There are other capital gains rules for which the dates on which someone owned or ceased to own an asset are important, for example to determine the availability of a relief. You may sometimes need to look at different dates for different purposes. For example, the date of acquisition and date of disposal that apply to determine the tax year of the disposal will not necessarily be the same as the dates used to determine the period of ownership for private residence relief, see CG64923 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64923). You are most likely to need to consider two different dates for two different purpose in this way when there is a disposal under contract. CG14261 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14261) provides further guidance on disposals under contracts and on interactions between different rules.
+
+In addition, it will always be important to confirm whether there has in fact been a disposal. CG12700P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12700p) provides information about determining whether a disposal has taken place, including deemed disposals.
+
+How to determine the date of disposal
+
+Where disposal and acquisition take place under contract, in most circumstances, section 28 of the Taxation of Chargeable Gains Act (TCGA) 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/28) fixes the time of disposal.
+
+If the disposal is made under an unconditional contract the date of disposal is the date the contract is made, see section 28(1) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/28).
+
+If the contract is conditional the date of disposal is the date all of the conditions are satisfied, see section 28(2) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/28) and CG14261 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14261).
+
+If there is a disposal and there is no contract, the general rule is that the date of disposal is the date the actual disposal or deemed disposal occurs, see CG12700P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12700p).
+
+There are however a number of situations where statute prescribes a specific date:
+
+1. where a capital sum is derived from an asset there is a deemed disposal under section 22 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/22) - the date of the deemed disposal will depend on the circumstances, see CG12960 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12960)
+
+2. where an asset has been entirely lost, destroyed, dissipated, or extinguished then the date of disposal is the date the event occurs that deems the disposal of the asset, see section 24(1) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/24) and CG13120P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13120p)
+
+3. where a claim is made by the owner of an asset that it has become of negligible value, the date of the deemed disposal is the date the claim is received by HMRC, or an earlier time if specified in the claim, see section 24(2) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/24) and CG13130 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13130)
+
+4. where land is acquired under compulsory purchase powers, section 246 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/246) applies - the date of disposal will depend on the circumstances, see CG72101 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg72101)
+
+5. a debt is disposed of when it is satisfied, see section 251(2) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/251) and CG53405 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53405)
+
+6. in the case of a transfer of an asset held in trust by trustees to a beneficiary, the date of disposal of the asset is when the beneficiary became absolutely entitled to the asset, see section 71(1) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/71) and CG37000C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37000c)
+
+7. where hire purchase agreements are entered into, the date of disposal is the start of the hire period when the purchaser obtains use and enjoyment of the asset, see section 27 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/27) and CG12860 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12860)
+
+8. for appropriations to and from trading stock, see section 161(1) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/161) and section 161(2) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/161), the date of the deemed disposal occurs on the date of the appropriation, see CG67900 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg67900)
+
+9. where there is a court order which transfers an asset, the date of disposal depends on the particular circumstances of the transfer, see CG22420 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg22420)
+
+10. for a capital distribution, the date of disposal is the date of receipt or entitlement, see section 122(1) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/122) and CG57800P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57800p)
+
+11. options, see CG12300P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12300p):
+
+a) the grant of an option is a disposal of an asset (the option), and is a disposal under contract to which section 28 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/28) applies (see above)
+
+b) where an option to buy is exercised, however, the grant and subsequent exercise of the option are treated as a single transaction, see section 144 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/144) - this is again a disposal under contract, but the contract is the contract for sale formed at the date of exercise of the option
+
+12. in cases where value shifting takes place, and there is no actual disposal, the date of disposal is deemed to be:
+
+a) in the case of shares, this is the date value actually passes, see section 29(2) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/29)
+
+b) in the case of certain lease transactions, this is the date rights are adjusted, see section 29(4) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/29)
+
+c) in the case of rights, this is the date the right is extinguished, see section 29(5) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/29) and CG58859 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58859)
+
+13. in cases where value shifting takes place and there is an actual disposal, the date of disposal is the date of the actual disposal, see section 30 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/30)
+
+This list may not be exhaustive. If you encounter a scenario not covered in this list, it is important to consider whether the statute and guidance in this manual gives an answer.

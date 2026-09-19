@@ -1,0 +1,127 @@
+Information and administration: requirement to provide a BCE statement to the member
+Identifier: PTM164400
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164400
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2024-04-06T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:50:21.397572+00:00
+
+As of 6 April 2024 there is no longer lifetime allowance. If you are looking for information about protections, enhancement factors and the lifetime allowance charge please see these pages on The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022829/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm090000). If you are looking for information about the principles of lifetime allowance and benefit crystallisation events please see these pages of The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022836/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm080000).
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+As of the 6 April 2024 the lifetime allowance was abolished. There is no longer a requirement to provide BCE statements to the member, however there is a requirement to provide relevant benefit crystallisation event statements to the members. You can read more about this at PTM164600 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164600).
+
+For events that occured prior to the 6 April 2024 the below information should still be considered.
+
+Regulation 14 The Registered Pension Schemes (Provision of Information) Regulations 2006 - SI 2006/567
+
+Whenever a benefit crystallisation event (BCE) occurs the member must be given a statement telling them how much lifetime allowance has been used up by the BCE. This information will enable the member to:
+
+- work out if they have any lifetime allowance available at subsequent BCEs
+
+- correctly complete any tax return.
+
+The requirement to provide this BCE statement will fall either on the scheme administrator or an insurance company. PTM164500 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164500) provides guidance as to when an insurance company has to provide a BCE statement.
+
+When the scheme administrator has to provide a BCE statement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164400#IDAKISXH)
+When the scheme administrator doesn’t have to provide an annual BCE statement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164400#IDAZJSXH)
+What should be included in the BCE statement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164400#IDAKLSXH)
+How to calculate the percentage of standard lifetime allowance used up (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164400#IDANMSXH)
+Substitute P60s (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164400#IDA2QSXH)
+Penalties (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164400#IDAKRSXH)
+
+When the scheme administrator has to provide a BCE statement
+
+The scheme administrator must give a BCE statement to the member (or if the member has died to their personal representatives).
+
+The scheme administrator must give the member a BCE statement:
+
+- at least once every tax year if the member is receiving a pension from the scheme (this includes the member having designated funds to provide drawdown pension), or
+
+- where the scheme administrator isn’t required to provide an annual BCE statement for the tax year, within three months of a BCE that has occurred under the scheme in respect of the member (this doesn’t include a statement in respect of a BCE 5C, BCE 5D or BCE 7 as the scheme administrator is required to notify the member's personal representatives of this - see PTM165100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm165100)).
+
+If the first BCE in respect of the member triggers a 'deemed BCE' under Article 28 of The Taxation of Pension Schemes (Transitional Provisions) Order 2006 - SI 2006/572 (see PTM063250 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063250)), a reporting requirement arises in respect of that 'deemed BCE'. The scheme administrator for the scheme in which the 'deemed BCE' occurs must provide a statement to the member in respect of the 'deemed BCE', within 3 months of the actual BCE which triggered it.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164400#Top)
+
+When the scheme administrator doesn’t have to provide an annual BCE statement
+
+The scheme administrator doesn’t need to provide an annual BCE statement in the following circumstances:
+
+- if an insurance company is required to provide the BCE statement - see PTM164500 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164500)
+
+- in any tax year following the tax year in which the member reaches age 75 (so if the member is 75 in 2014-15 no annual BCE statement is required for 2015-16 and subsequent tax years but a BCE statement will still need to be provided in respect of any BCE 3 that occurs)
+
+- if the only pension ‘payable’ under the scheme was flexi-access drawdown (or before 6 April 2015 flexible drawdown) in any tax year following the tax year in which the member exhausted their drawdown fund (for example, if the member’s only pension under the scheme was flexible drawdown and they exhausted the flexible drawdown pension fund in 2014-15 no annual BCE statement is needed from 2015-16 onwards)
+
+- if the only access to the pension arrangement has not been a pension payment (for example, payment of an uncrystallised funds pension lump sum (see PTM063300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063300)) or transfer to a qualifying recognised overseas pension scheme - in these cases the BCE statement will still be required but must be provided within 3 months of the date of the BCE)
+
+- in respect of a pension to which the member had an actual entitlement before 6 April 2006 (see PTM088200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm088200) for the meaning of becoming entitled to a pension).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164400#Top)
+
+What should be included in the BCE statement
+
+The BCE statement must show the percentage of the standard lifetime allowance used up by:
+
+- any BCEs under the scheme in respect of the member to the extent that sums and assets representing those benefits have not been transferred to another registered pension scheme
+
+- where the scheme has received a transfer of crystallised rights the BCEs that occurred in respect of those transferred in rights.
+
+A pension commencement lump sum (PCLS) can be paid up to 12 months after the date of the BCE 6 for the lump sum. The BCE 6 for a PCLS occurs when entitlement to the connected pension arises and the amount of the BCE is the amount of PCLS actually paid.
+
+If the PCLS hasn’t been paid by the time the BCE statement need to be given to the member the scheme administrator may not know the value of the BCE 6 for the PCLS. The scheme administrator should know the approximate amount that is planned to be paid by the scheme and they should use this amount when preparing the BCE statement. If the final amount of the PCLS is different from the amount used to prepare the BCE statement, the scheme administrator should send an amended BCE statement to the member.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164400#Top)
+
+How to calculate the percentage of standard lifetime allowance used up
+
+Regulation 7 The Registered Pension Schemes (Provision of Information) Regulations 2006 - SI 2006/567
+
+The percentage of standard lifetime allowance used up by each BCE is found using the following formula
+
+AE / RSLA x 100 / 1
+
+AE means the amount of lifetime allowance used up by the BCE. This is found by adding AC and SFTP.
+
+AC = the amount crystallised by the BCE
+
+SFTP = the amount covered by a scheme-funded tax payment (see PTM085000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm085000)) in relation to that BCE
+
+RSLA = the relevant standard lifetime allowance at the time of that event
+
+The total percentage of standard lifetime allowance used up in relation to a member is the sum of all the percentages calculated using the formula above for each relevant benefit crystallisation event in respect of the member.
+
+The percentage expressed on the statement should go to two decimal places (for example, 25.55%). This should be a rounded down figure, so 25.558% becomes 25.55%.
+
+Individuals with fixed protection, fixed protection 2014, fixed protection 2016, individual protection 2014 and individual protection 2016
+
+These forms of lifetime allowance protection work by changing the standard lifetime allowance for the protected individual. When preparing BCE statements for such individuals the calculation is carried out in the same way as described above but in respect of a BCE that occurred whilst the individual had the protection the alternative figures shown below are used.
+
+However if at the time of the BCE the normal standard lifetime allowance is more than the protected amounts shown below the normal standard lifetime allowance is used.
+
+- fixed protection - £1.8 million; for BCEs on or after 6 April 2012
+
+- fixed protection 2014 - £1.5 million; for BCEs on or after 6 April 2014
+
+- fixed protection 2016 - £1.25 million; for BCEs on or after 6 April 2016
+
+- individual protection 2014 - the relevant protected amount (see PTM094200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm094200)); for BCEs on or after 6 April 2014
+
+- individual protection 20164 - the relevant protected amount (see PTM094210 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm094210)); for BCEs on or after 6 April 2016
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164400#Top)
+
+Substitute P60s
+
+There’s no prescribed form for giving the annual BCE statement to the member. One option for providing the annual BCE statement to members is to include the figure on form P60 substitute issued annually to members receiving a pension. Form P60 substitutes must be agreed in advance by HMRC. Guidance on the specifications for P60 substitute forms and their approval is published on gov.uk (see https://www.gov.uk/government/publications/paye-draft-forms-summary-for-software-developers (https://www.gov.uk/government/publications/paye-draft-forms-summary-for-software-developers)).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm164400#Top)
+
+Penalties
+
+Where a scheme administrator does not provide the member with a BCE statement, or provides it late, the scheme administrator may be liable to a penalty - see PTM160800 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm160800).
+
+HMRC will not normally seek to raise a penalty where the scheme administrator has not been able to provide the statement to the member in the tax year in which the benefit crystallisation occurs as long as the member is provided with the statement within 3 months of the BCE.
+
+Where a substitute P60 is used to provide an annual BCE statement as long as the P60 is provided by the deadline set by the PAYE rules HMRC will normally regard the P60 as delivering the annual statement in time for the tax to which the P60 relates.

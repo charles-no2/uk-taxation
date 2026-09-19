@@ -1,0 +1,22 @@
+RDA: Allowances and charges
+Identifier: CA60500
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca60500
+Published: 2016-04-16T09:04:52+01:00
+Updated: 2020-01-13T17:39:15+00:00
+Retrieved (UTC): 2026-09-18T16:20:11.005757+00:00
+
+CAA01/S441 - S442
+
+The rate of RDA is 100%. Normally RDA is 100% of the qualifying expenditure. If, however, a disposal value has to be brought to account for that expenditure in the chargeable period for which a RDA is to be made, the RDA is 100% of the expenditure less the disposal value. RDA is made for the chargeable period in which the qualifying expenditure is incurred unless the expenditure was incurred before the trade began. If the qualifying expenditure was incurred before the trade began RDA is made for the chargeable period in which the trade begins.
+
+A person does not need to claim the full 100% RDA but if a reduced amount is claimed the balance cannot be claimed later.
+
+There are no balancing allowances for RDA. There is a balancing charge if there is a disposal event CA60600 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca60600) and the disposal value is more than any unclaimed RDA. Unclaimed RDA is the part of the 100% RDA that was not claimed. The amount of the balancing charge is the smaller of:
+
+- the amount by which the disposal value exceeds any unclaimed RDA, and
+
+- the RDA made.
+
+Example
+
+Graham builds a laboratory for £1 million and uses it for research and development. He claims £750,000 RDA. The unclaimed RDA is £250,000 (= £1 million– £750,000). Three years later he sells the laboratory to Norman for £1.25 million.The RDA made, £750,000, is less than the amount by which the disposal value, £1.25million exceeds the unclaimed RDA, £250,000 and so the balancing charge is £750,000, the RDA made.

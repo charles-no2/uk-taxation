@@ -1,0 +1,22 @@
+Section 554Z5: liability condition
+Identifier: EIM46015
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim46015
+Published: 2017-10-02T16:00:54+01:00
+Updated: 2017-10-02T16:00:14+01:00
+Retrieved (UTC): 2026-09-18T14:23:37.653535+00:00
+
+ITEPA 2003 – section 554Z5(5)
+
+The liability condition is met if, at the time the relevant step is taken, the earlier tax liability is not yet due and payable.
+
+To obtain relief under this section, it is necessary to identify that there is an earlier tax liability which existed at the time when a relevant step is taken. The earlier tax liability was not paid at that time because it had not become due and payable.
+
+Example: RTI not yet due for notional payment
+
+An employer makes a payment of £1 million for the benefit of one of their employees into an EBT on 6 August 2017. This is immediately settled into a sub trust for the employee which creates an earmarking step under section 554B. This gives rise to a PAYE liability which becomes due and payable with the RTI remittance to HMRC due on 22 September 2017. For the purposes of section 554Z5(1), the amount of £1 million is sum Q.
+
+The trustees of the EBT make a loan of £700,000 to the employee on 21 August 2017. For the purposes of section 554Z5(1), this is sum P.
+
+Sum P overlaps with sum Q since it has been sourced from the same sum of money. The tax due on the earlier tax liability has not become due and payable at the time the relevant step is taken. The liability condition in respect of the earlier liability has therefore been met. The value of the relevant step can be reduced by the amount by which it overlaps with the value of the sum which was the subject of the earlier tax liability. The full amount overlaps here so the value of the £700,000 relevant step can be reduced to nil.
+
+If the employer fails to operate PAYE and pay the appropriate amount to HMRC on 22 September 2017, the £700,000 relevant step is still valued at nil for the purposes of section 554Z5. The overall effect is to prevent double taxation by locking the liability to the earlier tax liability and reducing the value of any relevant steps where that value arises from the same sum or asset.

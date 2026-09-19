@@ -1,0 +1,34 @@
+ETMD: transparent entities: division of business or transfer of assets
+Identifier: CG45725
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45725
+Published: 2016-03-12T11:08:49+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:41:14.001984+00:00
+
+TCGA 1992 section 140I is directed at transfers within either section 140A(1), or section 140A(1A), see CG45702 - CG45705, where the transferor or transferee company is a transparent entity; section 140I(1)(b).
+
+As suggested in CG45723 the first step is to establish whether one of the entities involved in the transactions is listed in annex 3 of the ETMD and whether it is a transparent entity within the meaning of section 140L(1)(c). The next step is to determine whether the conditions within section 140A are met irrespective of the fact one of the entities may be a transparent entity.
+
+However without a particular provision the answer to the final step may not be yes. Consequently interest holders in a transparent entity who are UK chargeable persons may not have the benefit of notional double taxation relief. The reason for this is that it is possible that two conditions within section 140A may not be met irrespective of the fact that for determining whether section 140A would apply you ignore the fact that an entity involved in the transactions is a transparent entity.
+
+The first of these is the requirement within section 140A(1)(a) or 140A(1A)(b) and that is that the trade or business that is being transferred is carried on in the UK by the transferor company. If that were not the case then irrespective of the fact that the transferor was a transparent entity within the meaning provided by section 140L(1)(c) this condition could not be met.
+
+This would mean that a UK chargeable person who held an interest in the transferor would be chargeable to UK tax on capital gains relative to their holding but they would not be entitled to any notional double taxation relief.
+
+The following example illustrates the problem.
+
+Entity A is resident in member state A and entity B is resident in member state B. Neither member state A or B are the UK. Entity A carries on a business through a permanent establishment in member state B. Both entities are transparent entities within the meaning provided section 140L(1)(c). Sally holds an interest in entity A and is a chargeable person to UK capital gains tax. Member states A and B have adopted the ETMD and for the purposes of tax in both states a transfer between entities A and B is considered to be tax neutral, ie. no charge to tax arises. However that does not determine how UK tax law would apply to Sally and she would be chargeable to capital gains tax on the disposal of the chargeable assets by entity A relative to her holding in entity A. Neither would Sally be entitled to any notional double taxation relief and the reason for this is that the business is not located in the UK and therefore the requirement within section 140A(1)(a) or section 140A(1A)(b) cannot be met. As section 140A would not apply then section 140I would not have any application.
+
+This is contrary to the principles within the ETMD and special provision has been made to ensure that Sally will have the benefit of notional double taxation relief.
+
+The other requirement within section 140A which might deny double taxation relief to UK chargeable persons who are interests holders in a transparent entity is the condition within section 140A(2). The requirement in that subsection is that if immediately after the time of the transfer or partial division the transferee or transferees are not resident within the UK then if it, or they, were to dispose of any of the assets that were transferred to it the disposal would give rise to a chargeable occasion within section 10B, see CG42100+.
+
+Looking again at the above example involving entities A and B as entity B, the transferee, is not UK resident and the business transferred to it is carried on in member state B, which is not the UK, then the condition within section 140A(2) would not be met.
+
+Section 140I(1) caters for these problems by allowing assumptions to be made when establishing whether section 140I applies. Note that these assumptions can only apply in determining whether notional double taxation relief can be granted within section 140I.
+
+The first of those assumptions is that where the transferor is a transparent entity it can be assumed that the business which is being transferred was carried on in the UK. Thus in the example the condition in either section 140A(1)(a) or section 140A(1A)(b) will be met.
+
+The second assumption is that where the transferee is a transparent entity it can be assumed that the condition within section 140A(2) is met, ie. immediately after the time of the transfer or partial division if the transferee or transferees were to dispose of any of the assets that were transferred to it or them then such a disposal would give rise to a chargeable occasion within section 10B, see CG42100+.
+
+Note the assumption only applies to those two conditions. It will still be necessary to determine whether all of the other conditions within section 140A are met.

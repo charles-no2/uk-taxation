@@ -1,0 +1,32 @@
+Death and Personal Representatives: Valuation of assets at date of death and associated liaison with Specialist PT-IHT: Ascertained values: Valuation of assets: ascertained values: unused IHT nil-rate band
+Identifier: CG32238
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg32238
+Published: 2016-03-12T10:37:34+00:00
+Updated: 2017-02-16T14:04:31+00:00
+Retrieved (UTC): 2026-09-18T14:31:27.930407+00:00
+
+IHTA1984/S8A
+
+Finance Act 2008 introduced a new provision, IHTA1984/S8A, under which, where
+
+- a person [the first person] has died at any time whether before or after the new provision was enacted,
+
+- and his or her nil rate band for IHT or CTT was not fully used,
+
+- and the spouse or civil partner of that person subsequently dies on or after 9 October 2007,
+
+the nil-rate band of the second person to die is increased by a sum representing the unused portion of the first person’s nil-rate band.
+
+Special rules apply where the deceased estate was liable to Estate Duty.
+
+Detailed guidance on the ‘unused nil-rate band’ can be found at IHTM43001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43001) onwards.
+
+TCGA1992/S274 was amended so that in this situation, although the value of the first person’s estate immediately before death now requires to be ascertained, TCGA1992/S274 does not apply to assets forming part of that estate.
+
+Example
+
+Mr X dies in 2000. Part of his nil-rate band for IHT is used, but there is no IHT liability. He and his wife Mrs X jointly owned an investment property. All his estate is left to Mrs X. If IHT had been applicable the value of his half share would have been based on the value of the whole of the property under IHTA 1984/S161, see IHTM09731 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09731).
+
+In 2006 Mrs X sells the whole of the property. S274 does not apply to the half share deriving from Mr X because, as there was no IHT liability, the value of that share was not ascertained. Instead the base cost under S272 of the half deriving from Mr X is the market value for CGT purposes of that share at his death.
+
+In 2008 Mrs X dies. Her nil-rate band is increased to reflect the unused portion of Mr X’s nil-rate band. The valuation of Mr X’s joint interest for IHT may well be higher than the valuation used for CGT purposes previously. Nevertheless the CGT value is not changed.

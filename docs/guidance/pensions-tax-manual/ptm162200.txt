@@ -1,0 +1,225 @@
+Information and administration: information needed to submit an AFT
+Identifier: PTM162200
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-04-29T09:50:42+01:00
+Retrieved (UTC): 2026-09-18T14:50:19.210255+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Regulation 3 The Registered Pension Schemes (Accounting and Assessment) Regulations 2005 - SI 2005/3454
+
+The accounting for tax (AFT) return must be submitted electronically using Pension Schemes Online or the Managing Pension Schemes service. Guidance on using Pension Schemes Online can be found in the Guide to using the Online Service for scheme administrators (https://www.gov.uk/government/publications/pension-schemes-online-user-guide/a-guide-to-using-the-online-service-for-scheme-administrators-and-practitioners).
+
+Submission by scheme administrator or sub-scheme administrator (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#IDAZH4ZD)
+Submission by a practitioner (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#IDAT0PXH)
+Submission by an insurance company (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#IDAE4PXH)
+Information needed to report the short service refund lump sum charge (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#IDAY3PXH)
+Information needed to report the lifetime allowance charge (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#IDAJ1PXH)
+Information needed to report the special lump sum death benefits charge (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#IDAW3PXH)
+Information needed to report the serious ill-health lump sum charge (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#IDAISPXH)
+Information needed to report the annual allowance charge (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#IDAPXPXH)
+Information needed to report the overseas transfer charge (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#otc)
+Information needed to report the authorised surplus payments charge (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#IDAUTPXH)
+Information needed to report the de-registration charge (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#IDA1JPXH)
+What a scheme administrator should do if they do not have the member’s National Insurance number (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#IDACLPXH)
+
+Submission by scheme administrator or sub-scheme administrator
+
+Information needed to complete the AFT return:
+
+- details of the tax charges to be reported (see below for further information), and
+
+- the pension scheme tax reference number (PSTR).
+
+Where the scheme administrator is not aware of the PSTR for their scheme they will need to know:
+
+- the pension scheme name, and
+
+- the SF reference number (the old approval reference number) for the scheme.
+
+If the scheme is a retirement annuity contract or a deferred annuity contract made before 6 April 2006 it will not have a SF reference number. The contract or policy number will be needed to file the AFT return.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#Top)
+
+Submission by a practitioner
+
+In addition to the information needed by the scheme administrator a practitioner will also need to know:
+
+- the Scheme Administrator ID of the scheme administrator who has approved the content of the AFT return, and
+
+- the name and address of the scheme administrator who has approved the content of the AFT return.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#Top)
+
+Submission by an insurance company
+
+Where an insurance company is submitting an AFT return to report liability to the special lump sum death benefit charge instead:
+
+- details of the special lump sum death benefits charge to be reported, and
+
+- the contract or policy number of the annuity or policy contract that paid the lump sum death benefit that triggered the tax charge.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#Top)
+
+Information needed to report the short service refund lump sum charge
+
+The short service refund lump sum charge is due when the scheme pays a short service refund lump sum. The information that needs to be recorded on the AFT return is:
+
+- the number of members who received a short service refund lump sum in the quarter
+
+- the total amount of tax payable at 20%, and
+
+- the total amount of tax payable at 50%.
+
+PTM045000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm045000) explains how short service refund lump sums are taxed.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#Top)
+
+Information needed to report the lifetime allowance charge
+
+The lifetime allowance charge was due when a member crystallised benefits of more than the member’s lifetime allowance prior to the 6 April 2023. The information that needs to be recorded on the AFT return is:
+
+- the number of members in the quarter who have been liable to the lifetime allowance charge, and
+
+- for each member liable to the lifetime allowance charge:
+
+- their name
+
+- their National Insurance number
+
+- the date of the benefit crystallisation event giving rise to the lifetime allowance charge
+
+- the amount of tax due at 25%, and
+
+- the amount of tax due at 55%.
+
+See below for What a scheme administrator should do if they do not have the member’s National Insurance number (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#IDACLPXH).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#Top)
+
+Information needed to report the special lump sum death benefits charge
+
+The special lump sum death benefits charge may be due when a scheme pays:
+
+- a pension protection lump sum death benefit - see PTM073300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073300) for when the tax charge applies
+
+- an annuity protection lump sum death benefit - see PTM073400 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073400) for when this lump sum is taxable
+
+- a drawdown pension fund lump sum death benefit - see PTM073500 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073500) for when the tax charge applies
+
+- a flexi-access drawdown fund lump sum death benefit - PTM073600 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073600) describes when this lump sum is taxable
+
+- a defined benefits lump sum death benefit where the member died on or after 6 April 2011 and they were 75 or older when they died - see PTM073100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073100), or
+
+- an uncrystallised funds lump sum death benefit - PTM073200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073200) describes in what circumstances the tax charge arises.
+
+The information that needs to be recorded on the AFT return is:
+
+- the number of deceased members for which payment of the lump sum death benefits listed above were made in the quarter, and
+
+- the amount of tax due entered in whole pounds.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#Top)
+
+Information needed to report the serious ill-health lump sum charge
+
+The serious ill-health lump sum charge was due when a scheme paid a serious ill-health lump sum on or after 6 April 2011 and before 16 September 2016 to a member aged 75 or older.
+
+The information needed to be recorded on the AFT return is:
+
+- the number of members aged 75 or over who were paid a serious ill-health lump sum in the quarter, and
+
+- the amount of tax due entered in whole pounds.
+
+PTM063400 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063400) gives more information on how a serious ill-health lump sum is taxed.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#Top)
+
+Information needed to report the annual allowance charge
+
+The annual allowance charge is due when a member has pension saving in a tax year of more than their available annual allowance. Guidance on how the annual allowance works starts at PTM050000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm050000).
+
+A member may be able to have their pension scheme pay the annual allowance charge for them. (The member’s benefits will be reduced if the scheme pays the annual allowance charge.) Guidance on how a scheme can pay the annual allowance charge starts at PTM056400 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm056400).
+
+The information that needs to be recorded on the AFT return is:
+
+- the number of members in the quarter for whom the scheme administrator is paying the annual allowance charge, and
+
+- for each member liable to the annual allowance charge:
+
+- their name
+
+- their National Insurance number
+
+- the date the scheme administrator received the notice from the member requiring them to pay the annual allowance charge
+
+- the amount of the annual allowance charge (entered in whole pounds) and
+
+- the tax year to which the annual allowance charge relates.
+
+If the scheme has paid more than one annual allowance charge for a member (because they have given more than one notice in the same tax year) an entry is needed for each notice using the relevant date for each notice. For example, if a scheme administrator receives two notices from a member and the amount for each notice is returned in the same quarter there should be two entries on the AFT return for that member for the quarter concerned.
+
+Where reporting the annual allowance charge using Managing Pension Schemes service, scheme administrators are also requested to indicate whether the payment type is mandatory.
+
+See below for What a scheme administrator should do if they do not have the member’s National Insurance number (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#IDACLPXH).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#Top)
+
+Information needed to report the overseas transfer charge
+
+The overseas transfer charge is due when a scheme makes a transfer (that was requested on or after 9 March 2017) to a qualifying recognised overseas pension scheme (QROPS) and either
+
+- the transfer doesn’t meet one of the five exclusion conditions, or
+
+- the member has not provided the scheme administrator with the required information before the transfer (see PTM102900 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102900)).
+
+PTM102200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102200) provides more information about the overseas transfer charge. The scheme administrator and member are jointly and severally liable to the tax charge.
+
+The information that needs to be recorded on the AFT return is:
+
+- the name, date of birth and National Insurance number for each member liable to the overseas transfer charge
+
+- the date and ‘transferred value’ (see PTM102500 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm102500)) of each transfer
+
+- the amount of tax due in respect of each transfer, and
+
+- the reference number given by HMRC to the QROPS to which each transfer is made.
+
+Information needed to report the authorised surplus payments charge
+
+The authorised surplus payments charge is due when a scheme makes an authorised surplus payment to a sponsoring employer. The information that needs to be recorded on the AFT return is:
+
+- the number of employers who received an authorised surplus payment, and
+
+- for each sponsoring employer who received such a payment:
+
+- the name of the sponsoring employer
+
+- their registered address
+
+- if the employer is a company their company registration number
+
+- the date of payment of the authorised surplus payment
+
+- the amount of tax due entered in whole pounds.
+
+PTM145200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm145200) gives more information about authorised surplus payments and how they are taxed.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#Top)
+
+Information needed to report the de-registration charge
+
+If a scheme has its registration withdrawn the de-registration charge is payable. The information that needs to be recorded on the AFT return is:
+
+- the date that the scheme was de-registered, and
+
+- the amount of tax due entered in whole pounds.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162200#Top)
+
+What a scheme administrator should do if they do not have the member’s National Insurance number
+
+Where an individual gives the scheme administrator written confirmation that they do not qualify for a National Insurance number the scheme administrator should obtain an ‘alternative identifier’ from Pension Schemes Services. Follow the guidance in the section ‘If the individual is not entitled to a NINO’ at PTM161200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161200).
+
+Where the scheme administrator doesn’t know the member’s National Insurance number, that is, they haven’t been told that the member doesn’t qualify for one, the scheme administrator should follow the guidance in the section 'What happens if the scheme administrator is not provided with a NINO?' at PTM161200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161200).

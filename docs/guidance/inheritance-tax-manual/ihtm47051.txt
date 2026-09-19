@@ -1,0 +1,72 @@
+Long-term UK residence test: Foreign settled property: Qualifying Interests in Possession
+Identifier: IHTM47051
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47051
+Published: 2025-04-07T08:02:20+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:11:16.255677+00:00
+
+A qualifying interest in possession (IHTM16060 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16060)) is where a person entitled to an interest in possession in settled property is deemed to own the settled property in which their interest subsists (IHTM16061 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16061)).
+
+Whether foreign property comprised in a qualifying interest in possession settlement is excluded property (IHTM04251 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04251)) depends on the circumstances of the settlor and the person with the qualifying interest in possession:
+
+-
+
+At times on or after 6 April 2025, where there is a living settlor and both the settlor and the person with the qualifying interest in possession are not long-term UK residents (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000)), foreign settled property will be excluded property.
+
+-
+
+Where the settlor dies on or after 6 April 2025, if the settlor was not a long-term resident immediately before their death then foreign property comprised in the settlement will be excluded property at times where the person with the qualifying interest in possession is not long-term UK resident.
+
+-
+
+Where the settlor has died before 6 April 2025, if the settlor was not domiciled (IHTM13000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13000)) in the UK when the foreign property became comprised in the settlement then the foreign property will be excluded property. Where the settlor has died before 6 April 2025, the long-term UK residence status of the person with the qualifying interest in possession is not relevant.
+
+Where non-UK assets were comprised in a settlement and were excluded property immediately before 30 October 2024, these will not be subject to charge when the qualifying interest in possession that subsisted at 30 October 2024 comes to an end or on the death of the interest in possession beneficiary (IHTM47022 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47022)).
+
+Examples
+
+Example 1
+
+Jonah made a qualifying interest in possession settlement in his will and died in June 2025, when he was not a long-term UK resident. The life tenant of the settlement is Diana. Diana dies in November 2038.
+
+If Diana is a long-term UK resident at her death in November 2038, the settled property will be treated as part of her estate and chargeable to IHT.
+
+If Diana is not a long-term UK resident at her death, the foreign property in the settlement will be excluded property and there will be no IHT charge.
+
+Example 2
+
+Preta made a qualifying interest in possession settlement in March 1997 when she was UK domiciled.
+
+The life tenant of the settlement is Becky.
+
+The property in the settlement is foreign property.
+
+Becky is a long-term UK resident from 6 April 2040 to 5 April 2063.
+
+Preta is a long-term UK resident from 6 April 2025 to 5 April 2063.
+
+If Becky’s life interest comes to an end during her lifetime, she is treated as making a potentially exempt transfer (PET) (IHTM04072 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04072)) of the value of the settled property.
+
+-
+
+If the PET is made between 6 April 2025 and 5 April 2063, the PET will not be excluded property, and will be chargeable if Becky dies within 7 years, even if she is not a long-term UK resident at the time of her death. This will still be the case if the 7 year period ends after 6 April 2063.
+
+-
+
+If the PET is made after 6 April 2063, it will be a PET of excluded property (as both Preta the settlor and Becky the life tenant are now not long-term UK resident).
+
+Example 3
+
+Paula made a qualifying interest in possession settlement in September 2000 when she was not domiciled in the UK.
+
+The life tenant of the settlement is Christie, who is domiciled in the UK.  After Christie’s death, the property is held on discretionary trusts. The property in the settlement is foreign property.
+
+Paula moves to the UK in 2017-18 and obtains a UK domicile.
+
+Under the domicile rules which apply before 6 April 2025, the property in the settlement is excluded property, as the settlor, Paula, was domiciled outside the UK at the time the settlement was made.
+
+After 6 April 2025, the foreign settled property is no longer excluded property because Christie who is entitled to the qualifying interest in possession is a long-term UK resident.
+
+Christie dies in March 2031. However, because the settled property was excluded property immediately before 30 October 2024, there is no IHT charge upon Christie’s death.
+
+As Paula became a long-term UK resident on 6 April 2027 and remains a long-term UK resident in 2030-31, if the trust continues after Christie’s death, the foreign settled property will not be excluded property and will be subject to relevant property charges (IHTM42000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42000)).

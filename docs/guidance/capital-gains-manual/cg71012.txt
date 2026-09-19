@@ -1,0 +1,140 @@
+Leases: grant of lease out of short lease: part of land sub-let
+Identifier: CG71012
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71012
+Published: 2016-03-12T12:15:09+00:00
+Updated: 2026-07-30T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:48:12.083122+00:00
+
+TCGA92/Sch 8/Para 4 (3)
+
+Where:
+
+- a short lease is granted out of a short lease, and
+
+- the sub-lease covers only part of the land covered by the original lease
+
+the amount of the allowable expenditure on the grant of the sub-lease is reduced.
+
+There are a number of stages in the calculation:
+
+i) The amount of the premium chargeable as property income must be calculated, see CG70900P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70900p).
+
+ii) The part of the total allowable expenditure attributable to the part disposed of is calculated on A / (A+B) lines, see CG12730P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12730p).
+
+iii) The part of the expenditure which will waste away over the term of the sub-lease is calculated, see CG71001 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71001).
+
+iv) Any restriction due if the actual premium is less than the 'notional full premium' is calculated, see CG71007 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71007).
+
+v) All the above factors are combined to calculate the allowable expenditure.
+
+vi) The gain arising can then be computed.
+
+Any valuations which are required should be obtained from the Valuation Office, see CG74000C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg74000c).
+
+Example
+
+Mr P acquired a 55 year lease over a property in return for a premium of £300,000. The annual rent payable was £50,000. Eight years later he sub-let part of the property on a 21 year lease in return for a premium of £100,000. The annual rent payable under the sub-lease was £20,000.
+
+The Valuation Office stated that:
+
+- the value of the original lease at the date the property was sub-let was £500,000;
+
+- the amount included in the £500,000 which related to the part sub-let was £150,000;
+
+- the notional full premium for the part sub-let would be £120,000.
+
+Amount chargeable as property income:
+
+P x [ (50 - Y) / 50 ]
+
+P is the amount of the premium
+
+Y is the number of complete years (other than the first) in the term of the lease
+
+= £100,000 x [ (50 - 20) / 50 ]
+
+= £100,000 x 0.6
+
+= £60,000
+
+Part of total allowable expenditure attributable to the part disposed:
+
+Total allowable expenditure x A / (A+B)
+
+A is the disposal consideration
+
+B is the value retained at the time of the part disposal
+
+= £300,000 x £150,000 / (£150,000 + £500,000)
+
+= £90,000
+
+Part which will waste away over the term of the sub-lease:
+
+[ (C - D) / P(1) ]
+
+P (1) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the beginning of the period of ownership;
+
+C is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the remaining term of the lease when the sub-lease was granted;
+
+D is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the remaining term of the lease when the sub-lease expires.
+
+The percentages which are required from the table in TCGA92/Sch 8/Para 1, see CG71141 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71141), are:
+
+P (1) - Percentage for 55 years: 100
+
+C - Percentage for 47 years: 98.902
+
+D - Percentage for 26 years: 82.496
+
+[ (C - D) / P(1) ]
+
+= [ (98.902 - 82.496) / 100 ]
+
+= 0.16406
+
+Restriction where sub-lease at higher rent;
+
+Actual premium / Notional full premium
+
+= (£100,000 / £120,000)
+
+= 0.8333
+
+Allowable expenditure on grant of sub-lease:
+
+= £90,000 x 0.16406 x 0.8333
+
+= £12,305
+
+Gain accruing on grant of sub-lease:
+
+Premium
+
+|
+
+£100,000
+
+|
+
+Less allowable expenditure on grant of sub-lease
+
+|
+
+£12,305
+
+|
+
+Less amount chargeable as property income
+
+|
+
+£60,000
+
+|
+
+|
+
+£27,695
+
+|

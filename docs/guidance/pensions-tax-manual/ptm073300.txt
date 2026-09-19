@@ -1,0 +1,119 @@
+Death benefits: lump sums: pension protection lump sum death benefit
+Identifier: PTM073300
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073300
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2024-04-06T07:43:32+01:00
+Retrieved (UTC): 2026-09-18T14:49:38.066377+00:00
+
+As of 6 April 2024 there is no longer lifetime allowance. If you are looking for information about protections, enhancement factors and the lifetime allowance charge please see these pages on The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022829/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm090000). If you are looking for information about the principles of lifetime allowance and benefit crystallisation events please see these pages of The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022836/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm080000).
+
+Glossary
+
+|
+
+PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+|
+
+Paying a pension protection lump sum death benefit (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073300#IDAATXKD)
+Conditions for paying a pension protection lump sum death benefit (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073300#IDAARXKD)
+When and to whom a pension protection lump sum death benefit can be paid (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073300#IDAJXXKD)
+The maximum pension protection lump sum death benefit payable (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073300#maximum-benefit-payable)
+How a pension protection lump sum death benefit is taxed (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073300#IDA0OWKD)
+
+Paying a pension protection lump sum death benefit
+
+Where a member starts getting a scheme pension from a defined benefits arrangement they can choose to guarantee that a set amount of pension will be provided. If the member dies before the guaranteed amount of pension has been paid, the balance can be paid as a pension protection lump sum death benefit.
+
+Conditions for paying a pension protection lump sum death benefit
+
+Paragraph 14 Schedule 29 Finance Act 2004
+
+For a lump sum to be a pension protection lump sum death benefit it must satisfy all the following payment conditions. The payment conditions are:
+
+- it is paid in respect of a defined benefits arrangement,
+
+- it is paid in respect of a scheme pension to which the member was entitled at the date of the member’s death,
+
+- the member has specified that it is to be treated as a pension protection lump sum death benefit rather than a defined benefits lump sum death benefit (see PTM073100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073100)), and
+
+- the amount of the payment is not more than the ‘pension protection limit’ – see The maximum pension protection lump sum death benefit payable (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073300#maximum-benefit-payable).
+
+If the amount of the lump sum is more than the ‘pension protection limit’, the excess amount is not a pension protection lump sum death benefit. If the excess cannot be paid as some other type of lump sum death benefit it will be an unauthorised member payment and taxed accordingly (see PTM131000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm131000)). The amount of the lump sum up to the pension protection limit will be a pension protection lump sum death benefit.
+
+These are the payment conditions for lump sums paid on or after 6 April 2011. For guidance relating to payments made before 6 April 2011 see RPSM10105150 on the National Archives (https://webarchive.nationalarchives.gov.uk/*//www.hmrc.gov.uk/manuals/rpsmmanual/RPSM10105150.htm).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073300#Top)
+
+When and to whom a pension protection lump sum death benefit can be paid
+
+Where the member died on or after 6 April 2011, a pension protection lump sum death benefit can be paid whatever age the member was when they died. The pensions tax rules do not set any conditions on who can be paid this type of lump sum or any time limit for its payment. However the member’s pension scheme may have their own rules in respect of this payment.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073300#Top)
+
+The maximum pension protection lump sum death benefit payable
+
+Paragraph 14 Schedule 29 Finance Act 2004
+
+Article 33 Taxation of Pensions (Transitional Provisions) Regulations 2006 - SI 2006/572
+
+The ‘pension protection limit’ is the maximum amount that can be paid as a pension protection lump sum death benefit.
+
+Broadly the maximum pension protection lump sum death benefit that can be paid is the full amount of the scheme pension (based on the first 12 months value multiplied by 20) less the amount of scheme pension paid to the member. The “pension protection limit” is calculated using the formula
+
+(B x C) - AP - TPLS
+
+Where:
+
+B is the relevant valuation factor of 20
+
+C is the amount of the first 12 months' scheme pension
+
+AP is the amount of the scheme pension paid up to the time the member died. If the scheme pension started before 6 April 2006 only those pension payments made on or after 6 April 2006 are included.
+
+TPLS is the amount of any pension protection lump sum death benefit previously paid in relation to the member’s scheme pension entitlement either under the scheme or by any insurance company with which that entitlement had been secured.
+
+Example
+
+John becomes entitled to a scheme pension of £10,000 per annum under a defined benefits arrangement. John’s scheme administrator secures half the scheme pension liability by purchasing an annuity with pension protection from an insurance company. John specifies that any lump sum death benefit will be paid as a pension protection lump sum death benefit as opposed to a defined benefits lump sum death benefit.
+
+The value of the scheme pension (B x C) is £200,000. So, £200,000 is the maximum pension protection that can be provided under the scheme (or through any annuity contract secured by the scheme administrator).
+
+John dies aged 74 having received total scheme pension payments (AP) of £100,000. The maximum pension protection lump sum death benefit that can be paid on his death is £100,000. This limit is calculated as follows:
+
+- (B x C) - AP - TPLS, or
+
+- £200,000 (B x C) - £100,000 (AP) - £0 (TPLS) = £100,000.
+
+But if £50,000 was paid as a pension protection lump sum death benefit by the insurance company (in relation to the annuity contract securing part of the scheme pension entitlement), a further £50,000 could be paid direct from the scheme under the arrangement the pension entitlement arose from. The limit is calculated as follows:
+
+- (B x C) - AP - TPLS, or
+
+- £200,000 (B x C) - £100,000 (AP) - £50,000 (TPLS) = £50,000.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073300#Top)
+
+How a pension protection lump sum death benefit is taxed
+
+Death benefit paid on or after 6 April 2016
+
+Section 206 Finance Act 2004
+Sections 579A, 637I, 637R and 637S Income Tax (Earnings and Pensions) Act 2003
+Paragraph 131 Schedule 9 Finance Act 2024
+The Pension Benefits (Insurance Company Liable as Scheme Administrator) Regulations 2006 - SI 2006/136
+
+The tax treatment of pension protection lump sum death benefits paid on or after 6 April 2016 depends on how old the member was when they died, who receives the payment, and the amount of the deceased member's lump sum and death benefit allowance remaining.
+
+If the member was aged under 75 when they died the lump sum is not taxable unless the deceased member has insufficient lump sum and death benefit allowance remaining.
+
+The lump sum death benefit is taxable if the member was aged 75 or older when they died. Whether the taxable lump sum payment is:
+
+- taxable as income of the recipient, or
+
+- subject to the special lump sum death benefits charge
+
+depends on whether or not the lump sum is paid to a ‘non-qualifying person’. Payments to a ‘non-qualifying person' are subject to the special lump sum death benefits charge.
+
+A pension protection lump sum death benefit is a relevant lump sum and a relevant benefit crystallisation event unless it is paid from rights that previously crystallised under s216 Finance Act 2004. The payment is tested against the lump sum and death benefit allowance. The amount of the lump sum that exceeds the deceased member’s available allowance will be taxed as pension income at the recipient’s marginal rate.
+
+Go to PTM073010 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010) for more detailed information on the tax treatment of lump sum death benefits paid on or after 6 April 2016, including the lump sum and death benefit allowance and the definition of a ‘non-qualifying person’.

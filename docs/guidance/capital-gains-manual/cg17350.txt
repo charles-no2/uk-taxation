@@ -1,0 +1,18 @@
+Indexation: from 6/4/88: time-apportionment
+Identifier: CG17350
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17350
+Published: 2016-03-12T10:17:04+00:00
+Updated: 2025-11-11T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:38:26.691056+00:00
+
+In Smith v Schofield (65TC669), the question at issue was whether time apportionment, see CG15500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15500), was to be applied before or after indexation. The House of Lords confirmed the practice which HMRC has always followed, namely that the order of the computation is this:
+
+- Compute the unindexed gain, see CG17232 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17232),
+
+- Calculate indexation and deduct it from the unindexed gain,
+
+- Apply time-apportionment to the indexed gain.
+
+See example in CG17480 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg17480).
+
+It should be noted that it is still necessary to apply time- apportionment when operating the `kink test' for the purposes of rebasing, if the asset in question was held at 6 April 1965. See CG16730P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16730p).

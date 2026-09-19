@@ -1,0 +1,44 @@
+Qualifying corporate bonds: share reorganisations: the effect of section 116: shares and non QCBs to QCBs
+Identifier: CG53711
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53711
+Published: 2016-03-12T11:33:16+00:00
+Updated: 2016-01-26T09:09:40+00:00
+Retrieved (UTC): 2026-09-18T14:43:03.089060+00:00
+
+The examples at CG53709 show how in certain circumstances it would be possible for a gain attributable to a chargeable asset to fall out of the charge to tax if it were not for TCGA 1992 section 116. This paragraph explains in more detail the effect of section 116 where for the purposes of that section qualifying corporate bonds (QCBs) would constitute the new asset, [being all or part of the new holding], see CG53710. CG53712 explains the position where for the purposes of section 116 QCBs would constitute the old asset, [being all or part of the original shares].
+
+To prevent a chargeable gain falling out of charge section 116 has two main effects. As explained at CG53710 for section 116 to apply there has to be a relevant transaction to which sections 127 - 130 would otherwise apply.
+
+The first main effect is at section 116(5) which disapplies sections 127 - 130. Note: This does not necessarily mean that there has now been a disposal for the purposes of the TCGA. Where the new asset consists of a QCB section 116(10) deems there to be no disposal of the old asset thus partly reproducing the effect of section 127.
+
+The second main effect is at section 116(10). There are four distinct elements to subsection (10) where the new asset consists of a QCB.
+
+- Notwithstanding section 116(5), the opening part of section 116(10) in conjunction with section 116(9) directs that where the new asset consists of a QCB the relevant transaction is not to be treated as a disposal of the old asset.
+
+- Section 116(10)(a) directs that at the time of the relevant transaction (eg. the exchange of the shares for the QCB) a gain is to be computed as if there had been a disposal of the old asset for consideration equal to its market value immediately before the relevant transaction. Using the details of the second example in CG53709 where Anna exchanges her shares in HCL for QCBs in BCS then that exchange is the relevant transaction.
+
+Again using the details of the second example in CG53709 the market value of the HCL shares at 1/1/2011 was £20,000 against a cost of £100. Therefore the gain computed under section 116(10)(a) is £19,900.
+
+- Section 116(10)(b) directs that the gain computed under section 116(10)(a) is deemed to accrue when there is a disposal of the new asset which in Anna’s case is when she disposes of the QCBs in BCS. Subsection (10)(b) also directs that the gain computed under section 116(10)(a) is in addition to any gain that accrues on the disposal of the new asset (the QCBs in BCS).
+
+In Anna’s case the QCBs were redeemed on 1/1/2013 so that is when the gain computed under section 116(10)(a) comes into charge. On redemption of the QCBs in BCS Anna may have received no more than the face value of the QCBs, ie. £20,000, in which case there would be no additional gain over that computed under section 116(10)(a). If Anna did receive more than face value, say £30,000 then the additional gain would be £10,000.
+
+- Section 116(10)(c) ensures that section 115 cannot have any effect on the gain computed under section 116(10)(a). However section 115 does apply to any additional gain.
+
+Using the example quoted above section 116(10)(c) ensures that section 115 does not apply to the accrued gain on the shares, ie. £19,900. However section 115 will apply to the additional gain of £10,000.
+
+To summarise the position so far.
+
+- Section 116 can only have effect where sections 127-130 would otherwise apply.
+
+- The first main effect of section 116 is to disapply sections 127 - 130.
+
+- Where the old asset was not a QCB and the new asset consists of a QCB section 116(10) imposes a no disposal treatment for the relevant transaction. See CG53712 below for the opposite situation where the old asset did consist of a QCB and the new asset does not.
+
+- A computation is to be prepared on the basis that there had been a disposal of the old asset at market value immediately before the time of the relevant transaction.
+
+- The gain computed under 4 above is deemed to accrue when there has been disposal of the new asset.
+
+- Any gain on the new asset is in addition to the gain computed under 4 above. Section 115 will not apply to the gain computed under 4 above but will apply to any additional gain that accrues on the new asset.
+
+Note the effect produced by section 116(10) is subject to sections 116(12) - (14) see CG53717

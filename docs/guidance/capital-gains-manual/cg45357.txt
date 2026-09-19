@@ -1,0 +1,120 @@
+CG groups: transfers by election, frequently asked questions
+Identifier: CG45357
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357
+Published: 2016-03-12T11:06:41+00:00
+Updated: 2026-09-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:40:54.281037+00:00
+
+This guidance addresses some common issues that have been raised in relation to elections under TCGA1992/S171A and TCGA1992/S179A. It is written in terms of the legislation as amended by Finance Act 2009 but is also applicable to the earlier version.
+
+What form should election take? (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#IDAKTW2H)
+What amount of gain or loss is transferred by an election? (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#IDAJUW2H)
+Can I accept a late election? (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#IDARVW2H)
+Can the parties amend or withdraw an election? (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#IDABWW2H)
+Can the parties make a “contingent” or “protective” election? (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#IDAJWW2H)
+Can the parties make an all-embracing election? (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#IDARWW2H)
+How does the “section 171 would have applied” test work? (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#IDA3WW2H)
+Can an election be used to set a "clogged" loss against a gain? (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#IDAFXW2H)
+Can a degrouping charge be transferred under Section 171A to a company that leaves the group? (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#IDANXW2H)
+How does Section 171A affect claims to roll-over relief? (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#IDAVXW2H)
+Can an election be made for a gain rolled over into a depreciating asset? (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#IDAMIX2H)
+
+What form should election take?
+
+There is no prescribed form of an election but it must be made jointly by A and B by notice in writing (TCGA1992/S288(1) provides that notices must be in writing).
+
+It is important that both HMRC and the group are clear that an election has been made and know the effect on the corporation tax returns of the companies involved. Subject to the time limit discussed below, you may accept as an election -
+
+- A stand-alone document given by a person or persons authorised to act for companies A and B. The effect of the election should be reflected in the returns or amended returns of both companies.
+
+- Where the returns for companies A and B are submitted at the same time, computations provided in the returns of both companies that each clearly refer to a transfer under TCGA1992/S171A and give computational effect to the transfer.
+
+Strictly, an election relates to a single gain or loss. There is no objection to having multiple elections set out in a single document.
+
+Where a group of companies is within the simplified arrangements for group relief (CTM97610 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm97610)), you may accept elections shown as additional entries on the schedule provided for this purpose provided the entries show clearly the amounts being transferred from each individual company to another. However, the statutory framework for group relief simplified arrangements does not apply to capital gains and losses; in particular, the time limit for making or amending an election remains that prescribed in TCGA1992/S171A(5)(b) and TCGA1992/S179A(10)(b). Sufficient detail should be provided to identify the particular gains and losses being transferred and the amount of each transfer.
+
+Where the election is in the form of a stand-alone document then where the company has a Customer Compliance Manager or other named officer or specialist office dealing with its affairs then it should be sent to them. Otherwise it should be sent to: Corporation Tax Services, HM Revenue and Customs, BX9 1AX, United Kingdom.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#Top)
+
+What amount of gain or loss is transferred by an election?
+
+It must be possible to give effect to the amount of the election in the returns of A and B at the time they are submitted. It must also be possible to give effect to the amount of the election if the amount of the chargeable gain or allowable loss changes as the result of an enquiry or otherwise.
+
+An election may be in respect of the whole or part of a gain or loss and may be expressed as an amount, a fraction or a percentage. You should not treat an amount shown in an election as a fixed amount in pounds unless the election clearly states this.
+
+Subject to the requirement to be able to determine the effect of the election in pounds, the provision does allow the parties some flexibility, illustrated by the following example:
+
+A returns a gain of 100 and elects to transfer all of this gain to B. Following enquiry, A’s gain is agreed at 150.
+
+- The election was in respect of the whole of the gain so the effect is to transfer 150 to B. If B had allowable losses of 120 then B’s chargeable gains would be 30.
+
+- If B had allowable losses of 100 then the parties may wish to specify that the amount of the gain transferred by the election is fixed at that amount. So when A’s gains are agreed as 150 the amount in pounds covered by the election does not change; instead 50 will continue to accrue to A.
+
+- If B had allowable losses of 120 then the parties may wish to specify that the whole of the gain is transferred to a maximum of that amount. When A’s gains are agreed as 150 the amount in pounds covered by the election will be the stated maximum of 120 and a chargeable gain of 30 will continue to accrue to A.
+
+You should not accept elections that refer to some amount that cannot be calculated in pounds when the returns are submitted. For example, where A seeks to surrender “such amount of gains as is equal to the allowable losses that are finally agreed in B, less any amount of gain X may subsequently elect into B”.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#Top)
+
+Can I accept a late election?
+
+There is no statutory discretion to extend the time limit of two years from the end of the accounting period of A in which the gain or loss accrues. CG13700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg13700) and SACM10035 (https://www.gov.uk/hmrc-internal-manuals/self-assessment-claims-manual/sacm10035)+ provide guidance if you receive a late election. You may accept a late election that meets the criteria set out in that guidance if it is submitted within one year of the statutory time limit. Where you do not consider that an election should be accepted then please explain why to the companies. The decision to refuse a late election (if the matter is pressed) or to accept one made more than a year after the time limit will be made by Capital Gains Technical Group. Where a such decision is required you should make a report to the Group that includes any representations made by the companies involved and your recommendation.
+
+There is no general provision within corporation tax self assessment that permits consequential claims and elections to be made in respect of the return which has been the subject of an enquiry on completion of the enquiry into the return.
+
+Paragraphs 61-64 of Schedule 18 Finance Act 1998 may extend the time limit for making elections in the case of discovery assessments and certain consequential assessments of other returns made as a consequence of a closure notice. An election made within these time limits is not late. See CH55200 (https://www.gov.uk/hmrc-internal-manuals/compliance-handbook/ch55200).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#Top)
+
+Can the parties amend or withdraw an election?
+
+An election under TCGA1992/S171A or TCGA1992/S179A is not irrevocable; one can be amended or withdrawn within the claim time limit. Introducing a new counterparty to an election is not an amendment but the making of a new election and this must be done within election the time limit in TCGA1992/S171A (5) or TCGA1992/S179A (10).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#Top)
+
+Can the parties make a “contingent” or “protective” election?
+
+A group may take the view that a gain (or loss) is nil or that one does not arise. HMRC enquiries may in due course establish that there is a gain - perhaps because an incorrect valuation was used or it established that an exemption does not apply. However there is a possibility that this is established only after the time limit for making an election has passed. You may accept an election made within the time limit on a contingent basis that will only have effect as and when it is established that a chargeable gain or allowable loss accrues. The election should identify the asset in question.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#Top)
+
+Can the parties make an all-embracing election?
+
+You can accept an election under TCGA1992/S171A that does not identify particular gains and losses if it is clearly states that all of A’s gains and losses accruing in the accounting period are to be transferred to B.
+
+Sometimes it will not be possible to determine what degrouping charges arise by the time a company is disposed of out of a group. The vendor group may wish to make elections under TCGA1992/S179A on a contingent basis at the time of the sale to avoid the purchaser group becoming liable. These elections should identify the assets in respect of which a charge may arise; you should not accept a purported election that seeks to cover any charges that may arise without identifying the assets involved.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#Top)
+
+How does the “section 171 would have applied” test work?
+
+In considering the requirement in TCGA1992/S171A(1)(c) you should assume that a transfer of the asset in respect of which the gain or loss accrued has taken place. It is not necessary to consider whether such a hypothetical transfer would actually have been possible.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#Top)
+
+Can an election be used to set a "clogged" loss against a gain?
+
+Section 18(3) provides that a loss on a disposal to a connected person can only be set against a gain on a disposal to the same person. Such losses are often referred to as being "clogged". Where such a loss is made on a disposal by a group member an election may be used to allow the loss to be set against a gain accruing to another group member on a disposal to the same connected person.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#Top)
+
+Can a degrouping charge be transferred under Section 171A to a company that leaves the group?
+
+Finance Act 2011 changed the way the degrouping charge operates when a company leaves a group on a disposal of shares by a group company. It also brings the degrouping charge within TCGA1992/S171A. It is acceptable to make an election between a company that leaves a group and one that remains a member at the moment of leaving. For example, company D sells shares in company E which leaves the group together with its subsidiary F. This triggers a degrouping charge in company F which leads to an increase in the consideration on the share disposal by D; E has unused capital losses. An election can be made to transfer all or part of the gain from D to E.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45357#Top)
+
+How does Section 171A affect claims to roll-over relief?
+
+A claim to business asset roll-over relief under TCGA92/S152 is a claim to have applied the consideration received for the disposal of certain business assets in the acquisition of replacement business assets, with a consequent reduction in the chargeable gain to the extent that the consideration has been so applied, see CG60250 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg60250) onwards. TCGA92/S175 modifies the rules in TCGA92/S152 to TCGA92/S158 for business asset roll-over relief in order to apply them to groups, see CG45930 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45930) onwards.
+
+Where an election is made under TCGA92/S171A to transfer a gain from one group company to another, the entitlement to claim roll-over relief remains with the transferor company. The chargeable gain that is transferred will be the net chargeable gain after giving effect to any claim to roll-over relief.
+
+Where a claim to roll-over relief is made that involves two group companies, see CG45948 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45948), the claim to roll-over relief should be made jointly by the company making the disposal and the company making the acquisition.
+
+For example, group company G disposes of an asset and group company H acquires a replacement asset. Any claim to roll-over relief should be made jointly by G and H. This is so even if company G makes a joint election with company J to transfer the chargeable gain to company J, for example where there is only partial roll-over relief and TCGA92/S153 applies, see CG60290 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg60290). The chargeable gain transferred is the gain net of roll-over relief.
+
+Can an election be made for a gain rolled over into a depreciating asset?
+
+A gain on an asset may be "rolled over" into the acquisition of a second asset. If the second asset is a depreciating asset then the original gain is brought into charge in the circumstances set out in TCGA92/S154(2). The gain will be "in respect of " the first asset which may not exist at the time the gain accrues. An election may still be possible because, as mentioned above, for the purposes of the "section 171 would have applied" test, you should assume that the original asset was transferred from company A to company B at the time the gain accrues.

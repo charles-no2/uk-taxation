@@ -1,0 +1,102 @@
+Proportionate charges: rate between ten year anniversaries
+Identifier: IHTM42115
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42115
+Published: 2016-04-09T10:24:07+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:09:29.697841+00:00
+
+The rate of tax between anniversaries is a proportion of the rate that was charged at the previous ten-year anniversary (TYA), IHTA/S69(1).
+
+(Changes introduced by FA15 do not provide for the ‘effective rate’ of a TYA falling before 18 November 2015 to be adjusted in calculating the rate for a proportionate charge arising on or after that date).
+
+The proportion referred to depends upon the number of complete quarter years (‘40ths’) in the period between the date of the last anniversary and the day before the charge.
+
+For example
+
+If the anniversary was on 15 January 2017 and the trustees make a distribution, just over 2 and a half years later, on the 31 July 2019 then you count 10 complete quarter years, i.e. 10/40ths. That is the proportion.
+
+So, if the rate at the last anniversary was 3.3% then the rate of tax on the distribution will be 3.3% x 10/40 = 0.825%.
+
+It also follows that if the rate of tax at the last anniversary was nil then no Inheritance Tax (IHT) is charged on the distribution.
+
+However, there are situations where the rate at the last anniversary must be adjusted to take account of changes between the last anniversary and the date of charge. In such situations the added value is treated as if it were relevant property at the last anniversary (IHTA84/S69(2)). This will increase the initial rate, but it could also give rise to rate relief on a subsequent distribution.
+
+An adjustment will be necessary when
+
+-
+
+the settlor adds more relevant property to the trust
+
+-
+
+the settlor makes a same day addition to another trust (IHTM42233 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42233)) or
+
+-
+
+property that was non-relevant property at the last anniversary (or added later) has become relevant property, for example because the property becomes UK situs (IHTM27071 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm27071)) or because the settlor has become long-term UK resident (IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000#)).
+
+An adjustment is also made if the nil rate band has changed but only if it leads to a reduction. If so, then you recalculate the nil rate band available using the new lower band (IHTA84/Sch 2 para 3).
+
+Example 1: addition by settlor
+
+At the last anniversary on 15 March 2017 the value of the relevant property was £500,000 and the nil rate band available, after proportional charges of £100,000 in the previous ten- year period, was £225,000.
+
+The initial rate of tax was calculated as follows
+
+Relevant property  £500,000
+
+Less NRBA £225,000
+
+Balance   £275,000
+
+At 20%   £55,000
+
+Proportion   11% (55/500)
+
+Three-10ths   3.3%
+
+Before any distribution is made by the trustees the settlor adds £200,000 to the trust. If there is a subsequent distribution the initial rate will be
+
+Relevant property £500,000
+
+Addition £200,000
+
+£700,000
+
+Less £225,000
+
+Balance £475,000
+
+At 20% £95,000
+
+Proportion 13.571% (95/700)
+
+Three-10ths 4.071
+
+Example 2: non-relevant property becomes relevant property
+
+At the last anniversary on 15 March 2016 there was no relevant property in the trust because the settlor was not domiciled in the UK and the trust asset was a shareholding in a foreign company, i.e. the shares were excluded property. However, on the 6 April 2017 the shareholding became relevant property because its value was attributable to the value of UK residential property. The value on 6 April 2017 was £900,000.
+
+If there is a subsequent charge, then the initial rate will be
+
+Relevant property at the last anniversary  (nil)
+
+New relevant property £900,000
+
+Less nil rate band £325,000
+
+Balance £575,000
+
+At 20% £115,000
+
+Proportion 12.778% (115/900)
+
+Three-10ths 3.833%
+
+The rate process after any adjustment above is the same as it is for charges before the first anniversary (IHTM42114 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42114)).
+
+- you count the number of complete quarter years between the last anniversary and the day before the date of charge and apply that against the historic rate (or the adjusted rate) but
+
+- if the trustees distribute new relevant property, then you do not take into account the number of complete quarters between the last anniversary and the date the property became relevant property and
+
+- if the trustees are paying the IHT from the remaining relevant property the amount distributed will need to be ‘grossed up’. (IHTM42118 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42118))

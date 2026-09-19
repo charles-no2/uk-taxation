@@ -1,0 +1,50 @@
+Employment income: sick pay and injury payments: sick pay funded partly by the employer and partly by employees
+Identifier: EIM06430
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim06430
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-12-01T15:29:31+00:00
+Retrieved (UTC): 2026-09-18T14:19:26.021648+00:00
+
+Section 221 ITEPA 2003
+
+The part of the sick pay funded by the employer is taxable as employment income (see EIM06410 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim06410)).
+
+The part of the sick pay funded by the employee is not taxable as employment income but may be chargeable as Savings and Investment Income (see EIM06420 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim06420) and IPTM6100 (https://www.gov.uk/hmrc-internal-manuals/insurance-policyholder-taxation-manual/iptm6100) and subsequent). If payments that are chargeable as Savings and Investment Income are made without deduction of tax at the basic rate, consider issuing a self-assessment return to the employee (see SAM120000 (https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam120000)).
+
+Strictly the contributions of employer and employee and the means by which administration of the scheme is financed should be taken into account in deciding the amount of sick pay taxable as employment income. In practice, administration expenses should be ignored if the proportion of sick pay taxable as employment income can be agreed in accordance with the following:
+
+(a) Employee’s and employer’s contribution fixed in advance
+
+The proportion of sick pay taxable as employment income is:
+
+A ÷ ( A + B)
+
+A = Employers Contribution
+
+B = Employees Contribution
+
+Each measured over the same period (usually a week, a month or a year).
+
+If the relative contributions change, the proportion of sick pay taxable as employment income should be recalculated from the date of change. The chargeable proportion need not stay constant over an income tax year; changes can take effect at any time during the year and may do so during a period of sickness. (This content has been withheld because of exemptions in the Freedom of Information Act 2000)
+
+See example EIM06460 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim06460).
+
+(b) Employees’ or employer’s contributions variable
+
+If the employees’ or the employer’s contributions are not fixed in advance it will not usually be possible to calculate the relative contributions of employer and employee until after the end of the year.
+
+As soon as possible after the scheme’s year end (which need not coincide with an income tax year end) the scheme’s organiser should be asked to state the employees’ total contributions for the year and the employer’s total contributions. The chargeable proportion can be calculated as in (a) above and used from the date of calculation until another calculation is prepared at the end of the following year, provided that all the parties agree to this procedure (see example EIM06460 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim06460)).
+
+When first proposing this method you should explain that:
+
+- it avoids the need to adjust the employees’ tax liabilities retrospectively
+
+- although the employer’s contributions may vary proportionately from year to year, the variation in terms of tax is significantly less
+
+- use of this method rather than the strict statutory basis is just as likely to result in a small under-deduction of tax as it is in a small over-deduction
+
+Despite the relatively small effect on the tax due, ensure that the chargeable proportion of sick pay is recalculated after each schemes’ year end on the basis of the contributions for that year. If this is not done, the inaccuracy of the calculations is likely to increase. The recalculated proportion should be applied to payments of sick pay made after the date of recalculation but should not be used retrospectively unless a strict statutory basis has been insisted upon.
+
+Using a Salary Sacrifice
+
+For instances where an employer provides income protection policies through a salary sacrifice arrangement with their employees see guidance at EIM06470 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim06470).

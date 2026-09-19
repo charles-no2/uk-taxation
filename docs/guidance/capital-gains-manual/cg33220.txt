@@ -1,0 +1,130 @@
+Basic terms of trust law as applied to CGT: Basic terms 
+Identifier: CG33220
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33220
+Published: 2016-03-12T10:39:11+00:00
+Updated: 2025-11-12T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:31:32.032847+00:00
+
+Different legal systems (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33220#different-legal-systems)
+
+Settled property (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33220#settled-property)
+
+Settlor up to 5 April 2006 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33220#settlor-up-to-5-April-2006)
+
+Settlor from 6 April 2006 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33220#settlor-from-6-april-2006)
+
+Legal and beneficial interests (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33220#legal-and-beneficial-interests)
+
+Creation of trusts (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33220#creation-of-trusts)
+
+Different legal systems
+
+Most settlements are subject either to the law of England and Wales or the law of Scotland. There are significant differences in the respective trust law of each country. Care should be taken to avoid using English legal expressions and referring to English statutes when dealing with Scottish trusts.
+
+It is generally possible for a settlor to choose which country's law should apply. Normally a settlor chooses the law of his country of domicile or the country in which the trustees are resident. In doubtful cases the deed specifies the proper law of the trust. When you look at a Scottish trust deed for the first time, you will immediately notice its distinctive language and drafting style. (It is often constructed as one single sentence.)
+
+Occasionally trusts may be met which are subject to the law of Northern Ireland or the Irish Republic. The trust law of both is similar to that of England and Wales.
+
+Settled property
+
+TCGA92/S68
+
+`Settled property' is defined in TCGA92/S68 as any property held in trust except property to which TCGA92/S60 (bare trusts - see below) applies.
+
+Unit trusts, see CG41300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg41300)+, are subject to special rules and not treated as trusts.
+
+Section 60 applies to `bare trusts', that is to say situations where the beneficiary is `absolutely entitled as against the trustee', see CG34300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34300), to the property held by the trustees. In such a situation the trustees are ignored for Capital Gains Tax purposes and the beneficiaries are treated as directly owning the relevant property or shares in it.
+
+Settlor up to 5 April 2006
+
+TCGA92/SCH1/PARA2 (7)
+
+Under TCGA92/SCH1/PARA2 (7) for the purposes of the annual exempt amount, see CG33100 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33100), the word `settlor' was defined in accordance with ICTA88/S660G (1) (from 6 April 2005 ITTOIA2005/S620) as any person by whom the settlement was made. This definition is extended to include any person who has made or entered into the settlement directly or indirectly and in particular anyone who has provided or undertaken to provide funds directly or indirectly for the purposes of the settlement. It also covers the situation where two persons make reciprocal arrangements with one another. There is no judicial guidance on the precise meaning of "made" and "entered into" although they have been present in the Income Tax legislation for many years. They would appear to be descriptive of anyone who can reasonably be described as settlor in accordance with the relevant legislation but also anyone who has created a settlement as a formality or put property into a settlement other than for full consideration.
+
+TCGA92/SCH1/PARA2 (7) also extends the definition to include a testator or intestate where there is a settlement arising under a will or intestacy. There can be several settlors of one settlement. It is possible for a company to be a settlor for these purposes.
+
+The significance of the extension to persons who have undertaken to provide funds, but have not yet done so, is first that the person is a settlor for the annual exempt amount, see CG18000C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg18000c), and second that such a person is connected to the trustees.
+
+Because a person who has 'made' or 'entered into' a settlement is within the definition of settlor it is not considered necessary for 'bounty' to have been provided. Therefore commercial settlements such as employee trusts have a settlor. See CG33580 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33580).
+
+Where trustees exercise a special power of appointment, or power of advancement, in such a way as to create a new settlement, see CG37800 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37800)+, the settlor of the new settlement is the person who was the settlor of the old one. See, for example, Pilkington v CIR, 40TC416, page 442, and Chinn v Collins, 54TC311, page 351H.
+
+Normally the same person was the settlor for both Income Tax and Capital Gains Tax. But this was not the case where a person had assigned a right to income. Such an assignment could not have affected the identity of the settlor for Capital Gains Tax purposes. There are also certain other circumstances where the settlors may be different, in particular where there has been a Deed of Family Arrangement varying a will, (see CG31400 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg31400)+).
+
+Settlor from 6 April 2006
+
+TCGA92/S68A, S68B, and S68C as introduced in Finance Act 2006 provide a comprehensive code for the definition of settlor in TCGA.
+
+In one or two areas discussed in subsequent paragraphs the law has been changed slightly, and a person previously regarded as a settlor will not be so regarded, and a person who was not previously regarded as a settlor will be so regarded. The changes take effect from 6 April 2006 for all cases, except Instrument of Variation cases (CG33220 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33220)) however old the settlement.
+
+Similar provisions apply from 6 April 2006 for the general purposes of Income Tax, but not necessarily for the purposes of the 'Settlements legislation' in Chapter 5 Part 5 ITTOIA 2005. For information on the income tax ‘settlements legislation’ please refer to TSEM4000+.
+
+The guidance in this paragraph and the next three is designed to draw attention to points which may arise in the normal course of events. It is not intended as a substitute for the actual wording of the legislation.
+
+TCGA92/S68A
+
+In most cases establishing the identity of the settlor is a simple matter. A deed of settlement is drawn up by A appointing X and Y as trustees and reciting that property has been transferred to the trustees. The property may be anything from a nominal cash sum to a substantial block of land or investments. Later, further assets may be added by A (this is particularly likely if the original settlement was of a nominal sum). In the normal course of events the trustees may sell some assets and purchase replacements. In this situation A and no one else is regarded as settlor. The property consists of assets put into the settlement by A or assets derived from assets put in by A.
+
+Assets are derived from other assets if for example they are bought with the proceeds of the sale of other assets, or out of accumulated income, or are bonus issues of shares. See further West v Trennery 76TC713.
+
+Sometimes a further person B may add property to the settlement in which case B is also a settlor of the settlement.
+
+Basically under S68A(1) to (3) a person is a settlor if:
+
+- he made or entered into the settlement. This describes the person who has had the deed drawn up on his behalf. The property may come from elsewhere; or the transfer of property to the settlement may be without 'bounty' (see next bullet),
+
+- he has provided property for the purposes of the settlement. On the basis of CIR v Leiner 41TC589 these words are regarded as applying only where there is 'bounty'.
+
+- the property is settled as a result of his will or intestacy.
+
+A deceased settlor continues to be regarded as a settlor. So if for example C made a settlement during his lifetime for his children (after 6 June 1978), and set up a settlement for his grandchildren in his will, these two settlements form a group for the purposes of the annual exempt amount see CG18090 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg18090)+.
+
+A person ceases to be a settlor if there is no settled property left of which he could be said to be settlor, unless he has undertaken to provide further property or has made reciprocal arrangements for someone else to provide property for the settlement. For example A and B execute a deed of variation under which property left to them by their father's will is resettled on behalf of their children. Broadly speaking half the income and capital is held for the children of A and the other half for the children of B. From the time the variation is made, A and B are settlors of the settlement (see CG33220 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33220)). In due course the share relating to A's children has been wholly distributed. In this case we should say that A was no longer a settlor.
+
+TCGA92/S68A
+
+A person is a settlor if he makes a settlement indirectly or if he provides property indirectly for the purposes of the settlement. The classic examples are Mills v CIR, 49TC367, and Crossland v Hawkins 39TC493. In both cases trustees of a settlement owned shares in a company which provided the services of an actor to a major film company. The dividends from the shares went to the trustees. In each case the actor was held to be indirectly providing property for the purposes of the settlement, because his actions generated income from the shares.
+
+If A and B enter into 'reciprocal arrangements' under which A provides property for B's settlement in return for B providing property for A’s settlement, then B, and not A, is the settlor of B's settlement, and vice versa. The word 'arrangements' is widely defined in subsection (8).
+
+TCGA92/S68B
+
+This section is concerned with the situation where the trustees of Settlement 1 ["S1"] transfer property to the trustees of Settlement 2 ["S2"], including cases where property is created by S1 on behalf of S2, such as the grant of a lease by the trustees of S1 to the trustees of S2.
+
+Unless the transfer is for full consideration, or by way of a bargain at arm's length section 68B applies. The reason for having these two alternatives is to allow for the possibility that S1 and S2 are connected persons (so that any transaction between them is not at arm’s length by virtue of TCGA92/S18), and S1 sells an asset to S2 for its full market value. In such a case we do not want section 18 to cause section 68B to apply.
+
+It is not unusual for trustees to appoint or advance assets to a newly created trust. See for example Hart v Briscoe 52TC53. Courts have said, see for example Chinn v Collins 54TC311, that the trustees in such a situation are perfecting the settlor's original gift in settlement. Therefore in such a case section 68B has the effect that it is the original settlor of S1 who is the settlor of S2. The property is treated as having been provided for the purposes of S2.
+
+However there are three specific cases which are excluded.
+
+- A beneficiary, B, of S1 may transfer to S2 his interest in S1. In this case it is B who is the settlor (or an additional settlor) of S2.
+
+- Under the terms of S1 D may have a general power of appointment. If so D is the settlor (or additional settlor) of S2.
+
+- If section 68C(6) applies (see below).
+
+It is not considered that s68B effected any change in the law.
+
+TCGA92/S68C
+
+Section 68C is concerned with the position where following the execution of a deed or other instrument of variation, to which TCGA92/S62 (6) has applied, property is settled property, whether or not it was settled under the original will or intestacy.
+
+However it only applies where the deed etc. was executed after 5 April 2006.
+
+The main guidance is at CG37880 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37880)+.
+
+Legal and beneficial interests
+
+In English and Irish law it is conventional to refer to the division of ownership between the legal owners (the trustees) and the beneficial owners (the beneficiaries). This reflects the fact that the beneficiaries in a number of specified situations have actual rights over the trust property. By way of contrast, in Scottish law the beneficiaries have no equitable rights in the trust property itself. They can only sue the trustees to ensure the proper administration of the trust. The concept of beneficial ownership is unknown to Scottish law.
+
+Creation of trusts
+
+Trusts may be express trusts or implied trusts.
+
+Express trusts are generally made by deed, by will or by the operation of law (for example, in an intestacy). In exceptional cases they can be made orally.
+
+Implied trusts arise by operation of law in certain well-established circumstances. These can be divided into
+
+- resulting trusts, which may arise where a person has bought property in the name of another person, see CG34380 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34380), or where property is put into a trust, the terms of which for some reason fail to dispose of all the beneficial interests in income and/or capital, and
+
+- constructive trusts, where the law considers it would be unfair for a person with control of property to use it in a way which disregards interests of another person in that property, which are not otherwise protected by law.

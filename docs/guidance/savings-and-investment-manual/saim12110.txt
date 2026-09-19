@@ -1,0 +1,48 @@
+Peer to peer lending: Calculating peer to peer tax relief: Amount of peer to peer tax relief available
+Identifier: SAIM12110
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim12110
+Published: 2016-12-06T14:55:49+00:00
+Updated: 2016-12-06T12:17:24+00:00
+Retrieved (UTC): 2026-09-18T14:27:28.285112+00:00
+
+Peer to peer (P2P) tax relief for irrecoverable P2P loans can only be set against interest received by the lender on other P2P loans. It cannot be used against any other form of income.
+
+If the right to recover the loan still rests with the original lender
+
+The amount of relief available is the amount originally lent, less any repayments of the principal of the loan already received.
+
+If the right to recover the loan has been assigned
+
+The amount of relief available is the lower of
+
+- The amount paid for the right to receive the principal of the loan less subsequent repayments
+
+- The amount of the principal of the loan outstanding on assignment, less subsequent repayments.
+
+Example 1
+
+Terry lends £20 through a P2P platform. £5 is repaid, whilst £15 becomes irrecoverable. Terry can claim relief for the £15.
+
+Example 2
+
+Luke lends £20 through a P2P platform. He then assigns the right to recover the remaining principal to Brenda for £15. £5 of the loan is repaid to Brenda. The remaining principal of the loan becomes irrecoverable.
+
+The amount of relief that Brenda can claim is the lower of:
+
+- amount paid for the loan to be reassigned, less subsequent repayments (£15 - £5 = £10) and
+
+- the principal of the loan outstanding on assignment, less subsequent repayments (£20 - £5 = £15)
+
+So the amount of relief Brenda can claim is £10.
+
+Example 3
+
+Steve lends £20 through a P2P platform. He then assigns the right to recover the remaining principal to Alice for £22. £5 of the loan is repaid to Alice. The remaining principal of the loan is written off.
+
+The amount of relief is the lower of:
+
+- amount paid for the loan to be reassigned, less subsequent repayments (£22 - £5 = £17) and
+
+- the principal of the loan outstanding on assignment, less subsequent repayments (£20 - £5 = £15)
+
+So the amount of relief that Alice can claim is £15.

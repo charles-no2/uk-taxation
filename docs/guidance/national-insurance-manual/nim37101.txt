@@ -1,0 +1,18 @@
+Refunds: Class 1: excess: over 53 weeks posting in one employment: nil posting in other employment(s)
+Identifier: NIM37101
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim37101
+Published: 2016-04-11T17:51:41+01:00
+Updated: 2022-04-13T11:36:59+01:00
+Retrieved (UTC): 2026-09-18T15:17:38.107878+00:00
+
+Regulations 21 and 52A of the Social Security (Contributions) Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+An employee can be liable to pay National Insurance contributions (NICs) above the annual maximum in a single Class 1 employment (see NIM37012 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim37012)). No refund is due where there is only one source of employment because contributions have been correctly paid.
+
+However, where an earner is in two or more employments the annual maximum limits the amount of contributions payable by an individual. Regulation 52A allows for a refund to be made where there has been a payment of contributions in excess of the annual maximum specified by regulation 21.
+
+It is possible for an earner to pay contributions above the annual maximum in a single employment and to have other employment(s) in which no NICs liability arises. In these circumstances a refund of the excess contributions can be made.
+
+There is no requirement within regulation 52A for NICs to be paid in each employment for a refund to be considered, only that there is more than one employment and the maximum is exceeded. However, it is important to establish that there are two or more separate and distinct employments.
+
+These refunds will be identified automatically by NPS in the normal way, and output for processing action.

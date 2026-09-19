@@ -1,0 +1,44 @@
+Rules about excepted estates: examples where transferable nil rate band applies
+Identifier: IHTM06026
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm06026
+Published: 2016-03-20T09:22:41+00:00
+Updated: 2021-12-13T14:11:49+00:00
+Retrieved (UTC): 2026-09-18T14:54:00.353458+00:00
+
+Example 1
+
+Robert died on 7 June 2010, leaving an estate consisting of property passing by Will of £300,000, and having made specified chargeable transfers of £140,000 3 years before he died. His wife, Hilda, died before him on 15 October 2002, leaving her whole estate to Robert.
+
+Robert’s personal representatives may make a claim to transfer the whole of Hilda’s nil rate band. As the gross value of Robert’s estate (£440,000) does not exceed £650,000, his estate qualifies as an excepted estate.
+
+Example 2
+
+Annette died on 24 October 2010, leaving an estate of £925,000 passing by Will, of which £300,000 is bequeathed to her second husband, Ian. She was predeceased by her first husband Andrew who left his entire estate to her.
+
+Annette’s personal representative may make a claim to transfer the whole of Andrew’s nil rate band. As the net chargeable value of Annette’s estate after deducting spouse exemption (£925,000 - 300,000 = £625,000) does not exceed £650,000, her estate qualifies as an excepted estate.
+
+Example 3
+
+James died on 21 January 2011, leaving a free estate of £600,000. His first wife, Jane, died before him in June 2002 and left her whole estate to James. During her lifetime she had made chargeable transfers of £100,000.
+
+James’ second wife, Mary died in February 2008, and left her whole estate worth £200,000 to James.
+
+James has survived both his wives. Jane’s estate does not meet the conditions for the estate of the first deceased person, so any transferable nil rate band (TNRB) from her estate must be ignored. But Mary’s estate does qualify so a claim can be made to transfer the whole of her nil rate band. As the gross value of James’ estate (£600,000) does not exceed £650,000, his estate qualifies as an excepted estate.
+
+If Mary’s estate had been partially chargeable, James’ estate would not have qualified as an excepted estate because the claim for TNRB would be from two estates. In any event, neither Jane nor Mary’s estate would meet the conditions for the estate of the earlier deceased person as both would have been partially chargeable.
+
+Example 4
+
+Elizabeth died on 14 August 2010, leaving an estate consisting of property passing by Will of £300,000 and a life interest of £150,000 and having made specified transfers 5 years ago of £100,000. Her husband, John, died before her on 17 March 2008, leaving his whole estate to Elizabeth for life. He also made gifts of £5,000 per year for each of the 7 years before he died, against which exemption as normal expenditure out of income was taken.
+
+Apart from value, Elizabeth’s own estate would meet the conditions to qualify as an excepted estate (IHTM06012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm06012)). John’s estate meets the conditions to allow Elizabeth’s personal representatives to make a claim for TNRB, as his whole estate passed to his wife for life and he had not made any chargeable transfers. As the gross value of Elizabeth’s estate (£550,000) does not exceed £650,000, her estate qualifies as an excepted estate.
+
+If both Elizabeth and John had died after 1 March 2011, the gifts made by John would have been deemed to be chargeable transfers. So some of John’s nil rate band would be treated as used up on his death. Although this would not have prevented John’s own estate from qualifying as an excepted estate (because the aggregate value of his free estate and the deemed chargeable transfers did not exceed his single nil rate band), Elizabeth’s estate cannot qualify as an excepted estate. Her personal representatives need to deliver form IHT400 and claim TNRB using form IHT402 so the extent of the unused nil rate band can be agreed.
+
+Example 5
+
+David died on 10 June 2022, leaving a free estate of £350,000, and having made chargeable specified transfers of £100,000 2 years before he died. His civil partner, Colin, died before him on 25 October 2015. Under his Will he left legacies of £65,000 to friends, a legacy of £25,000 to a qualifying charity and the rest of his estate to David. He made no specified transfers. The nil rate band at the date of Colin’s death was £325,000.
+
+The chargeable legacies in Colin’s Will used 20% of his nil rate band, leaving 80% unused and available to transfer to David’s estate. As David died after 1 January 2022 his estate will qualify as an excepted estate because the gross value of his estate (£450,000) is less than the nil rate band increased by TNRB of £585,000 (£325,000 + (£325,000 x 80%)).
+
+However, if Colin had made any chargeable lifetime transfers within 7 years of his death, David’s estate cannot qualify as an excepted estate even if there was enough unused nil rate band available to transfer to make David’s estate non-taxpaying (IHTM06024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm06024)).

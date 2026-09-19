@@ -1,0 +1,32 @@
+AR/BR 100% relief allowance: individuals – apportionment – more than one chargeable transfer
+Identifier: IHTM25523
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25523
+Published: 2026-04-07T07:44:04+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:47.386180+00:00
+
+If only one transfer of relievable property qualifying for 100% AR/BR is made on a particular day, the available allowance will be £2.5m less the value of any other transfers of relievable property qualifying for 100% AR/BR made within the 7 years immediately preceding the date of this transfer, IHTA84/S124D (2).
+
+Where there is more than one transfer on the same day and the total value of the transfers is less than the amount of the 100% allowance available, then each transfer will be fully relieved at 100%.
+
+But where more than one transfer of relievable property is made on the same day and the 100% relief allowance applies to each of them, and the total relief is in excess of the allowance available then you will need to apportion the allowance between each qualifying transfer.
+
+Example 1
+
+Angela transfers agricultural land valued at £750,000 to a discretionary trust for the benefit of her son Anthony on 1 June 2026. On the same day she transfers unquoted shares valued at £500,000 to a separate trust for the benefit of her daughter Alex. She has not used any of her £2.5m 100% AR/BR allowance before this date. As the total value of the relievable transfers is £1.25m, both transfers qualify for 100% AR/BR in full, and £1.25m of Angela’s allowance is available to use against later transfers.
+
+But where the value of the relievable transfers exceeds the available amount of 100% AR/BR allowance, IHTA84/S124D (4) sets out how the apportionment of the allowance applies. It refers to a ‘conditionally relievable transfer’ which is defined at IHTA84/S124D (10)(a) as a chargeable transfer made by the transferor not on death and which would qualify for 100% AR/BR. If there is more than one conditionally relievable transfer on the same day and the potentially relievable amount of those transfers (defined as the value that would qualify for AR/BR if the relief was unlimited, IHTA84/S124D (10)(b)) exceeds the value of the available allowance, you must calculate the allowance available against each individual transferred asset using the formula at IHTA84/S124D (5):
+
+(The potentially relievable value of the transfer ÷ The total of the potentially relievable values of the transfers made on that day) x The amount of the 100% AR/BR allowance available against all the transfers made on that day)
+
+Example 2
+
+Stephen makes three transfers of unquoted shares on 1 November 2026. He transfers shares valued at £3m to Paul, £2m to Susan and £1m to Clive, all qualifying for 100% BR. Stephen then dies on 1 December 2026.
+
+As the total relievable value of the transfers amounts to £6m, exceeding Stephen’s 100% AR/BR allowance of £2.5m, you must apply the calculation in IHTA84/S124D (5) to each chargeable transfer to calculate the amount of 100% BR applicable to each, as follows:
+
+Paul: (£3m ÷ £6m) x £2.5m = £1.25m 100% BR available. Balance of £1,750,000 qualifies for 50% BR leaving £875,000 chargeable.
+
+Susan: (£2m ÷ £6m) x £2.5m = £833,333 100% BR available. Balance of £1,166,667 qualifies for 50% BR leaving £583,333 chargeable.
+
+Clive: (£1m ÷ £6m) x £2.5m = £416,667 100% BR available. Balance of £583,333 qualifies for 50% BR leaving £291,667 chargeable.

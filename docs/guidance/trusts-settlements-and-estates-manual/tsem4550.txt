@@ -1,0 +1,208 @@
+Settlements legislation: trustee or beneficiary entitled to share tax repayment
+Identifier: TSEM4550
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4550
+Published: 2016-05-02T16:39:51+01:00
+Updated: 2023-09-28T09:44:04+01:00
+Retrieved (UTC): 2026-09-18T16:19:13.094668+00:00
+
+Where the operation of the settlements legislation results in a repayment to the settlor in excess of any repayment otherwise due, the settlor should pay that excess to the trustee or other person who received the income. Tax paid by trustees will usually be that paid on their income under ITTOIA/S646(8) but it will also include any money they may have paid to the settlor under ITTOIA/S646(1) (see TSEM4505 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4505))).
+
+ITTOIA/S624 and 629 are deeming provisions. In recognition of the fact that a settlor will be taxed on income that does not belong to them, ITTOIA/S646(1) provides for the trustees to provide the settlor with money to enable them to pay the tax due to HMRC. Where the tax paid by the trustees exceeds that due from the settlor, they are required to return the excess to the trustees. The amount of tax to be returned to the trustees will be:
+
+Tax paid by trustees under ITTOIA/S646(8)
+
+plus
+
+Any money to pay tax provided to the settlor under ITTOIA/S646(1)
+
+less
+
+The amount of tax charged on the settlor in respect of settlement income
+
+It is not necessary for an actual repayment to be made for the legislation to apply. The reference to a ‘repayment’ includes a set-off of tax ultimately borne by the trustees.
+
+Example
+
+Trustees’ income in 2023-24
+
+Income |  Total |
+
+Property income
+
+|
+
+£10,000
+
+|
+
+Tax paid (646(8))
+
+|
+
+£1,000 @ 20%
+
+|
+
+-
+
+|
+
+£9,000 @ 45%
+
+|
+
+Total tax paid
+
+|
+
+£4,250
+
+|
+
+Settlors income in 2023-24 | Total |
+
+Income from Property
+
+|
+
+£60,000
+
+|
+
+‘Settlement’ Income
+
+|
+
+£10,000
+
+|
+
+Tax due from settlor | - | - |
+
+£12,570 (personal allowance)
+
+|
+
+Nil
+
+|
+
+-
+
+|
+
+£37,700 @ 20%
+
+|
+
+£7,540
+
+|
+
+-
+
+|
+
+£19,730 @ 40%
+
+|
+
+£7,892
+
+|
+
+(includes £4,000 on settlement income)
+
+|
+
+Total Tax due
+
+|
+
+£15,432
+
+|
+
+--
+
+|
+
+Less tax credit from trustees
+
+|
+
+£4,250
+
+|
+
+---
+
+|
+
+Tax due per settlor’s self assessment
+
+|
+
+£11,182
+
+|
+
+--
+
+|
+
+Here there will be no actual repayment made by HMRC but the tax due from the settlor is reduced by the tax credit of £4,250 of which only £4,000 has been used against settlement income. £250 should be paid by the settlor to the trustees. That is made clearer if we consider the tax position of the settlor in the absence of the settlement income:
+
+Settlor’s income in 2023-24
+
+Income from Property £60,000
+
+Tax due from settlor | Total |
+
+£12,570(personal allowance)
+
+|
+
+Nil
+
+|
+
+£37,700 @ 20%
+
+|
+
+£7,540
+
+|
+
+£9,730 @ 40%
+
+|
+
+£3,892
+
+|
+
+Total Tax due
+
+|
+
+£11,432
+
+|
+
+Tax due per settlor’s self assessment
+
+|
+
+£11,182
+
+|
+
+The £250 difference between £11,432 and £11,182 is the tax 'overpaid' by the trustees
+
+Where the settlor has difficulty in working out the amount of the ‘repayment’ to be paid to the trustees they can ask HMRC to issue a certificate showing the amount of the repayment due to the settlor in respect of the income treated as belonging to them. Information concerning the settlor’s tax affairs cannot be divulged to anyone without the permission of the settlor.
+
+To request a certificate the settlor should submit a copy of form R185(Settlor) or any other notification of income and tax paid by the trustees to the settlor. HMRC will not be able to issue the certificate until the settlor’s liability for the year has been calculated, such as their tax return or R40 has been processed.
+
+The R185(Settlor) should confirm the information already declared on the tax return or R40. If the total liability for the year has been calculated the certificate can be issued.

@@ -1,0 +1,36 @@
+PMA: Anti-avoidance: Finance leases - lessor not bearing non-compliance risk
+Identifier: CA28600
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28600
+Published: 2016-04-16T08:52:39+01:00
+Updated: 2020-01-08T17:21:46+00:00
+Retrieved (UTC): 2026-09-18T16:21:03.988603+00:00
+
+CAA01/S225
+
+No capital allowances at all are available to the lessor where these conditions are satisfied.
+
+- There is a sale and finance leaseback of plant or machinery (CA28500 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28500)), and
+
+- as part of the leasing arrangements the greater part of the risk that the lessee’s obligations under the lease will not be met has been removed, and this has been done otherwise than by means of guarantees from persons connected with the lessee.
+
+Whether arrangements remove the whole or the greater part of the non-compliance risk will ultimately depend on the amount by which that risk has been reduced. Treat leasing arrangements that include provisions to reduce the risk of loss to the lessor by more than 50% as removing the whole or the greater part of the non-compliance risk.
+
+The test whether the risk of loss has been reduced by more than 50% should generally be applied as at the date the leasing arrangements commence. It will need to take account of any factors that are likely to reduce the amount of any non-compliance risk at any time during the life of the arrangements. If the terms of the leasing arrangement are altered after the commencement of the arrangements, this may need to be reviewed to determine whether it alters the effect of Section 225.
+
+The sort of cases which are caught are cases where:
+
+- the lessee’s obligations under the lease are secured by cash deposits or by the pledging of assets or income; or
+
+- the lessee’s obligations are backed by a third party guarantee or letter of credit.
+
+The legislation does not apply as a result of the non-compliance risk being removed by more than 50% by a guarantee:
+
+- provided by a person connected with the lessee’
+
+- given jointly by a person connected with the lessee and a bank where that person’s credit rating is higher than that of the bank,
+
+- provided by a bank which is itself counter guaranteed by a non resident person connected with the lessee of equal or superior creditworthiness where the lessee does not have an established credit rating in the UK (primarily because it has only been trading in the UK for a short period), or
+
+- where the lessor is part of a banking group, given by its parent bank to meet the capital adequacy requirements related to the large exposures regime provided that the guarantee is not part of any wider arrangements.
+
+If you are asked whether Section 225 will apply to a proposed transaction or arrangements you should obtain a detailed technical description of the arrangements and send it together with a plain English summary to Counter-Avoidance.

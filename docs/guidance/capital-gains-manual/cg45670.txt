@@ -1,0 +1,42 @@
+Outward domestication: recovery of deferred charge
+Identifier: CG45670
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45670
+Published: 2016-03-12T11:07:59+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:41:04.188435+00:00
+
+TCGA92/S140 (4), (4A) and (5)
+
+CG45660 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45660) explains how chargeable gains may be deferred on an outward domestication. Chargeable gains and allowable losses are aggregated to produce a net chargeable gain, which is then deferred.
+
+The deferred gain is released for assessment when
+
+- there is a disposal of shares or loan stock by the transferor company, or
+
+- if the non-UK resident transferee company disposes of the underlying permanent establishment assets within six years of the transfer.
+
+Disposal of shares or securities
+
+If the transferor company disposes of any of its shares or loan stock in the non-UK resident transferee company, TCGA92/S140 (4) brings into charge the whole or the appropriate proportion of the deferred gain, on the basis of the formula set out below:
+
+deferred gain not previously charged x (market value of shares or loan stock / market value of total holding)
+
+The market value of the total holding is the combined market value of all the shares and loan stock in the non-UK resident transferee company held immediately before the disposal. It is accordingly necessary to include not only the shares or loan stock received as consideration for the transfer of the permanent establishment, but also any other shares or loan stock in the transferee company, whether acquired before or after the transfer of the permanent establishment.
+
+For disposals made before 6 January 2010 the consideration for the disposal of the shares or loan stock is increased by the amount produced by the formula.
+
+For disposals made on or after 6 January 2010 the formula is used to compute a chargeable gain that accrues to the transferor company on the occasion of the disposal of any of the shares or loan stock in addition to any gain or loss that actually accrues to the company on the disposal of the shares or loan stock. The purpose of the change is to prevent deferred gains being lost when the consideration for the outward domestication includes qualifying corporate bonds (QCBs), disposals of which are not chargeable gains (TCGA92/S115, see CG53700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53700)).
+
+There is no recovery charge if the disposal is of the type described in CG45680 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45680).
+
+Disposal of assets
+
+If within six years of the transfer of the permanent establishment assets the transferee company disposes of any of the assets on which a gain was deferred, a chargeable gain is deemed to accrue to the transferor company under TCGA92/S140 (5) equal to the appropriate proportion of the deferred gain so far as not already brought into charge.
+
+For this purpose the appropriate proportion means the proportion which the chargeable gains taken into account in arriving at the deferred gain and relating to the assets disposed of bears to the total chargeable gains so taken into account relating to the permanent establishment assets held immediately before the disposal. The disposal of an asset which showed a loss on the transfer does not release any of the deferred gain. The amount of gain released for assessment on the transferor company is computed as follows
+
+deferred gains not previously charged x (gains on assets disposed of / gains on branch assets held)
+
+In this formula “gains on assets disposed of” means the chargeable gains taken into account in arriving at the net chargeable gain within TCGA92/S140 (3) and which relate to the assets disposed of. The “gains on branch assets held” are the chargeable gains taken into account in arriving at the net chargeable gain within TCGA92/S140 (3) and which relate to the branch assets held by the transferee company immediately before the disposal.
+
+There is no recovery charge if the disposal is of the type described in CG45680 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45680).

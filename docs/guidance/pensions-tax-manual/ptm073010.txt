@@ -1,0 +1,200 @@
+Death benefits: lump sums: tax on authorised lump sum death benefits paid on or after 6 April 2016
+Identifier: PTM073010
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010
+Published: 2016-04-12T09:40:00+01:00
+Updated: 2024-08-13T12:16:01+01:00
+Retrieved (UTC): 2026-09-18T14:49:36.901789+00:00
+
+As of 6 April 2024 there is no longer lifetime allowance. If you are looking for information about protections, enhancement factors and the lifetime allowance charge please see these pages on The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022829/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm090000). If you are looking for information about the principles of lifetime allowance and benefit crystallisation events please see these pages of The National Archives (https://webarchive.nationalarchives.gov.uk/ukgwa/20240305022836/https:/www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm080000).
+
+Glossary
+
+|
+
+PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+|
+
+Types of tax charges on authorised lump sum death benefits (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010#TypesOfTax)
+When the special lump sum death benefits charge applies (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010#when-special-lump-sum-death-benefits-charge-applies)
+When the lump sum is taxable as pension income (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010#when-taxable-as-pension-income)
+When the lump sum exceeds the available lump sum and death benefit allowance (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010#LSDBA)
+Special lump sum death benefits charge on payments made on or after 6 April 2016 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010#special-post-2016)
+Taxable lump sum death benefit payments to a trust - refund of tax to trust beneficiary (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010#TRSTRF)
+
+This page does not cover the taxation of a trivial commutation lump sum death benefit (PTM073700 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073700)) or a winding-up lump sum death benefit (PTM073800 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073800)).
+
+Types of tax charges on authorised lump sum death benefits
+
+Section 206 Finance Act 2004
+
+Sections 579A, 637H to 637N Income Tax (Earnings and Pensions) Act 2003
+
+The detailed guidance for each type of authorised lump sum death benefit (PTM073000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073000)) explains the circumstances in which a payment is tax-free and when it is taxable.
+
+Where the authorised lump sum death benefit is taxable, the tax treatment depends on who receives the payment. The tax charge is either:
+
+- income tax as pension income of the recipient, or
+
+- the special lump sum death benefits charge.
+
+When the special lump sum death benefits charge applies
+
+Section 206 Finance Act 2004
+
+637H(4) and (6), 637I(4), 637J(4) and (6), 637K(4), 637L(4) and (6), 637M(4) and (6) Income Tax (Earnings and Pensions) Act 2003
+
+If a:
+
+- defined benefits lump sum death benefit,
+
+- uncrystallised funds lump sum death benefit,
+
+- pension protection lump sum death benefit,
+
+- annuity protection lump sum death benefit,
+
+- drawdown pension fund lump sum death benefit, or
+
+- flexi-access drawdown fund lump sum death benefit
+
+paid on or after 6 April 2016 is taxable and it is paid to a ‘non-qualifying person’ the lump sum is subject to special lump sum death benefit charge.
+
+For information about this tax charge go to the section Special lump sum death benefits charge on payments made on or after 6 April 2016 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010#special-post-2016).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010#top)
+
+Non-qualifying persons
+
+Section 206(9) Finance Act 2004
+
+A non-qualifying person is someone who is not an individual, e.g. a company, or an individual receiving the lump sum in their capacity as a:
+
+- trustee (other than a bare trustee),
+
+- personal representative,
+
+- director of a company,
+
+- partner in a firm, or
+
+- member of a limited liability partnership.
+
+When the lump sum exceeds the available lump sum and death benefit allowance
+
+Section 637S Income Tax (Earnings and Pensions) Act 2003
+Paragraphs 126, 127 and 131 Schedule 9 Finance Act 2024
+
+At 6 April 2024 an individual’s lump sum and death benefit allowance is £1,073,100 unless they have a protected right to a higher lump sum (see PTM172000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm172000)) or have had a benefit crystallisation event occur prior to this date (see PTM174200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm174200)).
+
+The lump sum death benefit allowance applies to certain lump sums paid after 5 April 2024. When a relevant lump sum death benefit is paid to a beneficiary this is known as a relevant benefit crystallisation event and it’s tested against the deceased member’s lump sum and death benefit allowance (LSDBA). All authorised lump sum death benefits are a “relevant lump sum death benefit” except for:
+
+- a charity lump sum death benefit (see PTM073900 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073900))
+
+- a trivial commutation lump sum death benefit (see PTM073700 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073700))
+
+- a lump sum death benefit paid from rights that previously crystallised under s216 Finance Act 2004
+
+If the lump sum death benefit paid is greater than the deceased member’s available LSDBA, the excess will be taxed at the recipient’s marginal rate.
+
+Calculating the available lump sum and death benefit allowance
+
+Relevant lump sum death benefits are tested against the deceased member’s LSDBA (not the recipient’s) immediately before they are paid. Any relevant lump sums taken by the member in their lifetime and any other relevant lump sum death benefits already paid are deducted from the LSDBA to arrive at the available amount.
+
+Where more than one relevant crystallisation event occurs in relation to the individual on the same day, the beneficiary decides the order in which the relevant crystaliisation events are to be trated as occuring.
+
+If benefit crystallisation events occurred before 6 April 2024 there are additional steps in the calculation to determine the previously used amount. An amount equal to 25% of the total rights previously crystallised is deducted from the LSDBA. If the beneficiary has a transitional tax-free amount certificate from the scheme administrator, the previously used amount shown will be deducted instead (see PTM174100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm174100)).
+
+Example
+
+Isha dies, aged 72, on 30 April 2024 leaving £200,000 in a flexi-access drawdown and £1,000,000 uncrystallised funds. On 30 July 2024 the scheme administrator pays a flexi-access drawdown lump sum death benefit of £200,000 and an uncrystallised funds lump sum death benefit of £1,000,000 to a nominee who is a not a non-qualifying person.
+
+The funds used to pay the flexi-access drawdown lump sum death benefit previously crystallised under section 216 Finance Act 2004, which means the lump sum payment is not a relevant lump sum death benefit.
+
+The uncrystallised funds lump sum death benefit is a relevant lump sum death benefit and therefore a relevant benefit crystallisation event.
+
+The personal representative holds a transitional tax-free amount certificate showing the lump sum and death benefit transitional tax-free amount is £100,000.
+
+Isha’s available LSDBA is £973,100 (£1,073,100 less the previously used amount of £100,000).
+
+£973,100 of the uncrystallised funds lump sum death benefit can be paid tax free. £26,900 of the payment exceeds Isha’s allowance and is taxed at the recipient’s marginal rate.
+
+Example
+
+Jim dies, aged 74, on 1 November 2024 leaving £500,000 in a dependants’ flexi-access drawdown fund. The fund Jim held originated from Rosie who died in 2022. Rosie designated funds to a flexi-access drawdown fund prior to her death and these were crystallised as benefit crystallisation event 1.
+
+The scheme pays a flexi-access drawdown fund lump sum death benefit to Jim’s beneficiary on 15 January 2025. Because the funds were crystallised by Rosie, this is not a relevant lump sum death benefit and there is no need to test the payment against the lump sum and death benefit allowance.
+
+When the lump sum is taxable as pension income
+
+637H, I, J, K, L and M Income Tax (Earnings and Pensions) Act 2003
+
+A taxable:
+
+- defined benefits lump sum death benefit,
+
+- uncrystallised funds lump sum death benefit,
+
+- pension protection lump sum death benefit,
+
+- annuity protection lump sum death benefit,
+
+- drawdown pension fund lump sum death benefit,
+
+- flexi-access drawdown fund lump sum death benefit
+
+paid on or after 6 April 2016 will be taxable as pension income if the recipient is an individual who is not a ‘non-qualifying person’.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010#top)
+
+Special lump sum death benefits charge on payments made on or after 6 April 2016
+
+Sections 206 and 254 Finance Act 2004
+
+The Pension Benefits (Insurance Company Liable as Scheme Administrator) Regulations 2006 Section – SI 2006/136
+
+The rate of the special lump sum death benefits charge is 45%.
+
+The person liable to pay this tax charge in respect of a:
+
+- defined benefits lump sum death benefit, or
+
+- uncrystallised funds lump sum death benefit
+
+is the scheme administrator.
+
+The scheme administrator is liable to pay the tax charge where the following lump sums are paid from the registered pension scheme:
+
+- pension protection lump sum death benefit,
+
+- annuity protection lump sum death benefit,
+
+- drawdown pension fund lump sum death benefit,
+
+- flexi-access drawdown fund lump sum death benefit.
+
+Where one of those lump sums was paid by an insurance company, that insurance company is liable to pay the tax charge as if they were the scheme administrator.
+
+The payer of the lump sum usually deducts the tax charge before paying the lump sum. The tax charge should be reported and paid using the Accounting for Tax return procedure - see PTM162000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm162000).
+
+The lump sum is not treated as income of the recipient for any purpose of the Tax Acts. As the recipient is not liable to pay the tax charge, if they are a non-taxpayer they cannot make any repayment claim in respect of the tax paid. However, there is an exception where the tax charge is paid in respect of a payment to a trust that is not a bare trust, and that trust later makes a payment, funded by the lump sum death benefit, to a beneficiary of that trust. See Taxable lump sum death benefit payments to a trust - refund of tax to trust beneficiary (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010#TRSTRF) (below).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm073010#top)
+
+Taxable lump sum death benefit payments to a trust - refund of tax to trust beneficiary
+
+Where:
+
+- the special lump sum death benefits charge is charged on payment on or after 6 April 2016 to a trust that is not a bare trust, and
+
+- the trustee later makes a payment comprised of all or part of that lump sum death benefit to a beneficiary of that trust,
+
+the gross amount is income for income tax purposes of the individual who is the trust beneficiary, but they can set-off the appropriate amount of charge previously paid by the scheme administrator against their own tax due on the payment. The appropriate amount is the proportion of the tax charge that is attributable to the amount received by the trust beneficiary. For example, if two beneficiaries each receive 50% of the lump sum death benefit received by the trust, they can each set off against their own income tax liability 50% of the tax charge paid by the scheme administrator.
+
+The individual must account for the gross amount of lump sum death benefit they received from the trust in their Self-Assessment return, or on R40 repayment claim form. That is the total of the amount paid to them by the trust, and the proportion of the special lump sum death benefits charge attributable to that amount that was withheld by the scheme administrator. That proportion of the special lump sum death benefits charge is treated as tax previously paid. The overall effect is that tax on the lump sum death benefit is paid at the individual’s marginal rates, as if they had received the payment from the pension scheme directly.
+
+Where the proportion of special lump sum death benefit charge ‘tax previously paid’ exceeds the individual’s total income tax liability for the year, the difference can be repaid to the individual.
+
+Both the scheme administrator and the trustee must follow the requirements for provision of information so that the individual understands the amounts to include in their tax return to claim any repayment. See PTM165100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm165100) and PTM165400 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm165400).
+
+There is no time limit for onward payment of the lump sum death benefit from the trust to the individual.

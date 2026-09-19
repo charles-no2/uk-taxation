@@ -1,0 +1,32 @@
+Step 4 - four stage grossing calculations: stage 4
+Identifier: IHTM26156
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26156
+Published: 2016-04-09T09:48:19+01:00
+Updated: 2022-02-07T12:57:00+00:00
+Retrieved (UTC): 2026-09-18T15:03:14.811520+00:00
+
+Continuing using the lettering of paragraphs started at IHTM26154 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26154), the procedure for the fourth stage (IHTM26152 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26152)) (determining the chargeable part of the estate) is as follows:
+
+J: Find the total of all the chargeable specific gifts (IHTM26011) by adding together
+
+- the grossed up value at paragraph I of IHTM26155 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26155), and
+
+- the total value of any chargeable specific gifts which do bear their own tax (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003))
+
+K: Find the total value of all the specific gifts by adding together
+
+- the total value of all the chargeable gifts at J, above, and
+
+- the total value of any exempt specific gifts
+
+L: Deduct the total of the specific gifts at K from the value of the estate for Inheritance Tax purposes (the value transferred) at that title to find the value of the residue (IHTM26003 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26003)). If the total value of the specific gifts exceeds the value of the estate see the instructions (IHTM26180 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm26180)) on abatement caused by grossing up.
+
+M: Calculate the part of the residue which is exempt.
+
+N: Deduct the exempt part of the residue from the total residue to find the chargeable part of residue.
+
+O: Calculate the chargeable transfer at that title by adding together
+
+- the total of all the chargeable specific gifts (at paragraph J), and
+
+- the chargeable part of residue (from paragraph N)

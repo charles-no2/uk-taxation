@@ -1,0 +1,30 @@
+PAYE: special type of payer or payee: payments by intermediary
+Identifier: EIM11810
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11810
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T11:31:27+01:00
+Retrieved (UTC): 2026-09-18T14:09:26.907373+00:00
+
+Section 687 ITEPA 2003
+
+If any payment of, or on account of, PAYE income of an employee is made by an intermediary of the employer, then the employer is required to operate PAYE unless the intermediary does so.
+
+The intermediary may only be treated as having operated PAYE if the intermediary correctly calculates and declares to HMRC the amount of income tax due and makes payment of that tax to HMRC.
+
+Meaning of intermediary
+
+A payment of, or on account of, PAYE income of an employee is made by an intermediary of the employer if it is made:
+
+- by a person acting on behalf of the employer and at the expense of the employer or a person connected with the employer, or
+
+- by trustees holding property for any persons who include, or class of persons that includes, the employee.
+
+However, you should only consider whether the person making a payment of PAYE income is an intermediary if you are satisfied that the employer is not required to operate PAYE under the normal rules. For example, engaging a payroll agent does not remove the PAYE obligation from the employer (see EIM11812 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11812)).
+
+Amount on which PAYE must be operated
+
+Where payment of, or on account of, PAYE income of an employee is made by an intermediary of the employer, the employer is treated as making a payment equal to an amount calculated as follows:
+
+- if the amount of the payment made by the intermediary is the net amount that the employee is entitled to after deduction of any income tax, then the amount is the total of the actual payment plus the related income tax
+
+- in any other case, it is the amount of the actual payment.

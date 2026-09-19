@@ -1,0 +1,28 @@
+Car benefit calculation Step 7, car unavailable: reduction in car benefit charge: example
+Identifier: EIM25150
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25150
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T12:24:47+01:00
+Retrieved (UTC): 2026-09-18T14:21:11.345279+00:00
+
+Section 143 ITEPA 2003
+
+Before reading this example, ensure that you are familiar with:
+
+- the method statement in Section 121(1) ITEPA 2003, see EIM24015 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24015) (this page illustrates step 7)
+
+- the guidance on step 7 at EIM25100 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25100) onwards.
+
+An employee has a car made available from 6 April 2003 (note that 2003/04 has 366 days). On 3 November 2003 the employee is involved in an accident in which the car is badly damaged. From the date of the accident to 4 December 2003 the car is under repair in a garage. The employee collects the car on 4 December and retains it for the remainder of the 2003/04 tax year.
+
+In calculating the period for which the car is unavailable, 3 November and 4 December must be excluded as the employee had the car for a part of each day. Accordingly the period to consider is 4 November to 3 December inclusive. This is a period of precisely 30 consecutive days and so it meets the test described in EIM25105 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25105). The car was incapable of being used in that period, and so was unavailable to the employee. So there is a period of unavailability of at least 30 consecutive days and the amount of the car benefit charge must be reduced.
+
+The figure at step 6 is £3,000.
+
+The reduction at step 7 for 2003/04 is calculated as follows:
+
+Figure at step 6 |  £3,000 |
+
+Unavailable for 30 days: reduction £3,000 x 30/366 |  £246 |
+
+Figure at step 7 |  £2,754 |

@@ -1,0 +1,62 @@
+Employment income provided through third parties: amount of Part 7A income: consideration given for relevant step: A pays a sum of money
+Identifier: EIM45760
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45760
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2017-10-02T15:57:30+01:00
+Retrieved (UTC): 2026-09-18T14:23:30.226162+00:00
+
+Section 554Z8 ITEPA 2003
+
+Section 554Z8 adjusts the value of certain relevant steps if consideration is given for the value of the relevant step in specified circumstances.
+
+In section 554Z8, ‘A’ includes any person linked with A, please read EIM45860 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45860).
+
+A pays a sum of money as consideration for a relevant step: conditions
+
+If A pays a sum of money as consideration for a relevant step, 4 conditions must be met if section 554Z8 is to adjust the value of the relevant step. These conditions are bulleted below:
+
+- the relevant step is a step within one of the provisions listed below
+
+- section 554C(1)(b) (transfer of asset), please read EIM45060 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45060)
+
+- section 554C(1)(c) (employment-related securities etc.), please read EIM45060 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45060)
+
+- section 554C(1)(e) (lease), please read EIM45075 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45075)
+
+- section 554D (asset made available), please read EIM45080 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45080) onwards
+
+- the relevant step does not also involve a sum of money
+
+- the relevant step is for consideration given by A in the form of the payment of a sum of money to the relevant third person P (in section 554C) from A
+
+- A pays the money before, or at or about, the time the relevant step is taken
+
+Whether transactions take place ‘at or about’ the same time is a question of fact. In practice, ‘at or about’ normally means a few days either side of the date of the relevant step. The leeway allowed could be up to a week; depending on the particular circumstances, it could be longer.
+
+No reduction in the value of the relevant step is made if there is a connection between the payment and a tax avoidance arrangement in relation to payments made on or after 16 March 2016.
+
+A pays a sum of money as consideration for a relevant step: adjustment
+
+If these conditions are met, you adjust Part 7A income in one of 2 ways.
+
+If section 554Z4 (residence issues) has not applied, you reduce the value of the relevant step by the amount of the consideration.
+
+If the value of the relevant step was reduced under section 554Z4 (please read EIM45720 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45720)), you reduce the value of the relevant step by C × (Z3V − Z4V) ÷ Z3V
+
+where:
+
+- ‘C’ is the amount of the consideration
+
+- ‘Z3V’ is the value of the relevant step as determined under section 554Z3, please read EIM45710 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45710)
+
+- ‘Z4V’ is the amount of the reduction under section 554Z4, please read EIM45720 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45720)
+
+You make this reduction after any reductions under:
+
+- section 554Z4
+
+- section 554Z5 (overlap with earlier relevant step), please read EIM45725 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45725)
+
+- section 554Z6 (overlap with certain earnings), please read EIM45735 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735)
+
+It cannot reduce the value of the relevant step below nil.

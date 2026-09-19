@@ -1,0 +1,26 @@
+ETMD: transparent entities: general background
+Identifier: CG45722
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45722
+Published: 2016-03-12T11:08:43+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:41:12.882308+00:00
+
+One of the changes introduced to the ETMD in 2005 involved the treatment afforded to transparent entities. The change introduced was that transparent entities which are involved in transactions within the ETMD are to be treated in the same way as opaque entities provided the entity in question is listed in annex 3 to the ETMD. However the changes to the ETMD also provided an opportunity for an opt out whereby member states do not need to implement the change provided they make suitable arrangements to prevent double taxation.
+
+Under UK capital gains tax law where a transparent entity disposes of assets that it owns the chargeable person is not the transparent entity but the chargeable persons who hold an interest in that entity. The most common type of transparent entity within the UK is partnerships and under TCGA 1992 section 59 it is the partners who are the chargeable persons when there has been a disposal of an asset held by the partnership. See CG27000 for a fuller explanation. This rule applies irrespective of the fact that the transparent entity may be resident in another member state and under the laws of that state it is treated as opaque. The ETMD makes it clear that for any member state it is its own law which determines whether an entity is transparent not the laws of the member state in which the transparent entity is resident.
+
+UK capital gains tax law deals with opaque entities in a different way. Where an opaque entity disposes of assets that it owns the opaque entity is the chargeable person on the disposal and not the persons who hold interests in the opaque entity.
+
+For example Miss X holds a 30% interest in Z, a UK resident entity however, under UK law Z is treated as a transparent entity. Company B wishes to acquire entity Z and offers shares to the interest holders in Z in exchange for those interests. If Z were an opaque entity and Miss X accepted the offer then, subject to all of the conditions being met the provisions of section 135 would apply. By virtue of section 135 the provisions of section 127 would result in Miss X being treated as not having made a disposal of her interests in Z but instead the single asset fiction provided by section 127 would apply, see CG45719 for a fuller explanation.
+
+However as Z is a transparent entity section 135 can never apply. What is being exchanged are not interests in the entity for shares in the acquirer but an interest in the underlying asset held by the transparent entity. Thus there would be a chargeable occasion on Miss X and she would either have a chargeable gain or an allowable loss.
+
+In order to provide certainty of treatment section 140L(1)(c) provides a definition of a transparent entity, viz.;
+
+‘an entity which is resident in a member state other than the UK and is listed as a company in the annex to the Mergers Directive (ETMD) but
+
+does not have ordinary share capital (within the meaning given by section 119 of CTA 2010, and
+
+if it were resident in the UK would not be capable of being a company within the meaning given by the Companies Act.’
+
+Note annex 3 to the ETMD makes no reference to whether an entity is transparent or opaque. There may be types of entities in other member states that are listed in the annex to the ETMD which prima facie appear to be opaque, for instance because they have the word ‘company’ or ‘Ltd’ in their title. It should not necessarily be assumed that every such entity is opaque. Whether an entity is transparent or opaque is to be determined in accordance with section 140L(1)(c).

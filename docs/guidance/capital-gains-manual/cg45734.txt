@@ -1,0 +1,34 @@
+ETMD: consequential amendments within TCGA 1992: - section 140
+Identifier: CG45734
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45734
+Published: 2016-03-12T11:09:05+00:00
+Updated: 2016-01-25T16:58:17+00:00
+Retrieved (UTC): 2026-09-18T14:41:17.265419+00:00
+
+The general principle behind TCGA 1992 section 140 is that where
+
+- a UK company within the charge to corporation tax on capital gains
+
+- transfers assets that it used in a trade through a permanent establishment (a PE) outside the UK in exchange for securities issued by the transferee
+
+- to a company that is not resident in the UK.
+
+Then provided all of the other relevant conditions are met any charge to tax on the disposal by the transferor company is deferred until there is a disposal of the securities that the transferor company received in the transferee. See CG45733 and CG45660+ for a fuller explanation.
+
+Without special provision if the transferor company were to transfer the securities that were the subject of a deferral within section 140 and those securities were transferred to another company as part of a transfer of assets within section 140A or C or a merger within section 140E then under section 140(4) the deferred charge under section 140 would come back into charge and that would not be within the general principle behind the ETMD.
+
+New subsections, section 140(6)(AA)-(C) were inserted to prevent the deferred charge coming back into charge at the time of the transfer but at the same time ensuring that it can on a future event.
+
+Under section 140(6)(AA) if there has been a transfer within section 140A or C any deferred charge under section 140(4) does not arise at that time. Instead the transferee company within section 140A or C stands in the shoes of the transferor.
+
+An example would be where company A conducts part of its trade through a PE in Egypt. It transfers the assets etc used in the Egyptian PE to a company resident in Egypt, company B, and company B issues securities to company A. The charge to tax on company A on the disposal of the assets is deferred until company A disposes of the securities that it received in company B.
+
+Some years later company A transfers part of its business to a French resident company, company C, and the securities that company A received in company B are included in that transfer. It is assumed that the conditions within section 140A are met but without section 140(6)(AA) then at the time of the transfer the deferred charge on company A that originally arose on the disposal of the assets to company B would come back into charge. Section 140(6)(AA)(i) provides that section 140(4) will be disregarded at the time of the transfer and that company C will now stand in the shoes of company A for the purposes of section 140(4). Thus if some years later company C were to dispose of the securities then it would be the chargeable company within section 140(4).
+
+Note that as part of the conditions within section 140A any assets transferred must remain within the charge to UK tax and thus assets transferred to company C would still be within the charge by way of section 10B, see CG42100+ and that is how the UK can collect the deferred charge under section 140 from company C.
+
+The deferred charge under section 140 can also be triggered if within six years of the disposal by the transferor company the transferee company disposes of the assets that it received and that condition can be found within section 140(5). Any transfer to which section 140A or C applied would not cause the deferred charge to come back into charge under section 140(5) but section 140(6)(AA)(b)(i) provides stand in shoe provisions for section 140(5) to apply to the transferee.
+
+Thus if in the above example the transfer by company A to company B took place in year 1, the transfer by company A to C took place in year 3 and in year 4 company B disposed of the assets that it received from company A then under section 140(6)(AA)(b)(ii) the deferred charge under section 140(5) would arise on company C, again by way of section 10B, see CG42100+.
+
+Section 140(6B) provides for exactly the same rules to apply where a transfer to which section 140 applies is followed by a merger to which section 140E applies and section 140(6)(C) provides that references to transferor and transferee within section 140(6)(B) have the same meaning as those within section 140E(9).

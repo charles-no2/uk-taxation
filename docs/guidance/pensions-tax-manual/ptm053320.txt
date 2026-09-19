@@ -1,0 +1,591 @@
+Annual allowance: pension input amounts: defined benefits arrangements: worked examples
+Identifier: PTM053320
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-28T12:05:12+00:00
+Retrieved (UTC): 2026-09-18T14:50:41.302805+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Example 1: 1/60th accrual rate, no separate lump sum entitlement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#IDAT4PMB)
+Example 2: 1/80th pension + 3/80th lump sum (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#IDAM5PMB)
+Example 3: 1/80th pension + 3/80th lump sum (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#IDA3UPMB)
+Example 4: 1/40th accrual rate (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#IDATLPMB)
+Example 5: increased accrual rate (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#IDAHGPMB)
+Example 6: increased accrual rate (approximately 1/48th) (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#IDAFLNMB)
+Example 7: with an other money purchase arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#IDAVNNMB)
+Example 8: early retirement and an other money purchase arrangement (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#IDAWLNMB)
+
+Note – for tax year 2015-16 there are transitional rules for calculating pension input amounts. PTM058070 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm058070) has more details.
+
+Example 1: 1/60th accrual rate, no separate lump sum entitlement
+
+Tina is a member of a final salary scheme giving her a pension of 1/60th pensionable pay for each year of service. At the start of the pension input period Tina’s pensionable pay is £80,000 and she has 31 years pensionable service. At the end of the pension input period Tina’s pensionable pay has risen by 5% to £84,000 with 32 years pensionable service.
+
+Tina does not have any other pension arrangement.
+
+Tina’s total pension input amount is the increase in the value of her pension saving over the year. This is the difference between the opening value and the closing value of her promised benefits.
+
+Working out the opening value
+
+Tina’s opening value is calculated as:
+
+find amount of annual pension
+
+31/60 x £80,000 = £41,333.33
+
+multiply annual rate of pension by flat factor of 16
+
+£41,333.33 x 16 = £661,333.28
+
+increase by CPI (for the purpose of this example, 3%)
+
+£661,333.28 x 1.03 = £681,173.27.
+
+Tina’s opening value is £681,173.27.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#Top)
+
+Working out the closing value
+
+Tina’s closing value is calculated as:
+
+find amount of annual pension
+
+32/60 x £84,000 = £44,800
+
+multiply annual rate of pension by flat factor of 16
+
+£44,800 x 16 = £716,800.
+
+Tina’s closing value is £716,800.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#Top)
+
+Working out the pension input amount
+
+The difference between the closing value and the opening value is £35,626.73 (£716,800 - £681,173.27). This means Tina’s pension input amount is £35,626.73.
+
+Tina’s total pension input amount for the tax year is also £35,626.73, as she does not have any other arrangements to take into account for the same year.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#Top)
+
+Example 2: 1/80th pension + 3/80th lump sum
+
+Asif belongs to a pension scheme that gives him benefits of:
+
+- a pension of 1/80th final salary for each year of pensionable service
+
+- a separate lump sum (that is, not by commutation of pension) of 3 times his pension.
+
+At the start of his pension input period Asif’s pay is £60,000 and he has been a member of the scheme for 14 years. At the end of his pension input period Asif’s ‘final pay’ has increased by 5% to £63,000 and he has 15 years scheme membership.
+
+Asif does not have any other pension arrangement.
+
+Asif’s total pension input amount is the increase in the value of his pension saving over the year. This is the difference between the opening value and the closing value of his promised benefits.
+
+Working out the opening value
+
+At the start of Asif’s pension input period the value of his benefits (the opening value) is calculated as:
+
+find amount of annual pension
+
+14/80 x £60,000 = £10,500
+
+multiply annual rate of pension by flat factor of 16
+
+£10,500 x 16 = £168,000
+
+add amount of separate lump sum
+
+£168,000 + (3 x £10,500) = £199,500
+
+increase by CPI (for the purpose of this example, 3%)
+
+£199,500 x 1.03 = £205,485.
+
+Asif’s opening value is £205,485.
+
+Working out the closing value
+
+At the end of Asif’s pension input period the value of his benefits (the closing value) is calculated as:
+
+find amount of annual pension
+
+15/80 x £63,000 = £11,812.50
+
+multiply annual rate of pension by flat factor of 16
+
+£11,812.50 x 16 = £189,000
+
+add amount of separate lump sum
+
+£189,000+ (3 x £11,812.50) = £224,437.50.
+
+Asif’s closing value is £224,437.50.
+
+Working out the pension input amount
+
+The difference between the closing value and the opening value is £18,952.50 (£224,437.50 - £205,485). This means Asif’s pension input amount is £18,952.50.
+
+Asif’s total pension input amount for the tax year is also £18,952.50, as he does not have any other arrangements to take into account for the same year.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#Top)
+
+Example 3: 1/80th pension + 3/80th lump sum
+
+Chris’s scheme provides benefits of a pension of 1/80th final pay and a separate lump sum (that is, not by commutation of pension) of 3/80th pensionable pay for each year of service. Pensionable pay is pay received over the last 12 months. The pension input period under the scheme is 6 April to 5 April.
+
+At the start of 2011-12, Chris’s rate of pay is £45,000. This is also his pensionable pay.
+
+Chris gets a promotion in September 2011. His rate of pay increases to £70,000. However, Chris’s pensionable pay at the end of 2011-12 is only £59,600. (His pensionable pay is pay over the last 12 months. For almost half of the year Chris was paid at his lower rate of pay.) At the start of the year Chris had 24 years pensionable service.
+
+Chris has no other pension arrangements.
+
+Chris’s total pension input amount is the increase in the value of his pension saving over the year. This is the difference between the opening value and the closing value of his promised benefits.
+
+Working out the opening value - year 1
+
+The value of Chris’s pension benefits (opening value) is calculated as:
+
+find amount of annual pension
+
+24/80 x £45,000 = £13,500
+
+multiply annual rate of pension by flat factor of 16
+
+£13,500 x 16 = £216,000
+
+add amount of separate lump sum
+
+£216,000 + (24 x 3/80 x £45,000) = £256,500
+
+increase by CPI (for the purpose of this example, 3%)
+
+£256,500 x 1.03 = £264,195.
+
+Chris’s opening value is £264,195.
+
+Working out the closing value - year 1
+
+The value of Chris’s pension benefits (closing value) is calculated as:
+
+find amount of annual pension
+
+25/80 x £59,600 = £18,625
+
+multiply annual rate of pension by flat factor of 16
+
+£18,625 x 16 = £298,000
+
+add amount of separate lump sum
+
+£298,000 + (25 x 3/80 x £59,600) = £353,875.
+
+Chris’s closing value is £353,875.
+
+Working out the pension input amount - year 1
+
+The difference between the closing value and the opening value is £89,680 (£353,875 - £264,195). This means Chris’s pension input amount is £89,680.
+
+As he does not have any other arrangements to take into account for the same year, Chris’s total pension input amount for the tax year is also £89,680. This is £39,680 more than the annual allowance for 2011-12 of £50,000.
+
+Carrying forward unused annual allowance - year 1
+
+For the previous 3 years his total pension input amounts (calculated on the post 6 April 2011 basis) were
+
+2010-11 - £10,135
+
+2009-10 - £10,250
+
+2008-09 - £10,330
+
+(It is assumed that the annual allowance for the purpose of the carry forward provisions was £50,000.)
+
+Chris has unused annual allowance from the previous 3 tax years of £119,285 that he can carry forward, worked out as follows:
+
+- 2010-11 = £39,865 (£50,000 - £10,135)
+
+- 2009-10 = £39,750 (£50,000 - £10,250)
+
+- 2008-09 = £39,670 (£50,000 - £10,330)
+
+- total = £119,285 (£39,865 + £39,750 + £39,670).
+
+Together with the £50,000 annual allowance for 2011-12 Chris could have pension saving in 2011-12 of £169,285 without paying the annual allowance charge.
+
+Chris’s total pension input amount for 2011-12 is £89,680. This is less than his available annual allowance of £169,285. So Chris does not have to pay the annual allowance charge on his pension input for 2011-12.
+
+Chris has not used up all his available annual allowance. He has used up his annual allowance from 2011-12 and 2008-09, and £10 of his available annual allowance from 2009-10. Chris still has £79,605 unused annual allowance to carry forward to 2012-13.
+
+Working out the opening value - year 2
+
+At the end of 2012-13 Chris’s pensionable pay has risen to £70,500.
+
+Chris’s opening value is calculated as:
+
+find amount of annual pension
+
+25/80 x £59,600 = £18,625
+
+multiply annual rate of pension by flat factor of 16
+
+£18,625 x 16 = £298,000
+
+add amount of separate lump sum
+
+£298,000 + (25 x 3/80 x £59,600) = £353,875
+
+increase by CPI (for the purpose of this example, 3%)
+
+£353,875 x 1.03 = £364,491.25.
+
+Chris’s opening value is £364,491.25.
+
+Working out the closing value - year 2
+
+Chris’s closing value is calculated as:
+
+find amount of annual pension
+
+26/80 x £70,500 = £22,912.50
+
+multiply annual rate of pension by flat factor of 16
+
+£22,912.50 x 16 = £366,600
+
+add amount of separate lump sum
+
+£366,600 + (26 x 3/80 x £70,500) = £435,337.50.
+
+Chris’s closing value is £435,337.50.
+
+Working out the pension input amount - year 2
+
+The difference between the closing value and the opening value is £70,846.25 (£435,337.50 - £364,491.25). This means Chris’s pension input amount is £70,846.25.
+
+As he does not have any other arrangements to take into account for the same year, Chris’s total pension input amount for the tax year is also £70,846.25. This is £20,846.25 more than the annual allowance for 2012-13 of £50,000.
+
+Chris still has unused annual allowance that he can carry forward.
+
+Carrying forward unused annual allowance - year 2
+
+The amount of Chris’s unused annual allowance from earlier years that he can carry forward is £79,605. This is broken down as:
+
+2011-12 - £0
+
+2010-11 - £39,865
+
+2009-10 - £39,740
+
+This unused annual allowance together with the annual allowance for 2012-13 of £50,000 is £129,605. This is more than enough to cover Chris’s total pension input amount for 2012-13.
+
+There is no annual allowance charge on the pension input of £70,846.25.
+
+Chris has not used up all his available annual allowance. He has used up his annual allowance from 2012-13, and £20,846.25 of his available annual allowance from 2009-10. Chris cannot carry forward any remaining unused annual allowance from 2009-10 to 2013-14 as it falls outside the previous 3 tax years.
+
+Chris has £39,865 unused annual allowance to carry forward to 2013-14. This is broken down as
+
+2012-13 - £0
+
+2011-12 - £0
+
+2010-11 - £39,865
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#Top)
+
+Example 4: 1/40th accrual rate
+
+Peter is a member of a final salary pension scheme. His scheme gives him a pension of 1/40th salary for each year of service. If Peter wants to take a lump sum when he retires he will have to give up (commute) pension to give him a lump sum.
+
+Peter’s salary is £66,000 at the start of his pension input period and he has been in the scheme for 18 years. At the end of his pension input period his salary is £67,000.
+
+Peter has no other pension arrangements.
+
+Peter’s total pension input amount is the increase in the value of his pension saving over the year. This is the difference between the opening value and the closing value of his promised benefits.
+
+Working out the opening value
+
+Peter’s opening value is calculated as:
+
+find amount of annual pension
+
+18/40 x £66,000 = £29,700
+
+multiply annual rate of pension by flat factor of 16
+
+£29,700 x 16 = £475,200
+
+increase by CPI (for the purpose of this example, 3%)
+
+£475,200 x 1.03 = £489,456.
+
+Peter’s opening value is £489,456.
+
+Working out the closing value
+
+Peter’s closing value is calculated as:
+
+find amount of annual pension
+
+19/40 x £67,000 = £31,825
+
+multiply annual rate of pension by flat factor of 16
+
+£31,825 x 16 = £509,200.
+
+Peter’s closing value is £509,200.
+
+Working out the pension input amount
+
+The difference between the closing value and the opening value is £19,744 (£509,200 - £489,456). This means Peter’s pension input amount is £19,744.
+
+Peter’s total pension input amount for the tax year is also £19,744, as he does not have any other arrangements to take into account for the same year.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#Top)
+
+Example 5: increased accrual rate
+
+Jo is a member of her employer’s occupational pension scheme. This scheme gives her a pension of 1/60th pensionable pay for each year of ‘scheme membership’. To reward loyalty Jo’s scheme gives members an extra year of scheme membership every time they complete 7 years. So, at the end of 7 years Jo will have 8 years ‘scheme membership’, at the end of 14 years she would have 16 years ‘scheme membership’ and so on. The scheme does not give Jo a separate lump sum.
+
+Jo’s pension input period runs from 6 April to 5 April. At the start of the pension input period beginning 6 April 2014 Jo has been employed for 20.25 years and has 22.25 year ‘scheme membership’. Her pensionable pay is £80,000.
+
+At the end of the pension input period Jo has 24.25 years ‘scheme membership’. (She has earned another extra year as she has completed another 7 years employment.) Her pensionable pay is now £85,000.
+
+Jo has no other pension arrangements.
+
+Jo’s total pension input amount is the increase in the value of her pension saving over the year. This is the difference between the opening value and the closing value of her promised benefits.
+
+Working out the opening value
+
+Jo’s opening value is calculated as:
+
+find amount of annual pension
+
+22.25/60 x £80,000 = £29,666.67
+
+multiply annual rate of pension by flat factor of 16
+
+£29,666.67 x 16 = £474,666.72
+
+increase by CPI (for the purpose of this example, 3%)
+
+£474,666.72 x 1.03 = £488,906.72.
+
+Jo’s opening value is £488,906.72.
+
+Working out the closing value
+
+Jo’s closing value is calculated as:
+
+find amount of annual pension
+
+24.25/60 x £85,000 = £34,354.17
+
+multiply annual rate of pension by flat factor of 16
+
+£34,354.17 x 16 = £549,666.72.
+
+Jo’s closing value is £549,666.72.
+
+Working out the pension input amount
+
+The difference between the closing value and the opening value is £60,760 (£549,666.72 - £488,906.72). This means Jo’s pension input amount for 2014-15 is £60,760.
+
+The amount of Jo’s pension input is so high because in this pension input period Jo was given an extra year of scheme membership. She also has a pay rise above the rate of inflation.
+
+Jo’s total pension input amount for 2014-15 is also £60,760, as Jo has no other arrangements to take into account for the same tax year.
+
+In the last 3 tax years Jo’s total pension input amounts and unused annual allowance amounts were as follows:
+
+- total pension input amount
+
+- 2013-14 = £38,604
+
+- 2012-13 = £40,200
+
+- 2011-12 = £37,910
+
+- unused annual allowance amount
+
+- 2013-14 = £11,396 (£50,000 - £38,604)
+
+- 2012-13 = £9,800 (£50,000 - £40,200)
+
+- 2011-12 = £12,090 (£50,000 - £37,910).
+
+This means that Jo has £33,286 available unused annual allowance that she can carry forward to 2014-15 (note the available unused annual allowance is based on an annual allowance of £50,000 for each of the previous 3 tax years). This amount added to the £40,000 annual allowance for 2014-15 means that Jo has £73,286 available annual allowance.
+
+Jo’s total pension input amount of £60,760 is less than her available annual allowance. She is not due to pay an annual allowance charge.
+
+Jo has used up her annual allowance for 2014-15 and £20,760 of her unused annual allowance for 2011-12. Although Jo still has some unused annual allowance left from 2011-12 she cannot carry this forward to 2015-16 as it falls outside of the ‘previous 3 tax years’ for 2014-15.
+
+Jo can carry forward her unused annual allowance for 2012-13 and 2013-14, which is £21,196, to 2015-16.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#Top)
+
+Example 6: increased accrual rate (approximately 1/48th)
+
+Bob is a member of his employer’s occupational pension scheme. The scheme promises to give him a pension of 1/60th pensionable pay for each year of service. There is no separate lump sum entitlement. After 20 years the scheme accrual rate doubles to 2/60ths pensionable pay.
+
+At the start of his pension input period Bob has worked for his employer for 26 years. This is equal to 32 years pensionable service. His pensionable pay is £68,200.
+
+At the end of his pension input period, which ends in 2014-15, Bob has 34 years pensionable service. His pensionable pay has increased by over 6% to £72,500.
+
+Bob has no other pension arrangements.
+
+Bob’s total pension input amount is the increase in the value of his pension saving over the year. This is the difference between the opening value and the closing value of his promised benefits.
+
+Working out the opening value
+
+Bob’s opening value is calculated as:
+
+find amount of annual pension
+
+32/60 x £68,200 = £36,373.33
+
+multiply annual rate of pension by flat factor of 16
+
+£36,373.33 x 16 = £581,973.28
+
+increase by CPI (for the purpose of this example, 3%)
+
+£581,973.28 x 1.03 = £599,432.47.
+
+Bob’s opening value is £599,432.47.
+
+Working out the closing value
+
+Bob’s closing value is calculated as:
+
+find amount of annual pension
+
+34/60 x £72,500 = £41,083.33
+
+multiply annual rate of pension by flat factor of 16
+
+£41,083.33 x 16 = £657,333.28.
+
+Bob’s closing value is £657,333.28.
+
+Working out the pension input amount
+
+Bob’s pension saving (his total pension input amount as he does not have any other arrangements to take into account for the same tax year) has increased over the year by £57,900.81 (£657,333.28 - £599,432.47).
+
+Bob has to pay an annual allowance charge on £17,900.81 (the annual allowance for 2014-15 being £40,000) if he has no unused annual allowance to carry forward from the previous 3 tax years.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#Top)
+
+Example 7: with an other money purchase arrangement
+
+Clare is annual allowance checking for tax year 2012-13. She is a member of her employer’s final salary scheme. This scheme gives a pension of 1/60th pensionable pay for each year of scheme membership. It does not give a separate lump sum. This is a defined benefits arrangement. The pension input period for this scheme runs from 1 October to 30 September.
+
+Clare also pays Additional Voluntary Contributions (AVCs) to give her extra pension benefits. Her AVCs do not promise her a set amount of pension. They are money purchase benefits and so are held under a separate other money purchase arrangement. Clare’s pension input period for this arrangement runs from 5 August to 4 August.
+
+To work out the amount she has saved for the 2012-13 tax year Clare needs to find the pension input amounts for the following pension input periods:
+
+1 October 2011 to 30 September 2012 for the defined benefits arrangement.
+
+5 August 2011 to 4 August 2012 for the other money purchase arrangement.
+
+These are Clare’s only pension arrangements.
+
+Working out the pension input for the defined benefits arrangement
+
+At the start of the pension input period for the defined benefits arrangement Clare has 15 years and 91 days pensionable service. Her pensionable pay is £82,000. By the end of the pension input period Clare’s pensionable pay has risen to £87,000.
+
+Clare’s opening value is calculated as:
+
+find amount of annual pension
+
+(15 + 91/365)/60 x £82,000 = £20,840.73
+
+multiply annual rate of pension by flat factor of 16
+
+£20,840.73 x 16 = £333,451.68
+
+increase by CPI (for the purpose of this example, 3%)
+
+£333,451.68 x 1.03 = £343,455.23.
+
+Clare’s opening value is £343,455.23.
+
+Clare’s closing value is calculated as:
+
+find amount of annual pension
+
+(16 + 91/365)/60 x £87,000 = £23,561.51
+
+multiply annual rate of pension by flat factor of 16
+
+£23,561.51 x 16 = £376,984.16.
+
+Clare’s closing value is £376,984.16.
+
+Clare’s pension input amount for the defined benefits arrangement is £33,528.93 (£376,984.16 - £343,455.23).
+
+Working out the pension input for the other money purchase arrangement
+
+Each month Clare contributes 9% of her pay to her AVC pot. Over the pension input period she contributes £7,600.
+
+Clare’s pension input amount for the other money purchase arrangement is simply the amount of her contributions - £7,600.
+
+Working out Clare’s total pension input amount for 2012-13
+
+Clare finds her total pension saving (total pension input amount) by adding together the pension input amounts from her defined benefits and other money purchase arrangement. This is
+
+£33,528.93 + £7,600 = £41,128.93.
+
+Clare’s total pension input amount is £41,128.93. This is less than the £50,000 annual allowance for 2012-13 so she does not have to pay the annual allowance charge for 2012-13.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053320#Top)
+
+Example 8: early retirement and an other money purchase arrangement
+
+Sarah has an arrangement in a defined benefit scheme where she accrues a 60th benefit for each year of service and has a normal pension age of 65 and she also has an other money purchase arrangement in the same scheme.
+
+At the start of the pension input period, she has 19 years’ service and her final pensionable salary is £80,000.
+
+The opening value of Sarah’s defined benefits arrangement is calculated as:
+
+find amount of annual pension
+
+19/60 x £80,000 = £25,333.33
+
+multiply annual rate of pension by flat factor of 16
+
+£25,333.33 x 16 = £405,333.28
+
+increase by CPI (for the purpose of this example, 3.1%)
+
+£405,333.28 x 1.031 = £417,898.61.
+
+Sarah’s opening value is £417,898.61.
+
+Before the end of the pension input period Sarah takes early retirement aged 60, with 20 years of service and an early retirement reduction of x 0.80 (that is, a 4% reduction for each year she has taken her benefits prior to age 65).
+
+Sarah’s final pensionable salary at retirement is £90,000, and so the pension she is actually granted is 20/60 x £90,000 x 0.80 = £24,000 per annum (she does not commute any of this for lump sum).
+
+Without the closing value adjustment, Sarah’s closing value would be nil (no uncrystallised benefit). But because there has been a BCE 2 there is a closing adjustment.
+
+The closing value of Sarah’s defined benefits arrangement is calculated as:
+
+find amount of annual pension
+
+£24,000 (the amount of pension Sarah became entitled to in respect of the BCE 2)
+
+multiply annual rate of pension by flat factor of 16
+
+£24,000 x 16 = £384,000.
+
+Sarah’s closing value is £384,000.
+
+The test against the annual allowance is based on comparing the closing value against the opening value, with the opening value up-rated in line with the change in CPI to the September preceding the start of the tax year. If the pension input period is the year ending 31 March 2012, the opening value calculation would include an uprating by 3.1% (in this example, the £405,333.28 x 1.031 = £417,898.61 part of the calculation).
+
+As the closing value is less than the opening value, Sarah’s pension input amount for this pension input period from this arrangement is nil.
+
+Sarah has also paid contributions of £10,000 into an other money purchase arrangement in the same scheme. The pension input period for that arrangement is also the year ending 31 March 2012. The pension input amount for that arrangement is £10,000.
+
+Across the whole scheme Sarah has a pension input amount of £10,000.
+
+Note that the fact that in the defined benefits arrangement her closing value was lower than the opening value does not create a ‘negative value’ against which the money purchase contribution pension input amount can be offset to give an overall pension input amount of nil.

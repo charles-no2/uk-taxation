@@ -1,0 +1,56 @@
+Calculating the transferable nil rate band: survivor was married to or in a civil partnership with someone who was entitled to TNRB from an earlier death
+Identifier: IHTM43032
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43032
+Published: 2016-04-09T10:28:48+01:00
+Updated: 2017-10-25T12:45:36+01:00
+Retrieved (UTC): 2026-09-18T15:09:57.961105+00:00
+
+Where a surviving spouse or civil partner was married to, or was in a civil partnership with, someone who had survived an earlier marriage or civil partnership and was entitled to transfer unused nil rate band from that earlier death, the amount of any nil rate band available for transfer on the death of the survivor is calculated by reference to the actual nil rate band that was appropriate on the intervening death IHTA84/S8A(6)(a).
+
+This means that on the intervening death, it must have been possible for the personal representatives to claim transferable nil rate band. In other words, that death must have been on or after 9 October 2007. This is limited to a maximum of 100% of the nil rate band at the death of the surviving spouse or civil partner IHTA84/S8A(5) (IHTM43033 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43033)).
+
+Example
+
+David’s wife, Lucy, was the survivor from an earlier marriage. Her first husband died on 14 June 1996 leaving an estate worth £200,000. He left legacies of £150,000 to his children and the residue (£50,000) to Lucy.
+
+Unused nil rate band calculation
+
+M = £200,000
+
+VT = £150,000
+
+M* *is greater than VT by £50,000
+
+Transferable nil rate band calculation
+
+E =£50,000
+
+NRBMD = £200,000 so
+
+(50,000 ÷ 200,000) × 100 = 25.0000%
+
+Lucy pre-deceased David on 15 November 2007 leaving an estate of worth £400,000. She left legacies of £105,000 to the children of her first marriage and the residue (£295,000) to David. On Lucy’s death, her personal representatives are entitled to transfer the nil rate band from her first husband’s death, so the nil rate band available on her death is
+
+£300,000 + (300,000 x 25%) = £375,000
+
+The amount of the nil rate band unused on Lucy’s death, if any, is calculated with the value for M being the actual nil rate band available on the second death (less, if appropriate, any chargeable lifetime transfers made by the deceased’s wife). But the value used for NRBMD is the single nil rate band in force at the date of her death.
+
+Unused nil rate band calculation
+
+M = £375,000
+
+VT = £105,000
+
+M* *is greater than VT by £270,000
+
+Transferable nil rate band calculation
+
+E =£270,000
+
+NRBMD = £300,000 so
+
+(270,000 ÷ 300,000) × 100 = 90.0000%
+
+So, although on Lucy’s death, there were chargeable legacies of £105,000 against a single nil rate band of £300,000, the amount of nil rate band available for transfer is 90% because of the transfer from the earlier death.
+
+On David’s death, the nil rate band available on his death will be uprated by 90%.

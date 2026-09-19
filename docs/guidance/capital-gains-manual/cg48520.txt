@@ -1,0 +1,36 @@
+Value shifting: Corporation Tax anti-avoidance rule for disposals of shares or securities from 19 July 2011: typical features of arrangements to which rule applies
+Identifier: CG48520
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg48520
+Published: 2016-03-12T11:21:30+00:00
+Updated: 2016-01-25T17:17:29+00:00
+Retrieved (UTC): 2026-09-18T14:42:06.623577+00:00
+
+The rule in TCGA92/S31 is designed to counter arrangements with a purpose of securing a tax advantage that involve altering the value of an asset. It mainly addresses situations where a vendor group receives more value than the consideration that falls to be included in the capital gains computation for the disposal of the shares or securities.
+
+Generally, the rule will apply to arrangements that demonstrate the key features of the drain out dividend scheme described in CG48510:
+
+- Capital gains disposal consideration that does not represent the true economic worth of the assets disposed of,
+
+- transactions designed to create a distributable reserve before disposal of the target company, although in some jurisdictions it may possible to distribute share capital directly,
+
+- the passing of value from a target company to its vendor group, typically by way of distribution, and,
+
+- funding the payments by a loan to the target company, whether by a connected or unconnected lender.
+
+However, each of the above features may arise in situations that do not amount to tax avoidance. CG48560 gives a number of examples that include routine pre-sale transactions that are not undertaken with a main purpose of obtaining a tax advantage.
+
+Otherwise, the rule will principally apply where:
+
+- the vendor group subscribes for additional share capital in a target company before a disposal, in order to increase the allowable cost, and receives the value of the amount subscribed. See CG48560 example 1.
+
+It must be emphasised that the rule is targeted against deliberate tax avoidance and does not apply generally where surplus value is simply taken out of a target company before sale. It could be argued that any case of taking surplus cash, assets or distributable reserves out of a target company before a disposal will result in a tax advantage because the consideration received will be reduced by comparison with what would have been received otherwise.
+
+HMRC does not consider that normal pre-sale transactions that reduce the value of a target company, where the disposal consideration for the shares is a true measure of the value passing from the vendor group, are arrangements with a main purpose of obtaining a tax advantage.
+
+In particular, HMRC does not consider that the rule applies in the absence of a disposal to a third party* unless arrangements are entered into with a main purpose of eliminating an exchange gain on shares or securities (see CG48560 example 4). For example, in the absence of such arrangements, the rule will not create or enhance a gain on the routine winding up or liquidation of a group company.
+
+[*that is person other than a company that is a member of the same capital gains group of companies as the company making the disposal and which is within the charge to corporation tax]
+
+Exempt dividends
+
+TCGA92/S31(1)(c) make it clear that the rule will never be in point where the only arrangements to be considered are the payment of an “exempt dividend” This is discussed further at CG48540.

@@ -1,0 +1,40 @@
+Pre-owned assets: unwinding of home loan or double trust scheme: joint settlor schemes - loan valued at less than open market value of the property on the death of the first settlor
+Identifier: IHTM44122
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44122
+Published: 2017-09-14T10:48:38+01:00
+Updated: 2017-09-20T09:37:30+01:00
+Retrieved (UTC): 2026-09-18T15:10:36.765627+00:00
+
+There are some home loan or double trust schemes (IHTM44103 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44103)) where the outstanding loan, at the date of death, will be valued at less than the open market value of the property. There is a value in the taxpayer’s estate for settled property (IHTM16000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16000)) on the first death because the deceased spouse had a qualifying interest in possession (IIP) in the same, and this will affect the value for the gift with reservation (GWR) (IHTM14301 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14301)).
+
+Example
+
+First Death
+
+Settled Property:
+
+One half share of Property A £300,000
+
+One half share of Loan to Family Trust £240,000
+
+Net Value of Settled Property subject to IIP £ 60,000
+
+The property is still a GWR, but the reservation only arises to the extent the property is not already included in the taxpayer’s estate as a qualifying IIP, FA86/S102(3). We consider the deceased’s interest in possession in the settled property to be in the net value of the settlement. Where that value is nil no value for the IIP is reflected in the estate. In this example, the value of the settled property in which the deceased had a qualifying IIP is £60,000. The GWR extends only to the value of the property over £60,000 as that does not form part of the deceased’s qualifying IIP and therefore their estate on death.
+
+In the example shown above, the GWR would be returned on the IHT 400 as:
+
+GWR – one half share Property A £240,000 (£300,000 - £60,000)
+
+As the net value of the settled property is £60,000 and is reflected in the settlor’s estate, only the balance not already forming an asset of the estate will be caught by the reservation of benefit provisions. Spouse exemption (IHTM11031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm11031)) can then be claimed on the net value of settled property included at £60,000. The value subject to IHT on first death is less than a half share of the property transferred (£240,000).
+
+Second Death
+
+As the scheme has been unwound the second settlor being the surviving spouse is now either the sole life tenant of the home loan settlement, or the property has been appointed to them to hold absolutely. The entire value of Property A is now reflected in their estate and is liable to IHT.
+
+Property A £650,000
+
+Agreement with HMRC
+
+If we have charged to tax less than half the value for the property on the first death, then on the second death, where the scheme was unwound prior to death, we will tax the balancing share. So, in the example above 40% of the value of the property was brought into charge on first death as a GWR. On the second death, 60% of the value of the property will be brought into charge and this will be subject to IHT. The value now brought into charge would be £390,000.
+
+This ensures we tax only the whole value for the property over the two deaths, and nothing more.

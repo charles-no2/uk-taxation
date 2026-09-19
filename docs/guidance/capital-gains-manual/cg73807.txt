@@ -1,0 +1,122 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Individuals: Special rules, and computation: Other new provisions for individuals: Computation of unascertainable consideration, examples
+Identifier: CG73807
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73807
+Published: 2018-10-18T09:06:12+01:00
+Updated: 2019-10-11T09:37:21+01:00
+Retrieved (UTC): 2026-09-18T14:46:34.631944+00:00
+
+1. Basic example
+
+2. With apportionment
+
+1. Basic example
+
+Basic information is the same as example 1 in CG73782 (default method of computation), except the disposal proceeds consist of cash of £200,000 and a right to deferred consideration valued at £150,000. As per that example, in April 2017 this results in:
+
+NRCGT gain £20,000
+
+Gain which is not an NRCGT gain £30,000
+
+In April 2020 the seller receives £250,000 in full satisfaction of the right to deferred consideration.
+
+Step 1
+
+Determine the amount by which the ascertained consideration exceeds the relevant original consideration (the amount of consideration attributable to the right).
+
+Ascertained consideration £250,000
+
+Relevant original consideration £150,000*
+
+Excess £100,000
+
+This is treated as further consideration accruing on the original disposal. If the relevant original consideration exceeded the ascertained consideration, the consideration accruing on the original disposal would be treated as reduced by the amount of the excess.
+
+*If there was more than one payment of deferred consideration then the part disposal formula would need to be used to establish the relevant original consideration
+
+Step 2
+
+Compute the difference the adjustment under step 1 makes to the computation of the original NRCGT gain or loss.
+
+Stage 1
+
+Notional post-April 2015 gain or loss
+
+Disposal proceeds (£350,000 + £100,000) £450,000
+
+Market Value at 5 April 2015 £330,000
+
+Notional post-April 2015 gain £120,000
+
+Stage 2
+
+RD = 730
+
+TD = 730
+
+RD/TD x Notional post-April 2015 gain = £120,000
+
+NRCGT gain £120,000
+
+This is £100,000 greater than the NRCGT gain on the original disposal – the difference is “positive”.
+
+Step 3
+
+The positive amount is treated as an NRCGT gain at the time of the receipt of the deferred consideration (April 2020).
+
+If the difference had been negative it would be treated as an NRCGT loss.
+
+2. With apportionment
+
+Basic information is the same as example 2 in CG73782 (default method of computation where property is not always a residential property), except the disposal proceeds consist of cash of £200,000 and a right to deferred consideration valued at £150,000. As per that example, in April 2017 this results in:
+
+NRCGT gain £10,000
+
+Gain which is not an NRCGT gain £40,000
+
+In April 2020 the seller receives £250,000 in full satisfaction of the right to deferred consideration.
+
+Step 1
+
+Determine the amount by which the ascertained consideration exceeds the relevant original consideration (the amount of consideration attributable to the right).
+
+Ascertained consideration £250,000
+
+Relevant original consideration £150,000*
+
+Excess £100,000
+
+This is treated as further consideration accruing on the original disposal. If the relevant original consideration exceeded the ascertained consideration, the consideration accruing on the original disposal would be treated as reduced by the amount of the excess.
+
+*If there was more than one payment of deferred consideration then the part disposal formula would need to be used to establish the relevant original consideration
+
+Step 2
+
+Compute the difference the adjustment under step 1 makes to the computation of the original NRCGT gain or loss.
+
+Stage 1
+
+Notional post-April 2015 gain or loss
+
+Disposal proceeds (£350,000 + £100,000) £450,000
+
+Market Value at 5 April 2015 £330,000
+
+Notional post-April 2015 gain £120,000
+
+Stage 2
+
+RD = 365
+
+TD = 730
+
+RD/TD x Notional post-April 2015 gain = £60,000
+
+NRCGT gain £60,000
+
+This is £50,000 greater than the NRCGT gain on the original disposal – the difference is “positive”.
+
+Step 3
+
+The positive amount is treated as an NRCGT gain at the time of the receipt of the deferred consideration (April 2020).
+
+If the difference had been negative it would be treated as an NRCGT loss.

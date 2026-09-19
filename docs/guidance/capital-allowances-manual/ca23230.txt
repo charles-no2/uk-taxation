@@ -1,0 +1,34 @@
+PMA: WDA & balancing adjustments: Available qualifying expenditure
+Identifier: CA23230
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23230
+Published: 2016-04-16T08:47:57+01:00
+Updated: 2026-03-30T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:20:45.046965+00:00
+
+How to calculate the available qualifying expenditure (AQE) in a pool for a chargeable period
+
+Start with the unrelieved qualifying expenditure in the pool at the end of the previous chargeable period – the pool value brought forward. Add any qualifying expenditure (including AIA qualifying expenditure) incurred in the chargeable period to the pool, except for expenditure incurred for which a claim to FYA (CA23100 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23100)) is made. The balance of qualifying expenditure for which a claim to FYA was made in the previous chargeable period (the FYA qualifying expenditure incurred in the previous chargeable period for which a claim to FYA was made less the FYA claimed), even if that balance is zero, may be added to the pool at this stage. (Note: this balance may be added in any chargeable period following that in which the expenditure was incurred and, at the latest, the balance or some of it must be added in the period in which the asset is disposed.) Deduct the claim made to AIA (CA23080 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23080)) in the chargeable period and deduct the total of all disposal values (CA23250 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23250)) arising as a result of a disposal event (CA23240 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23240)).
+
+The result is the amount by which the available qualifying expenditure exceeds the total disposal receipts (values) for the chargeable period. Apply the appropriate percentage rate for the pool to this amount in order to arrive at the WDA (CA23220 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23220)) for the chargeable period. Proportionally adjust the WDA if the chargeable period is more or less than 12 months. Deduct the WDA from the AQE of the pool for the chargeable period, to arrive at the unrelieved qualifying expenditure - the pool value to carry forward.
+
+Example
+
+Michael and Peter operate a business partnership. They have a main pool value brought forward of £12,000 as at 1 January 2027. In the year ended 31 December 2027 they spend £8,000 on new computer equipment and sell old computers for £3,000. They claim £8,000 AIA for the expenditure on the new computer.
+
+The pool for the year ended 31 December 2027 is:
+
+Value of pool brought forward | £12,000 |
+
+Plus: Qualifying expenditure incurred | £ 8,000 |
+
+Less: AIA claimed | £ 8,000 |
+
+Less: Disposal values | £ 3,000 |
+
+Difference | £ 9,000 |
+
+The WDA available is 14% x £9,000 = £1,260.
+
+The total allowances able to be claimed are £8,000 (AIA) plus £1,260 (WDA) = £9,260.
+
+If Michael and Peter claim WDA of £1,260, the pool carried forward as at 31 December 2027 is £7,740 (£9,000 - £1,260). This is also the pool value brought forward as at 1 January 2028.

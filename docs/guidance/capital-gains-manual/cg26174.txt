@@ -1,0 +1,34 @@
+Arrival in and departure from UK: temporary non-residence: testing - year of departure 2012-13 or earlier
+Identifier: CG26174
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg26174
+Published: 2016-03-12T10:26:28+00:00
+Updated: 2016-01-25T12:50:11+00:00
+Retrieved (UTC): 2026-09-18T14:39:17.643159+00:00
+
+TCGA 1992, Section 10A has four basic conditions that must all be fulfilled before a charge to Capital Gains Tax can arise. In the extreme case you may need to look at the record of the individual’s residence and non-residence in the UK over a period of thirteen tax years to see if the conditions for TCGA 1992, Section 10A to apply are met. There are many different permutations that can arise.
+
+Note: ‘resident’ is here used as a shorthand term for satisfying the residence requirements set out at TCGA92/S10A(9), see CG26156. Likewise, ‘non-resident’ is used to mean not satisfying those requirements.
+
+Step 1
+
+Identify the year of assessment in which the individual resumes residence in the UK and confirm that he or she satisfies the residence requirements for that year. See CG26155 and 16156. This is the year of return.
+
+Step 2
+
+Consider the years of assessment immediately preceding the year of return. Confirm that for at least one of those years the individual did not satisfy the residence requirements, but there were years before that for which he did satisfy them. A year for which he or she did not satisfy the requirements is known as an intervening year.
+
+Step 3
+
+Count the number of whole years of assessment between the year of departure from the UK and the year of return. (The year of departure is the last year before the year of return for which the individual satisfied the residence requirements.)
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg26174#Top)
+
+Step 4
+
+Consider the seven years of assessment which precede the year of departure and determine in how many of them the individual satisfied the residency requirements.
+
+If there is no year of return (see Step 1) or no intervening years (Step 2) then section 10A cannot apply.
+
+Assuming there is a year of return and at least one intervening year, if there are five or more intervening years in total then section 10A cannot apply because the residence outside the UK is not regarded as ‘temporary’.
+
+Assuming there is a year of return and at least one (but fewer than five) intervening years, then if the taxpayer satisfied the residence requirements in four or more of the seven years preceding his or her departure (see Step 4) then section 10A is capable of applying to gains which accrue in an intervening year. (If the requirements were not satisfied, we conclude that the taxpayer’s earlier residence in the UK was itself ‘temporary’ and so his later absence was not ‘temporary’.)

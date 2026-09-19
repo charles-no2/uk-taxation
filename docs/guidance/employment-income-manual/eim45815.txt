@@ -1,0 +1,50 @@
+Employment income provided through third parties: remittance basis: effect on reductions under Sections 554Z5 to 554Z8
+Identifier: EIM45815
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45815
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2015-10-02T13:19:14+01:00
+Retrieved (UTC): 2026-09-18T14:23:31.726737+00:00
+
+Sections 554Z11(1) to (3) and 554Z17(3) ITEPA 2003
+
+If:
+
+- A is claiming the remittance basis, and
+
+- Section 554Z9 or 554Z10 applies (see EIM45805 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45805) onwards),
+
+then Section 554Z11 reduces Part 7A income, excluding the amount not attributable to the UK employment.
+
+If a part (‘the relevant part’) of the value of the relevant step:
+
+- is ‘for’ a tax year (Section 554Z9(1)(a)), or
+
+- is ‘for’ a tax year and is not in respect of duties performed in the United Kingdom (Section 554Z10(1)(a)),
+
+then you take four steps to adjust any reductions to be made under Sections 554Z5 to 554Z8.
+
+Section 554Z11 does not apply to steps within Section 554Z18 or 554Z19.
+
+On Sections 554Z18 and 554Z19 (undertakings given by employers etc in relation to retirement benefits etc: earmarking etc and provision of security), see EIM45150 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45150) and EIM45155 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45155) respectively.
+
+Step 1. Calculate the reduction (R) under:
+
+- Section 554Z5 (overlap with earlier relevant step, see EIM45725 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45725)),
+
+- Section 554Z6 (overlap with certain earnings, see EIM45735 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45735)),
+
+- Section 554Z7 (exercise price of share options, see EIM45740 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45740) onwards), or, as the case may be,
+
+- Section 554Z8 (cases where consideration given for relevant step, see EIM45755 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim45755) onwards).
+
+Step 2. Calculate X, where:
+
+- ‘X’ = 100 x A/B
+
+- ‘A’ = the value of the relevant part before any reductions under any of Sections 554Z5 to 554Z8
+
+- ‘B’ = the value of the whole of the relevant step before any reductions under any of those sections.
+
+Step 3. Calculate A - (X x R).
+
+Step 4. Calculate ((B - A)) - ((100 - X) x R).

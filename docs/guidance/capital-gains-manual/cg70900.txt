@@ -1,0 +1,36 @@
+Leases: part of premium chargeable as property income
+Identifier: CG70900
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70900
+Published: 2016-03-12T12:14:28+00:00
+Updated: 2020-07-20T14:44:37+01:00
+Retrieved (UTC): 2026-09-18T14:48:09.121890+00:00
+
+ITTOIA05/S287 and CTA09/S227
+
+Where a premium is paid for a short lease, that is a lease of not more than 50 years duration, part of that premium will be chargeable as property income, see PIM1200 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1200). The amount chargeable as income is arrived at by the following formula:
+
+P x [ (50 - Y) / 50 ]
+
+P is the amount of the premium;
+
+Y is the number of complete years (other than the first) in the term of the lease.
+
+Example
+
+A 25 year lease is granted for a premium of £40,000. The amount chargeable as income is:
+
+£40,000 x [ (50 - 24) / 50 ] = £40,000 x 0.52 = £20,800
+
+Effect on capital gains computation
+
+TCGA92/Sch 8/Para 5 & TCGA92/Sch 8/Para 6
+
+The amount of a premium paid for the grant of a short lease which is chargeable as income is excluded from the consideration taken into account for capital gains purposes. The precise way in which this is done depends on whether:
+
+- The lease was granted out of a freehold or long lease, see CG70950P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70950p), or
+
+- The lease was granted out of a short lease, see CG71000P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71000p).
+
+The precise rules are contained in TCGA92/Sch 8/Para 5 and TCGA92/Sch 8/Para 6.
+
+TCGA92/S37, the general provision regarding amounts chargeable to Income Tax, see CG14300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14300), is specifically over-ridden by TCGA92/Sch 8/Para 5 (6).

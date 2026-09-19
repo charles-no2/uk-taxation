@@ -1,0 +1,46 @@
+Schedule A1/IHTA84: close companies and partnership examples
+Identifier: IHTM04312
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04312
+Published: 2018-02-05T14:54:16+00:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:53:26.065768+00:00
+
+Example 1
+
+Lee is not domiciled or resident in the UK and never has been. He owns the entire share capital of a Jersey company, whose sole asset is a leasehold flat in London. The open market value of the shares is £2m.
+
+Until April 2017 this would have beenexcluded property (IHTM04251 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04251)) because the shares are not located in the UK and Lee is non-domiciled. So, there would not have been an Inheritance Tax (IHT) charge if he had gifted those shares or had retained them (and his foreign domicile) until his death.
+
+The effect of Sch A1 is that the shares are no longer excluded property and because the value of the shares is wholly attributable to a UK residential property interest (UK RPI) the full value of £2m is within the scope of IHT.
+
+So, if Lee gifts the shares or dies then a lifetime charge or a charge on death may arise subject to any available reliefs or exemptions.
+
+Example 2
+
+As example 1 except that Lee has, in 2000, gifted his shareholdingto the trustees of a discretionary trust. That property would have been excluded property because Lee was not domiciled in the UK when the settlement was made. The effect of the new rule is that the shares cannot be excluded property from April 2017 and are therefore subject to exit and anniversary charges.
+
+If the facts are the same in 2020 then £2m will be taxable on the trust’s 10-year anniversary. But relief is available for the period – broadly the 7 years between 2010 and 2017 – that the shares were excluded property under the old rules. So, the rate of tax would not exceed 1.8% (3/10 x 6%).
+
+At  the 10-year anniversary (IHTM42081) (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42081) in 2030, if the facts remain the same, and Lee is not a long-term UK resident, then the rules will apply to the property throughout the period and no relief will be available, meaning the rate of tax will be 6%. But if Lee is a long-term resident at the time of the anniversary, then the rules do not apply, because the shares are not excluded property in the first place.
+
+If Lee is a beneficiary of the trust, then the gifted property may also be property subject to a reservation (IHTM14301 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14301))and taxable on his death.
+
+The amount brought within charge cannot exceed the ordinary open market value of the shares (or partnership interest or loan). There is no change in the methodology for establishing that value and discounts will be available on the same basis as they are given, or not given, at present. However, once this value has been ascertained then the question is the extent to which that value is attributable to UK RPI and to agricultural property and not to any other type of asset, whereverlocated, as shown in the next example.
+
+Example 3
+
+If the Jersey company in example 1 above also owned £19m worth of other assets, such as UK PLC shares worth £11m and agricultural land in Norfolk worth £5m and some land in Italy worth £3m then the value attributable to UK relevant property would be one third (£7m/£21m) of the open market value of the shareholding. And if Lee is not a long-term UK resident it is only that value that is brought within the charges to IHT. But if Lee is a long-term resident at the time of charge, then the full value of the shares form part of his estate.
+
+The liabilities of the company are spread evenly across all of  its assets according to the value of the assets irrespective of whether they are secured on any particular asset.
+
+Example 4
+
+If the company in example 3 above has liabilities of £2m and they are secured by a charge over the UK RPI then the attribution of value is not nil. It is still one third of the open market value of the shareholding.
+
+The UK RPI may be held indirectly through other companies (or partnerships).
+
+Example 5
+
+If in example 3 the UK RPI is not owned directly by the close company in which Lee had a shareholding (the top company) but by a subsidiary, then the new rules still apply. If that subsidiary was wholly-owned and owned only the UK RPI then the attribution would be 10% as before.
+
+But if that value of the stake in the top company (or subsidiary) is too small, defined as less than 5%, then the new rules do not apply. But in establishing whether this de minimis exclusion applies it is necessary to include the value of other stakes in the close company or partnership that are held by a connected person, e.g. a spouse or an aunt. If the combined stake is 5% or more in value,then the de minimis exclusion does not apply.

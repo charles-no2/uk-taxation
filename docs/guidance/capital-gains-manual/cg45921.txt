@@ -1,0 +1,26 @@
+Groups: loss restriction by reference to capital allowances
+Identifier: CG45921
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45921
+Published: 2016-03-12T11:09:39+00:00
+Updated: 2026-05-19T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:41:23.252577+00:00
+
+The capital gains rules eliminate double relief by restricting the expenditure taken into account in a loss computation. Expenditure is excluded by section 41(2) of the Taxation of Chargeable Gains Act (TCGA) 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/41) to the extent that any capital allowance or renewals allowance has been or may be made in respect of it. There are further rules extending the loss restriction where there is effective continuity of treatment between different persons for capital allowances or capital gains purposes.
+
+Section 41(3) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/41) provides that if there is continuity of treatment for capital allowances purposes on
+
+- a transfer covered by an election under section 569 of the Capital Allowances Act (CAA) 2001 (https://www.legislation.gov.uk/ukpga/2001/2/section/569) (common control or connected persons - transfer at written down value)
+
+- a transfer under section 268 CAA 2001 (https://www.legislation.gov.uk/ukpga/2001/2/section/268) (succession to trade on death)
+
+then the restriction of the capital loss on a subsequent disposal of the asset takes account of capital allowances given to the previous owner. Where there is an unbroken series of such transfers then the capital loss restriction takes account of capital allowances given to all previous holders of the asset in the series.
+
+Section 41(3) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/41) does not refer to ICTA88/S343, which gives continuity of treatment for capital allowances (and other) purposes where the transfer of a trade from one company to another satisfies a 75 per cent common ownership test. For this situation there are additional rules restricting capital losses in section 41(8) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/41). These rules extend section 41 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/41) in relation to the following transfers.
+
+- An intra-group transfer at no gain/no loss under section 171(1) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/171), or a transfer to which no gain, no loss treatment would have applied but for the exclusions in section 171(2) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/171).
+
+- A transfer of a UK trade between companies resident in different EU member states in exchange for shares or securities, see CG45705+.
+
+The general effect of these rules is that a loss restriction by reference to capital allowances can take account of capital allowances given to previous holders of the asset through any unbroken series of transfers covered by the provisions specified.
+
+For disposals before 1 April 2000, the provisions of section 174(1) to (3) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/174) applied, rather than section 41(8) TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/41), with the same result.

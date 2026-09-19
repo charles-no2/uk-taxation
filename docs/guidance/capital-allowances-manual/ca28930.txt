@@ -1,0 +1,26 @@
+PMA: Anti-avoidance: Finance leaseback: Lessee's  income or profits: Termination of leaseback
+Identifier: CA28930
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28930
+Published: 2016-04-16T08:52:56+01:00
+Updated: 2016-04-06T16:57:03+01:00
+Retrieved (UTC): 2026-09-18T16:21:04.968928+00:00
+
+CAA01/S228C and CAA01/S228F (3)
+
+When a person enters into a sale and finance leaseback or lease and finance leaseback the legislation in CAA01/S228B CA28920 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28920) recovers any tax-free sum received over the life of the leaseback. This means that if a leaseback terminates early the whole of any tax-free sum that the lessee may have received when the sale and finance leaseback was entered into may not be recovered. The legislation in Section 228C recovers the balance of the tax tree sum if a leaseback terminates early. It applies where the lease is a finance lease for the lessee.
+
+If you have a case where a leaseback terminates early you should increase the lessee’s profits for the accounting period in which the lease terminates by this amount:
+
+Net Consideration x Current book Value divided by Original Book Value.
+
+This should recover the rest of the tax-free sum.
+
+The net consideration is the difference between the amount the seller received for entering into the sale and finance leaseback and the restricted disposal value that was brought to account. That is, it is the tax-free amount that the seller received.
+
+If there is a lease and finance leaseback the net consideration is the premium paid when the lease was granted.
+
+The current book value is the net book value of the leased plant and machinery immediately before the termination.
+
+The original book value is the net book value of the leased plant or machinery at the beginning of the leaseback.
+
+In a lease and leaseback case the charge under Section 228C does not affect the tax treatment of any refund of rentals on termination. A refund of rentals is taxed in full even if there are amounts owing to the lessor.

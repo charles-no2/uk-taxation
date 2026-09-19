@@ -1,0 +1,36 @@
+Artificial transactions in futures and options: when do disposals occur? (this guidance applies to disposals of futures and options before 6 April 2013)
+Identifier: SAIM7080
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim7080
+Published: 2016-03-19T16:28:45+00:00
+Updated: 2015-12-03T11:02:50+00:00
+Retrieved (UTC): 2026-09-18T14:26:46.781452+00:00
+
+What is a ‘disposal’?
+
+Tax is charged under Chapter 12 when there is a disposal of a future or option. ITTOIA05/S562 explains when there is a disposal.
+
+The rules essentially follow those in the capital gains tax legislation. A disposal will be a disposal for the purposes of Chapter 12 if it is a disposal within TCGA92. In particular, it includes disposals within TCGA92/S143, TCGA92/S144 and TCGA92/S144A although these sections are treated as amended in certain areas.
+
+‘Closed out’ options
+
+TCGA92/S143 treats as disposals futures contracts which are closed out by entering into another contract or which are settled by payment.
+
+Grants and abandonments
+
+TCGA92/S144 treats grants and abandonments of options (but not the exercise of an option) as disposals, and provides for premiums to be included in the computation of the gain or loss. See also SAIM7090 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim7090) on when a future or option in these circumstances has been disposed of.
+
+Cash-settled options
+
+TCGA92/S144A provides that the exercise of an option which is settled by cash is treated as a disposal both in respect of the grantor of the option and the grantee. See also SAIM7090 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim7090) on when a future or option in these circumstances has been disposed of.
+
+Assumptions in applying the capital gains rules
+
+Three assumptions apply in interpreting the TCGA rules.
+
+Assumption A requires, for the removal of doubt, that all futures are to be considered as assets in applying the TCGA sections. (Options are already listed as chargeable assets in TCGA92/S21(1).)
+
+Assumption B requires TCGA92/S143 (5) and (6) to be read without the words “in the course of dealing in commodity or financial futures” since the range of futures transactions covered by Chapter 12 extends beyond commodity and financial futures as defined in TCGA92/S143.
+
+Assumption C is a special timing rule. It requires TCGA92/S144 to be read as excluding only listed options, and therefore extends the provisions of that section to cover options that would otherwise be excluded under the definition in subsection 144(8) of TCGA92. These listed options are referred to as ‘traded options’ in the predecessor legislation in ICTA88/SCH5AA. Listed here means listed at the time of disposal.
+
+The rules in ITTOIA05/S562 are subject to two further timing rules, in sections 563 and 564.

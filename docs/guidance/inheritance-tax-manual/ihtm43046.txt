@@ -1,0 +1,48 @@
+Interaction with conditional exemption and woodlands relief: recapture charge arising after the death of the survivor
+Identifier: IHTM43046
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43046
+Published: 2016-04-09T10:29:07+01:00
+Updated: 2017-10-25T17:01:31+01:00
+Retrieved (UTC): 2026-09-18T15:10:01.601782+00:00
+
+Where the disposal occurs after the second death, the unused nil rate band may be transferred to the survivor’s estate in the normal way (IHTM43020 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43020)). In order to avoid recalculating the survivor’s estate when the recapture charge arises IHTA84/S8C(5) reduces the nil rate band available against the recapture charge on the deceased’s death by taking into account the amount of the nil rate band that was transferred to the estate of the survivor.
+
+Example
+
+Rebecca survived her husband, Paul, who died on 1 November 2002 leaving an estate of £550,000 as follows
+
+£60,000 legacies to his children,
+
+£125,000 painting qualifying for conditional exemption
+
+The residue to Rebecca
+
+Unused nil rate band calculation
+
+M = £250,000
+
+VT = £60,000
+
+M* *is greater than VT by £190,000
+
+Transferable nil rate band calculation
+
+E =£190,000
+
+NRBMD = £250,000 so
+
+(190,000 ÷ 250,000) × 100 = 76.0000%
+
+Rebecca died on 1 February 2008, before the conditionally exempt property was sold and left an estate of £450,000. The nil rate band available on her death was £300,000 + (300,000 x 76%) = £528,000, so no tax was paid. Only £150,000 of the uprated nil rate band was needed to keep the Rebecca’s estate free of tax, so there remains an element of the nil rate band (£78,000) available on Paul’s death to count against the liability that will arise when the conditionally exempt property is sold.
+
+After Rebecca’s death, the conditionally exempt property is sold for £300,000 in June 2009, when the nil rate band was £325,000. Normally, the sale proceeds are added to the chargeable estate on the first death and tax charged accordingly. Here that would give a liability of £360,000 - £325,000 @ 40% = £14,000. But £150,000 of the nil rate band was transferred to Rebecca’s estate in order to keep her estate free of tax, so the nil rate band available on sale is adjusted as follows under IHTA84/S8C(5).
+
+The ‘personal NRBM’ being the nil rate band applying at the date of sale (£325,000), is ‘appropriately reduced’ by the amount of the nil rate band that was required to keep Rebecca’s estate free of tax (£150,000). This reduces the nil rate band to be applied against the deferred charge to £175,000.
+
+The tax is then calculated as follows
+
+(60,000 +300,000) – 175,000 = 185,000
+
+185,000 @40% = £74,000
+
+Note that to work out the appropriate reduction you will need to know the chargeable value of the estate of the surviving spouse or civil partner.

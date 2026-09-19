@@ -1,0 +1,16 @@
+Reorganisations of share capital: introduction: general
+Identifier: CG51700
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51700
+Published: 2016-03-12T11:24:02+00:00
+Updated: 2016-01-26T08:52:39+00:00
+Retrieved (UTC): 2026-09-18T14:42:16.018477+00:00
+
+This Chapter deals with the share reorganisation provisions of TCGA92/S126 - TCGA92/S131. These provisions are concerned with the reorganisation of a single company’s share capital. The same provisions are modified to apply to certain transactions involving more than one company. These are dealt with separately in the Chapter on company reconstructions and amalgamations.
+
+A ‘reorganisation’ for the purposes of Part IV, Chapter II TCGA is a reorganisation or reduction of a company’s share capital - for instance an increase, decrease or other alteration - which is treated as involving neither a disposal of existing shares concerned in the reorganisation nor an acquisition of new shares or debentures issued and which represent the original shares. The commonest types of reorganisation are bonus issues, rights issues and certain capital reductions. Where a company has more than one class of share in issue the reorganisation may apply to only a particular class, or classes. A key feature of a reorganisation is that the change to the share capital must be applicable to all the shareholders of the class of shares concerned.
+
+For capital gains purposes a share reorganisation is not treated as a disposal of the taxpayer’s existing shares or an acquisition of any new shares and new shares issued are treated as though they were acquired at the same time as the existing shares. This may raise questions of share identification when there is a later disposal, see CG51701.
+
+Because a share reorganisation is treated as involving no acquisition or disposal the connected persons legislation in TCGA92/S18, see CG14580+, cannot apply. However, there are anti-avoidance provisions to prevent a taxpayer getting a deduction for the cost of acquiring worthless shares (TCGA92/S128(2)). These provisions are most likely to apply if the taxpayer controls the company. You should consider the anti-avoidance provisions particularly if the taxpayer disposes of shares at a loss shortly after receiving them, see CG51840.
+
+A reorganisation may take the form of an issue of debentures rather than shares. If the debentures are qualifying corporate bonds (QCBs) the reorganisation provisions do not apply (TCGA92/S116(5)). Instead you compute the gain or loss that would have arisen at the date of the reorganisation had the original shares been disposed of. The appropriate part of that gain or loss is then deemed to accrue on a disposal of the QCBs. Instructions on qualifying corporate bonds generally are at CG53700+. Specific instructions on share reorganisations involving QCBs are at CG53709+.

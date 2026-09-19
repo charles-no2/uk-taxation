@@ -1,0 +1,222 @@
+Dwellings subject to ATED: computation of gains and losses: Rule for certain disposals to which both ATED-related CGT and Non-Resident CGT relate – examples
+Identifier: CG73643
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73643
+Published: 2018-05-04T11:28:56+01:00
+Updated: 2023-04-27T11:53:58+01:00
+Retrieved (UTC): 2026-09-18T14:35:46.612247+00:00
+
+Asset held on 5 April 2013 and always within the scope of ATED (re-working of CG73628 example 1)
+
+Acquisition in April 2014 for £4,000,000 (re-working of CG73634 example 1)
+
+- Asset held on 5 April 2013 and always within the scope of ATED (re-working of CG73628 example 1)Basic information:
+
+Residential property acquired April 2006 for £3,000,000 and disposed of April 2016 for £6,000,000.
+
+The property had a value of £5,000,000 at 5 April 2013 and a value of £5,600,000 at 5 April 2015.
+
+Total number of days chargeable to ATED (say) |  Amount |
+
+|  700 |
+
+Pre April 2015 ATED chargeable days |  365 |
+
+Post April 2015 ATED chargeable days |  335 |
+
+Total days 6 April 2013 to 5 April 2015 |  730 |
+
+Total days 6 April 2015 to disposal |  365 |
+
+Step 1
+
+Determine the amount of the post-April 2015 ATED-related gain or loss
+
+Disposal proceeds |  Amount |
+
+- |  £6,000,000 |
+
+Market value at 5 April 2015 |  £5,600,000 |
+
+Notional post April 2015 gain |  £400,000 |
+
+Relevant days |  Amount |
+
+Days in relevant ownership period from April 2015 which are ATED chargeable days (CD) |  335 |
+
+Days in the relevant ownership period from April 2015 to the date of disposal (TD) |  365 |
+
+CD/TD x notional post-April 2015 gain ((335/365)) x £400,000) = £367,123
+
+Post-April ATED related chargeable gain £367,123
+
+|—|
+
+Step 2
+
+Determine the amount of the pre-April 2015 ATED-related gain or loss
+
+Date |  Amount |
+
+Market value at 5 April 2015 |  £5,600,000 |
+
+Market value at 5 April 2013 |  £5,000,000 |
+
+Notional pre April 2015 gain |  £600,000 |
+
+Relevant days |  Amount |
+
+Days in relevant ownership period from April 2013 which are ATED chargeable days (CD) |  365 |
+
+Days in the relevant ownership period from April 2013 to April 2015 (TD) |  730 |
+
+CD/TD x notional pre-April 2015 gain ((365/730)) x £600,000) = £300,000
+
+Pre-April ATED related chargeable gain £300,000
+
+Step 3
+
+Add step 1 to step 2
+
+Related gain |  Amount |
+
+Post-April 2015 ATED-related gain |  £367,123 |
+
+Pre-April 2015 ATED-related gain |  £300,000 |
+
+ATED-related gain |  £667,123 |
+
+This differs slightly from the ATED-related gain of £639,269 which would arise if the disposal was not also subject to Non-Resident CGT (see CG73628). This is to prevent part of the gain from being subject to both charges.
+
+To calculate the Non-Resident CGT charge on the gain see CG73860P.
+
+2. Acquisition in April 2014 for £4,000,000 (re-working of CG73634 example 1)
+
+Basic information:
+
+Residential property acquired April 2014 for £4,000,000 and disposed of April 2018 for £6,000,000.
+
+Total number of days chargeable to ATED |  Amount |
+
+- |  730 |
+
+Total days April 2014 to April 2015 |  365 |
+
+Total days April 2015 to April 2018 |  1,095 |
+
+Market value at 5 April 2015 is £4,250,000
+
+The amount of the gain or loss which is ATED-related will depend on when the ATED chargeable days fall. This is demonstrated by the two different calculations below.
+
+Situation 1: If all days chargeable to ATED fall after 5 April 2015
+
+Step 1
+
+Determine the amount of the post-April 2015 ATED-related gain or loss
+
+Disposal proceeds |  Amount |
+
+- |  £6,000,000 |
+
+Market value at 5 April 2015 |  £4,250,000 |
+
+Notional post April 2015 gain |  £1,750,000 |
+
+Relevant days |  Amount |
+
+Days in relevant ownership period from April 2015 which are ATED chargeable days (CD) |  730 |
+
+Days in the relevant ownership period from April 2015 to the date of disposal (TD) |  1,095 |
+
+CD/TD x notional post April 2015 gain ((730/1,095)) x £1,750,000) = £1,166,667
+
+Post-April ATED related chargeable gain £1,166,667
+
+Step 2
+
+Determine the amount of the pre-April 2015 ATED-related gain or loss
+
+Market value at 5 April 2015 £4,250,000
+
+Auisition cost £4,000,000
+
+Notional pre-April 2015 gain £250,000
+
+Days in relevant ownership period from acquisition which are ATED chargeable days (CD)
+
+Days in the relevant ownership period from acquisition to April 2015 (TD) 365
+
+CD/TD x notional pre-April 2015 gain ((0/365)) x £250,000) = £0
+
+Pre-April ATED related chargeable gain £0
+
+Step 3
+
+Add step 1 to step 2
+
+Gain |  Amount |
+
+Post-April 2015 ATED-related gain |  £1,166,667 |
+
+Pre-April 2015 ATED-related gain |  £0 |
+
+ATED-related gain |  £1,166,667 |
+
+Situation 2: If all days chargeable to ATED fall at the beginning of the ownership period
+
+Step 1
+
+Determine the amount of the post-April 2015 ATED-related gain or loss
+
+Disposal proceeds |  Amount |
+
+- |  £6,000,000 |
+
+Market value at 5 April 2015 |  £4,250,000 |
+
+Notional post April 2015 gain |  £1,750,000 |
+
+Days in relevant ownership period from April 2015 which are ATED chargeable days (CD) 365
+
+Days in the relevant ownership period from April 2015 to the date of disposal (TD) 1,095
+
+CD/TD x notional post April 2015 gain ((365/1,095)) x £1,750,000) = £583,333
+
+Post-April ATED related chargeable gain £583,333
+
+Step 2
+
+Determine the amount of the pre-April 2015 ATED-related gain or loss
+
+Market value |  Amount |
+
+Market value at 5 April 2015 |  £4,250,000 |
+
+Acquisition cost |  £4,000,000 |
+
+Notional pre-April 2015 gain |  £250,000 |
+
+Days |  Number |
+
+Days in relevant ownership period from acquisition which are ATED chargeable days (CD) |  365 |
+
+Days in the relevant ownership period from acquisition to April 2015 (TD) |  365 |
+
+CD/TD x notional pre-April 2015 gain ((365/365)) x £250,000) = £250,000
+
+Pre-April ATED related chargeable gain £250,000
+
+Step 3
+
+Add step 1 to step 2
+
+Gain |  Amount |
+
+Post-April 2015 ATED-related gain |  £583,333 |
+
+Pre-April 2015 ATED-related gain |  £250,000 |
+
+ATED-related gain |  £833,333 |
+
+These amounts differ from the ATED-related gain of £1,000,000 which would arise if the disposal was not also subject to Non-Resident CGT (see CG73634). This prevents part of the gain from being subject to both charges.
+
+To calculate the Non-Resident CGT charge on the gain see CG73877.

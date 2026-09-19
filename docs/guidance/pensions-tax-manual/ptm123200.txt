@@ -1,0 +1,407 @@
+Investments: loans: loans to sponsoring employers
+Identifier: PTM123200
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2021-11-17T12:05:55+00:00
+Retrieved (UTC): 2026-09-18T14:49:56.991059+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Loans to sponsoring employers - Introduction (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDAFTGMD)
+Security (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDARVGMD)
+Taxable property used as security (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDA0WGMD)
+Security - amount of unauthorised payment (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDANYGMD)
+Interest rate (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#interestrate)
+Interest rate - amount of unauthorised payment (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDAI3GMD)
+Term of loan (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDAEBHMD)
+Term of loan - amount of unauthorised payment (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDA2BHMD)
+Maximum amount of loan (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDASGHMD)
+Maximum amount of loan - amount of unauthorised payment (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDADIHMD)
+Repayment terms (annual instalments) (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDA0JHMD)
+Repayment terms - amount of unauthorised payment (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDACNHMD)
+Rollovers (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDAGQHMD)
+Loans made to employers before 6 April 2006 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDAIRHMD)
+
+Loans to sponsoring employers - Introduction
+
+Section 179 Finance Act 2004
+
+Where a registered pension scheme is also an occupational pension scheme the tax legislation sets out what payments made to or in respect of a sponsoring employer (or former sponsoring employer) are authorised payments for the purpose of the tax legislation. Any payment made outside of these rules is an unauthorised employer payment and subject to different tax consequences.
+
+Section 175(d) Finance Act 2004 treats loans made to a sponsoring employer (or former sposnsoring employer) of occupational pension schemes as authorised employer payments providing that the terms of section 179 are satisfied.
+
+There are five key tests that a loan must satisfy to qualify as an authorised employer loan. If a loan fails to meet one or more of these tests there will be an unauthorised payment. The unauthorised payment is calculated separately for each of the five key tests but to prevent double charging, if the loan fails on more than one test the unauthorised payment will be the greatest amount calculated under each test. The amount of the unauthorised payment must not exceed the amount of the loan when it was made.
+
+The five key tests are
+
+- security
+
+- interest rates
+
+- term of loan
+
+- maximum amount of loan
+
+- repayment terms.
+
+If the registered pension scheme is not an occupational pension scheme there will be no sponsoring employer. Therefore, any loans made by the scheme to an employer who is connected to the member will attract a tax charge on the member.
+
+Where a loan is made by a registered pension scheme to, or in respect of, a person (‘Person A’) who is not, nor has been, a member or sponsoring employer of the pension scheme, and Person A is connected to a person (‘Person B’) who is, or has been, a member or sponsoring employer of the scheme, then the loan is treated as made in respect of Person B. That is, the loan is treated as made in respect of the person who is, or has been, a member or sponsoring employer of the scheme.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#Top)
+
+Security
+
+Section 179 and Schedule 30 Finance Act 2004
+
+If an occupational pension scheme makes a loan to a sponsoring employer the amount of the loan must be secured throughout the full term as a first charge on any asset either owned by the sponsoring employer, or some other person. At the time the loan is made the security used must be of at least equal value to the face value of the loan including interest.
+
+There must be no other charge on the asset that takes priority over the charge made by the scheme.
+
+If the asset used as security is replaced by another asset, at the time the security is replaced the value of the replacement must be at least equal to the lower of:
+
+- the market value of the asset it has replaced
+
+- the amount of loan outstanding (including interest).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#Top)
+
+Taxable property used as security
+
+If the asset used as security is taxable property then there may be additional tax charges under the taxable property provisions if the registered pension scheme is an investment-regulated pension scheme.
+
+Further guidance on the tax charges that could apply is at PTM125300 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125300).
+
+For an explanation of what an investment-regulated pension scheme is see PTM125100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125100).
+
+For guidance on what is taxable property see PTM125100 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125100) (tangible moveable property) and PTM125200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm125200) (residential property).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#Top)
+
+Security - amount of unauthorised payment
+
+Section 179 and Schedule 30 Finance Act 2004
+
+Where a loan ceases to be secured by any charge at all at any time after the loan is made, an unauthorised payment occurs. The amount of the unauthorised payment is the amount of the loan still outstanding (including interest).
+
+Where no security exists or the charge made by the scheme on the asset used as the security does not take priority over any other charge on the asset, the unauthorised payment will be the amount of the loan outstanding (including interest).
+
+Where the pension scheme, a sponsoring employer or person connected with the sponsoring employer undertakes a transaction which reduces the value of the security, an unauthorised payment occurs. The amount of the unauthorised payment is the difference between the value of the security and the amount owing (including interest).
+
+If replacement security is not equal to either the value of the previous security or the amount of the loan still outstanding (including interest), an unauthorised payment occurs. The amount of the unauthorised payment is the difference between the value of the security and the amount owing (including interest).
+
+Example
+
+QQ Ltd Registered Pension Scheme makes a loan to QQ Ltd of £250,000. QQ Ltd offers a property as security that has a value of £300,000 (which covers the amount loaned including interest).
+
+Six months later QQ Ltd sells the property, the market value of the property at the time still being £300,000, and replaces the security with another property worth £200,000. The amount of loan outstanding including interest is £230,000.
+
+An unauthorised payment of £30,000 occurs, the amount being the difference between the value of the security and the amount of the loan outstanding (£230,000 - £200,000 = £30,000).
+
+QQ Ltd will be liable to an unauthorised payments charge of £12,000 (unauthorised payment of £30,000 @ 40%).
+
+The scheme administrator of QQ Ltd Registered Pension Scheme will be liable to a scheme sanction charge.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#Top)
+
+Interest rate
+
+Section 179 and Schedule 30 Finance Act 2004
+
+All loans made by registered pension schemes to sponsoring employers must charge interest at least equivalent to the rate specified in The Registered Pension Schemes (Prescribed Interest Rates for Authorised Employer Loans) Regulations 2005 (SI 2005/3449). This is to ensure that a commercial rate of interest is applied to the loan.
+
+The minimum interest rate a scheme may charge is calculated by reference to 1% above the average of the base lending rates of the following six leading high street banks specified in the regulations:
+
+- The Bank of Scotland plc
+
+- Barclays Bank plc
+
+- HSBC Bank plc
+
+- Lloyds Bank plc
+
+- National Westminster Bank plc
+
+- The Royal Bank of Scotland plc.
+
+The average rate calculated should be rounded up as necessary to the nearest multiple of 0.25%.
+
+Interest rates come into force on the operative date of each month, which is on the 6th working day. But they are calculated using the interest rates in force on the reference date, which is the 12th working day before the operative date.
+
+A registered pension scheme may make a loan at a fixed rate of interest as long as that interest rate is at least the rate specified. As long as the terms of the loan remain unchanged there will be no requirement to alter the interest charged on the loan during its life.
+
+Example
+
+Scheme makes a loan to employer ABC Ltd on 17 July 2006.
+
+The operative date is the 6th working day in July - 10 July.
+
+The reference date is the 12th working day before the operative day - 22 June.
+
+On 22 June the average of the base lending rates from all six banks is 5.15%.
+
+The minimum interest rate charged by the scheme must therefore be:
+
+5.25% (which is 5.15% rounded up to nearest 0.25%) + 1% = 6.25%.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#Top)
+
+Interest rate - amount of unauthorised payment
+
+Section 179 and Paragraph 14 Schedule 30 Finance Act 2004
+
+Where the interest rate charged by the registered pension scheme is less than the prescribed interest rate, calculated using the formula described immediately above, an unauthorised payment will occur. The amount of the unauthorised payment is based on the amount owing (excluding interest) by reference to the percentage that the interest rate applied to the loan is less than the prescribed rate using the following formula:
+
+100 - [(IR/PIR) x 100] divided by 100 x AO
+
+Where:
+
+IR is the rate of interest payable.
+
+PIR is the prescribed rate of interest, see the section Interest rate (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#interestrate) above.
+
+AO is the amount owing (excluding interest) at the beginning of the loan or when the terms of the loan are altered.
+
+Example
+
+JJ Ltd Registered Pension Scheme makes a loan to JJ Ltd of £50,000. At the time the loan is made the prescribed rate of interest is 5%. The rate of interest payable under the loan agreement is 4.5%
+
+The amount of the unauthorised payment is:
+
+100 - [(4.5/5) x 100] divided by 100 x £50,000 = £5,000
+
+JJ Ltd will be liable to an unauthorised payments charge of £2,000 (unauthorised payment of £5,000 @ 40%).
+
+The scheme administrator of JJ Ltd Registered Pension Scheme will be liable to a scheme sanction charge.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#Top)
+
+Term of loan
+
+Section 179 and Schedule 30 Finance Act 2004
+
+The repayment period of the loan must not be longer than five years from the date the loan was made.
+
+An unauthorised payment occurs when the repayment period for a loan is longer than five years from the date the loan was made unless the loan has been rolled over in accordance with the requirements for Rollovers (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDAGQHMD) explained below.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#Top)
+
+Term of loan - amount of unauthorised payment
+
+Section 179 and Schedule 30 Finance Act 2004
+
+Where the term of a loan exceeds the five-year period an unauthorised payment will occur, calculated as follows:
+
+[(DLRP/DFY) x 100] - 100 x AO divided by 100
+
+Where:
+
+DLRP is the total number of days from the date the loan is taken out until the actual loan repayment date.
+
+DFY is the number of days in the period from the date the loan is taken out until five years after that date.
+
+AO is the amount owing (including interest) at the beginning of the loan or when the terms of the loan are altered.
+
+This provision will only apply:
+
+- if the terms of the loan when it is taken out provide that it will last for more than five years
+
+- if the terms of the loan are altered (and the rollover provisions do not apply - see Rollovers (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#IDAGQHMD)) and the loan can last for more than five years in total.
+
+Example
+
+MM Ltd Registered Pension Scheme makes a loan to MM Ltd on 6 April 2006. The loan repayment date is 5 October 2011. The amount outstanding on the loan including interest when the loan is taken out is £10,000.
+
+The amount of the unauthorised payment is:
+
+[(2009 days/1826 days) x 100] - 100 x £10,000 divided by 100 = £1,002
+
+MM Ltd will be liable to an unauthorised payments charge of £400.80 (unauthorised payment of £1,002 @ 40%).
+
+The scheme administrator of MM Ltd Registered Pension Scheme will be liable to a scheme sanction charge.
+
+If the calculation above results in an amount which exceeds the amount of the loan outstanding, the amount of the unauthorised payment will be limited to 100% of the amount of loan outstanding including interest.
+
+Where a loan has been rolled over, the five-year period will commence on the date the rollover took place.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#Top)
+
+Maximum amount of loan
+
+Section 179 and Schedule 30 Finance Act 2004
+
+Section 179(1)(a) Finance Act 2004 restricts the amount of a loan which can be made to a sponsoring employer to 50% of the aggregate of the amount of the cash sums held and the net market value of the assets of the registered pension scheme valued immediately before the loan is made. These restrictions are necessary because although such loans provide a useful source of business funding, there may be liquidity problems for the scheme if there is a sudden requirement to provide scheme benefits. It may also not be prudent to lend scheme funds to one company.
+
+Where, at the time the loan is made it is found to exceed the 50% limit, the amount of the loan in excess of the 50% limit is an unauthorised payment.
+
+The 50% limit is applied as at the date the money is loaned to the employer. The loan will not be re-tested at a later date if there is a drop in value of the scheme assets unless the terms of the loan are changed.
+
+Any further advances made after the original loan was made are to be treated as a new loan made on the date the further advance was made.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#Top)
+
+Maximum amount of loan - amount of unauthorised payment
+
+Section 179 and Schedule 30 Finance Act 2004
+
+Where a loan exceeds 50% of the net value of the scheme at the time the loan is taken out there is an unauthorised payment.
+
+The amount of the unauthorised payment is the difference between the amount of the loan and 50% of the aggregate of the amount of the cash sums held and the market value of the assets held for the purposes of the pension scheme before the loan is made, calculated as follows:
+
+(AL/VA x 100) - 100 x VA divided by 100
+
+Where:
+
+AL is the amount loaned.
+
+VA is the amount equal to 50% of the aggregate of the amount of the cash sums held and the market value of the assets held for the purposes of the pension scheme before the loan is made.
+
+Example
+
+SS Ltd Registered Pension Scheme makes a loan to SS Ltd of £100,000. Before the loan is made, the value of the scheme is £180,000.
+
+The amount of the unauthorised payment is:
+
+(£100,000/£90,000 x 100) - 100 x £90,000 divided by 100 = £10,000
+
+SS Ltd will be subject to an unauthorised payments charge of £4,000 (unauthorised payment of £10,000 @ 40%).
+
+The scheme administrator of SS Ltd Registered Pension Scheme will be liable to a scheme sanction charge.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#Top)
+
+Repayment terms (annual instalments)
+
+Section 179 and Schedule 30 Finance Act 2004
+
+All loans to sponsoring employers must be repayable at least in equal instalments of capital and interest for each complete year of the loan, beginning on the date that the loan is made and ending on the last day of the following 12-month period - known as a loan year.
+
+If the loan is for less than a complete year, then the incomplete year is treated as the final year of the loan.
+
+The amount of capital and interest repayments payable by the end of each loan year must not be less than the ‘required amount’ which is calculated by the formula:
+
+[(L+TIP) / TLY] x NLY
+
+Where
+
+L is the amount of the loan.
+
+TIP is the total interest payable.
+
+TLY is the total number of loan years.
+
+NLY is the number of loan years in the period.
+
+Example
+
+XYZ Ltd Registered Pension Scheme makes a loan to XYZ Ltd on 1 January 2015 of £50,000 for a period of five years. The total interest chargeable on the loan over the period is £20,000. The loan agreement must provide for a repayable amount each year that is not less than the ‘required amount’, as follows:
+
+The required amount repayable by the company at the end of the first loan year is not less than
+
+[(£50,000 + £20,000) / 5] x 1 = £14,000
+
+The required amount repayable at the end of the second loan year is not less than
+
+[(£50,000 + £20,000) / 5] x 2 = £28,000
+
+The required amount repayable at the end of the third loan year is not less than
+
+[(£50,000 + £20,000) / 5] x 3 = £42,000
+
+The required amount repayable at the end of the fourth loan year is not less than
+
+[(£50,000 + £20,000) / 5] x 4 = £56,000
+
+The required amount repayable at the repayment date of the loan is not less than
+
+[(£50,000 + £20,000) / 5] x 5 = £70,000
+
+In effect, the repayable amount for each loan year would be £14,000 if the terms of the loan agreement matched the ‘required amount’ for each loan year, meaning the loan would be repayable in equal instalments of capital and interest for each loan year.
+
+The terms of a loan agreement do not necessarily always have to provide for repayment of capital and interest in equal instalments. A loan agreement that provides for ‘front loaded’ repayments might still meet the minimum ‘required amount’ to be repayable by the end of each loan year.
+
+An unauthorised payment will occur if the terms of the loan mean that the ‘required amount’ is not due to be paid by the borrower by the end of any loan year. This amount is calculated at the beginning of the loan for each loan year and the unauthorised payment is the largest amount by which the payments due in any loan year are less than the ‘required amount’.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#Top)
+
+Repayment terms - amount of unauthorised payment
+
+Section 179 and Schedule 30 Finance Act 2004
+
+Where loan repayments are not payable in equal annual instalments, an unauthorised payment charge will arise on the largest amount of the difference between the ‘required amount’ and the aggregate amount payable during a 12-month loan period. If the amount payable in a year exceeds the ‘required amount’, the calculation for that year is nil.
+
+Example
+
+Using the example immediately above the ‘required amount’ to be paid by XYZ Ltd on the five-year loan of £50,000 plus £20,000 interest must not be less than:
+
+£14,000 by the end of loan year 1.
+
+£28,000 by the end of loan year 2.
+
+£42,000 by the end loan year 3.
+
+£56,000 by the end of loan year 4.
+
+£70,000 by the end of loan year 5.
+
+The loan agreement provides for the following payments to be made:
+
+Year 1 £10,000 (difference £4,000).
+
+Year 2 £28,000 (nil).
+
+Year 3 £40,000 (difference £2,000).
+
+Year 4 £54,000 (difference £2,000).
+
+Year 5 £70,000 (nil).
+
+The amount of the unauthorised payment is the highest amount calculated of the five years - £4,000.
+
+XYZ Ltd will be charged an unauthorised payments charge of £1,600 (unauthorised payment of £4,000 @ 40%).
+
+The scheme administrator of XYZ Ltd Registered Pension Scheme will be liable to a scheme sanction charge.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#Top)
+
+Rollovers
+
+Section 179 Finance Act 2004
+
+The tax rules for loans to sponsoring employers recognises that sometimes loans will be made to employers and the employer will sometimes get into financial difficulties during the term of the loan. For instance, where an employer is having genuine difficulties making repayments and there is an amount of capital or interest outstanding at the end of the loan period (the ‘standard repayment date’), the loan period can be extended and the loan repayment date may be postponed or ‘rolled over’ for a period up to a further five years starting from the standard repayment date.
+
+A loan may only be rolled over once. If a loan is rolled over more than once then the unauthorised payments tax rules will apply.
+
+The rollover loan will not be treated as a new loan and therefore any existing security may continue, even if the security is less than the face value of the loan.
+
+Any increase to the original loan will be treated as a new loan.
+
+The 50% limit will only be re-tested in the event of a new loan being taken out.
+
+The rules for rollovers of loans taken out before 6 April 2006 are covered below.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm123200#Top)
+
+Loans made to employers before 6 April 2006
+
+Paragraph 38 Schedule 36 Finance Act 2004
+
+Where an occupational pension scheme made a loan to a sponsoring employer before 6 April 2006, the existing loan is not subject to the current rules on authorised employer loans providing that all the following criteria (the ‘required criteria’) are satisfied:
+
+- the occupational pension scheme became a registered pension scheme
+
+- there is no alteration in the repayment terms of the loan on or after 6 April 2006
+
+- the repayment date of the loan (capital and interest) is after 6 April 2006.
+
+If after 6 April 2006 there is a change in the repayment terms of a loan taken out prior to 6 April 2006 that meets the required criteria, any amount owing (including interest) will be subject to the current rules on authorised employer loans.
+
+A postponement of the repayment date (a rollover) of a loan made before 6 April 2006 that meets the required criteria is not treated as a change in repayment terms if:
+
+- there is an amount outstanding on the date by which the amount should have been paid
+
+- the rollover does not exceed a period of more than 5 years
+
+- there has been no previous rollover on or after 6 April 2006
+
+- there are no other changes to the repayment terms of the original loan.

@@ -1,0 +1,24 @@
+Charge on beneficiary of non-resident settlement – TCGA92/S87: Matching section 87 gains - the rules for 2008-09 to 2017-18
+Identifier: CG38721
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38721
+Published: 2018-11-01T11:23:20+00:00
+Updated: 2019-10-15T12:05:39+01:00
+Retrieved (UTC): 2026-09-18T14:47:30.999181+00:00
+
+TCGA92/S87A
+
+The matching rules are in TCGA92/S87A. For the year 2008-09 onwards capital payments received by all beneficiaries are totalled and matched in the following order:
+
+- against section 2(2)* amounts for the same year, example CG38710
+
+- against section 2(2)* amounts of earlier years taking the latest year first, example CG38715
+
+- any unmatched part of the capital payment is carried forward and set against section 2(2) amounts for later years after giving priority to any capital payments received in that year, examples CG38720 and CG38725 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38725).
+
+If the total capital payments received exceed the section 2(2)* amount for the year each beneficiary is treated as receiving a relevant proportion of the total capital payments, TCGA92/S87A(2)(b), example CG38710.
+
+The total capital payments and section 2(2)* amount for the year are reduced by the matched amount.
+
+If the trustees’ gains for years before 2008-09 remained unmatched as at 2008-09 the matching rules described above still apply but because matching worked on a different basis it is necessary to reconstruct the opening position. This is explained in CG38730 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38730).
+
+*This section was re-written for disposals from 6 April 2019 to section 1(3) see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

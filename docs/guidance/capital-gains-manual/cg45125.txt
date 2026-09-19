@@ -1,0 +1,75 @@
+Capital gains group definition: prevention of multiple group membership - the tiebreaker rules
+Identifier: CG45125
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45125
+Published: 2016-03-12T11:06:18+00:00
+Updated: 2023-04-26T09:59:26+01:00
+Retrieved (UTC): 2026-09-18T14:40:49.995640+00:00
+
+TCGA92/S170(6)
+
+As described in CG45120, TCGA91/S179(6) sets out detailed rules that determine which group a company is a member of. The principal company of each group involved is referred to as the `head of a group’. The rules are to be applied in order starting with:
+
+Tiebreaker rule 1 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45125#IDA2XIUH)
+Tiebreaker rule 2 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45125#IDAPBJUH)
+Tiebreaker rule 3 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45125#IDAXBJUH)
+Tiebreaker rule 4 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45125#IDA5BJUH)
+
+Tiebreaker rule 1
+
+The first test in TCGA92/S170 (6)(a) involves leaving out of account any interest which the head of one group has in the profits and assets of the head of another group available for distribution to equity holders. If the result of applying this test is that the company is an effective 51 per cent subsidiary of one (and only one) head of a group, then the company is a member of that group.
+
+Example
+
+This example shows how TCGA92/S170 (6)(a) applies to determine single group membership where a company would otherwise be regarded as a member of more than one group. In the example the numbers showing the interest which one company has in another company give firstly the direct beneficial ownership of ordinary share capital, and secondly the direct beneficial entitlement to both profits and assets. Accordingly `70:45’ means that the first company beneficially owns 70 per cent of the ordinary share capital of the second company, and is beneficially entitled to 45 per cent of the second company’s profits and assets.
+
+- |  - |  A |  - |
+
+- |  100:100 |  - |  100:100 |
+
+- |  B |  - |  - |
+
+70:45 |  - |  - |  - |
+
+- |  - |  - |  C |
+
+- |  D |  - |  - |
+
+- |  - |  - |  20:20 |
+
+- |  80:80 |  - |  - |
+
+- |  - |  E |  - |
+
+Before applying Section 170(6)(a), company E could be regarded either as a member of the group headed by A or as a member of the group headed by D.
+
+A is the principal company of a group. A owns 56 per cent of the ordinary share capital of E via B and D, and a further 20 per cent via C. Company E is accordingly an indirect 75 per cent subsidiary of A in terms of ordinary share capital. Company A has a 36 per cent interest in the profits and assets of E held via B and D, and a further 20 per cent interest held via C. Company E is accordingly an effective 51 per cent subsidiary of A. Company E therefore satisfies the basic requirements for group membership in Section 170(3) in relation to principal company A.
+
+D is not a 75 per cent subsidiary of any other company, and so is not prevented from being the principal company of a group by Section 170(4). E is both a 75 per cent subsidiary and an effective 51 per cent subsidiary of D. Company E therefore satisfies the basic requirements for group membership in Section 170(3) in relation to principal company D.
+
+The effect of Section 170(6)(a) is to determine the group membership of E by leaving out of account the interest which A, being the head of one group, has in the profits and assets of D, which is the head of another group. Applying this rule, A has only a 20 per cent interest in the profits and assets of E, so that E no longer satisfies in relation to A the effective 51 per cent subsidiary requirement. The result of Section 170(6)(a) is therefore that E is a member of D’s group and not A’s group.
+
+The rule in TCGA92/S170 (6)(a) will normally be sufficient to establish single group membership where a company would otherwise be a member of more than one group. Where this test fails to establish single group membership you should apply, in order, the tests in Section 170(6)(b), (c) and (d). These tests are illustrated in the example in CG45210.
+
+Tiebreaker rule 2
+
+The second test in TCGA92/S170 (6)(b) looks at the entitlement to the company’s profits. The company is a member of the group whose head has, in percentage terms, the greatest beneficial entitlement to the company’s profits available for distribution to equity holders.
+
+Tiebreaker rule 3
+
+You apply the third test in TCGA92/S170 (6)(c) if the first and second tests fail to establish membership of a single group. The company is a member of that group the head of which has, in percentage terms, the greatest beneficial entitlement to the company’s assets available for distribution to equity holders on a winding-up.
+
+Tiebreaker rule 4
+
+And you use the fourth test in TCGA92/S170 (6)(d) when the first three tests fail to determine which group the company is a member of. The company is a member of that group the head of which owns, directly or indirectly, the greatest percentage of the company’s ordinary share capital. For this purpose the rules in ICTA88/S838 apply to determine the percentage of one company’s share capital owned directly or indirectly by another company.
+
+Example
+
+This example shows how the tests in TCGA92/S170 (6)(b), (c) and (d) apply to determine single group membership where a company would otherwise be a member of more than one group.
+
+Assume that, before applying the tests in Section 170(6)(b), (c) and (d), subsidiary C can be treated as a member either of the group headed by A or of the group headed by B.
+
+If A has a greater percentage entitlement than B to the profits of C available for distribution to equity holders, then C is a member of A’s group and is not a member of B’s group.
+
+Assume that A and B have equal percentage entitlements to the profits of C available for distribution to equity holders. If B has a greater percentage entitlement than A to the assets of C available for distribution to equity holders on a winding-up, then C is a member of B’s group and is not a member of A’s group.
+
+Assume that A and B have equal percentage entitlements to both the profits and assets of C available for distribution to equity holders. If A owns, directly or indirectly, a greater percentage than B (determined in accordance with CTA10/S1154) of C’s ordinary share capital, then C is a member of A’s group and is not a member of B’s group.

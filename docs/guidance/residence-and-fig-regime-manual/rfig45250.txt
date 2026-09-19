@@ -1,0 +1,114 @@
+FIG regime: Income from trusts
+Identifier: RFIG45250
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45250
+Published: 2025-06-06T07:34:24+01:00
+Updated: 2025-06-06T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:18:30.194032+00:00
+
+Not all types of income that a beneficiary receives from a trust can be relieved under the FIG regime. Whether trust income qualifies for relief depends on the type of trust, the residence of the trust and the source of the income. The table below sets out the types of trust income that can and cannot be relieved.
+
+An overseas entity such as an Anstalt, Stiftung or Foundation may be treated as one of the types of trust in the table below for UK tax purposes. If it is, then income from that entity will be treated in the same way under the FIG regime as income from that type of trust, as set out in the table.
+
+For guidance on income arising under the settlements legislation, see RFIG45300 (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45300) and for income arising under the transfer of asset abroad provisions see RFIG45400 (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45400).
+
+Type of trust (non-settlor interested)
+
+|
+
+Can trust income from a foreign source be relieved under the FIG regime?
+
+|
+
+Can trust income from a UK source be relieved under the FIG regime?
+
+|
+
+Foreign bare trust
+
+|
+
+Yes, but only where the income is ‘qualifying foreign income’ (see RFIG45100 (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45100)) – the trust income retains its character in the hands of the beneficiary who is absolutely entitled to it
+
+|
+
+No – the underlying income to which the beneficiary is entitled is not qualifying foreign income
+
+|
+
+UK bare trust
+
+|
+
+Yes, but only where the income is qualifying foreign income - the trust income retains its character in the hands of the beneficiary who is absolutely entitled to it
+
+|
+
+No – the underlying income to which the beneficiary is entitled is not qualifying foreign income
+
+|
+
+Foreign discretionary trust – see INTM339550 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm339550)
+
+|
+
+Yes – income not otherwise charged (Chapter 8 Part 5 ITTOIA 2005) is qualifying foreign income
+
+|
+
+Yes – income is deemed to be foreign source income even where there is an underlying UK situs trust asset, so it is qualifying foreign income
+
+|
+
+UK discretionary trust
+
+|
+
+No – a beneficiary of a discretionary UK trust is taxed in the UK according to income distributions received, even where there is an underlying foreign trust asset, so it is not qualifying foreign income
+
+|
+
+No - the income has a UK situs so it is not qualifying foreign income
+
+|
+
+Foreign Baker trust – see TSEM10425 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem10425)
+
+|
+
+Yes, but only where the income is qualifying foreign income - the trust income retains its character in the hands of the beneficiary who is absolutely entitled to it
+
+|
+
+No – the underlying income to which the beneficiary is entitled is not qualifying foreign income
+
+|
+
+Foreign Garland trust – see TSEM10430 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem10430)
+
+|
+
+Yes – income not otherwise charged (Chapter 8 Part 5 ITTOIA 2005) is qualifying foreign income
+
+|
+
+Yes – income is deemed to be foreign source income even where there is an underlying UK situs trust asset, so it is qualifying foreign income
+
+|
+
+UK IIP trust
+
+|
+
+Yes, but only where the income is qualifying foreign income – the trust income retains its character in the hands of the beneficiary who is absolutely entitled to it
+
+|
+
+No – the underlying income to which the beneficiary is entitled is not qualifying foreign income
+
+|
+
+A foreign income claim must be made by the individual who is taxable on the income (see RFIG42100 (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig42100)). This means that where a beneficiary of a trust wants to make a claim in relation to income from the trust, they must make the claim on their own Self Assessment tax return. The trustees cannot make a foreign income claim on a beneficiary’s behalf.
+
+Where the trustees have paid tax for being in receipt of, or entitled to, the income, and the beneficiary would receive a credit for the tax paid by the trustees, if the beneficiary then makes a claim under the FIG regime there may be a repayment to the beneficiary in respect of the tax that has been paid by the trustees. Refer to TSEM10405 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem10405) onwards for guidance for beneficiaries on claiming credit for tax paid by trustees.
+
+To note, even if trustees are aware that a beneficiary will make a foreign income claim they must still fulfil their obligations to report income and pay tax where appropriate – see TSEM3165 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem3165) for further information.

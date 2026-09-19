@@ -1,0 +1,34 @@
+Assessing: COMPASS: making amendments: new instalment option property (IOP) records
+Identifier: IHTM31133
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31133
+Published: 2016-04-09T10:02:59+01:00
+Updated: 2016-02-11T17:15:41+00:00
+Retrieved (UTC): 2026-09-18T15:05:50.853635+00:00
+
+If one has not already been prepared, you can add a new IOP (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)) or instalment option property with interest relief (IOP(W)) assessment group from the ‘Estate Details’ window.
+
+Select the ‘Add’ button in the assessment group options box and then select whether you require an IOP or IOP(W) group.
+
+You can have more than one IOP or IOP(W) assessment group (but not NIOP) at each Entry. A second assessment group will be indentified on calculations by its separate number.
+
+Example
+
+Ahmed’s free estate contains
+
+- personal assets of £125,000,
+
+- freehold property of £175,000
+
+- a half share in freehold property passing by survivorship at £100,000
+
+As the tax on the joint property is payable by the receiving joint owner, and not by the executor, you have been asked to prepare separate calculations. You will assess
+
+- Entry A NIOP 1 (personal assets)
+
+- Entry A IOP 1 (freehold property passing under the Will)
+
+- Entry A IOP 2 (freehold property passing by survivorship)
+
+The first calculation for IOP 1 will be numbered IOP 1/1, the next IOP1/2, the next IOP 1/3.
+
+The first calculation for IOP 2 will be numbered IOP 2/1, the next IOP 2/2, the next IOP 2/3.

@@ -1,0 +1,38 @@
+Attribution of values to specific investments: changes in  the capitalisation of a company
+Identifier: IHTM34243
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34243
+Published: 2016-04-09T10:12:24+01:00
+Updated: 2017-11-08T09:23:06+00:00
+Retrieved (UTC): 2026-09-18T15:07:23.632673+00:00
+
+You will need to reduce the sale value if
+
+- there is a change in the capitalisation (IHTM34181 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34181)) of a company to which IHTA84/S183 applies, and
+
+- the appropriate person (IHTM34161 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34161)) gave (or became liable to give) consideration for the new holding, IHTA84/S187 (5).
+
+Under S187 (5), the following formula is used to calculate the reduction:
+
+(The value on death of the specific investment sold ÷ the value on death of the whole of the new holding) x the consideration.
+
+The value on death of the specific investment held is found by using the formula (IHTM34183 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34183)) in IHTA84/S183 (5).
+
+The value on death of the whole of the holding is found by adding together the value of the original holding and the consideration received.
+
+But in practice, in straightforward cases where there had been only one sale of shares following the reorganisation, the reduction can be calculated as in the example below
+
+Example
+
+At the date of death, Elizabeth owned 7,500 shares in X-ray plc with a date of death value of £15,000.
+
+X-ray plc offered a 1:3 rights issue at £1 each for a total cost of £2,500.
+
+The executor accepted the offer and as a result owned 10,000 shares, the date of death value of the holding was (£15,000 + £2,500) = £17,500.
+
+Within the period of 12 months from the date of death the executor sold 6,000 of the shares for £7,000.
+
+The sale value of the 6,000 shares sold would be reduced by:
+
+6,000 ÷ 10,000 x £2,500 = £1,500
+
+The revised value for the shares sold is (£7,000 – £1,500) = £5,500.

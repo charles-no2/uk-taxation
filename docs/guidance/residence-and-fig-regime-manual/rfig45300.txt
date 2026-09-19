@@ -1,0 +1,94 @@
+FIG regime: Income arising under the settlements legislation
+Identifier: RFIG45300
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45300
+Published: 2025-04-04T17:52:58+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:18:30.353570+00:00
+
+The settlements legislation is a wide-ranging anti-avoidance provision aimed at preventing an individual obtaining a tax advantage by making arrangements to divert their income to another person whilst retaining an interest in the property or income. The legislation works to deem the income to belong to the settlor, and they will be liable for the income tax as it arises.
+
+From the 2018-19 tax year a benefits charge and an onward gift charge were introduced into the settlements legislation. These charges apply when the settlor or a close member of their family receives a benefit, either directly or routed through another individual, that can be matched with ‘available protected income’ (API) then an income tax charge will arise on the settlor or the close family member, depending on the circumstances. From 2025-26, income is assessable under section 643A ITTOIA 2005 (benefits paid out of protected foreign-source income or transitional trust income) for both of these circumstances.
+
+Detailed guidance can be found in the Trust, Settlements and Estates Manual at TSEM4000 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4000) onwards.
+
+Income that is treated as arising to an individual under the settlements legislation that is foreign income of the individual is available for relief under the FIG regime if the individual is a ‘qualifying new resident’ (see RFIG44000 (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig44000)). There are three categories that are included:
+
+- income arising under section 624 or section 629 ITTOIA 2005, from a source outside of the UK
+
+- income treated as arising to an individual under section 643A ITTOIA 2005 (benefits and onward gifts paid out of protected income)
+
+- an amount of income treated by section 633 ITTOIA 2005 for the tax year that falls within the foreign amount of income available for that tax year
+
+If an individual makes a claim in respect of their foreign income that is assessable under any of these sections listed above then it will be relieved from UK tax. Details of making a claim can be found at RFIG42100 (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig42100).
+
+However, any relevant foreign income arising in tax year 2024-25 or earlier that is treated as arising under the settlement in tax year 2025-26 or later by section 648(3) to (5) ITTOIA 2005, is not qualifying foreign income, so cannot be relieved under a foreign income claim – see section 845I ITTOIA 2005 (disqualified income).
+
+Example 1
+
+In preparation for a move to the UK, Jacques settled a Jersey resident discretionary trust, the J Trust of which he is a beneficiary. The J Trust holds several offshore investments which generate income of £200,000 per year.
+
+In 2027-28 Jacques becomes resident in the UK and therefore under section 624 the income of the J Trust is treated as arising to Jacques and taxable on him as it arises. Jacques has only ever been resident in Belgium so when he arrives in the UK he is a qualifying new resident. If Jacques makes a foreign income claim under the FIG regime in respect of this income, then he will be relieved from tax on the £200,000 arising in the year.
+
+Jacques will be able to continue to claim relief for the years 2028-29 to 2030-31 on the income arising to the J Trust which would be deemed to arise to him for each of these years. For the years 2031-32 onwards Jacques would no longer be a qualifying new resident and therefore unable to claim relief under the FIG regime.
+
+The J Trust was also in receipt of £60,000 UK source income as well as the foreign source income in 2027-28. This UK source income remains taxable on Jacques even though he claimed relief under the FIG regime in respect of the foreign source income, because UK source income is not qualifying foreign income.
+
+Example 2
+
+Prior to moving to the UK, Hope set up the Hope Family Trust for the benefit of herself, her civil partner and any children they may have. Hope moved to the UK in 2023-24, having never previously been UK resident. The Hope Family Trust generated API during this period. No distributions have been made from the Trust.
+
+Year
+
+|
+
+Date
+
+|
+
+UK income
+
+|
+
+Foreign income
+
+|
+
+2023-24
+
+|
+
+31 March 2025
+
+|
+
+£0
+
+|
+
+£250,000
+
+|
+
+2024-25
+
+|
+
+31 March 2026
+
+|
+
+£0
+
+|
+
+£150,000
+
+|
+
+In 2025-26 Hope asks the trustees to make a capital distribution to her to assist her in purchasing a property in which to live. The trustees agree to do this and make a distribution of £400,000 to Hope. As there is sufficient API in the trust to match against this benefit Hope is potentially taxable on the benefit of £400,000 under section 643A, however, as a qualifying new resident she can claim relief under the FIG regime.
+
+In this case the only benefit provided is £400,000 received by Hope in 2025-26.
+
+Having undertaken the matching process if Hope made a foreign income claim in respect of the benefit the full capital payment of £400,000 treated as her income under section 643A would be relieved under the FIG regime because it is qualifying foreign income.
+
+The amount of foreign income available for matching against future benefits would include the £400,000 of income matched and then relieved under the FIG regime, because step 5 at section 643C(1) ITTOIA 2005 adds back to the API total any amount of income that has been identified as qualifying foreign income on a foreign income claim.

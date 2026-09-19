@@ -1,0 +1,54 @@
+PMA: Long funding lease: chains of leases
+Identifier: CA23820
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23820
+Published: 2016-04-16T08:50:00+01:00
+Updated: 2016-04-06T16:53:43+01:00
+Retrieved (UTC): 2026-09-18T16:20:51.872261+00:00
+
+CAA01/S70Q
+
+Where there is a chain of leases a lessee can only treat a lease as a long funding lease and claim PMA if nobody higher in the chain:
+
+- is entitled to capital allowances at the commencement of the term of the lease, or
+
+- would have been entitled to capital allowances at the commencement of the term of the lease if it were not for CAA01/S70V (avoidance) CA23845 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23845), or
+
+- has been entitled to capital allowances and has not brought a disposal value to account under CAA01/S61 (1) (ee),
+
+when the long funding lease is granted.
+
+The lessor or somebody else higher in the chain may not be chargeable to tax. If so assume that they are chargeable to tax when you apply the tests above.
+
+If the lessor is not chargeable to tax, and does not prepare accounts in accordance with international accounting standards or UK generally accepted accounting practice, use generally accepted accounting practice for accounts prepared in accordance with international accounting standards when you decide if it would have passed the tests.
+
+You should note that any type of capital allowance claim by a superior lessor and not just a PMA claim is enough to stop the lessee treating the lease as a long funding lease and claiming PMA. For example, the plant may be a fixture in an enterprise zone building and the lessor may have claimed enterprise zone allowance rather than PMA. If so, a person that leases the building cannot treat the lease of the building including the plant as a long funding lease.
+
+There is an exception to this. A lessee can claim capital allowances even if the lessor has claimed them provided that the lease is not a funding lease for the lessor only CA23830 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23830)because:
+
+- The plant had been leased for at least 10 years before 1 April 2006.
+
+- The lessor under the plant and machinery lease was also the lessor of the plant on the last day before 1 April 2006 when the plant was leased.
+
+and the inception of the lease is before 28 June 2006.
+
+Normally it is the first lessee in the chain that does not treat the lease that it grants as a long funding lease that can claim PMA.
+
+Example Dexter leases an asset to Hugh. Hugh then leases the asset to Bernard who leases it to James.
+
+If Dexter has claimed capital allowances and either:
+
+- Dexter has not treated the lease to Hugh as a long funding lease which means that Dexter will not have brought a disposal value to account under CAA01/S61 (1) (ee), or
+
+- Dexter has claimed an allowance other than a PMA,
+
+nobody lower in the chain than Dexter can claim PMA.
+
+If Dexter has treated the lease to Hugh as a long funding lease and has brought a disposal value to account Hugh can claim capital allowances if he has treated the lease to him as a long funding lease. If Hugh does not treat the lease to Bernard as a long funding lease Hugh will not have brought a disposal value to account and neither Bernard nor James can claim capital allowances.
+
+If Dexter has treated the lease to Hugh as a long funding lease, Hugh has treated the lease to Bernard as a long funding lease but Bernard does not treat the lease to James as a long funding lease then Bernard can claim capital allowances but James cannot.
+
+If James treats the lease as a long funding lease James cannot claim PMA unless:
+
+- none of Dexter, Hugh and Bernard is entitled to capital allowances, and
+
+- if any of Dexter, Hugh and Bernard has been entitled to capital allowances that person brought a disposal value to account under CAA01/S61 (1) (ee) when the lease to James was granted.

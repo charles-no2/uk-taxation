@@ -1,0 +1,44 @@
+Pre-owned assets: calculation of the charge on land: where the relevant land is disposed of
+Identifier: IHTM44012
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44012
+Published: 2016-04-09T10:30:01+01:00
+Updated: 2016-02-11T17:26:28+00:00
+Retrieved (UTC): 2026-09-18T15:10:09.375329+00:00
+
+Example
+
+John establishes a home loan scheme (IHTM44103 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44103)) on 10 October 2003. He sold ‘Totley Towers’ to Trust 1 for its open market value of £700,000. He continues to reside in the property as life tenant of the trust. He will be subject to a POA charge from 2005/06 onwards and the valuation date is 6 April 2005. By that date, the value of the property had risen to £800,000 and the annual value of the property was £15,000. The amount of the loan, together with interest accrued is £750,000.
+
+The part of value of the property that is treated is forming part of John’s estate is £50,000. In effect, ‘DV’ (IHTM44010 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44010)) becomes the value of the loan. The appropriate rental value is therefore:
+
+15,000 × (750,000 ÷ 800,000) = £14,062.
+
+This value will be used in working out John’s income tax for year 2005/06 and the next four tax years as well (assuming Trust 1 retains the property). The valuation process will need to be repeated again on 6 April 2010 to establish the annual value to use for the following five tax years.
+
+Note: this example assumes that the home loan scheme succeeds in avoiding the reservation of benefit provisions so that the house is not comprised in John’s estate as a reservation of benefit purposes but is reduced by an excluded liability (IHTM44051 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44051)). HMRC does not accept this is the case (IHTM44103 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44103)); this example is only included to show the calculations that would otherwise apply.
+
+Example
+
+Xavier executes an ‘Ingram’ scheme (IHTM44100 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44100)) in 1998 and gives away the freehold interest in Greenacre having reserved a lease over the land to himself. The POA charge first applies to Xavier on 6 April 2005 when the freehold of Greenacre is worth £800,000 and the encumbered freehold is worth £500,000. The rental value for 2005/06 is put at £40,000. The appropriate rental value is therefore
+
+40,000 × (500,000 ÷ 800,000) = £25,000.
+
+Note that if Xavier had paid £20,000 towards the rent, leaving only £5,000 in charge, this would not bring the charge within the de minimis limit (IHTM44056 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44056)).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44012#Top)
+
+Example
+
+Joan gives her son £250,000 in March 2005 which he spends acquiring 38 Acacia Avenue. On 6 October 2007, Joan moves in and occupies the property. She will be subject to the POA charge from 6 October. As this date is the first day of the taxable period, it is this date that is the valuation date and the rental value must be calculated in the normal way. Only the appropriate fraction of the rental value will be subject to the POA charge in 2007/08 with the full annual value being in charge for the next 4 tax years.
+
+Note that if Joan moved into a house that her son had bought with his own money and she then gave him funds which he used to improve it, there is no POA charge. This is because Joan’s money was not used to acquire an interest in land.
+
+The next valuation date will be 6 April 2012.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44012#Top)
+
+Example
+
+Adam is first liable to a POA charge on 6 April 2005. The necessary valuations are obtained and the POA charge is paid. He becomes non-UK resident for six years from 6 April 2007 to 6th April 2012. The POA charge does not apply during this period (IHTM44053 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44053)). Normally, the five year anniversary would be on 6 April 2010; but because no POA charge arises it is not a ‘valuation date’. Adam returns to the UK on 15 June 2012. New valuations are then required and apply for year 2012/13 and the four years thereafter. The next valuation date will be 6 April 2017.
+
+Had Adam becomes resident again during year 2008/09 and occupied the relevant land again, the POA charge for the portion of 2008/09 and 2009/10 would have been based on the values obtained for 6 April 2005 and year 2005/06. The next valuation date would then be 6 April 2010.

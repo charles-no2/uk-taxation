@@ -1,0 +1,100 @@
+Unauthorised payments: the unauthorised payments charge and the unauthorised payments surcharge: surchargeable unauthorised employer payments
+Identifier: PTM134600
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134600
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-02-01T17:57:01+00:00
+Retrieved (UTC): 2026-09-18T14:50:05.043978+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Surchargeable unauthorised employer payments (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134600#IDARTQQB)
+The surcharge threshold for surchargeable unauthorised employer payments (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134600#IDA0UPQB)
+Example of surchargeable unauthorised employer payments (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134600#IDAJSPQB)
+
+Surchargeable unauthorised employer payments
+
+Section 213 Finance Act 2004
+
+A payment made to or in respect of a sponsoring employer is a surchargeable unauthorised employer payment if it is an unauthorised employer payment that, together with any other unauthorised employer payments made by the same registered pension scheme to or in respect of that employer, before the end of a 12-month reference period equals or exceeds the surcharge threshold. A reference period begins on a certain date called the reference date.
+
+Where the surcharge threshold is reached, a surcharge period is established and all of the unauthorised employer payments in the surcharge period in respect of the employer are surchargeable unauthorised employer payments.
+
+The surcharge period
+
+A surcharge period starts with the reference date and, where the surcharge threshold is reached before the end of a period of 12 months beginning from that reference date, ends on the day on which the surcharge threshold is reached.
+
+So, if in any 12-month period the total unauthorised employer payments made by a registered pension scheme in respect of a sponsoring employer are less than the surcharge threshold the unauthorised payments surcharge will not apply to those unauthorised payments.
+
+The reference date
+
+The reference date is the date of payment of the first unauthorised employer payment made by the scheme to or in respect of the sponsoring employer.
+
+Subsequent reference dates will occur on the payment of an unauthorised employer payment to or in respect of the same employer after the end of a reference period.
+
+The reference period
+
+A reference period starts with the reference date and ends on the earlier of:
+
+- 12 months following the reference date
+
+- the day on which the surcharge threshold is reached.
+
+So, the first reference date will be the date of payment of the first unauthorised employer payment to or in respect of the sponsoring employer. The first reference period will run from the first reference date until the surcharge threshold is reached or until 12 months later if earlier.
+
+The second reference date will be the date of first payment of an unauthorised employer payment to or in respect of the employer after the first reference period. The second reference period will run from the second reference date until the earlier of 12 months later or the surcharge threshold is reached.
+
+The method of calculation of surcharge periods described above for a sponsoring employer of a registered pension scheme applies equally to the payment of unauthorised employer payments to or in respect of a former sponsoring employer.
+
+The method of calculation also applies to unauthorised employer payments made to a person who was a sponsoring employer in respect of one or more unauthorised payments and a former sponsoring employer in respect of other such payments. For example, a reference period starts when a registered pension scheme makes an unauthorised employer payment to a sponsoring employer (payment 1). Payment 1 does not reach the surcharge threshold. Six months later, that person stops being a sponsoring employer and immediately afterwards the scheme pays another unauthorised employer payment to that, now, former sponsoring employer (payment 2). Payment 1 is considered with payment 2 to determine whether or not the surcharge threshold is now reached.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134600#Top)
+
+The surcharge threshold for surchargeable unauthorised employer payments
+
+Section 213(7) to (9) Finance Act 2004
+
+The surcharge threshold is reached if the unauthorised payments percentage reaches 25%.
+
+The unauthorised payments percentage is the total of the percentages of the pension fund used up by each unauthorised employer payment made on or after a reference date by the scheme to or in respect of the employer.
+
+The percentage of the pension fund used up making an unauthorised employer payment is represented by the formula
+
+UEP / AA X 100
+
+UEP = the amount of the unauthorised employer payment
+
+AA = the total of amount of the sums and market value of assets held for the purposes of the pension scheme at the time the unauthorised employer payment is made.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm134600#Top)
+
+Example of surchargeable unauthorised employer payments
+
+On 1 January 2014 J Bloggs Ltd receives an unauthorised employer payment of £50,000 from the JB pension scheme. The fund value of the scheme at that time was £500,000. J Bloggs Ltd becomes liable to an unauthorised payments charge on the £50,000 payment.
+
+A reference date of 1 January 2014 is set for J Bloggs Ltd.
+
+As the payment represents only 10% of the value of the fund the surcharge threshold has not been reached. This means the payment is not a surchargeable unauthorised employer payment and so there is no unauthorised payments surcharge.
+
+On 1 June 2014 the JB pension scheme makes unauthorised employer payments of £45,000 to J Bloggs Ltd and £22,500 to Bloggs Jnr Ltd respectively. The value of the JB pension scheme was £450,000. This payment to J Bloggs Ltd represents 10% of the fund and the payment to Bloggs Jnr Ltd 5% of the fund value.
+
+J Bloggs Ltd becomes liable to an unauthorised payments charge on the £45,000 payment. Bloggs Jnr Ltd becomes liable to an unauthorised payments charge on the £5,000 payment.
+
+Before these payments neither the surcharge threshold has been reached, nor has 12 months elapsed since the previous reference date of 1 January 2014 for J Bloggs Ltd. So there is both a reference date and an open reference period for this employer.
+
+The percentage value of the £45,000 payment is added to the percentage value of the £50,000 payment made on 1 January 2014. This gives a total percentage amount of 20% (10% + 10%). The surcharge threshold has not been reached so there is no unauthorised payments surcharge.
+
+The £5,000 payment to Bloggs Jnr Ltd triggers a reference date of 1 June 2014 and the start of a reference period in relation to the scheme for Bloggs Jnr Ltd.
+
+Although the scheme has made payments that give a total percentage amount of 25%, the surcharge threshold has not yet been reached as the payments giving rise the percentage amounts totalling 25% are split between two employers.
+
+On 1 September 2014 the value of the JB pension scheme stands at £390,000. J Bloggs Ltd receives another unauthorised employer payment of £19,500 (5% of the fund). J Bloggs Ltd becomes liable to an unauthorised payments charge on this payment.
+
+There is still an open reference period for J Bloggs Ltd as neither 12 months has passed since 1 January 2014 (when the current reference date in relation to the scheme was set in respect of J Bloggs Ltd) and neither has the surcharge threshold been reached. The percentage value of the £19,500 payment is added to the percentage value of the previous unauthorised payments made in the current reference period. This gives total percentage amount in relation to J Bloggs Ltd of 25% (10% for the payment on 1 January 2014 + 10% for the payment on 1 June 2014 + 5% in respect of the latest payment on 1 September 2014). The surcharge threshold has now been reached. This means:
+
+- the reference period for J Bloggs Ltd, that began on 1 January 2014, ended on 1 September 2014, as this is the day the surcharge threshold is reached
+
+- there is a surcharge period in relation to the scheme in respect of J Bloggs Ltd that began on 1 January 2014 and ended on 1 September 2014
+
+- all unauthorised employer payments made to or in respect of J Bloggs Ltd in that surcharge period are surchargeable
+
+- J Bloggs Ltd is now liable to the unauthorised payments surcharge in respect of the £50,000 payment made on 1 January 2014, the payment of £45,000 on 1 June 2014 and the £19,500 payment made on 1 September 2014.

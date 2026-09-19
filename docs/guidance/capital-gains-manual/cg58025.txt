@@ -1,0 +1,26 @@
+Deferred consideration: shares and securities: variation of sale agreement
+Identifier: CG58025
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58025
+Published: 2016-03-12T11:46:43+00:00
+Updated: 2021-05-24T14:38:13+01:00
+Retrieved (UTC): 2026-09-18T14:44:15.681058+00:00
+
+TCGA92/S138A(4)
+
+Sometimes the vendor and purchaser agree to vary the terms of the original sale agreement after it has been entered into, but before the right to unascertainable deferred consideration has been satisfied. If the terms of the earn-out right are varied then strictly this is a disposal of the earn-out right by the purchaser. Any new rights granted to the purchaser are the consideration for the disposal.
+
+Where TCGA92/S138A treats the original right to receive unascertainable deferred consideration (‘the old right’) as a security of a company, and the old right is extinguished, the assumed security treatment can be repeated in respect of the later right if:
+
+- the whole of the consideration for the extinguishment of the old right consists in another right (‘the new right’) to be issued with shares in or debentures of that company,
+
+- the new right is such that the value or quantity of the shares or debentures to be issued in pursuance of the right (‘the replacement securities’) is unascertainable (see CG58015 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg58015)) at the time when the old right is extinguished, and
+
+- the new right is not capable of being discharged in accordance with its terms otherwise than by the issue of the replacement securities.
+
+For example the original agreement provides for the vendor to receive shares of a value equal to half of the profit of the company in the accounting period after the date of the contract (the old right). A deed of variation made shortly thereafter provides that the vendor would only get shares of a value equal to one third of the profit (the new right). If the old right was treated as a security then the new right (which can only be satisfied by an issue of an unascertainable amount of shares) could also be treated as a security.
+
+Takeovers
+
+You may come across cases where the purchasing company in an earn-out is itself taken over during the earn-out period, and the initial earn-out is replaced by a new earn-out right. As long as the conditions in section 138A (2) are satisfied by the terms of the later takeover, the new earn-out right may also benefit from the assumed security treatment. This is on the basis that the initial earn-out right is treated as a security by section 138A(3)(a).
+
+Section 138A(3)(c) allows references to a “debenture” to include a right to receive the unascertainable deferred consideration that has been assumed to be a security. The result is that section 138A(1) can apply when the new earn-out right replaces the initial earn-out right. The legislation is capable of repeated application in a sequence of such take overs.

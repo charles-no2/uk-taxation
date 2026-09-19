@@ -1,0 +1,56 @@
+Termination payments and benefits: example: section 401 ITEPA 2003: exceptions: foreign service
+Identifier: EIM13970
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13970
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-03-04T12:30:57+00:00
+Retrieved (UTC): 2026-09-18T14:10:44.813887+00:00
+
+Section 413 ITEPA 2003
+
+A taxpayer held an employment from 1 January 1987 to 30 April 2018. A termination payment of £100,000 within section 401 ITEPA 2003 is paid on the latter date. The employee is non-UK resident for the tax year 2018 to 2019.
+
+The relevant date is 30 April 2018 (the date of termination, see EIM13540 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13540)). So the total period of the employment is 376 months.
+
+The employee was not resident or not ordinarily resident during the periods shown in the table below so these periods count as foreign service (see EIM13690 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13690)).
+
+It may be appropriate to use workdays or whole months in the calculation depending on the circumstances. This example uses whole months for simplicity, but see EIM13985  (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13985)for a more detailed calculation of foreign service using workdays.
+
+Period when not resident and/or not ordinarily resident * |  Months (rounded up) |
+
+1 January 1987 to 27 April 1987 (NOR) |  4 |
+
+21 March 1990 to 15 May 1996 (NR) |  74 |
+
+4 August 1999 to 1 September 2004 (NR) |  61 |
+
+1 November 2009 to 30 April 2018 (NR) |  102 |
+
+Total foreign service |  241 |
+
+* non-ordinary residence periods on or after 6 April 2013 do not count as foreign service.
+
+Apply the 3 tests for exception in EIM13690 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13690) (note that the exception is given if any one of the tests is satisfied).
+
+Test 1
+
+Does at least three-quarters of the total period of service qualify as foreign service?
+
+376 × ¾ = 282. Only 241 months qualify. Test failed.
+
+Test 2
+
+Is the total period of service more than 10 years?
+
+Yes, so are the last 10 years foreign service?
+
+The period 1 May 2009 to 30 April 2018 is not wholly foreign service as the period 1 May 2009 to 31 October 2009 does not qualify. Test failed.
+
+Test 3
+
+Is the total period of service more than 20 years?
+
+Yes, so does at least one-half of the whole period of service (376 months × ½ = 188) qualify as foreign service?
+
+Yes, so does the period that qualifies (241 months) include at least 10 of the last 20 years? The last 20 years covers the period 1 May 1998 to 30 April 2018. In that period, 163 months (15 years 7 months) is foreign service.
+
+Yes: give full exception to the £100,000.

@@ -1,0 +1,70 @@
+Calculating the transferable nil rate band: how the amount to be transferred is calculated
+Identifier: IHTM43020
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43020
+Published: 2016-04-09T10:28:33+01:00
+Updated: 2017-10-25T11:30:09+01:00
+Retrieved (UTC): 2026-09-18T15:09:54.614613+00:00
+
+A formula in IHTA84/S8A(2) is used to determine whether a person has unused nil rate band on death. A person has unused nil rate band where M is greater than VT.
+
+M is the maximum that could be transferred on the first death at nil percent. It is therefore
+
+- the nil rate band that applied at the first death
+
+- less the chargeable value of any lifetime transfers that use up the nil rate band first.
+
+VT is the chargeable value of the transfer on death. This is the total of
+
+- the chargeable value of non exempt or partially relievable legacies passing under the Will or intestacy,
+
+- assets passing by survivorship,
+
+- gifts with reservation chargeable at death
+
+- and any assets held in trust which formed part of the deceased’s estate.
+
+Where M is greater than VT the amount by which it is greater is expressed as a percentage of the nil rate band available on the first death. That percentage is the amount by which the nil rate band on the second death is increased. Where necessary, you should always take the percentage to four decimal places.
+
+Example
+
+John and Linda were married in 1965. John died on 22 October 2002 and Linda died on 10 March 2008.
+
+When he died, John’s estate was worth £400,000. He left legacies to his children of £100,000 and the residue (£300,000) to Linda.
+
+Unused nil rate band calculation
+
+Applying the formula above
+
+the nil rate band at the date of death was £250,000 and there are no chargeable lifetime transfers to deduct. So, M is £250,000.
+
+there are chargeable legacies of £100,000 but no other aggregable property, so* *VT is £100,000.
+
+- So, M is greater than VT by £150,000.
+
+Transferable nil rate band calculation
+
+- The amount of the nil rate band available to transfer from the first death is expressed as percentage being E ÷ NRBMD × 100 where
+
+- E is the amount by which M is greater than VT.
+
+- NRBMD is the single nil rate band maximum at the first death.
+
+So E is £250,000 - £100,000 = £150,000.
+
+The percentage of nil rate band available to transfer is
+
+(150,000 ÷ 250,000) × 100 = 60.0000%
+
+At the date of Linda’s death the nil rate band was £300,000. This will be increased by the amount available to transfer
+
+£300,000 + (£300,000 X 60%) = £480,000
+
+So the total nil rate band on Linda’s death will be £480,000.
+
+Using the same example, if
+
+- the chargeable legacies had been £300,000
+
+- M would be £250,000 and* *VT £300,000.
+
+So, as M is not greater than VT there would be no nil rate band available to transfer on Linda’s death.

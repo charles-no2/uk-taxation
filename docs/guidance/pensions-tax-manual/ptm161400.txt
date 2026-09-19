@@ -1,0 +1,97 @@
+Information and administration: reportable events 6 to 7
+Identifier: PTM161400
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161400
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2023-12-14T10:48:18+00:00
+Retrieved (UTC): 2026-09-18T14:50:16.966253+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+As of the 6 April 2024 Events 6 and 7 are no longer reportable. For any report occuring before the 6 April 2024 these events must be reported and the below information considered.
+
+Reportable event 6: BCEs and enhanced lifetime allowance, enhanced protection, fixed protection, fixed protection 2014, fixed protection 2016, individual protection 2014 or individual protection 2016 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161400#ReportableEvent6)
+Reportable event 7: Pension commencement lump sum more than 25% of the fund and the member does not have primary/enhanced protection (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161400#ReportbaleEvent7)
+
+Regulation 3 The Registered Pension Schemes (Provision of Information) Regulations 2006 - SI 2006/567
+
+Reportable event 6: BCEs and enhanced lifetime allowance, enhanced protection, fixed protection, fixed protection 2014, fixed protection 2016, individual protection 2014 or individual protection 2016
+
+This event needs reporting when a member’s benefit crystallisation event (BCE) takes place (that’s all BCEs except BCE 5C and 7) and the member relied on one of the following to reduce or eliminate liability to the lifetime allowance charge:
+
+- an enhanced lifetime allowance
+
+- enhanced protection
+
+- fixed protection
+
+- fixed protection 2014
+
+- fixed protection 2016
+
+- individual protection 2014
+
+- individual protection 2016.
+
+A BCE becomes reportable at the point total BCEs are more than the standard lifetime allowance. The BCEs reportable are any BCEs over the standard lifetime allowance; that is those that would have been liable to tax if the member hadn’t used one of the forms of lifetime allowance protection.
+
+Example
+
+Corrine has primary protection and a protected lump sum right of £700,000. In September 2008 Corrine crystallises a scheme pension with a value of £1 million. She has had no previous BCEs and had no benefits in payment before 6 April 2006. The standard lifetime allowance for 2008 to 2009 is £1.65 million and as Corrine has only crystallised benefits worth £1 million this BCE is not reportable. At this point she has used up 60.6% of the standard lifetime allowance.
+
+In December 2012 Corrine crystallises a pension commencement lump sum (PCLS) of £300,000 and a lifetime annuity with a value of £400,000. The standard lifetime allowance for 2012 to 2013 is £1.5 million. The BCE from 2008 to 2009 used up 60.6% of the standard lifetime allowance, which leaves 39.4% or £591,000 left of the standard lifetime allowance before the latest set of benefit crystallisations.
+
+Corrine has now crystallised £700,000 (£300,000 PCLS plus £400,000 lifetime annuity). This is more than the £591,000 remaining standard lifetime allowance that Corrine has available. The PCLS automatically crystallises before the pension, so at this point Corrine has £291,000 (£591,000 - £300,000 = £291,000) standard lifetime allowance available. It is the pension BCE that goes over the standard lifetime allowance level, so only the last pension BCE needs to be reported.
+
+If Corrine had taken her maximum PCLS of £700,000 plus the £400,000 pension both the BCE 6 in respect of the PCLS and the BCE 4 in respect of the lifetime annuity would be reportable as both BCEs go over the level of the standard lifetime allowance.
+
+In either case the PCLS must be reported on the Event Report as a reportable event 8.
+
+The information that must be provided on the Event Report for reportable event 6 is:
+
+- the name of the member
+
+- their National Insurance number (see PTM161200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161200) if the scheme administrator doesn’t have this)
+
+- the reference number of the protection certificate issued by HMRC
+
+- the amount crystallised by the event
+
+- the date of the event.
+
+Where more than one BCE is reportable for a member more than one event should be recorded for that member. So, in the example above where Corrine receives a PCLS of £700,000 two events should be reported for her.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161400#Top)
+
+Reportable event 7: Pension commencement lump sum more than 25% of the fund and the member does not have primary/enhanced protection
+
+This event happens when a pension commencement lump sum is paid to a member, and the lump sum is more than:
+
+- 7.5% but less than 25% of the standard lifetime allowance for the tax year in which it is paid
+
+- 25% of total amount crystallised by both the lump sum and associated pension - if the member was 75 or older when they became entitled to the pension there is no benefit crystallisation event (in these circumstances the test is against the amount that would have crystallised if the member had been less than 75 when entitlement to the lump sum and associated pension arose).
+
+Example
+
+Tom belongs to 2 registered pension schemes. As Tom has a pension in payment from one scheme he decides to delay taking benefits from the second scheme. Tom was 75 on 30 June 2011 and the benefits not yet in payment from the second scheme are tested against the lifetime allowance. In May 2012 Tom decides to take benefits from his second pension fund. Tom is paid a £125,000 pension commencement lump sum (PCLS) on 1 May 2012 and he uses the remaining fund (£275,000) to buy a lifetime annuity.
+
+As the lump sum and pension were put into payment when Tom was 75 there is no BCE. If Tom had been under 75 then total amount crystallised would have been £400,000 with £125,000 of that crystallising as the lump sum. So, Tom’s PCLS was worth more than 25% of the total amount crystallising and is more than 7.5% of the standard lifetime allowance for 2012 to 2013. The £125,000 PCLS is reportable under the 2012 to 2013 Event Report under reportable event 7.
+
+Where a lump sum payment is made before the member becomes entitled to it, the scheme administrator will not initially know whether the payment is a pension commencement lump sum or an unauthorised payment. Where the payment is a pension commencement lump sum it is reportable in relation to the tax year in which it was paid (which may be different from the tax year in which entitlement to it arose), where the bullet points above apply. Where the tax year of payment is different to the tax year of entitlement, the test (above) for whether the lump sum is reportable is made using the standard lifetime allowance for the tax year of payment.
+
+Example
+
+Colin is paid a £115,000 pension commencement lump sum on 1 February 2013. However the pension to which the lump sum is connected does not crystallise until 1 May 2013. A pension commencement lump sum can be paid up to 6 months before the attached pension crystallises so the lump sum is an authorised payment. The lump sum is paid in 2012 to 2013 but crystallises in 2013 to 2014. The test for reporting is made in the year the lump sum was paid, so against the lifetime allowance for 2012 to 2013 which was £1.5 million. £115,000 is more than 7.5% of £1.5 million so the payment must be reported on the Event Report for 2012 to 2013.
+
+The information that must be provided on the Event Report for reportable event 7 is:
+
+- the name of the member
+
+- their National Insurance number (see PTM161200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm161200) if the scheme administrator doesn’t have this)
+
+- the amount of the lump sum
+
+- the date the lump sum was paid
+
+- the amount crystallised on the member becoming entitled to the pension with which the lump sum is associated - only the crystallised amount of the pension is needed; the amount crystallised by the lump sum is not included.
+
+Where a trivial lump sum is paid alongside the pension commencement lump sum because the conditions at PTM063130 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm063130) are met, the amount of the trivial lump sum must be entered in the field of the report that asks for the amount crystallised by the pension. If the amount of the trivial lump sum is not entered, the Pension Schemes Online and/or Managing Pension Schemes service will not allow the Event Report to be submitted as there must be a positive monetary amount in this field.

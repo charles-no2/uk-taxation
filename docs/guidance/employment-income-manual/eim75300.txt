@@ -1,0 +1,94 @@
+The taxation of pension income: annuities chargeable to tax as pension income
+Identifier: EIM75300
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75300
+Published: 2022-03-28T16:21:54+01:00
+Updated: 2022-03-28T16:21:30+01:00
+Retrieved (UTC): 2026-09-18T14:17:30.770097+00:00
+
+Overview (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75300#overview)
+Registered pension schemes (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75300#registered-pension-schemes)
+Non-registered occupational pension schemes (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75300#non-registered-occupational-pension-schemes)
+Annuities purchased in recognition of service (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75300#annuities-purchased-in-recognition-of-service)
+Retirement annuity contracts (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75300#retirement-annuity-contracts)
+Beneficiaries’ annuities (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75300#beneficiaries-annuities)
+Amount subject to tax (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75300#amount-subject-to-tax)
+
+Overview
+
+An annuity is a periodical payment that may be paid under an obligation or voluntarily. Certain annuities are specifically charged to tax as pension income. Non-pension annuities are chargeable as either:
+
+- employment income under Part 7A Income Tax (Earnings and Pensions) Act 2003
+
+- savings and investment income under Part 4 Income Tax (Trading and Other Income) Act 2005
+
+Registered pension schemes
+
+Sections 579A-579C and 579D ITEPA 2003
+
+Annuities under, or purchased with sums or assets held for the purposes of, a registered pension scheme are chargeable to Income Tax as pension income.
+
+The tax treatment of the annuity depends on whether it is payable in the member’s lifetime or because of the death of a pension scheme member or beneficiary.
+
+EIM75400 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75400) provides guidance on the definition of pensions paid from a registered pension scheme and the tax treatment of payments to members.
+
+EIM75600 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75600) provides guidance on the tax treatment of payments to beneficiaries following the death of a pension scheme member.
+
+Non-registered occupational pension schemes
+
+Section 610 ITEPA 2003
+
+The following are charged to tax under this section:
+
+- annuities paid under an occupational pension scheme that is not a registered pension scheme
+
+- annuities acquired using funds held for the purposes of an occupational pension scheme that is not a registered pension scheme
+
+The definition of an occupational pension scheme for these purposes is the same definition used for registered pension schemes (by section 158(5) FA 2004). Broadly, an occupational pension scheme is a pension scheme set up by an employer to provide benefits for their employees. See PTM022000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm022000) for more information about the meaning of the term ‘occupational pension scheme’.
+
+Annuities purchased in recognition of service
+
+Section 611 ITEPA 2003
+
+Section 611 ITEPA 2003 brings annuities purchased in recognition of another person’s service in any office or employment within the definition of pension income. This section does not apply to annuities paid under, or purchased with sums or assets held for the purposes of, a registered pension scheme.
+
+Retirement annuity contracts
+
+Retirement annuity contracts are a type of pension scheme primarily for the self-employed that were available to take out before 1 July 1988. Most annuities paid under retirement annuity contracts are taxed as pensions paid under registered pension schemes (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75300#registered-pension-schemes) and are subject to PAYE in the same way; see the Registered pension schemes section above.
+
+Beneficiaries’ annuities
+
+Section 609 ITEPA 2003
+
+Annuities paid under a contract purchased to provide benefits to the surviving spouse, civil partner or child of an employee following their death may be chargeable to tax under section 609. EIM75600 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75600) provides more information about the tax treatment of these annuities.
+
+Certain annuities payable from a pension scheme following the death of a member of that scheme may be exempt from tax if both:
+
+- the annuity payments to the beneficiary started after 5 April 2015
+
+- the member died on or after 3 December 2014 aged under 75
+
+See EIM75640 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75640) for full details of which annuities payable to a beneficiary may be exempt from tax and the conditions for tax-free payment.
+
+Amount subject to tax
+
+This section does not apply to annuities paid under a registered pension scheme – see EIM75400 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim75400) for the tax treatment of these annuity payments. The amount of annuity subject to tax depends on the source of the annuity and when the annuity is paid.
+
+UK annuities
+
+Sections 612 and 683(3) ITEPA 2003
+
+The amount of the annuity subject to tax is full amount of the annuity arising in the tax year. The person liable to pay tax is the person receiving or entitled to receive the annuity. This applies whether or not they are UK resident.
+
+Annuities under non-registered occupational pension schemes are subject to PAYE.
+
+Foreign annuities
+
+Sections 609(2), 610(2), 611(2) and 613 ITEPA 2003
+
+The person liable to pay tax is the person receiving or entitled to receive the annuity. An annuity which arises from a non-UK source is taxable only if it is paid to a UK resident. From 6 April 2017 the taxable amount of the annuity is the full amount of the annuity arising in the tax year.
+
+For annuity payments that arose before 6 April 2017 the taxable amount was 90% of the amount arising in the tax year.
+
+The PAYE rules do not apply to foreign annuities.
+
+The annuity is treated as ‘relevant foreign income’ for the purposes of chapters 2 and 3 of Part 8 ITTOIA 2005. For individuals subject to the remittance basis this means tax is due only on pension remitted to the UK. For pre-6 April 2017 payments the 10% deduction is not available for individuals subject to the remittance basis (see RFIG30750 (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30750)).

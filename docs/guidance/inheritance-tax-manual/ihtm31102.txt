@@ -1,0 +1,68 @@
+Assessing: COMPASS: setting-up a record
+Identifier: IHTM31102
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31102
+Published: 2016-04-09T10:02:36+01:00
+Updated: 2016-02-11T17:15:40+00:00
+Retrieved (UTC): 2026-09-18T15:05:46.504014+00:00
+
+Where there is no COMPASS record for an estate but you need to have a record, for instance if the case changes from non-taxpaying to taxpaying, you can either:
+
+- ask Service to set-up a COMPASS record and enter the data, or
+
+- set-up the case record yourself.
+
+If you choose to prepare the case record yourself, perhaps for speed or if the estate is complicated, you do this through the ‘data entry’ part of COMPASS. Choose the ‘Register and Enter Estate Details’ option from the ‘File’ menu:
+
+- Enter the appropriate case details. The option to move to the next screen will be greyed out until you have entered the minimum information. This will include the Date of Receipt; which is the date stamped on form IHT400 by the post room. If you are creating a file to pursue delivery of an account, you should check the ‘Pre-grant case’ box to move to the next screen.
+
+- Complete the appropriate details (you do not usually need to include the deceased’s address) and continue to the next screen.
+
+- Enter details for the agent, or nominated liable person.
+
+Then either:
+
+Option 1
+
+- From the ‘Entry’ menu at the top of the screen, choose the type of property or reliefs you want to enter and insert the figures. Continue until all assets, liabilities, reliefs and exemptions are included.
+
+- Do not start entering the details for a new entry until you have finished the free estate details, as you cannot go back. When you have entered the assets and liabilities of an Entry, select OK.
+
+- Select ‘Tax Summary’ on the Entry screen and confirm that you want to save the estate details.
+
+- You will be asked to allocate the record to an allocator. Select the appropriate allocator for your Team.
+
+- If the overall calculation figures are correct, you can continue to raise calculations, remembering to adjust the details of any lifetime transfers or QSR (IHTM22041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm22041)). If you prefer you can exit the program and make any amendments and calculations through the COMPASS ‘Case Working’ program.
+
+Option 2
+
+- Select the ‘Tax Summary’ button and select ‘Yes’ to save the estate details.
+
+- You will be asked to allocate the record to an allocator before leaving. Select the appropriate allocator for your team.
+
+- Do not take any more action in the data entry program. Close all windows and the program itself.
+
+- Return to COMPASS ‘Case Working’ to input the details of assets, liabilities, exemptions and reliefs.
+
+Taking care
+
+Take care when entering the file reference to make sure it is correct. Also, check the case type (death, settlement or lifetime). These are the only records that cannot be changed through COMPASS Case Working and cannot be amended or re-used once saved.
+
+Allocation
+
+The COMPASS record will not be automatically allocated to you. You must enter the records of the appropriate allocator through the Options button on your case index and allocate the record to yourself. Then re-set the options to display your own records.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31102#Top)
+
+Printing
+
+To print any calculations you have raised in the data entry program, you will have to return to the Case Working program.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31102#Top)
+
+Settlement cases
+
+Follow the separate instructions to set-up
+
+- a settlements (IHTM31241 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31241)) case, or
+
+- an immediately chargeable transfer (IHTM31235 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31235)) case.

@@ -1,0 +1,36 @@
+Pre-owned assets: calculation of the charge on chattels: non-exempt sales
+Identifier: IHTM44021
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44021
+Published: 2016-04-09T10:30:18+01:00
+Updated: 2016-02-11T17:26:30+00:00
+Retrieved (UTC): 2026-09-18T15:10:12.690611+00:00
+
+Sales for full consideration will normally be excluded transactions (IHTM44031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44031)). FA04/Sch15/Para 7(3) introduces the concept of a ‘non-exempt sale’ for a disposal which is
+
+- a sale of the chargeable person’s whole interest in the property,
+
+- for a consideration in money or money’s worth,
+
+- that is not an excluded transaction
+
+so it covers sales for less than the full market value for cash. The appropriate amount is reduced to take account of the undervalue by multiplying it by the appropriate portion set out in FA04/Sch15/Para 7(3) using the formula (MV-P) ÷ MV where
+
+- MV is the value of the interest in the chattel at the time of the sale, and
+
+- P is the amount paid.
+
+Note that these provisions only apply to a sale of the whole of an interest in a chattel and they do not apply to part sales or to exchanges, nor to transactions where the contribution condition (IHTM44008 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44008)) is met.
+
+Example
+
+Nigel sells some silverware to his daughter for £300,000. It is worth £400,000 at the date of disposal. He continues to use and enjoy the silverware. The appropriate portion is
+
+(400,000 - 300,000) ÷ 400,000 = 75%
+
+The appropriate amount is the official rate (say 5%) applied to the value of the silverware at the valuation date, say, £500,000 and so is £25,000. Following the formula in IHTM44016 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44016) the calculation is
+
+25,000 × 125,000 ÷ 500,000 = £6,250; although this may be more simply expressed as reducing the appropriate amount by the appropriate portion or
+
+25,000 - (25,000 × 75%) = £6,250.
+
+However, since Nigel has made a gift of 25% of the silverware and has continued to use and enjoy it, the gift element is subject to a reservation of benefit (IHTM14301 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14301)) and outside the POA charge (IHTM44044 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm44044)). In most cases, therefore, a non-exempt sale will be outside the POA charge since the proportion of the chattels that is attributable to the sale proceeds (75% in the example above) is relieved by FA04/Sch15/Para 7(3) and the proportion that was gifted is relieved as it is, or would have been, subject to a reservation of benefit.

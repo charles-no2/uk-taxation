@@ -1,0 +1,70 @@
+PMA: Short life assets: Short life asset pool
+Identifier: CA23640
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23640
+Published: 2016-04-16T08:49:12+01:00
+Updated: 2020-02-12T15:57:42+00:00
+Retrieved (UTC): 2026-09-18T16:20:48.733758+00:00
+
+CAA01/S85-86
+
+An election to have an asset treated as a short life asset (SLA):
+
+- must be made in writing to HMRC;
+
+- must specify the SLA together with its cost and the date on which the expenditure was incurred;
+
+- must be made:
+
+- within two years of the end of the chargeable period in which the expenditure was incurred (corporation tax); or
+
+- by the first anniversary of 31 January after the end of the tax year in which the chargeable period in which the expenditure was incurred ends (income tax).
+
+An SLA election is irrevocable.
+
+Expenditure incurred in parts
+
+If a person incurs expenditure on a SLA in parts, the time limit for making a SLA election depends upon the period in which the first part of the expenditure was incurred.
+
+Example
+
+Jackson buys a computer in his chargeable period ended 31 July 2012. If he wants to make a SLA election he must do it by 31 January 2015.
+
+If Jackson incurs the expenditure on the computer in two instalments, half in his accounting period ended 31 July 2012 and half in his accounting period ended 31 July 2013 the time limit for making a SLA election is still 31 January 2015.
+
+Eight-year cut-off
+
+Expenditure on an SLA goes into a single asset pool. No other expenditure goes into that pool. If there has not been a final chargeable period by the eight-year cut-off the expenditure in the SLA pool is transferred into the main pool. The eight-year cut-off is the eighth anniversary of the end of the chargeable period in which the expenditure is incurred.
+
+If a person incurs expenditure on a SLA in parts, the eight-year cut-off applies from the end of the chargeable period in which the first part of the expenditure was incurred.
+
+Note that a four-year cut-off applied for expenditure incurred on a SLA before 1 April 2011 for corporation tax and 6 April 2011 for income tax.
+
+Example
+
+As in the example above, Jackson buys a computer in his chargeable period ended 31 July 2012 and makes a SLA election. If Jackson still owns the computer on 31 July 2020 the expenditure in the SLA pool is transferred to the main pool.
+
+SLAs for multiple assets
+
+Strictly, an election for short life asset treatment should specify each asset it covers together with its cost.
+
+If separate identification of the SLAs acquired in a chargeable period is impossible or impracticable, then you should accept an election that gives information about the assets by reference to batches of acquisitions, with their costs aggregated and shown in one amount provided that you are satisfied that:
+
+- the assets are not specifically excluded, and
+
+- the election gives enough information for it to be clear what is and what is not covered by it.
+
+Strictly, each SLA should go into its own separate pool and so that the allowances on it are calculated separately. This may not be practicable where assets are held in large numbers. In cases like that capital allowance computations that give the correct statutory result, and do not abuse the SLA provisions, should be accepted even if there is not a separate computation for each asset.
+
+Example
+
+Alice runs a restaurant and, every year, buys glasses to use in the business. She agrees with HMRC that the glasses have an actual life of three years and that nothing is received for the remains.
+
+She has used her AIA annual amount on other expenditure. She spends £1,200 on wine glasses in the year ended 30 June 2010 and makes a SLA election. She can make a single capital allowance calculation for that expenditure of £1,200 and claim a balancing allowance for the year ended 30 June 2013 based on a disposal value of nil. None of the glasses bought in the year ended 30 June 2010 should still exist by then because they have an actual life of 3 years and Alice will not have received anything for the remains.
+
+If Alice spends £1,500 on glasses in the year ended 30 June 2011 and makes another SLA election, that expenditure is put into a separate pool.
+
+If in the year ended 30 June 2013 Alice sells broken glass for recycling for £50 and the £50 is not treated as a trading receipt, then it should be treated as disposal proceeds.
+
+If the disposal proceeds cannot be tied to any particular acquisition, then they should be treated as disposal proceeds of the earliest period for which an SLA pool is in existence.
+
+If the broken glass cannot be related to any particular acquisition of glasses, the £50 should be treated as disposal proceeds of the pool for the expenditure of £1,200 incurred in the year ended 30 June 2010.

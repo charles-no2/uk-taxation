@@ -1,0 +1,126 @@
+Remittance Basis: Amounts Remitted: Mixed Funds: Remittances from mixed funds - Identifying nature of remittance
+Identifier: RDRM35240
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240
+Published: 2016-03-09T17:39:15+00:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:19:46.438946+00:00
+
+Overview (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240#Overview)
+
+Step A1 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240#Step A1)
+
+Step 1 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240#IDAQGF1H)
+
+Step 2 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240#IDAGJF1H)
+
+Step 3 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240#IDA2JF1H)
+
+Step 4 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240#IDAIKF1H)
+
+Step 5 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240#IDAUKF1H)
+
+Subject to foreign tax (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240#Subject to foreign tax)
+
+Overview
+
+Section 809Q(3) and (4) Income Tax Act 2007
+
+The legislation provides rules (six steps) to identify the order of priority in which income, gains and amounts of capital are deemed to have been remitted to the UK by former remittance basis users.
+
+Once income, gains or capital enters a mixed fund it is usually considered to lose its ‘identity’ within the fund. So rules are needed to determine what any subsequent remittance from that fund represents. The practical effect of these rules is that a taxpayer cannot limit the amount of UK tax that may be due by saying, for example, that a remittance from a mixed fund was made out of a particular amount of capital within the fund (and so not taxable) in preference to income in the same fund.
+
+These rules do not apply to foreign income or gains that arose or accrued before 6 April 2008. Refer to RDRM31400 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm31400) transitional provisions.
+
+Under the rules, amounts of TRF capital (see RDRM75100 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75100) for a definition of 'TRF capital') are remitted in priority to any other income, gains or capital in the mixed fund. These are amounts that an individual has designated under the temporary repatriation facility (TRF) – see RD (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73100)RM73100 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm73100).
+
+Following the TRF capital, untaxed foreign income is treated as being remitted in priority to untaxed foreign gains, which are both treated as remitted in priority to foreign income and gains on which foreign tax has been paid. Other amounts of capital of a tax year are taken into account last. These ordering rules are applied to income and capital of a later tax year before being applied to those of an earlier tax year, expect in the case of TRF capital. This is known as the ‘Last In First Out’ (LIFO) principle. TRF capital will always take priority regardless of the year in which the foreign income and gains to which it relates arose, or the year in which it was designated under the TRF.
+
+Each transfer must be identified separately and ‘matched’ against the amounts of income and capital that were in the fund immediately before the transfer. This is particularly important where more than one transfer is made in a tax year.
+
+For details of the annualised basis that applies to certain mixed funds during the TRF period see RD (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75500)RM75500 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm75500).
+
+Step A1
+
+Assuming Condition A is met, identify the amount transferred from the mixed fund. The year in which the transfer occurs is the ‘relevant tax year’.
+
+For each tax year in which a transfer is made, the mixed fund must be analysed to identify the amounts present in it immediately before the transfer.
+
+Start with identifying any amounts that are TRF capital. If the amount of the transfer is less than, or equal to, the TRF capital in the mixed fund, the transfer will be treated as fully comprising TRF capital.
+
+If the amount of the transfer exceeds the amount of TRF capital in the mixed fund, then apply steps 1 to 5 to the remainder of the transfer. If there is no TRF capital in the mixed fund, apply steps 1 to 5 to the whole transfer.
+
+Step 1
+
+Identify the amounts present in the mixed fund of each of the categories of income, gains and capital listed at section 809Q(4) – see ‘a’ to ‘i’ listed below.
+
+Start with the relevant tax year. If necessary you may need to repeat the exercise for income, gains or capital for each earlier tax year (refer to step 5).
+
+a - employment income (which can include UK employment income) not subject to a foreign tax (that is, amounts not appropriate to any of ‘b’, ‘c’ or ‘f’ in the list below). Also refer to the section ‘Subject to a foreign tax’ below.
+
+b - relevant foreign earnings (not if subject to a foreign tax - refer to ‘f’).
+
+c - foreign specific employment income (not if subject to a foreign tax - refer to ‘f’).
+
+d - relevant foreign income (not if subject to a foreign tax - refer to ‘g’).
+
+e - foreign chargeable gains (not if subject to a foreign tax - refer to ‘h’).
+
+f - employment income subject to a foreign tax.
+
+g - relevant foreign income subject to a foreign tax.
+
+h - foreign chargeable gains subject to a foreign tax.
+
+i - any income or capital not included in one of the previous eight categories. This includes UK income and gains and both UK and non-UK capital amounts but not income from UK employment, which is likely to fall within category 'a'.
+
+For legislative definitions of the income and gains within the categories, see section 809Z7 ITA 2007, and see section 830 ITTOIA 2005 for a definition of ‘relevant foreign income'.
+
+Also refer to section 809R for additional rules relating to step 1. These additional rules may apply where there is an offshore transfer of funds. Offshore transfers include: transfers from one overseas bank account to another and foreign expenditure, including the purchase and sale of non-UK property, using money from a mixed fund - see RDRM35400 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35400) onwards.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240#Top)
+
+Step 2
+
+In the mixed fund identify the earliest of catergories 'a' to 'i' above for which the amount determined in Step 1 is not nil, starting with catergories for the relevant tax year.
+
+If the amount in the fund for that category is more than the remaining amount of the transfer, treat the transfer as containing income or capital in the amount and of the description within that category. It is not then necessary to consider step 3.
+
+If the amount in the fund for that category is less than the remaining amount of the transfer, treat the transfer as containing income or capital in the amount and of the description within that category. Then go to step 3 to determine what the rest of the transfer consists of.
+
+All the income or capital considered will be of one tax year, initially the most recent tax year, and then working back through each earlier tax year in turn.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240#Top)
+
+Step 3
+
+Reduce the remaning amount of the transfer (step 1) by the amount taken into account in step 2.
+
+If the remaining amount is not nil go to step 4.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240#Top)
+
+Step 4
+
+If the reduced amount of the remainder is not nil, go back to the mixed fund and find the next category for the relevant tax year.
+
+Repeat step 2 (and 3) reading the reference to the first of categories 'a' to 'i' as a reference to the earliest category that has not previously been taken into account.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35240#Top)
+
+Step 5
+
+If the reduced amount of the remainder is not nil after all of categories 'a' to 'i' have been taken into account for the relevant tax year, start again at step 1.
+
+This time allocate income and capital of the previous tax year to the categories 'a' to 'i'.
+
+Refer to the examples from RDRM35280 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm35280) onwards.
+
+Subject to foreign tax
+
+‘Subject to a foreign tax’ usually means that the individual has actually paid some tax on the foreign income to a foreign tax authority. This is usually the tax authority of the country in which the income is earned or the gain accrues. It might on occasion include intra-government agencies, for example some European institutions impose a tax on its officers and employees that stands in place of countries’ own fiscal provisions.
+
+Further, actual payment of an amount of tax might not always occur; for example, if small levels of foreign income are involved there might be nothing due to be paid on part or all of the income, as a result perhaps of a foreign countries’ own personal allowances systems, or similar tax provisions which are akin to such allowances, such as a tax rate band of 0%. Such income would still be considered to be ‘subject to a foreign tax’.
+
+Former remittance basis users' UK employment income may have been ‘subject to foreign tax’, that is to say another country or government authority (usually their country of nationality or citizenship) will also have taxed them on this income. In these cases, HMRC will accept that the individual’s UK source employment income may still be regarded as within category ‘a’ in the mixed fund, unless the individual requests otherwise, in which case it will remain within category ‘f’ as employment income subject to a foreign tax.
+
+This is only relevant where the other country has in fact subjected the UK employment income under consideration to their tax. In some cases, no tax will, in fact, have been due in or paid to the other country due to various exemptions and provisions (for example the US has a ‘foreign earned income exclusion’ provision for employment income below a certain level). In these cases, the UK employment income will be within category ‘a’.

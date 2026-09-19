@@ -1,0 +1,84 @@
+FIG regime: Foreign capital gains
+Identifier: RFIG45500
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45500
+Published: 2025-04-04T17:52:59+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:18:30.662743+00:00
+
+Overview (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45500#Overview)
+
+Qualifying foreign asset gains (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45500#Qualifying foreign asset gains)
+
+Gains treated as accruing under section 3 (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45500#Gains treated as accruing under section 3)
+
+Qualifying QAHC gains (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45500#Qualifying QAHC gains)
+
+Gains treated as accruing under section 86 (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45500#Gains treated as accruing under section 86)
+
+Gains under section 87, 89(2) and Schedule 4C (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig45500#Gains under section 87, 89(2) and Schedule 4C)
+
+Overview
+
+Schedule D1 TCGA 1992
+
+A qualifying new resident may make a claim for relief in respect of these types of gains:
+
+- qualifying foreign asset gains
+
+- certain gains treated as accruing under section 3 (gains of non-UK resident close companies attributed to UK residents)
+
+- qualifying QAHC (qualifying asset holding company) gains
+
+- certain gains treated as accruing under section 86 (gains attributed to settlors of non-resident settlements)
+
+- gains treated as accruing under section 87, 89(2) and Schedule 4C (gains attributed to beneficiaries of non-resident settlements)
+
+Qualifying foreign asset gains
+
+A gain is a qualifying foreign asset gain if both of the following criteria apply:
+
+- it is a chargeable gain that accrues on the disposal of an asset situated outside the UK (as determined by sections 275 to 275C TCGA 1992 – see also CG12400 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12400))
+
+- the asset does not derive at least 75% of its value from UK land (as determined by Schedule 1A TCGA 1992)
+
+Relief cannot be claimed under this heading if it is a gain to which paragraph 1(2) Schedule 1 TCGA 1992 applies (pre-6 April 2025 gains subject to the remittance basis).
+
+Relief is given by deducting an amount equal to the sum of the gains claimed from the total amount of qualifying foreign gains accruing to the individual in the tax year that the claim relates to.
+
+Gains treated as accruing under section 3
+
+Section 3 TCGA 1992 attributes to UK resident participators chargeable gains accruing to non-UK resident close companies when certain conditions are met (see CG57200+ (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57200)).
+
+A gain treated as accruing to a participator under section 3 is only relievable under this heading if the gain accruing to the non-resident close company is a qualifying foreign asset gain (see the previous heading).
+
+Relief cannot be made under this heading if it is a gain to which paragraph 1(2) Schedule 1 TCGA 1992 applies (pre-6 April 2025 gains subject to the remittance basis).
+
+Relief is given by deducting an amount equal to the sum of the gains claimed from the total amount of qualifying foreign gains accruing to the individual in the tax year that the claim relates to.
+
+Qualifying QAHC gains
+
+A qualifying QAHC (qualifying asset holding company - see IFM40000 (https://www.gov.uk/hmrc-internal-manuals/investment-funds/ifm40000) onwards) gain is the foreign proportion of a chargeable gain accruing on the disposal of shares in a QAHC (paragraph 46(4) to (6) Schedule 2 FA 2022).
+
+A gain is only a qualifying QAHC gain to the extent that it accrues to an individual who provided investment management services in connection with investment arrangements to which a QAHC is party, and the gain accrues on shares that the individual acquired during the course of the provision of those services.
+
+Relief is given by deducting an amount equal to the sum of the gains claimed from the total amount of qualifying foreign gains accruing to the individual in the tax year that the claim relates to.
+
+Gains treated as accruing under section 86
+
+Section 86 TCGA 1992 attributes chargeable gains accruing to non-UK resident settlements to the settlor where the settlor has an interest in the settlement (see CG38430+ (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38430p)).
+
+A gain treated as accruing to a settlor under section 86 only qualifies for relief if the trustees' gain is a qualifying foreign asset gain (see the second heading above). To claim relief, the claim must specify the amount of qualifying foreign asset gain that arises to the trustees in the relevant tax year on which relief is being sought.
+
+Where a claim for relief is made under this heading, when calculating the amount that is treated as accruing to the settlor under section 86 in the year to which the claim relates or future years, both the identified gain, and any qualifying foreign loss that accrued to the trustees in that tax year, are disregarded in that tax year and later years for the purposes of section 86(1)(e). The disregarded trustees’ gains then form part of their section 87 pool as a section 1(3) amount under section 87(4) TCGA 1992. However, a further claim for relief (this time under paragraph 4 of Schedule D1) could potentially be made in respect of section 87 when a beneficiary receives a capital payment (see below).
+
+Gains under section 87, 89(2) and Schedule 4C
+
+Section 87, 89(2) and Schedule 4C TCGA 1992 attribute chargeable gains accruing to non-UK settlements (or a trust that has migrated to the UK) to UK beneficiaries to the extent that they receive a matched capital payment (see CG38570+ (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38570c) and CG39100+ (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg39100c)).
+
+Relief is available under this heading where the claimant is a beneficiary of a non-resident trust, or a trust that has migrated to the UK, and is in receipt of a capital payment that would ordinarily result in the person being treated as accruing a matched chargeable gain under section 87 TCGA 1992, section 89(2) TCGA 1992 or Schedule 4C TCGA 1992. There is no requirement to identify the nature of any underlying assets that have been disposed of by the trustees.
+
+A claim under this heading is for identified capital payments.
+
+Where a claim is made under this heading, the capital payment is disregarded in the tax year in which it was made, and in later tax years, for the purposes of sections 87 and 87A and paragraph 8 of Schedule 4C TCGA 1992. This means that the payment will not be matched to any ‘unmatched’ gains within the settlement, whether accrued from UK or non-UK situated assets; and will also not be treated as reducing any pool of unmatched gains.
+
+In applying this heading, sections 87G and 97 TCGA 1992 also apply. These provide for capital payments made to a close member of a settlor’s family to be treated as received by the settlor in certain cases; and for certain definitions to apply.

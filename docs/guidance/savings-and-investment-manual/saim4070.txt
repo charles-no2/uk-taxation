@@ -1,0 +1,36 @@
+Accrued Income Scheme: ‘interest’ and related terms
+Identifier: SAIM4070
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4070
+Published: 2016-03-19T16:25:49+00:00
+Updated: 2018-11-22T10:37:27+00:00
+Retrieved (UTC): 2026-09-18T14:26:21.630219+00:00
+
+‘Interest’ excludes premiums and discounts
+
+ITA07/S671 defines interest to include dividends and any other return, except for a return that consists of the difference between the issue and redemption prices. So if a security is issued (or purchased) at a discount to its nominal value, or redeemed at a premium, the discount or premium will not enter into AIS calculations.
+
+‘Interest payment day’
+
+ITA07/S672 defines an interest payment day as a day on which interest is payable, or, if payment may be made on a number of days, on the first of those days.
+
+‘Interest period’
+
+ITA07/S673 defines ‘interest period’. The normal rule is that
+
+- the first interest period begins with the day following that on which the securities were issued, and ends with the first interest payment date, or if earlier the expiry of 12 months, and
+
+- any other interest period begins with the day after the last day of the previous interest period, and ends with the next interest payment date, or if earlier the expiry of 12 months.
+
+The last interest period of any kind ends with the last interest payment day, except that
+
+- a conversion of securities, or
+
+- an exchange of gilts of a particular kind for gilt strips (see SAIM3130)
+
+also bring an interest period to an end.
+
+The effect of the general rule is to prevent tax charges on accrued interest being deferred for more than 12 months.
+
+Example
+
+On 1 March 2014, Elkhorn plc issues a bond maturing on 31 December 2016. Interest is payable on the bond, but under the issue terms it is rolled up and paid on the maturity date. The first interest period will therefore run from 2 March 2014 (the day following issue) to 1 March 2015. Subsequent interest periods will be 2 March 2015 to 1 March 2016, and 2 March 2016 to 31 December 2016.

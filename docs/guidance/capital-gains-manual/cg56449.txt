@@ -1,0 +1,56 @@
+Enterprise Management Incentives (EMI): examples
+Identifier: CG56449
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56449
+Published: 2016-03-12T11:40:00+00:00
+Updated: 2023-05-04T14:01:26+01:00
+Retrieved (UTC): 2026-09-18T14:43:32.658598+00:00
+
+Example 1
+
+G was granted a qualifying EMI option to acquire 2000 shares at £10 each, their then market value. She exercised the qualifying EMI option after two years and sold her shares at once for £30 each. The option was exercised after 9 April 2003.
+
+No Income Tax is due when G exercises her option and acquires the shares. (See ERSM30420+).
+
+The CGT calculation when G sells her shares is
+
+Description |  Amount |
+
+Sale proceeds |  £60,000 |
+
+Less cost* |  £20,000 |
+
+Chargeable Gain |  £40,000 |
+
+*Amount paid for option nil (S149A TCGA92) plus amount paid to acquire shares £20,000 (S144ZA TCGA92). See CG56442.
+
+As G’s option was a qualifying EMI option when she exercised it, if the sale of the shares was before 6 April 2008, the qualifying holding period for taper relief would be two years as there are two whole years between the option grant and the sale of the shares.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56449#Top)
+
+Example 2
+
+H was granted an EMI option to acquire 2000 shares at £10 each, their then market value. She left the company, a disqualifying event, when the shares were worth £17 each. She exercised her option 6 months after leaving the company and sold her shares at once for £25 each. The option was exercised after 9 April 2003.
+
+Taper relief would run from the date H exercised her option and acquired her shares so it could not reduce her gain.
+
+H pays Income Tax on the difference between the value of the shares at the date of exercise and at the time of the disqualifying event, (£25 -£17 = £8) x 2000 = £16,000. (See ITEPA03/S532, ERSM30420+).
+
+The CGT calculation when H sells her shares is
+
+Description |  cost / employment income |  Amount |
+
+Sale proceeds |  - |  £50,000 |
+
+Less cost* |  £20,000 |  - |
+
+amount counting as employment income** |  £16,000 |  - |
+
+- |  - |  £36,000 |
+
+Chargeable Gain |  - |  £14,000 |
+
+*Amount paid for option nil (S149A TCGA92) plus amount paid to acquire shares £20,000 (S144ZA TCGA92).
+
+**S119A TCGA92; S476 ITEP03 as modified by S572ITEPA03.
+
+See CG56384.

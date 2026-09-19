@@ -1,0 +1,175 @@
+Futures: financial futures: contracts for differences: example
+Identifier: CG56101
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56101
+Published: 2016-03-12T11:38:28+00:00
+Updated: 2023-05-04T12:32:18+01:00
+Retrieved (UTC): 2026-09-18T14:33:36.740807+00:00
+
+In both examples below, the shares in ABC Plc stand at £5 per share at commencement.
+
+Example 1 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56101#IDAHCDSE)
+Example 2 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56101#IDAOMQGH)
+
+Example 1
+
+An investor expects the shares to rise, and enters into a long position over 20,000 shares. He puts up a deposit of £20,000 (20% of the full value of £100,000). The broker who is counter-party to the deal debits the investor’s account with “interest” on the unpaid balance of £80,000 at 0.75% per calendar month (£600 per month). After two months, the company pays a dividend of 2p per share, and the broker credits the account with £400 (equivalent to the dividend on 20,000 shares).
+
+After three months the shares stand at £6.50 per share, and the investor closes out the contract. The increase in value of 20,000 shares over the life of the contract is £30,000, and this is credited to the investor’s account. The broker also charges commission of £500.
+
+In summary, the account is as follows:
+
+Description |  Amount |
+
+Deposit |  £20,000 |
+
+Less “interest” - 3 months @ £600 pm |  £ 1,800 |
+
+- |  £18,200 |
+
+Plus “dividend” |  £ 400 |
+
+- |  £18,600 |
+
+Plus increase in value of shares |  £30,000 |
+
+- |  £48,600 |
+
+Less commission |  £ 500 |
+
+Final balance |  £48,100 |
+
+The chargeable gain is £28,100, the difference between the amount deposited and the closing balance. This can be expressed as:
+
+Description |  Deduction |  Amount |
+
+Increase in value of 20,000 shares |  - |  £30,000 |
+
+Plus “dividend” equivalent |  - |  £ 400 |
+
+- |  - |  £30,400 |
+
+Less “interest” charges |  £1,800 |  - |
+
+Commission |  £ 500 |  £ 2,300 |
+
+Net gain |  - |  £28,100 |
+
+If the shares had decreased in value to £4.50, the decrease in value of 20,000 shares (£10,000) would be debited from the account.
+
+At close, the account would then be:
+
+Description |  Amount |
+
+Opening deposit |  £20,000 |
+
+Less “interest” as above |  £ 1,800 |
+
+- |  £18,200 |
+
+Plus “dividend” |  £ 400 |
+
+- |  £18,600 |
+
+Less decrease in share price |  £10,000 |
+
+- |  £ 8,600 |
+
+Less commission |  £ 500 |
+
+Closing balance |  £ 8,100 |
+
+The allowable loss is £11,900, the difference between the amount deposited and the closing balance. This can be reconciled:
+
+Description |  Amount |
+
+Decrease in price of 20,000 shares |  £10,000 |
+
+Plus “interest” charges |  £ 1,800 |
+
+Commission |  £ 500 |
+
+- |  £12,300 |
+
+Less “dividend” |  £ 400 |
+
+Net loss |  £11,900 |
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg56101#Top)
+
+Example 2
+
+The investor expects the shares to fall. He enters into a short position over 20,000 shares. Once again, he deposits £20,000, 20% of the value of 20,000 shares. The broker credits “interest” of £450 per month (based on an interest rate of 0.5625% per calendar month), and debits an amount equivalent to a dividend of 2p per shares paid on 20,000 shares.
+
+After three months, the investor closes out the contract when the share price is £3.75 per share. His account is credited with the reduction in price of 20,000 shares (£25,000).
+
+The summarised account is:
+
+Description |  Amount |
+
+Opening balance |  £20,000 |
+
+Plus “interest” for three months |  £ 1,350 |
+
+- |  £21,350 |
+
+Less “dividend” |  £ 400 |
+
+- |  £20,950 |
+
+Less commission |  £ 500 |
+
+- |  £20,450 |
+
+Plus reduction in share price |  £25,000 |
+
+Closing balance |  £45,450 |
+
+The investor has a chargeable gain of £25,450, the difference between the amount deposited and the closing balance. This can be reconciled:
+
+Description |  Deduction |  Amount |
+
+Decrease in share price |  - |  £25,000 |
+
+Plus “interest” credits |  - |  £ 1,350 |
+
+Net gain |  - |  £26,350 |
+
+Less “dividend” |  £400 |  - |
+
+Commission |  £500 |  £ 900 |
+
+- |  - |  £25,450 |
+
+If the investor was wrong, and the shares in fact increased in value to £5.75 per shares between the opening and closing of the contract, the account would be:
+
+Description |  Deduction |  Amount |
+
+Opening balance |  - |  £20,000 |
+
+Plus “interest” credits |  - |  £ 1,350 |
+
+- |  - |  £21,350 |
+
+Less “dividend” charge |  £ 400 |  - |
+
+Commission |  £ 500 |  - |
+
+increase in value of 20,000 shares |  £15,000 |  £15,900 |
+
+Closing balance |  - |  £ 5,450 |
+
+The investor has an allowable loss of £14,550, the difference between the amount deposited and the closing balance. This can be reconciled as
+
+Description |  Amount |
+
+increase in value of the shares |  £15,000 |
+
+less “interest” credits |  £ 1,350 |
+
+- |  £13,650 |
+
+plus “dividend” charge |  £ 400 |
+
+commission |  £ 500 |
+
+- |  £14,550 |

@@ -1,0 +1,32 @@
+Definitions: meaning of ‘security’ and ‘securities’
+Identifier: CG50220
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg50220
+Published: 2016-03-12T11:21:52+00:00
+Updated: 2021-05-27T12:34:07+01:00
+Retrieved (UTC): 2026-09-18T14:32:19.739269+00:00
+
+TCGA92 uses two definitions of security. In the share identification rules (eg TCGA92/S105) the word is used in its widest sense to include shares and loan capital. In the section which deals specifically with loan capital (TCGA92/S132) there is a narrower definition.
+
+‘Security’ for the purposes of share identification rules
+
+For the purposes of the share identification rules TCGA92/S104(3) provides that ‘securities’ does not include relevant securities as that term is defined in TCGA92/S108 (see CG50224) but, subject to that, means
+
+- shares or securities of a company; and
+
+- any other assets where they are of a nature to be dealt in without identifying the particular assets disposed of or acquired.
+
+The definition of securities in TCGA92/S104(3) includes the word that it is seeking to define. The reason for this is that the share identification rules are intended to apply to all fungible assets such as shares, securities and foreign currency. The term ‘security’ is a convenient way of describing all these assets. Fungible assets are ones which it is not possible to identify individually in a holding of more than one because they are functionally identical. For example, all ICI ordinary shares and all €100 notes are for practical purposes interchangeable. If a person sells some of their shares, they cannot identify which shares have been sold.
+
+The distinction between shares and securities in TCGA92/S104(3) is between share capital and loan capital. This distinction is clearer in the other definition of security, see below. This guidance will explain the share identification rules in terms of shares, but you should bear in mind that the same rules will apply to securities in the wider sense of the term, unless they are relevant securities which have their own identification rules, see CG50224 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg50224) and CG51140 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51140)+, and to other fungible assets.
+
+‘Security’ as a form of loan capital
+
+The other definition of security is at TCGA92/S132(3)(b) which provides that:
+
+“‘Security' includes any loan stock or similar security whether of the Government of the United Kingdom or of any other government, or of any public or local authority in the United Kingdom or elsewhere, or of any company, and whether secured or unsecured.”
+
+Here the word ‘security’ is used in its narrower sense of loan capital. This definition is used for two purposes:
+
+First it is used to identify whether a loan (here synonymous with a receivable debt) will be a chargeable asset. A simple debt is not a chargeable asset in the hands of the original creditor, TCGA92/S251(1). A debt in the hands of the original creditor will only be a chargeable asset if it is ‘the debt on a security’ as defined in TCGA92/S132(3)(b), see CG53420 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53420)+.
+
+Secondly, it identifies the types of security to which the share reorganisation rules at Chapter II of Part IV of the TCGA apply. The share reorganisation rules treat a conversion of securities as involving no disposal of the original security. There is guidance on these rules at CG51700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51700)+.

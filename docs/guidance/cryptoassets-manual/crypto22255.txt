@@ -1,0 +1,40 @@
+Cryptoassets for individuals: Capital Gains Tax: pooling examples: example 5 - interaction of 30 day rule with section 104 pool
+Identifier: CRYPTO22255
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto22255
+Published: 2021-03-30T09:03:31+01:00
+Updated: 2021-04-06T12:14:50+01:00
+Retrieved (UTC): 2026-09-18T16:18:41.052132+00:00
+
+This example shows how to the 30 day rule and a part disposal of the section 104 pool interact.
+
+Melanie holds 14,000 token E in a section 104 pool. She spent a total of £200,000 acquiring them, which is her pooled allowable cost.
+
+On 30 August 20XX Melanie sells 4,000 token E for £160,000.
+
+Then on 11 September 20XX Melanie buys 500 token E for £17,500.
+
+The 500 new tokens were bought within 30 days of the disposal, so they do not go into the section 104 pool. Instead, Melanie is treated as having disposed of:
+
+- the 500 tokens she has just bought
+
+- 3,500 of the tokens already in the section 104 pool
+
+Melanie will need to work out her gain on the disposal of the 4,000 token E as follows:
+
+Consideration |  £160,000 |    |
+
+Less allowable costs – 30 day (11/09 – 500 token E) |  (£17,500) |    |
+
+Less allowable costs – S104 (3,500 token E) |  £200,000 x (3,500 / 14,000) |  (£50,000) |
+
+Gain |  £92,500 |    |
+
+Melanie still holds a section 104 pool of 10,500 token E. The section 104 pool has allowable costs of £150,000 remaining:
+
+Date |  Quantity of token E |  Pooled allowable costs |
+
+Opening balance |  14,000 |  £200,000 |
+
+30/08/20XX |  (3,500) |  (£50,000) |
+
+Closing balance |  10,500 |  £150,000 |

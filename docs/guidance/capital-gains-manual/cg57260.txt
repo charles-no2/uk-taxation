@@ -1,0 +1,42 @@
+Non-resident companies: TCGA92/S13*: participators’ fractional interests
+Identifier: CG57260
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57260
+Published: 2016-03-12T11:42:33+00:00
+Updated: 2019-10-16T07:39:02+01:00
+Retrieved (UTC): 2026-09-18T14:43:48.000646+00:00
+
+Under TCGA92/S13(3)* the part of the chargeable gain accruing to the non-resident company which is treated as accruing to each participator is the proportion of the gain corresponding to the extent of the participator’s interest in the company. This is further defined by TCGA92/S13(13)*. In computing that part you need to
+
+- take into account all of the factors by reference to which that person is treated as a participator
+
+- consider the interests of all participators, including any who are not resident in the UK
+
+- apportion the gain as is just and reasonable.
+
+But if the amount apportioned to a participator does not exceed
+
+- 10 per cent of the gain for disposals on or before 5/4/2012
+
+or
+
+- 25 per cent of the gain for disposals on or after 6/4/2012
+
+computed for the company then no chargeable gain is treated as accruing to the participator (TCGA92/S13(4)).
+
+The just and reasonable requirement
+
+It is quite possible for the different criteria by which persons are participators to produce different percentages for one person’s interest in a company. So under one test, for example entitlement to income, A may have 60% and B have 40% and under another test, for example entitlement to capital, A have 36%, B have 54% and C have 10%. This can happen even with relatively simple company structures, for example where there are preference shares, or loans. The total amount of gains apportioned cannot exceed the chargeable gain of the non-resident company. In this situation the gain has to be apportioned as is just and reasonable. This includes taking into account the interests of non-residents.
+
+In considering a just and reasonable apportionment you should take into account all relevant factors, and not simply make an arithmetical adjustment. It would not usually be correct merely to average out the interests using the different factors. The aim of the provisions is to ensure that the gain is attributed to the participators who have the real economic interest in the non-resident company and who will derive the benefit of the gain however indirectly. The just and reasonable apportionment prevents an inappropriate part of the gain being attributed to persons without real economic interests, for example commercial loan creditors, see below.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57260#Top)
+
+Loan creditors
+
+Any loan creditor of the non-resident company is within the definition of participator as applied for the purposes of section 13. The aim of the provisions is to ensure that the gain is attributed to the participators who have the real economic interest in the non- resident company. There will be cases where a loan creditor will be a person or institution (such as a bank or similar financial institution) which has loaned money to the non-resident company as a matter of business on commercial terms. The interest of such a loan creditor acting at arms length will be limited to an expectation of repayment of the amount loaned together with payments of interest at a commercial rate. There will be no expectation that the loan creditor can or will benefit from the profits or gains of the non-resident company. In such a case it would not be just and reasonable to apportion any of the gain to a loan creditor of this type. The attribution should be made to those participators who have a real economic interest in the capital gains.
+
+Where there are participators who are loan creditors it will be necessary to review all of the circumstances to satisfy yourself that the interests of the loan creditors can be excluded for the reasons in the preceding paragraph. In some cases the persons with the real economic interest in the non-resident company will be loan creditors whether or not they are participators under one or more of the other tests. In such cases, where there is participation in more than one way, it may be appropriate, depending on the facts of the case, to aggregate the interests of those persons in reaching an apportionment that is just and reasonable.
+
+In other cases the persons with the real economic interest in the non-resident company may be providing the funds which the loan creditor has loaned to the company, and may be persons who are entitled to secure that income or assets (whether present or future) of the company will be applied directly or indirectly for their benefit, and may be participators in their own right by virtue of that test.
+
+*TCGA92/S13 was re-written for disposals from 6 April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

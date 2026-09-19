@@ -1,0 +1,32 @@
+Calculating the transferable nil rate band: how the amount to be transferred is calculated where the first estate is less than the IHT nil rate band on the first death 
+Identifier: IHTM43022
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43022
+Published: 2016-04-09T10:28:36+01:00
+Updated: 2017-10-25T11:44:29+01:00
+Retrieved (UTC): 2026-09-18T15:09:55.335867+00:00
+
+The process for calculating the amount of unused nil rate band where the estate on the first death is less than the nil rate band available at that time is no different from the normal calculation (IHTM43020 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm43020)).
+
+Example
+
+Robert died on 16 August 2005 leaving an estate worth £250,000. He left legacies of £110,000 to his children and the residue (£140,000) to his wife Sarah.
+
+Unused nil rate band calculation
+
+M = £275,000
+
+VT = £110,000
+
+M* *is greater than VT by £165,000
+
+Transferable nil rate band calculation
+
+E =£165,000
+
+NRBMD = £275,000 so
+
+(165,000 ÷ 275,000) × 100 = 60.0000%
+
+On Sarah’s death, the nil rate band available to her estate will be increased by 60%.
+
+Although in this example VT has been shown as a chargeable legacy, the same position would apply if it had been assets held in trust which formed part of the deceased’s estate passing to a chargeable beneficiary, or a gift with reservation that is bought into charge upon death.

@@ -1,0 +1,38 @@
+Artificial transactions in futures and options: deemed disposals where futures run to delivery or options are exercised: example (this guidance applies to disposals of futures and options before 6 April 2013)
+Identifier: SAIM7110
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim7110
+Published: 2016-03-19T16:28:50+00:00
+Updated: 2015-12-03T11:03:50+00:00
+Retrieved (UTC): 2026-09-18T14:26:47.859797+00:00
+
+Example where option is exercised
+
+Terry wishes to borrow £10,000 for 12 months from Julie, but Julie does not wish to receive interest as such on the loan. They make the following arrangement.
+
+Terry sets up a company in such a way that its shares have a guaranteed, and constant, value of £10,600. He then grants Julie an option to buy the shares for £100 in a year’s time. Julie pays Terry a premium of £10,000 for the grant of this option.
+
+At the end of a year, Julie exercises her option and acquires the shares for £100. A few days later, she sells them back to Terry for £10,600. Terry has therefore had the use of £10,000 for 12 months, while Julie has made a profit of £500 (£10,600 - £10,000 - £100) on the arrangement, representing ‘interest’ on the ‘loan’.
+
+Without section 564, this scheme would not be caught by the rules in Chapter 12 of Part 4 of ITTOIA05, and Julie’s profit would be taxed as a chargeable gain.
+
+This arrangement gives Julie a guaranteed return, as defined in ITTOIA05/S560. The risk of any fluctuation in value in the shares which form the underlying subject matter of the option has been eliminated. Julie has a guaranteed profit of £500, equivalent to investing £10,000 at interest for a year.
+
+It also satisfies the requirements of ITTOIA05/S564. There are two related transactions: the grant of the option and its exercise. The latter is not treated as a disposal by the TCGA 1992 rules.
+
+Julie is deemed to dispose of the option immediately before he actually exercises it. Since the option represents an asset to her (it gives her the right to buy something worth £10,600 for only £100), the disposal is deemed to be at the option’s market value, £10,500.
+
+Julie has realised a profit of £500 (the deemed disposal consideration of £10,500, less the £10,000 premium she paid for the option). This is assessed on her under Chapter 12 for the year of assessment in which she exercises the option.
+
+But it is still necessary to perform a capital gains computation on her disposal of the shares. Without any other provision, the £10,000 Julie has paid for the option would be included as an acquisition cost of the shares (TCGA92/S144 (3)(a)). So, when she sells the shares for £10,600, she would realise a gain of £10,600 - (£10,000 + £100) = £500. Clearly, this would result in her £500 profit being taxed twice.
+
+ITTOIA05/S567 (SAIM7120 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim7120)) and related rules in TCGA stops this double counting. They give priority to the charge under Chapter 12, subject to some modifications.
+
+The £500 profit that has already been taxed as savings and investment Income is added to Julie’s consideration for the acquisition of the shares. (This adjustment does not apply for indexation purposes, in any situation where indexation is relevant). Thus Julie’s capital gain becomes £10,600 - (£10,000 + £100 + £500) = nil.
+
+Terry’s tax position is that at arm’s length, he would have to pay £10,500 to dispose of the option. So, on the deemed disposal when Julie exercises the option against him, he is deemed to have received nil proceeds and incurred costs of £10,500. He received £10,000 for granting the option, so overall he has a loss of £500. This is relieved as miscellaneous income (SAIM7120 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim7120)).
+
+However, Terry also needs to perform a capital gains computation, because he disposes of the shares when Julie exercises the option. Suppose he acquired the shares for £9,000 and no taper relief is due. Commercially, he has crystallised a profit of £1,600 (£10,600 less £9,000) on the shares. But, absent other provisions, his consideration for the disposal would be the £10,000 option premium he receives, plus the £100 that Julie pays him for the shares, giving him a gain of only £1,100. His £500 loss on the option arrangement would be double counted.
+
+Again, the loss rules prevent this. The amount of the loss is deducted from his consideration for the shares. (Here again, if indexation were relevant, this reduction would not apply for indexation purposes). Terry’s cost of acquiring the shares is therefore reduced by £500 to £8,500, so his chargeable gain becomes £10,100 - £8,500 = £1,600.
+
+Had Terry’s original acquisition cost been only, say, £300, it is plainly not possible to reduce this by more than £300. This would leave part of the £500 Chapter 12 loss still double counted. The TCGA rules deal with this by deeming the balance (£200 in this case) to be a chargeable gain accruing to Terry, when he disposes of the shares as a result of the option being exercised.

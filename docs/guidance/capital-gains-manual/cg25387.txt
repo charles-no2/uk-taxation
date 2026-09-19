@@ -1,0 +1,110 @@
+Remittance basis: mixed funds: ordering rules: example
+Identifier: CG25387
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25387
+Published: 2016-03-12T10:24:35+00:00
+Updated: 2016-01-25T12:19:05+00:00
+Retrieved (UTC): 2026-09-18T14:38:57.399729+00:00
+
+Changes from 6 April 2025
+
+The remittance basis has been abolished and new rules have been introduced from the 2025/26 tax year.
+
+The latest guidance can be found in RFIG (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual) for Residence and RDRM (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis) for Domicile manuals.
+
+Please note that cases which occur from 6 April 2025 onwards will be determined in accordance with the new rules.
+
+Dmitri is a remittance basis user in all tax years. As at 31 December 2010 he has a bank account in Moscow which contains the money from several sources (sterling used throughout for simplicity- see CG25391 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25391#) - CG25394 for notes on exchange differences).
+
+On 31 May, he uses £500,000 from this account to buy a small football club in Scotland. Has any of the income or gains been remitted to the United Kingdom?
+
+The bank account is a mixed fund because it contains, or derives from, more than one of the kinds of income and capital listed at ITA07/S809Q(4). Money or other property has been brought to, received or used in the UK by a relevant person (Dmitri) and so the first condition A for there to be a “basic remittance” is met (see CG25341 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25341#) above). The matching rules in ITA07/S809Q therefore apply to determine whether the second condition B is also met and, if so, the amount of income or gains remitted.
+
+Step 1: categorise the mixed fund
+
+Employment income (2009-10; not taxed)
+
+|
+
+£25,000
+
+|
+
+Relevant foreign income
+
+|  |
+
+(2009-10 dividends from non-UK companies; not taxed)
+
+|
+
+£5,000
+
+|
+
+Foreign chargeable gains (2009-10; not taxed)
+
+|
+
+£100,000
+
+|
+
+Other capital
+
+|  |
+
+(return of capital on non-UK assets sold in 2009-10)
+
+|
+
+£500,000
+
+|
+
+Total
+
+|
+
+£630,000
+
+|
+
+These categories and others, and the order in which they are to be considered, are specified by ITA07/S809Q(4).
+
+Step 2: match the transfer with the first category.
+
+The amount in the first category (employment income; £25,000) is less than the amount transferred (£500,000) so the transfer is treated as containing all that income.
+
+Step 3: reduce the amount transferred.
+
+The reduced amount of the transfer is £500,000 - £25,000 = £475,000
+
+Step 4: return to step 2
+
+Step 2(2): match the transfer with the second category
+
+The amount in the second category (relevant foreign income; £5,000) is less than the reduced amount transferred (£475,000) so the transfer is treated as containing all that income.
+
+Step 3(2): reduce the amount transferred
+
+The reduced amount of the transfer is £475,000 - £5,000 = £470,000
+
+Step 4(2): return to step 2
+
+Step 2(3): match the transfer with the third category
+
+The amount in the third category (foreign chargeable gains; £100,000) is less than the reduced amount transferred (£470,000) so the transfer is treated as containing all those gains.
+
+Step 3(3): reduce the amount transferred
+
+The reduced amount of the transfer is £470,000 - £100,000 = £370,000
+
+Step 4(3): return to step 2
+
+Step 2(4): match the transfer with the fourth category
+
+The amount in the third category (other capital; £500,000) is more than the reduced amount transferred (£370,000) so the transfer is treated as containing £370,000 of capital. (If the £500,000 capital comes equally from two sources, the transfer is treated as containing £185,000 from each source.)
+
+In summary, the transfer is treated as a remittance of £25,000 employment income plus £5,000 relevant foreign income plus £100,000 foreign chargeable gain and tax is charged accordingly.
+
+Going forward, the balance of £130,000 in the mixed fund is treated as consisting wholly of capital.

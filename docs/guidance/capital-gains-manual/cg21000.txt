@@ -1,0 +1,100 @@
+Rates of tax: introduction
+Identifier: CG21000
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg21000
+Published: 2016-03-12T10:21:58+00:00
+Updated: 2025-11-11T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:30:42.998159+00:00
+
+TCGA92/S4
+
+This page has not yet been updated to take account of the CGT rate changes from 30 October 2024.
+
+This guidance explains the rates of tax applicable to individuals.
+
+For rates applicable to
+
+- companies, see CG40200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg40200)
+
+- trusts and settlors, see CG33100 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg33100)+
+
+- personal representatives, see CG30610 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg30610)
+
+Rates of Capital Gains Tax have varied since the tax was introduced in 1965. This page details the rates that have applied since 2011-2012.
+
+Changes introduced from 23 June 2010 altered the rates of tax at which gains would be charged. These changes were made during a tax year which added to their complexity.
+
+The changes were accompanied by certain transitional provisions.
+
+If you need to consider the rates for years to 2010-2011 or any of the transitional provisions (which apply to gains that may have accrued before 23 June 2010), please see an earlier version of this section of guidance.
+
+2011-12 onwards
+
+From 23 June 2010 to 5 April 2016
+
+The rates at which gains are taxed changed for chargeable gains that accrued on or after 23 June 2010 but before 6 April 2016 were 28%, or 18% to the extent that an individual had any unused part of the basic rate band.
+
+An exception applied where the gains qualified for Entrepreneurs' Relief (now Business Asset Disposal Relief) in which case they were taxed at 10%. There is detailed guidance on this relief at CG63950 (http://internal.active.hmrci/manual/capital-gains-manual/cg63950)+.
+
+Where an individual had gains that qualified for the relief those gains utilise any available basic rate band in priority to other gains.
+
+From 6 April 2016
+
+FA2016 introduced a reduction in the Capital Gains Tax Rates for most assets. The 18% rate was reduced to 10% and the 28% rate was reduced to 20%. However the 18% and 28% rates were retained for 'upper rate gains' (previous TCGA92/S4(2A)).
+
+Upper rate gains are:
+
+Residential property gains (TCGA92/S4BB, Sch B1 and BA1 re written to S1H to S1J – see CG10150 and sch 1B)
+
+Gains within the scope of non-resident capital gains tax (NRCGT) see CG73700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73700) onwards
+
+Carried interest (TCGA92/S103KA)
+
+The potential rates are therefore:
+
+10% for gains to which Business Asset Disposal Relief applies (utilising unused basic rate band available and before any other gains)
+
+10% for non-upper rate gains (to the extent of any unused basic rate band available)
+
+18% for upper rate gains (to the extent of any unused basic rate band available)
+
+20% for non-upper rate gains (where basic rate band has been utilised)
+
+28% for upper rate gains (where basic rate band has been utilised)
+
+Although there have been no other changes in rates, from 6 April 2019:
+
+- the scope of the non-resident capital gains (NRCG) rules were extended, see CG73920 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73920). However, the 18/28% rates only apply to gains on direct disposals of interests in UK residential property i.e. those within scope of the earlier NRCGT rules.
+
+- gains may accrue on disposals qualifying for Investors’ Relief, see CG63500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63500). Where Investor’s Relief applies the gain is charged in the same way as a gain qualifying for Business Asset Disposal Relief i.e. the 10% rate applies and the gains utilise any available basic rate band in preference to other gains.
+
+Example 1
+
+In September 2018 an individual realises a chargeable gain on shares of £20,000. In December 2018 he realises a chargeable gain of £15,000 that qualifies for Business Asset Disposal Relief, see CG63950 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63950)+. His taxable income in 2018-19 is £18,000 after allowances. The annual exempt amount is £11,700 and the basic rate band limit is £34,500.
+
+The annual exempt amount is set against the gain of £20,000 because that produces the maximum reduction in the Capital Gains Tax payable, see CG18000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg18000). This is because the gain that qualifies for Business Asset Disposal Relief will be taxed at 10% while the other gain will be taxed at either 10% or 20%. So the gain is reduced to £8,300 (£20,000 less £11,700).
+
+The amount of the basic rate band that can be used against gains is £16,500 (£34,500 less £18,000).
+
+The gain that qualifies for Business Asset Disposal Relief must be set against the available amount of the basic rate band in priority to other gains. This reduces the amount of the basic rate band available for other gains to £1,500 (£16,500 less £15,000).
+
+The amount of the other gain that is chargeable at 20% is £6,800 (£8,300 less £1,500).
+
+So the amount of Capital Gains Tax payable is £3,010 (£15,000 at 10% plus £1,500 at 10% plus £6,800 at 20%).
+
+Example 2
+
+In 2018-19 an individual realises a chargeable gain of £16,700 on residential property and a £25,000 chargeable gain on shares. She has £3,000 of her basic rate band available.
+
+The Annual Exempt Amount is first used against the gains on residential property so the gains are £5,000 on residential property potentially chargeable at 18% and 28%.
+
+The chargeable gain on the shares is potentially chargeable at 10% and 20%.
+
+The rate allocation could be:
+
+((3,000 x 10%) + (22,000 x 20%) + (5,000 x 28%)) = £6,100.00
+
+or ((3,000 x 18%) + (2,000 x 28%) + (25,000 x 20%)) = £6,100.00
+
+In this example the allocation of rates does not impact the overall liability but could be relevant in other circumstances e.g. if foreign tax credit relief was due, see CG14380 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14380) onwards.
+
+There is further guidance at CG21500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg21500) onwards to illustrate how losses and the annual exempt amount are set off in the most beneficial way in order to minimise the amount of Capital Gains Tax payable.

@@ -1,0 +1,32 @@
+Share identification for corporation tax: relevant securities: the identification rule
+Identifier: CG51652
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51652
+Published: 2016-03-12T11:23:53+00:00
+Updated: 2016-01-26T08:52:39+00:00
+Retrieved (UTC): 2026-09-18T14:48:05.050106+00:00
+
+Acquisitions of relevant securities are not pooled, TCGA92/S104 (3).
+
+The rules apply to disposals of relevant securities of the same class in the same company by a company acting in the same capacity.
+
+Disposals must be dealt with chronologically, Section 108(3), and are identified in the following order -
+
+- If the security is disposed of for transfer or delivery on a particular date there is a special rules, Section 108(4). That applies mainly to transactions within the same Stock Exchange Account, see CG51653 below.
+
+- Against acquisitions in the previous twelve months on a first in/first out basis, Section 108(5)(a).
+
+- Against other acquisitions on a last in/first out basis, Section 108(5)(b). This applies equally to securities held on 6 April 1965.
+
+The provisions of TCGA92/S105 do not apply to same day acquisitions and disposals of relevant securities, TCGA92/S104 (3). Securities disposed of in a single transaction should be identified against acquisitions made at different times on the same day in as near the same proportions as possible, Section 108(5)(c). Disposals made at different times in the day should be identified with acquisitions in the order of disposal.
+
+Example
+
+- In April 2007 a company bought 10,000 units in the Kayman Accumulator Fund - a non reporting fund.
+
+- In June 2012 the company bought another 7,000 units in the Kayman Accumulator Fund.
+
+- In September 2012 the company bought a further 12,000 units in the same fund.
+
+- In March 2013 the company sold 13,000 units out of its holding of 29,000 units.
+
+The disposal of 13,000 units in March 2013 is identified first with the 7,000 units acquired in June 2012 and then with 6,000 of the units acquired in September 2012.

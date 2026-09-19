@@ -1,0 +1,48 @@
+Deductions: interest: swaps held by IT payers
+Identifier: PIM2066
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim2066
+Published: 2016-04-10T16:24:17+01:00
+Updated: 2020-07-01T12:24:09+01:00
+Retrieved (UTC): 2026-09-18T14:28:29.906878+00:00
+
+Swap contracts, such as interest rate or currency swaps or certain kinds of credit derivative, are now widely used by investors to hedge financial risks or to change their risk profile.
+
+In an article published in Tax Bulletin 66 (TB66) published in September 2003 HMRC set out its views on the tax treatment of swaps held by non-corporates. The term “non-corporates” includes individuals, whether trading or not; trusts (including approved and unapproved pension schemes and charitable trusts); and partnerships whose members include individuals or trusts. TB66 deals with the general position of non-corporates who hold swap contracts. It relates only to swaps (except in so far as it specifically refers to other sorts of derivatives). Different tax considerations may apply to other sorts of derivatives, such as futures and options.
+
+The word “swap” is not found in the Taxes Acts. For the purposes of TB66 the term relates to any financial arrangement which would be regarded by the financial markets as a swap.
+
+The following is an extract from TB66. The full version is reproduced in the Corporate Finance Manual at page CFM50080 (https://www.gov.uk/hmrc-internal-manuals/corporate-finance-manual/cfm50080).
+
+Extract from TB66: The general position of non-corporates
+
+Our general view is that profits or losses on a swap held by a non-corporate, if they are not within Case I of Schedule D, will fall within Case VI.
+
+Case I takes priority over any other possible charge to tax. Receipts or payments under a swap contract are on trading account where either
+
+- the swap forms part of the circulating capital of a financial trade being carried on by the non-corporate,
+
+- the swap transaction is clearly ancillary to a trading transaction on current account. Swaps that hedge borrowing undertaken for trade purposes fall into this category, following the approach of example 10 in paragraph 17 of SP 3/02.
+
+Where a swap is taken out by a non-corporate to hedge interest payments which are deductible in computing the profits or losses of a Schedule A business, then profits or losses on that contract will normally be taxed or relieved as receipts or deductions of that Schedule A business.
+
+Profits or gains that are not of a capital nature, and which are not within Case I or Schedule A, will constitute “annual profits or gains not falling under any other Case of Schedule D” and will therefore be chargeable under Case VI (unless, exceptionally, they are within Case V). Periodic payments under a swap are not annual payments within Case III because they are not pure income profit - the person who receives them has counter-obligations under the swap contract. It follows that such sums are payable without deduction of income tax.
+
+The case of Curtis Brown v Jarvis [1929] 14TC744 makes it clear that in assessing receipts under Case VI it is permissible to deduct associated payments. And, under ICTA88/S69, income tax under Case VI is charged on the full amount of profits or gains for the year of assessment. So the amount to be taxed under Case VI (or the Case VI loss) for a year of assessment will be the net amount receivable (or payable) under the swap contract in that year. If, however, the non-corporate prepares accounts and accounts for the swap on either an accruals or a mark to market basis, there is no objection to using the accounts figure as the measure of the “full amount of profits or gains”, provided that the accounts bring in the full economic profit on the swap over the life of the contract.
+
+Users of swaps may sometimes receive or pay lump sums. For example, one party may pay a premium to enter into a swap, or a lump sum representing the net present value of outstanding rights and obligations under the contract may change hands if a swap is assigned or terminated early. Such lump sums will also be within Case VI if they are on revenue account. Whether a receipt or payment is capital or income is a question of fact in any particular case. But in general all cashflows made or exchanged under or in connection with a swap will be income, whether they take the form of periodic payments or are rolled up into a lump sum payable at any point.
+
+It is sometimes contended that certain swaps are “financial futures” that, if not within Case I, are taken out of Schedule D by ICTA88/S128 (1) and are chargeable to capital gains tax by virtue of TCGA92/S143. Statement of Practice SP3/02 (or its earlier incarnation, SP14/91) is sometimes quoted in support of this view.
+
+We do not agree. Paragraph 4 of SP3/02 makes the point that the statutory phrase “financial futures” is a wide term, encompassing cash-settled contracts as well as those settled by delivery, and over the counter contracts (including forward rate agreements) as well as exchange-traded contracts. But, wide as it is, it can only cover derivatives that are “futures”. The word “future” must be interpreted in its normal commercial sense. And - while there is some fluidity in commercial usage - the market will generally see swaps as falling into a different category from futures.
+
+SP3/02 deals with the tax treatment of transactions in financial futures and options, not swaps. Nevertheless, when looking at a question of whether a swap transaction is within Case I, rather than Case VI, HMRC will apply the general principles set out in SP3/02.
+
+ITTOIA05 changes
+
+For 2005-06 onwards replace the references to:
+
+- Case 1 of Schedule D by trading income within Part 2 of ITTOIA05.
+
+- Schedule A by property income within Part 3 of ITTOIA05.
+
+- Case VI of Schedule D by income within ITTOIA05/S688.

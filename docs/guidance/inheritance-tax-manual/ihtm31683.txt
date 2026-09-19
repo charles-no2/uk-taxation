@@ -1,0 +1,40 @@
+Assessing: offset repayments: setting off money at a different entry 
+Identifier: IHTM31683
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31683
+Published: 2016-04-09T10:06:18+01:00
+Updated: 2016-02-11T17:19:29+00:00
+Retrieved (UTC): 2026-09-18T15:06:26.859436+00:00
+
+Where there is more than one entry on a case there will be more than one group of liable people. Even if the liable people are the same (for example the executors of the Will are also the trustees of the Will Trust) the capacity in which they are liable will be different for each entry. For this reason we would not normally set off money that was repayable at one entry against tax that was due on another entry. However, there may be some occasions where the taxpayer or agent asks us to do this because it is more convenient for them. In these cases you may set -off a repayment across different entries. You must not do this unless the taxpayer or agent has said they want us to.
+
+Because the liable people at each entry are liable in different capacities you cannot give full credit for any money repaid at one entry and set off at another. Instead you must give supplementary interest at the lower rate that we normally give when making a repayment.
+
+If there is no balance to be repaid to the taxpayer or agent
+
+Prepare the calculations and complete a form Sect 6 for an internal repayment only. Show the amount to be set off on the form. Use the interest supplement box to calculate the supplementary interest due on the amount to be set off. You should do this to today’s date.
+
+The Sect 6 will total the amount of the set off and the supplementary interest. On the calculation where tax is payable, choose the ‘Money’ button and enter a ‘deposit’ of this total amount.
+
+The deposit number will be the assessment group and number of the repayment calculation. Write the word ‘FROM ’in front of it. For example ‘FROM ANIOP1/2’. Abbreviate FROM to FRM if the calculation number is in double figures.
+
+The date to use for the ‘date received’ will be today’s date. COMPASS will calculate the interest as if the money being set off was received on the day you are preparing the calculation.
+
+- When you complete the Sect 6 you will need to say whether the amount to be set off is more than £25,000. If it is, you will need to print the Sect 6 send the file to your manager to approve the set off before sending the calculations out. Otherwise, print the Sect 6 and send a copy to the Accounts Team in Nottingham. Keep another copy at the file to show what you have done
+
+If there is a balance to be repaid to the taxpayer or agent
+
+If the amount to be repaid is more than the amount of tax due you will need to do the following:
+
+- Prepare and raise the repayment calculation as usual.
+
+- On the calculation where tax is payable, choose the ‘Money’ button and enter a ‘deposit’ for the amount you need to bring the calculation to nil.
+
+- The deposit number will be the assessment group and number of the repayment calculation. Write the word ‘FROM ’in front of it. For example ‘FROM ANIOP1/2’. Abbreviate FROM to FRM if the calculation number is in double figures.
+
+- The date to use for the ‘date received’ will be today’s date.
+
+- Prepare a Sect 6 to repay the balance. You should show the amount you have set off and where it has been used on the Sect 6, in the internal set offs box.
+
+- You will need to calculate the interest supplement on the full amount of money that is being repaid including the amount that has been set off.
+
+- Send the calculations and repayment to the reviewing officer (IHTM31647 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31647)) in the normal way.

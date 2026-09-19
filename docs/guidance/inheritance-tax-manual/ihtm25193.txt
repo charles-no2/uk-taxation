@@ -1,0 +1,22 @@
+Other holdings of unquoted shares: American Depositary Receipts
+Identifier: IHTM25193
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25193
+Published: 2023-04-04T13:36:11+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:02:21.575800+00:00
+
+American Depository Receipts (ADRs) are securities that represent shares of non-US companies that are held by a US depositary bank. They allow US investors to invest more easily in non-US companies, avoiding difficulties such as transferring original shares certificates from one country to another. They can also give non-US companies easier access to US capital markets.
+
+ADRs are negotiable certificates that evidence ownership of American Depositary Shares (ADSs). These in turn represent an interest in a non-US company as mentioned above. The terms ADRs and ADSs are often used interchangeably.
+
+ADSs are usually listed on major US exchanges such as the New York Stock Exchange or the Nasdaq. Shares and securities listed on these markets are regarded as ‘listed’ for HMRC purposes, including Inheritance Tax (IHT) (IHTM18061 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm18061)). These shares and securities are ‘quoted’ for IHT purposes and only qualify for business relief at 50% if they give the transferor control of the company immediately before the transfer, IHTA84/S105(1)(cc) (IHTM25202 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25202)).
+
+Shares in unquoted companies (IHTM25192 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25192)) may sometimes be exchanged for Depositary Receipts, most commonly ADRs. When this happens, it is necessary to consider whether the property held is the ADSs, as evidenced by the ADRs, or the underlying shares in the company they ultimately represent.
+
+If the law of the territory or state where the ADRs are issued conclusively determines that the holder of the ADRs is the beneficial owner of the underlying shares, then IHT relief will be available under IHTA84/S104.
+
+If it does not, our approach is that the owner of the ADRs is not the beneficial owner of the underlying shares for IHT. The asset in their estate is the ADSs, evidenced by the ADRs, and business relief is not available unless they gave the owner control of the company as mentioned above.
+
+This approach follows the decision of the First-Tier Tax Tribunal in the Stamp Duty Reserve Tax case of HSBC v Commissioners for HMRC [2012] UKFTT 163 where the tribunal concluded that it was not satisfied that under the law of the State of New York, the holder of an HSBC ADR had a beneficial interest in the underlying fund of HSBC shares.
+
+If you see a case where business relief is claimed on ADSs refer to Technical for advice.

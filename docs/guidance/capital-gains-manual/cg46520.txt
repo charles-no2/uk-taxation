@@ -1,0 +1,36 @@
+Depreciatory transactions: when the rule applies
+Identifier: CG46520
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg46520
+Published: 2016-03-12T11:12:18+00:00
+Updated: 2018-07-17T11:59:55+01:00
+Retrieved (UTC): 2026-09-18T14:41:43.164197+00:00
+
+TCGA92/S176(1), (2), (7), (8)
+
+The general trigger for a depreciatory transactions adjustment is that there has been a disposal of shares or securities (referred to in the legislation as the ultimate disposal') and the value of the shares or securities has been “materially reduced”, by a depreciatory transaction. TCGA92/S176(8) provides that disposal’ for these purposes includes the deemed disposal which results from a negligible value claim under TCGA92/S24 (2).
+
+For disposals of shares or securities from 19 July 2011 to 21 November 2017 the rule only applied where a depreciatory transaction occurred within the period of 6 years ending with the disposal. For these purposes, the date of a disposal that took place on or after 22 November 2017 is not affected by the making of a negligible vaue claim, FA18/S28(2)(b).
+
+For disposals outside the period mentioned above there is effectively no time limit.
+
+The statutory definition of depreciatory transaction', is widely drawn. If the ultimate disposal is a disposal by company A of shares or securities in company B, the definition of depreciatory transaction’ in TCGA92/S176 (1) and (2) includes
+
+- any disposal of assets at other than market value by one group member to another, or
+
+- any other transaction involving two or more companies in the same group, and satisfying the condition that company B, or any 75 per cent subsidiary of company B, was a party to the transaction.
+
+HMRC regard the use of the word “other” in the second category as excluding its application to a disposal of an asset AT its market value. It is entirely possible for such a transaction to be depreciatory in the group context because the transferee may acquire a tax base cost that is lower than would be the case in an acquisition from a third party because of a no gain/no loss rule. Where a disposal of the asset involved is within the capital gains charge the consequences are a matter for the degrouping charge but the value shifting rules may apply where a capital loss has been created or enhanced by the transfer of other assets at their market value. See CG48550.
+
+A transaction is not a depreciatory transaction to the extent that it consists of a payment which is brought into account in computing a chargeable gain or allowable loss accruing to the person making the ultimate disposal. This exclusion in TCGA92/S176 (1) covers, for example
+
+- capital distributions within TCGA92/S122
+
+- distributions which are effectively charged under the value shifting rules in TCGA92/S30 and TCGA92/S31.
+
+The definition of “securities” for this purpose includes both secured and unsecured loan stock and the like, TCGA92/S176(7)(a).
+
+The definition of `depreciatory transaction’ also covers appropriations of goodwill, TCGA92/S176(7)(b). A disposal of assets includes any method by which one company appropriates the goodwill of another group member. The most common method of appropriating goodwill is the transfer of a trade from one company to another, effected by transferring the assets, personnel and so on used in the trade. In many cases the transferee makes a payment for the tangible assets acquired, often equal to their book value, but it is uncommon for the goodwill to be recognised on a disposal within a group. The value of the goodwill may be substantial, and a transfer at less than market value is a depreciatory transaction. The instructions at CG68000+ contain information about the valuation of goodwill.
+
+TCGA92/S176(3)
+
+There is an explicit rule to include within the definition of depreciatory transaction the cancellation of shares or securities under Section 641 Companies Act 2006 of shares or securities in one group company held by another group company. In most situations this additional rule is unnecessary; it was introduced to ensure that a share cancellation arising in a reverse takeover would be within the scope of TCGA92/S176 and TCGA92/S177. Where a company acquires another, which itself held shares in the first company, those shares are cancelled under UK company law.

@@ -1,0 +1,30 @@
+The settlor: settlor's PLCT
+Identifier: IHTM42255
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42255
+Published: 2016-04-09T10:25:04+01:00
+Updated: 2020-11-12T14:25:09+00:00
+Retrieved (UTC): 2026-09-18T15:09:40.272084+00:00
+
+The settlor’s previous cumulative lifetime total (PLCT) is taken into account when calculating the rate of tax on chargeable trust events. It is the total value of chargeable transfers made in the seven years before starting the settlement. That is,
+
+-
+
+immediately chargeable transfers, plus
+
+-
+
+any failed potentially exempt transfers if the settlor died within seven years of starting the trust. (IHTM14573 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14573))
+
+Use the chargeable value after annual exemptions, normal out of income exemption and reliefs.
+
+Disregard transfers made on the day the settlement commenced, or any transfers before 27 March 1974. (IHTM42130)
+
+This amount does not fall out of cumulation by the passage of time. It will be included in the calculation of every ten-year anniversary (TYA) charge for as long as the discretionary trust continues.
+
+Will Trusts
+
+Only chargeable transfers 7 years before death are cumulative.
+
+Alternative values for cumulation
+
+Where there are additions to the trust, you may have to revalue the settlor’s PLCT for cumulation, IHTA84/S67. (IHTM42090 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm42090))

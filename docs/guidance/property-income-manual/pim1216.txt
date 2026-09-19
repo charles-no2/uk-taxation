@@ -1,0 +1,68 @@
+Other sums treated like premiums: sums received for variation or waiver of the terms of a lease
+Identifier: PIM1216
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1216
+Published: 2016-04-10T16:23:32+01:00
+Updated: 2020-08-07T12:48:25+01:00
+Retrieved (UTC): 2026-09-18T14:27:54.960207+00:00
+
+Summary
+
+This page is about payments received by a landlord in consideration of terms of a lease being varied or waived. Without special rules, a landlord could impose such terms to avoid tax instead of charging a premium. It does not deal with payments made under the terms of a lease, those are covered in PIM1214 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1214).
+
+Tax is charged as if a premium had been paid. A charge may arise even if the lease is for a period of more than 50 years. See below for details.
+
+Payments dealt with in this page are covered by section 221 of the Corporation Tax Act 2009 (CTA09) and section 281 of the Income Tax (Trading and Other Income) Act 2005 (ITTOIA05). There is a charge if a sum becomes payable to the landlord, other than by way of rent, for variation or waiver of the terms of a lease.
+
+- The sum payable is taxed as if it were a premium, the taxable amount is treated as if it were rent becoming due when the contract giving rise to the payment is entered into.
+
+- The term of the lease used in calculating the charge is the period beginning when the variation or waiver starts to take effect and ending when it ceases to take effect. See the notes below on the length of the lease.
+
+- There may be a charge even if the original lease is for more than 50 years, see example 1 below.
+
+Meaning of “variation” and “waiver”
+
+You should take it that there has been a “variation” of any of the terms of the lease where any term varied continues to appear in an amended form. “Waiver” is the abandonment of a right. The words “waiver of any of the terms of a lease” have been held to mean not only total abandonment of any term by excision from the lease but also abandonment of rights (such as the right of re-entry and to damages) resulting from a breach of a term. See Banning v Wright [1972] 48TC421.
+
+Surrender of lease
+
+If a lease is surrendered otherwise than under the terms subject to which it was granted, CTA09/S221 and ITTOIA05/S281 do not normally apply. However, you may find that the sum payable by a tenant when a lease is surrendered also includes an amount in consideration of the waiver of a term of the original lease, such as a repairing covenant. You may then have to make an apportionment of the total consideration between surrender and waiver of terms. You should submit such a case to Business Assets and International directorate if agreement regarding the apportionment cannot be reached.
+
+Length of the lease
+
+Calculate the length of the lease for this purpose in accordance with CTA09/S243 or ITTOIA05/S303 as described in PIM1206  (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1206)to PIM1209 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim1209). To do this, you may have to consider whether the terms of the lease or other circumstances make it unlikely that it will run its full term. This should be done in the light of the facts known or ascertainable at the time when the contract for the variation or waiver was entered into. A change to the rental terms so that the lease is unlikely to continue beyond, say, three years after the date of the change, means that the premium chargeable under CTA09/S221 or ITTOIA05/S281 must be treated as one for a lease of three years. See example 2 below.
+
+Calculation - formula
+
+The legislation sets out the calculation of the taxable amount with this formula:
+
+S x (50-Y)/50
+
+S = the amount payable for the variation or waiver.
+
+Y = the number of complete periods of 12 months to which the payment relates, less the year in which the payment was made.
+
+Example 1
+
+Oliver occupies a shop under a 65-year lease granted in June 1969. He is responsible for all repairs. In June 2019 the landlord agrees to assume responsibility for repairs in consideration of a payment by Oliver of £50,000. There were no accumulated repairs. The premium of £50,000 is treated as received for a 15-year lease (the remaining 15 years of the lease for which the repairing covenant is waived).
+
+Under the formula, ‘Y’ is 14: the variation relates to 15 complete years, less the first year.
+
+The landlord’s liability, in addition to the rent payable under the lease, is as if he were entitled to additional rent of £36,000 in June 2019. This is calculated as follows:
+
+1. Deemed premium receivable |  £50,000 |
+
+2. Multiply by (50 - 14) / 50 |    |
+
+3. Chargeable amount of premium |  £36,000 |
+
+Example 2
+
+On 6 April 2011, Mina took a 21-year lease of office premises at £12,000 per annum, the tenant being responsible for all repairs. On 6 April 2015 her landlord assumed responsibility for outside repairs in consideration of a payment of £10,000, and a condition that the rent was to increase to £18,000 per annum after the seventh year of the lease, Mina having the option to terminate the lease after the seventh year.
+
+The landlord is treated as if a premium had been received for a three-year lease. This takes into account the fact, known at the time of the variation, that the lease is unlikely to continue beyond the seventh year. Under the formula, ‘Y’ is 2: three complete years less the first year. The calculation is as follows:
+
+1. Deemed premium receivable |  £10,000 |
+
+2. Multiply by (50-2) / 50 |    |
+
+3. Chargeable amount |  £ 9,600 |

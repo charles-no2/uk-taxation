@@ -1,0 +1,118 @@
+PMA - Anti-avoidance: Finance leaseback:  Transitional provisions
+Identifier: CA28980
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28980
+Published: 2016-04-16T08:53:10+01:00
+Updated: 2022-06-07T10:16:05+01:00
+Retrieved (UTC): 2026-09-18T16:21:05.765225+00:00
+
+FA04/SCH23
+
+The legislation in CAA01/S228A to S228J applies for chargeable periods ending on or after 17 March 2004. There are transitional provisions in Schedule 23 for existing leasebacks and transitional periods of account. Broadly, these transitional provisions preserve the lessee’s deductions for and the lessor’s income from pre-commencement rentals. CAA01/S228E provides special rules for the calculation of chargeable gains where existing leasebacks in lease and finance leaseback arrangements are terminated. These are the definitions that apply to the transitional provisions.
+
+Pre-commencement rentals are amounts payable before 17 March 2004, amounts payable after 17 March 2004 in respect of rental periods ending before that date, and an apportioned amount of rentals payable after 17 March 2004 in respect of a transitional period of account.
+
+An existing leaseback is a leaseback the term of which began before 17 March 2004.
+
+A transitional period of account is a period of account that includes 17 March 2004.
+
+The appropriate fraction for a period is no of days before 17 March 2004/ whole period.
+
+CAA01/S228B
+
+Where there is a sale and finance leaseback CA28920 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28920) Section 228B restricts the lease rentals that may be deducted in computing the lessee’s income or profits to the permitted maximum. This restriction is intended to recover any tax free sum that the lessee may have received because the disposal value brought to account when the sale and finance leaseback was entered into was restricted.
+
+The lessee’s excess rentals are the rentals that would have been deducted before the introduction of the legislation minus the actual rental deductions allowed. The transitional provisions allow a deduction for the excess rentals.
+
+Example Bob pays rent of £100,000 for his accounting period ended 24 May 2004. The rental deductions allowed are £80,000. Bob’s excess rentals are £20,000 (£100,000 - £80,000).
+
+If the lessee has excess rentals (CA28920) Section 228B is amended for the transitional period of account and later periods to allow them. The rules end when the lessee’s excess rentals have been allowed in full.
+
+For the transitional period of account and later periods the permitted maximum (CA28920) for an accounting period is increased. The increased permitted maximum is the excess rentals that have not yet been relieved plus a fraction of the usual permitted maximum for that period. The fraction is:
+
+Notional Rental reduction less deductible excess divided by Notional Rental deduction.
+
+The notional rental deduction is the deduction that would have been allowed if Section 228B had not applied.
+
+The deductible excess is the excess rentals or the unrelieved portion of the excess rentals.
+
+In the transitional period of account the permitted maximum is the higher of the increased permitted maximum given by the above calculation and the appropriate fraction of the notional rental for that period.
+
+If a termination occurs in the transitional period of account the permitted maximum is not affected by the transitional provisions outlined above.
+
+If the lease terminates before all of the unrelieved portion of the excess rentals can be used to increase the permitted maximum for the accounting period in which the lease terminates by the excess rentals that cannot be used.
+
+CAA01/S228C
+
+Section 228C does not apply if a leaseback terminates before 17 March 2004.
+
+If a leaseback terminates early CA28930 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28930) Section 228C increases the lessee’s profits to recover the rest of the tax-free sum that would have been recovered by Section 228B. If this profits increase is more than the relevant cap, the part of the profits increase that is more than the relevant cap is ignored.
+
+The relevant cap is:
+
+Original consideration – relevant rentals x net consideration divided by original consideration
+
+The original consideration is the consideration payable to the person who sold the plant and entered into the leaseback
+
+The net consideration is the difference between the amount the seller received for entering into the sale and finance leaseback and the restricted disposal value that was brought to account. That is, it is the tax-free amount that the seller received.
+
+The relevant rentals are the pre-commencement rentals minus both the finance charges shown in the accounts for periods that end before 17 March 2004 and the appropriate proportion of finance charges shown in accounts for the transitional period of account.
+
+After the introduction of the legislation in CAA01/S228A to S228J people may decide that they no longer want sale and finance leaseback arrangements they have entered into. The transitional provisions let the parties to a sale and finance leaseback unwind the transaction without incurring the Section 228C charge CA28930 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28930) provided that certain conditions are satisfied. These are the conditions that have to be satisfied:
+
+- The leaseback terminates early.
+
+- Within one month of the termination date the lessee becomes the owner of the asset by acquiring it from the lessor or a person connected with the lessee.
+
+- No person who is not connected with the lessee has owned the asset in the period between the sale by the lessor and the acquisition by the lessee.
+
+- The lessor must have sold the asset at a price not less than market value.
+
+- The lessee’s qualifying expenditure is restricted by CAA01/S226 CA28550.
+
+Section 226 restricts the buyer’s qualifying expenditure when an asset that has been the subject of a sale and finance leaseback is sold. The unwinding rules vary depending upon whether or not the Section 226 restriction is more than the Section 228C charge.
+
+If the Section 226 restriction is more than the Section 228C (3) amount and there is not a disposal event for 6 years from the termination date then Section 228C does not apply. If the asset is disposed of within 6 years then an amount based on the disposal proceeds is brought to account.
+
+If the Section 226 restriction is not more than the Section 228C charge then the Section 228C charge is reduced by the Section 226 restriction with the same six-year rule applying to any subsequent disposal. The balance of the Section 226 charge is held over until the asset is disposed of.
+
+When the asset is finally disposed of this is treated as a termination of the leaseback for the purposes of Section 228C. The Section 228C (2) profits increase takes account ofthe final sales proceeds. The adjustment ensures that the operation of Section 228C (3) takes account of the ultimate disposal proceeds (or market value if higher) after excluding the restricted amount qualifying for capital allowances.
+
+CAA01/S228D
+
+Where there is a sale and leaseback Section 228D CA28940 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28940) leaves the amounts received under the sale and leaseback that are above the permitted threshold out of account. If the pre-commencement rentals are more than the actual rentals taken into account in computing the lessor’s income from the leaseback for periods of account ending before the transitional period there are rules about Section 228D. These are the rules.
+
+The lessor’s excess rentals are the pre-commencement rentals minus the actual rentals that should be taken into account in computing the lessor’s income or profits for a period of account.
+
+If in the transitional period or a later period the lessor’s excess rentals, or any untaxed portion of the lessor’s excess rentals, are more than the amount that would be taken into account before the permitted threshold introduced by Section 228D, then Section 228D does not apply for that period.
+
+If there are excess rentals, or an untaxed portion, for an accounting period that are less than the amount that would have been taxed before Section 228D introduced the permitted threshold , then you increase the permitted threshold for that accounting period. The permitted threshold is increased to the excess rentals plus a fraction of the normal permitted threshold. The fraction for an accounting period is:
+
+- Notional rental deduction divided by
+
+- The rental that would have been included if Section 228D did not apply
+
+In the transitional period the permitted threshold is the greater of the amount given by the above calculation and the appropriate fraction of the rental that would have been included if Section 228D did not apply.
+
+If a termination occurs in the transitional year then the permitted threshold rules in Section 228D (4) can be increased.
+
+The transitional rules end when the lessor excess rentals have been fully taxed.
+
+If the leaseback terminates before all of the untaxed portion of the lessor’s excess rentals can be taxed then the balance is taxed in that period by increasing the permitted threshold.
+
+CAA01/S228E
+
+Section 228E does not apply if the leaseback terminates before 17 March 2004.
+
+When the leaseback in a lease and finance leaseback CA28940 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28940) where the owner has received a premium terminates, the owner may then dispose of the asset that was leased and leased back. If a chargeable gain arises on the disposal only part of the gain is taken into account for the purposes of capital gains tax or corporation tax on chargeable gains.
+
+This is the part that is taken into account. It is:
+
+- Chargeable gain x net rentals – termination charge divided by
+
+- Lease premium
+
+Net rentals are the total of the lessee’s deduction for rents minus the finance charges for the leaseback in the lessee’s accounts.
+
+Termination charge is the amount by which the lessee’s income or profits are increased by CAA01/S228C (2) CA28930 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca28930).
+
+Lease premium is the premium that the person received for entering into the lease and finance leaseback.

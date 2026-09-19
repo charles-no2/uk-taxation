@@ -1,0 +1,34 @@
+UK property rich collective investment vehicles: Transparency election: Effect of the transparency election on the CIV
+Identifier: CG73997Y
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73997y
+Published: 2021-03-19T09:52:22+00:00
+Updated: 2023-11-23T10:45:55+00:00
+Retrieved (UTC): 2026-09-18T14:47:02.020280+00:00
+
+Once the election is made the CIV will be treated as a partnership for the purposes of TCGA generally, so that the investors will be treated as if they directly held an interest in the underlying assets of the fund. The transparent treatment will apply for all investors in the fund, both UK and non-resident, and TCGA92/SCH5AAA/para 8(8) therefore disapplies TCGA92/S99 (application of TCGA to unit trusts) and S103D (tax transparent funds treated as an asset for TCGA purposes).
+
+The CIV is also considered a partnership, and so transparent, for the purposes of establishing a group relationship for capital gains purposes. For example, Company A owns 95% of the units in a CIV which is subject to the transparency election, and that CIV owns 80% of the shares in Company B. For the purposes of establishing a group relationship for TCGA92/s171, and looking at a chain of ownership as per CTA10/s1154, Company A will be treated as directly holding the shares in Company B. However, this would not apply for purposes other than capital gains (such as group relief).
+
+Where a transparency election has been made by an offshore CIV, that offshore CIV will be regarded as a CIS constituted as a partnership for the purposes of making an exemption election under para 12(3) in respect of any non-CIV companies it owns that are UK property rich – see CG73998S (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73998s).
+
+The election will have retrospective effect to cover any disposals by the CIV from commencement of the non-resident gains rules on 6 April 2019, or if the CIV is formed after that date, from the date it is formed.
+
+Example 1:
+
+An (income transparent) unit trust was set up in 2014 with three unit holders (A, B and C) to invest in several UK properties. In 2018, C sold its units to D and the unit trust disposed of a property. In July 2019, the unit trust sells another property.
+
+In December 2019, a transparency election is made with the consent of A, B and D. As a result, the unit trust is treated as if at all times it was a partnership. The election only has effect to disposals on or after 6 April 2019 (TCGA92/SCH5AAA/para49(3) even though the unit trust is treated as having been a partnership when it was set up and so only the disposal of the property in July 2019 is treated as made by the unitholders”.
+
+Example 2:
+
+An (income transparent) unit trust is set up in January 2020 to invest in UK land. It first acquires a property in September 2020. The time limit for a transparency election is no later than 12 months after that first acquisition (TCGA92/SCH5AAA/para 9(1)(c)) but it can make the election before it acquires any actual UK property. This means that it can make the election at any time from January 2020 to September 2021, on the basis that the prospectus suggests the fund intends to be UK property rich.
+
+Once made, the election cannot be withdrawn (TCGA92/SCH5AAA/para 9(3)). If the investors in the CIV change, or it ceases to be 75% UK property rich, it will remain a partnership for gains. There will be no need to make a new election or provide the consent of the new investors, who should be aware of the CIV’s status when they acquire an interest in it.
+
+Partnership returns
+
+Section 12AA of the Taxes Management Act applies as if it authorised a single notice under subsection (2) or (3) requiring the making and delivery of an annual partnership return regardless of whether any partnership property has been disposed of (TCGA1992/SCH5AAA/para 8(4)). Such a return is only required to show the amount in which each partner is chargeable to tax on chargeable gains, so does not need to include details of the income of the CIV. The notice will be made to the manager of the vehicle.
+
+For the purposes of submitting a partnership return, once a transparency election has been made the fund will be issued with a UK UTR and will receive a notice to file a return. To comply with s.12AA (6) of the Taxes Management Act 1970, the fund manager will need to include a UK UTR for each investor on the partnership return.
+
+Provided all the correct information has been provided when making the transparency election, including details of all fund participants (as defined at CG73997V (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73997v)), as part of processing that election HMRC will issue a UK UTR to each investor who does not already have one. This will enable the CIV to file annual partnership returns.

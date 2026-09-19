@@ -1,0 +1,8 @@
+Securities: Accrued Income Scheme: disposals  which are not transfers
+Identifier: CG54508
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg54508
+Published: 2016-03-12T11:35:35+00:00
+Updated: 2019-12-10T13:54:55+00:00
+Retrieved (UTC): 2026-09-18T14:33:12.875230+00:00
+
+TCGA92/S119 (7) deals with events which are disposals for Capital Gains Tax purposes but which are not transfers for the purposes of the Accrued Income Scheme. A typical example is the deemed disposal under TCGA92/S178 when a company leaves a group of companies still owning an asset acquired from another member of the group, see CG45400 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45400)+. These deemed disposals are treated as transfers if the Accrued Income Scheme legislation would have applied at the date of disposal if the disposal had been a transfer. They are treated as disposals with accrued interest if the taxpayer would be entitled to the next interest payment and disposals without accrued interest if the taxpayer would not be entitled to the next interest payment.

@@ -1,0 +1,66 @@
+Dividends and other company distributions: qualifying and non-qualifying distributions: non-CD distributions and CD distributions
+Identifier: SAIM5050
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5050
+Published: 2016-03-19T16:26:56+00:00
+Updated: 2022-06-22T09:15:42+01:00
+Retrieved (UTC): 2026-09-18T14:26:34.933989+00:00
+
+The corporation tax rules
+
+The distinction between qualifying and non-qualifying distributions was important when the CT system was reformed in FA72 and tax credits replaced deduction of income tax on making a distribution, among other changes. The concern was that payable tax credits might be available without any actual payment out of the assets of the company, while a realisable asset could be issued as bonus redeemable shares or bonus securities.
+
+FA72/S84 (4) defined ‘qualifying distributions’ which attracted tax credits. This provision became CTA10/S1136, which was repealed by FA16/S5 and SCH1. ‘Non-qualifying distribution’ was defined in ITTOIA05/S400 (6), which was also repealed by FA16. New ITTOIA05/S401 (7) in effect replaced the term ‘non-qualifying distribution’ with ‘CD distribution’ and ‘qualifying distribution’ with ‘non-CD distribution’.
+
+Officers should refer any difficulties relating to particular distributions or share issues to the unit dealing with the Corporation Tax affairs of the company, via CT Services.
+
+The reason why the concept of non-qualifying distributions, and now CD distributions, has been retained is the need to give relief when there would be a distribution when repaying shares or securities which were treated as distributions on issue. This relief is at ITTOIA05/S401.
+
+Qualifying distributions - to 5 April 2016: CTA10/S1136
+
+A qualifying distribution was any distribution within:
+
+- CTA10/S1000 (1) (dividends and other distributions within the extended meaning of that word - see SAIM5030 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5030)) with the exception of a distribution under CTA10/S1000 (1) paragraphs C or D;
+
+- CTA10/S1000 (2) (expenses of accommodation, entertainment and other services, benefits and facilities provided to a participator in a close company - see SAIM5200 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5200)).
+
+Non-CD distributions - from 6 April 2016; ITTOIA05/S401 (7)
+
+A non-CD distribution is a distribution which is not a CD distribution (see below).
+
+Non-qualifying distributions - to 5 April 2016: ITTOIA05/S400 (6)
+
+A non-qualifying distribution was a distribution which was not a qualifying distribution.
+
+CD distributions - from 6 April 2016: ITTOIA05/S400 (7)
+
+A CD distribution is a distribution within CTA10/PART23, but only because it falls within CTA10/S1000 (1) paragraphs C or D.
+
+Bonus issues - tax implications
+
+Most actual distributions by UK resident companies are non-CD distributions or qualifying distributions. But a straightforward ‘bonus’ or ‘scrip’ or ‘capitalisation’ issue of shares does not in general give rise to a distribution at all because it simply reorganises the capital and nothing leaves the company: see CIT v Blott (1921) 8TC101, CIR v Fisher’s Executors (1926) 10TC302 and CIR v Wright (1926) 11TC181.
+
+For example, a ‘1 for 4 bonus issue’ means that the shareholder receives one new share for every four existing shares and in principle as there are no new asset five shares now represent the same interest as four did before. Note that this is different from a rights issue in which existing shareholders have first refusal on new shares that the company issues, for which they would have to pay cash which increases company assets (unless they sell the rights to another holder).
+
+However, where the issue is of bonus redeemable shares or bonus securities (which have a degree of realisability in the holders’ hands) there is a distribution and it is a CD or non-qualifying distribution, falling within CTA10/S1000 (1) C or D. There is no new consideration received by the company for issue yet the holder now has an asset which is potentially realisable (other than by sale).
+
+Further, where a company makes a bonus issue of any share capital (redeemable or non-redeemable) shares at the same time as, or following, a repayment of any share capital (CTM15420), then CTA10/S1022 treats the issue as a qualifying distribution (CTM15420). (SAIM20000 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim20000))
+
+A bonus, scrip of capitalisation issue is not necessarily the same as a stock dividend, which has a specific meaning in tax law (see below).
+
+A bonus issue of shares is a reorganisation of share capital for the purposes of tax on chargeable gains - see CG51730 onwards.
+
+Repayments of share capital
+
+A repayment of share capital is not a distribution (CTA10/S1000 (1) B, unless repayment is at a premium (CTA10/S1024). However, CTA10/S1026 provides that where bonus share capital was issued, including where it was a non-qualifying distribution, then a later repayment of that share capital is not treated as a repayment, but as a qualifying or non-CD distribution (CTM15400 onwards).
+
+Stock dividends
+
+These are, broadly, bonus issues taken in lieu of a cash dividend or where the issue of shares is part of the conditions of the shares out of which they are issued. In such cases the above rules are further modified by CTA10/S1049, which provides that a stock dividend
+
+- is not a distribution within CTA10/S1000 (1) paragraph C,
+
+- is not treated as a distribution for the purposes of CTA10/S1022 (repayment of share capital followed by bonus issue), and
+
+- does not count as a bonus issue for the purposes of CTA10/S1026 (bonus issue followed by repayment of share capital, see above).
+
+Thus a stock dividend received by an individual or trustee will not be a distribution, either qualifying or non-qualifying, even if it follows or precedes a repayment of share capital but is instead subject to specific rules. See SAIM5150 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim5150) and CTM17000 onwards.

@@ -1,0 +1,34 @@
+Qualifying corporate bonds: share reorganisations and debentures
+Identifier: CG53713
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53713
+Published: 2016-03-12T11:33:21+00:00
+Updated: 2016-01-26T09:09:40+00:00
+Retrieved (UTC): 2026-09-18T14:43:03.873362+00:00
+
+There can be occasions when a debenture will not come not come within the definition of a security at section 132(3)(b) TCGA 1992. If those debentures are issued in circumstances such that section 127 will apply there is a possibility that tax could fall out of charge. To prevent this, section 251(6) deems that in certain circumstances such debentures will be treated as coming within the definition of a security at section 132(3)(b). Section 117(6A) extends this deeming to section 117 when determining whether a debenture comes within the meaning of a qualifying corporate bond (QCB).
+
+The following example provides an illustration of where these special rules will be in point on an exchange of shares for debentures. Please note that:
+
+- under section 251(1) any gain on the disposal of a debt is not a chargeable gain except where the debt is a debt on a security or the vendor is not the original creditor, see CG53400+ for more detail
+
+- to be a debt on a security the security must come within the definition provided within section 132(3)(b), see CG55000+ for more detail.
+
+Example:
+
+Bert holds 100 class A shares in XY Ltd that he purchased in 1990 for £100. The shares are a chargeable asset and on disposal any gain is a chargeable gain. ZK Ltd offers to acquire the shares in XY Ltd in exchange for debentures in ZK Ltd. Bert along with all the other shareholders in XY Ltd accepts the offer. The conditions in section 135 are met and in turn section 127 applies. For the purposes of the TCGA Bert is treated as not having made a disposal of his shares in XY Ltd. Bert now holds debentures in ZK Ltd that are deemed to have been acquired in 1990 at a cost of £100. The effect of section 127 means that when Bert disposes of the debentures or they are redeemed any gain realised will effectively include the latent gain on the shares to the date of exchange.
+
+The terms of the debentures issued by ZK Ltd are such that they would not ordinarily come within the definition of a security as provided by section 132(3)(b) which means that when Bert disposes of the debentures or they are redeemed then under section 251(1) any gain is not a chargeable gain. Thus the latent gain on the shares to the date of exchange will never be taxed.
+
+To prevent this potential loss of tax to the exchequer section 251(6) provides that a debenture which is issued by any company on or after 16 March 1993 is deemed to be a security as defined in section 132(3)(b) if the debenture is issued as part of a
+
+- reorganisation within section 126, see CG51700+
+
+- share exchange within 135, see CG52500+ or
+
+- conversion of securities within section 132, see CG55000+ or issued in pursuance of rights attaching to such debentures.
+
+The impact of section 251(6) for Bert is that he is treated as having acquired securities in ZK Ltd. If the securities met the conditions in section 117 whereby they were treated as QCBs then section 116 will apply to cause the latent gain in Bert’s XY Ltd shares to be computed at the time of the exchange and treated as accruing when the QCBs are redeemed or disposed of. If the securities were not QCBs then the latent gain in Bert’s XY Ltd shares will be reflected in any chargeable gain on the redemption or disposal of the securities now held in ZK Ltd.
+
+See CG53441+ for more detail on section 251(6).
+
+As explained earlier section 117(6A) extends the deeming within section 251(6) to section 117 when determining whether a debenture can come within the meaning of a QCB. However the deeming effect of section 117(6A) can only apply to the original creditor or where there has been a no gain no loss disposal within section 116(11), see CG53719.

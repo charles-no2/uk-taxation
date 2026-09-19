@@ -1,0 +1,120 @@
+Land: part-disposals: special practice
+Identifier: CG71850
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71850
+Published: 2016-03-12T12:17:56+00:00
+Updated: 2026-09-02T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:35:29.054665+00:00
+
+Statement of practice D1
+
+When a part-disposal of land occurs, it is strictly necessary to value the whole of the remaining land so that the A / (A + B) formula in TCGA92/S42 can be applied. However, if the taxpayer agrees, a special practice, described below, can be adopted.
+
+The special practice can only apply where the subject of the part-disposal is the entire interest in what is recognisable as a separate asset. An example would be the disposal of a single field, or even part of a field, out of a farm.
+
+This practice was published on 22 April 1971 and is now statement of practice D1. Under the special practice, the expenditure allowable under TCGA92/S38 (1)(a), see CG15150P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15150p), is ascertained by apportioning the expenditure incurred when the asset was acquired (but subject to the rules below). That is, the amount of expenditure attributable to the part of the land disposed of is to be arrived at by a just and reasonable apportionment of the total cost of the land, along the lines of TCGA92/S52 (4), see CG14771 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14771).
+
+Prior part-disposal before 22 April 1971 (companies only)
+
+If a part-disposal of land occurred before the introduction of the above practice, that is before 22 April 1971, it is still possible to apply that practice to subsequent part- disposals.
+
+In such cases, the original cost of the land should be increased by a suitable proportion of any additional expenditure and reduced by an appropriate part of any expenditure allowed on a previous part-disposal which was not a separately identifiable asset.
+
+If the part-disposal is by an individual, rebasing to the value at 31 March 1982 is mandatory. For companies, if a rebasing election has been made, then the asset will have been rebased to its value at 31 March 1982. In both cases the asset is deemed to have been acquired on 31 March 1982 so any earlier part-disposals are ignored.
+
+Example 1
+
+A farmer purchases a 200-acre farm in 1983 for £150,000.
+
+In 1985 he grants a lease over the whole farm for 2 years and receives a premium. The allowable expenditure set against the premium was £30,000.
+
+In 1988 he incurs expenditure of £50,000 on drainage work on 100 acres of the farm.
+
+In 2017 he disposes of 5 fields totalling 20 acres. Those fields were included in the area which was the subject of the drainage work.
+
+Under the special practice, the allowable expenditure will be calculated as follows:
+
+i) Total original cost
+
+= Original cost - amount deducted in arriving at 1985 gain
+
+= £150,000 - £30,000
+
+ii) Allowable expenditure - original cost
+
+Assuming that the original cost of the farm can be apportioned purely on the basis of area, the part of the original cost which would be allowable on the 1990 disposal would be:
+
+= Proportion of land sold x original cost
+
+= ( 20 / 200 ) x £120,000
+
+= £12,000
+
+iii) Allowable expenditure - drainage works
+
+To the above figure would be added the appropriate proportion of the cost of the drainage work, that is:
+
+= Proportion of land sold x drainage costs
+
+= ( 20 / 100 ) x £50,000
+
+= £10,000
+
+iv) Total allowable expenditure
+
+= Allowable original expenditure + Allowable drainage expenditure
+
+= £12,000 + £10,000
+
+= £ 22,000
+
+Strict method or special practice
+
+TCGA92/S42
+
+It is always open to the taxpayer to require the strict application of the law in accordance with TCGA92/S42 provided there has been no previous part-disposal.
+
+When the taxpayer makes such a choice, it will be necessary to apply the strict law or special practice consistently to any subsequent part- disposals of the land.
+
+TCGA92/S242 & TCGA92/S243
+
+If a part-disposal of land occurred before the introduction of the special practice on 22 April 1971, and the provisions of either TCGA92/S242, see CG71870 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71870), or TCGA92/S243, see CG72200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg72200), were applied, it is still possible to apply the special practice. However, this can only be done if the taxpayer agrees to an appropriate reduction of the apportioned cost of each remaining portion of the original holding.
+
+For individuals (or companies who have made a rebasing election), assets held before 31 March 1982 are valued as if they were acquired on 31 March 1982; in such cases a choice to apply the strict method or special practice can be made on the first part-disposal after 31 March 1982 regardless of any part-disposal made before 31 March 1982.
+
+Example 2
+
+In 1968 a farming company acquired 20 acres of agricultural land, made up of 5 separate fields. The cost of the 20 acres was £10,000.
+
+In 1970, one of the fields, amounting to 2 acres, was sold for £1,300. At that time, the market value of the entire 20 acres was £12,500.
+
+A claim by the company under what is now TCGA92/S242 was accepted. As a result, the sale of the field was not treated as a disposal for Capital Gains Tax purposes and the allowable expenditure in respect of the remaining holding was treated as being £8,700.
+
+In 1985, after the introduction of the above special practice, the company sold another field, this time of 6 acres, for £12,000. The benefit of the special practice was claimed. Under that practice, the allowable cost of the 6-acre field was arrived at by apportioning the total cost on the basis of area. Hence, the allowable cost of this field was £8,700 x 6/18 = £2,900.
+
+It was necessary for the company to give an undertaking that it was accepted that the allowable expenditure relating to the three remaining fields was £8,700 - £2,900, that is £5,800.
+
+1965 election (companies only)
+
+TCGA92/Sch 2/Para 17
+
+Where the special practice applies, the taxpayer can elect under TCGA92/Sch 2/Para 17 for a valuation at 6 April 1965. Such an election in respect of a particular part-disposal will not mean that the taxpayer is committed to paragraph 17 schedule 2 treatment in respect of a subsequent disposal, or part-disposal, of the land. This is because under the special practice, the land sold is treated as a separate asset.
+
+Similarly, if the part-disposal is of land with development value, and hence TCGA92/Sch 2/Para 9 applies, the mandatory valuation at 6 April 1965 need only apply to the part sold.
+
+Procedure
+
+If a computation based on the practice above is received, and the apportionment of the expenditure appears reasonable, that apportionment should be accepted.
+
+If an apportionment is received which appears unreasonable, the Valuation Office should be consulted on an informal basis. No special form is provided, the request for advice should be made by way of a memo setting out the relevant facts and the reason for the request.
+
+If it is not possible to agree the apportionment in any particular case, that case will have to go to appeal on the strict basis, that is on the basis of applying the A / (A + B) formula in TCGA92/S42. Any such appeal will lie to the Lands Tribunal, not to the First-tier Tribunal, see CG74500 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg74500).
+
+When the practice above is applied to a particular holding of land, it is not necessary to agree the costs of each constituent part of that holding, for example each field on a farm. However, care should be taken to ensure that a realistic part of the total expenditure is apportioned to each part disposed of.
+
+In each case in which the practice above is applied, a record should be maintained to ensure:
+
+- that the total amounts allowed do not exceed the original cost or value of the entire holding; and
+
+- that where TCGA92/Sch 2/Para 9 or TCGA92/Sch 2/Para 17 are applied, an allowable loss does not accrue where there was in fact an overall gain.
+
+Ultimately, the total costs of the parts disposed of must not exceed the total cost of the entire holding.

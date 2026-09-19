@@ -1,0 +1,42 @@
+Lifetime transfers: the charge to tax: additional charges: cumulation
+Identifier: IHTM14573
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14573
+Published: 2016-04-09T09:20:02+01:00
+Updated: 2016-02-11T17:03:26+00:00
+Retrieved (UTC): 2026-09-18T14:57:59.534920+00:00
+
+For additional charges, you need to recalculate tax using cumulation as you would with a failed Potentially Exempt Transfer (PET) (IHTM14513 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14513)). In addition to immediately chargeable transfers in the seven years prior to this transfer, you need to include any PETs made:
+
+- before the transfer and
+
+- within seven years of the death.
+
+Example
+
+Bernie transferred £250,000 to a discretionary trust on 1 April 2010.
+
+Bernie had previously made the following transfers
+
+June 2003 - £30,000 to his son, Charlie (PET)
+
+Oct 2005 - £80,000 to a discretionary trust (chargeable when made)
+
+July 2008 - £60,000 to his daughter, Debbie (PET)
+
+Bernie died in May 2012
+
+Bernie’s death turns the July 2008 PET into a chargeable transfer. The cumulation for recalculating the tax charge on the April 2010 transfer is:
+
+Previous chargeable transfers
+
+Oct 2005 |  £80,000 |
+
+|    |
+
+July 2008 |  £60,000 |
+
+April 2010 |  £250,000 |
+
+Total |  £390,000 |
+
+The June 2003 transfer is omitted because it is outside seven years from the date of death. It is a successful PET.

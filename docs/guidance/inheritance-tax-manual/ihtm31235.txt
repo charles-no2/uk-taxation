@@ -1,0 +1,58 @@
+Assessing: COMPASS: chargeable lifetime transfers: creating a record for an immediately chargeable transfer
+Identifier: IHTM31235
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31235
+Published: 2016-04-09T10:03:56+01:00
+Updated: 2022-01-31T10:22:19+00:00
+Retrieved (UTC): 2026-09-18T15:06:01.980679+00:00
+
+First of all you will need to ensure that there is a lifetime reference (IHTM31234 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31234)) you can use to create the COMPASS record.
+
+If there has already been a lifetime file for the deceased, use this reference. This lifetime file will have been cancelled to the death reference when we were told the transferor has died. The lifetime reference will have been cancelled on ALF but you should still use it for COMPASS purposes.
+
+To create the new lifetime case on COMPASS, use the Data Entry (IHTM31102 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31102)) program.
+
+When the Data Entry window appears, select Register from the File menu to bring up the Case Details window.
+
+In this window:
+
+- enter the lifetime reference,
+
+- choose ‘Life’ as the case type from the dropdown menu,
+
+- enter the personal details,
+
+- select ‘Next Screen’
+
+In the next window (Case Details (cont)) change the Marital Status and Domicile if necessary and select ‘OK’.
+
+Confirm that you want to save the case. The new lifetime case will be automatically allocated to you.
+
+Leave the Data Entry program by choosing ‘Exit’ from the File menu.
+
+The new case will not be displayed in the Case Index window in Case Work unless you have selected Registered cases as one of the case types to display. Use the Options button to bring up the Display Options window and select ‘Case Registered’ from the Case Status section.
+
+When you return to the Case Index window, highlight the Lifetime reference case and select the Estate Details icon on the toolbar or ‘Estate’ from the Amend menu.
+
+Before you can insert the assets, liabilities and exemptions you will need to set up an Entry. The first entry on a lifetime case is always entry B. Select the Add button in the Entry section. COMPASS will bring up the following message ‘Case Working: This is a Registered Case: Creating an Entry will automatically change the case to an Open status: Do you wish to create the first Entry?’.
+
+Select ‘Yes’. In the Entry - Add window:
+
+- enter a description of the transfer, for example, Gift to J Brown.
+
+- select the Statistics type of transfer from the dropdown menu in the next box, and
+
+- enter the date of transfer.
+
+Select the ‘OK’ button. This will return you to the Estate Details window.
+
+An NIOP assessment group will be automatically set up at the entry. Create new assessment groups (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)) as usual.
+
+Linking lifetime and death files
+
+You must make sure the COMPASS records for the life and death aspects are linked on COMPASS.
+
+In the Case Index window, highlight one of the cases and select ‘Link’ from the File menu to bring up the Linked Cases window.
+
+Select the Add button. In the Link Case window enter the ALF Reference of the other case and select ‘OK’.
+
+This will not only show that this case is linked to the other, but when you view the Case Summary for the other case, you will see that a similar cross reference has been set up.

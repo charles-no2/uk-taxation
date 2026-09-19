@@ -1,0 +1,30 @@
+Domicile: election by non-UK domiciled spouse or civil partner: process for dealing with elections
+Identifier: IHTM13044
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13044
+Published: 2016-04-09T09:16:19+01:00
+Updated: 2025-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:57:14.178860+00:00
+
+From 6 April 2025, for inheritance tax purposes, domicile is replaced by long-term UK residence and you can find details of these rules at IHTM47000 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47000). Details of spousal elections under the new rules are at IHTM47031 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47031). Transitional rules will apply to existing domicile elections and details are at IHTM47041 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47041).
+
+Lifetime election
+
+When Risk receive a lifetime election (IHTM13042 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13042)) from a person who is not domiciled in the UK, they will ask the registry to set up a record on ALF for the person making the election, using the XA case type and the prefix XDOM. The record should contain:
+
+- the name of the person making the election, and
+
+- their date of birth.
+
+The name of their spouse or civil partner who is domiciled in the UK should be added as an alternative name on the record. The registry will send SL15 to the person who sent the election, acknowledging receipt and telling them the reference number. The election should be kept, together with all other elections, in the registry.
+
+Election on death of first spouse or civil partner
+
+Where you receive a death election (IHTM13042 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13042)) from a person who is not domiciled in the UK following the death of their UK-domiciled spouse or civil partner, you should ask the registry to set up a record, send SL15 and keep the election as above. If a record already exists for the spouse or civil partner who has died, the registry should make a copy of the election and refer the case to the caseworker who is dealing with the record for the deceased spouse or civil partner and include the XDOM reference.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13044#Top)
+
+Election on death of second spouse or civil partner
+
+Where a death election is received from the personal representatives of a person who is not domiciled in the UK and a record exists for the person to whom the election applies, it should be uploaded to the case record. If a record does not exist, one should be created.
+
+As an election will only be made by the personal representatives where the UK-domiciled spouse or civil partner has already died; the two records should be cross referenced for risk assessment.

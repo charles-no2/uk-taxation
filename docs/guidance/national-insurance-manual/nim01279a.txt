@@ -1,0 +1,64 @@
+Class 1 Structural Overview - from April 2009: Structural changes: the Class 1 and 2 maximum: Examples: 2023-24 tax year
+Identifier: NIM01279A
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01279a
+Published: 2024-01-05T16:31:54+00:00
+Updated: 2024-04-04T14:29:13+01:00
+Retrieved (UTC): 2026-09-18T15:18:12.435685+00:00
+
+As mentioned in NIM01251 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01251), the annual maximum rules are modified for the 2023 to 2024 tax year.
+
+Example 9
+
+An employee has two separate employments. Their total earnings for the 2023 to 2024 tax year are £100,000. They are paid monthly in each job and receives the same amount of earnings in each earnings period. Their maximum Class 1 liability is calculated as follows:
+
+Step 1
+
+Deduct the relevant Primary Threshold from the relevant UEL and multiply that figure by 53.
+
+967 - 242 = 725 x 53 = 38,425
+
+Step 2
+
+Multiply the result of step 1 by 11.5% (because the calculation is for the 2023 to 2024 tax year)
+
+38,425 x 11.5% = 4,418.88
+
+Step 3
+
+Add together so much of the person’s earnings from each employed earner’s employment as exceeded the Primary Threshold but did not exceed the Upper Earnings Limit at the time the payment of earnings was made.
+
+The earnings between the PT and the UEL for the first employment is £37,430. The same is the case for the second employment. The result of this step is therefore 74,860
+
+Step 4
+
+Deduct from the total found at step 3 the amount produced by step 1
+
+74,860 - 38,425 = 36,435
+
+Step 5
+
+If the figure produced at step 4 is a positive figure multiply that figure by 2%.
+
+If the figure produced at step 4 is a negative figure, it is treated for the purposes of step 8 as nil
+
+36,435 x 2% = 728.70
+
+Step 6
+
+Add together so much of the person’s earnings from each employment as exceeded the Upper Earnings Limit.
+
+The employee did not have any earnings above the Upper Earnings Limit in each individual employment, so the result of this step is 0.
+
+Step 7
+
+Multiply the result of step 6 by 2%.
+
+0 x 2% = 0
+
+Step 8
+
+Add together the results of steps 2, 5 and 7.
+
+4,418.88 + 728.70 + 0 = 5,147.58
+
+The employee’s maximum for the 2023 to 2024 tax year is £5,147.58

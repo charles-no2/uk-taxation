@@ -1,0 +1,130 @@
+Termination payments and benefits: example: interaction with benefits received during employment: Section 401 ITEPA 2003 and Part 3 Chapter 6 ITEPA 2003
+Identifier: EIM13906
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13906
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-03-25T10:24:45+00:00
+Retrieved (UTC): 2026-09-18T14:10:39.702355+00:00
+
+Section 401 and Part 3 Chapter 6 ITEPA 2003 (car benefits)
+
+Benefits given during employment can continue after it. This example shows how to calculate the taxable amounts for the year of assessment in which the termination occurs where Part 3 Chapter 6 ITEPA 2003 (car benefits) is involved. There is another example at EIM13905 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13905) where Part 3 Chapter 10 ITEPA 2003 is involved.
+
+An employer agrees to continue the provision of private use of a car for 2 years following termination of employment on 5 July 2023. A cash termination payment of £25,000 is also agreed. EIM24000 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24000) onwards explains the calculation of the benefit for the tax year 2022 to 2023 under the benefits code. The price of the car is £22,500 (calculated as in EIM24010 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24010)). The cash equivalent of the benefit for the tax year 2023 to 2024 under Part 3 Chapter 6 ITEPA 2003 up to the date of termination is as follows, see EIM23700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23700).
+
+Calculation during employment | Calculation | Cost |
+
+Appropriate percentage of price of the car (CO2 emissions 155g/km, EIM24700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24700))
+
+|
+
+£22,500 × 15%
+
+|
+
+£3,375
+
+|
+
+Time apportionment (see EIM23700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23700) and EIM25100 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25100))
+
+|
+
+£3,375 × 275/366
+
+|
+
+£2,536
+
+|
+
+None
+
+|
+
+None
+
+|
+
+£839
+
+|
+
+The Section 401 ITEPA 2003 charge for the period after termination uses the same cash equivalent rules (see EIM13270 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13270)) and so is identical except for the time-apportionment element. The calculation is then:
+
+Calculation post termination of employment | Calculations  | Cost |
+
+Appropriate percentage of price of the car (see EIM24700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim24700))
+
+|
+
+£22,500 × 15%
+
+|
+
+£3,375
+
+|
+
+Time apportionment (see EIM23700 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim23700) and EIM25100 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim25100))
+
+|
+
+£3,375 × 91/366
+
+|
+
+£839
+
+|
+
+Total
+
+|
+
+None
+
+|
+
+£2,536
+
+|
+
+Threshold (see EIM13505 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim13505))
+
+|
+
+None
+
+|
+
+£2,536
+
+|
+
+Section 401 ITEPA 2003
+
+|
+
+None
+
+|
+
+nil
+
+|
+
+None
+
+|
+
+Threshold carried forward to 2024 to 2025 = £30,000 less £25,000 less £2,536 = £2,464
+
+|
+
+nil
+
+|
+
+So, the amount chargeable for the tax year 2023 to 2024 is £839 plus nil = £839.
+
+For the period following the date of termination of the employment, the benefit of the use of the car should be reported by the employer in accordance with the guidance at PAYE74015 (https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fhmrc-internal-manuals%2Fpaye-manual%2Fpaye74015&data=05%7C01%7Cmohammed.uddin1%40hmrc.gov.uk%7C515d5110c6a74ebe0d4c08dbd6e31334%7Cac52f73cfd1a4a9a8e7a4a248f3139e1%7C0%7C0%7C638340042986143563%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=8PvkHXWpiIXtpuRJ1QVN%2FrEUiAJzjhtOlTs2Sz28Qx0%3D&reserved=0). The former employee should report the taxable value on their self-assessment tax return.

@@ -1,0 +1,84 @@
+Lifetime transfers: specific lifetime reliefs: potentially exempt transfers (PETs): calculations
+Identifier: IHTM14704
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14704
+Published: 2016-04-09T09:21:26+01:00
+Updated: 2022-02-07T10:26:06+00:00
+Retrieved (UTC): 2026-09-18T14:58:15.317552+00:00
+
+You must make separate calculations of the total tax payable as a result of the death
+
+- charging the reacquired property in the death estate but ignoring the lifetime charge on the failed PET
+
+- charging the PET as a lifetime transfer but ignoring the reacquired property in the death estate.
+
+Retain the charge on the calculation which produces the higher amount of tax.
+
+Note that the comparison is not between the tax payable on the failed PET and the tax payable on the reacquired property, but between the total tax payable on the death on the two bases.
+
+Example
+
+July 2007: Aaron makes a PET of £300,000 to Beccy.
+
+January 2008: Aaron makes an immediately chargeable gift of £340,000 to a discretionary trust. The tax on £340,000 at half death rates is £8,000.
+
+May 2009: Beccy dies leaving an estate of £325,000 which passes wholly to Aaron
+
+May 2010: Aaron dies leaving an estate of £700,000, no part of which is exempt.
+
+First calculation
+
+Ignore the lifetime charge on the failed PET and charge the returned £300,000 as part of Aaron’s estate on death:
+
+July 2007: £300,000 PET is ignored so tax is Nil.
+
+Jan 2008: £340,000 chargeable transfer
+
+£340,000 - £325,000 (nil-rate band at date of death) = £15,000 x 40% = £6,000
+
+This is less then the lifetime tax of £8,000, so additional tax is nil.
+
+On death in May 2010:
+
+Jan 2008 transfer = £340,000
+
+Death estate = £700,000
+
+Total = £1,040,000
+
+£1,040,000 - £325,000 (nil-rate band at date of death) = £715,000 x 40% = £286,000
+
+Less £6,000 tax on £340,000 transfer = £280,000
+
+Nil plus £280,000 is therefore the total amount of tax to pay as a result of Aaron’s death = £280,000.
+
+Second calculation
+
+Charge the failed PET but ignore the £300,000 returned to Aarons’s estate on Beccy’s death:
+
+July 2007: £300,000 PET is sub-threshold and tax is Nil
+
+Jan 2008: £340,000 chargeable transfer
+
+Total of chargeable transfers = £640,000
+
+£640,000 - £325,000 (nil-rate band at date of death) = £315,000 x 40% = £126,000
+
+Less tax on £300,000 (Nil) and less lifetime tax paid (£8,000) = £118,000
+
+On death in May 2010:
+
+2007 PET = £300,000
+
+2008 transfer = £340,000
+
+Death estate (ignoring returned £300,000) = £400,000
+
+Total = £1,040,000
+
+£1,040,000 - £325,000 (nil-rate band at date of death) = £715,000 x 40% = £286,000
+
+Less £126,000 tax on £640,000 = £160,000
+
+£160,000 plus £118,000 = £278,000 is therefore the total tax to pay as a result of Aaron’s death.
+
+The first calculation is the preferred option, so you would retain that tax calculation and reduce the second to nil.

@@ -1,0 +1,1621 @@
+{
+  "manual": "property-income-manual",
+  "source": "https://www.gov.uk/hmrc-internal-manuals/property-income-manual",
+  "pages": {
+    "/hmrc-internal-manuals/property-income-manual": {
+      "file": "index.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim0500",
+        "/hmrc-internal-manuals/property-income-manual/pim1000",
+        "/hmrc-internal-manuals/property-income-manual/pim1050",
+        "/hmrc-internal-manuals/property-income-manual/pim1090",
+        "/hmrc-internal-manuals/property-income-manual/pim1100",
+        "/hmrc-internal-manuals/property-income-manual/pim1110",
+        "/hmrc-internal-manuals/property-income-manual/pim1200",
+        "/hmrc-internal-manuals/property-income-manual/pim1210",
+        "/hmrc-internal-manuals/property-income-manual/pim1900",
+        "/hmrc-internal-manuals/property-income-manual/pim2500",
+        "/hmrc-internal-manuals/property-income-manual/pim3010",
+        "/hmrc-internal-manuals/property-income-manual/pim3200",
+        "/hmrc-internal-manuals/property-income-manual/pim4000",
+        "/hmrc-internal-manuals/property-income-manual/pim4100",
+        "/hmrc-internal-manuals/property-income-manual/pim4200",
+        "/hmrc-internal-manuals/property-income-manual/pim4230",
+        "/hmrc-internal-manuals/property-income-manual/pim4300",
+        "/hmrc-internal-manuals/property-income-manual/pim4400",
+        "/hmrc-internal-manuals/property-income-manual/pim4700",
+        "/hmrc-internal-manuals/property-income-manual/pim4800",
+        "/hmrc-internal-manuals/property-income-manual/pimfeedback",
+        "/hmrc-internal-manuals/property-income-manual/pim7000"
+      ],
+      "retrieved_at": "2026-09-18T14:06:31.646398+00:00",
+      "updated_at": "2026-05-21T15:38:32+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim0500": {
+      "file": "pim0500.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:06:31.988079+00:00",
+      "updated_at": "2024-07-18T15:10:18+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1000": {
+      "file": "pim1000.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim1001",
+        "/hmrc-internal-manuals/property-income-manual/pim1003",
+        "/hmrc-internal-manuals/property-income-manual/pim1005",
+        "/hmrc-internal-manuals/property-income-manual/pim1010",
+        "/hmrc-internal-manuals/property-income-manual/pim1015",
+        "/hmrc-internal-manuals/property-income-manual/pim1020",
+        "/hmrc-internal-manuals/property-income-manual/pim1025",
+        "/hmrc-internal-manuals/property-income-manual/pim1030",
+        "/hmrc-internal-manuals/property-income-manual/pim1035",
+        "/hmrc-internal-manuals/property-income-manual/pim1040",
+        "/hmrc-internal-manuals/property-income-manual/pim1045"
+      ],
+      "retrieved_at": "2026-09-18T14:06:32.327432+00:00",
+      "updated_at": "2025-06-09T11:58:43+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1050": {
+      "file": "pim1050.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim1051",
+        "/hmrc-internal-manuals/property-income-manual/pim1052",
+        "/hmrc-internal-manuals/property-income-manual/pim1054",
+        "/hmrc-internal-manuals/property-income-manual/pim1056",
+        "/hmrc-internal-manuals/property-income-manual/pim1058",
+        "/hmrc-internal-manuals/property-income-manual/pim1060",
+        "/hmrc-internal-manuals/property-income-manual/pim1070",
+        "/hmrc-internal-manuals/property-income-manual/pim1075",
+        "/hmrc-internal-manuals/property-income-manual/pim1080"
+      ],
+      "retrieved_at": "2026-09-18T14:27:29.768833+00:00",
+      "updated_at": "2019-06-10T09:24:42+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1090": {
+      "file": "pim1090.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim1092",
+        "/hmrc-internal-manuals/property-income-manual/pim1093",
+        "/hmrc-internal-manuals/property-income-manual/pim1094",
+        "/hmrc-internal-manuals/property-income-manual/pim1095",
+        "/hmrc-internal-manuals/property-income-manual/pim1096",
+        "/hmrc-internal-manuals/property-income-manual/pim1098"
+      ],
+      "retrieved_at": "2026-09-18T14:27:30.127050+00:00",
+      "updated_at": "2025-07-15T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1100": {
+      "file": "pim1100.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim1101",
+        "/hmrc-internal-manuals/property-income-manual/pim1102",
+        "/hmrc-internal-manuals/property-income-manual/pim1103",
+        "/hmrc-internal-manuals/property-income-manual/pim1104",
+        "/hmrc-internal-manuals/property-income-manual/pim1106"
+      ],
+      "retrieved_at": "2026-09-18T14:27:30.500017+00:00",
+      "updated_at": "2022-02-10T11:53:06+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1110": {
+      "file": "pim1110.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim1112",
+        "/hmrc-internal-manuals/property-income-manual/pim1113",
+        "/hmrc-internal-manuals/property-income-manual/pim1114",
+        "/hmrc-internal-manuals/property-income-manual/pim1115",
+        "/hmrc-internal-manuals/property-income-manual/pim1117",
+        "/hmrc-internal-manuals/property-income-manual/pim1118"
+      ],
+      "retrieved_at": "2026-09-18T14:27:30.874530+00:00",
+      "updated_at": "2025-02-04T14:16:55+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1200": {
+      "file": "pim1200.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim1202",
+        "/hmrc-internal-manuals/property-income-manual/pim1203",
+        "/hmrc-internal-manuals/property-income-manual/pim1204",
+        "/hmrc-internal-manuals/property-income-manual/pim1205",
+        "/hmrc-internal-manuals/property-income-manual/pim1206",
+        "/hmrc-internal-manuals/property-income-manual/pim1207",
+        "/hmrc-internal-manuals/property-income-manual/pim1208",
+        "/hmrc-internal-manuals/property-income-manual/pim1209"
+      ],
+      "retrieved_at": "2026-09-18T14:27:31.251096+00:00",
+      "updated_at": "2018-12-14T01:28:14+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1210": {
+      "file": "pim1210.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim1211",
+        "/hmrc-internal-manuals/property-income-manual/pim1212",
+        "/hmrc-internal-manuals/property-income-manual/pim1214",
+        "/hmrc-internal-manuals/property-income-manual/pim1216",
+        "/hmrc-internal-manuals/property-income-manual/pim1218",
+        "/hmrc-internal-manuals/property-income-manual/pim1220",
+        "/hmrc-internal-manuals/property-income-manual/pim1222",
+        "/hmrc-internal-manuals/property-income-manual/pim1224",
+        "/hmrc-internal-manuals/property-income-manual/pim1226",
+        "/hmrc-internal-manuals/property-income-manual/pim1228",
+        "/hmrc-internal-manuals/property-income-manual/pim1230",
+        "/hmrc-internal-manuals/property-income-manual/pim1232"
+      ],
+      "retrieved_at": "2026-09-18T14:27:31.606729+00:00",
+      "updated_at": "2022-10-12T15:36:45+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1900": {
+      "file": "pim1900.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim2000",
+        "/hmrc-internal-manuals/property-income-manual/pim2020",
+        "/hmrc-internal-manuals/property-income-manual/pim2050",
+        "/hmrc-internal-manuals/property-income-manual/pim2068",
+        "/hmrc-internal-manuals/property-income-manual/pim2230",
+        "/hmrc-internal-manuals/property-income-manual/pim2330",
+        "/hmrc-internal-manuals/property-income-manual/pim2340"
+      ],
+      "retrieved_at": "2026-09-18T14:27:31.964940+00:00",
+      "updated_at": "2020-06-12T09:55:24+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2500": {
+      "file": "pim2500.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim2505",
+        "/hmrc-internal-manuals/property-income-manual/pim2510",
+        "/hmrc-internal-manuals/property-income-manual/pim3000"
+      ],
+      "retrieved_at": "2026-09-18T14:27:32.332385+00:00",
+      "updated_at": "2024-12-20T09:29:59+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim3010": {
+      "file": "pim3010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:32.692472+00:00",
+      "updated_at": "2025-03-17T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim3200": {
+      "file": "pim3200.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim3205",
+        "/hmrc-internal-manuals/property-income-manual/pim3210",
+        "/hmrc-internal-manuals/property-income-manual/pim3215",
+        "/hmrc-internal-manuals/property-income-manual/pim3220",
+        "/hmrc-internal-manuals/property-income-manual/pim3230"
+      ],
+      "retrieved_at": "2026-09-18T14:27:33.063341+00:00",
+      "updated_at": "2020-07-10T11:11:59+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4000": {
+      "file": "pim4000.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim4001",
+        "/hmrc-internal-manuals/property-income-manual/pim4002",
+        "/hmrc-internal-manuals/property-income-manual/pim4004",
+        "/hmrc-internal-manuals/property-income-manual/pim4010",
+        "/hmrc-internal-manuals/property-income-manual/pim4012",
+        "/hmrc-internal-manuals/property-income-manual/pim4015",
+        "/hmrc-internal-manuals/property-income-manual/pim4020",
+        "/hmrc-internal-manuals/property-income-manual/pim4030",
+        "/hmrc-internal-manuals/property-income-manual/pim4040",
+        "/hmrc-internal-manuals/property-income-manual/pim4050"
+      ],
+      "retrieved_at": "2026-09-18T14:27:33.414158+00:00",
+      "updated_at": "2020-06-23T10:36:17+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4100": {
+      "file": "pim4100.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim4105",
+        "/hmrc-internal-manuals/property-income-manual/pim4110",
+        "/hmrc-internal-manuals/property-income-manual/pim4112",
+        "/hmrc-internal-manuals/property-income-manual/pim4115",
+        "/hmrc-internal-manuals/property-income-manual/pim4120",
+        "/hmrc-internal-manuals/property-income-manual/pim4140",
+        "/hmrc-internal-manuals/property-income-manual/pim4150",
+        "/hmrc-internal-manuals/property-income-manual/pim4160"
+      ],
+      "retrieved_at": "2026-09-18T14:27:33.792044+00:00",
+      "updated_at": "2025-04-02T10:28:31+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4200": {
+      "file": "pim4200.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim4205",
+        "/hmrc-internal-manuals/property-income-manual/pim4210",
+        "/hmrc-internal-manuals/property-income-manual/pim4220",
+        "/hmrc-internal-manuals/property-income-manual/pim4222",
+        "/hmrc-internal-manuals/property-income-manual/pim4224",
+        "/hmrc-internal-manuals/property-income-manual/pim4228"
+      ],
+      "retrieved_at": "2026-09-18T14:27:34.165062+00:00",
+      "updated_at": "2020-06-05T08:13:09+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4230": {
+      "file": "pim4230.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim4235",
+        "/hmrc-internal-manuals/property-income-manual/pim4236",
+        "/hmrc-internal-manuals/property-income-manual/pim4238",
+        "/hmrc-internal-manuals/property-income-manual/pim4240",
+        "/hmrc-internal-manuals/property-income-manual/pim4250"
+      ],
+      "retrieved_at": "2026-09-18T14:27:34.537686+00:00",
+      "updated_at": "2020-05-20T15:21:29+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4300": {
+      "file": "pim4300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:34.931273+00:00",
+      "updated_at": "2025-07-25T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4400": {
+      "file": "pim4400.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim4410",
+        "/hmrc-internal-manuals/property-income-manual/pim4420",
+        "/hmrc-internal-manuals/property-income-manual/pim4430",
+        "/hmrc-internal-manuals/property-income-manual/pim4440",
+        "/hmrc-internal-manuals/property-income-manual/pim4450",
+        "/hmrc-internal-manuals/property-income-manual/pim4470",
+        "/hmrc-internal-manuals/property-income-manual/pim4480"
+      ],
+      "retrieved_at": "2026-09-18T14:27:35.285349+00:00",
+      "updated_at": "2018-04-03T11:06:24+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4700": {
+      "file": "pim4700.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim4702",
+        "/hmrc-internal-manuals/property-income-manual/pim4703"
+      ],
+      "retrieved_at": "2026-09-18T14:27:35.641753+00:00",
+      "updated_at": "2020-11-27T15:03:23+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4800": {
+      "file": "pim4800.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim4810",
+        "/hmrc-internal-manuals/property-income-manual/pim4820",
+        "/hmrc-internal-manuals/property-income-manual/pim4830",
+        "/hmrc-internal-manuals/property-income-manual/pim4840",
+        "/hmrc-internal-manuals/property-income-manual/pim4850",
+        "/hmrc-internal-manuals/property-income-manual/pim4860",
+        "/hmrc-internal-manuals/property-income-manual/pim4870",
+        "/hmrc-internal-manuals/property-income-manual/pim4880",
+        "/hmrc-internal-manuals/property-income-manual/pim4890"
+      ],
+      "retrieved_at": "2026-09-18T14:27:36.016977+00:00",
+      "updated_at": "2023-07-17T09:45:58+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pimfeedback": {
+      "file": "pimfeedback.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:36.391586+00:00",
+      "updated_at": "2023-07-25T12:47:43+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim7000": {
+      "file": "pim7000.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim7020",
+        "/hmrc-internal-manuals/property-income-manual/pim7030",
+        "/hmrc-internal-manuals/property-income-manual/pim7040",
+        "/hmrc-internal-manuals/property-income-manual/pim7050",
+        "/hmrc-internal-manuals/property-income-manual/pim7060",
+        "/hmrc-internal-manuals/property-income-manual/pim7070",
+        "/hmrc-internal-manuals/property-income-manual/pim7080",
+        "/hmrc-internal-manuals/property-income-manual/pim7090",
+        "/hmrc-internal-manuals/property-income-manual/pim7100",
+        "/hmrc-internal-manuals/property-income-manual/pim7200",
+        "/hmrc-internal-manuals/property-income-manual/pim7210",
+        "/hmrc-internal-manuals/property-income-manual/pim7250"
+      ],
+      "retrieved_at": "2026-09-18T14:27:36.765635+00:00",
+      "updated_at": "2020-09-24T11:13:15+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1001": {
+      "file": "pim1001.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:37.120125+00:00",
+      "updated_at": "2025-06-09T11:56:25+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1003": {
+      "file": "pim1003.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:37.472402+00:00",
+      "updated_at": "2025-06-09T11:56:27+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1005": {
+      "file": "pim1005.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:37.840887+00:00",
+      "updated_at": "2025-06-09T11:56:28+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1010": {
+      "file": "pim1010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:38.195839+00:00",
+      "updated_at": "2025-06-09T11:56:30+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1015": {
+      "file": "pim1015.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:38.558896+00:00",
+      "updated_at": "2025-06-09T11:56:31+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1020": {
+      "file": "pim1020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:38.929216+00:00",
+      "updated_at": "2025-06-09T12:04:44+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1025": {
+      "file": "pim1025.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:39.296705+00:00",
+      "updated_at": "2025-06-09T11:56:34+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1030": {
+      "file": "pim1030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:39.673883+00:00",
+      "updated_at": "2025-06-09T11:56:36+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1035": {
+      "file": "pim1035.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:40.034623+00:00",
+      "updated_at": "2025-06-09T12:06:38+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1040": {
+      "file": "pim1040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:40.406007+00:00",
+      "updated_at": "2025-06-09T12:07:11+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1045": {
+      "file": "pim1045.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:40.764771+00:00",
+      "updated_at": "2025-06-09T11:56:40+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1051": {
+      "file": "pim1051.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:41.155192+00:00",
+      "updated_at": "2025-07-25T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1052": {
+      "file": "pim1052.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:41.520537+00:00",
+      "updated_at": "2020-05-01T08:46:31+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1054": {
+      "file": "pim1054.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:41.890312+00:00",
+      "updated_at": "2022-12-13T09:42:06+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1056": {
+      "file": "pim1056.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:42.268434+00:00",
+      "updated_at": "2020-05-01T08:59:30+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1058": {
+      "file": "pim1058.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:42.630403+00:00",
+      "updated_at": "2023-12-19T12:51:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1060": {
+      "file": "pim1060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:42.994268+00:00",
+      "updated_at": "2020-05-01T09:36:31+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1070": {
+      "file": "pim1070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:43.371648+00:00",
+      "updated_at": "2024-12-13T10:43:56+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1075": {
+      "file": "pim1075.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:43.739191+00:00",
+      "updated_at": "2025-01-21T11:46:13+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1080": {
+      "file": "pim1080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:44.116400+00:00",
+      "updated_at": "2018-12-14T01:28:14+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1092": {
+      "file": "pim1092.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:44.476461+00:00",
+      "updated_at": "2026-06-12T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1093": {
+      "file": "pim1093.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:44.868958+00:00",
+      "updated_at": "2025-07-15T11:26:03+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1094": {
+      "file": "pim1094.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:45.245454+00:00",
+      "updated_at": "2025-07-24T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1095": {
+      "file": "pim1095.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:45.606640+00:00",
+      "updated_at": "2025-07-24T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1096": {
+      "file": "pim1096.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:46.005072+00:00",
+      "updated_at": "2025-07-24T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1098": {
+      "file": "pim1098.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:46.383225+00:00",
+      "updated_at": "2025-07-25T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1101": {
+      "file": "pim1101.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:46.748449+00:00",
+      "updated_at": "2021-10-22T09:01:26+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1102": {
+      "file": "pim1102.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:47.164395+00:00",
+      "updated_at": "2024-12-13T13:36:35+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1103": {
+      "file": "pim1103.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:47.526495+00:00",
+      "updated_at": "2024-12-13T13:44:07+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1104": {
+      "file": "pim1104.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:47.905190+00:00",
+      "updated_at": "2024-12-13T13:24:14+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1106": {
+      "file": "pim1106.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:48.279996+00:00",
+      "updated_at": "2024-12-06T14:36:41+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1112": {
+      "file": "pim1112.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:48.657044+00:00",
+      "updated_at": "2025-02-04T14:14:42+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1113": {
+      "file": "pim1113.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:49.017473+00:00",
+      "updated_at": "2025-02-04T14:14:43+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1114": {
+      "file": "pim1114.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:49.381998+00:00",
+      "updated_at": "2025-02-04T14:14:44+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1115": {
+      "file": "pim1115.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:49.745464+00:00",
+      "updated_at": "2025-02-05T14:46:48+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1117": {
+      "file": "pim1117.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:50.115853+00:00",
+      "updated_at": "2025-02-04T14:14:46+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1118": {
+      "file": "pim1118.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:50.490197+00:00",
+      "updated_at": "2025-02-04T14:14:48+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1202": {
+      "file": "pim1202.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:50.862864+00:00",
+      "updated_at": "2023-12-07T10:44:51+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1203": {
+      "file": "pim1203.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:51.225843+00:00",
+      "updated_at": "2020-11-18T08:19:06+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1204": {
+      "file": "pim1204.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:51.598597+00:00",
+      "updated_at": "2020-05-20T16:33:04+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1205": {
+      "file": "pim1205.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:51.971307+00:00",
+      "updated_at": "2020-05-21T15:36:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1206": {
+      "file": "pim1206.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:52.346106+00:00",
+      "updated_at": "2022-12-13T09:33:03+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1207": {
+      "file": "pim1207.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:52.706099+00:00",
+      "updated_at": "2022-12-13T09:32:06+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1208": {
+      "file": "pim1208.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:53.069284+00:00",
+      "updated_at": "2022-12-13T09:48:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1209": {
+      "file": "pim1209.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:53.452192+00:00",
+      "updated_at": "2022-12-13T09:36:32+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1211": {
+      "file": "pim1211.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:53.819329+00:00",
+      "updated_at": "2024-09-27T13:33:35+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1212": {
+      "file": "pim1212.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:54.207234+00:00",
+      "updated_at": "2018-12-14T08:49:32+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1214": {
+      "file": "pim1214.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:54.589466+00:00",
+      "updated_at": "2020-08-07T11:34:15+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1216": {
+      "file": "pim1216.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:54.960207+00:00",
+      "updated_at": "2020-08-07T12:48:25+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1218": {
+      "file": "pim1218.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:55.331381+00:00",
+      "updated_at": "2024-09-27T13:37:01+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1220": {
+      "file": "pim1220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:55.725080+00:00",
+      "updated_at": "2020-06-05T11:49:04+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1222": {
+      "file": "pim1222.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:56.104122+00:00",
+      "updated_at": "2024-09-27T13:28:58+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1224": {
+      "file": "pim1224.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:56.473781+00:00",
+      "updated_at": "2021-12-20T13:45:51+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1226": {
+      "file": "pim1226.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:56.832529+00:00",
+      "updated_at": "2021-12-20T13:49:49+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1228": {
+      "file": "pim1228.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:57.207599+00:00",
+      "updated_at": "2020-06-05T12:28:51+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1230": {
+      "file": "pim1230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:57.569912+00:00",
+      "updated_at": "2023-01-11T13:43:01+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim1232": {
+      "file": "pim1232.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:27:57.956111+00:00",
+      "updated_at": "2022-12-13T09:34:05+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2000": {
+      "file": "pim2000.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim2005",
+        "/hmrc-internal-manuals/property-income-manual/pim2010"
+      ],
+      "retrieved_at": "2026-09-18T14:27:58.333900+00:00",
+      "updated_at": "2020-06-12T09:56:52+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2020": {
+      "file": "pim2020.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim2025",
+        "/hmrc-internal-manuals/property-income-manual/pim2030",
+        "/hmrc-internal-manuals/property-income-manual/pim2040"
+      ],
+      "retrieved_at": "2026-09-18T14:27:58.700498+00:00",
+      "updated_at": "2020-06-12T10:21:19+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2050": {
+      "file": "pim2050.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim2052",
+        "/hmrc-internal-manuals/property-income-manual/pim2054",
+        "/hmrc-internal-manuals/property-income-manual/pim2056",
+        "/hmrc-internal-manuals/property-income-manual/pim2058",
+        "/hmrc-internal-manuals/property-income-manual/pim2060",
+        "/hmrc-internal-manuals/property-income-manual/pim2064",
+        "/hmrc-internal-manuals/property-income-manual/pim2066"
+      ],
+      "retrieved_at": "2026-09-18T14:27:59.090760+00:00",
+      "updated_at": "2020-06-12T10:40:06+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2068": {
+      "file": "pim2068.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim2070",
+        "/hmrc-internal-manuals/property-income-manual/pim2072",
+        "/hmrc-internal-manuals/property-income-manual/pim2074",
+        "/hmrc-internal-manuals/property-income-manual/pim2076",
+        "/hmrc-internal-manuals/property-income-manual/pim2078",
+        "/hmrc-internal-manuals/property-income-manual/pim2080",
+        "/hmrc-internal-manuals/property-income-manual/pim2082",
+        "/hmrc-internal-manuals/property-income-manual/pim2100",
+        "/hmrc-internal-manuals/property-income-manual/pim2105",
+        "/hmrc-internal-manuals/property-income-manual/pim2106",
+        "/hmrc-internal-manuals/property-income-manual/pim2110",
+        "/hmrc-internal-manuals/property-income-manual/pim2120",
+        "/hmrc-internal-manuals/property-income-manual/pim2130",
+        "/hmrc-internal-manuals/property-income-manual/pim2140",
+        "/hmrc-internal-manuals/property-income-manual/pim2200",
+        "/hmrc-internal-manuals/property-income-manual/pim2205",
+        "/hmrc-internal-manuals/property-income-manual/pim2210",
+        "/hmrc-internal-manuals/property-income-manual/pim2215",
+        "/hmrc-internal-manuals/property-income-manual/pim2220"
+      ],
+      "retrieved_at": "2026-09-18T14:27:59.468298+00:00",
+      "updated_at": "2020-06-19T09:15:15+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2230": {
+      "file": "pim2230.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim2235",
+        "/hmrc-internal-manuals/property-income-manual/pim2240",
+        "/hmrc-internal-manuals/property-income-manual/pim2250",
+        "/hmrc-internal-manuals/property-income-manual/pim2300",
+        "/hmrc-internal-manuals/property-income-manual/pim2305",
+        "/hmrc-internal-manuals/property-income-manual/pim2310",
+        "/hmrc-internal-manuals/property-income-manual/pim2320"
+      ],
+      "retrieved_at": "2026-09-18T14:27:59.846524+00:00",
+      "updated_at": "2025-03-28T15:30:56+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2330": {
+      "file": "pim2330.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:00.223064+00:00",
+      "updated_at": "2020-06-26T11:10:02+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2340": {
+      "file": "pim2340.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:00.578043+00:00",
+      "updated_at": "2020-06-26T11:17:17+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2505": {
+      "file": "pim2505.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:00.930656+00:00",
+      "updated_at": "2025-02-12T08:00:28+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2510": {
+      "file": "pim2510.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:01.351518+00:00",
+      "updated_at": "2024-12-20T09:41:09+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim3000": {
+      "file": "pim3000.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:01.734765+00:00",
+      "updated_at": "2024-12-20T09:43:23+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim3205": {
+      "file": "pim3205.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:02.125166+00:00",
+      "updated_at": "2025-03-17T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim3210": {
+      "file": "pim3210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:02.481929+00:00",
+      "updated_at": "2025-03-17T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim3215": {
+      "file": "pim3215.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:02.863930+00:00",
+      "updated_at": "2018-12-14T01:28:14+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim3220": {
+      "file": "pim3220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:03.238240+00:00",
+      "updated_at": "2018-12-14T01:28:14+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim3230": {
+      "file": "pim3230.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:03.597486+00:00",
+      "updated_at": "2020-06-05T12:51:37+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4001": {
+      "file": "pim4001.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:03.961210+00:00",
+      "updated_at": "2021-08-11T15:22:18+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4002": {
+      "file": "pim4002.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:04.349104+00:00",
+      "updated_at": "2022-12-13T09:40:24+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4004": {
+      "file": "pim4004.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:04.720562+00:00",
+      "updated_at": "2020-09-25T11:34:38+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4010": {
+      "file": "pim4010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:05.091285+00:00",
+      "updated_at": "2024-05-07T10:01:12+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4012": {
+      "file": "pim4012.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:05.456303+00:00",
+      "updated_at": "2022-02-10T12:01:50+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4015": {
+      "file": "pim4015.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:05.816891+00:00",
+      "updated_at": "2025-09-08T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4020": {
+      "file": "pim4020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:06.177322+00:00",
+      "updated_at": "2020-09-25T13:34:20+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4030": {
+      "file": "pim4030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:06.557922+00:00",
+      "updated_at": "2022-08-08T10:24:27+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4040": {
+      "file": "pim4040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:06.916208+00:00",
+      "updated_at": "2020-12-01T08:23:16+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4050": {
+      "file": "pim4050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:07.318263+00:00",
+      "updated_at": "2022-12-13T09:45:49+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4105": {
+      "file": "pim4105.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:07.685629+00:00",
+      "updated_at": "2025-03-17T06:45:04+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4110": {
+      "file": "pim4110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:08.055258+00:00",
+      "updated_at": "2025-05-06T13:29:33+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4112": {
+      "file": "pim4112.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:08.440091+00:00",
+      "updated_at": "2025-03-24T10:43:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4115": {
+      "file": "pim4115.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:08.803411+00:00",
+      "updated_at": "2025-07-22T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4120": {
+      "file": "pim4120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:09.174771+00:00",
+      "updated_at": "2025-03-17T06:45:21+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4140": {
+      "file": "pim4140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:09.564930+00:00",
+      "updated_at": "2025-07-22T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4150": {
+      "file": "pim4150.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:09.956800+00:00",
+      "updated_at": "2025-03-17T06:45:29+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4160": {
+      "file": "pim4160.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim4165",
+        "/hmrc-internal-manuals/property-income-manual/pim4170",
+        "/hmrc-internal-manuals/property-income-manual/pim4175",
+        "/hmrc-internal-manuals/property-income-manual/pim4180",
+        "/hmrc-internal-manuals/property-income-manual/pim4185",
+        "/hmrc-internal-manuals/property-income-manual/pim4190"
+      ],
+      "retrieved_at": "2026-09-18T14:28:10.343193+00:00",
+      "updated_at": "2025-03-17T06:45:53+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4205": {
+      "file": "pim4205.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:10.712447+00:00",
+      "updated_at": "2025-03-28T06:39:49+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4210": {
+      "file": "pim4210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:11.073719+00:00",
+      "updated_at": "2025-03-17T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4220": {
+      "file": "pim4220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:11.445536+00:00",
+      "updated_at": "2026-03-12T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4222": {
+      "file": "pim4222.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:11.810818+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4224": {
+      "file": "pim4224.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:12.180426+00:00",
+      "updated_at": "2026-03-04T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4228": {
+      "file": "pim4228.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:12.549996+00:00",
+      "updated_at": "2026-03-06T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4235": {
+      "file": "pim4235.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:12.929296+00:00",
+      "updated_at": "2025-03-17T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4236": {
+      "file": "pim4236.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:13.285373+00:00",
+      "updated_at": "2020-04-17T09:44:22+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4238": {
+      "file": "pim4238.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:13.665991+00:00",
+      "updated_at": "2022-02-10T12:04:50+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4240": {
+      "file": "pim4240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:14.027707+00:00",
+      "updated_at": "2022-09-27T07:47:22+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4250": {
+      "file": "pim4250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:14.408694+00:00",
+      "updated_at": "2020-05-20T15:29:42+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4410": {
+      "file": "pim4410.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:14.777755+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4420": {
+      "file": "pim4420.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim4422",
+        "/hmrc-internal-manuals/property-income-manual/pim4424",
+        "/hmrc-internal-manuals/property-income-manual/pim4426",
+        "/hmrc-internal-manuals/property-income-manual/pim4428"
+      ],
+      "retrieved_at": "2026-09-18T14:28:15.182629+00:00",
+      "updated_at": "2018-04-03T11:12:18+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4430": {
+      "file": "pim4430.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim4432",
+        "/hmrc-internal-manuals/property-income-manual/pim4434",
+        "/hmrc-internal-manuals/property-income-manual/pim4436",
+        "/hmrc-internal-manuals/property-income-manual/pim4438"
+      ],
+      "retrieved_at": "2026-09-18T14:28:15.541718+00:00",
+      "updated_at": "2018-04-03T11:16:29+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4440": {
+      "file": "pim4440.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:15.903727+00:00",
+      "updated_at": "2020-07-28T10:53:55+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4450": {
+      "file": "pim4450.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim4452",
+        "/hmrc-internal-manuals/property-income-manual/pim4454",
+        "/hmrc-internal-manuals/property-income-manual/pim4456",
+        "/hmrc-internal-manuals/property-income-manual/pim4458",
+        "/hmrc-internal-manuals/property-income-manual/pim4460"
+      ],
+      "retrieved_at": "2026-09-18T14:28:16.262437+00:00",
+      "updated_at": "2018-04-03T11:24:51+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4470": {
+      "file": "pim4470.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim4471",
+        "/hmrc-internal-manuals/property-income-manual/pim4472",
+        "/hmrc-internal-manuals/property-income-manual/pim4473",
+        "/hmrc-internal-manuals/property-income-manual/pim4474",
+        "/hmrc-internal-manuals/property-income-manual/pim4475",
+        "/hmrc-internal-manuals/property-income-manual/pim4476"
+      ],
+      "retrieved_at": "2026-09-18T14:28:16.614877+00:00",
+      "updated_at": "2018-04-03T11:30:20+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4480": {
+      "file": "pim4480.txt",
+      "children": [
+        "/hmrc-internal-manuals/property-income-manual/pim4481",
+        "/hmrc-internal-manuals/property-income-manual/pim4482",
+        "/hmrc-internal-manuals/property-income-manual/pim4483",
+        "/hmrc-internal-manuals/property-income-manual/pim4484",
+        "/hmrc-internal-manuals/property-income-manual/pim4485",
+        "/hmrc-internal-manuals/property-income-manual/pim4486",
+        "/hmrc-internal-manuals/property-income-manual/pim4487",
+        "/hmrc-internal-manuals/property-income-manual/pim4488",
+        "/hmrc-internal-manuals/property-income-manual/pim4489"
+      ],
+      "retrieved_at": "2026-09-18T14:28:16.992260+00:00",
+      "updated_at": "2018-04-03T11:33:46+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4702": {
+      "file": "pim4702.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:17.349634+00:00",
+      "updated_at": "2025-04-14T15:46:05+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4703": {
+      "file": "pim4703.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:17.712745+00:00",
+      "updated_at": "2020-11-27T14:52:16+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4810": {
+      "file": "pim4810.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:18.093105+00:00",
+      "updated_at": "2024-11-01T13:50:51+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4820": {
+      "file": "pim4820.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:18.505361+00:00",
+      "updated_at": "2024-12-12T10:35:43+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4830": {
+      "file": "pim4830.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:18.882253+00:00",
+      "updated_at": "2023-07-17T09:33:06+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4840": {
+      "file": "pim4840.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:19.246086+00:00",
+      "updated_at": "2023-07-17T09:30:48+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4850": {
+      "file": "pim4850.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:19.594401+00:00",
+      "updated_at": "2023-07-17T09:28:58+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4860": {
+      "file": "pim4860.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:19.982393+00:00",
+      "updated_at": "2026-07-02T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4870": {
+      "file": "pim4870.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:20.340931+00:00",
+      "updated_at": "2023-07-17T09:26:07+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4880": {
+      "file": "pim4880.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:20.708092+00:00",
+      "updated_at": "2023-07-17T09:34:37+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4890": {
+      "file": "pim4890.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:21.083453+00:00",
+      "updated_at": "2023-07-17T09:36:05+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim7020": {
+      "file": "pim7020.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:21.435419+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim7030": {
+      "file": "pim7030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:21.824968+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim7040": {
+      "file": "pim7040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:22.184263+00:00",
+      "updated_at": "2018-03-15T10:08:08+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim7050": {
+      "file": "pim7050.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:22.553178+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim7060": {
+      "file": "pim7060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:22.911091+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim7070": {
+      "file": "pim7070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:23.265497+00:00",
+      "updated_at": "2018-04-10T12:55:10+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim7080": {
+      "file": "pim7080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:23.615471+00:00",
+      "updated_at": "2018-03-15T10:21:57+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim7090": {
+      "file": "pim7090.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:23.974774+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim7100": {
+      "file": "pim7100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:24.349678+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim7200": {
+      "file": "pim7200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:24.721777+00:00",
+      "updated_at": "2022-11-22T08:53:39+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim7210": {
+      "file": "pim7210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:25.098757+00:00",
+      "updated_at": "2020-09-18T14:19:28+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim7250": {
+      "file": "pim7250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:25.466973+00:00",
+      "updated_at": "2022-02-04T14:28:50+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2005": {
+      "file": "pim2005.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:25.829071+00:00",
+      "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2010": {
+      "file": "pim2010.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:26.199045+00:00",
+      "updated_at": "2020-06-12T10:20:05+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2025": {
+      "file": "pim2025.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:26.554136+00:00",
+      "updated_at": "2021-06-29T11:15:36+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2030": {
+      "file": "pim2030.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:26.909167+00:00",
+      "updated_at": "2020-06-12T10:34:29+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2040": {
+      "file": "pim2040.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:27.289651+00:00",
+      "updated_at": "2020-06-12T10:38:41+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2052": {
+      "file": "pim2052.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:27.665316+00:00",
+      "updated_at": "2025-10-29T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2054": {
+      "file": "pim2054.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:28.043237+00:00",
+      "updated_at": "2025-12-04T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2056": {
+      "file": "pim2056.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:28.418101+00:00",
+      "updated_at": "2020-06-12T12:37:44+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2058": {
+      "file": "pim2058.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:28.804016+00:00",
+      "updated_at": "2025-12-04T00:00:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2060": {
+      "file": "pim2060.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:29.170527+00:00",
+      "updated_at": "2020-06-12T12:54:56+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2064": {
+      "file": "pim2064.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:29.534270+00:00",
+      "updated_at": "2024-12-16T14:53:51+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2066": {
+      "file": "pim2066.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:29.906878+00:00",
+      "updated_at": "2020-07-01T12:24:09+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2070": {
+      "file": "pim2070.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:30.280156+00:00",
+      "updated_at": "2020-06-19T09:22:49+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2072": {
+      "file": "pim2072.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:30.649747+00:00",
+      "updated_at": "2020-06-19T09:26:55+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2074": {
+      "file": "pim2074.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:31.025533+00:00",
+      "updated_at": "2020-06-19T09:30:23+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2076": {
+      "file": "pim2076.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:31.385546+00:00",
+      "updated_at": "2025-07-25T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2078": {
+      "file": "pim2078.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:31.780881+00:00",
+      "updated_at": "2020-06-19T09:37:11+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2080": {
+      "file": "pim2080.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:32.148363+00:00",
+      "updated_at": "2020-06-19T10:21:47+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2082": {
+      "file": "pim2082.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:32.516111+00:00",
+      "updated_at": "2020-06-19T10:26:06+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2100": {
+      "file": "pim2100.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:32.896444+00:00",
+      "updated_at": "2023-01-30T10:46:42+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2105": {
+      "file": "pim2105.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:33.257196+00:00",
+      "updated_at": "2024-02-06T10:04:16+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2106": {
+      "file": "pim2106.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:33.618299+00:00",
+      "updated_at": "2020-06-19T10:41:25+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2110": {
+      "file": "pim2110.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:33.983631+00:00",
+      "updated_at": "2020-06-19T11:35:45+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2120": {
+      "file": "pim2120.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:34.344504+00:00",
+      "updated_at": "2020-06-05T13:14:10+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2130": {
+      "file": "pim2130.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:34.713291+00:00",
+      "updated_at": "2020-06-19T12:34:19+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2140": {
+      "file": "pim2140.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:35.093916+00:00",
+      "updated_at": "2020-06-19T12:40:34+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2200": {
+      "file": "pim2200.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:35.450663+00:00",
+      "updated_at": "2020-06-19T12:41:36+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2205": {
+      "file": "pim2205.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:35.814400+00:00",
+      "updated_at": "2025-10-03T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2210": {
+      "file": "pim2210.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:36.191989+00:00",
+      "updated_at": "2020-06-19T12:51:24+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2215": {
+      "file": "pim2215.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:36.563547+00:00",
+      "updated_at": "2020-06-19T12:54:17+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2220": {
+      "file": "pim2220.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:36.927154+00:00",
+      "updated_at": "2026-05-21T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2235": {
+      "file": "pim2235.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:37.287781+00:00",
+      "updated_at": "2020-06-26T10:05:13+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2240": {
+      "file": "pim2240.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:37.651434+00:00",
+      "updated_at": "2020-06-26T10:06:48+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2250": {
+      "file": "pim2250.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:38.032158+00:00",
+      "updated_at": "2020-06-26T10:17:34+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2300": {
+      "file": "pim2300.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:38.394834+00:00",
+      "updated_at": "2025-03-28T15:29:15+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2305": {
+      "file": "pim2305.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:38.764065+00:00",
+      "updated_at": "2022-12-13T09:46:51+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2310": {
+      "file": "pim2310.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:39.138579+00:00",
+      "updated_at": "2020-06-26T10:34:48+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim2320": {
+      "file": "pim2320.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:39.510174+00:00",
+      "updated_at": "2020-08-14T08:19:11+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4165": {
+      "file": "pim4165.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:39.878178+00:00",
+      "updated_at": "2025-03-20T13:04:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4170": {
+      "file": "pim4170.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:40.236057+00:00",
+      "updated_at": "2025-04-02T10:09:14+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4175": {
+      "file": "pim4175.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:40.620359+00:00",
+      "updated_at": "2025-04-02T10:31:34+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4180": {
+      "file": "pim4180.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:41.003496+00:00",
+      "updated_at": "2025-03-20T13:20:48+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4185": {
+      "file": "pim4185.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:41.390093+00:00",
+      "updated_at": "2025-07-22T01:00:00+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4190": {
+      "file": "pim4190.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:41.761780+00:00",
+      "updated_at": "2025-03-20T13:25:00+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4422": {
+      "file": "pim4422.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:42.139481+00:00",
+      "updated_at": "2023-03-29T11:59:03+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4424": {
+      "file": "pim4424.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:42.500621+00:00",
+      "updated_at": "2020-07-28T09:35:32+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4426": {
+      "file": "pim4426.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:42.873532+00:00",
+      "updated_at": "2023-08-18T10:51:10+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4428": {
+      "file": "pim4428.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:43.243898+00:00",
+      "updated_at": "2021-06-29T11:04:16+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4432": {
+      "file": "pim4432.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:43.606410+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4434": {
+      "file": "pim4434.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:43.973704+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4436": {
+      "file": "pim4436.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:44.360706+00:00",
+      "updated_at": "2020-07-28T10:16:13+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4438": {
+      "file": "pim4438.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:44.840897+00:00",
+      "updated_at": "2020-07-28T10:40:55+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4452": {
+      "file": "pim4452.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:45.206118+00:00",
+      "updated_at": "2018-05-16T13:46:20+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4454": {
+      "file": "pim4454.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:45.579328+00:00",
+      "updated_at": "2023-06-26T14:14:26+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4456": {
+      "file": "pim4456.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:45.954276+00:00",
+      "updated_at": "2020-07-28T11:41:43+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4458": {
+      "file": "pim4458.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:46.316908+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4460": {
+      "file": "pim4460.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:46.673711+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4471": {
+      "file": "pim4471.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:47.045038+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4472": {
+      "file": "pim4472.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:47.432053+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4473": {
+      "file": "pim4473.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:47.807343+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4474": {
+      "file": "pim4474.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:48.167244+00:00",
+      "updated_at": "2018-12-14T02:00:25+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4475": {
+      "file": "pim4475.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:48.521268+00:00",
+      "updated_at": "2018-05-16T14:12:46+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4476": {
+      "file": "pim4476.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:48.886799+00:00",
+      "updated_at": "2022-02-16T09:12:46+00:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4481": {
+      "file": "pim4481.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:49.290127+00:00",
+      "updated_at": "2018-05-16T14:15:05+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4482": {
+      "file": "pim4482.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:49.659119+00:00",
+      "updated_at": "2018-04-10T12:13:47+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4483": {
+      "file": "pim4483.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:50.021062+00:00",
+      "updated_at": "2018-04-10T12:13:24+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4484": {
+      "file": "pim4484.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:50.394498+00:00",
+      "updated_at": "2018-05-16T14:18:52+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4485": {
+      "file": "pim4485.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:50.774334+00:00",
+      "updated_at": "2018-04-10T12:13:03+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4486": {
+      "file": "pim4486.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:51.157655+00:00",
+      "updated_at": "2018-05-16T14:19:27+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4487": {
+      "file": "pim4487.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:51.535223+00:00",
+      "updated_at": "2018-04-10T12:08:42+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4488": {
+      "file": "pim4488.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:51.889333+00:00",
+      "updated_at": "2018-04-10T09:39:28+01:00"
+    },
+    "/hmrc-internal-manuals/property-income-manual/pim4489": {
+      "file": "pim4489.txt",
+      "children": [],
+      "retrieved_at": "2026-09-18T14:28:52.254344+00:00",
+      "updated_at": "2018-04-10T09:37:38+01:00"
+    }
+  },
+  "status": "complete",
+  "errors": {},
+  "checked_at": "2026-09-18T14:28:52.257053+00:00",
+  "pages_checked": 226
+}

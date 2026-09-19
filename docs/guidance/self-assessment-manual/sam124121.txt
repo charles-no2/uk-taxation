@@ -1,0 +1,18 @@
+Returns: view and amend return: source reference  exceptions: using function amend return (Action Guide)
+Identifier: SAM124121
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam124121
+Published: 2016-04-08T17:26:24+01:00
+Updated: 2016-02-23T15:02:46+00:00
+Retrieved (UTC): 2026-09-18T16:21:00.509963+00:00
+
+Where the amended return adds a second or subsequent trading source, to obtain the source reference follow steps 1 - 2 below.
+
+For details of how to access the SA function, select ‘Index Of Functions’ on the left of the screen.
+
+-
+
+Use function MAINTAIN SOURCES and make a note of the source reference for each source. You may want to do so on the relevant pages of the return if so use pencil
+
+-
+
+Enter the source reference during capture of the amended return details in function AMEND RETURN

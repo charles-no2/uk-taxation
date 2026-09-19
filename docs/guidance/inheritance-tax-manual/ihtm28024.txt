@@ -1,0 +1,122 @@
+Liabilities: restricted deductions: transfer of relievable assets where borrowed money is used to acquire assets that qualify for relief
+Identifier: IHTM28024
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28024
+Published: 2016-04-09T09:52:26+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:03:57.699171+00:00
+
+Where assets that qualify for relief have been acquired using borrowed funds and the liability has been secured against other chargeable assets, it would still be possible to obtain full relief and the deduction of the liability by:
+
+-
+
+giving away the relievable assets before death, but
+
+-
+
+retaining the liability within the estate.
+
+IHTA84/S162B requires that the liability is set against the transfer of relievable assets at the time of the lifetime transfer, and any excess value over the value of the liability would qualify for relief. But at death, the estate would no longer include any relievable assets, so the provisions of IHTA84/S162B would not apply and the liability could still be deducted against estate on death under IHTA84/S162(4).
+
+To prevent this, IHTA84/S162B(7) stipulates that where a liability has already been taken into account to reduce the value transferred by a chargeable transfer, the liability cannot then be taken into account to reduce a subsequent transfer of value made by the same transferor.
+
+The wording used is important. The liability must reduce the value transferred by a chargeable transfer (a transfer that is immediately chargeable or a failed PET). If the lifetime transfer was a PET and the transferor survives 7 years, the transfer is an exempt transfer; so the liability may still be deducted from the estate on death as it will not have taken into account by an earlier chargeable transfer.
+
+But this limitation does not apply to ten-year charges in view of IHTA84/S162B(8). So, whilst the assets acquired with the liability remain in the trust, the liability can be taken into account at each ten year charge. But once the assets cease to be relevant property, so that the liability is taken into account at the time of the exit charge, then if the liability remains in the trust, IHTA84/S162B(7) will prevent it from being taken into account against any further charges.
+
+Example 1
+
+John, who has an estate of £3m, borrows £1m and uses this to purchase farmland which he then farms for 3 years. He then gives the farmland, now worth £1.2m to his daughter who farms the land herself, but he retains the liability. The individual has made a transfer of value when he gives the farmland to his daughter. The value transferred is the loss to John’s estate of £1.2m. IHTA84/S162B(4) has the effect of reducing the £1.2m agricultural value by the amount of the liability to £200,000. This £200,000 value then qualifies for agricultural relief, reducing the value transferred to nil.
+
+When John dies 2 years later, the £1m liability cannot be taken into account again due to IHTA84/S162B(7). Instead of the chargeable transfer on death being £2m (£3m less the £1m liability), it is £3m with no deduction for the liability.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28024#Top)
+
+Example 2
+
+Fred and Wilma are a married couple. Fred has £3m of assets in his sole name and Wilma has £1m of assets in her sole name. There are no jointly owned assets.
+
+Fred borrows £500,000 which is charged against the value of a house he owns. He uses these funds to acquire £500,000 of AIM shares which he then transfers to Wilma. He does this before he has owned the shares for 2 years. Fred dies three years after he transferred the shares to Wilma.
+
+The gift of the AIM shares from Fred to Wilma is an exempt transfer between spouses. The transfer of value from Fred to Wilma is not reduced by business relief, so IHTA84/S162B (1) does not apply, and the liability which Fred incurred to acquire the AIM shares is not taken into account in connection with this lifetime transfer.
+
+The chargeable transfer deemed to occur on Fred’s death is not reduced by business relief, so again IHTA84/S162B(1) does not apply. Because IHTA84/S162B(1) does not apply the liability incurred by Fred can be deducted from the value of the house that the debt is secured on, as long the provisions of IHTA84/S175A are met.
+
+So, Fred has £3m of assets at the date of death but, as he has a liability of £500,000 outstanding, his net estate is £2.5m as long as the liability is actually paid out of his estate (IHTA84/S175A). The gift to Wilma of £500,000 is exempt as a transfer between spouses.
+
+Wilma’s estate is now worth £1.5m (her original £1m of assets plus the £500,000 of AIM shares gifted by Fred), but potentially the AIM shares will qualify for 50% business relief, leaving her with a chargeable estate of £1.25m.
+
+Between them Fred and Wilma’s combined chargeable estate of £4m has been reduced to £3.75m.
+
+However, the same result could have been achieved by Fred using £500,000 of his own cash to acquire the AIM shares rather than borrowing the money. Alternatively Fred could have simply gifted £500,000 of his existing assets to Wilma for her to invest in AIM shares. In either case Fred’s chargeable estate would have been £2.5m on his death with Wilma’s estate including £1m of chargeable assets, plus £500,000 with 50% business relief. Making the arrangements more complicated through borrowing does not produce any greater tax saving.
+
+If Fred had kept the AIM shares in his estate the transfer of value on his death would have included both property qualifying for business relief and a liability incurred to acquire relievable property. IHTA84/S162B(1) would then have applied so the liability of £500,000 would be taken to reduce the value of the AIM shares before business relief was applied. Fred’s estate would have consisted of £3.5m of assets. The liability of £500,000 would have reduced the value of the AIM shares to nil, with no business relief due, bringing his chargeable estate to £3m. Wilma’s estate would have remained at £1m, so their combined chargeable estate would have been £4m.
+
+Note that in this example, the AIM shares get business relief at 50% which is the rate on or after 6 April 2026.  For transfers before 6 April 2026, other than some transfers made in the transitional period from 30 October 2024 (see IHTM25570 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25570)), AIM shares would have got business relief at 100%.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28024#Top)
+
+Example 3
+
+Stephanie has an estate of £3m. She borrows £500,000 and secures the loan on her house. Stephanie uses the £500,000 to acquire property which qualifies for business relief. Three years after this Stephanie gifts the relievable property to her niece, Tamsin. This is a PET.
+
+Stephanie dies two years after making the gift. The PET becomes a chargeable transfer at this point. IHTA84/S113A (IHTM25361 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25361)) is not satisfied at the date of Stephanie’s death as the property is not relevant business property in Tamsin’s hands. So, business relief is not due on the chargeable lifetime transfer.
+
+No part of the value of the chargeable lifetime transfer (the failed PET) is reduced by business relief, so IHTA84/S162B(1) does not apply. The whole value of the failed PET (£500,000) is chargeable and the deduction for the liability incurred to acquire the transferred property is not taken into account.
+
+On Stephanie’s death estate, again no part of the value transferred is reduced by business relief so, again, IHTA84/S162B(1) does not apply. So, in this case, the liability of £500,000 can be deducted from the value of the death estate. The overall position is:
+
+Tax is due on:
+
+-
+
+The failed PET at a value of £500,000, and
+
+-
+
+Stephanie’s death estate at £2.5m (the £3m left after the gift, less the £500,000 liability).
+
+So between the two transfers the whole £3m of Stephanie’s initial estate is subject to Inheritance Tax.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28024#Top)
+
+Example 4
+
+Yuri has an estate of £5m. He borrows £600,000 which he uses to invest in his own business. Yuri transfers an asset out of the business worth £600,000 to a relevant property trust. This transfer is immediately chargeable. Business relief is claimed on the transfer, following the decision in Nelson Dance (HMRC v Trustees of the Nelson Dance Settlement [2009] EWHC 71 (Ch)).
+
+Yuri dies within seven years of making the transfer. At this time the conditions in IHTA84/S113A (IHTM25361 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25361)) are not satisfied as the asset is no longer used in a business.
+
+At the time of the transfer into the relevant property trust:
+
+-
+
+the value transferred is attributable to the value of relevant business property, and
+
+-
+
+that transfer is to be treated as reduced by business relief.
+
+As well as this Yuri (who is the transferor) has incurred a liability to acquire, maintain, or enhance the value of that relevant business property. The point here is that for business relief to apply, in accordance with the argument in Nelson Dance, the value transferred has to be attributable to the value of relevant business property. The specific asset transferred does not have to be relevant business property. It does not matter whether the liability was incurred to acquire, enhance or maintain the specific asset transferred. For IHTA84/S162B to apply it simply requires that the liability was incurred to acquire, maintain or enhance the relevant business property to which the value transferred is attributable.
+
+As IHTA84/S162B applies the liability of £600,000 in the transferor’s estate will reduce the value of the immediately chargeable transfer before business relief is applied. The £600,000 value transferred is reduced to nil by the liability with no value needing to be reduced by business relief.
+
+When Yuri dies the liability cannot be deducted from the value of his estate because it has already been taken into account to reduce the value of an earlier chargeable transfer (IHTA84/S162B(7)).
+
+An additional ‘clawback’ charge arises on Yuri’s death in connection with the lifetime transfer (IHTM14571 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14571)). Business relief is not available when considering the ‘clawback’ charge on the transfer as IHTA84/S113A(3) is not satisfied. So, tax appears to be due at 40% on the whole £600,000 (less the nil rate band). But, in accordance with the provisions in IHTA84/S162B, the liability continues to be deductible. The ‘clawback’ charge is a subsequent charge on the original chargeable transfer. This is the same transfer of value, but when this transfer is taxed on a subsequent occasion ( on the death) no business relief is then due. IHTA84/S162(7) only prevents a liability from being deducted from a subsequent chargeable transfer, not from a subsequent occasion of charge for the same transfer.
+
+So, in summary:
+
+-
+
+There is no tax on the initial transfer as it is reduced to nil by the deduction of the liability. If the liability did not reduce the value to nil, business relief would reduce any remaining value to nil.
+
+-
+
+There is a claim to tax on the whole £5m death estate as the liability is non-deductible under IHTA84/S162B(7).
+
+-
+
+Although there is no charge under the ‘clawback’ provisions on death, because the liability remains deductible and brings the chargeable value down to nil, the whole £5m death estate is taxable.
+
+The position on the ‘clawback’ charge would be slightly different if the value of the relevant business property transferred exceeded the amount of the liability. In those circumstances, the immediately chargeable transfer would still be nil (assuming that Yuri has 100% relief allowance available, see IHTM25500 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25500)), due to a combination of the deduction of the liability and business relief at 100% on any remaining value.  If Yuri did not have any 100% relief allowance available, business relief at 50% would be available.
+
+On the subsequent ‘clawback’ charge, the liability would continue to be taken into account as explained above. The remaining value would not get business relief as IHTA84/S113A is not satisfied. So tax would be chargeable on the remaining value as though it were a failed PET. If tax was payable on the chargeable transfer because only 50% relief was available, there would be a credit for the tax paid against the charge on death.

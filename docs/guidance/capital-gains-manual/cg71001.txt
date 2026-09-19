@@ -1,0 +1,42 @@
+Leases: grant of lease out of short lease: allowable expenditure
+Identifier: CG71001
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71001
+Published: 2016-03-12T12:14:56+00:00
+Updated: 2020-07-21T09:29:30+01:00
+Retrieved (UTC): 2026-09-18T14:48:10.979986+00:00
+
+TCGA92/Sch 8/Para 4
+
+Where a short lease, that is a lease for a term of not more than 50 years, is granted out of a short lease, TCGA92/Sch 8/Para 4 (1) over-rides the normal part disposal rules in TCGA92/S42.
+
+A short lease is a wasting asset, see CG70752 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg70752), and therefore the allowable expenditure attributable to it reduces over its term. The expenditure which is allowable when a short lease is granted out of a short lease is the proportion of the allowable expenditure which will waste away over the duration of the sub-lease. This is illustrated by the example below.
+
+Example
+
+Mrs S paid a premium of £200,000 to acquire a 30 year lease over a property. Five years later she granted a sub-lease for 10 years over the whole property. The rent payable under the sub-lease was the same as that payable under the original lease.
+
+The expenditure which is allowable on the grant of the sub-lease is the amount which will waste away over its 10 year duration. When the sub-lease was granted, Mrs S’s original lease had 25 years left to run. When the sub-lease ends, her original lease will have 15 years left to run.
+
+The proportion of the expenditure which will waste away during the term of the sub-lease is:
+
+Expenditure x [ (C-D) / P(1) ]
+
+P (1) is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the duration of the lease at the beginning of the period of ownership;
+
+C is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the remaining term of the lease when the sub-lease was granted;
+
+D is the percentage derived from the table in TCGA92/Sch 8/Para 1 (6) for the remaining term of the lease when the sub-lease expires.
+
+The percentages which are required from the table in TCGA92/Sch 8/Para 1, see CG71141 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71141), are:
+
+P (1) - Percentage for 30 years: 87.330
+
+C - Percentage for 25 years: 81.100
+
+D - Percentage for 15 years: 61.617
+
+Expenditure x [ (C-D) / P(1) ]
+
+= £200,000 x [ (81.100 - 61.617) / 87.330 ]
+
+= £44,620

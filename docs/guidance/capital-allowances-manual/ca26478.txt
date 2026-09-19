@@ -1,0 +1,44 @@
+PMA: Fixtures: Changes in ownership: fixed value requirement
+Identifier: CA26478
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26478
+Published: 2017-07-19T18:52:39+01:00
+Updated: 2017-07-19T20:03:57+01:00
+Retrieved (UTC): 2026-09-18T16:20:59.678542+00:00
+
+CAA01/S187A(5)
+
+The fixed value requirement will only apply where the past owner is required to bring a disposal value into account in respect of the fixture in accordance with item 1, 5 or 9 of the Table in CAA01/S196. This will nearly always be the case where the pooling requirement has been satisfied. The fixed value requirement may be satisfied in one of three ways:
+
+1. Election
+
+We expect that in the vast majority of cases the fixed value requirement will be satisfied by the current owner and the past owner making an election under CAA01/S198 or S199 CA26800 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26800) to fix the apportionment of one of the following
+
+- the sale price that relates to the fixture (where the disposal value arises from an event falling within items 1 or 9 of the Table in section 196)
+
+- the capital sum given by the lessee for the lease (where the disposal value arises from an event falling within items 5 of the Table in section 196).
+
+The election must usually be made within the ‘relevant 2 year period’, but the time limit is extended where an application has been made to the tribunal, see below. The ‘relevant 2 year period’ is explained in CA26480 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26480) and is essentially the period of 2 years from the date on which the new owner is treated as acquiring the fixture.
+
+2. Application to tribunal
+
+Where the current owner and the past owner are unable to agree an apportionment either party may apply to the First Tier Tribunal to determine the value of the fixture. The application must be made before the end of the relevant two year period CA26480 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26480). The fixed value requirement will be satisfied when the tribunal determines the value.
+
+If an application has been made to tribunal in time but it has not been determined or withdrawn and the current owner and past owner reach an agreement an election may be made even though the normal time limit for making an election has passed.
+
+See CA26479 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca26479) for guidance on the FTT application process.
+
+3. Preservation of allowances where the intervening owner is not entitled to claim PMA in respect of the fixture
+
+There are special rules that allow allowances to be preserved if an intervening owner is not entitled to claim PMAs, for example where Adam sells a building to a charity in 2015 and the charity sells the building to Ben in 2018.
+
+In this case the charity is not entitled to claim PMA in respect of capital expenditure incurred on the fixtures. Nevertheless, Adam and the charity are entitled to make a section 198 election agreeing the apportionment (or to apply to the tribunal to determine the value). When the charity sells the building these documents can be passed to the new owner, Ben. This will satisfy the fixed value requirement and so pass on the entitlement to PMA to Ben.
+
+However it may that the intervening owner, the charity, does not consider making a joint election with Adam. To avoid allowances being lost in these circumstances Ben is able to satisfy the fixed value requirement if he obtains both of the following:
+
+- a written statement from the charity (intervening owner) stating that an election was not made and can no longer be made
+
+- a written statement made by Adam showing the disposal value that he brought in.
+
+CAA01/S187B(6)
+
+If the fixed value requirement is not satisfied because no election has been made, and neither has the tribunal been asked to determine the part of the sales proceeds that relates to the fixtures, so that the current owner’s qualifying expenditure is deemed to be nil, the past owner is still required to bring in a disposal value, in accordance with section CAA01/S196.

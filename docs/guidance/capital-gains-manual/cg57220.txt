@@ -1,0 +1,72 @@
+Non-resident companies: basic conditions for TCGA92/S13: the company
+Identifier: CG57220
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57220
+Published: 2016-03-12T11:42:27+00:00
+Updated: 2019-10-18T10:08:05+01:00
+Retrieved (UTC): 2026-09-18T14:43:47.612240+00:00
+
+Company (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57220#company)
+
+Participators (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57220#participators)
+
+Beneficiary (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57220#Beneficiaries)
+
+Company
+
+TCGA92/S13* applies to gains made by companies which
+
+- are not resident in the UK
+
+and
+
+- would be close companies if they were resident in the UK.
+
+TCGA92/S288(1) provides that for Capital Gains Tax purposes close company has the same meaning as in Chapter 2 of Part 10 of CTA2010. In general a company will be a close company if
+
+- it is under the control of five or fewer participators
+
+or
+
+- it is under the control of participators who are directors.
+
+For further guidance on the definition of close company see CT60060.
+
+Participators
+
+TCGA92/S13* applies to persons who were participators at the time the company made the gain and were also resident or ordinarily resident** in the United Kingdom at that time.
+
+Under TCGA92/S13(12) participator has the same meaning as given by CTA2010/S454.
+
+In relation to any company, a participator is a person having a share or interest in the capital or income of the company including
+
+- any person who possesses, or is entitled to acquire, share capital or voting rights in the company
+
+- any loan creditor of the company
+
+- any person who possesses, or is entitled to acquire, a right to receive or participate in distributions of the company
+
+- any person who is entitled to secure that income or assets (whether present or future) of the company will be applied directly or indirectly for their benefit.
+
+For detailed guidance on the meaning of participator see CT60107 onwards.
+
+So TCGA92/S13 can apply to participators who are
+
+- individuals resident or ordinarily resident** in the UK
+
+- companies resident in the UK
+
+- trustees who are resident or ordinarily resident** in the UK
+
+- trustees who are neither resident nor ordinarily resident** in the UK, see CG57395 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57395)
+
+- within any of the four categories mentioned above and who have an indirect interest in the non- resident close company making the gain. An indirect interest is a holding of shares or other interest in a company which in turn owns shares of or has an interest in the non- resident closely controlled company, either directly or through one or more closely controlled companies. For guidance on indirect interests, see CG57290 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57290).
+
+Beneficiaries
+
+Where the trustees of a settlement, whether resident in the UK or not, are participators in a non-resident company then in certain circumstances a beneficiary of the settlement will also be within the definition of participator. The effect of TCGA92/S13(14) is that once you reach shares or other interests held by trustees, except in the case of a bare trust, see CG34300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg34300), you stop there. In deciding how the chargeable gain of the company should be apportioned, you treat the trustees as if they were the beneficial owners of their shares or other interests and apportion the gain to them as appropriate, ignoring the interests of the beneficiaries. If the trustees are resident then their share of the gain is assessed on them. If the trustees are non-resident then the gain is subject to TCGA92/S86 and TCGA92/S87, see CG57395 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57395). Any interest as a participator in the non- resident company which the beneficiary holds in their own right, for example by a personal holding of shares in the non-resident company, will remain within Section 13*.
+
+*TCGA92/S13 was re-written for disposals from 6 April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).
+
+**For 2013/14 and later years ordinary residence does not need to be considered.
+
+Guidance on the Statutory Residence Test can be found in the RDR3 Guidance Note: Statutory Residence Test (SRT).

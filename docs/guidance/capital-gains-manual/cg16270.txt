@@ -1,0 +1,32 @@
+Assets: valuation: transfer at undervalue: employee/director: consideration
+Identifier: CG16270
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16270
+Published: 2016-03-12T10:13:03+00:00
+Updated: 2019-11-05T14:26:09+00:00
+Retrieved (UTC): 2026-09-18T14:30:30.176038+00:00
+
+Where an asset is transferred by an employer to an employee or a director, the consideration will be deemed to be at market value on the date of transfer if TCGA92/S17 (1)(b) applies, see CG14530 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14530). The consideration is deemed to be at market value if the transfer is in connection with the transferee's office or employment or in connection with the transferee's loss of that office or employment.
+
+If the asset is transferred at less than its market value the difference between the price paid by the employee or director and the value of the asset received will usually be chargeable under employment income as earnings arising from the office or employment, see EIM08001+.
+
+So if the transfer is treated as taking place at the market value of the asset there may be a double charge to tax at the transfer date on the difference between the price paid and the market value, being taxed as employment income on the employee or director and as a Capital Gain arising on the company.
+
+The transfer of an asset from an employer to an employee at undervalue results in a net transfer of value to the employee. The same result can be achieved by the transfer of an asset from the employee to the employer at overvalue.
+
+Any part of the consideration received by the employee which is taken into account in computing their income is excluded from the consideration in their Capital Gains Tax computation (TCGA92/S37, see CG14300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14300)). In many cases this will mean that the consideration taken into account is restricted to the market value of the asset transferred.
+
+If you have queries around how the market value of the asset was valued, please contact Shares and Assets Valuation (SAV).
+
+Computing the gain
+
+You should compute the gain arising to the employer using market value in accordance with TCGA92/S17 (l)(b) see CG14530 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14530). In some cases the employer may be entitled to a deduction in computing profits, see BIM47110.
+
+Cost to employee
+
+The employees or directors cost of acquisition is the market value of the asset transferred whether or not that market value has been taken into account in computing the chargeable gain accruing to the employer, see CG14530 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14530).
+
+Distributions
+
+If a company transfers an asset to a member in exchange for cash consideration which is less than the market value of the asset at the date of transfer the shortfall may be treated as a distribution under CTA2010/S1020 see CTM15290. If the person to whom the asset is transferred is both an employee or director and a member of the company you should first consider the possibility of liability as employment income before considering whether the shortfall should be taxed as a distribution.
+
+If the shortfall is treated as a distribution under Section 1020 the deemed consideration to be brought into the company's computation of chargeable gains will be the market value of the asset at the date of the transfer, TCGA92/S17 (1)(a), see CG14530. There is no equivalent to the treatment when the shortfall is taxed as employment income (see CG14300 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14300)). TCGA92/S125, which deals with transfers of assets at undervalue by a close company should not be applied, see CG57127 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57127).

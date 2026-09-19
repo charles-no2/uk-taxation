@@ -1,0 +1,30 @@
+Restrictions on the freedom to dispose of assets:  option to purchase is exercised
+Identifier: IHTM09777
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09777
+Published: 2016-03-20T09:26:15+00:00
+Updated: 2022-05-24T11:34:31+01:00
+Retrieved (UTC): 2026-09-18T14:54:47.014589+00:00
+
+The example below shows how to calculate the value transferred when an option is taken up.
+
+Example
+
+In 1990, Adam grants Barry an option to purchase Blackacre for £20,000 in 6 years. The gift of the option is valued at £16,000, for which Barry pays £4,000.
+
+When the option is exercised Blackacre is worth £50,000.
+
+The value transferred is calculated as follows:
+
+Open market value = £50,000
+
+Less option price -£20,000
+
+Net value = £30,000
+
+Allow proportionate allowance (IHTM09774 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09774)) (£4,000 ÷ £16,000) × £30,000 = £7,500
+
+£30,000 - £7,500 = £22,500
+
+Less value chargeable when option granted (IHTM09775 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09775)) -£12,000
+
+Value transferred = £10,500

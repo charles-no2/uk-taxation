@@ -1,0 +1,62 @@
+Gifts and Capital Gains Tax: Relief for Gifts of Business Assets: Clawbacks
+Identifier: CG66888
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66888
+Published: 2019-08-01T09:48:02+01:00
+Updated: 2019-08-01T09:47:57+01:00
+Retrieved (UTC): 2026-09-18T14:46:08.553469+00:00
+
+Emigration of Donee (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66888#_Emigration_of_Donee)
+
+Settlement Becomes Settlor-Interested (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg66888#_Settlement_Becomes_Settlor-Interest)
+
+Hold-over relief obtained on gifts of business assets can be withdrawn in certain circumstances within specified time limits. The different scenarios in which this can happen are discussed below.
+
+{#}Emigration of Donee – TCGA92/S168 & S168A
+
+If hold-over relief is given in respect of a gift to an individual who was UK resident at the time of the gift, who subsequently ceases to be UK resident within six years after the end of the tax year in which the gift was made without having themselves disposed of the asset, then the gain that was originally held-over becomes chargeable in their hands.
+
+In essence, this restriction prevents the deferred gain being taken out of the charge to Capital Gains Tax within the six years following the tax year in which the gift took place.
+
+If on their emigration within the time limit the donee has disposed of part of the asset, representing a proportion of the gain held-over on its acquisition, then only the remainder of the held-over gain will be deemed to accrue to them.
+
+The onward transfer from the donee to their spouse or civil partner (taking place on a no gain/no loss basis under TCGA92/S58, see CG22000) does not count as a disposal for these purposes: the spouse or civil partner would themselves need to dispose of the asset.
+
+There are two exceptions to this general rule. The clawback does not apply in the situations where:
+
+- An individual emigrates in connection with an employment or office, all the duties of which are to be carried on outside of the UK and returns within three years without having disposed of the asset received as a gift
+
+- The asset gifted was an interest in UK land (see CG73922 and CG73930) and the donee elects under TCGA92/S168A to increase their gain on a subsequent disposal chargeable to CGT as a non-resident disposing of an interest in UK land by the held-over gain, instead of having it accrue on their emigration
+
+If an amount of tax assessed on the donee via this clawback provision goes unpaid for a period of twelve months, then an assessment can be raised on the donor in the name of the donee to ensure recovery. This power can only be used within the six years after the end of the tax year in which the gift was made. Note that this time limit applies in all cases, in that careless behaviour does not need to be established. Where the donor subsequently pays the tax, TCGA92/S168(9) provides them with a right of recovery against the donee.
+
+Should the donee be chargeable to CGT on the disposal of the gifted asset after a gain has been deemed to accrue under TCGA92/S168, no reduction in their acquisition cost needs to be made in respect of the held-over gain in the resulting computation.
+
+{#}Settlement Becomes Settlor-Interested – TCGA92/S169C
+
+As is discussed in CG66883, TCGA92/S169B precludes the availability of hold-over relief where:
+
+- the gift is to a settlor-interested settlement, or
+
+- an arrangement (being any scheme, agreement or understanding) subsists such that it may become so, or
+
+- in computing the gain on the gift in the absence of hold-over relief, a deduction in the acquisition cost would be required in relation to a previous hold-over relief claim by another individual and, immediately after the gift that individual has an interest in the settlement or an arrangement subsists such that they will or may acquire an interest.
+
+Further to these rules, TCGA92/S169C provides that any hold-over relief obtained will be clawed back if any of the above conditions come to be satisfied between the making of the gift and the end of six years following the tax year in which the gift was made. As a result, if one of the conditions above becomes satisfied between the making of the gift and the making of a claim to hold-over relief, that claim shall fail.
+
+On one of the circumstances above obtaining, a chargeable gain equal to the amount that was originally held-over accrues to the donor. In addition, any subsequent chargeable gains or allowable losses of the trustees of the settlement (or any person whose title to any property derives directly or indirectly from them) are determined without the reduction in the acquisition cost that the donor’s hold-over claim previously required. It should be noted though that these mechanics do not apply if the donor was an individual and dies before one of the conditions above came to be met in relation to the settlement.
+
+Under TCGA92/S282(5), if the donor has been assessed to Capital Gains Tax following the clawback of a hold-over relief claim and fails to pay all the tax within twelve months of the due and payable date, then you can recover the outstanding tax from the donee. TCGA92/S282(2) then provides a right for the donee to recover any tax paid from the donor.
+
+The definition of a settlor (TCGA92/S169E) for these purposes is broad, covering any individual from whom the settled property directly or indirectly originates, or now represents. It also includes any property originating from another person as a result of reciprocal arrangements involving the settlor.
+
+As defined by TCGA92/S169F, an individual has an interest in a settlement if any settled property or property deriving from it (such as income accruing from the settled property) is, will or may become applied for the benefit of the individual, their spouse/civil partner or their dependent child. Spouse/civil partner does not include those from whom the individual is separated under a court order, a separation agreement or in such circumstances that the separation is likely to become permanent. A child is dependent if they are under the age of 18 and are unmarried/have no civil partner and this definition includes step-children.
+
+The exceptions to these definitions are where:
+
+- A term of a settlement relates to an individual’s dependent child but the individual has no such child
+
+- An amount becomes payable to an individual from a marriage/civil partnership settlement, as a result of the death of both parties to the marriage/civil partnership and any of their children
+
+- An amount becomes payable to an individual following the death of their child who had been beneficially entitled to the settled property or any derived property at an age not exceeding 25
+
+Where these circumstances subsist, relief remains available.

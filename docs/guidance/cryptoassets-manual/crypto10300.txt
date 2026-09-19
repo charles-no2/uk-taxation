@@ -1,0 +1,34 @@
+Introduction to cryptoassets: consensus - proof of work and proof of stake
+Identifier: CRYPTO10300
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto10300
+Published: 2021-03-30T09:02:27+01:00
+Updated: 2023-08-21T08:37:11+01:00
+Retrieved (UTC): 2026-09-18T16:18:26.560330+00:00
+
+Many cryptoasset networks are not controlled by a single body or person. Typically, the network of users of a specific token play a role in verifying transactions or making technological changes.
+
+This mechanism is often referred to as a ‘consensus’ because a sufficient proportion of the network must agree to a transaction or technological change before it can go ahead.
+
+For example, if A wishes to send 500 tokens to B, it must first be verified that A does indeed hold that many tokens. If the network agrees that this is the case, the transaction is added to the distributed ledger.
+
+Proof of Work
+
+The most well-known consensus system is Proof of Work, which is used by Bitcoin (amongst others). Here, the right to add a new entry to the distributed ledger is only available to the first person to solve a randomly generated complex cryptographic puzzle. That person then creates the new entry and it is shared with all holders of the distributed ledger. The time and energy required to solve the puzzle is the proof of work, the right to add the entry is the primary reward. The person with that right will be entitled to any fees available for including transactions in that entry and they will be allocated with a quantity of new tokens that are released into circulation. This process is known as ‘mining’ and serves to maintain the network of a given cryptoasset.
+
+Proof of Stake
+
+Under Proof of Stake, a person that wants to undertake staking locks up tokens in the protocol for a set period of time (the ‘stake’). Every person that does this is commonly referred to as a validator. When it is time for new transaction to be validated on the distributed ledger, the protocol randomly selects a stake. The larger the stake, the more likely it is to be selected. The validator who provided the stake that’s selected must then validate transaction on the distributed ledger. If they validate legitimate transactions then the validator will be entitled to any fee available for validating those transactions and they may also be allocated a quantity of new tokens that are released into circulation. If the validator tries to validate flawed or fraudulent transactions (or fails to validate any transactions at all) then the validator will be subject to a penalty. The protocol automatically implements the penalty by transferring some of the staked tokens to an unusable public address, thus burning some of the staked tokens. This penalty process is sometimes referred to as ‘slashing’.
+
+Proof of stake therefore introduces a risk to the validator that they will be permanently deprived of some of their tokens. In comparison, the risk to the miner in proof of work is that they will incur costs on producing the work, such as electricity, but never be successful in solving the puzzle first so as to recoup those costs.
+
+For more information on the tax treatment of rewards see:
+
+- CRYPTO21150 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto21150) – individuals undertaking Proof of Work mining transactions
+
+- CRYPTO21200 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto21200) – individuals undertaking staking for Proof of Stake
+
+- CRYPTO40200 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto40200) – businesses undertaking Proof of Work mining transactions
+
+- CRYPTO40250 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto40250) – businesses undertaking staking for Proof of Stake.
+
+Staking under Proof of Stake is distinct from staking for the purposes of Decentralised Finance. See CRYPTO61120 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto61120) for more information about the meaning of lending and staking in Decentralised Finance.

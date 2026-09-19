@@ -1,0 +1,180 @@
+Short leases: disposal: allowable expenditure
+Identifier: CG71141
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71141
+Published: 2016-03-12T12:15:28+00:00
+Updated: 2023-04-27T12:51:05+01:00
+Retrieved (UTC): 2026-09-18T14:48:13.191390+00:00
+
+Allowable expenditure
+
+TCGA92/Sch 8/Para 1
+
+A short lease of land is a wasting asset, but its value does not waste uniformly over its term. At first, the rate of decline in value is relatively slow but it becomes very rapid during the last few years of the term of the lease. Hence, the straight-line method of wasting expenditure contained in TCGA92/S46, see CG76772 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg76772) onwards, is not appropriate and is disapplied by TCGA92/Sch 8/Para 1 (3).
+
+Instead, the allowable expenditure is wasted in accordance with the table in TCGA92/Sch 8/Para 1 and the formulae in Para 1(4). Separate calculations are required for expenditure within TCGA92/S38 (1)(a) (acquisition) and for expenditure within Section 38(1)(b) (enhancement). These are considered further below.
+
+These rules apply if the lease was a short lease at the date of its disposal. They apply even if the lease was a long lease at the date of its acquisition.
+
+Acquisition costs
+
+TCGA92/S38 (1)(a) & TCGA92/Sch 8/Para 1 (4)
+
+Subject to the specific exceptions in CG71170 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71170) - CG71200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71200) below, the following rules apply to determine the expenditure which is allowable under TCGA92/S38 (1)(a), see CG15150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15150) onwards, on the disposal of a short lease. They apply whether:
+
+- the expenditure was actually incurred in obtaining the lease;
+
+- the ‘expenditure’ is the value of the lease at 6 April 1965;
+
+- the ‘expenditure’ is the value of the lease at 31 March 1982; or
+
+- the ‘expenditure’ is the market value of the lease at some other date.
+
+The table in TCGA92/Sch 8/Para 1 and the formula in Para 1(4) allow the amount which is to be excluded from the allowable expenditure under Section 38(1)(a) to be calculated. The amount to be excluded is:
+
+( [ P(1) - P(3) ] / P1 ) x the expenditure which would otherwise be allowable under S38(1)(a)
+
+where:
+
+- P(1) is the percentage derived from the table in Para 1 for the duration of the lease at the beginning of the period of ownership.
+
+- P(3) is the percentage derived from the table for the duration of the lease at the date of disposal.
+
+The way that this provision works in practice is illustrated by the following example.
+
+Example 1
+
+On 30 June 2012, Mr B paid a premium of £50,000 to acquire a 25 year lease over a property. On 30 June 2020, he disposed of that lease by assignment.
+
+At the date of disposal, the lease had 17 years to run and therefore the rules in TCGA92/Sch 8/Para 1 apply.
+
+Mr B’s allowable expenditure under TCGA92/S38 (1)(a) is calculated as follows:
+
+Actual expenditure
+
+= £50,000
+
+Amount of expenditure to be excluded
+
+= [ (81.100 - 66.470) / 81.100 ] x £50,000
+
+= £9,019
+
+Expenditure allowable under S38(1)(a)
+
+Expenditure |  Amount |
+
+Actual expenditure |  £50,000 |
+
+Less amount of expenditure to be excluded |  £9,019 |
+
+- |  = £40,981 |
+
+This example assumes that no relief was due to Mr B under ITTOIA2005/S62, see BIM46250 (https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim46250) onwards. Where such relief has been given, see CG71200 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg71200).
+
+Enhancement costs
+
+TCGA92/S38 (1)(b) & TCGA92/Sch 8/Para 1 (4)
+
+Just as the costs of acquiring a short lease waste away in accordance with TCGA92/Sch 8/Para 1, so too does any expenditure which qualifies under TCGA92/S38 (1)(b).
+
+In respect of such expenditure, the amount to be excluded in arriving at the expenditure to be deducted in the computation of a gain on the disposal of a lease, is arrived at using the formula:
+
+( [ P(2) - P(3) ] / P2 ) x the expenditure which would otherwise be allowable under S38(1)(b)
+
+where:
+
+- P(2) is the percentage derived from the table in Para 1 for the duration of the lease at the time that the relevant expenditure was incurred.
+
+- P(3) is the percentage derived from that table for the duration of the lease at the date of disposal.
+
+The way that this provision works in practice is illustrated by the following example.
+
+Example 2
+
+On 30 June 2012, Mr B paid a premium of £50,000 to acquire a 25 year lease over a property. On 30 June 2014, he spent £10,000 on capital improvements. On 30 June 2020, he disposed of the lease by assignment.
+
+The improvements made in June 2014 were reflected in the property, and hence in the lease, at the date of disposal.
+
+- Mr B’s allowable expenditure under TCGA92/S38 (1)(a) is £40,981, as detailed in example 1.
+
+- Mr B’s allowable expenditure under TCGA92/S38 (1)(b) is calculated as follows:
+
+Actual expenditure
+
+= £10,000
+
+Amount of expenditure to be excluded
+
+= [ (78.055 - 66.470) / 78.055 ] x £10,000
+
+= £1,484
+
+Expenditure allowable under S38(1)(b)
+
+Expenditure |  Amount |
+
+Actual expenditure |  £10,000 |
+
+Less amount of expenditure to be excluded |  £1,484 |
+
+- |  = £8,516 |
+
+Period of ownership
+
+TCGA92/Sch 8/Para 1
+
+Unless there is some specific statutory provision (as in for example, TCGA92/S152 (9)), the term ‘period of ownership’ normally means the entire period of ownership, even if part of that period falls before 31 March 1982, or indeed before 6 April 1965.
+
+However, in the context of TCGA92/Sch 8/Para 1, if the allowable expenditure under Section 38(1)(a) is the ‘wasted’ 31 March 1982 value of the lease, the period of ownership begins on 31 March 1982. If this was not the case, there would be an element of ‘double wasting’ since the value at 31 March 1982 already takes into account the wastage which has occurred prior to that date.
+
+Indexation
+
+TCGA92/S54
+
+For companies, indexation allowance is due on items of ‘relevant allowable expenditure’. In the context of the disposal of short leases, this means the expenditure after the reductions made in accordance with TCGA92/Sch 8/Para 1 (4) have been made.
+
+NOTE. If a taxpayer is within the charge to Capital Gains Tax, indexation allowance does not apply to disposals of assets on or after 6 April 2008. Previously indexation allowance had been frozen at April 1998.
+
+Part Years
+
+TCGA92/Sch 8/Para 1
+
+It will often be the case that the duration of the lease at one or more of the relevant dates, that is the dates on which P(1), P(2) or P(3) need to be determined, is not an exact number of years. If that is the case, the formula used is still the same, but the factor (P(1), P(2) or P(3)) is:
+
+The factor for the number of whole years plus 1/12th of the difference between that factor and the factor for the next highest number of years for each additional month (counting an odd 14 days or more as one month).
+
+Example
+
+If a lease has 9 years, 9 months and 15 days to run, the factor becomes:
+
+Factor for 9 Years = 43.154
+
+Factor for 10 Years = 46.695
+
+Number of whole months = 9
+
+Odd 15 days count as a month = 1
+
+Number of months:
+
+10
+
+Percentage for 12 months between year 9 and 10
+
+= percentage for 10 years – percentage for 9 years
+
+= 46.695 - 43.154
+
+= 3.541
+
+Percentage for 10 complete months
+
+= (10/12) x 3.541
+
+= 2.951
+
+Percentage for 9 years, 10 months
+
+= 43.154 + 2.951
+
+= 46.105

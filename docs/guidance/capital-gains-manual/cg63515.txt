@@ -1,0 +1,66 @@
+Investors’ Relief: rates from April 2025 and from April 2026
+Identifier: CG63515
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63515
+Published: 2025-03-17T06:37:13+00:00
+Updated: 2025-03-17T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:34:01.093371+00:00
+
+Throughout this manual, all legislative references are to Taxation of Chargeable Gains Act 1992 (https://www.legislation.gov.uk/ukpga/1992/12/contents) (“TCGA92”) unless otherwise stated.
+
+6 April 2025 – 5 April 2026
+
+Where Investors’ Relief (IR) applies to a disposal made on or after 6 April 2025 but before 6 April 2026, all or part is charged to Capital Gains Tax (CGT) at a rate of 14%.
+
+Any part exceeding the available lifetime cap is charged at the usual CGT rates applying at the time of the disposal.
+
+6 April 2026 onwards
+
+Where IR applies to a disposal made on or after 6 April 2026, all or part is charged to CGT at a rate of 18%.
+
+Any part exceeding the available lifetime cap is charged at the usual CGT rates applying at the time of the disposal.
+
+CG10249 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10249) gives an overview of the anti-forestalling rules applying to the various changes to CGT announced at Budget 2024. CG10250 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10250) provides further detail on the rule applying to unconditional contracts and CG10251 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10251) on that applying where an election is made to disapply the share reorganisation rules.  See also CG63600 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63600) which explains how the rules apply to the reduction in the IR lifetime cap from £10 million to £1 million for disposals on or after 30 October 2024.
+
+Anti-forestalling rules: Unconditional contracts
+
+The rules being introduced maintain the date of disposal for the contract but apply the new IR rates to these disposals unless the parties to the contract can demonstrate that the contract is an “excluded contract”:
+
+- that they did not enter into the contract with a purpose of obtaining a tax advantage by reason of the timing rule in section 28 (https://www.legislation.gov.uk/ukpga/1992/12/section/28), and
+
+- where the parties to the contract are connected, that the contract was entered into wholly for commercial reasons.
+
+The provision addresses the sort of arrangement shown in the examples below. Where a contract is put in place with an entity where there is no intention of completing until a ‘genuine’ buyer is found, or where it was put in place in order to lock in the lower rate applying to IR prior to a rate change day.
+
+See CG10250 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10250) for guidance on how to make a claim that the rule should not apply to excluded contracts or where such a claim is not required.
+
+6 April 2025 to 5 April 2026
+
+Where an unconditional contract is entered into on or after 30 October 2024 but before 6 April 2025, and completes on or after 6 April 2025, the anti-forestalling rules will apply such that the date of disposal will be the date the contract completes, unless a claim to disapply the rule is made.
+
+6 April 2026 onwards
+
+Where an unconditional contract is entered into in the tax year 2025/26, and completes on or after 6 April 2026, the anti-forestalling rules will apply such that the date of the disposal will be the date the contract completes, unless a claim to disapply the rule is made.
+
+Example - 6 April 2025 to 5 April 2026
+
+Chris owns shares in Red Ltd that are standing at a considerable gain and would qualify Investors’ Relief. He has no immediate intention of selling the shares but in January 2025 is made aware that on 6 April 2025 the rate of IR will increase to 14%. He was advised the set up a separate company, Blue Ltd, and enter into an agreement to sell his shares to that company for their market value at the time the contract is completed.
+
+The purpose of the Blue Ltd is to take advantage of the lower rate of IR at 10% pre-6 April 2025. This would be achieved when a third party approaches Chris to buy his shares in Red Ltd. At this point, Chris would complete the contract with Blue Ltd and the third party will then buy the shares for Red Ltd. The rule in Section 28 TCGA92 means that the disposal to Red Ltd is treated as taking place in January 2025, before the IR rate is increased.
+
+Anti-forestalling rules: elections under section 169VT
+
+An election can be made under section 169VT (https://www.legislation.gov.uk/ukpga/1992/12/section/169VT) that displaces the normal rule in section 127 (https://www.legislation.gov.uk/ukpga/1992/12/section/127) that a share reorganisation is treated as not involving any disposal of the original shares involved in the reorganisation. Here, reorganisation incudes share exchange that are treated as reorganisations by sections 135 (https://www.legislation.gov.uk/ukpga/1992/12/section/135) and 136 (https://www.legislation.gov.uk/ukpga/1992/12/section/136).
+
+The way that this rule applies for IR is fairly simple – it will apply where the individual concerned still held shares that either were either qualifying or potentially qualifying shares for the relief at the time the lifetime cap at a particular time. If they did, then any gains triggered by the election are chargeable at the IR rate in place at that date, rather than the time of the reorganisation.
+
+Reorganisations before 30 October 2024
+
+The anti-forestalling rule applies if an election is made on or after 30 October 2024 in relation to a reorganisation that took place on or after 6 April 2023 but before 30 October 2024. If the individual holds shares that are qualifying or potentially qualifying shares on the date the election is made, then the IR rates at the date the election will apply.
+
+Reorganisations on or after 30 October 2024
+
+The anti-forestalling rules apply, if an election is made on or after 30 October 2024 in relation to a reorganisation that took place on or after 30 October 2024 but before 6 April 2026. If the individual holds shares that are qualifying or potentially qualifying shares on the date the election is made, then the IR rates at the date the election is made will apply. If the individual’s shares ceased to be qualifying or potentially qualifying shares on a date between the reorganisation and the date the election is made, then the IR rates at that earlier date will apply.
+
+Example
+
+Giorgio subscribed for shares in Tradeco Ltd in August 2023 and on July 2025 he exchanged these for those in a new holding company Topco Ltd. His shares were potentially qualifying shares at the time of the exchange and became qualifying shares from August 2026. He sold his shares in January 2027 and made an election under section 169VT (https://www.legislation.gov.uk/ukpga/1992/12/section/169VT). The rule applies because he ceased to hold qualifying shares before making the election so his gain is charged at the IR rate applying in January 2027, 18% rather than that applying at the time of the exchange, 14%.

@@ -1,0 +1,80 @@
+Investors’ Relief: Share reorganisations 
+Identifier: CG63620
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg63620
+Published: 2017-09-14T15:50:17+01:00
+Updated: 2017-09-14T15:49:56+01:00
+Retrieved (UTC): 2026-09-18T14:34:05.590670+00:00
+
+TCGA92/S169VN
+
+TCGA92/S169VO
+
+TCGA92/S169VP
+
+Reorganisations where no consideration is given
+
+Where ordinary shares are exchanged for other ordinary shares in the course of a reorganisation of share capital and no consideration is given, the transaction is treated as involving neither disposal of the original shares nor acquisition of the new shares received.
+
+Instead, the “original shares” and the “new holding” following the transactions are treated as the same asset acquired when the original shares were acquired.
+
+For the new shares to be treated as a continuation of the original shares the original shares must have been:
+
+- Subscribed for by the qualifying person and
+
+- Held continuously from issue up to the reorganisation
+
+Where part of the old holding does not meet these conditions, the number of shares in the new holding to be treated as the same asset as the original shares is restricted by the following fraction -
+
+Shares in the new holding x A/B
+
+Where
+
+A = original shares that were subscribed for by the qualifying person and held continuously from issue to the reorganisation
+
+B = total number of the original shares
+
+Example 1
+
+Original Shares = 300
+
+Shares subscribed and held continuously = 200
+
+Shares acquired from a third party and held continuously = 100
+
+Say the reorganisation is a bonus issue of one bonus share for each ten originally held. The new Holding post reorganisation = 330 shares
+
+Answer
+
+Shares in the new holding x A/B
+
+330 x 200/300
+
+220 shares in the new holding will be treated as the same assets as the original shares held continuously from the date of issue.
+
+These 220 shares will be treated as having been issued on the date of the original share issue.
+
+Reorganisations where consideration is given
+
+Where consideration is given in return for shares on a reorganisation, the issue date for the new shares issued for consideration is taken to be their actual date of issue. Any part of the new holding for which consideration was not given is treated in the same way as a reorganisation not involving consideration. When applying the fraction which restricts the status of shares in the new holding, exclude any shares where consideration was given during the reorganisation.
+
+Example 2
+
+Original Shares = 300
+
+Shares subscribed and held continuously = 200
+
+Shares acquired from a third party and held continuously = 100
+
+Say the reorganisation is a rights issue of two shares for each ten originally held. After the reorganisation on 30 April 2016 = 360 shares
+
+The 60 shares issued for new consideration are treated as being issued on 30 April 2016.
+
+Shares in the new holding* x A/B
+
+300 x 200/300
+
+200 shares in the new holding will be treated for investors’ relief as the same assets as the original shares held continuously from the date of issue.
+
+*exclude shares received for consideration
+
+See CG63500 for a general description of the relief and the layout of the guidance.

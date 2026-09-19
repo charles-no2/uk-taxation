@@ -1,0 +1,28 @@
+Foreign currency: assets acquired or sold for currency
+Identifier: CG78310
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg78310
+Published: 2016-03-12T12:30:57+00:00
+Updated: 2016-01-26T18:10:02+00:00
+Retrieved (UTC): 2026-09-18T14:36:26.628427+00:00
+
+A transaction in which an asset is disposed of for some consideration which is not sterling cash, but which takes the form of some other asset, is a barter transaction. Where the bargain is at arm's length, the measure of the consideration is the sterling worth, at the date of the acquisition or disposal, of what is given or received. This rule must be followed when the ‘other asset' is foreign currency.
+
+For example, if US shares are bought for US dollars in a bargain at arm's length for full consideration:
+
+- the acquisition cost of the shares is the sterling equivalent of the US dollars given at the exchange rate in force at the date of acquisition of the shares, and
+
+- the consideration for disposal of the US dollars is the sterling value of the shares received in exchange.
+
+Since the transaction was a bargain at arm's length for full consideration, the sterling equivalent of the dollars is likely to be the same as the sterling value of the shares.
+
+On a later arm's length sale of the shares for (say) euros, the consideration for the disposal of the shares will be the sterling equivalent of the euros at the exchange rate in force at the date of disposal. The acquisition cost of the euros will be the sterling value of the shares at the same date. Again, the sterling value of the shares and euros is likely to be the same.
+
+If, in computing the gain on disposal of the shares, it is appropriate to adopt in place of the acquisition cost the value of the shares at some other date, for example at 31 March 1982, that value must be in sterling terms at that date.
+
+You should not accept a contention that the gain or loss on an asset acquired and disposed of for foreign currency should itself be computed in foreign currency and then converted into sterling at the rate ruling at the time of the disposal of the asset.
+
+The decisions in Bentley v Pike [1981] 53TC590 and Capcount Trading v Evans [1992] 65TC545 confirmed that an amount of foreign currency must be converted into its sterling value at the time the amount is incurred/received.
+
+HMRC does not prescribe what reference point should be used for the exchange rate. It is, however, expected that a reasonable and consistent method is used.
+
+Where it is claimed that the prevailing exchange rate is inappropriate because the currency is blocked, the case should be reported to the Shares and Assets Valuation.

@@ -1,0 +1,122 @@
+Private Residence Relief: deemed not a residence: residences in another territory: day count
+Identifier: cg64582
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64582
+Published: 2016-08-26T10:51:40+01:00
+Updated: 2021-05-19T14:47:56+01:00
+Retrieved (UTC): 2026-09-18T14:44:54.660461+00:00
+
+S222C TCGA92
+
+Introduction (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64582#Introduction)
+
+Qualifying House (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64582#Qualifying)
+
+Occupation by spouse or civil partner (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64582#Occupation)
+
+More than one residence in the other territory (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64582#More)
+
+Interests held for only part of a year (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64582#Interests)
+
+Introduction
+
+Where a residence is located in a territory in which the individual is not tax resident then to be eligible for nomination for a tax year a day count must be met.
+
+The minimum day count for a UK tax year is 90 days (s222C(2) TCGA92).
+
+For the purposes of this test a day is one where the individual is present in the dwelling at the end of the day i.e. midnight or was present in the house at some point in the day and stayed overnight in the house. (s222C(8) TCGA92)
+
+All days where the test is met are taken into account and these do not need to be consecutive.
+
+Example
+
+Mr A is a UK resident who has owned a holiday home property in France for many years.
+
+He goes to the holiday home and stays there for 2 nights, he visits friends on day 3 of this visit and stays overnight with them, returning to his property on day 4 where he again stays overnight. He returns to the UK on day 5 before returning to the property a week later for a day, staying until just after midnight before returning to the UK. For the day count test these two visits would represent 4 days (i.e. days 1, 2, 4 and 1 day in the second week).
+
+Where there is more than one residence in the other territory, or an interest in a residence is only held for part of a year, or there is occupation by a spouse or civil partner additional rules apply.
+
+The interaction of these rules can be complex when considering multiple residences however a property must be actually used as a residence (see CG64420+ (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg64420p)) so actual instances of cases where there is more than one residence in a territory where the individual is not tax resident are likely to be limited in number. The most likely scenario would be where an individual has one residence in the other territory which they sell and then acquire another in which case the part year rules explained below are likely to apply.
+
+Qualifying House
+
+A qualifying house is a residence in the same territory in which an individual or their spouse or civil partner has an interest (s222C(9) TCGA92).
+
+Occupation by spouse or civil partner
+
+Occupation by an individual’s spouse or civil partner counts towards the 90 day total for that individual. This includes where the spouse or civil partner was the individual’s spouse or civil partner at either the time of occupation or at the time of disposal.
+
+Where both occupy the residence on the same day, this is regarded as 1 day towards the 90 day test. It is not counted twice (s222C(7) TCGA92).
+
+Example
+
+Mr & Mrs A are both tax resident in France and have a jointly owned holiday home in the UK.
+
+In the 2018/19 UK tax year Mr A occupies the UK residence for 30 days from 6 May 2018. Mr & Mrs A occupy the UK residence for 25 days together from 6 August 2018 and towards the end of the year Mrs A occupies the residence for 30 days from 6 February 2019.
+
+The days are 85 i.e. 30+25+30 so the day count test is not met, and the residence would not be eligible for nomination.
+
+More than one residence in the other territory
+
+Where this applies then for the purposes of the 90 day test, occupation of any of these different residences all count towards the 90 day test.
+
+Example
+
+Mr D is tax resident in France and has two additional residences in the UK during the 2019/20 UK tax year. Both residences are held throughout the year. He occupies UK residence 1 for 40 days in the year and UK residence 2 for 55 days.
+
+The total days are 95 so the day count test is met.
+
+Both UK residences would be eligible for nomination for the 2019/20 year.
+
+Where there is occupation by an individual’s spouse or civil partner, any different days of occupation will also count towards the 90 day test. Again, this includes where the spouse or civil partner was the individual’s spouse or civil partner at either the time of occupation or at the time of disposal.
+
+Example
+
+Mr D is tax resident in France and has an interest in two additional residences in the UK during the 2019/20 UK tax year. He occupies UK residence 1 for 40 days in the year and UK residence 2 for 45 days.
+
+The total days for Mr D are 85 so the day count test is not met.
+
+However, if Mrs D occupies one of the properties for 10 days when Mr D is in France, the total day count is 95 days so the day count is met.
+
+If for any of the days on which Mrs D occupied one of the UK residences Mr D occupied the other, these days of her occupation would not count towards the 90 day test.
+
+Interests held for only part of a year
+
+If an interest is only held in a residence for part of a year e.g. in the year of acquisition, the 90 day test is modified and applies on a pro rata basis. The fraction to be applied is:
+
+Number of days an interest is held in the part of the tax year / Number of days in the tax year x 90
+
+The result is rounded up.
+
+Example
+
+In 2019/20 Mr E, a tax resident in Germany, acquires an interest in a UK property that he uses as a residence. The interest is held for 200 days in the year.
+
+The relevant fraction is:
+
+200 x 90
+
+365
+
+= 50
+
+Mr E needs to occupy the residence for at least 50 days out of the 200 for it to be eligible for nomination.
+
+If there is more than one residence in a year and an interest in one or more of these residences is held for less than a whole year then the residence that has only been held for part of the year must be considered separately.
+
+Example
+
+Mr F is a tax resident in Germany. He has a residence in the UK that he has held for many years and he acquires a further residence in the UK on 6 July 2019.
+
+The existing UK residence is occupied for 15 days before 6 July and 55 days after this date. The second residence is occupied for 25 days.
+
+For the existing residence the full year is considered. The occupation days would be 95 so the 90 day test is met.
+
+For the newly acquired residence the relevant fraction is:
+
+274 x 90
+
+365
+
+= 68
+
+The occupation days would be 80 (25 + 55) so the day count test would also be met for the new residence. Both properties would be eligible for nomination.

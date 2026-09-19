@@ -1,0 +1,44 @@
+Plant and Machinery Allowances (PMA): hire purchase: notional ownership
+Identifier: CA23310
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23310
+Published: 2016-04-16T08:48:15+01:00
+Updated: 2019-10-16T18:30:17+01:00
+Retrieved (UTC): 2026-09-18T16:20:46.170991+00:00
+
+CAA01/S67
+
+Ownership condition for claiming PMAs
+
+In order for expenditure to be ‘qualifying expenditure’ for PMA purposes, the person must ‘own’ the plant or machinery as a result of incurring the expenditure (CA23010 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23010)). Furthermore, a person cannot claim AIA, FYA or pool expenditure in a chargeable period unless the person ‘owns’ the plant or machinery at some time in that chargeable period (CAA01/S51A(1)(b), S52(1)(b) and S58(4)).
+
+Ordinarily, ‘ownership’ for PMA purposes means absolute ownership in law or equity (Stokes v Costain Property Investments 57 TC 688).
+
+When a person buys an asset under a hire purchase or similar contract (where the person makes use of the asset while paying for it in instalments and where title shall or may be transferred on performance of the contract) the person cannot satisfy the absolute ownership condition while the payments are being made. That is because ownership does not pass until the last payment is made.
+
+The legislation in Section 67 treats the person making the payments under the contract as the owner of the asset as soon as that person is entitled to the benefit of the contract. It also stops anyone else, even the actual owner, being treated as the owner of the asset for CA purposes. This means that when the buyer / lessee becomes entitled to the benefit of the contract the seller has to bring a disposal value to account.
+
+Timing of PMA entitlement
+
+The legislation in Section 67 is very generous. It also lets the person claim allowances on payments that have yet to be made as soon as the asset is brought into use. This means that the person can claim PMA now on payments that will be made in the future.
+
+Example
+
+Bob enters into a contract on 24 May 2017 to buy a computer from Robbie. He pays £5,000 on 24 May 2017 when he enters into the contract and then there are five payments of £1,000 at yearly intervals. He brings the computer into use on 4 July 2017. Bob is treated as owning the computer from 24 May 2017 onwards, the date of the contract, and Robbie is treated as ceasing to own it. Bob can claim PMA on the initial payment of £5,000 then. He can claim PMA on the five payments on £1,000 each of which he has still to make when he brings the computer into use on 4 July 2017.
+
+Extra rules for lease purchase contracts
+
+There are extra rules where the contract is a lease purchase contract.
+
+The person buying the asset under the lease purchase contract (the lessee) is not treated as the owner of the asset during the duration of the contract unless that person would treat the contract as a finance lease in accordance with generally accepted accounting practice.
+
+For example, a contract that contains an option for the lessee to buy the asset for market price at the end would not be treated as a finance lease by the lessee. This means that the lessee is not treated as the owner of the asset until it actually buys the asset and so it cannot get PMA until it pays the option price.
+
+If the contract would not be treated as a finance lease by the lessee, the lessee is not treated as the owner and cannot claim PMA but the legislation that stops anyone else being treated as the owner still applies. So if the seller has claimed PMA the seller has to bring a disposal value to account.
+
+Two or more agreements
+
+A person may enter into two or more agreements that taken together satisfy the requirement that a person shall or may become the owner of an asset on performance of the contract. For example, a person whose religion forbids paying interest may buy an asset using alternative finance arrangements. These may involve two or more contracts that taken together give the buyer ownership of the asset on performance of the contracts. If so you should treat the agreements as a single contract to which the hire purchase legislation applies.
+
+Cessation of entitlement to the benefit of the contract
+
+If the person stops being entitled to the benefit of the contract without ever becoming the real owner of the asset the person is treated as ceasing to own the asset. This means that the person has to bring a disposal value to account - CA23330 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23330).

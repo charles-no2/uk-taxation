@@ -1,0 +1,18 @@
+Non-resident companies: tax adjustment and reliefs: tax relief ordering rules
+Identifier: CG57375
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg57375
+Published: 2016-03-12T11:43:30+00:00
+Updated: 2023-08-21T10:18:25+01:00
+Retrieved (UTC): 2026-09-18T14:43:53.168116+00:00
+
+Where the events which could give rise to relief under TCGA92/S13(5A)* and (7) occurred within a single tax year, there could, in certain circumstances, be computational problems. To prevent this subsection (7A) set out the order of priority to be given to each tax charge. In ascertaining for the purposes of subsections (5A) and (7) the amount of CGT or IT which is chargeable on a person for a year, the order was
+
+- any distribution which is chargeable as income is treated as the top slice of income for that year
+
+- any gain accruing on the disposal of any asset representing the participator’s interest in the non-resident company is treated as the top slice of gains for that year
+
+- any gain accruing on a capital distribution is treated as the second slice of gains for that year
+
+- the gain attributed to the participator under Section 13 is treated as the third slice of gains for that year.
+
+* TCGA92/S13 was re-written for disposals from 6th of April 2019 see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

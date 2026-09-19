@@ -1,0 +1,50 @@
+ETMD: transparent entities: taxation after transfer of part of a business or a merger
+Identifier: CG45728
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45728
+Published: 2016-03-12T11:08:54+00:00
+Updated: 2023-04-26T11:15:00+01:00
+Retrieved (UTC): 2026-09-18T14:41:15.084872+00:00
+
+Where there is a merger and the transferor is opaque but the transferee is a transparent entity then despite the application of TCGA 1992 section 140J it is still possible for double taxation to arise when the shareholder or debenture holder disposes of their shares or debentures in the transferor opaque company.
+
+The following example illustrates how this can happen.
+
+- Company B is registered and resident in the UK. It has two shareholders, Barry and Clive, both of whom are UK resident, and each holds 50% of the ordinary share capital in B. A is a non UK company and in accordance with section 140L1(c) it is a transparent entity despite the fact that it is treated as opaque in the member state in which it is resident. A is owned by two individuals, Gert and Honore neither of whom are UK resident. B is to merge with A and in return A will issues interests in that entity to Barry and Clive. A continues to carry on B’s business through a UK permanent establishment.
+
+- Having established that A, the transferee, is listed in annex 3 of the ETMD- that it is a transparent entity- that irrespective of that fact the conditions with section 140E are met, and that all of the relevant conditions within section 140J are met then section 140J applies.
+
+- Section 140J(2)(b) directs that section 140G will not apply. This means that Barry and Clive do not have the benefit of the fictional non disposal rule in section 127 consequently they each have a chargeable occasion on the disposal of their shares in company B when that company merges with company A.
+
+- Assuming that Barry and Clive’s capital gains base cost in the shares in company B was £200 each and that the market value of the assets transferred to A was £1,000 then ignoring all other factors such as losses Barry and Clive each have a chargeable gain of £300, (£500 - £200) on the disposal of their shares in company B.
+
+- As A is a transparent entity neither Barry nor Clive acquire a chargeable asset in respect of the interests acquired in A but instead the chargeable assets they each acquire are an interest in the assets held in A relative to their holding in that entity. We will assume that Barry and Clive acquired a 25% interest with Gert and Honore also holding 25% each.
+
+- Some time after the transfer A disposes of the assets that were transferred to it by company B for the sterling equivalent of £1,600. Section 140J(2)(b) only disapplied section 140G. It did not disapply section 140E and therefore the no gain no loss rule in section 140E(3) still has effect. As a result the capital gains base cost of the assets transferred by B to A was £400.
+
+- Therefore when A makes a disposal of assets then for the purposes of establishing any chargeable gain arising to Barry and Clive their base cost in the assets would be 25% of £400 (£100) and the proceeds would be 25% of £1,600 (£400). The result is that they each have a chargeable gain of £300.
+
+- However both Barry and Clive have in effect been charged to tax twice on the same asset. Firstly when the assets were transferred to A and secondly when A disposed of them to a third party. If the base cost of the assets held by A had been their market value at the time of the transfer, £1,000, then Barry and Clive’s chargeable gain on the disposal their interest in the assets held by A would have been £150 (£400 - £250 (25% of £1,000)). When you add the chargeable gain on the disposal of their shares in A the total chargeable gains would have been £450. As it is they both have chargeable gains of £600.
+
+Section 140K provides the necessary rules for mitigating the double charge by providing that the capital gain base cost for Barry and Clive on the disposal of their interest in the assets disposed of by A will be their proportion of the interest relative to the value taken into account when computing the gain on the disposal of their shares in company A. See CG45729 for an explanation of the conditions which have to be met before section 140K can apply.
+
+Thus the chargeable gain computation for Barry and Clive as set out in point 7 of the above example would now be
+
+- |  Amount |
+
+Proceeds (25% x £1,600) |  £400 |
+
+Less base cost (25% of £1,000) |  £250 |
+
+Chargeable gain |  £150 |
+
+Notice that for both Barry and Clive the gain of £150 for each is equal to the appreciation in the value of the asset from the time of the transfer to the time of the disposal by A.
+
+The total gains chargeable on Barry and Clive are now
+
+- |  Amount |
+
+Chargeable gains on the disposal of the shares in B |  £300 |
+
+Chargeable gains on the disposal of the interest in the assets disposed of by A |  £150 |
+
+Total |  £450 |

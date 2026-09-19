@@ -1,0 +1,34 @@
+Changes in shareholdings: investments forming part of the new holding
+Identifier: IHTM34184
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34184
+Published: 2016-04-09T10:11:49+01:00
+Updated: 2017-11-07T16:01:57+00:00
+Retrieved (UTC): 2026-09-18T15:07:16.415931+00:00
+
+The legislation does not clearly indicate what figure to take for the unadjusted value in respect of investments forming part of a new holding resulting from a transaction under IHTA84/S183. You should take
+
+- a proportion of the unadjusted value of the new holding (which is the same as the unadjusted value of the original holding)
+
+- based on the respective values on death of the investments sold or exchanged and of the new holding.
+
+Example
+
+The Abacus trust fund includes 1,000 Armitage Ltd shares valued immediately before death at £1,000. Two months after the death the trustees take up a 1 for 2 rights issue at £1 per share (paying £500). There is now a new holding of 1,500 shares and the date of death value of £1,500. Six months later they sell half the holding for £200.
+
+Applying the formula in IHTA84/S183 (5), the value on death of the investments sold is
+
+£200 × (£1,500 - £0) ÷ (£200 + £200) = £750
+
+Without the provisions in IHTA84/S188, the loss of sale would be;
+
+£750 - £200 = £550.
+
+But this exceeds the unadjusted value which is
+
+£750 ÷ £1,500 × £1,000 = £500
+
+The relief is restricted (IHTM34230 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34230)) under IHTA84/S188 and the sale value is treated as:
+
+£750 - £500 = £250, making a loss of £500.
+
+You should refer any case where this approach is resisted to Technical (IHTM01081 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm01081)).

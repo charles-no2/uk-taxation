@@ -1,0 +1,73 @@
+Qualifying corporate bonds: definition - expressed and redeemable in sterling: examples
+Identifier: CG53707
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53707
+Published: 2016-03-12T11:33:07+00:00
+Updated: 2021-08-27T16:38:24+01:00
+Retrieved (UTC): 2026-09-18T14:43:01.617863+00:00
+
+This paragraph provides examples of the type of approach that is required when applying TCGA 1992 sections 117(1)(b) and (2). The examples deal with questions of whether a security is expressed in sterling or redeemable in a currency other than sterling and the facts provided are not necessarily all of the facts that would have to be taken into account when reaching a decision, but for convenience it may be assumed that there are no other factors which prevent the security coming within the meaning of a qualifying corporate bond. AZ Ltd is a UK resident company.
+
+Q1 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53707#IDABSK3C)
+Q2 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53707#IDAPSK3C)
+Q3 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53707#IDA3SK3C)
+Q4 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53707#IDALTK3C)
+Q5 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53707#IDAZTK3C)
+Q6 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53707#IDAHUK3C)
+Q7 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53707#IDAVUK3C)
+Q8 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53707#IDAIVK3C)
+
+Q1
+
+Mr A purchases a security from AZ Ltd and the financial instrument shows a face value of £100,000. Is the security expressed in sterling?
+
+A1: Yes. Although there is no statutory definition of the term ‘expressed in sterling’ it can be taken to mean the face value of the security as presented in the relevant documentation in pounds sterling.
+
+Q2
+
+Miss B purchases a security from AZ Ltd and the financial instrument shows a face value of US$100,000. Is the security expressed in sterling?
+
+A2: No. The face value of the financial instrument is not shown in pounds sterling.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53707#Top)
+
+Q3
+
+Company C, a UK resident company, purchases a security from AZ Ltd and the financial instrument shows a face value of US$100,000. Is the security expressed in sterling?
+
+A3: No for the same reasons as in Q2 but you should note that as the purchaser of the security is a UK resident company liable to corporation tax then the Loan Relationship rules will apply to the company; consequently under section 117(A1) the security will automatically be a QCB irrespective of the fact that it does not meet the test in section 117(1)(b).
+
+Q4
+
+Mrs D purchases a security from AZ Ltd and the financial instrument shows a face value of £150,000. The terms of the security provide that on redemption Mrs D can elect to be repaid in sterling or in US Dollars. On redemption Mrs D elects to have the security redeemed in sterling. Is there a provision for redemption in a currency other than sterling?
+
+A4: Yes. The test in section 117(1)(b) is not directed at what happened but whether there is a provision for the security to be redeemed in a currency other than sterling. The fact that Mrs D did not elect to have the security redeemed in US$ is neither here nor there. All that has to be considered is whether there is a provision for her to do so.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53707#Top)
+
+Q5
+
+Mr E purchases a security from AZ Ltd and the financial instrument shows a face value of £175,000. The terms of the security provide that on redemption Mr E can elect to be repaid in sterling or in US Dollars. The redemption date is in three years time with no provision for earlier redemption but the agreement stipulates that the choice to elect to have the security redeemed in US Dollars expires one month after the security is acquired. Mr E did not exercise his right to have the bond redeemed in US Dollars and the security is redeemed in sterling at the date of maturity. At the time the security is purchased there is clearly a provision for redemption in a currency other than sterling. However, does the fact that the provision for redemption in US Dollars cannot be exercised at the time of maturity produce a different answer from that in example 4 above?
+
+A5: No. The principles of this example are taken from a tax case Harding v HMRC, 79TC885. The Court of Appeal decided that the word “provision” in section 117(1)(b) TCGA 1992 is a reference to the terms of an agreement and not simply to subsisting rights. A security will make “provision” for redemption in a non-Sterling currency if it contains such a term, even if it can no longer be exercised. CG53729 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53729) provides more detail including the distinction between ‘Harding’ and another case in which the relevant agreement was amended to remove such a provision.
+
+Q6
+
+Miss F purchases a security from AZ Ltd and the financial instrument shows a face value of £200,000. The terms of the security provide that on maturity Miss F will receive sterling but the amount of sterling is linked to the value of a sum of US Dollars translated at the exchange rate prevailing at the date of redemption. Is the security to be regarded as expressed in sterling?
+
+A6: No. Although the security is literally expressed in sterling, and so the first part of the test in section 117(1)(b) appears to be met, and although Miss F will receive sterling on redemption, the effect of section 117(2)(a) is that the security is not regarded as being expressed in sterling. This is because the amount of sterling in question depends on the value of some other currency ie. US Dollars. Depending on the exchange rate, there is likely to be a currency gain or loss. (If the amount of sterling were determined by reference to some other asset such as the price of gold, there would likely be a gain or loss attributable to the movement in that asset’s value.)
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53707#Top)
+
+Q7
+
+Mrs G purchases a security from AZ Ltd and the financial instrument shows a face value of £250,000. The terms of the security provide that on maturity Mrs G will receive the face value of the security but instead of being paid in sterling she will receive Euros using the spot rate of exchange at the date of redemption. Does the fact that Mrs G will receive Euros mean that there is a provision for redemption in a currency other than sterling?
+
+A7: No. Whilst there is a provision for redemption in a currency other than sterling, section 117(2)(b) directs that this can be disregarded provided that the provision for redemption in a currency other than sterling uses the rate of exchange prevailing at redemption.
+
+In effect what Mrs G is receiving on maturity is £250,000. The fact that she actually receives an equivalent amount of Euros does not alter the sterling value on redemption. Contrast this with Q6 where, dependent on the rate of exchange at the relevant date, Miss F could have received more than or less than the sterling equivalent of £200,000.
+
+Q8
+
+The facts are the same as those in Q7 above except that 4 days before the date of maturity AZ Ltd, the debtor, purchases an amount of Euros equivalent to £250,000. Does this affect the answer in Q7 above.
+
+A8: No. As explained in CG53707 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53707) HMRC acknowledges that a company may need a short time to acquire the necessary currency and as a consequence is prepared to accept that currency purchased up to 10 days before the date of disposal or maturity will come within the term, ‘prevailing at the date of exchange.’

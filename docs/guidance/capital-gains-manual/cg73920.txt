@@ -1,0 +1,74 @@
+NRCG and the exemptions: Disposals from 6 April 2019: Introduction
+Identifier: CG73920
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73920
+Published: 2020-02-05T11:57:50+00:00
+Updated: 2026-07-01T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:35:52.498727+00:00
+
+The rules from 6 April 2019 follow the basic principles of the previous NRCGT rules (see CG73700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73700)+). A basic overview of the history of the non-resident CG rules is in CG73700.
+
+The new NRCG rules replace and expand on these rules to include all disposals of UK land (direct disposals) and the disposal of interests in UK Property Rich companies (indirect disposals). These apply to all disposals from 6 April 2019.
+
+Some key features of the legislation:
+
+The charge
+
+For a non-resident person within the scope of Capital Gains Tax the charge is created by TCGA92/S1A(3).
+
+Also see S1G(2) where the disposal is in the overseas part of a split year. Guidance on the Statutory Residence Test and what amounts to a split-year can be found in the RDR3: Statutory residence Test.
+
+For companies a non-resident CG disposal is within the charge to Corporation Tax.
+
+A disposal does not come within the charge to the extent that any part of a gain accruing to the person would be chargeable to CGT under TCGA92/S1A(3)(a) (non-resident with UK branch or agency), or TCGA92/S2C (non-resident company with UK permanent establishment).
+
+Direct and indirect disposals
+
+A disposal of an interest in UK land will be a direct disposal within the scope of the new rules. An indirect disposal is where the disposal of interest involves rights to assets that derive at least 75% of their value from UK land, see CG73930 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73930)+.
+
+Where the charge is to Capital Gains Tax (CGT):
+
+Annual Exempt Amount
+
+This applies for a person within the scope of CGT (TCGA92/S1K and Sch 1C)
+
+Rates of CGT
+
+TCGA92/S1H and 1I determine the rates of CGT. Where the disposal is a direct disposal that gives rise to a residential property gain (TCGA92/Sch1B) the gain would be chargeable at 18 or 28%. For direct disposal of other UK land that rate would be 10 or 20%.
+
+Where the disposal is an indirect disposal of any UK land the rate would be 10 or 20%.
+
+When determining the rate of non-resident CGT for individuals, consideration is taken in the same way as for UK residents of the amount of income taxable in the UK or other gains to determine whether any part of an individual’s gains are taxed at the lower rate of 10/18% or higher 20/28%.
+
+Use of losses – CGT applies
+
+NRCG is charged on the total chargeable NRCG gains for a tax year after deducting certain allowable losses.
+
+The losses that may be set against NRCG gains comprise any allowable losses accruing to the person in the tax year in question on disposals within TCGA92/S1A(3) , plus any allowable losses accruing to the person in previous tax years, so far as they have not already been allowed as a deduction from chargeable gains and those brought forward losses are from disposals of assets within TCGA92/S1A(3) see TCGA92/1E(2).
+
+If for an individual the year is a split year then only losses on disposals of assets that are direct or indirect disposal of interests in UK land i.e. within TCGA/S1A(3)(b) or (c) can be deducted from gains on the direct or indirect disposals of interests in UK land. If losses arise in the overseas part of the split year on direct or indirect disposals of interests in UK land, providing they have not otherwise been used they can be deducted from gains of the UK part of the split year see TCGA92/S1G(4).
+
+No other deductions are allowed, except as permitted by TCGA92/S62 (carry-back of losses accruing in year of death).
+
+For the transitional provisions on unrelieved losses at 5 April 2019 see para 121 Sch1 FA2019.
+
+Where the charge is to Corporation Tax (CT):
+
+Use of losses – CT applies
+
+The restrictions that apply for CGT do not apply for CT. For CT purposes any losses are treated in the same way as any other allowable loss. Any unused ATED related CGT or NRCGT losses in the periods to 5 April 2019 can be carried forward and allowed in the same way as any other brought forward allowable loss.
+
+For the transitional provisions on unrelieved losses at 5 April 2019 see para 121 Sch1 FA2019.
+
+FA2020/Sch4 introduced the Corporate Capital Loss Restriction that restrict the use of carried forward capital losses for corporation tax purposes and applies to the use of such losses from 1 April 2020. There are special rules that deal with the situation where a non-UK company is only within the charge to Corporation Tax in respect of UK property gains and therefore may have a very short accounting period. Those rules are explained in Parts 7 to 7C of Appendix 17 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#Section-7) to this manual.
+
+General Exemptions
+
+Reliefs that prevent gains on disposals by certain types of person from being chargeable gains also apply to exempt gains that are NRCG’s from being chargeable gains. So persons entitled to these reliefs are effectively outside the scope of the charge. The reliefs include the exemptions for:
+
+- gains accruing to AUTs, OEICs, investment trusts, and VCTs - TCGA92/S100 (1)
+
+- gains accruing to unauthorised unit trusts meeting the conditions in TCGA92/S100 (2) to (2B) - see CG41352 onwards
+
+- gains accruing to charities that meet the conditions for charitable exemption - TCGA92/S256 to S256D - see CG67500C
+
+- gains accruing on assets held for the purposes of a ‘registered pension scheme’. This may include an ‘overseas pension scheme’ - TCGA92/S271 (1A).

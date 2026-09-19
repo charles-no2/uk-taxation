@@ -1,0 +1,44 @@
+Lifetime transfers: basis of valuation: burden of tax
+Identifier: IHTM14012
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14012
+Published: 2016-04-09T09:16:40+01:00
+Updated: 2016-02-11T17:03:01+00:00
+Retrieved (UTC): 2026-09-18T14:57:18.675323+00:00
+
+Transfers which are not potentially exempt transfers (IHTM04057 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04057)) are immediately chargeable (IHTM04067 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04067)).
+
+The transferor is primarily liable for the Inheritance Tax payable when an immediately chargeable transfer is made. The transferees have secondary liability and may pay the tax instead of the transferor.
+
+Where the tax is paid by the transferor IHTA 84/S5 (4) means that you need to deduct the tax paid when valuing the transferor’s estate immediately after the transfer. So, with immediately chargeable transfers, you need to know who is paying the tax on the transfer to work out the loss to the estate (IHTM04054 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04054)).
+
+- If the transferor pays the tax, the loss to the estate includes the tax. So the net gift to the transferee has to be grossed up (IHTM14593 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14593)) to arrive at the value transferred.
+
+- If the transferee pays the tax the value transferred does not include the tax. It is not necessary to gross up the transfer if the transferee pays the tax.
+
+Further tax may also be payable on an immediately chargeable transfer if the transferor dies within seven years of the transfer. The transferor is not liable for any further tax payable on their death.
+
+Example
+
+Zoe makes transfers of £425,000 to a discretionary trust on 7 June 2014. She is paying the tax on the transfer so the transfer has to be grossed up (IHTM14593 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14593)).
+
+The grossing calculation is:
+
+- Amount of transfer = £425,000, less nil rate band - £325,000 = £100,000.
+
+- Gross up at 20% (or multiply by 100 ÷ 80) = £125,000
+
+- Add back nil rate band + £325,000
+
+- Grossed up value of transfer = £450,000
+
+The tax payable by Zoe on the transfer is:
+
+- Grossed up value of the transfer = £450,000
+
+- Less the nil rate band - £325,000 = £125,000
+
+- Tax at 20% (half death rate (IHTM14534) = £25,000
+
+Therefore the loss to Zoe’s estate is the transfer of £425,000 plus the tax of £25,000, which equals £450,000.
+
+If the transferee pays the tax there is no need to gross up and the tax would be £425,000 less the threshold = £100,000. Tax on £100,000 at 20% is £20,000.

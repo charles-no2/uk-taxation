@@ -1,0 +1,42 @@
+Charge on beneficiary of non-resident settlement – TCGA92/S87: Interaction of a Temporary period of non-residence and disregarded capital payments for 2018-19 and later years
+Identifier: CG38708
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38708
+Published: 2018-11-01T10:38:35+00:00
+Updated: 2026-09-09T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:47:27.865535+00:00
+
+S87E and S87P\TCGA1992
+
+Where a capital payment has been disregarded because it was made to a non-resident (see CG38703 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38703)) or a migrating beneficiary (See CG38706 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38706)) it is possible that the capital payment was made in a temporary period of non-residence. Where the period away was a temporary period of non-residence any capital payments initially disregarded in this period are brought back into account and treated as received in the period of return.
+
+This means that a capital payment received in 2018/19 or later that is disregarded for a year may need to be brought back into account for matching purposes in a later year if the individuals’ absence from the UK is only temporary.
+
+Guidance on the temporary non-residents rules are in the RDR3 Guidance Note: Statutory Residence Test. There is also material at CG25797 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg25797)+.
+
+Example 1: Capital payments are made as follows in 2018/19:
+
+100 to MR A a UK resident
+
+100 to MR B a non-UK resident. Mr B becomes UK resident again for 2019/20 and 2018/19 was part of the temporary period of non-residence. The 2019/20 year includes the period of return.
+
+Trustees section 2(2)* amount 100 for 2019/20
+
+When considering which capital payments should be matched those to Mr B are treated as received for 2019/20.
+
+Gains of 100 would be treated as accruing to Mr B for 2019/20. This is because capital payments of the year in which section 2(2)* amounts arise are considered before earlier years. See CG38721 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38721).
+
+Example 2: Capital payments have been made as follows and the capital payments before 2018/19 have not previously been matched to section 2(2)* amounts.
+
+100 to Mr A in 2016/17. Mr A has been UK resident for many years
+
+100 to Mr B in 2016/17. Mr B was resident in 2016/17 but was non-resident for 2018/19 and became resident again for 2019/20 which includes the period of return.
+
+Trustees section 2(2)* amounts 100 for 2018/19, 100 for 2019/20
+
+Although originally resident when the capital payment was received by Mr B it was not taken into account for 2018/19 because Mr B was not resident for 2018/19 (s87N\TCGA1992). Gains of 100 would be treated as accruing to Mr A for 2018/19.
+
+The capital payment to B was not taken into account for 2018/19 because of s87N however that capital payment is taken into account for 2019/20 because this year includes the period of the return (s87P\TCGA1992).
+
+In contrast to the rules that apply for the years to 2017/18 an individual is no longer potentially exposed to a charge under s87 by reference to capital payments received before they first become UK resident.
+
+*This section was re-written for disposals from 6 April 2019 to section 1(3) see CG10150 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg10150).

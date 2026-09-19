@@ -1,0 +1,38 @@
+Employees using own vehicles for work: more than one vehicle of the same kind used during the tax year
+Identifier: EIM31370
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31370
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2026-05-21T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:12:54.174189+00:00
+
+Section 230 ITEPA 2003
+
+This page illustrates how the calculation of chargeable mileage allowance payments and mileage allowance relief (EIM31235 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31235)) for business travel (EIM31260 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31260)) in the employee’s own vehicle is modified when more than one vehicle of the same kind is used during the tax year.
+
+Example: for 2025 to 2026
+
+Employee L owns a car and a van, using both for business travel; these are both of the same kind (EIM31240 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31240)). L drives 6,000 business miles in the car and 5,000 business miles in the van in the tax year 2025 to 2026 and is paid 45 pence a mile for all business miles travelled, whichever vehicle is used.
+
+The car and van are of the same kind, so the calculation at EIM31235  (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31235)puts them together:
+
+Step 1: find the amount of mileage allowance payments (MAPs) received
+
+MAPs received: 11,000 miles × 45 pence = £4,950
+
+Step 2: deduct the approved (exempt) amount (see EIM31230)
+
+- first 10,000 miles at 45 pence: 10,000 × 45 pence = £4,500
+
+- additional miles at 25 pence: 1,000 × 25 pence = £250
+
+- total exempt amount = £4,750
+
+Step 3: is the answer positive or negative?
+
+The answer is positive:
+
+- excess over AMAPs is taxable and reported on P11D, in this example the amount in excess over AMAPs is £200
+
+- AMAPs exempt amount is £4,750
+
+For an example dealing with more than one vehicle of different kinds, see EIM31375 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim31375).

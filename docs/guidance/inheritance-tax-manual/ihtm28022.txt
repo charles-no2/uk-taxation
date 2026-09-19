@@ -1,0 +1,22 @@
+Liabilities: restricted deductions: borrowed money used to acquire assets that qualify for both agricultural and business relief
+Identifier: IHTM28022
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28022
+Published: 2016-04-09T09:52:22+01:00
+Updated: 2026-04-07T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T15:03:56.973786+00:00
+
+Where an asset qualifies for both agricultural and business relief, IHTA84/S114 (IHTM24151 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24151)) directs that agricultural relief applies to the agricultural value first, with business relief applying to any excess value over the agricultural value of the asset. So, where the liability exceeds the agricultural value of the asset, there will be no agricultural relief to be deducted against the estate. The balance of the liability should then be set against the non-agricultural value of the asset to arrive at the value of the asset which may qualify for business relief.
+
+If the liability is more than the open market value of the asset, any excess can be set against any other chargeable assets. If the other chargeable assets qualify for business relief, the balance of the liability must be set against those assets that qualify for business relief before being set against any other assets that are chargeable to tax, subject to the liability meeting the provisions of IHTA84/S175A (IHTM28027 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm28027)).
+
+Example
+
+Leon borrows £800,000 which he uses to buy a farm which he then farms himself. On Leon's death the estate is worth £2m, of which the farm is worth £1m with an agricultural value of £750,000.
+
+The liability of £800,000 was incurred to finance the acquisition of assets that are both relevant business assets and agricultural assets. IHTA84/S114 provides that where both agricultural relief and business relief can apply to the same asset agricultural relief is given in priority to business relief.
+
+Under IHTA84/S162B(4) the agricultural value of the agricultural property is reduced from £750,000 to nil, leaving no value qualifying for agricultural relief.
+
+The remaining £50,000 liability is deducted from the £250,000 value of the relevant business property, leaving £200,000 which can qualify for business relief.
+
+So, if Leon has sufficient 100% relief allowance available (see  (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25500)IHTM25500 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25500)), the value of the estate of £2m is reduced by business relief of £200,000 and, subject to it meeting the provisions of IHTA84/S175A, the liability of £800,000, leaving a chargeable value on death of £1m.

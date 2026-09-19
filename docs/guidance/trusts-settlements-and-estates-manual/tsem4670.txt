@@ -1,0 +1,52 @@
+Settlements legislation: Rules affecting non-domiciled and deemed domiciled settlors of non-resident trusts from 6 April 2018 – 5 April 2025: Cases where settlor liable following onward gift 
+Identifier: TSEM4670
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4670
+Published: 2025-04-07T08:07:03+01:00
+Updated: 2025-04-07T08:07:03+01:00
+Retrieved (UTC): 2026-09-18T16:19:57.744055+00:00
+
+The guidance on this page relates to the period 6 April 2017 - 5 April 2025. From 6 April 2025 the rules around the taxation of non-UK domiciled individuals ended and individuals are taxable based on their residence position only. Detailed guidance on the changes from 6 April 2025 can be found at TSEM4700 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4700) onwards.
+
+This paragraph looks as situations where the settlor is liable to tax following an onward gift as set out in ITTOIA 05/S643L.
+
+ITTOIA 05/S643L applies to tax the settlor on the onward payment if the subsequent recipient of the onward gift is a close member of the settlor’s family (TSEM 4650) and is either:
+
+-
+
+UK resident and a remittance basis user for the charging year, but none or only part of the onward payment is remitted to the UK in the charging year,
+
+or
+
+-
+
+Is not UK resident in the charging year.
+
+For the settlor to be assessable on the onward gift they must be resident in the UK at a time in the charging year and not be UK domiciled or deemed domiciled by virtue of Condition A of ITTOIA 05/S835BA (see INTM603200 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm603200)).
+
+If the above conditions are met, then the effect of ITTOIA 05/S643L is to treat the onward gift as arising to the settlor. The amount of the deemed income is:
+
+-
+
+The amount of the onward payment attributable to the gift, or
+
+-
+
+If the remittance basis applies, the amount that is not remitted to the UK by the close member of the settlor’s family.
+
+When calculating the amount of income on which the settlor is to be taxed under ITTOIA 05/S643L we deduct any part of that amount that is chargeable to income tax under any other provisions of the Taxes Acts.
+
+The settlor has the right to recover the tax paid as a result of ITTOIA 05/S643L from the subsequent recipient and may obtain a certificate from HMRC of the deemed income and the income tax paid on it. This certificate should specify the amount of income concerned and the amount of tax paid.
+
+Example 1
+
+Anthony is UK resident and becomes deemed domicile under condition B in the UK for the years 2019/20 because he has been resident in the UK for more than 15 of the last 20 years. During the tax year 2015/16 Anthony settled the Anthony Discretionary Settlement in the Isle of Man. Anthony is a beneficiary of the trust.
+
+Richard is Anthony’s civil partner. Richard is UK resident but is non-UK domiciled and a remittance basis user. Richard is a potential beneficiary of the Anthony Discretionary Settlement. In 2019/20 Richard would like to receive a distribution from the Trust, but rather than receive it directly it is decided that it will be routed through Hamid. Hamid is a friend of the couple, and he is not resident in the UK. For the purposes of this example, it is assumed that all of the conditions of ITTOIA 05/S643I are met.
+
+In 2019/20 the trustees of the Anthony Discretionary Settlement make a capital distribution of £15,000 to Hamid. There is sufficient protected foreign source income within the trust to match against the distribution in 2019/20. Hamid makes a gift of the £15,000 to Richard. Richard has not remitted any of the gift to the UK in 2019/20.
+
+As a result of ITTOIA 05/S643L Anthony would be treated as having deemed income of £15,000 in the year 2019/20 and we would assess Anthony on the income of £15,000.
+
+If Richard were to remit any of the £15,000 to the UK in a subsequent tax year, he would not be chargeable to income tax on it. It should also be noted that Anthony would have the right to recover the tax he paid from Richard.
+
+If during the year 2019/20 Richard had remitted some of the gift of £15,000 to the UK, Richard would be taxed under ITTOIA 05/S643M on the proportion of the income he remitted. The unremitted proportion we would be able to charge on Anthony under ITTOIA 05/S643L.

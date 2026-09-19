@@ -1,0 +1,20 @@
+ETMD: main conditions for section 140E to apply
+Identifier: CG45710
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45710
+Published: 2016-03-12T11:08:21+00:00
+Updated: 2016-01-25T16:57:17+00:00
+Retrieved (UTC): 2026-09-18T14:41:08.524321+00:00
+
+The types of merger to which section 140E can apply are explained at CG45706+. These correspond to the four alternative conditions at TCGA 1992 section 140E(1)(a)-(d). However, any such merger must meet further conditions before the section does in fact apply.
+
+- Each of the merging companies must be resident in a member state; section 140E(2)(a), but they must not all be resident in the same member state; section 140E(2)(b). For example: companies A and B are resident in the UK and company C is resident in France. A merger involving companies A and C or companies A, B & C would meet this condition. A merger involving companies A and B would not.
+
+- Section 139 must not apply to any qualifying transferred assets; section 140E(2)(c). Section 139 can only apply where the criteria within Sch 5AA for there to be a ‘scheme of reconstruction’ are met, and generally it will be the inability to comply with Sch 5AA that will prevent section 139 from applying. For the definition of ‘qualifying transferred assets’ see CG45711.
+
+- For mergers to form a SE or an SCE, or a merger by one or more companies with a single existing company, the transferee must issue shares or debentures in itself to the shareholders or debenture holders of the transferor company or companies; section 140E(2)(d)(i). This condition is waived if and to the extent that the transferee is prevented by local company law from issuing shares to itself (section 140E(2)(d)(ii): see CG45704 for a more detailed explanation).
+
+- For mergers by two or more companies which transfer all their assets and liabilities to a single new company, the transferee must issue shares or debentures to the shareholders or debenture holders of the transferor companies; section 140E(1)(d). This does not apply to mergers to form a SE or an SCE.
+
+- For mergers, other than those to form a SE or an SCE, in which one or more companies transfer all their assets and liabilities to a single new or existing company, all the transferor companies must cease to exist without going into liquidation within the meaning of section 247 Insolvency Act 1986; section 140E(2)(e).
+
+- The anti avoidance rules in section 140E(8) must not apply. See CG45731.

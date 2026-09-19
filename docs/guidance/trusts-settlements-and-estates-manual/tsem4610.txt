@@ -1,0 +1,56 @@
+Settlements legislation: Rules affecting non-domiciled /deemed domiciled settlors of non-resident trusts from 6 April 2017 – 5 April 2025: Definition of Protected Foreign Source Income and tainting for the purposes of ITTOIA 2005 S628A 
+Identifier: TSEM4610
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4610
+Published: 2025-04-07T07:57:40+01:00
+Updated: 2025-04-07T07:57:40+01:00
+Retrieved (UTC): 2026-09-18T16:19:55.773910+00:00
+
+The guidance on this page relates to the period 6 April 2017 - 5 April 2025. From 6 April 2025 the rules around the taxation of non-UK domiciled individuals ended and individuals are taxable based on their residence position only. Detailed guidance on the changes from 6 April 2025 can be found at TSEM4700 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4700) onwards.
+
+Protected Foreign Source Income (PFSI) is defined in ITTOIA 2005/S628A. If income arising under a settlement is PFSI then it is excluded from charge under ITTIOA 2005/S624(1). There are a number of conditions which must be met for income to qualify as PFSI:
+
+-
+
+the income would be relevant foreign income as defined in ITTOIA 2005/S830 if it were income of a UK resident individual
+
+-
+
+the income is from property originating from the settlor
+
+-
+
+when the settlement was created the settlor was not domiciled in the UK and if the settlement was created on or after 6 April 2017 then the settlor was not deemed domiciled in the UK
+
+-
+
+there is no time in the tax year when the settlor is domiciled in the UK, or deemed domiciled in the UK under Condition A ITA07/S835BA
+
+-
+
+the trustees of the settlement are non-UK resident for the tax year
+
+-
+
+No property or income is provided directly or indirectly for the purposes of the settlement by the settlor, or by the trustees of any other settlement of which the settlor is a beneficiary or settlor at any time in the period beginning with 6 April 2017, or if later the date on which the settlement was created, and ending at the end of the tax year in question at a time when the individual is domiciled or deemed domiciled in the UK.
+
+The condition referred to in the final bullet point above is referred to as tainting and ITTIOA 05/S628B looks at what constitutes the addition of property for the purposes of the tainting of a trust.
+
+‘Tainting’ means that the protections afforded by PFSI will no longer apply to the settlement and all of the income of the structure will be assessable under ITTOIA 05/S624 as it arises, from the date that tainting occurs.
+
+Example 1
+
+John who is not domiciled in the UK has been resident in the UK from 2001/02. He settled a non-resident trust on 6 April 2010 with £1 million of capital. John, his wife and their children are all discretionary beneficiaries of the trust. The trustees invested half of the funds in offshore investments and half in UK investments. Each year the offshore investments generate income of £50,000 and the UK investments generate income of £55,000 for the trustees. The trustees have retained the income and not made any distributions.
+
+For the years up to 2016/17 ITTOIA 05/S624 will apply, and John will be liable to income tax on the income of the trustees as it arises. However, John is a remittance basis user and will therefore only be assessed on an arising basis on the £55,000 of UK source income received by the trustees each year. John will not be liable on the income from the offshore investments as the income has not been remitted to the UK.
+
+On 6 April 2017 John becomes deemed domiciled under condition B in the UK because he is a long-term resident. As John settled the trust before he became deemed domiciled, and the trust has not been tainted the charge under ITTOIA 05/S624 will be restricted to the income that is not PFSI. John will therefore be liable to income tax under ITTOIA 05/S624 on the £55,000 of UK source income arising in the trust as he was previously. The income of £50,000 arising in respect of the offshore investments meets the conditions in ITTOIA 05/S628A, set out in the bullet points above, and will be PFSI which will not be assessable under ITTOIA 05 /S624.
+
+Example 2
+
+Nigel who is not domiciled in the UK has been resident in the UK since 2003/04. He settled a non-resident trust on 6 April 2017 with £500,000 of capital. Nigel and his two children are discretionary beneficiaries of the trust. The trustees invest the £500,000 in offshore investments that generate income of £45,000 per year. The trustees retain the income and have not made any distributions. Nigel has not tainted the trust.
+
+As the trust was settled on 6 April 2017 it will be subject to the provisions of Finance (No 2) Act 2017 from the date it was created. Nigel was not domiciled in the UK when the trust was created, and he continues to be non-domiciled in the UK for the year 2017/18. There is only PFSI arising within the trust so Nigel will not be liable to tax under ITTOIA 05/S624 on the income arising within the trust.
+
+If on 6 April 2017 Nigel had been resident in the UK since 2002/03, in the example above, he would have become deemed domiciled in the UK on 6 April 2017 under ITA07/835BA Condition B. Nigel would not have met the third bullet point in the conditions set out above because he would have been deemed domiciled in the UK at the time settlement is created. He would be assessable to income tax on the income of the trust under ITTOIA 05/S624 for the years from 2017/18 onwards.
+
+The concept of PFSI is removed from 6 April 2025 and all income within the structure is taxable on the arising basis for all UK residents from this date.

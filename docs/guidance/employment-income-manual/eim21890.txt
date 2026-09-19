@@ -1,0 +1,50 @@
+Asset made available without transfer to a director or employee: Example of calculating the unavailable for private use deduction
+Identifier: EIM21890
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21890
+Published: 2017-07-27T14:45:46+01:00
+Updated: 2017-07-27T14:45:29+01:00
+Retrieved (UTC): 2026-09-18T14:24:17.122447+00:00
+
+Section 205A ITEPA 2003
+
+From 6 April 2017 only
+
+The amount of the deduction is calculated by dividing the number of days (U) the asset is unavailable for private use by the number of days in the year (Y) and then multiplying the resulting figure by the annual cost of asset (A).
+
+The formula for the unavailability deduction is:
+
+U/Y x A
+
+Example
+
+A director is provided with the use of a helicopter I a tax year. The market value of the helicopter when it was first made available for the director’ private use is £800,000.
+
+The asset was used for a mixture of business and private purposes and was first provided on 6 July in that tax year (91 days after the start of the tax year). During the rest of the year there were 10 days when the helicopter is only used for the duties of the employment (and so is treated as unavailable for private use under section 205A(2)(d)) and 10 days when another employee had sole use of the asset (and so is treated as unavailable for private use on the day under section 205A(2)(c)(v)).
+
+The employee pays £6,000 towards the use of the asset before 6 July following the end of the relevant tax year.
+
+There are 365 days in the relevant tax year (Y).
+
+20% market value when first available |  £160,000 |
+
+Additional expenses associated with its provision |  £20,000 |
+
+Annual cost of the asset (A) |  £180,000 |
+
+Number of days in the tax year before the benefit was provided |  91 days |
+
+Number of days the asset was only used for employment |  10 days |
+
+Number of days when the asset was used only by another employee |  10 days |
+
+Total number of days the asset was unavailable for private use during the tax year (U) |  111 days |
+
+Deduction from annual cost:
+
+U/Y x A = 111 /365 x 180,000
+
+= £54,740
+
+Chargeable cost of the asset is £180,000 minus £54,740 which is £125,260.
+
+As the employee has made good part of the cost by paying £6,000 and it was paid before 6 July following the end of the relevant tax year the cash equivalent of the benefit for both tax and Class 1A NICs is £119,260.

@@ -1,0 +1,50 @@
+Assets: principles of valuation: meaning of market value
+Identifier: CG16330
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16330
+Published: 2016-03-12T10:13:12+00:00
+Updated: 2026-07-30T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:30:30.529265+00:00
+
+TCGA92/S272
+
+CG16200C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16200c) explains that the market value of an asset at a particular date may be required to compute a chargeable gain in several circumstances. In each case the definition of market value is given by TCGA92/S272 (1) as
+
+'The price which those assets might reasonably be expected to fetch on a sale in the open market.'
+
+If required, further detailed guidance on the principles of ‘market value’ and the case law supporting the various principles of valuation can be found in the Valuation Office’s Inheritance Tax, Capital Gains Tax Manuals and the Shares and Assets Valuation Manual see SVM10700+. If you have queries about how the market value of shares or an asset were valued, please contact Shares and Assets Valuation (SAV).
+
+Without special legislation connected persons could exploit the market value rule by transferring singly in a series of transactions assets which are worth more together than separately. For example, the entire share capital of a company could be transferred one share at a time. Each share may be worth much less by itself than as part of the entire holding and so the whole of the company could be transferred without gains accruing on the whole of its value.
+
+This way of minimising the value of assets transferred has been countered by legislation which allows a series of transactions to be considered together for valuation purposes (TCGA92/S19 and TCGA92/S20, see CG14650 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14650)+).
+
+Occassions where specialist valuation advice (see CG16200C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16200c)) may be required include cases involving:
+
+The prudent lotting principle
+
+For example where a valuation of an asset or collection of assets which can be broken up and sold in lots may be required. The value of the whole should be considered on the assumption that it will be lotted in such a way as to maximise the proceeds of sale.
+
+Flooding the market
+
+It follows from the application of the lotting principle mentioned above that the sale of a large block of assets which are to be valued would flood the market and so would reduce the price received for each. TCGA92/S272 (2) provides for any such flooding effect to be ignored.
+
+Hypothetical purchaser and special purchaser
+
+The market value of an asset is the price which a hypothetical purchaser would be prepared to pay to a hypothetical vendor at the valuation date. For this purpose the starting point would be the value is the price which would be paid by a willing buyer to a willing seller. Sometimes the value of an asset may be complicated by the presence in the market of a special purchaser. Such a person may, for his or her own reasons, be prepared to pay a sum in excess of the price that other hypothetical purchasers in the market would be prepared to pay for the particular asset.
+
+Collective valuation
+
+The principle may be applicable to Capital Gains Tax valuations in cases where more than one asset is actually included in a single disposal and in cases where the statutory hypothesis on which the valuation is based deems two or more assets to be disposed of together. Examples of the latter include
+
+an acquisition by personal representatives or legatees under TCGA92/S62 of assets of which a deceased person was competent to dispose, see CG30320 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg30320)
+
+an acquisition of settled property under TCGA92/S71(1) on the occasion of a person becoming absolutely entitled to that settled property, see CG37000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37000)+.
+
+Where the principle is followed, so as to value a number of assets collectively to produce a total valuation in excess of the value of the assets valued separately, an apportionment will be required in accordance with TCGA92/S52(4). The apportionment is to be made on a just and reasonable basis and so must reflect the value of each of the assets, see CG14771 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14771)+. Commonly this will require an apportionment of the total value in proportion to the value of each asset.
+
+Where the statutory hypothesis requiring a valuation proceeds on the assumption of a disposal of a single asset by itself the principle of collective valuation would not apply e.g.
+
+TCGA92/S17 where there is a disposal of an asset for consideration deemed to be equal to its market value, see CG14530 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14530)+
+
+TCGA92/S35 where a valuation of an asset is required for the purpose of rebasing to 31 March 1982, see CG16700 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg16700)+.
+
+The single asset valuation for TCGA92/S17 is modified by TCGA92/S19 and TCGA92/S20 where there is a series of linked transactions between connected persons, see CG14650 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14650)+. Each disposal in the series may be treated as being made for consideration equal to a proportion of the aggregate value of all the assets in the series.

@@ -1,0 +1,28 @@
+Changes in shareholdings: rights taken up and sold
+Identifier: IHTM34189
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34189
+Published: 2016-04-09T10:11:59+01:00
+Updated: 2017-11-07T16:20:03+00:00
+Retrieved (UTC): 2026-09-18T15:07:18.320754+00:00
+
+If the appropriate person (IHTM34161 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34161)) takes up the rights issue and then sells the allotted shares within 12 months of the death
+
+- the additional shares are brought into account in the same way as for a bonus issue (IHTM34185 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34185)) (this constitutes a new holding), IHTA84/S183 (2), and
+
+- the price of the additional shares is added to the date of death value (this provides the value on death for the new holding), IHTA84/S183 (3).
+
+Example
+
+Priti has 1,000 BP shares valued at 540p per share, or £5,400 for the holding. There is a rights issue of 1 share for every 5 held at 440p per share. The executors take up the rights, for which they have to pay £880. There is now a new holding of 1,000 + 200 = 1,200 shares. The value on death of the new holding is £5,400 + £880 = £6,280.
+
+- If all 1,200 shares are sold for 490p per share, the gross proceeds are £5,880 and the loss on sale is £400.
+
+- If the executors sold only 600 shares at 490p per share, the sale value is £2,940. The date of death value is ½ (£880 + £5,400) or £3,140. The loss on sale is £200.
+
+In strictness the formula (IHTM34183 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm34183)) at IHTA84/S183 (5) should be used to work out the date of death value of the shares when the executors sell less than the full holding as in example b. But in a straightforward example such as this it will give the same result.
+
+Vs (H-S) ÷(Vs + Vr)
+
+£2,940(£6,280 £0) ÷ (£2940 + £2,940) = £3,140
+
+The formula is only of help when there are several sales after a rights issue and you are dealing with the second or subsequent sale.

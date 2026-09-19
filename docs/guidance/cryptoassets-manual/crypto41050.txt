@@ -1,0 +1,24 @@
+Cryptoassets for businesses: Corporation Tax: introduction
+Identifier: CRYPTO41050
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto41050
+Published: 2021-03-30T09:03:51+01:00
+Updated: 2021-03-26T11:27:04+00:00
+Retrieved (UTC): 2026-09-18T16:18:35.495162+00:00
+
+Companies are subject to Corporation Tax on their profits and gains. Corporation Tax also applies to companies that are members of a partnership or a limited liability partnership in respect of their share of the partnership profits and gains.
+
+When calculating their Corporation Tax, companies must take into account all of the exchange token transactions they have carried out (as they would with any other type of asset).
+
+It is important to note that HMRC does not consider any of the current types of cryptoassets (https://www.gov.uk/government/publications/tax-on-cryptoassets/cryptoassets-for-individuals#what-cryptoassets-are) to be money or currency.
+
+This means that any Corporation Tax legislation which relates solely to money or currency does not apply to exchange tokens or other types of cryptoasset. For example:
+
+- the foreign currency rules (section 328 of the Corporation Tax Act 2009)
+
+- the Disregard Regulations relating to exchange gains and losses (Statutory Instrument 2004/3256)
+
+- designated currency elections (section 9A of the Corporation Tax Act 2010)
+
+If the activity concerning the exchange token is not a trading activity, and is not charged to Corporation Tax in another way (such as the non-trading loan relationship or intangible fixed asset rules at CRYPTO41100 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto41100) and CRYPTO41150 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto41150) respectively) then the activity will be the disposal of a capital asset and any gain that arises from the disposal would typically be charged to Corporation Tax as a chargeable gain.
+
+The treatment of chargeable gains is described from CRYPTO41200 (https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto41200).

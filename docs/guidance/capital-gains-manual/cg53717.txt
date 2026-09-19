@@ -1,0 +1,42 @@
+Qualifying corporate bonds: taxpayer receives cash and QCBs
+Identifier: CG53717
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53717
+Published: 2016-03-12T11:33:29+00:00
+Updated: 2016-01-26T09:09:40+00:00
+Retrieved (UTC): 2026-09-18T14:43:05.803685+00:00
+
+There may be occasions when as part of a relevant transaction the taxpayer receives cash as well as shares or debentures in exchange for what they previously held. See CG53710 for the meaning of ‘relevant transaction’. TCGA 1992 Section 128(3) provides rules for dealing with the cash element.
+
+Example
+
+Kulbinder holds 100 shares in company X. He accepts an offer from company Y by which they acquire his shares in company X in exchange for cash of £50,000 and shares in company Y on a 1 for 1 basis.
+
+The criteria in section 135 (see CG52521+) are met therefore section 127 applies to provide that for the purposes of the TCGA Kulbinder has not made a disposal of his shares in company X. However section 128(3) (see CG51875) provides that the cash element, £50,000, is brought into charge in the tax year in which the exchange takes place.
+
+A similar situation can occur when instead of exchanging shares for cash and shares the shares are exchanged for cash and qualifying corporate bonds (QCBs). Section 135 will still apply but as explained at CG53709 particular rules apply, namely section 116(10), which ensures that any gain on the shares does not fall out of charge. Where shares are exchanged for QCBs and cash section 128 is disapplied (by section 116(5)) and there are special rules in section 116(12) and (14) to deal with the cash element.
+
+Subsections (12) - (14) can only apply if there is a chargeable gain to which section 116(10)(a) would apply and a sum of money is received or is receivable in respect of the old asset to which section 116(7) would apply: in the example above the old asset would be the shares in company X.
+
+Subsection (12) which sets out those conditions then provides a formula to arrive at the amount of the chargeable gain that is deemed to accrue at the time of the exchange as a function of the cash consideration received and other factors.
+
+There are three factors in the formula: the chargeable gain under section 116(10), the cash element of the consideration received, and the market value of the old asset immediately before the transaction takes place. See CG53710 for the meaning of ‘old asset’.
+
+Continuing the above example let us assume that Kulbinder receives securities in company Y with a face value of £100,000 plus £50,000 cash for his shares in company X. The market value of Kulbinder’s shares in company X immediately before the exchange was £150,000. The cash element of £50,000 comes within section 116(7).
+
+Kulbinder’s shares in company X cost him £10,000 so excluding any other factors such as losses carried forward the deferred gain computed under section 116(10)(a) is £140,000 (£150,000 - £10,000).
+
+Using the formula provided in section 116(12) the chargeable gain on the cash element (£50,000) is £46,666.
+
+= £46,666
+
+£150,000 (MV of old asset)
+
+The gain of £46,666 is assessable for the tax year in which the exchange takes place.
+
+Subsection (14) then provides that the gain of £46,666 is deducted from the gain that is deferred under section 116(10)(a) namely £140,000. This produces a net deferred gain of £93,334.
+
+Two years after the exchange Kulbinder redeems the loan stock and in accordance with section 116(10)(b) the net deferred gain of £93,334 comes into charge in the tax year in which the loan notes are redeemed. In effect Kulbinder’s charge to tax on his shares in X Ltd is £140,000 (£46,666 in the year of exchange and £93,334 in the year the security is redeemed).
+
+Subsection (13) provides that where the cash element is small then the gain on that cash element is not brought into charge for the tax year in which the exchange takes place but instead all of the deferred gain is brought into charge when the QCBs are redeemed. ‘Small’ is not defined but CG57835 sets out HMRC’s long established view on what it means. Generally it will be 5% or less but that is subject to all that is said in CG53785. Subsection (13) dictates that the test of 5% or less is relative to the market value of the old asset immediately before the relevant transaction.
+
+Using the above example if we assume that Kulbinder had received cash of £5,000 and not £50,000 then 5% of the market value of the old asset (the shares in company X) would be £7,500 (150,000 x 5%). The cash received, £5,000, is less than the 5% of the market value of the shares immediately before the relevant transaction. As a result in the year in which the exchange took place no gain is brought into charge for the cash element. However, the total gain of £140,000 is brought into charge for the tax year in which the loan stock is redeemed.

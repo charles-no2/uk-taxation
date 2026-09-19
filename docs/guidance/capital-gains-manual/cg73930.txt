@@ -1,0 +1,44 @@
+NRCG and the exemptions: Disposals from 6 April 2019: Indirect disposals: Overview
+Identifier: CG73930
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73930
+Published: 2020-02-05T14:13:52+00:00
+Updated: 2025-12-08T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:46:48.650434+00:00
+
+TCGA92/S1A(3)(c), 2B(4)(b) ANd Schedule 1A
+
+Non-UK resident persons are chargeable to UK tax where:
+
+- A gain arises on disposal of an interest in an asset that derives 75% or more of its gross asset value from UK land (a UK property rich asset), and
+
+- The non-resident person making the disposal has a substantial indirect interest in that land.
+
+These principles are provided for in TCGA92/s1A(3)(c) for CGT, and TCGA92/s2B(4)(b) for CT. The rules for establishing whether these conditions are met are in Schedule 1A to TCGA 1992.
+
+The concepts referred to above are explained in brief below, together with links to more detailed guidance. There is an example demonstrating some of the core concepts at CG73932 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73922).
+
+Disposal of a UK property rich asset
+
+The immediate asset being disposed of will be a right or interest in a company, and ‘company’ will include any legal arrangements, agreements, or other entities that are deemed to be companies for the purposes of capital gains (for example under TCGA92/s99 or paragraph 4 of Schedule 5AAA to TCGA92). A company is UK property rich if 75% or more of the gross asset value of the company is UK land (for the meaning of UK land see CG73922 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73922)).
+
+Measuring the gross asset value of that company will include both the directly held assets of the company itself, and also assets the company has an investment in such as those that its subsidiaries hold (see CG73936 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73936)).
+
+There is an exemption which applies where the land in the company or companies being disposed of is being used in the course of an ongoing trade which is disposed of with the land (see CG73946 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73946)).
+
+Substantial indirect interest
+
+‘Substantial indirect interest’ is explained in detail in CG73936  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73936)but is broadly that the person has a 25% or greater investment in the immediate company being disposed of. Investments may be traced through various entities if the person is not disposing of the shares themselves (see CG73938 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73938)).
+
+Calculating the gain
+
+The gain or loss is calculated on the value of the asset being disposed of (for example, the shares in the company). This is under the normal rules for such disposals (CG50200C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg50200c)), and no adjustment is made to reflect the assets that are not UK land.
+
+There is an example of the basic application of these principles in CG73932 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73932).
+
+In cases where assets were held by a non-resident prior to 6 April 2019 rebasing may apply and further guidance at CG73960 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73960)+ discusses this.
+
+Collective investment vehicles
+
+There are specific rules applying to non-UK residents making disposals of interests in collective investment vehicles [C (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73996c)G73996C (http://internal.active.hmrci/manual/capital-gains-manual/cg73996C)+ ]. There are also special regimes relating to these rules for collective investment vehicles [CG73996L  (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73996l) ].
+
+For these purposes a collective investment vehicle includes UK REIT (Real Estate Investment Trust) and their overseas equivalents. Further information on whether the disposal is by a collective investment vehicle or a related entity is discussed in detail in [CG73996J (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73996j) ]

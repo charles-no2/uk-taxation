@@ -1,0 +1,22 @@
+ETMD: division of a UK business: main conditions for section 140A to apply (3)
+Identifier: CG45704
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45704
+Published: 2016-03-12T11:08:09+00:00
+Updated: 2016-07-05T08:55:48+01:00
+Retrieved (UTC): 2026-09-18T14:41:06.356506+00:00
+
+CG45703 outlines the particular conditions which have to be met for a transfer under a partial division to fall within the scope of TCGA 1992 section 140A, and how those conditions differ from those applicable to a transfer within section140A(1). The final bullet point, number 9, refers to the conditions within section 140A(1A)(f) and this paragraph explains what is required for that condition to be met.
+
+For both a transfer of assets and a partial division there must be an issue of shares or debentures by the transferee or transferee companies. For a transfer of assets the shares or debentures must be issued by the transferee company to the transferor company but for a partial division section 140A(1B) requires that the shares or debentures are issued to the shareholders or debenture holders in the transferor company.
+
+This can create problems. Under UK company law a company cannot issue its own shares to itself. Therefore if there was a partial division and the transferee, or one of the transferees, was the parent of the transferor and the parent was subject to UK company law the transferee parent could not comply with the requirement within section 140A(1B). The same situation may apply where the transferee parent company is resident in another member state and there is a law in that member state which corresponds to the relevant UK company law.
+
+Section 140A(1C) overcomes this problem by providing that where under UK company law or a corresponding provision in another member state it is not legally possibly for transferee parent company to issue its own shares to itself the condition within section 140A(1B) can be ignored in respect of the transferee parent company.
+
+It may be that the parent company does not hold all of the share capital or debentures in the transferor company. For example the parent may hold 90% but an individual owns the other 10%. If section 140A(1C) is in point then in such cases provided the parent transferee company issues the relevant number of shares, or if appropriate debentures, to the individual then both section 140A(1B) and (1C) can apply.
+
+However, section 140A(1C) does not resolve all of the problems associated with the inability of a parent transferee company to issue its own shares or debentures to itself. As explained at CG45719 where shares or debentures are issued and all of the relevant conditions have been met then under section 140(DA) section 127 will apply by way of section 136 and the shareholder or debenture holder will not be treated as having made a disposal of their shares or debentures in the transferor company. Where the parent transferee company is not able to issue its own shares or debentures to itself section 140DA cannot apply.
+
+The result would be that the parent transferee company could be treated as having received a capital distribution in respect of the business transferred to it. Consequently there may be a chargeable occasion under section 122 see CG57800+. Alternatively there could be a chargeable occasion under section 24 on the dissipation of an asset namely the shares or debentures in the transferor company see CG13120+. If a chargeable occasion were to arise on the parent company under either section 122 or section 24 this would be contrary to the general principle of the ETMD, see CG45701. Section 140A(1D) overcomes this problem by disapplying sections 24 and 122 but only where section 140A(1C) is in point.
+
+Note that the same problem can arise where the conditions in section 140E, or C, or F are met, see CG45706, CG45714 and CG45716 respectively.

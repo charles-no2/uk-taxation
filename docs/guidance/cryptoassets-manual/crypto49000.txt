@@ -1,0 +1,22 @@
+Cryptoassets for businesses: The Cryptoasset Reporting Framework
+Identifier: CRYPTO49000
+Source: https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual/crypto49000
+Published: 2025-11-10T08:20:12+00:00
+Updated: 2025-11-10T08:20:13+00:00
+Retrieved (UTC): 2026-09-18T16:18:30.966786+00:00
+
+The Cryptoasset Reporting Framework (CARF) requires reporting cryptoasset service providers (RCASPs) to undertake due diligence and report transactional information on cryptoassets to HMRC annually.
+
+From 1 January 2026, UK RCASPs are required to undertake due diligence on their customers. RCASPs are also required to report aggregate transactional data relating to their customers’ cryptoasset activity. The reporting obligation applies in relation to customers resident in the UK and customers resident in one of the countries in the list provided by HMRC.
+
+UK cryptoasset exchanges and other cryptoasset service providers will need to evaluate whether they are required to report information under the CARF. This includes establishing:
+
+- Whether they are a RCASP as defined by the CARF
+
+- Whether they are under an obligation to report in the UK
+
+Detailed technical guidance on the scope of the CARF, due diligence obligations, reporting obligations and penalties for non-compliance can be found in the International Exchange of Information Manual from IEIM800001 (https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/ieim800001).
+
+Business Customers of a RCASP
+
+Businesses that undertake cryptoassets activity through cryptoasset services providers will be required to provide certain details to their service provider. If a business is an entity (for example, a corporation), rather than an individual (for example, a sole trader), the CARF also requires due diligence information relating to the controlling persons of that entity (IEIM8000400 (https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/ieim8000400)). Failure to provide the required information to the cryptoasset service provider may result in a penalty. The cryptoasset service provider may also refuse to provide further services to the customer (IEIM8000600 (https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/ieim8000600)).

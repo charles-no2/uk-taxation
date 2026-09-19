@@ -1,0 +1,36 @@
+Accrued Income Scheme: calculating accrued income profits and losses
+Identifier: SAIM4110
+Source: https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4110
+Published: 2016-03-19T16:25:56+00:00
+Updated: 2018-12-10T11:33:50+00:00
+Retrieved (UTC): 2026-09-18T14:26:23.052671+00:00
+
+Accrued income profits and losses
+
+Before the rewriting of the rules in ITA07, the legislation referred to ‘deemed sums and reliefs’. ITA07 refers to ‘accrued income profits and losses’, but the principles of the calculation have not changed.
+
+For each kind of security the total of the payments made to and by a person are aggregated. If payments to the person exceed payments by the person, they have made an accrued income profit for the tax year in which the last day of the interest period falls. If payments by the person exceed payments to the person, they have made an accrued income loss.
+
+SAIM4130 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4130) gives examples of the calculation of accrued income profits and losses.
+
+SAIM4140 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4140) explains how the ‘payments’ treated as made on transfers are calculated and SAIM4160 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4160) gives examples.
+
+Up to 5 April 2005, the tax charge was under Case VI of Schedule D. After that date, the charge is simply to income tax.
+
+Accrued income profits: the general rule
+
+ITA07/S628 and S629 give the general rule for calculating accrued income profits and losses. This will apply in the majority of cases where securities are transferred, either with or without accrued interest, and to most transfers with unrealised interest or of variable rate securities. A separate calculation is made for each kind of security that is transferred by or to the person, and for each interest period. Payments to the person in the interest period (‘A’) are compared with payments by the person (‘B’).
+
+If A exceeds B the person has made an accrued income profit equal to the excess. This profit is taxable under ITA07/S617 (2) (SAIM4030 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4030)). The accrued income profits are treated as made in the tax year in which the last day of the interest period falls.
+
+If B exceeds A the person has made an accrued income loss equal to the excess. This loss is relievable under ITA07/S679 (SAIM4120 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4120)).
+
+Accrued income profits: settlement day outside the interest period
+
+ITA07/S630 and S631 gives the rule for the unusual case where a person transfers securities with unrealised interest (SAIM4170 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4170)) or transfers variable rate securities (SAIM4180 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4180)), and the settlement day falls after the end of the last interest period of the securities. The transferor is treated as receiving a payment. Unrealised interest received by the transferee will be exempt (SAIM4350 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4350)).
+
+The accrued income profits are treated as made in the tax year in which the settlement day for the transfer falls (ITA07/S617 (3)).
+
+In the case of securities transferred with unrealised interest, ITA07/S631 treats the amount of the accrued income profits as equal to the unrealised interest, subject to the special rule for ‘interest in default’ (SAIM4290 (https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim4290)).
+
+In the case of transfers of variable rate securities, ITA07/S631 treats the amount of the accrued income profits as ‘such amount as is just and reasonable’.

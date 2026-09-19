@@ -1,0 +1,60 @@
+Class 1 structural overview from April 2009: calculating earnings limits & thresholds for pay intervals of other than a week
+Identifier: NIM01206
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01206
+Published: 2016-04-11T16:59:36+01:00
+Updated: 2022-08-10T11:25:13+01:00
+Retrieved (UTC): 2026-09-18T15:12:57.994922+00:00
+
+Regulation 11 of the Social Security Contributions Regulations 2001 (SSCR 2001) (SI 2001 No 1004)
+
+Section 8 of the National Insurance Contributions Act 2022 (NICA 2022)
+
+The method of calculating the prescribed equivalents is dependant on which threshold is being considered.
+
+Lower Earnings Limit (LEL) and Upper Earnings Limits (UEL)
+
+If an employee’s earnings period (see NIM01003 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01003)) is for a period other than a week, the weekly LEL, UEL and, from 6 April 2009, the Upper Accural Point (UAP) are to be replaced by a prescribed equivalent. The UAP was removed from 5 April 2016.
+
+The prescribed equivalent of the LEL and UAP (weekly limits) are calculated as follows:
+
+Earnings Period |  How to calculate the prescribed equivalents of the LEL and UAP |
+
+Multiple of a week |  Multiply the weekly limits by the corresponding number of weeks in the period. |
+
+A month |  multiply each of the weekly limits by 4 1/3 |
+
+Multiple of a month |  multiply the amount calculated for one month as above (by multiplying each of the weekly limits by 4 1/3) and multiply this result by the corresponding number of months. Round this answer up to the next whole pound. |
+
+A year |  multiply the weekly limits by 4 1/3 and then by 12. Round this answer up to the next whole pound |
+
+Not a multiple of a week or month |  divide the weekly limits by 7. Multiply the answers by the number of days in the period. Calculate to the nearest penny, with a halfpenny or less being disregarded. |
+
+With effect from 6 April 2009, the prescribed equivalent of the upper earnings limit is calculated with reference to a fixed prescribed equivalent where the earnings period is a year (provided at Regulation 11(2A)(b) SS(C)R 2001) which is then used in calculating prescribed equivalent for periods which are other than a week.
+
+The upper secondary threshold for under 21’s was introduced from 6 April 2015 and the upper secondary threshold for apprentices under 25’s was introduced from 6 April 2016.
+
+The National Insurance Contributions Act 2022 (NICA 2022) introduced a Veterans Upper Secondary Threshold and Freeports Upper Secondary Threshold. Section 8 of the NICA 2022 provides for prescribed equivalents.
+
+The prescibed equivalents are calculated as follows:
+
+Earnings Period |  How to calculate the prescribed equivalent of the UEL and the Upper Secondary Thresholds for under 21’s, apprentices under 25, Veterans and Freeports |
+
+Multiple of a week |  Divide the prescribed yearly equivalent by 52 and multiply the result by the number of weeks in the period. Round this answer up to the next whole pound. |
+
+Multiple of a month |  Divide the prescribed yearly equivalent by 12 and multiply the result by the number of months in the period. Round this answer up to the next whole pound. |
+
+Not a multiple of a week or month |  Divide the prescribed yearly equivalent by 365 and multiply the result by the number of days in the period. Calculate to the nearest penny, with a halfpenny or less being disregarded. |
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01206#Top)
+
+Primary and secondary thresholds
+
+If an employee’s earnings period (see NIM01003 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim01003)) is for a period of other than a week, the appropriate threshold is calculated using the prescribed yearly threshold (set out at Regulation 11(3) for the primary threshold and Regulation 11(3A) for the secondary threshold).
+
+Earnings Period |  How to calculate the prescribed equivalents of the Primary and Secondary Thresholds |
+
+Multiple of a week |  Divide the prescribed yearly threshold by 52 and multiply the result by the number of weeks in the period. Round this answer up to the next whole pound. |
+
+Multiple of a month |  Divide the prescribed yearly threshold by 12 and multiply the result by the number of months in the period. Round this answer up to the next whole pound. |
+
+Not a multiple of a week or month |  Divide the prescribed yearly threshold by 365 and multiply the result by the number of days in the period. Calculate to the nearest penny, with a halfpenny or less being disregarded. |

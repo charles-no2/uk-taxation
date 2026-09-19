@@ -1,0 +1,2530 @@
+Appendix 17 - Draft guidance on the Corporate Capital Loss Restriction
+Identifier: CG-APP17
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17
+Published: 2020-05-12T17:25:53+01:00
+Updated: 2023-06-19T16:52:25+01:00
+Retrieved (UTC): 2026-09-18T14:30:12.031352+00:00
+
+Corporate Capital Losses - Draft Guidance
+
+This draft guidance in Appendix 17 has been partially updated (as at 22 December 2021) in order to clarify commencement provisions for companies writing BLAGAB in section 5. The remainder of guidance is under review to be fully integrated into the CG manual when further updates may also be made, hence this is still to be treated as draft guidance.
+
+From 1 April 2020, the restriction announced at Budget 2018 was introduced to restrict the proportion of annual capital gain that can be relieved by brought forward capital losses to 50%.
+
+The government consulted on the measure from 29 October 2018 to 25 January 2019.
+
+A response to that consultation was published on 11 July 2019 together with draft legislation. A period of technical consultation ran from 11 July 2019 to 5 September 2019.
+
+Revised draft legislation was published as part of the Finance Bill 2020 on 19 March 2020.
+
+HM Revenue & Customs cannot publish formal guidance until the legislation is finalised (as it may be amended during the progress of the Finance Bill). However, as the measure took effect on 1 April 2020 (before the legislation became law) the first version of this draft guidance was published to assist companies which may have been affected prior to the legislation being finalised.
+
+The Finance Bill 2020 was finalised becoming the Finance Act after receiving Royal Assent on 22 July 2020.
+
+As this is draft guidance, it may be subject to further changes as not all aspects have been reviewed since the legislation became final.
+
+This draft guidance includes examples of how the legislation operates. We are working on replacing this guidance with full guidance in early 2024.
+
+The contents of this guidance are:-
+
+- The Corporate Capital Loss Restriction (CCLR) - Main provisions (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#Section-1)
+
+- Interaction of CCLR with clogged losses (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#Section-2)
+
+- Interaction of CCLR with pre-entry losses (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#Section-3)
+
+- Anti-avoidance arrangements (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#Section-4)
+
+- Commencement provisions (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#Section-5)
+
+- Anti-forestalling arrangements (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#Section-6)
+
+- Companies without a source of chargeable income (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#Section-7)
+
+- CCLR for insolvent companies (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#Section-8)
+
+- CCLR for offshore collective investment vehicles (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#Section-9)
+
+- CCLR for life insurance companies (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#Section-10)
+
+- CCLR for oil companies (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#Section-11)
+
+- Interaction of CCLR with real estate investment trusts (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#Section-12)
+
+- Quarterly instalment payments (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#Section-13)
+
+Please note that for the purposes of this guidance chargeable gains and allowable losses may be referred to as capital gains and capital losses. The term arising has the same meaning as accruing.
+
+1. The Corporate Capital Loss Restriction (CCLR) - Main provisions
+
+FB20/Sch 3 Paras 1 to 7 & 24 to 38 (now FA20/Sch 4, Pt 1, Paras 1 to 7 & 24 to 38)
+
+CTA10/S269ZBA, S269ZC, S269ZD & S269ZF
+
+For accounting periods which commence on or after 1 April 2020, the CCLR will apply to restrict the amount of carried-forward capital losses that a company can use to offset its capital gains of an accounting period. For accounting periods which commence before 1 April 2020 and end on or after 1 April 2020, specific commencement provisions apply, see Section 5 below.
+
+Where carried-forward capital losses are used to offset capital gains in an accounting period, only 50% of those gains can be offset.
+
+A deductions allowance of up to £5 million per year is available, which increases the amount of carried-forward losses that can be offset.
+
+This guidance sets out how the loss restriction applies specifically for capital gains and losses, so concentrates on the CCLR. The full guidance on how the loss restriction applies for other types of losses (the Corporate Income Loss Restriction or CILR as introduced with effect from 1 April 2017) can be found at CTM05000 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm05000).
+
+This guidance includes examples limited to scenarios with only capital gains and losses before expanding into an example with a variety of profits, gains and losses in play.
+
+Restriction on deductions from chargeable gains
+
+When a company accrues a capital loss on the disposal of an asset, that loss is set against any capital gains of the same accounting period (TCGA92/S2A(1)(a), see CG15800P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15800p)). Insofar as capital losses cannot be offset against gains of the same accounting period, they are carried forward and are offset against gains arising in later accounting periods (TCGA92/S2A(1)(b)).
+
+The CCLR restricts the amount of capital losses that can be offset under TCGA92/S2A(1)(b) to the Relevant Maximum.
+
+Definitions
+
+Relevant Maximum is the sum of:-
+
+- 50% of the company’s Relevant Chargeable Gains for the accounting period, plus
+
+- The company’s Chargeable Gains Deductions Allowance.
+
+A company’s Relevant Chargeable Gains for an accounting period are:-
+
+- The company’s Qualifying Chargeable Gains for the period, less
+
+- The company’s Chargeable Gains Deductions Allowance.
+
+A company’s Chargeable Gains Deductions Allowance is:-
+
+- The amount specified in the company’s tax return, or
+
+- Nil, if no amount is specified.
+
+The company’s Chargeable Gains Deductions Allowance may not exceed:-
+
+- The amount of the company’s deductions allowance, less the total of
+
+- Any amount specified of trading profit deductions allowance, plus
+
+- Any amount specified of non-trading income profits deductions allowance, plus
+
+- Any amount specified of BLAGAB Deductions Allowance (see Section 10 below).
+
+Where the accounting period is for a period of 12 months, the total amount of deductions allowance available to a group is £5 million. This amount is reduced proportionately for accounting periods of less than 12 months. There is specific provision for certain companies without a source of chargeable income who have very short accounting periods, see Section 7 below.
+
+A company’s Qualifying Chargeable Gains are:-
+
+- The company’s chargeable gains included in total profits (see Step 3 below), less
+
+- Any amount that can be set against total profits which is allocated to chargeable gains (see Step 4 below).
+
+In the allocation above, the amount allocated may not reduce the chargeable gains below nil.
+
+A company’s Total Relevant Non-Trading Profits is:-
+
+- The company’s qualifying non-trading income profits for the period, plus
+
+- The company’s Qualifying Chargeable Gains for the period, less
+
+- The company’s Non-Trading Profits Deductions Allowance.
+
+The Non-Trading Profits Deductions Allowance is the sum of:-
+
+- The company’s non-trading income deductions allowance, and
+
+- The company’s Chargeable Gains Deductions Allowance.
+
+Calculation of CCLR
+
+The steps from the CILR have been modified to include the CCLR. In particular, non-trading profits have now been separated into non-trading income profits and chargeable gains.
+
+Step 1
+
+Calculate the modified profits for the company, excluding certain carried-forward losses as set out in CTA/S269ZF(4) (see CTM05040 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm05040)). Carried-forward capital losses are now also excluded in calculating the modified profits.
+
+If the total modified profits are nil (or less) no further computation is required, else move onto Step 2.
+
+Step 2
+
+Calculate the total amount of reliefs that can be set against the company’s total profits for the accounting period. This is the Step 2 Amount.
+
+Step 3
+
+Divide the total profits into:-
+
+- Trading profits
+
+- Non-trading income profits
+
+- Chargeable gains
+
+If no carried-forward capital losses are being offset, the chargeable gains need not be separated from the non-trading income profits.
+
+Step 4
+
+The Step 2 Amount must be allocated between:-
+
+- Trading profits
+
+- Non-trading income profits
+
+- Chargeable gains
+
+The company can allocate its reliefs as it wishes but the amounts cannot reduce the profits or gains below nil.
+
+Step 5
+
+The Step 3 amounts as reduced by the Step 4 amounts form:-
+
+- The company’s qualifying trading profits,
+
+- The company’s qualifying non-trading income profits, and
+
+- The company’s Qualifying Chargeable Gains.
+
+Deductions Allowance
+
+The company must calculate the maximum amount of deductions allowance due, then allocate this, as it chooses and as is required, between:-
+
+- An amount of trading profit deductions allowance,
+
+- An amount of non-trading income profits deductions allowance,
+
+- An amount of BLAGAB Deductions Allowance (see Section 10 below), and
+
+- An amount of Chargeable Gains Deductions Allowance.
+
+Calculate the Relevant Chargeable Gains
+
+As above, this is:-
+
+- The company’s Qualifying Chargeable Gains (from Step 5 above) for the period, less
+
+- The company’s Chargeable Gains Deductions Allowance.
+
+This amount cannot be below nil, so the amount of Chargeable Gains Deductions Allowance is limited accordingly.
+
+Calculate the Relevant Maximum
+
+As above this is:-
+
+- 50% of the company’s Relevant Chargeable Gains for the accounting period, plus
+
+- The company’s Chargeable Gains Deductions Allowance.
+
+Carried-forward capital losses up to this amount may be deducted in computing the company’s total profits.
+
+Compute the remaining parts of the restriction
+
+The Qualifying Chargeable Gains will now form part of the computation of the Relevant Maximum for Non-Trading Profits.
+
+Any carried-forward non-trading income losses must now be restricted in accordance with the amended rules in CTA10/S296ZC.
+
+Separately, any restriction to carried-forward trading losses, as required by CTA10/S269ZB should be computed.
+
+Any restriction to the carried-forward losses which can be offset against total profits, as required by CTA10/S269ZD should be computed.
+
+More details on these computations can be found in the CILR guidance at CTM05000 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm05000).
+
+Example 1 - CCLR only (simplified)
+
+A company has the following carried-forward losses:-
+
+Capital losses £15 million
+
+In the year ended 31 December 20X8, the company makes the following profits and gains:-
+
+Capital gains £11 million
+
+Capital losses £1 million
+
+property profits £3 million
+
+Trading profits £5 million
+
+Non-trading loan relationship (NTLR) deficits £2 million
+
+Step 1
+
+The company’s modified profits will be:-
+
+Capital gains of the period £11 million
+
+Less capital losses of the period £1 million
+
+Plus property profits £3 million
+
+Plus trading profits £5 million
+
+The modified profits are therefore £18 million. These are greater than nil so we will progress to Step 2.
+
+Step 2
+
+The reliefs that can be set against the company’s total profits for the accounting period are, in this case, the NTLR deficits.
+
+The Step 2 Amount is therefore £2 million.
+
+Step 3
+
+Divide the total profits into:-
+
+- Trading profits
+
+- Non-trading income profits
+
+- Chargeable gains
+
+In this case, the trading profits are £5 million.
+
+The non-trading income profits are £3 million (the property profits).
+
+The chargeable gains are £10 million (the capital gains of the period (£11 million) less the capital losses of the period (£1 million)).
+
+Step 4
+
+The company can allocate the Step 2 Amount of £2 million as it wishes to either the trading profits, non-trading income profits or chargeable gains or a combination of these (but not so as to reduce any one of these below nil).
+
+In this case, we’ll assume that the company will allocate the £2 million to trading profits.
+
+Step 5
+
+Following Step 4, the amounts will be:-
+
+Qualifying trading profits £3 million
+
+Qualifying non-trading income profits £3 million
+
+Qualifying Chargeable Gains  £10 million
+
+Deductions Allowance
+
+The company can choose how to allocate its £5 million deductions allowance. In this case, as it only has carried-forward capital losses it will allocate £5 million to its Chargeable Gains Deductions Allowance.Deductions Allowance
+
+Calculate the Relevant Chargeable Gains
+
+This is:-
+
+- The company’s Qualifying Chargeable Gains (from Step 5 above) for the period, less
+
+- The company’s Chargeable Gains Deductions Allowance.
+
+The Relevant Chargeable Gains are therefore £10 million less £5 million = £5 million.
+
+Calculate the Relevant Maximum
+
+This is:-
+
+- 50% of the company’s Relevant Chargeable Gains for the accounting period, plus
+
+- The company’s Chargeable Gains Deductions Allowance.
+
+The Relevant Maximum is therefore 50% of £5 million (= £2.5 million) plus £5 million = £7.5 million.
+
+The carried-forward capital losses will therefore be restricted to £7.5 million.
+
+Compute the remaining parts of the restriction
+
+There are no other losses to be restricted, so the total profits can now be computed:-
+
+Capital gains of the period £11 million
+
+Less capital losses of the period £1 million
+
+Less carried forward capital losses (restricted) £7.5 million
+
+plus property profits £3 million
+
+plus trading profits £5 million
+
+Less NTLR deficits £2 million
+
+The total profits chargeable to Corporation Tax are therefore £8.5 million.
+
+Example 2 - CCLR & CILR
+
+A company has the following carried-forward losses:-
+
+Capital losses £40 million
+
+Trading losses (pre-2017) £30 million
+
+NTLR deficits (post-2017) £5 million
+
+Management expenses £9 million
+
+In the year ended 31 December 20X8, the company makes the following profits and gains:-
+
+Capital gains £17 million
+
+Capital losses £1 million
+
+Non trading income profits £15 million
+
+Trading profits £9 million
+
+NTLR deficits £8 million
+
+Step 1
+
+The company’s modified profits will be:-
+
+Capital gains of the period £17 million
+
+Less capiatl losses of the period £1 million
+
+Plus non-trading income profits £15 million
+
+Plus trading profits £9 million
+
+The modified profits are therefore £40 million. These are greater than nil so we will progress to Step 2.
+
+Step 2
+
+The reliefs that can be set against the company’s total profits for the accounting period are, in this case, the NTLR deficits.
+
+The Step 2 Amount is therefore £8 million.
+
+Step 3
+
+Divide the total profits into:-
+
+- Trading profits
+
+- Non-trading income profits
+
+- Chargeable gains
+
+In this case, the trading profits are £9 million.
+
+The non-trading income profits are £15 million (the property profits).
+
+The chargeable gains are £16 million (the capital gains of the period (£17 million) less the capital losses of the period (£1 million)).
+
+Step 4
+
+The company can allocate the Step 2 Amount of £8 million as it wishes to either the trading profits, non-trading income profits or chargeable gains or a combination of these (but not so as to reduce any one of these below nil).
+
+In this case, we’ll assume that the company will allocate the in-year reliefs as follows:-
+
+- £2 million to trading profits,
+
+- £3 million to non-trading income profits, and
+
+- £3 million to chargeable gains.
+
+Step 5
+
+Following Step 4, the amounts will be:-
+
+Qualifying trading profits £7 million
+
+Qualifying non-trading income profits £12 million
+
+Qualifying Chargeable Gains  £13 million
+
+Deductions Allowance
+
+The company can choose how to allocate its £5 million deductions allowance. In this case, the company could allocate up to £5 million as Trading Profits Deductions Allowance, £5 million as Non-Trading Income Profits Deductions Allowance and up to £5 million as Chargeable Gains Deductions Allowance (but limited to £5 million overall).Deductions Allowance
+
+In this case, the company decides to allocate:-
+
+- £3 million to its Chargeable Gains Deductions Allowance, and
+
+- £2 million to its Non-Trading Income Profits Deductions Allowance.
+
+Calculate the Relevant Chargeable Gains
+
+This is:-
+
+- The company’s Qualifying Chargeable Gains (from Step 5 above) for the period, less
+
+- The company’s Chargeable Gains Deductions Allowance.
+
+The Relevant Chargeable Gains are therefore £13 million less £3 million = £10 million.
+
+Calculate the Relevant Maximum for chargeable gains
+
+This is:-
+
+- 50% of the company’s Relevant Chargeable Gains for the accounting period, plus
+
+- The company’s Chargeable Gains Deductions Allowance.
+
+The Relevant Maximum for chargeable gains is therefore 50% of £10 million (= £5 million) plus £3 million = £8 million.
+
+The carried-forward capital losses will therefore be restricted to £8 million.
+
+Compute the remaining parts of the restriction
+
+Calculate the Relevant Trading Profits
+
+This is:-
+
+- The company’s Qualifying Trading Profits (from Step 5 above) for the period, less
+
+- The company’s Trading Profits Deductions Allowance.
+
+The Relevant Trading Profits are therefore £7 million less £ nil = £7 million.
+
+Calculate the Relevant Maximum for trading profits
+
+This is:-
+
+- 50% of the company’s Relevant Trading Profits for the accounting period, plus
+
+- The company’s Trading Profits Deductions Allowance.
+
+The Relevant Maximum for trading profits is therefore 50% of £7 million (= £3.5 million) plus £ nil = £3.5 million.
+
+The carried-forward trading losses will therefore be restricted to £3.5 million.
+
+Calculate the Relevant Non-Trading Profits
+
+This is:-
+
+- The company’s Qualifying Non-Trading Profits (from Step 5 above) for the period, less
+
+- The company’s Non-Trading Profits Deductions Allowance.
+
+The Qualifying Non-Trading Profits are:-
+
+- The Qualifying Non-Trading Income Profits, plus
+
+- The Qualifying Chargeable Gains.
+
+The Qualifying Non-Trading Profits are therefore £12 million plus £13 million = £25 million.
+
+The Non-Trading Profits Deductions Allowance is:-
+
+- The Non-Trading Income Profits Deductions Allowance, plus
+
+- The Chargeable Gains Deductions Allowance.
+
+The Non-Trading Profits Deductions Allowance is therefore £2 million plus £3 million = £5 million.
+
+The Relevant Non-Trading Profits are therefore £25 million less £5 million = £20 million.
+
+Calculate the Relevant Maximum for non-trading profits
+
+This is:-
+
+- 50% of the company’s Relevant Non-Trading Profits for the accounting period, plus
+
+- The company’s Non-Trading Profits Deductions Allowance.
+
+The Relevant Maximum for non-trading profits is therefore 50% of £20 million (= £10 million) plus £5 million = £15 million.
+
+The total carried-forward losses which can be set against non-trading profits will be restricted to £15 million. Of this, £8 million capital losses have been used. That leaves £7 million non-trading profits that can be offset with appropriate carried-forward income losses such as pre-2017 NTLR deficits, were there to be any.
+
+Calculate the Relevant Total Profits
+
+This is:-
+
+- The company’s Qualifying Total Profits (from Step 5 above) for the period, less
+
+- The company’s Deductions Allowance.
+
+The Relevant Total Profits are therefore £32 million less £5 million = £27 million.
+
+Calculate the Relevant Maximum for total profits
+
+This is:-
+
+- 50% of the company’s Relevant Total Profits for the accounting period, plus
+
+- The company’s Deductions Allowance.
+
+The Relevant Maximum for total profits is therefore 50% of £27 million (= £13.5 million) plus £5 million = £18.5 million.
+
+Use of losses
+
+The company can offset carried-forward losses up to a maximum amount of £18.5 million.
+
+Specifically, the company can offset carried-forward losses up to:-
+
+- £8 million which can only be offset against capital gains (A),
+
+- £3.5 million which can only be offset against trading profits (B),
+
+- £15 million which can only be offset against non-trading profits (C). This comprises losses that can be set against non-trading income profits and chargeable gains subject to a reduction for any losses used in A.
+
+- £18.5 million which can be offset against total profits (D) subject to a reduction for any losses used in A to C.
+
+The only type of losses available to use under A are carried-forward capital losses.
+
+The only type of losses available to use under B (in this example) are pre-2017 trading losses.
+
+There only type of losses available to use under C in this example are the carried-forward capital losses.
+
+The post-2017 NTLR deficits and the management expenses are available (in this example) to use under D.
+
+The company is free to choose how to make up the £18.5 million losses that it is allowed to offset within the above restrictions. In this example, we will assume that it uses the following:-
+
+Carried-forward capital losses (A) £8 million
+
+Carried-forward pre 2017 trading losses (B) £3.5 million
+
+Carried forward post 2017 NTLR deficits (D) £5 million
+
+Carried-forward management expenses (D) £2 million
+
+Calculate the Total Profits
+
+The total profits will be:-
+
+Capital gains of the period £17 million
+
+Less capital losses for the period £1 million
+
+Less carried-forward capital losses (restricted) £8 million
+
+Plus trading profits £9 million
+
+Less carried-forward pre-2017 trading losses (restricted) £3.5 million
+
+Plus non-trading income profits £15 million
+
+Less carried-forward post-2017 NTLR deficits (restricted) £5 million
+
+Less carried-forward management expenses ( restricted) £2 million
+
+Less NTLR deficits £8 million
+
+The total profits chargeable to Corporation Tax are therefore £13.5 million.
+
+The unused losses available to carry forward are:-
+
+Capital losses £32 million
+
+Trading losses (pre-2017) £26.5 million
+
+NTLR deficits (post-2017) £ nil
+
+Management expenses £7 million
+
+2. Interaction of CCLR with clogged losses
+
+FB20/Sch 3 Para 17 (now FA20/Sch 4 Para 17)
+
+TCGA92/S18
+
+Where a clogged loss (a loss arising from a transaction with a connected person) is carried forward it can only be set off against gains arising from disposals to that same person when they are still connected (TCGA92/S18(3)), see CG14561 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14561).
+
+As the CCLR requires in-year losses to be offset in preference to carried-forward losses, the CCLR will restrict the use of carried-forward clogged losses, especially where there are in-year losses which are not clogged.
+
+A company can make a claim to swap an amount of in-year losses with carried-forward clogged losses.
+
+Clogged Loss Claim
+
+A company can make a claim in an accounting period when:-
+
+- It has carried-forward clogged losses;
+
+- It makes a capital gain in the accounting period against which the clogged losses could be offset; and
+
+- It makes a capital loss in the accounting period which is not clogged.
+
+Where a company makes a valid claim:-
+
+- The amount of specified carried-forward clogged losses are treated as losses arising in the accounting period;
+
+- The same amount of losses which arose in the accounting period are treated as losses carried-forward from a previous accounting period.
+
+The specified amount of losses is limited to the lessor of:-
+
+- The total amount of carried-forward clogged losses;
+
+- The gains of the accounting period against which the clogged losses can be offset under s18(3); or
+
+- The losses of the accounting period.
+
+Example 3 - Clogged losses
+
+A Ltd makes a disposal of an asset to B Ltd (a connected person) in an accounting period, resulting in a gain of £7 million accruing.
+
+In the same accounting period, A Ltd disposes of assets (not to connected persons), resulting in losses of £2 million accruing.
+
+A Ltd has carried-forward clogged losses of £5 million which accrued from a previous disposal to B Ltd.
+
+A Ltd is part of a larger group which has already utilised the £5 million deductions allowance.
+
+No claim
+
+Under the CCLR, if no claim is made, the Relevant Chargeable Gains are:-
+
+- Gains of the accounting period (£7 million), less
+
+- Losses of the accounting period (£2 million), less
+
+- Chargeable Gains Deductions Allowance (£ nil).
+
+The Relevant Chargeable Gains are £5 million.
+
+The Relevant Maximum gains are £2.5 million (50% of £5 million plus any Chargeable Gains Deductions Allowance).
+
+The carried-forward clogged losses which can be used to offset gains are therefore restricted to £2.5 million.
+
+The net chargeable gains of the accounting period, after applying the CCLR, will be £2.5 million and clogged losses of £2.5 million (£5 million - £2.5 million) will be carried forward.
+
+Claim
+
+The three conditions, as set out above, for the company to be able to make a claim are met.
+
+The amount of losses that the company can specify is the lessor of:-
+
+- The total amount of carried-forward clogged losses (£5 million);
+
+- The gains of the accounting period against which the clogged losses can be offset under s18(3) (£7 million);
+
+- The losses of the accounting period (£2 million).
+
+In this case, the amount is £2 million. If the company claims the full amount, the carried-forward clogged losses and in-year losses will be swapped.
+
+The Relevant Chargeable Gains will be:-
+
+- Gains of the accounting period (£7 million), less
+
+- Claimed amount of carried-forward clogged losses (£2 million), less
+
+- Chargeable Gains Deductions Allowance (£ nil).
+
+The Relevant Chargeable Gains are £5 million.
+
+The Relevant Maximum gains are £2.5 million (50% of £5 million).
+
+As a result of the claim the company now has carried-forward clogged losses of £3 million and regular carried-forward losses of £2 million. The company can allocate its losses up to the £2.5 million limit as it chooses.
+
+In this case, the company can use its clogged losses, so will allocate £2.5 million of the carried-forward clogged losses. The remainder of the clogged losses of £0.5 million (£5 million - £2 million - £2.5 million) will be carried-forward, along with the £2 million of general losses.
+
+The claim does not result in any change in the amount of losses that can be offset in the accounting period, or that are carried forward, but does change the amount of clogged losses that can be offset.
+
+3. Interaction of CCLR with pre-entry losses
+
+FB20/Sch 3 Para 18 (now FA20/Sch 4 Para 18)
+
+TCGA92/Sch 7A
+
+Carried-forward pre-entry losses (see CG47400P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg47400p)) do not form part of the general carried-forward capital losses of a company but the CCLR still applies to these losses.
+
+In-year (non-pre-entry) losses must normally be deducted first when computing the CCLR, but where a company has carried-forward pre-entry losses, the CCLR is calculated to restrict the carried-forward losses but the company can then, within the restricted limit, offset the pre-entry losses in preference to the in-year losses. Any losses in excess of the restricted amount cannot be offset and must be carried-forward.
+
+Example 4 - Pre-entry losses
+
+A company has carried-forward pre-entry losses of £50 million.
+
+In an accounting period, the company disposes of various assets, resulting in total gains of £16 million and losses of £7 million. Of the gains, £13 million are gains against which the pre-entry losses could be offset.
+
+Firstly, calculate the Relevant Chargeable Gains of the accounting period:-
+
+- Gains of the accounting period (£16 million), less
+
+- Losses of the accounting period (£7 million), less
+
+- Chargeable Gains Deductions Allowance (assume for this example £ nil).
+
+The Relevant Chargeable Gains are £9 million.
+
+Second, calculate the Relevant Maximum gains, which are £4.5 million (50% of £9 million plus any Chargeable Gains Deductions Allowance).
+
+Third, calculate the total losses which can be offset in the accounting period:-
+
+- Losses of the accounting period (£7 million), plus
+
+- The lessor of the Relevant Maximum gains (£4.5 million) or the carried-forward losses (including any pre-entry losses) (£50 million) - In this case, £4.5 million.
+
+The total losses which can be offset are £11.5 million in this case.
+
+The company can choose which losses to allocate against gains. The normal rules relating to pre-entry losses apply so only up to £13 million of the pre-entry losses can be offset against the appropriate gains.
+
+In this case, the company can allocate £11.5 million of its pre-entry losses against gains. The remaining £38.5 million of pre-entry losses (£50 million - £11.5 million) must be carried forward along with the £7 million of in-year losses.
+
+Example 5 - Pre-entry losses
+
+A company has carried-forward pre-entry losses of £50 million.
+
+In an accounting period, the company disposes of various assets, resulting in total gains of £16 million and losses of £7 million. Of the gains, £3 million are gains against which the pre-entry losses could be offset.
+
+Firstly, calculate the Relevant Chargeable Gains of the accounting period:-
+
+- Gains of the accounting period (£16 million), less
+
+- Losses of the accounting period (£7 million), less
+
+- Chargeable Gains Deductions Allowance (assume for this example £ nil).
+
+The Relevant Chargeable Gains are £9 million.
+
+Second, calculate the Relevant Maximum gains, which are £4.5 million (50% of £9 million plus any Chargeable Gains Deductions Allowance).
+
+Third, calculate the total losses which can be offset in the accounting period:-
+
+- Losses of the accounting period (£7 million), plus
+
+- The lessor of the Relevant Maximum gains (£4.5 million) or the carried-forward losses (including any pre-entry losses) (£50 million) - In this case, £4.5 million.
+
+The total losses which can be offset are £11.5 million in this case.
+
+The company can choose which losses to allocate against gains. The normal rules relating to pre-entry losses apply so only up to £3 million of the pre-entry losses can be offset against the appropriate gains.
+
+In this case, the company can allocate £3 million of its pre-entry losses against gains. The company can then allocate the £7 million in-year losses against gains. No further losses can be utilised.
+
+The remaining £47 million of pre-entry losses (£50 million - £3 million) must be carried forward.
+
+4. Anti-avoidance arrangements
+
+FB20/Sch 3 Para 23 (now FA20/Sch 4 Para 23)
+
+F(No.2)A17/S19
+
+The existing anti-avoidance rules for CILR (see CTM07900 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm07900)) are extended to include carried-forward capital losses from 1 April 2020.
+
+The extended part of the rules will apply to accounting periods commencing on and after 1 April 2020.
+
+Where a company has a Straddling Period (see Section 5 below), the extended part of the anti-avoidance rule for carried-forward capital losses will have effect only for the Post-Commencement Period. The anti-forestalling rule (see Section 6 below) will have effect for the Pre-Commencement Period.
+
+5. Commencement provisions
+
+FB20/Sch 3 Paras 42 to 45 (now FA20/Sch 4, Pt 3, Paras 42 to 45)
+
+The guidance in this section covers the commencement provisions for the CCLR.
+
+Two main areas are considered. The first is where an accounting period straddles the 1 April 2020 commencement date; the guidance advises what specific treatment is required in this scenario and includes examples.
+
+The second is a specific provision for non-UK resident property businesses which are chargeable to Income Tax for the tax year 2019-20 and chargeable to Corporation Tax from 6 April 2020. Such companies may be chargeable to Corporation Tax between 1 and 5 April 2020 on account of a capital gain (or loss); the commencement treatment for such companies is explained together with examples.
+
+- A - Straddling periods (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#a-straddle)
+
+- B - Non-UK resident property businesses (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#b-non-uk-resident)
+
+5A. Straddling periods
+
+A1 - Introduction
+
+The CCLR applies to companies where an accounting period commences on or after 1 April 2020. Where an accounting period commences before 1 April 2020 but ends on or after 1 April 2020 transitional rules apply.
+
+An accounting period which commences before 1 April 2020 but ends on or after 1 April 2020 is called a Straddling Period. This period is then split into two notional accounting periods for the purposes of capital gains and losses only.
+
+The Pre-Commencement Period runs from the commencement of the Straddling Period to 31 March 2020.
+
+The Post-Commencement Period runs from 1 April 2020 to the end of the Straddling Period.
+
+Example 6 - Splitting the Straddling Period
+
+A company has an accounting period for the year ended 31 December 2020.
+
+This is a Straddling Period as it straddles the 1 April 2020 date.
+
+The Pre-Commencement Period will run from 1 January 2020 to 31 March 2020.
+
+The Post-Commencement Period will run from 1 April 2020 to 31 December 2020.
+
+A2 - Allocation of capital gains and losses
+
+The company will then need to allocate all capital gains and losses that accrue during the Straddling Period to the Pre-Commencement Period or Post-Commencement Period.
+
+This allocation should be in accordance with the normal date of disposal rules for capital gains, see CG14250P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg14250p).
+
+Example 7 - Allocation of capital gains and losses
+
+The company in the above example makes a number of disposals in the year ended 31 December 2020 as follows:-
+
+- Disposal of property A on 4 May 2020 under a contract exchanged on 24 March 2020;
+
+- Disposal of property B on 16 September 2020 under a contract exchanged on 1 August 2020;
+
+- Disposal of shares in C Ltd on 8 June 2020;
+
+- Disposal of shares in D Ltd on 22 February 2020;
+
+- A payment received for granting of an easement E (a deemed disposal) on 6 March 2020, which was paid on 7 April 2020;
+
+- A part disposal of land F by grant of a lease on 4 July 2020 under a lease contract dated 3 June 2020.
+
+The dates of disposal will be:-
+
+- Property A - 24 March 2020 (under Section 28 TCGA);
+
+- Property B - 1 August 2020 (under Section 28 TCGA);
+
+- Shares C - 8 June 2020;
+
+- Shares D - 22 February 2020;
+
+- Easement E - 7 April 2020 (under Section 22 TCGA);
+
+- Lease F - 3 June 2020 (under Section 28 TCGA).
+
+Therefore, disposals A & D will accrue in the Pre-Commencement Period and disposal B, C, E and F will accrue in the Post-Commencement Period.
+
+A3 - Calculation of in-year gains and losses
+
+After gains and losses have been allocated to the Pre-Commencement Period and Post-Commencement Period the following calculations can be made in this order:-
+
+- Compute the net gains of the Pre-Commencement Period;
+
+- Identify any excess losses from the Pre-Commencement Period;
+
+- Compute the net gains of the Post-Commencement Period;
+
+- Identify any excess losses from the Post-Commencement Period;
+
+- Allocate any excess losses from the Post-Commencement Period to the Pre-Commencement Period;
+
+- Allocate any carried-forward capital losses to the Pre-Commencement Period without restriction;
+
+- Allocate any excess losses from the Pre-Commencement Period to the Post-Commencement Period.
+
+Example 8 - Calculation of in-year gains and losses
+
+Using the disposals in the above example, the gains and losses accruing are as follows:-
+
+Property A Gain of £1,250,000
+
+Property B Gain of £8,000,000
+
+Shares C Loss of £500,000
+
+Shares D Loss of £2,600,000
+
+Easement E Gain of £100,000
+
+Lease F Gain of £400,000
+
+The company has carried-forward capital losses of £15 million.
+
+1. Compute the net gains of the Pre-Commencement Period
+
+Property A £1,250,000
+
+Shares D (2,600,000)
+
+Total gains £1,250,000
+
+Less losses utilised (£1,250,000)
+
+Net gains £ nil
+
+2. Identify any excess losses from the Pre-Commencement Period
+
+Total losses from Pre-Commencement Period £2,600,000
+
+Less utilised losses (£1,250,000)
+
+Excess losses of Pre-Commencement Period £1,350,000
+
+3. Compute the net gains of the Post-Commencement Period
+
+Property B £8,000,000
+
+Shares C (£500,000)
+
+Easement E £100,000
+
+Lease F £400,000
+
+Total gains £8,500,000
+
+Less losses utilised (£500,000)
+
+Net gains £8,000,000
+
+4. Identify any excess losses from the Post-Commencement Period
+
+Total losses from Post-Commencement Period £500,000
+
+Less utilised losses (£500,000)
+
+Excess losses of Post-Commencement Period £ nil
+
+5. Allocate any excess losses from the Post-Commencement Period to the Pre-Commencement Period
+
+In this example, there are no excess losses from the Post-Commencement Period.
+
+6. Allocate any carried-forward capital losses to the Pre-Commencement Period without restriction
+
+The company has carried-forward capital losses of £15 million.As the net gains of the Pre-Commencement Period are already nil, none of the carried-forward capital losses can be offset at this stage.
+
+7. Allocate any excess losses from the Pre-Commencement Period to the Post-Commencement Period
+
+Net gain of Post-Commencement Period  £8,000,000
+
+Excess losses of Pre-Commencement Period (£1,350,000)
+
+Revised net gains of the Post-Commencement Period £6,650,000
+
+A4 - Application of the Corporate Capital Loss Restriction
+
+The CCLR will only apply to the Post-Commencement Period where losses have been carried forward from before the Pre-Commencement Period. Losses from the Pre-Commencement Period which are utilised in the Post-Commencement Period are not restricted.
+
+There is no requirement to apportion the deductions allowance for the Post-Commencement Period where the Straddling Period is for a full year, so the deductions allowance due will be £5 million.
+
+Whilst the Post-Commencement Period has been separated for capital gains and losses, there is no need to apportion other gains, profits and losses, so these are considered on a whole accounting period basis.
+
+Example 9 - CCLR
+
+In the above example, the company has:-
+
+Carried-forward capital losses £15 million as at 31 December 2019
+
+Carried-forward trading losses £30 million
+
+Trading profits £16 million
+
+Non-trading loan relationship deficits £2 million
+
+The company specifies that its Chargeable Gains Deductions Allowance is £5 million.
+
+As shown above, the revised net gains of the Pre-Commencement Period are nil and the revised net gains of the Post-Commencement Period are £6,650,000. The company must use in-year capital losses before carried-forward capital losses, so no carried-forward capital losses can be offset in the Pre-Commencement Period in this case.
+
+Step 1
+
+The company’s modified profits will be:-
+
+Capital gains of the period £9.75 million
+
+Less capital losses of the period £3.1 million
+
+Less c/f capital losses offset in Pre-Commencement Period £ nil
+
+Plus trading profits £16 million
+
+Less NTLR deficits £2 million
+
+The modified profits are therefore £20.65 million. These are greater than nil so we will progress to Step 2.
+
+Step 2
+
+The reliefs that can be set against the company’s total profits for the accounting period are, in this case, the non-trading loan relationship (NTLR) deficits.
+
+The Step 2 Amount is therefore £2 million.
+
+Step 3
+
+Divide the total profits into:-
+
+- Trading profits
+
+- Non-trading income profits
+
+- Chargeable gains
+
+In this case, the trading profits are £16 million.
+
+The non-trading income profits are £ nil.
+
+The chargeable gains are £6.65 million.
+
+For this step we consider the trading profits and non-trading income profits of the whole accounting period but the chargeable gains of the Post-Commencement Period only.
+
+Step 4
+
+The company can allocate the Step 2 Amount of £2 million as it wishes to either the trading profits, non-trading income profits or chargeable gains (for the latter only for the Post-Commencement Period) or a combination of these (but not so as to reduce any one of these below nil).
+
+In this case, we’ll assume that the company will allocate the £2 million to trading profits.
+
+Note that if the Step 2 Amount is set against the chargeable gains of the Post-Commencement Period, there is no need to identify or apportion the Step 2 Amount according to the Pre-Commencement or Post-Commencement Periods.
+
+Step 5
+
+Following Step 4, the amounts will be:-
+
+Qualifying trading profits £14 million
+
+Qualifying non-trading income profits £ nil
+
+Qualifying Chargeable Gains  £6.65 million
+
+Deductions Allowance
+
+The company can choose how to allocate its £5 million deductions allowance.
+
+In this case, the company has specified that its Chargeable Gains Deductions Allowance will be £5 million.
+
+Note that the maximum amount of deductions allowance is determined by reference to the whole accounting period (in this case a year, so £5 million is available). The whole amount is then potentially available for the Post-Commencement Period’s Chargeable Gains Deductions Allowance and need not be apportioned further.
+
+Calculate the Relevant Chargeable Gains
+
+This is:-
+
+- The company’s Qualifying Chargeable Gains (from Step 5 above) for the period, less
+
+- The company’s Chargeable Gains Deductions Allowance.
+
+The Relevant Chargeable Gains are therefore £6.65 million less £5 million = £1.65 million.
+
+Calculate the Relevant Maximum
+
+This is:-
+
+- 50% of the company’s Relevant Chargeable Gains for the accounting period, plus
+
+- The company’s Chargeable Gains Deductions Allowance.
+
+The Relevant Maximum is therefore 50% of £1.65 million (= £0.825 million) plus £5 million = £5.825 million.
+
+The carried-forward capital losses will therefore be restricted to £5.825 million for the Post-Commencement Period.
+
+Compute the remaining parts of the restriction
+
+These calculations are not shown in full here but the carried-forward trading losses will be limited to £7 million (50% of the qualifying trading profits).
+
+The net chargeable gains of the Pre-Commencement Period are nil (as set out above).
+
+The net chargeable gains of the Post-Commencement Period are:-
+
+Net chargeable gains before c/f capital losses £6,650,000
+
+Less carried-forward capital losses (restricted) £5,825,000
+
+Net chargeable gains of the Post-Commencement Period £825,000
+
+The chargeable gains of the whole period are:-
+
+Net chargeable gains of the Pre-Commencement Period  £ nil
+
+Net chargeable gains of the Post-Commencement Period £825,000
+
+Total net chargeable gains £825,000
+
+The total profits will be:
+
+Net capital gains of the period £0.825 million
+
+Plus trading profits £16 million
+
+Less carried-forward trading losses (restricted) £7 million
+
+Less NTLR deficits £2 million
+
+The total profits chargeable to Corporation Tax are therefore £7.825 million.
+
+Example 10 - CCLR (with net gains in Pre-Commencement Period)
+
+A company has the following for an accounting period ended 31 December 2020:-
+
+Carried-forward capital losses £15 million as at 31 December 2019
+
+Carried-forward trading losses £30 million as at 31 December 2019
+
+Trading profits £16 million
+
+NTLR deficits £2 million
+
+The company disposes of two assets during the period resulting in the following capital gains:-
+
+1 March 2020 £6 million
+
+1 September 2020 £7 million
+
+The company accrues no capital losses within the period.
+
+The company specifies that its Chargeable Gains Deductions Allowance is £5 million.
+
+1. Compute the net gains of the Pre-Commencement Period
+
+1 March 2020 disposal £6 million
+
+Total gains £ 6 million
+
+Less losses utilised £ nil
+
+Net gains £6 million
+
+2. Identify any excess losses from the Pre-Commencement Period
+
+There are no excess losses in this example.
+
+3. Compute the net gains of the Post-Commencement Period
+
+1 September 2020 disposal £7 million
+
+Total gains £7 million
+
+Less losses utilised £ nil
+
+Net gains £7 million
+
+4. Identify any excess losses from the Post-Commencement Period
+
+There are no excess losses in this example.
+
+5. Allocate any excess losses from the Post-Commencement Period to the Pre-Commencement Period
+
+In this example, there are no excess losses from the Post-Commencement Period.
+
+6. Allocate any carried-forward capital losses to the Pre-Commencement Period without restriction
+
+The company has carried-forward capital losses of £15 million.
+
+Pre-Commencement Period gains £6 million
+
+Less c/f capital losses £6 million
+
+Net capital gains of Pre-Commencement Period £ nil
+
+These carried-forward capital losses are offset without restriction.
+
+7. Allocate any excess losses from the Pre-Commencement Period to the Post-Commencement Period
+
+In this example, there are no excess losses from the Pre-Commencement Period.
+
+Therefore the Pre-Commencement Period capital gains are nil and the Post-Commencement Period capital gains are £7 million.
+
+The CCLR can now be computed.
+
+Step 1
+
+The company’s modified profits will be:-
+
+Capital gains of the period £13 million
+
+Less capital losses of the period £ nil
+
+Less c/f capital losses offset in
+Pre-Commencement Period  £6 million
+
+Plus trading profits £16 million
+
+Less NTLR deficits £2 million
+
+Step 2The modified profits are therefore £21 million. These are greater than nil so we will progress to Step 2.
+
+The reliefs that can be set against the company’s total profits for the accounting period are, in this case, the non-trading loan relationship (NTLR) deficits.
+
+The Step 2 Amount is therefore £2 million.
+
+Step 3
+
+Divide the total profits into:-
+
+- Trading profits
+
+- Non-trading income profits
+
+- Chargeable gains
+
+In this case, the trading profits are £16 million.
+
+The non-trading income profits are £ nil.
+
+The chargeable gains are £7 million.
+
+For this step we consider the trading profits and non-trading income profits of the whole accounting period but the chargeable gains of the Post-Commencement Period only.
+
+Step 4
+
+The company can allocate the Step 2 Amount of £2 million as it wishes to either the trading profits, non-trading income profits or chargeable gains (of the Post-Commencement Period) or a combination of these (but not so as to reduce any one of these below nil).
+
+In this case, we’ll assume that the company will allocate the £2 million to trading profits.
+
+Note that if the Step 2 Amount is set against the chargeable gains of the Post-Commencement Period, there is no need to identify or apportion the Step 2 Amount according to the Pre-Commencement or Post-Commencement Periods.
+
+Step 5
+
+Following Step 4, the amounts will be:-
+
+Qualifying trading profits £14 million
+
+Qualifying non-trading income profits £ nil
+
+Qualifying Chargeable Gains £7 million
+
+Deductions Allowance
+
+The company can choose how to allocate its £5 million deductions allowance.
+
+In this case, the company has specified that its Chargeable Gains Deductions Allowance will be £5 million.
+
+Note that the maximum amount of deductions allowance is determined by reference to the whole accounting period (in this case a year, so £5 million is available). The whole amount is then potentially available for the Post-Commencement Period’s Chargeable Gains Deductions Allowance and need not be apportioned further.
+
+Calculate the Relevant Chargeable Gains
+
+This is:-
+
+- The company’s Qualifying Chargeable Gains (from Step 5 above) for the period, less
+
+- The company’s Chargeable Gains Deductions Allowance.
+
+The Relevant Chargeable Gains are therefore £7 million less £5 million = £2 million.
+
+Calculate the Relevant Maximum
+
+This is:-
+
+- 50% of the company’s Relevant Chargeable Gains for the accounting period, plus
+
+- The company’s Chargeable Gains Deductions Allowance.
+
+The Relevant Maximum is therefore 50% of £2 million (= £1 million) plus £5 million = £6 million.
+
+The carried-forward capital losses will therefore be restricted to £6 million for the Post-Commencement Period.
+
+Compute the remaining parts of the restriction
+
+These calculations are not shown in full here but the carried-forward trading losses will be limited to £7 million (50% of the qualifying trading profits).
+
+The net chargeable gains of the Pre-Commencement Period are nil (as set out above).
+
+The net chargeable gains of the Post-Commencement Period are:-
+
+Net chargeable gains before c/f capital losses £7 million
+
+Less carried-forward capital losses (restricted) £6 million
+
+Net chargeable gains of the Post-Commencement Period £1 million
+
+The chargeable gains of the whole period are:-
+
+Net chargeable gains of the Pre-Commencement Period  £ nil
+
+Net chargeable gains of the Post-Commencement Period £1 million
+
+Total net chargeable gains £1 million
+
+The total profits will be:-
+
+Net capital gains of the period £1 million
+
+Plus trading profits £16 million
+
+Less carried-forward trading losses (restricted) £7 million
+
+Less NTLR deficits £2 million
+
+The total profits chargeable to Corporation Tax are therefore £8 million.
+
+A5 - BLAGAB
+
+Where a company has BLAGAB, see Section 10 below, the company should compute its BLAGAB and non-BLAGAB gains and losses in the normal way.
+
+Where carried-forward losses will be restricted by the CCLR, as set out in Section 10, the commencement rules for Straddling Periods will apply.
+
+Therefore, if a company with BLAGAB has carried-forward non-BLAGAB capital losses which it intends to set against the shareholders’ share of BLAGAB gains, the BLAGAB gains will need to be apportioned to the Pre-Commencement Period and the Post-Commencement Period. The carried-forward non-BLAGAB capital losses that are offset in the Post-Commencement Period will be subject to the CCLR.
+
+Broadly, there are two types of disposals made by companies writing BLAGAB:
+
+- Those accrued on an actual realisation basis (for example unit linked fund disposals, property gains, other directly held investments) – referred to here as
+
+- Those deemed to have accrued at the end of the Accounting Period by s212 TCGA, which include gains and losses on holdings in certain collective investment schemes, and which are spread over 7 years by s213. – referred to here as
+
+In order to apportion BLAGAB gains to the Pre-Commencement Period and the Post-Commencement Period, the commencement provisions are to be interpreted as deeming there to be an end of an accounting period for purposes at the end of the pre commencement period, as well as at the end of the post commencement period.
+
+The will be allocated to the Pre-Commencement Period and the Post-Commencement Period according to when they arise.
+
+The commencement provisions are only intended to affect chargeable gains, therefore the shareholders share of any BLAGAB gains is to be calculated in the normal way on the full accounting period basis, a single I-E computation for the accounting period is preserved.
+
+5B. Non-UK resident property businesses
+
+Where a company, which is not otherwise chargeable to Corporation Tax, disposes of an interest in UK property resulting in a capital gain or loss, it will become chargeable to Corporation Tax on the date of the disposal. The following day, it will no longer be chargeable to Corporation Tax so it will have an accounting period which starts and ends on the same day (a one-day accounting period).
+
+Specific provisions for companies without a source of chargeable income (one-day accounting periods) is being made (see Section 7 below).
+
+Certain non-UK resident property businesses are chargeable to Income Tax in the Tax Year 2019-20. However, if such companies dispose of a UK property interest during that tax year, any gain on that disposal will be chargeable to Corporation Tax (resulting in a one-day accounting period).
+
+Non-UK resident property businesses are chargeable to Corporation Tax from 6 April 2020 onwards.
+
+The treatment for companies without a source of chargeable income (as in Section 7) will not apply where a company has a one-day accounting period between 1 April 2020 and 5 April 2020 if the company then becomes chargeable to Corporation Tax on 6 April 2020.
+
+The commencement provisions therefore extend the one-day accounting period provision to cover companies in this situation and permit certain losses to be moved from one period to another without restriction.
+
+B1 - Conditions
+
+These commencement provisions (loss provision and one-day accounting provision) apply where the following conditions are met by a company:-
+
+- It is a non-UK resident company which carries on a UK property business or has other UK property income,
+
+- It is within the charge to Income Tax for the tax year 2019-20,
+
+- It is chargeable to Corporation Tax for an accounting period (or periods) falling wholly within the period from (and including) 1 April 2020 to 5 April 2020 because a capital gain (or loss) has accrued in that period, and
+
+- It is within the charge to Corporation Tax from 6 April 2020.
+
+B2 - Election
+
+Where the conditions above are met, the commencement provisions described below will apply automatically. If a company does not want the provisions to apply, it can make an election for the provisions not to apply.
+
+When a valid election has been made, neither of the provisions described below will apply.
+
+B3 - Losses provision
+
+Where a capital loss accrues in an accounting period between 1 April 2020 and 5 April 2020, it is offset (so far as is not required to offset any capital gains of the same accounting period) against capital gains accruing in either:-
+
+- Any other accounting period in the period between 1 April 2020 and 5 April 2020, and
+
+- The accounting period commencing on 6 April 2020.
+
+Where capital losses accrue in the accounting period commencing on 6 April 2020, so far as they are not required to offset any capital gains in that accounting period, they are used to offset any capital gains accruing in any accounting period in the period between 1 April 2020 and 5 April 2020.
+
+Example 11 - Losses provision
+
+A non-UK resident company which meets the conditions above makes a number of disposals resulting in the following capital gains and losses accruing:-
+
+Year | Loss/Gain | Amount |
+
+1 April 2020 | Gain | £150,000 |
+
+2 April 2020 | Loss | £40,000 |
+
+4 April 2020 | Loss | £160,000 |
+
+10 April 2020 | Gain | £600,000 |
+
+11 April 2020 | Loss | £50,000 |
+
+The company prepares accounts to 31 March 2021.
+
+The company will have three accounting periods as follows:-
+
+- 1 April 2020 to 2 April 2020
+
+- 4 April 2020 to 4 April 2020
+
+- 6 April 2020 to 31 March 2021
+
+First, compute the net gains or excess losses of each accounting period.
+
+Accounting period ended 2 April 2020
+
+Capital gains of period £150,000
+
+Capital losses of period £40,000
+
+Net gains of period £90,000
+
+Accounting period ended 4 April 2020
+
+Capital gains of period £ nil
+
+Capital losses of period £160,000
+
+Excess losses of period £160,000
+
+Accounting period ended 31 March 2021
+
+Capital gains of period £600,000
+
+Capital losses of period £50,000
+
+Net gains of period £550,000
+
+Next, allocate any excess losses to other accounting periods.
+
+Accounting period ended 2 April 2020
+
+Net gains of period £90,000
+
+Less excess losses from period ended 4 April 2020 £90,000
+
+Net gains of period £ nil
+
+Accounting period ended 31 March 2021
+
+Net gains of period £550,000
+
+Less excess losses from period ended 4 April 2020 £70,000
+
+Net gains of period £480,000
+
+Losses allocated in accordance with this treatment are not subject to restriction under the CCLR.
+
+For the purposes of the CCLR, such losses are treated as being losses of the same accounting period and thus form part of the Qualifying Chargeable Gains for the accounting period.
+
+The company must offset all available capital losses against capital gains as far as possible before computing the CCLR.
+
+The company can choose to which accounting period (or periods) it allocates any capital losses within these rules. In the example above, the company could have allocated the whole of the £160,000 losses from the accounting period ended 4 April 2020 to the accounting period ended 31 March 2021.
+
+B4 - One-day accounting period provision
+
+Where a company has an accounting period between 1 April 2020 and 5 April 2020 which results in net capital gains arising (after deducting any capital losses of the period and in accordance with the above losses provision) and the company has carried-forward capital losses as at 1 April 2020, the company is treated as if it had made a claim under CTA10/S269ZYA (see Section 7 below) in respect of that accounting period.
+
+In computing the amount of deductions allowance due for the accounting period commencing 6 April 2020, the amounts of any deductions allowance used in the accounting periods between 1 April 2020 and 5 April 2020 must be deducted.
+
+Example 12 - One-day accounting period provision
+
+A non-UK resident property business which prepares its accounts to 31 March is within the charge to income tax for the tax year 2019-20 and within the charge to corporation tax from 6 April 2020.
+
+At 1 April 2020, the company has carried-forward capital losses of £27 million.
+
+On 4 April 2020, the company disposes of a UK property, making a capital gain of £1 million. The company is chargeable to Corporation Tax on this disposal so will have a one-day accounting period for 4 April 2020.
+
+In the period from 6 April 2020 to 31 March 2021, the company makes further capital gains of £10 million and has property income profits of £107 million.
+
+As the company meets the conditions the commencement provision will apply.
+
+The company is treated as if it made a claim under CTA10/S269ZYA for the accounting period ended 4 April 2020. As a result, the company will utilise a Chargeable Gains Deductions Allowance of £1 million in that accounting period.
+
+For the period from 6 April 2020 to 31 March 2021, the company would normally be entitled to a deductions allowance of £4,931,507 (360/365 x £5 million). In this case, the amount must be reduced by the amount already used of £1 million, so the maximum amount of deductions allowance due will be £3,931,507.
+
+6. Anti-forestalling arrangements
+
+FB20/Sch 3 Para 46 (now FA20/Sch 4, Para 46)
+
+Anti-forestalling rules will apply if a company enters into a transaction with a main purpose of forestalling the effect of the CCLR.
+
+This guidance does not provide a definitive list of situations that will or will not be caught by the anti-forestalling rules; it is only indicative of the general principles against which a situation will be judged. Some examples are provided but again these are not exhaustive.
+
+The anti-forestalling rules apply where:-
+
+- A company has an accounting period ending before 1 April 2020,
+
+- The company would, apart from this provision, obtain a tax advantage or an increased deduction for carried-forward capital losses,
+
+- The tax advantage arises as a result of arrangements entered into on or after 29 October 2018, and
+
+- The main purpose, or one of the main purposes, of the arrangements is to secure a tax advantage in respect of the CCLR before the CCLR comes into effect.
+
+Where a company has a Straddling Period, (see Section 5 above) this provision applies in respect of the Pre-Commencement Period.
+
+Where the anti-forestalling rules apply, the company’s carried-forward capital losses can only be offset against up to 50% of the company’s Qualifying Chargeable Gains for the accounting period.
+
+If the anti-forestalling provision applies, no amount of deductions allowance is due and the restriction applies to all gains of the accounting period, not just those relating to forestalling.
+
+In the examples below, the transaction occurs in an accounting period to which the anti-forestalling rule could apply.
+
+Example 13
+
+A company sells a property asset to an unconnected third party.
+
+The anti-forestalling rule would not apply to a straightforward commercial disposal.
+
+The rule would be expected to apply to the following examples:
+
+Example 14
+
+A company disposes of an asset (or is treated as having disposed of an asset for tax purposes) and subsequently re-acquires the same asset, or an equivalent asset, before the commencement of the new rules.
+
+This “bed and breakfast” arrangement may involve a third party or, particularly in the case of shares, an open market.
+
+This would result in a gain being realised, covered by carried-forward losses or current period losses, and the reacquired asset having a higher acquisition value.
+
+Where a company disposes of an asset and leases it back under a normal commercial transaction, to realise value from the asset whilst still being able to use it, then this would not be caught.
+
+Example 15
+
+A company enters into a contract with another party to sell an asset, but the contract is not completed for some time.
+
+This is an example where the contract will set the date of disposal (by virtue of Section 28 TCGA) but no commercial disposal will occur until the contract is completed. This could be several years later.
+
+If there is no commercial reason for the delay in completion of the contract then this example would be expected to be caught be the anti-forestalling rules.
+
+Example 16
+
+A company owning an asset may dispose of it to an entity that is not part of the same group for capital gains purposes but effectively part of the same commercial concern, perhaps a Company Limited by Guarantee (CLG), before the new restriction comes into force. Carried-forward or current period capital losses are used to cover any gains and the base cost is effectively uplifted to current market value.
+
+Indicators that the arrangements may be contrived to achieve a relevant tax advantage might be that the disposal is to a connected person (within the meaning of Section 286 TCGA) or where there is some common control of the company and the acquiring entity.
+
+Example 17
+
+Building on the previous example, the company owning an asset may enter into an unconditional contract with an entity that is not part of the same group for capital gains purposes, again a CLG might be used, to sell the asset before the new restriction comes into force. However, the contract is only completed at such a time as a third party wishes to purchase the asset, in which case the sale will be made by the CLG.
+
+The disposal to the CLG is treated as taking place at the time of the contract under section 28 TCGA, so before the commencement of the loss restriction.
+
+The original contract could be with a genuine third party, but one that receives a fee for its participation in the arrangement, rather than having a commercial interest in the asset concerned.
+
+Example 18 - Operation of the anti-forestalling rule
+
+A company has carried-forward capital losses of £200 million.
+
+In the accounting period for the year ended 31 December 2019, the company makes a disposal resulting in a capital gain of £20 million; the anti-forestalling rule applies to this gain.
+
+In the same accounting period, the company accrues capital gains of £2 million and capital losses of £1 million (to which the anti-forestalling rules do not apply).
+
+The company’s Qualifying Chargeable Gains for the accounting period (computed as if the CCLR legislation were in effect for the accounting period) are:-
+
+- Capital gains of £22 million, less
+
+- Capital losses of £1 million.
+
+The Qualifying Chargeable Gains are £21 million.
+
+As the anti-forestalling provision applies, the amount of carried-forward losses that can be offset against gains are limited to 50% of the Qualifying Chargeable Gains, or £10.5 million.
+
+The chargeable gains for the accounting period to 31 December 2019 will be £10.5 million.
+
+7. Companies without a source of chargeable income
+
+FB20/Sch 3 Paras 10 & 39 (now FA20/Sch 4, Paras 10 & 39)
+
+CTA10/S269ZYA
+
+CTA10/S269ZYB
+
+As set out above, some companies are only chargeable to Corporation Tax when they make a disposal which results in a capital gain or loss. These companies will have a one-day (or other short) accounting period. The £5 million deductions allowance available as part of the CCLR is proportionately reduced where a company has a short accounting period. In the case of a one-day accounting period, the deductions allowance due is 1/365 or 1/366 of £5 million.
+
+A solo company or company in a group where none of the companies have a Source of Chargeable Income, can make a claim to access up to £5 million of deductions allowance per Financial Year.
+
+This Section covers:-
+
+- A - Claims under CTA10/S269ZYA (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#7A-claims)
+
+- B - Declaration for provisional application under CTA10/S269ZYB (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#7B-declaration)
+
+- C - Losses for companies with no source of chargeable income (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg-app17#7c-losses)
+
+7A. Claims under CTA10/S269ZYA
+
+A1 - Definitions
+
+A company has No Source of Chargeable Income if it is either:-
+
+- Not within the charge to Corporation Tax, or
+
+- It is chargeable to Corporation Tax only because of a capital gain (or loss) accruing to the company on the disposal of an asset.
+
+A Financial Year is the period from 1 April to the next 31 March.
+
+A Claim AP is an accounting period in respect of which a company has made a claim under CTA10/S269ZYA.
+
+An Alternative AP is any other accounting period (of the company or Member of the Group) falling wholly within the same Financial Year which is not a Claim AP.
+
+A company is a Member of a Group if it is a Member of a Group (with the company making the claim) at any time during the Financial Year.
+
+Whether a company is a Member of a Group is determined in accordance with CTA10/S269ZZB (see CTM05160 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm05160)).
+
+The Available Deductions Allowance Amount is:-
+
+- £5,000,000, less
+
+- The total of the deductions allowance amounts (if any) already claimed by either the company or, if the company is a Member of a Group, each other company that is a Member of a Group. This includes amounts claimed falling within the same Financial Year in respect of each Claim AP and Alternative AP.
+
+References to an amount of deductions allowance claimed means:-
+
+- For a Claim AP, the amount of deductions allowance claimed under CTA10/S269ZYA,
+
+- For an Alternative AP, the amount of deductions allowance specified in the company’s tax return as its Chargeable Gains Deductions Allowance.
+
+There are four rules to determine the order of accounting periods for the purpose of establishing the amounts of deductions allowance already claimed.
+
+- Where there is Claim AP and another Claim AP on the same or a different day, the claims are ordered in the order that those claims are made.
+
+- Where there is an Alternative AP (AP1) and another Alternative AP (AP2) starting on a later date, AP1 is ordered before AP2.
+
+- Where there is an Alternative AP and another Alternative AP starting on the same day, the claims are ordered in the order in which the tax returns for those Alternative APs are delivered.
+
+- Where there is a Claim AP and an Alternative AP starting on the same or different days, the Claim AP is always treated as made before the Alternative AP.
+
+A2 - Claim conditions
+
+A claim under CTA2010/S269ZYA can be made in respect of a Financial Year (1 April to 31 March) if:-
+
+- The company has No Source of Chargeable Income at any time during the Financial Year;
+
+- Where the company is a Member of a Group at any time during the Financial Year, every other company (which is at any time during the Financial Year a Member of the Group with the company) has No Source of Chargeable Income;
+
+- The accounting period falls wholly within the Financial Year;
+
+- The company is only chargeable to Corporation Tax for the accounting period because of a capital gain.
+
+A3 - Time limits for making a claim
+
+The time limits for making a claim are that:-
+
+- The claim must be made within two years of the end of the Claim AP, and
+
+- The claim cannot be made before the end of the relevant Financial Year.
+
+The limit on the earliest date on which the claim can be made is so that the above conditions can be tested for the whole Financial Year. A Declaration for provisional application of CTA10/S269ZYA can be made if a company wishes to file its return before the end of the relevant Financial Year (see below).
+
+A4 - Effect on a Claim AP
+
+Where a claim is made, the amount of deductions allowance due in the Claim AP is limited to the lower of:-
+
+- The Available Deductions Allowance Amount,
+
+- The amount of carried-forward capital losses, or
+
+- The chargeable gains accruing to the company in the Claim AP.
+
+The chargeable gains accruing to the company in the Claim AP is the amount of capital gains of the Claim AP after deducting any capital losses of the same Claim AP and any (excess) capital losses arising in the same company in any other Claim AP or Alternative AP in the same Financial Year, see below for the rules on losses.
+
+A5 - Effect on an Alternative AP
+
+When a claim has been made by a company under CTA10/S269ZYA during a Financial Year, every other accounting period (during the same Financial Year) of that company, or any company that is a Member of the Group (at any time during the same Financial Year), will be an Alternative AP, unless that company makes a claim under CTA10/S269ZYA in respect of that accounting period (in which case that accounting period will also be a Claim AP).
+
+For an Alternative AP, the company’s deductions allowance is limited to the lower of:-
+
+- The amount of deductions allowance that would have been due ignoring this provision (that is the amount due in accordance with CTA10/S269ZR to S269ZY, see CTM05120 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm05120) onwards), or
+
+- The Available Deductions Allowance Amount.
+
+Example 19 - No source of chargeable income
+
+Companies A Ltd, B Ltd and C Ltd are all members of the same group.
+
+During the Financial Year from 1 April 20X5 to 31 March 20X6:-
+
+- A Ltd is dormant throughout,
+
+- B Ltd is dormant, except on 20 July 20X5, when it disposes of an asset resulting in a capital gain accruing,
+
+- C Ltd is wholly within the charge to Income Tax during the Financial Year.
+
+In this case, all of the companies have No Source of Chargeable Income.
+
+In the case of C Ltd, even though the company is chargeable to Income Tax, it has No Source of Chargeable Income as it is not chargeable to Corporation Tax.
+
+Example 20 - Members of a group
+
+J Ltd wishes to make a claim under CTA10/S269ZYA during the Financial Year from 1 April 20X7 to 31 March 20X8 for a Claim AP starting on 5 June 20X7 (where it sold an asset resulting in a capital gain). J Ltd is generally dormant during the Financial Year.
+
+J Ltd owned all the shares in K Ltd throughout the Financial Year.
+
+J Ltd also owned all the shares in L Ltd until 7 May 20X7, when it sold those shares to an individual.
+
+J Ltd also owned all the shares in M Ltd until 18 August 20X7, when it sold those shares to P Ltd (an unconnected company). P Ltd also owned shares in Q Ltd, a company trading in the UK.
+
+J Ltd purchased all the shares in R Ltd on 2 January 20X8 and sold them on 29 March 20X8.
+
+From the point of view of J Ltd, the following companies will be Members of the Group:-
+
+- K Ltd (as it was in the same group as J Ltd throughout the Financial Year);
+
+- L Ltd (as it was in the same group as J Ltd for part of the Financial Year);
+
+- M Ltd (as it was in the same group as J Ltd for part of the Financial Year);
+
+- R Ltd (as it was in the same group as J Ltd for part of the Financial Year);
+
+P Ltd and Q Ltd will not be Members of the Group.
+
+In order for J Ltd to make a valid claim, therefore:-
+
+- J Ltd must have No Source of Chargeable Income at any time between 1 April 20X7 and 31 March 20X8; it seems likely that this condition will be met on the information given. The sales of shares are likely to result in further one-day accounting periods during the Financial Year; these will be Alternative APs unless J Ltd makes a claim in respect of them.
+
+- Each of K Ltd, L Ltd, M Ltd and R Ltd must all have No Source of Chargeable Income at any time between 1 April 20X7 and 31 March 20X8, including the periods within that timeframe before and/or after they were grouped with J Ltd,
+
+- The accounting period must fall wholly within the Financial Year; the accounting period in this case is 5 June 20X7 to 5 June 20X7, so this condition is met.
+
+- J Ltd must only be chargeable to Corporation Tax for the accounting period because of a capital gain; this condition is met.
+
+Example 21 - Ordering of claims
+
+S Ltd, T Ltd and U Ltd together form a group.
+
+During the Financial Year from 1 April 20X3 to 31 March 20X4, all three companies have No Source of Chargeable Income and each has an amount of carried-forward capital losses.
+
+Each company makes a number of disposals during the Financial Year each of which results in a capital gain arising that is chargeable to Corporation Tax.
+
+S Ltd makes the following capital gains:-
+
+10 April 20X3 * £100,000
+
+17 November 20X3 * £45,000
+
+12 December 20X3 £7,500
+
+T Ltd makes the following capital gains:-
+
+10 April 20X3 £1,000
+
+17 November 20X3* £18,000
+
+12 December 20X3 £3,400
+
+19 December 20X3* £23,500
+
+U Ltd makes the following capital gains:-T Ltd makes the following capital gains:-
+
+19 December 20X3* £6,000
+
+20 December 20X3 * £36,000
+
+The * denotes that the company has made a claim under CTA10/S269ZYA.Each of the above disposals will result in a one-day accounting period, except for U Ltd where there will be a single accounting period commencing on 19 December 20X3 and ending on 20 December 20X3.
+
+The companies submit their returns (and where appropriate make their claims) at the following times:-
+
+Reference
+
+|
+
+Company
+
+|
+
+Accounting period ended
+
+|
+
+Accounting period type
+
+|
+
+Return submitted
+
+|
+
+A
+
+|
+
+S Ltd
+
+|
+
+10 April 20X3
+
+|
+
+Claim AP
+
+|
+
+10 April 20X4 – 15:07
+
+|
+
+B
+
+|
+
+S Ltd
+
+|
+
+17 November 20X3
+
+|
+
+Claim AP
+
+|
+
+4 April 20X4 – 10:24
+
+|
+
+C
+
+|
+
+S Ltd
+
+|
+
+12 December 20X3
+
+|
+
+Alternative AP
+
+|
+
+12 April 20X4 – 11:56
+
+|
+
+D
+
+|
+
+T Ltd
+
+|
+
+10 April 20X3
+
+|
+
+Alternative AP
+
+|
+
+10 April 20X4 – 15:02
+
+|
+
+E
+
+|
+
+T Ltd
+
+|
+
+17 November 20X3
+
+|
+
+Claim AP
+
+|
+
+4 April 20X4 – 10:36
+
+|
+
+F
+
+|
+
+T Ltd
+
+|
+
+12 December 20X3
+
+|
+
+Alternative AP
+
+|
+
+4 April 20X4 – 14:42
+
+|
+
+G
+
+|
+
+T Ltd
+
+|
+
+19 December 20X3
+
+|
+
+Claim AP
+
+|
+
+17 April 20X4 – 13:29
+
+|
+
+H
+
+|
+
+U Ltd
+
+|
+
+20 December 20X3
+
+|
+
+Claim AP
+
+|
+
+4 April 20X4 – 10:07
+
+|
+
+The ordering of the accounting periods is determined by reference to the dates that the claims are made or returns are submitted as follows:-
+
+- C, D and F must be ordered after A, B, E, G and H in accordance with Rule 4, as they are Alternative APs and Claim APs (A, B, E, G and H) are always treated as being earlier claims.
+
+- Claims are treated as being made in the order they were submitted in accordance with Rule 1. The Claim APs are therefore ordered H, B, E, A and G.
+
+- Alternative APs are ordered such that the Alternative AP which starts on a certain date will always be considered to have been made an Alternative AP which starts on a later date, in accordance with Rule 2. D is therefore treated as being ordered before C and F.
+
+- Both C and F are Alternative APs that started on the same date, so they are ordered in the order in which their returns were submitted, in accordance with Rule 3. C is therefore treated as ordered before F.
+
+The order of accounting periods is therefore H > B > E > A > G > D > C > F.
+
+Therefore in considering the Available Deductions Allowance Amount:-
+
+- H would be entitled to the full £5,000,000;
+
+- B would need to deduct (#) the amount of deductions allowance claimed by H;
+
+- E would need to deduct (#) the amounts of deductions allowance claimed by H & B;
+
+- A would need to deduct (#) the amounts of deductions allowance claimed by H, B & E;
+
+- G would need to deduct (#) the amounts of deductions allowance claimed by H, B, E & A;
+
+- D would need to deduct (#) the amounts of deductions allowance claimed by H, B, E, A & G;
+
+- C would need to deduct (#) the amounts of deductions allowance claimed by H, B, E, A, G & D;
+
+- F would need to deduct (#) the amounts of deductions allowance claimed by all the others.
+
+# - from the £5,000,000
+
+Example 22 - Claim time limits
+
+A company disposes of an asset on 4 July 20X1 resulting in a one-day accounting period.
+
+The company wishes to make a claim under CTA10/S269ZYA.
+
+The earliest date the company can make a claim is 1 April 20X2. The latest date it can make a claim is 4 July 20X3.
+
+Prior to 1 April 20X2, the company could make a Declaration for provisional application under CTA10/S269ZYB (see below).
+
+Example 23 - Single claim
+
+A company, which is not a Member of a Group, has No Source of Chargeable Income during the Financial Year ended 31 March 20X0. The company makes a single disposal of an asset during the Financial Year of 17 October 20W9 resulting in a £3 million capital gain. The company has carried-forward capital losses of £6.5 million.
+
+The company makes a valid claim under CTA10/S269ZYA.
+
+The accounting period ended 17 October 20W9 is a Claim AP.
+
+The Available Deductions Allowance Amount is £5,000,000 as no amounts of deductions allowance have already been claimed.
+
+The amount of deductions allowance due in the Claim AP is limited to the lower of:-
+
+- The Available Deductions Allowance Amount (£5,000,000),
+
+- The amount of carried-forward capital losses (£6,500,000), or
+
+- The chargeable gains accruing to the company in the Claim AP (£3,000,000).
+
+The amount of deductions allowance that can be claimed for the accounting period is £3,000,000.
+
+Assuming the company claims the full amount, the capital gains of the accounting period will be reduced to nil.
+
+The carried-forward capital losses will be reduced to £3,500,000
+
+Example 24 - Multiple accounting periods for a single company
+
+In the above example, the company makes another disposal on 3 December 20W9, resulting in a capital gain of £4,000,000.
+
+The company makes a second valid claim under CTA10/S269ZYA.
+
+The accounting period ended 3 December 20W9 is also a Claim AP.
+
+The Available Deductions Allowance Amount is:-
+
+- £5,000,000, less
+
+- Any amounts of deductions allowance already claimed (£3,000,000 as above).
+
+As this claim is made after the above claim, the amount already claimed in the above Claim AP must be taken into account.
+
+The Available Deductions Allowance Amount is therefore £2,000,000.
+
+The amount of deductions allowance due in the Claim AP is limited to the lower of:-
+
+- The Available Deductions Allowance Amount (£2,000,000),
+
+- The amount of carried-forward capital losses (£3,500,000), or
+
+- The chargeable gains accruing to the company in the Claim AP (£4,000,000).
+
+The amount of deductions allowance that can be claimed for the accounting period is £2,000,000.
+
+Assuming the company claims the full amount, the CCLR will apply. The full calculation is not shown here but the Relevant Maximum amount of carried-forward capital losses that can be offset is £3,000,000 (the deductions allowance of £2,000,000 plus 50% of (£4,000,000 - £2,000,000)).
+
+The net chargeable gains of the period, which will form the profits chargeable to Corporation Tax will be £1,000,000 (£4,000,000 - £3,000,000).
+
+The carried-forward capital losses will be reduced to £500,000 (£3,500,000 - £3,000,000).
+
+Example 25 - Multiple accounting periods for a single company
+
+In the above example, the company makes another disposal on 22 July 20W9, resulting in a capital gain of £8,000.
+
+The company does not make a claim for this accounting period.
+
+The accounting period ended 22 July 20W9 is therefore an Alternative AP.
+
+In accordance with Rule 4 this accounting period will be ordered after the two Claim APs above.
+
+The Available Deductions Allowance Amount is:-
+
+- £5,000,000, less
+
+- Any amounts of deductions allowance already claimed (£5,000,000 (£3,000,000 + £2,000,000) as above).
+
+The Available Deductions Allowance Amount is therefore £ nil.
+
+The amount of deductions allowance due in the Alternative AP is limited to the lower of:-
+
+- The amount of deductions allowance that would have been due ignoring this provision (£13,699 in this case assuming it is not a leap year), or
+
+- The Available Deductions Allowance Amount (£ nil).
+
+The amount of deductions allowance that can be specified for the accounting period is £ nil.
+
+The CCLR will therefore apply to the whole of the gains of the period.
+
+The Relevant Maximum losses that can be used will be £4,000.
+
+The net chargeable gains of the period, which will form the profits chargeable to Corporation Tax will be £4,000 (£8,000 - £4,000).
+
+The carried-forward capital losses will be reduced to £496,000 (£500,000 - £4,000).
+
+7B. Declaration for provisional application under CTA10/S269ZYB
+
+B1 - Introduction
+
+Where a company wants to make a claim under CTA10/S269ZYA, as above, but is prevented from so doing as the Financial Year has not yet ended, it can make a Declaration for the provisional application of CTA10/S269ZYA in its tax return as if it had made a valid claim.
+
+B2 - Conditions
+
+To make a Declaration for provisional application:-
+
+- The company must deliver its tax return for the accounting period before the end of the relevant Financial Year;
+
+- The accounting period must fall wholly within the Financial Year;
+
+- The company must only be chargeable to Corporation Tax for the accounting period because of a capital gain;
+
+- The company must have No Source of Chargeable Income so far in the Financial Year;
+
+- If the company is a Member of a Group, all Members of the Group (at any time in the Financial Year so far) must have No Source of Chargeable Income at any time in the Financial Year so far; and
+
+- The company intends to make a valid claim under CTA10/S269ZYA within the relevant time limits.
+
+“So far”, means that the condition is met at the time the Declaration is made.
+
+B3 - Effect of a Declaration
+
+If a company makes a valid Declaration then, until the Declaration ceases to have effect, CTA10/S269ZYA has effect as if the company had made a valid claim under that section.
+
+B4 - Declaration ceasing to have effect
+
+The Declaration ceases to have effect if:-
+
+- It is withdrawn,
+
+- It is superseded by a claim under CTA10/S269ZYA, or
+
+- The company, or any Member of the Group, acquires a Source of Chargeable Income before the end of the Financial Year.
+
+The Declaration will automatically cease to have effect two years after the end of the accounting period in respect of which it was made.
+
+B5 - Effect of a Declaration ceasing to have effect
+
+If a Declaration ceases to have effect, all necessary adjustments must be made, whether by assessment, amendment of returns or otherwise.
+
+There is no time limit which would prevent an amendment being made or an assessment being raised when a Declaration ceases to have effect.
+
+Example 26 - Declaration for provisional application
+
+A company, which is not a Member of a Group, has No Source of Chargeable Income and has carried-forward capital losses of £10 million.
+
+On 11 September 20X6, the company disposes of an asset resulting in a capital gain of £7 million arising.
+
+On 27 September 20X6, the company submits its tax return and makes a Declaration for provisional application of CTA10/S269ZYA.
+
+The Declaration meets the conditions and the company will therefore calculate its tax liability as if it had made a valid claim under CTA10/S269ZYA. The company would claim a deductions allowance of £5 million so would be able to offset carried-forward capital losses (Relevant Maximum) of £6 million.
+
+The company’s profits chargeable to Corporation Tax would be £1 million.
+
+Example 27 - Company makes a claim
+
+After 31 March 20X7, the company can make a claim under CTA10/S269ZYA.
+
+If the company makes a valid claim on 3 April 20X7, the effect would be as shown in the guidance earlier in this Section for a Claim AP. The Declaration would cease to have effect on 3 April 20X7 but the tax position for the company would be unchanged as a result of the claim (assuming no other factors have changed).
+
+Example 28 - Company position changes
+
+If in the example before last, the company starts trading on 4 December 20X6, the company will now have a Source of Chargeable Income.
+
+The Declaration will cease to have effect on 4 December 20X6 and the company must amend its tax return for the accounting period ended 11 September 20X6.
+
+If the company fails to amend its tax return, an assessment can be raised.
+
+Example 29 - Company position changes
+
+If following the Declaration, the company does not make a claim and does not have a change in circumstances, the Declaration will cease to have effect on 11 September 20X8.
+
+The company must now amend its tax return for the accounting period ended 11 September 20X6 and calculate the CCLR using the deductions allowance permitted for a company with a one-day accounting period (1/365 x £5,000,000).
+
+The company is not prevented from amending its tax return by the normal time limits for making amendments.
+
+If the company fails to amend its tax return, an assessment can be raised.
+
+7C. Losses for companies with no source of chargeable income
+
+Where a company has No Source of Chargeable Income and has two or more one-day (or other short) accounting periods during a Financial Year it can offset excess capital losses from one of these periods against net capital gains in another period without the CCLR applying.
+
+C1 - Conditions
+
+To apply the loss treatment the company must:-
+
+- Have two or more accounting periods that fall within the same Financial Year, and
+
+- Only be chargeable to Corporation Tax for each accounting period because of a capital gain (or loss) arising.
+
+The treatment will still apply if the company is in a group where other Members of the Group have Sources of Chargeable Income so long as the company applying the treatment has No Source of Chargeable Income.
+
+C2 - Effect of loss treatment
+
+Where the conditions are met, the company must, in each accounting period, compute the net chargeable gains for that period.
+
+Any excess losses of an accounting period must then be offset against the net gains of any other accounting periods within the same Financial Year (in whichever order the company decides).
+
+The CCLR will now apply to any carried-forward capital losses from a previous Financial Year. Where appropriate, the company can make a claim under CTA10/S269ZYA in respect of any accounting period in the Financial Year.
+
+Example 30 - Losses
+
+A company has No Source of Chargeable Income in the Financial Year ended 31 March 20X3. The company has carried-forward capital losses of £500,000.
+
+The company makes a number of disposals during the year, each of which results in a one-day accounting period and a capital gain or capital loss accruing as follows:-
+
+AP | Date | Loss |
+
+AP1 | 2 April 20X2 | Capital loss of £12,800 |
+
+AP2 | 16 May 20X2 | Capital gain of £81,700 |
+
+AP3 | 6 June 20X2 | Capital loss of £17,600 |
+
+AP4 | 19 November 20X2 | Capital gain of £4,600 |
+
+AP5 | 23 February 20X3 | Capital loss of £1,200 |
+
+The company meets the conditions for the loss treatment to apply so must offset its capital losses against gains so far as it can.
+
+The company can choose how to allocate its losses, so might do the following:-
+
+AP4
+
+Net capital gains   £4,600
+
+Less capital losses from AP1 £4,600
+
+Net capital gains £ nil
+
+AP2
+
+Net capital gains £81,700
+
+Less capital losses from AP1 £8,200
+
+Less capital losses from AP3 £17,600
+
+Less capital losses from AP5 £1,200
+
+Net capital gains £54,700
+
+The CCLR can now be computed for AP2 where the Qualifying Chargeable Gains will be £54,700.
+
+The company may wish to make a claim under CTA10/S269ZYA for AP2 if it meets the relevant conditions.
+
+8. CCLR for insolvent companies
+
+FB20/Sch 3 Para 8 & 9 (now FA20/Sch 4, Paras 8 & 9)
+
+CTA10/S269ZWA
+
+Where a company is in Insolvent Liquidation, its deductions allowance is increased such that its carried-forward capital losses are not restricted in the Winding Up Accounting Period.
+
+Conditions
+
+The increased deductions allowance is only due when the company is either:-
+
+- In Insolvent Liquidation within the United Kingdom, or
+
+- A Corresponding Situation exists in a country or territory outside the United Kingdom.
+
+Definitions
+
+Liquidation means that the company has either passed a resolution for its winding up, or been ordered to be wound up by the court, within the meaning of:-
+
+- Section 247(2) of the Insolvency Act 1986, or
+
+- Article 6(2) of the Insolvency (Northern Ireland) Order 1989 (SI 1989/2405 (NI 19))
+
+Insolvent means that at the time the company goes into liquidation, its assets are insufficient for the payment of its debts and liabilities (including the expenses of winding up).
+
+Corresponding Situation means that for companies not within the United Kingdom, they enter a legal form (according to the law of that country or territory) of liquidation equivalent to those listed above and that the company is insolvent as defined above.
+
+A Winding Up Accounting Period is one which:-
+
+- Begins when a new accounting period starts on the commencement of winding up (as per CTA2009/S12(7)), and
+
+- Each subsequent accounting period.
+
+Deductions Allowance
+
+Where the conditions are met, the deductions allowance for the Winding Up Accounting Period is increased by the lessor of:-
+
+- The chargeable gains of the Winding Up Accounting Period (less any capital losses of the period), or
+
+- The amount of carried-forward capital losses.
+
+In determining the amount of chargeable gains of the Winding Up Accounting Period ignore:-
+
+- A - Any chargeable gains (but not losses) accruing from certain transfers within a group,
+
+- B - Certain chargeable gains (but not losses) transferred to the company under a group election.
+
+In the case of A, excluded gains are those arising from an asset where that asset was:-
+
+- Previously transferred into the company at no gain no loss (TCGA92/S171),
+
+- Where that previous transfer occurred during a Winding Up Accounting Period, and
+
+- The company making the transfer of the asset was not, at that time, in Insolvent Liquidation.
+
+In the case of B, excluded gains are those:-
+
+- Transferred to the company under an election made under TCGA92/S171A,
+
+- Where the election was made during a Winding Up Accounting Period, and
+
+- The company from which the gain was transferred was not, at the time of the election, in Insolvent Liquidation.
+
+Example 31 - Winding up accounting periods
+
+A company normally makes up its accounts to 31 December. On 16 July 20X2, the company enters insolvent liquidation. The company is finally liquidated on 2 March 20X4.
+
+The first accounting period from 16 July 20X2 to 15 July 20X3 and the second from 16 July 20X3 to 2 March 20X4 will both be Winding Up Accounting Periods.
+
+Example 32 - Single company in liquidation
+
+T Ltd has carried-forward capital losses of £40 million.
+
+On 1 June 20X3, it is insolvent and enters formal liquidation. In the period to 24 September 20X3 (when the company is dissolved), the company disposes of assets making capital gains of £11 million and capital losses of £2 million.
+
+The company meets the conditions for an increased deductions allowance, so the deductions allowance is increased by the lessor of:-
+
+- The chargeable gains of the Winding Up Accounting Period (less any capital losses of the period) (£11 million - £2 million = £9 million), or
+
+- The amount of carried-forward capital losses (£40 million).
+
+The deductions allowance for the Winding Up Accounting Period will therefore be increased by £9 million.
+
+Example 33 - Group where some companies are in liquidation
+
+As the above example, but T Ltd is in a group with Q Ltd, W Ltd, E Ltd, R Ltd and Y Ltd.
+
+R Ltd and Y Ltd both go into Insolvent Liquidation alongside T Ltd but Q Ltd, W Ltd and E Ltd continue as trading companies.
+
+Q Ltd makes a capital gain of £1 million on the disposal of an asset (A1), which it transfers to T Ltd during its Winding Up Accounting Period under a S171A election.
+
+W Ltd transferred some land (A2) to T Ltd about ten years ago (a no gain no loss transfer under S171); the disposal of that land accounts for £5 million of T Ltd’s gains during winding up.
+
+T Ltd also used a factory (A3), owned by E Ltd. It was agreed during the winding up that the factory be transferred to T Ltd for £1 million (its market value) for sale. The transfer to T Ltd is a no gain no loss transfer under S171 and T Ltd therefore recognised a £4 million gain on disposal of the asset.
+
+R Ltd makes a capital gain of £3 million on the disposal of an asset (A4), which it transfers to T Ltd during its Winding Up Accounting Period under a S171A election.
+
+Y Ltd owned some land (A5) adjacent to the A2 land. A buyer agreed to purchase A2 and A5 from T Ltd in a single transaction. During the Winding Up Accounting Period, Y Ltd transferred A5 to T Ltd in a no gain no loss transaction (under S171) so T Ltd recognised a gain of £1 million on this asset.
+
+T Ltd made gains in the Winding Up Accounting Period of £11 million, losses in the Winding Up Accounting Period of £2 million and received gains under S171A elections totalling £4 million. Its net chargeable gains for the period are £13 million.
+
+As above, the deductions allowance for the Winding Up Accounting Period is increased by the lessor of:-
+
+- The chargeable gains of the Winding Up Accounting Period (less any capital losses of the period), or
+
+- The amount of carried-forward capital losses.
+
+The latter amount (L) is still £40 million, but the former amount (F) includes various amounts arising following S171 transfers and S171A elections so needs to be adjusted.
+
+The total chargeable gains of the winding up period of £11 million are comprised of:-
+
+Disposal of A2 £5 million
+
+Disposal of A3 £4 million
+
+Disposal of A5 £1 million
+
+Disposal of other assets £1 million
+
+In the case of A2, the transfer under S171 occurred before the Winding Up Accounting Period began, so the gain arising of £5 million is not excluded in computing F.
+
+In the case of A3, the transfer was made under S171 during the Winding Up Accounting Period and from a company which was not, at the time of the transfer, in Insolvent Liquidation. The gain arising on the disposal of this asset of £4 million must therefore be excluded in computing F.
+
+In the case of A5, the transfer was made under S171 during the Winding Up Accounting Period but the company from which it was transferred was, at the time of the transfer, also in Insolvent Liquidation. The gain arising on the disposal of this asset of £1 million is not excluded in computing F.
+
+The total gains of the Winding Up Accounting Period transferred into T Ltd under S171A elections of £4 million are comprised of:-
+
+Election from Q Ltd (A1) £1 million
+
+Election from R Ltd (A4) £3 million
+
+In the case of A4, the election was made under S171A during the Winding Up Accounting Period, but R Ltd was, at the time of the election, in Insolvent Liquidation. The gain transferred of £3 million is not excluded in computing F.In the case of A1, the election was made under S171A during the Winding Up Accounting Period and Q Ltd was not in Insolvent Liquidation. The gain transferred of £1 million must therefore be excluded in computing F.
+
+The calculation of F is therefore:-
+
+- Capital gains of the accounting period (£11 million), less
+
+- Exclusion for A3 (£4 million), less
+
+- Capital losses of the accounting period (£2 million), plus
+
+- Gains transferred into T Ltd under S171A elections (£4 million), less
+
+- Exclusion for A1 (£1 million).
+
+F is therefore £8 million.
+
+As F is less than L, the deductions allowance for the Winding Up Accounting Period for T Ltd will be increased by £8 million.
+
+9. CCLR for offshore collective investment vehicles
+
+FB20/Sch 3 Para 11 (now FA20/Sch 4, Para 11)
+
+TCGA92/Sch 5AAA
+
+Certain Offshore Collective Investment Vehicles (CIVs) are deemed to be companies by virtue of TCGA92/Sch 5AAA Para 4. Where the deeming provision applies, the CCLR will apply to the entity as if it were a company.
+
+Where a CIV is deemed to be a company as above, the group provisions for CILR and CCLR (as set out in CTA10/S269ZZB, see CTM05160 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm05160)) will apply to that deemed company.
+
+Example 34 - Offshore collective investment vehicle
+
+For example, a CIV (“OCIV”), which is deemed to be a company by virtue of TCGA92/Sch 5AAA Para 4, holds all the shares of A Ltd, which in turn holds all the shares in B Ltd and C Ltd.
+
+For the purposes of CILR and CCLR: OCIV, A Ltd, B Ltd and C Ltd will together form a group.
+
+10. CCLR for life insurance companies
+
+FB20/Sch 3 Paras 12, 13, 14, 15, 40 & 41 (now FA20/Sch 4, Paras 12, 13, 14, 15, 40 & 41)
+
+TCGA92/S210A
+
+Specific rules apply for companies with Basic Life Assurance and General Annuity Business (BLAGAB) (see Life Assurance Manual (https://www.gov.uk/hmrc-internal-manuals/life-assurance/lam), in particular LAM03000 (https://www.gov.uk/hmrc-internal-manuals/life-assurance/lam03000) onwards).
+
+Companies with BLAGAB must apportion any capital gains and losses between their BLAGAB and other business (known as non-BLAGAB).
+
+The BLAGAB gains and losses are pooled and either attributed to policyholders (the policyholders’ share) or shareholders (the shareholders’ share).
+
+Where BLAGAB losses are carried forward to offset future BLAGAB gains, those losses will not be subject to the CCLR.
+
+Where Non-BLAGAB losses are carried forward to offset future non-BLAGAB gains, those losses will be subject to the CCLR.
+
+The BLAGAB losses attributable to shareholders can be carried-forward and offset against non-BLAGAB gains. Where this happens, the CCLR will apply to restrict such losses.
+
+Non-BLAGAB losses can also be carried forward and used to offset the shareholder share of BLAGAB gains. Where this happens, the CCLR will apply to restrict such losses.
+
+Offsetting non-BLAGAB gains against shareholders’ share of BLAGAB gains
+
+The CCLR will, as set out above, apply in this situation. The following terms are defined.
+
+Insurance Company, Shareholder’s Share of BLAGAB Chargeable Gains and BLAGAB Chargeable Gains take the same meaning as set out in TCGA92/S210A.
+
+The BLAGAB Deductions Allowance is the amount of the company’s deductions allowance specified for the purpose. This is part of the £5 million deductions allowance available to the group in a full year’s accounting period. If no amount is specified, the BLAGAB Deductions Allowance is nil.
+
+The Relevant BLAGAB Chargeable Gains for an accounting period are:-
+
+- The Shareholders’ Share of BLAGAB Chargeable Gains for an accounting period after deduction of any BLAGAB losses (either in-year or carried-forward) and any in-year non-BLAGAB losses which can be offset, less
+
+- The amount of the company’s BLAGAB Deductions Allowance.
+
+The Relevant Maximum is the sum of:-
+
+- 50% of the company’s Relevant BLAGAB Chargeable Gains for the accounting period, and
+
+- The amount of the company’s BLAGAB Deductions Allowance.
+
+The amount of non-BLAGAB allowable losses that the Insurance Company can offset against the Shareholders’ Share of the BLAGAB Chargeable Gains cannot exceed the Relevant Maximum.
+
+Example 35 - Company with BLAGAB
+
+An Insurance Company with BLAGAB has the following for an accounting period for the year ended 31 December 20X6:-
+
+Carried-forward BLAGAB losses £3 million
+
+Carried-forward non-BLAGAB losses £15 million
+
+Shareholders’ share of BLAGAB chargeable gains  £12 million
+
+Shareholders’ share of BLAGAB allowable losses £1 million
+
+Non-BLAGAB losses £2 million
+
+The BLAGAB Deductions Allowance is £2 million.
+For the purpose of this example, assume for simplicity that the carried-forward BLAGAB losses and in-year non-BLAGAB losses can be fully utilised against the Shareholders’ Share of BLAGAB Chargeable Gains. The company specifies that its BLAGAB Deductions Allowance will be £2 million.
+
+The Relevant BLAGAB Chargeable Gains are:-
+
+- The Shareholders’ Share of BLAGAB Chargeable Gains (£12 million) after deduction of any BLAGAB losses (either in-year or carried-forward) (£1 million + £3 million) and any in-year non-BLAGAB losses which can be offset (£2 million), (that is £12 million - £1 million - £3 million - £2 million = £6 million) less
+
+- The amount of the company’s BLAGAB Deductions Allowance (£2 million).
+
+The Relevant BLAGAB Chargeable Gains are therefore £4 million.
+
+The Relevant Maximum is the sum of:-
+
+- 50% of the company’s Relevant BLAGAB Chargeable Gains (50% of £4 million = £2 million), and
+
+- The amount of the company’s BLAGAB Deductions Allowance (£2 million).
+
+The Relevant Maximum is therefore £4 million.
+
+The amount of carried-forward non-BLAGAB losses that can be offset against the Shareholders’ Share of BLAGAB Chargeable Gains cannot exceed £4 million.
+
+The full computation of the Shareholders’ Share of the BLAGAB Chargeable Gains will be:-
+
+Shareholders’ share of BLAGAB gains for AP £12 million
+
+Less shareholders’ share of BLAGAB losses for AP £1 million
+
+Less non-BLAGAB losses of AP £2 million
+
+Less carried-forward BLAGAB losses (unrestricted) £3 million
+
+Less carried-forward non-BLAGAB losses (restricted) £4 million
+
+Net Shareholders’ share of BLAGAB gains £2 million
+
+Note AP = accounting period
+
+11. CCLR for oil companies
+
+FB20/Sch 3 Para 16 (now FA20/Sch 4, Para 16)
+
+TCGA92/S197
+
+Certain capital gains and losses relating to oil and gas extraction are ring fenced in accordance with TCGA92/S197 (see OT30000 (https://www.gov.uk/hmrc-internal-manuals/oil-taxation-manual/ot30000)).
+
+Where capital losses within the ring fence are carried forward, the CCLR will not apply to restrict those losses when they are set against ring fenced gains.
+
+12. Interaction of CCLR with real estate investment trusts
+
+FB20/Sch 3 Paras 19, 20, 21 & 22 (now FA20/Sch 4, Paras 19, 20, 21 & 22)
+
+REIT Ring Fence
+
+When a UK Real Estate Investment Trust (REIT) derives its profits arising from a Property Rental Business (PRB), such profits are usually exempt from Corporation Tax (CTA10/S534, see Guidance on REITs Manual). Gains and losses arising from assets used for the purposes of the PRB are also usually exempt (CTA10/S535, see GREIT05000).
+
+Where capital gains and losses are within the REIT exemption, the CCLR will not apply, including where the REIT makes a Property Income Distribution (PIDs).
+
+Residual Business
+
+A REIT may conduct business other than PRB, outside what is referred to in CTA10/S541 as the “ring fence”. The business outside the ring fence is the “residual business”, CTA10/S522.
+
+Where capital gains and losses accrue outside the ring fence (within the residual business) the CCLR will apply.
+
+Three-Year Development Rule
+
+If a REIT acquires a property as part of its PRB but sells it within three years of completion, the asset is taken out of the ring fence PRB (CTA10/S556, see GREIT05015). Where this applies, the disposal is subject to normal Corporation Tax treatment and may constitute a trading transaction. If not, then the capital gains treatment will apply. The CILR or CCLR, as appropriate, will apply to such disposals.
+
+Non-UK resident capital gains
+
+Rules introduced by FA 2019 extended the meaning of “relevant non-chargeable gains” to include gains on disposals of interests in UK property rich companies taxable under the non-UK resident capital gains rules from 6 April 2019.
+
+FA19/Sch 1 Para 115 introduces, in particular, new CTA10/S535A, which provides that where a REIT disposes of an interest in a UK property rich company, that will be an exempt ring fence gain and also that such gains will form part of the PRB for the purposes of the attribution of distributions under CTA10/S550.
+
+Special provision for losses is made in new CTA10/S535B. Because the gains now exempted would have been taxed as part of the residual business before the introduction of the non-UK resident capital gains rules from April 2019, losses in the residual business that arose before that date can be set against the exempt gains in calculating the net gains for this purpose.
+
+The CCLR does not apply to restrict the use of losses for the purposes of the new CTA10/S535B.
+
+13. Quarterly instalment payments
+
+FB20/S25 (now FA20/S26)
+
+The Corporation Tax (Instalment Payments) Regulations 1998 (CTIPR) (S.I. 1998/3175) - Reg 3 - Para 11
+
+Accounting periods beginning on or after 11 March 2020
+
+Where a company would currently be classified as very large for the purposes of quarterly instalment payments because it has a one-day accounting period and the £20 million threshold is proportionately reduced to £54,795 (see CTM92795 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm92795)), it will now be classified as large where the following conditions are met:-
+
+- The company is only chargeable to Corporation Tax because a capital gain (or loss) has accrued, and
+
+- The company would, in accordance with the CTIPR, be classified as very large apart from the requirements of this Paragraph (11).
+
+Where the company is large in accordance with this Paragraph, the company will need to pay its Corporation Tax liability by 3 months and 14 days after the end of the accounting period.
+
+Example 36 - Quarterly instalment payments
+
+A company, which is not otherwise chargeable to Corporation Tax, disposes of an asset on 6 June 2020, making a capital gain of £200,000 resulting in a corporation tax liability of £38,000.
+
+The company will become chargeable to Corporation Tax on 6 June 2020 as a result of this disposal. The company has no other chargeability to Corporation Tax, so the accounting period will start and end on 6 June 2020.
+
+Apart from Paragraph 11, the CTIPR rules would classify this company as very large as the profits exceed £54,795 and the company would be required to pay its Corporation Tax liability on 6 June 2020 (the last day of the accounting period (Reg 5AZA(5)).
+
+As the company meets the two conditions in Paragraph 11, the company will be large for the purposes of the CTIPR. The company will therefore need to pay its Corporation Tax liability on or by 20 September 2020.
+
+Accounting periods beginning before 11 March 2020
+
+New Paragraph 11 only applies to accounting periods beginning on or after 11 March 2020.
+
+For accounting periods beginning before this date, the rules as set out in Regulation 3 will formally apply.
+
+However, in April 2019, HMRC introduced a concessionary treatment which allows a company which is only chargeable to Corporation Tax on account of a capital gain (or loss) which would otherwise be a very large company will be treated as a large company for the purposes of the CTIPR.
+
+That concessionary treatment will therefore apply to companies who meet the requirements for accounting periods commencing before 11 March 2020.

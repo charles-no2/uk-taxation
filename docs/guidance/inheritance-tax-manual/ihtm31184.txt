@@ -1,0 +1,66 @@
+Assessing: COMPASS: calculations: IOP calculation
+Identifier: IHTM31184
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31184
+Published: 2016-04-09T10:03:18+01:00
+Updated: 2016-02-11T17:15:43+00:00
+Retrieved (UTC): 2026-09-18T15:05:54.487641+00:00
+
+The IOP (IHTM31012 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31012)) calculation window is similar to the NIOP calculation (IHTM31183 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31183)). But, on the right side of the page there are two columns showing different calculations for tax on assets for which
+
+- instalments still apply, and
+
+- instalments no longer apply (or never applied)
+
+Where tax may be paid by instalments, a box half way up the left side of the window shows the number of instalments that are included in the calculation and the due date of the most recent one.
+
+Where the next instalment is due within the month, COMPASS will prompt you with a warning message
+
+The next instalment is due within 31 days.
+
+Do you want to include it here?
+
+If you choose ‘Yes’, COMPASS will:
+
+- calculate the tax to include the next instalment
+
+and
+
+- set the Effective Date (IHTM31187 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31187)) of the calculation to the due date of the next instalment and calculate interest up to that date.
+
+You should not choose ‘yes’ if the calculation you are raising will result in a repayment.
+
+Apportionment
+
+Where part of the property qualifies for instalments and part does not, COMPASS will apportion the tax charge between the properties.
+
+COMPASS will also apportion tax previously paid (IHTM31188 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31188)), but check that this is done correctly if you have made amendments to the values since the last calculation. Make any amendments manually.
+
+If there is a change to the way reliefs are applied against tax (IHTM31189 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31189)), you will have to make the apportionment adjustment yourself.
+
+Interest
+
+COMPASS calculates interest at
+
+- box 1 on the unpaid tax from the due date of the last instalment to the Effective Date of the calculation
+
+- box 2 on the entire balance of tax unpaid from the previous due date to the last due date
+
+- box 3 on any changes in tax for the period before the previous due date
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31184#Top)
+
+Example
+
+You raise a calculation for IOP on 17 Aug 2012 for the sixth instalment due on an estate. The payment was due on 31 May (so is late) and there have been uplifts to the values and according tax charges. COMPASS calculates
+
+- Box 1 - interest on only the current tax to pay from 1 June 12 to 17 Aug 2012
+
+- Box 2 - interest on the entire outstanding balance between 1 June 2011 and 31 May 2012
+
+- Box 3 - Interest on increase in IOP tax since last calculation from 1 June 2007 to 31 May 2011
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31184#Top)
+
+Deposits
+
+When you apply deposits (IHTM31751 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31751)), COMPASS cannot apportion them between tax where instalments still apply and tax where they do not. COMPASS will prompt you to apportion the deposits manually (IHTM31195 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31195)).

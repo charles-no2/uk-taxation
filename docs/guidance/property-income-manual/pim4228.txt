@@ -1,0 +1,122 @@
+Losses for IT: calculating restriction on sideways relief
+Identifier: PIM4228
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4228
+Published: 2018-01-24T11:29:06+00:00
+Updated: 2026-03-06T00:00:00+00:00
+Retrieved (UTC): 2026-09-18T14:28:12.549996+00:00
+
+This section includes examples which show the calculation of sideways loss relief when the loss includes sums relating to capital allowances or agricultural expenses.
+
+Example: sideways losses including capital allowances & agricultural expenses
+
+Ali has substantial professional income. He also lets a number of properties including shops, factories and farms. All the properties are let on open market terms. The income and expenses of all the lettings are included in a single rental business.
+
+During 2024-25 Ali incurs exceptional (but allowable) revenue expenditure in relation to his letting business which results in a rental business loss of £50,000.
+
+The following items are included in arriving at the £50,000 loss:
+
+-
+
+Capital allowance: £28,000
+
+-
+
+Balancing charge: £26,000
+
+-
+
+Agricultural expenses: £30,000
+
+Rental business losses cannot normally be relieved sideways against non-rental business income: they can only be carried forward to set against later rental business profit. Ali is, however, entitled to a net amount of capital allowances and to agricultural expenses. He can claim under ITA07/S120 to set these sideways, as a rental business loss, against general income of 2024-25 and (if that year’s income is insufficient to absorb them) general income of 2025-26.
+
+If Ali has sufficient income he can therefore claim relief for 2024-25 for losses of £32,000. This is:
+
+-
+
+net capital allowances: £2,000 (capital allowances £28,000 less balancing charge £26,000), and
+
+-
+
+agricultural expenses £30,000.
+
+The balance of the £50,000 loss (£18,000) is carried forward to set against future rental business profits (ITA07/S118).
+
+Example: restrictions on sideways relief: relievable income reduced by rental business loss brought forward
+
+Bran’s income for 2024-25 is:
+
+-
+
+UK property business profit: £1,000
+
+-
+
+Other: £10,000
+
+-
+
+Total: £11,000
+
+At 6 April 2024 Bran had rental business losses brought forward from 2021-22 under ITA07/S118 of £5,000. She makes a valid claim under ITA07/S120 to set a 2023-24 rental business loss of £12,000 attributable to capital allowances sideways against general income of 2024-25. Bran could have chosen to set her capital allowances against her 2023-24 general income but did not do so.
+
+ITA07/S118(4) requires that the loss brought forward under ITA07/S118 first be set against the rental business profit before calculating relievable income.
+
+The loss brought forward covers the £1,000 rental business profit for 2024-25 (the balance £4,000 is carried forward) and relievable income for 2024-25 is therefore £10,000.
+
+The 2023-24 losses relieved against general income for 2024-25 are therefore restricted to £10,000 with the balance of £2,000 (together with the unrelieved losses of £4,000 brought forward from 2021-22) carried forward.
+
+Example: restrictions on sideways relief: relievable income reduced by rental business loss brought forward and sideways
+
+Tas has rental business losses attributable to capital allowances eligible for sideways relief claims as follows:
+
+-
+
+2023-24: loss £20,000
+
+-
+
+2024-25: loss £15,000
+
+Suppose Tas’s total income for 2024-25 is £25,000. He makes sideways claims for relief for both years of loss against 2024-25 income, (ITSA07/S120).
+
+To calculate the relievable income for 2024-25 for the 2024-25 loss, the 2023-24 loss (for which there is also a claim) must be deducted first from the total income of 2024-25. The effect of this is that the earlier loss is set off first (ITA07/S118 (4)).
+
+In Tas’s case the 2024-25 relievable income for the 2023-24 loss is £25,000 and for the 2024-25 loss is £5,000. This is the 2024-25 income of £25,000 less the 2023-24 loss of £20,000. Tas will get relief as follows:
+
+2014-15 income £25,000
+
+Less 2013-14 loss (£20,000)
+
+Balance of income left £5,000
+
+Less 2014-15 loss (£5,000)
+
+Taxable Nil
+
+The set off order ensures that the balance of the 2024-25 loss of £10,000 (£15,000 less £5,000) can be taken forwards and also, if Tas wishes, sideways against general income of the following year under ITA07/S120.
+
+Example: restrictions on sideways relief: net capital allowances or agricultural expenses greater than rental business loss
+
+Pamela’s rental business produces a loss for 2024-25 of £3,000. That loss includes:
+
+-
+
+capital allowances: £10,000.
+
+-
+
+balancing charge: £3,000.
+
+Pamela’s relievable income for 2024-25 is £35,000. Pamela claims sideways relief against general income for 2024-25 (ITA07/S122). Her net capital allowances are £7,000 (£10,000 less £3,000). Although the net capital allowances are smaller than her relievable income it is greater than her overall rental business loss of £3,000. Her relief is therefore limited to £3,000, (ITA09/S120).
+
+The same restriction would have applied if the amount of net capital allowances had, instead, been an amount of agricultural expenses.
+
+Example: restrictions on sideways relief: insufficient relievable income over two years to absorb loss
+
+Amit’s rental business makes a loss of £30,000 in 2024-25 after taking into account capital allowances. For that year Amit has net capital allowances (after deducting balancing charges) of £35,000 for his rental business. The entire loss of £30,000 is therefore eligible for sideways loss claims for 2024-25 and 2025-26 (ITA07/S120).
+
+Amit has no rental business losses brought forward under ITA07/S118 at 6 April 2015. But Amit’s total relievable income for the two years together is £20,000 and relief for this amount only can be given sideways (ITA07/S120).
+
+The balance of Amit’s 2024-25 loss (£10,000) can be carried forward under and set against later rental business profits but not against general income (ITA07/S118(3)).
+
+If Amit claims sideways relief, he will lose the benefit of his personal allowances for 2024-25 and 2025-26. Amit needs to consider all the consequences carefully before making a claim, bearing in mind that he can’t claim part of the loss sideways. For example, depending on the facts, it could pay Amit not to claim sideways loss relief because his personal allowances could then be set against his other income for 2024-25 and 2025-26 and the amount of loss relief to go forward against future rental business profits would be greater. A decision might need to take into account both the total amount of relief available overall and the cash flow advantages of early relief.

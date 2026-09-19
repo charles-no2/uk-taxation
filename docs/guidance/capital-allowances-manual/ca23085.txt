@@ -1,0 +1,62 @@
+PMA: Qualifying expenditure: Annual Investment Allowance (AIA) qualifying expenditure: claims and amounts
+Identifier: CA23085
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23085
+Published: 2016-04-16T08:46:17+01:00
+Updated: 2024-05-17T12:37:19+01:00
+Retrieved (UTC): 2026-09-18T16:20:40.517566+00:00
+
+CAA01/S38A and S38B, S51A to S51N
+
+Maximum allowance
+
+For current and historical maximum AIA figures see 'Claim capital allowances - Annual investment allowance', gov.uk (https://www.gov.uk/capital-allowances/annual-investment-allowance).
+
+Apportionments
+
+Chargeable periods of more or less than a year
+
+Where the chargeable period is more or less than a year, the maximum AIA is proportionately increased or reduced. For example:
+
+- if a company’s first chargeable period started on 1 January 2023 and ran for only 6 months, its maximum AIA entitlement for that period would be 6/12 X £1 million = £500,000.
+
+- if a sole trader had a long chargeable period of 18 months, also starting 1 January 2023, his maximum AIA for that period would be 1.5 X £1 million = £1.5 million.
+
+Chargeable periods that straddle a rate change
+
+Similarly, if a taxpayer's chargeable period straddles a date on which the annual amount is changed (see above link), the taxpayer's AIA entitlement should be time apportioned.
+
+Please note: The relevant AIA legislation (CAA01/S51A (6)) does not specifically require that the maximum AIA should be time-apportioned on a daily basis. In the context of working out a business’s maximum AIA entitlement, therefore, HMRC will accept that it is just and reasonable to make the calculation on either a daily or monthly basis, in cases where the period in question consists of whole calendar months. In other cases, an apportionment made on a daily basis will be required, as this will ensure an appropriate level of consistency and fairness between taxpayers. However, please remember that in other contexts - for example, for the purposes of calculating the hybrid rate of WDA for a transitional chargeable period - the relevant legislation specifically requires that apportionments must be made on the basis of days.
+
+Example
+
+Ryan Ltd. draws up its accounts for the period 1 October 2018 to 30 September 2019. Its maximum AIA entitlement is based on
+
+- the proportion of a year from 1 October 2018 to 31 December 2018, that is, 3/12 x £200,000 = £50,000.
+
+- the proportion of a year from 1 January 2019 to 30 September 2019, that is, 9/12 x £1 million = £750,000.
+
+Its maximum AIA for this particular transitional chargeable period would therefore be the total of (a) + (b) = £50,000 + £750,000 = £800,000.
+
+However, Ryan Ltd. can claim no more than £200,000 AIA in relation to qualifying expenditure incurred from 1 October 2018 to 31 December 2018.
+
+Timing of AIA claims
+
+The AIA may only be claimed in the chargeable period in which the qualifying expenditure is incurred (CAA01/S51A(2)) or treated as incurred (CAA01/S12), so any unused balance of an AIA cannot be carried forward for use in a later chargeable period. (But a business that is a loss-maker may, of course, claim the AIA in full, to augment the loss it carries forward.)
+
+Partial AIA claims
+
+Businesses may choose whether or not to claim the AIA or to claim part only of their AIA if they so wish (CAA01/S51A(7)).
+
+It is also acceptable to claim AIA for part of the cost of an asset and to claim a first-year allowance (if available) for the remaining cost or to pool the remaining cost for the purpose of claiming WDAs at the appropriate rate.
+
+Example
+
+Icarus Airways Ltd. buys an aeroplane for £4 million in its year ended 31 December 2023. It is a long life asset and therefore a special rate asset (CA23210 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23210)).
+
+For the year ended 31 December 2023, Icarus Airways Ltd. claimed AIA for £1 million of the expenditure and a 50% first-year allowance for the remaining £3 million of the expenditure (an allowance of £1.5 million) (CA23174AA (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23174aa)).
+
+The company may pool the residual £1.5 million in the following year, the year ending 31 December 2024, for the purpose of claiming special rate WDAs from then on.
+
+Restrictions on AIA entitlement
+
+A person’s entitlement to an AIA may be restricted in the circumstances described at CA23087 (https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca23087).

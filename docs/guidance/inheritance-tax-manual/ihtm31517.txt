@@ -1,0 +1,68 @@
+Assessing: calculating interest: IOP cases
+Identifier: IHTM31517
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31517
+Published: 2016-04-09T10:05:11+01:00
+Updated: 2016-02-11T17:19:16+00:00
+Retrieved (UTC): 2026-09-18T15:06:13.987686+00:00
+
+When instalments are due, you charge tax on only the instalments that are due at the date (IHTM31187 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm31187)) of the calculation.
+
+But, interest is payable on the entire outstanding balance from the due date. The interest on the full balance is payable in arrears.
+
+First instalment
+
+When you raise a calculation for the first instalment, charge interest on
+
+- that instalment only
+
+- from the due date, to the date of payment (or the date of calculation)
+
+Second instalment
+
+When you raise the calculation for the second instalment, you need to bring into account the arrears of interest on the outstanding balance. So you should charge interest
+
+- on that second instalment (if appropriate) only - from the date it is due to the date of payment (or date of calculation), and
+
+- on the whole of the tax outstanding between the due date of the first instalment and the due date of the second (in effect, for one year).
+
+Later instalments
+
+When you calculate the next instalment, charge interest
+
+- on that third instalment (if appropriate) only, from the date it is due to the date of payment (or date of calculation), and
+
+- on the whole of the tax outstanding from the day after the due date of the second instalment to the due date of the third (in effect, for one year).
+
+Calculate the subsequent instalments in the same way.
+
+Example
+
+1st instalment due 30 September 2011. Calculation for the 1st instalment paid 5 October 2011.
+
+2nd instalment due 30 September 2012
+
+You raise a calculation for the second instalment on 1 December 2012 and charge interest:
+
+- On tax now payable (the second instalment only)
+
+- From 1 October 2012 to 1 December 2012
+
+(this is box 1 interest)
+
+- On the tax unpaid (the total amount of tax, less the first instalment
+
+- From 1 October 2011 to 30 September 2012
+
+(this is box 2 interest)
+
+The calculation is paid quickly.
+
+3rd instalment due 30 September 2013
+
+You raise a calculation on 30 September 2013 and charge interest
+
+- (no interest on tax now payable as the third instalment is not late)
+
+- on tax unpaid (the total amount of tax, less the 2 instalments that have been paid)
+
+- From 1 October 2012 to 30 September 2013.

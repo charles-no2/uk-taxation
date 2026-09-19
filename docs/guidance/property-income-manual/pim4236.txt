@@ -1,0 +1,84 @@
+Losses for CT: setting losses against future profits
+Identifier: PIM4236
+Source: https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4236
+Published: 2018-01-24T11:08:48+00:00
+Updated: 2020-04-17T09:44:22+01:00
+Retrieved (UTC): 2026-09-18T14:28:13.285373+00:00
+
+Reform of corporation tax loss relief
+
+As of 1 April 2017, the relief available for trading losses carried forward has changed. A restriction has been introduced, limiting the total amount of relief available for carried-forward losses. In addition, most carried-forward trading losses incurred from 1 April 2017 can be set against total profits, and may be available for surrender as group relief for carried-forward losses.
+
+See CTM04800 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm04800) onwards for more about losses carried forward.
+
+CTA10/S62 and S63
+
+UK property business losses arising from 1 April 2017 that are not relieved in the accounting period in which they arise are carried forward and may be deducted from the company’s total profits of the next accounting period. The conditions for carrying forward the loss are:
+
+- the loss has not been surrendered as group relief under CTA10/S62(4)(a)
+
+- the company must continue to carry on the UK property business in the next accounting period (CTA10/S62(4)(b)).
+
+Therefore, a claim must be made before relief can be allowed against the company’s total profits of the next accounting period. The claim can relate to all or part of the loss carried forward.
+
+If the company is unable to use all the loss in the next accounting period or chooses not to make a claim for all or part of it, the unrelieved loss may be carried forward to the following accounting period providing:
+
+- the loss has not been surrendered as group relief for carried-forward losses under CTA10/S62 (5D)
+
+- the company continues to carry on the UK property business in that period (CTA10/S62 (4)(b)).
+
+Again, a claim is required before relief can be allowed in that following period.
+
+FA19/SCH5/PARA47 Non-resident companies and Income Tax Property Losses (ITPL)
+
+From 6 April 2020, non-resident companies will become chargeable to Corporation Tax instead of Income Tax on profits from UK property.
+
+If a UK property business loss arose in a period in which the company was chargeable to Income Tax and the company was carrying on that business at 5 April 2020, the cumulative loss will be carried forward to the Corporation Tax regime. This guidance refers to these losses as Income Tax Property Losses (ITPL).
+
+ITPL are to be used against the company’s future profits from the same UK property business or any non-trade loan relationship profits relating to that UK property business; a claim is not needed. ITPL cannot be used against any other profits or gains. ITPL cannot be surrendered as group relief.
+
+ITPL are to be used in priority to any losses made on or after 6 April 2020 under the Corporation Tax regime. They are not affected by the restriction to relief for corporation tax losses that arise on or after 1 April 2017.
+
+If the ownership of the company changes, losses can be carried forward, including ITPL, to future accounting periods unless the provisions of section 704 Corporation Tax Act 2010 (CTA 2010) apply – see PIM4250 (https://www.gov.uk/hmrc-internal-manuals/property-income-manual/pim4250).
+
+Cessation of Property Business
+
+CTA10/S62 and S63 do not provide for a property loss to be carried forward to a future accounting period if the company ceases to carry on the property business (unless the company carries on a (UK chargeable) investment business).
+
+There is no provision for a situation in which a company, that has acquired a UK property business from another company, can carry forward the accumulated losses of the transferor company against its own future profits from the acquired UK property business.
+
+If a company (UK resident or non-UK resident) acquires the UK property business from another company (UK resident or non-UK resident), neither the losses sustained under Corporation Tax rules nor any grandfathered ITPL of the transferor company can be carried forward by the transferee company and are lost.
+
+Interaction of Corporation Tax Loss with ITPL
+
+Example
+
+A company prepares accounts to 31 December each year. In the year ended 31 December 2021, it made a UK property business loss of £16 million. In the following year ended 31 December 2022, the company makes a profit of £9 million. There are ITPL carried forward at 31 December 2020 of £2million. The company is not part of a group so that it is entitled to the full Deduction Allowance of £5 million.
+
+A claim is made for the loss of £16 million to be carried forward from the accounting period ended 31 December 2021 and relieved against total profits of the year ended 31 December 2022 as shown in the table below.
+
+The carried forward ITPL must be used before the carried forward Corporation Tax loss. ITPL are allowed without restriction.
+
+Calculation of CT profits |  £m |
+
+Total Profit APE 31/12/2022 |  9 |
+
+Less ITPL brought forward |  (2) |
+
+Net amount carried forward |  7 |
+
+Less deductions allowance |  (5) |
+
+Net amount carried forward |  2 |
+
+Less deduction of losses of 50% of taxable profits |  (1) |
+
+Taxable profits |  1 |
+
+In this example, the company will have a taxable profit of £1 million (£9 million total profit less £2 million ITPL and £6 million Corporation Tax loss) for its Corporation Tax accounting period ending on 31 December 2022.
+
+The unused Corporation Tax loss of £10 million (£16 million total loss less £6 million used loss) will be carried forward and used against total profits in the next accounting period, subject to the loss restriction rules.
+
+There is no balance of ITPL to carry forward.
+
+See CTM04800 (https://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm04800) onwards for more about losses carried forward.

@@ -1,0 +1,186 @@
+Non-Resident Capital Gains Tax (NRCGT) – Disposals on or after 6 April 2015 to 5 April 2019: Individuals: Special rules, and computation: Straight-line apportionment computation, examples
+Identifier: CG73791
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg73791
+Published: 2018-10-18T08:41:46+01:00
+Updated: 2019-10-11T09:30:11+01:00
+Retrieved (UTC): 2026-09-18T14:46:32.738997+00:00
+
+1. Property a residential property throughout ownership
+
+2. Property not always a residential property
+
+1. Property a residential property throughout ownership
+
+Basic information:
+
+Interest acquired 6 April 2013 for £300,000 and disposed of 5 April 2017 for £410,000.
+
+Wholly or partly used as (or suitable for use as) a dwelling throughout ownership period
+
+Election made under Para 2(1)(a)
+
+Total number of days in post-commencement ownership period 730
+
+Total number of days within that period where the property was used wholly or partly as a dwelling 730
+
+Total number of days in the ownership period 1,460
+
+Calculating the NRCGT gain or loss
+
+Stage 1
+
+Step 1 – Gain or loss on disposal
+
+Disposal proceeds £410,000
+
+Allowable deductions £300,000
+
+Gain on disposal £110,000
+
+Step 2 – Notional post-April 2015 gain
+
+PCD = 730
+
+TD = 1,460
+
+PCD/TD x gain on disposal = £55,000
+
+Step 3 – Notional pre-April 2015 gain
+
+TD-PCD/TD x gain on disposal = £55,000
+
+Stage 2
+
+RD = 730
+
+TD = 730
+
+RD/TD x Notional post-April 2015 gain = £55,000
+
+NRCGT gain £55,000
+
+Calculating the gain or loss which is not an NRCGT gain or loss
+
+The part of the gain which is not an NRCGT gain will not be subject to charge unless it is brought into charge by other provisions. This second part of the computation will therefore not be strictly necessary for many people.
+
+Step 1 – Determine the amount of the notional pre-April 2015 gain or loss
+
+Taken from step 3 above £55,000
+
+Step 2 – Determine the amount of the post-April 2015 gain remaining after the deduction of the NRCGT gain
+
+Notional post-April 2015 gain £55,000
+
+NRCGT gain £55,000
+
+£0
+
+Step 3
+
+Not relevant as there is no post-April 2015 loss
+
+Step 4 – Add Step 1 to Step 2
+
+Step 1 £55,000
+
+Step 2 £0
+
+Gain which is not an NRCGT gain £55,000
+
+Summary
+
+Total gain throughout ownership period £110,000
+
+(Disposal proceeds of £410,000 less allowable deductions of £300,000)
+
+Divided into:
+
+NRCGT gain £55,000
+
+Gain which is not an NRCGT gain £55,000
+
+2. Property not always a residential property
+
+Basic information:
+
+The same as example 1 except property is only wholly or partly used (or suitable for use) as a dwelling for 1 out of the 2 post-April 2015 years
+
+Total number of days in post-commencement ownership period 730
+
+Total number of days within that period where the property was used wholly or partly as a dwelling 365
+
+Total number of days in the ownership period 1,460
+
+Calculating the NRCGT gain or loss
+
+Stage 1
+
+Step 1 – Gain or loss on disposal
+
+Disposal proceeds £410,000
+
+Allowable deductions £300,000
+
+Gain on disposal £110,000
+
+Step 2 – Notional post-April 2015 gain
+
+PCD = 730
+
+TD = 1,460
+
+PCD/TD x gain on disposal = £55,000
+
+Step 3 – Notional pre-April 2015 gain
+
+TD-PCD/TD x gain on disposal = £55,000
+
+Stage 2
+
+RD = 365
+
+TD = 730
+
+RD/TD x Notional post-April 2015 gain = £27,500
+
+NRCGT gain £27,500*
+
+*If there was mixed use of the property in the post-commencement ownership period, the NRCGT gain (or loss) would need to be further apportioned on a just and reasonable basis.
+
+Calculating the gain or loss which is not an NRCGT gain or loss
+
+Step 1 – Determine the amount of the notional pre-April 2015 gain or loss
+
+Taken from step 3 above £55,000
+
+Step 2 – Determine the amount of the post-April 2015 gain remaining after the deduction of the NRCGT gain
+
+Notional post-April 2015 gain £55,000
+
+NRCGT gain £27,500
+
+£27,500
+
+Step 3
+
+Not relevant as there is no post-April 2015 loss
+
+Step 4 – Add Step 1 to Step 2
+
+Step 1 £55,000
+
+Step 2 £27,500
+
+Gain which is not an NRCGT gain £82,500
+
+Summary
+
+Total gain throughout ownership period £110,000
+
+(Disposal proceeds of £410,000 less allowable deductions of £300,000)
+
+Divided into:
+
+NRCGT gain £27,500
+
+Gain which is not an NRCGT gain £82,500

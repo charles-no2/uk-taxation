@@ -1,0 +1,38 @@
+Unauthorised payments: deemed or specific situations that are unauthorised payments: limit on increase in benefits where a member and sponsoring employer are connected
+Identifier: PTM133600
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm133600
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2022-01-31T20:55:36+00:00
+Retrieved (UTC): 2026-09-18T14:50:01.611966+00:00
+
+Glossary PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001)
+
+Limit on pension input amount
+
+Section 172D Finance Act 2004
+
+A registered pension scheme that is an occupational pension scheme is treated as making an unauthorised member payment where at any time during a pension input period in respect of:
+
+- cash balance arrangement
+
+- defined benefits arrangement
+
+-
+
+a hybrid arrangement that includes the provision of cash balance benefits or defined benefits
+
+- the member and a sponsoring employer are connected or the member is connected with a person who is connected to a sponsoring employer, and
+
+- the pension input amount in respect of the pension input period for the arrangement in question exceeds the ‘notional unconnected person input amount’ in respect of the pension input period for the arrangement in question.
+
+For this purpose, the pension input amount for the member is calculated in accordance with guidance from PTM053000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053000)
+
+The ‘notional unconnected person input amount’ for this purpose is the amount the pension input amount would have been for the pension input period in question if, the member was not connected with a sponsoring employer or a person connected with a sponsoring employer, at any time during that input period.
+
+The amount of the deemed unauthorised payment is the amount equal to the difference between the pension input amount for the member and the ‘notional unconnected person input amount’.
+
+The unauthorised member payment is treated as being made to the member whose pension input amount exceeds the ‘notional unconnected person input amount’ (or that member’s personal representatives).
+
+For a definition of ‘connected person’ see PTM027000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm027000)
+
+For a definition of ‘sponsoring employer’ see PTM022000 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm022000)

@@ -1,0 +1,146 @@
+Long-term UK residence test
+Identifier: IHTM47020
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47020
+Published: 2025-04-07T08:01:53+01:00
+Updated: 2025-04-07T08:01:53+01:00
+Retrieved (UTC): 2026-09-18T15:11:09.078753+00:00
+
+From 6 April 2025, the test in IHTA84/S6A for whether foreign assets are in scope for Inheritance Tax will be whether an individual is a long-term UK resident, meaning they have been resident in the UK for at least 10 out of the last 20 tax years immediately preceding the tax year in which the chargeable event (including death) arises.
+
+If an individual has been UK resident for at least 10 out of 20 years and then becomes non-resident and does not return to the UK before the chargeable event, there will be provision to shorten the length of time they remain a long-term UK resident if they had been UK resident for between 10 and 19 years out of the last 20.
+
+-
+
+For those who are resident between 10 and 13 years, they will remain in scope for the minimum period of 3 tax years.
+
+-
+
+This will then increase by one tax year for each additional year of residence up to a maximum of 10 tax years.
+
+-
+
+For those not resident at the date of the chargeable event (including death) where the years of non-residence are not consecutive, the test at IHTA84/S6A(2) is applied and the individual will remain a long-term UK resident until the required number of years of consecutive non-UK residence has passed (IHTA/S6(3).
+
+Number of UK residence years
+
+|
+
+Years in scope for IHT
+
+|
+
+13 or less
+
+|
+
+3
+
+|
+
+14
+
+|
+
+4
+
+|
+
+15
+
+|
+
+5
+
+|
+
+16
+
+|
+
+6
+
+|
+
+17
+
+|
+
+7
+
+|
+
+18
+
+|
+
+8
+
+|
+
+19
+
+|
+
+9
+
+|
+
+20
+
+|
+
+10
+
+|
+
+So, if a person was UK resident for 15 out of 20 tax years on leaving the UK, they would remain in scope for 5 tax years; if resident for 17 out of 20 tax years on leaving, they would remain in scope for 7 tax years.
+
+An individual will not be treated as long-term UK resident for Inheritance Tax purposes in the year following 10 consecutive years of non-residence, even if they return to the UK; the test is effectively reset. This aligns with the 10 consecutive years of non-residence required to access the 4-year Foreign Income and Gains (FIG) regime.
+
+The long-term UK residence test applies regardless of an individual’s common law domicile.
+
+There are transitional rules for non-domiciled or deemed domiciled (IHTM13024 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm13024)) individuals who are non-UK resident in 2025-26 see (IHTM47 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47021)021 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm47021)).
+
+From 6 April 2025, Inheritance Tax will be charged on foreign assets owned outright when an individual is a long-term UK resident.
+
+Whether an individual is resident in a tax year will be as determined for the purposes of Income Tax and Capital Gains Tax (CGT).
+
+The Statutory Residence Test (“SRT”) (RFIG20000 (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig20000)) applies for 2013 to 2014 onwards. For tax years prior to 6 April 2013 the pre-SRT rules will apply (RFIG30000 (https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig30000)). Where an individual has split year treatment under the SRT this will count as a full year of UK residence for Inheritance Tax purposes.
+
+For a description of foreign unsettled property please see IHTM04260 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04260) and for foreign settled property please refer to IHTM04271 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04271). For Inheritance Tax purposes, UK assets include property within Schedule A1 (indirectly owned UK residential property) (IHTM04311 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04311)) and non-UK assets include some UK assets given excluded property status (such as holdings in Authorised Unit Trusts (AUTs) and Open-ended Investment Company’s (OEICs) (IHTM04262 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04262)).
+
+Examples
+
+Example 1
+
+Mohammed moves to the UK and is resident here for a period of 11 years. When Mohammed leaves the UK, he will continue to be in scope for IHT purposes for the minimum period of 3 years.
+
+Example 2
+
+Sasha moves to the UK on a 4 year work secondment. At the end of the assignment, Sasha returns to Croatia and remains there for 3 years. She subsequently returns to the UK for a period of 11 years. Sasha then leaves the UK once again and under the 10 out of 20 long-term UK residence test, Sasha has been resident in the UK for 15 out of the last 20 years and will therefore remain in scope for IHT purposes for 5 years.
+
+Example 3
+
+Dexter lives in the UK for 30 successive years before emigrating to Canada. Dexter remains in scope for IHT purposes for the maximum period of 10 years.
+
+Example 4
+
+Jakub dies on 26 June 2031 in Poland.
+
+Jakub’s last year of UK residence was 2026-27. To establish if Jakub was  a long-term UK resident at the date of his death, we need to look back over the previous 20 years from the date of his last year of UK residence IHTA84/S6A(2).
+
+Of the tax years from 2007-08 to 2026-27 Jakub was resident in the UK for 18 years. Jakub will remain a long-term UK resident until 8 years of consecutive non-residence has passed and so until 6 April 2035 . IHTA84/S6A(3). Jakub is therefore long-term UK resident at his death in 2031-32.
+
+Example 5
+
+Gurpreet is UK resident for 10 years up to and including 2027-28 and then becomes non-resident. She becomes UK resident again in 2031-32, but will not be long-term UK resident in that year. This is because she was UK resident for 10 out of 20 years when she left the UK, and so she ceases to be long-term resident after 3 consecutive years of non-residence ending with the year before the current tax year (2028-29, 2029-30, 2030-2031). If she remains UK resident, she will be long-term UK resident in 2032-33 because she will then have 11 out of 20 years UK residence and will no longer have consecutive years of non-residence ending with the preceding tax year.
+
+Example 6 – Transitional Provisions
+
+Ricardo dies on 2 June 2027 in Spain.
+
+Ricardo’s last year of UK residence was 2022-23 when he returned home to live permanently in Spain after being resident in the UK for 15 tax years.
+
+Under the transitional rules (IHTA84/S45(1)), Ricardo was not domiciled in the UK under common law on 30 October 2024, but was deemed domiciled because he had resided in the UK for 15 tax years. He was not resident in the UK for any of the 3 years immediately prior to the year of his death.
+
+After leaving the UK, under the transitional provisions, Ricardo remained a long-term UK resident for IHT purposes for the minimum period of 3 years and so until 5 April 2026. He was therefore not a long-term UK resident at his death.

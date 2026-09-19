@@ -1,0 +1,52 @@
+Capital gains groups: introduction
+Identifier: CG45000
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg45000
+Published: 2016-03-12T11:06:00+00:00
+Updated: 2023-04-26T09:45:02+01:00
+Retrieved (UTC): 2026-09-18T14:40:47.508406+00:00
+
+Since the introduction of capital gains tax (as it then was) for companies there have been special provisions dealing with groups of companies. Broadly speaking, there is a policy objective that disposals of assets within a group do not trigger gains or losses and that the economic gains or losses during the period of ownership of an asset by a group will only be taxed or become available for relief when the asset leaves the group. That is because generally a group will represent a single economic entity, albeit one that is made up of separate legal persons that are normally subject to tax on an individual basis.
+
+The definition of a group for these purposes has its origins in company law. Generally speaking a 75% interest in a subsidiary will give the parent control for all practical purposes.
+
+This objective was achieved by setting out a definition of a group of companies, based on 75% ownership, and providing that a transfer of an asset between companies in the same group is on a “nil gain/nil loss” basis. There are also provisions that modify more general rules in the group context, such as roll-over relief.
+
+However, the original rules did not fully address the distortions between economic outcome and tax result that can occur in group structure, including those caused by changes in group membership. Some of these distortions can arise from entirely commercial transactions but they are also capable of being used for tax mitigation. As a result, the capital gains group code has been added to over the years.
+
+This part of the guidance deals mainly with the provisions that apply only to groups of companies; however there are other capital gains rules that are often of particular relevance for groups. These include:
+
+- The share reorganisation and reconstruction rules, CG51700+ (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg15700p).
+
+- The substantial shareholding exemption, CG53000+ (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg53000p).
+
+The basis reason why economic and tax results may be not align in the group setting can be illustrated by a simple example.
+
+Example
+
+- A - 100%
+
+- B - asset X
+
+Company A owns all the shares in company B, and company B owns asset X. The group including companies A and B can dispose of its interest in asset X by company B disposing of the asset directly to a third party. The resulting gain assessable on company B is the difference between the sale proceeds of the asset (or the market value of the asset if the disposal is not a bargain at arm’s length) and the indexed cost of the asset to company B. Alternatively, company A can sell its shares in company B, disposing of its interest in the underlying asset X indirectly. The resulting gain assessable on company A is the difference between the sale proceeds of the company B shares (or their market value if the disposal is not a bargain at arm’s length) and the indexed cost of those shares to company A. There is no particular reason why these figures should be the same, especially bearing in mind A could have transferred the asset to B with no tax consequence. It is also worth bearing in mind that the tax cost of the shares in B is really whatever A wants it to be. A can subscribe for shares in B and then take the capital subscribed for out again; although the ease with which this can be done (under company law) and the tax consequences of doing it have changed over the years.
+
+The decision of whether to dispose of asset X or the shares in company may be influenced by any number of factors such as:
+
+- the wishes of the purchaser
+
+- liabilities of the company owning the asset, which the purchaser may not be prepared to take over
+
+- the existence of group wide financial covenants that may prove costly to vary
+
+- pre-emption rights over shares.
+
+The tax considerations include
+
+- the capital allowances treatment of vendor and purchaser
+
+- continuity of relief for trading losses
+
+- stamp duty and VAT
+
+- capital gains planning: the comparative capital gains liability, taking into account the availability of the Substantial Shareholdings Exemption or the ability to defer a gain through a share exchange
+
+- tax avoidance, the ability to undertake additional transactions to reduce capital gains liability.

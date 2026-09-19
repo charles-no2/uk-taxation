@@ -1,0 +1,26 @@
+Class 1: Calculating Class 1 NICs for Directors: Directors' loan accounts: Other liabilities
+Identifier: NIM12020
+Source: https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim12020
+Published: 2016-04-11T17:26:38+01:00
+Updated: 2024-05-21T15:52:13+01:00
+Retrieved (UTC): 2026-09-18T15:15:14.083245+00:00
+
+Regulation 22 Social Security (Contributions) Regulations 2001
+
+If the directors make withdrawals which are not earnings or on account of earnings, the withdrawals may place the directors in debt to the company. If there is a tax charge on the individual under Chapter 7 of Part 3 of ITEPA 2003 (previously s160 ICTA 1988(‘beneficial loans’)) from 6 April 2000, there will also be a Class 1A NICs charge on the employer (see NIM13000 (https://www.gov.uk/hmrc-internal-manuals/national-insurance-manual/nim13000) onwards). But you should note that a write-off of a loan is considered to be a payment of earnings liable to Class 1 within s3 and s6 Social Security Contributions and Benefits Act 1992.
+
+Loans made by a “close company” to a director or an employee who is a participator, or an associate of a participator, may be chargeable to tax under Section 455 CTA 2010 on the company. Broadly speaking a company is a close company if it is:
+
+- under the control of five or fewer participators and their associates or
+
+- under the control of directors, no matter what number, who are participators, and their associates.
+
+The legislation on close companies is at Section 439 CTA 2010 onwards. Participator is widely defined but the normal example of a participator is a shareholder. Very basic examples of a close company are
+
+- X Ltd, if 5 or fewer shareholders own over 50% of the issued shares between them, and
+
+- Y Ltd, if the 2 directors own over 50% of the issued shares.
+
+The HMRC officer dealing with the company accounts should be approached if any advice is needed on whether a company is a close company. If it appears that a close company has made a loan to a director or participator, tell the officer dealing with the accounts. The officer can then check whether s455 CTA 2010 applies to it. A charge on the company under s455 does not replace any tax charge under Chapter 7 of Part 3 ITEPA2003 (previously s160 ICTA 1988) and Class 1A NICs charges on the recipient and employer respectively except where the loan account becomes overdrawn because of misappropriations.
+
+The position on loan write-offs for NICs has been explained earlier but for tax there are 2 potential charges on the director if he or she is also a shareholder. Section 188 ITEPA 2003 (previously S160(2) ICTA 1988) treats the write-off as earnings of the director from the employment and S415 ITTOIA 2005 treats the grossed up amount as income which has suffered tax at the basic rate. EIM21746 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim21746) explains that only one tax charge should apply and that is s415 ITTOIA 2005 in preference to section 188 ITEPA 2003 (previously s160(2)ICTA 1988). This applies for tax years up to 2015-16 only. From 2016-17 onwards, section 5 and schedule 1 of the Finance Act 2016 removed grossing up.

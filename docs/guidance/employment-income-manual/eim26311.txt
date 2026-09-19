@@ -1,0 +1,78 @@
+The benefits code: beneficial loans: steadily reducing cheap loan: example
+Identifier: EIM26311
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26311
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-03-17T12:38:21+00:00
+Retrieved (UTC): 2026-09-18T14:12:24.628312+00:00
+
+This example shows how to calculate the cash equivalent of a steadily reducing cheap loan, using both the averaging method (see EIM26220 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26220)) and the precise method (see EIM26230 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26230)).
+
+On 1 July an employer lends £15,300 to an employee, who for 2015 to 2016 and earlier is not in excluded employment (see EIM20007 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim20007)). The loan is used to buy a car that is not used for any business purpose.
+
+Interest is charged monthly on the balance of the outstanding loan at 4%. Interest, together with capital at the rate of £135 a month, are deducted from the employee’s salary, which is paid on the last day of each month. By the end of the tax year the outstanding balance was £14,085 and they had paid interest of £443.25. They had no other loans.
+
+The appropriate official rate of interest (ORI) for the tax year was 6%.
+
+For the purpose of the normal averaging method of calculating the cash equivalent of the benefit of the loan, the loan was in existence for nine complete months of the tax year (see EIM26217 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26217)).
+
+Liability on the normal averaging method, follow steps (EIM26210 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26210) onwards):
+
+- ((£15,300 + £14,085) × 9 months × 6 ORI) ÷ (2 × 12 × 100) = £661.16
+
+- less interest actually paid by the employee = £443.25
+
+- cash equivalent of benefit = £217.91
+
+Liability on the alternative precise method (see EIM26230 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26230))
+
+Note: Add up all the interest paid for each period:
+
+Method |  £ |
+
+£15,300 for 31 days at 6% = |  77.96 |
+
+£15,165 for 31 days at 6% = |  77.27 |
+
+£15,030 for 30 days at 6% = |  74.12 |
+
+£14,895 for 31 days at 6% = |  75.90 |
+
+£14,760 for 30 days at 6% = |  72.78 |
+
+£14,625 for 31 days at 6% = |  74.52 |
+
+£14,490 for 31 days at 6% = |  73.83 |
+
+£14,355 for 28 days at 6% = |  66.07 |
+
+£14,220 for 31 days at 6% = |  72.46 |
+
+£14,085 for 5 days at 6% = |  11.57 |
+
+- total interest for each period: £676.48
+
+- less interest paid by the employee: £443.25
+
+- chargeable benefit: £233.23 (round down to £233)
+
+Note: the computation for the first month is:
+
+(£15,300 × 31 × 6) ÷ (365 × 100) = £77.96 (and so on for each succeeding month).
+
+The normal averaging method of calculation, which would be applied automatically, is to the employee’s advantage. They would not, therefore, make an election for the alternative precise method (see EIM26200 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26200) and EIM26240 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26240)).
+
+This is a steadily decreasing loan, there are no complications and no suggestions of any manipulation or avoidance. The Inspector would not, therefore, give notice that they wished to adopt the alternative precise method of calculation.
+
+Note: that for either method of calculation it is the maximum outstanding balance on the appropriate day that is taken into account. Thus, although the employee repays £135 on the last day of the month it is the balance before the repayment (that is the maximum outstanding balance) that is taken into account in the calculations.
+
+The formula for calculating liability on the alternative precise method at EIM26235 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26235) could have been used to come to the same result.
+
+‘S’ (see EIM26235 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26235)) in the formula would be:
+
+- (£15,300 × 31) + (£15,165 × 31) … + (£14,085 × 5) = £3,746,613
+
+Using the formula the chargeable benefit is:
+
+- (6 × £3,746,613) ÷ (100 × 365) - £443.25 = £172.63
+
+The employee will be treated as having paid £217 interest on the loan in addition to the £443.25 actually paid. However, this will have no effect on their liability because none of the interest ranks for deduction or relief of any kind (see EIM26270 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26270)).

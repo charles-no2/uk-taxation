@@ -1,0 +1,18 @@
+Disposal of interests in settlements: introduction
+Identifier: CG38000
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38000
+Published: 2016-03-12T10:55:00+00:00
+Updated: 2020-04-01T09:41:00+01:00
+Retrieved (UTC): 2026-09-18T14:31:51.750400+00:00
+
+All forms of property, see TCGA92/S21 (1), are assets for the purposes of Capital Gains Tax. Therefore, in the simple case where there is a settlement with a life tenant A, entitled to the income, and a remainderman B, entitled to the capital on the death of A, the interests of A and B are assets. If they were to dispose of those interests, by giving them away to their children, or by selling them, if there were no special provision, there would be a chargeable gain (or exceptionally an allowable loss) on those disposals.
+
+Suppose that in this situation A and B agreed to bring the trust to an end and share the assets between themselves. This is quite a common situation. Without any special provision the Capital Gains Tax consequences would be
+
+- Trustees: A and B would become absolutely entitled, see CG37000 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg37000), to the settled property and therefore there would be a deemed disposal at market value.
+
+- A: his life interest would be terminated. Unless rebasing applied his allowable expenditure would be nil, under TCGA92/S17 (2), because he gave no consideration for his interest and there was no corresponding disposal. He would therefore be charged on the full value of what he became entitled to receive. If rebasing applied, the value at 31 March 1982 would be substantially reduced, because a life interest is a wasting asset, see CG38020 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38020).
+
+- B: his interest in remainder would be terminated. His CGT position would be similar to that of A, except that his interest is not a wasting asset.
+
+Therefore it is clear that the tax charge would be very heavy. So the general principle is that the gains or losses of beneficiaries on their interests in settlements are exempt, subject to the exceptions in CG38010 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg38010). A charge to Capital Gains Tax arises when the trustees sell assets, or the beneficiaries become absolutely entitled to the assets, and the charge is on the trustees only.

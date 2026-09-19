@@ -1,0 +1,50 @@
+Partnerships: Disposals of partnership assets: SP D12
+Identifier: CG27350
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg27350
+Published: 2016-03-12T10:28:25+00:00
+Updated: 2023-04-18T09:11:51+01:00
+Retrieved (UTC): 2026-09-18T14:29:11.757310+00:00
+
+Section 2 of SP D12 explains that when a partnership disposes of an asset each of the partners is treated as having disposed of their fractional interests in the asset.
+
+The partners’ shares of the disposal proceeds should be calculated by reference to their fractional interests in the asset using the tests in CG27220 in the order in which they are set out, unless the market value rule in TCGA92/S17/S18 applies, see CG27800.
+
+The costs of acquisition should normally be allocated between the partners in the same way at the time of acquisition, although an adjustment may be required if there is a subsequent change in partnership sharing ratios, see CG27500. However, there are certain situations when a partner’s acquisition costs may not be based on the cost of the asset to the partnership, for example, when the market value rule applies on acquisition or when the asset was transferred to the partnership by the partner, see CG27900 and the examples at CG27940.
+
+Example
+
+A, B and C carry on a business in partnership.
+
+Their interests in partnership assets are shared as to:
+
+- A = 50%
+
+- B = 30%
+
+- C = 20%
+
+The partnership purchases a freehold property for £570,000 and sells it several years later for £780,000.
+
+The gains on disposal (ignoring expenses) for A, B and C are computed as follows:
+
+- |  Partner A |  Partner B |  Partner C |
+
+Disposal proceeds |  - |  - |  - |
+
+£780,000 x 50%/30%20% |  £390,000 |  £234,000 |  £156,000 |
+
+Less Cost |  - |  - |  - |
+
+£570,000 x 50%/30%/20% |  £285,000 |  £171,000 |  £114,000 |
+
+Gains |  £105.000 |  £63.000 |  £42.000 |
+
+The gains accruing to the partners, £105,000 + £63,000 + £42,000 = £210,000, are equal to the overall gain on the property, £780,000 - £570,000 = £210,000.
+
+Part- disposals
+
+If the partnership had sold part of the freehold property the part-disposal rules in TCGA92/S42, see CG12730, would be applied to each partner’s allowable costs in order to determine the sums allowable under TCGA92/S38 (1)(a) and (b).
+
+Small part-disposals of land
+
+Where a small part disposal of land is made by a partnership the conditions in TCGA92/S242 apply to each partner separately. TCGA92/S242 provides that in certain circumstances and subject to a claim by the transferor, a small part disposal of land will not be treated as a disposal. CG71870 explains the conditions that apply in relation to claims under TCGA92/S242.

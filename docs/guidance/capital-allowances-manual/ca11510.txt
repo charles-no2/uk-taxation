@@ -1,0 +1,40 @@
+General: Definitions: Chargeable period, accounting period and period of account
+Identifier: CA11510
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-allowances-manual/ca11510
+Published: 2016-04-16T08:41:23+01:00
+Updated: 2025-08-20T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T16:20:23.225880+00:00
+
+CAA01/S6
+
+Capital allowances are made for a chargeable period. A chargeable period is:
+
+- a period of account (income tax);
+
+- an accounting period (corporation tax).
+
+Accounting period has the same meaning for capital allowances as it has for corporation tax. This means that the definition in CTA09/S8 and CTA09/CHAPTER2/PART2 applies (see CTM01400 (http://www.gov.uk/hmrc-internal-manuals/company-taxation-manual/ctm01400) onwards).
+
+This is the basic definition of period of account for income tax purposes.
+
+A period of account is any period for which trading, professional or vocational (shortened to trading below) accounts are made up.
+
+In any other case a period of account is a tax year. For example, the period of account of a person who has a property business is a tax year.
+
+Trading accounts may be drawn up for overlapping periods. If there is an overlap between two periods of account the period that is in both periods of account is deemed to fall within the first one only. For example, accounts may be drawn up for the year ended 30 June 2018 and then the 12 months to 31 December 2018. The period 1 January 2018 to 30 June 2018 is in both periods. It falls within the period of account 1 July 2017 to 30 June 2018. It does not fall within the period of account 1 January 2018 to 31 December 2018.
+
+There may be a gap between the periods for which trading accounts are drawn up. If so, the gap is deemed to be part of the first period of account. For example, accounts may be drawn up for the year ended 30 September 2017 and then the year ended 31 December 2018. The period 1 October 2017 to 31 December 2017 is not within any period of account. It is deemed to be part of the period of account ended 30 September 2017.
+
+A period of account cannot be longer than 18 months. If accounts are drawn up for a period that is longer than 18 months you should split the period for which the accounts are drawn up into separate periods of accounts. This is how it is done. The first period of account is the first 12 months of the period for which the accounts have been drawn up. The next period of account starts when those 12 months end, and you continue like that until the whole period for which the accounts were drawn up has been allocated to periods of account.
+
+Example
+
+Dylan sends in an account for the 27-month period 1 January 2017 to 31 March 2019. This is split into 3 periods of account for capital allowance purposes:
+
+- 12 months from 1 January 2017 to 31 December 2017,
+
+- 12 months from 1 January 2018 to 31 December 2018, and
+
+- 3 months from 1 January 2019 to 31 March 2019.
+
+Dylan's capital allowances and balancing charges are calculated for his periods of account 1/1/17 to 31/12/17, 1/1/18 to 31/12/18 and 1/1/19 to 31/3/19. The capital allowances for all 3 periods of account are deducted from and any balancing charges are added to the trading profits for the period 1/1/17 to 31/3/19 to arrive at his taxable profits for that period.

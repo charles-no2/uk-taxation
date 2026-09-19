@@ -1,0 +1,82 @@
+Remittance Basis: Exemptions: Business investment relief: CTD - amount that can be deposited
+Identifier: RDRM34510
+Source: https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34510
+Published: 2016-03-09T17:37:39+00:00
+Updated: 2022-01-20T07:28:53+00:00
+Retrieved (UTC): 2026-09-18T16:19:42.387382+00:00
+
+This page is purely for illustrative purposes as the scheme closed on 23 November 2017.
+
+When the scheme was in force the maximum tax deposit that could have been made after a partial disposal is the difference between the actual disposal proceeds and, if higher, “amount Y”.
+
+Amount Y is the sum of:
+
+- the amount required to be taken offshore or re-invested to satisfy the appropriate mitigation steps [see RDRM34440 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34440)]
+
+and
+
+- the chargeable gain accruing on the disposal charged at the highest potential Capital Gains Tax rate applying for the year in which the gain accrues (s809VK(4) ITA2007).
+
+If an individual made a tax deposit from the disposal proceeds of an amount greater than this:
+
+- the amount to be taken offshore or re-invested could only be reduced by the calculated maximum amount
+
+- any excess deposited, above the calculated maximum, would have been regarded as a remittance.
+
+If the actual disposal proceeds exceed ‘Y’, the CTD scheme could not have been used by the taxpayer to reduce the amount of the disposal proceeds to be taken offshore or re-invested in order to satisfy the appropriate mitigation steps.
+
+When making a tax deposit the taxpayer was required to send HMRC a confirmation letter. In addition to the normal information required, the investor must have included a statement advising that ‘ITA07/s809VK Retention of funds to meet Capital Gains Tax liabilities’ is intended to apply to the tax deposit. (s809VK(8) ITA2007)
+
+Example 1
+
+Charan pays tax on the remittance basis. In 2012-2013 he made a qualifying investment of £1 million in an engineering company and was issued with 20,000 shares. He subsequently makes a claim for the business investment relief on his Self- Assessment tax return for the tax year 2012-2013, and so does not pay any UK tax on what would otherwise have been a chargeable remittance of £1 million.
+
+In July 2015 Charan disposes of 10,000 shares for £800,000 making a capital gain of £300,000. To comply with the appropriate mitigation steps Charan must move the entire £800,000 proceeds offshore or reinvest them in a target company. In this case Charan can choose to make a tax deposit with HMRC under the CTD scheme and, if he does so, the tax deposit will reduce the amount of the proceeds that must be taken offshore or reinvested.
+
+Charan calculates the potential maximum Capital Gains Tax liability accruing on the gain from his part disposal as:
+
+£300,000 x 28%* = £84,000
+
+Amount Y is therefore £884,000 (£800,000 plus £84,000). As this is higher than the amount that must be taken offshore to satisfy the mitigation steps, Charan is able to make a tax deposit of the difference.
+
+If Charan makes a tax deposit of £84,000, he need only take offshore or reinvest £716,000 (£800,000 less £84,000) to complete the mitigation steps. Charan must also confirm, in writing, to HMRC that ITA07/s809VK is intended to apply to the tax deposit.
+
+*Based on Capital Gains Tax rates at May
+
+Example 2
+
+Izaak has made a qualifying investment of £1 million. He was issued with 250,000 shares at a cost of £4 per share. He makes a claim for business investment relief on his Self-Assessment tax return for the tax year 2012-2013 and does not pay any UK tax on what would otherwise have been a remittance of £1 million. Izaak disposes of his holding over several years as illustrated below.
+
+Event |  2012-2013 |  2013-2014 |  2014-2015 |  2015-2016 |
+
+Shares held at start of year |  250,000 |  250,000 |  150,000 |  112,500 |
+
+shares disposed of |  - |  100,000 |  37,500 |  112,500 |
+
+Disposal proceeds (a) |  - |  £500,000 |  £200,000 |  £700,000 |
+
+Cost of shares disposed of: (b) |  - |  £400,000 |  £150,000 |  £450,000 |
+
+Chargeable gain: (a) - (b) = (c) |  - |  £100,000 |  £50,000 |  £250,000 |
+
+Maximum Capital Gains Tax liability1 (c) x 28% = (d) |  - |  £28,000 |  £14,000 |  £70,000 |
+
+Amount to be taken offshore or reinvested under mitigation steps (e) |  - |  £500,000 |  £200,000 |  £300,000 |
+
+Amount Y - amount to be taken offshore or reinvested plus maximum CGT liability (d) + (e) = (f) |  - |  £528,000 |  £214,000 |  £370,000 |
+
+Shortfall - difference between Y and disposal proceeds, unless disposal proceeds are greater than Y (f) - (e) = (g) |  - |  £28,000 |  £14,000 |  Disposal proceeds greater\n£0 |
+
+Amount that Izaak can deposit in CTD within 45 days of disposal |  - |  £28,000 |  £14,000 |  Not Applicable |
+
+Amount Izaak must take offshore or reinvest within 45 days of disposal if he chooses to make the maximum deposit under the CTD scheme (e) - (g) |  - |  £472,000 |  £186,000 |  £300,000 |
+
+Assumes rate in force at May 2012 continues to apply
+
+There was no requirement for the taxpayer to make a tax deposit if they preferred to meet their Capital Gains Tax liabilities from other funds. If they did not make a tax deposit, the amount to be taken offshore or reinvested is not reduced.
+
+Insufficient funds deposited
+
+If there were insufficient funds deposited to pay the Capital Gains Tax liability the taxpayer had to meet the liability from other funds. If foreign income or gains were remitted to pay this liability, they would have been treated as a remittance and subject to tax in the normal way under section 809L of the Income Tax Act 2007.
+
+There are conditions to be met when making a CTD [see RDRM34520 (https://www.gov.uk/hmrc-internal-manuals/residence-domicile-and-remittance-basis/rdrm34520)].

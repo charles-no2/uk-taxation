@@ -1,0 +1,60 @@
+Reliefs: replacement of business assets (roll-over relief): computation of relief
+Identifier: CG60290
+Source: https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg60290
+Published: 2020-01-09T11:50:20+00:00
+Updated: 2026-06-11T01:00:00+01:00
+Retrieved (UTC): 2026-09-18T14:33:53.572799+00:00
+
+The guidance on this page explains how roll-over relief is calculated.
+
+Points to note
+
+-
+
+The disposal proceeds or acquisition cost include deemed consideration (see section 152(10) of the Taxation of Chargeable Gains Act (TCGA) 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/152)). For example, if a transaction is between connected persons, it is necessary to ignore the amount actually paid and the consideration is deemed to be the market value. The market value then becomes the figure used to measure the amount reinvested (or treated as reinvested).
+
+-
+
+For guidance on part-disposals, see CG12730P (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg12730p).
+
+-
+
+The rules for calculating relief are different if the new asset is a depreciating asset (see CG60295 (https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg60295)).
+
+-
+
+The adjustments described on this page apply only to the claimant. They do not apply to the person acquiring the old asset or disposing of the new asset.
+
+Full reinvestment
+
+If a person acquires new assets costing (including allowable incidental costs of acquisition) the same as or more than the amount received from disposing of the old assets (after deducting allowable incidental costs of disposal), and makes a valid claim under section 152 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/152), the whole gain is deferred until they dispose of the new assets. The effect of the relief is that any Capital Gains Tax (CGT) is deferred.
+
+The amount of roll-over relief (that is, the amount of gain being deferred) is deducted from the disposal consideration of the old assets. This produces a no gain, no loss result.
+
+The same amount is then deducted from the cost of the new assets. When the new assets are eventually disposed of, the claimant must use this adjusted acquisition cost when calculating any chargeable gain.
+
+Business Asset Roll-over Relief (Self Assessment helpsheet HS290) (GOV.UK) (https://www.gov.uk/government/publications/business-asset-roll-over-relief-hs290-self-assessment-helpsheet) provides an example.
+
+Where market value is substituted for the actual consideration, full reinvestment occurs as long as the amount reinvested is at least equal to the market value.
+
+Partial reinvestment
+
+If a person acquires new assets (including allowable incidental costs of acquisition) for less than the amount received from disposing of the old assets (after deducting allowable incidental costs of disposal), and makes a valid claim, it is not possible to defer the whole gain (see section 153 TCGA 1992 (https://www.legislation.gov.uk/ukpga/1992/12/section/153)). Instead, partial relief may be available. The person may have to pay tax on part of the gain at the normal time.
+
+The amount of the gain on which tax may be due is the lower of:
+
+-
+
+the full chargeable gain arising on disposal of the old asset
+
+-
+
+the amount of consideration received from the disposal not reinvested in the replacement asset
+
+The deferred gain (the amount of roll-relief) is the difference between the full chargeable gain and the amount on which tax may be due.
+
+The deferred gain is deducted from the cost of the new assets.
+
+Business Asset Roll-over Relief (Self Assessment helpsheet HS290) (GOV.UK) (https://www.gov.uk/government/publications/business-asset-roll-over-relief-hs290-self-assessment-helpsheet) provides an example.
+
+Where market value is substituted for the actual consideration, if the reinvestment is less than market value, the reinvestment is treated as partial.

@@ -1,0 +1,54 @@
+Settlements legislation Rules affecting non-domiciled and deemed domiciled settlors of non-resident trusts from 6 April 2017 – 5 April 2025: Meaning of untaxed benefits total 
+Identifier: TSEM4640
+Source: https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4640
+Published: 2025-04-07T08:02:34+01:00
+Updated: 2025-04-07T08:51:33+01:00
+Retrieved (UTC): 2026-09-18T16:19:56.705254+00:00
+
+The guidance on this page relates to the period 6 April 2017 - 5 April 2025. From 6 April 2025 the rules around the taxation of non-UK domiciled individuals ended and individuals are taxable based on their residence position only. Detailed guidance on the changes from 6 April 2025 can be found at TSEM4700 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4700) onwards.
+
+These are the steps to calculate whether an individual has an ‘untaxed benefits total’ for the purposes of ITTIOA S643A.
+
+-
+
+Step 1 – If the individual is the settlor, identify each benefit provided to them by the trustees at a time when the settlor is not relevantly domiciled and in a tax year that is the current year or an earlier year
+
+If the individual is not the settlor, identify each benefit provided by the trustees to them at a time when the individual is a close member of the settlor's family and in a tax year that is the current or earlier tax year.
+
+-
+
+Step 2 – identify the amount or value of each benefit identified in each strand of Step 1, and calculate the total of those amounts and values
+
+-
+
+Step 3 – take the total calculated at step 2 and deduct
+
+-
+
+Any part of it on which the individual is liable to income tax otherwise than under S643A
+
+-
+
+Any income treated by S643A, S643J or S643L as arising to a person for a tax year earlier than the current year
+
+-
+
+The whole or any part of a benefit identified at Step 1 that is taken into account in charging Income Tax under Transfer of Assets Abroad legislation
+
+-
+
+Any amount required to be deducted by S643D (previous capital gains tax charge)
+
+-
+
+Step 4 – If the result of the calculation at Step 3 is greater than nil then that amount is the individuals untaxed benefits total for the settlement for that year.
+
+Relevantly domiciled means that the individual is domiciled in the UK, or they are deemed domiciled in the UK under Condition A (returner).
+
+S742C to 742E ITA 2007 (value of certain benefits) apply for the purpose of calculating the value of a benefit. See INTM601600 (https://www.gov.uk/hmrc-internal-manuals/international-manual/intm601600) for more details.
+
+Example 1
+
+Louise has been living in the UK for 17 years, but she is not domiciled in the UK. In 2013 she settled a non-resident trust for the benefit of herself and her husband Nigel. Nigel is not resident in the UK. The trustees of the settlement purchased a property in Spain for Nigel to live in. From 2017/18 Louise is treated as being deemed domiciled in the UK. As the settlor of the trust Louise will be assessable to tax on any benefits that she receives from the trust that she settled. She will also be assessable on any benefits that Nigel who is non-resident receives in 2018/19 in respect of the use of the Spanish property (this is because Nigel is a close family member and he is non-resident, see TSEM4650 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4650).)
+
+If Nigel becomes resident in the UK in 2019/20 the benefit of the use of the property in Spain will be assessable on him (Nigel is UK domiciled). As Louise was assessable on the benefit in 2018/19 by virtue of ITTOIA 05/S643A (see TSEM4635 (https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem4635)) the amount deducted in Step 3 as set out above will include the value of the benefit assessable on Louise in 2018/19.

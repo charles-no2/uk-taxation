@@ -1,0 +1,16 @@
+Interest, penalties and surcharge: interest: amending the  effective date of payment (EDP)
+Identifier: SAM60060
+Source: https://www.gov.uk/hmrc-internal-manuals/self-assessment-manual/sam60060
+Published: 2016-04-08T17:36:29+01:00
+Updated: 2021-11-01T07:43:37+00:00
+Retrieved (UTC): 2026-09-18T16:19:03.749819+00:00
+
+Changes to the effective date of payment (EDP) are made by using function AMEND EFFECTIVE DATE OF PAYMENT, which is available in the Review Interest Officer Processing (RINO) role. This function can be used in most instances to change the EDP. However, where the payment in question is over 12 months old you can only change the EDP by
+
+- Transferring the appropriate payment(s) to OAS at Banking Operations
+
+And
+
+- Bringing back the payment(s) into SA with the new / correct EDP
+
+In either case interest will be recalculated automatically, the excess being discharged automatically.

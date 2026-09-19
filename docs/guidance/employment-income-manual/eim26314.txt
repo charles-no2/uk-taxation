@@ -1,0 +1,134 @@
+The benefits code: beneficial loans: cheap loans some of which are subject to aggregation while others are not: example
+Identifier: EIM26314
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26314
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2022-03-16T17:21:55+00:00
+Retrieved (UTC): 2026-09-18T14:12:25.705131+00:00
+
+This example shows how to calculate the cash equivalents of cheap loans, some of which are subject to aggregation while others are not, using both the averaging method (see EIM26220 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26220)) and the precise method (see EIM26230 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26230)).
+
+A close company has for years advanced funds to a director at 2% interest payable quarterly on 31 March, 30 June, 30 September and 31 December by deduction from salary. Each year it has made an election for aggregation (see EIM26180 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26180)).
+
+The balance on the loan account on 5 April preceding the year of assessment was £38,000. The director repaid £2,000 on 30 June in the year of assessment, so that the balance at the end of that year was £36,000.
+
+Part of the loan balance was a loan of £6,000 made in the preceding year of assessment to help the director buy a car that they needed to do their job. The car was used 40% for business travel.
+
+£20,000 was a loan used to buy shares in a close company. This loan meets all the conditions for relief under section 383 ITA 2007.
+
+Of the remainder of the loan balance £4,000 was used to buy a season ticket and the other £8,000 outstanding at the beginning of the year represented the balance of a loan to pay for a holiday.
+
+Of the total repayment of £2,000, £400 was set against the car loan, £1,000 against the share loan, £400 against the season ticket loan and the other £200 against the holiday loan.
+
+The appropriate official rate was 3.25% throughout the year in question.
+
+All the loans are between the same borrower and lender. The share loan is a qualifying loan on which all the interest is eligible for relief and is therefore exempt (see EIM26135 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26135)). The other three loans require a cash equivalent to be ascertained. Since the employer has elected for aggregation the season ticket loan and the holiday loan, which are non-qualifying (see EIM26137 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26137)), must be aggregated (see EIM26180 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26180)). So for the purposes of calculating the total chargeable benefit there are two loans as follows:
+
+Type | Balance at start | Balance at end |
+
+Qualifying | £6,000 | £5,600 |
+
+Non-qualifying | £12,000 | £11,400 |
+
+As the total balance outstanding exceeded £10,000 in the year, exemption under section 180(1)(a) ITEPA 2003 is not due (see EIM26140 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26140)). Since the total balance outstanding on the non- qualifying loans exceeded £10,000 in the year, exemption under section 180(1)(b) is not due for those loans (see EIM26145 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26145)).
+
+Interest paid on the car loan for the year was:
+
+Date paid | Interest at 2% calculation |
+
+30 June | One quarter on £6,000 = £30.00  |
+
+30 September | One quarter on £5,600 = £28.00 |
+
+31 December | One quarter on £5,600 = £28.00 |
+
+31 March | One quarter on £5,600 = £28.00 |
+
+- Total paid: £30.00 + £28.00 + £28.00 + £28.00 = £114.00
+
+Interest eligible for relief under section 383 ITA 2007 will be as follows:
+
+Paid on | Amount | Eligible for relief |
+
+30 June | £30.00 | £30.00 × 40% = £12.00 |
+
+30 September | £28.00 | £28.00 × 40% = £11.20 |
+
+31 December | £28.00 | £28.00 × 40% = £11.20 |
+
+31 March | £28.00 | £28.00 × 40% = £11.20 |
+
+- Total paid: £12.00 + £11.20 + £11.20 + £11.20 = £45.60 (say £46.00)
+
+Interest paid on the aggregated loans for the year was:
+
+Date paid | Interest at 2% calculation |
+
+30 June | One quarter on £8,000 = £40.00 |
+
+30 September | One quarter on £11,400 = £57.00 |
+
+31 December | One quarter on £11,400 = £57.00 |
+
+31 March | One quarter on £11,400 = £57.00 |
+
+- Total paid: £40.00 + £57.00 + £57.00 + £57.00 = £211.00
+
+Liability on the normal averaging method (see EIM26210 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26210))
+
+(a) Car loan calculation:
+
+- ((£6,000 + £5,600) ÷ 2) × (12 ÷ 12) × 3.25% = £188.50
+
+- less interest actually paid in respect of the car loan: £114.00
+
+- chargeable benefit = £74.50
+
+(b) Aggregated loan calcualtion:
+
+- ((£12,000 + £11,400) ÷ 2) × (12 ÷ 12) × 3.25% = £380.25
+
+- less interest actually paid in respect of the aggregated loan: £211.00
+
+- chargeable benefit = £169.25
+
+- total cash equivalent: £74.50 + £169.25 = £243.75
+
+Liability on the alternative precise method (see EIM26230 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26230))
+
+a) Car loan:
+
+Period | Calculation  |
+
+6 April to 30 June (86 days) | £6,000 for 86 days at 3.25% = £45.94 |
+
+1 July to 5 April (279 days) | £5,600 for 279 days at 3.25% = £139.11 |
+
+- total: £45.94 + £139.11 = £185.05
+
+- interest paid in respect of the car loan: £114.00
+
+- chargeable benefit = £71.05
+
+b) Aggregated loan:
+
+Period | Calculation |
+
+6 April to 30 June (86 days) | £12,000 for 86 days at 3.25% = £91.89 |
+
+1 July to 5 April (279 days) | £11,400 for 279 days at 3.25% = £283.20 |
+
+- total: £91.89 + £283.20 = £375.09
+
+- interest actually paid in respect of the aggregated loans: £211.00
+
+- chargeable benefit = £164.09
+
+- total cash equivalent: £71.05 + £164.09 = £235.14
+
+Note:although the employee repaid £2,000 on 30 June, the maximum balances of the non- aggregated and aggregated loans outstanding on the day were £6,000 and £12,000 and these amounts have been taken into account in the alternative precise method of calculation.
+
+The normal averaging method of calculation, which would be applied automatically (see EIM26200 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26200)), operates marginally to the director's disadvantage. If they consider it worthwhile they could make an election for the alternative precise method of calculation (see EIM26200 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26200)).
+
+The director will be treated as having paid £243 (or £235 if an election for the alternative precise method is made) interest on the loan in addition to the interest actually paid (see EIM26270 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26270)). Relief will be due for the notional interest as follows (assuming an election for the alternative precise method is made):
+
+Car loan: Interest treated as paid on 5 April (see EIM26270 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim26270)) £71.05 × 40% = £28.42. Round up to £29 to be allowed as interest relief in addition to relief in respect of the interest actually paid.

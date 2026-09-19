@@ -1,0 +1,34 @@
+Lifetime transfers: annual exemption: relievable property 
+Identifier: IHTM14142
+Source: https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14142
+Published: 2016-04-09T09:16:49+01:00
+Updated: 2023-09-22T17:16:58+01:00
+Retrieved (UTC): 2026-09-18T14:57:20.483165+00:00
+
+If the transfer qualifies for agricultural relief (AR) (IHTM24001 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm24001)) or business relief (BR) (IHTM25131 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25131)) deduct the AR or BR first. If there is any chargeable value after the AR or BR has been deducted subtract any available annual exemption from the value transferred after reduction by the AR or BR.
+
+Example
+
+Alice makes a lifetime transfer of relevant business property (IHTM25141 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm25141)) to the trustees of a discretionary trust. The loss to the estate is £400,000. The only exemption available is the annual exemption for the year. The trustees pay the tax.
+
+The amount of the immediately chargeable transfer (IHTM04067 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04067)) is:
+
+- Loss to Alice’s estate = £400,000.
+
+- This wholly qualifies for BR at 50% = £200,000
+
+- The value transferred = £200,000
+
+- Less annual exemption - £3,000
+
+- The chargeable transfer = £197,000
+
+If the donor, Alice, paid the tax, the £197,000 should be grossed up (IHTM14541 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14541)).
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14142#Top)
+
+Additional charges
+
+If the transferor dies within seven years of an immediately chargeable transfer you will also have to consider additional charges (IHTM14571 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14571)). If the additional conditions (IHTM14579 (https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14579)) for relief are not satisfied, you will calculate the additional tax payable on the basis that the annual exemption is deducted from the unreduced value transferred.
+
+Therefore in the above example, for the purpose of the additional tax payable on the transfer because of Alice’s death within seven years, the annual exemption is deducted from the full £400,000, making the chargeable transfer £397,000.

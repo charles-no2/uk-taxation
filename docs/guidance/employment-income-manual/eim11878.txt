@@ -1,0 +1,20 @@
+PAYE: special type of income: gains from share options: exercise of an option in an unapproved share option scheme prior to flotation: example
+Identifier: EIM11878
+Source: https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11878
+Published: 2014-05-22T10:00:00+01:00
+Updated: 2018-12-14T01:24:43+00:00
+Retrieved (UTC): 2026-09-18T14:09:35.706437+00:00
+
+On 23 May 2001, an employer granted an employee an option over 1,000 shares in the company’s unapproved share scheme at £1 per share. The employer is a private company, not listed on any exchange. The option can be exercised between 1 January 2003 and 31 December 2007. There are no arrangements for the employer to buy back shares.
+
+In January 2003, the company considers a possible flotation on the London Stock Exchange. A feasibility study highlights issues that the company needs to address first, but is broadly supportive of a flotation in June 2003. As work continues towards the potential flotation the share price rises to £5 and on 24 May 2003 the employee exercises the option and acquires shares worth £5,000.
+
+Is the employer required to operate PAYE?
+
+Under Section 477 ITEPA 2003, the amount chargeable to tax as employment income is £4,000 (representing the value of the shares acquired when the option is exercised less the amount paid to exercise the option). There was no Income Tax charge at time of grant because the option could not be exercised more than 10 years later.
+
+The shares are in an unlisted company so none of the definitions of readily convertible asset in Section 702(1)(a) or (b) ITEPA 2003 apply (see EIM11901 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11901) to EIM11907 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11907)). But when the employee acquires the shares on 24 November 2003 he knows that the company is intending a flotation on the London Stock Exchange. After that event the shares will be capable of sale on the exchange and this represents a potential trading arrangement.
+
+The shares are acquired before the intended flotation and it is possible that the flotation may never take place. But the feasibility report and continuing progress towards flotation make it likely that flotation will occur.
+
+Consequently the employee acquires the shares subject to an understanding that trading arrangements are likely to come into existence and, by virtue of Section 702(1)(c) (see EIM11908 (https://www.gov.uk/hmrc-internal-manuals/employment-income-manual/eim11908)), the shares are readily convertible assets. Section 700 ITEPA 2003 applies and the employer must operate PAYE on £4,000.

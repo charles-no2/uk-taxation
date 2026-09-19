@@ -1,0 +1,106 @@
+International: UK tax charges on non UK schemes: the annual allowance charge and non-UK schemes:  pension input amounts for other money purchase arrangements
+Identifier: PTM113330
+Source: https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113330
+Published: 2015-03-27T09:00:00+00:00
+Updated: 2015-12-14T16:05:12+00:00
+Retrieved (UTC): 2026-09-18T14:51:19.718670+00:00
+
+| Glossary | PTM000001 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm000001) | |———-|————————————————————————————-|
+
+How to calculate the pension input amounts for other money purchase arrangements (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113330#IDAR0ZSB)
+When a member first flexibly accesses their pension savings (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113330#IDAB4ZSB)
+Converting pension input amounts expressed in a foreign currency into the sterling equivalent (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113330#IDA35ZSB)
+
+How to calculate the pension input amounts for other money purchase arrangements
+
+Section 233 and paragraph 11 Schedule 34 Finance Act 2004
+
+The method of calculating the pension input amount relating to other money purchase arrangements held under a currently-relieved non-UK pension scheme is modified for a currently-relieved member for the tax year. The modified method of calculation ensures that:
+
+- only employee contributions made in the tax year that have benefited from UK tax relief under migrant member relief (see PTM111200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm111200)), transitional corresponding relief (see PTM111500 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm111500)) or relief under a double taxation arrangement (see PTM111600 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm111600)) are included in the individual’s pension input amount, and
+
+- any employer contributions made in the tax year in respect of the individual that might relate to income that is not chargeable to UK tax is excluded from the pension input amount.
+
+That is done by applying a fraction (called the appropriate fraction) to those employer contributions. They are reduced by the same proportion that the member’s UK taxable earnings from the employment in connection with which the benefits rights arise bears to the member’s total income from that employment.
+
+PTM053200 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm053200) provides guidance on the calculation of pension input amounts under an other money purchase arrangement. See PTM113320 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320) ‘The appropriate fraction’ for more details of how the appropriate fraction is calculated.
+
+This page provides guidance on the annual allowance rules from 6 April 2011. Guidance relating to previous years can be found on the National Archives at http://webarchive.nationalarchives.gov.uk/*/http://www.hmrc.gov.uk/manuals/rpsmmanual/RPSM13102300.htm (http://webarchive.nationalarchives.gov.uk/*/http:/www.hmrc.gov.uk/manuals/rpsmmanual/RPSM13102300.htm).
+
+Example
+
+Mark has received migrant member relief on his contributions of £15,000 to an overseas pension scheme. Mark’s employer has contributed £25,000 to that scheme in respect of him, and Mark is exempted from liability to UK income tax on that contribution under section 307 Income Tax (Earnings and Pensions) Act 2003 (ITEPA 2003).
+
+Mark has total income (EI) from his employment with the employer in that year of £125,000 (including non-remitted relevant foreign earnings not chargeable in that year but excluding the employer contribution). Only £95,000 of that income is UK taxable earnings (TE) under section 10(2) ITEPA 2003. Mark also has £5,000 taxable specific income which is UK taxable under Part 7 ITEPA in relation to an employment related share option scheme.
+
+The appropriate fraction of the employer contribution is
+
+(TE + TSI) / EI
+
+(95,000 + £5,000) / 125,000 = 4/5 or 80 per cent
+
+Marks’ pension input amount in respect of the overseas pension scheme is Mark’s individual contributions plus the appropriate fraction of the employer contribution.
+
+£15,000 + £20,000 (25,000 x 4/5) = £35,000
+
+Marks’ pension input amount is £35,000.
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113330#Top)
+
+When a member first flexibly accesses their pension savings
+
+In the tax year that the member first flexibly accesses their pension savings any contributions paid before the member first flexibly accesses their pension savings do not count towards their money purchase input sub-total - see PTM056540 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm056540).
+
+For the avoidance of doubt the appropriate fraction used to calculate the money purchase input amount is the appropriate fraction for the tax year.
+
+Example
+
+Sandip is accruing benefits under an other money purchase arrangement under an overseas pension scheme. In 2015-16 Sandip made contributions of £1,000 per month on the last day of each month. These contributions received migrant member relief. Sandip’s employer contributed £1,500 on the last day of each month.
+
+Sandip was paid an uncrystallised funds pension lump sum on 1 February 2016. This is the first time that Sandip flexibly accessed his pension savings.
+
+Sandip’s employment income for 2015-16 is £200,000. Of this amount 90 per cent is UK taxable earnings and specific income.
+
+Sandip’s pension input amount for the tax year under this scheme is:
+
+£12,000 + (£18,000 x 9/10) = £28,200
+
+As 2015-16 is the tax year in which Sandip first flexibly accessed his pension savings, only the contributions paid after Sandip was paid his uncrystallised funds pension lump sum count towards his money purchase input sub-total.
+
+As both Sandip and his employer’s contributions are paid on the last day of each month, only two monthly contributions were paid in 2015-16 after Sandip received his uncrystallised funds pension lump sum. Sandip’s money purchase input sub-total from the overseas scheme is:
+
+£2,000 + (£3,000 x 9/10) = £4,700
+
+Top of page (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113330#Top)
+
+Converting pension input amounts expressed in a foreign currency into the sterling equivalent
+
+If the date on which each contribution was made is known then the spot rate for that date of payment should be used, or each contribution should be added up and the total converted using the spot rate for either:
+
+- 6 April (the spot rate at the start end of the pension input period), or
+
+- 5 April (the spot rate at the end of the pension input period), or
+
+- the average exchange rate over the entire pension input period.
+
+However, the chosen method must be used on a consistent basis. If the exact date on which each contribution was paid is not known, the same spot rate that was used to convert the salary on which the contribution was based should be used. That salary may have been converted using the spot rate for the dates on which it was received or another method that HMRC has agreed in the particular case.
+
+Example
+
+During the UK tax year 2013-14 Michael is a currently-relieved member of a currently-relieved non-UK pension scheme which is an other money purchase scheme. Each month Michael has paid a contribution of 7 per cent of his salary and his employer has paid a contribution of 8 per cent.
+
+To work out his pension input amount for 2013-14 he uses the spot rate for the dates on which his salary was received during the tax year. Using this, Michael’s salary on which both him and his employer’s contributions were based is £180,000.
+
+Based on £180,000, Michael’s pension contributions were £12,600 (£180,000 x 7 per cent) and his employer’s contributions were £14,400 (£180,000 x 8 per cent).
+
+Michael received UK tax relief on all of his contributions so the full amount of £12,600 is included as part of his pension input amount.
+
+The appropriate fraction (for this year it was ‘TE/EI’) is applied to the employer contribution of £14,400 to determine how much of the employer contribution is included as part of Michael’s pension input amount. (See PTM113320 (https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm113320) ‘The appropriate fraction’ for more details of how the appropriate fraction is calculated).
+
+Michael has total income (EI) from his employment with the employer in that tax year of £180,000 (excluding the employer contribution). Of that income £150,000 is UK taxable earnings (TE).
+
+The appropriate fraction is applied to the employer contribution
+
+£150,000/£180,000 x £14,400 = £12,000.
+
+His pension input amount in respect of this scheme is the total of Michael’s UK tax relieved contributions (£12,600) and the appropriate fraction of his employer’s contributions (£12,000) = £24,600.
