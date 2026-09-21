@@ -84,6 +84,16 @@ policies can change.
 | **xAI — Grok** | On grok.com, open **Settings → Data** and turn off **Improve the Model**; the mobile app uses **Settings → Data Controls**. Grok within X has separate controls: follow [X's Grok guidance](https://help.x.com/en/using-x/about-grok). See [Grok data controls](https://x.ai/legal/faq). |
 | **Cursor** | Enable **Privacy Mode** in Cursor settings. Cursor states that this prevents training on customer data by Cursor and its model providers, subject to documented exceptions for abuse investigations and separately designated models. Requests still pass through Cursor's servers, including when using your own provider key. See [Cursor data use](https://cursor.com/data-use). |
 
+For **OpenAI**, you can also submit a **Do not train on my content** request
+through the [OpenAI Privacy Portal](https://privacy.openai.com/). Complete the
+portal's verification steps and keep any confirmation privately. As of
+**21 September 2026**, OpenAI describes this as an alternative way to opt out:
+the request is reflected in your account's data settings, rather than being an
+additional required opt-out on top of the ChatGPT switch. Check that the setting
+is off on the account you use. Neither route changes the separate Codex
+full-environment training setting, which you must check independently. See
+[OpenAI's explanation](https://help.openai.com/en/articles/7730893-data-controls-faq).
+
 **Opting out of training does not mean no transmission, no storage or immediate
 deletion.** Safety, legal and feedback exceptions can apply; avoid submitting
 sensitive conversations as feedback. Business plans and application programming
@@ -100,14 +110,18 @@ for the current task; you can instead supply verified figures without giving it
 the documents. Never provide login passwords, recovery codes or access keys.
 Enter tax identifiers directly in the filing service.
 
-Within this workspace, use the existing private locations:
+The current skill requires saved sessions under `private/self-assessment/`.
+The other private paths below are conventions used in this repository's examples,
+not required layouts. You can organise source documents and exports elsewhere
+and pass those paths to the tools. If you choose another location inside the
+repository, add appropriate Git exclusions before storing personal data there.
 
 | Location | Contents |
 | --- | --- |
-| `private/self-assessment/<session>/` | Saved answers in `session.md`, the personalised `filing-guide.md`, calculations and supporting notes. The skill creates a unique dated folder. |
-| `private/pdfs/` | Optional working copies of source documents, if you choose to keep them in the workspace. |
-| `private/` | Other sensitive working files, including mappings back to original filenames. |
-| `exports/` | Converted financial data and reports. Treat these as personal data too. |
+| `private/self-assessment/<session>/` | Required by the current skill for saved answers in `session.md`, the personalised `filing-guide.md`, calculations and supporting notes. The skill creates a unique dated folder. |
+| `private/pdfs/` | Suggested location for optional working copies of source documents, if you choose to keep them in the workspace. |
+| `private/` | Suggested location for other sensitive working files, including mappings back to original filenames. |
+| `exports/` | Suggested location for converted financial data and reports. Treat these as personal data too. |
 | `docs/`, `skills/`, `scripts/` | Shared reference material and code only; never put taxpayer facts here. |
 
 The repository's [`.gitignore`](.gitignore) excludes `private/`, `exports/`, CSV
@@ -135,7 +149,8 @@ before discarding evidence needed for your return. Then:
    it. This removes its saved answers, guide and any other files inside it.
    Empty the trash when you are sure you no longer need them. Deleting only the
    guide leaves the personal answers in `session.md`.
-3. **Delete related working copies.** Review `private/`, `exports/`, the original
+3. **Delete related working copies.** Review your chosen storage locations
+   (such as `private/` and `exports/`), the original
    input folder and any temporary folders for that session's PDFs, converted
    tables, filename mappings, screenshots and downloads. Delete only the copies
    you no longer need; files outside the session folder survive step 2.
