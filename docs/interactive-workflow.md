@@ -30,36 +30,41 @@ At any step, the user can save, return to an earlier answer, ask for an explanat
 
 ## Rules for the conversation
 
-- Ask one main question at a time. Use short follow-ups only where the answer changes the next step.
+- Ask exactly one main question per turn, with a short sentence explaining what it helps determine; record the answer before the next question. Lists below are internal coverage prompts, not questions to present together.
+- Use everyday descriptions before tax categories. For questions identifying arrangements, payments, benefits, assets or records, include a few concrete, non-exhaustive examples and “I'm not sure”. An example does not imply tax or reporting is due.
+- During fact discovery, record certificates and statements as available without asking for their figures. Finish applicable branch and relief/charge fact questions before one final supporting-folder request, then prepare entries.
+- Search local guidance and legislation first through the indexes in [Data sources](data-sources.md). Check official external sources for gaps, time-sensitive changes and required tax-guidance verification; check each source's year and applicability.
 - Offer **“I'm not sure”** alongside substantive choices. Never interpret uncertainty as “No”, zero or a blank entry.
 - Explain why a question matters before asking for detailed figures.
 - Keep fictional examples separate from the user's draft. Never copy example amounts into their return automatically.
 - End each stage with a plain-language summary and **“Confirm and continue”**, **“Change an answer”** and **“Explain this”** actions.
 - A stage is clear when the user understands the output and its unresolved items, not merely when they have visited every screen.
 - Show progress through the user's relevant sections, rather than through every possible tax-return page.
+- When an answer relies on a web source, retain the exact official source under `docs/`, record its direct link and local path in `data-sources.md`, and add it to the applicable local index. If it materially changes a question, branch, record request, entry or specialist-review route, revise that part of this workflow before relying on it in a later interview.
 - When an earlier answer changes, reopen the affected sections and calculations for review. Preserve earlier entries visibly; do not silently discard or retain an inapplicable claim.
 - Distinguish **needs information**, **needs explanation**, **needs specialist review**, **ready for user review**, and **confirmed**. A confirmed section is still subject to the whole-return check.
 
 ## 1. Identify the user's circumstances and income sources
 
-**Ask:** “During the tax year you want to report, which of these applied to you? Select all that apply.” Display the provisional year prominently; allow it to be changed immediately.
+Display the supplied tax year and exact dates, or the provisional year above, allowing changes immediately. Ask the following behaviour-based questions one at a time, adapting to known facts. Show the complete list only if requested. Explain that an activity alone does not mean tax is due or a return is required.
 
-| Choice | Plain-language follow-up | Route to investigate |
+**Opening when employer pay is unknown:** “First I'll check whether any work for an employer needs to be included. From 6 April 2025 to 5 April 2026, did an employer pay you wages, salary, bonuses or other work pay? Yes, no, or I'm not sure.” Use the selected year's dates.
+
+| Activity to explore individually | Follow-up after the answer | Route to investigate internally |
 |---|---|---|
-| Employee | How many jobs did you have, including jobs you left during the year? | Employment, repeated for each relevant employment |
-| Sole trader or freelancer | Did you work for yourself personally, and how many separate businesses did you run? | Self-employment, repeated by business |
-| Company director or owner | Were you paid a salary, dividends, benefits or other amounts by your company? | Personal employment, dividends and any other relevant treatment |
-| Partner in a business partnership | Do you have the partnership's statement of your share of income? | Personal partnership income |
-| Landlord | Was the property in the UK or abroad, and did you own it alone or jointly? | Property and/or foreign-income questions |
-| Pension recipient | Did you receive a State Pension, workplace/private pension or overseas pension? | Pension and any foreign-income questions |
-| Savings or investments | Did you receive interest, dividends or other investment income? | Savings, dividends and other relevant income |
-| Sold, gave away or exchanged assets | What kind of assets: property, shares, cryptocurrency or something else? | Check capital gains reporting; do not assume every disposal is taxable |
-| Income from abroad | What income, from which countries, and was foreign tax paid? | Foreign income and residence review |
-| Income from a trust or estate | Are you reporting income you received personally, or acting for the trust/estate? | Individual beneficiary income or a separate return journey |
-| Other income or circumstances | Describe it briefly, or choose “I'm not sure”. | Clarification and specialist routing where needed |
-| None of these | Has HM Revenue & Customs (HMRC) asked you to file, or are you seeking a tax refund or relief? | Continue to the filing-obligation check |
+| Received employer pay, such as wages, salary or bonuses | Establish each job, including jobs left during the year | Employment |
+| Did paid work independently, such as client projects or selling services | Establish the working arrangement and each separate activity | Possible self-employment |
+| Ran or owned a business, alone or with others | Establish ownership and whether it is a company or partnership, explaining the distinction | Personal business, partnership or company-related income |
+| Received money or benefits from a company they own, such as salary or dividends | Identify each kind of receipt using everyday examples | Employment, dividends or other relevant treatment |
+| Rented out or owned an interest in property, such as a room, flat or shared rental | Establish use, location and ownership separately | Property and possible foreign income |
+| Received a pension, such as State, workplace or private pension | Identify each pension and its country | Pensions and possible foreign income |
+| Received bank interest or investment income, such as dividends | Establish the account type and whether income is exempt | Savings/dividends or exclusion |
+| Bought, held, sold, gave away or swapped investments or assets, such as shares, cryptocurrency or property | Establish the actual activity, how assets were received and account treatment | Possible income, gains or exclusion |
+| Received money from outside the UK, such as overseas pay, rent or pension | Establish what the payment represents, then country and any foreign tax | Foreign-income/residence review where relevant |
+| Received money from a trust or estate, such as an inheritance or income distribution | Establish what was received and whether acting personally or for the entity | Beneficiary income, exclusion or separate return journey |
+| Something else, such as an unusual payment or benefit | Invite anything missed or uncertain with examples suited to known facts | Clarification or specialist routing |
 
-Explain that these choices can overlap. Owning a limited company does not make its sales the individual's sole-trader income. A partner's personal return and the partnership's own return are separate tasks.
+Activities can overlap. Explain relevant categories only as they arise. Company sales are not automatically personal business income; a partner's individual return is separate from the partnership's return. If no activity applies, continue to the notice-to-file and claim questions.
 
 For uncertain employment status, ask about the actual working arrangement and identify the evidence needed; do not classify someone solely because they call themselves a contractor.
 
@@ -118,7 +123,9 @@ The main individual form is SA100; additional forms are called supplementary pag
 
 ## 5. Prepare the relevant records
 
-**Ask:** “Do you have the information for this section now?” Offer “Ready”, “Some missing”, and “Explain what I need”. Request records only for selected sections.
+During discovery, ask whether relevant records are available, offering “I'm not sure” and examples. Do not request transcription from available certificates or statements. Finish applicable branch and relief/charge fact questions before requesting one local folder containing the relevant supporting records.
+
+Include a record only if the established facts show it could change a return entry or required check. Ordinary activity inside an Individual Savings Account (ISA) alone does not justify requesting its statements; identify and record any separate relevant issue first. The table gives possible records, not an automatic request list.
 
 | Section | Examples of records to explain |
 |---|---|
@@ -131,7 +138,7 @@ The main individual form is SA100; additional forms are called supplementary pag
 | Foreign income/gains | Income and tax statements, currencies, transaction dates and relevant calculations |
 | Asset disposals | Acquisition and disposal records, costs, earlier losses, and any separate tax reports/payments |
 
-**Show:** A checklist by section, explaining which figure each record supports. Mark records already supplied and missing facts precisely. Do not require uploading documents if the user can enter verified figures themselves.
+**Show:** One final folder checklist by section, explaining the entry or check each record supports. Distinguish available, missing, supplied and reviewed records; include available certificates in the request. Keep taxpayer files private. Offer verified figures instead if the user prefers not to provide files. Extract proposed figures with file/page/line references; leave unreadable or ambiguous values unresolved until clarified and confirmed.
 
 **Clear when:** the user knows what to use and what remains missing. They may complete other sections while gathering records.
 
@@ -142,7 +149,7 @@ Repeat for each applicable section and each separate employment/business where r
 1. **Explain the field:** official label, meaning, relevant period, inclusions/exclusions, and whether the amount is before or after deductions.
 2. **Point to the evidence:** identify the figure on the relevant record, including common mistakes such as confusing take-home pay with taxable pay.
 3. **Offer a fictional example:** show the assumed facts, sample entry and why it belongs here. Label every example clearly.
-4. **Let the user enter their figure:** allow “I don't know yet”. Where calculation is needed, collect the components and show the working.
+4. **Propose the evidenced figure:** use the supplied documents with precise references, or accept a verified user-entered figure if preferred. Allow “I don't know yet”; do not infer a value from document availability. Where calculation is needed, show components and working.
 5. **Check the entry:** apply the field's rules for dates, currency, rounding, signs, blank versus zero and consistency with related fields. Do not invent a universal rounding rule.
 6. **Confirm the result:** repeat the proposed entry, its source and any assumptions. Ask whether the user understands and agrees before marking it confirmed.
 
@@ -154,7 +161,7 @@ Every field explanation should have a “Why?” link to the relevant annual not
 
 **Fictional example:** “If the relevant taxable-pay figure is £32,400, the sample pay entry is £32,400. Tax deducted is recorded separately.”
 
-**User action:** Enter their own amount and confirm its source. When there were multiple jobs, check that a carried-forward previous-employment amount has not been counted again.
+**User action:** Review the figure extracted from their records, or enter their own verified amount, and confirm its source. When there were multiple jobs, check that a carried-forward previous-employment amount has not been counted again.
 
 ### Questions specific to each branch
 

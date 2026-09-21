@@ -19,10 +19,13 @@ Use supplied facts; if empty, begin Circumstances without inventing a profile.
 
 ## Sequence
 
-Resolve the project root as the directory containing this skill's `skills/`
-folder and `docs/interactive-workflow.md`; resolve project paths from there.
-Read [the workflow](../../docs/interactive-workflow.md) and
-[data sources](../../docs/data-sources.md) before the first interview turn.
+Resolve the project root from the workspace containing `docs/interactive-workflow.md`
+and `docs/data-sources.md`; for the repository copy, this is two directories
+above the skill. An installed copy must use the workspace, not its installation
+folder. If no such workspace is available, ask for its path. Resolve all `docs/`
+and `private/` paths from that root; skill references remain relative to this file.
+Read `docs/interactive-workflow.md` and `docs/data-sources.md` before the first
+interview turn.
 
 Follow Session, then Circumstances through Filing guide in order, revisiting
 affected steps when an answer changes. Use the workflow's branch questions
@@ -36,9 +39,15 @@ actions. Follow Filing follow-up only if the user continues after the guide.
 Read [session fields](references/session.md) and follow Save and resume to
 create or restore `session.md` in a private session folder.
 
-Ask one main question per turn and wait for its answer; offer “I'm not sure”.
-Explain why detailed information matters, gloss new terms, and show progress
-through relevant sections only; never turn uncertainty into No, zero or blank.
+Ask exactly one main question per turn, introduce it with a short sentence
+explaining what the answer determines, offer “I'm not sure”, and save the answer
+before asking the next question. Treat workflow question lists as an internal
+coverage checklist, not a single prompt. For questions identifying arrangements,
+payments, benefits, assets or records, give a few everyday, non-exhaustive
+examples; do not imply that an example is automatically taxable or reportable.
+Use the user's everyday description first; introduce and explain tax categories
+only when relevant. Show progress through relevant sections only; never turn
+uncertainty into No, zero or blank.
 
 End each stage with its summary and “Confirm and continue”, “Change an answer”
 and “Explain this”. Record confirmation only after the user agrees; allow a
@@ -50,8 +59,12 @@ filing service and supply verified figures without uploading documents.
 
 ## 2. Circumstances
 
-Show the supplied year, or 2025–26 provisionally, allowing changes. Ask which
-workflow step 1 circumstances apply; allow multiple, Other, None and uncertainty.
+Show the supplied year and exact dates, or 2025–26 provisionally, allowing
+changes. Follow workflow step 1's behaviour-based questions individually,
+skipping facts already supplied. Start with employer pay when unknown, then
+cover other activities and an opportunity to mention anything missed. Do not
+show an all-at-once income checklist unless requested. Explain that an activity
+alone does not establish tax due or a requirement to file.
 
 Record each separate job, trade and other income source under a stable name,
 such as Job A. Clarify contractor status from working arrangements; distinguish
@@ -92,13 +105,39 @@ forms and recheck route support whenever the section list changes.
 
 ## 4. Records and sources
 
-Use workflow step 5 to link selected sections' records to figures. Offer Ready,
-Some missing and Explain what I need; record gaps and allow independent work.
+During the circumstances and branch interview, establish which records exist
+and mark them available or missing; do not ask the user to transcribe figures
+from a certificate or statement they have. Finish the applicable fact questions,
+including relief and charge discovery, before workflow step 5's single folder
+request. Build its checklist only from records that could change an entry or
+required check on the established facts; explain each record's purpose.
+Ordinary activity inside an Individual Savings Account (ISA) does not by itself
+justify requesting statements; require a separate relevant issue and record it.
 
-Locate annual forms and notes through [the source index](../../docs/self-assessment/INDEX.md)
-and inspect retrieval metadata in `docs/self-assessment/manifest.json`.
-Verify relevant official sources online before recommending tax treatment;
-record the year, exact passage or box, official link and review date.
+Ask for one local folder containing the relevant documents, including available
+P60 annual pay-and-tax certificates and other applicable records. Keep taxpayer
+files private. Do not require uploads: if the user prefers, accept verified
+figures during entry preparation instead. Record missing files and continue
+independent sections. Extract proposed figures with file/page/line references,
+flag unreadable or ambiguous values, and obtain user confirmation; document
+availability does not mean its figures are verified.
+
+Search local guidance and legislation first, using `docs/data-sources.md`,
+`docs/guidance/INDEX.md`, `docs/rules/INDEX.md` and `docs/self-assessment/INDEX.md`.
+Inspect retrieval metadata in `docs/self-assessment/manifest.json` and relevant
+source records. Check year and applicability; a download is not a reviewed rule.
+Use current official external sources to fill gaps or check time-sensitive
+rules, and whenever required to verify tax guidance. Record the year, exact
+passage or box, official link and review date.
+
+Whenever a web source supports a conclusion given to the user, retain the exact
+official page or file under the relevant `docs/` topic. Record its direct URL,
+local path, retrieval date and purpose in `docs/data-sources.md`, and add it to
+the relevant local index or summary. Update `docs/interactive-workflow.md` if
+it materially changes a question, branch, record, entry or specialist route.
+A search snippet or chat citation is not a retained source. If retrieval or
+saving fails, record the gap and retry or request the missing access; do not
+claim the source is retained.
 
 Treat downloads as source material, not reviewed rules. Establish the selected
 section's field definitions, selection criteria, calculation checks and example
@@ -118,7 +157,8 @@ review and name the question to resolve; proceed only with unaffected entries.
 
 Repeat workflow step 6's field loop for each applicable field and separate
 income source: explain the exact label and period, identify record evidence,
-offer a clearly fictional example, collect the user's answer, check it, then
+offer a clearly fictional example, propose the evidenced figure from the supplied
+records (or collect a user-supplied figure), check it, then
 ask the user to confirm the proposed value and treatment.
 
 Include a Why link to the annual notes; explain inclusions, exclusions and

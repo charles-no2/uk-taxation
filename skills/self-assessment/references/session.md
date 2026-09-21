@@ -30,6 +30,21 @@ Use these statuses consistently:
 An initial unreviewed section is needs information. Stage confirmation means
 the user agrees with the summary; it does not upgrade unresolved entries.
 
+## Supporting records
+
+Keep a checklist during the interview, then use it for the single final folder
+request before entry preparation. For each record, save its source/section,
+relevant year or period, why it could affect an entry or check, and whether it
+is available, missing, supplied or reviewed. “Available” means the user has it;
+it does not confirm any figure. Save the supplied folder/file path privately.
+Record exclusions and their reasons, including accounts for which no relevant
+record is needed. Track which fact questions remain and whether the folder
+request has already been made, so resume does not repeat it unnecessarily.
+
+For extracted figures, retain the file and page/line or transaction reference,
+ambiguities, checks and user confirmation. Request only missing relevant
+evidence when later answers change the checklist.
+
 ## Entries
 
 For each applicable field, record:
@@ -52,7 +67,9 @@ Record whole-return checks and calculation source, totals, remaining balance,
 advance payments and discrepancies separately. For each unresolved item, save
 the affected entries, required answer/evidence, next action and who supplies it.
 
-Keep a source register with tax-year applicability and review dates. A changed
+Keep a source register with tax-year applicability and review dates, linking
+retained official sources to their local files and `docs/data-sources.md` records.
+Track failed retrievals or saves explicitly; taxpayer records stay private. A changed
 year, route, source or underlying fact reopens affected checks and confirmations.
 
 ## Change history and deliverables
