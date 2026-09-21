@@ -139,6 +139,24 @@ See the [batch conversion guide](docs/tax-pdf-batch-conversion.md).
 
 ### Housekeeping: delete a local session and its copies
 
+**As of 21 September 2026**, these are useful places to check for assistant
+data. `~` means your operating-system user's home directory. These are defaults,
+not a complete inventory: versions, custom configuration, remote machines and
+cloud sessions can store data elsewhere.
+
+| Client / location | What to check |
+| --- | --- |
+| `~/.agents/skills/` | Installed skill instructions, including this skill when installed for Codex as below. This is not Codex's conversation store. Removing the skill does not delete conversations. See [Codex skills](https://developers.openai.com/codex/skills/). |
+| Codex: `~/.codex/` | Local state, history, logs and caches. `CODEX_HOME`, an environment variable that selects Codex's data directory, can change this location. `history.jsonl` can contain saved prompt history; session storage details vary by version. Prefer the session deletion command below over deleting individual database files. See [Codex state locations](https://developers.openai.com/codex/config-advanced/). |
+| Claude Code: `~/.claude/` | `projects/<project>/` contains transcripts and `memory/` notes; `history.jsonl` contains prompt history. Also check `file-history/`, `paste-cache/`, `uploads/` and `debug/` for copies. `CLAUDE_CONFIG_DIR` can relocate this directory. The `skills/` folder contains installed instructions, not the conversation history. See [Claude Code application data and cleanup](https://code.claude.com/docs/en/claude-directory#application-data). |
+| Grok Build command-line client: `~/.grok/` | Local session history and configuration. This path applies to Grok Build, not automatically to Grok in a browser, on X or in the mobile app. See [Grok Build data lifecycle](https://docs.x.ai/build/enterprise#data-lifecycle). |
+| Cursor and browser/mobile clients | Use the product's conversation-management controls and check its current documentation for local application data. Do not assume all data lives in a similarly named home-directory folder. For Grok web/mobile deletion, see [Grok data controls](https://x.ai/legal/faq). |
+
+**Do not delete these entire directories as a routine cleanup step.** They can
+also contain credentials, settings, installed skills and unrelated projects.
+Identify the specific project or session first. Deleting a transcript may leave
+prompt history, memories, file snapshots and provider-held copies behind.
+
 First preserve any records you still need in secure storage. Check the applicable
 [HMRC recordkeeping guidance](https://www.gov.uk/self-assessment-tax-returns/keeping-records)
 before discarding evidence needed for your return. Then:
