@@ -22,8 +22,9 @@ Use supplied facts; if empty, begin Circumstances without inventing a profile.
 Resolve the project root from the workspace containing `docs/interactive-workflow.md`
 and `docs/data-sources.md`; for the repository copy, this is two directories
 above the skill. An installed copy must use the workspace, not its installation
-folder. If no such workspace is available, ask for its path. Resolve all `docs/`
-and `private/` paths from that root; skill references remain relative to this file.
+folder. If no such workspace is available, ask for its path. Resolve all `docs/`,
+`private/` and `CONTRIBUTING.md` paths from that root; skill references remain
+relative to this file.
 Read `docs/interactive-workflow.md` and `docs/data-sources.md` before the first
 interview turn.
 
@@ -221,6 +222,25 @@ If the user continues, follow workflow steps 10–12 to reconcile transferred
 entries and calculations, clarify unfamiliar questions and record user-reported
 submission evidence. Preserve submitted versions before amendments, rerun
 affected checks and track payment separately using session fields.
+
+## Contribution checkpoint
+
+At a session pause or after guide confirmation, inspect existing changes for
+useful public sources, reusable tools or workflow improvements. Offer to prepare
+a pull request for useful changes, or an issue for feedback without a fix.
+Read the workspace's `CONTRIBUTING.md` when preparing a contribution; no separate
+contribution log is needed. Keep the offer separate from the next interview
+question, respect a declined offer, and honour an existing request without
+asking again. Contributing is optional and never blocks the filing guide.
+
+Before sharing, sanity-check the complete contribution: selected files and
+changes, commits to be published, examples, filenames, attachments, and issue or
+pull request text. Exclude all user private details, including names, addresses,
+tax and account identifiers, actual financial figures, records, session content
+and credentials. Use fictional examples created from scratch. Do not rely on
+Git exclusions or a name replacement to make content safe. Remove private
+material from the proposed contribution and recheck; if anything cannot be
+verified safe to share, leave it out. Publish only when submission is requested.
 
 ## Return
 

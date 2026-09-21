@@ -94,3 +94,12 @@ update the repo. Other clients need their own supported installation mechanism.
 - [Data sources](docs/data-sources.md): coverage, known gaps and manual refresh commands.
 - [Walkthrough design](docs/interactive-workflow.md): interview stages and checks.
 - [Privacy guide](docs/privacy.md): provider settings, storage locations and cleanup.
+
+## Contributing
+
+Found missing public guidance, added a useful tool, or spotted a confusing
+interview question? See [the contribution guide](CONTRIBUTING.md) for what to
+include and how to prepare an issue or pull request. The Self Assessment skill
+reviews existing changes at a natural checkpoint and offers to prepare a
+contribution, checking for private details before sharing. Sharing is optional;
+personal records and session files stay private.
