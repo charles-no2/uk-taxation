@@ -26,5 +26,6 @@ __pycache__/
 # Local tax and financial exports
 private/
 exports/
+.venv-bank/
 *.csv
 *.tsv
