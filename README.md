@@ -1,232 +1,61 @@
 # UK taxation and Self Assessment
 
-A workspace for preparing an individual's UK Self Assessment return with an AI
-assistant. It combines a guided interview, saved public tax references and local
-tools for preparing financial records. You review the figures, choose any claims,
-and submit and pay through your filing service yourself.
+Prepare an individual's UK Self Assessment return with an AI assistant. The
+[self-assessment skill](skills/self-assessment/SKILL.md) asks one question at a
+time, saves progress and produces a personalised filing guide for your review.
+**You check the figures, choose claims, submit the return and pay yourself.**
 
-## What this repo does
+The repo includes saved HM Revenue & Customs (HMRC) guidance, legislation and
+forms, plus local tools for converting supported financial documents and fetching
+exchange rates. It is not a standalone filing app or a verified tax calculator;
+company and other entity returns are outside the skill's scope.
 
-- **Guided preparation:** the [self-assessment skill](skills/self-assessment/SKILL.md)
-  asks one main question at a time, identifies relevant records and return
-  sections, proposes entries for your confirmation, and produces a personalised
-  `filing-guide.md` with evidence, sources and outstanding questions.
-- **Save and resume:** progress is saved in a private `session.md`, including
-  confirmed answers, missing information and the next question.
-- **Tax reference library:** local copies of HM Revenue & Customs (HMRC)
-  guidance, UK legislation, forms, notes and helpsheets, with indexes and
-  retrieval records. The initial annual pack covers **2025–26
-  (6 April 2025 to 5 April 2026)**.
-- **Local document tools:** convert supported bank statements, pay-and-tax
-  certificates and benefit forms from PDF documents into CSV (comma-separated
-  values) files. A separate downloader retrieves HMRC monthly exchange rates.
+**As of 21 September 2026:** setup and privacy guidance have been checked. The
+annual pack covers **2025–26 (6 April 2025–5 April 2026)**, downloaded on
+18 September; legislation was fetched on 18 September and public tax explainers
+on 19 September. Other sources have individual retrieval dates. Downloads do not
+establish that rules apply to your circumstances; see [source freshness](docs/privacy.md#source-freshness).
 
-This is a skill and reference workspace, not a standalone filing application or
-a verified tax calculation engine. Downloaded sources still need checking for
-the relevant year and circumstances. The skill covers individual returns;
-company, partnership entity, trustee and executor returns are outside its scope.
-Unresolved figures or treatment remain visible in the guide.
+## Privacy and security — before installation
 
-### As of date and source freshness
+The author does not seek your personal information, and the skill is not designed
+to collect it for the author. **The author cannot guarantee that your AI agent
+will not access, transmit or retain personal data.** Local files can reach the
+provider when an agent reads them. Read your agent's privacy policy and review
+its permissions before use.
 
-**As of 21 September 2026**, the repository has the following saved source
-collections. This README's review date is not a claim that every source was
-downloaded or every tax rule verified that day.
-
-| Material | Recorded date / where to check |
-| --- | --- |
-| Privacy and skill-installation guidance in this README | Checked 21 September 2026 against provider documentation; Codex deletion commands checked against local version 0.155.1. |
-| 2025–26 Self Assessment source pack | Download run finished 18 September 2026; see the [source manifest](docs/self-assessment/manifest.json). |
-| Legislation collection | Downloaded 18 September 2026; see the [fetch record](docs/rules/FETCHED_AT.md), including its supplemental download. |
-| Public tax explainers | Snapshot dated 19 September 2026; see the [snapshot index](docs/tax-explainers/20260919T080223011317Z/INDEX.md). |
-| HMRC manuals | Check each manual's `manifest.json` and individual page retrieval dates, starting from the [guidance index](docs/guidance/INDEX.md). Dates and gaps vary by source. |
-| Exchange-rate exports | Fetched when you run the downloader; each output row records its retrieval time and rate validity dates. See the [exchange-rate guide](docs/exchange-rates.md). |
-
-A retrieval date says when a document was saved, not which tax year its rules
-apply to. Refreshes are manual; follow [Data sources](docs/data-sources.md) and
-update this table when refreshing the collections.
-
-## Privacy and security — read before installation
-
-Tax records can contain names, addresses, account numbers and detailed financial
-history. Configure your assistant before sharing any of them. **A file stored
-locally can still be sent to an AI provider when an assistant reads it or receives
-its contents through a tool.** Running a local editor does not make its AI features
-offline.
-
-### Privacy disclaimer
-
-The repository author does not seek to obtain your personal information. The
-skill is not designed to collect personal information for the author or send it
-to them; it asks for tax-related facts and records only to help prepare your
-return, and saves your progress in your local workspace.
-
-**This does not guarantee that the AI agent running the skill will not request,
-access, transmit or retain personal information.** The author cannot control or
-guarantee the behaviour of your chosen agent, its provider or connected tools.
-Before using this skill, read the privacy policy and data-handling terms of
-each agent and service you enable, including how they use data for training,
-how long they retain it and how you can delete it. Review their permissions
-and privacy settings, and share only information you are comfortable having
-processed under those terms. The skill's instructions are not a privacy or
-security guarantee.
-
-### Turn off use of your data for model training
-
-**As of 21 September 2026**, the linked official documentation describes the
-controls below. Check the account and product you actually use; names and
-policies can change.
-
-| Provider / product | Setting to check |
-| --- | --- |
-| **OpenAI — ChatGPT and personal-plan Codex** | In ChatGPT, open **Settings → Data Controls** and turn off **Improve the model for everyone**. This applies to new ChatGPT conversations and Codex tasks. Also disable any separate permission for training on **full environments** in Codex Settings; the ChatGPT switch does not change that setting. See [OpenAI data controls](https://help.openai.com/en/articles/7730893-data-controls-faq). |
-| **Anthropic — Claude and consumer-plan Claude Code** | Open **Settings → Privacy** and turn off **Help Improve our AI models**. This covers chats and coding sessions on the relevant consumer account. See [Anthropic model improvement settings](https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings). |
-| **xAI — Grok** | On grok.com, open **Settings → Data** and turn off **Improve the Model**; the mobile app uses **Settings → Data Controls**. Grok within X has separate controls: follow [X's Grok guidance](https://help.x.com/en/using-x/about-grok). See [Grok data controls](https://x.ai/legal/faq). |
-| **Cursor** | Enable **Privacy Mode** in Cursor settings. Cursor states that this prevents training on customer data by Cursor and its model providers, subject to documented exceptions for abuse investigations and separately designated models. Requests still pass through Cursor's servers, including when using your own provider key. See [Cursor data use](https://cursor.com/data-use). |
-
-For **OpenAI**, you can also submit a **Do not train on my content** request
-through the [OpenAI Privacy Portal](https://privacy.openai.com/). Complete the
-portal's verification steps and keep any confirmation privately. As of
-**21 September 2026**, OpenAI describes this as an alternative way to opt out:
-the request is reflected in your account's data settings, rather than being an
-additional required opt-out on top of the ChatGPT switch. Check that the setting
-is off on the account you use. Neither route changes the separate Codex
-full-environment training setting, which you must check independently. See
-[OpenAI's explanation](https://help.openai.com/en/articles/7730893-data-controls-faq).
-
-**Opting out of training does not mean no transmission, no storage or immediate
-deletion.** Safety, legal and feedback exceptions can apply; avoid submitting
-sensitive conversations as feedback. Business plans and application programming
-interfaces (APIs) have their own terms—check those separately. An opt-out also
-does not undo training that has already happened. Review the linked policies,
-including [Anthropic's retention guidance](https://privacy.claude.com/en/articles/10023548-how-long-do-you-store-my-data).
-
-### Where personal data should live
-
-Keep original documents in a dedicated folder on an encrypted local drive, outside
-the repository if possible. Use a folder that is not automatically shared or
-synced to a cloud service. Give the assistant access only to the records needed
-for the current task; you can instead supply verified figures without giving it
-the documents. Never provide login passwords, recovery codes or access keys.
-Enter tax identifiers directly in the filing service.
-
-The current skill requires saved sessions under `private/self-assessment/`.
-The other private paths below are conventions used in this repository's examples,
-not required layouts. You can organise source documents and exports elsewhere
-and pass those paths to the tools. If you choose another location inside the
-repository, add appropriate Git exclusions before storing personal data there.
-
-| Location | Contents |
-| --- | --- |
-| `private/self-assessment/<session>/` | Required by the current skill for saved answers in `session.md`, the personalised `filing-guide.md`, calculations and supporting notes. The skill creates a unique dated folder. |
-| `private/pdfs/` | Suggested location for optional working copies of source documents, if you choose to keep them in the workspace. |
-| `private/` | Suggested location for other sensitive working files, including mappings back to original filenames. |
-| `exports/` | Suggested location for converted financial data and reports. Treat these as personal data too. |
-| `docs/`, `skills/`, `scripts/` | Shared reference material and code only; never put taxpayer facts here. |
-
-The repository's [`.gitignore`](.gitignore) excludes `private/`, `exports/`, CSV
-and tab-separated files. This helps prevent accidental commits; it is **not
-encryption or an access restriction**. It cannot protect files already tracked
-by Git or prevent an assistant from reading ignored files. Avoid force-adding
-private files and inspect changes before committing or publishing.
-
-The PDF converters run locally without an external extraction service. For
-sensitive originals, run them yourself in a terminal, then review the output
-before sharing selected figures. The batch converter reduces identifying
-details, but dates, amounts and merchant names can still reveal personal
-information. The older single-file converter preserves transaction descriptions.
-See the [batch conversion guide](docs/tax-pdf-batch-conversion.md).
-
-### Housekeeping: delete a local session and its copies
-
-**As of 21 September 2026**, these are useful places to check for assistant
-data. `~` means your operating-system user's home directory. These are defaults,
-not a complete inventory: versions, custom configuration, remote machines and
-cloud sessions can store data elsewhere.
-
-| Client / location | What to check |
-| --- | --- |
-| `~/.agents/skills/` | Installed skill instructions, including this skill when installed for Codex as below. This is not Codex's conversation store. Removing the skill does not delete conversations. See [Codex skills](https://developers.openai.com/codex/skills/). |
-| Codex: `~/.codex/` | Local state, history, logs and caches. `CODEX_HOME`, an environment variable that selects Codex's data directory, can change this location. `history.jsonl` can contain saved prompt history; session storage details vary by version. Prefer the session deletion command below over deleting individual database files. See [Codex state locations](https://developers.openai.com/codex/config-advanced/). |
-| Claude Code: `~/.claude/` | `projects/<project>/` contains transcripts and `memory/` notes; `history.jsonl` contains prompt history. Also check `file-history/`, `paste-cache/`, `uploads/` and `debug/` for copies. `CLAUDE_CONFIG_DIR` can relocate this directory. The `skills/` folder contains installed instructions, not the conversation history. See [Claude Code application data and cleanup](https://code.claude.com/docs/en/claude-directory#application-data). |
-| Grok Build command-line client: `~/.grok/` | Local session history and configuration. This path applies to Grok Build, not automatically to Grok in a browser, on X or in the mobile app. See [Grok Build data lifecycle](https://docs.x.ai/build/enterprise#data-lifecycle). |
-| Cursor and browser/mobile clients | Use the product's conversation-management controls and check its current documentation for local application data. Do not assume all data lives in a similarly named home-directory folder. For Grok web/mobile deletion, see [Grok data controls](https://x.ai/legal/faq). |
-
-**Do not delete these entire directories as a routine cleanup step.** They can
-also contain credentials, settings, installed skills and unrelated projects.
-Identify the specific project or session first. Deleting a transcript may leave
-prompt history, memories, file snapshots and provider-held copies behind.
-
-First preserve any records you still need in secure storage. Check the applicable
-[HMRC recordkeeping guidance](https://www.gov.uk/self-assessment-tax-returns/keeping-records)
-before discarding evidence needed for your return. Then:
-
-1. **Stop the assistant session** so it cannot recreate files during cleanup.
-2. **Delete the saved tax session.** In your file manager, open
-   `private/self-assessment/`, select the exact dated session folder, and delete
-   it. This removes its saved answers, guide and any other files inside it.
-   Empty the trash when you are sure you no longer need them. Deleting only the
-   guide leaves the personal answers in `session.md`.
-3. **Delete related working copies.** Review your chosen storage locations
-   (such as `private/` and `exports/`), the original
-   input folder and any temporary folders for that session's PDFs, converted
-   tables, filename mappings, screenshots and downloads. Delete only the copies
-   you no longer need; files outside the session folder survive step 2.
-4. **Delete the assistant conversation separately.** Use your client's conversation
-   deletion controls. Clearing the screen, starting a new chat or archiving a
-   conversation is not deletion. Also review saved memories and project notes
-   for copied facts.
-5. **Review other copies.** Check terminal scrollback and saved command history,
-   editor history, clipboard history, cloud sync, backups and shared conversation
-   links. Local deletion does not remove provider-held copies; use the provider's
-   deletion controls or privacy request process too.
-
-For **Codex command-line sessions**, `codex-cli 0.155.1` provides the following
-commands (checked using its local help). Run them from a separate terminal after
-ending the target session:
-
-```sh
-codex delete --help
-codex delete 'YOUR-SESSION-ID'
-```
-
-Replace the placeholder with the exact assistant session ID, not the tax folder
-name. Review the confirmation prompt. If your version does not have `delete`,
-consult that version's session-management documentation; do not blindly remove
-the entire assistant configuration directory. This command deletes a saved
-Codex session; it does not replace the file cleanup above or a provider-side
-deletion request.
-
-Ordinary deletion does not guarantee recovery is impossible, especially where
-backups or drive snapshots exist. Use encrypted storage from the outset and
-manage backup retention deliberately. This repo has no automatic cleanup command.
+- **Disable model training:** OpenAI — turn off *Improve the model for everyone*
+  or request *Do not train on my content* through its Privacy Portal; separately
+  check Codex full-environment training. Anthropic — turn off *Help Improve our
+  AI models*. Grok — turn off *Improve the Model* (X has separate controls).
+  Cursor — enable *Privacy Mode*. These settings do not guarantee no retention.
+  [Settings, exceptions and official links](docs/privacy.md#turn-off-use-of-your-data-for-model-training).
+- **Keep records private:** use encrypted local storage, preferably outside the
+  repo. The skill requires `private/self-assessment/` for saved sessions;
+  `private/pdfs/` and `exports/` are optional conventions. Those example folders
+  are excluded from Git, but that does not restrict agent access. Add exclusions
+  for alternative locations inside the repo. Never share login credentials.
+- **Clean up afterwards:** preserve required tax evidence, then delete unwanted
+  session files, working copies and the agent conversation separately. Check
+  memories, backups and provider-held copies too. Deleting a skill or archiving
+  a chat does not erase the conversation.
+  [Storage paths and deletion steps](docs/privacy.md#housekeeping-delete-a-local-session-and-its-copies).
 
 ## Installation
 
-A **skill** is a folder of instructions and supporting files that an AI assistant
-loads for a task. Install the complete `self-assessment` folder, including its
-`references/` and `assets/`, rather than copying only `SKILL.md`.
-
-### 1. Clone the workspace
-
-You need Git and a local AI assistant that supports skills and can read this
-workspace. The examples below use a macOS or Linux shell.
+You need Git and a local assistant that supports **skills**—folders of task
+instructions and supporting files. These commands use a macOS or Linux shell.
 
 ```sh
 git clone https://github.com/charles-no2/uk-taxation.git
 cd uk-taxation
 ```
 
-Keep the clone: the installed skill needs the repository's `docs/` and scripts.
-Review [the skill instructions](skills/self-assessment/SKILL.md) before enabling it.
+Review [the skill](skills/self-assessment/SKILL.md), then run **one** installation
+below. Both copy its complete folder and skip an existing installation; inspect
+and back up customisations before replacing one.
 
-### 2. Install the skill for your assistant
-
-Run **one** of these from the repository root. If a `self-assessment` installation
-already exists, inspect it and back up any customisations before replacing it.
-The commands below skip copying when that destination already exists.
-
-**Codex — personal installation:**
+**Codex** ([skill locations](https://developers.openai.com/codex/skills/)):
 
 ```sh
 mkdir -p "$HOME/.agents/skills"
@@ -235,10 +64,7 @@ if [ ! -e "$HOME/.agents/skills/self-assessment" ]; then
 fi
 ```
 
-Codex's current documented personal skill location is `~/.agents/skills/`.
-See [Codex skill discovery](https://developers.openai.com/codex/skills/).
-
-**Claude Code — personal installation:**
+**Claude Code** ([skill locations](https://code.claude.com/docs/en/skills)):
 
 ```sh
 mkdir -p "$HOME/.claude/skills"
@@ -247,52 +73,24 @@ if [ ! -e "$HOME/.claude/skills/self-assessment" ]; then
 fi
 ```
 
-See [Claude Code skills](https://code.claude.com/docs/en/skills). For other clients,
-use their documented local skill installation mechanism; privacy guidance above
-does not imply that every listed product supports this workflow.
-
-Open or restart your assistant in the cloned repository and confirm that
-`self-assessment` is available. Installed copies do not update automatically when
-you update the repository; review and replace the copied folder when needed.
-
-### 3. Start or resume
-
-Ask your assistant:
+Keep the clone: the skill needs its reference documents. Open or restart your
+assistant **in this repository**, confirm the skill is available, then ask:
 
 > Use the self-assessment skill to help me prepare my 2025–26 Self Assessment.
 
-The skill asks about your circumstances, confirms relevant sections, gathers
-records and checks entries with you. It saves progress after each answer and
-reports the private session path. To continue later, supply that path:
+Progress is saved after each answer. To resume, provide the saved path:
 
 > Resume my Self Assessment from private/self-assessment/MY-SESSION/session.md.
 
-The final guide records remaining actions; approval of the guide does not mean
-your return has been submitted or your tax paid.
+Installed copies do not update automatically; review and replace them when you
+update the repo. Other clients need their own supported installation mechanism.
 
-### 4. Optional document-conversion setup
+## Tools and reference guides
 
-For the Python tools, use Python 3.10 or newer. Create a separate dependency
-environment for PDF conversion:
-
-```sh
-python3 -m venv .venv-bank
-.venv-bank/bin/python -m pip install -r scripts/bank-pdf-requirements.txt
-```
-
-Follow the [batch conversion guide](docs/tax-pdf-batch-conversion.md) for supported
-layouts and commands. The [exchange-rate downloader](docs/exchange-rates.md)
-uses Python's standard library; its monthly customs reference rates are not
-automatically the appropriate conversion method for every tax entry.
-
-## Reference and maintenance guides
-
+- [PDF conversion](docs/tax-pdf-batch-conversion.md): local extraction, supported
+  layouts, dependency installation and checks. Requires Python 3.10 or newer;
+  review output before sharing—it is not guaranteed anonymous.
+- [Exchange rates](docs/exchange-rates.md): downloader usage and limitations.
+- [Data sources](docs/data-sources.md): coverage, known gaps and manual refresh commands.
 - [Walkthrough design](docs/interactive-workflow.md): interview stages and checks.
-- [Data sources](docs/data-sources.md): source coverage, known gaps and refresh commands.
-- [Annual Self Assessment index](docs/self-assessment/INDEX.md): forms and supporting material.
-- [HMRC guidance](docs/guidance/INDEX.md) and [legislation](docs/rules/INDEX.md): local source indexes.
-- [PDF batch conversion](docs/tax-pdf-batch-conversion.md) and [exchange rates](docs/exchange-rates.md): utility usage, limitations and tests.
-
-Saved publications are snapshots. Check retrieval records and applicable tax
-years, and verify time-sensitive rules against current official sources before
-relying on an entry.
+- [Privacy guide](docs/privacy.md): provider settings, storage locations and cleanup.
