@@ -22,6 +22,7 @@ Page counts include the manual landing page. Status and gap counts come from sav
 | Business equipment, capital expenditure, allowances | [capital-allowances-manual](capital-allowances-manual/INDEX.md) | 697 | complete | 0 / 0 / 0 |
 | Asset disposals, shares, property gains, losses, reliefs | [capital-gains-manual](capital-gains-manual/INDEX.md) | 3147 | completed_with_gaps | 1 / 0 / 0 |
 | Cryptoassets, tokens, trading and disposals | [cryptoassets-manual](cryptoassets-manual/INDEX.md) | 130 | complete | 0 / 0 / 0 |
+| Public guidance on tokens received as income or bought personally | [cryptoasset receipt guidance snapshot](public-guidance/cryptoassets-received/content.html) | 1 | retrieved 19 September 2026 | Direct official page retained after use in an interview |
 | Employment pay, benefits, expenses, share schemes, pension income | [employment-income-manual](employment-income-manual/INDEX.md) | 2843 | complete | 0 / 0 / 0 |
 | Inheritance, gifts, estates; usually outside the personal return | [inheritance-tax-manual](inheritance-tax-manual/INDEX.md) | 3252 | complete | 0 / 0 / 0 |
 | National Insurance contributions, employment status, contribution classes | [national-insurance-manual](national-insurance-manual/INDEX.md) | 1753 | completed_with_gaps | 1 / 0 / 0 |
