@@ -46,7 +46,11 @@ At any step, the user can save, return to an earlier answer, ask for an explanat
 
 ## 1. Identify the user's circumstances and income sources
 
-Display the supplied tax year and exact dates, or the provisional year above, allowing changes immediately. Ask the following behaviour-based questions one at a time, adapting to known facts. Show the complete list only if requested. Explain that an activity alone does not mean tax is due or a return is required.
+Display the supplied tax year and exact dates, or the provisional year above,
+allowing changes immediately; confirm the year before checking prerequisites
+and deadlines. Ask the behaviour-based questions below one at a time, adapting
+to known facts; show the complete list only if requested and explain that an
+activity alone does not mean tax is due or a return is required.
 
 **Opening when employer pay is unknown:** “First I'll check whether any work for an employer needs to be included. From 6 April 2025 to 5 April 2026, did an employer pay you wages, salary, bonuses or other work pay? Yes, no, or I'm not sure.” Use the selected year's dates.
 
@@ -68,6 +72,43 @@ Activities can overlap. Explain relevant categories only as they arise. Company 
 
 For uncertain employment status, ask about the actual working arrangement and identify the evidence needed; do not classify someone solely because they call themselves a contractor.
 
+**Early readiness check:** When an opening or later answer reveals a prerequisite
+that could take time or has an earlier deadline, ask one targeted status question
+before continuing the detailed interview. Limit this check to registration or
+reactivation, filing-service access, digital-reporting setup, and essential records
+or information to obtain from others; ask only about prerequisites supported by
+the user's facts, without showing a generic checklist or requesting the full
+record folder.
+
+Check the [official filing checker](https://www.gov.uk/check-if-you-need-tax-return),
+any notice to file, and applicable year-specific guidance before saying an action
+is required. Give each verified action and official link promptly, with the
+deadline where applicable and verified.
+
+If the required action or deadline cannot be verified, mark the task **needs
+information** and name the missing source check. Record the task's owner and
+pending status, continue independent questions while the task is open, and use
+the saved answers when step 3 completes the filing plan.
+
+For example, when the working arrangement suggests a sole trade, first ask
+whether the user has registered for Self Assessment as self-employed. If not,
+check whether registration is needed for the selected year and give the verified
+next step through the [official registration route](https://www.gov.uk/register-for-self-assessment);
+if the user is unsure whether they registered, record **needs information**
+and the check needed to establish registration status.
+
+Ask about access to the intended filing service in a separate turn. If registered
+but unable to sign in, give the service's verified official access-recovery route;
+if access is uncertain, record **needs information** and ask the user to check
+access directly, then continue independent questions while access is unresolved.
+
+If registration is confirmed, check whether reactivation is needed before
+recommending that action. If the Unique Taxpayer Reference (UTR), the taxpayer's
+reference number, is awaited or cannot be found, record that status and use the
+[official registration route](https://www.gov.uk/register-for-self-assessment) or
+[HMRC's UTR lookup guidance](https://www.gov.uk/find-utr-number) respectively to
+verify the next step; do not ask the user to provide the number.
+
 **Show:** “You had two jobs and one freelance business. We will check employment and self-employment, then check whether other sections apply.”
 
 **Clear when:** the user confirms the initial profile, with any uncertain classifications recorded for resolution.
@@ -86,7 +127,10 @@ Then ask whether the user lived in the UK throughout that year, moved into or ou
 
 ## 3. Check whether to file, how to file and when
 
-**Ask:** Has HMRC issued a notice to file? Have you filed before? Are you registered and able to access your intended filing service? What is the reason for filing?
+**Ask:** Establish whether HMRC issued a notice to file, previous filing,
+registration, access to the intended filing service, and the reason for filing.
+Ask each question separately and skip answers already recorded in the early
+readiness check.
 
 Use the [official filing checker](https://www.gov.uk/check-if-you-need-tax-return) and year-specific rules. Being an employee, director or sole trader is an initial routing answer, not a complete filing-obligation decision. If HMRC has asked for a return, do not tell the user to ignore it based on a simplified income check; direct any request to withdraw the requirement to HMRC. See the [official overview](https://www.gov.uk/self-assessment-tax-returns).
 

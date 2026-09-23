@@ -67,14 +67,20 @@ cover other activities and an opportunity to mention anything missed. Do not
 show an all-at-once income checklist unless requested. Explain that an activity
 alone does not establish tax due or a requirement to file.
 
+Confirm the tax year and exact dates before checking setup requirements.
+Use workflow step 1's early readiness check only for prerequisites revealed by
+the user's answers: registration or reactivation, filing access, digital-reporting
+setup, and records or information that may take time to obtain.
+
 Record each separate job, trade and other income source under a stable name,
 such as Job A. Clarify contractor status from working arrangements; distinguish
 company receipts from personal income and partnership income from its own return.
 
-Confirm the initial profile, then establish the year and exact dates, original
-return or amendment, individual return ownership, UK residence and relevant
-regional moves using workflow step 2. Do not infer residence from nationality
-or address; mark unresolved residence treatment needs specialist review.
+Confirm the initial profile, then establish any year details not settled during
+the early readiness check, original return or amendment, individual return
+ownership, UK residence and relevant regional moves using workflow step 2.
+Do not infer residence from nationality or address; mark unresolved residence
+treatment needs specialist review.
 
 For an entity return, explain the scope mismatch and return the appropriate
 official next route. For another year, verify that year's sources before using
@@ -83,7 +89,8 @@ its rules; never relabel the 2025–26 pack.
 ## 3. Filing plan
 
 Establish the notice-to-file position, reason for filing, previous filing,
-registration and access using workflow step 3. Check the official filing
+registration and access using workflow step 3, using early readiness answers
+rather than asking them again. Check the official filing
 checker and record its result and reason; a role label does not decide liability
 to file, and an existing notice requires resolution with HMRC.
 

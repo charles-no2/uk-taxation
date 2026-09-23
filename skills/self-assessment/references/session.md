@@ -8,7 +8,9 @@ and tables; store enough evidence to resume without replaying the interview.
 - Session name, created/updated dates and current stage.
 - Tax year and exact dates; provisional or confirmed year.
 - Individual return ownership, original/amendment status and residence facts.
-- Filing result and reason, selected service/route, registration/access tasks.
+- Filing result and reason, selected service/route, and early readiness questions and answers.
+- For each prerequisite, record the applicable year, official source, owner, next action and pending or resolved status; include the official deadline where applicable and verified. Record unverified actions or deadlines as unknown, with **needs information** and the required source check.
+- Record whether a Unique Taxpayer Reference (UTR), the taxpayer's reference number, is awaited or cannot be found; never record its value.
 - Verified deadlines and separately assessed digital-reporting obligations.
 - Next question, last stage summary and the user's confirmation or correction.
 
